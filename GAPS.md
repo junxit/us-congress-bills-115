@@ -10,6 +10,14 @@ thins out before the 111th, and House organising resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
+## By measure type
+
+| Type | Without text |
+|---|---|
+| `hr` | 10 |
+
+## Every measure
+
 | Measure | Title |
 |---|---|
 | `H.R. 5293` | To make technical amendments to update statutory references to certain provisions that were formerly classified to title 50, Appendix, United States Code. |
