@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 120
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 120
+
+> To reduce the amount of foreign assistance to Mexico, Guatemala, Honduras, and El Salvador based on the number of unaccompanied alien children who are nationals or citizens of such countries and who in the preceding fiscal year are placed in Federal custody by reason of their immigration status.
+
+## § 1. Short title
+
+This Act may be cited as the “Unaccompanied Alien Children Assistance Control Act”.
+
+## § 2. Reduction of amount of foreign assistance to Mexico, Guatemala, Honduras, and El Salvador
+
+- **(a)** *In general* The President shall reduce from amounts made available under the Foreign Assistance Act of 1961 or any other Act and allocated for a covered country for a fiscal year an amount equal to—
+  - **(1)** the number of unaccompanied alien children who—
+    - **(A)** are nationals or citizens of the covered country, and
+    - **(B)** in the preceding fiscal year are placed in Federal custody by reason of their immigration status, multiplied by
+  - **(2)** $15,000.
+- **(b)** *Definitions* In this section—
+  - **(1)** the term covered country means Mexico, Guatemala, Honduras, or El Salvador; and
+  - **(2)** the term unaccompanied alien child has the meaning given the term in section 462(g)(2) of the Homeland Security Act of 2002 (6 U.S.C. 279(g)(2)).
+- **(c)** *Effective date* This Act takes effect on the date of the enactment of this Act and applies with respect to amounts made available under the Foreign Assistance Act of 1961 or any other Act for fiscal year 2017 and each subsequent fiscal year.
