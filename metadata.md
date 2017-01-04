@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 3
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 3
@@ -25,3 +25,9 @@ Approving the location of a memorial to commemorate and honor the members of the
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Natural Resources.
+- 2017-01-04 — Considered under suspension of the rules. (consideration: CR H62-63)
+- 2017-01-04 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 3.
+- 2017-01-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-04 — Mr. McClintock moved to suspend the rules and pass the resolution.
+- 2017-01-04 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H62)
+- 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H62)
