@@ -104,7 +104,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(7)** The responsibilities of the officer or employee of the Federal Government designated under section 10(e).
   >   - **(8)** The estimated number and frequency of committee meetings.
   >   - **(9)** The period of time necessary for the committee to carry out its purposes.
-  >   - **(10)** The committee’s termination date, if less than two years from the date of the committee’s establishment.
+  >   - **(10)** The committee’s termination date, if less than 2 years from the date of the committee’s establishment.
   >   - **(11)** The estimated number of members and a description of the expertise needed to carry out the objectives of the committee.
   >   - **(12)** A description of whether the committee will be composed of special Government employees, representatives, or members from both categories.
   >   - **(13)** Whether the agency intends to create subcommittees and if so, the agency official authorized to exercise such authority.
@@ -130,8 +130,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Review* The Comptroller General of the United States shall review compliance by agencies with the Federal Advisory Committee Act, as amended by this Act, including whether agencies are appropriately appointing advisory committee members as either special Government employees or representatives.
 - **(b)** *Report* The Comptroller General shall submit to the committees described in subsection (c) two reports on the results of the review, as follows:
-  - **(1)** The first report shall be submitted not later than one year after the date of promulgation of regulations under section 7(c) of the Federal Advisory Committee Act (5 U.S.C. App.), as amended by section 2(c).
-  - **(2)** The second report shall be submitted not later than five years after such date of promulgation of regulations.
+  - **(1)** The first report shall be submitted not later than 1 year after the date of promulgation of regulations under section 7(c) of the Federal Advisory Committee Act (5 U.S.C. App.), as amended by section 2(c).
+  - **(2)** The second report shall be submitted not later than 5 years after such date of promulgation of regulations.
 - **(c)** *Committees* The committees described in this subsection are the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 ## § 7. Application of Federal Advisory Committee Act to Trade Advisory Committees
