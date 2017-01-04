@@ -1,7 +1,7 @@
 ---
 measure: H.R. 69
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 69
@@ -31,3 +31,9 @@ Thoroughly Investigating Retaliation Against Whistleblowers Act
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-01-04 — Considered under suspension of the rules. (consideration: CR H71-74)
+- 2017-01-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 69.
+- 2017-01-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-04 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2017-01-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H72-73)
+- 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H72-73)
