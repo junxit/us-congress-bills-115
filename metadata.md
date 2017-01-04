@@ -1,7 +1,7 @@
 ---
 measure: H.R. 71
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 71
@@ -16,7 +16,7 @@ Taxpayers Right-To-Know Act
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Cosponsors (23)
+## Cosponsors (24)
 
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
@@ -41,6 +41,7 @@ Taxpayers Right-To-Know Act
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
 ## Committees (1)
 
@@ -51,3 +52,9 @@ Taxpayers Right-To-Know Act
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-01-04 — Considered under suspension of the rules. (consideration: CR H63-65)
+- 2017-01-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 71.
+- 2017-01-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-04 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2017-01-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H63-64)
+- 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H63-64)
