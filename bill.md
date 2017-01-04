@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 280
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 280
+
+> To amend the Workforce Innovation and Opportunity Act to ensure dislocated workers are provided consultation and advice for starting a small business as part the rapid response activities for dislocated workers.
+
+## § 1. Short title
+
+This Act may be cited as the “Helping Individuals with Reemployment and Entrepreneurial Development Act” or the “HIRED Act”.
+
+## § 2. Small business startup consultation and outreach for dislocated workers
+
+Section 3(51) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(51)) is amended—
+
+- **(1)** in subparagraph (B), by inserting “, which may include training and activities related to entrepreneurship” before the semicolon;
+- **(2)** in subparagraph (D), by striking “and”;
+- **(3)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
+- **(4)** by adding at the end the following:
+  > - **(F)** assistance to dislocated workers through increased outreach about small business opportunities and consultation about starting a small business.
+
+## § 3. Funding for small business consultation after a plant closing or mass layoff
+
+Section 134(a)(2)(A) of such Act is amended by adding at the end the following:
+
+> - **(iii)** *Permissible funding after a plant closure or mass layoff* In the case of a permanent closure of or mass layoff at a plant, facility, or enterprise, or a natural or other disaster, that results in mass job dislocation, in order to assist dislocated workers in obtaining reemployment, a State may allocate up to 10 percent of the funds reserved under section 133(a)(2) to provide outreach about small business opportunities and consultation about starting a small business.
