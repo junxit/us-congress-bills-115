@@ -1,7 +1,7 @@
 ---
 measure: H.R. 28
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 28
@@ -16,9 +16,10 @@ Biological Implant Tracking and Veteran Safety Act of 2017
 
 - Rep. Roe, David P. [R-TN-1] (R000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Biological Implant Tracking and Veteran Safety Act of 2017
 - 2017-01-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H31-32)
 - 2017-01-03 — Referred to the House Committee on Veterans' Affairs.
 - 2017-01-03 — Referred to the Subcommittee on Health.
+- 2017-01-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
