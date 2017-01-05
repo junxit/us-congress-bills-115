@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 21
@@ -33,10 +33,11 @@ Midnight Rules Relief Act of 2017
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Rules Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Midnight Rules Relief Act of 2017
 - 2017-01-04 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-01-04 — The previous question was ordered pursuant to the rule.
 - 2017-01-04 — The rule provides for one hour of debate and one motion to recommit.
+- 2017-01-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
