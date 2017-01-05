@@ -1,7 +1,7 @@
 ---
 measure: H.R. 72
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 72
@@ -16,9 +16,10 @@ GAO Access and Oversight Act of 2017
 
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ GAO Access and Oversight Act of 2017
 - 2017-01-04 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2017-01-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H70)
 - 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H70)
+- 2017-01-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
