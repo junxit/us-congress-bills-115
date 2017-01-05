@@ -2,7 +2,7 @@
 legis-num: H. RES. 11
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 11
@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas UNSCR 2334 did not directly call upon Palestinian leadership to fulfill their obligations toward negotiations or mention that part of the eventual Palestinian state is currently controlled by Hamas, a designated terrorist organization; and
 - Whereas United Nations Security Council Resolution 2334 both sought to impose or unduly influence solutions to final status issues, and is biased against Israel: Now, therefore, be it
 
-That —
+That—
 
 - **(1)** it is the sense of the House of Representatives that—
   - **(A)** the passage of United Nations Security Council Resolution 2334 undermined the long-standing position of the United States to oppose and veto United Nations Security Council resolutions that seek to impose solutions to final status issues, or are one-sided and anti-Israel, reversing decades of bipartisan agreement;

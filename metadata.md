@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 11
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 11
@@ -16,7 +16,7 @@ Objecting to United Nations Security Council Resolution 2334 as an obstacle to I
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (52)
+## Cosponsors (134)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -70,6 +70,88 @@ Objecting to United Nations Security Council Resolution 2334 as an obstacle to I
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Holding, George [R-NC-2] (H001065)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Faso, John J. [R-NY-19] (F000464)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Taylor, Scott [R-VA-2] (T000477)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
 
 ## Committees (1)
 
@@ -80,3 +162,12 @@ Objecting to United Nations Security Council Resolution 2334 as an obstacle to I
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Foreign Affairs.
+- 2017-01-04 — Rules Committee Resolution H. Res. 22 Reported to House. Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions.
+- 2017-01-05 — Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions.
+- 2017-01-05 — Considered under the provisions of rule H. Res. 22. (consideration: CR H146-165)
+- 2017-01-05 — DEBATE - The House proceeded with one hour of debate on H. Res. 11.
+- 2017-01-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-05 — On agreeing to the resolution Agreed to by the Yeas and Nays: 342 - 80, 4 Present (Roll no. 11). (text: CR H146-147)
+- 2017-01-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 342 - 80, 4 Present (Roll no. 11).(text: CR H146-147)
+- 2017-01-05 — Rule H. Res. 22 passed House.
+- 2017-01-05 — The previous question was ordered pursuant to the rule.
