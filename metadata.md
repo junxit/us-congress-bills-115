@@ -1,7 +1,7 @@
 ---
 measure: H.R. 71
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 71
@@ -43,9 +43,10 @@ Taxpayers Right-To-Know Act
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Taxpayers Right-To-Know Act
 - 2017-01-04 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2017-01-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H63-64)
 - 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H63-64)
+- 2017-01-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
