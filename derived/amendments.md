@@ -1,7 +1,7 @@
 ---
 measure: H.R. 70
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
