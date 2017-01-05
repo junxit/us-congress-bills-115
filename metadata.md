@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 26
@@ -16,11 +16,168 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 
 - Rep. Collins, Doug [R-GA-9] (C001093)
 
-## Cosponsors (3)
+## Cosponsors (160)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Holding, George [R-NC-2] (H001065)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
 
 ## Committees (3)
 
@@ -37,3 +194,128 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 - 2017-01-03 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-03 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-03 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2017-01-04 — Rules Committee Resolution H. Res. 22 Reported to House. Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions.
+- 2017-01-05 — Amendment (A001) offered by Mr. Goodlatte. (consideration: CR H134-135; text: CR H134)
+- 2017-01-05 — Amendment (A002) offered by Mr. Messer. (consideration: CR H135-136, H165-166; text: CR H135)
+- 2017-01-05 — Amendment (A003) offered by Mr. Grijalva. (consideration: CR H136-137, H166; text: CR H136)
+- 2017-01-05 — Amendment (A004) offered by Ms. Castor (FL). (consideration: CR H137-138, H166-167; text: CR H137)
+- 2017-01-05 — Amendment (A005) offered by Mr. Cicilline. (consideration: CR H138-139, H167-168; text: CR H138)
+- 2017-01-05 — Amendment (A006) offered by Mr. Conyers. (consideration: CR H139-140 H168; text: CR H139)
+- 2017-01-05 — Amendment (A007) offered by Mr. Johnson (GA). (consideration: CR H140, H168-169; text: CR H140)
+- 2017-01-05 — Amendment (A008) offered by Mr. Johnson (GA). (consideration: CR H140, H168-169; text: CR H140)
+- 2017-01-05 — Amendment (A009) offered by Mr. Nadler. (consideration: CR H141-142, H169-170; text: CR H141)
+- 2017-01-05 — Amendment (A010) offered by Mr. McNerney. (consideration: CR H142-143, H170; text: CR H142)
+- 2017-01-05 — Amendment (A011) offered by Mr. Scott (VA). (consideration: CR H143-144, H170-171; text: CR H143)
+- 2017-01-05 — Amendment (A012) offered by Mr. King (IA). (consideration: CR H144-146, H171-172; text: CR H144-145)
+- 2017-01-05 — Amendment agreed to Committee of the Whole
+- 2017-01-05 — Amendment agreed to Committee of the Whole
+- 2017-01-05 — Amendment agreed to Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Amendment failed in Committee of the Whole
+- 2017-01-05 — Both H. Res. 11 and H.R. 26 shall be considered as read, and the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit on H.R. 26 with or without instructions.
+- 2017-01-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 26 as unfinished business.
+- 2017-01-05 — Considered as unfinished business. (consideration: CR H165-174)
+- 2017-01-05 — Considered under the provisions of rule H. Res. 22. (consideration: CR H124-146; text of measure as introduced: CR H132-134)
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 4.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 5.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment No. 6.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 1.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 3.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 7.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 8.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 12.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment No. 10.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Messer amendment No. 2.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment No. 9.
+- 2017-01-05 — DEBATE - Pursuant to the provisions of H. Res. 22, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment No. 11.
+- 2017-01-05 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill that prohibits an insurance issuer from eliminating, weakening, or reducing health coverage benefits for dependents under the age of 26.
+- 2017-01-05 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 26.
+- 2017-01-05 — House amendment agreed to: On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2017-01-05 — House amendment agreed to: On agreeing to the King (IA) amendment (A012) Agreed to by recorded vote: 230 - 193 (Roll no. 21).
+- 2017-01-05 — House amendment agreed to: On agreeing to the Messer amendment (A002) Agreed to by recorded vote: 235 - 185 (Roll no. 12).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Castor (FL) amendment (A004) Failed by recorded vote: 190 - 233 (Roll no. 14).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Cicilline amendment (A005) Failed by recorded vote: 186 - 232 (Roll no. 15).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Conyers amendment (A006) Failed by recorded vote: 192 - 231 (Roll no. 16).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Grijalva amendment (A003) Failed by recorded vote: 193 - 230 (Roll no. 13).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A007) Failed by recorded vote: 190 - 234 (Roll no. 17).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A008) Failed by voice vote.
+- 2017-01-05 — House amendment not agreed to: On agreeing to the McNerney amendment (A010) Failed by recorded vote: 190 - 235 (Roll no. 19).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Nadler amendment (A009) Failed by recorded vote: 194 - 231 (Roll no. 18).
+- 2017-01-05 — House amendment not agreed to: On agreeing to the Scott (VA) amendment (A011) Failed by recorded vote: 193 - 232 (Roll no. 20).
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered
+- 2017-01-05 — House amendment offered/reported by : Amendment (A001) offered by Mr. Goodlatte.(consideration: CR H134-135; text: CR H134)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A002) offered by Mr. Messer.(consideration: CR H135-136, H165-166; text: CR H135)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A003) offered by Mr. Grijalva.(consideration: CR H136-137, H166; text: CR H136)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A004) offered by Ms. Castor (FL).(consideration: CR H137-138, H166-167; text: CR H137)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cicilline.(consideration: CR H138-139, H167-168; text: CR H138)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A006) offered by Mr. Conyers.(consideration: CR H139-140 H168; text: CR H139)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A007) offered by Mr. Johnson (GA).(consideration: CR H140, H168-169; text: CR H140)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A008) offered by Mr. Johnson (GA).(consideration: CR H140, H168-169; text: CR H140)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A009) offered by Mr. Nadler.(consideration: CR H141-142, H169-170; text: CR H141)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A010) offered by Mr. McNerney.(consideration: CR H142-143, H170; text: CR H142)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A011) offered by Mr. Scott (VA).(consideration: CR H143-144, H170-171; text: CR H143)
+- 2017-01-05 — House amendment offered/reported by : Amendment (A012) offered by Mr. King (IA).(consideration: CR H144-146, H171-172; text: CR H144-145)
+- 2017-01-05 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 22 and Rule XVIII.
+- 2017-01-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-05 — Mr. Marino moved that the committee rise.
+- 2017-01-05 — Mrs. Murphy (FL) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H172)
+- 2017-01-05 — On agreeing to the Castor (FL) amendment (A004) Failed by recorded vote: 190 - 233 (Roll no. 14).
+- 2017-01-05 — On agreeing to the Cicilline amendment (A005) Failed by recorded vote: 186 - 232 (Roll no. 15).
+- 2017-01-05 — On agreeing to the Conyers amendment (A006) Failed by recorded vote: 192 - 231 (Roll no. 16).
+- 2017-01-05 — On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2017-01-05 — On agreeing to the Grijalva amendment (A003) Failed by recorded vote: 193 - 230 (Roll no. 13).
+- 2017-01-05 — On agreeing to the Johnson (GA) amendment (A007) Failed by recorded vote: 190 - 234 (Roll no. 17).
+- 2017-01-05 — On agreeing to the Johnson (GA) amendment (A008) Failed by voice vote.
+- 2017-01-05 — On agreeing to the King (IA) amendment (A012) Agreed to by recorded vote: 230 - 193 (Roll no. 21).
+- 2017-01-05 — On agreeing to the McNerney amendment (A010) Failed by recorded vote: 190 - 235 (Roll no. 19).
+- 2017-01-05 — On agreeing to the Messer amendment (A002) Agreed to by recorded vote: 235 - 185 (Roll no. 12).
+- 2017-01-05 — On agreeing to the Nadler amendment (A009) Failed by recorded vote: 194 - 231 (Roll no. 18).
+- 2017-01-05 — On agreeing to the Scott (VA) amendment (A011) Failed by recorded vote: 193 - 232 (Roll no. 20).
+- 2017-01-05 — On motion that the committee rise Agreed to by voice vote.
+- 2017-01-05 — On motion to recommit with instructions Failed by recorded vote: 190 - 235 (Roll no. 22).
+- 2017-01-05 — On passage Passed by recorded vote: 237 - 187 (Roll no. 23).
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Marino demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cicilline demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McNerney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Messer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-01-05 — Passed/agreed to in House: On passage Passed by recorded vote: 237 - 187 (Roll no. 23).
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — Roll call votes on amendments in House
+- 2017-01-05 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-01-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-01-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 26.
+- 2017-01-05 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2017-01-05 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-01-05 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
