@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 26
@@ -179,11 +179,12 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Budget Committee
 - House — Rules Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (12)
 
@@ -334,3 +335,4 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 - 2017-01-05 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
 - 2017-01-05 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-01-05 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
+- 2017-01-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
