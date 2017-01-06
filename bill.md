@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 355
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 355
+
+> To provide for a 2-year delay in the effective date of a rule of the Department of Labor relating to the “Definition of the Term “Fiduciary”; Conflict of Interest Rule-Retirement Investment Advice”.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting American Families’ Retirement Advice Act” .
+
+## § 2. Effective date of rule
+
+Notwithstanding the effective date set forth in the rule submitted by the Department of Labor relating the “Definition of the Term “Fiduciary”; Conflict of Interest Rule-Retirement Investment Advice” (published at 81 Fed. Reg. 20946 (April 8, 2016)), such rule shall not take effect until the date that is 2 years after the date of enactment of this Act.
