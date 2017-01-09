@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 385
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 385
+
+> To amend the Expedited Funds Availability Act to clarify the application of that Act to American Samoa and the Northern Mariana Islands.
+
+## § 1. Application of the Expedited Funds Availability Act
+
+- **(a)** *In general* The Expedited Funds Availability Act (12 U.S.C. 4001 et seq.) is amended—
+  - **(1)** in section 602(20) (12 U.S.C. 4001(20)) by inserting “, located in the United States,” after “ATM”;
+  - **(2)** in section 602(21) (12 U.S.C. 4001(21)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”;
+  - **(3)** in section 602(23) (12 U.S.C. 4001(23)) by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; and
+  - **(4)** in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”.
+- **(b)** *Effective date* The amendments made by this Act shall take effect as if enacted on January 1, 2017.
