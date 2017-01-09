@@ -1,0 +1,34 @@
+---
+measure: H.R. 374
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 374
+
+To remove the sunset provision of section 203 of Public Law 105-384, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+
+## Cosponsors (4)
+
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+
+## Committees (1)
+
+- House — Natural Resources Committee
+
+## Actions
+
+- 2017-01-09 — Introduced in House
+- 2017-01-09 — Introduced in House
+- 2017-01-09 — Referred to the House Committee on Natural Resources.
