@@ -46,7 +46,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >     - **(F)** National experts in the duties listed under subsection (c).
 >     - **(G)** Health care providers furnishing services to a patient population that consists of a high percentage (as specified by the Secretary) of individuals who are enrolled in a State plan under title XIX of the Social Security Act or who are not covered under a health plan or health insurance coverage.
 >   - **(3)** *Chairperson* The voting members of the Commission shall select a chairperson from the members appointed under paragraph (2) from the category under paragraph (2)(A).
->   - **(4)** *Meetings* The Commission shall meet at least twice, and not more than 4 times, a year.
+>   - **(4)** *Meetings* The Commission shall meet at least twice, and not more than four times, a year.
 >   - **(5)** *Board terms* Members of the Commission appointed pursuant to subparagraph (B) or (C) of paragraph (1), including the chairperson, shall serve for a 3-year term. A vacancy on the Commission shall be filled in the same manner as the original appointments.
 > - **(c)** *Duties* The Commission shall—
 >   - **(1)** evaluate programs of the Department of Health and Human Services regarding the utilization of diabetes screening benefits, annual wellness visits, and other preventive health benefits that may reduce the incidence of the diseases and complications de scribed in subsection (a), including identifying problems regarding such utilization and related data collection mechanisms and make recommendations;
