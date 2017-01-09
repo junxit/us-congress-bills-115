@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 302
@@ -16,7 +16,7 @@ FAA Reauthorization Act of 2018
 
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Cosponsors (31)
+## Cosponsors (39)
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
@@ -49,6 +49,14 @@ FAA Reauthorization Act of 2018
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. McSally, Martha [R-AZ-2] (M001197)
 
 ## Committees (1)
 
@@ -59,3 +67,9 @@ FAA Reauthorization Act of 2018
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Referred to the House Committee on Energy and Commerce.
+- 2017-01-09 — Considered under suspension of the rules. (consideration: CR H204-206)
+- 2017-01-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 302.
+- 2017-01-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-09 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H204)
+- 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H204)
