@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 370
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 370
+
+> To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.
+
+## § 1. Repeal of PPACA and health care-related provisions in the Health Care and Education Reconciliation Act of 2010
+
+- **(a)** *PPACA* Effective January 1, 2020, the Patient Protection and Affordable Care Act (Public Law 111–148) is repealed, and the provisions of law amended or repealed by such Act are restored or revived as if such Act had not been enacted.
+- **(b)** *Health care-Related provisions in the Health Care and Education Reconciliation Act of 2010* Effective January 1, 2020, title I and subtitle B of title II of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152) are repealed, and the provisions of law amended or repealed by such title or subtitle, respectively, are restored or revived as if such title and subtitle had not been enacted.
+
+## § 2. Budgetary effects
+
+The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
