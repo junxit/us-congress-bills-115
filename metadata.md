@@ -1,7 +1,7 @@
 ---
 measure: H.R. 353
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 353
@@ -40,3 +40,4 @@ Weather Research and Forecasting Innovation Act of 2017
 - 2017-01-09 — Mr. Lucas moved to suspend the rules and pass the bill.
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H208-214)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H208-214)
+- 2017-01-10 — Received in the Senate, read twice.
