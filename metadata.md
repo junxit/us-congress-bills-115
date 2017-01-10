@@ -1,7 +1,7 @@
 ---
 measure: H.R. 321
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 321
@@ -16,7 +16,7 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Cosponsors (43)
+## Cosponsors (68)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -61,6 +61,31 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Taylor, Scott [R-VA-2] (T000477)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
 
 ## Committees (1)
 
@@ -71,3 +96,9 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-01-10 — Considered under suspension of the rules. (consideration: CR H270-273)
+- 2017-01-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 321.
+- 2017-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-10 — Mrs. Comstock moved to suspend the rules and pass the bill.
+- 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H270)
+- 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H270)
