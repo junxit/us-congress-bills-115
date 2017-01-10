@@ -39,7 +39,7 @@ This Act may be cited as the “Support for Rapid Innovation Act of 2017”.
     >   - **(3)** *Incident* The term “incident” has the meaning given such term in section 227.
     >   - **(4)** *Information system* The term “information system” has the meaning given such term in section 3502(8) of title 44, United States Code.
 
-  - **(2)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to the second section 319 the following new item:
+  - **(2)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to second section 319 the following new item:
 - **(b)** *Research and development projects* Section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in the matter preceding paragraph (1), by striking “2016” and inserting “2021”;
@@ -55,4 +55,4 @@ This Act may be cited as the “Support for Rapid Innovation Act of 2017”.
   - **(3)** by adding at the end the following new subsection:
     > - **(e)** *Training* The Secretary shall develop a training program for acquisitions staff on the utilization of the authority provided under subsection (a).
 
-- **(c)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act.
+- **(c)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
