@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 306
@@ -29,3 +29,9 @@ Energy Efficient Government Technology Act
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Referred to the House Committee on Energy and Commerce.
+- 2017-01-10 — Considered under suspension of the rules. (consideration: CR H266-268)
+- 2017-01-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 306.
+- 2017-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-10 — Mr. Olson moved to suspend the rules and pass the bill.
+- 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H266-267)
+- 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H266-267)
