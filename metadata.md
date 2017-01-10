@@ -1,7 +1,7 @@
 ---
 measure: H.R. 309
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 309
@@ -45,9 +45,10 @@ National Clinical Care Commission Act
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ National Clinical Care Commission Act
 - 2017-01-09 — Mr. Burgess moved to suspend the rules and pass the bill.
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H201-202)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H201-202)
+- 2017-01-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
