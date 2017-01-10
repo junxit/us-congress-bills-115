@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 302
@@ -58,9 +58,10 @@ FAA Reauthorization Act of 2018
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ FAA Reauthorization Act of 2018
 - 2017-01-09 — Mr. Burgess moved to suspend the rules and pass the bill.
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H204)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H204)
+- 2017-01-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
