@@ -1,7 +1,7 @@
 ---
 measure: H.R. 79
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 79
@@ -34,9 +34,10 @@ HALOS Act
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ HALOS Act
 - 2017-01-10 — The Speaker designated the Honorable Mike Bost to act as Chairman of the Committee.
 - 2017-01-10 — The previous question was ordered pursuant to the rule.
 - 2017-01-10 — The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79.
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
