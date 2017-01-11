@@ -1,7 +1,7 @@
 ---
 measure: H.R. 321
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 321
@@ -87,9 +87,10 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -102,3 +103,4 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - 2017-01-10 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H270)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H270)
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
