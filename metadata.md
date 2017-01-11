@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 306
@@ -20,9 +20,10 @@ Energy Efficient Government Technology Act
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Energy Efficient Government Technology Act
 - 2017-01-10 — Mr. Olson moved to suspend the rules and pass the bill.
 - 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H266-267)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H266-267)
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
