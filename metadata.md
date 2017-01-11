@@ -1,7 +1,7 @@
 ---
 measure: H.R. 288
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 288
@@ -22,9 +22,10 @@ Small Business Broadband Deployment Act
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 - Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Small Business Broadband Deployment Act
 - 2017-01-10 — Mrs. Blackburn moved to suspend the rules and pass the bill.
 - 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H268)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H268)
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
