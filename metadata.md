@@ -1,7 +1,7 @@
 ---
 measure: H.R. 274
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 274
@@ -29,9 +29,10 @@ Modernizing Government Travel Act
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Modernizing Government Travel Act
 - 2017-01-10 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2017-01-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H279)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H279)
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
