@@ -17,5 +17,5 @@ This Act may be cited as the “Tested Ability to Leverage Exceptional National 
 
 - **(a)** *In general* Chapter 31 of title 5, United States Code, is amended by adding at the end the following:
 - **(b)** *Clerical amendment* The table of sections for chapter 31 of title 5, United States Code, is amended by adding at the end the following:
-- **(c)** *Transition* The Presidential Innovation Fellows Program established pursuant to Executive Order 13704 (5 U.S.C. 3301 note) as in existence on the day before the date of enactment of this Act shall be considered the Presidential Innovation Fellows Program described in the amendments made by this Act.
+- **(c)** *Transition* The Presidential Innovation Fellows Program established pursuant to Executive Order No. 13704 (5 U.S.C. 3301 note) as in existence on the day before the date of enactment of this Act shall be considered the Presidential Innovation Fellows Program described in the amendments made by this Act.
 - **(d)** *No additional funds authorized* No additional funds are authorized to be appropriated to carry out this Act or the amendments made by this Act. This Act and the amendments made by this Act shall be carried out using amounts otherwise authorized.
