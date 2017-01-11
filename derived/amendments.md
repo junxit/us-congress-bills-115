@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-98 amendatory instructions. 2 executed, 96 stated and not applied.
+99 amendatory instructions. 2 executed, 97 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking the period at the end, and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “decide all relevant questions of law, interpret constitutional and statutory provisions, and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “of the terms of an agency action” the following “and decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions, and rules made by agencies. Notwithstanding a… | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “of the terms of an agency action” the following “and decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions, and rules made by agencies. If the reviewing … | the bill names no machine-readable US Code section |
 | — | replace | by striking “The reviewing court shall—” and inserting the following: | the bill names no machine-readable US Code section |
 | `25 U.S.C. § 450b` | amend | Paragraph (2) of section 601 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450b` | add-at-end | Section 601 of title 5, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -96,8 +96,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | Paragraph (2) of section 604(a) of title 5, United States Code, is amended by inserting “(or certification of the proposed rule under section 605(b))” after “initial regulatory flexibility analysis”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 604 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (a) of section 605 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “detailed” before “statement” the first place it appears; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and legal” after “factual”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “detailed” before “statement” the first place it appears; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and legal” after “factual”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “The detailed statement shall include an economic assessment or a summary thereof that is sufficiently detailed to support the agency’s certification.” before “The agency shall provide such certification”. | the bill names no machine-readable US Code section |
 | — | amend | Section 607 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 608 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 611(a)(1) of such title is amended by striking “608(b),”. | the bill names no machine-readable US Code section |
