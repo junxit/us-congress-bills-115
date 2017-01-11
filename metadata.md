@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 255
@@ -63,9 +63,10 @@ Promoting Women in Entrepreneurship Act
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Promoting Women in Entrepreneurship Act
 - 2017-01-10 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2017-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H273)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H273)
+- 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
