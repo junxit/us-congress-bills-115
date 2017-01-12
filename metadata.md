@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5
@@ -44,11 +44,12 @@ Regulatory Accountability Act of 2017
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 - Rep. Harris, Andy [R-MD-1] (H001052)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Small Business Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -198,3 +199,4 @@ Regulatory Accountability Act of 2017
 - 2017-01-11 — The previous question was ordered pursuant to the rule.
 - 2017-01-11 — The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79.
 - 2017-01-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
+- 2017-01-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
