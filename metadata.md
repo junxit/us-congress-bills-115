@@ -1,7 +1,7 @@
 ---
 measure: S. 84
 congress: 115
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 84
