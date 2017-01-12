@@ -1,0 +1,34 @@
+---
+measure: H.R. 487
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 487
+
+To prohibit the Central Intelligence Agency from using an unmanned aerial vehicle to carry out a weapons strike or other deliberately lethal action and to transfer the authority to conduct such strikes or lethal action to the Department of Defense.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+
+## Cosponsors (1)
+
+- Rep. Amash, Justin [R-MI-3] (A000367)
+
+## Committees (2)
+
+- House — Armed Services Committee
+- House — Intelligence (Permanent Select) Committee
+
+## Actions
+
+- 2017-01-12 — Introduced in House
+- 2017-01-12 — Introduced in House
+- 2017-01-12 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-01-12 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-01-12 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
