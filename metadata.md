@@ -1,7 +1,7 @@
 ---
 measure: H.R. 39
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 39
@@ -34,3 +34,10 @@ TALENT Act of 2017
 - 2017-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 17 (Roll no. 34). (text: CR 1/10/2017 H283)
 - 2017-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 17 (Roll no. 34).(text: CR 1/10/2017 H283)
 - 2017-01-12 — Received in the Senate, read twice.
+- 2017-01-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S345-346)
+- 2017-01-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S345-346)
+- 2017-01-18 — Message on Senate action sent to the House.
+- 2017-01-20 — Presented to President.
+- 2017-01-20 — Presented to President.
+- 2017-01-20 — Signed by President.
+- 2017-01-20 — Signed by President.
