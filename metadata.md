@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 3
@@ -16,9 +16,741 @@ A concurrent resolution setting forth the congressional budget for the United St
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
+## Cosponsors (700)
+
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+
 ## Committees (1)
 
 - Senate — Budget Committee
+
+## Recorded votes (26)
+
+- 2017-01-04 — [Senate 115-1-1](votes/senate-115-1-0001.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–48)
+- 2017-01-05 — [Senate 115-1-2](votes/senate-115-1-0002.md) — On the Motion — **Motion Rejected** (48–52)
+- 2017-01-09 — [Senate 115-1-3](votes/senate-115-1-0003.md) — On the Amendment — **Amendment Rejected** (14–83)
+- 2017-01-09 — [Senate 115-1-4](votes/senate-115-1-0004.md) — On the Motion — **Motion Rejected** (49–47)
+- 2017-01-10 — [Senate 115-1-5](votes/senate-115-1-0005.md) — On the Motion — **Motion Rejected** (31–67)
+- 2017-01-10 — [Senate 115-1-6](votes/senate-115-1-0006.md) — On the Motion — **Motion Rejected** (49–49)
+- 2017-01-11 — [Senate 115-1-7](votes/senate-115-1-0007.md) — On the Motion — **Motion Rejected** (47–51)
+- 2017-01-11 — [Senate 115-1-8](votes/senate-115-1-0008.md) — On the Motion — **Motion Rejected** (48–50)
+- 2017-01-11 — [Senate 115-1-9](votes/senate-115-1-0009.md) — On the Motion — **Motion Rejected** (51–47)
+- 2017-01-11 — [Senate 115-1-10](votes/senate-115-1-0010.md) — On the Motion — **Motion Rejected** (51–47)
+- 2017-01-11 — [Senate 115-1-11](votes/senate-115-1-0011.md) — On the Motion — **Motion Rejected** (51–47)
+- 2017-01-11 — [Senate 115-1-12](votes/senate-115-1-0012.md) — On the Motion — **Motion Rejected** (48–50)
+- 2017-01-11 — [Senate 115-1-13](votes/senate-115-1-0013.md) — On the Motion — **Motion Rejected** (50–48)
+- 2017-01-11 — [Senate 115-1-14](votes/senate-115-1-0014.md) — On the Motion — **Motion Rejected** (48–50)
+- 2017-01-11 — [Senate 115-1-15](votes/senate-115-1-0015.md) — On the Motion — **Motion Rejected** (49–49)
+- 2017-01-11 — [Senate 115-1-16](votes/senate-115-1-0016.md) — On the Motion — **Motion Rejected** (47–51)
+- 2017-01-11 — [Senate 115-1-17](votes/senate-115-1-0017.md) — On the Motion — **Motion Rejected** (51–47)
+- 2017-01-11 — [Senate 115-1-18](votes/senate-115-1-0018.md) — On the Motion — **Motion Rejected** (48–50)
+- 2017-01-11 — [Senate 115-1-19](votes/senate-115-1-0019.md) — On the Motion — **Motion Rejected** (49–49)
+- 2017-01-11 — [Senate 115-1-20](votes/senate-115-1-0020.md) — On the Amendment — **Amendment Rejected** (46–52)
+- 2017-01-11 — [Senate 115-1-21](votes/senate-115-1-0021.md) — On the Motion — **Motion Rejected** (47–51)
+- 2017-01-11 — [Senate 115-1-22](votes/senate-115-1-0022.md) — On the Motion — **Motion Rejected** (52–46)
+- 2017-01-12 — [Senate 115-1-23](votes/senate-115-1-0023.md) — On the Motion — **Motion Rejected** (49–49)
+- 2017-01-12 — [Senate 115-1-24](votes/senate-115-1-0024.md) — On the Motion — **Motion Rejected** (51–47)
+- 2017-01-12 — [Senate 115-1-25](votes/senate-115-1-0025.md) — On the Motion — **Motion Rejected** (49–49)
+- 2017-01-12 — [Senate 115-1-26](votes/senate-115-1-0026.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (51–48)
 
 ## Actions
 
@@ -27,3 +759,369 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2017-01-03 — Referred to the Committee on the Budget.
 - 2017-01-03 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
 - 2017-01-03 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2017-01-04 — Considered by Senate. (consideration: CR S30-42)
+- 2017-01-04 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 1.
+- 2017-01-04 — Motion to proceed to consideration of measure made in Senate. (CR S30)
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-04 — Senate amendment submitted
+- 2017-01-05 — Amendment SA 1 proposed by Senator Enzi for Senator Paul. (consideration: CR S97-106) In the nature of a substitute.
+- 2017-01-05 — Amendment SA 19 proposed by Senator Sanders. (consideration: CR S107; text: CR S107) To prevent the Senate from breaking Donald Trump's promise that "there will be no cuts to Social Security, Medicare, and Medicaid".
+- 2017-01-05 — Amendment SA 20 proposed by Senator Sanders for Senator Hirono. (consideration: CR S107; text: CR S107) To protect the Medicare and Medicaid programs.
+- 2017-01-05 — Amendment SA 8 proposed by Senator Kaine. (consideration: CR S79-97; text: CR S79) To prohibit legislation that makes America sick again.
+- 2017-01-05 — Amendment SA 8 ruled out of order by the chair.
+- 2017-01-05 — Considered by Senate. (consideration: CR S75-107)
+- 2017-01-05 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 8 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 2. (consideration: CR S95)
+- 2017-01-05 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 8.
+- 2017-01-05 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 8 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 2.(consideration: CR S95)
+- 2017-01-05 — Senate amendment proposed (on the floor): Amendment SA 1 proposed by Senator Enzi for Senator Paul.(consideration: CR S97-106)
+- 2017-01-05 — Senate amendment proposed (on the floor): Amendment SA 19 proposed by Senator Sanders.(consideration: CR S107; text: CR S107)
+- 2017-01-05 — Senate amendment proposed (on the floor): Amendment SA 20 proposed by Senator Sanders for Senator Hirono.(consideration: CR S107; text: CR S107)
+- 2017-01-05 — Senate amendment proposed (on the floor): Amendment SA 8 proposed by Senator Kaine.(consideration: CR S79-97; text: CR S79)
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-05 — Senate amendment submitted
+- 2017-01-09 — Amendment SA 1 not agreed to in Senate by Yea-Nay Vote. 14 - 83. Record Vote Number: 3.
+- 2017-01-09 — Amendment SA 20 ruled out of order by the chair.
+- 2017-01-09 — Considered by Senate. (consideration: CR S125)
+- 2017-01-09 — Considered by Senate. (consideration: CR S125, S133-135, S137-138)
+- 2017-01-09 — Considered by Senate. (consideration: CR S125, S136-137)
+- 2017-01-09 — Considered by Senate. (consideration: CR S125-151, S161-179)
+- 2017-01-09 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 20 rejected in Senate by Yea-Nay Vote. 49 - 47. Record Vote Number: 4. (consideration: CR S137-138)
+- 2017-01-09 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 20.
+- 2017-01-09 — Roll call votes on amendments in Senate: Amendment SA 1 not agreed to in Senate by Yea-Nay Vote. 14 - 83. Record Vote Number: 3.
+- 2017-01-09 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 20 rejected in Senate by Yea-Nay Vote. 49 - 47. Record Vote Number: 4.(consideration: CR S137-138)
+- 2017-01-09 — Senate amendment not agreed to: Amendment SA 1 not agreed to in Senate by Yea-Nay Vote. 14 - 83. Record Vote Number: 3.
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-09 — Senate amendment submitted
+- 2017-01-10 — Amendment SA 19 ruled out of order by the chair.
+- 2017-01-10 — Amendment SA 52 proposed by Senator Enzi for Senator Flake. (consideration: CR S187, S190-191; text: CR S187) To strengthen Social Security and Medicare without raiding it to pay for new Government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to return regulation of insurance to State governments.
+- 2017-01-10 — Amendment SA 52 ruled out of order by the chair.
+- 2017-01-10 — Considered by Senate. (consideration: CR S184, S191)
+- 2017-01-10 — Considered by Senate. (consideration: CR S184-199)
+- 2017-01-10 — Motion to waive all applicable budgetary discipline with respect to amendment SA 19 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 6. (consideration: CR S191)
+- 2017-01-10 — Motion to waive all applicable budgetary discipline with respect to amendment SA 52 rejected in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 5. (consideration: CR S191)
+- 2017-01-10 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 19.
+- 2017-01-10 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 52.
+- 2017-01-10 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 19 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 6.(consideration: CR S191)
+- 2017-01-10 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 52 rejected in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 5.(consideration: CR S191)
+- 2017-01-10 — Senate amendment proposed (on the floor): Amendment SA 52 proposed by Senator Enzi for Senator Flake.(consideration: CR S187, S190-191; text: CR S187)
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-10 — Senate amendment submitted
+- 2017-01-11 — Amendment SA 104 proposed by Senator Sanders for Senator Tester. (consideration: CR S249-251, S256-257; text: CR S250) To create a point of order against legislation that would limit veterans' ability to choose VA health care.
+- 2017-01-11 — Amendment SA 104 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 106 proposed by Senator Corker. (consideration: CR S257-258; text: CR S258) To set an appropriate date for the reporting of a reconciliation bill in the Senate.
+- 2017-01-11 — Amendment SA 126 proposed by Senator Sanders for Senator Coons. (consideration: CR S253; text: CR S253) To create a point of order against legislation that would permit lifetime limits on health care coverage.
+- 2017-01-11 — Amendment SA 13 proposed by Senator Sanders for Senator Nelson. (consideration: CR S249-252; text: CR S249-250) To create a point of order against legislation that would repeal health reforms that closed the prescription drug coverage gap under Medicare.
+- 2017-01-11 — Amendment SA 13 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 143 proposed by Senator Sanders for Senator Cantwell. (consideration: CR S253; text: CR S253) To create a point of order against any changes to the Medicare program, the Medicaid program, or the number of Americans enrolled in private health insurance coverage, in a manner that would result in reduced revenue to hospitals, health care centers, and physicians and other health care providers, thereby reducing their investments in health care delivery system reforms that improve patient health outcomes and reduce costs.
+- 2017-01-11 — Amendment SA 167 proposed by Senator Enzi for Senator Heller. (consideration: CR S254-255; text: CR S254) To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all American's and their families by increasing competition, State flexibility and individual choice, and safeguarding consumer protections that Americans support.
+- 2017-01-11 — Amendment SA 167 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 172 proposed by Senator Sanders for Senator Klobuchar. (consideration: CR S249-251; text: CR S250) To establish a deficit-neutral reserve fund relating to lowering prescription drug prices for Americans by importing drugs from Canada and other countries.
+- 2017-01-11 — Amendment SA 173 proposed by Senator Enzi for Senator Barrasso. (consideration: CR S251-253; text: CR S251) To establish a deficit-neutral reserve fund relating to rural health and repealing and replacing Obamacare.
+- 2017-01-11 — Amendment SA 173 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 174 proposed by Senator Alexander. (consideration: CR S260-261; text: CR S260-261) To strengthen Social Security and Medicare without raiding them to pay for new government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to ensure that any importation does not increase risk to public health according to the Secretary of Health and Human Services.
+- 2017-01-11 — Amendment SA 174 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 176 proposed by Senator Enzi for Senator Flake. (consideration: CR S254, S256; text: CR S254) To establish a deficit-neutral reserve fund relating to enhancing health care and housing for veterans and their dependents by repealing Obamacare, facilitating medical facility leases, and prohibiting the Secretary of Veterans Affairs from employing individuals who have been convicted of a felony and medical personnel who have ever had their medical licenses or credentials revoked or suspended.
+- 2017-01-11 — Amendment SA 176 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 20.
+- 2017-01-11 — Amendment SA 178 proposed by Senator Klobuchar. (consideration: CR S261-262; text: CR 261) To establish a deficit-neutral reserve fund relating to lower prescription drug prices for Americans by importing drugs from Canada.
+- 2017-01-11 — Amendment SA 179 proposed by Senator Enzi for Senator Hatch. (consideration: CR S258-260; text: CR S258) To establish a deficit-neutral reserve fund relating to reforming housing and Medicaid without prioritizing able-bodied adults over the disabled or raiding the Medicare Trust Funds to pay for new government programs, like Obamacare, which has failed Americans by increasing premiums and reducing affordable health care options.
+- 2017-01-11 — Amendment SA 179 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 180 proposed by Senator Enzi for Senator Hatch. (consideration: CR S263-265; text: CR S263) To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with reforms that strengthen Medicaid and the Children's Health Insurance Program without prioritizing able-bodied adults over the disabled or children and lead to patient-centered step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans and their families by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections that Americans support.
+- 2017-01-11 — Amendment SA 181 proposed by Senator Enzi for Senator Barrasso. (consideration: CR S258-259; text: CR S258) To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle class families, reduced access to high-quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing Obamacare with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans, including people with disabilities and chronic conditions, and their families, by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections, such as a ban on lifetime limits, that Americans support.
+- 2017-01-11 — Amendment SA 181 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 184 proposed by Senator Fischer. (consideration: CR S263-264; text: CR S263) To establish a deficit-neutral reserve fund relating to strengthening Social Security or health care for women, which may include strengthening community health centers, and repealing and replacing Obamacare.
+- 2017-01-11 — Amendment SA 188 proposed by Senator Wyden. (consideration: CR S262; text: CR S262) To create a point of order against legislation that does not lower drug prices.
+- 2017-01-11 — Amendment SA 188 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 60 proposed by Senator Sanders for Senator King. (consideration: CR S249-252; text: CR S250) To create a point of order against legislation that would reduce health insurance access and affordability for individuals based on their occupation.
+- 2017-01-11 — Amendment SA 60 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 61 proposed by Senator Sanders for Senator Casey. (consideration: CR S249-251, S257; text: CR S250) To create a point of order against legislation that would make people with disabilities and chronic conditions sick again.
+- 2017-01-11 — Amendment SA 61 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 63 proposed by Senator Sanders for Senator Manchin. (consideration: CR S249-251; text: CR S251) To create a point of order against legislation that would reduce access to substance use disorder treatment and worsen the opioid abuse epidemic.
+- 2017-01-11 — Amendment SA 64 proposed by Senator Sanders for Senator Manchin. (consideration: CR S249-251, S254; text: CR S249) To create a point of order against legislation that would harm rural hospitals and health care providers.
+- 2017-01-11 — Amendment SA 64 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 81 proposed by Senator Sanders for Senator Baldwin. (consideration: CR S249-251, S255-256; text: CR S250) To create a point of order against legislation that makes young people sick again.
+- 2017-01-11 — Amendment SA 81 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 82 proposed by Senator Sanders for Senator Gillibrand. (consideration: CR S249-251, S264; text: CR S250-251) To create a point of order against legislation that makes women sick again.
+- 2017-01-11 — Amendment SA 83 proposed by Senator Sanders for Senator Menendez. (consideration: CR S249-251, S260; text: CR S250) To create a point of order against legislation that would eliminate or reduce Federal funding to States under the Medicaid expansion.
+- 2017-01-11 — Amendment SA 83 ruled out of order by the chair.
+- 2017-01-11 — Amendment SA 86 proposed by Senator Sanders for Senator Brown. (consideration: CR S253, S265; text: CR S253) To create a point of order against legislation that would undermine the historic coverage gains the United States has made in children's health, which have resulted in the lowest uninsured rate for children in the Nation's history.
+- 2017-01-11 — Amendment SA 94 proposed by Senator Sanders for Senator Stabenow. (consideration: CR S249-251; text: CR S251) To create a point of order against legislation that would reduce or eliminate access to mental health care.
+- 2017-01-11 — Considered by Senate. (consideration: CR S224-228, S232-243, S245-272)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 167 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 11. (consideration: CR S255)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 173 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 9. (consideration: CR S253)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 174 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 19. (consideration: CR S261)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 176 rejected in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 13. (consideration: CR S256)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 179 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 17. (consideration: CR S259-260)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 181 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 16. (consideration: CR S259)
+- 2017-01-11 — Motion to waive all applicable budgetary discipline with respect to amendment SA 83 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 18. (consideration: CR S260)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 104 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 14. (consideration: CR S256-257)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 13 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 7. (consideration: CR S251-252)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 188 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 21. (consideration: CR S262)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 60 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 8. (consideration: CR S252)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 61 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 15. (consideration: CR S257)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 64 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 10. (consideration: CR S254)
+- 2017-01-11 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 81 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 12. (consideration: CR S255)
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 104.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 13.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 167.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 173.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 174.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 176.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 179.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 181.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 184.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 188.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 60.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 61.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 64.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 81.
+- 2017-01-11 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 83.
+- 2017-01-11 — Proposed amendment SA 106 withdrawn in Senate.
+- 2017-01-11 — Proposed amendment SA 172 withdrawn in Senate.
+- 2017-01-11 — Roll call votes on amendments in Senate: Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 20.
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 167 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 11.(consideration: CR S255)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 173 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 9.(consideration: CR S253)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 174 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 19.(consideration: CR S261)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 176 rejected in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 13.(consideration: CR S256)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 179 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 17.(consideration: CR S259-260)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 181 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 16.(consideration: CR S259)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 83 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 18.(consideration: CR S260)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 104 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 14.(consideration: CR S256-257)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 13 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 7.(consideration: CR S251-252)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 188 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 21.(consideration: CR S262)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 60 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 8.(consideration: CR S252)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 61 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 15.(consideration: CR S257)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 64 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 10.(consideration: CR S254)
+- 2017-01-11 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 81 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 12.(consideration: CR S255)
+- 2017-01-11 — Senate amendment not agreed to: Amendment SA 178 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 20.
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 104 proposed by Senator Sanders for Senator Tester.(consideration: CR S249-251, S256-257; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 106 proposed by Senator Corker.(consideration: CR S257-258; text: CR S258)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 126 proposed by Senator Sanders for Senator Coons.(consideration: CR S253; text: CR S253)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 13 proposed by Senator Sanders for Senator Nelson.(consideration: CR S249-252; text: CR S249-250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 143 proposed by Senator Sanders for Senator Cantwell.(consideration: CR S253; text: CR S253)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 167 proposed by Senator Enzi for Senator Heller.(consideration: CR S254-255; text: CR S254)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 172 proposed by Senator Sanders for Senator Klobuchar.(consideration: CR S249-251; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 173 proposed by Senator Enzi for Senator Barrasso.(consideration: CR S251-253; text: CR S251)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 174 proposed by Senator Alexander.(consideration: CR S260-261; text: CR S260-261)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 176 proposed by Senator Enzi for Senator Flake.(consideration: CR S254, S256; text: CR S254)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 178 proposed by Senator Klobuchar.(consideration: CR S261-262; text: CR 261)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 179 proposed by Senator Enzi for Senator Hatch.(consideration: CR S258-260; text: CR S258)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 180 proposed by Senator Enzi for Senator Hatch.(consideration: CR S263-265; text: CR S263)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 181 proposed by Senator Enzi for Senator Barrasso.(consideration: CR S258-259; text: CR S258)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 184 proposed by Senator Fischer.(consideration: CR S263-264; text: CR S263)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 188 proposed by Senator Wyden.(consideration: CR S262; text: CR S262)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 60 proposed by Senator Sanders for Senator King.(consideration: CR S249-252; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 61 proposed by Senator Sanders for Senator Casey.(consideration: CR S249-251, S257; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 63 proposed by Senator Sanders for Senator Manchin.(consideration: CR S249-251; text: CR S251)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 64 proposed by Senator Sanders for Senator Manchin.(consideration: CR S249-251, S254; text: CR S249)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 81 proposed by Senator Sanders for Senator Baldwin.(consideration: CR S249-251, S255-256; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 82 proposed by Senator Sanders for Senator Gillibrand.(consideration: CR S249-251, S264; text: CR S250-251)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 83 proposed by Senator Sanders for Senator Menendez.(consideration: CR S249-251, S260; text: CR S250)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 86 proposed by Senator Sanders for Senator Brown.(consideration: CR S253, S265; text: CR S253)
+- 2017-01-11 — Senate amendment proposed (on the floor): Amendment SA 94 proposed by Senator Sanders for Senator Stabenow.(consideration: CR S249-251; text: CR S251)
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-11 — Senate amendment submitted
+- 2017-01-12 — Amendment SA 180 ruled out of order by the chair.
+- 2017-01-12 — Amendment SA 184 ruled out of order by the chair.
+- 2017-01-12 — Amendment SA 82 ruled out of order by the chair.
+- 2017-01-12 — Amendment SA 86 ruled out of order by the chair.
+- 2017-01-12 — Held at the desk.
+- 2017-01-12 — Message on Senate action sent to the House.
+- 2017-01-12 — Motion to waive all applicable budgetary discipline with respect to amendment SA 180 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 24. (consideration: 01/11/17 CR S264-265)
+- 2017-01-12 — Motion to waive all applicable budgetary discipline with respect to amendment SA 184 rejected in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 22. (consideration: 01/11/17 CR S263)
+- 2017-01-12 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 82 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 23. (consideration: 01/11/17 CR S264)
+- 2017-01-12 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 86 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 25. (consideration: 01/11/17 CR S265)
+- 2017-01-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 26.(text as passed Senate: 01/11/17 CR S268-272)
+- 2017-01-12 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 180.
+- 2017-01-12 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 82.
+- 2017-01-12 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 86.
+- 2017-01-12 — Proposed amendment SA 126 withdrawn in Senate.
+- 2017-01-12 — Proposed amendment SA 143 withdrawn in Senate.
+- 2017-01-12 — Proposed amendment SA 63 withdrawn in Senate.
+- 2017-01-12 — Proposed amendment SA 94 withdrawn in Senate.
+- 2017-01-12 — Received in the House.
+- 2017-01-12 — Resolution agreed to in Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 26. (text as passed Senate: 01/11/17 CR S268-272)
+- 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 180 rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 24.(consideration: 01/11/17 CR S264-265)
+- 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 184 rejected in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 22.(consideration: 01/11/17 CR S263)
+- 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 82 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 23.(consideration: 01/11/17 CR S264)
+- 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 86 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 25.(consideration: 01/11/17 CR S265)
+- 2017-01-12 — Rules Committee Resolution H. Res. 48 Reported to House. Rule provides for consideration of S. Con. Res. 3 and S. 84. The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84.
