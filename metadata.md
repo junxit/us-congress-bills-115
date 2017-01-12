@@ -1,7 +1,7 @@
 ---
 measure: H.R. 39
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 39
@@ -37,3 +37,4 @@ TALENT Act of 2017
 - 2017-01-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 17 (Roll no. 34). (text: CR 1/10/2017 H283)
 - 2017-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 17 (Roll no. 34).(text: CR 1/10/2017 H283)
+- 2017-01-12 — Received in the Senate, read twice.
