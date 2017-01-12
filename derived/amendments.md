@@ -1,7 +1,7 @@
 ---
 measure: H.R. 238
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-199 amendatory instructions. 50 executed, 149 stated and not applied.
+217 amendatory instructions. 59 executed, 158 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,42 @@ to guess them.
 |---|---|
 | Removed | `(4) and (5) of this subsection` |
 | Inserted | `(4), (5), and (16)` |
+
+### 7 U.S.C. § 16
+
+> by striking “including, but not limited to,” and inserting “excluding”; and
+
+| | |
+|---|---|
+| Removed | `including, but not limited to,` |
+| Inserted | `excluding` |
+
+### 7 U.S.C. § 26
+
+> in subparagraph (A), by striking “; and” and inserting “, without fiscal year limitation;”; and
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `, without fiscal year limitation;` |
+
+### 7 U.S.C. § 26
+
+> in subparagraph (B), by striking “thereunder.” and inserting “, the total amount of which shall not exceed $5,000,000 per fiscal year.”;
+
+| | |
+|---|---|
+| Removed | `thereunder.` |
+| Inserted | `, the total amount of which shall not exceed $5,000,000 per fiscal year.` |
+
+### 7 U.S.C. § 26
+
+> in paragraph (3)(A), by striking “unless the balance of the Fund at the time the monetary judgment is collected exceeds $100,000,000” and inserting “, but only to the extent that the resulting balance of the Fund does not exceed $50,000,000”; and
+
+| | |
+|---|---|
+| Removed | `unless the balance of the Fund at the time the monetary judgment is collected exceeds $100,000,000` |
+| Inserted | `, but only to the extent that the resulting balance of the Fund does not exceed $50,000,000` |
 
 ### 7 U.S.C. § 1a
 
@@ -150,6 +186,51 @@ to guess them.
 | Removed | `1a(48)` |
 | Inserted | `1a(49)` |
 
+### 15 U.S.C. § 78c
+
+> Section 3a(68)(A)(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(A)(i)) is amended by striking “(47)(B)(x)” and inserting “(48)(B)(x)”.
+
+| | |
+|---|---|
+| Removed | `(47)(B)(x)` |
+| Inserted | `(48)(B)(x)` |
+
+### 15 U.S.C. § 78c-3
+
+> Section 3C(g)(3)(A)(v) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(3)(A)(v)) is amended by striking “1a(10)” and inserting “1a(11)”.
+
+| | |
+|---|---|
+| Removed | `1a(10)` |
+| Inserted | `1a(11)` |
+
+### 15 U.S.C. § 78f
+
+> in sublcause (I), by striking “1a(18)(B)(ii)” and inserting “1a(19)(B)(ii)”; and
+
+| | |
+|---|---|
+| Removed | `1a(18)(B)(ii)` |
+| Inserted | `1a(19)(B)(ii)` |
+
+### 15 U.S.C. § 78f
+
+> in subclause (II), by striking “1a(18)” and inserting “1a(19)”.
+
+| | |
+|---|---|
+| Removed | `1a(18)` |
+| Inserted | `1a(19)` |
+
+### 15 U.S.C. § 78o-10
+
+> Section 15F(h)(5)(A)(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(h)(5)(A)(i)) is amended by striking “1a(18)” and inserting “1a(19)”.
+
+| | |
+|---|---|
+| Removed | `1a(18)` |
+| Inserted | `1a(19)` |
+
 ### 7 U.S.C. § 2
 
 > in subparagraph (C), by striking “The Commission” and inserting “Except as provided in subparagraph (D), the Commission”; and
@@ -197,12 +278,12 @@ to guess them.
 
 ### 7 U.S.C. § 6a
 
-> in the matter preceding subparagraph (A), by striking “subsection (a)(2)” and all that follows through “position as” and inserting “paragraphs (2) and (5) of subsection (a) for swaps, contracts of sale for future delivery, or options on the contracts or commodities, a bona fide hedging transaction or position is”; and
+> in the matter preceding subparagraph (A), by striking “subsection (a)(2)” and all that follows through “position as” and inserting “paragraph (1) for swaps, contracts of sale for future delivery, or options on the contracts or commodities, a bona fide hedging transaction or position is”; and
 
 | | |
 |---|---|
 | Removed | `subsection (a)(2)” and all that follows through “position as` |
-| Inserted | `paragraphs (2) and (5) of subsection (a) for swaps, contracts of sale for future delivery, or options on the contracts or commodities, a bona fide hedging transaction or position is` |
+| Inserted | `paragraph (1) for swaps, contracts of sale for future delivery, or options on the contracts or commodities, a bona fide hedging transaction or position is` |
 
 ### 7 U.S.C. § 6a
 
@@ -506,6 +587,9 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2` | add-at-end | Section 2(a)(12) of the Commodity Exchange Act (7 U.S.C. 2(a)(12)), as amended by sections 205 and 207 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 12` | add-at-end | Section 8 of the Commodity Exchange Act (7 U.S.C. 12) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 16` | add-at-end | by adding at the end the following new sentence: “In the case of an existing lease contract entered into under this paragraph, the Commission may not extend the lease term, but may agree to any other contract modification that does not r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 26` | strike | in the matter preceding subparagraph (A), by striking “or fiscal year limitation”; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 26` | redesignate | by redesignating paragraph (5) as paragraph (6) and inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6s` | add-at-end | Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | strike | by striking “and” at the end of subclause (XXI); | the bill quotes the text struck but describes what replaces it |
@@ -549,6 +633,12 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 27` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(12) of the Commodity Exchange Act (7 U.S.C. 1a(11)), as so redesignated by section 304(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(13) of such Act (7 U.S.C. 1a(12)), as so redesignated by section 304(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1` | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4t the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2` | add-at-end | Section 2(h)(7)(C) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)), as amended by section 314 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1a` | redesignate | Section 1a(48) of the Commodity Exchange Act (7 U.S.C. 1a(47)), as so redesignated by section 304(b)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6a` | strike | by striking paragraphs (2), (3), (5), and (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6a` | redesignate | by redesignating paragraphs (4) and (7) as paragraphs (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6a` | insert | Section 4a(c)(2)(A)(i) of such Act (7 U.S.C. 6a(c)(2)(A)(i)) is amended by inserting “normally” before “represents”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6c` | redesignate | Section 4c of the Commodity Exchange Act (7 U.S.C. 6c) is amended by striking subsections (d) and (e) and redesignating subsections (f) and (g) as subsections (d) and (e), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | redesignate | Section 1a(19)(A)(x) of the Commodity Exchange Act (7 U.S.C. 1a(18)(A)(x)), as so redesignated by section 304(b)(1) of this Act, is amended by striking “(other than an electronic trading facility with respect to a significant price disco… | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1a` | amend | by adding “and” at the end of subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
