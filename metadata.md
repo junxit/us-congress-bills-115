@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 3
@@ -723,7 +723,7 @@ A concurrent resolution setting forth the congressional budget for the United St
 
 - Senate — Budget Committee
 
-## Recorded votes (26)
+## Recorded votes (28)
 
 - 2017-01-04 — [Senate 115-1-1](votes/senate-115-1-0001.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–48)
 - 2017-01-05 — [Senate 115-1-2](votes/senate-115-1-0002.md) — On the Motion — **Motion Rejected** (48–52)
@@ -751,6 +751,8 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2017-01-12 — [Senate 115-1-24](votes/senate-115-1-0024.md) — On the Motion — **Motion Rejected** (51–47)
 - 2017-01-12 — [Senate 115-1-25](votes/senate-115-1-0025.md) — On the Motion — **Motion Rejected** (49–49)
 - 2017-01-12 — [Senate 115-1-26](votes/senate-115-1-0026.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (51–48)
+- 2017-01-13 — [House 115-1-57](votes/house-115-1-0057.md) — On Agreeing to the Amendment — **Failed** (149–272)
+- 2017-01-13 — [House 115-1-58](votes/house-115-1-0058.md) — On Agreeing to the Resolution — **Passed** (227–198)
 
 ## Actions
 
@@ -1125,3 +1127,28 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 82 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 23.(consideration: 01/11/17 CR S264)
 - 2017-01-12 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 86 rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 25.(consideration: 01/11/17 CR S265)
 - 2017-01-12 — Rules Committee Resolution H. Res. 48 Reported to House. Rule provides for consideration of S. Con. Res. 3 and S. 84. The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84.
+- 2017-01-13 — Amendment (A001) in the nature of a substitute offered by Mr. Yarmuth. (consideration: CR H515-520, H530; text: CR H515-519)
+- 2017-01-13 — Amendment failed in Committee of the Whole
+- 2017-01-13 — Committee of the Whole House on the state of the Union rises leaving S. Con. Res. 3 as unfinished business.
+- 2017-01-13 — Considered as unfinished business. (consideration: CR H529-531)
+- 2017-01-13 — Considered under the provisions of rule H. Res. 48. (consideration: CR H490-520)
+- 2017-01-13 — DEBATE - Pursuant to the provisions of H.Res. 48, the Committee of the Whole proceeded with 20 minutes of debate on the Yarmuth amendment No. 1.
+- 2017-01-13 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on S. Con. Res. 3.
+- 2017-01-13 — House amendment not agreed to: On agreeing to the Yarmuth amendment (A001) Failed by recorded vote: 149 - 272 (Roll no. 57).
+- 2017-01-13 — House amendment offered
+- 2017-01-13 — House amendment offered/reported by : Amendment (A001) in the nature of a substitute offered by Mr. Yarmuth.(consideration: CR H515-520, H530; text: CR H515-519)
+- 2017-01-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 48 and Rule XVIII.
+- 2017-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-13 — Mrs. Black moved that the Committee rise.
+- 2017-01-13 — On agreeing to the Yarmuth amendment (A001) Failed by recorded vote: 149 - 272 (Roll no. 57).
+- 2017-01-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 198 (Roll no. 58). (text: CR H510)
+- 2017-01-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-01-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Yarmuth amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Yarmuth demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-01-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 198 (Roll no. 58).(text: CR H510)
+- 2017-01-13 — Roll call votes on amendments in House
+- 2017-01-13 — Rule provides for consideration of S. Con. Res. 3 and S. 84. The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84.
+- 2017-01-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-01-13 — The House rose from the Committee of the Whole House on the state of the Union to report S. Con. Res. 3.
+- 2017-01-13 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
+- 2017-01-13 — The previous question was ordered pursuant to the rule.
+- 2017-01-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment in the nature of a substitute which had been debated earlier and on which further proceedings had been postponed.
