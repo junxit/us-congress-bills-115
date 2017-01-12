@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 6
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 6
@@ -16,7 +16,7 @@ A resolution objecting to United Nations Security Council Resolution 2334 and to
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (38)
+## Cosponsors (69)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. McConnell, Mitch [R-KY] (M000355)
@@ -56,6 +56,37 @@ A resolution objecting to United Nations Security Council Resolution 2334 and to
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -65,3 +96,7 @@ A resolution objecting to United Nations Security Council Resolution 2334 and to
 
 - 2017-01-04 — Introduced in Senate
 - 2017-01-04 — Referred to the Committee on Foreign Relations.
+- 2017-01-12 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2017-01-12 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with a preamble. Without written report.
+- 2017-01-12 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with a preamble. Without written report.
+- 2017-01-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
