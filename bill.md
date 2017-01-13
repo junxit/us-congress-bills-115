@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 571
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 571
+
+> To permit members of the House of Representatives to donate used computer equipment to public elementary and secondary schools designated by the members.
+
+## § 1. Permitting members of the house of representatives to donate used computer equipment to public schools
+
+- **(a)** *In General* Section 104(a)(3) of the Legislative Branch Appropriations Act, 1987 (as incorporated by reference in section 101(j) of Public Law 99–500 and Public Law 99–591) (2 U.S.C. 5540(3)) is amended to read as follows:
+  > - **(3)**
+  >   - **(A)** At the request of a member of the House of Representatives, in the case of equipment consisting of computers and related peripheral tools previously used by the member, the Clerk may donate the equipment to a public elementary or secondary school (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)) without regard to whether the donation meets the requirements of the second sentence of paragraph (2).
+  >   - **(B)** At the request of the member who previously used the equipment, if the Clerk donates equipment under this paragraph, the Clerk shall donate the equipment to a school designated by the member.
+
+- **(b)** *Effective Date* The amendments made by subsection (a) shall take effect upon the expiration of the 120-day period which begins on the date of the enactment of this Act.
