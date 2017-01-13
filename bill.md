@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 562
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 562
+
+> To amend the Internal Revenue Code of 1986 to flatline the individual mandate penalty.
+
+## § 1. Short title
+
+This Act may be cited as the “Obamacare Regressive Tax Relief Act”.
+
+## § 2. Flatlining the individual mandate penalty
+
+- **(a)** *Percentage of income* Section 5000A(c)(2)(B) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(B)** *Percentage of income* An amount equal to 1 percent of the excess of the taxpayer’s household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year.
+
+- **(b)** *Applicable dollar amount* Section 5000A(c)(3) of such Code is amended—
+  - **(1)** by striking subparagraphs (B) and (D),
+  - **(2)** by redesignating subparagraph (C) as subparagraph (B), and
+  - **(3)** by amending subparagraph (A) to read as follows:
+    > - **(A)** *In general* Except as provided in subparagraph (B), the applicable dollar amount is $95.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years ending after the date of the enactment of this Act.
