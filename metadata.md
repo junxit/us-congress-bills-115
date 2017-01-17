@@ -1,0 +1,26 @@
+---
+measure: S. 176
+congress: 115
+version: Introduced in Senate
+---
+
+# S. 176
+
+HELP for Coal Miners Health Care Act of 2017
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. McConnell, Mitch [R-KY] (M000355)
+
+## Committees (1)
+
+- Senate — Finance Committee
+
+## Actions
+
+- 2017-01-17 — Introduced in Senate
+- 2017-01-17 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S343-344)
