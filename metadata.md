@@ -1,7 +1,7 @@
 ---
 measure: H.R. 238
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 238
@@ -22,10 +22,11 @@ Commodity End-User Relief Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -115,3 +116,4 @@ Commodity End-User Relief Act
 - 2017-01-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-01-12 — The previous question was ordered pursuant to the rule.
 - 2017-01-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which were debated earlier an on which further proceedings had been postponed.
+- 2017-01-17 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
