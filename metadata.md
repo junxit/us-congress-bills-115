@@ -1,7 +1,7 @@
 ---
 measure: H.R. 78
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 78
@@ -22,9 +22,10 @@ SEC Regulatory Accountability Act
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (6)
 
@@ -99,3 +100,4 @@ SEC Regulatory Accountability Act
 - 2017-01-12 — The Speaker designated the Honorable Tom McClintock to act as Chairman of the Committee.
 - 2017-01-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-01-12 — The previous question was ordered pursuant to the rule.
+- 2017-01-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
