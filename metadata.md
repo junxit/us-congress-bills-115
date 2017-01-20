@@ -1,7 +1,7 @@
 ---
 measure: S. 133
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 133
@@ -24,3 +24,6 @@ Intelligence Authorization Act for Fiscal Year 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Select Committee on Intelligence.
+- 2017-01-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.
+- 2017-01-20 — Select Committee on Intelligence. Reported by Senator Burr without amendment. With written report No. 115-2. Additional views filed.
+- 2017-01-20 — Select Committee on Intelligence. Reported by Senator Burr without amendment. With written report No. 115-2. Additional views filed.
