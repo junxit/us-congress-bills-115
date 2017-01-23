@@ -15,4 +15,4 @@ This Act may be cited as the “Fair Ratepayer Accountability, Transparency, and
 
 ## § 2. Amendment to the Federal Power Act
 
-Subsection (d) of section 205 of the Federal Power Act (16 U.S.C. 824d(d)) is amended by adding at the end the following: “Any absence of action by the Commission that allows a change to take effect under this section, including the Commission allowing the sixty days’ notice herein provided to expire without Commission action, shall be treated as an order issued by the Commission accepting such change for purposes of section 313.”.
+Subsection (d) of section 205 of the Federal Power Act (16 U.S.C. 824d(d)) is amended by adding at the end the following: “Any absence of action by the Commission that allows a change to take effect under this section, including the Commission allowing the 60 days’ notice herein provided to expire without Commission action, shall be treated as an order issued by the Commission accepting such change for purposes of section 313.”.
