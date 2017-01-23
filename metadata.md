@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 511
@@ -29,3 +29,9 @@ Power And Security Systems (PASS) Act
 - 2017-01-12 — Introduced in House
 - 2017-01-12 — Introduced in House
 - 2017-01-12 — Referred to the House Committee on Energy and Commerce.
+- 2017-01-23 — Considered under suspension of the rules. (consideration: CR H566-568)
+- 2017-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 511.
+- 2017-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-23 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H567)
+- 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H567)
