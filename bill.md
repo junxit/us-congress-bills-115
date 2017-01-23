@@ -25,7 +25,7 @@ This Act may be cited as the “Anti-Spoofing Act of 2017”.
       >   - **(i)** means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
       >   - **(ii)** includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
       >   - **(iii)** does not include—
-      >     - **(I)** a real-time, two way voice or video communication; or
+      >     - **(I)** a real-time, two-way voice or video communication; or
       >     - **(II)** a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
       > - **(D)** *Text messaging service* The term text messaging service means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
       > - **(E)** *Voice service* The term voice service—
