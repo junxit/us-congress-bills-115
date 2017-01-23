@@ -1,7 +1,7 @@
 ---
 measure: H.R. 590
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 590
@@ -36,3 +36,9 @@ Advanced Nuclear Technology Development Act of 2017
 - 2017-01-20 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-20 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-20 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-01-23 — Considered under suspension of the rules. (consideration: CR H569-571)
+- 2017-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 590.
+- 2017-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-23 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H569-570)
+- 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H569-570)
