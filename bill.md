@@ -1,0 +1,18 @@
+---
+legis-num: S. 186
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 186
+
+> To amend the Federal Power Act to provide that any inaction by the Federal Energy Regulatory Commission that allows a rate change to go into effect shall be treated as an order by the Commission for purposes of rehearing and court review.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Ratepayer Accountability, Transparency, and Efficiency Standards Act” or the “Fair RATES Act”.
+
+## § 2. Amendment to the Federal Power Act
+
+Section 205(d) of the Federal Power Act (16 U.S.C. 824d(d)) is amended by adding at the end the following: “Any absence of action by the Commission that allows a change to take effect under this section (including the Commission allowing the 60 days of notice provided under this section to expire without Commission action) shall be considered to be an order issued by the Commission accepting the change for purposes of section 313.”.
