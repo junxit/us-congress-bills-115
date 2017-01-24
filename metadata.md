@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 582
@@ -48,9 +48,10 @@ Kari's Law Act of 2017
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Kari's Law Act of 2017
 - 2017-01-23 — Mr. Lance moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 61). (text: CR H588)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 61).(text: CR H588)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
