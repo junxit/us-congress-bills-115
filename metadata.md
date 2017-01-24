@@ -1,7 +1,7 @@
 ---
 measure: H.R. 518
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 518
@@ -39,3 +39,12 @@ EPS Improvement Act of 2017
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H571-572)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H571-572)
 - 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-12-21 — Passed Senate without amendment by Voice Vote.
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8279)
+- 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8279)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2018-01-02 — Presented to President.
+- 2018-01-02 — Presented to President.
+- 2018-01-12 — Signed by President.
+- 2018-01-12 — Signed by President.
