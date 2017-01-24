@@ -1,0 +1,20 @@
+---
+legis-num: S. 217
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 217
+
+> To amend the Denali National Park Improvement Act to clarify certain provisions relating to the natural gas pipeline authorized in the Denali National Park and Preserve.
+
+## § 1. Denali National Park and Preserve natural gas pipeline
+
+- **(a)** *Permit* Section 3(b)(1) of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 516) is amended by striking “within, along, or near the approximately 7-mile segment of the George Parks Highway that runs through the Park”.
+- **(b)** *Terms and conditions* Section 3(c)(1) of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 516) is amended—
+  - **(1)** in subparagraph (A), by inserting “and” after the semicolon;
+  - **(2)** by striking subparagraph (B); and
+  - **(3)** by redesignating subparagraph (C) as subparagraph (B).
+- **(c)** *Applicable law* Section 3 of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 515) is amended by adding at the end the following:
+  > - **(d)** *Applicable law* A high pressure gas transmission pipeline (including appurtenances) in a nonwilderness area within the boundary of the Park, shall not be subject to title XI of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3161 et seq.).
