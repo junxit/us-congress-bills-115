@@ -1,7 +1,7 @@
 ---
 measure: H.R. 423
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 423
@@ -23,9 +23,10 @@ Anti-Spoofing Act of 2017
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Anti-Spoofing Act of 2017
 - 2017-01-23 — Mrs. Blackburn moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 5 (Roll no. 60). (text: CR H576-577)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 5 (Roll no. 60).(text: CR H576-577)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
