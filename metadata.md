@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 589
@@ -16,7 +16,7 @@ Department of Energy Research and Innovation Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (15)
+## Cosponsors (20)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
@@ -33,6 +33,11 @@ Department of Energy Research and Innovation Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
 ## Committees (1)
 
@@ -43,3 +48,9 @@ Department of Energy Research and Innovation Act
 - 2017-01-20 — Introduced in House
 - 2017-01-20 — Introduced in House
 - 2017-01-20 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-01-24 — Considered under suspension of the rules. (consideration: CR H646-656)
+- 2017-01-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 589.
+- 2017-01-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-24 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2017-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H646-654)
+- 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H646-654)
