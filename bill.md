@@ -1,0 +1,17 @@
+---
+legis-num: H. RES. 62
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 62
+
+> Prohibiting the placement of “Members Only” signs in the House of Representatives wing of the United States Capitol or in office buildings of the House of Representatives.
+
+## § 1. Prohibiting “Members Only” signs in Capitol and House office buildings
+
+The Speaker of the House of Representatives, in consultation with the Architect of the Capitol and the House Office Building Commission—
+
+- **(1)** shall ensure that no sign stating “Members Only” is placed anywhere in the House of Representatives wing of the United States Capitol or in any office building of the House of Representatives; and
+- **(2)** not later than one day after the date of the adoption of this resolution, shall remove any sign stating “Members Only” from the House of Representatives wing of the United States Capitol and any office building of the House of Representatives.
