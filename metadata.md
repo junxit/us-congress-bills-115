@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 599
@@ -21,9 +21,10 @@ Federal Communications Commission Consolidated Reporting Act of 2017
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Federal Communications Commission Consolidated Reporting Act of 2017
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H586-587)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H586-587)
 - 2017-01-23 — Referred to the House Committee on Energy and Commerce.
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
