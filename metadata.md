@@ -1,7 +1,7 @@
 ---
 measure: H.R. 460
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 460
@@ -30,9 +30,10 @@ Improving Rural Call Quality and Reliability Act of 2017
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Improving Rural Call Quality and Reliability Act of 2017
 - 2017-01-23 — Mr. Lance moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H582-583; H583-584)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H582-583; H583-584)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
