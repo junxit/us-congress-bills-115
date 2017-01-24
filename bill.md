@@ -25,7 +25,7 @@ The purpose of this Act is to—
 
 Congress finds the following:
 
-- **(1)** The number of Internet users worldwide has more than tripled from 1 billion to 3.2 billion since 2005, yet the growth rate of Internet access is slowing: An estimated 4.2 billion people, or 60 percent of the world’s population, remain offline, an estimated 75 percent of the offline population lives in just 20 countries, and rural, female, elderly, illiterate, and low-income populations are being left behind.
+- **(1)** The number of Internet users worldwide has more than tripled from 1 billion to 3.2 billion since 2005, yet the growth rate of Internet access is slowing. An estimated 4.2 billion people, or 60 percent of the world’s population, remain offline, an estimated 75 percent of the offline population lives in just 20 countries, and rural, female, elderly, illiterate, and low-income populations are being left behind.
 - **(2)** Studies suggest that women across the developing world are disproportionately affected by a digital gap, and that bringing an additional 600 million women online would contribute $13 billion to $18 billion to annual GDP across 144 developing countries.
 - **(3)** Internet access in developing countries is most often hampered by a lack of infrastructure and a poor regulatory environment for investment.
 - **(4)** Build once policies and approaches, which seek to coordinate public and private sector investments in roads and other critical infrastructure, can minimize the number and scale of excavation and construction activities when installing telecommunications infrastructure in rights-of-way, thereby reducing installation costs for high-speed Internet networks and serving as a development best practice.
