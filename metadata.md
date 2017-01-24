@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 588
@@ -16,10 +16,11 @@ Securing Access to Networks in Disasters Act
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Securing Access to Networks in Disasters Act
 - 2017-01-23 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H579)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H579)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
