@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7
@@ -16,7 +16,7 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (47)
+## Cosponsors (101)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Black, Diane [R-TN-6] (B001273)
@@ -65,6 +65,60 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 - Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
 
 ## Committees (3)
 
@@ -81,3 +135,19 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - 2017-01-13 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-13 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-13 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2017-01-23 — Rules Committee Resolution H. Res. 55 Reported to House. Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2017-01-24 — Considered as unfinished business. (consideration: H660-661)
+- 2017-01-24 — Considered under the provisions of rule H. Res. 55. (consideration: CR H633-646)
+- 2017-01-24 — DEBATE - The House proceeded with 10 minutes of debate on the Schakowsky motion to recommit with instructions. The instructions contained in the motion seek to repor the same back to the House with an amendment to prohibit the underlying bill from permitting any health plan to charge women higher premiums than men for health coverage.
+- 2017-01-24 — DEBATE - The House proceeded with one hour of debate on H.R. 7.
+- 2017-01-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-24 — Ms. Schakowsky moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H646)
+- 2017-01-24 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 235 (Roll no. 64).
+- 2017-01-24 — On passage Passed by recorded vote: 238 - 183 (Roll no. 65). (text of measure as passed: CR H633-635)
+- 2017-01-24 — POSTPONED PROCEEDINGS - At conclusion of debate on the Schakowsky motion to recommit with instructions, the Chair put the question on adoption of the motion and by voice vote announced that the noes had prevailed. Ms. Schakowsky demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption of the motion to recommit until later in the legislative day.
+- 2017-01-24 — Passed/agreed to in House: On passage Passed by recorded vote: 238 - 183 (Roll no. 65).(text of measure as passed: CR H633-635)
+- 2017-01-24 — Rule H. Res. 55 passed House.
+- 2017-01-24 — Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2017-01-24 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-01-24 — The previous question on the motion was ordered without objection.
+- 2017-01-24 — The previous question was ordered pursuant to the rule.
