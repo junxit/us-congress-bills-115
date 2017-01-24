@@ -1,7 +1,7 @@
 ---
 measure: H.R. 587
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 587
@@ -34,9 +34,10 @@ Fair RATES Act
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Fair RATES Act
 - 2017-01-23 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H568)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H568)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
