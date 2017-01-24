@@ -1,7 +1,7 @@
 ---
 measure: H.R. 590
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 590
@@ -24,10 +24,11 @@ Advanced Nuclear Technology Development Act of 2017
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Advanced Nuclear Technology Development Act of 2017
 - 2017-01-23 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H569-570)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H569-570)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
