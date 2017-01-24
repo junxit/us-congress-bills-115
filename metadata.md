@@ -1,7 +1,7 @@
 ---
 measure: H.R. 518
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 518
@@ -22,9 +22,10 @@ EPS Improvement Act of 2017
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ EPS Improvement Act of 2017
 - 2017-01-23 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H571-572)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H571-572)
+- 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
