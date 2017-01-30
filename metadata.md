@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 589
@@ -39,9 +39,10 @@ Department of Energy Research and Innovation Act
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Department of Energy Research and Innovation Act
 - 2017-01-24 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2017-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H646-654)
 - 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H646-654)
+- 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
