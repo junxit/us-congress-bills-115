@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7
@@ -120,11 +120,12 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - Rep. Graves, Tom [R-GA-14] (G000560)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -151,3 +152,4 @@ No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2
 - 2017-01-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-01-24 — The previous question on the motion was ordered without objection.
 - 2017-01-24 — The previous question was ordered pursuant to the rule.
+- 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Finance.
