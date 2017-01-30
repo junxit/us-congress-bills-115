@@ -1,7 +1,7 @@
 ---
 measure: H.R. 600
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 600
@@ -22,9 +22,10 @@ Digital GAP Act
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Digital GAP Act
 - 2017-01-24 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2017-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H657-658)
 - 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H657-658)
+- 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
