@@ -1,0 +1,124 @@
+---
+measure: H.J.Res. 43
+congress: 115
+version: Introduced in House
+---
+
+# H.J.Res. 43
+
+Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Black, Diane [R-TN-6] (B001273)
+
+## Cosponsors (94)
+
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Marshall, Roger [R-KS-1] (M001198)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2017-01-30 — Introduced in House
+- 2017-01-30 — Introduced in House
+- 2017-01-30 — Referred to the House Committee on Energy and Commerce.
