@@ -1,7 +1,7 @@
 ---
 measure: H.R. 381
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 381
@@ -16,7 +16,7 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Cosponsors (28)
+## Cosponsors (45)
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
@@ -46,6 +46,23 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
 
 ## Committees (1)
 
@@ -56,3 +73,9 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Referred to the House Committee on Natural Resources.
+- 2017-01-30 — Considered under suspension of the rules. (consideration: CR H709-710)
+- 2017-01-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 381.
+- 2017-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H709)
+- 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H709)

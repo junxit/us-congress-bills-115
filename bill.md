@@ -18,7 +18,7 @@ Congress finds the following:
 - **(3)** Upon graduation, Staff Sergeant Mote promptly enlisted in the Marine Corps.
 - **(4)** Staff Sergeant Mote spent 9 years serving his country in the United States Marine Corps, including a deployment to Iraq and two deployments to Afghanistan.
 - **(5)** By his decisive actions, heroic initiative, and resolute dedication to duty, Staff Sergeant Mote gave his life to protect fellow Marines on August 10, 2012, by gallantly rushing into action during an attack by a rogue Afghan policeman inside the base perimeter in Helmand province.
-- **(6)** Staff Sergeant Mote was awarded the Navy Cross, a Purple Heart, the Navy-Marine Corps Commendation Medal, a Navy-Marine Corps Achievement Medal, 2 Combat Action Ribbons and 3 Good Conduct Medals.
+- **(6)** Staff Sergeant Mote was awarded the Navy Cross, a Purple Heart, the Navy-Marine Corps Commendation Medal, a Navy-Marine Corps Achievement Medal, two Combat Action Ribbons and three Good Conduct Medals.
 - **(7)** The Congress of the United States, in acknowledgment of this debt that cannot be repaid, honors Staff Sergeant Mote for his ultimate sacrifice and recognizes his service to his country, faithfully executed to his last, full measure of devotion.
 - **(8)** A presently unnamed peak in the center of Humphrey Basin holds special meaning to the friends and family of Sky Mote, as their annual hunting trips set up camp beneath this point; under the stars, the memories made beneath this rounded peak will be cherished forever.
 
