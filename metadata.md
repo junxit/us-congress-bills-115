@@ -1,7 +1,7 @@
 ---
 measure: H.R. 339
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 339
@@ -27,3 +27,10 @@ Northern Mariana Islands Economic Expansion Act
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-05 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-01-10 — Referred to the Subcommittee on Immigration and Border Security.
+- 2017-01-30 — Considered under suspension of the rules. (consideration: CR H710-712)
+- 2017-01-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 339.
+- 2017-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H710)
+- 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H710)
