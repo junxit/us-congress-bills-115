@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 601
@@ -28,9 +28,10 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - 2017-01-24 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2017-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H662-664)
 - 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H662-664)
+- 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
