@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 46
@@ -30,3 +30,10 @@ Fort Ontario Study Act
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Natural Resources.
+- 2017-01-30 — Considered under suspension of the rules. (consideration: CR H712-713)
+- 2017-01-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 46.
+- 2017-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H712)
+- 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H712)
+- 2017-01-30 — Sponsor introductory remarks on measure. (CR H712-713)
