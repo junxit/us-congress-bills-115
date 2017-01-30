@@ -17,7 +17,7 @@ This Act may be cited as the “Ocmulgee Mounds National Historical Park Boundar
 
 In this Act:
 
-- **(1)** *Map* The term “map” means the map entitled “Ocmulgee National Monument Proposed Boundary Adjustment, numbered 363/125996”, and dated January 2017.
+- **(1)** *Map* The term “map” means the map entitled “Ocmulgee National Monument Proposed Boundary Adjustment, numbered 363/125996”, and dated January 2016.
 - **(2)** *Historical park* The term “Historical Park” means the Ocmulgee Mounds National Historical Park in the State of Georgia, as redesignated in section 3.
 - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
@@ -33,7 +33,7 @@ In this Act:
 
 ## § 5. Land acquisition; no buffer zones
 
-- **(a)** *Land acquisition* The Secretary is authorized to acquire land and interests in land within the boundaries of the Historical Park by donation or exchange only (and in the case of an exchange, no payment may be made by the Secretary to any landowner). The Secretary may not acquire by condemnation any land or interest in land within the boundaries of the Historical Park. No private property or non-Federal public property shall be included within the boundaries of the Historical Park without the written consent of the owner of such property.
+- **(a)** *Land acquisition* The Secretary is authorized to acquire land and interests in land within the boundaries of the Historical Park by donation or exchange only (and in the case of an exchange, no payment may be made by the Secretary to any landowner). The Secretary may not acquire by condemnation any land or interest in land within the boundaries of the Historical Park. No private property or non-Federal public property shall be included within the boundaries of the newly expanded portion of the Historical Park under section 4(a) without the written consent of the owner of such property.
 - **(b)** *No buffer zones* Nothing in this Act, the establishment of the Historical Park, or the management of the Historical Park shall be construed to create buffer zones outside of the Historical Park. That an activity or use can be seen or heard from within the Historical Park shall not preclude the conduct of that activity or use outside the Historical Park.
 
 ## § 6. Administration
