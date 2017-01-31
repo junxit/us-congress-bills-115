@@ -1,0 +1,12 @@
+---
+legis-num: H.J. RES. 54
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 54
+
+> Disapproving the rule submitted by the Department of the Treasury and the Internal Revenue Service relating to documentation requirements for certain related-party interests in a corporation to be treated as indebtedness.
+
+That the Congress disapproves the rules submitted by the Department of the Treasury and the Internal Revenue Service relating to documentation requirements for certain related-party interests in a corporation to be treated as indebtedness (published at 81 Fed. Reg. 72858 (October 21, 2016)), and such rule shall have no force or effect.
