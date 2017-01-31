@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 46
@@ -37,3 +37,4 @@ Fort Ontario Study Act
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H712)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H712)
 - 2017-01-30 — Sponsor introductory remarks on measure. (CR H712-713)
+- 2017-01-31 — Received in the Senate.
