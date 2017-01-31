@@ -15,7 +15,7 @@ This Act may be cited as the “First Responder Identification of Emergency Need
 
 ## § 2. Circumstances which may impact first responders during a terrorist event
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that describes select State and local programs and policies, as appropriate, related to the preparedness and protection of first responders. The report may include information on—
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that describes select State and local programs and policies, as appropriate, related to the preparedness and protection of first responders. The report may include information on—
   - **(1)** the degree to which such programs and policies include consideration of the presence of a first responder’s family in an area impacted by a terrorist attack;
   - **(2)** the availability of personal protective equipment for first responders;
   - **(3)** the availability of home Medkits for first responders and their families for biological incident response; and
