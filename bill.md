@@ -19,7 +19,7 @@ This Act may be cited as the “Counterterrorism Advisory Board Act of 2017”.
   > ## § 210G. Departmental coordination on counterterrorism
   >
   > - **(a)** *Establishment* There is in the Department a board to be composed of senior representatives of departmental operational components and headquarters elements. The purpose of the board shall be to coordinate and integrate departmental intelligence, activities, and policy related to the counterterrorism mission and functions of the Department.
-  > - **(b)** *Charter* There shall be a charter to govern the structure and mission of the board. Such charter shall direct the board to focus on the current threat environment and the importance of aligning departmental counterterrorism activities under the Secretary’s guidance. The charter shall be reviewed and updated every four years, as appropriate.
+  > - **(b)** *Charter* There shall be a charter to govern the structure and mission of the board. Such charter shall direct the board to focus on the current threat environment and the importance of aligning departmental counterterrorism activities under the Secretary’s guidance. The charter shall be reviewed and updated every 4 years, as appropriate.
   > - **(c)** *Members*
   >   - **(1)** *Chair* The Secretary shall appoint a Coordinator for Counterterrorism within the Department who will serve as the chair of the board.
   >   - **(2)** *Additional members* The Secretary shall appoint additional members of the board from among the following:
@@ -39,7 +39,7 @@ This Act may be cited as the “Counterterrorism Advisory Board Act of 2017”.
   >     - **(N)** Other Departmental offices and programs as determined appropriate by the Secretary.
   > - **(d)** *Meetings* The board shall meet on a regular basis to discuss intelligence and coordinate ongoing threat mitigation efforts and departmental activities, including coordination with other Federal, State, local, tribal, territorial, and private sector partners, and shall make recommendations to the Secretary.
   > - **(e)** *Terrorism alerts* The board shall advise the Secretary on the issuance of terrorism alerts pursuant to section 203 of this Act.
-  > - **(f)** *Prohibition on additional funds* No additional funds are authorized to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available to the Department.
+  > - **(f)** *Prohibition on additional funds* No additional funds are authorized to carry out this section.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 210F the following new item:
 - **(c)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary, acting through the Coordinator for Counterterrorism, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the status and activities of the board established under section 210G of the Homeland Security Act of 2002, as added by subsection (a).
