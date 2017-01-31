@@ -32,13 +32,13 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 201F the following new item:
 - **(c)** *Report*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall report to the appropriate congressional committees on—
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall report to the appropriate congressional committees on—
     - **(A)** the intelligence and information sharing activities under section 210G of the Homeland Security Act of 2002 (as added by subsection (a) of this section) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, or nuclear materials; and
     - **(B)** the Department’s activities in accordance with relevant intelligence strategies.
   - **(2)** *Assessment of implementation* The reports required under paragraph (1) shall include—
     - **(A)** an assessment of the progress of the Office of Intelligence and Analysis of the Department of Homeland Security in implementing such section 210G; and
     - **(B)** a description of the methods established to carry out such assessment.
-  - **(3)** *Termination* This subsection shall terminate on the date that is five years after the date of the enactment of this Act.
+  - **(3)** *Termination* This subsection shall terminate on the date that is 5 years after the date of the enactment of this Act.
   - **(4)** *Definition* In this subsection, the term appropriate congressional committees means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
 
 ## § 3. Dissemination of information analyzed by the Department to State, local, tribal, and private entities with responsibilities relating to homeland security
