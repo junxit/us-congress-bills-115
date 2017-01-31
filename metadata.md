@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 560
@@ -35,3 +35,4 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to prov
 - 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H717-718)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H717-718)
+- 2017-01-31 — Received in the Senate.
