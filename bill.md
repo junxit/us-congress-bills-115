@@ -27,7 +27,7 @@ Not later than 120 days after the date of the enactment of this Act, the Comptro
 ## § 3. Program for State and local analyst clearances
 
 - **(a)** *Sense of Congress* It is the sense of Congress that any program established by the Under Secretary for Intelligence and Analysis of the Department of Homeland Security to provide eligibility for access to information classified as Top Secret for State, local, tribal, and territorial analysts located in fusion centers shall be consistent with the need to know requirements pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note).
-- **(b)** *Report* Not later than two years after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in consultation with the Director of National Intelligence, shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report on the following:
+- **(b)** *Report* Not later than 2 years after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security, in consultation with the Director of National Intelligence, shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report on the following:
   - **(1)** The process by which the Under Secretary of Intelligence and Analysis determines a need to know pursuant to Executive Order No. 13526 to sponsor Top Secret clearances for appropriate State, local, tribal, and territorial analysts located in fusion centers.
   - **(2)** The effects of such Top Secret clearances on enhancing information sharing with State, local, tribal, and territorial partners.
   - **(3)** The cost for providing such Top Secret clearances for State, local, tribal, and territorial analysts located in fusion centers, including training and background investigations.
@@ -43,7 +43,7 @@ The Under Secretary of Intelligence and Analysis of the Department of Homeland S
 
 ## § 5. Memorandum of understanding
 
-Not later than one year after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security shall enter into a memorandum of understanding with each fusion center in the National Network of Fusion Centers regarding the type of information such fusion centers will provide to the Department and whether such information may be subject to public disclosure.
+Not later than 1 year after the date of the enactment of this Act, the Under Secretary of Intelligence and Analysis of the Department of Homeland Security shall enter into a memorandum of understanding with each fusion center in the National Network of Fusion Centers regarding the type of information such fusion centers will provide to the Department and whether such information may be subject to public disclosure.
 
 ## § 6. Amendments
 
