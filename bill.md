@@ -30,4 +30,4 @@ This Act may be cited as the “Border Security Technology Accountability Act of
 
 ## § 3. Prohibition on additional authorization of appropriations
 
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise available for such purposes.
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise authorized for such purposes.
