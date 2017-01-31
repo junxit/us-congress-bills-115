@@ -1,7 +1,7 @@
 ---
 measure: H.R. 374
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 374
@@ -45,3 +45,4 @@ To remove the sunset provision of section 203 of Public Law 105-384, and for oth
 - 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 66). (text: CR H713)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 66).(text: CR H713)
+- 2017-01-31 — Received in the Senate, read twice.
