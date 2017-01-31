@@ -49,7 +49,7 @@ This Act may be cited as the “United States-Israel Cybersecurity Cooperation E
     - **(A)** a description of how the grant funds were used by the recipient; and
     - **(B)** an evaluation of the level of success of each project funded by the grant.
   - **(8)** *Classification* Grants shall be awarded under this subsection only for projects that are considered to be unclassified by both the United States and Israel.
-- **(b)** *Termination* The grant program and the advisory board established under this section terminate on the date that is seven years after the date of the enactment of this Act.
+- **(b)** *Termination* The grant program and the advisory board established under this section terminate on the date that is 7 years after the date of the enactment of this Act.
 - **(c)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
 - **(d)** *Definitions* In this section—
   - **(1)** the term “cybersecurity research” means research, including social science research, into ways to identify, protect against, detect, respond to, and recover from cybersecurity threats;
