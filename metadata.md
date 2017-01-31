@@ -1,7 +1,7 @@
 ---
 measure: H.R. 549
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 549
@@ -33,3 +33,9 @@ Transit Security Grant Program Flexibility Act
 - 2017-01-13 — Introduced in House
 - 2017-01-13 — Introduced in House
 - 2017-01-13 — Referred to the House Committee on Homeland Security.
+- 2017-01-31 — Considered under suspension of the rules. (consideration: CR H791-792)
+- 2017-01-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 549.
+- 2017-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-01-31 — Mr. Donovan moved to suspend the rules and pass the bill.
+- 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H791)
+- 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H791)
