@@ -1,7 +1,7 @@
 ---
 measure: H.R. 276
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 276
@@ -20,9 +20,10 @@ To amend title 49, United States Code, to ensure reliable air service in America
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To amend title 49, United States Code, to ensure reliable air service in America
 - 2017-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H771)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H771)
 - 2017-01-31 — The title of the measure was amended. Agreed to without objection.
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
