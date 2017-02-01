@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 38
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 38
@@ -16,7 +16,7 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Cosponsors (67)
+## Cosponsors (71)
 
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 - Rep. McKinley, David B. [R-WV-1] (M001180)
@@ -85,6 +85,10 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Brat, Dave [R-VA-7] (B001290)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 
 ## Committees (1)
 
@@ -96,3 +100,16 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on Natural Resources.
 - 2017-01-30 — Rules Committee Resolution H. Res. 70 Reported to House. Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.
+- 2017-01-31 — Rule H. Res. 70 passed House.
+- 2017-02-01 — Considered as unfinished business. (consideration: CR H859)
+- 2017-02-01 — Considered under the provisions of rule H. Res. 70. (consideration: CR H840-848)
+- 2017-02-01 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 38.
+- 2017-02-01 — Measure laid before Senate by motion. (consideration: CR S562-574)
+- 2017-02-01 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 42. (consideration: CR S561-562)
+- 2017-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-01 — On passage Passed by the Yeas and Nays: 228 - 194 (Roll no. 73). (text: CR H840)
+- 2017-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 38, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2017-02-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 194 (Roll no. 73).(text: CR H840)
+- 2017-02-01 — Received in the Senate, read twice.
+- 2017-02-01 — Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.
+- 2017-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H848)
