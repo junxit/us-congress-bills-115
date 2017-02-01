@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 41
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 41
@@ -56,9 +56,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Financial Services Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2017-02-01 — [House 115-1-72](votes/house-115-1-0072.md) — On Passage — **Passed** (235–187)
+- 2017-02-02 — [Senate 115-1-50](votes/senate-115-1-0050.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–48)
+- 2017-02-03 — [Senate 115-1-51](votes/senate-115-1-0051.md) — On the Joint Resolution — **Joint Resolution Passed** (52–47)
 
 ## Actions
 
@@ -74,3 +76,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-01 — Received in the Senate, read twice.
 - 2017-02-01 — Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
 - 2017-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H858)
+- 2017-02-02 — Measure laid before Senate by motion. (consideration: CR S634-653)
+- 2017-02-02 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 50. (consideration: CR S634)
+- 2017-02-03 — Considered by Senate. (consideration: CR S663-664)
+- 2017-02-03 — Message on Senate action sent to the House.
+- 2017-02-03 — Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 51.
+- 2017-02-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 51.
+- 2017-02-06 — Presented to President.
+- 2017-02-06 — Presented to President.
+- 2017-02-14 — Signed by President.
+- 2017-02-14 — Signed by President.
