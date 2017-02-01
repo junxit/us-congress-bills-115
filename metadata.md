@@ -1,7 +1,7 @@
 ---
 measure: H.R. 642
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 642
@@ -21,9 +21,10 @@ Fusion Center Enhancement Act of 2017
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Fusion Center Enhancement Act of 2017
 - 2017-01-31 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H778-779)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H778-779)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
