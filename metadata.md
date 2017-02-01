@@ -1,7 +1,7 @@
 ---
 measure: H.R. 549
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 549
@@ -24,9 +24,10 @@ Transit Security Grant Program Flexibility Act
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Transit Security Grant Program Flexibility Act
 - 2017-01-31 — Mr. Donovan moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H791)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H791)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
