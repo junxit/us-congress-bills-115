@@ -1,7 +1,7 @@
 ---
 measure: H.R. 697
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 697
@@ -16,9 +16,10 @@ Department of Homeland Security Clearance Management and Administration Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Department of Homeland Security Clearance Management and Administration Act
 - 2017-01-31 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H776-777)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H776-777)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
