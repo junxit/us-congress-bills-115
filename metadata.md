@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 38
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 38
@@ -113,3 +113,11 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 - 2017-02-01 — Received in the Senate, read twice.
 - 2017-02-01 — Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.
 - 2017-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H848)
+- 2017-02-02 — Considered by Senate. (consideration: CR S611-632)
+- 2017-02-02 — Message on Senate action sent to the House.
+- 2017-02-02 — Passed Senate without amendment by Yea-Nay Vote. 54 - 45. Record Vote Number: 43.
+- 2017-02-02 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 54 - 45. Record Vote Number: 43.
+- 2017-02-06 — Presented to President.
+- 2017-02-06 — Presented to President.
+- 2017-02-16 — Signed by President.
+- 2017-02-16 — Signed by President.
