@@ -1,7 +1,7 @@
 ---
 measure: H.R. 381
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 381
@@ -64,9 +64,10 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -79,3 +80,5 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H709)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H709)
+- 2017-01-31 — Received in the Senate.
+- 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
