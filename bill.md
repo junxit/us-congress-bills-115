@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 784
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 784
+
+> To amend title 28 of the United States Code to exclude the State of New Jersey from the prohibition on professional and amateur sports gambling to the extent approved by the legislature of the State.
+
+## § 1. Short title
+
+This Act may be cited as the “New Jersey Betting and Equal Treatment Act of 2017”.
+
+## § 2. Exclusion of the State of New Jersey from the prohibition on amateur and professional sports gambling to the extent approved by the legislature of the State
+
+Section 3704(a) of title 28, United States Code, is amended—
+
+- **(1)** in paragraph (3)(B), by striking “or” at the end;
+- **(2)** in paragraph (4), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(5)** a lottery, sweepstakes, or other betting, gambling, or waging scheme operating exclusively in the State of New Jersey, to the extent such scheme is approved by the legislature of the State by statute.
+
+## § 3. Applicability
+
+The amendments made by this Act apply to conduct occurring on or after the date of the enactment of this Act.
