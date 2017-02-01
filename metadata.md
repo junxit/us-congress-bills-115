@@ -1,7 +1,7 @@
 ---
 measure: H.R. 666
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 666
@@ -22,9 +22,10 @@ Department of Homeland Security Insider Threat and Mitigation Act of 2017
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Department of Homeland Security Insider Threat and Mitigation Act of 2017
 - 2017-01-31 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H775)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H775)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
