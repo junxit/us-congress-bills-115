@@ -1,7 +1,7 @@
 ---
 measure: H.R. 584
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 584
@@ -22,9 +22,10 @@ Cyber Preparedness Act of 2017
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Cyber Preparedness Act of 2017
 - 2017-01-31 — Mr. Donovan moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H793)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H793)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
