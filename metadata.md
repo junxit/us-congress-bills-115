@@ -1,7 +1,7 @@
 ---
 measure: H.R. 690
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 690
@@ -16,9 +16,10 @@ Gains in Global Nuclear Detection Architecture Act
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Gains in Global Nuclear Detection Architecture Act
 - 2017-01-31 — Mr. Donovan moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H794-795)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H794-795)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
