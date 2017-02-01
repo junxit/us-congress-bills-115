@@ -1,7 +1,7 @@
 ---
 measure: H.R. 437
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 437
@@ -21,9 +21,10 @@ Medical Preparedness Allowable Use Act
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Medical Preparedness Allowable Use Act
 - 2017-01-31 — Mr. Donovan moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H797)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H797)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
