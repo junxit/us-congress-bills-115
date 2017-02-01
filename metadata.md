@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 41
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 41
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 
-## Cosponsors (32)
+## Cosponsors (33)
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -50,10 +50,15 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2017-02-01 — [House 115-1-72](votes/house-115-1-0072.md) — On Passage — **Passed** (235–187)
 
 ## Actions
 
@@ -61,3 +66,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on Financial Services.
 - 2017-01-30 — Rules Committee Resolution H. Res. 71 Reported to House. Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
+- 2017-02-01 — Considered under the provisions of rule H. Res. 71. (consideration: CR H848-859)
+- 2017-02-01 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 41.
+- 2017-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-01 — On passage Passed by the Yeas and Nays: 235 - 187 (Roll no. 72). (text: CR H848)
+- 2017-02-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 187 (Roll no. 72).(text: CR H848)
+- 2017-02-01 — Received in the Senate, read twice.
+- 2017-02-01 — Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
+- 2017-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H858)
