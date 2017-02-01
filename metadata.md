@@ -1,7 +1,7 @@
 ---
 measure: H.R. 558
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 558
@@ -26,9 +26,10 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,5 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act
 - 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H716)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H716)
+- 2017-01-31 — Received in the Senate.
+- 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
