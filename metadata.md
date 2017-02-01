@@ -1,7 +1,7 @@
 ---
 measure: H.R. 665
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 665
@@ -24,9 +24,10 @@ Airport Perimeter and Access Control Security Act of 2017
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Airport Perimeter and Access Control Security Act of 2017
 - 2017-01-31 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H782-783)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H782-783)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
