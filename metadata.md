@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 538
@@ -20,9 +20,10 @@ Ocmulgee Mounds National Historical Park Boundary Revision Act
 
 - Rep. Scott, Austin [R-GA-8] (S001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,5 @@ Ocmulgee Mounds National Historical Park Boundary Revision Act
 - 2017-01-30 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2017-01-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 8 (Roll no. 67). (text: CR H714)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 8 (Roll no. 67).(text: CR H714)
+- 2017-01-31 — Received in the Senate.
+- 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
