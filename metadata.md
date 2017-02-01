@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 71
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 71
@@ -16,6 +16,10 @@ Providing for consideration of the joint resolution (H.J. Res. 41) providing for
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2017-01-30 — Introduced in House
@@ -23,3 +27,9 @@ Providing for consideration of the joint resolution (H.J. Res. 41) providing for
 - 2017-01-30 — The House Committee on Rules reported an original measure, H. Rept. 115-7, by Mr. Buck.
 - 2017-01-30 — The House Committee on Rules reported an original measure, H. Rept. 115-7, by Mr. Buck.
 - 2017-01-30 — The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
+- 2017-02-01 — Considered as privileged matter. (consideration: CR H831-839)
+- 2017-02-01 — DEBATE - The House proceeded with one hour of debate on H. Res. 71.
+- 2017-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-01 — On agreeing to the resolution Agreed to by recorded vote: 231 - 191 (Roll no. 71). (text: CR H831)
+- 2017-02-01 — On ordering the previous question Agreed to by the Yeas and Nays: 231 - 191 (Roll no. 70). (consideration: CR H838-839)
+- 2017-02-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 231 - 191 (Roll no. 71).(text: CR H831)
