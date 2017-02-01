@@ -1,7 +1,7 @@
 ---
 measure: H.R. 526
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 526
@@ -28,9 +28,10 @@ Counterterrorism Advisory Board Act of 2017
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Counterterrorism Advisory Board Act of 2017
 - 2017-01-31 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2017-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H781)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H781)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
