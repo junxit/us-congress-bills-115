@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 366
@@ -21,9 +21,10 @@ DHS SAVE Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ DHS SAVE Act
 - 2017-01-31 — Mr. Perry moved to suspend the rules and pass the bill.
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H788-789)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H788-789)
+- 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
