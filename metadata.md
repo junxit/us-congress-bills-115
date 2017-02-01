@@ -1,7 +1,7 @@
 ---
 measure: H.R. 321
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 321
@@ -108,3 +108,10 @@ Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPI
 - 2017-02-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
 - 2017-02-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
 - 2017-02-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.
+- 2017-02-14 — Passed Senate without amendment by Voice Vote. (consideration: CR S1163)
+- 2017-02-14 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1163)
+- 2017-02-15 — Message on Senate action sent to the House.
+- 2017-02-16 — Presented to President.
+- 2017-02-16 — Presented to President.
+- 2017-02-28 — Signed by President.
+- 2017-02-28 — Signed by President.
