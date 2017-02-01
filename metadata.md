@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 38
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 38
@@ -94,10 +94,11 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 
 - House — Natural Resources Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2017-02-01 — [House 115-1-73](votes/house-115-1-0073.md) — On Passage — **Passed** (228–194)
 - 2017-02-01 — [Senate 115-1-42](votes/senate-115-1-0042.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (56–42)
+- 2017-02-02 — [Senate 115-1-43](votes/senate-115-1-0043.md) — On the Joint Resolution — **Joint Resolution Passed** (54–45)
 
 ## Actions
 
@@ -118,3 +119,11 @@ Disapproving the rule submitted by the Department of the Interior known as the S
 - 2017-02-01 — Received in the Senate, read twice.
 - 2017-02-01 — Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.
 - 2017-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H848)
+- 2017-02-02 — Considered by Senate. (consideration: CR S611-632)
+- 2017-02-02 — Message on Senate action sent to the House.
+- 2017-02-02 — Passed Senate without amendment by Yea-Nay Vote. 54 - 45. Record Vote Number: 43.
+- 2017-02-02 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 54 - 45. Record Vote Number: 43.
+- 2017-02-06 — Presented to President.
+- 2017-02-06 — Presented to President.
+- 2017-02-16 — Signed by President.
+- 2017-02-16 — Signed by President.
