@@ -22,6 +22,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Gene Cernan logged 566 hours and 15 minutes in space, of which more than 73 hours were spent on the surface of the Moon;
 - Whereas Gene Cernan and the crew of Apollo 17 set records that still stand today, for longest manned lunar landing flight, longest lunar surface extra vehicular activities, largest lunar sample return, and longest time in lunar orbit;
 - Whereas Gene Cernan retired from the Navy after 20 years and ended his NASA career in July 1976; and
-- Whereas, on January 16, 2016, Gene Cernan passed away in Houston, Texas, leaving behind a vibrant history of space exploration and advocacy for NASA, a legacy of inspiring young people to “dream the impossible”, and a documentary that encourages continual human space exploration: Now, therefore, be it
+- Whereas, on January 16, 2017, Gene Cernan passed away in Houston, Texas, leaving behind a vibrant history of space exploration and advocacy for NASA, a legacy of inspiring young people to “dream the impossible”, and a documentary that encourages continual human space exploration: Now, therefore, be it
 
 That the Senate honors the life of Gene Cernan, a Naval aviator, fighter pilot, electrical engineer, and the last astronaut to walk on the Moon.
