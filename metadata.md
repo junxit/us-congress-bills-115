@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 40
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 40
@@ -143,6 +143,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2017-02-02 — [House 115-1-77](votes/house-115-1-0077.md) — On Passage — **Passed** (235–180)
+
 ## Actions
 
 - 2017-01-30 — Introduced in House
@@ -150,3 +154,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-01-30 — Referred to the House Committee on the Judiciary.
 - 2017-01-30 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
 - 2017-01-30 — Rules Committee Resolution H. Res. 71 Reported to House. Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
+- 2017-02-01 — Rule H. Res. 71 passed House.
+- 2017-02-02 — Considered as unfinished business. (consideration: CR H916-917)
+- 2017-02-02 — Considered under the provisions of rule H. Res. 71. (consideration: CR H894-907)
+- 2017-02-02 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 40.
+- 2017-02-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-02 — On passage Passed by recorded vote: 235 - 180 (Roll no. 77). (text: CR H895)
+- 2017-02-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 40, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on passage until a time to be announced.
+- 2017-02-02 — Passed/agreed to in House: On passage Passed by recorded vote: 235 - 180 (Roll no. 77).(text: CR H895)
+- 2017-02-02 — Received in the Senate, read twice.
+- 2017-02-02 — Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
+- 2017-02-02 — The previous question was ordered pursuant to the rule. (consideration: CR H907)
