@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 40
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 40
@@ -161,3 +161,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-02 — Received in the Senate, read twice.
 - 2017-02-02 — Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions.
 - 2017-02-02 — The previous question was ordered pursuant to the rule. (consideration: CR H907)
+- 2017-02-14 — Measure laid before Senate by motion. (consideration: CR S1142-1157)
+- 2017-02-14 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2017-02-15 — Considered by Senate. (consideration: CR S1167-1169)
+- 2017-02-15 — Message on Senate action sent to the House.
+- 2017-02-15 — Passed Senate without amendment by Yea-Nay Vote. 57 - 43. Record Vote Number: 66.
+- 2017-02-15 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 57 - 43. Record Vote Number: 66.
+- 2017-02-16 — Presented to President.
+- 2017-02-16 — Presented to President.
+- 2017-02-28 — Signed by President.
+- 2017-02-28 — Signed by President.
