@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 819
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 819
+
+> To amend the Internal Revenue Code of 1986 to prohibit aliens in an unlawful immigration status from claiming the earned income tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Tax Credit Accountability Act of 2017”.
+
+## § 2. Disallowing earned income tax credit for aliens in unlawful immigration status
+
+- **(a)** *In general* Section 32(c)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(G)** *Exception for aliens in unlawful immigration status* The term eligible individual does not include any alien individual who, at any point during the taxable year, is in an unlawful immigration status.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to—
+  - **(1)** any return of tax which is filed after the date of the enactment of this Act, and
+  - **(2)** any amendment or supplement (to any return of tax) which is filed after such date (without regard to the date on which the return of tax is filed).
