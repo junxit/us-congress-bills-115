@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 37
@@ -40,9 +40,11 @@ Disapproving the rule submitted by the Department of Defense, the General Servic
 
 - House — Oversight and Accountability Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2017-02-02 — [House 115-1-76](votes/house-115-1-0076.md) — On Passage — **Passed** (236–187)
+- 2017-03-02 — [Senate 115-1-80](votes/senate-115-1-0080.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–46)
+- 2017-03-06 — [Senate 115-1-81](votes/senate-115-1-0081.md) — On the Joint Resolution — **Joint Resolution Passed** (49–48)
 
 ## Actions
 
@@ -59,3 +61,13 @@ Disapproving the rule submitted by the Department of Defense, the General Servic
 - 2017-02-02 — Received in the Senate, read twice.
 - 2017-02-02 — Rule H. Res. 74 passed House.
 - 2017-02-02 — The previous question was ordered pursuant to the rule. (consideration: CR H915-916)
+- 2017-03-02 — Measure laid before Senate by motion.
+- 2017-03-02 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 80. (consideration: CR S1564-1571)
+- 2017-03-06 — Considered by Senate. (consideration: CR S1591-1601)
+- 2017-03-06 — Passed Senate without amendment by Yea-Nay Vote. 49 - 48. Record Vote Number: 81.
+- 2017-03-06 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 49 - 48. Record Vote Number: 81.
+- 2017-03-07 — Message on Senate action sent to the House.
+- 2017-03-16 — Presented to President.
+- 2017-03-16 — Presented to President.
+- 2017-03-27 — Signed by President.
+- 2017-03-27 — Signed by President.
