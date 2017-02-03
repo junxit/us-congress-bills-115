@@ -1,7 +1,7 @@
 ---
 measure: S. 305
 congress: 115
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
