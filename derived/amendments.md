@@ -1,7 +1,7 @@
 ---
 measure: S. 305
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
