@@ -1,0 +1,26 @@
+---
+legis-num: S. 316
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 316
+
+> To amend the Mineral Leasing Act to recognize the authority of States to regulate oil and gas operations and promote American energy security, development, and job creation, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting States’ Rights to Promote American Energy Security Act”.
+
+## § 2. State authority for hydraulic fracturing regulation
+
+The Mineral Leasing Act is amended—
+
+- **(1)** by redesignating section 44 (30 U.S.C. 181 note) as section 45; and
+- **(2)** by inserting after section 43 (30 U.S.C. 226–3) the following:
+  > ## § 44. State authority for hydraulic fracturing regulation
+  >
+  > - **(a)** *Definition of hydraulic fracturing* In this section the term hydraulic fracturing means the process by which fracturing fluids (or a fracturing fluid system) are pumped into an underground geologic formation at a calculated, predetermined rate and pressure to generate fractures or cracks in the target formation and, as a result, increase the permeability of the rock near the wellbore and improve production of natural gas or oil.
+  > - **(b)** *Prohibition* The Secretary of the Interior shall not enforce any Federal regulation, guidance, or permit requirement regarding hydraulic fracturing, or any component of hydraulic fracturing, relating to oil, gas, or geothermal production activities on or under any land in any State that has regulations, guidance, or permit requirements for hydraulic fracturing.
+  > - **(c)** *State authority* The Secretary of the Interior shall recognize and defer to State regulations, guidance, and permitting for all activities regarding hydraulic fracturing, or any component of hydraulic fracturing, relating to oil, gas, or geothermal production activities on Federal land regardless of whether the regulations, guidance, and permitting are duplicative, more or less restrictive, have different requirements, or do not meet Federal regulations, guidance, or permit requirements.
