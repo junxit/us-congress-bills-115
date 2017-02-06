@@ -1,7 +1,7 @@
 ---
 measure: S. 305
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 305
@@ -20,9 +20,15 @@ Vietnam War Veterans Recognition Act of 2017
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2017-02-03 — Introduced in Senate
 - 2017-02-03 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S683; text as passed Senate: CR S683)
 - 2017-02-03 — Message on Senate action sent to the House.
 - 2017-02-03 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S683; text as passed Senate: CR S683)
+- 2017-02-06 — Received in the House.
+- 2017-02-06 — Referred to the House Committee on the Judiciary.
