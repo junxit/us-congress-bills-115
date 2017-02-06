@@ -1,7 +1,7 @@
 ---
 measure: H.R. 618
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 618
@@ -30,3 +30,9 @@ Crags, Colorado Land Exchange Act of 2017
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Referred to the House Committee on Natural Resources.
+- 2017-02-06 — Considered under suspension of the rules. (consideration: CR H980-982)
+- 2017-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 618.
+- 2017-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-06 — Mr. Lamborn moved to suspend the rules and pass the bill.
+- 2017-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H980-981)
+- 2017-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H980-981)
