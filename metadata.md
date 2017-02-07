@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 18
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 18
@@ -36,3 +36,4 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2017-02-06 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2017-02-06 — On agreeing to the resolution Agreed to without objection. (text: CR H994)
 - 2017-02-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H994)
+- 2017-02-07 — Received in the Senate.
