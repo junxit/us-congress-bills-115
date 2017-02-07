@@ -1,7 +1,7 @@
 ---
 measure: H.R. 618
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 618
@@ -21,9 +21,10 @@ Crags, Colorado Land Exchange Act of 2017
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Crags, Colorado Land Exchange Act of 2017
 - 2017-02-06 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2017-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H980-981)
 - 2017-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H980-981)
+- 2017-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
