@@ -1,7 +1,7 @@
 ---
 measure: H.R. 337
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 337
@@ -16,10 +16,11 @@ Black Hills National Cemetery Boundary Expansion Act
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Black Hills National Cemetery Boundary Expansion Act
 - 2017-02-06 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2017-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 80). (text: CR H985-986)
 - 2017-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 80).(text: CR H985-986)
+- 2017-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
