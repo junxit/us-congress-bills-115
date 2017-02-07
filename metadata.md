@@ -1,7 +1,7 @@
 ---
 measure: H.R. 387
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 387
@@ -157,9 +157,10 @@ Email Privacy Act
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -173,3 +174,4 @@ Email Privacy Act
 - 2017-02-06 — Mr. Yoder moved to suspend the rules and pass the bill.
 - 2017-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H988-989)
 - 2017-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H988-989)
+- 2017-02-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
