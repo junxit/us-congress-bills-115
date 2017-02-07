@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 18
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 18
@@ -37,3 +37,6 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2017-02-06 — On agreeing to the resolution Agreed to without objection. (text: CR H994)
 - 2017-02-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H994)
 - 2017-02-07 — Received in the Senate.
+- 2017-02-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1092-1093)
+- 2017-02-10 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1092-1093)
+- 2017-02-13 — Message on Senate action sent to the House.
