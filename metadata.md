@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 91
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 91
@@ -20,6 +20,11 @@ Providing for consideration of the joint resolution (H.J. Res. 44) disapproving 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2017-02-07 — [House 115-1-81](votes/house-115-1-0081.md) — On Ordering the Previous Question — **Passed** (234–187)
+- 2017-02-07 — [House 115-1-82](votes/house-115-1-0082.md) — On Agreeing to the Resolution — **Passed** (233–186)
+
 ## Actions
 
 - 2017-02-06 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the joint resolution (H.J. Res. 44) disapproving 
 - 2017-02-06 — The House Committee on Rules reported an original measure, H. Rept. 115-9, by Mr. Byrne.
 - 2017-02-06 — The House Committee on Rules reported an original measure, H. Rept. 115-9, by Mr. Byrne.
 - 2017-02-06 — The resolution provides for one hour of debate on each joint resolution. Each joint resolution is closed to amendments and allowed one motion to recommit.
+- 2017-02-07 — Considered as privileged matter. (consideration: CR H1023-1031)
+- 2017-02-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 91.
+- 2017-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-07 — On agreeing to the resolution Agreed to by recorded vote: 233 - 186 (Roll no. 82). (text: CR H1023)
+- 2017-02-07 — On ordering the previous question Agreed to by the Yeas and Nays: 234 - 187 (Roll no. 81).
+- 2017-02-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 186 (Roll no. 82).(text: CR H1023)
