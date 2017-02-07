@@ -1,0 +1,142 @@
+---
+measure: H.R. 947
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 947
+
+FAMILY Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+
+## Cosponsors (112)
+
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Evans, Dwight [D-PA-2] (E000296)
+- Rep. Kihuen, Ruben J. [D-NV-4] (K000390)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Capuano, Michael E. [D-MA-7] (C001037)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2017-02-07 — Introduced in House
+- 2017-02-07 — Introduced in House
+- 2017-02-07 — Referred to the House Committee on Ways and Means.
