@@ -1,0 +1,29 @@
+---
+legis-num: S. 345
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 345
+
+> To amend the Fair Labor Standards Act of 1938 to strengthen equal pay requirements.
+
+## § 1. Short title
+
+This Act may be cited as the “Workplace Advancement Act”.
+
+## § 2. Enhanced enforcement of Equal Pay Act requirements
+
+Section 15(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)) is amended—
+
+- **(1)** in paragraph (5), by striking the period and inserting “; or”; and
+- **(2)** by adding at the end the following:
+  > - **(6)** to discharge or in any other manner retaliate against any employee because such employee has inquired about, discussed, or disclosed comparative compensation information for the purpose of determining whether the employer is compensating an employee in a manner that provides equal pay for equal work, except that this paragraph shall not apply to instances in which an employee who has access to the wage information of other employees as a part of such employee’s job functions discloses the wages of such other employees to an individual who does not otherwise have access to such information, unless such disclosure is in response to a charge or complaint or in furtherance of an investigation, proceeding, hearing, or action under section 6(d), including an investigation conducted by the employer.
+
+## § 3. Sense of Congress
+
+It is the sense of Congress that—
+
+- **(1)** gender-based discrimination in wages or compensation violates existing law; and
+- **(2)** Congress recommits itself to the principles of equal pay for equal work as enshrined in section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d); commonly referred to as the “Equal Pay Act of 1963”) and title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.).
