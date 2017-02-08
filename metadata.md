@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 44
@@ -58,3 +58,4 @@ Disapproving the rule submitted by the Department of the Interior relating to Bu
 - 2017-02-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 186 (Roll no. 83).(text: CR H1032)
 - 2017-02-07 — Rule provides for consideration of H.J. Res. 44, H.J. Res. 57 and H.J. Res. 58. The resolution provides for one hour of debate on each joint resolution. Each joint resolution is closed to amendments and allowed one motion to recommit.
 - 2017-02-07 — The previous question was ordered pursuant to the rule.
+- 2017-02-08 — Received in the Senate, read twice.
