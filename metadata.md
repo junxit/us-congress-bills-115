@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 58
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 58
@@ -36,9 +36,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-02-07 — [House 115-1-85](votes/house-115-1-0085.md) — On Passage — **Passed** (240–181)
+- 2017-03-08 — [Senate 115-1-83](votes/senate-115-1-0083.md) — On the Joint Resolution — **Joint Resolution Passed** (59–40)
 
 ## Actions
 
@@ -57,3 +58,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-07 — Rule provides for consideration of H.J. Res. 44, H.J. Res. 57 and H.J. Res. 58. The resolution provides for one hour of debate on each joint resolution. Each joint resolution is closed to amendments and allowed one motion to recommit.
 - 2017-02-07 — The previous question was ordered pursuant to the rule.
 - 2017-02-08 — Received in the Senate.
+- 2017-03-07 — Measure laid before Senate by motion. (consideration: CR S1625-1627)
+- 2017-03-07 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S1625)
+- 2017-03-08 — Considered by Senate. (consideration: CR S1651, S1663-1666)
+- 2017-03-08 — Passed Senate without amendment by Yea-Nay Vote. 59 - 40. Record Vote Number: 83.
+- 2017-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 59 - 40. Record Vote Number: 83.
+- 2017-03-09 — Message on Senate action sent to the House.
+- 2017-03-16 — Presented to President.
+- 2017-03-16 — Presented to President.
+- 2017-03-27 — Signed by President.
+- 2017-03-27 — Signed by President.
