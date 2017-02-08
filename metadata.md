@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 58
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 58
@@ -56,3 +56,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-07 — Rule H. Res. 91 passed House.
 - 2017-02-07 — Rule provides for consideration of H.J. Res. 44, H.J. Res. 57 and H.J. Res. 58. The resolution provides for one hour of debate on each joint resolution. Each joint resolution is closed to amendments and allowed one motion to recommit.
 - 2017-02-07 — The previous question was ordered pursuant to the rule.
+- 2017-02-08 — Received in the Senate.
