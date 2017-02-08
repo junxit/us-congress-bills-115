@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 57
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 57
@@ -52,3 +52,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-07 — Rule provides for consideration of H.J. Res. 44, H.J. Res. 57 and H.J. Res. 58. The resolution provides for one hour of debate on each joint resolution. Each joint resolution is closed to amendments and allowed one motion to recommit.
 - 2017-02-07 — The previous question was ordered pursuant to the rule.
 - 2017-02-08 — Received in the Senate.
+- 2017-03-08 — Measure laid before Senate by motion. (consideration: CR S1666-1672, S1681-1686, S1697)
+- 2017-03-08 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S1666)
+- 2017-03-09 — Considered by Senate. (consideration: CR S1704, S1709-1714)
+- 2017-03-09 — Message on Senate action sent to the House.
+- 2017-03-09 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 84.
+- 2017-03-09 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 84.
+- 2017-03-16 — Presented to President.
+- 2017-03-16 — Presented to President.
+- 2017-03-27 — Signed by President.
+- 2017-03-27 — Signed by President.
