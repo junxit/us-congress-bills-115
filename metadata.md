@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 44
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 44
@@ -39,3 +39,7 @@ A resolution designating February 6 through 10, 2017, as "National School Counse
 
 - 2017-02-03 — Introduced in Senate
 - 2017-02-03 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S681)
+- 2017-02-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-02-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-02-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1092)
+- 2017-02-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1092)
