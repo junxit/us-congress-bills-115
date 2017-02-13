@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 512
 
-> To title 38, United States Code, to permit veterans to grant access to their records in the databases of the Veterans Benefits Administration to certain designated congressional employees, and for other purposes.
+> To amend title 38, United States Code, to permit veterans to grant access to their records in the databases of the Veterans Benefits Administration to certain designated congressional employees, and for other purposes.
 
 ## § 1. Short title
 
@@ -34,6 +34,4 @@ This Act may be cited as the “Working to Integrate Networks Guaranteeing Membe
   >   - **(3)** The term Member of Congress means a Representative, a Senator, a Delegate to Congress, or the Resident Commissioner of Puerto Rico.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
-- **(c)** *No authorization of appropriations*
-  - **(1)** *In general* No additional funds are authorized to be appropriated to carry out this section or the amendments made by this section. This section and such amendments may only be carried out using amounts otherwise authorized to be appropriated.
-  - **(2)** *Amounts otherwise available* For the period of fiscal years 2018 through 2021, not more than $10,000,000 may be made available to carry out section 5906 of title 38, United States Code, as added by subsection (a).
+- **(c)** *No authorization of appropriations* No additional funds are authorized to be appropriated to carry out this section or the amendments made by this section. This section and such amendments may only be carried out using amounts otherwise authorized to be appropriated, of which, during the period of fiscal years 2018 through 2021, not more than $10,000,000 may be obligated or expended for such purpose.

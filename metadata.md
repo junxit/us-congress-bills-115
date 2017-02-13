@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 512
@@ -16,7 +16,7 @@ WINGMAN Act
 
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Cosponsors (152)
+## Cosponsors (174)
 
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
@@ -170,6 +170,28 @@ WINGMAN Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. DeSantis, Ron [R-FL-6] (D000621)
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Blum, Rod [R-IA-1] (B001294)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
 
 ## Committees (1)
 
@@ -181,3 +203,11 @@ WINGMAN Act
 - 2017-01-12 — Introduced in House
 - 2017-01-12 — Referred to the House Committee on Veterans' Affairs.
 - 2017-01-12 — Sponsor introductory remarks on measure. (CR H397)
+- 2017-02-03 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2017-02-13 — Considered under suspension of the rules. (consideration: CR H1106-1108)
+- 2017-02-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 512.
+- 2017-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1106)
+- 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1106)
+- 2017-02-13 — The title of the measure was amended. Agreed to without objection.
