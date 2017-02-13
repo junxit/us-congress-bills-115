@@ -1,7 +1,7 @@
 ---
 measure: H.R. 609
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 609
@@ -45,3 +45,10 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - 2017-01-23 — Introduced in House
 - 2017-01-23 — Introduced in House
 - 2017-01-23 — Referred to the House Committee on Veterans' Affairs.
+- 2017-02-03 — Referred to the Subcommittee on Health.
+- 2017-02-13 — Considered under suspension of the rules. (consideration: CR H1104-1106)
+- 2017-02-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 609.
+- 2017-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2017-02-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1104-1105)
+- 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1104-1105)
