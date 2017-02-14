@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 512
@@ -193,9 +193,10 @@ WINGMAN Act
 - Rep. Walker, Mark [R-NC-6] (W000819)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -211,3 +212,4 @@ WINGMAN Act
 - 2017-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1106)
 - 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1106)
 - 2017-02-13 — The title of the measure was amended. Agreed to without objection.
+- 2017-02-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
