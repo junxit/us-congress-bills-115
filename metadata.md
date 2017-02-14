@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 116
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 116
@@ -20,6 +20,11 @@ Providing for consideration of the joint resolution (H.J. Res. 66) disapproving 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2017-02-14 — [House 115-1-90](votes/house-115-1-0090.md) — On Ordering the Previous Question — **Passed** (227–188)
+- 2017-02-14 — [House 115-1-91](votes/house-115-1-0091.md) — On Agreeing to the Resolution — **Passed** (227–188)
+
 ## Actions
 
 - 2017-02-13 — Each joint resolution shall be considered as read. All points of order against provisions in each joint resolution are waived. The previous question shall be considered as ordered on each joint resolution without intervening motion except one hour of debate and one motion to recommit.
@@ -27,3 +32,11 @@ Providing for consideration of the joint resolution (H.J. Res. 66) disapproving 
 - 2017-02-13 — Placed on the House Calendar, Calendar No. 11.
 - 2017-02-13 — The House Committee on Rules reported an original measure, H. Rept. 115-11, by Mr. Byrne.
 - 2017-02-13 — The House Committee on Rules reported an original measure, H. Rept. 115-11, by Mr. Byrne.
+- 2017-02-14 — Considered as privileged matter. (consideration: CR H1139-1145)
+- 2017-02-14 — Considered as unfinished business. (consideration: CR H1152-1154)
+- 2017-02-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 116.
+- 2017-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-14 — On agreeing to the resolution Agreed to by recorded vote: 227 - 188 (Roll no. 91). (text: CR H1139)
+- 2017-02-14 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 188 (Roll no. 90). (consideration: CR H1152-1154)
+- 2017-02-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 116, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays, and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.
+- 2017-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 188 (Roll no. 91).(text: CR H1139)
