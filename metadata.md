@@ -1,7 +1,7 @@
 ---
 measure: H.R. 609
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 609
@@ -54,3 +54,12 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - 2017-02-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1104-1105)
 - 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1104-1105)
 - 2017-02-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-02-17 — Message on Senate action sent to the House.
+- 2017-02-17 — Passed Senate without amendment by Unanimous Consent.
+- 2017-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2017-02-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1415)
+- 2017-02-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1415)
+- 2017-03-01 — Presented to President.
+- 2017-03-01 — Presented to President.
+- 2017-03-13 — Signed by President.
+- 2017-03-13 — Signed by President.
