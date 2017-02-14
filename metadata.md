@@ -1,7 +1,7 @@
 ---
 measure: H.R. 609
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 609
@@ -36,9 +36,10 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the Department of Veterans Affairs health care center in Center Tow
 - 2017-02-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
 - 2017-02-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1104-1105)
 - 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1104-1105)
+- 2017-02-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
