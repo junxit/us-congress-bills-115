@@ -1,7 +1,7 @@
 ---
 measure: H.R. 244
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 244
@@ -47,9 +47,10 @@ Consolidated Appropriations Act, 2017
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -70,3 +71,4 @@ Consolidated Appropriations Act, 2017
 - 2017-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 86). (text: CR H1109-1110)
 - 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 86).(text: CR H1109-1110)
 - 2017-02-13 — The title of the measure was amended. Agreed to without objection.
+- 2017-02-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
