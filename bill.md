@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 1041
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1041
+
+> To amend the Internal Revenue Code of 1986 to deny the refundable portion of the child tax credit to individuals who are not authorized to be employed in the United States and to terminate the use of certifying acceptance agents to facilitate the application process for ITINs.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Handouts to Unauthorized Taxpayers Act of 2017” or the “SHUT Act of 2017”.
+
+## § 2. Denial of refundable portion of child tax credit to individuals not authorized to be employed in the united states
+
+- **(a)** *In general* Subsection (d) of section 24 of the Internal Revenue Code of 1986 is amended by inserting after paragraph (2) the following new paragraph:
+  > - **(3)** *Identification requirement with respect to taxpayer*
+  >   - **(A)** *In general* Paragraph (1) shall not apply to any taxpayer for any taxable year unless the taxpayer includes the taxpayer’s social security number on the return of tax for such taxable year or otherwise demonstrates on the return that the taxpayer is authorized to be employed in the United States.
+  >   - **(B)** *Joint returns* In the case of a joint return, the requirement of subparagraph (A) shall be treated as met if either spouse meets such requirement.
+  >   - **(C)** *Omission treated as mathematical or clerical error* Any failure to meet the requirement of subparagraph (A) shall be treated as a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+- **(b)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+## § 3. Termination of certifying agent program
+
+Effective on the date of the enactment of this Act, no Individual Taxpayer Identification Number may be issued by the Secretary of the Treasury (or any delegate of such Secretary) unless the supporting documentary evidence is submitted to such Secretary or any delegate of such Secretary who is an employee within the Department of the Treasury.
