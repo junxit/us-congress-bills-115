@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 1048
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1048
+
+> To direct the President to impose duties on merchandise from the People’s Republic of China in an amount equivalent to the estimated annual loss of revenue to holders of United States intellectual property rights as a result of violations of such intellectual property rights in China, and for other purposes.
+
+## § 1. Study and report on violations of United States intellectual property rights in China
+
+- **(a)** *Study* The United States Trade Representative shall conduct an annual study to determine the estimated annual loss of revenue to holders of United States intellectual property rights as a result of violations of such intellectual property rights in the People’s Republic of China.
+- **(b)** *Report* Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the United States Trade Representative shall submit to Congress a report that contains the results of the study conducted pursuant to subsection (a).
+
+## § 2. Imposition of duties on merchandise from China and distribution of proceeds of such duties to holders of certain United States intellectual property rights
+
+Notwithstanding any other provision of law, the President, acting through the United States Trade Representative, shall—
+
+- **(1)** impose duties on merchandise from the People’s Republic of China in an amount equivalent to the estimated annual loss of revenue to holders of United States intellectual property rights as a result of violations of such intellectual property rights in China, as determined by the Trade Representative pursuant to the study conducted under section 1(a) and contained in the report submitted to Congress under section 1(b); and
+- **(2)** provide for the distribution of the proceeds of such duties to holders of United States intellectual property rights described in paragraph (1) on a proportional basis.
