@@ -1,7 +1,7 @@
 ---
 measure: H.R. 428
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 428
@@ -56,3 +56,4 @@ Red River Gradient Boundary Survey Act
 - 2017-02-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 171 (Roll no. 92).(text: CR H1154)
 - 2017-02-14 — Rule provides for one hour of debate on each bill, the previous question shall be ordered on each bill without intervening motions except one motion to recommit. Both bills are closed to amendments.
 - 2017-02-14 — The previous question was ordered pursuant to the rule.
+- 2017-02-15 — Received in the Senate.
