@@ -1,0 +1,25 @@
+---
+legis-num: S. 396
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 396
+
+> To make technical amendments to certain marine fish conservation statutes, and for other purposes.
+
+## § 1. Billfish Conservation Act of 2012
+
+Section 4(c)(1) of the Billfish Conservation Act of 2012 (16 U.S.C. 1827a(c)(1)) is amended by inserting “and retained” after “landed”.
+
+## § 2. Shark Conservation Act of 2010
+
+The Act entitled “An Act to amend the High Seas Driftnet Fishing Moratorium Protection Act and the Magnuson-Stevens Fishery Conservation and Management Act to improve the conservation of sharks”, approved January 4, 2011 (Public Law 111–348; 124 Stat. 3668), is amended—
+
+- **(1)** by striking section 104 and inserting the following:
+  > ## § 104. Rule of construction
+  >
+  > Nothing in this title or the amendments made by this title shall be construed as affecting, altering, or diminishing in any way the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 302(a)(3) and 304(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(3), 1854(g)).
+
+- **(2)** in section 1, by striking the item relating to section 104 and inserting the following:
