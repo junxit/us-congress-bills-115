@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 23
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 23
@@ -24,3 +24,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2017-02-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-02-14 — On agreeing to the resolution Agreed to without objection. (text: CR H1160)
 - 2017-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1160)
+- 2017-02-15 — Received in the Senate.
