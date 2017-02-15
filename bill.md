@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1073
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1073
+
+> To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes.
+
+## § 1. Definition
+
+In this Act, the term “Arlington Ridge tract” means the parcel of Federal land located in Arlington County, Virginia, known as the Nevius Tract and transferred to the Department of the Interior in 1953, that is bounded generally by—
+
+- **(1)** Arlington Boulevard (United States Route 50) to the north;
+- **(2)** Jefferson Davis Highway (Virginia Route 110) to the east;
+- **(3)** Marshall Drive to the south; and
+- **(4)** North Meade Street to the west.
+
+## § 2. Establishment of a visitor services facility on the Arlington Ridge tract
+
+Notwithstanding section 2863(g) of Public Law 107–107, the Secretary of the Interior is authorized to construct a structure for visitor services to include a public restroom facility on the Arlington Ridge tract in the area of the U.S. Marine Corps War Memorial.
