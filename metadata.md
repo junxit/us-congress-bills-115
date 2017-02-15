@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 42
@@ -16,7 +16,7 @@ Disapproving the rule submitted by the Department of Labor relating to drug test
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Cosponsors (19)
+## Cosponsors (35)
 
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
@@ -37,13 +37,45 @@ Disapproving the rule submitted by the Department of Labor relating to drug test
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Babin, Brian [R-TX-36] (B001291)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2017-02-15 — [House 115-1-97](votes/house-115-1-0097.md) — On Passage — **Passed** (236–189)
 
 ## Actions
 
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on Ways and Means.
+- 2017-02-01 — Referred to the Subcommittee on Human Resources.
+- 2017-02-07 — Rules Committee Resolution H. Res. 99 Reported to House. Rule provides for one hour of debate on each bill, the previous question shall be ordered on each bill without intervening motions except one motion to recommit. Both bills are closed to amendments.
+- 2017-02-14 — Rule H. Res. 99 passed House.
+- 2017-02-15 — Considered as unfinished business. (consideration: CR H1222-1223)
+- 2017-02-15 — Considered under the provisions of rule H. Res. 99. (consideration: CR H1200-1206)
+- 2017-02-15 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 42.
+- 2017-02-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-15 — On passage Passed by the Yeas and Nays: 236 - 189 (Roll no. 97). (text: CR H1200)
+- 2017-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 42, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Danny Davis(IL) demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2017-02-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 236 - 189 (Roll no. 97).(text: CR H1200)
+- 2017-02-15 — Rule provides for one hour of debate each on H.R. 428 and H.J. Res. 42. The previous question shall be ordered on each measure without intervening motions except one motion to recommit. Both measures are closed to amendments.
+- 2017-02-15 — The previous question was ordered pursuant to the rule.
