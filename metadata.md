@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 67
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 67
@@ -30,9 +30,10 @@ Disapproving the rule submitted by the Department of Labor relating to savings a
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-02-15 — [House 115-1-95](votes/house-115-1-0095.md) — On Passage — **Passed** (234–191)
+- 2017-03-30 — [Senate 115-1-99](votes/senate-115-1-0099.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
 
 ## Actions
 
@@ -51,3 +52,13 @@ Disapproving the rule submitted by the Department of Labor relating to savings a
 - 2017-02-15 — Rule provides for consideration of H.J. Res. 66 and H.J. Res. 67. Each joint resolution shall be considered as read. All points of order against provisions in each joint resolution are waived. The previous question shall be considered as ordered on each joint resolution without intervening motion except one hour of debate and one motion to recommit.
 - 2017-02-15 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — Received in the Senate, read twice.
+- 2017-03-29 — Measure laid before Senate by motion. (consideration: CR S2055-2096)
+- 2017-03-29 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S2055)
+- 2017-03-30 — Considered by Senate.
+- 2017-03-30 — Message on Senate action sent to the House.
+- 2017-03-30 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 99. (consideration: CR S2121-2122)
+- 2017-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 99.(consideration: CR S2121-2122)
+- 2017-04-05 — Presented to President.
+- 2017-04-05 — Presented to President.
+- 2017-04-13 — Signed by President.
+- 2017-04-13 — Signed by President.
