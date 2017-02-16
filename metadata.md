@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 66
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 66
@@ -30,9 +30,11 @@ Disapproving the rule submitted by the Department of Labor relating to savings a
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2017-02-15 — [House 115-1-96](votes/house-115-1-0096.md) — On Passage — **Passed** (231–193)
+- 2017-05-03 — [Senate 115-1-119](votes/senate-115-1-0119.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–48)
+- 2017-05-03 — [Senate 115-1-120](votes/senate-115-1-0120.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
 
 ## Actions
 
@@ -50,3 +52,12 @@ Disapproving the rule submitted by the Department of Labor relating to savings a
 - 2017-02-15 — Rule provides for consideration of H.J. Res. 66 and H.J. Res. 67. Each joint resolution shall be considered as read. All points of order against provisions in each joint resolution are waived. The previous question shall be considered as ordered on each joint resolution without intervening motion except one hour of debate and one motion to recommit.
 - 2017-02-15 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — Received in the Senate.
+- 2017-05-03 — Measure laid before Senate by motion. (consideration: CR S2692-2715)
+- 2017-05-03 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 119. (CR S2692)
+- 2017-05-03 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 120.
+- 2017-05-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 120.
+- 2017-05-04 — Message on Senate action sent to the House.
+- 2017-05-05 — Presented to President.
+- 2017-05-05 — Presented to President.
+- 2017-05-17 — Signed by President.
+- 2017-05-17 — Signed by President.
