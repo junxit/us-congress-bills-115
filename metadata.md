@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 42
@@ -76,3 +76,12 @@ Disapproving the rule submitted by the Department of Labor relating to drug test
 - 2017-02-15 — Rule provides for one hour of debate each on H.R. 428 and H.J. Res. 42. The previous question shall be ordered on each measure without intervening motions except one motion to recommit. Both measures are closed to amendments.
 - 2017-02-15 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — Received in the Senate, read twice.
+- 2017-03-13 — Measure laid before Senate by motion. (consideration: CR S1772, S1781-1782)
+- 2017-03-13 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S1772)
+- 2017-03-14 — Considered by Senate. (consideration: CR S1784-1799)
+- 2017-03-14 — Passed Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 87.
+- 2017-03-14 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 87.
+- 2017-03-21 — Presented to President.
+- 2017-03-21 — Presented to President.
+- 2017-03-31 — Signed by President.
+- 2017-03-31 — Signed by President.
