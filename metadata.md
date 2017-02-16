@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 43
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Cosponsors (94)
+## Cosponsors (147)
 
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
@@ -112,13 +112,80 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Lewis, Jason [R-MN-2] (L000587)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Bridenstine, Jim [R-OK-1] (B001283)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2017-02-16 — [House 115-1-99](votes/house-115-1-0099.md) — On Passage — **Passed** (230–188)
 
 ## Actions
 
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on Energy and Commerce.
+- 2017-02-14 — Rules Committee Resolution H. Res. 123 Reported to House. The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.
+- 2017-02-16 — Considered as unfinished business. (consideration: CR H1279-1280)
+- 2017-02-16 — Considered under the provisions of rule H. Res. 123. (consideration: CR H1268-1278)
+- 2017-02-16 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 43.
+- 2017-02-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-16 — On passage Passed by recorded vote: 230 - 188 (Roll no. 99). (text: CR H1268)
+- 2017-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 43, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Ms. DeGette demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2017-02-16 — Passed/agreed to in House: On passage Passed by recorded vote: 230 - 188 (Roll no. 99).(text: CR H1268)
+- 2017-02-16 — The previous question was ordered pursuant to the rule.
+- 2017-02-16 — The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.
