@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 67
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 67
@@ -46,3 +46,4 @@ Disapproving the rule submitted by the Department of Labor relating to savings a
 - 2017-02-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 191 (Roll no. 95).(text: CR H1218)
 - 2017-02-15 — Rule provides for consideration of H.J. Res. 66 and H.J. Res. 67. Each joint resolution shall be considered as read. All points of order against provisions in each joint resolution are waived. The previous question shall be considered as ordered on each joint resolution without intervening motion except one hour of debate and one motion to recommit.
 - 2017-02-15 — The previous question was ordered pursuant to the rule.
+- 2017-02-16 — Received in the Senate, read twice.
