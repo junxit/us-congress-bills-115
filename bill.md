@@ -1,0 +1,33 @@
+---
+legis-num: H. RES. 140
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 140
+
+> Condemning the appointment of Steve Bannon to the National Security Council and urging his immediate removal.
+
+## Preamble
+
+- Whereas Steve Bannon was the Chairman of Breitbart News, a website for the “alt-right” movement, which includes White Supremacists, anti-Semites, anti-Muslims, nativists, and other political extremists;
+- Whereas under Steve Bannon, Breitbart News published inflammatory pieces about women, Muslims and other groups;
+- Whereas Steve Bannon once described Breitbart as the “platform” of the alt-right;
+- Whereas Steve Bannon has been praised by White nationalist groups and the KKK;
+- Whereas Steve Bannon has also espoused a false theory of a violent clash of civilizations between the West and Islam that only serves to fuel violent extremism;
+- Whereas Steve Bannon is President Trump’s “Chief Strategist and Senior Counsel” at the White House to advise on political matters;
+- Whereas, on Saturday, January 28, 2017, President Trump gave Steve Bannon a permanent position on the National Security Council (NSC);
+- Whereas on that same day, President Trump demoted the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff, who provide critical, independent voices on the NSC;
+- Whereas the presence of Steve Bannon, one of President Trump’s most senior political operatives, on the Principals Committee of the NSC and his standing invitation to attend the meetings erodes the impartial function of the Council;
+- Whereas the NSC was created by the National Security Act of 1947 as an interdepartmental body to independently advise the President “with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the Armed Forces and the other departments and agencies of the United States Government to cooperate more effectively in matters involving the national security.”;
+- Whereas any appearance of partisan politics undermines the NSC mission and calls into question every action of the NSC and our Government’s national security agencies;
+- Whereas it is unprecedented to have such a partisan and divisive figure on the National Security Council;
+- Whereas Steve Bannon has little Government experience or high-level decisionmaking experience; and
+- Whereas political strategists have never before participated in National Security Council Principals meetings: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** condemns the permanent position of Steve Bannon on the National Security Council (NSC);
+- **(2)** urges President Trump to remove Steve Bannon immediately from the NSC; and
+- **(3)** urges Congress to expend any necessary resources to protect our national security and remove Steven Bannon from this position.
