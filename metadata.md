@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 43
@@ -185,3 +185,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-16 — Passed/agreed to in House: On passage Passed by recorded vote: 230 - 188 (Roll no. 99).(text: CR H1268)
 - 2017-02-16 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.
+- 2017-02-17 — Received in the Senate, read twice.
