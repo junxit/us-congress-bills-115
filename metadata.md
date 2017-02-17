@@ -1,7 +1,7 @@
 ---
 measure: S. 63
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 63
@@ -16,7 +16,7 @@ Tribal Labor Sovereignty Act of 2017
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Daines, Steve [R-MT] (D000618)
@@ -28,6 +28,8 @@ Tribal Labor Sovereignty Act of 2017
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -37,3 +39,7 @@ Tribal Labor Sovereignty Act of 2017
 
 - 2017-01-09 — Introduced in Senate
 - 2017-01-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-02-08 — Committee on Indian Affairs. Ordered to be reported favorably.
+- 2017-02-17 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-3.
+- 2017-02-17 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-3.
+- 2017-02-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 9.
