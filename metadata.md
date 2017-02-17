@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 43
@@ -170,9 +170,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2017-02-16 — [House 115-1-99](votes/house-115-1-0099.md) — On Passage — **Passed** (230–188)
+- 2017-03-30 — [Senate 115-1-100](votes/senate-115-1-0100.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–50)
+- 2017-03-30 — [Senate 115-1-101](votes/senate-115-1-0101.md) — On the Joint Resolution — **Joint Resolution Passed** (50–50)
 
 ## Actions
 
@@ -190,3 +192,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-16 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.
 - 2017-02-17 — Received in the Senate, read twice.
+- 2017-03-30 — Measure laid before Senate by motion. (consideration: CR S2122-2138)
+- 2017-03-30 — Message on Senate action sent to the House.
+- 2017-03-30 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 100. (consideration: CR S2122)
+- 2017-03-30 — Passed Senate without amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 101.
+- 2017-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 101.
+- 2017-04-05 — Presented to President.
+- 2017-04-05 — Presented to President.
+- 2017-04-13 — Signed by President.
+- 2017-04-13 — Signed by President.
