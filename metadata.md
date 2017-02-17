@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 69
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 69
@@ -42,3 +42,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-16 — The previous question was ordered pursuant to the rule.
 - 2017-02-16 — The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.
 - 2017-02-17 — Received in the Senate, read twice.
+- 2017-03-21 — Measure laid before Senate by motion. (consideration: CR S1864-1884)
+- 2017-03-21 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1864)
+- 2017-03-21 — Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 92.
+- 2017-03-21 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 92.
+- 2017-03-22 — Message on Senate action sent to the House.
+- 2017-03-27 — Presented to President.
+- 2017-03-27 — Presented to President.
+- 2017-04-03 — Signed by President.
+- 2017-04-03 — Signed by President.
