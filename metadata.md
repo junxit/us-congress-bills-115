@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 725
@@ -16,12 +16,13 @@ Innocent Party Protection Act
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Innocent Party Protection Act
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on the Judiciary.
+- 2017-01-31 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2017-02-24 — Placed on the Union Calendar, Calendar No. 5.
+- 2017-02-24 — Reported by the Committee on Judiciary. H. Rept. 115-17.
+- 2017-02-24 — Reported by the Committee on Judiciary. H. Rept. 115-17.
