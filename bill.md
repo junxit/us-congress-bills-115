@@ -1,0 +1,24 @@
+---
+legis-num: S. 444
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 444
+
+> To amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting America’s Innovators Act of 2017”.
+
+## § 2. Investor limitation for qualifying venture capital funds
+
+Section 3(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)) is amended—
+
+- **(1)** in the matter preceding subparagraph (A), by inserting “(or, in the case of a qualifying venture capital fund, 250 persons)” after “one hundred persons”; and
+- **(2)** by adding at the end the following:
+  > - **(C)**
+  >   - **(i)** The term qualifying venture capital fund means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committed capital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
+  >   - **(ii)** The term venture capital fund has the meaning given the term in section 275.203(l)–1 of title 17, Code of Federal Regulations, or any successor regulation.
