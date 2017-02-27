@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1033
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1033
@@ -37,3 +37,9 @@ Open Book on Equal Access to Justice Act
 - 2017-02-14 — Introduced in House
 - 2017-02-14 — Referred to the House Committee on the Judiciary.
 - 2017-02-14 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2017-02-27 — Considered under suspension of the rules. (consideration: CR H1334-1336)
+- 2017-02-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1033.
+- 2017-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-02-27 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2017-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1334)
+- 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1334)
