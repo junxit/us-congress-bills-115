@@ -48,4 +48,4 @@ This Act may be cited as the “Open Book on Equal Access to Justice Act”.
     - **(B)** by striking “of such title” and inserting “of this title”.
 - **(d)** *Effective date*
   - **(1)** *In general* The amendments made by subsections (a) and (b) shall first apply with respect to awards of fees and other expenses that are made on or after the date of the enactment of this Act.
-  - **(2)** *Online databases* The online databases required by section 504(e) of title 5, United States Code, and section 2412(d)(5) of title 28, United States Code, shall be established as soon as practicable after the date of the enactment of this Act, but in no case later than one year after the date of the enactment of this Act.
+  - **(2)** *Online databases* The online databases required by section 504(e) of title 5, United States Code, and section 2412(d)(5) of title 28, United States Code, shall be established as soon as practicable after the date of the enactment of this Act, but in no case later than 1 year after the date of the enactment of this Act.
