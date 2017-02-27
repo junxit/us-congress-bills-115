@@ -37,8 +37,8 @@ Section 3 of the Indian Employment, Training and Related Services Act of 1992 (2
 
 - **(1)** by striking paragraph (2) and inserting the following:
   > - **(2)** *Indian tribe*
-  >   - **(A)** *In general* The terms Indian tribe and tribe have the meaning given the term Indian tribe in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
-  >   - **(B)** *Inclusion* The term Indian tribe includes tribal organizations (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)).
+  >   - **(A)** *In general* The terms Indian tribe and tribe have the meaning given the term Indian tribe in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+  >   - **(B)** *Inclusion* The term Indian tribe includes tribal organizations (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
 
 - **(2)** by redesignating paragraph (4) as paragraph (5); and
 - **(3)** by inserting after paragraph (3) the following:
@@ -77,8 +77,8 @@ Section 5 of the Indian Employment, Training and Related Services Act of 1992 (2
 >     - **(B)** under which an Indian tribe or members of an Indian tribe—
 >       - **(i)** are eligible to receive funds—
 >         - **(I)** under a statutory or administrative formula making funds available to an Indian tribe; or
->         - **(II)** due to their status as Indians under Federal law; or
->       - **(ii)** have secured funds as a result of a competitive process, a noncompetitive process, or a specific designation.
+>         - **(II)** based solely or in part on their status as Indians under Federal law; or
+>       - **(ii)** have secured funds as a result of a noncompetitive process or a specific designation.
 >   - **(2)** *Treatment of block grant funds* For purposes of this section, programs funded by block grant funds provided to an Indian tribe, regardless of whether the block grant is for the benefit of the Indian tribe because of the status of the Indian tribe or the status of the beneficiaries the grant serves, shall be eligible to be integrated into the plan.
 > - **(b)** *Program authorization* The Secretary shall, in cooperation with the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Education, the Secretary of Energy, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Secretary of Housing and Urban Development, the Secretary of Labor, the Secretary of Transportation, and the Secretary of Veterans Affairs, after the Secretary approves a plan submitted by an Indian tribe or tribal organization under section 8, authorize the Indian tribe or tribal organization, as applicable, to coordinate, in accordance with the plan, federally funded employment, training, and related services programs and funding in a manner that integrates the programs and funding into a consolidated and comprehensive program.
 
@@ -222,8 +222,8 @@ Section 12 of the Indian Employment, Training and Related Services Act of 1992 (
 >   - **(1)** the enactment of this Act; or
 >   - **(2)** the approval or implementation of a plan of an Indian tribe under this Act.
 > - **(b)** *Interaction with other laws* The inclusion of a program in a tribal plan under this Act shall not—
->   - **(1)** modify, limit, or otherwise affect the eligibility of the program for contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); or
->   - **(2)** eliminate the applicability of any provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), as the provision relates to a specific program eligible for contracting under that Act.
+>   - **(1)** modify, limit, or otherwise affect the eligibility of the program for contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.); or
+>   - **(2)** eliminate the applicability of any provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), as the provision relates to a specific program eligible for contracting under that Act.
 
 ## § 13. Transfer of funds
 
@@ -232,7 +232,7 @@ Section 13 of the Indian Employment, Training and Related Services Act of 1992 (
 > ## § 13. Transfer of funds
 >
 > - **(a)** *In general* Notwithstanding any other provision of law, not later than 30 days after the date of apportionment to the applicable Federal department or agency, the head of a Federal agency overseeing a program identified in a plan approved under this Act shall transfer to the Director of the Bureau of Indian Affairs for distribution to an Indian tribe any funds identified in the approved plan of the Indian tribe.
-> - **(b)** *Transfer of funds* Notwithstanding any other provision of law, at the request of the Indian tribe, all program funds transferred to an Indian tribe in accordance with the approved plan of the Indian tribe shall be transferred to the Indian tribe pursuant to an existing contract, compact, or funding agreement awarded pursuant to title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+> - **(b)** *Transfer of funds* Notwithstanding any other provision of law, at the request of the Indian tribe, all program funds transferred to an Indian tribe in accordance with the approved plan of the Indian tribe shall be transferred to the Indian tribe pursuant to an existing contract, compact, or funding agreement awarded pursuant to title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
 ## § 14. Administration of funds
 

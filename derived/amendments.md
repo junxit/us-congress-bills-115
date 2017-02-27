@@ -1,7 +1,7 @@
 ---
 measure: H.R. 228
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -63,7 +63,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3401` | amend | Section 1 of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 note; 106 Stat. 2302) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3401` | insert | by inserting “from diverse Federal sources” after “they provide”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3401` | insert | by inserting “, while reducing administrative, reporting, and accounting costs” after “policy of self-determination”. | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 450b` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3402` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3402` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3403` | amend | Section 4 of the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3403), as amended by section 2 of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
