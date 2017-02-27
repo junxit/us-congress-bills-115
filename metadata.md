@@ -1,7 +1,7 @@
 ---
 measure: S. 442
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 442
@@ -31,3 +31,6 @@ National Aeronautics and Space Administration Transition Authorization Act of 20
 - 2017-02-17 — Introduced in Senate
 - 2017-02-17 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1400-1415; text of measure as passed: CR S1400-1415)
 - 2017-02-17 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1400-1415; text of measure as passed: CR S1400-1415)
+- 2017-02-24 — Message on Senate action sent to the House.
+- 2017-02-27 — Received in the House.
+- 2017-02-27 — Referred to the House Committee on Science, Space, and Technology.
