@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 35
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 35
@@ -36,3 +36,7 @@ A resolution expressing profound concern about the ongoing political, economic, 
 
 - 2017-02-01 — Introduced in Senate
 - 2017-02-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S600-601)
+- 2017-02-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-02-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-02-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1506)
+- 2017-02-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1506)
