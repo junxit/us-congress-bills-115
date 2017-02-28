@@ -1,7 +1,7 @@
 ---
 measure: H.R. 88
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 88
@@ -16,9 +16,10 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 - 2017-02-27 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1324-1325)
 - 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1324-1325)
+- 2017-02-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
