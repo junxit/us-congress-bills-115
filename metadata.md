@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1033
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1033
@@ -43,3 +43,4 @@ Open Book on Equal Access to Justice Act
 - 2017-02-27 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2017-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1334)
 - 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1334)
+- 2017-02-28 — Received in the Senate.
