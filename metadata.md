@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 62
 congress: 115
-version: Placed on Calendar Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 62
@@ -26,3 +26,5 @@ An original resolution authorizing expenditures by committees of the Senate for 
 - 2017-02-16 — Committee on Rules and Administration. Original measure reported to Senate by Senator Shelby. Without written report.(text of measure as introduced: CR H1307-1312)
 - 2017-02-16 — Introduced in Senate
 - 2017-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.
+- 2017-02-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1506)
+- 2017-02-28 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1506)
