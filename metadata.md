@@ -1,7 +1,7 @@
 ---
 measure: H.R. 228
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 228
@@ -33,3 +33,10 @@ Indian Employment, Training and Related Services Consolidation Act of 2017
 - 2017-02-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1326-1329)
 - 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1326-1329)
 - 2017-02-28 — Received in the Senate, read twice.
+- 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7490)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7490)
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-12-06 — Presented to President.
+- 2017-12-06 — Presented to President.
+- 2017-12-18 — Signed by President.
+- 2017-12-18 — Signed by President.

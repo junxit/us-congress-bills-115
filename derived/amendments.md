@@ -1,7 +1,7 @@
 ---
 measure: H.R. 228
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
