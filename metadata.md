@@ -1,7 +1,7 @@
 ---
 measure: H.R. 228
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 228
@@ -32,3 +32,4 @@ Indian Employment, Training and Related Services Consolidation Act of 2017
 - 2017-02-27 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2017-02-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1326-1329)
 - 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1326-1329)
+- 2017-02-28 — Received in the Senate, read twice.
