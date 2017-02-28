@@ -1,7 +1,7 @@
 ---
 measure: S. 90
 congress: 115
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 90
@@ -20,11 +20,15 @@ Red River Gradient Boundary Survey Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
 - 2017-01-10 — Introduced in Senate
 - 2017-01-10 — Read twice and referred to the Committee on the Judiciary.
+- 2017-02-28 — Referred to the Committee on Energy and Natural Resources.
+- 2017-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
