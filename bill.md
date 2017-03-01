@@ -26,8 +26,9 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(2)** *Chair* The Chair of the Regulatory Working Group shall be the Administrator, who shall periodically advise Congress on the activities of the Regulatory Working Group.
   >   - **(3)** *Purpose* The Regulatory Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues, including, at a minimum—
   >     - **(A)** the development of innovative regulatory techniques;
-  >     - **(B)** the methods, efficacy, and utility of comparative risk assessment in regulatory decisionmaking; and
-  >     - **(C)** the development of streamlined regulatory approaches for small businesses and other entities.
+  >     - **(B)** the methods, efficacy, and utility of comparative risk assessment in regulatory decisionmaking;
+  >     - **(C)** the development of streamlined regulatory approaches for small businesses and other entities; and
+  >     - **(D)** the methods used to ensure agencies coordinate with State, local, and Tribal governments.
   >   - **(4)** *Meetings* The Regulatory Working Group shall meet not less than quarterly and may meet as a whole or in subgroups of members with an interest in particular issues or subject areas.
   >   - **(5)** *Analytical studies* To inform the discussion of the Regulatory Working Group, the Regulatory Working Group may request analytical studies and reports by the Office of Information and Regulatory Affairs, the Administrative Conference of the United States, or any other agency.
   > - **(b)** *Regulatory plan*
@@ -37,8 +38,10 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >       - **(ii)** A summary of each planned significant regulatory action including, to the extent possible, alternatives to be considered and preliminary estimates of the anticipated costs and benefits of such action.
   >       - **(iii)** A summary of the legal basis for each such action, including whether any aspect of the action is required by statute or court order.
   >       - **(iv)** A statement of the need for each such action and, if applicable, how the action will reduce risk to public health, safety, or the environment, as well as how the magnitude of the risk addressed by the action relates to any other risk within the jurisdiction of the agency.
-  >       - **(v)** The schedule for each such action, including a statement of any applicable statutory or judicial deadline.
-  >       - **(vi)** The name, email address, and telephone number of a knowledgeable agency employee the public may contact for additional information about each such action.
+  >       - **(v)** A summary of the agency’s plan to coordinate with State, local, and Tribal governments throughout the regulatory process.
+  >       - **(vi)** A description of any action taken by the agency to ensure that each planned significant regulatory action is not duplicative or conflicting with any other existing or planned regulatory action.
+  >       - **(vii)** The schedule for each such action, including a statement of any applicable statutory or judicial deadline.
+  >       - **(viii)** The name, email address, and telephone number of a knowledgeable agency employee the public may contact for additional information about each such action.
   >     - **(B)** *Circulation of regulatory plan* Not later than 10 days after receiving the regulatory plan under subparagraph (A), the Administrator shall circulate the regulatory plan to any other agency the Administrator determines may be affected by the plan.
   >     - **(C)** *Agency notification to OIRA of conflicting significant regulatory actions* The head of an agency shall promptly notify the Administrator in writing if any planned significant regulatory action in the regulatory plan of another agency may conflict with the policy or action taken or planned by that agency. The Administrator shall forward any notification received under this subparagraph to the other agency involved.
   >     - **(D)** *Notification of conflicting significant regulatory actions* The Administrator shall notify the head of an agency in writing if any planned significant regulatory action conflicts with any policy or action taken or planned by another agency.
@@ -46,11 +49,11 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(2)** *Retrospective review*
   >     - **(A)** *List of Outdated Regulations* The head of each agency shall include in the regulatory plan submitted under paragraph (1)(A) a list of regulations that have been identified by the agency (including any comments submitted to the agency) as unjustified, unnecessary, duplicative of other regulations or laws, inappropriately burdensome, or otherwise recommended for removal.
   >     - **(B)** *Description of Retrospective Review* The head of each agency shall include in the regulatory plan submitted under paragraph (1)(A) a description of any program or other effort to review existing regulations to determine whether any such regulations should be modified or eliminated in order to increase the effectiveness in achieving the regulatory objectives of the agency or to reduce the burden of regulations. The agency shall include any statutory requirements that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
-  >     - **(C)** *OIRA Coordinated Review* The Administrator shall work with interested entities and agencies, including through the processes established under subsection (d), to review the list of regulations identified under subparagraph (A) and such entities may assist OIRA and the agencies with identifying regulations or groups of regulations that—
+  >     - **(C)** *OIRA Coordinated Review* The head of each agency shall submit the program descriptions required in subparagraph (B) to the Administrator. The Administrator shall work with other interested entities and agencies, including through the processes established under subsection (d), to review the list of regulations identified under subparagraph (A) and such entities may assist OIRA and the agencies with identifying regulations or groups of regulations that—
   >       - **(i)** impose significant or unique burdens on governmental entities and that are no longer justified; or
   >       - **(ii)** affect a particular group, industry, or sector of the economy.
   > - **(c)** *Unified Agenda*
-  >   - **(1)** *Submission of regulations under development or review* Not later than April 1 and October 1 of each year, the head of each agency shall submit to the Administrator an agenda of each regulation under development or review in accordance with any guidance issued under this section. Each agenda shall include, to the extent practicable, the following:
+  >   - **(1)** *Submission of regulations under development or review* Not later than March 15 and September 15 of each year, the head of each agency shall submit to the Administrator an agenda of each regulation under development or review in accordance with any guidance issued under this section. Each agenda shall include, to the extent practicable, the following:
   >     - **(A)** For each regulation—
   >       - **(i)** a regulation identifier number;
   >       - **(ii)** a brief summary of the regulation;
@@ -59,15 +62,16 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >       - **(v)** the name and phone number for a knowledgeable agency employee; and
   >       - **(vi)** the stage of review for issuing the regulation.
   >     - **(B)** For each regulation expected to be promulgated within the following 18 months—
-  >       - **(i)** a determination of whether the regulation is expected to be a significant regulatory action or an economically significant regulatory action; and
-  >       - **(ii)** any available analysis or quantification of the expected costs or benefits.
+  >       - **(i)** a determination of whether the regulation is expected to be a significant regulatory action or an economically significant regulatory action;
+  >       - **(ii)** any available clear summary of the expected costs or benefits; and
+  >       - **(iii)** efforts to coordinate with State, local, and Tribal governments.
   >     - **(C)** For any regulation included in the immediately previous agenda, an explanation of why the regulation is no longer included.
   >   - **(2)** *Publication of Unified Agenda required* Not later than April 15 and October 15 of each year, the Administrator shall compile and publish online each agenda received under paragraph (1) (to be known as the Unified Agenda).
   >   - **(3)** *Guidance*
   >     - **(A)** *In general* The Administrator shall issue guidance for agencies on the manner of submission under this subsection and on meeting the requirements of this subsection, including a standard definition for each stage of review and any other definition that would assist the public in understanding the different terms used by agencies to submit the agenda required under paragraph (1).
   >     - **(B)** *Updates* The Administrator shall periodically review compliance with this section and issue guidance or recommendations to assist agencies in complying with this section.
   > - **(d)** *Coordination with State, local, and tribal governments and the public*
-  >   - **(1)** *State, local, and tribal governments* The Administrator shall meet not less than quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those government entities.
+  >   - **(1)** *State, local, and tribal governments* The Administrator shall meet not less than quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations and policies that may uniquely or significantly affect those government entities.
   >   - **(2)** *Public* The Administrator shall periodically convene conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
   > - **(e)** *Best practices* The Administrator shall, in consultation with the Regulatory Working Group and the entities described in subsection (d), periodically develop advice and guidance for agencies on best practices of the development of regulations.
   >
@@ -84,7 +88,7 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >     - **(A)** may waive review of any planned regulatory action designated as a significant regulatory action; and
   >     - **(B)** shall publish online a detailed written explanation of any such waiver.
   > - **(b)** *Agency consultation with OIRA*
-  >   - **(1)** *In general* An agency may consult with OIRA at any time on any regulatory action.
+  >   - **(1)** *In general* An agency may consult with OIRA at any time on any regulatory action. OIRA shall maintain a log of each agency consultation with OIRA before submitting the significant regulatory action for review under this section, including the date of the consultation, the name of each agency official involved with the consultation, and a description of the purpose of the consultation.
   >   - **(2)** *Regulation identifier number* The head of an agency shall make every effort to obtain a regulation identifier number for the regulatory action that is the subject of the consultation before consulting with OIRA.
   >   - **(3)** *Consultation information required* If the head of an agency is unable to obtain the regulation identifier number as described in paragraph (2), the head of the agency shall provide the regulation identifier number to OIRA as soon as the number is obtained with a list of any previous interactions with OIRA relating to the regulatory action that is the subject of the consultation.
   > - **(c)** *Agency submission of significant regulatory action for review* Before issuing a significant regulatory action, the head of an agency shall submit the significant regulatory action to the Administrator for review and shall include the following:
@@ -93,7 +97,8 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(3)** An explanation of how the significant regulatory action will meet the identified need.
   >   - **(4)** An assessment of potential costs and benefits of the significant regulatory action.
   >   - **(5)** An explanation of the manner in which the significant regulatory action is consistent with a statutory mandate and avoids undue interference with State, local, and tribal government functions.
-  >   - **(6)** For an economically significant regulatory action, if any of the following was developed during the decisionmaking process of the agency:
+  >   - **(6)** An explanation of agency efforts to coordinate with State, local, and Tribal governments throughout the regulatory process.
+  >   - **(7)** For an economically significant regulatory action, if any of the following was developed during the decisionmaking process of the agency:
   >     - **(A)** An assessment of and quantification of costs and benefits of the significant regulatory action.
   >     - **(B)** An assessment of and quantification of costs and benefits of potentially effective and feasible alternatives, including any underlying analysis.
   >     - **(C)** An explanation of why the planned significant regulatory action is preferable to any identified potential alternatives.
@@ -104,8 +109,8 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(4)** *90-day review*
   >     - **(A)** *In general* Except as provided in subparagraph (B), for any other significant regulatory action not described in paragraph (3), within 90 days after the date of submission of the action, OIRA shall complete the review.
   >     - **(B)** *Exception 45-day review* If OIRA has previously reviewed the significant regulatory action described in subparagraph (A) and, since that review, there has been no material change in the facts and circumstances upon which the significant regulatory action is based, OIRA shall complete the review within 45 days after submission of the action.
-  >   - **(5)** *Extension* Any review described under this subsection may be extended for any number of additional 30-day periods upon written request by the Administrator or the head of the agency. Such request shall be granted unless the nonrequesting party denies the request in writing within 5 days after receipt of the request for extension.
-  >   - **(6)** *Return* If the Administrator determines OIRA is unable to complete a review within the time period described under this subsection, the Administrator may return the draft of the significant regulatory action to the agency with a written explanation of why OIRA was unable to complete the review and what additional information, resources, or time OIRA would need to complete the review.
+  >   - **(5)** *Extension* Any review described under this subsection may be extended for any number of additional 30-day periods upon mutual agreement of the Administrator and the head of the agency. For each 30 day extension, the Administrator shall make publicly available online a written explanation, including the reasons for the extension and an estimate of the expected conclusion date.
+  >   - **(6)** *Return* If the Administrator determines OIRA is unable to conclude a review within the time period described under this subsection, the Administrator may return the draft of the significant regulatory action to the agency with a written explanation of why OIRA was unable to complete the review and what additional information, resources, or time OIRA would need to complete the review.
   >   - **(7)** *Withdrawal* An agency may withdraw the regulatory action from OIRA review at any time prior to the completion of the review.
   > - **(e)** *Compliance review* The Administrator shall review any significant regulatory action submitted under subsection (c) to determine the extent to which the agency—
   >   - **(1)** identified the problem that the significant regulatory action is designed to address (including, where applicable, the failures of private markets or public institutions that warrant new agency action);
@@ -118,7 +123,7 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(8)** assessed costs and benefits of the regulatory action and made a reasoned determination that the benefits justify the costs;
   >   - **(9)** used the best reasonably obtainable scientific, technical, economic, and other information concerning the need for and consequences of the regulatory action;
   >   - **(10)** identified and assessed alternative forms of regulation and, to the extent feasible, specified performance objectives rather than behavior or manner of compliance;
-  >   - **(11)** sought comments and suggestions from appropriate State, local, and tribal officials on any aspect of the regulatory action that might significantly or uniquely affect those governmental entities;
+  >   - **(11)** sought comments and suggestions from impacted State, local, and tribal officials on any aspect of the regulatory action that might significantly or uniquely affect those governmental entities;
   >   - **(12)** assessed the effects of the regulatory action on State, local, and tribal governments, including specifically the availability of resources to carry out the regulatory action, and minimized the burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives;
   >   - **(13)** harmonized the regulatory action with the regulatory and other functions of State, local, and tribal governments;
   >   - **(14)** avoided conflicts with or duplication of other existing regulations;
@@ -127,11 +132,11 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >   - **(17)** met all applicable Executive order requirements;
   >   - **(18)** met all applicable statutory requirements; and
   >   - **(19)** complied with all applicable guidance.
-  > - **(f)** *Quality review* For any significant regulatory action submitted under subsection (c), OIRA shall assess the extent to which the agency conducted a meaningful and complete analysis of each of the factors described in subsection (e), considering best practices, methods observed through reviewing other agencies, comments from stakeholders, and other resources that may improve the quality of the process.
+  > - **(f)** *Quality review* For any significant regulatory action submitted under subsection (c), OIRA shall review the extent to which the agency conducted a meaningful and complete analysis of each of the factors described in subsection (e), considering best practices, methods observed through reviewing other agencies, comments from stakeholders, and other resources that may improve the quality of the process.
   > - **(g)** *Interagency consultation* The Administrator shall identify each agency potentially affected, interested, or otherwise likely to provide valuable feedback on a significant regulatory action submitted under subsection (c) and facilitate a meaningful interagency consultation process. The Administrator shall—
   >   - **(1)** provide each identified agency with a copy of the draft regulatory action;
   >   - **(2)** allow each identified agency to review the draft regulatory action for a sufficient period of time, not less than 10 business days;
-  >   - **(3)** solicit written comments from such agency and provide those written comments to the submitting agency; and
+  >   - **(3)** solicit written comments from such agency; and
   >   - **(4)** as appropriate, facilitate conversations between agencies.
   > - **(h)** *Stakeholder consultation* For all substantive communications between OIRA and individuals not employed by the executive branch regarding a regulatory action submitted to the Administrator for review under this section, the Administrator shall—
   >   - **(1)** invite the issuing agency to any meeting between OIRA personnel and individuals not employed by the executive branch;
@@ -142,16 +147,22 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
   >     - **(C)** The dates and names of persons involved in any substantive oral communication and the subject matter discussed during such communication.
   > - **(i)** *Conclusion of review*
   >   - **(1)** *Provision to agency* Upon completion of the review, the Administrator shall provide the head of an agency with the results of the OIRA review in writing, including a list of every standard, Executive order, guidance document, and law reviewed for compliance and the results for each.
-  >   - **(2)** *Changes during review period* Within 24 hours after the conclusion of the OIRA review under this section, the head of the submitting agency shall provide the Administrator with a redline of any changes the agency made to the regulatory action during the review period. To the extent practicable, the agency shall identify any change made at the suggestion or recommendation of any other agency, member of the public, or other source. To the extent practicable, the agency should identify the source of any such change.
+  >   - **(2)** *Changes during review period* As soon as practicable and before publication in the Federal Register of a significant regulatory action for which OIRA concluded review under this section, the head of the submitting agency shall make available to the Administrator a redline of any changes the agency made to the regulatory action during the review period. To the extent practicable, the agency shall identify any change made at the suggestion or recommendation of any other agency, member of the public, or other source. To the extent practicable, the agency should identify the source of any such change.
   >
-  > ## § 3524. Public disclosure of regulatory review
+  > ## § 3524. Disclosure of regulatory review
   >
-  > - **(a)** *In general* On the earlier of 3 days after OIRA completes the review of any agency significant regulatory action under section 3523, the date on which such agency publishes the regulatory action in the Federal Register, or the date on which the agency announces a decision not to publish the regulatory action, the Administrator shall make available to the public online—
+  > - **(a)** *In general* On the earlier of the date on which an agency publishes a significant regulatory action reviewed under section 3523 in the Federal Register, the agency otherwise makes the significant regulatory action publicly available, or the agency announces a decision not to publish the regulatory action, the Administrator shall make available to the public online—
   >   - **(1)** all information submitted by an agency under section 3523;
   >   - **(2)** the results of the review provided to the agency under section 3523;
-  >   - **(3)** the redline of any changes made by the agency during the course of the review provided under section 3523(i)(2); and
-  >   - **(4)** all documents exchanged between OIRA and the agency during the review.
-  > - **(b)** *Plain language requirement* All information provided to the public shall, to the extent practicable, be in plain, understandable language.
+  >   - **(3)** the redline of any changes made by the agency during the course of the review provided under section 3523(i)(2);
+  >   - **(4)** all documents exchanged between senior level officials at OIRA and the agency during the review; and
+  >   - **(5)** a list of each consultation described under section 3523(b).
+  > - **(b)** *Agency disclosure* Each agency that submits a significant regulatory actions to OIRA under section 3522 or 3523 shall maintain on the website of the agency the following:
+  >   - **(1)** A list of each active regulatory action, including the status of the regulatory action or a link to each entry on the unified agenda.
+  >   - **(2)** The most recent regulatory plan of the agency.
+  >   - **(3)** A link to each record disclosed under subsection (a).
+  > - **(c)** *Plain language requirement* All information provided to the public shall, to the extent practicable, be in plain, understandable language.
+  > - **(d)** *Recordkeeping* The Administrator shall ensure any record associated with a significant regulatory action submitted to OIRA under section 3522 or 3523 is easily accessible for a period of time consistent with approved records disposition schedules for the agency, in a manner that all records associated with a significant regulatory action can be promptly submitted to Congress upon request.
 
 - **(b)** *Technical and conforming amendment* The table of sections at the beginning of chapter 35 of title 44, United States Code, is amended by inserting after the item relating to section 3521 the following new items:
 - **(c)** *Definitions* Section 3502 of title 44, United States Code, is amended—
@@ -167,9 +178,11 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
     >     - **(i)** issued in accordance with the formal rulemaking provisions of sections 556 and 557 of title 5;
     >     - **(ii)** the statement pertains to a military or foreign affairs function of the United States, other than procurement regulations and regulations involving the import or export of nondefense articles and services;
     >     - **(iii)** the statement is limited to an agency organization, management, or personnel matters; or
-    >     - **(iv)** the statement is exempted as a regulation by the Administrator;
+    >     - **(iv)** the statement is exempted as a regulation by the Administrator and a written explanation of the exemption, including the date of the decision and the reasons for exempting the specific statement, is made publically available online;
     > - **(19)** the term regulation identifier number means a unique identification code for regulations, which is designed to assist tracking regulations through the course of development;
-    > - **(20)** the term regulatory action means any substantive action by an agency normally published in the Federal Register that promulgates or is expected to lead to the promulgation of a final regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking;
+    > - **(20)** the term regulatory action means—
+    >   - **(A)** any substantive action by an agency normally published in the Federal Register that promulgates or is expected to lead to the promulgation of a final regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking; or
+    >   - **(B)** any agency statement of general applicability and future effect, other than a substantive action described in subparagraph (A), which sets forth a policy on a statutory, regulatory, or technical issue or an interpretation of a statutory or regulatory issue;
     > - **(21)** the term significant regulatory action means any regulatory action that is likely to result in a regulation that may—
     >   - **(A)** have an annual effect on the economy of $100,000,000 or more;
     >   - **(B)** adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
@@ -180,3 +193,8 @@ This Act may be cited as the “OIRA Insight, Reform, and Accountability Act”.
     > - **(23)** the term State means each of the several States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
 
 - **(d)** *Deadline for issuance of guidance* Not later than 180 days after the date of the enactment of this Act, the Administrator of the Office of Information and Regulatory Affairs shall issue any guidance required by section 3522 of title 44, United States Code, as added by subsection (a).
+- **(e)** *Effective date* Section 3524 of title 44, as added by subsection (a), shall take effect 120 days after the date of the enactment of this Act.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
