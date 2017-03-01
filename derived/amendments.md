@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 658` | repeal | A rule that is repealed under paragraph (1) or section 201 may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specificall… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1601` | repeal | A rule that is repealed under paragraph (1) or section 201 may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specificall… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Subject to the provisions of paragraph (2), an agency may offset the costs of a new rule or set of rules by repealing a rule or set of rules listed by the Commission under section 101(h)(4)(A)(ii) that implement the same statutory author… | the bill names no machine-readable US Code section |
 | — | repeal | When using the authority provided in paragraph (1), the agency must achieve a net reduction in costs imposed by the agency’s body of rules (including the new rule or set of rules) that is equal to or greater than the cost of the new rule… | the bill names no machine-readable US Code section |
