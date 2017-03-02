@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 83
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 83
@@ -34,9 +34,10 @@ Disapproving the rule submitted by the Department of Labor relating to "Clarific
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-03-01 — [House 115-1-121](votes/house-115-1-0121.md) — On Passage — **Passed** (231–191)
+- 2017-03-22 — [Senate 115-1-93](votes/senate-115-1-0093.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
 
 ## Actions
 
@@ -55,3 +56,12 @@ Disapproving the rule submitted by the Department of Labor relating to "Clarific
 - 2017-03-01 — Provides for consideration of H.R. 998 and H.J.Res. 83.
 - 2017-03-01 — The previous question was ordered pursuant to the rule.
 - 2017-03-02 — Received in the Senate, read twice.
+- 2017-03-22 — Measure laid before Senate by motion. (consideration: CR S1900-1924)
+- 2017-03-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1900)
+- 2017-03-22 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 93.
+- 2017-03-22 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 93.
+- 2017-03-23 — Message on Senate action sent to the House.
+- 2017-03-27 — Presented to President.
+- 2017-03-27 — Presented to President.
+- 2017-04-03 — Signed by President.
+- 2017-04-03 — Signed by President.
