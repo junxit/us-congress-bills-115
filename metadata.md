@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 998
@@ -22,10 +22,11 @@ Searching for and Cutting Regulations that are Unnecessarily Burdensome Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (10)
 
@@ -178,3 +179,4 @@ Searching for and Cutting Regulations that are Unnecessarily Burdensome Act
 - 2017-03-01 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-01 — The previous question was ordered pursuant to the rule.
 - 2017-03-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-03-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
