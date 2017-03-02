@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 83
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 83
@@ -54,3 +54,4 @@ Disapproving the rule submitted by the Department of Labor relating to "Clarific
 - 2017-03-01 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 191 (Roll no. 121).(text: CR H1421)
 - 2017-03-01 — Provides for consideration of H.R. 998 and H.J.Res. 83.
 - 2017-03-01 — The previous question was ordered pursuant to the rule.
+- 2017-03-02 — Received in the Senate, read twice.
