@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1009
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1009
@@ -23,10 +23,11 @@ OIRA Insight, Reform, and Accountability Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (4)
 
@@ -113,3 +114,4 @@ OIRA Insight, Reform, and Accountability Act
 - 2017-03-01 — The Speaker designated the Honorable David P. Joyce to act as Chairman of the Committee.
 - 2017-03-01 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-03-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
