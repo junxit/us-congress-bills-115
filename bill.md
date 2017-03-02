@@ -29,8 +29,9 @@ This Act may be cited as the “Regulatory Integrity Act of 2017”.
   >     - **(A)** *Pending agency regulatory action* A list of each pending agency regulatory action and with regard to each such action—
   >       - **(i)** the date on which the Executive agency first began to develop or consider the agency regulatory action;
   >       - **(ii)** the status of the agency regulatory action;
-  >       - **(iii)** an estimate of the date of upon which the agency regulatory action will be final and in effect; and
-  >       - **(iv)** a brief description of the agency regulatory action.
+  >       - **(iii)** an estimate of the date of upon which the agency regulatory action will be final and in effect;
+  >       - **(iv)** a brief description of the agency regulatory action; and
+  >       - **(v)** if applicable, a list of agency regulatory actions issued by the Executive agency, or any other Executive agency, that duplicate or overlap with the agency regulatory action.
   >     - **(B)** *Public communication* For each pending agency regulatory action, a list of each public communication about the pending agency regulatory action issued by the Executive agency and with regard to each such communication—
   >       - **(i)** the date of the communication;
   >       - **(ii)** the intended audience of the communication;
@@ -50,7 +51,7 @@ This Act may be cited as the “Regulatory Integrity Act of 2017”.
   >   - **(1)** *In general* Not later than January 15 of each year, the head of an Executive agency that communicated about a pending agency regulatory action during the previous fiscal year shall submit to each committee of Congress with jurisdiction over the activities of the Executive agency a report indicating—
   >     - **(A)** the number pending agency regulatory actions the Executive agency issued public communications about during that fiscal year;
   >     - **(B)** the average number of public communications issued by the Executive agency for each pending agency regulatory action during that fiscal year;
-  >     - **(C)** the 5 pending agency regulatory actions with the highest number of public communications issued by the Executive agency in that fiscal year; and
+  >     - **(C)** the five pending agency regulatory actions with the highest number of public communications issued by the Executive agency in that fiscal year; and
   >     - **(D)** a copy of each public communication for the pending agency regulatory actions identified in subparagraph (C).
   >   - **(2)** *Availability of reports* The head of an Executive agency that is required to submit a report under paragraph (1) shall make the report publicly available in a searchable format in a prominent location on the website of the Executive agency.
 
