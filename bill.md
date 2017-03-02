@@ -1,0 +1,18 @@
+---
+legis-num: S. 504
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 504
+
+> To permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.
+
+## § 1. Short title
+
+This Act may be cited as the “APEC Business Travel Cards Reauthorization Act of 2017”.
+
+## § 2. Permanent authorization
+
+Section 2(a) of the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 (8 U.S.C. 1185 note) is amended by striking “During the 7-year period ending on September 30, 2018, the Secretary” and inserting “The Secretary”.
