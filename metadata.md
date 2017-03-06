@@ -1,0 +1,52 @@
+---
+measure: S.Res. 81
+congress: 115
+version: Introduced in Senate
+---
+
+# S.Res. 81
+
+A resolution recognizing the 196th anniversary of the independence of Greece and celebrating democracy in Greece and the United States.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
+## Cosponsors (23)
+
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+
+## Committees (1)
+
+- Senate — Foreign Relations Committee
+
+## Actions
+
+- 2017-03-06 — Introduced in Senate
+- 2017-03-06 — Referred to the Committee on Foreign Relations.
