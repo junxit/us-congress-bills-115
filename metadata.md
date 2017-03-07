@@ -1,7 +1,7 @@
 ---
 measure: H.R. 428
 congress: 115
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 428
@@ -32,9 +32,10 @@ Red River Gradient Boundary Survey Act
 - Rep. Russell, Steve [R-OK-5] (R000604)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Red River Gradient Boundary Survey Act
 - 2017-02-14 — Rule provides for one hour of debate on each bill, the previous question shall be ordered on each bill without intervening motions except one motion to recommit. Both bills are closed to amendments.
 - 2017-02-14 — The previous question was ordered pursuant to the rule.
 - 2017-02-15 — Received in the Senate.
+- 2017-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.
