@@ -1,7 +1,7 @@
 ---
 measure: H.R. 375
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 375
@@ -36,3 +36,18 @@ To designate the Federal building and United States courthouse located at 719 Ch
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-01-10 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-02-28 — Committee Consideration and Mark-up Session Held.
+- 2017-02-28 — Ordered to be Reported by Voice Vote.
+- 2017-02-28 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2017-03-07 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-03-07 — Considered as unfinished business. (consideration: CR H1574)
+- 2017-03-07 — Considered under suspension of the rules. (consideration: CR H1547-1550)
+- 2017-03-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 375.
+- 2017-03-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-07 — Mr. Barletta moved to suspend the rules and pass the bill.
+- 2017-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1547)
+- 2017-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1547)
+- 2017-03-07 — Placed on the House Calendar, Calendar No. 15.
+- 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-23.
+- 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-23.
