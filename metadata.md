@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 115
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 560
@@ -20,9 +20,10 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to prov
 
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to prov
 - 2017-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H717-718)
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H717-718)
 - 2017-01-31 — Received in the Senate.
+- 2017-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.

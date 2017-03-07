@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 115
-version: Received in Senate
+version: Referred in Senate
 derived: true
 ---
 
