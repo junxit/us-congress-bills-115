@@ -1,7 +1,7 @@
 ---
 measure: S. 416
 congress: 115
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 416
@@ -20,11 +20,15 @@ Small Business Capital Formation Enhancement Act
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Small Business and Entrepreneurship Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
 - 2017-02-16 — Introduced in Senate
 - 2017-02-16 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2017-03-07 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2017-03-07 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2017-03-07 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
