@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 46
@@ -21,9 +21,10 @@ Fort Ontario Study Act
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Fort Ontario Study Act
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H712)
 - 2017-01-30 — Sponsor introductory remarks on measure. (CR H712-713)
 - 2017-01-31 — Received in the Senate.
+- 2017-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.
