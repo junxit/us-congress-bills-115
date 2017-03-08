@@ -1,0 +1,20 @@
+---
+legis-num: S. 576
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 576
+
+> To amend title 5, United States Code, to extend certain protections against prohibited personnel practices, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Follow the Rules Act”.
+
+## § 2. Prohibited personnel action based on ordering individual to violate rule or regulation
+
+- **(a)** *In general* Subparagraph (D) of section 2302(b)(9) of title 5, United States Code, is amended by inserting “, rule, or regulation” after “law”.
+- **(b)** *Technical correction* Such subparagraph is further amended by striking “for”.
+- **(c)** *Application* The amendment made by subsection (a) shall apply to any personnel action (as that term is defined in section 2302(a)(2)(A) of such title) occurring after the date of enactment of this Act.
