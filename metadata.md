@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1362
@@ -24,9 +24,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2017-03-07 — Mrs. Radewagen moved to suspend the rules and pass the bill.
 - 2017-03-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 127). (text: CR H1545-1546)
 - 2017-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 127).(text: CR H1545-1546)
+- 2017-03-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
