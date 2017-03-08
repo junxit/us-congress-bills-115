@@ -1,6 +1,6 @@
 ---
 legis-num: S.J. RES. 1
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---

@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 1
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 1
@@ -55,3 +55,17 @@ A joint resolution approving the location of a memorial to commemorate and honor
 - 2017-03-08 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1695; text: CR S1695)
 - 2017-03-08 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2017-03-08 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2017-03-09 — Held at the desk.
+- 2017-03-09 — Message on Senate action sent to the House.
+- 2017-03-09 — Received in the House.
+- 2017-03-15 — Considered by unanimous consent. (consideration: CR H2063-2064)
+- 2017-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-15 — Mr. Tipton asked unanimous consent to take from the Speaker's table and consider.
+- 2017-03-15 — On passage Passed without objection. (text: CR H2063)
+- 2017-03-15 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2063)
+- 2017-03-20 — Presented to President.
+- 2017-03-20 — Presented to President.
+- 2017-03-31 — Became Public Law No: 115-18.
+- 2017-03-31 — Became Public Law No: 115-18.
+- 2017-03-31 — Signed by President.
+- 2017-03-31 — Signed by President.
