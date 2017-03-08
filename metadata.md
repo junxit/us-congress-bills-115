@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1362
@@ -48,3 +48,12 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2017-03-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 127). (text: CR H1545-1546)
 - 2017-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 127).(text: CR H1545-1546)
 - 2017-03-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-03-15 — Message on Senate action sent to the House.
+- 2017-03-15 — Passed Senate without amendment by Unanimous Consent.
+- 2017-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2017-03-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1848)
+- 2017-03-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1848)
+- 2017-03-21 — Presented to President.
+- 2017-03-21 — Presented to President.
+- 2017-03-31 — Signed by President.
+- 2017-03-31 — Signed by President.
