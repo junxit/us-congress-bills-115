@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1174
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1174
@@ -22,9 +22,10 @@ Fairness For Breastfeeding Mothers Act of 2017
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Fairness For Breastfeeding Mothers Act of 2017
 - 2017-03-07 — Placed on the Union Calendar, Calendar No. 10.
 - 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-24.
 - 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-24.
+- 2017-03-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

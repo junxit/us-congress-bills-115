@@ -2,7 +2,7 @@
 legis-num: H.R. 1174
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1174
@@ -16,7 +16,7 @@ This Act may be cited as the “Fairness For Breastfeeding Mothers Act of 2017�
 ## § 2. Lactation room in public buildings
 
 - **(a)** *Lactation room in public buildings* Chapter 33 of title 40, United States Code, is amended by adding at the end the following new section:
-  > ## § 3317. Lactation room in public buildings
+  > ## § 3318. Lactation room in public buildings
   >
   > - **(a)** *Definitions* In this section:
   >   - **(1)** *Appropriate authority* The term “appropriate authority” means the head of a Federal agency, the Architect of the Capitol, or other official authority responsible for the operation of a public building.
@@ -34,4 +34,4 @@ This Act may be cited as the “Fairness For Breastfeeding Mothers Act of 2017�
   > - **(d)** *No unauthorized entry* Nothing in this section shall be construed to authorize an individual to enter a public building or portion thereof that the individual is not otherwise authorized to enter.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 33 of title 40, United States Code, is amended by inserting after the item related to section 3316 the following new item:
-- **(c)** *Effective date* The amendments made by this section shall take effect one year after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act.
