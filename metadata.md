@@ -1,7 +1,7 @@
 ---
 measure: H.R. 375
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 375
@@ -51,3 +51,4 @@ To designate the Federal building and United States courthouse located at 719 Ch
 - 2017-03-07 — Placed on the House Calendar, Calendar No. 15.
 - 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-23.
 - 2017-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-23.
+- 2017-03-08 — Received in the Senate, read twice.
