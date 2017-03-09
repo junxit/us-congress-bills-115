@@ -1,7 +1,7 @@
 ---
 measure: S. 496
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 496
@@ -22,9 +22,10 @@ A bill to repeal the rule issued by the Federal Highway Administration and the F
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to repeal the rule issued by the Federal Highway Administration and the F
 - 2017-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1695; text: CR S1695)
 - 2017-03-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
 - 2017-03-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2017-03-09 — Message on Senate action sent to the House.
+- 2017-03-09 — Received in the House.
+- 2017-03-09 — Referred to the House Committee on Transportation and Infrastructure.
