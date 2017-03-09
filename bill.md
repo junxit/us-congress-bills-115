@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1446
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1446
+
+> To amend section 287(g) of the Immigration and Nationality Act to prohibit State and local officers and employees from performing immigration officer functions.
+
+## § 1. Short title
+
+This Act may be cited as the “No State Resources for Immigration Enforcement (NSRIE) Act”.
+
+## § 2. Prohibition on performance of immigration officer functions by State and local officials
+
+Section 287(g) of the Immigration and Nationality Act (8 U.S.C. 1357(g)) is amended to read as follows:
+
+> - **(g)** The Secretary of Homeland Security may not enter into a written agreement with a State, or any political subdivision of a State, pursuant to which any officer or employee of the State or subdivision is authorized to carry out a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers).
