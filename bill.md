@@ -15,5 +15,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** Consistent guidance to applicants on FEMA disaster funding procedures during the response to an emergency or disaster.
   - **(2)** Appropriate record maintenance and transfer of documents to new teams during staff transitions.
   - **(3)** Accurate assistance to applicants and grantees to ease the administrative burden throughout the process of obtaining and monitoring assistance.
-- **(b)** *Maintaining records* The report shall also include a plan for implementing operating procedures and document retention requirements to ensure the maintenance of appropriate records throughout the lifecycle of the disaster an emergency or disaster.
+- **(b)** *Maintaining records* The report shall also include a plan for implementing operating procedures and document retention requirements to ensure the maintenance of appropriate records throughout the lifecycle of the emergency or disaster.
 - **(c)** *New technologies* Finally, the report shall identify new technologies that further aid the disaster workforce in partnering with State, local, and tribal governments and private nonprofits in the wake of a disaster or emergency to educate, assist, and inform applicants on the status of their emergency or disaster assistance applications and projects.

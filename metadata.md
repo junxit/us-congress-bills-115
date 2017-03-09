@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1117
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1117
@@ -25,3 +25,10 @@ To require the Administrator of the Federal Emergency Management Agency to submi
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-02-17 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-02-28 — Committee Consideration and Mark-up Session Held.
+- 2017-02-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-02-28 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2017-03-09 — Placed on the Union Calendar, Calendar No. 13.
+- 2017-03-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-31.
+- 2017-03-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-31.
