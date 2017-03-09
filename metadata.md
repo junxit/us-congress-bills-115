@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 180
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 180
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Feder
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2017-03-09 — [House 115-1-138](votes/house-115-1-0138.md) — On Ordering the Previous Question — **Passed** (233–186)
+- 2017-03-09 — [House 115-1-139](votes/house-115-1-0139.md) — On Agreeing to the Resolution — **Passed** (233–184)
+
 ## Actions
 
 - 2017-03-08 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Feder
 - 2017-03-08 — Providing for consideration of the bills H.R. 720 and H.R. 985.
 - 2017-03-08 — The House Committee on Rules reported an original measure, H. Rept. 115-29, by Mr. Collins (GA).
 - 2017-03-08 — The House Committee on Rules reported an original measure, H. Rept. 115-29, by Mr. Collins (GA).
+- 2017-03-09 — Considered as privileged matter.
+- 2017-03-09 — Considered as unfinished business.
+- 2017-03-09 — DEBATE - The House proceeded with one hour of debate on H. Res. 180.
+- 2017-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 184 (Roll no. 139).
+- 2017-03-09 — On ordering the previous question Agreed to by the Yeas and Nays: 233 - 186 (Roll no. 138).
+- 2017-03-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 180, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until a time to be announced.
+- 2017-03-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 184 (Roll no. 139).
