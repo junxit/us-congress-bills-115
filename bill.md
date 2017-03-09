@@ -21,9 +21,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** develop a plan for the purchase and installation of an earthquake early warning system for the Cascadia Subduction Zone; and
     - **(B)** identify the funds necessary for implementation of the plan.
   - **(2)** *Submission to Congress* Not later than 90 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a copy of the plan.
-- **(b)** *Authority To make grants* Not later than 180 days after the date of enactment of this Act, the Administrator shall make grants to States, Indian tribes, and units of local governments to provide for implementation of the plan.
-- **(c)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report that summarizes the actions taken to implement the plan.
-- **(d)** *Definitions* In this section, the following definitions apply:
+- **(b)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report that summarizes the actions taken to implement the plan.
+- **(c)** *Definitions* In this section, the following definitions apply:
   - **(1)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
   - **(2)** *Earthquake early warning system* The term “earthquake early warning system” includes—
     - **(A)** improvements to regional and geodetic networks that support building a capability for an earthquake early warning system; and
@@ -81,7 +80,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** The comprehensive strategy to be developed under subsection (a).
   - **(2)** The recommendations to be developed under subsections (a), (d), and (e).
 - **(g)** *Definitions* In this section, the following definitions apply:
-  - **(1)** *Administrator* The term “Administrator” means the Administrator of the Environmental Protection Agency.
+  - **(1)** *Administrator* The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
   - **(2)** *Covered event* The term “covered event” means an earthquake, tsunami, or combined earthquake and tsunami event.
   - **(3)** *Task force* The term “Task Force” means the Federal interagency task force to be established under subsection (a).
 
