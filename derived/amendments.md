@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 114 is amended by inserting after section 1715 the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (e); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 87 is amended by adding to section 1407 the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 77z-1` | insert | Chapter 114 is amended by inserting after section 1715 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77z-1` | insert | The table of sections for such chapter is amended by inserting after the item pertaining to section 1715 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 1447 is amended by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1407 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 524(g) of title 11, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
