@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1301
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1301
@@ -42,3 +42,4 @@ Continuing Appropriations Amendments Act, 2018
 - 2017-03-08 — Previous question shall be considered as ordered without intervening motions except motion to recommit. Rule provides for consideration of H.R. 1301
 - 2017-03-08 — Rule H. Res. 174 passed House.
 - 2017-03-08 — The previous question was ordered pursuant to the rule.
+- 2017-03-09 — Received in the Senate.
