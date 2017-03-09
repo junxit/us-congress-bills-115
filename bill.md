@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 1471
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1471
+
+> To suspend assistance to countries denying or delaying accepting aliens ordered removed from the United States, and for other purposes.
+
+## § 1. Suspension of assistance to countries denying or delaying accepting aliens ordered removed
+
+- **(a)** *In general* The President shall suspend the provision of assistance under any provision of law with respect to each country on the list required by subsection (b).
+- **(b)** *List of countries* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall submit to Congress a list of each country that the Secretary determines denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Secretary asks whether the government will accept the alien under section 241 of the Immigration and Nationality Act (8 U.S.C. 1251).
