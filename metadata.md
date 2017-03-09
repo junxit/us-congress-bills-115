@@ -1,7 +1,7 @@
 ---
 measure: H.R. 654
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 654
@@ -26,3 +26,10 @@ Pacific Northwest Earthquake Preparedness Act of 2017
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Referred to the House Committee on Transportation and Infrastructure.
 - 2017-01-24 — Sponsor introductory remarks on measure. (CR E91)
+- 2017-01-25 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-02-28 — Committee Consideration and Mark-up Session Held.
+- 2017-02-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-02-28 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2017-03-09 — Placed on the Union Calendar, Calendar No. 12.
+- 2017-03-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-30.
+- 2017-03-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-30.
