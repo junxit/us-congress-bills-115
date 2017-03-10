@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1367
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1367
@@ -16,6 +16,13 @@ To improve the authority of the Secretary of Veterans Affairs to hire and retain
 
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 
+## Cosponsors (4)
+
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+
 ## Committees (2)
 
 - House — Oversight and Accountability Committee
@@ -28,3 +35,8 @@ To improve the authority of the Secretary of Veterans Affairs to hire and retain
 - 2017-03-06 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-03-06 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-03-06 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-03-10 — Committee on Oversight and Government discharged.
+- 2017-03-10 — Committee on Oversight and Government discharged.
+- 2017-03-10 — Placed on the Union Calendar, Calendar No. 17.
+- 2017-03-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-35, Part I.
+- 2017-03-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-35, Part I.
