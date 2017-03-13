@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 720
@@ -26,9 +26,10 @@ Lawsuit Abuse Reduction Act of 2017
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (6)
 
@@ -99,3 +100,4 @@ Lawsuit Abuse Reduction Act of 2017
 - 2017-03-10 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-10 — The previous question was ordered pursuant to the rule.
 - 2017-03-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-03-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
