@@ -1,7 +1,7 @@
 ---
 measure: S. 327
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 327
@@ -16,9 +16,10 @@ Fair Access to Investment Research Act of 2017
 
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Perdue, David [R-GA] (P000612)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Fair Access to Investment Research Act of 2017
 
 - 2017-02-07 — Introduced in Senate
 - 2017-02-07 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2017-03-09 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment favorably.
+- 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
+- 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
+- 2017-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 11.
