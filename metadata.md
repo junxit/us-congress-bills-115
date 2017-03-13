@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 985
@@ -21,9 +21,10 @@ Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency A
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (9)
 
@@ -133,3 +134,4 @@ Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency A
 - 2017-03-09 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2017-03-09 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-09 — The previous question was ordered pursuant to the rule.
+- 2017-03-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
