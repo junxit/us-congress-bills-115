@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
