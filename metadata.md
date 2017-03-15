@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 34
 congress: 115
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 34
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Cosponsors (22)
+## Cosponsors (23)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -40,6 +40,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -49,3 +50,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2017-03-07 — Introduced in Senate
 - 2017-03-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2017-03-15 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2017-03-15 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
