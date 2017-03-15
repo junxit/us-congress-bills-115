@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1228
@@ -29,3 +29,15 @@ To provide for the appointment of members of the Board of Directors of the Offic
 - 2017-02-27 — Introduced in House
 - 2017-02-27 — Introduced in House
 - 2017-02-27 — Referred to the House Committee on House Administration.
+- 2017-03-15 — Amendment (A001) offered by Mr. Harper. (consideration: CR H2071; text: CR H2071)
+- 2017-03-15 — Amendment agreed to by House: On agreeing to the Harper amendment (A001) Agreed to by voice vote.
+- 2017-03-15 — Committee on House Administration discharged. (consideration: CR H2071; text: CR H2071)
+- 2017-03-15 — Committee on House Administration discharged.(consideration: CR H2071; text: CR H2071)
+- 2017-03-15 — House amendment agreed to: On agreeing to the Harper amendment (A001) Agreed to by voice vote.
+- 2017-03-15 — House amendment offered
+- 2017-03-15 — House amendment offered/reported by : Amendment (A001) offered by Mr. Harper.(consideration: CR H2071; text: CR H2071)
+- 2017-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-15 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2017-03-15 — On agreeing to the Harper amendment (A001) Agreed to by voice vote.
+- 2017-03-15 — On passage Passed without objection.
+- 2017-03-15 — Passed/agreed to in House: On passage Passed without objection.

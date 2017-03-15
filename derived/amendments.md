@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `2 U.S.C. § 1381` | add-at-end | Section 301(e) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1381` | replace | Section 301(b) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(b)) is amended by striking the period at the end of the second sentence and inserting the following: “, who are authorized to take such steps as they consider … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
