@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (a) of the first section, by striking “the map entitled Martin Luther King, Junior, National Historic Site, numbered 489/80,013B, and dated September 1992” and inserting “the map entitled Martin Luther King, Jr. National Hi… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a) of the first section, by striking “the map entitled Martin Luther King, Junior, National Historic Site Boundary Map, number 489/80,013B, and dated September 1992” and inserting “the map entitled Martin Luther King, Jr. … | the bill names no machine-readable US Code section |
 | — | replace | by striking “Martin Luther King, Junior, National Historic Site” each place it appears and inserting “Martin Luther King, Jr. National Historical Park”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “national historic site” each place it appears and inserting “national historical park”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “historic site” each place it appears and inserting “historical park”. | the bill names no machine-readable US Code section |
