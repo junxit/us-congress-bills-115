@@ -1,7 +1,7 @@
 ---
 measure: H.R. 372
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 372
@@ -16,7 +16,7 @@ Competitive Health Insurance Reform Act of 2017
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Cosponsors (14)
+## Cosponsors (20)
 
 - Rep. Brat, Dave [R-VA-7] (B001290)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
@@ -32,6 +32,12 @@ Competitive Health Insurance Reform Act of 2017
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
 ## Committees (1)
 
@@ -42,3 +48,11 @@ Competitive Health Insurance Reform Act of 2017
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Referred to the House Committee on the Judiciary.
+- 2017-02-06 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2017-02-16 — Subcommittee Hearings Held.
+- 2017-02-20 — Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.
+- 2017-02-28 — Committee Consideration and Mark-up Session Held.
+- 2017-02-28 — Ordered to be Reported by Voice Vote.
+- 2017-03-15 — Placed on the Union Calendar, Calendar No. 18.
+- 2017-03-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-36.
+- 2017-03-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-36.
