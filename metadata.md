@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 173
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 173
@@ -25,3 +25,7 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Referred to the House Committee on House Administration.
+- 2017-03-08 — Ordered to be Reported by Voice Vote.
+- 2017-03-15 — Placed on the House Calendar, Calendar No. 20.
+- 2017-03-15 — Reported by the Committee on House Administration. H. Rept. 115-38.
+- 2017-03-15 — Reported by the Committee on House Administration. H. Rept. 115-38.
