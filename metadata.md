@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 9
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 9
@@ -16,7 +16,7 @@ A resolution honoring in praise and remembrance the extraordinary life, steady l
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -24,6 +24,8 @@ A resolution honoring in praise and remembrance the extraordinary life, steady l
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -33,3 +35,7 @@ A resolution honoring in praise and remembrance the extraordinary life, steady l
 
 - 2017-01-10 — Introduced in Senate
 - 2017-01-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S208)
+- 2017-03-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-03-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-03-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1849)
+- 2017-03-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1849)
