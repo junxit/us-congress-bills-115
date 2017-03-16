@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1302
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1302
@@ -16,7 +16,7 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2017
 
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Cosponsors (9)
+## Cosponsors (12)
 
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
@@ -27,6 +27,9 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2017
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 - Rep. Hurd, Will [R-TX-23] (H001073)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (1)
 
@@ -37,3 +40,8 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2017
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Referred to the House Committee on Homeland Security.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported by Voice Vote.
+- 2017-03-16 — Placed on the Union Calendar, Calendar No. 20.
+- 2017-03-16 — Reported by the Committee on Homeland Security. H. Rept. 115-40.
+- 2017-03-16 — Reported by the Committee on Homeland Security. H. Rept. 115-40.
