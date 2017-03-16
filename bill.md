@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1585
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1585
+
+> To amend the Securities Act of 1933 to codify certain qualifications of individuals as accredited investors for purposes of the securities laws.
+
+## § 1. Definition of accredited investor
+
+Section 2(a)(15)(ii) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)(ii)) is amended by striking the period at the end and inserting the following:
+
+> , and shall include—
+> - **(I)** any natural person whose individual net worth, or joint net worth with that person’s spouse, exceeds $1,000,000, not including the value of such person’s primary residence owned either individually or jointly with his or her spouse;
+> - **(II)** any natural person who had an individual income in excess of $200,000 in each of the two most recent years or joint income with that person’s spouse in excess of $300,000 in each of those years and has a reasonable expectation of reaching the same income level in the current year;
+> - **(III)** any natural person who holds a current financial services-related license issued by a State; and
+> - **(IV)** any natural person the Commission determines, by regulation, to have demonstrable education or job experience to qualify such person as having professional knowledge of a subject related to a particular investment, and whose education or job experience is verified by the Financial Industry Regulatory Authority.
