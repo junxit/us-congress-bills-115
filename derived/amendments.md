@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 14 executed, 20 stated and not applied.
+36 amendatory instructions. 14 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -179,3 +179,5 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 7462` | insert | in paragraph (3), by inserting “the hearing must be concluded not later than 30 business days after the date on which the appeal is filed, and” after “If such a hearing is held,”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 7463` | redesignate | by striking subsection (b) and redesignating subsections (c) through (e) as subsections (b) through (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 7463` | strike | by striking “orally and”. | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 7401` | insert | Chapter 7 of title 38, United States Code, is further amended by inserting after section 723, as added by section 5, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 7401` | insert | The table of sections at the beginning of chapter 7 of such title is amended by inserting after the item relating to section 723, as added by section 5, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

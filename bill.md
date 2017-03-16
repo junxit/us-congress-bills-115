@@ -60,11 +60,12 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
   >   - **(9)** If an employee prevails on appeal under this section, the employee shall be entitled to backpay (as provided in section 5596 of title 5).
   >   - **(10)** This subsection shall supercede any collective bargaining agreement to the extent that such an agreement conflicts with this subsection.
   > - **(f)** *Whistleblower protection*
-  >   - **(1)** In the case of an individual seeking corrective action (or on behalf of whom corrective action is sought) from the Office of Special Counsel based on an alleged prohibited personnel practice described in section 2302(b) of title 5, the Secretary may not remove, demote, or suspend such individual under subsection (a) without the approval of the Special Counsel under section 1214(f) of title 5.
+  >   - **(1)** In the case of an individual seeking corrective action (or on behalf of whom corrective action is sought) from the Office of Special Counsel based on an alleged prohibited personnel practice described in section 2302(b) of title 5 or section 733(c) of this title, the Secretary may not remove, demote, or suspend such individual under subsection (a) without the approval of the Special Counsel under section 1214(f) of title 5.
   >   - **(2)** In the case of an individual who has filed a whistleblower complaint, as such term is defined in section 731 of this title, the Secretary may not remove, demote, or suspend such individual under subsection (a) until a final decision with respect to the whistleblower complaint has been made.
   > - **(g)** *Termination of investigations by Office of Special Counsel* Notwithstanding any other provision of law, the Special Counsel (established by section 1211 of title 5) may terminate an investigation of a prohibited personnel practice alleged by an employee or former employee of the Department after the Special Counsel provides to the employee or former employee a written statement of the reasons for the termination of the investigation. Such statement may not be admissible as evidence in any judicial or administrative proceeding without the consent of such employee or former employee.
   > - **(h)** *Vacancies* In the case of an individual who is removed or demoted under subsection (a), to the maximum extent feasible, the Secretary shall fill the vacancy arising as a result of such removal or demotion.
-  > - **(i)** *Definitions* In this section:
+  > - **(i)** *Semi-Annual report on transferred employees* The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives semi-annual reports on senior executive employees who are transferred within the Department. Each such report shall include, for each such senior executive employee transferred during the period covered by the report, the reason for the transfer and any costs associated with the transfer.
+  > - **(j)** *Definitions* In this section:
   >   - **(1)** The term individual means an individual occupying a position at the Department but does not include—
   >     - **(A)** an individual appointed pursuant to section 7306, 7401(1), or 7405 of this title;
   >     - **(B)** an individual who has not completed a probationary or trial period; or
@@ -152,7 +153,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 ## § 6. Authority to recoup relocation expenses paid to or on behalf of employees of Department of Veterans Affairs
 
 - **(a)** *In general* Subchapter I of chapter 7 is further amended by adding at the end the following new section:
-  > ## § 725. Recoupment of relocation expenses paid on behalf of employees of Department
+  > ## § 725. Recoupment of relocation expenses paid to or on behalf of employees of Department
   >
   > - **(a)** *In general* Notwithstanding any other provision of law, the Secretary may issue an order directing an employee of the Department to repay the amount, or a portion of the amount, paid to or on behalf of the employee under title 5 for relocation expenses, including any expenses under section 5724 or 5724a of such title, or this title if—
   >   - **(1)** the Secretary determines that relocation expenses were not lawfully authorized or that the employee committed an act of fraud, waste, or malfeasance that influenced the authorization of the relocation expenses;
@@ -215,3 +216,46 @@ Section 733(a)(2)(B) is amended—
     - **(B)** in subparagraph (B)—
       - **(i)** by striking “a reasonable time” and inserting “the opportunity, within the ten business day notice period,”; and
       - **(ii)** by striking “orally and”.
+
+## § 10. Annual report on performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs
+
+- **(a)** *In general* Chapter 7 of title 38, United States Code, is further amended by inserting after section 723, as added by section 5, the following new section:
+  > ## § 724. Annual report on performance awards and bonuses awarded to certain high-level employees
+  >
+  > - **(a)** *In general* Not later than 30 days after the end of each fiscal year, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the most recent fiscal year ending before the submittal of the report, a description of the performance awards and bonuses awarded to Regional Office Directors of the Department, Directors of Medical Centers of the Department, Directors of Veterans Integrated Service Networks, and any other individual employed in a senior executive position.
+  > - **(b)** *Elements* Each report submitted under subsection (a) shall include the following with respect to each performance award or bonus awarded to an individual described in such subsection:
+  >   - **(1)** The amount of each award or bonus.
+  >   - **(2)** The job title of the individual awarded the award or bonus.
+  >   - **(3)** The location where the individual awarded the award or bonus works.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** The term appropriate committees of Congress means—
+  >     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+  >     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+  >   - **(2)** The term “individual” means—
+  >     - **(A)** a career appointee (as that term is defined in section 3132(a)(4) of title 5); or
+  >     - **(B)** any individual who occupies an administrative or executive position and who was appointed under section 7306(a) or section 7401(1) of this title.
+  >   - **(3)** The term “senior executive position” means—
+  >     - **(A)** with respect to a career appointee (as that term is defined in section 3132(a)(4) of title 5), a Senior Executive Service position (as such term is defined in section 3132(a)(2) of title 5); and
+  >     - **(B)** with respect to an individual appointed under section 7306(a) or section 7401(1) of this title, an administrative or executive position.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 7 of such title is amended by inserting after the item relating to section 723, as added by section 5, the following new item:
+
+## § 11. Accountability of supervisors at Department of Veterans Affairs for addressing performance of employees
+
+- **(a)** *In general* The Secretary of Veterans Affairs shall ensure that, as a part of the annual performance plan of a supervisor in the Department, the supervisor is evaluated on the following:
+  - **(1)** Taking action to address poor performance and misconduct among the employees that report to the supervisor.
+  - **(2)** Taking steps to improve or sustain high levels of employee engagement.
+  - **(3)** Promoting a positive culture of service that—
+    - **(A)** reflects the mission of the Department and the values of integrity, commitment, advocacy, respect, and excellence; and
+    - **(B)** emphasizes the greatest degree of performance and conduct.
+- **(b)** *Supervisor defined* In this section, the term supervisor has the meaning given such term in section 7103(a) of title 5, United States Code.
+
+## § 12. Improvement of training for supervisors
+
+- **(a)** *In general* The Secretary of Veterans Affairs shall provide to each employee of the Department of Veterans Affairs who is employed as a supervisor periodic training on the following:
+  - **(1)** The rights of whistleblowers and how to address a report by an employee of a hostile work environment, reprisal, or harassment.
+  - **(2)** How to effectively motivate, manage, and reward the employees who report to the supervisor.
+  - **(3)** How to effectively manage employees who are performing at an unacceptable level and access assistance from the human resources office of the Department and the Office of the General Counsel of the Department with respect to those employees.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Supervisor* The term supervisor has the meaning given such term in section 7103(a) of title 5, United States Code.
+  - **(2)** *Whistleblower* The term whistleblower has the meaning given such term in section 323(g) of title 38, United States Code, as added by section 101.
