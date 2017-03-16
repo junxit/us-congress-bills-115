@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 1577
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1577
+
+> To require the Secretary of the Interior submit a report to Congress evaluating the Capital Investment Strategy and its results, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “National Park Service Transparency and Accountability Act”.
+
+## § 2. Findings
+
+Congress finds as follows:
+
+- **(1)** In fiscal years 2006 through 2015, the National Park Service allocated, on average, $1,160,000,000 annually to maintain assets. In fiscal year 2015, allocations to maintenance accounted for about one-third ($1,080,000,000) of the agency’s total funding of $3,300,000,000. The largest portion of maintenance funds in fiscal year 2015 was allocated to facility operations, which includes maintenance that is routine in nature, such as maintenance of trails.
+- **(2)** The Park Service’s deferred maintenance—maintenance of its assets that was not performed when it should have been and was delayed for a future time—averaged $11,300,000,000 from fiscal years 2009 through 2015. Bridges, tunnels, and paved roadways consistently made up the largest share of the agency’s deferred maintenance, accounting for half of all deferred maintenance in fiscal year 2015. Older park units have the most deferred maintenance, totaling $10,500,000,000 in fiscal year 2015 in park units established more than 40 years ago.
+
+## § 3. Report
+
+To ensure that the elements of the National Park Service process for making asset maintenance decisions is achieving desired outcomes, not later than 60 days after the date of the enactment of this Act, the Secretary of the Interior, acting through the Director of the National Park Service, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
+
+- **(1)** an evaluation of—
+  - **(A)** the National Park Service Capital Investment Strategy; and
+  - **(B)** the results of the National Park Service Capital Investment Strategy;
+- **(2)** a determination of whether the National Park Service Capital Investment Strategy is achieving its intended outcomes; and
+- **(3)** any changes to the National Park Service Capital Investment Strategy that the Secretary recommends to improve the outcomes of that strategy.
