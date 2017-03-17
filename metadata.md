@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 173
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 173
@@ -29,3 +29,9 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2017-03-15 — Placed on the House Calendar, Calendar No. 20.
 - 2017-03-15 — Reported by the Committee on House Administration. H. Rept. 115-38.
 - 2017-03-15 — Reported by the Committee on House Administration. H. Rept. 115-38.
+- 2017-03-17 — Considered as privileged matter. (consideration: CR H2154-2155)
+- 2017-03-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 173.
+- 2017-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-17 — On agreeing to the resolution Agreed to by voice vote. (text of measure as passed: CR H2154-2155)
+- 2017-03-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text of measure as passed: CR H2154-2155)
+- 2017-03-17 — The previous question was ordered without objection.
