@@ -75,7 +75,7 @@ Section 3(40)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.
   >   - **(2)** having been established or maintained under or pursuant to one or more collective bargaining agreements which are reached pursuant to collective bargaining described in section 8(d) of the National Labor Relations Act (29 U.S.C. 158(d)) or paragraph Fourth of section 2 of the Railway Labor Act (45 U.S.C. 152, paragraph Fourth) or which are reached pursuant to labor-management negotiations under similar provisions of State public employee relations laws; or
   >   - **(3)** being a plan or arrangement described in section 3(40)(A)(i),
 
-- **(b)** *Cease Activities Orders* Section 502 of such Act (29 U.S.C. 1132) is amended by adding at the end the following new subsection:
+- **(b)** *Cease Activities Orders* Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended by adding at the end the following new subsection:
   > - **(n)** *Association Health Plan Cease and Desist Orders*
   >   - **(1)** *In general* Subject to paragraph (2), upon application by the Secretary showing the operation, promotion, or marketing of an association health plan (or similar arrangement providing benefits consisting of medical care (as defined in section 733(a)(2))) that—
   >     - **(A)** is not certified under part 8, is subject under section 514(b)(6) to the insurance laws of any State in which the plan or arrangement offers or provides benefits, and is not licensed, registered, or otherwise approved under the insurance laws of such State; or
@@ -85,7 +85,7 @@ Section 3(40)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.
   >     - **(B)** with respect to each State in which the plan or arrangement offers or provides benefits, the plan or arrangement is operating in accordance with applicable State laws that are not superseded under section 514.
   >   - **(3)** *Additional equitable relief* The court may grant such additional equitable relief, including any relief available under this title, as it deems necessary to protect the interests of the public and of persons having claims for benefits against the plan.
 
-- **(c)** *Responsibility for Claims Procedure* Section 503 of such Act (29 U.S.C. 1133) is amended by inserting “(a) In general.—” before “In accordance”, and by adding at the end the following new subsection:
+- **(c)** *Responsibility for Claims Procedure* Section 503 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1133) is amended by inserting “(a) In general.—” before “In accordance”, and by adding at the end the following new subsection:
   > - **(b)** *Association Health Plans* The terms of each association health plan which is or has been certified under part 8 shall require the board of trustees or the named fiduciary (as applicable) to ensure that the requirements of this section are met in connection with claims filed under the plan.
 
 ## § 5. Cooperation between Federal and State authorities

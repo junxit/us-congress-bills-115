@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1101
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -84,6 +84,6 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1002` | redesignate | by redesignating clauses (iv) and (v) as clauses (v) and (vi), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | insert | by inserting after clause (iii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1131` | add-at-end | Section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1132` | add-at-end | Section 502 of such Act (29 U.S.C. 1132) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1133` | add-at-end | Section 503 of such Act (29 U.S.C. 1133) is amended by inserting “(a) In general.—” before “In accordance”, and by adding at the end the following new subsection: | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1132` | add-at-end | Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1133` | add-at-end | Section 503 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1133) is amended by inserting “(a) In general.—” before “In accordance”, and by adding at the end the following new subsection: | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1136` | add-at-end | Section 506 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1136) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
