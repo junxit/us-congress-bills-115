@@ -17,12 +17,12 @@ This Act may be cited as the “DHS Acquisition Authorities Act of 2017”.
 
 Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended by—
 
-- **(1)** redesignating subsection (d) as subsection (e); and
-- **(2)** by inserting after subsection (c) the following new subsection:
+- **(1)** redesignating subsections (d) and (e) as subsections (e) and (f); and
+- **(2)** inserting after subsection (c) the following new subsection:
   > - **(d)** *Acquisition and related responsibilities*
   >   - **(1)** *In general* Notwithstanding section 1702(b) of title 41, United States Code, the Under Secretary for Management is the Chief Acquisition Officer of the Department. As Chief Acquisition Officer, the Under Secretary shall have the authorities and perform the functions specified in section 1702(b) of such title, and perform all other functions and responsibilities delegated by the Secretary or described in this subsection.
   >   - **(2)** *Functions and responsibilities* In addition to the authorities and functions specified in section 1702(b) of title 41, United States Code, the functions and responsibilities of the Under Secretary for Management related to acquisition (as such term is defined in section 710) include the following:
-  >     - **(A)** Advising the Secretary regarding acquisition management activities, taking into account risks of failure to achieve cost, schedule, or performance parameters, to ensure that the Department achieves its mission through the adoption of widely accepted program management best practices (as such term is defined in section 710) and standards.
+  >     - **(A)** Advising the Secretary regarding acquisition management activities, taking into account risks of failure to achieve cost, schedule, or performance parameters, to ensure that the Department achieves its mission through the adoption of widely accepted program management best practices (as such term is defined in section 710) and standards and, where appropriate, acquisition innovation best practices.
   >     - **(B)** Leading the Department’s acquisition oversight body, the Acquisition Review Board, and exercising the acquisition decision authority (as such term is defined in section 710) to approve, pause, modify (including the rescission of approvals of program milestones), or cancel major acquisition programs (as such term is defined in section 710), unless the Under Secretary delegates such authority to a Component Acquisition Executive (as such term is defined in section 710) pursuant to paragraph (3).
   >     - **(C)** Establishing policies for acquisition that implement an approach that takes into account risks of failure to achieve cost, schedule, or performance parameters that all components of the Department shall comply with, including outlining relevant authorities for program managers to effectively manage acquisition programs.
   >     - **(D)** Ensuring that each major acquisition program has a Department-approved acquisition program baseline (as such term is defined in section 710), pursuant to the Department’s acquisition management policy.
