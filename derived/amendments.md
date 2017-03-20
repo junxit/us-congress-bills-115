@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1304
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 1191b` | add-at-end | Section 733(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b(b)(1)) is amended by adding at the end the following new sentence: “Such term shall not include a stop-loss policy obtained by a self-insured healt… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1191b` | add-at-end | Section 733(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b(b)(1)) is amended by adding at the end the following sentence: “Such term shall not include a stop-loss policy obtained by a self-insured health pl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-91` | add-at-end | Section 2791(b)(1) of the Public Health Service Act (42 U.S.C. 300gg–91(b)(1)) is amended by adding at the end the following new sentence: “Such term shall not include a stop-loss policy obtained by a self-insured health plan or a plan s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9832` | add-at-end | Section 9832(b)(1)(A) of the Internal Revenue Code of 1986 is amended by adding at the end the following new sentence: “Such term shall not include a stop-loss policy obtained by a self-insured health plan or a plan sponsor of a group he… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
