@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1627
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1627
+
+> To amend the Immigration and Nationality Act to reinstate the returning worker exemption for H–2B visas, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Assistance Act of 2017”.
+
+## § 2. Returning worker exemption
+
+- **(a)** *In general* Section 214(g)(9)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(9)(A)) is amended by striking “during fiscal year 2013, 2014, or 2015 shall not again be counted toward such limitation during fiscal year 2016” and inserting the following: “during fiscal year 2014, 2015, or 2016 shall not again be counted toward such limitation during fiscal year 2017”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if enacted on October 1, 2016.
