@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1365
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1365
@@ -29,3 +29,8 @@ Department of Homeland Security Acquisition Innovation Act
 - 2017-03-06 — Introduced in House
 - 2017-03-06 — Introduced in House
 - 2017-03-06 — Referred to the House Committee on Homeland Security.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-03-20 — Placed on the Union Calendar, Calendar No. 28.
+- 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-48.
+- 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-48.
