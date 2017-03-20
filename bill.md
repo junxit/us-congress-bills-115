@@ -17,9 +17,9 @@ This Act may be cited as the “100 Years of Women in Congress Act”.
 
 Congress finds the following:
 
-- **(1)** The first woman elected to Congress, Representative Jeannette Rankin from Montana, was elected on November 7, 1916, almost four years prior to ratification of the 19th Amendment to the U.S. Constitution giving women the right to vote.
+- **(1)** The first woman elected to Congress, Representative Jeannette Rankin from Montana, was elected on November 7, 1916, almost 4 years prior to ratification of the 19th Amendment to the U.S. Constitution giving women the right to vote.
 - **(2)** Jeannette Rankin was not only a pioneer in national electoral politics, she was also a pioneer as a woman in science, graduating from the University of Montana in 1902 with a Bachelor of Science degree in biology.
-- **(3)** 100 years after the swearing-in of Jeannette Rankin, 109 women serve in the 115th Congress, more than at any other time in our Nation’s history. While this improvement is commendable, women hold only 20 percent of the seats in Congress, far below their relative share of the American electorate.
+- **(3)** One hundred years after the swearing-in of Jeannette Rankin, 109 women serve in the 115th Congress, more than at any other time in our Nation’s history. While this improvement is commendable, women hold only 20 percent of the seats in Congress, far below their relative share of the American electorate.
 - **(4)** According to the U.S. Bureau of Labor Statistics, women make up 47 percent of the total U.S. workforce. Gains have been made in the science, technology, engineering, and mathematics (STEM) fields over time, but women still comprise only 39 percent of chemists and material scientists, 28 percent of environmental scientists and geoscientists, 16 percent of chemical engineers, and 12 percent of civil engineers.
 - **(5)** More must be done to encourage women to run for elected office and to enter STEM fields.
 
