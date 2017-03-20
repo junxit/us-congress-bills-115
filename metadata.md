@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1029
@@ -28,3 +28,16 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2017-02-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-02-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-02-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-02-16 — Committee Consideration and Mark-up Session Held.
+- 2017-02-16 — Ordered to be Reported (Amended).
+- 2017-03-20 — Committee on Energy and Commerce discharged.
+- 2017-03-20 — Committee on Energy and Commerce discharged.
+- 2017-03-20 — Considered under suspension of the rules. (consideration: CR H2190-2208)
+- 2017-03-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1029.
+- 2017-03-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-20 — Mr. Davis, Rodney moved to suspend the rules and pass the bill, as amended.
+- 2017-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H2190-2207)
+- 2017-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H2190-2207)
+- 2017-03-20 — Placed on the Union Calendar, Calendar No. 29.
+- 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
+- 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
