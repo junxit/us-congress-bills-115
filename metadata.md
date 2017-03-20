@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1353
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1353
@@ -31,3 +31,12 @@ Transparency in Technological Acquisitions Act of 2017
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Referred to the House Committee on Homeland Security.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported by Voice Vote.
+- 2017-03-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-03-20 — Considered under suspension of the rules. (consideration: CR H2212-2213; text of measure as introduced: CR H2212)
+- 2017-03-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1353.
+- 2017-03-20 — Mr. Rutherford moved to suspend the rules and pass the bill.
+- 2017-03-20 — Placed on the Union Calendar, Calendar No. 24.
+- 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-44.
+- 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-44.
