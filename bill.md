@@ -2,7 +2,7 @@
 legis-num: H.R. 1029
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1029
@@ -37,8 +37,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** by striking “paragraph (3),” in the first sentence and all that follows through the second sentence and inserting the following: “paragraph (3), to offset the costs of registration review under section 3(g), including the costs associated with any review under the Endangered Species Act of 1973 (16 U.S.C. 1531 et. seq.) required as part of the registration review, to offset the costs associated with tracking and implementing registration review decisions, including registration review decisions designed to reduce risk, for the purposes specified in paragraphs (4) and (5), and to enhance the information systems capabilities to improve the tracking of pesticide registration decisions.”;
   - **(3)** in clause (i), by striking “are allocated solely” and all that follows through “3(g);” and inserting the following: “are allocated solely for the purposes specified in the first sentence of this subparagraph;”; and
   - **(4)** in clause (ii), by striking “necessary to achieve” and all that follows through “3(g);” and inserting the following: “necessary to achieve the purposes specified in the first sentence of this subparagraph;”.
-- **(b)** *Set-aside for review of inert ingredients and expedited processing of similar applications* Section 4(k)(3)(A) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)(3)(A)) is amended, in the matter preceding clause (i), by striking “The Administrator shall use” and all that follows through “personnel and resources—” and inserting the following: “For each of fiscal years 2017 through 2023, the Administrator shall use between 1/9 and 1/8 of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—”.
-- **(c)** *Set-aside for Expedited Rulemaking and Guidance Development for certain purposes* Paragraph (4) of section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)) is amended to read as follows:
+- **(b)** *Set-Aside for review of inert ingredients and expedited processing of similar applications* Section 4(k)(3)(A) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)(3)(A)) is amended, in the matter preceding clause (i), by striking “The Administrator shall use” and all that follows through “personnel and resources—” and inserting the following: “For each of fiscal years 2017 through 2023, the Administrator shall use between 1/9 and 1/8 of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources—”.
+- **(c)** *Set-Aside for Expedited Rulemaking and Guidance Development for certain purposes* Paragraph (4) of section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)) is amended to read as follows:
   > - **(4)** *Expedited rulemaking and guidance development for certain product performance data requirements*
   >   - **(A)** *Set-aside* For each of fiscal years 2017 through 2021, the Administrator shall use not more than $500,000 of the amounts made available to the Administrator in the Reregistration and Expedited Processing Fund for the activities described in subparagraph (B).
   >   - **(B)** *Products claiming efficacy against invertebrate pests of significant public health or economic importance* The Administrator shall use amounts made available under subparagraph (A) to develop, receive comments with respect to, finalize, and implement the necessary rulemaking and guidance for product performance data requirements to evaluate products claiming efficacy against the following invertebrate pests of significant public health or economic importance (in order of importance):
@@ -57,23 +57,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(D)** *Revision* The Administrator shall revise the guidance required by subparagraph (B) from time-to-time, but shall permit applicants and registrants sufficient time to obtain data that meet the requirements specified in such revised guidance.
   >   - **(E)** *Deadline for product performance data requirements* The Administrator shall, not later than September 30, 2021, issue regulations prescribing product performance data requirements for any pesticide intended for preventing, destroying, repelling, or mitigating any invertebrate pest of significant public health or economic importance specified in clauses (i) through (iv) of subparagraph (B).
 
-- **(d)** *Set-aside for Good laboratory practices inspections* Section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)) is amended—
+- **(d)** *Set-Aside for Good laboratory practices inspections* Section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)) is amended—
   - **(1)** by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively;
   - **(2)** by inserting after paragraph (4) the following new paragraph:
     > - **(5)** *Good laboratory practices inspections*
     >   - **(A)** *Set-aside* For each of fiscal years 2017 through 2023, the Administrator shall use not more than $500,000 of the amounts made available to the Administrator in the Reregistration and Expedited Processing Fund for the activities described in subparagraph (B).
     >   - **(B)** *Activities* The Administrator shall use amounts made available under subparagraph (A) for enhancements to the good laboratory practices standards compliance monitoring program established under part 160 of title 40 of the Code of Federal Regulations (or successor regulations), with respect to laboratory inspections and data audits conducted in support of pesticide product registrations under this Act. As part of such monitoring program, the Administrator shall make available to each laboratory inspected under such program in support of such registrations a preliminary summary of inspection observations not later than 60 days after the date on which such an inspection is completed.
 
-  - **(3)** in paragraph (7), as so redesignated, by striking “paragraphs (2), (3), and (4)” and inserting “paragraphs (2), (3), (4), and (5)”.
+  - **(3)** in paragraph (7), as so redesignated, by striking “ paragraphs (2), (3), and (4)” and inserting “ paragraphs (2), (3), (4), and (5)”.
 
 ## § 4. Experimental use permits for pesticides
 
-Subsection (a) of section 5 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136c) is amended to read as follows:
+Section 5(a) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136c(a)) is amended—
 
-> - **(a)** *Application and issuance*
->   - **(1)** *Application* Any person may apply to the Administrator for an experimental use permit for a pesticide. An application for an experimental use permit may be filed at any time.
->   - **(2)** *Requirements* An application for an experimental use permit shall conform with the requirements of section 33(b).
->   - **(3)** *Issuance* The decision whether to grant an experimental use permit shall be made within the time-frame specified in the applicable covered application category specified in section 33(b)(3).
+- **(1)** by striking “permit for a pesticide.” and inserting “permit for a pesticide. An application for an experimental use permit for a covered application under section 33(b) shall conform with the requirements of that section.”; and
+- **(2)** by inserting “(or in the case of an application for an experimental use permit for a covered application under section 33(b), not later than the last day of the applicable timeframe for such application specified in such section)” after “all required supporting data”.
 
 ## § 5. Pesticide registration service fees
 
@@ -90,7 +88,7 @@ Subsection (a) of section 5 of the Federal Insecticide, Fungicide, and Rodentici
       - **(ii)** by striking “October 1, 2013, and ending on September 30, 2015” and inserting “October 1, 2019, and ending on September 30, 2021”;
     - **(B)** in subparagraph (B)—
       - **(i)** by striking “pesticide registration”; and
-      - **(ii)** by striking “2015” both places it appears, and inserting “2021”; and
+      - **(ii)** by striking “2015” both places in appears, and inserting “2021”; and
     - **(C)** in subparagraph (C), by striking “revised registration service fee schedules” and inserting “service fee schedules revised pursuant to this paragraph”;
   - **(4)** in paragraph (7)—
     - **(A)** in subparagraph (A)—
@@ -103,14 +101,14 @@ Subsection (a) of section 5 of the Federal Insecticide, Fungicide, and Rodentici
     - **(C)** in subparagraph (C)—
       - **(i)** in clause (i), by striking “pesticide registration” and inserting “covered”; and
       - **(ii)** in clause (ii)(I), by striking “pesticide registration” and inserting “covered”.
-- **(b)** *Pesticide registration fund set-asides for worker protection, partnership grants, and pesticide safety education* Section 33(c)(3)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(c)(3)(B)) is amended—
+- **(b)** *Pesticide registration fund set-Asides for worker protection, partnership grants, and pesticide safety education* Section 33(c)(3)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(c)(3)(B)) is amended—
   - **(1)** in the heading, by inserting “, partnership grants, and pesticide safety education” after “Worker protection”;
   - **(2)** in clause (i)—
     - **(A)** by striking “2017” and inserting “2023”; and
-    - **(B)** by inserting before the period at the end the following: “, with an emphasis on field-worker populations in the United States”;
+    - **(B)** by inserting before the period at the end the following:“, with an emphasis on field-worker populations in the United States”;
   - **(3)** in clause (ii), by striking “2017” and inserting “2023”; and
   - **(4)** in clause (iii), by striking “2017” and inserting “2023”.
-- **(c)** *Reforms to reduce decision time review periods* Section 33(e) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(e)) is amended—
+- **(c)** *Reforms To reduce decision time review periods* Section 33(e) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(e)) is amended—
   - **(1)** by striking “Pesticide Registration Improvement Extension Act of 2012” and inserting “Pesticide Registration Enhancement Act of 2017”; and
   - **(2)** by inserting at the end the following new sentence: “Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.”.
 - **(d)** *Decision time review periods* Section 33(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(f)(1)) is amended—

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-65 amendatory instructions. 35 executed, 30 stated and not applied.
+66 amendatory instructions. 36 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -107,12 +107,21 @@ to guess them.
 
 ### 7 U.S.C. § 136a-1
 
-> in paragraph (7), as so redesignated, by striking “paragraphs (2), (3), and (4)” and inserting “paragraphs (2), (3), (4), and (5)”.
+> in paragraph (7), as so redesignated, by striking “ paragraphs (2), (3), and (4)” and inserting “ paragraphs (2), (3), (4), and (5)”.
 
 | | |
 |---|---|
 | Removed | `paragraphs (2), (3), and (4)` |
 | Inserted | `paragraphs (2), (3), (4), and (5)` |
+
+### 7 U.S.C. § 136c
+
+> by striking “permit for a pesticide.” and inserting “permit for a pesticide. An application for an experimental use permit for a covered application under section 33(b) shall conform with the requirements of that section.”; and
+
+| | |
+|---|---|
+| Removed | `permit for a pesticide.` |
+| Inserted | `permit for a pesticide. An application for an experimental use permit for a covered application under section 33(b) shall conform with the requirements of that section.` |
 
 ### 7 U.S.C. § 136w-8
 
@@ -143,7 +152,7 @@ to guess them.
 
 ### 7 U.S.C. § 136w-8
 
-> by striking “2015” both places it appears, and inserting “2021”; and
+> by striking “2015” both places in appears, and inserting “2021”; and
 
 | | |
 |---|---|
@@ -356,7 +365,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 136a-1` | amend | Paragraph (4) of section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(k)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 136a-1` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 136a-1` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 136c` | amend | Subsection (a) of section 5 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 136c` | insert | by inserting “(or in the case of an application for an experimental use permit for a covered application under section 33(b), not later than the last day of the applicable timeframe for such application specified in such section)” after … | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 136w-8` | strike | in the heading, by striking “pesticide registration”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 136w-8` | insert | in subparagraph (A), by inserting “or for any other action covered by a table specified in paragraph (3)” after “covered by this Act that is received by the Administrator on or after the effective date of the Pesticide Registration Impro… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 136w-8` | strike | by striking “pesticide registration”; and | the bill quotes the text struck but describes what replaces it |
@@ -366,7 +375,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 136w-8` | strike | in subparagraph (A), by striking “pesticide registration”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 136w-8` | strike | in subparagraph (B)(i), by striking “pesticide registration”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 136w-8` | insert | in the heading, by inserting “, partnership grants, and pesticide safety education” after “Worker protection”; | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 136w-8` | insert | by inserting before the period at the end the following: “, with an emphasis on field-worker populations in the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 136w-8` | insert | by inserting before the period at the end the following:“, with an emphasis on field-worker populations in the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 136w-8` | insert | by inserting at the end the following new sentence: “Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applic… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 136w-8` | insert | by inserting after “covered pesticide registration actions” the following: “or for any other action covered by a table specified in subsection (b)(3)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 136w-8` | replace | in paragraph (3), by striking subparagraph (C) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
