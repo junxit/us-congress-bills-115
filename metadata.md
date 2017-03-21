@@ -1,7 +1,7 @@
 ---
 measure: H.R. 382
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 382
@@ -21,9 +21,10 @@ version: Engrossed in House
 - Rep. Zinke, Ryan K. [R-MT-At Large] (Z000018)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ version: Engrossed in House
 - 2017-03-20 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2017-03-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H2208)
 - 2017-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H2208)
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
