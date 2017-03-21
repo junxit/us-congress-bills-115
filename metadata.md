@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1367
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1367
@@ -23,10 +23,11 @@ To improve the authority of the Secretary of Veterans Affairs to hire and retain
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (2)
 
@@ -166,3 +167,4 @@ To improve the authority of the Secretary of Veterans Affairs to hire and retain
 - 2017-03-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1367.
 - 2017-03-17 — The previous question was ordered pursuant to the rule.
 - 2017-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Hanabusa amendment No. 11, which was debated earlier and on which further proceedings had been postponed.
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
