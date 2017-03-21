@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1252
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1252
@@ -20,9 +20,10 @@ DHS Acquisition Authorities Act of 2017
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ DHS Acquisition Authorities Act of 2017
 - 2017-03-20 — Placed on the Union Calendar, Calendar No. 27.
 - 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-47.
 - 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-47.
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
