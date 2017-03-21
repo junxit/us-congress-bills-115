@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 140
@@ -28,3 +28,7 @@ Frank LoBiondo Coast Guard Authorization Act of 2018
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-02-08 — Committee on Indian Affairs. Ordered to be reported favorably.
+- 2017-03-21 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-7.
+- 2017-03-21 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-7.
+- 2017-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 20.
