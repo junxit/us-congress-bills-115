@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1259
@@ -45,10 +45,11 @@ VA Accountability First Act of 2017
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -130,3 +131,4 @@ VA Accountability First Act of 2017
 - 2017-03-16 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-16 — The previous question was ordered pursuant to the rule.
 - 2017-03-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
