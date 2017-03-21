@@ -1,7 +1,7 @@
 ---
 measure: S. 89
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 89
@@ -33,3 +33,7 @@ A bill to amend title 46, United States Code, to exempt old vessels that only op
 
 - 2017-01-10 — Introduced in Senate
 - 2017-01-10 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-01-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-5.
+- 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-5.
+- 2017-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
