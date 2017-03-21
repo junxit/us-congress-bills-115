@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1309
@@ -23,9 +23,10 @@ TSA Administrator Modernization Act of 2017
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ TSA Administrator Modernization Act of 2017
 - 2017-03-20 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2017-03-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H2210)
 - 2017-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H2210)
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
