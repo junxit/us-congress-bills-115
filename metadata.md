@@ -1,7 +1,7 @@
 ---
 measure: H.R. 648
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 648
@@ -16,9 +16,10 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 
 - Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 - 2017-03-15 — Mr. Tipton moved to suspend the rules and pass the bill.
 - 2017-03-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 160). (text: CR H2064)
 - 2017-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 160).(text: CR H2064)
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
