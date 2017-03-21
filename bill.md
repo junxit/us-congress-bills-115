@@ -2,7 +2,7 @@
 legis-num: H.R. 1294
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1294
@@ -35,7 +35,7 @@ This Act may be cited as the “Reducing DHS Acquisition Cost Growth Act”.
   >         - **(V)** changes to the scope of such program;
   >         - **(VI)** inadequate program funding or changes in planned out-year funding from one 5-year funding plan to the next 5-year funding plan as outlined in the Future Years Homeland Security Program required under section 874;
   >         - **(VII)** legislative, legal, or regulatory changes; or
-  >         - **(VIII)** inadequate program man­age­ment personnel, including lack of sufficient number of staff, training, credentials, certifications, or use of best practices;
+  >         - **(VIII)** inadequate program management personnel, including lack of sufficient number of staff, training, credentials, certifications, or use of best practices;
   >       - **(iv)** propose corrective action to address cost growth, schedule delays, or performance issues;
   >       - **(v)** explain the rationale for why a proposed corrective action is recommended; and
   >       - **(vi)** in coordination with the Component Acquisition Executive for such program, discuss all options considered, including the estimated impact on cost, schedule, or performance of such program if no changes are made to current requirements, the estimated cost of such program if requirements are modified, and the extent to which funding from other programs will need to be reduced to cover the cost growth of such program.
