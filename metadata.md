@@ -1,7 +1,7 @@
 ---
 measure: H.R. 244
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 244
@@ -72,3 +72,13 @@ Consolidated Appropriations Act, 2017
 - 2017-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 86).(text: CR H1109-1110)
 - 2017-02-13 — The title of the measure was amended. Agreed to without objection.
 - 2017-02-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2017-03-21 — Amendment SA 192 agreed to in Senate by Unanimous Consent.
+- 2017-03-21 — Amendment SA 192 proposed by Senator Sullivan for Senator Blunt. (consideration: CR S1897; text: CR S1897) To improve the HIRE Vets Medallion Program.
+- 2017-03-21 — Measure laid before Senate by unanimous consent. (consideration: CR S1897)
+- 2017-03-21 — Passed Senate with amendments by Unanimous Consent.
+- 2017-03-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2017-03-21 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-03-21 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-03-21 — Senate amendment agreed to: Amendment SA 192 agreed to in Senate by Unanimous Consent.
+- 2017-03-21 — Senate amendment proposed (on the floor): Amendment SA 192 proposed by Senator Sullivan for Senator Blunt.(consideration: CR S1897; text: CR S1897)
+- 2017-03-21 — Senate amendment submitted
