@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1228
@@ -43,3 +43,8 @@ To provide for the appointment of members of the Board of Directors of the Offic
 - 2017-03-15 — Passed/agreed to in House: On passage Passed without objection.
 - 2017-03-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1897)
 - 2017-03-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1897)
+- 2017-03-22 — Message on Senate action sent to the House.
+- 2017-03-23 — Presented to President.
+- 2017-03-23 — Presented to President.
+- 2017-04-03 — Signed by President.
+- 2017-04-03 — Signed by President.
