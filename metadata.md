@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 81
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 81
@@ -16,7 +16,7 @@ A resolution recognizing the 196th anniversary of the independence of Greece and
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (23)
+## Cosponsors (26)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -41,6 +41,9 @@ A resolution recognizing the 196th anniversary of the independence of Greece and
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -50,3 +53,7 @@ A resolution recognizing the 196th anniversary of the independence of Greece and
 
 - 2017-03-06 — Introduced in Senate
 - 2017-03-06 — Referred to the Committee on Foreign Relations.
+- 2017-03-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-03-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-03-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1897)
+- 2017-03-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1897)
