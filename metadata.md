@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1228
@@ -41,3 +41,5 @@ To provide for the appointment of members of the Board of Directors of the Offic
 - 2017-03-15 — On agreeing to the Harper amendment (A001) Agreed to by voice vote.
 - 2017-03-15 — On passage Passed without objection.
 - 2017-03-15 — Passed/agreed to in House: On passage Passed without objection.
+- 2017-03-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1897)
+- 2017-03-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1897)
