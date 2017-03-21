@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1353
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1353
@@ -40,3 +40,7 @@ Transparency in Technological Acquisitions Act of 2017
 - 2017-03-20 — Placed on the Union Calendar, Calendar No. 24.
 - 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-44.
 - 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-44.
+- 2017-03-21 — Considered as unfinished business. (consideration: CR H2259-2260)
+- 2017-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 178).
+- 2017-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 178).
