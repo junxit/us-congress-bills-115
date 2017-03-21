@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1249
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1249
@@ -20,9 +20,10 @@ DHS Multiyear Acquisition Strategy Act of 2017
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ DHS Multiyear Acquisition Strategy Act of 2017
 - 2017-03-20 — Placed on the Union Calendar, Calendar No. 26.
 - 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-46.
 - 2017-03-20 — Reported by the Committee on Homeland Security. H. Rept. 115-46.
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
