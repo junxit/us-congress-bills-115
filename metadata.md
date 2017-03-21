@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1029
@@ -16,10 +16,11 @@ Pesticide Registration Improvement Extension Act of 2018
 
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2017-03-20 — Placed on the Union Calendar, Calendar No. 29.
 - 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
 - 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
