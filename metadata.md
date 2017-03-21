@@ -1,7 +1,7 @@
 ---
 measure: H.R. 132
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 132
@@ -16,9 +16,10 @@ Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017
 - 2017-03-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-03-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 159).
 - 2017-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 159).
+- 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
