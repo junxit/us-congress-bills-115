@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1297
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1297
@@ -16,9 +16,10 @@ Quadrennial Homeland Security Review Technical Corrections Act of 2017
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Quadrennial Homeland Security Review Technical Corrections Act of 2017
 - 2017-03-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 181). (text: CR 3/20/2017 H2215)
 - 2017-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 181).(text: CR 3/20/2017 H2215)
+- 2017-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
