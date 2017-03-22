@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1181
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1181
@@ -44,3 +44,5 @@ Veterans 2nd Amendment Protection Act
 - 2017-03-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1181, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Roe (TN) demanded the yeas and nays and the Chair postponed further proceedings on passage of H.R. 1181 until a time to be announced.
 - 2017-03-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 175 (Roll no. 169).(text: CR H2102-2103)
 - 2017-03-16 — The previous question was ordered pursuant to the rule.
+- 2017-03-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-03-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
