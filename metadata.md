@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1353
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1353
@@ -22,9 +22,10 @@ Transparency in Technological Acquisitions Act of 2017
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Transparency in Technological Acquisitions Act of 2017
 - 2017-03-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 178).
 - 2017-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 178).
+- 2017-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
