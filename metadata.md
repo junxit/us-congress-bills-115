@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1101
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1101
@@ -60,6 +60,11 @@ Small Business Health Fairness Act of 2017
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (2)
+
+- 2017-03-22 — [House 115-1-185](votes/house-115-1-0185.md) — On Motion to Recommit with Instructions — **Failed** (179–233)
+- 2017-03-22 — [House 115-1-186](votes/house-115-1-0186.md) — On Passage — **Passed** (236–175)
+
 ## Actions
 
 - 2017-02-16 — Introduced in House
@@ -70,3 +75,24 @@ Small Business Health Fairness Act of 2017
 - 2017-03-17 — Placed on the Union Calendar, Calendar No. 23.
 - 2017-03-17 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-43.
 - 2017-03-17 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-43.
+- 2017-03-20 — Rules Committee Resolution H. Res. 210 Reported to House. Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2017-03-21 — Rule H. Res. 210 passed House.
+- 2017-03-22 — Amendment (A002) offered by Ms. Herrera Beutler. (consideration: CR H2327-2328; text: CR H2327)
+- 2017-03-22 — Amendment agreed to by House: On agreeing to the Herrera Beutler amendment (A002) Agreed to by voice vote.
+- 2017-03-22 — Considered under the provisions of rule H. Res. 210. (consideration: CR H2312-2330; text of measure as reported in House: CR H2312-2318)
+- 2017-03-22 — DEBATE - Pursuant to the provisions of H.Res. 210, the House proceeded with 10 minutes of debate on the Herrera Beutler amendment No. 1.
+- 2017-03-22 — DEBATE - The House proceeded with 10 minuted of debate on the Shea-Porter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require plans to provide coverage for substance use disorder treatments, including treatment for opioid use.
+- 2017-03-22 — DEBATE - The House proceeded with one hour of debate on H.R. 1101.
+- 2017-03-22 — House amendment agreed to: On agreeing to the Herrera Beutler amendment (A002) Agreed to by voice vote.
+- 2017-03-22 — House amendment offered
+- 2017-03-22 — House amendment offered
+- 2017-03-22 — House amendment offered/reported by : Amendment (A002) offered by Ms. Herrera Beutler.(consideration: CR H2327-2328; text: CR H2327)
+- 2017-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-22 — Ms. Shea-Porter moved to recommit with instructions to the Committee on Education and the Workforce. (text: CR H2328)
+- 2017-03-22 — On agreeing to the Herrera Beutler amendment (A002) Agreed to by voice vote.
+- 2017-03-22 — On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 233 (Roll no. 185).
+- 2017-03-22 — On passage Passed by recorded vote: 236 - 175 (Roll no. 186).
+- 2017-03-22 — Passed/agreed to in House: On passage Passed by recorded vote: 236 - 175 (Roll no. 186).
+- 2017-03-22 — Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendment is in order.
+- 2017-03-22 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-03-22 — The previous question was ordered on the amendment (A002) without objection.
