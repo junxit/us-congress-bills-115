@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 1679
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1679
+
+> To ensure that the Federal Emergency Management Agency’s current efforts to modernize its grant management system includes applicant accessibility and transparency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “FEMA Accountability, Modernization and Transparency Act of 2017”.
+
+## § 2. Requirements
+
+- **(a)** *In general* The Administrator of the Federal Emergency Management Agency shall ensure the ongoing modernization of the grant systems for the administration of assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) includes the following:
+  - **(1)** An online interface, including online assistance, for applicants to complete application forms, submit materials, and access the status of applications.
+  - **(2)** Mechanisms to eliminate duplication of benefits.
+  - **(3)** If appropriate, enable the sharing of information among agencies and with State, local, and tribal governments, to eliminate the need to file multiple applications and speed disaster recovery.
+  - **(4)** Any additional tools the Administrator determines will improve the implementation of this section.
+- **(b)** *Implementation* To the extent practicable, the Administrator shall deliver the system capabilities described in subsection (a) in increments or iterations as working components for applicant use.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
