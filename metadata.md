@@ -1,7 +1,7 @@
 ---
 measure: S. 249
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 249
@@ -28,3 +28,7 @@ A bill to provide that the pueblo of Santa Clara may lease for 99 years certain 
 
 - 2017-02-01 — Introduced in Senate
 - 2017-02-01 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-02-08 — Committee on Indian Affairs. Ordered to be reported favorably.
+- 2017-03-22 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-8.
+- 2017-03-22 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-8.
+- 2017-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.
