@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 34
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 34
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Flake, Jeff [R-AZ] (F000444)
 
-## Cosponsors (23)
+## Cosponsors (24)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -41,10 +41,15 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (1)
+
+- 2017-03-23 — [Senate 115-1-94](votes/senate-115-1-0094.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
 
 ## Actions
 
@@ -53,3 +58,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2017-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
 - 2017-03-15 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2017-03-15 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2017-03-22 — Measure laid before Senate by motion. (consideration: CR S1925-1929, S1935-1940)
+- 2017-03-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1925)
+- 2017-03-23 — Considered by Senate. (consideration: CR S1942-1955)
+- 2017-03-23 — Held at the desk.
+- 2017-03-23 — Message on Senate action sent to the House.
+- 2017-03-23 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 94. (text: CR S1955)
+- 2017-03-23 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 94.(text: CR S1955)
+- 2017-03-23 — Received in the House.
