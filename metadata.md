@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1282
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1282
@@ -29,3 +29,7 @@ DHS Acquisition Review Board Act of 2017
 - 2017-03-01 — Introduced in House
 - 2017-03-01 — Introduced in House
 - 2017-03-01 — Referred to the House Committee on Homeland Security.
+- 2017-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-03-23 — Placed on the Union Calendar, Calendar No. 32.
+- 2017-03-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-57.
+- 2017-03-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-57.
