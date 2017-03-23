@@ -1,7 +1,7 @@
 ---
 measure: H.R. 372
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 372
@@ -39,9 +39,10 @@ Competitive Health Insurance Reform Act of 2017
 - Rep. Labrador, Raul R. [R-ID-1] (L000573)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Competitive Health Insurance Reform Act of 2017
 - 2017-03-22 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 233 (Roll no. 183).
 - 2017-03-22 — On passage Passed by recorded vote: 416 - 7 (Roll no. 184).
 - 2017-03-22 — Passed/agreed to in House: On passage Passed by recorded vote: 416 - 7 (Roll no. 184).
+- 2017-03-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
