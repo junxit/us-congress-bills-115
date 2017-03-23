@@ -41,7 +41,12 @@ This Act may be cited as the “DHS Acquisition Review Board Act of 2017”.
   > - **(e)** *Acquisition program baseline report requirement* If the person exercising acquisition decision authority over a major acquisition program approves such program to proceed into the planning phase before such program has a Department-approved acquisition program baseline, the Under Secretary for Management shall create and approve an acquisition program baseline report regarding such approval, and the Secretary shall—
   >   - **(1)** within seven days after an acquisition decision memorandum is signed, notify in writing the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate of such decision; and
   >   - **(2)** within 60 days after the acquisition decision memorandum is signed, submit to such committees a report stating the rationale for such decision and a plan of action to require an acquisition program baseline for such program.
-  > - **(f)** *Definitions* In this section:
+  > - **(f)** *Report* The Under Secretary for Management shall provide information to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on an annual basis through fiscal year 2022 on the activities of the Board for the prior fiscal year that includes information relating to the following:
+  >   - **(1)** For each meeting of the Board, any acquisition decision memoranda.
+  >   - **(2)** Results of the systematic reviews conducted pursuant to paragraph (4) of subsection (d).
+  >   - **(3)** Results of acquisition document reviews required pursuant to paragraph (5) of subsection (d).
+  >   - **(4)** Activities to ensure that practices are adopted and implemented throughout the Department pursuant to paragraph (6) of subsection (d).
+  > - **(g)** *Definitions* In this section:
   >   - **(1)** *Acquisition* The term acquisition has the meaning given such term in section 131 of title 41, United States Code.
   >   - **(2)** *Acquisition decision authority* The term acquisition decision authority means the authority, held by the Secretary acting through the Deputy Secretary or Under Secretary for Management to—
   >     - **(A)** ensure compliance with Federal law, the Federal Acquisition Regulation, and Department acquisition management directives;
