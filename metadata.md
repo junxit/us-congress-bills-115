@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 34
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 34
@@ -47,9 +47,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Commerce, Science, and Transportation Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-03-23 — [Senate 115-1-94](votes/senate-115-1-0094.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
+- 2017-03-28 — [House 115-1-202](votes/house-115-1-0202.md) — On Passage — **Passed** (215–205)
 
 ## Actions
 
@@ -66,3 +67,18 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2017-03-23 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 94. (text: CR S1955)
 - 2017-03-23 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 94.(text: CR S1955)
 - 2017-03-23 — Received in the House.
+- 2017-03-27 — Rules Committee Resolution H. Res. 230 Reported to House. Rule provides for consideration of S.J. Res. 34 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-03-28 — Considered as unfinished business. (consideration: CR H2503-2504)
+- 2017-03-28 — Considered under the provisions of rule H. Res. 230. (consideration: CR H2489-2501)
+- 2017-03-28 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 34.
+- 2017-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-28 — On passage Passed by the Yeas and Nays: 215 - 205 (Roll no. 202). (text: CR H2489)
+- 2017-03-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on S.J.Res. 34, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Doyle demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2017-03-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 205 (Roll no. 202).(text: CR H2489)
+- 2017-03-28 — Rule H. Res. 230 passed House.
+- 2017-03-28 — Rule provides for consideration of S.J. Res. 34 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-03-28 — The previous question was ordered pursuant to the rule.
+- 2017-03-30 — Presented to President.
+- 2017-03-30 — Presented to President.
+- 2017-04-03 — Signed by President.
+- 2017-04-03 — Signed by President.
