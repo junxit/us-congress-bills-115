@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1101
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1101
@@ -56,9 +56,10 @@ Small Business Health Fairness Act of 2017
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ Small Business Health Fairness Act of 2017
 - 2017-03-22 — Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendment is in order.
 - 2017-03-22 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-22 — The previous question was ordered on the amendment (A002) without objection.
+- 2017-03-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
