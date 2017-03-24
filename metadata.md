@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1430
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1430
@@ -57,3 +57,8 @@ Honest and Open New EPA Science Treatment Act of
 - 2017-03-08 — Introduced in House
 - 2017-03-08 — Introduced in House
 - 2017-03-08 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-03-09 — Committee Consideration and Mark-up Session Held.
+- 2017-03-09 — Ordered to be Reported by the Yeas and Nays: 17 - 12.
+- 2017-03-24 — Placed on the Union Calendar, Calendar No. 33.
+- 2017-03-24 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-59.
+- 2017-03-24 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-59.
