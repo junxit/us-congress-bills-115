@@ -2,7 +2,7 @@
 legis-num: H. RES. 228
 congress: 115th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 228
