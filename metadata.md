@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1365
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1365
@@ -34,3 +34,11 @@ Department of Homeland Security Acquisition Innovation Act
 - 2017-03-20 — Placed on the Union Calendar, Calendar No. 28.
 - 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-48.
 - 2017-03-20 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-48.
+- 2017-03-22 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Donovan objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-03-22 — Considered under suspension of the rules. (consideration: CR H2307-2308)
+- 2017-03-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1365.
+- 2017-03-22 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
+- 2017-03-24 — Considered as unfinished business. (consideration: CR H2392)
+- 2017-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 193). (text: CR H2307)
+- 2017-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 193).(text: CR H2307)
