@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1302
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1302
@@ -31,9 +31,10 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2017
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2017
 - 2017-03-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2303)
 - 2017-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2303)
+- 2017-03-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
