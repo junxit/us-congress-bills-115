@@ -1,0 +1,26 @@
+---
+legis-num: H. RES. 231
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 231
+
+> Celebrating the importance of the 15th Anniversary of the Arab Peace Initiative as a meaningful effort by Arab countries to the commitment of peace in the Middle East.
+
+## Preamble
+
+- Whereas the Arab Peace Initiative was unanimously endorsed by the Arab League on March 28, 2002, as a proposal to end the Israeli-Palestinian Conflict;
+- Whereas the Arab Peace Initiative endorsed normalized relations between regional Arab and Muslim-majority countries and the State of Israel;
+- Whereas the Arab Peace Initiative established a regionally endorsed baseline for negotiations as a means of supporting gradual progress in regional cooperation among regional Arab and Muslim-majority countries, the United States, the State of Israel, and the Palestinian Authority;
+- Whereas Prime Minister of Israel Binyamin Netanyahu on May 26, 2015, stated that “there are positive aspects …” to the Arab Peace Initiative and that the “general idea—to try to reach understanding with leading Arab countries—is a good idea”; and
+- Whereas a lasting two-state solution to the Israeli-Palestinian conflict is essential to achieving long-term peace and security in the Middle East: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the importance of the 15th Anniversary of the Arab Peace Initiative as a meaningful effort by regional Arab countries to support peace in the Middle East and to bring an end to the Israeli-Palestinian conflict;
+- **(2)** commends regional Arab and Muslim-majority countries that have taken steps to facilitate the end of the Israeli-Palestinian conflict;
+- **(3)** congratulates the Hashemite Kingdom of Jordan on their presidency of the Arab League on March 9, 2017;
+- **(4)** supports the efforts of regional Arab and Muslim-majority countries to strengthen regional security cooperation and stability through discussions with the State of Israel; and
+- **(5)** urges the State of Israel, the Palestinian Authority, and regional Arab and Muslim-majority countries to engage in bilateral and multilateral negotiations to advance the Israeli-Palestinian peace process and support the normalization by Arab and Muslim-majority countries of relations with the State of Israel.
