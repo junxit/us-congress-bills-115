@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1431
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1431
@@ -56,3 +56,8 @@ EPA Science Advisory Board Reform Act of 2017
 - 2017-03-08 — Introduced in House
 - 2017-03-08 — Introduced in House
 - 2017-03-08 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-03-09 — Committee Consideration and Mark-up Session Held.
+- 2017-03-09 — Ordered to be Reported by the Yeas and Nays: 19 - 14.
+- 2017-03-27 — Placed on the Union Calendar, Calendar No. 35.
+- 2017-03-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-63.
+- 2017-03-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-63.
