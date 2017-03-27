@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1387
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1387
@@ -16,7 +16,7 @@ SOAR Reauthorization Act
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
@@ -26,6 +26,8 @@ SOAR Reauthorization Act
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 - Rep. Harris, Andy [R-MD-1] (H001052)
 - Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Russell, Steve [R-OK-5] (R000604)
 
 ## Committees (1)
 
@@ -36,3 +38,8 @@ SOAR Reauthorization Act
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-03-10 — Committee Consideration and Mark-up Session Held.
+- 2017-03-10 — Ordered to be Reported by Voice Vote.
+- 2017-03-27 — Placed on the Union Calendar, Calendar No. 34.
+- 2017-03-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-62.
+- 2017-03-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-62.
