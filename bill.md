@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Disaster Simplified Assistance Value Enhancement Act” or the “Disaster SAVE Act”.
 
-## § 2. Simplified Procedure Program
+## § 2. Simplified procedure program
 
-- **(a)** *Threshold* The Administrator shall immediately establish the threshold for eligibility pursuant to section 422(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189(b)(2)) at $500,000.
-- **(b)** *Report* Not later than May 1, 2021, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House a report on the comprehensive review of the Program conducted under this section, to include an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance and accountability measures.
+- **(a)** *Threshold* The Administrator of the Federal Emergency Management Agency shall immediately establish the threshold for eligibility pursuant to section 422(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189(b)(2)) at $500,000.
+- **(b)** *Report* Not later than May 1, 2021, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing the results of a comprehensive review of the program conducted under section 422 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189), as modified by this section, to include an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance, and accountability measures.
 - **(c)** *Sunset* This Act shall expire on September 30, 2021.

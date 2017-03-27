@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1214
@@ -37,3 +37,9 @@ Disaster SAVE Act
 - 2017-03-09 — Placed on the Union Calendar, Calendar No. 14.
 - 2017-03-09 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-32.
 - 2017-03-09 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-32.
+- 2017-03-27 — Considered under suspension of the rules. (consideration: CR H2449-2450)
+- 2017-03-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1214.
+- 2017-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-27 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
+- 2017-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2449)
+- 2017-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2449)
