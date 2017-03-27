@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 35
@@ -29,3 +29,7 @@ A joint resolution providing for the appointment of Michael Govan as a citizen r
 
 - 2017-03-08 — Introduced in Senate
 - 2017-03-08 — Read twice and referred to the Committee on Rules and Administration.
+- 2017-03-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S2004)
+- 2017-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2004)
+- 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2003-2004)
+- 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2003-2004)
