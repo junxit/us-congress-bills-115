@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 30
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 30
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of Steve Case as a citizen re
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Rules and Administration.
+- 2017-03-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S2003)
+- 2017-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2003)
+- 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2003)
+- 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2003)
