@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1365
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1365
@@ -20,9 +20,10 @@ Department of Homeland Security Acquisition Innovation Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Department of Homeland Security Acquisition Innovation Act
 - 2017-03-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 193). (text: CR H2307)
 - 2017-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 193).(text: CR H2307)
+- 2017-03-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
