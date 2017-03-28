@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 30
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 30
@@ -21,9 +21,10 @@ A joint resolution providing for the reappointment of Steve Case as a citizen re
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the reappointment of Steve Case as a citizen re
 - 2017-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2003)
 - 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2003)
 - 2017-03-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2003)
+- 2017-03-28 — Message on Senate action sent to the House.
+- 2017-03-28 — Received in the House.
+- 2017-03-28 — Referred to the House Committee on House Administration.
