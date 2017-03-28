@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1117
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1117
@@ -16,9 +16,10 @@ To require the Administrator of the Federal Emergency Management Agency to submi
 
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To require the Administrator of the Federal Emergency Management Agency to submi
 - 2017-03-27 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
 - 2017-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195). (text: CR H2448)
 - 2017-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195).(text: CR H2448)
+- 2017-03-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
