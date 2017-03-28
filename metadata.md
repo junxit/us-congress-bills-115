@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 36
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 36
@@ -37,3 +37,14 @@ A joint resolution providing for the appointment of Roger W. Ferguson as a citiz
 - 2017-03-28 — Message on Senate action sent to the House.
 - 2017-03-28 — Received in the House.
 - 2017-03-28 — Referred to the House Committee on House Administration.
+- 2017-04-06 — Committee on House Administration discharged.
+- 2017-04-06 — Committee on House Administration discharged.
+- 2017-04-06 — Considered by unanimous consent. (consideration: CR H2767)
+- 2017-04-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-06 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2017-04-06 — On passage Passed without objection. (text: CR H2767)
+- 2017-04-06 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2767)
+- 2017-04-07 — Presented to President.
+- 2017-04-07 — Presented to President.
+- 2017-04-19 — Signed by President.
+- 2017-04-19 — Signed by President.
