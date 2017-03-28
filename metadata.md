@@ -1,7 +1,7 @@
 ---
 measure: H.R. 654
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 654
@@ -16,9 +16,10 @@ Pacific Northwest Earthquake Preparedness Act of 2017
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Pacific Northwest Earthquake Preparedness Act of 2017
 - 2017-03-27 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
 - 2017-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 11 (Roll no. 196). (text: CR H2450-2451)
 - 2017-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 11 (Roll no. 196).(text: CR H2450-2451)
+- 2017-03-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
