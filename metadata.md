@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1214
@@ -21,9 +21,10 @@ Disaster SAVE Act
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Disaster SAVE Act
 - 2017-03-27 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
 - 2017-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2449)
 - 2017-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2449)
+- 2017-03-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
