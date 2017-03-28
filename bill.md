@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 233
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 233
+
+> Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Science, Space, and Technology; and (2) one motion to recommit.
