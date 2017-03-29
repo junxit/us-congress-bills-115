@@ -1,7 +1,7 @@
 ---
 measure: H.R. 353
 congress: 115
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 353
@@ -16,7 +16,7 @@ Weather Research and Forecasting Innovation Act of 2017
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Bridenstine, Jim [R-OK-1] (B001283)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -24,6 +24,8 @@ Weather Research and Forecasting Innovation Act of 2017
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
@@ -41,3 +43,16 @@ Weather Research and Forecasting Innovation Act of 2017
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H208-214)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H208-214)
 - 2017-01-10 — Received in the Senate, read twice.
+- 2017-03-29 — Amendment SA 204 agreed to in Senate by Unanimous Consent.
+- 2017-03-29 — Amendment SA 204 proposed by Senator McConnell for Senator Thune. (consideration: CR S2116) In the nature of a substitute.
+- 2017-03-29 — Amendment SA 205 agreed to in Senate by Unanimous Consent.
+- 2017-03-29 — Amendment SA 205 proposed by Senator McConnell for Senator Cantwell to Amendment SA 204. (consideration: CR S2116) To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration.
+- 2017-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S2115-2116)
+- 2017-03-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-03-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-03-29 — Senate amendment agreed to: Amendment SA 204 agreed to in Senate by Unanimous Consent.
+- 2017-03-29 — Senate amendment agreed to: Amendment SA 205 agreed to in Senate by Unanimous Consent.
+- 2017-03-29 — Senate amendment proposed (on the floor): Amendment SA 204 proposed by Senator McConnell for Senator Thune.(consideration: CR S2116)
+- 2017-03-29 — Senate amendment proposed (on the floor): Amendment SA 205 proposed by Senator McConnell for Senator Cantwell to Amendment SA 204.(consideration: CR S2116)
+- 2017-03-29 — Senate amendment submitted
+- 2017-03-29 — Senate amendment submitted

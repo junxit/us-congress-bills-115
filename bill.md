@@ -2,12 +2,14 @@
 legis-num: H.R. 353
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 353
 
-> To improve the National Oceanic and Atmospheric Administration’s weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.
+That the bill from the House of Representatives (H.R. 353) entitled “An Act to improve the National Oceanic and Atmospheric Administration’s weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert the following:*
 
 ## § 1. Short title; table of contents
 
