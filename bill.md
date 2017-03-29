@@ -44,11 +44,12 @@ Congress makes the following findings:
     >       - **(vi)** other criteria established by the agency.
 
   - **(2)** *Annual reports*
-    - **(A)** *In general* Not later than November 30 of 2018, 2019, 2020, 2021, and 2022, the head of each executive agency shall compile an annual report of each instance in which the agency awarded a design-build contract pursuant to section 3309 of title 41, United States Code, during the fiscal year ending in such calendar year, in which—
+    - **(A)** *In general* Not later than November 30 of 2018, 2019, 2020, 2021, and 2022, the head of each executive agency shall compile and submit to the Director of the Office of Management and Budget an annual report of each instance in which the agency awarded a design-build contract pursuant to section 3309 of title 41, United States Code, during the fiscal year ending in such calendar year, in which—
       - **(i)** more than 5 finalists were selected for phase-two requests for proposals; or
       - **(ii)** the contract or order was awarded without using two-phase selection procedures.
     - **(B)** *Public availability* The Director of the Office of Management and Budget shall facilitate public access to the reports, including by posting them on a publicly available Internet website. A notice of the availability of each report shall be published in the Federal Register.
-- **(b)** *GAO reports* Not later than 270 days after the deadline for each annual report under subsection (a)(2)(A), the Comptroller General of the United States shall issue a report analyzing the compliance of each executive agency with the requirements of section 3309 of title 41, United States Code, as added by subsection (a)(1).
+    - **(C)** *Submission to GAO* Not later than 30 days after the deadline described under subparagraph (A), the Director of the Office of Management and Budget shall compile and submit the reports submitted to the Director under such subparagraph to the Comptroller General.
+- **(b)** *GAO reports* Not later than 270 days after the deadline for each annual report under subsection (a)(2)(A), the Comptroller General of the United States shall issue a report analyzing the compliance of each executive agency the reports submitted under subsection (a)(2)(C) and agency compliance with the requirements of section 3309 of title 41, United States Code, as added by subsection (a)(1).
 
 ## § 4. Prohibition on the use of a reverse auction for the award of a contract for design and construction services
 
