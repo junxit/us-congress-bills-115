@@ -1,7 +1,7 @@
 ---
 measure: H.R. 369
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+8 amendatory instructions. 3 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 38 U.S.C. § 1701
+
+> in the subsection heading, by striking “Other health-Care plan” and inserting “Responsibility for costs of certain care”;
+
+| | |
+|---|---|
+| Removed | `Other health-Care plan` |
+| Inserted | `Responsibility for costs of certain care` |
+
+### 38 U.S.C. § 1701
+
+> in paragraph (1), in the paragraph heading, by striking “to Secretary” and inserting “on health-care plans”;
+
+| | |
+|---|---|
+| Removed | `to Secretary` |
+| Inserted | `on health-care plans` |
+
+### 38 U.S.C. § 1701
+
+> Paragraph (1) of such section is amended by striking “paragraph (4)” and inserting “paragraph (2)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (4)` |
+| Inserted | `paragraph (2)` |
 
 ## Stated, not applied
 
@@ -32,3 +61,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `38 U.S.C. § 1701` | replace | Section 101(p)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 1701 note) is amended by striking all that follows “section 802” and inserting a period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | strike | by striking paragraphs (2) and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | redesignate | by redesignating paragraph (4) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2651` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 7332(b)(2) of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
