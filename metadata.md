@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1430
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1430
@@ -62,3 +62,18 @@ Honest and Open New EPA Science Treatment Act of
 - 2017-03-24 — Placed on the Union Calendar, Calendar No. 33.
 - 2017-03-24 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-59.
 - 2017-03-24 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-59.
+- 2017-03-27 — Rules Committee Resolution H. Res. 229 Reported to House. Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-03-28 — Rule H. Res. 229 passed House.
+- 2017-03-29 — Considered as unfinished business. (consideration: CR H2547-2548)
+- 2017-03-29 — Considered under the provisions of rule H. Res. 229. (consideration: CR H2536-2547)
+- 2017-03-29 — DEBATE - The House proceeded with 10 minutes of debate on the McEachin motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require the administrator of the EPA to use the best available science when responding to any threats to public health.
+- 2017-03-29 — DEBATE - The House proceeded with one hour of debate on H.R. 1430.
+- 2017-03-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-03-29 — Mr. McEachin moved to recommit with instructions to the Committee on Science, Space, and Technology.
+- 2017-03-29 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 232 (Roll no. 205).
+- 2017-03-29 — On passage Passed by recorded vote: 228 - 194 (Roll no. 206). (text: CR H2536)
+- 2017-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McEachin motion to recommit, the Chair put the question on adoption of the motion to recommit and by voice vote, announced that the noes had prevailed. Mr. McEachin demanded the yeas and nays and the Chair postponed further proceedings on adoption of the motion to recommit until a time to be announced.
+- 2017-03-29 — Passed/agreed to in House: On passage Passed by recorded vote: 228 - 194 (Roll no. 206).(text: CR H2536)
+- 2017-03-29 — Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-03-29 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-03-29 — The previous question was ordered pursuant to the rule.
