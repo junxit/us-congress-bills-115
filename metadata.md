@@ -1,7 +1,7 @@
 ---
 measure: H.R. 353
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 353
@@ -27,9 +27,10 @@ Weather Research and Forecasting Innovation Act of 2017
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -56,3 +57,13 @@ Weather Research and Forecasting Innovation Act of 2017
 - 2017-03-29 — Senate amendment proposed (on the floor): Amendment SA 205 proposed by Senator McConnell for Senator Cantwell to Amendment SA 204.(consideration: CR S2116)
 - 2017-03-29 — Senate amendment submitted
 - 2017-03-29 — Senate amendment submitted
+- 2017-03-30 — Message on Senate action sent to the House.
+- 2017-04-04 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 353.
+- 2017-04-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-04 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment.
+- 2017-04-04 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H2653-2667; text as House agreed to Senate amendment: CR H2653-2663)
+- 2017-04-04 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H2653-2667; text as House agreed to Senate amendment: CR H2653-2663)
+- 2017-04-06 — Presented to President.
+- 2017-04-06 — Presented to President.
+- 2017-04-18 — Signed by President.
+- 2017-04-18 — Signed by President.
