@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1430
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1430
@@ -48,9 +48,10 @@ Honest and Open New EPA Science Treatment Act of
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -82,3 +83,4 @@ Honest and Open New EPA Science Treatment Act of
 - 2017-03-29 — Rule provides for consideration of H.R. 1430 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-03-29 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-03-29 — The previous question was ordered pursuant to the rule.
+- 2017-03-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
