@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 19
 congress: 115
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 19
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Perdue, David [R-GA] (P000612)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -24,6 +24,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -33,3 +38,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2017-02-01 — Introduced in Senate
 - 2017-02-01 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2017-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.
+- 2017-03-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S2149; text: CR S2149)
+- 2017-03-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S2149; text: CR S2149)
