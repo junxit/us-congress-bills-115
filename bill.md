@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1816
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1816
+
+> To authorize the Secretary of the Navy to enter into a contract for the procurement of heavy icebreakers.
+
+## § 1. Short title
+
+This Act may be cited as the “Icebreaker Act”.
+
+## § 2. Navy procurement of heavy icebreakers
+
+The Secretary of the Navy, in consultation with the Secretary of the department in which the Coast Guard is operating, may enter into a contract for the procurement of not more than three heavy icebreakers and not more than three medium icebreakers.
