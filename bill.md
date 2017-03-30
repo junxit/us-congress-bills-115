@@ -1,0 +1,21 @@
+---
+legis-num: S. 782
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 782
+
+> To reauthorize the National Internet Crimes Against Children Task Force Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017 ” or the “PROTECT Our Children Act of 2017”.
+
+## § 2. Reauthorization of the National Internet Crimes Against Children Task Force Program
+
+Title I of the PROTECT Our Children Act of 2008 (42 U.S.C. 17601 et seq.) is amended—
+
+- **(1)** in section 105(h) (42 U.S.C. 17615(h)), by striking “2016” and inserting “2022”; and
+- **(2)** in section 107(a)(10) (42 U.S.C. 17617(a)(10)), by striking “fiscal year 2018” and inserting “each of fiscal years 2018 through 2022”.
