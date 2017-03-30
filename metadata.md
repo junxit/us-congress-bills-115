@@ -1,7 +1,7 @@
 ---
 measure: H.R. 732
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 732
@@ -16,7 +16,7 @@ Stop Settlement Slush Funds Act of 2017
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (26)
+## Cosponsors (34)
 
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
@@ -44,6 +44,14 @@ Stop Settlement Slush Funds Act of 2017
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
 
 ## Committees (1)
 
@@ -54,3 +62,7 @@ Stop Settlement Slush Funds Act of 2017
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Introduced in House
 - 2017-01-30 — Referred to the House Committee on the Judiciary.
+- 2017-01-31 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2017-03-30 — Placed on the Union Calendar, Calendar No. 43.
+- 2017-03-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-72.
+- 2017-03-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-72.
