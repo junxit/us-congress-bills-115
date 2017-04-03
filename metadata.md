@@ -1,7 +1,7 @@
 ---
 measure: S. 89
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 89
@@ -16,7 +16,7 @@ A bill to amend title 46, United States Code, to exempt old vessels that only op
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -24,6 +24,7 @@ A bill to amend title 46, United States Code, to exempt old vessels that only op
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Kennedy, John [R-LA] (K000393)
 
 ## Committees (1)
 
@@ -37,3 +38,6 @@ A bill to amend title 46, United States Code, to exempt old vessels that only op
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-5.
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-5.
 - 2017-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2017-04-03 — Measure laid before Senate by unanimous consent. (consideration: CR S2159-2163, S2164-2168)
+- 2017-04-03 — Passed Senate without amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 102.
+- 2017-04-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 102.
