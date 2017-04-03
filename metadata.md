@@ -1,7 +1,7 @@
 ---
 measure: S. 544
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 544
@@ -55,3 +55,13 @@ A bill to amend the Veterans Access, Choice, and Accountability Act of 2014 to m
 - 2017-04-03 — Received in the House.
 - 2017-04-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2163-2164)
 - 2017-04-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2163-2164)
+- 2017-04-05 — Considered under suspension of the rules. (consideration: CR H2722-2726)
+- 2017-04-05 — DEBATE - The House proceeded with forty minutes of debate on S. 544.
+- 2017-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-05 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2017-04-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2722)
+- 2017-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2722)
+- 2017-04-07 — Presented to President.
+- 2017-04-07 — Presented to President.
+- 2017-04-19 — Signed by President.
+- 2017-04-19 — Signed by President.
