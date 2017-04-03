@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 1855
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1855
+
+> To repeal the authorizations for office space, office expenses, franking and printing privileges, and staff for former Speakers of the House of Representatives.
+
+## § 1. Repeal of authorizations for former Speakers
+
+- **(a)** *Repeal of authorizations for office space, office expenses, franking and printing privileges, and staff* The first section and sections 2, 4, 5, and 8 of House Resolution 1238, Ninety-first Congress, agreed to December 22, 1970 (as enacted into permanent law by chapter VIII of the Supplemental Appropriations Act, 1971) (2 U.S.C. 5125(a), 5126, 5127, 5128, and 5129) are repealed.
+- **(b)** *Conforming Amendment* Subsection (b) of the first section of Public Law 93–532 (2 U.S.C. 5125(b)) is repealed.
+- **(c)** *Effective Date* The amendments made by this Act shall apply with respect to any individual who is a former Speaker of the House of Representatives at any time before, on, or after the date of the enactment of this Act.
