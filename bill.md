@@ -2,34 +2,33 @@
 legis-num: H. RES. 54
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 54
 
-> Reaffirming the United States-Argentina partnership and recognizing Argentina’s economic reforms.
+> Reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.
 
 ## Preamble
 
 - Whereas, on November 22, 2015, the citizens of the Argentine Republic elected Mauricio Macri as their President;
 - Whereas President Macri has pledged to promote greater national unity, rebuild the economy, combat domestic corruption, strengthen freedom of the press, defend human rights abroad, attract foreign direct investment, return to international credit markets, and reassert Argentina’s leadership globally;
 - Whereas President Macri has emphasized his intention to seek closer ties with the United States and restore the bilateral partnership previously enjoyed by both countries;
-- Whereas the Argentine Republic is a major non-NATO ally of the United States;
+- Whereas the Argentine Republic has been a major non-NATO ally of the United States since 1998 and is the only country designated as such in Latin America;
 - Whereas United States-Argentina relations are historically characterized by comprehensive commercial ties and strong bilateral cooperation on human rights, peacekeeping, science and technology, non-proliferation, and education, as well as on regional and global issues;
-- Whereas President Barack Obama traveled to Argentina in March 2016 to strengthen engagement on trade and investment, renewable energy, climate change, security, and peacekeeping issues;
-- Whereas, in an appearance with President Macri at the Casa Rosada in Buenos Aires, President Obama said that “our countries share profound values in common—respect for human rights, for individual freedoms, for democracy, for justice, and for peace”;
-- Whereas the United States Department of the Treasury no longer opposes multilateral development banks lending to Argentina because of the Government of Argentina's “progress on key issues and positive economic policy trajectory”;
-- Whereas President Macri prioritized Argentina resolving its 15-year standoff with private creditors stemming from the 2001–2002 economic crisis;
+- Whereas, in an appearance with President Macri at the Casa Rosada in Buenos Aires in March 2016, President Barack Obama said that “our countries share profound values in common—respect for human rights, for individual freedoms, for democracy, for justice, and for peace”;
+- Whereas Secretary of State John Kerry visited Argentina in August 2016 to launch a High-Level Dialogue to develop and sustain cooperation on bilateral, regional, and global challenges, including democratic development and protection of human rights in Latin America;
+- Whereas Secretary Kerry, during his visit, stated that “the United States strongly supports President Macri’s effort to deepen Argentina’s integration with the global economy'” and that “our governments will be supporting policies that are aimed at strong, sustainable, and balanced economic growth”;
+- Whereas the United States Department of the Treasury no longer opposes multilateral development banks lending to Argentina because of the Government of Argentina’s “progress on key issues and positive economic policy trajectory”;
+- Whereas President Macri prioritized Argentina resolving its 15-year standoff with private creditors stemming from the 2001-2002 economic crisis, which facilitated Argentina’s return to international financial markets;
 - Whereas the Macri Administration lifted controls on trade, currency, and poultry, enhanced the quality and transparency of government data, and eliminated subsidies on electricity, water, and gas;
-- Whereas, in April 2016, the Government of Argentina issued $16,500,000,000 in new government bonds and paid $9,300,000,000 to holdout creditors to resolve its default settlements, which facilitated Argentina’s return to international financial markets;
-- Whereas Argentina is Latin America’s third largest economy and the International Monetary Fund, in April 2016, claimed the Macri Administration “embarked on an ambitious, much needed transition to remove domestic imbalances and distortions and correct relative prices”;
-- Whereas Secretary of State John Kerry visited Argentina in August 2016 to launch a High-Level Dialogue to develop and sustain cooperation on bilateral, regional, and global challenges, including democratic development and protection of human rights in Latin America; and
-- Whereas Secretary Kerry, during his visit, stated that “the United States strongly supports President Macri’s effort to deepen Argentina’s integration with the global economy” and that “our governments will be supporting policies that are aimed at strong, sustainable, and balanced economic growth”: Now, therefore, be it
+- Whereas Argentina is Latin America’s third largest economy and the International Monetary Fund, in April 2016, claimed the Macri Administration “embarked on an ambitious, much needed transition to remove domestic imbalances and distortions and correct relative prices”; and
+- Whereas the Government of Argentina has expressed a renewed commitment to bring the perpetrators of the 1994 bombing of the Asociación Mutual Israelita Argentina (AMIA) building, that occurred in Buenos Aires on July 18, 1994, killing 85 people and injuring hundreds, to justice: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** upholds its commitment to the partnership between the United States and Argentina and reaffirms that the Argentine Republic is a major non-NATO ally of the United States;
-- **(2)** encourages the Department of State to coordinate an interagency strategy to increase cooperation with the Government of Argentina on areas of bilateral, regional, and global concern;
-- **(3)** commends President Mauricio Macri and his Administration for making far-reaching economic reforms that will benefit the people of Argentina, stimulate economic growth, and deepen Argentina’s integration with the global economy;
-- **(4)** praises the Government of Argentina for resolving its dispute with international creditors; and
-- **(5)** encourages the Government of Argentina to continue to investigate and prosecute those responsible for the 1994 bombing of the Argentine-Israeli Mutual Association (AMIA) in Buenos Aires, as well as the January 2015 death of AMIA special prosecutor Alberto Nisman.
+- **(2)** encourages the Department of State to coordinate a new interagency strategy to increase cooperation with the Government of Argentina on areas of bilateral, regional, and global concern;
+- **(3)** commends the Government of Argentina for making far-reaching economic reforms that will benefit the people of Argentina, stimulate economic growth, and deepen Argentina’s integration with the global economy;
+- **(4)** praises the Government of Argentina for resolving most of its business disputes at the World Bank’s International Centre for the Settlement of Investment Disputes (ICSID) thereby hastening their re-entry into world financial markets to the benefit of the Argentine people; and
+- **(5)** encourages the Government of Argentina to continue to investigate and prosecute those responsible for the 1994 bombing of the Asociación Mutual Israelita Argentina (AMIA) building in Buenos Aires, as well as the January 2015 death of AMIA special prosecutor Alberto Nisman.
