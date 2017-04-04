@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 241
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 241
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1304) to amend the Employee Retire
 - 2017-04-03 — Rule provides for consideration of H.R. 1304 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
 - 2017-04-03 — The House Committee on Rules reported an original measure, H. Rept. 115-76, by Mr. Byrne.
 - 2017-04-03 — The House Committee on Rules reported an original measure, H. Rept. 115-76, by Mr. Byrne.
+- 2017-04-04 — Considered as privileged matter. (consideration: CR H2647-2651)
+- 2017-04-04 — DEBATE - The House proceeded with one hour of debate on H. Res. 241.
+- 2017-04-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-04 — On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 212). (text: CR H2647)
+- 2017-04-04 — On ordering the previous question Agreed to by the Yeas and Nays: 232 - 188 (Roll no. 211). (consideration: CR H2650-2651)
+- 2017-04-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 212).(text: CR H2647)
