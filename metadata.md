@@ -1,7 +1,7 @@
 ---
 measure: H.R. 479
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 479
@@ -25,9 +25,10 @@ North Korea State Sponsor of Terrorism Designation Act of 2017
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ North Korea State Sponsor of Terrorism Designation Act of 2017
 - 2017-04-03 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-04-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 210). (text: CR H2611-2612)
 - 2017-04-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 210).(text: CR H2611-2612)
+- 2017-04-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
