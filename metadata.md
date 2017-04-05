@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1343
@@ -26,9 +26,10 @@ Encouraging Employee Ownership Act of 2017
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Encouraging Employee Ownership Act of 2017
 - 2017-04-04 — Rule H. Res. 240 passed House.
 - 2017-04-04 — Rule provides for consideration of H.R. 1343 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
 - 2017-04-04 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-04-05 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
