@@ -69,4 +69,6 @@ Chapter 11 of title 11, United States Code, is amended by adding at the end the 
 - **(b)** *Amendment to section 1334 of title 28* Section 1334 of title 28, United States Code, is amended by adding at the end the following:
   > - **(f)** This section does not grant jurisdiction to the district court after a transfer pursuant to an order under section 1185 of title 11 of any proceeding related to a special trustee appointed, or to a bridge company formed, in connection with a case under subchapter V of chapter 11 of title 11.
 
-- **(c)** *Technical and conforming amendment* The table of sections for chapter 13 of title 28, United States Code, is amended by adding at the end the following:
+- **(c)** *Technical and conforming amendments*
+  - **(1)** The table of sections of chapter 13 of title 28, United States Code, is amended by adding at the end the following:
+  - **(2)** The table of subchapters of chapter 11 of title 11, United States Code, is amended by adding at the end the following:
