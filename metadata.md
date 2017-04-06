@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1667
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1667
@@ -23,9 +23,10 @@ Financial Institution Bankruptcy Act of 2017
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Financial Institution Bankruptcy Act of 2017
 - 2017-04-05 — Placed on the Union Calendar, Calendar No. 46.
 - 2017-04-05 — Reported by the Committee on Judiciary. H. Rept. 115-80.
 - 2017-04-05 — Reported by the Committee on Judiciary. H. Rept. 115-80.
+- 2017-04-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
