@@ -1,7 +1,7 @@
 ---
 measure: S. 91
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 91
@@ -28,3 +28,7 @@ Indian Employment, Training and Related Services Consolidation Act of 2017
 
 - 2017-01-10 — Introduced in Senate
 - 2017-01-10 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-02-08 — Committee on Indian Affairs. Ordered to be reported favorably.
+- 2017-04-06 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-26.
+- 2017-04-06 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-26.
+- 2017-04-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.
