@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 2077
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2077
+
+> To amend the Employee Retirement Income Security Act of 1974 to require a group health plan (or health insurance coverage offered in connection with such a plan) to provide an exceptions process for any medication step therapy protocol, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring the Patient’s Voice Act of 2017”.
+
+## § 2. Required exceptions process for medication step therapy protocols
+
+- **(a)** *In general* The Employee Retirement Income Security Act of 1974 is amended by inserting after section 715 of such Act (29 U.S.C. 1185d) the following new section:
+  > ## § 716. Required exceptions process for medication step therapy protocols
+  >
+  > - **(a)** *In general* In the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides coverage of a prescription drug pursuant to a medication step therapy protocol, the plan or coverage shall—
+  >   - **(1)** implement a clear process for a participant or beneficiary (or the prescribing health care provider) to request an exception to such medication step therapy protocol; and
+  >   - **(2)** if such a request demonstrates through supporting documentation that any of the circumstances listed in subsection (b) exists, authorize coverage for the prescription drug without regard to such medication step therapy protocol.
+  > - **(b)** *Expedited approval* The circumstances warranting an exception to a medication step therapy protocol, pursuant to a request under subsection (a), are any of the following:
+  >   - **(1)** The treatment otherwise required under the protocol, or a drug or drugs in the same pharmacological class, are contraindicated or have been ineffective in the treatment of the disease or condition of the participant or beneficiary.
+  >   - **(2)** The treatment otherwise required under the protocol is reasonably expected to be ineffective based upon—
+  >     - **(A)** the known physical or mental characteristics of the participant or beneficiary, including medical history; and
+  >     - **(B)** the known characteristics of such treatment.
+  >   - **(3)** The treatment otherwise required under the protocol will cause or is likely to cause an adverse reaction or other physical harm to the participant or beneficiary.
+  >   - **(4)** The treatment otherwise required under the protocol is not in the best interest of the participant or beneficiary, based on medical necessity, because the participant or beneficiary’s use of such treatment is expected to decrease the participant or beneficiary’s ability—
+  >     - **(A)** to achieve or maintain reasonable and safe functional ability in performing daily activities or occupational responsibilities; or
+  >     - **(B)** to adhere to the treatment plan as defined by the prescribing health care provider.
+  >   - **(5)** The participant or beneficiary is stable for his or her disease or condition on the prescription drugs selected by the prescribing health care provider.
+  > - **(c)** *Clear process* The process required by subsection (a)(1) shall make information regarding such process readily available on the website of the group health plan, including—
+  >   - **(1)** the requirements for requesting an exception to a medication step therapy protocol pursuant to this section; and
+  >   - **(2)** any necessary forms and contact information.
+  > - **(d)** *Timing for granting exception* The process required by subsection (a)(1) shall provide for the disposition of requests received under such paragraph in accordance with the following:
+  >   - **(1)** Such a request shall be granted as quickly as the disease or condition of the participant or beneficiary requires, but no later than 3 days after the day of receipt of the request.
+  >   - **(2)** For circumstances in which the applicable medication step therapy protocol may seriously jeopardize the life, health, or ability to regain maximum function of the participant or beneficiary, such a request shall be granted—
+  >     - **(A)** on an expedited basis; and
+  >     - **(B)** no later than 24 hours after receipt of such request.
+  > - **(e)** *Medication step therapy protocol* In this section, the term step therapy protocol means a protocol or program that establishes a specific sequence in which prescription drugs that—
+  >   - **(1)** are for a specified disease or condition, and
+  >   - **(2)** are medically necessary for a particular patient,
+
+- **(b)** *Technical correction; clerical change* The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the item relating to section 714 the following new items:
+- **(c)** *Effective date* The amendment made by subsection (a) applies to plan years beginning no sooner than 6 months after the date of enactment of this Act.
