@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1304
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1304
@@ -26,11 +26,12 @@ Self-Insurance Protection Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Committees (3)
+## Committees (4)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Self-Insurance Protection Act
 - 2017-04-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 400 - 16 (Roll no. 220).(text of amendment in the nature of a substitute: CR H2726-2727)
 - 2017-04-05 — Rule provides for consideration of H.R. 1304 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
 - 2017-04-05 — The previous question was ordered pursuant to the rule.
+- 2017-04-06 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
