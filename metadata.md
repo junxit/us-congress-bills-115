@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1301
 congress: 115
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1301
@@ -39,3 +39,5 @@ Continuing Appropriations Amendments Act, 2018
 - 2017-03-08 — Rule H. Res. 174 passed House.
 - 2017-03-08 — The previous question was ordered pursuant to the rule.
 - 2017-03-09 — Received in the Senate.
+- 2017-04-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-04-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
