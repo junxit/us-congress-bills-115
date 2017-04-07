@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 116
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 116
@@ -16,7 +16,7 @@ A resolution condemning the Assad regime for its continued use of chemical weapo
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (8)
+## Cosponsors (18)
 
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -26,6 +26,16 @@ A resolution condemning the Assad regime for its continued use of chemical weapo
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -35,3 +45,10 @@ A resolution condemning the Assad regime for its continued use of chemical weapo
 
 - 2017-04-05 — Introduced in Senate
 - 2017-04-05 — Referred to the Committee on Foreign Relations. (text as introduced in Senate: CR S2370)
+- 2017-04-06 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2017-04-07 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with an amended preamble. Without written report.
+- 2017-04-07 — Committee on Foreign Relations. Reported by Senator Corker with amendments and with an amended preamble. Without written report.
+- 2017-04-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
+- 2017-04-07 — Senate amendment submitted
+- 2017-04-07 — Senate amendment submitted
+- 2017-04-07 — Senate amendment submitted
