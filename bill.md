@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 2087
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2087
+
+> To amend the Immigration and Nationality Act to expand the H–2A worker program to include certain additional laborers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Defending the Agricultural Industry’s Requirements Year-round Act of 2017” or as the “DAIRY Act of 2017”.
+
+## § 2. Expansion of H–2A worker program to include certain additional laborers
+
+Section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(a)) is amended by inserting after “abandoning” the following: “who is coming temporarily to the United States to perform agricultural labor or services as a dairy worker, or”.
+
+## § 3. Special rule for period of admission of H–2A nonimmigrants employed as sheepherders or dairy workers
+
+Section 218(h) of the Immigration and Nationality Act (8 U.S.C. 1188(h)) is amended by adding at the end of the following:
+
+> - **(3)** In the case of an alien admitted as an H–2A worker for employment as a dairy worker—
+>   - **(A)** the initial period of admission shall be for a period of 18 months;
+>   - **(B)** the period of admission may be extended for additional periods of 18 months; and
+>   - **(C)** no period of absence from the United States may be required as a condition of approval of an extension under subparagraph (B).
