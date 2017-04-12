@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1258
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1258
@@ -29,3 +29,8 @@ HSA Technical Corrections Act
 - 2017-02-28 — Introduced in House
 - 2017-02-28 — Introduced in House
 - 2017-02-28 — Referred to the House Committee on Homeland Security.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported by Voice Vote.
+- 2017-04-12 — Placed on the Union Calendar, Calendar No. 50.
+- 2017-04-12 — Reported by the Committee on Homeland Security. H. Rept. 115-90.
+- 2017-04-12 — Reported by the Committee on Homeland Security. H. Rept. 115-90.
