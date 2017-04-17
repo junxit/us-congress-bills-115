@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 2102
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2102
+
+> To amend the Investment Company Act of 1940 to require a report on improving access to capital in rural areas for small businesses and qualifying venture capital funds.
+
+## § 1. Short title
+
+This Act may be cited as the “More Job Opportunities and Business Startups for Rural Areas Act” or the “More JOBS for Rural Areas Act”.
+
+## § 2. SEC report improving access to capital in rural areas
+
+The Securities and Exchange Commission shall issue a report on improving access to capital in rural areas, including—
+
+- **(1)** best practices to improve investor base and small businesses seeking access to capital;
+- **(2)** recommendations for technological advances for communications between investors and small businesses;
+- **(3)** improving increased awareness for rural area small businesses about venture capitalists funding opportunities;
+- **(4)** recommendations to small businesses to learn about diverse forms of capital to create innovation and jobs in rural areas; and
+- **(5)** assessment on factors currently inhibiting access to capital in rural areas and recommendations to expand access.
+
+## § 3. Sunset provision
+
+This report shall be issued to the committees of jurisdiction one year after enactment and shall be a one-time report.
