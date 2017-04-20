@@ -22,7 +22,7 @@ This Act may be cited as the “Register of Copyrights Selection and Accountabil
       >   - **(1)** *In general* All administrative
 
     - **(B)** by striking “director” and inserting “Director”;
-    - **(C)** by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law and shall be appointed by the President, by and with the advice and consent of the Senate.”; and
+    - **(C)** by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law and shall be appointed by the President from the individuals recommended under paragraph (6), by and with the advice and consent of the Senate.”; and
     - **(D)** in the last sentence, by striking “shall be appointed” and all that follows through “and shall act” and inserting “shall act”;
   - **(2)** in subsection (b), by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and adjusting the margins accordingly;
   - **(3)** by redesignating subsection (b) as paragraph (2), and adjusting the margins accordingly;
@@ -38,10 +38,15 @@ This Act may be cited as the “Register of Copyrights Selection and Accountabil
     >     - **(ii)** may serve until a successor is appointed, confirmed, and taken the oath of office.
     >   - **(B)** *Limitation* The Register of Copyrights may not continue to serve after the date on which Congress adjourns sine die after the date on which the 10-year period described in subparagraph (A)(i) ends.
     >   - **(C)** *Reappointment* An individual appointed to the position of Register of Copyrights, by and with the advice and consent of the Senate, may be reappointed to that position in accordance with the requirements of this section.
+    > - **(6)** *Panel for Register of Copyrights Recommendations* There is established a panel to recommend a list of at least 3 individuals to the President for appointment as the Register of Copyrights. The panel shall be composed of the following:
+    >   - **(A)** The Speaker of the House of Representatives.
+    >   - **(B)** The President pro tempore of the Senate.
+    >   - **(C)** The majority and minority leaders of the House of Representatives and the Senate.
+    >   - **(D)** The Librarian of Congress.
 
   - **(6)** by redesignating subsections (c) through (f) as subsections (b) through (e), respectively;
   - **(7)** in subsection (b), as so redesignated, by inserting “Seal.—” before “The Register”;
   - **(8)** in subsection (c), as so redesignated, by inserting “Annual Report.—” before “The Register”;
   - **(9)** in subsection (d), as so redesignated, by inserting “Applicability of title 5.—” before “Except as provided”; and
   - **(10)** in subsection (e), as so redesignated, by inserting “Compensation.—” before “The Register”.
-- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to any vacancy for the Register of Copyrights after January 1, 2017. If a Register of Copyrights is appointed during the period beginning on January 1, 2017, and ending on the day before the date of the enactment of this Act, that Register shall meet the requirements of the amendments made by this Act or shall be replaced in accordance with such amendments.
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to any vacancy for the Register of Copyrights after January 1, 2017. If a Register of Copyrights is appointed during the period beginning on January 1, 2017 and ending on the day before the date of the enactment of this Act, that Register shall meet the requirements of the amendments made by this Act or shall be replaced in accordance with such amendments.

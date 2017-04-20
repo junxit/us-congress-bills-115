@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1695
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “(a) All administrative” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “director” and inserting “Director”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law and shall be appointed by the President, by and with … | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law and shall be appointed by the President from the indi… | the bill names no machine-readable US Code section |
 | — | replace | in the last sentence, by striking “shall be appointed” and all that follows through “and shall act” and inserting “shall act”; | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (b), by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as paragraph (2), and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
