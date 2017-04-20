@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1695
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1695
@@ -16,7 +16,7 @@ Register of Copyrights Selection and Accountability Act of 2017
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (30)
+## Cosponsors (34)
 
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Bass, Karen [D-CA-37] (B001270)
@@ -48,6 +48,10 @@ Register of Copyrights Selection and Accountability Act of 2017
 - Rep. Roby, Martha [R-AL-2] (R000591)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -58,3 +62,8 @@ Register of Copyrights Selection and Accountability Act of 2017
 - 2017-03-23 — Introduced in House
 - 2017-03-23 — Introduced in House
 - 2017-03-23 — Referred to the House Committee on the Judiciary.
+- 2017-03-29 — Committee Consideration and Mark-up Session Held.
+- 2017-03-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 1.
+- 2017-04-20 — Placed on the Union Calendar, Calendar No. 51.
+- 2017-04-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-91.
+- 2017-04-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-91.
