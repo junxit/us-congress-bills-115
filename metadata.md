@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 366
@@ -38,3 +38,7 @@ DHS SAVE Act
 - 2017-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H788-789)
 - 2017-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H788-789)
 - 2017-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-32.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-32.
+- 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
