@@ -1,7 +1,7 @@
 ---
 measure: H.R. 274
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 274
@@ -50,3 +50,10 @@ Modernizing Government Travel Act
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-31.
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-31.
 - 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
+- 2017-05-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2683)
+- 2017-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2683)
+- 2017-05-03 — Message on Senate action sent to the House.
+- 2017-05-04 — Presented to President.
+- 2017-05-04 — Presented to President.
+- 2017-05-16 — Signed by President.
+- 2017-05-16 — Signed by President.
