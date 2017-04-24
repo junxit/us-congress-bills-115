@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1372
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1372
@@ -16,9 +16,10 @@ Homeland Security for Children Act
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
 ## Committees (2)
 
@@ -32,3 +33,11 @@ Homeland Security for Children Act
 - 2017-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-03-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-04-24 — Committee on Transportation discharged.
+- 2017-04-24 — Committee on Transportation discharged.
+- 2017-04-24 — Placed on the Union Calendar, Calendar No. 52.
+- 2017-04-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-92, Part I.
+- 2017-04-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-92, Part I.

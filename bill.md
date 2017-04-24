@@ -15,15 +15,11 @@ This Act may be cited as the “Homeland Security for Children Act”.
 
 ## § 2. Responsibilities of the Under Secretary for Strategy, Policy, and Plans
 
-Subsection (c) of section 709 of the Homeland Security Act of 2002 (6 U.S.C. 349) is amended—
-
-- **(1)** by redesignating paragraphs (4) through (7) as paragraphs (5) through (8), respectively; and
-- **(2)** by inserting after paragraph (3) the following new paragraph:
-  > - **(4)** lead, conduct, and coordinate Department-wide identification and integration of the needs of children into the Department’s policies, programs, and activities, in coordination with relevant outside organizations and experts, as necessary.
+Paragraph (6) of section 709(c) of the Homeland Security Act of 2002 (6 U.S.C. 349(c)) is amended by inserting “, including feedback from organizations representing the needs of children,” after “stakeholder feedback”.
 
 ## § 3. Technical expert authorized
 
-Paragraph (2) of section 503(b) of the Homeland Security Act (6 U.S.C. 313(b)) is amended—
+Paragraph (2) of section 503(b) of the Homeland Security Act of 2002 (6 U.S.C. 313(b)) is amended—
 
 - **(1)** in subparagraph (G), by striking “and” at the end;
 - **(2)** in subparagraph (H), by striking the period at the end and inserting “; and”; and
@@ -32,9 +28,9 @@ Paragraph (2) of section 503(b) of the Homeland Security Act (6 U.S.C. 313(b)) i
 
 ## § 4. Report
 
-Not later than one year after the date of the enactment of this Act and annually thereafter for five years, the Under Secretary for Strategy, Policy, and Plans of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report describing the efforts the Department has undertaken to identify and integrate the needs of children into the Department’s policies, programs, and activities in accordance with paragraph (4) of section 709(c) of the Homeland Security Act of 2002 (as added by section 2 of this Act), including information on the following:
+Not later than one year after the date of the enactment of this Act and annually thereafter for five years, the Under Secretary for Strategy, Policy, and Plans of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report describing the efforts the Department has undertaken to review and incorporate feedback from organizations representing the needs of children into Department policy in accordance with paragraph (6) of section 709(c) of the Homeland Security Act of 2002 (as added by section 2 of this Act), including information on the following:
 
-- **(1)** The designation of any individual responsible for carrying out such paragraph (4).
-- **(2)** Any review, formal or informal, of any policies, programs, or activities of the Department under such paragraph (4) to assess the suitability of such policies, programs, or activities for children.
-- **(3)** Any such review, change, modification, or promulgation of any such policies, programs, or activities to ensure that such policies, programs, or activities are appropriate for children.
-- **(4)** Coordination with organizations or experts outside the Department pursuant to such paragraph (4) conducted to inform any such review, change, modification, or promulgation of such policies, programs, or activities.
+- **(1)** The designation of any individual responsible for carrying out such paragraph (6).
+- **(2)** Any review, formal or informal, of Department policies, programs, or activities to assess the suitability of such policies, programs, or activities for children and where feedback from organizations representing the needs of children should be reviewed and incorporated.
+- **(3)** Any review, change, modification, or promulgation of Department policies, programs, or activities to ensure that such policies, programs, or activities are appropriate for children.
+- **(4)** Coordination with organizations or experts outside the Department pursuant to such paragraph (6) conducted to inform any such review, change, modification, or promulgation of such policies, programs, or activities.
