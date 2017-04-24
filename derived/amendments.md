@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 4617` | replace | Section 552(f)(1) of title 5, United States Code (commonly referred to as the Freedom of Information Act), is amended by striking “or other establishment in the executive branch of the Government (including the Executive Office of the Pr… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 4617` | add-at-end | Section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
