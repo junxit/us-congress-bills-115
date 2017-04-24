@@ -1,7 +1,7 @@
 ---
 measure: S. 576
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 576
@@ -16,11 +16,12 @@ Follow the Rules Act
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Follow the Rules Act
 
 - 2017-03-08 — Introduced in Senate
 - 2017-03-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-30.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-30.
+- 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
