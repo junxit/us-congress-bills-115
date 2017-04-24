@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1694
@@ -16,7 +16,7 @@ Fannie and Freddie Open Records Act of 2017
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. DeSantis, Ron [R-FL-6] (D000621)
 - Rep. Russell, Steve [R-OK-5] (R000604)
@@ -26,6 +26,9 @@ Fannie and Freddie Open Records Act of 2017
 - Rep. Comer, James [R-KY-1] (C001108)
 - Rep. Blum, Rod [R-IA-1] (B001294)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
 ## Committees (1)
 
@@ -36,3 +39,8 @@ Fannie and Freddie Open Records Act of 2017
 - 2017-03-23 — Introduced in House
 - 2017-03-23 — Introduced in House
 - 2017-03-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-03-28 — Committee Consideration and Mark-up Session Held.
+- 2017-03-28 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2017-04-24 — Placed on the Union Calendar, Calendar No. 53.
+- 2017-04-24 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-93.
+- 2017-04-24 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-93.
