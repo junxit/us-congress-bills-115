@@ -1,7 +1,7 @@
 ---
 measure: H.R. 274
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 274
@@ -46,3 +46,7 @@ Modernizing Government Travel Act
 - 2017-01-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H279)
 - 2017-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H279)
 - 2017-01-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-31.
+- 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-31.
+- 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
