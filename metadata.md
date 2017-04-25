@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1372
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1372
@@ -41,3 +41,9 @@ Homeland Security for Children Act
 - 2017-04-24 — Placed on the Union Calendar, Calendar No. 52.
 - 2017-04-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-92, Part I.
 - 2017-04-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-92, Part I.
+- 2017-04-25 — Considered under suspension of the rules. (consideration: CR H2828-2829)
+- 2017-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1372.
+- 2017-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-25 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
+- 2017-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2828)
+- 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2828)

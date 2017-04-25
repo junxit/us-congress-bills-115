@@ -19,7 +19,7 @@ Paragraph (6) of section 709(c) of the Homeland Security Act of 2002 (6 U.S.C. 3
 
 ## § 3. Technical expert authorized
 
-Paragraph (2) of section 503(b) of the Homeland Security Act of 2002 (6 U.S.C. 313(b)) is amended—
+Paragraph (2) of section 503(b) of the Homeland Security Act (6 U.S.C. 313(b)) is amended—
 
 - **(1)** in subparagraph (G), by striking “and” at the end;
 - **(2)** in subparagraph (H), by striking the period at the end and inserting “; and”; and
