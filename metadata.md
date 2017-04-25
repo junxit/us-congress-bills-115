@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 534
@@ -16,7 +16,7 @@ U.S. Wants to Compete for a World Expo Act
 
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
@@ -26,6 +26,8 @@ U.S. Wants to Compete for a World Expo Act
 - Rep. Lewis, Jason [R-MN-2] (L000587)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
 
 ## Committees (1)
 
@@ -36,3 +38,9 @@ U.S. Wants to Compete for a World Expo Act
 - 2017-01-13 — Introduced in House
 - 2017-01-13 — Introduced in House
 - 2017-01-13 — Referred to the House Committee on Foreign Affairs.
+- 2017-04-25 — Considered under suspension of the rules. (consideration: CR H2829-2832)
+- 2017-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 534.
+- 2017-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2017-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2829-2830)
+- 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2829-2830)
