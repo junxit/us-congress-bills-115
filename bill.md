@@ -1,0 +1,15 @@
+---
+legis-num: S.J. RES. 41
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 41
+
+> Providing for an exception to the limitation on the appointment of certain persons as the United States Trade Representative.
+
+## § 1. Exception to limitation on appointment of certain persons as United States Trade Representative
+
+- **(a)** *In general* The limitation under section 141(b)(4) of the Trade Act of 1974 (19 U.S.C. 2171(b)(4)) shall not apply to the first person appointed, by and with the advice and consent of the Senate, as the United States Trade Representative after the date of the enactment of this joint resolution, if that person served as a Deputy United States Trade Representative before the date of the enactment of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.).
+- **(b)** *Limited exception* This section applies only to the first person appointed as United States Trade Representative after the date of the enactment of this joint resolution, and to no other person.
