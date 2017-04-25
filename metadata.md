@@ -1,7 +1,7 @@
 ---
 measure: H.R. 455
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 455
@@ -32,3 +32,9 @@ To designate the United States courthouse located at 501 East Court Street in Ja
 - 2017-04-06 — Placed on the House Calendar, Calendar No. 36.
 - 2017-04-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-84.
 - 2017-04-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-84.
+- 2017-04-25 — Considered under suspension of the rules. (consideration: CR H2822-2823)
+- 2017-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 455.
+- 2017-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-25 — Mr. Ferguson moved to suspend the rules and pass the bill.
+- 2017-04-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2822)
+- 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2822)
