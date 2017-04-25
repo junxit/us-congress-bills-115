@@ -1,0 +1,18 @@
+---
+legis-num: S. 938
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 938
+
+> To require notice of cost-free Federal procurement technical assistance in connection with registration of small business concerns in procurement systems.
+
+## § 1. Short title
+
+This Act may be cited as the “Procurement Fraud Prevention Act”.
+
+## § 2. Notice of cost-free Federal procurement technical assistance in connection with registration of small business concerns in procurement systems
+
+The Administrator of General Services, in consultation with the Director of the Office of Management and Budget, shall establish procedures to ensure that any notice or direct communication regarding registration of a small business concern in a procurement system contains information about cost-free Federal procurement technical assistance services that are available through the Small Business Administration, Procurement Technical Assistance Centers of the Defense Logistics Agency, the Department of Commerce (including the Minority Business Development Agency), and other Federal agencies and programs.
