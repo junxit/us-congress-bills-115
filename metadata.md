@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 35
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 35
@@ -36,3 +36,9 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2017-04-06 — Placed on the House Calendar, Calendar No. 38.
 - 2017-04-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-87.
 - 2017-04-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-87.
+- 2017-04-25 — Considered under suspension of the rules. (consideration: CR H2820-2821)
+- 2017-04-25 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 35.
+- 2017-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-25 — Mr. Ferguson moved to suspend the rules and agree to the resolution.
+- 2017-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2820)
+- 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2820)
