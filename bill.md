@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Use of Capitol Grounds for soap box derby races
 
-- **(a)** *In General* The Greater Washington Soap Box Derby Association (in this resolution referred to as the sponsor) shall be permitted to sponsor a public event, soap box derby races (in this resolution referred to as the event), on the Capitol Grounds.
+- **(a)** *In General* The Greater Washington Soap Box Derby Association (in this resolution referred to as the “sponsor”) shall be permitted to sponsor a public event, soap box derby races (in this resolution referred to as the “event”), on the Capitol Grounds.
 - **(b)** *Date of Event* The event shall be held on June 17, 2017, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate jointly designate.
 
 ## § 2. Terms and conditions
