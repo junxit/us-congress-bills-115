@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2128
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2128
+
+> To amend the Securities Exchange Act of 1934 to permit private persons to compel the Securities and Exchange Commission to seek legal or equitable remedies in a civil action, instead of an administrative proceeding, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Due Process Restoration Act of 2017”.
+
+## § 2. Private parties authorized to compel the securities and exchange commission to seek sanctions by filing civil actions
+
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end of title I the following:
+
+> ## § 40. Private parties authorized to compel the commission to seek sanctions by filing civil actions
+>
+> - **(a)** *Termination of administrative proceeding* In the case of any person who is a party to a proceeding brought by the Commission under a securities law, to which section 554 of title 5, United States Code, applies, and against whom an order imposing a cease and desist order and a penalty may be issued at the conclusion of the proceeding, that person may, not later than 20 days after receiving notice of such proceeding, and at that person’s discretion, require the Commission to terminate the proceeding.
+> - **(b)** *Civil action authorized* If a person requires the Commission to terminate a proceeding pursuant to subsection (a), the Commission may bring a civil action against that person for the same remedy that might be imposed.
+> - **(c)** *Standard of proof in administrative proceeding* Notwithstanding any other provision of law, in the case of a proceeding brought by the Commission under a securities law, to which section 554 of title 5, United States Code, applies, a legal or equitable remedy may be imposed on the person against whom the proceeding was brought only on a showing by the Commission of clear and convincing evidence that the person has violated the relevant provision of law.
