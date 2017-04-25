@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 130
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 130
@@ -34,3 +34,7 @@ A resolution expressing gratitude and appreciation for the entry of the United S
 
 - 2017-04-07 — Introduced in Senate
 - 2017-04-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2460)
+- 2017-04-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2535-2536)
+- 2017-04-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2535-2536)
