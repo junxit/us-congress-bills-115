@@ -31,7 +31,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the University of North Carolina held Gonzaga University scoreless over the final 1 minute and 53 seconds of the game, finishing on an 8 to 0 run;
 - Whereas Joel Berry II— (1)fighting through dual ankle injuries— (A)scored 22 points; (B)gathered 3 rebounds; and (C)tallied 6 assists; and (2)was named the 2016–2017 NCAA men’s basketball championship Most Outstanding Player;
 - Whereas Roy Williams— (1)coached in his 100th NCAA tournament game; (2)became the sixth coach in NCAA history to win 3 national championships, surpassing Hall of Fame former University of North Carolina head coach Dean Smith; and (3)tied for fourth for the most national championship wins in NCAA history; and
-- Whereas the 2016–2017 national championship was the sixth NCAA national championship in the history of the University of North Carolina, moving the University of North Carolina out of a tie with Duke University for sole possession of third most national championships in NCAA history: Now therefore be it
+- Whereas the 2016–2017 national championship was the sixth NCAA national championship in the history of the University of North Carolina, moving the University of North Carolina out of a tie with Duke University for sole possession of third most national championships in NCAA history: Now, therefore, be it
 
 That the Senate—
 
