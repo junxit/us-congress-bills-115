@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 131
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 131
@@ -30,3 +30,7 @@ A resolution supporting the mission and goals of National Crime Victims' Rights 
 
 - 2017-04-07 — Introduced in Senate
 - 2017-04-07 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2460-2461)
+- 2017-04-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2535-2536)
+- 2017-04-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2535-2536)
