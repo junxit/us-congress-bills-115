@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1372
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1372
@@ -21,10 +21,11 @@ Homeland Security for Children Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Homeland Security for Children Act
 - 2017-04-25 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2017-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2828)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2828)
+- 2017-04-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
