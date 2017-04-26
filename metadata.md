@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 534
@@ -29,9 +29,10 @@ U.S. Wants to Compete for a World Expo Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ U.S. Wants to Compete for a World Expo Act
 - 2017-04-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2829-2830)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2829-2830)
+- 2017-04-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
