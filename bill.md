@@ -2,12 +2,12 @@
 legis-num: H.R. 876
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 876
 
-> To amend the Homeland Security Act of 2002 to reform programs of the Transportation Security Administration, and for other purposes.
+> To reform programs of the Transportation Security Administration, and for other purposes.
 
 ## § 1. Short title
 
@@ -67,7 +67,7 @@ In this Act:
   - **(1)** *In general* The Administrator shall conduct covert testing of Administration-led employee inspection operations at airports and measure existing levels of security effectiveness. The Administrator shall provide—
     - **(A)** the results of such testing to the airport operator for the airport that is the subject of any such testing, and, as appropriate, to air carriers and foreign air carriers that operate at the airport that is the subject of such testing; and
     - **(B)** recommendations and technical assistance for air carriers, foreign air carriers, and airport operators to conduct their own employee inspections, as needed.
-  - **(2)** *Annual reporting* The Administrator shall submit to the appropriate congressional committees an annual report on the frequency, methodology, strategy, and effectiveness of employee screening operations at airports.
+  - **(2)** *Annual reporting* The Administrator shall annually, for each of fiscal years 2018 through 2022, submit to the appropriate congressional committees a report on the frequency, methodology, strategy, and effectiveness of employee inspection operations at airports.
 - **(f)** *Centralized database* Not later than 180 days after the date of the enactment of this Act, the Administrator, in consultation with the Aviation Security Advisory Committee, shall—
   - **(1)** establish a national database of individuals who have had either their airport or airport operator-issued badge revoked for failure to comply with aviation security requirements;
   - **(2)** determine the appropriate reporting mechanisms for air carriers, foreign air carriers, and airport operators to—
@@ -82,3 +82,7 @@ The Department of Homeland Security is the lead interagency coordinator pertaini
 ## § 7. Information technology security
 
 Not later than 90 days after the date of the enactment of this Act, the Administrator shall submit to the appropriate congressional committees a plan to conduct recurring reviews of the operational, technical, and management security controls for Administration information technology systems at airports.
+
+## § 8. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.

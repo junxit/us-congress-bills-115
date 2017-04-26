@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 876
@@ -27,9 +27,10 @@ Aviation Employee Screening and Security Enhancement Act of 2017
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Aviation Employee Screening and Security Enhancement Act of 2017
 - 2017-04-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-94.
 - 2017-04-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-94.
 - 2017-04-25 — The title of the measure was amended. Agreed to without objection.
+- 2017-04-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
