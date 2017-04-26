@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 123
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 123
@@ -32,3 +32,7 @@ A resolution designating May 20, 2017, as "Kids to Parks Day".
 
 - 2017-04-07 — Introduced in Senate
 - 2017-04-07 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2457)
+- 2017-04-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2564)
+- 2017-04-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2564)
