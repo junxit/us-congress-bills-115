@@ -1,7 +1,7 @@
 ---
 measure: H.R. 455
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 455
@@ -16,9 +16,10 @@ To designate the United States courthouse located at 501 East Court Street in Ja
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the United States courthouse located at 501 East Court Street in Ja
 - 2017-04-25 — Mr. Ferguson moved to suspend the rules and pass the bill.
 - 2017-04-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2822)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2822)
+- 2017-04-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
