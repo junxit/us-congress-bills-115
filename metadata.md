@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 36
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 36
@@ -48,3 +48,4 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2017-04-25 — Mr. Ferguson moved to suspend the rules and agree to the resolution.
 - 2017-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2821)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2821)
+- 2017-04-26 — Received in the Senate.
