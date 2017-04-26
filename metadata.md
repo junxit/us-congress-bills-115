@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 36
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 36
@@ -49,3 +49,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2017-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2821)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2821)
 - 2017-04-26 — Received in the Senate.
+- 2017-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2017-04-27 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2017-04-28 — Message on Senate action sent to the House.
