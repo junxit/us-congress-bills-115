@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1695
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1695
@@ -57,6 +57,11 @@ Register of Copyrights Selection and Accountability Act of 2017
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2017-04-26 — [House 115-1-226](votes/house-115-1-0226.md) — On Agreeing to the Amendment — **Agreed to** (410–14)
+- 2017-04-26 — [House 115-1-227](votes/house-115-1-0227.md) — On Passage — **Passed** (378–48)
+
 ## Actions
 
 - 2017-03-23 — Introduced in House
@@ -67,3 +72,32 @@ Register of Copyrights Selection and Accountability Act of 2017
 - 2017-04-20 — Placed on the Union Calendar, Calendar No. 51.
 - 2017-04-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-91.
 - 2017-04-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-91.
+- 2017-04-25 — Rules Committee Resolution H. Res. 275 Reported to House. Rule provides for consideration of H.R. 1695 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution makes in order an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-13.
+- 2017-04-26 — Amendment (A001) offered by Mr. Deutch. (consideration: CR H2874-2875, S2876; text CR H2874)
+- 2017-04-26 — Amendment (A002) offered by Ms. Chu, Judy. (consideration: CR H2875-2876; text: CR H2875)
+- 2017-04-26 — Amendment agreed to Committee of the Whole
+- 2017-04-26 — Amendment agreed to Committee of the Whole
+- 2017-04-26 — Considered under the provisions of rule H. Res. 275. (consideration: CR H2868-2877; text of measure as reported in House: CR H2874)
+- 2017-04-26 — DEBATE - Pursuant to the provisions of H. Res. 275, the Committee of the Whole proceeded with 10 minutes of debate on the Chu amendment No. 2.
+- 2017-04-26 — DEBATE - Pursuant to the provisions of H. Res. 275, the Committee of the Whole proceeded with 10 minutes of debate on the Deutch amendment No. 1.
+- 2017-04-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1695.
+- 2017-04-26 — House amendment agreed to: On agreeing to the Chu, Judy amendment (A002) Agreed to by voice vote.
+- 2017-04-26 — House amendment agreed to: On agreeing to the Deutch amendment (A001) Agreed to by recorded vote: 410 - 14 (Roll no. 226).
+- 2017-04-26 — House amendment offered
+- 2017-04-26 — House amendment offered
+- 2017-04-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Deutch.(consideration: CR H2874-2875, S2876; text CR H2874)
+- 2017-04-26 — House amendment offered/reported by : Amendment (A002) offered by Ms. Chu, Judy.(consideration: CR H2875-2876; text: CR H2875)
+- 2017-04-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 275 and Rule XVIII.
+- 2017-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-04-26 — On agreeing to the Chu, Judy amendment (A002) Agreed to by voice vote.
+- 2017-04-26 — On agreeing to the Deutch amendment (A001) Agreed to by recorded vote: 410 - 14 (Roll no. 226).
+- 2017-04-26 — On passage Passed by the Yeas and Nays: 378 - 48 (Roll no. 227).
+- 2017-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Deutch amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-04-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 378 - 48 (Roll no. 227).
+- 2017-04-26 — Roll call votes on amendments in House
+- 2017-04-26 — Rule H. Res. 275 passed House.
+- 2017-04-26 — Rule provides for consideration of H.R. 1695 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution makes in order an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-13.
+- 2017-04-26 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-04-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1695.
+- 2017-04-26 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2017-04-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

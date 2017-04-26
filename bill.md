@@ -22,7 +22,7 @@ This Act may be cited as the “Register of Copyrights Selection and Accountabil
       >   - **(1)** *In general* All administrative
 
     - **(B)** by striking “director” and inserting “Director”;
-    - **(C)** by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law and shall be appointed by the President from the individuals recommended under paragraph (6), by and with the advice and consent of the Senate.”; and
+    - **(C)** by inserting after the first sentence the following: “The Register of Copyrights shall be a citizen of the United States with a professional background and experience in copyright law, shall be capable of identifying and supervising a Chief Information Officer or other similar official responsible for managing modern information technology systems, and shall be appointed by the President from the individuals recommended under paragraph (6), by and with the advice and consent of the Senate.”; and
     - **(D)** in the last sentence, by striking “shall be appointed” and all that follows through “and shall act” and inserting “shall act”;
   - **(2)** in subsection (b), by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and adjusting the margins accordingly;
   - **(3)** by redesignating subsection (b) as paragraph (2), and adjusting the margins accordingly;
@@ -50,3 +50,7 @@ This Act may be cited as the “Register of Copyrights Selection and Accountabil
   - **(9)** in subsection (d), as so redesignated, by inserting “Applicability of title 5.—” before “Except as provided”; and
   - **(10)** in subsection (e), as so redesignated, by inserting “Compensation.—” before “The Register”.
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to any vacancy for the Register of Copyrights after January 1, 2017. If a Register of Copyrights is appointed during the period beginning on January 1, 2017 and ending on the day before the date of the enactment of this Act, that Register shall meet the requirements of the amendments made by this Act or shall be replaced in accordance with such amendments.
+
+## § 3. Construction
+
+Nothing in this Act may be construed to impact the mandatory deposit requirements in title 17, United States Code.
