@@ -1,0 +1,23 @@
+---
+legis-num: S. 945
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 945
+
+> To amend the Carl D. Perkins Career and Technical Education Act of 2006 to authorize funds to identify and eliminate excessive occupational licensure.
+
+## § 1. Short title
+
+This Act may be cited as the “New Hope and Opportunity through the Power of Employment Act ” or the “New HOPE Act”.
+
+## § 2. State leadership activities
+
+Section 124(c) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2344(c)) is amended—
+
+- **(1)** in paragraph (16)(B), by striking “and” after the semicolon;
+- **(2)** in paragraph (17), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(18)** consulting and coordinating with other State agencies for the identification, consolidation, or elimination of licenses or certifications which pose an unnecessary barrier to entry for aspiring workers and provide limited consumer protection.
