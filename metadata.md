@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1695
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1695
@@ -53,9 +53,10 @@ Register of Copyrights Selection and Accountability Act of 2017
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (2)
 
@@ -101,3 +102,4 @@ Register of Copyrights Selection and Accountability Act of 2017
 - 2017-04-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1695.
 - 2017-04-26 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2017-04-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-04-27 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
