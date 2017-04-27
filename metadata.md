@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 132
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 132
@@ -28,3 +28,7 @@ A resolution congratulating the Ashland University women's basketball team for w
 
 - 2017-04-07 — Introduced in Senate
 - 2017-04-07 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S2461)
+- 2017-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-04-27 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2631)
+- 2017-04-27 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2631)
