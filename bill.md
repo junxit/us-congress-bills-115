@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2198
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2198
+
+> To direct the Secretary of Veterans Affairs to ensure that calls to medical facilities of the Department can be quickly redirected to the Veterans Crisis Line.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Crisis Line Improvement Act”.
+
+## § 2. Facilitation of redirection of calls to Department of Veterans Affairs medical facilities to Veterans Crisis Line
+
+Beginning not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall ensure that, upon placing a telephone call to the main telephone number of any Department of Veterans Affairs medical facility, the first message a caller hears provides a mechanism by which the caller can choose to be quickly redirected to the Veterans Crisis Line without ending the telephone call.
