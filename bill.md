@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 2216
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2216
+
+> To provide that certain project works on the St. Croix River, Maine, are not required to be licensed by the Federal Energy Regulatory Commission.
+
+## § 1. Federal Power Act license not required for certain project works on the St. Croix River, Maine
+
+Any project works in existence as of the date of enactment of this Act, or as may later be modified, that are licensed by the Federal Energy Regulatory Commission under Commission Project numbers 2492, 2618, and 2660, as in effect on such date of enactment, shall not be required to be licensed under part I of the Federal Power Act (16 U.S.C. 792 et seq.).
