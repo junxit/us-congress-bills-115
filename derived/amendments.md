@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

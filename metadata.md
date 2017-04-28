@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1694
@@ -30,9 +30,10 @@ Fannie and Freddie Open Records Act of 2017
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -90,3 +91,4 @@ Fannie and Freddie Open Records Act of 2017
 - 2017-04-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1694.
 - 2017-04-27 — The Speaker designated the Honorable Doug Collins to act as Chairman of the Committee.
 - 2017-04-27 — The previous question was ordered pursuant to the rule.
+- 2017-04-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
