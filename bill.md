@@ -19,25 +19,25 @@ Section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) is amended by 
 
 > - **(s)** *Compensatory time off for private employees*
 >   - **(1)** *General rule* An employee may receive, in accordance with this subsection and in lieu of monetary overtime compensation, compensatory time off at a rate not less than one and one-half hours for each hour of employment for which overtime compensation is required by this section.
->   - **(2)** *Conditions* An employer may provide compensatory time to employees under paragraph (1)(A) only if such time is provided in accordance with—
+>   - **(2)** *Conditions* An employer may provide compensatory time to employees under paragraph (1) only if such time is provided in accordance with—
 >     - **(A)** applicable provisions of a collective bargaining agreement between the employer and the labor organization that has been certified or recognized as the representative of the employees under applicable law; or
->     - **(B)** in the case of employees who are not represented by a labor organization that has been certified or recognized as the representative of such employees under applicable law, an agreement arrived at between the employer and employee before the performance of the work and affirmed by a written or otherwise ver­i­fi­a­ble record maintained in accordance with section 11(c)—
+>     - **(B)** in the case of an employee who is not represented by a labor organization that has been certified or recognized as the representative of such employee under applicable law, an agreement arrived at between the employer and employee before the performance of the work and affirmed by a written or otherwise verifiable record maintained in accordance with section 11(c)—
 >       - **(i)** in which the employer has offered and the employee has chosen to receive compensatory time in lieu of monetary overtime compensation; and
->       - **(ii)** entered into knowingly and voluntarily by such employees and not as a condition of employment.
+>       - **(ii)** entered into knowingly and voluntarily by such employee and not as a condition of employment.
 >   - **(3)** *Hour limit*
 >     - **(A)** *Maximum hours* An employee may accrue not more than 160 hours of compensatory time.
 >     - **(B)** *Compensation date* Not later than January 31 of each calendar year, the employee’s employer shall provide monetary compensation for any unused compensatory time off accrued during the preceding calendar year that was not used prior to December 31 of the preceding year at the rate prescribed by paragraph (6). An employer may designate and communicate to the employer’s employees a 12-month period other than the calendar year, in which case such compensation shall be provided not later than 31 days after the end of such 12-month period.
 >     - **(C)** *Excess of 80 hours* The employer may provide monetary compensation for an employee’s unused compensatory time in excess of 80 hours at any time after giving the employee at least 30 days notice. Such compensation shall be provided at the rate prescribed by paragraph (6).
 >     - **(D)** *Policy* Except where a collective bargaining agreement provides otherwise, an employer that has adopted a policy offering compensatory time to employees may discontinue such policy upon giving employees 30 days notice.
 >     - **(E)** *Written request* An employee may withdraw an agreement described in paragraph (2)(B) at any time. An employee may also request in writing that monetary compensation be provided, at any time, for all compensatory time accrued that has not yet been used. Within 30 days of receiving the written request, the employer shall provide the employee the monetary compensation due in accordance with paragraph (6).
->   - **(4)** *Private employer actions* An employer that provides compensatory time under paragraph (1) to employees shall not directly or indirectly intimidate, threaten, or coerce or attempt to intimidate, threaten, or coerce any employee for the purpose of—
+>   - **(4)** *Private employer actions* An employer that provides compensatory time under paragraph (1) to an employee shall not directly or indirectly intimidate, threaten, or coerce or attempt to intimidate, threaten, or coerce any employee for the purpose of—
 >     - **(A)** interfering with such employee’s rights under this subsection to request or not request compensatory time off in lieu of payment of monetary overtime compensation for overtime hours; or
 >     - **(B)** requiring any employee to use such compensatory time.
 >   - **(5)** *Termination of employment* An employee who has accrued compensatory time off authorized to be provided under paragraph (1) shall, upon the voluntary or involuntary termination of employment, be paid for the unused compensatory time in accordance with paragraph (6).
 >   - **(6)** *Rate of compensation*
 >     - **(A)** *General rule* If compensation is to be paid to an employee for accrued compensatory time off, such compensation shall be paid at a rate of compensation not less than—
->       - **(i)** the regular rate received by such employee when the compensatory time was earned; or
->       - **(ii)** the final regular rate received by such employee,
+>       - **(i)** the regular rate earned by such employee when the compensatory time was accrued; or
+>       - **(ii)** the regular rate earned by such employee at the time such employee received payment of such compensation,
 >     - **(B)** *Consideration of payment* Any payment owed to an employee under this subsection for unused compensatory time shall be considered unpaid overtime compensation.
 >   - **(7)** *Use of time* An employee—
 >     - **(A)** who has accrued compensatory time off authorized to be provided under paragraph (1); and
@@ -60,7 +60,7 @@ Not later than 30 days after the date of enactment of this Act, the Secretary of
 
 ## § 5. GAO report
 
-Beginning 2 years after the date of enactment of this Act and each of the 3 years thereafter, the Comptroller General shall submit a report to Congress providing, with respect to the reporting period immediately prior to each such report—
+Beginning 2 years after the date of enactment of this Act and each of the 3 years thereafter, the Comptroller General of the United States shall submit a report to Congress providing, with respect to the reporting period immediately prior to each such report—
 
 - **(1)** data concerning the extent to which employers provide compensatory time pursuant to section 7(s) of the Fair Labor Standards Act of 1938, as added by this Act, and the extent to which employees opt to receive compensatory time;
 - **(2)** the number of complaints alleging a violation of such section filed by any employee with the Secretary of Labor;
@@ -70,4 +70,4 @@ Beginning 2 years after the date of enactment of this Act and each of the 3 year
 
 ## § 6. Sunset
 
-This Act and the amendments made by this Act shall expire 5 years after the date of enactment of this Act.
+This Act and the amendments made by this Act shall cease to be in effect on the date that is 5 years after the date of enactment of this Act.
