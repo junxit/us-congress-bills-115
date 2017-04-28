@@ -1,0 +1,61 @@
+---
+measure: H.R. 2226
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 2226
+
+Portfolio Lending and Mortgage Access Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Barr, Andy [R-KY-6] (B001282)
+
+## Cosponsors (31)
+
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Blum, Rod [R-IA-1] (B001294)
+
+## Committees (1)
+
+- House — Financial Services Committee
+
+## Actions
+
+- 2017-04-28 — Introduced in House
+- 2017-04-28 — Introduced in House
+- 2017-04-28 — Referred to the House Committee on Financial Services.
