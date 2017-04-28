@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 14
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 14
@@ -32,3 +32,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2017-04-28 — Message on Senate action sent to the House.
 - 2017-04-28 — Received in the House.
 - 2017-04-28 — Referred to the House Committee on House Administration.
+- 2017-05-24 — Committee on House Administration discharged.
+- 2017-05-24 — Committee on House Administration discharged.
+- 2017-05-24 — Considered by unanimous consent. (consideration: CR H4553)
+- 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-24 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2017-05-24 — On agreeing to the resolution Agreed to without objection. (text: CR H4553)
+- 2017-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4553)
