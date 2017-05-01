@@ -1,0 +1,56 @@
+---
+measure: H.R. 2274
+congress: 115
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2274 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+5 amendatory instructions. 2 executed, 3 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 16 U.S.C. § 798
+
+> in subsection (a), by striking “three” and inserting “four”; and
+
+| | |
+|---|---|
+| Removed | `three` |
+| Inserted | `four` |
+
+### 16 U.S.C. § 806
+
+> Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than eight additional years,”.
+
+| | |
+|---|---|
+| Removed | `once but not longer than two additional years` |
+| Inserted | `for not more than eight additional years,` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 798` | replace | by striking “Commission may extend the period of a preliminary permit once for not more than 2 additional years beyond the 3 years” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 798` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 798` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
