@@ -1,7 +1,7 @@
 ---
 measure: S. 916
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 829` | insert | The Controlled Substance Act is amended by inserting after section 309 (21 U.S.C. 829) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 829` | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 309 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | redesignate | by redesignating subsection (j) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Controlled Substance Act is amended by inserting after section 309 (21. U.S.C. 829) the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 309 the following: | the bill names no machine-readable US Code section |
