@@ -1,7 +1,7 @@
 ---
 measure: S. 317
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 317
@@ -16,7 +16,7 @@ Taxpayers Right-To-Know Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Johnson, Ron [R-WI] (J000293)
@@ -26,6 +26,7 @@ Taxpayers Right-To-Know Act
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ Taxpayers Right-To-Know Act
 
 - 2017-02-06 — Introduced in Senate
 - 2017-02-06 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2017-05-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-34.
+- 2017-05-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-34.
+- 2017-05-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
