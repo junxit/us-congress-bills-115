@@ -22,3 +22,4 @@ Section 503 of the Small Business Investment Incentive Act of 1980 (15 U.S.C. 80
 >   - **(2)** each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—
 >     - **(A)** assessing the finding or recommendation of the forum; and
 >     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
+> - **(f)** *Forum findings* Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the forum.
