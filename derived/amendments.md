@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 1 executed, 25 stated and not applied.
+28 amendatory instructions. 1 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,8 +57,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “such l” and inserting “such agenda”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7107` | replace | in subparagraph (C), by striking “; or” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7107` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1), as amended by paragraph (2) of this section, the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | Section 404(a) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “outstanding”. | the bill names no machine-readable US Code section |
 | — | replace | The section heading of section 419 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “anti-semitism” and inserting “intolerance”. | the bill names no machine-readable US Code section |
 | — | replace | Section 603(f)(1) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “section 362” and inserting “section 602(c)”. | the bill names no machine-readable US Code section |
