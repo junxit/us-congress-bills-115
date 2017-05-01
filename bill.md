@@ -55,9 +55,13 @@ Section 311(a)(2) of the Department of State Authorities Act, Fiscal Year 2017 (
 
 Section 313 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended—
 
-- **(1)** by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”; and
+- **(1)** by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”;
 - **(2)** by amending paragraph (1) to read as follows:
-  > - **(1)** a comparison of the costs of current United Nations peacekeeping operations, including the costs incurred by the United States for such operations, and the estimated cost of such operations if implemented unilaterally by the United States; and
+  > - **(1)** a comparison of the costs of current United Nations peacekeeping operations, including the costs incurred by the United States for such operations, and the estimated cost of such operations if implemented unilaterally by the United States;
+
+- **(3)** by redesignating paragraph (2) as paragraph (3); and
+- **(4)** by inserting after paragraph (1), as amended by paragraph (2) of this section, the following new paragraph:
+  > - **(2)** an assessment of the operational, structural, and doctrinal differences between the military and civilian infrastructures of the United States and United Nations and other assumptions that impact cost estimates; and
 
 ## § 7. Lateral entry into the Foreign Service
 
