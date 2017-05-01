@@ -68,7 +68,7 @@ This Act may be cited as the “Taxpayers Right-To-Know Act”.
 
 - **(a)** *In general* The Director of the Office of Management and Budget—
   - **(1)** not later than June 30, 2018—
-    - **(A)** shall prescribe initial guidance to implement this Act, and the amendments made by this Act;
+    - **(A)** shall prescribe initial guidance to implement this Act, and the amendments made by this Act, which shall include ongoing reporting on at least an annual basis;
     - **(B)** shall issue initial guidance to agencies to identify how the program activities used for reporting under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) are associated with programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by section 2; and
     - **(C)** may issue initial guidance to agencies to ensure that the programs identified in the program inventory required under section 1122(a)(2)(C)(i) of title 31, United States Code, as amended by section 2, are presented at a similar level of detail across agencies and are not duplicative or overlapping; and
   - **(2)** may, based on an analysis of the costs of implementation, and after submitting to Congress a notification of the action by the Director—
