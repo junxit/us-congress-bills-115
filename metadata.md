@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 137
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 137
@@ -30,3 +30,7 @@ A resolution supporting the goals and ideals of National Safe Digging Month.
 
 - 2017-04-24 — Introduced in Senate
 - 2017-04-24 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S2496)
+- 2017-05-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2684)
+- 2017-05-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2684)
+- 2017-05-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2684)
+- 2017-05-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2684)
