@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 366
@@ -42,3 +42,5 @@ DHS SAVE Act
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-32.
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-32.
 - 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
+- 2017-05-02 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S2683-2684; text: CR S2683-2684)
+- 2017-05-02 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2683-2684; text: CR S2683-2684)
