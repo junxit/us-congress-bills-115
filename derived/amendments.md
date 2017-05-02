@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1312
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

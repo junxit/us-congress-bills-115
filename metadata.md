@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1312
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1312
@@ -21,9 +21,10 @@ Small Business Capital Formation Enhancement Act
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Small Business Capital Formation Enhancement Act
 - 2017-05-01 — Placed on the Union Calendar, Calendar No. 61.
 - 2017-05-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-104.
 - 2017-05-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-104.
+- 2017-05-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
