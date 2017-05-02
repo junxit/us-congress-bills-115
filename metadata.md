@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 366
@@ -44,3 +44,12 @@ DHS SAVE Act
 - 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
 - 2017-05-02 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S2683-2684; text: CR S2683-2684)
 - 2017-05-02 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2683-2684; text: CR S2683-2684)
+- 2017-05-03 — Message on Senate action sent to the House.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. McCaul asked unanimous consent to take from Speaker's Table and agree to the Senate amendments. (consideration: CR H4480)
+- 2017-05-23 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate Amendment: CR H4480)
+- 2017-05-23 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate Amendment: CR H4480)
+- 2017-05-25 — Presented to President.
+- 2017-05-25 — Presented to President.
+- 2017-06-06 — Signed by President.
+- 2017-06-06 — Signed by President.
