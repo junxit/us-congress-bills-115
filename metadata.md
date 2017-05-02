@@ -1,7 +1,7 @@
 ---
 measure: H.R. 657
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 657
@@ -58,3 +58,12 @@ Follow the Rules Act
 - 2017-05-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 239). (text: CR H2983)
 - 2017-05-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 239).(text: CR H2983)
 - 2017-05-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-25 — Passed Senate without amendment by Unanimous Consent.
+- 2017-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2017-05-25 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S3226-3227)
+- 2017-05-25 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S3226-3227)
+- 2017-05-26 — Message on Senate action sent to the House.
+- 2017-06-02 — Presented to President.
+- 2017-06-02 — Presented to President.
+- 2017-06-14 — Signed by President.
+- 2017-06-14 — Signed by President.
