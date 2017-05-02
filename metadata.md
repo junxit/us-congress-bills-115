@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 371
@@ -16,9 +16,10 @@ Department of State Authorities Act, Fiscal Year 2017, Improvements Act
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Department of State Authorities Act, Fiscal Year 2017, Improvements Act
 - 2017-05-01 — Senate amendment agreed to: Amendment SA 209 agreed to in Senate by Unanimous Consent.
 - 2017-05-01 — Senate amendment proposed (on the floor): Amendment SA 209 proposed by Senator Cornyn for Senator Corker.(consideration: CR S2653; text: CR S2653)
 - 2017-05-01 — Senate amendment submitted
+- 2017-05-02 — Message on Senate action sent to the House.
+- 2017-05-02 — Received in the House.
+- 2017-05-02 — Referred to the House Committee on Foreign Affairs.
