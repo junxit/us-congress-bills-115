@@ -1,0 +1,34 @@
+---
+legis-num: S. 1008
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1008
+
+> To amend the Controlled Substances Act to exclude cannabidiol and cannabidiol-rich plants from the definition of marihuana, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Therapeutic Hemp Medical Access Act of 2017”.
+
+## § 2. Exclusion of cannabidiol and cannabidiol-rich plants from definition of marihuana
+
+- **(a)** *In general* Section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16)) is amended, in the second sentence—
+  - **(1)** by striking “or the sterilized seed” and inserting “the sterilized seed”; and
+  - **(2)** by inserting before the period at the end the following: “, cannabidiol, or cannabidiol-rich plants”.
+- **(b)** *Definitions* Section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended, is further amended by adding at the end the following:
+  > - **(57)**
+  >   - **(A)** The term cannabidiol-rich plant means the plant Cannabis sativa L. and any part of such plant, whether growing or not, with a te­tra­hy­dro­can­nab­i­nol concentration of not more than 0.3 percent on a dry weight basis.
+  >   - **(B)** A cannabidiol-rich plant shall not be treated as a controlled substance under this Act.
+  > - **(58)**
+  >   - **(A)** The term cannabidiol means the substance cannabidiol, as derived from a cannabidiol-rich plant.
+  >   - **(B)** Cannabidiol shall not be treated as a controlled substance under this Act.
+  > - **(59)** The term tetrahydrocannabinol con­cen­tra­tion means—
+  >   - **(A)** the percent of the delta-9 te­tra­hy­dro­can­nabinol content per dry weight of any part of the plant Cannabis sativa L. or per volume of weight of marihuana product; or
+  >   - **(B)** the combined percent of the delta-9 tet­ra­hy­dro­can­nab­i­nol and tet­ra­hy­dro­can­nab­i­nol­ic acid in any part of the plant Cannabis sativa L., regardless of moisture content.
+
+## § 3. Rule of construction
+
+Nothing in this Act, or the amendments made by this Act, shall be construed to prohibit or otherwise restrict any activities related to the use, production, or distribution of marijuana in a State in which such activities are legal under State law.
