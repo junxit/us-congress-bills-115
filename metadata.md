@@ -1,7 +1,7 @@
 ---
 measure: H.R. 910
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 910
@@ -25,9 +25,10 @@ Fair Access to Investment Research Act of 2017
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Fair Access to Investment Research Act of 2017
 - 2017-05-01 — Placed on the Union Calendar, Calendar No. 59.
 - 2017-05-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-102.
 - 2017-05-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-102.
+- 2017-05-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
