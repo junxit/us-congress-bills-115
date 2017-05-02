@@ -2,18 +2,18 @@
 legis-num: H. RES. 299
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 299
 
 > Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-15 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Education and the Workforce; and (2) one motion to recommit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115–15 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Education and the Workforce; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
-On any legislative day during the period from May 5, 2017, through May 15, 2017 —
+On any legislative day during the period from May 5, 2017, through May 15, 2017—
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
