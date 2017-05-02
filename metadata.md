@@ -1,7 +1,7 @@
 ---
 measure: S. 141
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 141
@@ -36,3 +36,5 @@ Space Weather Coordination Act
 - 2017-03-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-21.
 - 2017-03-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-21.
 - 2017-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
+- 2017-05-02 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2672-2674; text: S2672-2674)
+- 2017-05-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2672-2674; text: S2672-2674)
