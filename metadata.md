@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1180
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1180
@@ -51,3 +51,17 @@ Working Families Flexibility Act of 2017
 - 2017-04-28 — Placed on the Union Calendar, Calendar No. 58.
 - 2017-04-28 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-101.
 - 2017-04-28 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-101.
+- 2017-05-01 — Rules Committee Resolution H. Res. 299 Reported to House. Rule provides for consideration of H.R. 1180 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017.
+- 2017-05-02 — Considered under the provisions of rule H. Res. 299. (consideration: CR H3038-3050)
+- 2017-05-02 — DEBATE - The House proceeded with 10 minutes of debate on the Scott, VA motion to recommit with instructions. The instructions in the motion seek to report the same back to the House forthwith with the following amendment to add an exemption to the underlying bill for any employee who does not receive fewer than seven paid sick days, which can be used to seek medical care for a pre-existing health condition.
+- 2017-05-02 — DEBATE - The House proceeded with one hour of debate on H.R. 1180.
+- 2017-05-02 — House amendment offered
+- 2017-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-02 — Mr. Scott (VA) moved to recommit with instructions to the Committee on Education and the Workforce. (text: CR H3048)
+- 2017-05-02 — On motion to recommit with instructions Failed by the Yeas and Nays: 192 - 234 (Roll no. 243).
+- 2017-05-02 — On passage Passed by recorded vote: 229 - 197 (Roll no. 244). (text of amendment in the nature of a substitute: CR H3038-3039)
+- 2017-05-02 — Passed/agreed to in House: On passage Passed by recorded vote: 229 - 197 (Roll no. 244).(text of amendment in the nature of a substitute: CR H3038-3039)
+- 2017-05-02 — Rule H. Res. 299 passed House.
+- 2017-05-02 — Rule provides for consideration of H.R. 1180 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017.
+- 2017-05-02 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-05-02 — The previous question was ordered pursuant to the rule.
