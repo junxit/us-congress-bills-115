@@ -1,7 +1,7 @@
 ---
 measure: H.R. 657
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 657
@@ -30,9 +30,10 @@ Follow the Rules Act
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Follow the Rules Act
 - 2017-05-01 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2017-05-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 239). (text: CR H2983)
 - 2017-05-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 239).(text: CR H2983)
+- 2017-05-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
