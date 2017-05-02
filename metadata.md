@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1242
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1242
@@ -92,3 +92,4 @@ version: Reported in House
 - 2017-05-01 — Placed on the Union Calendar, Calendar No. 62.
 - 2017-05-01 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-105.
 - 2017-05-01 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-105.
+- 2017-05-02 — Received in the Senate, read twice.

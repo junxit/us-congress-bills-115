@@ -2,7 +2,7 @@
 legis-num: H.R. 1242
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1242
@@ -120,3 +120,7 @@ In this Act:
 
 - **(a)** *Date of termination* The Commission shall terminate on July 1, 2020.
 - **(b)** *Transfer of documents and materials* Before the date of termination specified in subsection (a), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.
+
+## § 9. Expenditures of Commission
+
+All expenditures of the Commission shall be made solely from donated funds.
