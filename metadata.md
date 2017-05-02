@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1242
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1242
@@ -93,3 +93,10 @@ version: Received in Senate
 - 2017-05-01 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-105.
 - 2017-05-01 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-105.
 - 2017-05-02 — Received in the Senate, read twice.
+- 2017-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S8267-8269)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S8267-8269)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-27 — Presented to President.
+- 2017-12-27 — Presented to President.
+- 2018-01-08 — Signed by President.
+- 2018-01-08 — Signed by President.
