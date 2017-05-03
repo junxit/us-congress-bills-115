@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1679
@@ -20,9 +20,10 @@ FEMA Accountability, Modernization and Transparency Act of 2017
 
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ FEMA Accountability, Modernization and Transparency Act of 2017
 - 2017-05-02 — Placed on the Union Calendar, Calendar No. 63.
 - 2017-05-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-107.
 - 2017-05-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-107.
+- 2017-05-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
