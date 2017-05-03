@@ -1,7 +1,7 @@
 ---
 measure: S. 189
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,5 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | by inserting “, by purchase from willing sellers with donated or appropriated funds, or by exchange” after “donation”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Kansas: Provided” and all that follows through the period and inserting the following: “Kansas, and the land to be added to the Fort Scott National Historic Site under section 2(b).”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Sec. 2. When” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, by purchase with appropriated funds, or by exchange” after “donation”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the proviso; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Sec. 2. When” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
