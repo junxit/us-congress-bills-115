@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1366
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1366
@@ -27,9 +27,10 @@ U.S. Territories Investor Protection Act of 2017
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,5 @@ U.S. Territories Investor Protection Act of 2017
 - 2017-05-01 — Placed on the Union Calendar, Calendar No. 60.
 - 2017-05-01 — Reported by the Committee on Financial Services. H. Rept. 115-103.
 - 2017-05-01 — Reported by the Committee on Financial Services. H. Rept. 115-103.
+- 2017-05-02 — Received in the Senate.
+- 2017-05-03 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
