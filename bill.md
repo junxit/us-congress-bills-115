@@ -2,14 +2,14 @@
 legis-num: H. RES. 305
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 305
 
 > Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendments numbered 2 and 3, and that the House concur in the Senate amendment numbered 1 with an amendment consisting of the text of Rules Committee Print 115-16 modified by the amendment printed in the report of the Committee on Rules accompanying this resolution. The Senate amendments and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to final adoption without intervening motion or demand for division of the question.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order, a single motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendments numbered 2 and 3, and that the House concur in the Senate amendment numbered 1 with an amendment consisting of the text of Rules Committee Print 115–16 modified by the amendment printed in the report of the Committee on Rules accompanying this resolution. The Senate amendments and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to final adoption without intervening motion or demand for division of the question.
 
 ## § 2.
 
