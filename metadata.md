@@ -1,7 +1,7 @@
 ---
 measure: S. 141
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 141
@@ -38,3 +38,10 @@ Space Weather Coordination Act
 - 2017-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
 - 2017-05-02 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2672-2674; text: S2672-2674)
 - 2017-05-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2672-2674; text: S2672-2674)
+- 2017-05-03 — Message on Senate action sent to the House.
+- 2017-05-03 — Received in the House.
+- 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
