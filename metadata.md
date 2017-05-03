@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1665
@@ -30,6 +30,10 @@ Disaster Declaration Improvement Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2017-05-03 — [House 115-1-248](votes/house-115-1-0248.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (425–0)
+
 ## Actions
 
 - 2017-03-22 — Introduced in House
@@ -42,3 +46,11 @@ Disaster Declaration Improvement Act
 - 2017-04-28 — Placed on the Union Calendar, Calendar No. 56.
 - 2017-04-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-99.
 - 2017-04-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-99.
+- 2017-05-02 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Barletta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-05-02 — Considered under suspension of the rules. (consideration: CR H3019-3022)
+- 2017-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1665.
+- 2017-05-02 — Mr. Barletta moved to suspend the rules and pass the bill, as amended.
+- 2017-05-03 — Considered as unfinished business. (consideration: CR H3089)
+- 2017-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 425 - 0 (Roll no. 248). (text: CR 5/02/2017 H3019)
+- 2017-05-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 425 - 0 (Roll no. 248).(text: CR 5/02/2017 H3019)
