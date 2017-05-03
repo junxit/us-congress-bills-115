@@ -1,7 +1,7 @@
 ---
 measure: S. 466
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 466
@@ -28,3 +28,7 @@ A bill to clarify the description of certain Federal land under the Northern Ari
 
 - 2017-02-28 — Introduced in Senate
 - 2017-02-28 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-41.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-41.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
