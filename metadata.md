@@ -1,7 +1,7 @@
 ---
 measure: H.R. 244
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 244
@@ -78,3 +78,34 @@ Consolidated Appropriations Act, 2017
 - 2017-03-21 — Senate amendment agreed to: Amendment SA 192 agreed to in Senate by Unanimous Consent.
 - 2017-03-21 — Senate amendment proposed (on the floor): Amendment SA 192 proposed by Senator Sullivan for Senator Blunt.(consideration: CR S1897; text: CR S1897)
 - 2017-03-21 — Senate amendment submitted
+- 2017-03-22 — Message on Senate action sent to the House.
+- 2017-05-02 — Rules Committee Resolution H. Res. 305 Reported to House. Rule provides for consideration of H.R. 244 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read.
+- 2017-05-03 — Amendment SA 210 proposed by Senator McConnell. To change the enactment date.
+- 2017-05-03 — Amendment SA 211 proposed by Senator McConnell to Amendment SA 210. To change the enactment date.
+- 2017-05-03 — Amendment SA 212 proposed by Senator McConnell. To change the enactment date.
+- 2017-05-03 — Amendment SA 213 proposed by Senator McConnell to Amendment SA 212 (the instructions of the motion to refer). To change the enactment date.
+- 2017-05-03 — Amendment SA 214 proposed by Senator McConnell to Amendment SA 213. To change the enactment date.
+- 2017-05-03 — Cloture motion on the motion to agree to the House amendment to the Senate amendment numbered 1 presented in Senate. (CR S2715-2716)
+- 2017-05-03 — Considered by Senate (Message from the House considered). (consideration: CR S2715-2716)
+- 2017-05-03 — DEBATE - The House proceeded with one hour of debate on the motion that the House concur in the Senate amendments numbered 2 and 3, and concur in Senate amendment numbered 1 with an amendment.
+- 2017-05-03 — McConnell motion to agree to the House amendment to Senate amendment numbered 1 made in Senate. (consideration: CR S2715-2716)
+- 2017-05-03 — McConnell motion to concur in the House amendment to the Senate amendment numbered 1 with an amendment (SA 210) made in Senate. (consideration: CR S2716)
+- 2017-05-03 — Message on House action received in Senate and at desk: House amendment to Senate amendment numbered 1.
+- 2017-05-03 — Motion by Senator McConnell to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany the bill (H.R. 244) with instructions to report back forthwith with amendment SA 212 made in Senate. (consideration: CR S2716)
+- 2017-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-03 — On motion to agree in the Senate amendments numbered 2 and 3, and agree in Senate amendment numbered 1 with an amendment Agreed to by the Yeas and Nays: 309 - 118 (Roll no. 249). (text as House agreed to Senate amendments: CR H3090-3305)
+- 2017-05-03 — Pursuant to the provisions of H.Res. 305, the Chair recognized Mr. Frelinghuysen for a motion.
+- 2017-05-03 — Pursuant to the provisions of H.Res. 305, the House moved to concur in the Senate amendments numbered 2 and 3, and concur in Senate amendment numbered 1 with an amendment. (consideration: CR H3089-3307)
+- 2017-05-03 — Resolving differences -- House actions: On motion to agree in the Senate amendments numbered 2 and 3, and agree in Senate amendment numbered 1 with an amendment Agreed to by the Yeas and Nays: 309 - 118 (Roll no. 249).(text as House agreed to Senate amendments: CR H3090-3305)
+- 2017-05-03 — Senate amendment proposed (on the floor): Amendment SA 210 proposed by Senator McConnell.
+- 2017-05-03 — Senate amendment proposed (on the floor): Amendment SA 211 proposed by Senator McConnell to Amendment SA 210.
+- 2017-05-03 — Senate amendment proposed (on the floor): Amendment SA 212 proposed by Senator McConnell.
+- 2017-05-03 — Senate amendment proposed (on the floor): Amendment SA 213 proposed by Senator McConnell to Amendment SA 212 (the instructions of the motion to refer).
+- 2017-05-03 — Senate amendment proposed (on the floor): Amendment SA 214 proposed by Senator McConnell to Amendment SA 213.
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — Senate amendment submitted
+- 2017-05-03 — The previous question was ordered pursuant to the rule.
