@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1678
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,9 +35,29 @@ to guess them.
 
 ### 42 U.S.C. § 5205
 
-> by striking “report for the disaster or emergency” and inserting “report for project completion as certified by the grantee”.
+> by striking “report for the disaster or emergency” and inserting “report for project completion as certified by the grantee”; and
 
 | | |
 |---|---|
 | Removed | `report for the disaster or emergency` |
 | Inserted | `report for project completion as certified by the grantee` |
+
+### 42 U.S.C. § 5205
+
+> in paragraph (1) by striking “report for the disaster or emergency” and inserting “report for project completion as certified by the grantee”; and
+
+| | |
+|---|---|
+| Removed | `report for the disaster or emergency` |
+| Inserted | `report for project completion as certified by the grantee` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 5205` | insert | in paragraph (3) by inserting “for project completion as certified by the grantee” after “final expenditure report”. | the bill quotes the text inserted but describes where it goes |
