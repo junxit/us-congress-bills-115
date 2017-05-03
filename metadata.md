@@ -1,7 +1,7 @@
 ---
 measure: H.R. 244
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 244
@@ -52,10 +52,11 @@ Consolidated Appropriations Act, 2017
 - House — Veterans' Affairs Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2017-02-13 — [House 115-1-86](votes/house-115-1-0086.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–1)
 - 2017-05-03 — [House 115-1-249](votes/house-115-1-0249.md) — On Motion to Concur in Senate Amendments Nos. 2 and 3, and in No. 1 with Amendment — **Passed** (309–118)
+- 2017-05-04 — [Senate 115-1-121](votes/senate-115-1-0121.md) — On the Motion — **Motion Agreed to** (79–18)
 
 ## Actions
 
@@ -114,3 +115,25 @@ Consolidated Appropriations Act, 2017
 - 2017-05-03 — Senate amendment submitted
 - 2017-05-03 — Senate amendment submitted
 - 2017-05-03 — The previous question was ordered pursuant to the rule.
+- 2017-05-04 — Cloture motion on the motion to agree to the House amendment to the Senate amendment numbered 1 rendered moot in Senate.
+- 2017-05-04 — Considered by Senate (Message from the House considered). (consideration: CR S2735-2737, S2738, S2740-2744, S2746-2761)
+- 2017-05-04 — Considered by Senate. (consideration: CR S2735)
+- 2017-05-04 — Considered by Senate. (consideration: CR S2735)
+- 2017-05-04 — Considered by Senate. (consideration: CR S2735)
+- 2017-05-04 — Considered by Senate. (consideration: CR S2735)
+- 2017-05-04 — Considered by Senate. (consideration: CR S2735)
+- 2017-05-04 — McConnell motion to concur in the House amendment to the Senate amendment numbered 1 with an amendment (SA 210) withdrawn in Senate. (consideration: CR S2735, S2741)
+- 2017-05-04 — Message on Senate action sent to the House.
+- 2017-05-04 — Motion by Senator McConnell to refer to Senate Committee on Health, Education, Labor, and Pensions the House message to accompany the bill (H.R. 244) with instructions to report back forthwith with an amendment (SA 212) withdrawn in Senate. (consideration: CR S2735, S2741)
+- 2017-05-04 — Presented to President.
+- 2017-05-04 — Presented to President.
+- 2017-05-04 — Proposed amendment SA 210 withdrawn in Senate.
+- 2017-05-04 — Proposed amendment SA 212 withdrawn in Senate.
+- 2017-05-04 — Pursuant to the provisions of H. Con. Res. 53, enrollment corrections on H.R. 244 have been made.
+- 2017-05-04 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment numbered 1 to the bill (H.R. 244) by Yea-Nay Vote. 79 - 18. Record Vote Number: 121.(consideration: CR S2761)
+- 2017-05-04 — SA 211 fell when SA 210 withdrawn.
+- 2017-05-04 — SA 213 fell when SA 212 withdrawn.
+- 2017-05-04 — SA 214 fell when SA 213 fell.
+- 2017-05-04 — Senate agreed to the House amendment to the Senate amendment numbered 1 to the bill (H.R. 244) by Yea-Nay Vote. 79 - 18. Record Vote Number: 121. (consideration: CR S2761)
+- 2017-05-05 — Signed by President.
+- 2017-05-05 — Signed by President.
