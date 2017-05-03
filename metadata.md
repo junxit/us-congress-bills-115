@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 534
@@ -46,3 +46,7 @@ U.S. Wants to Compete for a World Expo Act
 - 2017-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2829-2830)
 - 2017-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2829-2830)
 - 2017-04-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2017-05-03 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-05-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
