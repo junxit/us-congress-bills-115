@@ -1,7 +1,7 @@
 ---
 measure: S. 99
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 99
@@ -24,3 +24,7 @@ James K. Polk Presidential Home Study Act
 
 - 2017-01-11 — Introduced in Senate
 - 2017-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-36.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-36.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
