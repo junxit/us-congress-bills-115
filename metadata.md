@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1180
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1180
@@ -65,3 +65,4 @@ Working Families Flexibility Act of 2017
 - 2017-05-02 — Rule provides for consideration of H.R. 1180 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017.
 - 2017-05-02 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-05-02 — The previous question was ordered pursuant to the rule.
+- 2017-05-03 — Received in the Senate.
