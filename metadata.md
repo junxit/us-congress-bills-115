@@ -1,7 +1,7 @@
 ---
 measure: S. 432
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 432
@@ -20,7 +20,15 @@ Cerros del Norte Conservation Act
 
 - Sen. Udall, Tom [D-NM] (U000039)
 
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
 ## Actions
 
 - 2017-02-16 — Introduced in Senate
 - 2017-02-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-40.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-40.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.
