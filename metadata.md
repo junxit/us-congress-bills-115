@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 501
@@ -28,3 +28,8 @@ East Rosebud Wild and Scenic Rivers Act
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-03 — An errata sheet on written report No. 115-42 was printed.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-42.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-42.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
