@@ -1,7 +1,7 @@
 ---
 measure: S. 331
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 331
@@ -24,3 +24,7 @@ A bill to remove the use restrictions on certain land transferred to Rockingham 
 
 - 2017-02-07 — Introduced in Senate
 - 2017-02-07 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S868-869)
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-39.
+- 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-39.
+- 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
