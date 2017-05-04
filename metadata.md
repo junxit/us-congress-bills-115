@@ -1,7 +1,7 @@
 ---
 measure: S. 585
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 585
@@ -28,3 +28,7 @@ Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017
 
 - 2017-03-08 — Introduced in Senate
 - 2017-03-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2017-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-44.
+- 2017-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-44.
+- 2017-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
