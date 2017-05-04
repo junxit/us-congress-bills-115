@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-49 amendatory instructions. 10 executed, 39 stated and not applied.
+46 amendatory instructions. 10 executed, 36 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 9202
 
-> by striking “or Executive Order 13694” and inserting “Executive Order 13694”; and
+> by striking “or Executive Order 13694” and inserting “Executive Order No. 13694”; and
 
 | | |
 |---|---|
 | Removed | `or Executive Order 13694` |
-| Inserted | `Executive Order 13694` |
+| Inserted | `Executive Order No. 13694` |
 
 ### 22 U.S.C. § 9202
 
@@ -80,12 +80,12 @@ to guess them.
 
 ### 22 U.S.C. § 2794
 
-> in paragraph (1), by striking “that provides lethal military equipment to the Government of North Korea” and inserting “that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 47 of the Arms Export Control Act (22 U.S.C. 2794)”; and
+> in paragraph (1), by striking “that provides lethal military equipment to the Government of North Korea” and inserting “that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 47 of the Arms Export Control Act (22 U.S.C. 2794), if the President determines that a significant type or amount of such article or service has been so provided or received”; and
 
 | | |
 |---|---|
 | Removed | `that provides lethal military equipment to the Government of North Korea` |
-| Inserted | `that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 47 of the Arms Export Control Act (22 U.S.C. 2794)` |
+| Inserted | `that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 47 of the Arms Export Control Act (22 U.S.C. 2794), if the President determines that a significant type or amount of such article or service has been so provided or received` |
 
 ### 22 U.S.C. § 2794
 
@@ -123,7 +123,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 1701` | insert | by inserting “or Executive Order 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “… | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1701` | insert | by inserting “or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” befo… | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 9202` | redesignate | by redesignating paragraphs (5) through (14) as paragraphs (6) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 9202` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 9202` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -156,9 +156,6 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 9228` | insert | by inserting “302A, 302B,” after “209(b),” in each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 9228` | insert | by inserting “201A,” after “104,”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 9228` | insert | by inserting “302A, 302B,” after “209(b),”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 9252` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 9252` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 9252` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2708` | strike | in paragraph (9), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2708` | replace | in paragraph (10), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2914` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

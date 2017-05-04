@@ -21,8 +21,8 @@ The table of contents for this Act is as follows:
 
 - **(a)** *Amendments to definitions in the North Korea Sanctions and Policy Enhancement Act of 2016*
   - **(1)** *Applicable Executive order* Section 3(1)(A) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202(1)(A)) is amended—
-    - **(A)** by striking “or Executive Order 13694” and inserting “Executive Order 13694”; and
-    - **(B)** by inserting “or Executive Order 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “to the extent”.
+    - **(A)** by striking “or Executive Order 13694” and inserting “Executive Order No. 13694”; and
+    - **(B)** by inserting “or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “to the extent”.
   - **(2)** *Applicable United Nations Security Council resolution* Section 3(2)(A) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202(2)(A)) is amended by striking “or 2094 (2013)” and inserting “2094 (2013), 2270 (2016), or 2321 (2016)”.
   - **(3)** *Foreign person* Section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202) is amended—
     - **(A)** by redesignating paragraphs (5) through (14) as paragraphs (6) through (15), respectively; and
@@ -50,4 +50,4 @@ The table of contents for this Act is as follows:
   - **(3)** *Foreign person; North Korean person* The terms foreign person and North Korean person have the meanings given those terms, respectively, in paragraph (5) and paragraph (13) of section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202(5) and 9202(13)), as added by subsection (a).
   - **(4)** *Prohibited weapons program* The term prohibited weapons program means—
     - **(A)** any program related to the development of nuclear, chemical, or biological weapons, and their means of delivery, including ballistic missiles; and
-    - **(B)** any program to develop any related materials with respect to a program described in subparagraph (A).
+    - **(B)** any program to develop related materials with respect to a program described in subparagraph (A).
