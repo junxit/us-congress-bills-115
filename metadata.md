@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 308
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 308
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 2192) to amend the Public Health S
 
 - Rep. Collins, Doug [R-GA-9] (C001093)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2017-05-04 — [House 115-1-252](votes/house-115-1-0252.md) — On Ordering the Previous Question — **Passed** (235–193)
+- 2017-05-04 — [House 115-1-253](votes/house-115-1-0253.md) — On Agreeing to the Resolution — **Passed** (235–192)
+
 ## Actions
 
 - 2017-05-03 — Introduced in House
@@ -23,3 +32,10 @@ Providing for consideration of the bill (H.R. 2192) to amend the Public Health S
 - 2017-05-03 — Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted.
 - 2017-05-03 — The House Committee on Rules reported an original measure, H. Rept. 115-109, by Mr. Collins (GA).
 - 2017-05-03 — The House Committee on Rules reported an original measure, H. Rept. 115-109, by Mr. Collins (GA).
+- 2017-05-04 — Considered as privileged matter. (consideration: CR H4114-4138)
+- 2017-05-04 — DEBATE - The House proceeded with one hour of debate on H. Res. 308.
+- 2017-05-04 — DEBATE - The House resumed with debate on H. Res. 308.
+- 2017-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-04 — On agreeing to the resolution Agreed to by recorded vote: 235 - 192 (Roll no. 253). (text: CR H4114-4115)
+- 2017-05-04 — On ordering the previous question Agreed to by the Yeas and Nays: 235 - 193 (Roll no. 252). (consideration: CR H4137)
+- 2017-05-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 235 - 192 (Roll no. 253).(text: CR H4114-4115)
