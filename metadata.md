@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2192
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2192
@@ -16,7 +16,7 @@ To amend the Public Health Service Act to eliminate the non-application of certa
 
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Cosponsors (64)
+## Cosponsors (86)
 
 - Rep. Banks, Jim [R-IN-3] (B001299)
 - Rep. Franks, Trent [R-AZ-8] (F000448)
@@ -82,6 +82,28 @@ To amend the Public Health Service Act to eliminate the non-application of certa
 - Rep. Faso, John J. [R-NY-19] (F000464)
 - Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Smucker, Lloyd [R-PA-16] (S001199)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
 
 ## Committees (2)
 
@@ -95,3 +117,14 @@ To amend the Public Health Service Act to eliminate the non-application of certa
 - 2017-04-27 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-04-27 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-04-27 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-04-28 — Referred to the Subcommittee on Health.
+- 2017-05-03 — Rules Committee Resolution H. Res. 308 Reported to House. Rule provides for consideration of H.R. 2192 and H.R. 1628. Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted.
+- 2017-05-04 — Considered as unfinished business. (consideration: CR H4170-4171)
+- 2017-05-04 — Considered under the provisions of rule H. Res. 308. (consideration: CR H4139-4149)
+- 2017-05-04 — DEBATE - The House proceeded with one hour of debate on H.R. 2192.
+- 2017-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-04 — On passage Passed by the Yeas and Nays: 429 - 0 (Roll no. 255). (text: CR H4139)
+- 2017-05-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2192, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Burgess demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage of H.R. 2192 until later in the legislative day.
+- 2017-05-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 429 - 0 (Roll no. 255).(text: CR H4139)
+- 2017-05-04 — Rule provides for consideration of H.R. 2192 and H.R. 1628. Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted.
+- 2017-05-04 — The previous question was ordered pursuant to the rule.
