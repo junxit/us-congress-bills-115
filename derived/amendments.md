@@ -1,7 +1,7 @@
 ---
 measure: S. 585
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 5 U.S.C. § 2302
 
-> Section 110(b)(2) of the Whistleblower Protection Enhancement Act of 2012 (5 U.S.C. 2302 note) is amended by striking “section 2303(f)(1) or (2)” and inserting “section 2303(e)(1) or (2)”.
+> Section 110(b)(2) of the Whistleblower Protection Enhancement Act of 2012 (5 U.S.C. 2302 note) is amended by striking “section 2303(f)(1) 2302(f)(1) or (2)” and inserting “section 2303(e)(1) 2302(e)(1) or (2)”.
 
 | | |
 |---|---|
-| Removed | `section 2303(f)(1) or (2)` |
-| Inserted | `section 2303(e)(1) or (2)` |
+| Removed | `section 2303(f)(1) 2302(f)(1) or (2)` |
+| Inserted | `section 2303(e)(1) 2302(e)(1) or (2)` |
 
 ### 6 U.S.C. § 344
 
