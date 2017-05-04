@@ -17,7 +17,7 @@ This Act may be cited as the “Improving Support for Missing and Exploited Chil
 
 Section 402 of the Missing Children's Assistance Act (42 U.S.C. 5771) is amended—
 
-- **(1)** by amending paragraph (1) to read as follows: to read as follows:
+- **(1)** by amending paragraph (1) to read as follows:
   > - **(1)** each year tens of thousands of children run away, or are abducted or removed, from the control of a parent having legal custody without such parent's consent, under circumstances which immediately place the child in grave danger;
 
 - **(2)** by striking paragraphs (4) and (5),
@@ -39,22 +39,22 @@ Section 403 of the Missing Children's Assistance Act (42 U.S.C. 5772) is amended
 - **(1)** in paragraph (1)—
   - **(A)** by striking “legal custodian” each place it appears and inserting “parent”,
   - **(B)** in subparagraph (A) by striking “custodian’s” and inserting “parent’s”, and
-  - **(C)** in subparagraph (C) by striking the period at the end and inserting a semicolon,
-- **(2)** in paragraph (2) by striking “and” at the end and inserting a semicolon,
+  - **(C)** in subparagraph (C) by striking the period and the end and inserting a semicolon,
+- **(2)** in paragraph (2) by striking “and” at the end,
 - **(3)** in paragraph (3) by striking the period at the end and inserting “; and”, and
 - **(4)** by adding at the end the following:
   > - **(4)** the term “parent” includes a legal guardian or other individual standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or an individual who is legally responsible for the child’s welfare).
 
 ## § 4. Duties and functions of the administrator
 
-Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)) is amended—
+Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773) is amended—
 
 - **(1)** in subsection (a)—
   - **(A)** in paragraph (3) by striking “telephone line” and inserting “hotline”, and
   - **(B)** in paragraph (6)(E)—
     - **(i)** by striking “telephone line” and inserting “hotline”,
     - **(ii)** by striking “(b)(1)(A) and” and inserting “(b)(1)(A),”, and
-    - **(iii)** by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end, and
+    - **(iii)** by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end,
 - **(2)** in subsection (b)(1)—
   - **(A)** in subparagraph (A)—
     - **(i)** by striking “telephone line” each place it appears and inserting “hotline”, and
@@ -85,7 +85,7 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)) is am
 
   - **(H)** by striking subparagraph (P),
   - **(I)** by amending subparagraph (Q) to read as follows:
-    > - **(Q)** work with families, law enforcement agencies, Internet service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
+    > - **(Q)** work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
     >   - **(i)** by operating a tipline to provide to individuals and electronic service providers an effective means of reporting Internet-related and other instances of child sexual exploitation in the areas of—
     >     - **(I)** possession, manufacture, and distribution of child pornography;
     >     - **(II)** online enticement of children for sexual acts;
@@ -94,7 +94,7 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)) is am
     >     - **(V)** extra familial child sexual molestation;
     >     - **(VI)** unsolicited obscene material sent to a child;
     >     - **(VII)** misleading domain names; and
-    >     - **(VIII)** misleading words or digital images on the Internet,
+    >     - **(VIII)** misleading words or digital images on the Internet;
     >   - **(ii)** by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
     >   - **(iii)** by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
 
@@ -102,11 +102,11 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)) is am
   - **(K)** by amending subparagraphs (S) and (T) to read as follows:
     > - **(S)** develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
     >   - **(i)** the prevention of child abduction and sexual exploitation;
-    >   - **(ii)** internet safety, including tips for social media and cyberbullying; and
+    >   - **(ii)** Internet safety, including tips for social media and cyberbullying; and
     >   - **(iii)** sexting and sextortion; and
     > - **(T)** provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children.
 
-  - **(L)** by redesignating subparagraphs (G), (H), (I), (J), (K), (O), (Q), (S), and (T) as subparagraphs (E) through (M), respectively.
+  - **(L)** by redesignating subparagraphs (H), (I), (J), (K), (N), (O), (Q), (S), (T), (U), and (V) as subparagraphs (E) through (O), respectively.
 
 ## § 5. Grants
 
@@ -123,7 +123,7 @@ Section 405 of the Missing Children's Assistance Act (42 U.S.C. 5775) is amended
 
 The Missing Children’s Assistance Act (42 U.S.C. 5771 et seq.) is amended—
 
-- **(1)** by redesignating sections 407 and 408 as sections 408 and 409, respectively, and
+- **(1)** by redesignating sections 407 and 408 as section 408 and 409, respectively, and
 - **(2)** by inserting after section 406 the following:
   > ## § 407. Reporting
   >
@@ -131,7 +131,7 @@ The Missing Children’s Assistance Act (42 U.S.C. 5771 et seq.) is amended—
   >   - **(1)** the number of children nationwide who are reported to the grantee as missing;
   >   - **(2)** the number of children nationwide who are reported to the grantee as victims of non-family abductions;
   >   - **(3)** the number of children nationwide who are reported to the grantee as victims of family abductions; and
-  >   - **(4)** the number of missing and abducted children recovered nationwide whose recovery was reported to the grantee.
+  >   - **(4)** the number of missing children recovered nationwide whose recovery was reported to the grantee.
   > - **(b)** *Incidence of Attempted Child Abductions* As a condition of receiving funds under section 404(b), the grant recipient shall—
   >   - **(1)** track the incidence of attempted child abductions in order to identify links and patterns;
   >   - **(2)** provide such information to law enforcement agencies; and
