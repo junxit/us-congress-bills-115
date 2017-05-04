@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 

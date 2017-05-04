@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 534
@@ -50,3 +50,10 @@ U.S. Wants to Compete for a World Expo Act
 - 2017-05-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-05-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
+- 2017-05-04 — Message on Senate action sent to the House.
+- 2017-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-04 — Mr. Emmer asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H4172-4173)
+- 2017-05-04 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H4172-4173)
+- 2017-05-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2737-2738; text of amendment in the nature of a substitute: CR S2737)
+- 2017-05-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2737-2738; text of amendment in the nature of a substitute: CR S2737)
+- 2017-05-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H4172-4173)
