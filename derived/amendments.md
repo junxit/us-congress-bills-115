@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1809
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -449,12 +449,12 @@ to guess them.
 
 ### 42 U.S.C. § 5601
 
-> in paragraph (1), by striking “140,000,000” and all that follows through “2013”, and inserting “101,980,000 for each of fiscal years 2018 through 2022” before the period;
+> in paragraph (1), by striking “140,000,000” and all that follows through “2013”, and inserting “101,980,000 for each of the fiscal years 2018 through 2022” before the period;
 
 | | |
 |---|---|
 | Removed | `140,000,000” and all that follows through “2013` |
-| Inserted | `101,980,000 for each of fiscal years 2018 through 2022` |
+| Inserted | `101,980,000 for each of the fiscal years 2018 through 2022` |
 
 ### 42 U.S.C. § 5601
 
@@ -526,7 +526,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5632` | replace | by striking paragraphs (2) and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (i), by inserting “adolescent development,” after “concerning”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | insert | in subclause (II), by inserting “publicly supported court-appointed legal counsel with experience representing juveniles in delinquency proceedings,” after “youth,”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6311` | strike | in subclause (VII), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | replace | by striking subclause (VIII) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in clause (v) by inserting “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
