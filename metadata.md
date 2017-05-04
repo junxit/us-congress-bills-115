@@ -1,7 +1,7 @@
 ---
 measure: H.R. 534
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 534
@@ -57,3 +57,7 @@ U.S. Wants to Compete for a World Expo Act
 - 2017-05-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2737-2738; text of amendment in the nature of a substitute: CR S2737)
 - 2017-05-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2737-2738; text of amendment in the nature of a substitute: CR S2737)
 - 2017-05-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H4172-4173)
+- 2017-05-05 — Presented to President.
+- 2017-05-05 — Presented to President.
+- 2017-05-08 — Signed by President.
+- 2017-05-08 — Signed by President.
