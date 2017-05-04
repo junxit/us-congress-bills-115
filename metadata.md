@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1678
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1678
@@ -22,9 +22,10 @@ To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act con
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act con
 - 2017-05-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-05-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 250). (text: CR 5/02/2017 H3023)
 - 2017-05-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 250).(text: CR 5/02/2017 H3023)
+- 2017-05-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
