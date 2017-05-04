@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1665
@@ -26,9 +26,10 @@ Disaster Declaration Improvement Act
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Disaster Declaration Improvement Act
 - 2017-05-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-05-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 425 - 0 (Roll no. 248). (text: CR 5/02/2017 H3019)
 - 2017-05-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 425 - 0 (Roll no. 248).(text: CR 5/02/2017 H3019)
+- 2017-05-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
