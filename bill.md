@@ -1,0 +1,28 @@
+---
+legis-num: S. 1039
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1039
+
+> To indemnify local law enforcement entities for complying with valid detainers issued by immigration officers.
+
+## § 1. Statement of purpose
+
+The purpose of this Act is to ensure that States and localities do not incur costs by complying in good faith with immigration detainers issued by the Federal Government.
+
+## § 2. Federal Government costs
+
+Since immigration detainers are issued by Federal officials based upon information about an alien’s immigration status that is often only known by such officials, the Federal Government shall be responsible to pay for the costs of any legally cognizable injuries to third parties resulting from the issuance and execution of such detainers.
+
+## § 3. Indemnification for local law enforcement
+
+Section 287 of the Immigration and Nationality Act (8 U.S.C. 1357) is amended by adding at the end the following:
+
+> - **(i)** Subject to available appropriations, a State or its employee, a political subdivision of a State or its employee, or an elected official that receives a request from U.S. Immigration and Customs Enforcement to temporarily detain an alien or transport the alien to a Federal detention center shall be indemnified and held harmless by the Secretary of Homeland Security from all claims by any person that may arise from good faith compliance with such request.
+
+## § 4. Savings provision
+
+Nothing in this Act may be construed to preclude a legal cause of action.
