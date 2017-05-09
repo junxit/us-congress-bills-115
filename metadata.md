@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 267
@@ -69,3 +69,7 @@ Martin Luther King, Jr. National Historical Park Act of 2017
 - 2017-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2065)
 - 2017-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2065)
 - 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-49.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-49.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
