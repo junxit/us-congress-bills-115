@@ -1,7 +1,7 @@
 ---
 measure: S. 289
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 289
@@ -28,3 +28,7 @@ Arapaho National Forest Boundary Adjustment Act of 2017
 
 - 2017-02-02 — Introduced in Senate
 - 2017-02-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-54.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-54.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
