@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 560
@@ -38,3 +38,7 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to prov
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H717-718)
 - 2017-01-31 — Received in the Senate.
 - 2017-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-51.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-51.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
