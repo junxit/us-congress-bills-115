@@ -1,7 +1,7 @@
 ---
 measure: H.R. 699
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
