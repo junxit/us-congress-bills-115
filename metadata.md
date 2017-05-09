@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 538
@@ -40,3 +40,7 @@ Ocmulgee Mounds National Historical Park Boundary Revision Act
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 8 (Roll no. 67).(text: CR H714)
 - 2017-01-31 — Received in the Senate.
 - 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-50.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-50.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.
