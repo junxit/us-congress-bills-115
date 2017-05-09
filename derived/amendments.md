@@ -1,7 +1,7 @@
 ---
 measure: H.R. 267
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
