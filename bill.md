@@ -1,0 +1,25 @@
+---
+legis-num: S. 1074
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1074
+
+> To amend the Internal Revenue Code of 1986 to provide uniform standards for the use of electronic signatures for third-party disclosure authorizations.
+
+## § 1. Short title
+
+This Act may be cited as the “Electronic Signature Standards Act of 2017”.
+
+## § 2. Uniform standards for the use of electronic signatures for third-party disclosure authorizations
+
+Paragraph (3) of section 6061(b) of the Internal Revenue Code of 1986 is amended to read as follows:
+
+> - **(3)** *Published guidance*
+>   - **(A)** *In general* The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
+>   - **(B)** *Electronic signatures for third-party disclosure authorizations* Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of practitioner signatures of digital or other electronic form for purposes of—
+>     - **(i)** any request for disclosure of a taxpayer's return or return information under section 6103(c), and
+>     - **(ii)** any power of attorney executed by the taxpayer.
+>   - **(C)** *Practitioner* For purposes of subparagraph (B), the term practitioner means any individual in good standing who is regulated under section 330 of title 31, United States Code.
