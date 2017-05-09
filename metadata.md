@@ -1,7 +1,7 @@
 ---
 measure: H.R. 88
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 88
@@ -34,3 +34,7 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 - 2017-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1324-1325)
 - 2017-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1324-1325)
 - 2017-02-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-48.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-48.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
