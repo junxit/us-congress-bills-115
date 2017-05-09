@@ -1,7 +1,7 @@
 ---
 measure: S. 617
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 617
@@ -24,3 +24,7 @@ Lower Farmington River and Salmon Brook Wild and Scenic River Act
 
 - 2017-03-14 — Introduced in Senate
 - 2017-03-14 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-55.
+- 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-55.
+- 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 68.
