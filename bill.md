@@ -1,0 +1,23 @@
+---
+legis-num: S. 1089
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1089
+
+> To require the Secretary of Energy to review and update a report on the energy and environmental benefits of the re-refining of used lubricating oil.
+
+## § 1. Energy savings from lubricating oil
+
+Not later than 1 year after the date of enactment of this Act, the Secretary of Energy, in cooperation with the Administrator of the Environmental Protection Agency and the Director of the Office of Management and Budget, shall—
+
+- **(1)** review and update the report prepared pursuant to section 1838 of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 1142);
+- **(2)** after consultation with relevant Federal, State, and local agencies and affected industry and stakeholder groups, update data that were used in preparing that report; and
+- **(3)** prepare and submit to Congress a coordinated Federal strategy to increase the beneficial reuse of used lubricating oil that—
+  - **(A)** is consistent with the national policy established pursuant to section 2 of the Used Oil Recycling Act of 1980 (42 U.S.C. 6901a); and
+  - **(B)** addresses measures needed—
+    - **(i)** to increase the responsible collection of used oil;
+    - **(ii)** to disseminate public information concerning sustainable reuse options for used oil; and
+    - **(iii)** to promote sustainable reuse of used oil by Federal agencies, recipients of Federal grant funds, entities contracting with the Federal Government, and the general public.
