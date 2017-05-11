@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1293
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1293
@@ -25,3 +25,8 @@ To amend title 5, United States Code, to require that the Office of Personnel Ma
 - 2017-03-01 — Introduced in House
 - 2017-03-01 — Introduced in House
 - 2017-03-01 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-05-11 — Placed on the Union Calendar, Calendar No. 71.
+- 2017-05-11 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-118.
+- 2017-05-11 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-118.
