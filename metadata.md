@@ -1,7 +1,7 @@
 ---
 measure: S. 139
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 139
@@ -16,13 +16,20 @@ FISA Amendments Reauthorization Act of 2017
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (5)
+## Cosponsors (12)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -32,3 +39,8 @@ FISA Amendments Reauthorization Act of 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on the Judiciary.
+- 2017-05-03 — Committee on the Judiciary. Hearings held.
+- 2017-05-11 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2017-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
