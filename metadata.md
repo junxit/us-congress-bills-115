@@ -1,7 +1,7 @@
 ---
 measure: S. 249
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 249
@@ -20,9 +20,10 @@ A bill to provide that the pueblo of Santa Clara may lease for 99 years certain 
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to provide that the pueblo of Santa Clara may lease for 99 years certain 
 - 2017-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.
 - 2017-05-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2814; text as passed Senate: CR S2814)
 - 2017-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2814; text as passed Senate: CR S2814)
+- 2017-05-09 — Message on Senate action sent to the House.
+- 2017-05-11 — Received in the House.
+- 2017-05-11 — Referred to the House Committee on Natural Resources.
