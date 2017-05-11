@@ -17,12 +17,12 @@ This Act may be cited as the “Thin Blue Line Act”.
 
 Section 3592(c) of title 18, United States Code, is amended by inserting after paragraph (16) the following:
 
-> - **(17)** *Killing of law enforcement officer*
+> - **(17)** *Killing or targeting of law enforcement officer*
 >   - **(A)** The defendant killed or attempted to kill, in the circumstance described in subparagraph (B), a person who is authorized by law—
 >     - **(i)** to engage in or supervise the prevention, detention, investigation, or prosecution, or the incarceration of any person for any criminal violation of law;
 >     - **(ii)** to apprehend, arrest, or prosecute an individual for any criminal violation of law; or
 >     - **(iii)** to be a firefighter or other first responder.
->   - **(B)** The circumstance referred to in subparagraph (A) is that the person was killed—
+>   - **(B)** The circumstance referred to in subparagraph (A) is that the person was killed or targeted—
 >     - **(i)** while he or she was engaged in the performance of his or her official duties;
 >     - **(ii)** because of the performance of his or her official duties; or
 >     - **(iii)** because of his or her status as a public official or employee.
