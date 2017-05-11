@@ -22,7 +22,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(C)** The specific types of activities or purposes for which official time was granted, and the impact which the granting of such official time for such activities or purposes had on agency operations.
   >     - **(D)** The total number of employees to whom official time was granted, and, of that total, the number who were not engaged in any activities or purposes except activities or purposes involving the use of official time.
   >     - **(E)** The total amount of compensation (including fringe benefits) afforded to employees in connection with activities or purposes for which they were granted official time.
-  >     - **(F)** A description of any room or space designated at the agency (or its subcomponent) where official time activities will be conducted, including the square footage of any such room or space.
+  >     - **(F)** The total amount of official time spent by employees representing Federal employees who are not union members in matters authorized by this chapter.
+  >     - **(G)** A description of any room or space designated at the agency (or its subcomponent) where official time activities will be conducted, including the square footage of any such room or space.
   >   - **(3)** All information included in a report by the Office of Personnel Management under this subsection with respect to a fiscal year—
   >     - **(A)** shall be shown both agency-by-agency and for all agencies; and
   >     - **(B)** shall be accompanied by the corresponding information (submitted by the Office in its report under this subsection) for the fiscal year before the fiscal year to which such report pertains, together with appropriate comparisons and analyses.
