@@ -1,7 +1,7 @@
 ---
 measure: S. 1083
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1083
@@ -29,3 +29,7 @@ A bill to amend section 1214 of title 5, United States Code, to provide for stay
 
 - 2017-05-10 — Introduced in Senate
 - 2017-05-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-11 — Passed Senate without amendment by Unanimous Consent. (text: CR S2921)
+- 2017-05-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2921)
+- 2017-05-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2921)
+- 2017-05-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2921)
