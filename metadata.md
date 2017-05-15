@@ -1,7 +1,7 @@
 ---
 measure: S. 218
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 218
@@ -24,3 +24,7 @@ Social Security Fraud Prevention Act of 2017
 
 - 2017-01-24 — Introduced in Senate
 - 2017-01-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-03-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2017-05-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-62.
+- 2017-05-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-62.
+- 2017-05-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
