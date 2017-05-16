@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2169
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2169
@@ -30,3 +30,7 @@ Improving Fusion Centers' Access to Information Act
 - 2017-04-26 — Introduced in House
 - 2017-04-26 — Introduced in House
 - 2017-04-26 — Referred to the House Committee on Homeland Security.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-16 — Placed on the Union Calendar, Calendar No. 73.
+- 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-120.
+- 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-120.
