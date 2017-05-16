@@ -1,7 +1,7 @@
 ---
 measure: S. 139
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 139
@@ -44,3 +44,8 @@ FISA Amendments Reauthorization Act of 2017
 - 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
+- 2017-05-16 — Held at the desk.
+- 2017-05-16 — Message on Senate action sent to the House.
+- 2017-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2954-2955; text as passed Senate: CR S2954-2955)
+- 2017-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2954-2955; text as passed Senate: CR S2954-2955)
+- 2017-05-16 — Received in the House.
