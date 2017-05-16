@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1177
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1177
@@ -25,3 +25,8 @@ Removing Outdated Restrictions to Allow for Job Growth Act
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Agriculture.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-03 — Ordered to be Reported.
+- 2017-05-16 — Placed on the Union Calendar, Calendar No. 77.
+- 2017-05-16 — Reported by the Committee on Agriculture. H. Rept. 115-124.
+- 2017-05-16 — Reported by the Committee on Agriculture. H. Rept. 115-124.
