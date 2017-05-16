@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2281
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2281
@@ -33,3 +33,8 @@ Border Enforcement Security Task Force Reauthorization Act of 2017
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Referred to the House Committee on Homeland Security.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-05-16 — Placed on the Union Calendar, Calendar No. 75.
+- 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-122.
+- 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-122.
