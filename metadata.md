@@ -1,7 +1,7 @@
 ---
 measure: S. 583
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 583
@@ -56,3 +56,14 @@ American Law Enforcement Heroes Act of 2017
 - 2017-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
 - 2017-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2955; text as passed Senate: CR S2955)
 - 2017-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2955; text as passed Senate: CR S2955)
+- 2017-05-17 — Held at the desk.
+- 2017-05-17 — Message on Senate action sent to the House.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Goodlatte asked unanimous consent to take from the Speaker's table and consider. (consideration: CR H4295)
+- 2017-05-17 — On passage Passed without objection. (text: CR H4295)
+- 2017-05-17 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4295)
+- 2017-05-17 — Received in the House.
+- 2017-05-22 — Presented to President.
+- 2017-05-22 — Presented to President.
+- 2017-06-02 — Signed by President.
+- 2017-06-02 — Signed by President.
