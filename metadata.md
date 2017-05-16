@@ -1,7 +1,7 @@
 ---
 measure: S. 583
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 583
@@ -16,7 +16,7 @@ American Law Enforcement Heroes Act of 2017
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (21)
+## Cosponsors (23)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -39,6 +39,8 @@ American Law Enforcement Heroes Act of 2017
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -52,3 +54,5 @@ American Law Enforcement Heroes Act of 2017
 - 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-05-11 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
+- 2017-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2955; text as passed Senate: CR S2955)
+- 2017-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2955; text as passed Senate: CR S2955)
