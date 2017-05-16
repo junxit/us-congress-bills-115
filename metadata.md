@@ -1,7 +1,7 @@
 ---
 measure: H.R. 863
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 863
@@ -40,3 +40,10 @@ To facilitate the addition of park administration at the Coltsville National His
 - 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-70.
 - 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-70.
 - 2017-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.
+- 2017-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S8267-8269)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S8267-8269)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-29 — Presented to President.
+- 2017-12-29 — Presented to President.
+- 2018-01-10 — Signed by President.
+- 2018-01-10 — Signed by President.
