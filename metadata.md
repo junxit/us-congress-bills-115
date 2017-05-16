@@ -1,7 +1,7 @@
 ---
 measure: S. 419
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 419
@@ -55,3 +55,17 @@ Public Safety Officers' Benefits Improvement Act of 2017
 - 2017-05-16 — Senate amendment agreed to: Amendment SA 216 agreed to in Senate by Unanimous Consent.
 - 2017-05-16 — Senate amendment proposed (on the floor): Amendment SA 216 proposed by Senator Alexander for Senator Grassley.(consideration: CR S2954)
 - 2017-05-16 — Senate amendment submitted
+- 2017-05-17 — Considered under suspension of the rules. (consideration: CR H4248-4251)
+- 2017-05-17 — DEBATE - The House proceeded with forty minutes of debate on S. 419.
+- 2017-05-17 — Held at the desk.
+- 2017-05-17 — Message on Senate action sent to the House.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4248-4249)
+- 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4248-4249)
+- 2017-05-17 — Received in the House.
+- 2017-05-22 — Presented to President.
+- 2017-05-22 — Presented to President.
+- 2017-06-02 — Signed by President.
+- 2017-06-02 — Signed by President.
+- 2018-01-17 — Committee on the Judiciary. Hearings held.
