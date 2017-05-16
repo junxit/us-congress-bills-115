@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Strengthening State and Local Cyber Crime Fighting Act of 2017”.
 
-## § 2. Authorization of the National Computer Forensics Institute of the Department of Homeland Security
+## § 2. Authorization of the national computer forensics institute of the department of homeland security
 
 - **(a)** *In general* Subtitle C of title VIII of the Homeland Security Act of 2002 (6 U.S.C. 381 et seq.) is amended by adding at the end the following new section:
-  > ## § 822. National Computer Forensics institute
+  > ## § 822. National computer forensics institute
   >
-  > - **(a)** *In general* There is in the Department a National Computer Forensics Institute (in this section referred to as the “Institute”), to be operated by the United States Secret Service. The Institute shall disseminate homeland security information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.
+  > - **(a)** *In general* There is authorized for fiscal years 2017 through 2022 within the United States Secret Service a National Computer Forensics Institute (in this section referred to as the “Institute”). The Institute shall disseminate information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.
   > - **(b)** *Functions* The functions of the Institute shall include the following:
   >   - **(1)** Educating State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on current—
   >     - **(A)** cyber and electronic crimes and related threats;
@@ -29,10 +29,10 @@ This Act may be cited as the “Strengthening State and Local Cyber Crime Fighti
   >     - **(B)** conduct computer and mobile device forensic examinations; and
   >     - **(C)** respond to network intrusion incidents.
   >   - **(3)** Training State, local, tribal, and territorial law enforcement officers, prosecutors, and judges on methods to obtain, process, store, and admit digital evidence in court.
-  > - **(c)** *Principles* In carrying out the functions specified in subsection (b), the Institute shall ensure, to the extent practicable, that timely, actionable, and relevant expertise and homeland security information related to cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors.
+  > - **(c)** *Principles* In carrying out the functions specified in subsection (b), the Institute shall ensure, to the extent practicable, that timely, actionable, and relevant expertise and information related to cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors.
   > - **(d)** *Equipment* The Institute may provide State, local, tribal, and territorial law enforcement officers with computer equipment, hardware, software, manuals, and tools necessary to conduct cyber and electronic crime and related threat investigations and computer and mobile device forensic examinations.
-  > - **(e)** *Electronic Crime Task Forces* The Institute shall facilitate the expansion of the network of Electronic Crime Task Forces of the United States Secret Service through the addition of State, local, tribal, and territorial law enforcement officers educated and trained at the Institute.
-  > - **(f)** *Savings provision* All activities and functions carried out by the Institute at any location as of the day before the date of the enactment of this section are authorized to continue to be carried out at any such location on and after such date.
+  > - **(e)** *Electronic crime task forces* The Institute shall facilitate the expansion of the network of Electronic Crime Task Forces of the United States Secret Service through the addition of State, local, tribal, and territorial law enforcement officers educated and trained at the Institute.
+  > - **(f)** *Savings provision* All authorized activities and functions carried out by the Institute at any location as of the day before the date of the enactment of this section are authorized to continue to be carried out at any such location on and after such date.
 
-- **(b)** *No additional funding* No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise available for such purposes.
+- **(b)** *Funding* For each of fiscal years 2018 through 2022, amounts appropriated for United States Secret Service, Operations and Support, may be used to carry out this Act and the amendments made by this Act.
 - **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 821 the following new item:
