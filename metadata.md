@@ -1,7 +1,7 @@
 ---
 measure: S. 419
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 419
@@ -16,7 +16,7 @@ Public Safety Officers' Benefits Improvement Act of 2017
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (12)
+## Cosponsors (16)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
@@ -30,6 +30,10 @@ Public Safety Officers' Benefits Improvement Act of 2017
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -43,3 +47,11 @@ Public Safety Officers' Benefits Improvement Act of 2017
 - 2017-03-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-03-09 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.
+- 2017-05-16 — Amendment SA 216 agreed to in Senate by Unanimous Consent.
+- 2017-05-16 — Amendment SA 216 proposed by Senator Alexander for Senator Grassley. (consideration: CR S2954) In the nature of a substitute.
+- 2017-05-16 — Measure laid before Senate by unanimous consent. (consideration: CR S2954)
+- 2017-05-16 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-05-16 — Senate amendment agreed to: Amendment SA 216 agreed to in Senate by Unanimous Consent.
+- 2017-05-16 — Senate amendment proposed (on the floor): Amendment SA 216 proposed by Senator Alexander for Senator Grassley.(consideration: CR S2954)
+- 2017-05-16 — Senate amendment submitted
