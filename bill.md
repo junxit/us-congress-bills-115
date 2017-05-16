@@ -15,7 +15,7 @@ This Act may be cited as the “Anti-Border Corruption Reauthorization Act of 20
 
 ## § 2. Hiring flexibility
 
-Section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376; 6 U.S.C. 221) is amended by striking subsection (b) and inserting the following:
+Section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376; 6 U.S.C. 221) is amended by striking subsection (b) and inserting the following new subsections:
 
 > - **(b)** *Waiver authority* The Commissioner of U.S. Customs and Border Protection may waive the application of subsection (a)(1) in the following circumstances:
 >   - **(1)** In the case of a current, full-time law enforcement officer employed by a State or local law enforcement agency, if such officer—
@@ -30,7 +30,7 @@ Section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376; 6 U.S
 >     - **(D)** holds a current Tier 4 background investigation or current Tier 5 background investigation.
 >   - **(3)** In the case of an individual who is a member of the Armed Forces (or a reserve component thereof) or a veteran, if such individual—
 >     - **(A)** has served in the Armed Forces for not fewer than three years;
->     - **(B)** holds, or has held within the past five years, a Secret, Top Secret, or Top Secret/Sensitive Compartmented Information clearance;
+>     - **(B)** holds, or has held within the past five years, a Secret, Top Secret, or Top Secret / Sensitive Compartmented Information clearance;
 >     - **(C)** holds, or has undergone within the past five years, a current Tier 4 background investigation or current Tier 5 background investigation;
 >     - **(D)** received, or is eligible to receive, an honorable discharge from service in the Armed Forces and has not engaged in criminal activity or committed a serious military or civil offense under the Uniform Code of Military Justice; and
 >     - **(E)** was not granted any waivers to obtain the clearance referred to subparagraph (B).
@@ -41,12 +41,17 @@ Section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376; 6 U.S
 - **(a)** *Supplemental Commissioner authority* Section 4 of the Anti-Border Corruption Act of 2010 (Public Law 111–376) is amended to read as follows:
   > ## § 4. Supplemental Commissioner authority
   >
-  > - **(a)** *Nonexemption* An individual who receives a waiver under subsection (b) of section 3 is not exempt from other hiring requirements relating to suitability for employment and eligibility to hold a national security designated position, as determined by the Commissioner of U.S. Customs and Border Protection.
+  > - **(a)** *Non-exemption* An individual who receives a waiver under subsection (b) of section 3 is not exempt from other hiring requirements relating to suitability for employment and eligibility to hold a national security designated position, as determined by the Commissioner of U.S. Customs and Border Protection.
   > - **(b)** *Background investigations* Any individual who receives a waiver under subsection (b) of section 3 who holds a current Tier 4 background investigation shall be subject to a Tier 5 background investigation.
   > - **(c)** *Administration of polygraph examination* The Commissioner of U.S. Customs and Border Protection is authorized to administer a polygraph examination to an applicant or employee who is eligible for or receives a waiver under subsection (b) of section 3 if information is discovered prior to the completion of a background investigation that results in a determination that a polygraph examination is necessary to make a final determination regarding suitability for employment or continued employment, as the case may be.
 
-- **(b)** *Definitions* The Anti-Border Corruption Act of 2010 is amended by adding at the end the following new section:
-  > ## § 5. Definitions
+- **(b)** *Report* The Anti-Border Corruption Act of 2010 is amended by adding at the end the following new section:
+  > ## § 5. Reporting
+  >
+  > Not later than one year after the date of the enactment of this section and every year for the next four years thereafter, the Commissioner of U.S. Customs and Border Protection shall provide the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the number, disaggregated with respect to each of paragraphs (1), (2), and (3) of subsection (b) of section 3, of waivers requested, granted, and denied, and the reasons for any such denial, and the final outcome of the application for employment at issue. Such information shall also include the number of instances a polygraph examination was administered under the conditions described in subsection (c) of section 4, the result of such examination, and the final outcome of the application for employment at issue.
+
+- **(c)** *Definitions* The Anti-Border Corruption Act of 2010, as amended by subsection (b) of this section, is further amended by adding at the end the following new section:
+  > ## § 6. Definitions
   >
   > In this Act:
   >
@@ -54,5 +59,5 @@ Section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376; 6 U.S
   > - **(2)** *Veteran* The term “veteran” has the meaning given such term in section 101(2) of title 38, United States Code.
   > - **(3)** *Serious military or civil offense* The term “serious military or civil offense” means an offense for which—
   >   - **(A)** a member of the Armed Forces may be discharged or separated from service in the Armed Forces; and
-  >   - **(B)** a punitive discharge is, or would be, authorized for the same or a closely related offense under the Manual for Court-Martial, as pursuant to Army Regulation 635–200 chapter 14–12.
+  >   - **(B)** a punitive discharge is, or would be, authorized for the same or a closely related offense under the Manual for Court-Martial, as pursuant to Army Regulation 635-200 chapter 14-12.
   > - **(4)** *Tier 4; Tier 5* The terms “Tier 4” and “Tier 5” with respect to background investigations have the meaning given such terms under the 2012 Federal Investigative Standards.
