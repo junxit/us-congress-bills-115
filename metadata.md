@@ -1,7 +1,7 @@
 ---
 measure: H.R. 698
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 698
@@ -42,3 +42,12 @@ Elkhorn Ranch and White River National Forest Conveyance Act of 2017
 - 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-69.
 - 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-69.
 - 2017-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2018-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6259)
+- 2018-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6259)
+- 2018-09-20 — Message on Senate action sent to the House.
+- 2018-09-25 — Presented to President.
+- 2018-09-25 — Presented to President.
+- 2018-10-03 — Became Public Law No: 115-252.
+- 2018-10-03 — Became Public Law No: 115-252.
+- 2018-10-03 — Signed by President.
+- 2018-10-03 — Signed by President.
