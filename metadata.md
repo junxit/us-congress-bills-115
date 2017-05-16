@@ -1,7 +1,7 @@
 ---
 measure: S. 502
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 502
@@ -28,3 +28,7 @@ A bill to modify the boundary of Voyageurs National Park in the State of Minneso
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-64.
+- 2017-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-64.
+- 2017-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.
