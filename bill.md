@@ -22,6 +22,7 @@ Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   - **(A)** by inserting “(1)” before “In making”; and
   - **(B)** by adding at the end the following:
     > - **(2)** In making a determination under section 1201, the Bureau shall give substantial weight to the evidence and all findings of fact presented by a State, local, or Federal administrative or investigative agency regarding eligibility for death or disability benefits.
+    > - **(3)** If the head of a State, local, or Federal administrative or investigative agency, in consultation with the principal legal officer of the agency, provides a certification of facts regarding eligibility for death or disability benefits, the Bureau shall adopt the factual findings, if the factual findings are supported by substantial evidence.
 
 - **(3)** by adding at the end the following:
   > - **(e)**
@@ -35,28 +36,26 @@ Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   >         - **(III)** an anonymized, identifying claim number; and
   >         - **(IV)** the nature of the claim; and
   >       - **(ii)** the total number of pending claims that were submitted to the Bureau more than 1 year before the date on which the information is made available.
-  >   - **(2)**
-  >     - **(A)** Not later than 180 days after the date of enactment of this subsection, and every 180 days thereafter, the Bureau shall submit to Congress a report on the death, disability, and educational assistance claims submitted under this part.
-  >     - **(B)** Each report submitted under subparagraph (A) shall include information on—
-  >       - **(i)** the total number of claims for which a final determination has been made during the 180-day period preceding the report;
-  >       - **(ii)** the amount of time required to process each claim for which a final determination has been made during the 180-day period preceding the report;
-  >       - **(iii)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date for which a final determination has not been made;
-  >       - **(iv)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date for which a final determination has not been made;
-  >       - **(v)** for each claim described in clause (iv), a detailed description of the basis for delay;
-  >       - **(vi)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
-  >       - **(vii)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
-  >       - **(viii)** for each claim described in clause (vii), a detailed description of the basis for delay;
-  >       - **(ix)** the total number of claims submitted to the Bureau relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination was made during the 180-day period preceding the report, and the average award amount for any such claims that were approved;
-  >       - **(x)** the result of each claim for which a final determination was made during the 180-day period preceding the report, including the number of claims rejected and the basis for any denial of benefits;
-  >       - **(xi)** the number of final determinations which were appealed during the 180-day period preceding the report, regardless of when the final determination was first made;
-  >       - **(xii)** the average number of claims processed per reviewer of the Bureau during the 180-day period preceding the report;
-  >       - **(xiii)** for any claim submitted to the Bureau that required the submission of additional information from a public agency, and for which the public agency completed providing all of the required information during the 180-day period preceding the report, the average length of the period beginning on the date the public agency was contacted by the Bureau and ending on the date on which the public agency submitted all required information to the Bureau;
-  >       - **(xiv)** for any claim submitted to the Bureau for which the Bureau issued a subpoena to a public agency during the 180-day period preceding the report in order to obtain information or documentation necessary to determine the claim, the name of the public agency, the date on which the subpoena was issued, and the dates on which the public agency was contacted by the Bureau before the issuance of the subpoena; and
-  >       - **(xv)** information on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3), including—
-  >         - **(I)** the number of claims that are eligible for compensation under both this part and the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101 note; Public Law 107–42) (commonly referred to as the “VCF”);
-  >         - **(II)** for each claim described in subclause (I) for which compensation has been paid under the VCF, the amount of compensation paid under the VCF;
-  >         - **(III)** the number of claims described in subclause (I) for which the Bureau has made a final determination; and
-  >         - **(IV)** the number of claims described in subclause (I) for which the Bureau has not made a final determination.
+  >   - **(2)** Not later than 180 days after the date of enactment of this subsection, the Bureau shall publish on the public website of the Bureau a report, and shall update such report on such website not less than once every 180 days thereafter, containing—
+  >     - **(A)** the total number of claims for which a final determination has been made during the 180-day period preceding the report;
+  >     - **(B)** the amount of time required to process each claim for which a final determination has been made during the 180-day period preceding the report;
+  >     - **(C)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date for which a final determination has not been made;
+  >     - **(D)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date for which a final determination has not been made;
+  >     - **(E)** for each claim described in subparagraph (D), a detailed description of the basis for delay;
+  >     - **(F)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
+  >     - **(G)** as of the last day of the 180-day period preceding the report, the total number of claims submitted to the Bureau on or before the date that is 1 year before that date relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination has not been made;
+  >     - **(H)** for each claim described in subparagraph (G), a detailed description of the basis for delay;
+  >     - **(I)** the total number of claims submitted to the Bureau relating to exposure due to the September 11th, 2001, terrorism attacks for which a final determination was made during the 180-day period preceding the report, and the average award amount for any such claims that were approved;
+  >     - **(J)** the result of each claim for which a final determination was made during the 180-day period preceding the report, including the number of claims rejected and the basis for any denial of benefits;
+  >     - **(K)** the number of final determinations which were appealed during the 180-day period preceding the report, regardless of when the final determination was first made;
+  >     - **(L)** the average number of claims processed per reviewer of the Bureau during the 180-day period preceding the report;
+  >     - **(M)** for any claim submitted to the Bureau that required the submission of additional information from a public agency, and for which the public agency completed providing all of the required information during the 180-day period preceding the report, the average length of the period beginning on the date the public agency was contacted by the Bureau and ending on the date on which the public agency submitted all required information to the Bureau;
+  >     - **(N)** for any claim submitted to the Bureau for which the Bureau issued a subpoena to a public agency during the 180-day period preceding the report in order to obtain information or documentation necessary to determine the claim, the name of the public agency, the date on which the subpoena was issued, and the dates on which the public agency was contacted by the Bureau before the issuance of the subpoena; and
+  >     - **(O)** information on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3), including—
+  >       - **(i)** the number of claims that are eligible for compensation under both this part and the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101 note; Public Law 107–42) (commonly referred to as the “VCF”);
+  >       - **(ii)** for each claim described in clause (i) for which compensation has been paid under the VCF, the amount of compensation paid under the VCF;
+  >       - **(iii)** the number of claims described in clause (i) for which the Bureau has made a final determination; and
+  >       - **(iv)** the number of claims described in clause (i) for which the Bureau has not made a final determination.
   >   - **(3)** Not later than 2 years after the date of enactment of this subsection, and 2 years thereafter, the Comptroller General of the United States shall—
   >     - **(A)** conduct a study on the compliance of the Bureau with the obligation to offset award amounts under section 1201(f)(3); and
   >     - **(B)** submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) of paragraph (2) of this subsection in each report required under that paragraph.
@@ -88,7 +87,7 @@ Subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act
 > ## § 1206. Due diligence in paying benefit claims
 >
 > - **(a)** *In general* The Bureau, with all due diligence, shall expeditiously attempt to obtain the information and documentation necessary to adjudicate a benefit claim filed under this part, including a claim for financial assistance under subpart 2.
-> - **(b)** *Sufficient information unavailable* If a benefit claim filed under this part, including a claim for financial assistance under subpart 2, is unable to be adjudicated by the Bureau because of a lack of information or documentation from a third party, such as a public agency, the Bureau may not abandon the benefit claim unless the Bureau has utilized the investigative tools available to the Bureau to obtain the necessary information or documentation, including subpoenas.
+> - **(b)** *Sufficient information unavailable* If a benefit claim filed under this part, including a claim for financial assistance under subpart 2, is unable to be adjudicated by the Bureau because of a lack of information or documentation from a third party, such as a public agency, and such information is not readily available to the claimant, the Bureau may not abandon the benefit claim unless the Bureau has utilized the investigative tools available to the Bureau to obtain the necessary information or documentation, including subpoenas.
 
 ## § 5. Presumption that officer acted properly
 
@@ -98,9 +97,9 @@ Section 1202 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   > - **(a)** *In general* No benefit
 
 - **(2)** by adding at the end the following:
-  > - **(b)** *Presumption* In determining whether a benefit is payable under this part, the Bureau shall—
-  >   - **(1)** presume that none of the limitations described in subsection (a) apply; and
-  >   - **(2)** have the burden of establishing by clear and convincing evidence that a limitation described in subsection (a) applies.
+  > - **(b)** *Presumption* In determining whether a benefit is payable under this part, the Bureau—
+  >   - **(1)** shall presume that none of the limitations described in subsection (a) apply; and
+  >   - **(2)** shall not determine that a limitation described in subsection (a) applies, absent clear and convincing evidence.
 
 ## § 6. Effective date; applicability
 
