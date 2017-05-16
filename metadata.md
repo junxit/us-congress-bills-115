@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 22
@@ -22,7 +22,15 @@ A joint resolution granting the consent and approval of Congress to the Commonwe
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 
+## Committees (1)
+
+- Senate — Judiciary Committee
+
 ## Actions
 
 - 2017-02-15 — Introduced in Senate
 - 2017-02-15 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1220)
+- 2017-05-16 — Passed Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2956-2959)
+- 2017-05-16 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2956-2959)
+- 2017-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2955-2959)
+- 2017-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2955-2959)
