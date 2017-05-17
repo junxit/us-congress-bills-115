@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1616
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1616
@@ -37,10 +37,11 @@ Strengthening State and Local Cyber Crime Fighting Act of 2017
 - Rep. Roby, Martha [R-AL-2] (R000591)
 - Rep. Trott, David A. [R-MI-11] (T000475)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Strengthening State and Local Cyber Crime Fighting Act of 2017
 - 2017-05-16 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2017-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 258). (text: CR H4206)
 - 2017-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 258).(text: CR H4206)
+- 2017-05-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
