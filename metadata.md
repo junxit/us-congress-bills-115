@@ -1,7 +1,7 @@
 ---
 measure: H.R. 510
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 510
@@ -66,3 +66,12 @@ Rapid DNA Act of 2017
 - 2017-05-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4204)
 - 2017-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4204)
 - 2017-05-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4695)
+- 2017-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-07 — Presented to President.
+- 2017-08-07 — Presented to President.
+- 2017-08-18 — Signed by President.
+- 2017-08-18 — Signed by President.
