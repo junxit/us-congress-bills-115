@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1677
@@ -151,3 +151,9 @@ Caesar Syria Civilian Protection Act of 2018
 - 2017-05-11 — Placed on the Union Calendar, Calendar No. 68.
 - 2017-05-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-115, Part I.
 - 2017-05-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-115, Part I.
+- 2017-05-17 — Considered under suspension of the rules. (consideration: CR H4281-4291)
+- 2017-05-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1677.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4281-4286)
+- 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4281-4286)
