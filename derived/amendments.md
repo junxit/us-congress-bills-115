@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2281
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 6 U.S.C. § 240
 
-> in the matter preceding subparagraph (A), by striking “the Secretary shall consider” and inserting “the Secretary shall apply risk-based criteria that takes into consideration”; and
+> in the matter preceding subparagraph (A), by striking “the Secretary shall consider” and inserting “the Secretary shall apply risk-based criteria that takes into consideration”;
 
 | | |
 |---|---|
@@ -44,7 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `6 U.S.C. § 240` | insert | in subparagraph (A), by inserting before the semicolon the following: “, including threats posed by transnational criminal organizations”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 240` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 240` | replace | in subparagraph (D), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 240` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 240` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 240` | add-at-end | Subsection (c) of section 432 of the Homeland Security Act of 2002 (6 U.S.C. 240) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 240` | amend | Subsection (e) of section 432 of the Homeland Security Act of 2002 (6 U.S.C. 240) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
