@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -40,5 +40,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the item relating to the eastern district of North Carolina by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to the district of Puerto Rico by striking “2” and inserting “4”; and | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to the eastern district of Virginia by striking “5” and inserting “6” . | the bill names no machine-readable US Code section |
-| — | replace | by striking “(6) In” and inserting “(6)(A) Except as provided in subparagraph (B), in”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(6) In” and inserting “(6)(A) Except as provided in subparagraph (B), in”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
