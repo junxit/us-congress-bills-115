@@ -1,7 +1,7 @@
 ---
 measure: H.R. 510
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 510
@@ -43,9 +43,10 @@ Rapid DNA Act of 2017
 - Rep. Collins, Doug [R-GA-9] (C001093)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Rapid DNA Act of 2017
 - 2017-05-16 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2017-05-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4204)
 - 2017-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4204)
+- 2017-05-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
