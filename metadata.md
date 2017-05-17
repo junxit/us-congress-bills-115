@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2281
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2281
@@ -38,3 +38,9 @@ Border Enforcement Security Task Force Reauthorization Act of 2017
 - 2017-05-16 — Placed on the Union Calendar, Calendar No. 75.
 - 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-122.
 - 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-122.
+- 2017-05-17 — Considered under suspension of the rules. (consideration: CR H4271-4273)
+- 2017-05-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2281.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4271)
+- 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4271)
