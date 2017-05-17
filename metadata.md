@@ -1,7 +1,7 @@
 ---
 measure: S. 867
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 867
@@ -33,9 +33,10 @@ Law Enforcement Mental Health and Wellness Act of 2017
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Law Enforcement Mental Health and Wellness Act of 2017
 - 2017-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2955)
 - 2017-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2955)
 - 2017-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2955)
+- 2017-05-17 — Message on Senate action sent to the House.
+- 2017-05-17 — Received in the House.
+- 2017-05-17 — Referred to the House Committee on the Judiciary.
