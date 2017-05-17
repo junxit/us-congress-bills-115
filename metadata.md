@@ -1,7 +1,7 @@
 ---
 measure: S. 675
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 675
@@ -30,3 +30,8 @@ Long Island Sound Restoration and Stewardship Act
 
 - 2017-03-21 — Introduced in Senate
 - 2017-03-21 — Read twice and referred to the Committee on Environment and Public Works.
+- 2017-03-28 — Committee on Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife. Hearings held. With printed Hearing: S.Hrg. 115-12.
+- 2017-04-05 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-72.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-72.
+- 2017-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 90.
