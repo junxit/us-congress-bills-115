@@ -46,7 +46,7 @@ It is the sense of Congress that—
 
 Paragraph (1) of section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6412) is amended by adding at the end the following new subparagraph:
 
-> - **(G)** *Anti-Semitism in Europe* In addition to the information required under clause (iv) of subparagraph (A), with respect to each European country in which verbal or physical threats or attacks are particularly significant against Jewish persons, places of worship, schools, cemeteries, and other religious institutions, a description of—
+> - **(G)** *Anti-Semitism in Europe* In addition to the information required under clause (vii) of subparagraph (A), with respect to each European country in which verbal or physical threats or attacks are particularly significant against Jewish persons, places of worship, schools, cemeteries, and other religious institutions, a description of—
 >   - **(i)** the security challenges and needs of European Jewish communities and European law enforcement agencies in such countries to better protect such communities;
 >   - **(ii)** to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
 >   - **(iii)** European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
