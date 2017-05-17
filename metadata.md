@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2169
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2169
@@ -34,3 +34,9 @@ Improving Fusion Centers' Access to Information Act
 - 2017-05-16 — Placed on the Union Calendar, Calendar No. 73.
 - 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-120.
 - 2017-05-16 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-120.
+- 2017-05-17 — Considered under suspension of the rules. (consideration: CR H4269-4271)
+- 2017-05-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2169.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4269)
+- 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4269)
