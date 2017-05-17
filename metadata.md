@@ -1,7 +1,7 @@
 ---
 measure: S. 826
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 826
@@ -32,3 +32,7 @@ WILD Act
 
 - 2017-04-04 — Introduced in Senate
 - 2017-04-04 — Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S2217)
+- 2017-04-05 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-73.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-73.
+- 2017-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
