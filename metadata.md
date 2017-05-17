@@ -1,7 +1,7 @@
 ---
 measure: S. 831
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 831
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2017-04-05 — Introduced in Senate
 - 2017-04-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2017-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.
