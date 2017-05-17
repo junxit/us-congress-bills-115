@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2154
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2154
@@ -30,3 +30,9 @@ To rename the Red River Valley Agricultural Research Center in Fargo, North Dako
 - 2017-05-16 — Placed on the House Calendar, Calendar No. 48.
 - 2017-05-16 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-125.
 - 2017-05-16 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-125.
+- 2017-05-17 — Considered under suspension of the rules. (consideration: CR H4274-4275)
+- 2017-05-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2154.
+- 2017-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-17 — Mr. Davis, Rodney moved to suspend the rules and pass the bill, as amended.
+- 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4274)
+- 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4274)
