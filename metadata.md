@@ -1,7 +1,7 @@
 ---
 measure: S. 518
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 518
@@ -16,7 +16,7 @@ Small and Rural Community Clean Water Technical Assistance Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -29,6 +29,8 @@ Small and Rural Community Clean Water Technical Assistance Act
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -38,3 +40,8 @@ Small and Rural Community Clean Water Technical Assistance Act
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Environment and Public Works.
+- 2017-03-28 — Committee on Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife. Hearings held. With printed Hearing: S.Hrg. 115-12.
+- 2017-04-05 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-71.
+- 2017-05-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-71.
+- 2017-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.
