@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 It is the sense of Congress that—
 
-- **(1)** Bashar al-Assad’s murderous actions against the people of Syria have directly contributed to the deaths of more than 480,000 civilians, led to the destruction of more than 50 percent of Syria’s critical infrastructure, and forced the displacement of more than 14,000,000 people, precipitating one of the worst humanitarian crises in more than 60 years;
+- **(1)** Bashar al-Assad’s murderous actions against the people of Syria have directly contributed to the deaths of more than 480,000 civilians, led to the destruction of more than 50 percent of Syria’s critical infrastructure, and forced the displacement of more than 14 million people, precipitating one of the worst humanitarian crises in more than 60 years;
 - **(2)** international actions to protect vulnerable populations from attack by uniformed and irregular forces associated with the Assad regime, including Hezbollah, on land and by air, including through the use of barrel bombs, chemical weapons, mass starvation, industrial-scale torture and execution of political dissidents, sniper attacks against pregnant women, and the deliberate targeting of medical facilities, schools, residential areas, and community gathering places, including markets, have been insufficient to date;
 - **(3)** Assad’s use of chemical weapons, including chlorine, against the Syrian people violates the Chemical Weapons Convention, to which Syria is a party;
 - **(4)** Assad’s abhorrent use of chemical weapons, most recently on April 4, 2017, in an attack on the town of Khan Shakhyn in which more than 90 people died, including women and children, and more than 600 hundred people were injured, is condemned in the strongest terms;
