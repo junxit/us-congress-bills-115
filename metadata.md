@@ -1,0 +1,93 @@
+---
+measure: S.Res. 173
+congress: 115
+version: Agreed to Senate
+---
+
+# S.Res. 173
+
+A resolution designating the week of May 15 through May 21, 2017, as "National Police Week".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Grassley, Chuck [R-IA] (G000386)
+
+## Cosponsors (67)
+
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Heller, Dean [R-NV] (H001041)
+
+## Actions
+
+- 2017-05-18 — Introduced in Senate
+- 2017-05-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S3048; text as passed Senate: CR S3045-3046)
+- 2017-05-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3048; text as passed Senate: CR S3045-3046)
