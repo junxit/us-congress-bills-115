@@ -1,7 +1,7 @@
 ---
 measure: H.R. 672
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 672
@@ -53,9 +53,10 @@ Combating European Anti-Semitism Act of 2017
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Combating European Anti-Semitism Act of 2017
 - 2017-05-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4275-4276)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4275-4276)
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
