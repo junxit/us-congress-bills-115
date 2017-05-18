@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1677
@@ -127,11 +127,12 @@ Caesar Syria Civilian Protection Act of 2018
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 - Rep. Byrne, Bradley [R-AL-1] (B001289)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -157,3 +158,4 @@ Caesar Syria Civilian Protection Act of 2018
 - 2017-05-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4281-4286)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4281-4286)
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
