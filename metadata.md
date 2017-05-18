@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1177
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1177
@@ -16,9 +16,10 @@ Removing Outdated Restrictions to Allow for Job Growth Act
 
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Removing Outdated Restrictions to Allow for Job Growth Act
 - 2017-05-17 — Mr. Davis, Rodney moved to suspend the rules and pass the bill.
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 262). (text: CR H4273)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 262).(text: CR H4273)
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
