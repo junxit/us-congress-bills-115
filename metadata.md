@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 195
@@ -16,10 +16,11 @@ Making further continuing appropriations for the fiscal year ending September 30
 
 - Rep. Russell, Steve [R-OK-5] (R000604)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2017-05-17 — Placed on the Union Calendar, Calendar No. 78.
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-128, Part I.
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-128, Part I.
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
