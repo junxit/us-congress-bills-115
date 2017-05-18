@@ -1,7 +1,7 @@
 ---
 measure: H.R. 672
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 672
@@ -74,3 +74,14 @@ Combating European Anti-Semitism Act of 2017
 - 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4275-4276)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4275-4276)
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S8041)
+- 2018-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S8041)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-14 — Became Public Law No: 115-434.
+- 2019-01-14 — Became Public Law No: 115-434.
+- 2019-01-14 — Signed by President.
+- 2019-01-14 — Signed by President.
