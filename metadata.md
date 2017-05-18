@@ -1,7 +1,7 @@
 ---
 measure: H.R. 115
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 115
@@ -44,6 +44,10 @@ Thin Blue Line Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2017-05-18 — [House 115-1-265](votes/house-115-1-0265.md) — On Passage — **Passed** (271–143)
+
 ## Actions
 
 - 2017-01-03 — Introduced in House
@@ -55,3 +59,15 @@ Thin Blue Line Act
 - 2017-05-11 — Placed on the Union Calendar, Calendar No. 69.
 - 2017-05-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-116.
 - 2017-05-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-116.
+- 2017-05-16 — Rules Committee Resolution H. Res. 323 Reported to House. Rule provides for consideration of H.R. 115 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-17 shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2017-05-17 — Rule H. Res. 323 passed House.
+- 2017-05-18 — Considered as unfinished business. (consideration: CR H4341)
+- 2017-05-18 — Considered under the provisions of rule H. Res. 323. (consideration: CR H4332-4340)
+- 2017-05-18 — DEBATE - The House proceeded with one hour of debate on H.R. 115.
+- 2017-05-18 — House amendment offered
+- 2017-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-18 — On passage Passed by the Yeas and Nays: 271 - 143 (Roll no. 265). (text: CR H4333)
+- 2017-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 115, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Conyers demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.
+- 2017-05-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 271 - 143 (Roll no. 265).(text: CR H4333)
+- 2017-05-18 — Rule provides for consideration of H.R. 115 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-17 shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2017-05-18 — The previous question was ordered pursuant to the rule.
