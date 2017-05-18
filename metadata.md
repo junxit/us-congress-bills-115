@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1177
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1177
@@ -44,3 +44,14 @@ Removing Outdated Restrictions to Allow for Job Growth Act
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 262). (text: CR H4273)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 262).(text: CR H4273)
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2018-03-08 — Passed Senate without amendment by Unanimous Consent.
+- 2018-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-03-08 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S1615)
+- 2018-03-08 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S1615)
+- 2018-03-09 — Message on Senate action sent to the House.
+- 2018-03-15 — Presented to President.
+- 2018-03-15 — Presented to President.
+- 2018-03-26 — Became Public Law No: 115-156.
+- 2018-03-26 — Became Public Law No: 115-156.
+- 2018-03-26 — Signed by President.
+- 2018-03-26 — Signed by President.
