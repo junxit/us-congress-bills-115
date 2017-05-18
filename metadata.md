@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2266
@@ -27,9 +27,10 @@ Additional Supplemental Appropriations for Disaster Relief Requirements Act, 201
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Additional Supplemental Appropriations for Disaster Relief Requirements Act, 201
 - 2017-05-17 — Placed on the Union Calendar, Calendar No. 80.
 - 2017-05-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-130.
 - 2017-05-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-130.
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
