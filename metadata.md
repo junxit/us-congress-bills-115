@@ -1,7 +1,7 @@
 ---
 measure: H.R. 984
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 984
@@ -24,9 +24,10 @@ Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017
 - Rep. Taylor, Scott [R-VA-2] (T000477)
 - Rep. McEachin, A. Donald [D-VA-4] (M001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017
 - 2017-05-17 — Mr. Wittman moved to suspend the rules and pass the bill.
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4251-4257)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4251-4257)
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
