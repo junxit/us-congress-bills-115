@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2227
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2227
@@ -37,10 +37,11 @@ Modernizing Government Technology Act of 2017
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 
-## Committees (2)
+## Committees (3)
 
 - House — Appropriations Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Modernizing Government Technology Act of 2017
 - 2017-05-17 — Placed on the Union Calendar, Calendar No. 79.
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-129, Part I.
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-129, Part I.
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
