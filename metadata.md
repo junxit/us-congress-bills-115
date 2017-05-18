@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1892
@@ -49,3 +49,11 @@ Bipartisan Budget Act of 2018
 - 2017-05-15 — Placed on the Union Calendar, Calendar No. 72.
 - 2017-05-15 — Reported by the Committee on Judiciary. H. Rept. 115-119.
 - 2017-05-15 — Reported by the Committee on Judiciary. H. Rept. 115-119.
+- 2017-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-05-16 — Considered under suspension of the rules. (consideration: CR H4208-4210)
+- 2017-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1892.
+- 2017-05-16 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2017-05-18 — Considered as unfinished business. (consideration: CR H4341-4342)
+- 2017-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 266). (text: CR 5/16/2017 H4208)
+- 2017-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 266).(text: CR 5/16/2017 H4208)
