@@ -1,7 +1,7 @@
 ---
 measure: H.R. 653
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 653
@@ -22,9 +22,10 @@ Federal Intern Protection Act of 2017
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Federal Intern Protection Act of 2017
 - 2017-05-17 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4268)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4268)
+- 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
