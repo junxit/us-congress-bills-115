@@ -1,7 +1,7 @@
 ---
 measure: H.R. 984
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 984
@@ -44,3 +44,15 @@ Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4251-4257)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4251-4257)
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2017-09-13 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-01-11 — Passed Senate without amendment by Voice Vote.
+- 2018-01-11 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-01-11 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S153)
+- 2018-01-11 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S153)
+- 2018-01-12 — Message on Senate action sent to the House.
+- 2018-01-17 — Presented to President.
+- 2018-01-17 — Presented to President.
+- 2018-01-29 — Became Public Law No: 115-121.
+- 2018-01-29 — Became Public Law No: 115-121.
+- 2018-01-29 — Signed by President.
+- 2018-01-29 — Signed by President.
