@@ -127,7 +127,7 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
     > - **(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
 
 - **(d)** *Retaliatory investigations* Section 1214 of title 5, United States Code, is amended by adding at the end the following:
-  > - **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), even if no personnel action, as defined in section 2302(a)(2)(A), is taken or not taken.
+  > - **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), even if no without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken or not taken.
 
 ## § 5. Suicide by employees
 
@@ -161,7 +161,7 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
     >     - **(A)** principles for the protection of whistleblowers, such as the degree to which supervisory employees—
     >       - **(i)** respond constructively when employees of the agency make disclosures described in subparagraph (A) or (B) of section 2302(b)(8);
     >       - **(ii)** take responsible actions to resolve the disclosures described in clause (i); and
-    >       - **(iii)** foster an environment in which employees of the agency feel comfortable making disclosures described in subparagraph (A) to supervisory employees or other appropriate authorities; and
+    >       - **(iii)** foster an environment in which employees of the agency feel comfortable making disclosures described in subparagraph (A) clause (i) to supervisory employees or other appropriate authorities; and
     >     - **(B)** for each supervisory employee—
     >       - **(i)** whether the agency entered into an agreement with an individual who alleged that the supervisory employee committed a prohibited personnel practice; and
     >       - **(ii)** if the agency entered into an agreement described in clause (i), the number of instances in which the agency entered into such an agreement with respect to the supervisory employee.
@@ -226,7 +226,7 @@ Section 1214(a) of title 5, United States Code, is amended—
 - **(1)** in paragraph (1)(D), in the first sentence, by inserting “, other than a termination of an investigation described in paragraph (6)(A),” after “investigation of a prohibited personnel practice”; and
 - **(2)** by adding at the end the following:
   > - **(6)**
-  >   - **(A)** Not later than 30 days after receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry or an opportunity for the individual who submitted the allegation to respond if the Special Counsel determines that—
+  >   - **(A)** Not later Notwithstanding any other provision of this section, not later than 30 days after receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry or an opportunity for the individual who submitted the allegation to respond if the Special Counsel determines that—
   >     - **(i)** the same allegation, based on the same set of facts and circumstances had previously been—
   >       - **(I)**
   >         - **(aa)** made by the individual; and
@@ -269,7 +269,7 @@ Section 1212 of title 5, United States Code, is amended by adding at the end the
   > - **(10)** the number of prohibited personnel practice complaints that resulted in a favorable action for the complainant, other than a stay or an extension of a stay, organized by actions in—
   >   - **(A)** complaints dealing with reprisals against whistleblowers; and
   >   - **(B)** all other complaints; and
-  > - **(11)** the number of prohibited personnel practice complaints that were resolved by an agreement between an agency and an individual, organized by agency and agency components in—
+  > - **(11)** the number of prohibited personnel practice complaints that were resolved by an agreement between an agency and an individual, organized by agency and agency components, in—
   >   - **(A)** complaints dealing with reprisals against whistleblowers; and
   >   - **(B)** all other complaints;
   > - **(12)** the number of corrective actions that the Special Counsel required an agency to take after a finding by the Special Counsel of a prohibited personnel practice, as defined in section 2302(a)(1); and
