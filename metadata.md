@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1726
@@ -29,3 +29,10 @@ Coast Guard Improvement and Reform Act of 2017
 - 2017-03-27 — Introduced in House
 - 2017-03-27 — Introduced in House
 - 2017-03-27 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-03-28 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2017-03-29 — Committee Consideration and Mark-up Session Held.
+- 2017-03-29 — Ordered to be Reported by Voice Vote.
+- 2017-03-29 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2017-05-18 — Placed on the Union Calendar, Calendar No. 81.
+- 2017-05-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-132.
+- 2017-05-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-132.
