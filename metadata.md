@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2288
@@ -16,7 +16,7 @@ Veterans Appeals Improvement and Modernization Act of 2017
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Cosponsors (24)
+## Cosponsors (26)
 
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -42,6 +42,8 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - Rep. Banks, Jim [R-IN-3] (B001299)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
 ## Committees (1)
 
@@ -52,3 +54,8 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Referred to the House Committee on Veterans' Affairs.
+- 2017-05-17 — Committee Consideration and Mark-up Session Held.
+- 2017-05-17 — Ordered to be Reported by Voice Vote.
+- 2017-05-19 — Placed on the Union Calendar, Calendar No. 84.
+- 2017-05-19 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-135.
+- 2017-05-19 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-135.
