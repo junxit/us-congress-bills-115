@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1188
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 6 executed, 15 stated and not applied.
+23 amendatory instructions. 5 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 16941
-
-> Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended by striking “such sums as may be necessary for fiscal years 2007 through 2009” and inserting “to the United States Marshals Service not less than $66,300,000 for each of the fiscal years 2018 through 2022”.
-
-| | |
-|---|---|
-| Removed | `such sums as may be necessary for fiscal years 2007 through 2009` |
-| Inserted | `to the United States Marshals Service not less than $66,300,000 for each of the fiscal years 2018 through 2022` |
 
 ### 42 U.S.C. § 16915
 
@@ -88,6 +79,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 16926` | amend | Section 126(d) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16926(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16941` | amend | Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16918` | strike | by striking “and” after the semicolon in paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16918` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16918` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -102,3 +94,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “ends” before the period at the end. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 16916` | replace | by striking “A sex offender shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16916` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16911` | insert | Section 111(8) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(8)) is amended by inserting “subsection (a) or (b) of” before “section 2241 of title 18, United States Code”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Section 634(c) of the Adam Walsh Child Protection and Safety Act of 2006 is amended by adding at the end the following: | the bill names no machine-readable US Code section |

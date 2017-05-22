@@ -21,7 +21,9 @@ Section 126(d) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S
 
 ## § 3. Reauthorization of Federal assistance with respect to violations of registration requirements
 
-Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended by striking “such sums as may be necessary for fiscal years 2007 through 2009” and inserting “to the United States Marshals Service not less than $66,300,000 for each of the fiscal years 2018 through 2022”.
+Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended to read as follows:
+
+> - **(b)** For each of fiscal years 2018 through 2022, of amounts made available to the United States Marshals Service, not less than $60,000,000 shall be available to carry out this section.
 
 ## § 4. Duration of sex offender registration requirements for certain juveniles
 
@@ -61,9 +63,8 @@ Section 635 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C.
   > - **(6)** the number of sex offenders registered in the National Sex Offender Registry;
   > - **(7)** the number of sex offenders registered in the National Sex Offender Registry who—
   >   - **(A)** are adults;
-  >   - **(B)** are juveniles;
+  >   - **(B)** are juveniles; and
   >   - **(C)** are adults, but who are required to register as a result of conduct committed as a juvenile; and
-  >   - **(D)** were convicted of statutory rape as a result of conduct committed as a juvenile; and
   > - **(8)** to the extent such information is obtainable, of the number of sex offenders registered in the National Sex Offender Registry who are juveniles—
   >   - **(A)** the percentage of such offenders who were adjudicated delinquent; and
   >   - **(B)** the percentage of such offenders who were prosecuted as adults.
@@ -82,7 +83,7 @@ Section 2255(b) of title 18, United States Code, is amended—
 
 ## § 10. Tribal Access Program
 
-The Attorney General is authorized to provide technical assistance, including equipment, to tribal governments for the purpose of enabling such governments to access, enter information into, and obtain information from, Federal criminal information databases, as authorized under section 534(d) of title 28, United States Code.
+The Attorney General is authorized to provide technical assistance, including equipment, to tribal governments for the purpose of enabling such governments to access, enter information into, and obtain information from, Federal criminal information databases, as authorized under section 534(d) of title 28, United States Code. The Department of Justice Working Capital Fund (established under section 527 of title 28, United States Code) may be reimbursed by federally recognized tribes for technical assistance provided pursuant to this section.
 
 ## § 11. Alternative mechanisms for in-person verification
 
@@ -92,4 +93,14 @@ Section 116 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C.
   > - **(a)** *In general* Except as provided in subsection (b), a sex offender shall
 
 - **(2)** by adding at the end the following:
-  > - **(b)** *Alternative verification method* A jurisdiction may allow a sex offender to comply with the requirements under subsection (a) by video conference, or another similar method, except that each offender shall appear in person not less than one time per year. The Attorney General shall approve an alternative verification method described in this subsection prior to its implementation by a jurisdiction in order to ensure that such method provides for verification that is sufficient to ensure the public safety.
+  > - **(b)** *Alternative verification method* A jurisdiction may allow a sex offender to comply with the requirements under subsection (a) by an alternative verification method approved by the Attorney General, except that each offender shall appear in person not less than one time per year. The Attorney General shall approve an alternative verification method described in this subsection prior to its implementation by a jurisdiction in order to ensure that such method provides for verification that is sufficient to ensure the public safety.
+
+## § 12. Clarification of aggravated sexual abuse
+
+Section 111(8) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(8)) is amended by inserting “subsection (a) or (b) of” before “section 2241 of title 18, United States Code”.
+
+## § 13. Comprehensive examination of sex offender issues
+
+Section 634(c) of the Adam Walsh Child Protection and Safety Act of 2006 is amended by adding at the end the following:
+
+> - **(3)** *Additional report* Not later than 1 year after the date of enactment of the Adam Walsh Reauthorization Act of 2017, the National Institute of Justice shall submit to Congress a report on the public safety impact, recidivism, and collateral consequences of long-term registration of juvenile sex offenders, based on the information collected for the study under subsection (a) and any other information the National Institute of Justice determines necessary for such report.
