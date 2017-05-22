@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1370
@@ -16,6 +16,17 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
+## Cosponsors (8)
+
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Katko, John [R-NY-24] (K000386)
+
 ## Committees (2)
 
 - House — Judiciary Committee
@@ -27,3 +38,11 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-03-06 — Introduced in House
 - 2017-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-03-08 — Committee Consideration and Mark-up Session Held.
+- 2017-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-03-16 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2017-05-22 — Committee on the Judiciary discharged.
+- 2017-05-22 — Committee on the Judiciary discharged.
+- 2017-05-22 — Placed on the Union Calendar, Calendar No. 92.
+- 2017-05-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-143, Part I.
+- 2017-05-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-143, Part I.
