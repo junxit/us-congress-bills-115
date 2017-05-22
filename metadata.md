@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1039
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1039
@@ -21,9 +21,10 @@ Probation Officer Protection Act of 2017
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Probation Officer Protection Act of 2017
 - 2017-05-19 — Roll call votes on amendments in House
 - 2017-05-19 — Rule provides for consideration of H.R. 1039. Rule provides for consideration of the bill under a structured rule with one hour of general debate equally divided between the chair and ranking member of the Committee on the Judiciary. The resolution also provides for one motion to recommit with or without instructions.
 - 2017-05-19 — The previous question was ordered pursuant to the rule.
+- 2017-05-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
