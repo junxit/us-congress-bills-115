@@ -1,7 +1,7 @@
 ---
 measure: H.R. 115
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 115
@@ -40,9 +40,10 @@ Thin Blue Line Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -71,3 +72,4 @@ Thin Blue Line Act
 - 2017-05-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 271 - 143 (Roll no. 265).(text: CR H4333)
 - 2017-05-18 — Rule provides for consideration of H.R. 115 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-17 shall be considered as adopted and the bill, as amended, shall be considered as read.
 - 2017-05-18 — The previous question was ordered pursuant to the rule.
+- 2017-05-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
