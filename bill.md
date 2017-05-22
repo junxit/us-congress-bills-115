@@ -21,7 +21,7 @@ This Act may be cited as the “Protecting Young Victims from Sexual Abuse Act o
       > - **(1)** *Covered professionals* A person who
 
     - **(B)** by adding at the end the following:
-      > - **(2)** *Individuals at covered facilities* A covered individual who, while engaged in any activity sanctioned by a covered facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, including sexual abuse, shall as soon as possible make a report of the suspected abuse to the agency designated by the Attorney General under subsection (d).
+      > - **(2)** *Covered individuals* A covered individual who learns of facts that give reason to suspect that a child has suffered an incident of child abuse shall as soon as possible make a report of the suspected abuse to the agency designated by the Attorney General under subsection (d).
 
   - **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “subsection (a)” and inserting “subsection (a)(1)”;
   - **(3)** in subsection (c)—
@@ -35,9 +35,12 @@ This Act may be cited as the “Protecting Young Victims from Sexual Abuse Act o
   - **(4)** in subsection (d), in the first sentence, by inserting “and for all covered facilities” after “reside”;
   - **(5)** in subsection (f), in the first sentence—
     - **(A)** by striking “and on all” and inserting “on all”; and
-    - **(B)** by inserting “and for all covered facilities,” after “lands,”; and
-  - **(6)** in subsection (h), by inserting “and all covered individuals,” after “facilities,”.
-- **(b)** *Penalty for failure To report* Section 2258 of title 18, United States Code, is amended by inserting “or while engaged in a professional capacity or activity at a covered facility as described in subsection (a)(2) of such section 226” after “facility”.
+    - **(B)** by inserting “and for all covered facilities,” after “lands,”;
+  - **(6)** in subsection (h), by inserting “and all covered individuals,” after “facilities,”; and
+  - **(7)** by adding at the end the following:
+    > - **(i)** *Rule of construction* Nothing in this section shall be construed to require a victim of child abuse to self-report the abuse.
+
+- **(b)** *Penalty for failure to report* Section 2258 of title 18, United States Code, is amended by inserting after “facility,” the following: “or a covered individual (as described in subsection (a)(2) of such section 226) who”.
 
 ## § 3. Civil remedy for personal injuries
 
@@ -48,10 +51,10 @@ Section 2255 of title 18, United States Code, is amended—
 
 - **(2)** in subsection (b), by striking “filed within” and all that follows through the end and inserting the following:
   > file—
-  > - **(1)** not later than 10 years after the date on which the plaintiff discovers the later of—
+  > - **(1)** not later than 10 years after the date on which the plaintiff reasonably discovers the later of—
   >   - **(A)** the violation that forms the basis for the claim; or
   >   - **(B)** the injury that forms the basis for the claim; or
-  > - **(2)** in the case of a person under a legal disability, not later than 10 years after the date on which the disability ends.
+  > - **(2)** not later than 10 years after the date on which a legal disability ends.
 
 - **(3)** by adding at the end the following:
   > - **(c)** *Venue; Service of process*
@@ -69,21 +72,30 @@ Section 2255 of title 18, United States Code, is amended—
     > - **(8)** develop training, oversight practices, policies, and procedures to prevent the abuse, including physical abuse and sexual abuse, of any minor or amateur athlete by any adult.
 
 - **(b)** *Additional duties* Section 220524 of such title is amended—
-  - **(1)** in paragraph (8), by striking “; and” and inserting a semicolon;
-  - **(2)** in paragraph (9), by striking the period and inserting a semicolon; and
-  - **(3)** by adding at the end the following:
+  - **(1)** by inserting “(a) In general.—” before “For the sport”;
+  - **(2)** in paragraph (8), by striking “; and” and inserting a semicolon;
+  - **(3)** in paragraph (9), by striking the period and inserting a semicolon; and
+  - **(4)** by adding at the end the following:
     > - **(10)** develop and enforce policies, mechanisms, and procedures to prevent the abuse, including physical abuse and sexual abuse, of any minor or amateur athlete, including—
-    >   - **(A)** requiring all members of the national governing body or a facility under the jurisdiction of the national governing body and adults authorized by such members to interact with minor or amateur athletes, to immediately report all allegations of sexual abuse to law enforcement authorities and other appropriate authorities whenever such members or adults learn of facts leading them to reasonably suspect that a minor or amateur athlete has suffered an incident of sexual abuse;
-    >   - **(B)** establishing a mechanism, approved by a trained expert on child abuse, that allows a complainant to easily report an incident of sexual abuse committed by a member or adult described in subparagraph (A) to interact with a minor or amateur athlete, to the national governing body or another authority;
-    >   - **(C)** procedures to ensure that each amateur athlete who is a minor is prevented from being in a one-on-one situation with an adult (who is not the minor’s legal guardian) at a facility under the jurisdiction of the national governing body without being in an observable and interruptible distance from another adult; and
-    >   - **(D)** oversight procedures, including regular and random audits conducted by subject matter experts unaffiliated with the national governing body, of all members and adults described in subparagraph (A) to ensure that policies and procedures developed under this paragraph are followed correctly and that consistent training is offered and given to all members regarding prevention of sexual abuse; and
-    > - **(11)** in the case of a national governing body with jurisdiction over more than one athletic facility, establish a mechanism by which—
+    >   - **(A)** requiring all adults authorized by a national governing body or a member of a national governing body to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body or a member of a national governing body, to report facts that give reason to suspect child abuse, including sexual abuse, as required by relevant Federal or State law, to law enforcement authorities and other appropriate authorities, including an entity designated by the corporation to investigate and resolve such allegations;
+    >   - **(B)** establishing a mechanism, approved by a trained expert on child abuse, that allows an individual to easily report an incident of child abuse as described in subparagraph (A) to the national governing body or another authority, including an entity designated by the corporation;
+    >   - **(C)** procedures to ensure that covered individuals are instructed to avoid one-on-one situations with any amateur athlete who is a minor (other than such an athlete for whom the covered individual is a legal guardian) at an amateur sports organization facility, at any event sanctioned by a national governing body, or any event sanctioned by a member of a national governing body, without being observable or interruptible by another adult; and
+    >   - **(D)** oversight procedures, including regular and random audits, not to exceed once a year, conducted by subject matter experts unaffiliated with the national governing body, of all members and adults described in subparagraph (A) to ensure that policies and procedures developed under this paragraph are followed correctly and that consistent training is offered and given to all members regarding prevention of sexual abuse; and
+    > - **(11)** in the case of a national governing body with jurisdiction over more than one amateur sports organization facility or event, establish a mechanism by which—
     >   - **(A)** the national governing body can—
-    >     - **(i)** receive a report from one of such facilities regarding a case in which an adult authorized by the facility to interact with a minor or amateur athlete at such facility is expelled from or leaves such facility for sexual misconduct, including because of a mere allegation of sexual misconduct; and
-    >     - **(ii)** share a report received under subparagraph (A) with each of the other athletic facilities under the jurisdiction of the national governing body; and
-    >   - **(B)** an athletic facility under the jurisdiction of the national governing body can—
+    >     - **(i)** receive a report of suspected sexual misconduct by an adult authorized by a national governing body or a member of a national governing body to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body or a member of a national governing body; and
+    >     - **(ii)** confidentially share a report received under clause (i) with each of the other amateur sports organizations, facilities, or members under the jurisdiction of the national governing body; and
+    >   - **(B)** an amateur sports organization, facility, or member under the jurisdiction of the national governing body can—
     >     - **(i)** review the reports received by the national governing body under subparagraph (A)(i) to assess any allegations of sexual misconduct made in such reports; and
-    >     - **(ii)** withhold providing to an adult who is the subject of an allegation of sexual misconduct in a report reviewed under clause (i) authority to interact with a minor or amateur athlete at such facility until such time as the facility determines that there is no risk to a minor or amateur athlete at such facility.
+    >     - **(ii)** withhold providing to an adult who is the subject of an allegation of sexual misconduct in a report reviewed under clause (i) authority to interact with a minor or amateur athlete at such organization, facility, or event until the resolution of such allegation.
+    > - **(b)** *Limited liability for the United States Olympic Committee, national governing bodies, and an entity designated by the United States Olympic Committee to investigate and resolve sexual misconduct allegations*
+    >   - **(1)** *In general* Except as provided in paragraphs (2), no civil or criminal action may be brought in any Federal or State court against the United States Olympic Committee, a national governing body, or an amateur sports organization, facility, or event under the jurisdiction of a national governing body, or an entity designated by the United States Olympic Committee to investigate and resolve sexual misconduct allegations described in subsection (a)(11), including any director, officer, employee, or agent of such entity, if the action arises from the execution of the responsibilities or functions described in subsection (a)(11).
+    >   - **(2)** *Intentional, reckless, or other misconduct* Paragraph (1) shall not apply to a civil or criminal action if the United States Olympic Committee, a national governing body, an amateur sports organization, facility, or event under the jurisdiction of a national governing body, or an entity designated by the United States Olympic Committee to investigate and resolve sexual misconduct allegations described in subsection (a)(11), or a director, officer, employee, or agent of such entity acted or failed to act—
+    >     - **(A)** with reckless disregard for a risk of causing injury; or
+    >     - **(B)** for a purpose unrelated to the performance of any responsibility or function described in subsection (a)(11).
+    >   - **(3)** *Limited effect* Nothing in this section shall apply to any act or omission arising out of any responsibility or function not described in subsection (a)(11).
 
 - **(c)** *Rule of construction* Section 220522 of such title is amended by adding at the end the following:
-  > - **(c)** *Rule of construction* Nothing in paragraph (a) shall be construed to limit the ability of a national governing body to develop a policy or procedure to prevent an individual who is the subject of an allegation of sexual misconduct from interacting with a minor or amateur athlete until such time as the national governing body, or any person under the jurisdiction of the national governing body, determines that there is no risk to the minor or amateur athlete by allowing the individual to interact with the minor or amateur athlete.
+  > - **(c)** *Rule of construction* Nothing in subsection (a) shall be construed to limit the ability of a national governing body to develop a policy or procedure to prevent an individual who is the subject of an allegation of sexual misconduct from interacting with a minor or amateur athlete until such time as the national governing body, or an entity with applicable jurisdiction resolves such allegation.
+
+- **(d)** *Review of recognition of amateur sports organizations as national governing bodies* Section 220521(d) of title 36, United States Code, is amended by striking “may” each place it appears and inserting “shall”.

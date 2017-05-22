@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1973
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 2 executed, 19 stated and not applied.
+24 amendatory instructions. 2 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,16 +57,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 13031` | replace | in paragraph (8), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13031` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13031` | insert | in subsection (d), in the first sentence, by inserting “and for all covered facilities” after “reside”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 13031` | insert | by inserting “and for all covered facilities,” after “lands,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 13031` | insert | in subsection (h), by inserting “and all covered individuals,” after “facilities,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 13031` | insert | Section 2258 of title 18, United States Code, is amended by inserting “or while engaged in a professional capacity or activity at a covered facility as described in subsection (a)(2) of such section 226” after “facility”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 13031` | insert | by inserting “and for all covered facilities,” after “lands,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 13031` | insert | in subsection (h), by inserting “and all covered individuals,” after “facilities,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 13031` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13031` | insert | Section 2258 of title 18, United States Code, is amended by inserting after “facility,” the following: “or a covered individual (as described in subsection (a)(2) of such section 226) who”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “filed within” and all that follows through the end and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(a) In general.—” before “For the sport”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 220522 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 220521(d) of title 36, United States Code, is amended by striking “may” each place it appears and inserting “shall”. | the bill names no machine-readable US Code section |
