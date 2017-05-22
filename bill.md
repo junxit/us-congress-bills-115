@@ -17,7 +17,7 @@ This Act may be cited as the “Protecting Against Child Exploitation Act of 201
 
 Section 2251 of title 18, United States Code, is amended—
 
-- **(1)** in subsections (a) and (b), to read as follows:
+- **(1)** by amending subsections (a) and (b) to read as follows:
   > - **(a)** Any person who, in a circumstance described in subsection (f), knowingly—
   >   - **(1)** employs, uses, persuades, induces, entices, or coerces a minor to engage in any sexually explicit conduct for the purpose of producing any visual depiction of such conduct, or transmitting a live visual depiction of such conduct;
   >   - **(2)** produces or causes to be produced a visual depiction of a minor engaged in any sexually explicit conduct where the production of such visual depiction involves the use of a minor engaging in sexually explicit conduct and such visual depiction is of such conduct;
@@ -44,3 +44,11 @@ Section 2251 of title 18, United States Code, is amended—
   >     - **(B)** transported or transmitted in or affecting interstate or foreign commerce; or
   >     - **(C)** mailed; or
   >   - **(4)** any part of the offense occurred in a territory or possession of the United States or within the special maritime and territorial jurisdiction of the United States.
+  > - **(g)** Notwithstanding any other provision of this section, no criminal charge under subsection (a)(3) may be brought against an electronic communication service provider or remote computing service provider unless such provider has intentionally transmitted or caused to be transmitted a visual depiction with actual knowledge that such depiction is of a minor engaged in sexually explicit conduct, nor may any such criminal charge be brought if barred by the provisions of section 2258B.
+
+## § 3. Limited liability for certain persons when responding to search warrants or other legal process
+
+Section 2258B of title 18, United States Code, is amended—
+
+- **(1)** in subsection (a), by inserting “from the response to a search warrant or other legal process or” before “from the performance”; and
+- **(2)** in subsection (b)(2)(C), by inserting “the response to a search warrant or other legal process or to” before “the performance of any responsibility”.
