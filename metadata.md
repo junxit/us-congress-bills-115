@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 156
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 156
@@ -16,7 +16,7 @@ A resolution recognizing National Foster Care Month as an opportunity to raise a
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Blunt, Roy [R-MO] (B000575)
@@ -35,6 +35,9 @@ A resolution recognizing National Foster Care Month as an opportunity to raise a
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -44,3 +47,7 @@ A resolution recognizing National Foster Care Month as an opportunity to raise a
 
 - 2017-05-04 — Introduced in Senate
 - 2017-05-04 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2777-2778)
+- 2017-05-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-05-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-05-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S3072-3073)
+- 2017-05-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S3072-3073)
