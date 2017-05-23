@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1545
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1545
@@ -47,3 +47,9 @@ VA Prescription Data Accountability Act 2017
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 93.
 - 2017-05-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-144.
 - 2017-05-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-144.
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4473-4475)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1545.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2017-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4473)
