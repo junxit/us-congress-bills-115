@@ -20,10 +20,10 @@ Section 402 of the Missing Children's Assistance Act (42 U.S.C. 5771) is amended
 - **(1)** by amending paragraph (1) to read as follows:
   > - **(1)** each year tens of thousands of children run away, or are abducted or removed, from the control of a parent having legal custody without such parent's consent, under circumstances which immediately place the child in grave danger;
 
-- **(2)** by striking paragraphs (4) and (5),
-- **(3)** in paragraph (6) by inserting “, including child sex trafficking and sextortion” after “exploitation”,
-- **(4)** in paragraph (8) by adding “and” at the end,
-- **(5)** by striking paragraph (9),
+- **(2)** by striking paragraphs (4) and (5);
+- **(3)** in paragraph (6) by inserting “, including child sex trafficking and sextortion” after “exploitation”;
+- **(4)** in paragraph (8) by adding “and” at the end;
+- **(5)** by striking paragraph (9);
 - **(6)** by amending paragraph (10) to read as follows:
   > - **(10)** a key component of such programs is the National Center for Missing and Exploited Children that—
   >   - **(A)** serves as a nonprofit, national resource center and clearinghouse to provide assistance to victims, families, child-serving professionals, and the general public;
@@ -37,11 +37,11 @@ Section 402 of the Missing Children's Assistance Act (42 U.S.C. 5771) is amended
 Section 403 of the Missing Children's Assistance Act (42 U.S.C. 5772) is amended—
 
 - **(1)** in paragraph (1)—
-  - **(A)** by striking “legal custodian” each place it appears and inserting “parent”,
-  - **(B)** in subparagraph (A) by striking “custodian’s” and inserting “parent’s”, and
-  - **(C)** in subparagraph (C) by striking the period and the end and inserting a semicolon,
-- **(2)** in paragraph (2) by striking “and” at the end,
-- **(3)** in paragraph (3) by striking the period at the end and inserting “; and”, and
+  - **(A)** by striking “legal custodian” each place it appears and inserting “parent”;
+  - **(B)** in subparagraph (A) by striking “custodian’s” and inserting “parent’s”; and
+  - **(C)** in subparagraph (C) by striking the period and the end and inserting a semicolon;
+- **(2)** in paragraph (2) by striking “and” at the end;
+- **(3)** in paragraph (3) by striking the period at the end and inserting “; and”; and
 - **(4)** by adding at the end the following:
   > - **(4)** the term “parent” includes a legal guardian or other individual standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or an individual who is legally responsible for the child’s welfare).
 
@@ -50,24 +50,24 @@ Section 403 of the Missing Children's Assistance Act (42 U.S.C. 5772) is amended
 Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** in paragraph (3) by striking “telephone line” and inserting “hotline”, and
+  - **(A)** in paragraph (3) by striking “telephone line” and inserting “hotline”; and
   - **(B)** in paragraph (6)(E)—
-    - **(i)** by striking “telephone line” and inserting “hotline”,
-    - **(ii)** by striking “(b)(1)(A) and” and inserting “(b)(1)(A),”, and
-    - **(iii)** by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end,
+    - **(i)** by striking “telephone line” and inserting “hotline”;
+    - **(ii)** by striking “(b)(1)(A) and” and inserting “(b)(1)(A),”; and
+    - **(iii)** by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end;
 - **(2)** in subsection (b)(1)—
   - **(A)** in subparagraph (A)—
-    - **(i)** by striking “telephone line” each place it appears and inserting “hotline”, and
-    - **(ii)** by striking “legal custodian” and inserting “parent”,
+    - **(i)** by striking “telephone line” each place it appears and inserting “hotline”; and
+    - **(ii)** by striking “legal custodian” and inserting “parent”;
   - **(B)** in subparagraph (C)—
     - **(i)** in clause (i)—
-      - **(I)** by striking “restaurant” and inserting “food”, and
-      - **(II)** by striking “and” at the end,
-    - **(ii)** in clause (ii) by adding “and” at the end, and
+      - **(I)** by striking “restaurant” and inserting “food”; and
+      - **(II)** by striking “and” at the end;
+    - **(ii)** in clause (ii) by adding “and” at the end; and
     - **(iii)** by adding at the end the following:
       > - **(iii)** innovative and model programs, services, and legislation that benefit missing and exploited children;
 
-  - **(C)** by striking subparagraphs (E), (F), and (G),
+  - **(C)** by striking subparagraphs (E), (F), and (G);
   - **(D)** by amending subparagraph (H) to read as follows:
     > - **(H)** provide technical assistance and training to families, law enforcement agencies, State and local governments, elements of the criminal justice system, nongovernmental agencies, local educational agencies, and the general public—
     >   - **(i)** in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
@@ -79,11 +79,11 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773) is amend
     > - **(J)** provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;
     > - **(K)** provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
 
-  - **(F)** by striking subparagraphs (L) and (M),
+  - **(F)** by striking subparagraphs (L) and (M);
   - **(G)** by amending subparagraph (N) to read as follows:
     > - **(N)** provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;
 
-  - **(H)** by striking subparagraph (P),
+  - **(H)** by striking subparagraph (P);
   - **(I)** by amending subparagraph (Q) to read as follows:
     > - **(Q)** work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
     >   - **(i)** by operating a tipline to provide to individuals and electronic service providers an effective means of reporting Internet-related and other instances of child sexual exploitation in the areas of—
@@ -98,7 +98,7 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773) is amend
     >   - **(ii)** by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
     >   - **(iii)** by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
 
-  - **(J)** by striking subparagraph (R),
+  - **(J)** by striking subparagraph (R);
   - **(K)** by amending subparagraphs (S) and (T) to read as follows:
     > - **(S)** develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
     >   - **(i)** the prevention of child abduction and sexual exploitation;
@@ -113,17 +113,17 @@ Section 404 of the Missing Children’s Assistance Act (42 U.S.C. 5773) is amend
 Section 405 of the Missing Children's Assistance Act (42 U.S.C. 5775) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** in paragraph (7) by striking “(as defined in section 403(1)(A))”, and
+  - **(A)** in paragraph (7) by striking “(as defined in section 403(1)(A))”; and
   - **(B)** in paragraph (8)—
-    - **(i)** by striking “legal custodians” and inserting “parents”, and
-    - **(ii)** by striking “custodians’” and inserting “parents’”, and
+    - **(i)** by striking “legal custodians” and inserting “parents”; and
+    - **(ii)** by striking “custodians’” and inserting “parents’”; and
 - **(2)** in subsection (b)(1)(A) by striking “legal custodians” and inserting “parents”.
 
 ## § 6. Reporting
 
 The Missing Children’s Assistance Act (42 U.S.C. 5771 et seq.) is amended—
 
-- **(1)** by redesignating sections 407 and 408 as section 408 and 409, respectively, and
+- **(1)** by redesignating sections 407 and 408 as section 408 and 409, respectively; and
 - **(2)** by inserting after section 406 the following:
   > ## § 407. Reporting
   >
