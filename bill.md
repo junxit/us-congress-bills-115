@@ -2,7 +2,7 @@
 legis-num: H.R. 1188
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1188
@@ -103,4 +103,4 @@ Section 111(8) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S
 
 Section 634(c) of the Adam Walsh Child Protection and Safety Act of 2006 is amended by adding at the end the following:
 
-> - **(3)** *Additional report* Not later than one year after the date of enactment of the Adam Walsh Reauthorization Act of 2017, the National Institute of Justice shall submit to Congress a report on the public safety impact, recidivism, and collateral consequences of long-term registration of juvenile sex offenders, based on the information collected for the study under subsection (a) and any other information the National Institute of Justice determines necessary for such report.
+> - **(3)** *Additional report* Not later than 1 year after the date of enactment of the Adam Walsh Reauthorization Act of 2017, the National Institute of Justice shall submit to Congress a report on the public safety impact, recidivism, and collateral consequences of long-term registration of juvenile sex offenders, based on the information collected for the study under subsection (a) and any other information the National Institute of Justice determines necessary for such report.

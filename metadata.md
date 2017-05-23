@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1188
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1188
@@ -27,9 +27,10 @@ Adam Walsh Reauthorization Act of 2017
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Adam Walsh Reauthorization Act of 2017
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 91.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-142.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-142.
+- 2017-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
