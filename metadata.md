@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1329
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1329
@@ -49,3 +49,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2017
 - 2017-05-19 — Placed on the Union Calendar, Calendar No. 83.
 - 2017-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-134.
 - 2017-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-134.
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4476-4477)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1329.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4476)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4476)
+- 2017-05-23 — The title of the measure was amended. Agreed to without objection.

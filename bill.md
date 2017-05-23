@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1329
 
-> To increase, effective as of December 1, 2017, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, to amend title 38, United States Code, to improve the United States Court of Appeals for Veterans Claims, to improve the processing of claims by the Secretary of Veterans Affairs, and for other purposes.
+> To increase, effective as of December 1, 2017, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.
 
 ## § 1. Short title
 
