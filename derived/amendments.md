@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1809
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -125,12 +125,12 @@ to guess them.
 
 ### 42 U.S.C. § 5632
 
-> in subsection (c), by striking “efficient administration, including monitoring, evaluation, and one full-time staff position” and inserting “effective and efficient administration of funds, including the designation of not less than 1 individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements”; and
+> in subsection (c), by striking “efficient administration, including monitoring, evaluation, and one full-time staff position” and inserting “effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements”; and
 
 | | |
 |---|---|
 | Removed | `efficient administration, including monitoring, evaluation, and one full-time staff position` |
-| Inserted | `effective and efficient administration of funds, including the designation of not less than 1 individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements` |
+| Inserted | `effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements` |
 
 ### 42 U.S.C. § 5632
 
@@ -197,7 +197,7 @@ to guess them.
 
 ### 20 U.S.C. § 6311
 
-> in subparagraph (C), by striking “30 days” and inserting “45 days”; and
+> in subparagraph (C), by striking “30 days” and inserting “45 days”;
 
 | | |
 |---|---|
