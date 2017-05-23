@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1625
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1625
@@ -59,9 +59,10 @@ Consolidated Appropriations Act, 2018
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Consolidated Appropriations Act, 2018
 - 2017-05-22 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2017-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4411-4412)
 - 2017-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4411-4412)
+- 2017-05-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
