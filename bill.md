@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 2611
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2611
+
+> To modify the boundary of the Little Rock Central High School National Historic Site, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Little Rock Central High School National Historic Site Boundary Modification Act”.
+
+## § 2. Little Rock Central High School National Historic Site boundary modification
+
+Section 2 of Public Law 105–356 (112 Stat. 3268) is amended—
+
+- **(1)** by redesignating subsections (b), (c), (d), and (e) as subsections (c), (d), (e), and (f), respectively;
+- **(2)** by inserting after subsection (a) the following:
+  > - **(b)** *Boundary modification* The boundary of the historic site is modified to include the 7 residences on South Park Street in Little Rock, Arkansas, consisting of 1.47 acres, as generally depicted on the map entitled “Central High School National Historic Site Proposed Boundary”, numbered 037/80,001, and dated August, 2004.
+
+- **(3)** in subsection (d) (as redesignated by paragraph (1))—
+  - **(A)** in paragraph (1), by striking “(1) The Secretary” and inserting the following:
+    > - **(1)** *In general* The Secretary
+
+  - **(B)** in paragraph (2), by striking “(2) The Secretary” and inserting the following:
+    > - **(3)** *Coordination* The Secretary
+
+  - **(C)** by inserting after paragraph (1) the following:
+    > - **(2)** *Cooperative agreements for the preservation and interpretation of certain properties*
+    >   - **(A)** *In general* The Secretary may enter into cooperative agreements with the owners of the 7 residences referred to in subsection (b) pursuant to which the Secretary may use appropriated funds to mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of the properties.
+    >   - **(B)** *Inclusions* An agreement entered into under subparagraph (A) shall include a provision specifying that no changes or alterations shall be made to the exterior of the properties subject to the agreement, except by the mutual agreement of the parties to the agreement.
