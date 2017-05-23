@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1725
 
-> To amend title 38, United States Code, to improve the treatment of medical evidence provided by non-Department of Veterans Affairs medical professionals in support of claims for disability compensation under the laws administered by the Secretary of Veterans Affairs, and for other purposes.
+> To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary.
 
 ## § 1. Report on progress of Department of Veterans Affairs Acceptable Clinical Evidence initiative
 
