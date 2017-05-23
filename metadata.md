@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1862
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1862
@@ -20,9 +20,10 @@ Global Child Protection Act of 2017
 
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Global Child Protection Act of 2017
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 88.
 - 2017-05-22 — Reported by the Committee on Judiciary. H. Rept. 115-139.
 - 2017-05-22 — Reported by the Committee on Judiciary. H. Rept. 115-139.
+- 2017-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
