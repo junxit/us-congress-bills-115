@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1808
@@ -52,3 +52,9 @@ Improving Support for Missing and Exploited Children Act of 2017
 - 2017-05-04 — Placed on the Union Calendar, Calendar No. 64.
 - 2017-05-04 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-110.
 - 2017-05-04 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-110.
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4453-4457)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1808.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4453-4454)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4453-4454)
