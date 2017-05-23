@@ -18,12 +18,12 @@ This Act may be cited as the “Department of Homeland Security Blue Campaign Au
 - **(a)** *In general* Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) is amended by adding at the end the following new section:
   > ## § 434. Department of Homeland Security Blue Campaign
   >
-  > - **(a)** *In general* There is authorized in the Department a campaign to be known as the “Blue Campaign”. As part of the Blue Campaign, the Secretary shall—
+  > - **(a)** *In general* There is authorized in the Department a unified, anti-human trafficking campaign to be known as the “Blue Campaign”. As part of the Blue Campaign, the Secretary shall—
   >   - **(1)** issue Department-wide guidance to appropriate personnel of the Department;
   >   - **(2)** develop training programs for such personnel; and
   >   - **(3)** coordinate departmental efforts, including training for such personnel.
   > - **(b)** *Guidance and training* The Blue Campaign shall provide guidance and training to appropriate personnel of the Department regarding the following:
-  >   - **(1)** Programs for such personnel, as well as Federal, State, and local law enforcement entities, to help identify instances of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
+  >   - **(1)** Programs for such personnel, as well as Federal, State, local, tribal, and territorial law enforcement entities, to help identify instances of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
   >   - **(2)** Systematic and routine information sharing between and among the components of the Department and the National Network of Fusion Centers regarding individuals suspected or convicted of human trafficking and patterns and practices of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
   >   - **(3)** Techniques to identify suspected victims of trafficking along the borders of the United States.
   >   - **(4)** Techniques specifically for Transportation Security Administration personnel to—
@@ -34,7 +34,7 @@ This Act may be cited as the “Department of Homeland Security Blue Campaign Au
   >   - **(7)** Any other activities determined necessary by the Secretary as part of the Blue Campaign.
   > - **(c)** *Definition* In this section, the term “human trafficking” means an act or practice described in paragraph (9) or (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
 
-- **(b)** *Information technology systems* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall ensure that, consistent with the Department of Homeland Security-wide guidance required under subsection (a) of section 434 of the Homeland Security Act of 2002 (as added by subsection (a) of this section), information technology systems utilized within the Department to record and track information regarding individuals suspected or convicted of human trafficking (as such term is defined in such section 434) are integrated with each other.
+- **(b)** *Information technology systems* Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security shall ensure that, consistent with the Department of Homeland Security-wide guidance required under subsection (a) of section 434 of the Homeland Security Act of 2002 (as added by subsection (a) of this section), information technology systems utilized within the Department to record and track information regarding individuals suspected or convicted of human trafficking (as such term is defined in such section 434) are capable of systematic and routine information sharing.
 - **(c)** *Oversight* Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the status and effectiveness of the Blue Campaign.
-- **(d)** *Authorization* There is authorized to be appropriated $819,000 to carry out section 434 of the Homeland Security Act of 2002, as added by subsection (a) of this section.
+- **(d)** *Authorization* For each of fiscal years 2018 through 2022, $819,000 is authorized to carry out section 434 of the Homeland Security Act of 2002, as added by subsection (a) of this section.
 - **(e)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 433 the following new item:
