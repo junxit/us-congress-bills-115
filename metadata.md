@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2288
@@ -59,3 +59,11 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - 2017-05-19 — Placed on the Union Calendar, Calendar No. 84.
 - 2017-05-19 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-135.
 - 2017-05-19 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-135.
+- 2017-05-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-05-23 — Considered as unfinished business. (consideration: CR H4483)
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4457-4466)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2288.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273). (text: CR H4457-4463)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273).(text: CR H4457-4463)

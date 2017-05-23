@@ -34,13 +34,13 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
   - **(2)** by inserting after subsection (d) the following new subsections:
     > - **(e)** *Applicability of duty To assist*
     >   - **(1)** The Secretary’s duty to assist under this section shall apply only to a claim, or supplemental claim, for a benefit under a law administered by the Secretary until the time that a claimant is provided notice of the agency of original jurisdiction’s decision with respect to such claim, or supplemental claim, under section 5104 of this title.
-    >   - **(2)** The Secretary’s duty to assist under this section shall not apply to higher-level review by the agency of original jurisdiction, pursuant to section 5104B of this title, or to review on appeal by the Board of Veterans’ Appeals.
+    >   - **(2)** The Secretary’s duty to assist under this section shall not apply to higher level review by the agency of original jurisdiction, pursuant to section 5104B of this title, or to review on appeal by the Board of Veterans’ Appeals.
     > - **(f)** *Correction of duty To assist errors*
-    >   - **(1)** If, during review of the agency of original jurisdiction decision under section 5104B of this title, the higher-level adjudicator identifies or learns of an error on the part of the agency of original jurisdiction to satisfy its duties under this section, and that error occurred prior to the agency of original jurisdiction decision being reviewed, unless the claim can be granted in full, the higher-level adjudicator shall return the claim for correction of such error and readjudication.
+    >   - **(1)** If, during review of the agency of original jurisdiction decision under section 5104B of this title, the higher level adjudicator identifies or learns of an error on the part of the agency of original jurisdiction to satisfy its duties under this section, and that error occurred prior to the agency of original jurisdiction decision being reviewed, unless the claim can be granted in full, the higher level adjudicator shall return the claim for correction of such error and readjudication.
     >   - **(2)**
     >     - **(A)** If the Board of Veterans’ Appeals, during review on appeal of an agency of original jurisdiction decision, identifies or learns of an error on the part of the agency of original jurisdiction to satisfy its duties under this section, and that error occurred prior to the agency of original jurisdiction decision on appeal, unless the claim can be granted in full, the Board shall remand the claim to the agency of original jurisdiction for correction of such error and readjudication.
     >     - **(B)** Remand for correction of such error may include directing the agency of original jurisdiction to obtain an advisory medical opinion under section 5109 of this title.
-    >   - **(3)** Nothing in this subsection shall be construed to imply that the Secretary, during the consideration of a claim, does not have a duty to correct an error described in paragraph (1) or (2) that was erroneously not identified during higher-level review or during review on appeal with respect to the claim.
+    >   - **(3)** Nothing in this subsection shall be construed to imply that the Secretary, during the consideration of a claim, does not have a duty to correct an error described in paragraph (1) or (2) that was erroneously not identified during higher level review or during review on appeal with respect to the claim.
 
 - **(e)** *Decisions and notices of decisions* Subsection (b) of section 5104 of such title is amended to read as follows:
   > - **(b)** Each notice provided under subsection (a) shall also include all of the following:
@@ -59,53 +59,53 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     > Any finding favorable to the claimant as described in section 5104(b)(4) of this title shall be binding on all subsequent adjudicators within the Department, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 51 of such title is amended by inserting after the item relating to section 5104 the following new item:
-- **(g)** *Higher-Level review by agency of original jurisdiction*
+- **(g)** *Higher Level review by agency of original jurisdiction*
   - **(1)** *In general* Chapter 51 of such title, as amended by subsection (f), is further amended by inserting after section 5104A, as added by such subsection, the following new section:
-    > ## § 5104B. Higher-level review by the agency of original jurisdiction
+    > ## § 5104B. Higher level review by the agency of original jurisdiction
     >
     > - **(a)** *In general*
-    >   - **(1)** A claimant may request a review of the decision of the agency of original jurisdiction by a higher-level adjudicator within the agency of original jurisdiction.
+    >   - **(1)** A claimant may request a review of the decision of the agency of original jurisdiction by a higher level adjudicator within the agency of original jurisdiction.
     >   - **(2)** The Secretary shall approve each request for review under paragraph (1).
     > - **(b)** *Time and manner of request*
-    >   - **(1)** A request for higher-level review by the agency of original jurisdiction shall be—
+    >   - **(1)** A request for higher level review by the agency of original jurisdiction shall be—
     >     - **(A)** in writing in such form as the Secretary may prescribe; and
-    >     - **(B)** made within one year of the notice of the agency of original jurisdiction’s decision.
-    >   - **(2)** Such request may specifically indicate whether such review is requested by a higher-level adjudicator at the same office within the agency of original jurisdiction or by an adjudicator at a different office of the agency of original jurisdiction. The Secretary shall not deny such a request for review by an adjudicator at a different office of the agency of original jurisdiction without good cause.
-    > - **(c)** *Decision* Notice of a higher-level review decision under this section shall be provided in writing and shall include a general statement—
+    >     - **(B)** made within 1 year of the notice of the agency of original jurisdiction’s decision.
+    >   - **(2)** Such request may specifically indicate whether such review is requested by a higher level adjudicator at the same office within the agency of original jurisdiction or by an adjudicator at a different office of the agency of original jurisdiction. The Secretary shall not deny such a request for review by an adjudicator at a different office of the agency of original jurisdiction without good cause.
+    > - **(c)** *Decision* Notice of a higher level review decision under this section shall be provided in writing and shall include a general statement—
     >   - **(1)** reflecting whether evidence was not considered pursuant to subsection (d); and
     >   - **(2)** noting the options available to the claimant to have the evidence described in paragraph (1), if any, considered by the Department.
-    > - **(d)** *Evidentiary record for review* The evidentiary record before the higher-level adjudicator shall be limited to the evidence of record in the agency of original jurisdiction decision being reviewed.
-    > - **(e)** *De novo review* A review of the decision of the agency of original jurisdiction by a higher-level adjudicator within the agency of original jurisdiction shall be de novo.
+    > - **(d)** *Evidentiary record for review* The evidentiary record before the higher level adjudicator shall be limited to the evidence of record in the agency of original jurisdiction decision being reviewed.
+    > - **(e)** *De novo review* A review of the decision of the agency of original jurisdiction by a higher level adjudicator within the agency of original jurisdiction shall be de novo.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 51 of such title, as amended by subsection (f), is further amended by inserting after the item relating to section 5104A, as added by such subsection, the following new item:
 - **(h)** *Options following decision by agency of original jurisdiction*
   - **(1)** *In general* Chapter 51 of such title, as amended by subsection (g), is further amended by inserting after section 5104B, as added by such subsection, the following new section:
     > ## § 5104C. Options following decision by agency of original jurisdiction
     >
-    > - **(a)** *Within one year of decision*
-    >   - **(1)** Subject to paragraph (2), in any case in which the Secretary renders a decision on a claim, the claimant may take any of the following actions on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision with respect to that claim:
-    >     - **(A)** File a request for higher-level review under section 5104B of this title.
+    > - **(a)** *Within 1 year of decision*
+    >   - **(1)** Subject to paragraph (2), in any case in which the Secretary renders a decision on a claim, the claimant may take any of the following actions on or before the date that is 1 year after the date on which the agency of original jurisdiction issues a decision with respect to that claim:
+    >     - **(A)** File a request for higher level review under section 5104B of this title.
     >     - **(B)** File a supplemental claim under section 5108 of this title.
     >     - **(C)** File a notice of disagreement under section 7105 of this title.
     >   - **(2)**
     >     - **(A)** Once a claimant takes an action set forth in paragraph (1), the claimant may not take another action set forth in that paragraph with respect to such claim until—
-    >       - **(i)** the higher-level review, supplemental claim, or notice of disagreement is adjudicated; or
-    >       - **(ii)** the request for higher-level review, supplemental claim, or notice of disagreement is withdrawn.
-    >     - **(B)** Nothing in this subsection shall prohibit a claimant from taking any of the actions set forth in paragraph (1) in succession with respect to a claim.
+    >       - **(i)** the higher level review, supplemental claim, or notice of disagreement is adjudicated; or
+    >       - **(ii)** the request for higher level review, supplemental claim, or notice of disagreement is withdrawn.
+    >     - **(B)** Nothing in this subsection shall prohibit a claimant from taking any of the actions set forth in paragraph (1) in succession with respect to different issues contained within a claim.
     >     - **(C)** Nothing in this subsection shall prohibit a claimant from taking different actions set forth in paragraph (1) with respect to different claims.
     >     - **(D)** The Secretary may, as the Secretary considers appropriate, develop and implement a policy for claimants who—
     >       - **(i)** take an action under paragraph (1);
-    >       - **(ii)** wish to withdraw the action before the higher-level review, supplemental claim, or notice of disagreement is adjudicated; and
+    >       - **(ii)** wish to withdraw the action before the higher level review, supplemental claim, or notice of disagreement is adjudicated; and
     >       - **(iii)** in lieu of such action take a different action under paragraph (1).
-    > - **(b)** *More than one year after decision* In any case in which the Secretary renders a decision on a claim and more than one year has passed since the date on which the agency of original jurisdiction issues a decision with respect to that claim, the claimant may file a supplemental claim under section 5108 of this title.
-    > - **(c)** *BVA and CAVC* Nothing in subsection (a) or (b) may be construed to limit the options available to a claimant pursuant to chapters 71 or 72 of this title.
+    > - **(b)** *More than 1 year after decision* In any case in which the Secretary renders a decision on a claim and more than 1 year has passed since the date on which the agency of original jurisdiction issues a decision with respect to that claim, the claimant may file a supplemental claim under section 5108 of this title.
+    > - **(c)** *Board of Veterans’ Appeals and Court of Appeals for Veterans Claims* Nothing in subsection (a) or (b) may be construed to limit the options available to a claimant pursuant to chapter 71 or 72 of this title.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 51 of such title, as amended by subsection (g), is further amended by inserting after the item relating to section 5104B, as added by such subsection, the following new item:
 - **(i)** *Supplemental claims*
   - **(1)** *In general* Section 5108 of such title is amended to read as follows:
     > ## § 5108. Supplemental claims
     >
-    > If new and relevant evidence is presented or secured with respect to a supplemental claim, the Secretary shall readjudicate the claim taking into consideration any evidence added to the record prior to the former disposition of the claim.
+    > If new and relevant evidence is presented or secured with respect to a supplemental claim, the Secretary shall readjudicate the claim taking into consideration any evidence added to the record after the former disposition of the claim.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 51 of such title is amended by striking the item relating to section 5108 and inserting the following new item:
 - **(j)** *Remand To obtain advisory medical opinion* Section 5109 of such title is amended by adding at the end the following new subsection:
@@ -123,12 +123,12 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     > - **(a)**
     >   - **(1)** Unless specifically provided otherwise in this chapter, the effective date of an award based on an initial claim, or a supplemental claim, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.
     >   - **(2)** For purposes of determining the effective date of an award under this section, the date of application shall be considered the date of the filing of the initial application for a benefit if the claim is continuously pursued by filing any of the following, either alone or in succession:
-    >     - **(A)** A request for higher-level review under section 5104B of this title on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision.
-    >     - **(B)** A supplemental claim under section 5108 of this title on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision.
-    >     - **(C)** A notice of disagreement on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision.
-    >     - **(D)** A supplemental claim under section 5108 of this title on or before the date that is one year after the date on which the Board of Veterans’ Appeals issues a decision.
-    >     - **(E)** A supplemental claim under section 5108 of this title on or before the date that is one year after the date on which the Court of Appeals for Veterans Claims issues a decision.
-    >   - **(3)** Except as otherwise provided in this section, for supplemental claims received more than one year after the date on which the agency of original jurisdiction issued a decision or the Board of Veterans’ Appeals issued a decision, the effective date shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of the supplemental claim.
+    >     - **(A)** A request for higher level review under section 5104B of this title on or before the date that is 1 year after the date on which the agency of original jurisdiction issues a decision.
+    >     - **(B)** A supplemental claim under section 5108 of this title on or before the date that is 1 year after the date on which the agency of original jurisdiction issues a decision.
+    >     - **(C)** A notice of disagreement on or before the date that is 1 year after the date on which the agency of original jurisdiction issues a decision.
+    >     - **(D)** A supplemental claim under section 5108 of this title on or before the date that is 1 year after the date on which the Board of Veterans’ Appeals issues a decision.
+    >     - **(E)** A supplemental claim under section 5108 of this title on or before the date that is 1 year after the date on which the Court of Appeals for Veterans Claims issues a decision.
+    >   - **(3)** Except as otherwise provided in this section, for supplemental claims received more than 1 year after the date on which the agency of original jurisdiction issued a decision or the Board of Veterans’ Appeals issued a decision, the effective date shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of the supplemental claim.
 
   - **(2)** in subsection (i), in the first sentence—
     - **(A)** by striking “reopened” and inserting “readjudicated”;
@@ -144,7 +144,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     - **(B)** by amending subsection (b) to read as follows:
       > - **(b)**
       >   - **(1)**
-      >     - **(A)** Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of the mailing of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
+      >     - **(A)** Except in the case of simultaneously contested claims, notice of disagreement shall be filed within 1 year from the date of the mailing of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
       >     - **(B)** A notice of disagreement postmarked before the expiration of the 1-year period shall be accepted as timely filed.
       >     - **(C)** A question as to timeliness or adequacy of the notice of disagreement shall be decided by the Board.
       >   - **(2)**
@@ -168,7 +168,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 71 of such title is amended by striking the item relating to section 7105 and inserting the following new item:
 - **(r)** *Modification of procedures and requirements for simultaneously contested claims* Subsection (b) of section 7105A of such title is amended to read as follows:
   > - **(b)**
-  >   - **(1)** The substance of the notice of disagreement shall be communicated to the other party or parties in interest and a period of thirty days shall be allowed for filing a brief or argument in response thereto.
+  >   - **(1)** The substance of the notice of disagreement shall be communicated to the other party or parties in interest and a period of 30 days shall be allowed for filing a brief or argument in response thereto.
   >   - **(2)** Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
 
 - **(s)** *Repeal of procedures for administrative appeals*
@@ -270,7 +270,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
   - **(3)** Delineation of the personnel requirements of the Administration and the Board, including staffing levels during the—
     - **(A)** period in which the Administration and the Board are concurrently processing—
       - **(i)** appeals of decisions on legacy claims; and
-      - **(ii)** appeals of decisions on non-legacy claims under the modernized appeals system; and
+      - **(ii)** appeals of decisions on nonlegacy claims under the modernized appeals system; and
     - **(B)** the period during which the Administration and the Board are no longer processing any appeals of decisions on legacy claims.
   - **(4)** Identification of the legal authorities under which the Administration or the Board may—
     - **(A)** hire additional employees to conduct the concurrent processing described in paragraph (2)(A); and
@@ -287,7 +287,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     - **(B)** timelines for such outreach.
   - **(10)** Identification of and a timeline for—
     - **(A)** any training that may be required as a result of hiring new employees to carry out the modernized appeals system or to process appeals of decisions on legacy claims; and
-    - **(B)** any re-training of existing employees that may be required to carry out such system or to process such claims.
+    - **(B)** any retraining of existing employees that may be required to carry out such system or to process such claims.
   - **(11)** Identification of—
     - **(A)** the costs to the Department of the training identified under paragraph (10) and any additional training staff and any additional training facilities that will be required to provide such training; and
     - **(B)** any issues relating to how the hiring and training procedures of the Department may change because of unplanned circumstances (including with respect to delays in developing an information technology system to process appeals under the modernized appeals system) relating to carrying out the modernized appeals system or to process appeals of decisions on legacy claims.
@@ -296,21 +296,22 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     - **(B)** historical information about how long similar update efforts have taken.
   - **(13)** A timeline, including interim milestones, for promulgating such regulations as may be necessary to carry out the modernized appeals system and a comparison with historical averages for time required to promulgate regulations of similar complexity and scope.
   - **(14)** An outline of the circumstances under which claimants with pending appeals of decisions on legacy claims would be authorized to have their appeals reviewed under the modernized appeals system.
-  - **(15)** A delineation of the key goals and milestones for reducing the number of pending appeals that are not processed under the modernized appeals system, including the expected number for each of appeals, remands, and hearing requests at the Administration and the Board each year, beginning with the one year period beginning on the date of the enactment of this Act, until there are no longer any appeals pending before the Administration or the Board for a decision on a legacy claim.
+  - **(15)** A delineation of the key goals and milestones for reducing the number of pending appeals that are not processed under the modernized appeals system, including the expected number for each of appeals, remands, and hearing requests at the Administration and the Board each year, beginning with the 1-year period beginning on the date of the enactment of this Act, until there are no longer any appeals pending before the Administration or the Board for a decision on a legacy claim.
   - **(16)** The metrics and goals used by the Secretary to monitor the implementation of the modernized appeals system, including with respect to—
     - **(A)** tracking progress of such implementation;
     - **(B)** evaluating the efficiency and effectiveness of such implementation; and
     - **(C)** identifying potential issues with respect to such implementation.
   - **(17)** A description of each risk factor associated with each element of the plan and a contingency plan to minimize each such risk.
+  - **(18)** A detailed description of which employees of the Department will conduct higher level reviews under section 5104B of title 38, United States Code, as added by section 2(g).
 - **(c)** *Review by Comptroller General of the United States*
   - **(1)** *In general* Not later than 90 days after the Comptroller General of the United States receives the plan required by subsection (a), the Comptroller General shall—
     - **(A)** assess such plan in writing; and
     - **(B)** submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the findings of the Comptroller General with respect to the assessment conducted under subparagraph (A).
   - **(2)** *Elements* The assessment conducted under paragraph (1)(A) shall include the following:
     - **(A)** An assessment of whether the plan comports with sound planning practices.
-    - **(B)** Identification of any improvements the Comptroller considers appropriate for the plan.
+    - **(B)** Identification of any improvements the Comptroller General considers appropriate for the plan.
     - **(C)** Formulation of such recommendations as the Comptroller General considers appropriate.
-- **(d)** *Periodic reports* On a quarterly basis during the period beginning 90 days after the date on which the Secretary submits the plan under subsection (a) and ending on the date that the Secretary implements the modernized appeals system, and on a semiannual basis during the 10-year period following such date of implementation, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the modernized appeals system. Each such report shall include, with respect to the period covered by the report—
+- **(d)** *Periodic reports* On a quarterly basis during the period beginning 90 days after the date on which the Secretary submits the plan under subsection (a) and ending on the date that the Secretary implements the modernized appeals system, and on a semiannual basis during the 7-year period following such date of implementation, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the modernized appeals system. Each such report shall include, with respect to the period covered by the report, the following:
   - **(1)** Any updates to the plan under subsection (a).
   - **(2)** As applicable, the number of appeals considered under the modernized appeals system, including—
     - **(A)** the number of such appeals, both with respect to pending appeals and completed appeals, under each docket described in section 7107 of title 38, United States Code, as amended by section 2;
@@ -321,8 +322,14 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
     - **(B)** the average wait time and the extent to which such wait times compare with the established goals of the Secretary for such wait times; and
     - **(C)** the average age of such appeals.
   - **(4)** The efficacy of the information systems of the Department of Veterans Affairs to implement the modernized appeals system.
-  - **(5)** An identification of any changes are necessary to improve the modernized appeals system.
-- **(e)** *Report on certain docket* Not later than the date that is 90 days before the date set forth in section 2(x)(1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report setting forth a description of the docket that will be maintained under section 7107 of title 38, United States Code, as amended by section 2, for cases in which no hearing before the Board of Veterans' Appeals is requested in the notice of disagreement but the appellant requests, in the notice of disagreement, an opportunity to submit additional evidence.
+  - **(5)** With respect to the Veterans Benefits Administration and the Board of Veterans’ Appeals—
+    - **(A)** the number of supplemental claims under section 5108 of such title, as added by section 2(i), that were denied because the supplemental claims did not include new and relevant evidence;
+    - **(B)** the number of higher level reviews filed under section 5104B of such title, as added by section 2(g), that did not include new and relevant evidence, listed by the disposition of the higher level review; and
+    - **(C)** the number of appeals filed that did not include new and relevant evidence, listed by each docket described in section 7107 of such title, as amended by section 2, and the determination of the Board.
+  - **(6)** With respect to any average wait time relating to appeals not otherwise specified in this subsection—
+    - **(A)** whether the Secretary is meeting any established wait-time goals of the Secretary; and
+    - **(B)** if so, the percentage of appeals meeting such goals.
+  - **(7)** An identification of any changes that are necessary to improve the modernized appeals system.
 
 ## § 4. Programs to test assumptions relied on in development of comprehensive plan for processing of legacy appeals and supporting modernized appeals system
 
@@ -348,7 +355,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
         - **(III)** the limitation on the use of new evidence described in subparagraph (C) of paragraph (3) and the development of information under subparagraph (D) of such paragraph;
         - **(IV)** the ability of the claimant to seek advice and education regarding such process from veterans service organizations, attorneys, and claims agents recognized under chapter 59 of title 38, United States Code; and
         - **(V)** the circumstances under which the appeal will automatically revert to the standard appeals process, including by making a request for a hearing.
-      - **(ii)** The Secretary shall collaborate, partner with, and give weight to the advice of the three veterans service organizations with the most members and such other stakeholders as the Secretary considers appropriate to publish on the Internet website of the Department of Veterans Affairs an online tutorial explaining the advantages and disadvantages of the program.
+      - **(ii)** The Secretary shall collaborate, partner with, and give weight to the advice of the three veterans service organizations with the most members and such other stakeholders as the Secretary considers appropriate to publish on the internet website of the Department of Veterans Affairs an online tutorial explaining the advantages and disadvantages of the program.
   - **(3)** *Treatment by Department and Board*
     - **(A)** *Process* Upon the election of a claimant to file a fully developed appeal pursuant to paragraph (2)(A), the Secretary shall—
       - **(i)** not provide the claimant with a statement of the case nor require the claimant to file a substantive appeal; and
@@ -358,8 +365,8 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
         - **(I)** maintain fully developed appeals on a separate docket than standard appeals;
         - **(II)** decide fully developed appeals in the order that the fully developed appeals are received on the fully developed appeal docket;
         - **(III)** except as provided by clause (ii), decide not more than one fully developed appeal for each four standard appeals decided; and
-        - **(IV)** to the extent practicable, decide each fully developed appeal by the date that is one year following the date on which the claimant files the notice of disagreement.
-      - **(ii)** *Adjustment* Beginning one year after the date on which the program commences, the Board may adjust the number of standard appeals decided for each fully developed appeal under clause (i)(III) if the Board determines that such adjustment is fair for both standard appeals and fully developed appeals.
+        - **(IV)** to the extent practicable, decide each fully developed appeal by the date that is 1 year following the date on which the claimant files the notice of disagreement.
+      - **(ii)** *Adjustment* Beginning 1 year after the date on which the program commences, the Board may adjust the number of standard appeals decided for each fully developed appeal under clause (i)(III) if the Board determines that such adjustment is fair for both standard appeals and fully developed appeals.
     - **(C)** *Limitation on use of new evidence*
       - **(i)** *In general* Except as provided by clauses (ii) and (iii)—
         - **(I)** a claimant may not submit or identify to the Board of Veterans’ Appeals any new evidence relating to a fully developed appeal after filing such appeal unless the claimant reverts to the standard appeals process pursuant to paragraph (2)(D); and
@@ -376,7 +383,7 @@ This Act may be cited as the “Veterans Appeals Improvement and Modernization A
       - **(ii)** *Requirements* The Secretary shall—
         - **(I)** ensure that the Veterans Benefits Administration cooperates with the Board of Veterans’ Appeals in carrying out clause (i); and
         - **(II)** transfer employees of the Veterans Benefits Administration who, prior to the enactment of this Act, were responsible for processing claims remanded by the Board of Veterans’ Appeals to positions within the office of the Board established under clause (i) in a number the Secretary determines sufficient to carry out such subparagraph.
-    - **(F)** *Hearings* Notwithstanding section 7107 of title 38, United States Code, the Secretary may not provide hearings with respect to fully developed appeals under the program. If a claimant requests to hold a hearing pursuant to such section 7107, such request shall be deemed to be an election to revert to the standard appeals process pursuant to paragraph (2)(E).
+    - **(F)** *Hearings* Notwithstanding section 7107 of title 38, United States Code, the Secretary may not provide hearings with respect to fully developed appeals under the program. If a claimant requests to hold a hearing pursuant to such section 7107, such request shall be deemed to be an election to revert to the standard appeals process pursuant to paragraph (2)(D).
   - **(4)** *Duration; applicability*
     - **(A)** *Duration* Subject to subsection (c), the Secretary may carry out the program during such period as the Secretary considers appropriate.
     - **(B)** *Applicability* This section shall apply only to fully developed appeals that are filed during the period in which the program is carried out pursuant to subparagraph (A).
@@ -399,7 +406,7 @@ On the first business day of each month the Secretary of Veterans Affairs shall 
   - **(B)** The number of appeals on any docket maintained under section 7107 of such title, as amended by section 2(t), that are pending.
   - **(C)** The average duration for processing claims and supplemental claims, disaggregated by regional office.
   - **(D)** The average duration for processing requests for higher level review under section 5104B of such title, as added by section 2(g), disaggregated by regional office.
-  - **(E)** The average number of days that appeals are pending on the non-hearing, no-additional evidence option docket of the Board of Veterans' Appeals maintained pursuant to section 7107 of such title, as amended by section 2(t), and any other docket maintained by the Board under such section that prohibits the submittal of additional evidence.
+  - **(E)** The average number of days that appeals are pending on the nonhearing, no-additional evidence option docket of the Board of Veterans' Appeals maintained pursuant to section 7107 of such title, as amended by section 2(t), and any other docket maintained by the Board under such section that prohibits the submittal of additional evidence.
   - **(F)** The average number of days that appeals are pending on dockets maintained under such section in which hearings are requested or submittal of additional evidence is allowed.
   - **(G)** The average number of days that an appeal is pending on any other docket maintained by the Board under such section.
   - **(H)** In the case that the Secretary develops and implements a policy under section 7107(e) of such title, as amended by section 2(t)—
@@ -415,20 +422,20 @@ On the first business day of each month the Secretary of Veterans Affairs shall 
   - **(O)** The average duration, from the filing of an initial claim until the claim is resolved and claimants no longer take any action to protect their effective date under section 5110(a)(2) of such title, as so added—
     - **(i)** of claims under the modernized appeals system, excluding legacy claims that opt in to the modernized appeals system; and
     - **(ii)** of legacy claims that opt in to the modernized appeals system.
-  - **(P)** How frequently an action taken within one year to protect an effective date under section 5110(a)(2) of such title, as so added, leads to additional grant of benefits, disaggregated by action taken.
+  - **(P)** How frequently an action taken within 1 year to protect an effective date under section 5110(a)(2) of such title, as so added, leads to additional grant of benefits, disaggregated by action taken.
   - **(Q)** The average of how long it takes to complete each segment of the claims process while claimants are protecting the effective date under such section, disaggregated by the time waiting for the claimant to take an action and the time waiting for the Secretary to take an action.
   - **(R)** The number and the average amount of retroactive awards of benefits from the Secretary as a result of protected effective dates under such section, disaggregated by action taken.
   - **(S)** The average number of times claimants submit to the Secretary different claims with respect to same condition, such as an initial claim and a supplemental claim.
   - **(T)** The number of cases each year in which a claimant inappropriately tried to take simultaneous actions, such as filing a supplemental claim while a higher level review is pending, what actions the Secretary took in response, and how long it took on average to take those actions.
   - **(U)** In the case that the Secretary develops and implements a policy under section 5104C(a)(2)(D) of such title, as amended by section 2(h)(1), the number of actions withdrawn and new actions taken pursuant to such policy.
   - **(V)** The number of times the Secretary received evidence relating to an appeal or higher level review at a time not authorized under the modernized appeals system, disaggregated by actions taken by the Secretary to deal with the evidence and how long on average it took to take those actions.
-  - **(W)** The number of errors committed by the Secretary in carrying out the Secretary's duty to assist under section 5103A of title 38, United States Code, that were identified by higher level review and by the Board, disaggregated by type of error, such as errors relating to private records and inadequate examinations, and a comparison with errors committed by the Secretary in carrying out such duty with respect to appeals of decisions on legacy claims.
+  - **(W)** The number of errors committed by the Secretary in carrying out the Secretary’s duty to assist under section 5103A of title 38, United States Code, that were identified by higher level review and by the Board, disaggregated by type of error, such as errors relating to private records and inadequate examinations, and a comparison with errors committed by the Secretary in carrying out such duty with respect to appeals of decisions on legacy claims.
   - **(X)** An assessment of the productivity of employees at the regional offices and at the Board, disaggregated by level of experience of the employees.
 - **(2)** With respect to the processing by the Secretary of appeals of decisions on legacy claims, the following:
   - **(A)** The average duration of each segment of the appeals process, disaggregated by periods in which the Secretary is waiting for a claimant to take an action and periods in which the claimant is waiting for the Secretary to take an action.
   - **(B)** The frequency by which appeals lead to additional grant of benefits by the Secretary, disaggregated by whether the additional benefits are a result of additional evidence added after the initial decision.
   - **(C)** The number and average amount of retroactive awards of benefits resulting from an appeal.
-  - **(D)** The average duration from filing the appeal with the Secretary until all appeals and remands relating to such are completed.
+  - **(D)** The average duration from filing the appeal with the Secretary until all appeals and remands relating to such appeals are completed.
   - **(E)** The average number of times claimants submit to the Secretary different claims with respect to same condition, such as an initial claim, new and material evidence, or a claim for an increase in benefits.
   - **(F)** An assessment of the productivity of employees at the regional offices and at the Board, disaggregated by level of experience of the employees.
   - **(G)** The average number of days the duration of an appeal is extended because the Secretary secured or attempted to secure an advisory medical opinion under section 5109 of title 38, United States Code, or section 7109 of such title (as in effect on the day before the date of the enactment of this Act).
@@ -438,8 +445,8 @@ On the first business day of each month the Secretary of Veterans Affairs shall 
   - **(C)** The average period such legacy claims were pending before opting in to the modernized appeals system and the average period required to adjudicate such legacy claims on average after opting in—
     - **(i)** with respect to claims at a regional office of the Department of Veterans Affairs, disaggregated by—
       - **(I)** supplemental claims under section 5108 of title 38, United States Code, as amended by section 2(i); and
-      - **(II)** requests for higher-level review under section 5104B of such title, as added by section 2(g); and
-    - **(ii)** with respect to appeals, dis­ag­gre­gat­ed by docket of the Board maintained under section 7107 of such title, as amended by section 2(t).
+      - **(II)** requests for higher level review under section 5104B of such title, as added by section 2(g); and
+    - **(ii)** with respect to appeals, disaggregated by docket of the Board maintained under section 7107 of such title, as amended by section 2(t).
 
 ## § 6. Definitions
 
