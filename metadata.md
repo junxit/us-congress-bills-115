@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 695
@@ -65,9 +65,10 @@ Department of Defense Appropriations Act, 2018
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Department of Defense Appropriations Act, 2018
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 87.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-138.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-138.
+- 2017-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
