@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1461
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,6 +35,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 7 of title 38, United States Code, is further amended by inserting after section 717 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter, as amended by section 2, is further amended by inserting after the item relating to section 717 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Service or” and inserting “Service,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end before the period the following: “, or any individual covered by section 719 of title 38”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 3393(d), by adding at the end after the period the following: “The preceding sentence shall not apply to any individual covered by section 719 of title 38.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Service, or” and inserting “Service,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end before the period the following: “, or any individual covered by section 719 of title 38”; | the bill names no machine-readable US Code section |
+| — | insert | in section 3393(d), by inserting at the end before the period the following: “or section 719 of title 38”; | the bill names no machine-readable US Code section |
+| — | insert | in sections 7501(1) and 7511(a)(1)(A)(ii), by inserting “or section 719 of title 38” after “title 10” in each instance it appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “title or” and inserting “title,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end before the semicolon the following: “, or section 719 of title 38”. | the bill names no machine-readable US Code section |
