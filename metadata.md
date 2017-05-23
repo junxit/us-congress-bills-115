@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1370
@@ -46,3 +46,9 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 92.
 - 2017-05-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-143, Part I.
 - 2017-05-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-143, Part I.
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4480-4483)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1370.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4480-4481)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4480-4481)
