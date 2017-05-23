@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 624
@@ -16,7 +16,7 @@ Social Security Number Fraud Prevention Act of 2017
 
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 
-## Cosponsors (26)
+## Cosponsors (33)
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
@@ -44,13 +44,29 @@ Social Security Number Fraud Prevention Act of 2017
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Faso, John J. [R-NY-19] (F000464)
+- Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- House — Ways and Means Committee
 
 ## Actions
 
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-02-14 — Committee Consideration and Mark-up Session Held.
+- 2017-02-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-05-23 — Committee on Ways and Means discharged.
+- 2017-05-23 — Committee on Ways and Means discharged.
+- 2017-05-23 — Placed on the Union Calendar, Calendar No. 98.
+- 2017-05-23 — Referred sequentially to the House Committee on Ways and Means for a period ending not later than May 23, 2017 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(t) of rule X.
+- 2017-05-23 — Reported (Amended) by the Committee on 115-150, Part I.
+- 2017-05-23 — Reported (Amended) by the Committee on 115-150, Part I.
