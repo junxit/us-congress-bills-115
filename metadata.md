@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1162
@@ -16,7 +16,7 @@ No Hero Left Untreated Act
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (50)
+## Cosponsors (56)
 
 - Rep. Heck, Denny [D-WA-10] (H001064)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -68,6 +68,12 @@ No Hero Left Untreated Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
 ## Committees (1)
 
@@ -78,3 +84,17 @@ No Hero Left Untreated Act
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Veterans' Affairs.
+- 2017-03-03 — Referred to the Subcommittee on Health.
+- 2017-03-29 — Subcommittee Hearings Held.
+- 2017-04-06 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2017-05-17 — Committee Consideration and Mark-up Session Held.
+- 2017-05-17 — Ordered to be Reported by Voice Vote.
+- 2017-05-23 — Considered under suspension of the rules. (consideration: CR H4469-4473)
+- 2017-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1162.
+- 2017-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2017-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4470)
+- 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4470)
+- 2017-05-23 — Placed on the Union Calendar, Calendar No. 95.
+- 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
+- 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
