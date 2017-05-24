@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1238
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1238
@@ -69,3 +69,12 @@ Securing our Agriculture and Food Act
 - 2017-05-24 — Senate amendment agreed to: Amendment SA 217 agreed to in Senate by Unanimous Consent.
 - 2017-05-24 — Senate amendment proposed (on the floor): Amendment SA 217 proposed by Senator Sullivan for Senator Roberts.(consideration: CR S3151-3152; text: CR S3151-3152)
 - 2017-05-24 — Senate amendment submitted
+- 2017-05-25 — Message on Senate action sent to the House.
+- 2017-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-20 — Mr. Katko asked unanimous consent to take from the Speaker's table and agree to the Senate amendments. (consideration: CR H4974-4975)
+- 2017-06-20 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendments: CR H4974-4975)
+- 2017-06-20 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendments: CR H4974-4975)
+- 2017-06-27 — Presented to President.
+- 2017-06-27 — Presented to President.
+- 2017-06-30 — Signed by President.
+- 2017-06-30 — Signed by President.
