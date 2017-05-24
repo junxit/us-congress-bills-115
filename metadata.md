@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1162
@@ -100,3 +100,14 @@ No Hero Left Untreated Act
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
 - 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7896)
+- 2018-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7896)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-339.
+- 2018-12-21 — Became Public Law No: 115-339.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
