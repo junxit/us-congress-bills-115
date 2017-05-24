@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1545
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1545
@@ -30,9 +30,10 @@ VA Prescription Data Accountability Act 2017
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ VA Prescription Data Accountability Act 2017
 - 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
 - 2017-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4473)
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
