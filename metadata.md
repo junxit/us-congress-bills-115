@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 624
@@ -70,3 +70,10 @@ Social Security Number Fraud Prevention Act of 2017
 - 2017-05-23 — Referred sequentially to the House Committee on Ways and Means for a period ending not later than May 23, 2017 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(t) of rule X.
 - 2017-05-23 — Reported (Amended) by the Committee on 115-150, Part I.
 - 2017-05-23 — Reported (Amended) by the Committee on 115-150, Part I.
+- 2017-05-24 — Considered under suspension of the rules. (consideration: CR H4533-4535)
+- 2017-05-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 624.
+- 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-24 — Mr. Ross moved to suspend the rules and pass the bill, as amended.
+- 2017-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4533)
+- 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4533)
+- 2017-05-24 — The title of the measure was amended. Agreed to without objection.
