@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2473
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2473
@@ -20,10 +20,11 @@ Put Trafficking Victims First Act of 2017
 
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Put Trafficking Victims First Act of 2017
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4484-4486)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4484-4486)
 - 2017-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
