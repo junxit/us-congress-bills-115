@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 467
@@ -26,6 +26,10 @@ VA Scheduling Accountability Act
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2017-05-24 — [House 115-1-278](votes/house-115-1-0278.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
+
 ## Actions
 
 - 2017-01-12 — Introduced in House
@@ -48,3 +52,7 @@ VA Scheduling Accountability Act
 - 2017-05-23 — Placed on the Union Calendar, Calendar No. 97.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-149, Part I.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-149, Part I.
+- 2017-05-24 — Considered as unfinished business. (consideration: CR H4527-4528)
+- 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 278). (text: CR 5/23/2017 H4467)
+- 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 278).(text: CR 5/23/2017 H4467)
