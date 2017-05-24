@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1238
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1238
@@ -16,10 +16,11 @@ Securing our Agriculture and Food Act
 
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (4)
 
@@ -58,3 +59,13 @@ Securing our Agriculture and Food Act
 - 2017-03-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 6 (Roll no. 187). (text: CR H2304-2305)
 - 2017-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 6 (Roll no. 187).(text: CR H2304-2305)
 - 2017-03-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-24 — Amendment SA 217 agreed to in Senate by Unanimous Consent.
+- 2017-05-24 — Amendment SA 217 proposed by Senator Sullivan for Senator Roberts. (consideration: CR S3151-3152; text: CR S3151-3152) To preserve the authority of the Secretaries of Agriculture and Health and Human Services and make a technical correction.
+- 2017-05-24 — Measure laid before Senate by unanimous consent. (consideration: CR S3151-3152)
+- 2017-05-24 — Passed Senate with amendments by Unanimous Consent.
+- 2017-05-24 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2017-05-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2017-05-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2017-05-24 — Senate amendment agreed to: Amendment SA 217 agreed to in Senate by Unanimous Consent.
+- 2017-05-24 — Senate amendment proposed (on the floor): Amendment SA 217 proposed by Senator Sullivan for Senator Roberts.(consideration: CR S3151-3152; text: CR S3151-3152)
+- 2017-05-24 — Senate amendment submitted
