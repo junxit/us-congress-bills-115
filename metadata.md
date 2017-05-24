@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1370
@@ -27,10 +27,11 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-05-23 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4480-4481)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4480-4481)
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
