@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2288
@@ -45,9 +45,10 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - 2017-05-23 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273). (text: CR H4457-4463)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273).(text: CR H4457-4463)
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
