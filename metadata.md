@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1329
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1329
@@ -31,9 +31,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2017
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2017
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4476)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4476)
 - 2017-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
