@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1725
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1725
@@ -53,3 +53,14 @@ To direct the Secretary of Veterans Affairs to submit certain reports relating t
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4475)
 - 2017-05-23 — The title of the measure was amended. Agreed to without objection.
 - 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-02-15 — Passed Senate without amendment by Unanimous Consent.
+- 2018-02-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-02-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1190-1191)
+- 2018-02-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1190-1191)
+- 2018-02-16 — Message on Senate action sent to the House.
+- 2018-02-28 — Presented to President.
+- 2018-02-28 — Presented to President.
+- 2018-03-09 — Became Public Law No: 115-130.
+- 2018-03-09 — Became Public Law No: 115-130.
+- 2018-03-09 — Signed by President.
+- 2018-03-09 — Signed by President.
