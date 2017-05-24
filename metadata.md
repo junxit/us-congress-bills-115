@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1809
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1809
@@ -62,3 +62,4 @@ Juvenile Justice Reform Act of 2017
 - 2017-05-23 — Mr. Lewis (MN) moved to suspend the rules and pass the bill, as amended.
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4441-4451)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4441-4451)
+- 2017-05-24 — Received in the Senate.
