@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1162
@@ -75,9 +75,10 @@ No Hero Left Untreated Act
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -98,3 +99,4 @@ No Hero Left Untreated Act
 - 2017-05-23 — Placed on the Union Calendar, Calendar No. 95.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-147.
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

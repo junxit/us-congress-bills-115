@@ -2,7 +2,7 @@
 legis-num: H.R. 1162
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1162
@@ -27,6 +27,6 @@ Congress finds the following:
 - **(a)** *Pilot program* Commencing not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall carry out a pilot program to provide access to magnetic EEG/EKG-guided resonance therapy to treat veterans suffering from post-traumatic stress disorder, traumatic brain injury, military sexual trauma, chronic pain, or opiate addiction.
 - **(b)** *Locations* The Secretary shall carry out the pilot program under subsection (a) at not more than two facilities of the Department of Veterans Affairs.
 - **(c)** *Participants* In carrying out the pilot program under subsection (a), the Secretary shall provide access to magnetic EEG/EKG-guided resonance therapy to not more than 50 veterans.
-- **(d)** *Duration* The Secretary shall carry out the pilot program under subsection (a) for a one-year period.
+- **(d)** *Duration* The Secretary shall carry out the pilot program under subsection (a) for a 1-year period.
 - **(e)** *Report* Not later than 90 days after the termination of the pilot program under subsection (d), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the pilot program.
 - **(f)** *No authorization of appropriations* No additional amounts are authorized to be appropriated to carry out the requirements of this section. Such requirements shall be carried out using amounts authorized under provisions of law other than this section.
