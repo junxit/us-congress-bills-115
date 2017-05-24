@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1725
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1725
@@ -27,9 +27,10 @@ To direct the Secretary of Veterans Affairs to submit certain reports relating t
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To direct the Secretary of Veterans Affairs to submit certain reports relating t
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4475)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4475)
 - 2017-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
