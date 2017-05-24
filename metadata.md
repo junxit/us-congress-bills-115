@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1808
@@ -38,9 +38,10 @@ Improving Support for Missing and Exploited Children Act of 2017
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Improving Support for Missing and Exploited Children Act of 2017
 - 2017-05-23 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4453-4454)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4453-4454)
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
