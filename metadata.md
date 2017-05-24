@@ -1,7 +1,7 @@
 ---
 measure: S. 190
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 190
@@ -28,3 +28,7 @@ Power And Security Systems (PASS) Act
 
 - 2017-01-23 — Introduced in Senate
 - 2017-01-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-76.
+- 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-76.
+- 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
