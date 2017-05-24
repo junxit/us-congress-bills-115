@@ -1,7 +1,7 @@
 ---
 measure: S. 239
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 239
@@ -30,3 +30,7 @@ Energy Savings Through Public-Private Partnerships Act of 2017
 
 - 2017-01-30 — Introduced in Senate
 - 2017-01-30 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-79.
+- 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-79.
+- 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
