@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1005
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1005
@@ -69,9 +69,10 @@ To amend title 38, United States Code, to improve the provision of adult day hea
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ To amend title 38, United States Code, to improve the provision of adult day hea
 - 2017-05-23 — Placed on the Union Calendar, Calendar No. 96.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-148.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-148.
+- 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
