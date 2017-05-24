@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 350
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 350
@@ -25,3 +25,10 @@ Permitting official photographs of the House of Representatives to be taken whil
 - 2017-05-22 — Introduced in House
 - 2017-05-22 — Introduced in House
 - 2017-05-22 — Referred to the House Committee on House Administration.
+- 2017-05-24 — Committee on House Administration discharged.
+- 2017-05-24 — Committee on House Administration discharged.
+- 2017-05-24 — Considered by unanimous consent. (consideration: CR H4553)
+- 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-24 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2017-05-24 — On agreeing to the resolution Agreed to without objection. (text: CR H4553)
+- 2017-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4553)
