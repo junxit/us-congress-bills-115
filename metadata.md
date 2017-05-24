@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1545
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1545
@@ -55,3 +55,12 @@ VA Prescription Data Accountability Act 2017
 - 2017-05-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4473)
 - 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-11-15 — Passed Senate without amendment by Unanimous Consent.
+- 2017-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2017-11-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7267)
+- 2017-11-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7267)
+- 2017-11-16 — Message on Senate action sent to the House.
+- 2017-11-17 — Presented to President.
+- 2017-11-17 — Presented to President.
+- 2017-11-21 — Signed by President.
+- 2017-11-21 — Signed by President.
