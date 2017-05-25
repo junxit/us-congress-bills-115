@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1973
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1973
@@ -40,6 +40,10 @@ Protecting Young Victims from Sexual Abuse Act of 2017
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2017-05-25 — [House 115-1-285](votes/house-115-1-0285.md) — On Passage — **Passed** (415–3)
+
 ## Actions
 
 - 2017-04-06 — Introduced in House
@@ -56,3 +60,39 @@ Protecting Young Victims from Sexual Abuse Act of 2017
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 85.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-136, Part I.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-136, Part I.
+- 2017-05-23 — Rules Committee Resolution H. Res. 352 Reported to House. The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
+- 2017-05-25 — Amendment (A001) offered by Mr. Johnson (LA). (consideration: CR H4580-4581; text: CR H4580)
+- 2017-05-25 — Amendment (A002) offered by Mr. Costa. (consideration: CR H4581; text: CR H4581)
+- 2017-05-25 — Amendment (A003) offered by Mr. O'Halleran. (consideration: CR H4581-4582; text: CR H4581)
+- 2017-05-25 — Amendment agreed to Committee of the Whole
+- 2017-05-25 — Amendment agreed to Committee of the Whole
+- 2017-05-25 — By unanimous consent, the Costa amendment was withdrawn.
+- 2017-05-25 — Considered as unfinished business. (consideration: CR H4590-4591)
+- 2017-05-25 — Considered under the provisions of rule H. Res. 352. (consideration: CR H4575-4582)
+- 2017-05-25 — DEBATE - Pursuant to the provisions of H. Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment No. 2.
+- 2017-05-25 — DEBATE - Pursuant to the provisions of H. Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 3.
+- 2017-05-25 — DEBATE - Pursuant to the provisions of H.Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (LA) amendment No. 1.
+- 2017-05-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1973.
+- 2017-05-25 — GENERAL DEBATE - The Committee of the Whole resumed with general debate on H.R. 1973.
+- 2017-05-25 — House amendment agreed to: On agreeing to the Johnson (LA) amendment (A001) Agreed to by voice vote.
+- 2017-05-25 — House amendment agreed to: On agreeing to the O'Halleran amendment (A003) Agreed to by voice vote.
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered/reported by : Amendment (A001) offered by Mr. Johnson (LA).(consideration: CR H4580-4581; text: CR H4580)
+- 2017-05-25 — House amendment offered/reported by : Amendment (A002) offered by Mr. Costa.(consideration: CR H4581; text: CR H4581)
+- 2017-05-25 — House amendment offered/reported by : Amendment (A003) offered by Mr. O'Halleran.(consideration: CR H4581-4582; text: CR H4581)
+- 2017-05-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 352 and Rule XVIII.
+- 2017-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-25 — On agreeing to the Johnson (LA) amendment (A001) Agreed to by voice vote.
+- 2017-05-25 — On agreeing to the O'Halleran amendment (A003) Agreed to by voice vote.
+- 2017-05-25 — On passage Passed by the Yeas and Nays: 415 - 3 (Roll no. 285). (text: CR H4579-4580)
+- 2017-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1973, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Goodlatte demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.
+- 2017-05-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 415 - 3 (Roll no. 285).(text: CR H4579-4580)
+- 2017-05-25 — Subsequently, the Committee resume its sitting.
+- 2017-05-25 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2017-05-25 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-05-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1973.
+- 2017-05-25 — The Speaker designated the Honorable Bruce Poliquin to act as Chairman of the Committee.
+- 2017-05-25 — The previous question was ordered pursuant to the rule.
+- 2017-05-25 — The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
