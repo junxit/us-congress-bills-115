@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2052
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2052
@@ -120,9 +120,10 @@ PRIVATE Act
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -139,3 +140,4 @@ PRIVATE Act
 - 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-05-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 277). (text: CR 5/23/2017 H4477-4478)
 - 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 277).(text: CR 5/23/2017 H4477-4478)
+- 2017-05-25 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
