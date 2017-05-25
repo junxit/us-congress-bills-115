@@ -13,31 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017”.
 
-## § 2. Reduction of benefits for senior executives and certain health care employees of Department of Veterans Affairs convicted of a felony
-
-- **(a)** *In general* Chapter 7 of title 38, United States Code, is amended by inserting after section 713 the following new section:
-  > ## § 714. Senior executives and section 7401(1) employees: reduction of benefits of individuals convicted of a felony
-  >
-  > - **(a)** *Reduction of annuity for removed individual* The covered service of an individual removed from a covered position at the Department by the Secretary for performance or misconduct shall not be taken into account for purposes of calculating an annuity with respect to such individual under chapter 83 or chapter 84 of title 5, if the individual is convicted of a felony (and the conviction is final) that was related, as determined by the Director of the Office of Personnel Management, to the individual’s conduct or performance while employed in such covered position.
-  > - **(b)** *Reduction of annuity for retired individual*
-  >   - **(1)** The Secretary may order that the covered service of an individual who is subject to a removal or transfer from a covered position at the Department by the Secretary for performance or misconduct but who leaves employment at the Department prior to the issuance of a final decision with respect to such removal or transfer shall not be taken into account for purposes of calculating an annuity with respect to such individual under chapter 83 or chapter 84 of title 5, if the individual is convicted of a felony (and the conviction is final) that was related, as determined by the Director of the Office of Personnel Management, to the individual’s performance while employed in such covered position.
-  >   - **(2)** The Secretary shall make such an order not later than 7 days after the date on which such individual is convicted of such felony.
-  >   - **(3)** Not later than 30 days after the Secretary issues any order with respect to an individual under paragraph (1), the Director of the Office of Personnel Management shall recalculate the annuity of the individual.
-  > - **(c)** *Lump-Sum annuity credit* Any individual with respect to whom an annuity is reduced under subsection (a) or (b) shall be entitled to be paid so much of such individual’s lump-sum credit as is attributable to the period of covered service.
-  > - **(d)** *Review of reduction of annuity* Any individual whose annuity is reduced under subsection (a) or (b) may appeal the reduction to the Director of the Office of Personnel Management.
-  > - **(e)** *Definitions* In this section:
-  >   - **(1)** The term covered position is—
-  >     - **(A)** a senior executive position; or
-  >     - **(B)** a position listed in section 7401(1) of this title that is not a senior executive position.
-  >   - **(2)** The term covered service means, with respect to an individual subject to a removal or transfer from a covered position at the Department for performance or misconduct, the period of service beginning on the date that the Secretary determines that such individual engaged in activity that gave rise to such action and ending on the date that such individual is removed from the civil service or leaves employment at the Department prior to the issuance of a final decision with respect to such action, as the case may be.
-  >   - **(3)** The term lump-sum credit has the meaning given such term in section 8331 or 8401 of title 5, as the case may be.
-  >   - **(4)** The term senior executive position has the meaning given such term in section 713(g) of this title.
-  >   - **(5)** The term service has the meaning given such term in section 8331 or 8401 of title 5, as the case may be.
-
-- **(b)** *Application* Section 714 of such title, as added by subsection (a), shall apply to any action of removal or transfer from a covered position (as defined in subsection (e) of such section) at the Department of Veterans Affairs commencing on or after the date of the enactment of this Act.
-- **(c)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after section 713 the following new item:
-
-## § 3. Accountability of leaders for managing the Department of Veterans Affairs
+## § 2. Accountability of leaders for managing the Department of Veterans Affairs
 
 - **(a)** *In general* Chapter 7 of title 38, United States Code, is amended by inserting after section 709 the following new section:
   > ## § 710. Annual performance plan for political appointees
@@ -51,7 +27,7 @@ This Act may be cited as the “Increasing the Department of Veterans Affairs Ac
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 7 of such title is further amended by inserting after the item relating to section 709 the following new item:
 
-## § 4. Accountability of supervisors at Department of Veterans Affairs for hiring well-qualified people
+## § 3. Accountability of supervisors at Department of Veterans Affairs for hiring well-qualified people
 
 - **(a)** *Assessment during probationary period*
   - **(1)** *Determination required* With respect to any employee of the Department of Veterans Affairs who is required to serve a probationary period in a position in the Department, the Secretary of Veterans Affairs shall require the supervisor of such employee to determine, during the 30-day period ending on the date on which the probationary period ends, whether the employee—
@@ -71,14 +47,14 @@ This Act may be cited as the “Increasing the Department of Veterans Affairs Ac
   - **(2)** making a timely determination under subsection (a) regarding the probationary status of such employee.
 - **(d)** *Supervisor defined* In this section, the term supervisor has the meaning given such term in section 7103(a) of title 5, United States Code.
 
-## § 5. Accountability of managers for addressing performance of employees
+## § 4. Accountability of managers for addressing performance of employees
 
 The Secretary of Veterans Affairs shall ensure that, as a part of the annual performance plan of an employee of the Department of Veterans Affairs who is a manager, the manager is evaluated on the following:
 
 - **(1)** Taking action to address poor performance and misconduct among the employees that report to the manager.
 - **(2)** Taking steps to improve or sustain high levels of employee engagement.
 
-## § 6. Written opinion on certain employment restrictions after terminating employment with the Department of Veterans Affairs
+## § 5. Written opinion on certain employment restrictions after terminating employment with the Department of Veterans Affairs
 
 - **(a)** *In general* Subchapter I of chapter 7 of title 38, United States Code, is further amended by adding at the end the following new section:
   > ## § 717. Written opinion on certain employment restrictions after terminating employment with the Department
@@ -88,7 +64,7 @@ The Secretary of Veterans Affairs shall ensure that, as a part of the annual per
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 7 of such title is further amended by inserting after the item relating to section 715 the following new item:
 
-## § 7. Requirement for contractors of the Department employing certain recently separated Department employees
+## § 6. Requirement for contractors of the Department employing certain recently separated Department employees
 
 - **(a)** *In general* Subchapter II of chapter 81 of title 38, United States Code, is amended by adding at the end the following new section:
   > ## § 8129. Requirement for contractors employing certain recently separated Department employees
