@@ -1,12 +1,18 @@
 ---
 legis-num: S. 1083
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1083
 
-That the bill from the Senate (S. 1083) entitled “An Act to amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Board lacks a quorum.”, do pass with the following
+> To amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Board lacks a quorum.
 
-*In section 1214(b)(1)(B)(ii) of title 5, United States Code, as proposed to be added by section 1(2) of the Senate engrossed bill, strike “shall” and insert “may”.*
+## § 1. Stays by MSPB during periods with no quorum
+
+Section 1214(b)(1)(B) of title 5, United States Code, is amended—
+
+- **(1)** by inserting “(i)” before “The Board may”; and
+- **(2)** by adding at the end the following:
+  > - **(ii)** If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board who was appointed, by and with the advice and consent of the Senate, may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
