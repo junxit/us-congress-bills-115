@@ -28,9 +28,9 @@ This Act may be cited as the “Protecting Young Victims from Sexual Abuse Act o
     - **(A)** in paragraph (7), by striking “and” at the end;
     - **(B)** in paragraph (8), by striking the period at the end and inserting a semicolon; and
     - **(C)** by adding at the end the following:
-      > - **(9)** the term “covered facility” means a facility over which a national governing body has jurisdiction;
-      > - **(10)** the term “covered individual” means an adult who is authorized by a covered facility or by a national governing body to interact with a minor or amateur athlete at the covered facility or at any event sanctioned by the covered facility; and
-      > - **(11)** the term “national governing body” has the meaning given the term in section 220501(b) of title 36, United States Code.
+      > - **(9)** the term “covered individual” means an adult who is authorized by a national governing body or a member of a national governing body to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body or a member of a national governing body;
+      > - **(10)** the term “event” includes travel, practice, competition, and health or medical treatment; and
+      > - **(11)** the terms “amateur athlete”, “amateur sports organization”, and “national governing body” have the meanings given such terms in section 220501(b) of title 36, United States Code.
 
   - **(4)** in subsection (d), in the first sentence, by inserting “and for all covered facilities” after “reside”;
   - **(5)** in subsection (f), in the first sentence—
@@ -50,7 +50,7 @@ Section 2255 of title 18, United States Code, is amended—
   > - **(a)** *In general* Any person who, while a minor, was a victim of a violation of section 1589, 1590, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423 of this title and who suffers personal injury as a result of such violation, regardless of whether the injury occurred while such person was a minor, may sue in any appropriate United States District Court and shall recover the actual damages such person sustains or liquidated damages in the amount of $150,000, and the cost of the action, including reasonable attorney’s fees and other litigation costs reasonably incurred. The court may also award punitive damages and such other preliminary and equitable relief as the court determines to be appropriate.
 
 - **(2)** in subsection (b), by striking “filed within” and all that follows through the end and inserting the following:
-  > file—
+  > filed—
   > - **(1)** not later than 10 years after the date on which the plaintiff reasonably discovers the later of—
   >   - **(A)** the violation that forms the basis for the claim; or
   >   - **(B)** the injury that forms the basis for the claim; or
@@ -79,8 +79,9 @@ Section 2255 of title 18, United States Code, is amended—
     > - **(10)** develop and enforce policies, mechanisms, and procedures to prevent the abuse, including physical abuse and sexual abuse, of any minor or amateur athlete, including—
     >   - **(A)** requiring all adults authorized by a national governing body or a member of a national governing body to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body or a member of a national governing body, to report facts that give reason to suspect child abuse, including sexual abuse, as required by relevant Federal or State law, to law enforcement authorities and other appropriate authorities, including an entity designated by the corporation to investigate and resolve such allegations;
     >   - **(B)** establishing a mechanism, approved by a trained expert on child abuse, that allows an individual to easily report an incident of child abuse as described in subparagraph (A) to the national governing body or another authority, including an entity designated by the corporation;
-    >   - **(C)** procedures to ensure that covered individuals are instructed to avoid one-on-one situations with any amateur athlete who is a minor (other than such an athlete for whom the covered individual is a legal guardian) at an amateur sports organization facility, at any event sanctioned by a national governing body, or any event sanctioned by a member of a national governing body, without being observable or interruptible by another adult; and
+    >   - **(C)** reasonable procedures designed to avoid one-on-one interactions between an amateur athlete who is a minor and an adult (who is not the minor’s legal guardian) at an amateur sports organization facility, at any event sanctioned by a national governing body, or any event sanctioned by a member of a national governing body, without being observable or interruptible by another adult, except where the safety and welfare of the minor requires;
     >   - **(D)** oversight procedures, including regular and random audits, not to exceed once a year, conducted by subject matter experts unaffiliated with the national governing body, of all members and adults described in subparagraph (A) to ensure that policies and procedures developed under this paragraph are followed correctly and that consistent training is offered and given to all members regarding prevention of sexual abuse; and
+    >   - **(E)** requiring dedicated information and resources, which may include sexual assault hotlines and victims’ support resources, to be clearly listed on the national governing body’s official website; and
     > - **(11)** in the case of a national governing body with jurisdiction over more than one amateur sports organization facility or event, establish a mechanism by which—
     >   - **(A)** the national governing body can—
     >     - **(i)** receive a report of suspected sexual misconduct by an adult authorized by a national governing body or a member of a national governing body to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body or a member of a national governing body; and
