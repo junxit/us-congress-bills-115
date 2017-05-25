@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 467
@@ -21,10 +21,11 @@ VA Scheduling Accountability Act
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ VA Scheduling Accountability Act
 - 2017-05-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-05-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 278). (text: CR 5/23/2017 H4467)
 - 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 278).(text: CR 5/23/2017 H4467)
+- 2017-05-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
