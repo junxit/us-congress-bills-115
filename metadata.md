@@ -1,7 +1,7 @@
 ---
 measure: S. 114
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 114
@@ -28,3 +28,8 @@ VA Choice and Quality Employment Act of 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-05-25 — Message on Senate action sent to the House.
+- 2017-05-25 — Passed Senate without amendment by Unanimous Consent. (text: CR S3190)
+- 2017-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3190)
+- 2017-05-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3190)
+- 2017-05-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3190)
