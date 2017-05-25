@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 624
@@ -78,3 +78,10 @@ Social Security Number Fraud Prevention Act of 2017
 - 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4533)
 - 2017-05-24 — The title of the measure was amended. Agreed to without objection.
 - 2017-05-25 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
+- 2017-09-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5020)
+- 2017-09-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5020)
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-08 — Presented to President.
+- 2017-09-08 — Presented to President.
+- 2017-09-15 — Signed by President.
+- 2017-09-15 — Signed by President.
