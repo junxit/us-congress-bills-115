@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,035 amendatory instructions. 382 executed, 653 stated and not applied.
+1,040 amendatory instructions. 382 executed, 658 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -2618,7 +2618,7 @@ to guess them.
 
 ### 15 U.S.C. § 7706
 
-> Section 7(b)(1)(D) of the CAN-SPAM Act of 2003 (15 U.S.C. 7706(b)(1)(D)) is amended by striking “Director of the Office of Thrift Supervision” and inserting “Comptroller of the Currency or the Board of Directors of Federal Deposit Insurance Corporation, as applicable,”.
+> Section 7(b)(1)(D) of the CAN–SPAM Act of 2003 (15 U.S.C. 7706(b)(1)(D)) is amended by striking “Director of the Office of Thrift Supervision” and inserting “Comptroller of the Currency or the Board of Directors of Federal Deposit Insurance Corporation, as applicable,”.
 
 | | |
 |---|---|
@@ -3614,14 +3614,18 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1812` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4512` | strike | Section 1312(b)(2) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4512) is amended by striking “for cause”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1820` | replace | by striking “(a) The” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1820` | insert | by inserting “, subject to paragraph (2) and subsection (l), ” after “The Board of Directors of the Corporation”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1820` | insert | by inserting “, subject to paragraph (2), ” after “The Board of Directors of the Corporation”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1820` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1817` | amend | Subsection (d) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4516` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4516` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1755` | replace | Section 105 of the Federal Credit Union Act (12 U.S.C. 1755) is amended by striking subsections (d) and (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1751` | strike | in section 120(j), by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1755` | amend | by amending subsections (a) and (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1755` | strike | in subsection (c), by striking “operating”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1755` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1755` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1751` | strike | in section 120(j), by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1751` | amend | by amending section 128 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1751` | strike | in section 203(a), by striking “and for such administrative and other expenses incurred in carrying out the purposes of this title”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1813` | replace | by striking “Sec. 5240A. The Comptroller of the Currency may collect an assessment, fee, or other charge from any entity described in section 3(q)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)(1)), as the Comptroller determi… | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 16` | strike | by striking “Funds derived” and all that follows through the end of the section; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 16` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3694,7 +3698,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 4002` | insert | in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 5371` | amend | Subparagraph (C) of section 171(b)(5) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5371(b)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1639d` | replace | by striking the term “Board” each place such term appears and inserting “Consumer Law Enforcement Agency”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1639d` | replace | by striking the term Board each place such term appears and inserting “Consumer Law Enforcement Agency”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 2605` | add-at-end | Section 6 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4806` | insert | in subsection (a), by inserting after “appropriate Federal banking agency” the following: “, the Consumer Law Enforcement Agency,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3727,6 +3731,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1785` | add-at-end | Section 205(g)(1) of the Federal Credit Union Act (12 U.S.C. 1785(g)(1)) is amended by adding at the end the following new sentence: “A loan that is valid when made as to its maximum rate of interest in accordance with this subsection sh… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831d` | add-at-end | Section 27(a) of the Federal Deposit Insurance Act (12 U.S.C. 1831d(a)) is amended by adding at the end the following new sentence: “A loan that is valid when made as to its maximum rate of interest in accordance with this section shall … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1783` | add-at-end | Section 203 of the Federal Credit Union Act (12 U.S.C. 1783) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1639e` | add-at-end | Section 129E(i) of the Truth in Lending Act (15 U.S.C. 1639e(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | by striking “in the Federal Reserve System,”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5481` | amend | in subsection (b)(5), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | in subsection (c), by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3734,7 +3739,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5481` | strike | in subsection (a)(10), by striking “examinations,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5481` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5301` | amend | in section 2, by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1693` | amend | by amending the second paragraph (4) (defining the term “Bureau”) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1693` | amend | by amending the second paragraph (4) (defining the term Bureau) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1691a` | amend | in section 702 (15 U.S.C. 1691a), by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681` | amend | by amending section 603(w) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692` | amend | by amending section 803(1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
