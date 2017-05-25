@@ -1,7 +1,7 @@
 ---
 measure: S. 512
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 512
@@ -16,7 +16,7 @@ Nuclear Energy Innovation and Modernization Act
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (7)
+## Cosponsors (16)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -25,6 +25,15 @@ Nuclear Energy Innovation and Modernization Act
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -34,3 +43,9 @@ Nuclear Energy Innovation and Modernization Act
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Environment and Public Works.
+- 2017-03-08 — Committee on Environment and Public Works. Hearings held. Hearings printed: S.Hrg. 115-52.
+- 2017-03-22 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-05-25 — An errata sheet on written report number No. 115-86 was printed.
+- 2017-05-25 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-86. Additional views filed.
+- 2017-05-25 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-86. Additional views filed.
+- 2017-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.
