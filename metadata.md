@@ -1,7 +1,7 @@
 ---
 measure: S. 917
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 917
@@ -28,3 +28,7 @@ Silver Star Service Banner Day Act
 
 - 2017-04-24 — Introduced in Senate
 - 2017-04-24 — Read twice and referred to the Committee on the Judiciary.
+- 2017-05-25 — Passed Senate without amendment by Unanimous Consent. (text: CR S3227)
+- 2017-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3227)
+- 2017-05-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3226-3227)
+- 2017-05-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3226-3227)
