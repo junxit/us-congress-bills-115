@@ -1,7 +1,7 @@
 ---
 measure: H.R. 953
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 953
@@ -66,10 +66,11 @@ Reducing Regulatory Burdens Act of 2017
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (4)
 
@@ -125,3 +126,4 @@ Reducing Regulatory Burdens Act of 2017
 - 2017-05-24 — The Speaker designated the Honorable Jeff Duncan to act as Chairman of the Committee.
 - 2017-05-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-05-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-05-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
