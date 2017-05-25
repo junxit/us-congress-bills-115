@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1761
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1761
@@ -40,3 +40,21 @@ Protecting Against Child Exploitation Act of 2017
 - 2017-05-22 — Placed on the Union Calendar, Calendar No. 86.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-137.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-137.
+- 2017-05-23 — Rules Committee Resolution H. Res. 352 Reported to House. The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
+- 2017-05-24 — Rule H. Res. 352 passed House.
+- 2017-05-25 — Amendment (A002) offered by Ms. Jackson Lee. (consideration: CR H4587-4590; text: CR H4587)
+- 2017-05-25 — Amendment failed by House: On agreeing to the Jackson Lee amendment (A002) Failed by the Yeas and Nays: 180 - 238 (Roll no. 283).
+- 2017-05-25 — Considered under the provisions of rule H. Res. 352. (consideration: CR H4582-4590)
+- 2017-05-25 — DEBATE - Pursuant to the provisions of H. Res. 352, the House proceeded with 10 minutes of debate on the Jackson Lee amendment No. 1.
+- 2017-05-25 — DEBATE - The House proceeded with one hour of debate on H.R. 1761.
+- 2017-05-25 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A002) Failed by the Yeas and Nays: 180 - 238 (Roll no. 283).
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered/reported by : Amendment (A002) offered by Ms. Jackson Lee.(consideration: CR H4587-4590; text: CR H4587)
+- 2017-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-25 — On agreeing to the Jackson Lee amendment (A002) Failed by the Yeas and Nays: 180 - 238 (Roll no. 283).
+- 2017-05-25 — On passage Passed by recorded vote: 368 - 51 (Roll no. 284). (text: CR H4582-4583)
+- 2017-05-25 — Passed/agreed to in House: On passage Passed by recorded vote: 368 - 51 (Roll no. 284).(text: CR H4582-4583)
+- 2017-05-25 — Roll call votes on amendments in House
+- 2017-05-25 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2017-05-25 — The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
