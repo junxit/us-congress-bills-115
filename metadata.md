@@ -1,7 +1,7 @@
 ---
 measure: S. 585
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 585
@@ -32,3 +32,6 @@ Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017
 - 2017-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-44.
 - 2017-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-44.
 - 2017-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
+- 2017-05-25 — Message on Senate action sent to the House.
+- 2017-05-25 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S3190; text as passed Senate: CR S3192-3194)
+- 2017-05-25 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S3190; text as passed Senate: CR S3192-3194)

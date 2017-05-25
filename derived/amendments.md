@@ -1,7 +1,7 @@
 ---
 measure: S. 585
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 6 executed, 11 stated and not applied.
+16 amendatory instructions. 5 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,21 +44,12 @@ to guess them.
 
 ### 5 U.S.C. § 2302
 
-> Section 110(b)(2) of the Whistleblower Protection Enhancement Act of 2012 (5 U.S.C. 2302 note) is amended by striking “section 2303(f)(1) 2302(f)(1) or (2)” and inserting “section 2303(e)(1) 2302(e)(1) or (2)”.
+> Section 110(b)(2) of the Whistleblower Protection Enhancement Act of 2012 (5 U.S.C. 2302 note) is amended by striking “section 2302(f)(1) or (2)” and inserting “section 2302(e)(1) or (2)”.
 
 | | |
 |---|---|
-| Removed | `section 2303(f)(1) 2302(f)(1) or (2)` |
-| Inserted | `section 2303(e)(1) 2302(e)(1) or (2)` |
-
-### 6 U.S.C. § 344
-
-> Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended by striking “2302(c)” each place it appears and inserting “2307”.
-
-| | |
-|---|---|
-| Removed | `2302(c)` |
-| Inserted | `2307` |
+| Removed | `section 2302(f)(1) or (2)` |
+| Inserted | `section 2302(e)(1) or (2)` |
 
 ### 22 U.S.C. § 3657
 
