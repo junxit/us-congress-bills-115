@@ -1,7 +1,7 @@
 ---
 measure: S. 110
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 110
@@ -34,3 +34,5 @@ Digital Coast Act
 - 2017-03-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-14.
 - 2017-03-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-14.
 - 2017-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.
+- 2017-05-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3225-3226; text as passed Senate: CR S3225-3226)
+- 2017-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3225-3226; text as passed Senate: CR S3225-3226)
