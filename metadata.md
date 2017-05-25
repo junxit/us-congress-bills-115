@@ -1,7 +1,7 @@
 ---
 measure: S. 1083
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1083
@@ -49,3 +49,11 @@ A bill to amend section 1214 of title 5, United States Code, to provide for stay
 - 2017-05-25 — On agreeing to the Hice, Jody B. amendment (A001) Agreed to by voice vote.
 - 2017-05-25 — On passage Passed without objection. (text: CR H4591)
 - 2017-05-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4591)
+- 2017-06-05 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2017-06-14 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1083 by Unanimous Consent.
+- 2017-06-14 — Senate agreed to the House amendment to S. 1083 by Unanimous Consent.
+- 2017-06-15 — Message on Senate action sent to the House.
+- 2017-06-15 — Presented to President.
+- 2017-06-15 — Presented to President.
+- 2017-06-27 — Signed by President.
+- 2017-06-27 — Signed by President.
