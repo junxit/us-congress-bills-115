@@ -1,7 +1,7 @@
 ---
 measure: S. 1083
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1083
@@ -37,3 +37,15 @@ A bill to amend section 1214 of title 5, United States Code, to provide for stay
 - 2017-05-15 — Message on Senate action sent to the House.
 - 2017-05-16 — Received in the House.
 - 2017-05-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-05-25 — Amendment (A001) offered by Mr. Hice, Jody B.. (consideration: CR H4591; text: CR H4591)
+- 2017-05-25 — Amendment agreed to by House: On agreeing to the Hice, Jody B. amendment (A001) Agreed to by voice vote.
+- 2017-05-25 — Committee on Oversight and Government discharged.
+- 2017-05-25 — Committee on Oversight and Government discharged.
+- 2017-05-25 — House amendment agreed to: On agreeing to the Hice, Jody B. amendment (A001) Agreed to by voice vote.
+- 2017-05-25 — House amendment offered
+- 2017-05-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Hice, Jody B..(consideration: CR H4591; text: CR H4591)
+- 2017-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-05-25 — Mr. Hice, Jody B. asked unanimous consent to discharge from committee and consider. (consideration: CR H4591)
+- 2017-05-25 — On agreeing to the Hice, Jody B. amendment (A001) Agreed to by voice vote.
+- 2017-05-25 — On passage Passed without objection. (text: CR H4591)
+- 2017-05-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4591)
