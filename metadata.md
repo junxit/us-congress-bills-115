@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1293
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1293
@@ -16,9 +16,10 @@ To amend title 5, United States Code, to require that the Office of Personnel Ma
 
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend title 5, United States Code, to require that the Office of Personnel Ma
 - 2017-05-24 — Mr. Ross moved to suspend the rules and pass the bill, as amended.
 - 2017-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4528-4529)
 - 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4528-4529)
+- 2017-05-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
