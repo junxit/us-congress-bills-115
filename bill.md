@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 2754
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2754
+
+> To authorize the award of a military service medal to members of the Armed Forces who were exposed to ionizing radiation as a result of participation in the testing of nuclear weapons or under other circumstances.
+
+## § 1. Short title
+
+This Act may be cited as the “Atomic Veterans Service Medal Act”.
+
+## § 2. Atomic Veterans Service Medal
+
+- **(a)** *Service medal required* The Secretary of Defense shall design and produce a military service medal, to be known as the “Atomic Veterans Service Medal”, to honor retired and former members of the Armed Forces who are radiation-exposed veterans (as such term is defined in section 1112(c)(3) of title 38, United States Code).
+- **(b)** *Distribution of medal*
+  - **(1)** *Issuance to retired and former members* At the request of a radiation-exposed veteran, the Secretary of Defense shall issue the Atomic Veterans Service Medal to the veteran.
+  - **(2)** *Issuance to next-of-kin* In the case of a radiation-exposed veteran who is deceased, the Secretary may provide for issuance of the Atomic Veterans Service Medal to the next-of-kin of the person.
+  - **(3)** *Application* The Secretary shall prepare and disseminate as appropriate an application by which radiation-exposed veterans and their next-of-kin may apply to receive the Atomic Veterans Service Medal.
