@@ -1,7 +1,7 @@
 ---
 measure: S. 12
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 12
@@ -21,9 +21,10 @@ Increasing the Department of Veterans Affairs Accountability to Veterans Act of 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ Increasing the Department of Veterans Affairs Accountability to Veterans Act of 
 - 2017-05-25 — Senate amendment agreed to: Amendment SA 218 agreed to in Senate by Unanimous Consent.
 - 2017-05-25 — Senate amendment proposed (on the floor): Amendment SA 218 proposed by Senator McConnell for Senator Moran.(consideration: CR S3189; text: CR S3189)
 - 2017-05-25 — Senate amendment submitted
+- 2017-05-26 — Received in the House.
+- 2017-05-26 — Referred to the House Committee on Veterans' Affairs.
