@@ -1,7 +1,7 @@
 ---
 measure: S. 114
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 114
@@ -20,9 +20,10 @@ VA Choice and Quality Employment Act of 2017
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ VA Choice and Quality Employment Act of 2017
 - 2017-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3190)
 - 2017-05-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3190)
 - 2017-05-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3190)
+- 2017-05-26 — Received in the House.
+- 2017-05-26 — Referred to the House Committee on Veterans' Affairs.
