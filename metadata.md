@@ -1,7 +1,7 @@
 ---
 measure: S. 585
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 585
@@ -20,9 +20,11 @@ Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Veterans' Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +37,9 @@ Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017
 - 2017-05-25 — Message on Senate action sent to the House.
 - 2017-05-25 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S3190; text as passed Senate: CR S3192-3194)
 - 2017-05-25 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S3190; text as passed Senate: CR S3192-3194)
+- 2017-05-26 — Received in the House.
+- 2017-05-26 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-26 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-26 — Referred to the Subcommittee on Economic Opportunity.
+- 2017-05-26 — Referred to the Subcommittee on Oversight and Investigations.
+- 2017-05-26 — Subcommittee on Oversight and Investigations Discharged.
