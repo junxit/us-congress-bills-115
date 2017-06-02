@@ -9,10 +9,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.
 
-## § 1. Premium tax credit allowed with respect to unsubsidized COBRA continuation coverage
+## § 1. Short title
+
+This Act may be cited as the “Broader Options for Americans Act”.
+
+## § 2. Premium tax credit allowed with respect to unsubsidized COBRA continuation coverage
 
 - **(a)** *In general* Section 36B(f) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by inserting after “in section 9832(b))” the following: “offered in the individual health insurance market within a State (within the meaning of section 5000A(f)(1)(C)), or any unsubsidized COBRA continuation coverage,”; and
+  - **(1)** by inserting after “in section 9832(b))” the following: “offered in the individual health insurance market within a State (within the meaning of section 5000A(f)(1)(C)), or any unsubsidized COBRA continuation coverage,”, and
   - **(2)** by striking paragraph (1) and by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (1), (2), (3), and (4), respectively.
 - **(b)** *Certification of unsubsidized COBRA continuation coverage* Section 36B(g) of such Code is amended by redesignating paragraph (9) as paragraph (10) and by inserting after paragraph (8) the following new paragraph:
   > - **(9)** *Special rule for unsubsidized COBRA continuation coverage* In the case of unsubsidized COBRA continuation coverage—
@@ -31,4 +35,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** Section 36B(d)(2)(A) is amended by inserting “COBRA continuation coverage or” after “other than”.
   - **(2)** Section 36B(g)(6) of such Code is amended by striking “subsection (f)(5)” and inserting “subsection (f)(4)”.
 - **(e)** *Amendment of section 36B as amended by American Health Care Act of 2017* Whenever in this section an amendment is expressed in terms of an amendment to section 36B of the Internal Revenue Code of 1986, the reference shall be considered to be made to such section as amended by the American Health Care Act of 2017 and in effect for months beginning after December 31, 2019.
-- **(f)** *Effective date* The amendments made by this subsection are contingent upon the enactment of the American Health Care Act of 2017 and shall apply (if at all) to months beginning after December 31, 2019, in taxable years ending after such date.
+- **(f)** *Effective date* The amendments made by this section are contingent upon the enactment of the American Health Care Act of 2017 and shall apply (if at all) to months beginning after December 31, 2019, in taxable years ending after such date.

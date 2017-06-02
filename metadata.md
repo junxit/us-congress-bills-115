@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2579
@@ -25,3 +25,6 @@ Broader Options for Americans Act
 - 2017-05-19 — Introduced in House
 - 2017-05-19 — Introduced in House
 - 2017-05-19 — Referred to the House Committee on Ways and Means.
+- 2017-06-02 — Placed on the Union Calendar, Calendar No. 107.
+- 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-160.
+- 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-160.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 36B` | insert | by inserting after “in section 9832(b))” the following: “offered in the individual health insurance market within a State (within the meaning of section 5000A(f)(1)(C)), or any unsubsidized COBRA continuation coverage,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | insert | by inserting after “in section 9832(b))” the following: “offered in the individual health insurance market within a State (within the meaning of section 5000A(f)(1)(C)), or any unsubsidized COBRA continuation coverage,”, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | redesignate | by striking paragraph (1) and by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (1), (2), (3), and (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | redesignate | Section 36B(g) of such Code is amended by redesignating paragraph (9) as paragraph (10) and by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | add-at-end | Section 36B of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
