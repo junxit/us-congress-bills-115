@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1967
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1967
@@ -30,3 +30,10 @@ Bureau of Reclamation Pumped Storage Hydropower Development Act
 - 2017-04-06 — Introduced in House
 - 2017-04-06 — Introduced in House
 - 2017-04-06 — Referred to the House Committee on Natural Resources.
+- 2017-04-13 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-04-27 — Committee Consideration and Mark-up Session Held.
+- 2017-04-27 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2017-04-27 — Subcommittee on Water, Power and Oceans Discharged.
+- 2017-06-02 — Placed on the Union Calendar, Calendar No. 105.
+- 2017-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-158.
+- 2017-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-158.

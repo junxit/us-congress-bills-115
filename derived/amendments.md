@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1967
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 485h` | insert | Section 9(c)(1) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c)(1)) is amended by inserting “and pumped storage hydropower development utilizing multiple Bureau of Reclamation reservoirs” after “including small conduit hydropow… | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 485h` | insert | Section 9(c)(1) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c)(1)) is amended by inserting “and pumped storage hydropower development exclusively utilizing Bureau of Reclamation reservoirs” after “including small conduit hydro… | the bill quotes the text inserted but describes where it goes |
