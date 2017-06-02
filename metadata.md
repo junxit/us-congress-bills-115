@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1135
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1135
@@ -16,7 +16,7 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (46)
+## Cosponsors (47)
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -64,6 +64,7 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Himes, James A. [D-CT-4] (H001047)
 
 ## Committees (1)
 
@@ -74,3 +75,10 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Natural Resources.
+- 2017-03-02 — Referred to the Subcommittee on Federal Lands.
+- 2017-04-27 — Committee Consideration and Mark-up Session Held.
+- 2017-04-27 — Ordered to be Reported by Unanimous Consent.
+- 2017-04-27 — Subcommittee on Federal Lands Discharged.
+- 2017-06-02 — Placed on the Union Calendar, Calendar No. 104.
+- 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-157.
+- 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-157.
