@@ -1,7 +1,7 @@
 ---
 measure: H.R. 660
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 660
@@ -16,7 +16,7 @@ Bureau of Reclamation Transparency Act
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -35,6 +35,9 @@ Bureau of Reclamation Transparency Act
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
 
 ## Committees (1)
 
@@ -45,3 +48,10 @@ Bureau of Reclamation Transparency Act
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Referred to the House Committee on Natural Resources.
+- 2017-02-10 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-04-27 — Committee Consideration and Mark-up Session Held.
+- 2017-04-27 — Ordered to be Reported by Unanimous Consent.
+- 2017-04-27 — Subcommittee on Water, Power and Oceans Discharged.
+- 2017-06-02 — Placed on the Union Calendar, Calendar No. 103.
+- 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-156.
+- 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-156.
