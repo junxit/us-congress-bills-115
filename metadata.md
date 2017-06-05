@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1973
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1973
@@ -35,10 +35,11 @@ Protecting Young Victims from Sexual Abuse Act of 2017
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ Protecting Young Victims from Sexual Abuse Act of 2017
 - 2017-05-25 — The Speaker designated the Honorable Bruce Poliquin to act as Chairman of the Committee.
 - 2017-05-25 — The previous question was ordered pursuant to the rule.
 - 2017-05-25 — The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
+- 2017-06-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
