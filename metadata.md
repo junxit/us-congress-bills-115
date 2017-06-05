@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1761
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1761
@@ -25,9 +25,10 @@ Protecting Against Child Exploitation Act of 2017
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Protecting Against Child Exploitation Act of 2017
 - 2017-05-25 — Roll call votes on amendments in House
 - 2017-05-25 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2017-05-25 — The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017.
+- 2017-06-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
