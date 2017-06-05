@@ -69,7 +69,7 @@ Section 105 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151c) is amended b
 
 ## § 4. Comprehensive integrated United States strategy to promote basic education
 
-- **(a)** *Strategy required* Not later than October 1, 2017, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during fiscal years 2018 through 2022 to promote quality basic education in partner countries by—
+- **(a)** *Strategy required* Not later than October 1, 2017, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during fiscal years 2018 through 2022 to promote quality basic education in partner countries by— Not later than one year after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during the following five fiscal years to promote quality basic education in partner countries by—
   - **(1)** seeking to equitably expand access to basic education for all children, particularly marginalized children and vulnerable groups; and
   - **(2)** measurably improving the quality of basic education and learning outcomes.
 - **(b)** *Requirement To consult* In developing the strategy required under subsection (a), the President shall consult with—
@@ -113,7 +113,7 @@ The President shall seek to ensure that programs carried out under the strategy 
 
 ## § 7. Transparency and reporting to Congress
 
-- **(a)** *Annual report on the implementation of strategy* Not later than each March 31 immediately following a fiscal year during which the strategy developed pursuant to section 4(a) was carried out, the President shall—
+- **(a)** *Annual report on the implementation of strategy* Not later than each March 31 immediately following a fiscal year during which the strategy developed pursuant to section 4(a) was carried out, the President shall— Not later than 180 days after the end of each fiscal year during which the strategy developed pursuant to section 4(a) is carried out, the President shall—
   - **(1)** submit a report to the appropriate congressional committees that describes the implementation of such strategy; and
   - **(2)** make the report described in paragraph (1) available to the public.
 - **(b)** *Matters To be included* The report required under subsection (a) shall include—
