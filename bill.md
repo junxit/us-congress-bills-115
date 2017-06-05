@@ -23,6 +23,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas parties to the conflicts have harassed, attacked, and killed humanitarian workers, blocking and hindering humanitarian access and depriving the world’s most hungry people of the food they need;
 - Whereas humanitarian actors, coordinated by UNOCHA, are appealing for $5,600,000,000 in 2017 to address famines in Yemen, South Sudan, Nigeria, and Somalia, $4,400,000,000 of which is required urgently; and
 - Whereas Mr. Daccord testified on March 22, 2017, “Our message is clear: immediate, decisive action is needed to prevent vast numbers of people starving to death.”: Now, therefore, be it
+- Whereas Nigeria, Somalia, South Sudan, and Yemen are all in famine, pre-famine, or at risk of famine in 2017;
+- Whereas, according to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), 20,000,000 people are at risk of starvation this year in Nigeria, Somalia, South Sudan, and Yemen;
+- Whereas, on March 22, 2017, Mr. Yves Daccord, the Director-General of the International Committee of the Red Cross, testified before Congress that the crisis represents “one of the most critical humanitarian issues to face mankind since the end of the Second World War” and warned that “we are at the brink of a humanitarian mega-crisis unprecedented in recent history”;
+- Whereas, according to the United States Agency for International Development (USAID), “[m]ore than 5.1 million people face severe food insecurity in northeastern Nigeria”;
+- Whereas, according to USAID, “An estimated 6.2 million people—more than half of Somalia’s total population—currently require urgent humanitarian assistance.”;
+- Whereas, according to USAID, “An estimated 5.5 million people—nearly half of South Sudan’s population—will face life threatening hunger by July.”;
+- Whereas, according to USAID, in Yemen, “More than seventeen million people—an astounding 60% of the country’s population—are food insecure, including seven million people who are unable to survive without food assistance.”;
+- Whereas, according to the United Nations Children’s Fund (UNICEF), “[s]ome 22 million children have been left hungry, sick, displaced and out of school in the four countries” and “Nearly 1.4 million are at imminent risk of death this year from severe malnutrition.”;
+- Whereas the humanitarian crises in each of these regions are, to varying degrees, man-made and preventable—exacerbated by armed conflict and deliberate restrictions on humanitarian access;
+- Whereas parties to the conflicts, including even some government forces, have harassed, attacked, and killed humanitarian workers, blocked and hindered humanitarian access, and continue to deprive the world’s most hungry people of the food they need;
+- Whereas humanitarian actors, coordinated by OCHA, have appealed for $5,600,000,000 in 2017 to address famines in Yemen, South Sudan, Nigeria, and Somalia; and
+- Whereas Mr. Daccord testified before Congress on March 22, 2017, “Our main message is clear: immediate, decisive action is needed to prevent vast numbers of people starving to death.”: Now, therefore, be it
 
 That—
 
