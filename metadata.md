@@ -1,7 +1,7 @@
 ---
 measure: S. 61
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 61
@@ -32,3 +32,7 @@ A bill to remove the sunset provision of section 203 of Public Law 105-384 and f
 
 - 2017-01-09 — Introduced in Senate
 - 2017-01-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-04-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2017-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-88.
+- 2017-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-88.
+- 2017-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
