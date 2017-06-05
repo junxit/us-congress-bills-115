@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 601
@@ -45,3 +45,7 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - 2017-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H662-664)
 - 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H662-664)
 - 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2017-05-25 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2017-06-05 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-06-05 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
