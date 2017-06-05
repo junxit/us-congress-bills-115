@@ -25,6 +25,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Argentina is Latin America's third largest economy and the International Monetary Fund, in April 2016, claimed the Macri Administration “embarked on an ambitious, much needed transition to remove domestic imbalances and distortions and correct relative prices”;
 - Whereas Secretary of State John Kerry visited Argentina in August 2016 to launch a High-Level Dialogue to develop and sustain cooperation on bilateral, regional, and global challenges, including democratic development and protection of human rights in Latin America; and
 - Whereas Secretary Kerry, during his visit, stated that “the United States strongly supports President Macri's effort to deepen Argentina's integration with the global economy” and that “our governments will be supporting policies that are aimed at strong, sustainable, and balanced economic growth”: Now, therefore, be it
+- Whereas, on November 22, 2015, the citizens of the Argentine Republic elected Mauricio Macri as their President;
+- Whereas President Macri has taken strides to promote greater national unity, rebuild the economy, increase public transparency, strengthen freedom of the press, defend human rights abroad, attract foreign direct investment, and reassert Argentina's leadership globally;
+- Whereas President Macri has prioritized policies to seek closer ties with the United States and restore the bilateral partnership previously enjoyed by both countries;
+- Whereas the Argentine Republic is a major non-NATO ally of the United States;
+- Whereas United States-Argentina relations are historically characterized by comprehensive commercial ties and strong bilateral cooperation on human rights, peacekeeping, science and technology, non-proliferation, and education, as well as on regional and global issues;
+- Whereas President Barack Obama traveled to Argentina in March 2016 to strengthen engagement on issues of bilateral interest, such as trade, investment, energy, security, and peacekeeping;
+- Whereas, in an appearance with President Macri at the Casa Rosada in Buenos Aires, President Obama said that “our countries share profound values in common—respect for human rights, for individual freedoms, for democracy, for justice, and for peace”;
+- Whereas the United States Department of the Treasury no longer opposes multilateral development banks lending to Argentina because of the Government of Argentina's “progress on key issues and positive economic policy trajectory”;
+- Whereas President Macri resolved Argentina’s 15-year standoff with private creditors stemming from the 2001–2002 economic crisis, which facilitated Argentina’s return to international credit markets;
+- Whereas the Macri Administration lifted controls on trade, currency, and poultry, enhanced the quality and transparency of government data, and eliminated subsidies on electricity, water, and gas;
+- Whereas, in March 2016, the United States and Argentina signed a Trade and Investment Framework Agreement;
+- Whereas Argentina is Latin America's third largest economy, and the International Monetary Fund, in April 2016, stated that the Macri Administration “embarked on an ambitious, much needed transition to remove domestic imbalances and distortions and correct relative prices”;
+- Whereas the Senate and Chamber of Deputies of Argentina, since the start of the Macri Administration, have played an important role in advancing a political and economic agenda that promotes fiscal responsibility, greater transparency, and shared prosperity for the people of Argentina;
+- Whereas, in April 2017, President Donald J. Trump and President Macri met at the White House and expressed their desire to see significant future growth in two-way trade of agricultural and industrial products to the benefit of producers and consumers in both countries;
+- Whereas President Trump and President Macri established the United States-Argentina Dialogue on Illicit Finance and a Cyber Crimes Working Group to strengthen our partnership to combat narcotics trafficking, money laundering, terrorist financing, corruption, and cyber security; and
+- Whereas President Macri and his Administration have contributed to the international response to the political, economic, and humanitarian challenges in Venezuela: Now, therefore, be it
 
 That the Senate—
 
