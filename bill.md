@@ -2,7 +2,7 @@
 legis-num: H. RES. 354
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 354
@@ -16,8 +16,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas after hours of peaceful protest, violence erupted when pro-Erdogan supporters and individuals from the Turkish Embassy grounds pushed past District of Columbia police officers to brutally attack the demonstrators;
 - Whereas those Turkish officials blatantly suppressed the First Amendment rights of United States citizens, and multiple armed Turkish security officials beat, kicked, and choked unarmed demonstrators;
 - Whereas multiple video recordings of the violence and reports by the Metropolitan Police Department of the District of Columbia and the Department of State confirm that the demonstrators did not instigate the violence;
-- Whereas at least 11 individuals were seriously injured in the ensuing brawl, with two individuals requiring immediate hospitalization;
-- Whereas two armed Turkish security officers attached to a security detail were detained at the scene for physically assaulting Federal agents;
+- Whereas at least 11 individuals were seriously injured in the ensuing brawl, with 2 individuals requiring immediate hospitalization;
+- Whereas separately, two armed Turkish security officers attached to a security detail were detained for physically assaulting Federal agents;
 - Whereas those two Turkish security officers were later released and subsequently allowed to leave the United States because they held Derived Head of State immunity;
 - Whereas the Department of State did not request that Turkey waive the immunity for these two security officers in order to fully investigate the assault prior to their being released from custody;
 - Whereas a joint criminal investigation into the incident is ongoing with the combined efforts of the Washington Metropolitan Police Department, the United States Secret Service, and the Department of State Diplomatic Security Service;
