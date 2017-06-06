@@ -1,7 +1,7 @@
 ---
 measure: S. 1094
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1094
@@ -16,7 +16,7 @@ Department of Veterans Affairs Accountability and Whistleblower Protection Act o
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (23)
+## Cosponsors (39)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -41,6 +41,22 @@ Department of Veterans Affairs Accountability and Whistleblower Protection Act o
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Paul, Rand [R-KY] (P000603)
 
 ## Committees (1)
 
@@ -55,3 +71,8 @@ Department of Veterans Affairs Accountability and Whistleblower Protection Act o
 - 2017-05-24 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute. Without written report.
 - 2017-05-24 — Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute. Without written report.
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.
+- 2017-06-06 — Measure laid before Senate by unanimous consent.
+- 2017-06-06 — Passed Senate with an amendment by Voice Vote.
+- 2017-06-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2017-06-06 — Senate amendment submitted
+- 2017-06-06 — The committee substitute agreed to by Unanimous Consent. (text: CR S3261-3266)
