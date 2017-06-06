@@ -79,31 +79,113 @@ The United States, consistent with the principle of ex injuria jus non oritur, s
       - **(i)** the amount of funding for the program or activity;
       - **(ii)** the goal described in subsection (c) to which the program or activity relates; and
       - **(iii)** an assessment of whether or not the goal was met.
-- **(e)** *Coordination with global partners*
-  - **(1)** *In general* In order to maximize cost efficiency, eliminate duplication, and speed the achievement of the goals described in subsection (c), the working group established under subsection (b) shall ensure coordination with—
+- **(b)** *Use of funds* Amounts in the Countering Russian Influence Fund shall be used for the following:
+  - **(1)** To assist in protecting critical infrastructure and electoral mechanisms from cyberattacks in the following countries:
+    - **(A)** Countries that are members of the North Atlantic Treaty Organization or the European Union that the Secretary of State determines—
+      - **(i)** are vulnerable to influence by the Russian Federation; and
+      - **(ii)** lack the economic capability to effectively respond to aggression by the Russian Federation without the support of the United States.
+    - **(B)** Countries that are participating in the enlargement process of the North Atlantic Treaty Organization or the European Union, including Albania, Bosnia and Herzegovina, Georgia, Macedonia, Moldova, Kosovo, Serbia, and Ukraine.
+  - **(2)** To combat corruption, improve the rule of law, and otherwise strengthen independent judiciaries and prosecutors general offices in the countries described in paragraph (1).
+  - **(3)** To respond to the humanitarian crises and instability caused or aggravated by the invasions and occupations of Georgia and Ukraine by the Russian Federation.
+  - **(4)** To improve participatory legislative processes and legal education, political transparency and competition, and compliance with international obligations in the countries described in paragraph (1).
+  - **(5)** To build the capacity and resilience of civil society, media, and other nongovernmental organizations in countering the influence and propaganda of the Russian Federation in such countries.
+  - **(6)** To support the efforts of independent media outlets and public broadcasters to broadcast, distribute, and share information in all regions in such countries.
+  - **(7)** To support objective, Russian-language, independent media, investigative journalism, and civil society watchdog groups working to combat corruption in such countries and encourage cooperation with social media entities to strengthen the integrity of information on the Internet.
+  - **(8)** To promote and protect Internet freedom and information security in such countries.
+  - **(9)** To support research and analysis on the effects of information warfare on target audiences and best practices for promoting resilience.
+  - **(10)** To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments.
+- **(c)** *Implementation*
+  - **(1)** *In general* The Secretary of State shall, acting through the Coordinator of United States Assistance to Europe and Eurasia (authorized pursuant to section 601 of the Support for East European Democracy (SEED) Act of 1989 (22 U.S.C. 5461) and section 102 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5812)) and in consultation with the Administrator for the United States Agency for International Development, the Director of the Global Engagement Center of the Department of State, the Secretary of Defense, the Chairman of the Broadcasting Board of Governors, and the heads of other relevant Federal agencies, coordinate and carry out activities described in subsection (b).
+  - **(2)** *Method* The activities described in subsection (b) shall be carried out through—
+    - **(A)** initiatives of the United States Government;
+    - **(B)** Federal grant programs such as the Information Access Fund; or
+    - **(C)** nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the North Atlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
+  - **(3)** *Report on implementation*
+    - **(A)** *In general* Not later than April 1 of each year, the Secretary of State, acting through the Coordinator of United States Assistance to Europe and Eurasia, shall submit to the appropriate congressional committees a report on the programs and activities carried out to achieve the goals described in subsection (b) during the preceding fiscal year.
+    - **(B)** *Elements* Each report required by subparagraph (A) shall include, with respect to each program or activity described in that subparagraph—
+      - **(i)** the amount of funding for the program or activity;
+      - **(ii)** the goal described in subsection (b) to which the program or activity relates; and
+      - **(iii)** an assessment of whether or not the goal was met.
+- **(e)(d)** *Coordination with global partners*
+  - **(1)** *In general* In order to maximize cost efficiency, eliminate duplication, and speed the achievement of the goals described in subsection (c)(b), the working group established under subsection (b) the Secretary of State shall ensure coordination with—
     - **(A)** the European Union and its institutions;
     - **(B)** the governments of countries that are members of the North Atlantic Treaty Organization or the European Union; and
-    - **(C)** international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (c).
+    - **(C)** international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (c)(b).
   - **(2)** *Report by Secretary of State* Not later than April 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report that includes—
-    - **(A)** the amount of funding provided to each country referred to in subsection (c) by—
+    - **(A)** the amount of funding provided to each country referred to in subsection (c)(b) by—
       - **(i)** the European Union or its institutions;
       - **(ii)** the government of each country that is a member of the European Union or the North Atlantic Treaty Organization; and
-      - **(iii)** international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (c); and
+      - **(iii)** international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (c)(b); and
     - **(B)** an assessment of whether the funding described in subparagraph (A) is commensurate with funding provided by the United States for those goals.
-- **(f)** *Rule of construction* Nothing in this section shall be construed to apply to or limit United States foreign assistance not provided using amounts available in the Countering Russian Influence Fund.
+- **(f)(e)** *Rule of construction* Nothing in this section shall be construed to apply to or limit United States foreign assistance not provided using amounts available in the Countering Russian Influence Fund.
+- **(f)** *Ensuring adequate staffing for governance activities* In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
 
 ## § 6. Report on media organizations controlled and funded by the government of the Russian Federation
 
 - **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the President shall submit to the appropriate congressional committees a report that includes a description of media organizations that are controlled and funded by the Government of the Russian Federation, and any affiliated entities, whether operating within or outside the Russian Federation, including broadcast and satellite-based television, radio, Internet, and print media organizations.
 - **(b)** *Form of report* The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
 
-## § 7. Termination
+## § 7. Report on Russian Federation influence on elections in Europe and Eurasia
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the President shall submit to the appropriate congressional committees a report on funds provided by, or funds the use of which was directed by, the Government of the Russian Federation or any Russian person with the intention of influencing the outcome of any election or campaign in any country in Europe or Eurasia during the preceding year, including through direct support to any political party, candidate, lobbying campaign, nongovernmental organization, or civic organization.
+- **(b)** *Form of report* Each report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+- **(c)** *Russian person defined* In this section, the term Russian person means—
+  - **(1)** an individual who is a citizen or national of the Russian Federation; or
+  - **(2)** an entity organized under the laws of the Russian Federation or otherwise subject to the jurisdiction of the Government of the Russian Federation.
+
+## § 8. Ukranian energy security
+
+- **(a)** *Statement of policy* It is the policy of the United States—
+  - **(1)** to support the Government of Ukraine in restoring its sovereign and territorial integrity;
+  - **(2)** to condemn and oppose all of the destabilizing efforts by the Government of the Russian Federation in Ukraine in violation of its obligations and international commitments;
+  - **(3)** to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
+  - **(4)** to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses;
+  - **(5)** to assist in promoting reform in regulatory oversight and operations in Ukraine’s energy sector, including the establishment and empowerment of an independent regulatory organization;
+  - **(6)** to encourage and support fair competition, market liberalization, and reliability in Ukraine’s energy sector;
+  - **(7)** to help Ukraine and United States allies and partners in Europe reduce their dependence on Russian energy resources, especially natural gas, which the Government of the Russian Federation uses as a weapon to coerce, intimidate, and influence other countries;
+  - **(8)** to work with European Union member states and European Union institutions to promote energy security through developing diversified and liberalized energy markets that provide diversified sources, suppliers, and routes;
+  - **(9)** to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union’s energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
+  - **(10)** that the United States Government should prioritize the export of United States energy resources in order to create American jobs, help United States allies and partners, and strengthen United States foreign policy.
+- **(b)** *Plan to promote energy security in Ukraine*
+  - **(1)** *In general* The Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the Secretary of Energy, shall work with the Government of Ukraine to develop a plan to increase energy security in Ukraine, increase the amount of energy produced in Ukraine, and reduce Ukraine’s reliance on energy imports from the Russian Federation.
+  - **(2)** *Elements* The plan developed under paragraph (1) shall include strategies for market liberalization, effective regulation and oversight, supply diversification, energy reliability, and energy efficiency, such as through supporting—
+    - **(A)** the promotion of advanced technology and modern operating practices in Ukraine’s oil and gas sector;
+    - **(B)** modern geophysical and meteorological survey work as needed followed by international tenders to help attract qualified investment into exploration and development of areas with untapped resources in Ukraine;
+    - **(C)** a broadening of Ukraine’s electric power transmission interconnection with Europe;
+    - **(D)** the strengthening of Ukraine’s capability to maintain electric power grid stability and reliability;
+    - **(E)** independent regulatory oversight and operations of Ukraine’s gas market and electricity sector;
+    - **(F)** the implementation of primary gas law including pricing, tariff structure, and legal regulatory implementation;
+    - **(G)** privatization of government owned energy companies through credible legal frameworks and a transparent process compliant with international best practices;
+    - **(H)** procurement and transport of emergency fuel supplies, including reverse pipeline flows from Europe;
+    - **(I)** provision of technical assistance for crisis planning, crisis response, and public outreach;
+    - **(J)** repair of infrastructure to enable the transport of fuel supplies;
+    - **(K)** repair of power generating or power transmission equipment or facilities; and
+    - **(L)** improved building energy efficiency and other measures designed to reduce energy demand in Ukraine.
+  - **(3)** *Reports*
+    - **(A)** *Implementation of Ukraine Freedom Support Act of 2014 provisions* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report detailing the status of implementing the provisions required under section 7(c) of the Ukraine Freedom Support Act of 2014 (Public Law 113–272), including detailing the plans required under that section, the level of funding that has been allocated to and expended for the strategies set forth under that section, and progress that has been made in implementing the strategies developed pursuant to that section.
+    - **(B)** *In general* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of State shall submit to the appropriate congressional committees a report detailing the plan developed under paragraph (1), the level of funding that has been allocated to and expended for the strategies set forth in paragraph (2), and progress that has been made in implementing the strategies.
+    - **(C)** *Briefings* The Secretary of State, or a designee of the Secretary, shall brief the appropriate congressional committees not later than 30 days after the submission of each report under subparagraph (B). In addition, the Department of State shall make relevant officials available upon request to brief the appropriate congressional committees on all available information that relates directly or indirectly to Ukraine or energy security in Eastern Europe.
+    - **(D)** *Appropriate congressional committees defined* In this paragraph, the term appropriate congressional committees means—
+      - **(i)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+      - **(ii)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+- **(c)** *Supporting efforts of countries in Europe and Eurasia to decrease their dependence on Russian sources of energy*
+  - **(1)** *Findings* Congress makes the following findings:
+    - **(A)** The Government of the Russian Federation uses its strong position in the energy sector as leverage to manipulate the internal politics and foreign relations of the countries of Europe and Eurasia.
+    - **(B)** This influence is based not only on the Russian Federation’s oil and natural gas resources, but also on its state-owned nuclear power and electricity companies.
+  - **(2)** *Sense of Congress* It is the sense of Congress that—
+    - **(A)** the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
+    - **(B)** the Export-Import Bank of the United States and the Overseas Private Investment Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+  - **(3)** *Use of Countering Russian Influence Fund to provide technical assistance* Amounts in the Countering Russian Influence Fund pursuant to section 5 shall be used to provide technical advice to countries described in subsection (b)(1) of such section designed to enhance energy security and lessen dependence on energy from Russian Federation sources.
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated for the Department of State a total of $30,000,000 for fiscal years 2018 and 2019 to carry out the strategies set forth in subsection (b)(2) and other activities under this section related to the promotion of energy security in Ukraine.
+- **(e)** *Rule of construction* Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 (Public Law 113–272).
+
+## § 79. Termination
 
 The provisions of this Act shall terminate on the date that is 5 years after the date of the enactment of this Act.
 
-## § 8. Appropriate congressional committees defined
+## § 810. Appropriate congressional committees defined
 
-In this Act, the term appropriate congressional committees means—
+InExcept as otherwise provided, in this Act, the term appropriate congressional committees means—
 
 - **(1)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 - **(2)** the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.

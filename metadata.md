@@ -1,7 +1,7 @@
 ---
 measure: S. 1221
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1221
@@ -28,3 +28,7 @@ Countering Russian Influence in Europe and Eurasia Act of 2017
 
 - 2017-05-24 — Introduced in Senate
 - 2017-05-24 — Read twice and referred to the Committee on Foreign Relations.
+- 2017-05-25 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2017-06-06 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-06-06 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-06-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.
