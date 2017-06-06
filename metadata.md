@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 390
@@ -16,7 +16,7 @@ Iraq and Syria Genocide Relief and Accountability Act of 2018
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (16)
+## Cosponsors (47)
 
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
@@ -34,6 +34,37 @@ Iraq and Syria Genocide Relief and Accountability Act of 2018
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Flores, Bill [R-TX-17] (F000461)
 
 ## Committees (2)
 
@@ -47,3 +78,12 @@ Iraq and Syria Genocide Relief and Accountability Act of 2018
 - 2017-01-10 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-10 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-01-10 — Sponsor introductory remarks on measure. (CR E40)
+- 2017-03-29 — Committee Consideration and Mark-up Session Held.
+- 2017-03-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2017-06-06 — Considered under suspension of the rules. (consideration: CR H4632-4638)
+- 2017-06-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 390.
+- 2017-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-06 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2017-06-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4632-4633)
+- 2017-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4632-4633)
+- 2017-06-06 — The title of the measure was amended. Agreed to without objection.
