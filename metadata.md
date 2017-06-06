@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 134
@@ -16,11 +16,12 @@ Spoofing Prevention Act of 2017
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Spoofing Prevention Act of 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S317-318)
+- 2017-01-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-91.
+- 2017-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-91.
+- 2017-06-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
