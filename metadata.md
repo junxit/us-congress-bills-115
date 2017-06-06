@@ -1,7 +1,7 @@
 ---
 measure: S. 1094
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1094
@@ -76,3 +76,21 @@ Department of Veterans Affairs Accountability and Whistleblower Protection Act o
 - 2017-06-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
 - 2017-06-06 — Senate amendment submitted
 - 2017-06-06 — The committee substitute agreed to by Unanimous Consent. (text: CR S3261-3266)
+- 2017-06-07 — Held at the desk.
+- 2017-06-07 — Message on Senate action sent to the House.
+- 2017-06-07 — Received in the House.
+- 2017-06-12 — Rules Committee Resolution H. Res. 378 Reported to House. Rule provides for consideration of H.R. 2581 and S. 1094. Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.
+- 2017-06-13 — Considered as unfinished business. (consideration: CR H4899)
+- 2017-06-13 — Considered under the provisions of rule H. Res. 378. (consideration: CR H4884-4896)
+- 2017-06-13 — DEBATE - The House proceeded with one hour of debate on S. 1094.
+- 2017-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-13 — On passage Passed by the Yeas and Nays: 368 - 55 (Roll no. 307). (text: CR H4884-4889)
+- 2017-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 1094, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Roe (TN) demanded the yeas and nays, and the Chair postponed further proceedings on passage of S. 1094 until later in the legislative day.
+- 2017-06-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 368 - 55 (Roll no. 307).(text: CR H4884-4889)
+- 2017-06-13 — Rule H. Res. 378 passed House.
+- 2017-06-13 — Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.
+- 2017-06-13 — The previous question was ordered pursuant to the rule. (consideration: CR H4896)
+- 2017-06-22 — Presented to President.
+- 2017-06-22 — Presented to President.
+- 2017-06-23 — Signed by President.
+- 2017-06-23 — Signed by President.
