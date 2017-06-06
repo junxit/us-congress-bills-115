@@ -1,0 +1,15 @@
+---
+legis-num: S. 1297
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1297
+
+> To make title VII of the Foreign Intelligence Surveillance Act of 1978 permanent, and for other purposes.
+
+## § 1. Repeal of sunset of title VII of the Foreign Intelligence Surveillance Act of 1978
+
+- **(a)** *Repeal* Section 403 of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2474) is amended by striking subsection (b).
+- **(b)** *Conforming amendment* Section 404 of the FISA Amendments Act of 2008 (Public Law 110–261; 50 U.S.C. 1801 note) is amended by striking subsection (b).
