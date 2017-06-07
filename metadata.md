@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2192
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2192
@@ -105,10 +105,11 @@ To amend the Public Health Service Act to eliminate the non-application of certa
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -128,3 +129,4 @@ To amend the Public Health Service Act to eliminate the non-application of certa
 - 2017-05-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 429 - 0 (Roll no. 255).(text: CR H4139)
 - 2017-05-04 — Rule provides for consideration of H.R. 2192 and H.R. 1628. Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted.
 - 2017-05-04 — The previous question was ordered pursuant to the rule.
+- 2017-06-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
