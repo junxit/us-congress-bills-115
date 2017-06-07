@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 374
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 374
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2213) to amend the Anti-Border Cor
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2017-06-07 — [House 115-1-288](votes/house-115-1-0288.md) — On Ordering the Previous Question — **Passed** (228–189)
+- 2017-06-07 — [House 115-1-289](votes/house-115-1-0289.md) — On Agreeing to the Resolution — **Passed** (231–185)
+
 ## Actions
 
 - 2017-06-06 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 2213) to amend the Anti-Border Cor
 - 2017-06-06 — Rule provides for consideration of H.R. 2213 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2017-06-06 — The House Committee on Rules reported an original measure, H. Rept. 115-162, by Ms. Cheney.
 - 2017-06-06 — The House Committee on Rules reported an original measure, H. Rept. 115-162, by Ms. Cheney.
+- 2017-06-07 — Considered as privileged matter. (consideration: CR H4660-4664)
+- 2017-06-07 — Considered as unfinished business. (consideration: CR H4671-4672)
+- 2017-06-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 374.
+- 2017-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-07 — On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 289). (text: CR H4660)
+- 2017-06-07 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 189 (Roll no. 288). (consideration: CR H4671)
+- 2017-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 374, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Mr. Hastings demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2017-06-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 231 - 185 (Roll no. 289).(text: CR H4660)
