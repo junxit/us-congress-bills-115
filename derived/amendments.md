@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-166 amendatory instructions. 63 executed, 103 stated and not applied.
+165 amendatory instructions. 63 executed, 102 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -440,12 +440,12 @@ to guess them.
 
 ### 20 U.S.C. § 2342
 
-> in paragraph (3), by striking “(including charter school” and all that follows through “and community organizations)” and inserting “(including teachers, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies, and charter school leaders, consistent with State law, employers, labor organizations, parents, students, and community organizations)”; and
+> in paragraph (3), by striking “(including charter school” and all that follows through “and community organizations)” and inserting “(including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies, and charter school leaders, consistent with State law, employers, labor organizations, parents, students, and community organizations)”; and
 
 | | |
 |---|---|
 | Removed | `(including charter school” and all that follows through “and community organizations)` |
-| Inserted | `(including teachers, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies, and charter school leaders, consistent with State law, employers, labor organizations, parents, students, and community organizations)` |
+| Inserted | `(including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies, and charter school leaders, consistent with State law, employers, labor organizations, parents, students, and community organizations)` |
 
 ### 20 U.S.C. § 2343
 
@@ -476,7 +476,7 @@ to guess them.
 
 ### 20 U.S.C. § 2343
 
-> by striking “work with the eligible agency” and inserting “provide the eligible agency technical assistance”;
+> by striking “work with the eligible agency” and inserting “provide the eligible agency technical assistance”; and
 
 | | |
 |---|---|
@@ -617,7 +617,6 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7801` | redesignate | by inserting after paragraph (13) (as so redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2302` | redesignate | by inserting after paragraph (17) (as so redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450` | redesignate | by amending paragraph (19) (as so redesignated by paragraph (2)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 2302` | redesignate | by amending paragraph (20) (as so redesignated by paragraph (2)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | redesignate | by adding after paragraph (20) (as so redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3102` | redesignate | by inserting after paragraph (23) (as so redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3102` | redesignate | by inserting after paragraph (25) (as so redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -637,7 +636,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 2321` | insert | by inserting after subparagraph (A), as amended by paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2322` | replace | in subsection (c), by striking “section 135” and all that follows through the end and inserting | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7801` | redesignate | in paragraph (1), by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7801` | redesignate | in paragraph (1)(B), as so redesignated, by striking “, and State levels of performance described in paragraph (3)(B) for each additional indicator of performance”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 7801` | redesignate | in paragraph (1)(B), as so redesignated, by striking “, and State levels of performance described in paragraph (3)(B) for each additional indicator of performance”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7801` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
