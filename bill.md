@@ -23,7 +23,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 ## § 4. Effective date
 
-This Act, and the amendments made by this Act, shall take effect beginning on January 1, 2018.
+This Act, and the amendments made by this Act, shall take effect beginning on July 1, 2018.
 
 ## § 5. Table of contents of the Carl D. Perkins Career and Technical Education Act of 2006
 
@@ -108,12 +108,7 @@ Section 3 (20 U.S.C. 2302) is amended—
   >   - **(E)** a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) or the Act of April 16, 1934 (25 U.S.C. 452 et seq.); or
   >   - **(F)** an educational service agency.
 
-- **(11)** by amending paragraph (20) (as so redesignated by paragraph (2)) to read as follows:
-  > - **(20)** *Eligible recipient* The term eligible recipient means—
-  >   - **(A)** an eligible institution or consortium of eligible institutions eligible to receive assistance under section 132; or
-  >   - **(B)** a local educational agency (including a public charter school that operates as a local educational agency), an area career and technical education school, an educational service agency, or a consortium of such entities, eligible to receive assistance under section 131.
-
-- **(12)** by adding after paragraph (20) (as so redesignated by paragraph (2)) the following:
+- **(11)** by adding after paragraph (20) (as so redesignated by paragraph (2)) the following:
   > - **(21)** *English learner* The term English learner means—
   >   - **(A)** a secondary school student who is an English learner, as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); or
   >   - **(B)** an adult or an out-of-school youth who has limited ability in speaking, reading, writing, or understanding the English language and—
@@ -121,25 +116,25 @@ Section 3 (20 U.S.C. 2302) is amended—
   >     - **(ii)** who lives in a family environment in which a language other than English is the dominant language.
   > - **(22)** *Evidence-based* The term evidence-based has the meaning given the term in section 8101(21)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(21)(A)).
 
-- **(13)** by inserting after paragraph (23) (as so redesignated by paragraph (2)) the following:
+- **(12)** by inserting after paragraph (23) (as so redesignated by paragraph (2)) the following:
   > - **(24)** *In-demand industry sector or occupation* The term in-demand industry sector or occupation has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-- **(14)** by inserting after paragraph (25) (as so redesignated by paragraph (2)) the following:
+- **(13)** by inserting after paragraph (25) (as so redesignated by paragraph (2)) the following:
   > - **(26)** *Industry or sector partnership* The term industry or sector partnership has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-- **(15)** by inserting after paragraph (28) (as so redesignated by paragraph (2)) the following:
+- **(14)** by inserting after paragraph (28) (as so redesignated by paragraph (2)) the following:
   > - **(29)** *Local workforce development board* The term local workforce development board means a local workforce development board established under section 107 of the Workforce Innovation and Opportunity Act.
 
-- **(16)** by inserting after paragraph (30) (as so redesignated by paragraph (2)) the following:
+- **(15)** by inserting after paragraph (30) (as so redesignated by paragraph (2)) the following:
   > - **(31)** *Out-of-school youth* The term out-of-school youth has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-- **(17)** by inserting after paragraph (32) (as so redesignated by paragraph (2)) the following:
+- **(16)** by inserting after paragraph (32) (as so redesignated by paragraph (2)) the following:
   > - **(33)** *Paraprofessional* The term paraprofessional has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
   > - **(34)** *Pay for success initiative* The term pay for success initiative has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801), except that such term does not include an initiative that—
   >   - **(A)** reduces the special education or related services that a student would otherwise receive under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.); or
   >   - **(B)** otherwise reduces the rights of a student or the obligations of an entity under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), or any other law.
 
-- **(18)** by inserting after paragraph (35) (as so redesignated by paragraph (2)) the following:
+- **(17)** by inserting after paragraph (35) (as so redesignated by paragraph (2)) the following:
   > - **(36)** *Program of study* The term program of study means a coordinated, nonduplicative sequence of secondary and postsecondary academic and technical content that—
   >   - **(A)** incorporates challenging State academic standards, including those adopted by a State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)), that—
   >     - **(i)** address both academic and technical knowledge and skills, including employability skills; and
@@ -147,7 +142,7 @@ Section 3 (20 U.S.C. 2302) is amended—
   >   - **(B)** progresses in specificity (beginning with all aspects of an industry or career cluster and leading to more occupational specific instruction);
   >   - **(C)** has multiple entry and exit points that incorporate credentialing; and
   >   - **(D)** culminates in the attainment of a recognized postsecondary credential.
-  > - **(37)** *Qualified intermediary* The term qualified intermediary means a nonprofit entity that demonstrates expertise to build, connect, sustain, and measure partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—
+  > - **(37)** *Qualified intermediary* The term qualified intermediary means a non-profit entity that demonstrates expertise to build, connect, sustain, and measure partnerships with entities such as employers, schools, community-based organizations, postsecondary institutions, social service organizations, economic development organizations, and workforce systems to broker services, resources, and supports to youth and the organizations and systems that are designed to serve youth, including—
   >   - **(A)** connecting employers to classrooms;
   >   - **(B)** assisting in the design and implementation of career and technical education programs and programs of study;
   >   - **(C)** delivering professional development;
@@ -155,7 +150,7 @@ Section 3 (20 U.S.C. 2302) is amended—
   >   - **(E)** developing personalized student supports.
   > - **(38)** *Recognized postsecondary credential* The term recognized postsecondary credential has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-- **(19)** in paragraph (41) (as so redesignated by paragraph (2))—
+- **(18)** in paragraph (41) (as so redesignated by paragraph (2))—
   - **(A)** in subparagraph (B), by striking “foster children” and inserting “youth who are in or have aged out of the foster care system”;
   - **(B)** in subparagraph (E), by striking “and” at the end;
   - **(C)** in subparagraph (F), by striking “individuals with limited English proficiency.” and inserting “English learners;”; and
@@ -165,12 +160,12 @@ Section 3 (20 U.S.C. 2302) is amended—
     >   - **(i)** is a member of the armed forces (as such term is defined in section 101(a)(4) of title 10, United States Code); and
     >   - **(ii)** is on active duty (as such term is defined in section 101(d)(1) of such title).
 
-- **(20)** by inserting after paragraph (41) (as so redesignated by paragraph (2)) the following:
+- **(19)** by inserting after paragraph (41) (as so redesignated by paragraph (2)) the following:
   > - **(42)** *Specialized instructional support personnel* The term specialized instructional support personnel has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
   > - **(43)** *Specialized instructional support services* The term specialized instructional support services has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
-- **(21)** in paragraph (45) (as so redesignated by paragraph (2)) by inserting “(including paraprofessionals and specialized instructional support personnel)” after “supportive personnel”; and
-- **(22)** by adding at the end the following:
+- **(20)** in paragraph (45) (as so redesignated by paragraph (2)) by inserting “(including paraprofessionals and specialized instructional support personnel)” after “supportive personnel”; and
+- **(21)** by adding at the end the following:
   > - **(48)** *Universal design for learning* The term universal design for learning has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
   > - **(49)** *Work-based learning* The term work-based learning means sustained interactions with industry or community professionals in real workplace settings, to the extent practicable, or simulated environments at an educational institution that foster in-depth, first-hand engagement with the tasks required of a given career field, that are aligned to curriculum and instruction.
 
