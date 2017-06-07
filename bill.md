@@ -39,10 +39,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, in 2001, LCIF partnered with the Special Olympics on Opening Eyes, an initiative to provide vision screening for Special Olympics athletes;
 - Whereas, in 2002, Lions Clubs International chartered a club in China, which became the first voluntary membership group in China;
 - Whereas, in 2007, the Financial Times ranked LCIF as the best nongovernmental organization worldwide with which to establish a partnership;
-- Whereas, in 2010, the Bill & Melinda Gates Foundation contributed $5,000,000 to the One Shot, One Life measles initiative, and Lions raised more than $10,000,000 to support measles prevention efforts during the subsequent 2 years;
 - Whereas, in 2011, LCIF awarded its 10,000th grant, bringing the total amount awarded to grant recipients by LCIF to $708,000,000;
 - Whereas, in 2013, LCIF partnered with the GAVI Alliance to protect millions of children from measles and rubella in 2013;
-- Whereas LCIF committed $30,000,000 for immunizations, an amount matched by the United Kingdom and the Bill & Melinda Gates Foundation;
+- Whereas LCIF committed $30,000,000 for immunizations, an amount matched by partner organizations;
 - Whereas, in 2013, with the support of Lions Clubs International and the Carter Center, river blindness was eliminated in Colombia; and
 - Whereas, in 2014, Lions Clubs International launched the Centennial Service Challenge, a global initiative to serve 100,000,000 people around the world: Now, therefore, be it
 
