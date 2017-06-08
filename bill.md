@@ -25,5 +25,7 @@ Congress finds that—
 
 ## § 3. Designation
 
+## § 2. Designation
+
 - **(a)** *In General* The memorial to fallen educators located at the National Teachers Hall of Fame in Emporia, Kansas, is designated as the “National Memorial to Fallen Educators”.
 - **(b)** *Effect of Designation* The national memorial designated by this section is not a unit of the National Park System and the designation of the National Memorial to Fallen Educators shall not require or permit Federal funds to be expended for any purpose related to that national memorial.
