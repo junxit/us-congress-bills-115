@@ -13,3 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Short title* This Act may be cited as the “Financial CHOICE Act of 2017”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Directed rulemaking repeals
+
+With respect to any directed rulemaking required by a provision of law repealed by this Act, to the extent any rule was issued or revised pursuant to such directed rulemaking, such rule or revision shall have no force or effect.
