@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 710
@@ -28,3 +28,7 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 
 - 2017-03-23 — Introduced in Senate
 - 2017-03-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-103.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-103.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
