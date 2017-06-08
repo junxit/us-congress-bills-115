@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2213
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2213
@@ -28,9 +28,10 @@ Anti-Border Corruption Reauthorization Act of 2017
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Anti-Border Corruption Reauthorization Act of 2017
 - 2017-06-07 — Rule H. Res. 374 passed House.
 - 2017-06-07 — Rule provides for consideration of H.R. 2213 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2017-06-07 — The previous question was ordered pursuant to the rule.
+- 2017-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
