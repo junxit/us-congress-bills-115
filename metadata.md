@@ -1,7 +1,7 @@
 ---
 measure: S. 703
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 703
@@ -28,3 +28,7 @@ Wichita Project Equus Beds Division Authorization Extension Act
 
 - 2017-03-22 — Introduced in Senate
 - 2017-03-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-102.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-102.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.
