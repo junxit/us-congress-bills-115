@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 45
 congress: 115
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 45
