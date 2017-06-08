@@ -1,7 +1,7 @@
 ---
 measure: S. 267
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 267
@@ -28,3 +28,7 @@ A bill to provide for the correction of a survey of certain land in the State of
 
 - 2017-02-01 — Introduced in Senate
 - 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-98.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-98.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 128.
