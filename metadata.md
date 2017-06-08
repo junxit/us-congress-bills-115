@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 10
@@ -111,3 +111,69 @@ Financial CHOICE Act of 2017
 - 2017-05-25 — Placed on the Union Calendar, Calendar No. 100.
 - 2017-05-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-153, Part I.
 - 2017-05-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-153, Part I.
+- 2017-06-02 — Supplemental report filed by the Committee on Financial Services, H. Rept. 115-153, Part II.
+- 2017-06-02 — Supplemental report filed by the Committee on Financial Services, H. Rept. 115-153, Part II.
+- 2017-06-06 — Rules Committee Resolution H. Res. 375 Reported to House. Rule provides for consideration of H.R. 10 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2017-06-07 — Rule H. Res. 375 passed House.
+- 2017-06-08 — Amendment (A001) offered by Mr. Hensarling. (consideration: CR H4789-4791, H4799; text: CR H4789)
+- 2017-06-08 — Amendment (A002) offered by Mr. Hollingsworth. (consideration: CR H4791-4793, H4799-4800; text: CR H4791)
+- 2017-06-08 — Amendment (A003) offered by Mr. Smucker. (consideration: CR H4793-4794; text: CR H4793)
+- 2017-06-08 — Amendment (A004) offered by Mr. Faso. (consideration: CR H4794-4796, H4800-4801; text: CR H4794)
+- 2017-06-08 — Amendment (A005) offered by Ms. McSally. (consideration: CR H4796-4797; text: CR H4796-4797)
+- 2017-06-08 — Amendment (A006) offered by Mr. Buck. (consideration: CR H4797-4799, H4801; text: CR H4797-4798)
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Amendment agreed to Committee of the Whole
+- 2017-06-08 — Considered under the provisions of rule H. Res. 375. (consideration: CR H4716-4802)
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the Buck Part B amendment No. 6.
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the Faso Part B amendment No. 4.
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling Part B amendment No. 1.
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the Hollingsworth Part B amendment No. 2.
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the McSally Part B amendment No. 5.
+- 2017-06-08 — DEBATE - Pursuant to the provisions of H. Res. 375, the Committee of the Whole proceeded with 10 minutes of debate on the Smucker Part B amendment No. 3.
+- 2017-06-08 — GENERAL DEBATE - The Committee of the Whole proceeded with ninety minutes of general debate on H.R. 10.
+- 2017-06-08 — House amendment agreed to: On agreeing to the Buck amendment (A006) Agreed to by recorded vote: 233 - 185 (Roll no. 298).
+- 2017-06-08 — House amendment agreed to: On agreeing to the Faso amendment (A004) Agreed to by recorded vote: 235 - 184 (Roll no. 297).
+- 2017-06-08 — House amendment agreed to: On agreeing to the Hensarling amendment (A001) Agreed to by recorded vote: 232 - 185 (Roll no. 295).
+- 2017-06-08 — House amendment agreed to: On agreeing to the Hollingsworth amendment (A002) Agreed to by recorded vote: 231 - 180 (Roll no. 296).
+- 2017-06-08 — House amendment agreed to: On agreeing to the McSally amendment (A005) Agreed to by voice vote.
+- 2017-06-08 — House amendment agreed to: On agreeing to the Smucker amendment (A003) Agreed to by voice vote.
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered
+- 2017-06-08 — House amendment offered/reported by : Amendment (A001) offered by Mr. Hensarling.(consideration: CR H4789-4791, H4799; text: CR H4789)
+- 2017-06-08 — House amendment offered/reported by : Amendment (A002) offered by Mr. Hollingsworth.(consideration: CR H4791-4793, H4799-4800; text: CR H4791)
+- 2017-06-08 — House amendment offered/reported by : Amendment (A003) offered by Mr. Smucker.(consideration: CR H4793-4794; text: CR H4793)
+- 2017-06-08 — House amendment offered/reported by : Amendment (A004) offered by Mr. Faso.(consideration: CR H4794-4796, H4800-4801; text: CR H4794)
+- 2017-06-08 — House amendment offered/reported by : Amendment (A005) offered by Ms. McSally.(consideration: CR H4796-4797; text: CR H4796-4797)
+- 2017-06-08 — House amendment offered/reported by : Amendment (A006) offered by Mr. Buck.(consideration: CR H4797-4799, H4801; text: CR H4797-4798)
+- 2017-06-08 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 375 and Rule XVIII.
+- 2017-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-08 — On agreeing to the Buck amendment (A006) Agreed to by recorded vote: 233 - 185 (Roll no. 298).
+- 2017-06-08 — On agreeing to the Faso amendment (A004) Agreed to by recorded vote: 235 - 184 (Roll no. 297).
+- 2017-06-08 — On agreeing to the Hensarling amendment (A001) Agreed to by recorded vote: 232 - 185 (Roll no. 295).
+- 2017-06-08 — On agreeing to the Hollingsworth amendment (A002) Agreed to by recorded vote: 231 - 180 (Roll no. 296).
+- 2017-06-08 — On agreeing to the McSally amendment (A005) Agreed to by voice vote.
+- 2017-06-08 — On agreeing to the Smucker amendment (A003) Agreed to by voice vote.
+- 2017-06-08 — On passage Passed by the Yeas and Nays: 233 - 186 (Roll no. 299).
+- 2017-06-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2017-06-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Faso amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2017-06-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2017-06-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hollingsworth amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2017-06-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 186 (Roll no. 299).
+- 2017-06-08 — Roll call votes on amendments in House
+- 2017-06-08 — Roll call votes on amendments in House
+- 2017-06-08 — Roll call votes on amendments in House
+- 2017-06-08 — Roll call votes on amendments in House
+- 2017-06-08 — Rule provides for consideration of H.R. 10 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2017-06-08 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H4731-4789)
+- 2017-06-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 10.
+- 2017-06-08 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2017-06-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4801)
+- 2017-06-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
