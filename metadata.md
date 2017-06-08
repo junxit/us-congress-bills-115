@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 33
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 33
@@ -29,9 +29,10 @@ Designating the George C. Marshall Museum and George C. Marshall Research Librar
 - Rep. Taylor, Scott [R-VA-2] (T000477)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Designating the George C. Marshall Museum and George C. Marshall Research Librar
 - 2017-06-07 — Mr. Brat moved to suspend the rules and agree to the resolution.
 - 2017-06-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4674-4675)
 - 2017-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4674-4675)
+- 2017-06-08 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
