@@ -1,7 +1,7 @@
 ---
 measure: S. 534
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 534
@@ -16,7 +16,7 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (15)
+## Cosponsors (26)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -33,6 +33,17 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -42,3 +53,8 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 
 - 2017-03-06 — Introduced in Senate
 - 2017-03-06 — Read twice and referred to the Committee on the Judiciary.
+- 2017-03-28 — Committee on the Judiciary. Hearings held.
+- 2017-05-11 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-06-08 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2017-06-08 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
