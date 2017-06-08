@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1628
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1628
@@ -42,3 +42,5 @@ American Health Care Act of 2017
 - 2017-05-04 — Pursuant to H.Res. 308, further amendments printed in House Report 115-109 are considered as adopted. (consideration: CR H4149-4170)
 - 2017-05-04 — Pursuant to clause 1(c) of rule 19, the House resumed with further consideration of H.R. 1628.
 - 2017-05-04 — The previous question was ordered pursuant to the rule.
+- 2017-06-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-06-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.
