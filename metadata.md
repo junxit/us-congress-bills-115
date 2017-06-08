@@ -1,7 +1,7 @@
 ---
 measure: S. 117
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 117
@@ -28,3 +28,7 @@ Alex Diekmann Peak Designation Act of 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-94.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-94.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.
