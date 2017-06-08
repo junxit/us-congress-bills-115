@@ -1,7 +1,7 @@
 ---
 measure: S. 491
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 491
@@ -30,3 +30,7 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1579; text of measure as introduced: CR S1580)
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-101.
+- 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-101.
+- 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.
