@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 45
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 45
@@ -20,8 +20,15 @@ A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Or
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
 ## Actions
 
 - 2017-06-08 — Introduced in Senate
 - 2017-06-08 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S3372-3373; text as passed Senate: CR S3372-3373)
 - 2017-06-08 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR S3372-3373; text as passed Senate: CR S3372-3373)
+- 2017-06-09 — Message on Senate action sent to the House.
+- 2017-06-12 — Received in the House.
+- 2017-06-12 — Referred to the House Committee on Oversight and Government Reform.
