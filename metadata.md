@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1109
@@ -16,12 +16,16 @@ To amend section 203 of the Federal Power Act.
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Cosponsors (4)
+## Cosponsors (8)
 
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
 
 ## Committees (1)
 
@@ -32,3 +36,16 @@ To amend section 203 of the Federal Power Act.
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Energy and Commerce.
+- 2017-02-17 — Referred to the Subcommittee on Energy.
+- 2017-06-07 — Committee Consideration and Mark-up Session Held.
+- 2017-06-07 — Ordered to be Reported by Unanimous Consent.
+- 2017-06-07 — Subcommittee on Energy Discharged.
+- 2017-06-12 — Considered under suspension of the rules. (consideration: CR H4827-4828)
+- 2017-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1109.
+- 2017-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-12 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2017-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4827)
+- 2017-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4827)
+- 2017-06-12 — Placed on the Union Calendar, Calendar No. 112.
+- 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-167.
+- 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-167.
