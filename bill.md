@@ -37,6 +37,9 @@ Congress makes the following findings:
 - **(11)** Physicians for Human Rights reported that, between March 2011 and the end of July 2016, Syrian government and allied forces—
   - **(A)** had committed 362 attacks on medical facilities (including through the use of indiscriminate barrel bombs on at least 74 occasions); and
   - **(B)** had killed 768 medical personnel.
+- **(11)** Physicians for Human Rights reported that, between March 2011 and the end of December 2016, Syrian government and allied forces—
+  - **(A)** had committed 412 attacks on medical facilities (including through the use of indiscriminate barrel bombs on at least 80 occasions); and
+  - **(B)** had killed 735 medical personnel.
 - **(12)** The Department of State’s 2016 Country Reports on Human Rights Practices—
   - **(A)** details President Bashar al-Assad’s use of “indiscriminate and deadly force against civilians, conducting air and ground-based military assaults on cities, residential areas, and civilian infrastructure”;
   - **(B)** explains that “these attacks included bombardment with improvised explosive devices, commonly referred to as “barrel bombs” …”; and
@@ -70,6 +73,9 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Relations of the Senate; and
   - **(B)** the Committee on Foreign Affairs of the House of Representatives.
+  - **(B)** the Committee on Armed Services of the Senate;
+  - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(D)** the Committee on Armed Services of the House of Representatives.
 - **(2)** *Genocide* The term genocide means any offense described in section 1091(a) of title 18, United States Code.
 - **(3)** *Hybrid tribunal* The term hybrid tribunal means a temporary criminal tribunal that involves a combination of domestic and international lawyers, judges, and other professionals to prosecute individuals suspected of committing war crimes, crimes against humanity, or genocide.
 - **(4)** *Transitional justice* The term transitional justice means the range of judicial, nonjudicial, formal, informal, retributive, and restorative measures employed by countries transitioning out of armed conflict or repressive regimes—
@@ -109,7 +115,7 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 
 ## § 7. Technical assistance authorized
 
-- **(a)** *In general* The Secretary of State (acting through appropriate officials and offices, which may include the Office of Global Criminal Justice), after consultation with the Department of Justice and other appropriate Federal agencies, is authorized to provide appropriate assistance to support entities that, with respect to war crimes, crimes against humanity, and genocide perpetrated by the regime of President Bashar al-Assad, all forces fighting on its behalf, and violent extremist groups in Syria beginning in March 2011—
+- **(a)** *In general* The Secretary of State (acting through appropriate officials and offices, which may include the Office of Global Criminal Justice), after consultation with the Department of Justice and other appropriate Federal agencies, is authorized to provide appropriate assistance to support entities that, with respect to war crimes, crimes against humanity, and genocide perpetrated by the regime of President Bashar al-Assad, all forces fighting on its behalf, and all non-state armed groups fighting in the country, including violent extremist groups in Syria beginning in March 2011—
   - **(1)** identify suspected perpetrators of war crimes, crimes against humanity, and genocide;
   - **(2)** collect, document, and protect evidence of crimes and preserve the chain of custody for such evidence;
   - **(3)** conduct criminal investigations;
