@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *Bureau* The term Bureau means the Bureau of Reclamation.
 - **(2)** *Cooperating agencies* The term cooperating agency means a Federal agency with jurisdiction over a review, analysis, opinion, statement, permit, license, or other approval or decision required for a qualifying project under applicable Federal laws and regulations, or a State agency subject to section 3(c).
-- **(3)** *Qualifying projects* The term qualifying projects means new surface water storage projects in the States covered under the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) constructed on lands administered by the Department of the Interior or the Department of Agriculture, exclusive of any easement, right-of-way, lease, or any private holding.
+- **(3)** *Qualifying projects* The term qualifying projects means new surface water storage projects in the States covered under the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) constructed on lands administered by the Department of the Interior or the Department of Agriculture, exclusive of any easement, right-of-way, lease, or any private holding, unless the project applicant elects not to participate in the process authorized by this Act.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Establishment of lead agency and cooperating agencies
@@ -76,12 +76,11 @@ In this Act:
 
 - **(a)** *In general* The Secretary, after public notice in accordance with subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”), may accept and expend funds contributed by a non-Federal public entity to expedite the evaluation of a permit of that entity related to a qualifying project.
 - **(b)** *Effect on permitting*
-  - **(1)** *In general* In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not substantively or procedurally impact impartial decisionmaking with respect to permits.
-  - **(2)** *Evaluation of permits* In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
+  - **(1)** *Evaluation of permits* In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
     - **(A)** be reviewed by the Regional Director of the Bureau of the region in which the qualifying project or activity is located (or a designee); and
     - **(B)** use the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
-  - **(3)** *Impartial decisionmaking* In carrying out this section, the Secretary and the head of each cooperating agency receiving funds under this section for a qualifying project shall ensure that the use of the funds accepted under this section for the qualifying project shall not—
+  - **(2)** *Impartial decisionmaking* In carrying out this section, the Secretary and the head of each cooperating agency receiving funds under this section for a qualifying project shall ensure that the use of the funds accepted under this section for the qualifying project shall not—
     - **(A)** substantively or procedurally impact impartial decisionmaking with respect to the issuance of permits; or
     - **(B)** diminish, modify, or otherwise affect the statutory or regulatory authorities of the cooperating agency.
-- **(c)** *Limitation on use of funds* None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(2)(A).
+- **(c)** *Limitation on use of funds* None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(1)(A).
 - **(d)** *Public availability* The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.

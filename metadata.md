@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1654
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1654
@@ -36,3 +36,10 @@ Water Supply Permitting Coordination Act
 - 2017-03-21 — Introduced in House
 - 2017-03-21 — Introduced in House
 - 2017-03-21 — Referred to the House Committee on Natural Resources.
+- 2017-03-27 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-04-27 — Committee Consideration and Mark-up Session Held.
+- 2017-04-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 16.
+- 2017-04-27 — Subcommittee on Water, Power and Oceans Discharged.
+- 2017-06-12 — Placed on the Union Calendar, Calendar No. 111.
+- 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-166.
+- 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-166.
