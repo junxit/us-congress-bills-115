@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 627
@@ -16,7 +16,7 @@ Streamlining Energy Efficiency for Schools Act of 2017
 
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Cosponsors (44)
+## Cosponsors (50)
 
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -62,6 +62,12 @@ Streamlining Energy Efficiency for Schools Act of 2017
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Messer, Luke [R-IN-6] (M001189)
 
 ## Committees (1)
 
@@ -72,3 +78,14 @@ Streamlining Energy Efficiency for Schools Act of 2017
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Introduced in House
 - 2017-01-24 — Referred to the House Committee on Energy and Commerce.
+- 2017-06-07 — Committee Consideration and Mark-up Session Held.
+- 2017-06-07 — Ordered to be Reported by Unanimous Consent.
+- 2017-06-12 — Considered under suspension of the rules. (consideration: CR H4825-4826)
+- 2017-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 627.
+- 2017-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-12 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2017-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4825)
+- 2017-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4825)
+- 2017-06-12 — Placed on the Union Calendar, Calendar No. 115.
+- 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-171.
+- 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-171.
