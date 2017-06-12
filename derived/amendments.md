@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2274
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 16 U.S.C. § 806
 
-> Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than 8 additional years,”.
+> Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than eight additional years,”.
 
 | | |
 |---|---|
 | Removed | `once but not longer than two additional years` |
-| Inserted | `for not more than 8 additional years,` |
+| Inserted | `for not more than eight additional years,` |
 
 ## Stated, not applied
 
