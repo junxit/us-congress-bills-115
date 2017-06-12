@@ -20,10 +20,10 @@ This Act may be cited as the “HYdropower Permit Extension Act” or the “HYP
   - **(2)** in subsection (b)—
     - **(A)** by striking “Commission may extend the period of a preliminary permit once for not more than 2 additional years beyond the 3 years” and inserting the following:
       > Commission may—
-      > - **(1)** extend the period of a preliminary permit once for not more than 4 additional years beyond the 4 years
+      > - **(1)** extend the period of a preliminary permit once for not more than four additional years beyond the four years
 
     - **(B)** by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(2)** if the period of a preliminary permit is extended under paragraph (1), extend the period of such preliminary permit once for not more than 4 additional years beyond the extension period granted under paragraph (1), if the Commission determines that there are extraordinary circumstances that warrant such additional extension.
+      > - **(2)** if the period of a preliminary permit is extended under paragraph (1), extend the period of such preliminary permit once for not more than four additional years beyond the extension period granted under paragraph (1), if the Commission determines that there are extraordinary circumstances that warrant such additional extension.
 
-- **(b)** *Time limit for construction of project works* Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than 8 additional years,”.
+- **(b)** *Time limit for construction of project works* Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than eight additional years,”.
