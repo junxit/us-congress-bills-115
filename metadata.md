@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 627
@@ -69,9 +69,10 @@ Streamlining Energy Efficiency for Schools Act of 2017
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Streamlining Energy Efficiency for Schools Act of 2017
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 115.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-171.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-171.
+- 2017-06-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
