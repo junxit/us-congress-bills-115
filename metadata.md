@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2457
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2457
@@ -16,9 +16,10 @@ J. Bennett Johnston Waterway Hydropower Extension Act of 2017
 
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ J. Bennett Johnston Waterway Hydropower Extension Act of 2017
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 120.
 - 2017-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-176.
 - 2017-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-176.
+- 2017-06-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
