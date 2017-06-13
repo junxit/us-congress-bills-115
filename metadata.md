@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10
@@ -59,7 +59,7 @@ Financial CHOICE Act of 2017
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Committees (9)
+## Committees (10)
 
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
@@ -70,6 +70,7 @@ Financial CHOICE Act of 2017
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Agriculture Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -185,3 +186,5 @@ Financial CHOICE Act of 2017
 - 2017-06-08 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
 - 2017-06-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4801)
 - 2017-06-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-06-12 — Received in the Senate.
+- 2017-06-13 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
