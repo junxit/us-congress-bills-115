@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2292
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2292
@@ -56,3 +56,4 @@ To extend a project of the Federal Energy Regulatory Commission involving the Ca
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 118.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-174.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-174.
+- 2017-06-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
