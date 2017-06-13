@@ -1,7 +1,7 @@
 ---
 measure: S. 566
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 566
@@ -28,3 +28,7 @@ Methow Headwaters Protection Act
 
 - 2017-03-08 — Introduced in Senate
 - 2017-03-08 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-06-13 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-106.
+- 2017-06-13 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-106.
+- 2017-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.
