@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1109
@@ -27,9 +27,10 @@ To amend section 203 of the Federal Power Act.
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To amend section 203 of the Federal Power Act.
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 112.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-167.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-167.
+- 2017-06-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
