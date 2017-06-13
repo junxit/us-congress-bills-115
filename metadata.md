@@ -1,7 +1,7 @@
 ---
 measure: H.R. 338
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 338
@@ -24,10 +24,11 @@ To promote a 21st century energy and manufacturing workforce.
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Education and the Workforce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To promote a 21st century energy and manufacturing workforce.
 - 2017-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4831-4832)
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-168, Part I.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-168, Part I.
+- 2017-06-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
