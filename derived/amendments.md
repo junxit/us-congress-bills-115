@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
