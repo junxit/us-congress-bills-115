@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2581
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2581
@@ -38,6 +38,11 @@ Verify First Act
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2017-06-13 — [House 115-1-305](votes/house-115-1-0305.md) — On Motion to Recommit with Instructions — **Failed** (193–231)
+- 2017-06-13 — [House 115-1-306](votes/house-115-1-0306.md) — On Passage — **Passed** (238–184)
+
 ## Actions
 
 - 2017-05-22 — Introduced in House
@@ -51,3 +56,17 @@ Verify First Act
 - 2017-06-02 — Placed on the Union Calendar, Calendar No. 108.
 - 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-161, Part I.
 - 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-161, Part I.
+- 2017-06-12 — Rules Committee Resolution H. Res. 378 Reported to House. Rule provides for consideration of H.R. 2581 and S. 1094. Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.
+- 2017-06-13 — Considered as unfinished business. (consideration: CR H4896-4898)
+- 2017-06-13 — Considered under the provisions of rule H. Res. 378. (consideration: CR H4875-4883)
+- 2017-06-13 — DEBATE - The House proceeded with 10 minutes of debate on the Sanchez motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add an exemption to the underlying bill for newborn children who are less than one year of age.
+- 2017-06-13 — DEBATE - The House proceeded with one hour of debate on H.R. 2581.
+- 2017-06-13 — House amendment offered
+- 2017-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-13 — Ms. Sanchez moved to recommit with instructions to the Committee on Ways and Means. (text: CR H4883)
+- 2017-06-13 — On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 231 (Roll no. 305). (text: CR H4883)
+- 2017-06-13 — On passage Passed by recorded vote: 238 - 184 (Roll no. 306). (text: CR H4875)
+- 2017-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanchez motion to recommit with instructions, Chair put the question on adoption of the motion to recommit and by voice vote announced that the noes had prevailed. Ms. Sanchez demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption of the motion to recommit with instructions until later in the later legislative day.
+- 2017-06-13 — Passed/agreed to in House: On passage Passed by recorded vote: 238 - 184 (Roll no. 306).(text: CR H4875)
+- 2017-06-13 — Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.
+- 2017-06-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4883)
