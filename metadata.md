@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2122
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2122
@@ -42,3 +42,4 @@ To reinstate and extend the deadline for commencement of construction of a hydro
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 119.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-175.
 - 2017-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 115-175.
+- 2017-06-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
