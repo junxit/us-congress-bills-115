@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2581
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2581
@@ -33,10 +33,11 @@ Verify First Act
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Verify First Act
 - 2017-06-13 — Passed/agreed to in House: On passage Passed by recorded vote: 238 - 184 (Roll no. 306).(text: CR H4875)
 - 2017-06-13 — Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.
 - 2017-06-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4883)
+- 2017-06-14 — Received in the Senate and Read twice and referred to the Committee on Finance.
