@@ -1,7 +1,7 @@
 ---
 measure: S. 831
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 831
@@ -38,3 +38,15 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2017-06-14 — Message on Senate action sent to the House.
 - 2017-06-14 — Received in the House.
 - 2017-06-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-03-05 — Considered under suspension of the rules. (consideration: CR H1351-1352)
+- 2018-03-05 — DEBATE - The House proceeded with forty minutes of debate on S. 831.
+- 2018-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-05 — Mr. Palmer moved to suspend the rules and pass the bill.
+- 2018-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1352)
+- 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1352)
+- 2018-03-08 — Presented to President.
+- 2018-03-08 — Presented to President.
+- 2018-03-16 — Became Public Law No: 115-137.
+- 2018-03-16 — Became Public Law No: 115-137.
+- 2018-03-16 — Signed by President.
+- 2018-03-16 — Signed by President.
