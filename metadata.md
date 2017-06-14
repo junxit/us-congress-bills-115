@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 46
@@ -40,3 +40,7 @@ Fort Ontario Study Act
 - 2017-01-30 — Sponsor introductory remarks on measure. (CR H712-713)
 - 2017-01-31 — Received in the Senate.
 - 2017-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-110.
+- 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-110.
+- 2017-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
