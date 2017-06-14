@@ -1,7 +1,7 @@
 ---
 measure: H.R. 381
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 381
@@ -82,3 +82,7 @@ To designate a mountain in the John Muir Wilderness of the Sierra National Fores
 - 2017-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H709)
 - 2017-01-31 — Received in the Senate.
 - 2017-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-111.
+- 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-111.
+- 2017-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
