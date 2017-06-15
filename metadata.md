@@ -1,7 +1,7 @@
 ---
 measure: S. 346
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 346
@@ -29,3 +29,7 @@ National Volcano Early Warning and Monitoring System Act
 
 - 2017-02-08 — Introduced in Senate
 - 2017-02-08 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S968-969)
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2017-06-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-113.
+- 2017-06-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-113.
+- 2017-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 150.

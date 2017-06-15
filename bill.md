@@ -37,14 +37,14 @@ Congress finds that—
   - **(E)** the California Volcano Observatory, located in Menlo Park, California; and
 - **(12)** a detailed survey of the volcanoes in the United States and the monitoring status of those volcanoes has revealed numerous serious monitoring gaps, leaving the United States exposed to preventable damage from large volcanic eruptions.
 
-## § 3. Definitions
+## § 32. Definitions
 
 In this Act:
 
 - **(1)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
-- **(2)** *System* The term System means the National Volcano Early Warning and Monitoring System established under section 4(a)(1).
+- **(2)** *System* The term System means the National Volcano Early Warning and Monitoring System established under section 43(a)(1).
 
-## § 4. National volcano early warning and monitoring system
+## § 43. National volcano early warning and monitoring system
 
 - **(a)** *Establishment*
   - **(1)** *In general* The Secretary shall establish within the United States Geological Survey a system, to be known as the “National Volcano Early Warning and Monitoring System”, to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
@@ -77,7 +77,7 @@ In this Act:
     - **(D)** the Director of the Federal Emergency Management Administration.
 - **(d)** *Annual report* Annually, the Secretary shall submit to Congress a report that describes the activities carried out under this Act.
 
-## § 5. Funding
+## § 54. Funding
 
 - **(a)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act for each of fiscal years 2017 through 2027.
 - **(b)** *Effect on other sources of Federal funding* Amounts made available under this section shall supplement, and not supplant, Federal funds made available for other United States Geological Survey hazards activities and programs.
