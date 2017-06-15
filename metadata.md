@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 782
@@ -45,3 +45,5 @@ PROTECT Our Children Act of 2017
 - 2017-06-08 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-06-08 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
+- 2017-06-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3547-3548; text: CR S3548)
+- 2017-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3547-3548; text: CR S3548)
