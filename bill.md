@@ -28,9 +28,13 @@ This Act may be cited as the “Community Counterterrorism Preparedness Act”.
   >   - **(2)** *Additional jurisdictions* Eligible applicants receiving funding under the program established pursuant to subsection (a) may include in activities funded by such program neighboring jurisdictions that would be likely to provide mutual aid in response to emerging terrorist attack scenarios, including complex, coordinated terrorist attacks and active shooters.
   > - **(c)** *Permitted uses* The recipient of a grant under the program established pursuant to subsection (a) may use such grant to—
   >   - **(1)** identify capability gaps related to preparing for, preventing, and responding to emerging terrorist attack scenarios, including complex, coordinated terrorist attacks and active shooters;
-  >   - **(2)** develop or update plans, annexes, and processes to address any capability gaps identified pursuant to paragraph (1); and
-  >   - **(3)** conduct training and exercises to address such identified gaps and validate capabilities.
+  >   - **(2)** develop or update plans, annexes, and processes to address any capability gaps identified pursuant to paragraph (1);
+  >   - **(3)** conduct training to address such identified capability gaps; and
+  >   - **(4)** conduct exercises, including at locations such as mass gathering venues, places of worship, or educational institutions, as appropriate, to validate capabilities.
   > - **(d)** *Period of performance* The Administrator shall make funds provided under this section available for use by a recipient of a grant for a period of not fewer than 36 months.
-  > - **(e)** *Authorization of appropriations* There are authorized to be appropriated for grants under this section $39,000,000 for each of fiscal years 2018 through 2022.
+  > - **(e)** *Information sharing* The Administrator shall, to the extent practicable, aggregate, analyze, and share with relevant emergency response providers information on best practices and lessons learned from—
+  >   - **(1)** the planning, training, and exercises conducted using grants authorized under the program established pursuant to subsection (a); and
+  >   - **(2)** responses to actual terrorist attacks around the world.
+  > - **(f)** *Authorization of appropriations* There are authorized to be appropriated for grants under this section $39,000,000 for each of fiscal years 2018 through 2022.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2008 the following new item:

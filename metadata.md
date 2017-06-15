@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2188
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2188
@@ -16,7 +16,7 @@ Community Counterterrorism Preparedness Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Hurd, Will [R-TX-23] (H001073)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
@@ -35,6 +35,9 @@ Community Counterterrorism Preparedness Act
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
 
 ## Committees (1)
 
@@ -45,3 +48,8 @@ Community Counterterrorism Preparedness Act
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Referred to the House Committee on Homeland Security.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-06-15 — Placed on the Union Calendar, Calendar No. 122.
+- 2017-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-181.
+- 2017-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-181.
