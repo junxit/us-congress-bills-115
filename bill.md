@@ -15,8 +15,10 @@ This Act may be cited as the “Reporting Efficiently to Proper Officials in Res
 
 ## § 2. Duty to report
 
-- **(a)** *Duty imposed* Whenever an incident of terrorism occurs in the United States, it shall be the duty of the Secretary of Homeland Security, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and, as appropriate, the head of the National Counterterrorism Center, to submit, not later than upon completion of the investigation by the primary Government agency conducting the investigation, an unclassified report (which may be accompanied by a classified annex) to Congress concerning that incident.
-- **(b)** *Content of reports* A report under this section shall contain—
-  - **(1)** a statement of the facts of the incident, as known at the time of the report; and
-  - **(2)** any recommendations for changes in practices or law, consistent with the Constitution, with particular attention to changes that could help prevent future attacks.
-- **(c)** *Definition* In this section, the term “incident of terrorism” means an event declared by the Federal Bureau of Investigation to be an act of terrorism.
+- **(a)** *Duty imposed* Whenever an act of terrorism occurs in the United States, it shall be the duty of the Secretary of Homeland Security, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and, as appropriate, the head of the National Counterterrorism Center, to submit, within one year of the completion of the investigation concerning such act by the primary Government agency conducting such investigation, an unclassified report (which may be accompanied by a classified annex) to Congress concerning such act.
+- **(b)** *Content of reports* A report under this section shall—
+  - **(1)** include a statement of the facts of the act of terrorism referred to in subsection (a), as known at the time of the report;
+  - **(2)** identity any gaps in national security that could be addressed to prevent future acts of terrorism; and
+  - **(3)** any recommendations for additional measures that could be taken to improve homeland security, including potential changes in law enforcement practices or changes in law, consistent with the Constitution, with particular attention to changes that could help prevent future acts of terrorism.
+- **(c)** *Exception* The duty established under subsection (a) shall not apply in instances in which the Secretary of Homeland Security, the Attorney General, the Director of the Federal Bureau of Investigation, or the head of the National Counterterrorism Center determines that the information required to be reported could jeopardize an ongoing investigation or prosecution. In such instances, the Secretary shall notify Congress of such prior to the first anniversary of the completion of the investigation described in such subsection.
+- **(d)** *Definition* In this section, the term “act of terrorism” has the meaning given such term in section 3077 of title 18, United States Code.
