@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2372
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2372
@@ -69,3 +69,13 @@ Veterans Equal Treatment Ensures Relief and Access Now Act
 - 2017-06-02 — Placed on the Union Calendar, Calendar No. 106.
 - 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-159.
 - 2017-06-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-159.
+- 2017-06-12 — Rules Committee Resolution H. Res. 379 Reported to House. Rule provides for consideration of H.R. 2372 and H.R. 2579. Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments.
+- 2017-06-15 — Considered under the provisions of rule H. Res. 379. (consideration: CR H4925-4929)
+- 2017-06-15 — DEBATE - The House proceeded with one hour of debate on H.R. 2372.
+- 2017-06-15 — House amendment offered
+- 2017-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-15 — On passage Passed by voice vote. (text: CR H4925)
+- 2017-06-15 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H4925)
+- 2017-06-15 — Received in the Senate.
+- 2017-06-15 — Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments.
+- 2017-06-15 — The previous question was ordered pursuant to the rule.
