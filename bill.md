@@ -56,5 +56,5 @@ Title IV of the Indian Health Care Improvement Act (25 U.S.C. 1641 et seq.) is a
 >       - **(i)** beginning on January 1, 2011; and
 >       - **(ii)** ending on December 31, 2016; and
 >   - **(3)** an update regarding efforts of the Secretary and the Secretary of Veterans Affairs to streamline health care for veterans who are eligible for assistance from the Service and have received health care at a medical facility of the Department of Veterans Affairs and at a facility of the Service, including a description of—
->     - **(A)** any changes to the provision of health care required under the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.); and
+>     - **(A)** any changes to the provision of health care required under this Act; and
 >     - **(B)** any barriers to efficiently streamline the provision of health care to veterans who are eligible for assistance from the Service.
