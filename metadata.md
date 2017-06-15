@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1393
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1393
@@ -16,7 +16,7 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 
-## Cosponsors (23)
+## Cosponsors (57)
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Smith, Jason [R-MO-8] (S001195)
@@ -41,6 +41,40 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 - Rep. Marino, Tom [R-PA-10] (M001179)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
 
 ## Committees (1)
 
@@ -51,3 +85,9 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Referred to the House Committee on the Judiciary.
+- 2017-03-17 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2017-03-22 — Committee Consideration and Mark-up Session Held.
+- 2017-03-22 — Ordered to be Reported by the Yeas and Nays: 19 - 2.
+- 2017-06-15 — Placed on the Union Calendar, Calendar No. 121.
+- 2017-06-15 — Reported by the Committee on Judiciary. H. Rept. 115-180.
+- 2017-06-15 — Reported by the Committee on Judiciary. H. Rept. 115-180.
