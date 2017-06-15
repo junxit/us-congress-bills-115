@@ -1,7 +1,7 @@
 ---
 measure: S. 722
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 722
@@ -16,7 +16,7 @@ Countering Iran's Destabilizing Activities Act of 2017
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Cosponsors (51)
+## Cosponsors (154)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -69,10 +69,121 @@ Countering Iran's Destabilizing Activities Act of 2017
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Strange, Luther [R-AL] (S001202)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Portman, Rob [R-OH] (P000449)
 
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
+
+## Recorded votes (5)
+
+- 2017-06-07 — [Senate 115-1-140](votes/senate-115-1-0140.md) — On the Cloture Motion — **Cloture Motion Agreed to** (91–8)
+- 2017-06-14 — [Senate 115-1-144](votes/senate-115-1-0144.md) — On the Amendment — **Amendment Agreed to** (97–2)
+- 2017-06-15 — [Senate 115-1-145](votes/senate-115-1-0145.md) — On the Amendment — **Amendment Agreed to** (94–6)
+- 2017-06-15 — [Senate 115-1-146](votes/senate-115-1-0146.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2017-06-15 — [Senate 115-1-147](votes/senate-115-1-0147.md) — On Passage of the Bill — **Bill Passed** (98–2)
 
 ## Actions
 
@@ -82,3 +193,83 @@ Countering Iran's Destabilizing Activities Act of 2017
 - 2017-05-25 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-05-25 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
+- 2017-06-05 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3239)
+- 2017-06-05 — Motion to proceed to consideration of measure made in Senate. (CR S3239)
+- 2017-06-07 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 91 - 8. Record Vote Number: 140. (CR S3309)
+- 2017-06-07 — Motion to proceed to measure considered in Senate. (consideration: CR S3303-3321)
+- 2017-06-07 — Senate amendment submitted
+- 2017-06-07 — Senate amendment submitted
+- 2017-06-08 — Motion to proceed to measure considered in Senate. (consideration: CR S3347-3349, S3349-3358)
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-08 — Senate amendment submitted
+- 2017-06-12 — Amendment SA 232 proposed by Senator McConnell for Senator Crapo. (consideration: CR S3393; text: CR S3399-3410) To impose sanctions with respect to the Russian Federation and to combat terrorism and illicit financing.
+- 2017-06-12 — Amendment SA 233 proposed by Senator McConnell to Amendment SA 232. (consideration: CR S3393; text: CR S3393) To change the enactment date.
+- 2017-06-12 — Cloture motion on amendment SA 232 presented in Senate. (CR S3393)
+- 2017-06-12 — Measure laid before Senate by motion.
+- 2017-06-12 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2017-06-12 — Motion to proceed to measure considered in Senate. (consideration: CR S3388-3390)
+- 2017-06-12 — Senate amendment proposed (on the floor): Amendment SA 232 proposed by Senator McConnell for Senator Crapo.(consideration: CR S3393; text: CR S3399-3410)
+- 2017-06-12 — Senate amendment proposed (on the floor): Amendment SA 233 proposed by Senator McConnell to Amendment SA 232.(consideration: CR S3393; text: CR S3393)
+- 2017-06-12 — Senate amendment submitted
+- 2017-06-12 — Senate amendment submitted
+- 2017-06-12 — Senate amendment submitted
+- 2017-06-13 — Cloture motion on amendment SA 232 withdrawn by unanimous consent in Senate. (consideration: CR S3428-3440; text as modified: CR S3429-3440)
+- 2017-06-13 — Cloture motion on the committee reported substitute amendment presented in Senate. (CR S3450)
+- 2017-06-13 — Cloture motion on the measure presented in Senate. (CR S3450)
+- 2017-06-13 — Considered by Senate. (consideration: CR S3428-3450)
+- 2017-06-13 — Considered by Senate. (consideration: CR S3440-3448)
+- 2017-06-13 — Proposed amendment SA 233 withdrawn in Senate. (consideration: CR S3428)
+- 2017-06-13 — Senate amendment submitted
+- 2017-06-14 — Amendment SA 232 as modified agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 144. (consideration: CR S3462-3474)
+- 2017-06-14 — Amendment SA 240 proposed by Senator Corker for Senator Graham. (consideration: CR S3474; text: CR S3474) To reaffirm the strategic importance of Article 5 of the North Atlantic Treaty to the member nations of the North Atlantic Treaty Organization and its contribution to maintaining stability throughout the world.
+- 2017-06-14 — Amendment SA 250 proposed by Senator Gardner. (consideration: CR S3484; text as modified: CR S3484) To provide an exception for activities of the National Aeronautics and Space Administration.
+- 2017-06-14 — Cloture motion on the committee reported substitute amendment withdrawn by unanimous consent in Senate. (CR S3484)
+- 2017-06-14 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (CR S3484)
+- 2017-06-14 — Considered by Senate. (consideration: CR S3462-3484)
+- 2017-06-14 — Considered by Senate. (consideration: CR S3462-3484)
+- 2017-06-14 — Roll call votes on amendments in Senate: Amendment SA 232 as modified agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 144.(consideration: CR S3462-3474)
+- 2017-06-14 — Senate amendment agreed to: Amendment SA 232 as modified agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 144.(consideration: CR S3462-3474)
+- 2017-06-14 — Senate amendment proposed (on the floor): Amendment SA 240 proposed by Senator Corker for Senator Graham.(consideration: CR S3474; text: CR S3474)
+- 2017-06-14 — Senate amendment proposed (on the floor): Amendment SA 250 proposed by Senator Gardner.(consideration: CR S3484; text as modified: CR S3484)
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-14 — Senate amendment submitted
+- 2017-06-15 — Amendment SA 240 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 146.
+- 2017-06-15 — Amendment SA 250 as modified agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 145.
+- 2017-06-15 — Amendment SA 255 agreed to in Senate by Unanimous Consent.
+- 2017-06-15 — Amendment SA 255 proposed by Senator McConnell for Senator Corker. (consideration: CR S3528; text: CR S3528) To amend the title.
+- 2017-06-15 — Considered by Senate. (consideration: CR S3505, S3507-3512)
+- 2017-06-15 — Considered by Senate. (consideration: CR S3505, S3512-3513; text: CR S3528)
+- 2017-06-15 — Considered by Senate. (consideration: CR S3505-3528)
+- 2017-06-15 — Message on Senate action sent to the House.
+- 2017-06-15 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 98 - 2. Record Vote Number: 147. (text as passed Senate: CR S3513-3528)
+- 2017-06-15 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 98 - 2. Record Vote Number: 147.(text as passed Senate: CR S3513-3528)
+- 2017-06-15 — Roll call votes on amendments in Senate: Amendment SA 240 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 146.
+- 2017-06-15 — Roll call votes on amendments in Senate: Amendment SA 250 as modified agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 145.
+- 2017-06-15 — Senate amendment agreed to: Amendment SA 240 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 146.
+- 2017-06-15 — Senate amendment agreed to: Amendment SA 250 as modified agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 145.
+- 2017-06-15 — Senate amendment agreed to: Amendment SA 255 agreed to in Senate by Unanimous Consent.
+- 2017-06-15 — Senate amendment proposed (on the floor): Amendment SA 255 proposed by Senator McConnell for Senator Corker.(consideration: CR S3528; text: CR S3528)
+- 2017-06-15 — Senate amendment submitted
+- 2017-06-15 — The committee substitute as amended agreed to by Unanimous Consent.
