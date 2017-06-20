@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 2959
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2959
+
+> To amend title XXI of the Social Security Act to allow for parent mentors to be eligible to receive outreach and enrollment grants under the Children’s Health Insurance Program under such title, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Child Health Outreach and Mentorship Program Act”.
+
+## § 2. Outreach and enrollment grants under CHIP
+
+- **(a)** *Extension and reauthorization*
+  - **(1)** *Extension* Section 2113(a) of the Social Security Act (42 U.S.C. 1397mm(a)) is amended by striking “2017” and inserting “2023”.
+  - **(2)** *Reauthorization* Section 2113(g) of the Social Security Act (42 U.S.C. 1397mm(a)) is amended by striking “$140,000,000 for the period of fiscal years 2009 through 2015 and $40,000,000 for the period of fiscal years 2016 and 2017” and inserting the following: “$40,000,000 for the period of fiscal years 2016 and 2017 and $20,000,000 for each of fiscal years 2018 through 2023”.
+- **(b)** *Making parent mentors eligible to receive grants* Section 2113(f) of the Social Security Act (42 U.S.C. 1397mm(f)) is amended—
+  - **(1)** in paragraph (1), by adding at the end the following new subparagraph:
+    > - **(H)** Parent mentors.
+
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(5)** *Parent mentor* The term “parent mentor” means an individual who—
+    >   - **(A)** is a parent or guardian of at least one child who is an eligible child under this title or title XIX; and
+    >   - **(B)** is trained to assist families with children who have no health insurance coverage with respect to improving the social determinants of the health of such children, including by providing—
+    >     - **(i)** education about health insurance coverage, including, with respect to obtaining such coverage, eligibility criteria and application and renewal processes;
+    >     - **(ii)** assistance with completing and submitting applications for health insurance coverage;
+    >     - **(iii)** a liaison between families and representatives of State plans under title XIX or State child health plans under this title;
+    >     - **(iv)** guidance on identifying medical and dental homes and community pharmacies for children; and
+    >     - **(v)** assistance and referrals to successfully address social determinants of children’s health, including poverty, food insufficiency, and housing.
