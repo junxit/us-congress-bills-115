@@ -1,7 +1,7 @@
 ---
 measure: H.R. 625
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 625
@@ -60,3 +60,9 @@ REPORT Act
 - 2017-06-15 — Placed on the Union Calendar, Calendar No. 123.
 - 2017-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-182.
 - 2017-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-182.
+- 2017-06-20 — Considered under suspension of the rules. (consideration: CR H4976-4978)
+- 2017-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 625.
+- 2017-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-20 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4976-4977)
+- 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4976-4977)
