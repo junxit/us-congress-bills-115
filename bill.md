@@ -28,7 +28,7 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
   - **(E)** in paragraph (5), by inserting before the semicolon at the end the following: “that is informed by an assessment, carried out by the Chief Human Capital Officer, of the learning and developmental needs of employees in supervisory and non-supervisory roles across the Department and appropriate workforce planning initiatives”;
   - **(F)** by redesignating paragraphs (9) and (10) as paragraphs (11) and (12), respectively; and
   - **(G)** by inserting after paragraph (8) the following new paragraphs:
-    > - **(9)** maintain a catalogue of available employee development opportunities, including the Homeland Security Rotation Program pursuant to section 844, departmental leadership development programs, interagency development programs, and other rotational programs; and
+    > - **(9)** maintain a catalogue of available employee development opportunities, including the Homeland Security Rotation Program pursuant to section 844, departmental leadership development programs, interagency development programs, and other rotational programs;
     > - **(10)** ensure that employee discipline and adverse action programs comply with the requirements of all pertinent laws, rules, regulations, and Federal guidance, and ensure due process for employees;
 
 - **(2)** by redesignating subsections (d) and (e) as subsections (e) and (f), respectively;
@@ -39,7 +39,7 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
   - **(A)** by redesignating paragraphs (2), (3), and (4) as paragraphs (5), (6), and (7), respectively; and
   - **(B)** by inserting after paragraph (1) the following new paragraphs:
     > - **(2)** information on employee development opportunities catalogued pursuant to paragraph (9) of subsection (b) and any available data on participation rates, attrition rates, and impacts on retention and employee satisfaction;
-    > - **(3)** information on the progress of Department-wide strategic workforce planning efforts as determined under paragraph (2) of subsection (b); and
+    > - **(3)** information on the progress of Department-wide strategic workforce planning efforts as determined under paragraph (2) of subsection (b);
     > - **(4)** information on the activities of the steering committee established pursuant to section 710(a), including the number of meeting, types of materials developed and distributed, and recommendations made to the Secretary;
 
 ## § 3. Employee engagement steering committee and action plan
@@ -47,7 +47,7 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
 - **(a)** *In general* Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section:
   > ## § 710. Employee engagement
   >
-  > - **(a)** *Steering committee* Not later than 120 days after the date of the enactment of this section, the Secretary shall establish an employee engagement steering committee, including representatives from operational components and headquarters, including supervisory and non-supervisory personnel, and employee labor organizations that represent Department employees, and chaired by the Under Secretary for Management, to carry out the following activities:
+  > - **(a)** *Steering committee* Not later than 120 days after the date of the enactment of this section, the Secretary shall establish an employee engagement steering committee, including representatives from operational components, headquarters, and field personnel, including supervisory and non-supervisory personnel, and employee labor organizations that represent Department employees, and chaired by the Under Secretary for Management, to carry out the following activities:
   >   - **(1)** Identify factors that have a negative impact on employee engagement, morale, and communications within the Department, such as perceptions about limitations on career progression, mobility, or development opportunities, collected through employee feedback platforms, including through annual employee surveys, questionnaires, and other communications, as appropriate.
   >   - **(2)** Identify, develop, and distribute initiatives and best practices to improve employee engagement, morale, and communications within the Department, including through annual employee surveys, questionnaires, and other communications, as appropriate.
   >   - **(3)** Monitor efforts of each component to address employee engagement, morale, and communications based on employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate.
@@ -56,10 +56,10 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
   > - **(b)** *Action plan; Reporting* The Secretary, acting through the Chief Human Capital Officer, shall—
   >   - **(1)** not later than 120 days after the date of the establishment of the steering committee under subsection (a), issue a Department-wide employee engagement action plan, reflecting input from the employee engagement steering committee established pursuant to subsection (a) and employee feedback provided through annual employee surveys, questionnaires, and other communications in accordance with paragraph (1) of such subsection, to execute strategies to improve employee engagement, morale, and communications within the Department; and
   >   - **(2)** require the head of each component to—
-  >     - **(A)** identify and assign a senior executive to serve on the steering committee;
-  >     - **(B)** develop and implement a component-specific employee engagement plan to advance the action plan required under paragraph (1) that includes performance measures and objectives, is informed by employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate, and sets forth how employees and, where applicable, their labor representatives are to be integrated in developing programs and initiatives;
-  >     - **(C)** monitor progress on implementation of such action plan; and
-  >     - **(D)** provide to the Chief Human Capital Officer and the steering committee monthly reports on actions planned and progress made under this paragraph.
+  >     - **(A)** develop and implement a component-specific employee engagement plan to advance the action plan required under paragraph (1) that includes performance measures and objectives, is informed by employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate, and sets forth how employees and, where applicable, their labor representatives are to be integrated in developing programs and initiatives;
+  >     - **(B)** monitor progress on implementation of such action plan; and
+  >     - **(C)** provide to the Chief Human Capital Officer and the steering committee quarterly reports on actions planned and progress made under this paragraph.
+  > - **(c)** *Termination* This section shall terminate on the date that is 5 years after the date of the enactment of this section.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 709 the following new item:
 - **(c)** *Submissions to Congress*
@@ -74,7 +74,7 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
   > - **(a)** *In general* The Secretary may establish an annual employee award program to recognize Department employees or groups of employees for significant contributions to the achievement of the Department’s goals and missions. If such a program is established, the Secretary shall—
   >   - **(1)** establish within such program categories of awards, each with specific criteria, that emphasizes honoring employees who are at the non-supervisory level;
   >   - **(2)** publicize within the Department how any employee or group of employees may be nominated for an award;
-  >   - **(3)** establish an internal review board comprised of representatives from Department components to submit to the Secretary award recommendations regarding specific employees or groups of employees;
+  >   - **(3)** establish an internal review board comprised of representatives from Department components, headquarters, and field personnel to submit to the Secretary award recommendations regarding specific employees or groups of employees;
   >   - **(4)** select recipients from the pool of nominees submitted by the internal review board under paragraph (3) and convene a ceremony at which employees or groups of employees receive such awards from the Secretary; and
   >   - **(5)** publicize such program within the Department.
   > - **(b)** *Internal review board* The internal review board described in subsection (a)(3) shall, when carrying out its function under such subsection, consult with representatives from operational components and headquarters, including supervisory and non-supervisory personnel, and employee labor organizations that represent Department employees.
@@ -82,11 +82,12 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by section 3 of this Act, is further amended by inserting after the item relating to section 710 the following new item:
 
-## § 5. Independent audit
+## § 5. Independent investigation and implementation plan
 
-- **(a)** *In general* Not later than 90 days after the date of the issuance of any comprehensive report by the Inspector General of the Department of Homeland Security on the administration of the disciplinary and adverse action program within the Department but in no case later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall execute an agreement with an entity outside the Federal Government to conduct an independent audit of how disciplinary processes are administered throughout the Department.
-- **(b)** *Contents* Not later than 180 days after the agreement described in subsection (a) is executed, the entity referred to in such subsection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the audit required under such subsection, including findings regarding whether disciplinary processes of the Department of Homeland Security are administered in a consistent manner within components and across the Department, and recommendations for actions to promote greater uniformity and transparency in the administration of such disciplinary processes. The audit shall specifically review whether such disciplinary processes administered within each component of the Department result in the same or substantially similar disciplinary outcomes for misconduct by a non-supervisory or supervisory employee who engaged in same or substantially similar misconduct. In carrying out the audit, the entity shall consult with representatives of Federal employee labor organizations that represent Department employees.
+- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act or the issuance of a report by the Inspector General of the Department of Homeland Security on the extent to which the Department has an equitable and consistent disciplinary process, whichever is later, but in no case later than 1 year after such date of enactment, the Comptroller General of the United States shall utilize, if available, such report and investigate whether the application of discipline and adverse actions are administered in an equitable and consistent manner that results in the same or substantially similar disciplinary outcomes across the Department for misconduct by a non-supervisory or supervisor employee who engaged in the same or substantially similar misconduct.
+- **(b)** *Consultation* In carrying out the investigation described in subsection (a), the Comptroller General of the United States shall consult with the employee engagement steering committee established pursuant to subsection (b)(1) of section 710 of the Homeland Security Act of 2002 (as added by section 3(a) of this Act).
+- **(c)** *Action by Under Secretary for Management* Upon completion of the investigation described in subsection (a), the Under Secretary for Management of the Department of Homeland Security shall review the findings and recommendations of such investigation and implement a plan, in consultation with the employee engagement steering committee established pursuant to subsection (b)(1) of section 710 of the Homeland Security Act of 2002, to correct any relevant deficiencies identified by the Comptroller General of the United States. The Under Secretary for Management shall direct the employee engagement steering committee to review such plan to inform committee activities and action plans authorized under such section 710.
 
-## § 6. Prohibition on new funding
+## § 5. Prohibition on new funding
 
-No funds are authorized to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise made available.
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.

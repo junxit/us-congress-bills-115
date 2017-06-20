@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2283
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2283
@@ -39,3 +39,11 @@ Department of Homeland Security Morale, Recognition, Learning and Engagement Act
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Referred to the House Committee on Homeland Security.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-06-20 — Considered under suspension of the rules. (consideration: CR H4980-4982)
+- 2017-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2283.
+- 2017-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-20 — Mr. Rutherford moved to suspend the rules and pass the bill, as amended.
+- 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4980-4981)
+- 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4980-4981)
