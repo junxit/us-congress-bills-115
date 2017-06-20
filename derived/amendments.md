@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1551
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 45J` | insert | in paragraph (4), by inserting “or any amendment to” after “enactment of”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 45J` | insert | in paragraph (4), by inserting “or any amendment to” after “enactment of”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 45J` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45J` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45J` | redesignate | by redesignating subsection (e) as subsection (f), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45J` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45J` | add-at-end | Section 501(c)(12) of such Code is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
