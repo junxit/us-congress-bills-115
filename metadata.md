@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 782
@@ -33,9 +33,10 @@ PROTECT Our Children Act of 2017
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ PROTECT Our Children Act of 2017
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
 - 2017-06-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3547-3548; text: CR S3548)
 - 2017-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3547-3548; text: CR S3548)
+- 2017-06-19 — Message on Senate action sent to the House.
+- 2017-06-20 — Received in the House.
+- 2017-06-20 — Referred to the House Committee on the Judiciary.
