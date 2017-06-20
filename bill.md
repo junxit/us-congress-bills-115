@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Accelerating Individuals into the Workforce Act”.
 
-## § 2. Demonstration projects to support subsidized employment for TANF recipients
+## § 2. Demonstration projects to support subsidized employment for TANF recipients to enter the workforce
 
 Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at the end the following:
 
 > - **(c)** *Subsidized employment demonstration projects*
->   - **(1)** *In general* The Secretary shall make grants to States to conduct demonstration projects designed to implement and evaluate strategies that provide wage subsidies to enable low-income individuals to enter into and retain employment.
+>   - **(1)** *In general* The Secretary shall make grants to States to conduct demonstration projects, at least one of which shall fund programs that offer apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), designed to implement and evaluate strategies that provide wage subsidies to enable low-income individuals to enter into and retain employment.
 >   - **(2)** *Application requirements* The Secretary shall require each State that applies for a grant under this subsection to do the following:
 >     - **(A)** Describe how wage subsidies will be provided (such as whether paid directly to the employer or the individual), the duration of the subsidies, the amount of the subsidies, the structure of the subsidies, and how employers will be recruited to participate in the subsidized employment program.
 >     - **(B)** Describe how the State expects those participating in subsidized employment to be able to retain employment after the subsidy ends.
@@ -47,9 +47,9 @@ Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at t
 >     - **(A)** *Evaluator qualifications* The Secretary may not enter into a contract with an evaluator unless the evaluator has demonstrated experience in conducting rigorous evaluations of program effectiveness including, where available and appropriate, well-implemented randomized controlled trials.
 >     - **(B)** *Methodologies to be used* The evaluation of a demonstration project shall use experimental designs using random assignment or other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences when random assignment is not feasible.
 >     - **(C)** *Public disclosure* The Secretary shall publish the results of the evaluation on the website of the Department of Health and Human Services in a location easily accessible by the public.
->   - **(7)** *Recommendations to congress* The Secretary shall submit recommendations to the Congress on how to increase the employment, retention, and advancement of individuals currently or formerly receiving assistance under a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).
+>   - **(7)** *Recommendations to Congress* The Secretary shall submit recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on how to increase the employment, retention, and advancement of individuals currently or formerly receiving assistance under a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)).
 >   - **(8)** *Funding* Of the amounts made available to carry out subsection (b) for fiscal year 2018, the Secretary shall reserve $100,000,000 to carry out this subsection.
->   - **(9)** *Use of certain funds for career pathways programs* The Secretary shall use 15 percent of the amounts reserved to carry out this subsection, to fund programs that offer career pathway (as defined in section 3(7) of the Workforce Innovation and Opportunity Act) services.
+>   - **(9)** *Use of certain funds for career pathway programs* The Secretary shall use 15 percent of the amounts reserved to carry out this subsection, to fund programs that offer career pathway (as defined in section 3(7) of the Workforce Innovation and Opportunity Act) services.
 >   - **(10)** *Availability of funds* Funds provided to a State under this subsection in a fiscal year shall be expended by the State in the fiscal year or in the succeeding fiscal year.
 
 ## § 3. Effective date
