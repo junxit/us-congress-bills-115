@@ -40,9 +40,7 @@ Section 437(f) of the Social Security Act (42 U.S.C. 629g(f)) is amended—
   >     - **(iii)** if the condition described in paragraph (2)(B) applies, may include tribal court organizations in lieu of other judicial partners.
 
 - **(3)** in paragraph (3)—
-  - **(A)** in subparagraph (A)—
-    - **(i)** by striking “2012 through 2016” and inserting “2017 through 2021”; and
-    - **(ii)** by striking “$500,000 and not more than $1,000,000” and inserting “$250,000 and not more than $1,000,000”;
+  - **(A)** in subparagraph (A), by striking “$500,000 and not more than $1,000,000” and inserting “$250,000 and not more than $1,000,000”;
   - **(B)** in subparagraph (B)—
     - **(i)** in the subparagraph heading, by inserting “; planning” after “approval”;
     - **(ii)** in clause (i), by striking “clause (ii)” and inserting “clauses (ii) and (iii)”; and
@@ -83,8 +81,6 @@ Section 437(f) of the Social Security Act (42 U.S.C. 629g(f)) is amended—
 
 - **(8)** in paragraph (9)(A), by striking clause (i) and inserting the following:
   > - **(i)** *Semiannual reports* Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
-
-- **(9)** in paragraph (10), by striking “2012 through 2016” and inserting “2017 through 2021”.
 
 ## § 3. Effective date
 

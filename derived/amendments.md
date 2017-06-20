@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2834
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 10 executed, 13 stated and not applied.
+21 amendatory instructions. 8 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,16 +35,7 @@ to guess them.
 
 ### 42 U.S.C. § 629g
 
-> by striking “2012 through 2016” and inserting “2017 through 2021”; and
-
-| | |
-|---|---|
-| Removed | `2012 through 2016` |
-| Inserted | `2017 through 2021` |
-
-### 42 U.S.C. § 629g
-
-> by striking “$500,000 and not more than $1,000,000” and inserting “$250,000 and not more than $1,000,000”;
+> in subparagraph (A), by striking “$500,000 and not more than $1,000,000” and inserting “$250,000 and not more than $1,000,000”;
 
 | | |
 |---|---|
@@ -104,15 +95,6 @@ to guess them.
 |---|---|
 | Removed | `in using funds made available under such grants to achieve the purpose of this subsection` |
 | Inserted | `and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 471(e)(6)` |
-
-### 42 U.S.C. § 629g
-
-> in paragraph (10), by striking “2012 through 2016” and inserting “2017 through 2021”.
-
-| | |
-|---|---|
-| Removed | `2012 through 2016` |
-| Inserted | `2017 through 2021` |
 
 ## Stated, not applied
 
