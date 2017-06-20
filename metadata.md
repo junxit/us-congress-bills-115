@@ -1,0 +1,29 @@
+---
+measure: H.Res. 392
+congress: 115
+version: Reported in House
+---
+
+# H.Res. 392
+
+Providing for consideration of the bill (H.R. 1873) to amend the Federal Land Policy and Management Act of 1976 to enhance the reliability of the electricity grid and reduce the threat of wildfires to and from electric transmission and distribution facilities on Federal lands by facilitating vegetation management on such lands, and providing for consideration of the bill (H.R. 1654) to authorize the Secretary of the Interior to coordinate Federal and State permitting processes related to the construction of new surface water storage projects on lands under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture and to designate the Bureau of Reclamation as the lead agency for permit processing, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+
+## Committees (1)
+
+- House — Rules Committee
+
+## Actions
+
+- 2017-06-20 — Introduced in House
+- 2017-06-20 — Placed on the House Calendar, Calendar No. 58.
+- 2017-06-20 — Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments.
+- 2017-06-20 — The House Committee on Rules reported an original measure, H. Rept. 115-186, by Mr. Newhouse.
+- 2017-06-20 — The House Committee on Rules reported an original measure, H. Rept. 115-186, by Mr. Newhouse.
