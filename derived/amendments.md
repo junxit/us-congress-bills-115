@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2866
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 671` | strike | in paragraph (34)(B), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 671` | replace | in paragraph (35)(B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 622` | strike | in paragraph (18), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 622` | replace | in paragraph (19), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 622` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
