@@ -11,20 +11,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reducing Barriers for Relative Foster Parents Act”.
+This Act may be cited as the “Reducing Unnecessary Barriers for Relative Foster Parents Act”.
 
 ## § 2. Reviewing and improving licensing standards for placement in a relative foster family home
 
 - **(a)** *Identification of reputable model licensing standards* Not later than October 1, 2018, the Secretary of Health and Human Services shall identify reputable model licensing standards with respect to the licensing of foster family homes (as defined in section 472(c)(1) of the Social Security Act).
-- **(b)** *State plan requirement* Section 471(a) of the Social Security Act (42 U.S.C. 671(a)) is amended—
-  - **(1)** in paragraph (34)(B), by striking “and” after the semicolon;
-  - **(2)** in paragraph (35)(B), by striking the period at the end and inserting a semicolon; and
+- **(b)** *State plan requirement* Section 422(b) of the Social Security Act (42 U.S.C. 622(b)) is amended—
+  - **(1)** in paragraph (18), by striking “and” after the semicolon;
+  - **(2)** in paragraph (19), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
-    > - **(36)** provides that, not later than April 1, 2019, the State shall submit to the Secretary information addressing—
+    > - **(20)** provide that, not later than April 1, 2019, the State shall submit to the Secretary information addressing—
     >   - **(A)** whether the State licensing standards are in accord with model standards identified by the Secretary, and if not, the reason for the specific deviation and a description as to why having a standard that is reasonably in accord with the corresponding national model standards is not appropriate for the State;
     >   - **(B)** whether the State has elected to waive standards established in 471(a)(10)(A) for relative foster family homes (pursuant to waiver authority provided by 471(a)(10)(D)), a description of which standards the State most commonly waives, and if the State has not elected to waive the standards, the reason for not waiving these standards;
     >   - **(C)** if the State has elected to waive standards specified in subparagraph (B), how caseworkers are trained to use the waiver authority and whether the State has developed a process or provided tools to assist caseworkers in waiving nonsafety standards per the authority provided in 471(a)(10)(D) to quickly place children with relatives; and
-    >   - **(D)** a description of the steps the State is taking to improve caseworker training or the process, if any; and
+    >   - **(D)** a description of the steps the State is taking to improve caseworker training or the process, if any.
 
 ## § 3. Effective date
 
