@@ -1,7 +1,7 @@
 ---
 measure: H.R. 494
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 494
@@ -48,3 +48,7 @@ Fort Frederica National Monument Boundary Expansion Act
 - 2017-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H987)
 - 2017-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H987)
 - 2017-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2017-06-20 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-114.
+- 2017-06-20 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-114.
+- 2017-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.
