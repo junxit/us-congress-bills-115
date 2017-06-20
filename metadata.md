@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2857
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2857
@@ -16,9 +16,10 @@ Supporting Families in Substance Abuse Treatment Act
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
 
 ## Committees (1)
 
@@ -29,3 +30,10 @@ Supporting Families in Substance Abuse Treatment Act
 - 2017-06-08 — Introduced in House
 - 2017-06-08 — Introduced in House
 - 2017-06-08 — Referred to the House Committee on Ways and Means.
+- 2017-06-12 — Referred to the Subcommittee on Human Resources.
+- 2017-06-20 — Considered under suspension of the rules. (consideration: CR H4968-4970)
+- 2017-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2857.
+- 2017-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-20 — Mrs. Noem moved to suspend the rules and pass the bill, as amended.
+- 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4968-4969)
+- 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4968-4969)
