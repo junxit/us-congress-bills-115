@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2962
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2962
+
+> To amend title 49, United States Code, with respect to prohibiting the use of electronic cigarettes on passenger flights, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Banning the Use of Electronic Cigarettes on Airplanes Act of 2017”.
+
+## § 2. Prohibitions against smoking on passenger flights
+
+Section 41706 of title 49, United States Code, is amended—
+
+- **(1)** by redesignating subsection (d) as subsection (e); and
+- **(2)** by inserting after subsection (c) the following:
+  > - **(d)** *Electronic cigarettes*
+  >   - **(1)** *Inclusion* The use of an electronic cigarette shall be treated as smoking for purposes of this section.
+  >   - **(2)** *Electronic cigarette defined* In this section, the term electronic cigarette means a device that delivers nicotine or other substances to a user of the device in the form of a vapor that is inhaled to simulate the experience of smoking.
