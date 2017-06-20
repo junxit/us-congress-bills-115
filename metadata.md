@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1393
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1393
@@ -91,3 +91,9 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 - 2017-06-15 — Placed on the Union Calendar, Calendar No. 121.
 - 2017-06-15 — Reported by the Committee on Judiciary. H. Rept. 115-180.
 - 2017-06-15 — Reported by the Committee on Judiciary. H. Rept. 115-180.
+- 2017-06-20 — Considered under suspension of the rules. (consideration: CR H4947-4951)
+- 2017-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1393.
+- 2017-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-20 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2017-06-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4947)
+- 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4947)
