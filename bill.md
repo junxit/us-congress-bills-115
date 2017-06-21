@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1282
 
-> To amend the Homeland Security Act of 2002 to establish Acquisition Review Boards in the Department of Homeland Security, and for other purposes.
+> To amend the Homeland Security Act of 2002 to establish the Acquisition Review Board in the Department of Homeland Security, and for other purposes.
 
 ## § 1. Short title
 
@@ -39,7 +39,7 @@ This Act may be cited as the “DHS Acquisition Review Board Act of 2017”.
   >     - **(A)** Department officials responsible for acquisition, budget, and cost estimating functions are provided with the appropriate opportunity to develop estimates and raise cost and schedule matters before performance objectives are established for capabilities when feasible.
   >     - **(B)** Full consideration is given to possible trade-offs among cost, schedule, and performance objectives for each alternative.
   > - **(e)** *Acquisition program baseline report requirement* If the person exercising acquisition decision authority over a major acquisition program approves such program to proceed into the planning phase before such program has a Department-approved acquisition program baseline, the Under Secretary for Management shall create and approve an acquisition program baseline report regarding such approval, and the Secretary shall—
-  >   - **(1)** within seven days after an acquisition decision memorandum is signed, notify in writing the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate of such decision; and
+  >   - **(1)** within 7 days after an acquisition decision memorandum is signed, notify in writing the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate of such decision; and
   >   - **(2)** within 60 days after the acquisition decision memorandum is signed, submit to such committees a report stating the rationale for such decision and a plan of action to require an acquisition program baseline for such program.
   > - **(f)** *Report* The Under Secretary for Management shall provide information to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on an annual basis through fiscal year 2022 on the activities of the Board for the prior fiscal year that includes information relating to the following:
   >   - **(1)** For each meeting of the Board, any acquisition decision memoranda.
