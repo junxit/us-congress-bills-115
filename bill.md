@@ -1,0 +1,19 @@
+---
+legis-num: S. 1387
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1387
+
+> To require the Secretary of Defense to implement processes and procedures to provide expedited evaluation and treatment for prenatal surgery under the TRICARE program.
+
+## § 1. Short title
+
+This Act may be cited as the “TRICARE Expedited Evaluation and Treatment for Prenatal Surgery Act of 2017”.
+
+## § 2. Expedited evaluation and treatment for prenatal surgery under the TRICARE program
+
+- **(a)** *In general* The Secretary of Defense shall implement processes and procedures to ensure that a covered beneficiary under the TRICARE program whose pregnancy is complicated with a fetal anomaly or suspected of being complicated with a fetal anomaly receives, in an expedited manner and at the discretion of the covered beneficiary, evaluation and treatment from a perinatal or pediatric specialist capable of providing surgical management and intervention in utero.
+- **(b)** *Definitions* In this section, the terms covered beneficiary and TRICARE program have the meanings given those terms in section 1072 of title 10, United States Code.
