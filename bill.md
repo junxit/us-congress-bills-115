@@ -56,11 +56,16 @@ This Act may be cited as the “Electricity Reliability and Forest Protection Ac
   >   - **(2)** the Secretary or the Secretary of Agriculture fails to allow the owner or operator of the transmission or distribution facility to perform appropriate vegetation management activities in response to a hazard tree as defined under subsection (b)(6), or a tree in imminent danger of contacting the owner’s or operator’s transmission or distribution facility.
   > - **(g)** *Training and guidance* In consultation with the electric utility industry, the Secretary and the Secretary of Agriculture are encouraged to develop a program to train personnel of the Department of the Interior and the Forest Service involved in vegetation management decisions on rights-of-way relating to transmission and distribution facilities to ensure that such personnel—
   >   - **(1)** understand electric system reliability and fire safety requirements, including reliability standards established by the Electric Reliability Organization as defined under 16 U.S.C. 824o(a);
-  >   - **(2)** assist owners and operators of transmission and distribution facilities to comply with applicable electric reliability and fire safety requirements; and
-  >   - **(3)** encourage and assist willing owners and operators of transmission and distribution facilities to incorporate on a voluntary basis vegetation management practices to enhance habitats and forage for pollinators and for other wildlife so long as the practices are compatible with the integrated vegetation management practices necessary for reliability and safety.
+  >   - **(2)** assist owners and operators of transmission and distribution facilities to comply with applicable electric reliability and fire safety requirements;
+  >   - **(3)** encourage and assist willing owners and operators of transmission and distribution facilities to incorporate on a voluntary basis vegetation management practices to enhance habitats and forage for pollinators and for other wildlife so long as the practices are compatible with the integrated vegetation management practices necessary for reliability and safety; and
+  >   - **(4)** understand how existing and emerging unmanned technologies can help electric utilities, Federal, State, and local governments, and private landowners to more efficiently identify vegetation management needs, lower ratepayer energy costs, and reduce the risk of wildfires.
   > - **(h)** *Implementation* The Secretary of the Interior and the Secretary of Agriculture shall—
   >   - **(1)** not later than one year after the date of the enactment of this section, prescribe regulations, or amend existing regulations, to implement this section; and
   >   - **(2)** not later than two years after the date of the enactment of this section, finalize regulations, or amend existing regulations, to implement this section.
   > - **(i)** *Existing vegetation management, facility inspection and operation and maintenance plans* Nothing in this section requires an owner or operator to develop and submit a vegetation management, facility inspection, and operation and maintenance plan if one has already been approved by the Secretary or Secretary of Agriculture before the date of the enactment of this section.
 
 - **(b)** *Clerical amendment* The table of sections for the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761 et seq.), is amended by inserting after the item relating to section 511 the following new item:
+
+## § 3. No loss of funds for wild-fire suppression
+
+Nothing in this Act or the amendments made by this Act shall detract from the availability of funds or other resources for wild-fire suppression.
