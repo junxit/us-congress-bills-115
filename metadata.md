@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2132
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2132
@@ -23,9 +23,10 @@ Traveler Redress Improvement Act of 2017
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Traveler Redress Improvement Act of 2017
 - 2017-06-20 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4975)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4975)
+- 2017-06-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
