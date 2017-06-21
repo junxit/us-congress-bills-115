@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2484
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2484
@@ -55,3 +55,4 @@ Women, Peace, and Security Act of 2017
 - 2017-06-20 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2017-06-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4970-4972)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4970-4972)
+- 2017-06-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 152.
