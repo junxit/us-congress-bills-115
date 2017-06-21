@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2866
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2866
@@ -26,9 +26,10 @@ Reducing Unnecessary Barriers for Relative Foster Parents Act
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Reducing Unnecessary Barriers for Relative Foster Parents Act
 - 2017-06-20 — Mr. Kelly (PA) moved to suspend the rules and pass the bill, as amended.
 - 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 19 (Roll no. 310). (text: CR H4955)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 19 (Roll no. 310).(text: CR H4955)
+- 2017-06-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
