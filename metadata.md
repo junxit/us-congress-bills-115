@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1282
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1282
@@ -33,3 +33,10 @@ DHS Acquisition Review Board Act of 2017
 - 2017-03-23 — Placed on the Union Calendar, Calendar No. 32.
 - 2017-03-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-57.
 - 2017-03-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-57.
+- 2017-06-21 — Considered under suspension of the rules. (consideration: CR H5020-5022)
+- 2017-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1282.
+- 2017-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-21 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
+- 2017-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5020-5021)
+- 2017-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5020-5021)
+- 2017-06-21 — The title of the measure was amended. Agreed to without objection.
