@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1873
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1873
@@ -44,6 +44,11 @@ Electricity Reliability and Forest Protection Act
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2017-06-21 — [House 115-1-314](votes/house-115-1-0314.md) — On Agreeing to the Amendment — **Failed** (171–243)
+- 2017-06-21 — [House 115-1-315](votes/house-115-1-0315.md) — On Passage — **Passed** (300–118)
+
 ## Actions
 
 - 2017-04-04 — Introduced in House
@@ -64,3 +69,39 @@ Electricity Reliability and Forest Protection Act
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 110.
 - 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-165, Part I.
 - 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-165, Part I.
+- 2017-06-20 — Rules Committee Resolution H. Res. 392 Reported to House. Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments.
+- 2017-06-21 — Amendment (A001) offered by Mr. Carbajal. (consideration: CR H5029, H5031; text: CR H5029)
+- 2017-06-21 — Amendment (A002) offered by Ms. Sinema. (consideration: CR H5029-5030; text: CR H5029)
+- 2017-06-21 — Amendment (A003) offered by Mr. Beyer. (consideration: CR H5030-5031; text: CR H5030)
+- 2017-06-21 — Amendment agreed to Committee of the Whole
+- 2017-06-21 — Amendment agreed to Committee of the Whole
+- 2017-06-21 — Amendment failed in Committee of the Whole
+- 2017-06-21 — Considered under the provisions of rule H. Res. 392. (consideration: CR H5022-5032)
+- 2017-06-21 — DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer Part A Amendment No. 3.
+- 2017-06-21 — DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Sinema Part A Amendment No. 2.
+- 2017-06-21 — DEBATE - Pursuant to the provisions of H.Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal Part A Amendment No. 1.
+- 2017-06-21 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1873.
+- 2017-06-21 — House amendment agreed to: On agreeing to the Beyer amendment (A003) Agreed to by voice vote.
+- 2017-06-21 — House amendment agreed to: On agreeing to the Sinema amendment (A002) Agreed to by voice vote.
+- 2017-06-21 — House amendment not agreed to: On agreeing to the Carbajal amendment (A001) Failed by recorded vote: 171 - 243 (Roll no. 314).
+- 2017-06-21 — House amendment offered
+- 2017-06-21 — House amendment offered
+- 2017-06-21 — House amendment offered
+- 2017-06-21 — House amendment offered/reported by : Amendment (A001) offered by Mr. Carbajal.(consideration: CR H5029, H5031; text: CR H5029)
+- 2017-06-21 — House amendment offered/reported by : Amendment (A002) offered by Ms. Sinema.(consideration: CR H5029-5030; text: CR H5029)
+- 2017-06-21 — House amendment offered/reported by : Amendment (A003) offered by Mr. Beyer.(consideration: CR H5030-5031; text: CR H5030)
+- 2017-06-21 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 392 and Rule XVIII.
+- 2017-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-21 — On agreeing to the Beyer amendment (A003) Agreed to by voice vote.
+- 2017-06-21 — On agreeing to the Carbajal amendment (A001) Failed by recorded vote: 171 - 243 (Roll no. 314).
+- 2017-06-21 — On agreeing to the Sinema amendment (A002) Agreed to by voice vote.
+- 2017-06-21 — On passage Passed by recorded vote: 300 - 118 (Roll no. 315).
+- 2017-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carbajal Part A amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Carbajal demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-06-21 — Passed/agreed to in House: On passage Passed by recorded vote: 300 - 118 (Roll no. 315).
+- 2017-06-21 — Roll call votes on amendments in House
+- 2017-06-21 — Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments.
+- 2017-06-21 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5027-5029)
+- 2017-06-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1873.
+- 2017-06-21 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2017-06-21 — The previous question was ordered pursuant to the rule.
+- 2017-06-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Carbajal Part A Amendment No. 1 which was debated earlier and on which further proceedings had been postponed.
