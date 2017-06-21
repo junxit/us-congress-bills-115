@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1393
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1393
@@ -76,9 +76,10 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Rosen, Jacky [D-NV-3] (R000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -97,3 +98,4 @@ Mobile Workforce State Income Tax Simplification Act of 2017
 - 2017-06-20 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2017-06-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4947)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4947)
+- 2017-06-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
