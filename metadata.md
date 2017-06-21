@@ -1,7 +1,7 @@
 ---
 measure: S. 97
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 97
@@ -16,7 +16,7 @@ Nuclear Energy Innovation Capabilities Act of 2017
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
@@ -24,6 +24,7 @@ Nuclear Energy Innovation Capabilities Act of 2017
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Strange, Luther [R-AL] (S001202)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ Nuclear Energy Innovation Capabilities Act of 2017
 
 - 2017-01-11 — Introduced in Senate
 - 2017-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2017-06-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-115.
+- 2017-06-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-115.
+- 2017-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
