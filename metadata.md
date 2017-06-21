@@ -1,7 +1,7 @@
 ---
 measure: H.R. 625
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 625
@@ -44,9 +44,10 @@ REPORT Act
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ REPORT Act
 - 2017-06-20 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2017-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4976-4977)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4976-4977)
+- 2017-06-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
