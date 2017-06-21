@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2742
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2742
@@ -42,3 +42,4 @@ Modernizing the Interstate Placement of Children in Foster Care Act
 - 2017-06-20 — Mrs. Walorski moved to suspend the rules and pass the bill.
 - 2017-06-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4963-4964)
 - 2017-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4963-4964)
+- 2017-06-21 — Received in the Senate.
