@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2353
@@ -73,3 +73,9 @@ Strengthening Career and Technical Education for the 21st Century Act
 - 2017-06-07 — Placed on the Union Calendar, Calendar No. 109.
 - 2017-06-07 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-164.
 - 2017-06-07 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-164.
+- 2017-06-22 — Considered under suspension of the rules. (consideration: CR H5067-5082)
+- 2017-06-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2353.
+- 2017-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-22 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
+- 2017-06-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5067-5076)
+- 2017-06-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5067-5076)
