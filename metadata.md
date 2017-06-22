@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2131
@@ -20,9 +20,10 @@ Fixing Internal Response to Misconduct Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Fixing Internal Response to Misconduct Act
 - 2017-06-21 — Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended.
 - 2017-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5018)
 - 2017-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5018)
+- 2017-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
