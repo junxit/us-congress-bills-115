@@ -1,0 +1,150 @@
+---
+measure: S. 1409
+congress: 115
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 1409 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+19 amendatory instructions. 12 executed, 7 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 26 U.S.C. § 25D
+
+> Section 25D(h) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2016 (December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)”, and inserting “December 31, 2021”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2016 (December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)` |
+| Inserted | `December 31, 2021` |
+
+### 26 U.S.C. § 25D
+
+> Paragraphs (3), (4), and (5) of section 25D(a) of the Internal Revenue Code of 1986 are amended by striking “30 percent” each place it appears and inserting “the applicable percentage”.
+
+| | |
+|---|---|
+| Removed | `30 percent` |
+| Inserted | `the applicable percentage` |
+
+### 26 U.S.C. § 48
+
+> Section 48(a)(2)(A)(i)(II) of the Internal Revenue Code of 1986 is amended by striking “paragraph (3)(A)(i)” and inserting “clause (i) or (iii) of paragraph (3)(A)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (3)(A)(i)` |
+| Inserted | `clause (i) or (iii) of paragraph (3)(A)` |
+
+### 26 U.S.C. § 48
+
+> in clause (ii) by striking “periods ending before January 1, 2017” and inserting “property the construction of which begins before January 1, 2022”; and
+
+| | |
+|---|---|
+| Removed | `periods ending before January 1, 2017` |
+| Inserted | `property the construction of which begins before January 1, 2022` |
+
+### 26 U.S.C. § 48
+
+> in clause (vii) by striking “periods ending before January 1, 2017” and inserting “property the construction of which begins before January 1, 2022”.
+
+| | |
+|---|---|
+| Removed | `periods ending before January 1, 2017` |
+| Inserted | `property the construction of which begins before January 1, 2022` |
+
+### 26 U.S.C. § 48
+
+> in subparagraph (A), by striking “paragraph (3)(A)(i)” and inserting “clause (i) or (iii) of paragraph (3)(A)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (3)(A)(i)` |
+| Inserted | `clause (i) or (iii) of paragraph (3)(A)` |
+
+### 26 U.S.C. § 48
+
+> in subparagraph (B), by striking “property energy property described in paragraph (3)(A)(i)” and inserting “energy property described in clause (i) or (iii) of paragraph (3)(A)”.
+
+| | |
+|---|---|
+| Removed | `property energy property described in paragraph (3)(A)(i)` |
+| Inserted | `energy property described in clause (i) or (iii) of paragraph (3)(A)` |
+
+### 26 U.S.C. § 48
+
+> Section 48(a)(2)(A) of the Internal Revenue Code of 1986 is amended by striking “paragraph (6)” and inserting “paragraphs (6) and (7)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (6)` |
+| Inserted | `paragraphs (6) and (7)` |
+
+### 26 U.S.C. § 48
+
+> Section 48(c)(1)(D) of the Internal Revenue Code of 1986 is amended by striking “for any period after December 31, 2016” and inserting “the construction of which does not begin before January 1, 2022”.
+
+| | |
+|---|---|
+| Removed | `for any period after December 31, 2016` |
+| Inserted | `the construction of which does not begin before January 1, 2022` |
+
+### 26 U.S.C. § 48
+
+> Section 48(c)(2)(D) of the Internal Revenue Code of 1986 is amended by striking “for any period after December 31, 2016” and inserting “the construction of which does not begin before January 1, 2022”.
+
+| | |
+|---|---|
+| Removed | `for any period after December 31, 2016` |
+| Inserted | `the construction of which does not begin before January 1, 2022` |
+
+### 26 U.S.C. § 48
+
+> Section 48(c)(3)(A)(iv) of the Internal Revenue Code of 1986 is amended by striking “which is placed in service before January 1, 2017” and inserting “the construction of which begins before January 1, 2022”.
+
+| | |
+|---|---|
+| Removed | `which is placed in service before January 1, 2017` |
+| Inserted | `the construction of which begins before January 1, 2022` |
+
+### 26 U.S.C. § 48
+
+> Section 48(c)(4)(C) of the Internal Revenue Code of 1986 is amended by striking “for any period after December 31, 2016” and inserting “the construction of which does not begin before January 1, 2022”.
+
+| | |
+|---|---|
+| Removed | `for any period after December 31, 2016` |
+| Inserted | `the construction of which does not begin before January 1, 2022` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `26 U.S.C. § 25D` | strike | Section 25D(g) of the Internal Revenue Code of 1986 is amended by striking “paragraphs (1) and (2) of”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 48` | insert | in the heading, by inserting “and geothermal” after “solar”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 48` | amend | Section 48(a) of the Internal Revenue Code of 1986 is amended by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | strike | at the end of clause (vi) by striking “or”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 48` | insert | at the end of clause (vii) by inserting “or” after the comma; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 48` | amend | by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | amend | Section 48(c) of the Internal Revenue Code of 1986 is amended by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
