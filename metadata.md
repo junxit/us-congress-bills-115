@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1873
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1873
@@ -39,10 +39,11 @@ Electricity Reliability and Forest Protection Act
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -105,3 +106,4 @@ Electricity Reliability and Forest Protection Act
 - 2017-06-21 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
 - 2017-06-21 — The previous question was ordered pursuant to the rule.
 - 2017-06-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Carbajal Part A Amendment No. 1 which was debated earlier and on which further proceedings had been postponed.
+- 2017-06-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
