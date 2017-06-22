@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1654
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1654
@@ -31,6 +31,11 @@ Water Supply Permitting Coordination Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2017-06-22 — [House 115-1-318](votes/house-115-1-0318.md) — On Agreeing to the Amendment — **Failed** (179–232)
+- 2017-06-22 — [House 115-1-319](votes/house-115-1-0319.md) — On Passage — **Passed** (233–180)
+
 ## Actions
 
 - 2017-03-21 — Introduced in House
@@ -43,3 +48,31 @@ Water Supply Permitting Coordination Act
 - 2017-06-12 — Placed on the Union Calendar, Calendar No. 111.
 - 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-166.
 - 2017-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-166.
+- 2017-06-20 — Rules Committee Resolution H. Res. 392 Reported to House. Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments.
+- 2017-06-21 — Rule H. Res. 392 passed House.
+- 2017-06-22 — Amendment (A001) offered by Mr. LaMalfa. (consideration: CR H5088-5089; text: CR H5088)
+- 2017-06-22 — Amendment (A002) offered by Mr. Lowenthal. (consideration: CR H5089-5094; text: CR H5089)
+- 2017-06-22 — Amendment agreed to Committee of the Whole
+- 2017-06-22 — Amendment failed in Committee of the Whole
+- 2017-06-22 — Considered under the provisions of rule H. Res. 392. (consideration: CR H5082-5095)
+- 2017-06-22 — DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 2.
+- 2017-06-22 — DEBATE - Pursuant to the provisions of H.Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 1.
+- 2017-06-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1654.
+- 2017-06-22 — House amendment agreed to: On agreeing to the LaMalfa amendment (A001) Agreed to by voice vote.
+- 2017-06-22 — House amendment not agreed to: On agreeing to the Lowenthal amendment (A002) Failed by recorded vote: 179 - 232 (Roll no. 318).
+- 2017-06-22 — House amendment offered
+- 2017-06-22 — House amendment offered
+- 2017-06-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. LaMalfa.(consideration: CR H5088-5089; text: CR H5088)
+- 2017-06-22 — House amendment offered/reported by : Amendment (A002) offered by Mr. Lowenthal.(consideration: CR H5089-5094; text: CR H5089)
+- 2017-06-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 392 and Rule XVIII.
+- 2017-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-22 — On agreeing to the LaMalfa amendment (A001) Agreed to by voice vote.
+- 2017-06-22 — On agreeing to the Lowenthal amendment (A002) Failed by recorded vote: 179 - 232 (Roll no. 318).
+- 2017-06-22 — On passage Passed by recorded vote: 233 - 180 (Roll no. 319).
+- 2017-06-22 — Passed/agreed to in House: On passage Passed by recorded vote: 233 - 180 (Roll no. 319).
+- 2017-06-22 — Roll call votes on amendments in House
+- 2017-06-22 — Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments.
+- 2017-06-22 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5087-5088)
+- 2017-06-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1654.
+- 2017-06-22 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
+- 2017-06-22 — The previous question was ordered pursuant to the rule.
