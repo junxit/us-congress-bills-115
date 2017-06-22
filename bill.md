@@ -1,0 +1,49 @@
+---
+legis-num: S. 1407
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1407
+
+> To amend the Internal Revenue Code of 1986 to enhance tax incentives for manufacturing in the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Made in America Deduction Enhancement (MADE) Act”.
+
+## § 2. Enhanced deduction for certain domestic production
+
+- **(a)** *In general* Section 199 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(e)** *Enhanced manufacturing deduction*
+  >   - **(1)** *In general* If an eligible taxpayer has qualified core manufacturing income for any taxable year, the amount otherwise allowable as a deduction under subsection (a) shall be increased by the applicable percentage of the least of—
+  >     - **(A)** the qualified core manufacturing income of the taxpayer for the taxable year,
+  >     - **(B)** the qualified production activities income of the taxpayer for the taxable year, or
+  >     - **(C)** taxable income (determined without regard to this section).
+  >   - **(2)** *Eligible taxpayer* For purposes of this subsection, the term eligible taxpayer means, with respect to any taxable year, any taxpayer if the domestic input percentage for such taxable year is more than 75 percent.
+  >   - **(3)** *Domestic input percentage* For purposes of this subsection—
+  >     - **(A)** *In general* The term domestic input percentage means the ratio (expressed as a percentage) of—
+  >       - **(i)** domestically produced input costs, to
+  >       - **(ii)** the total costs of direct material inputs included in the cost of goods sold which are allocable to gross receipts derived from qualified property.
+  >     - **(B)** *Domestically produced input costs* For purposes of subparagraph (A)—
+  >       - **(i)** *In general* The term domestically produced input costs means the costs described in subparagraph (A)(ii) for materials—
+  >         - **(I)** which become an integral part of property produced by the eligible taxpayer, or
+  >         - **(II)** which can be identified or associated with particular units or groups of units of property produced by the eligible taxpayer,
+  >       - **(ii)** *Determination* For purposes of this subparagraph—
+  >         - **(I)** the determination of whether all or virtually all of a material is produced in the United States shall be made based on rules similar to the guidelines of the Federal Trade Commission with respect to goods advertised as Made in USA, and
+  >         - **(II)** all or virtually all of a material shall not be treated as produced in the United States unless the taxpayer has a reasonable basis to support such claim.
+  >       - **(iii)** *United States* For purposes of this subparagraph, the United States includes any possession of the United States.
+  >   - **(4)** *Qualified core manufacturing income; qualified property* For purposes of this subsection—
+  >     - **(A)** *In general* The term qualified core manufacturing income means for any taxable year the qualified production activities income which is attributable to the manufacture of qualified property during such taxable year.
+  >     - **(B)** *Qualified property* The term qualified property means tangible personal property other than—
+  >       - **(i)** a film,
+  >       - **(ii)** computer software,
+  >       - **(iii)** property described in section 168(f)(4),
+  >       - **(iv)** a natural resource extracted by the taxpayer, or
+  >       - **(v)** property produced in a farming business (within the meaning of section 263A(e)(4)).
+  >   - **(5)** *Applicable percentage* For purposes of paragraph (1), the applicable percentage is the percentage which bears the same ratio to 9 percent as—
+  >     - **(A)** so much the domestic input percentage as exceeds 75 percent, bears to
+  >     - **(B)** 25 percent.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
