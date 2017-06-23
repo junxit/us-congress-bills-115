@@ -61,7 +61,7 @@ Section 699 of the Post-Katrina Emergency Management Reform Act of 2006 (Public 
 
 ## § 4. National domestic preparedness consortium
 
-Section 1204 of the Implementing Recommendations of the 9/11 Commission Act (6 U.S.C. 1102) is amended—
+Section 1204 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1102) is amended—
 
 - **(1)** in subsection (d) by striking paragraphs (1) and (2) and inserting the following:
   > - **(1)** for the Center for Domestic Preparedness—
@@ -81,7 +81,7 @@ The Administrator of the Federal Emergency Management Agency shall be responsibl
 
 ## § 6. Authorities
 
-Privately funded actions taken by private parties on private land do not constitute Federal actions under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), the Flood Disaster Protection Act of 1973 (42 U.S.C. 4001 et seq.), the Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112–141, 126 Stat. 916), and the Homeowner Flood Insurance Affordability Act of 2014 (Public Law 113–89; 128 Stat. 1020), that require consultation under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536).
+Notwithstanding any other provision of law, the non-federally funded actions of private parties, State, local, or Tribal governments, on State, local, Tribal, and private land, and the effects of those actions, shall not be attributed to the Federal Emergency Management Agency's actions under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), the Flood Disaster Protection Act of 1973 (42 U.S.C. 4002 et seq.), the Biggert-Waters Flood Insurance Reform Act of 2012 (subtitle A of title II of division F of Public Law 112–141; 126 Stat. 916), and the Homeowner Flood Insurance Affordability Act of 2014 (Public Law 113–89; 128 Stat. 1020) for the purposes of section 7 (16 U.S.C. 1536) and section 9 (16 U.S.C. 1538) of the Endangered Species Act. Actions taken under the National Flood Insurance Act of 1968, the Flood Disaster Protection Act of 1973, the Biggert Waters Flood Insurance Reform Act of 2012, and the Homeowner Flood Insurance Affordability Act of 2014, that may influence private actions do not create a Federal nexus for the purpose of applying the requirements of section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536).
 
 ## § 7. Technical Amendments to National Emergency Management
 
@@ -128,5 +128,5 @@ Privately funded actions taken by private parties on private land do not constit
   - **(9)** by striking section 524 (6 U.S.C. 321m); and
   - **(10)** in section 525(a) (6 U.S.C. 321n), by striking “Secretary” and inserting “Administrator”.
 - **(b)** *Post-Katrina Emergency Management Reform Act of 2006*
-  - **(1)** *Citation correction* Section 602(13) (6 U.S.C. 701(13) note) is amended by striking “502(a)(6)” and inserting “504(a)(6)”.
+  - **(1)** *Citation correction* Section 602(13) of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 701(13)) is amended by striking “502(a)(6)” and inserting “504(a)(6)”.
   - **(2)** *Change of reference* Chapter 1 of subtitle C of title VI of the Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295) is amended by striking “National Response Plan” each place it appears and inserting “National Response Framework”.
