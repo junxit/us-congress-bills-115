@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -251,7 +251,7 @@ to guess them.
 
 ### 6 U.S.C. § 701
 
-> Section 602(13) (6 U.S.C. 701(13) note) is amended by striking “502(a)(6)” and inserting “504(a)(6)”.
+> Section 602(13) of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 701(13)) is amended by striking “502(a)(6)” and inserting “504(a)(6)”.
 
 | | |
 |---|---|
