@@ -35,4 +35,4 @@ This Act may be cited as the “Veterans Expanded Trucking Opportunities Act of 
   - **(4)** in subsection (d)(1)—
     - **(A)** in the paragraph heading by striking “Physician-approved veteran operator” and inserting “Veteran operator approved by a qualified examiner”; and
     - **(B)** by striking “physician-approved veteran operator” and inserting “veteran operator approved by a qualified examiner”.
-- **(c)** *Rulemaking* The amendments made by this section shall be incorporated into any rulemaking proceeding related to section 5403 of the FAST Act (49 U.S.C. 31149 note; 129 Stat. 1548) that being conducted as of the date of enactment of this Act.
+- **(c)** *Rulemaking* The amendments made by this section shall be incorporated into any rulemaking proceeding related to section 5403 of the FAST Act (49 U.S.C. 31149 note; 129 Stat. 1548) that is being conducted as of the date of enactment of this Act.
