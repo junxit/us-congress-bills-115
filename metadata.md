@@ -1,7 +1,7 @@
 ---
 measure: S. 713
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 713
@@ -28,3 +28,7 @@ National Heritage Area Authorization Act of 2017
 
 - 2017-03-23 — Introduced in Senate
 - 2017-03-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-03-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-06-26 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-118.
+- 2017-06-26 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-118.
+- 2017-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
