@@ -1,0 +1,16 @@
+---
+legis-num: S. 1433
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1433
+
+> To approve the 2010 Compact Review Agreement with Palau, and for other purposes.
+
+## § 1. Agreement supplemental to Compact of Free Association with Palau
+
+- **(a)** *Approval of agreement supplemental to compact* The Compact Review Agreement and appendices signed by the United States and the Republic of Palau on September 3, 2010, in connection with section 432 of the Compact of Free Association with Palau (Public Law 99–658; 48 U.S.C. 1931 note), with the funding schedule therein to be modified by the parties to the Agreement as necessary and appropriate, are approved (hereinafter the “Agreement”).
+- **(b)** *Status of prior year payments* Amounts provided to the Government of Palau by the Government of the United States in fiscal years 2011 through 2017 shall also be considered as funding to implement the Agreement.
+- **(c)** *Extension of effective date* Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) is amended by striking “2009” and inserting “2024”.
