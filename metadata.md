@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2353
@@ -59,9 +59,10 @@ Strengthening Career and Technical Education for the 21st Century Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ Strengthening Career and Technical Education for the 21st Century Act
 - 2017-06-22 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
 - 2017-06-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5067-5076)
 - 2017-06-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5067-5076)
+- 2017-06-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
