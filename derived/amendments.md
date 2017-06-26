@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2518
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-66 amendatory instructions. 0 executed, 66 stated and not applied.
+74 amendatory instructions. 2 executed, 72 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 33 U.S.C. § 1226
+
+> is amended by striking “this Act” and inserting “this chapter”.
+
+| | |
+|---|---|
+| Removed | `this Act` |
+| Inserted | `this chapter` |
+
+### 33 U.S.C. § 2712
+
+> in subsection (l)(1), by striking “Within one year after the date of enactment of the Coast Guard Authorization Act of 2010, and annually thereafter,” and inserting “Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31, United States Code,”; and
+
+| | |
+|---|---|
+| Removed | `Within one year after the date of enactment of the Coast Guard Authorization Act of 2010, and annually thereafter,` |
+| Inserted | `Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31, United States Code,` |
 
 ## Stated, not applied
 
@@ -55,12 +75,12 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “(A) In general.—”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and shall maintain such cutter in class” before the period at the end. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3 of title 14, United States Code, as amended by section 206 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: “62. Congressional Affairs; Director.”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `14 U.S.C. § 577` | add-at-end | Subchapter II of chapter 15 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `14 U.S.C. § 577` | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end of the items relating to such subchapterthe following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 577` | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end of the items relating to such subchapter the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 577` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 573` | repeal | Section 221(b) of the Coast Guard and Maritime Transportation Act of 2012 (14 U.S.C. 573 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `14 U.S.C. § 573` | repeal | Section 204(c)(1) of the Coast Guard Authorization Act of 2015 (130 Stat. 35) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 573` | repeal | Section 204(c)(1) of the Coast Guard Authorization Act of 2016 (130 Stat. 35) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | strike | by striking “(1) In general.—”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively; and | the bill names no machine-readable US Code section |
@@ -71,6 +91,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 403` | insert | The analysis at the beginning of such subtitle is amended by inserting before the item relating to chapter 701 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1223a` | replace | is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1223a` | add-at-end | The analysis at the beginning of chapter 31 of such title is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1226` | add-at-end | Section 70102a of title 46, United States Code, as amended by paragraph (1) of this subsection, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1226` | insert | The analysis at the beginning of chapter 701 of such title is amended by inserting after the item relating to section 70102 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1223a` | repeal | Section 2307 of title 46, United States Code, and the item relating to that section in the analysis at the beginning of chapter 23 of that title, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1221` | repeal | The Ports and Waterways Safety Act (33 U.S.C. 1221 et seq.), as amended by this Act, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 18 of the Coast Guard Authorization Act of 1991 (Public Law 102–241; 105 Stat. 2213) is repealed. | the bill names no machine-readable US Code section |
@@ -90,10 +112,14 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1958` | replace | by striking “; and” and all that follows through the end of the section and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1958` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 12114 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subtitle VIII of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for subtitle VIII of title 46, United States Code, is amended by adding after the item relating to chapter 805 the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 9620` | add-at-end | Subtitle VIII of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9620` | amend | The analysis for subtitle VIII of title 46, United States Code, is amended by adding after the item relating to chapter 805 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 468` | repeal | Subsection (h) of section 888 of the Homeland Security Act of 2002 (6 U.S.C. 468) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 604(b) of the Howard Coble Coast Guard and Maritime Authorization Act of 2014 (Public Law 113–281; 128 Stat. 3061) is amended by inserting “and fishery endorsement” after “endorsement”. | the bill names no machine-readable US Code section |
+| — | insert | Section 604(b) of the Howard Coble Coast Guard and Maritime Transportation Act of 2014 (Public Law 113–281; 128 Stat. 3061) is amended by inserting “and fishery endorsement” after “endorsement”. | the bill names no machine-readable US Code section |
 | — | repeal | Effective January 1, 2021, section 27 of the Coast Guard Authorization Act of 1991 (Public Law 102–241; 105 Stat. 2218) is repealed. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2712` | repeal | by repealing subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2712` | amend | by amending subsection (l)(2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2731` | add-at-end | Title V of the Oil Pollution Act of 1990 (33 U.S.C. 2731 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2731` | insert | The table of contents in section 2 of the Oil Pollution Act of 1990 is amended by inserting after the item relating to section 5007 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
