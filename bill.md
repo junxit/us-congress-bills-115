@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 3062
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3062
+
+> To require the Administrator of the Federal Aviation Administration to consider the aircraft registry office in Oklahoma City, Oklahoma, as excepted during a Government shutdown or emergency (as it provides excepted services) to ensure that it remains open during any Government shutdown or emergency.
+
+## § 1. Oklahoma registry office
+
+The Administrator of the Federal Aviation Administration shall consider the aircraft registry office in Oklahoma City, Oklahoma, as excepted during a Government shutdown or emergency (as it provides excepted services) to ensure that it remains open during any Government shutdown or emergency.
