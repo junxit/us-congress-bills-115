@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2842
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2842
@@ -21,9 +21,10 @@ Accelerating Individuals into the Workforce Act
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (3)
 
@@ -113,3 +114,4 @@ Accelerating Individuals into the Workforce Act
 - 2017-06-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2842.
 - 2017-06-23 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
 - 2017-06-23 — The previous question was ordered pursuant to the rule.
+- 2017-06-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
