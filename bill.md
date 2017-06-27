@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 497
 
-> To direct the Secretary of the Interior to convey certain public lands in San Bernardino County, California, to the San Bernardino Valley Water Conservation District, and to accept in return certain exchanged non-public lands, and for other purposes.
+> To direct the Secretary of the Interior to convey certain Federal lands in San Bernardino County, California, to the San Bernardino Valley Water Conservation District, and to accept in return certain non-Federal lands, and for other purposes.
 
 ## § 1. Short title
 
@@ -34,9 +34,9 @@ In this Act:
   - **(1)** If the equalization payment is to equalize values by which the Federal land exceeds the non-Federal land and the credited value of the non-Federal exchange parcel, Conservation District may make the equalization payment to the United States, notwithstanding any limitation regarding the amount of the equalization payment under section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716). In the event Conservation District opts not to make the indicated equalization payment, the exchange shall not proceed.
   - **(2)** If the equalization payment is to equalize values by which the non-Federal land exceeds the Federal land and the credited value of the Federal exchange parcel, the Secretary shall order the exchange without requirement of any additional equalization payment by the United States to the Conservation District.
 - **(c)** *Appraisals*
-  - **(1)** The value of the land to be exchanged under this Act shall be determined by appraisals conducted by 1 or more independent and qualified appraisers.
+  - **(1)** The value of the land to be exchanged under this Act shall be determined by appraisals conducted by one or more independent and qualified appraisers.
   - **(2)** The appraisals shall be conducted in accordance with nationally recognized appraisal standards, including, as appropriate, the Uniform Appraisal Standards for Federal Land Acquisitions and the Uniform Standards of Professional Appraisal Practice.
-- **(d)** *Title approval* Title to the land to be exchanged under this Act shall be in a format acceptable to the Secretary and the Conservation District
+- **(d)** *Title approval* Title to the land to be exchanged under this Act shall be in a format acceptable to the Secretary and the Conservation District.
 - **(e)** *Map and legal descriptions* As soon as practicable after the date of the enactment of this Act, the Secretary shall finalize a map and legal descriptions of all land to be conveyed under this Act. The Secretary may correct any minor errors in the map or in the legal descriptions. The map and legal descriptions shall be on file and available for public inspection in appropriate offices of the Bureau of Land Management.
 - **(f)** *Costs of conveyance* As a condition of conveyance, any costs related to the conveyance under this section shall be paid by the Conservation District.
 
