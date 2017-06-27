@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 411
+congress: 115th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 411
+
+> Adjusting the amount of the Members’ Representational Allowance.
+
+## Preamble
+
+- Whereas on June 14, 2017, an armed gunman opened fire at a practice for the annual Congressional Baseball Game for Charity, wounding five individuals;
+- Whereas Members of the House are understandably concerned about the security of their staff and the constituents they serve, as well as their personal security;
+- Whereas the Members' Representational Allowance (MRA) is available for ordinary and necessary expenses associated with security measures; and
+- Whereas heightened security concerns necessitate an adjustment in the MRA to provide Members with additional resources: Now, therefore, be it
+
+That pursuant to section 1(b) of House Resolution 1372, Ninety-fourth Congress, agreed to July 1, 1976, as enacted into permanent law by section 101 of the Legislative Branch Appropriation Act, 1977 (2 U.S.C. 4314), the Members’ Representational Allowance applicable as of the date of the adoption of this resolution for each Member of the House of Representatives (including the Delegates and Resident Commissioner to the Congress) is increased by $25,000, to be available through January 2, 2018.
