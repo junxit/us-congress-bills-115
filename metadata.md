@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1135
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1135
@@ -82,3 +82,9 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - 2017-06-02 — Placed on the Union Calendar, Calendar No. 104.
 - 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-157.
 - 2017-06-02 — Reported by the Committee on Natural Resources. H. Rept. 115-157.
+- 2017-06-27 — Considered under suspension of the rules. (consideration: CR H5207-5210)
+- 2017-06-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1135.
+- 2017-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill.
+- 2017-06-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5207)
+- 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5207)
