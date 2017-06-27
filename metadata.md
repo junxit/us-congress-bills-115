@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1726
@@ -20,9 +20,10 @@ Coast Guard Improvement and Reform Act of 2017
 
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Coast Guard Improvement and Reform Act of 2017
 - 2017-06-26 — Mr. Hunter moved to suspend the rules and pass the bill.
 - 2017-06-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5147-5163)
 - 2017-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5147-5163)
+- 2017-06-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
