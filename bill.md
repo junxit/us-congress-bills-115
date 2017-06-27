@@ -2,7 +2,7 @@
 legis-num: H. RES. 351
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 351
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas, on April 1, 2017, the Russian newspaper Novaya Gazeta reported that authorities in Chechnya, a republic of the Russian Federation, had abducted, detained, and tortured over 100 men due to their actual or suspected sexual orientation;
-- Whereas multiple independent and first-hand accounts have subsequently corroborated the Novaya Gazeta report, and describe a campaign of persecution by Chechen officials against men due to their actual or suspected sexual orientation;
+- Whereas multiple independent and firsthand accounts have subsequently corroborated the Novaya Gazeta report, and describe a campaign of persecution by Chechen officials against men due to their actual or suspected sexual orientation;
 - Whereas, as a result of this persecution, at least three deaths have been reported and many individuals have been forced to flee Chechnya;
 - Whereas Chechen officials have denied the existence of such persecution, including through a statement by the spokesman for Chechen leader Ramzan Kadyrov that “You cannot arrest or repress people who don’t exist in the republic.”;
 - Whereas the same spokesman for Ramzan Kadyrov has also stated that “If such people existed in Chechnya, law enforcement would not have to worry about them, as their own relatives would have sent them to where they could never return,” and credible reports indicate that Chechen authorities have encouraged families to carry out so-called “honor killings” of relatives due to their actual or suspected sexual orientation;
@@ -28,5 +28,5 @@ That the House of Representatives—
 
 - **(1)** condemns the violence and persecution in Chechnya and calls on Chechen officials to immediately cease the abduction, detention, and torture of individuals on the basis of their actual or suspected sexual orientation, and hold accountable all those involved in perpetrating such abuses;
 - **(2)** calls on the Government of the Russian Federation to protect the human rights of all its citizens, condemn the violence and persecution, investigate these crimes in Chechnya, and hold accountable all those involved in perpetrating such abuses;
-- **(3)** calls on the United States Government to continue to condemn the violence and persecution in Chechnya and demand the release of individuals wrongfully detained; and
+- **(3)** calls on the United States Government to continue to condemn the violence and persecution in Chechnya, demand the release of individuals wrongfully detained, and identify those individuals whose involvement in this violence qualifies for the imposition of sanctions under the Sergei Magnitsky Rule of Law Accountability Act of 2012 (Public Law 112–208; 22 U.S.C. 5811 note) or the Global Magnitsky Human Rights Accountability Act (Public Law 114–328); and
 - **(4)** affirms that the rights to freedom of assembly, association, and expression and freedom from extrajudicial detention and violence are universal human rights that apply to all persons, and that countries that fail to respect these rights jeopardize the security and prosperity of all their citizens.
