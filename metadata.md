@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2258
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2258
@@ -31,9 +31,10 @@ ADVANCE Act
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ ADVANCE Act
 - 2017-06-26 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2017-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 324). (text: CR H5146)
 - 2017-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 324).(text: CR H5146)
+- 2017-06-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
