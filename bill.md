@@ -2,7 +2,7 @@
 legis-num: H. RES. 397
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 397
@@ -18,13 +18,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Article 5 of the North Atlantic Treaty has only been invoked once in history when alliance members came to the aid of the United States following the terrorist attacks of September 11, 2001;
 - Whereas NATO allies and partners, including Canada and countries in Central, Eastern, and Northern Europe, including countries of the Western Balkans, and the former Soviet Union have stood alongside the United States in joint operations in the Western Balkans, Afghanistan, Iraq, and elsewhere around the globe;
 - Whereas NATO remains the foundation of United States foreign policy of promoting a Europe that is whole, free, and at peace;
-- Whereas at the Wales Summit in 2014, NATO leaders agreed that each alliance member would spend at least two percent of its nation’s gross domestic product on defense by 2024;
+- Whereas at the Wales Summit in 2014, NATO leaders agreed that each alliance member would spend at least 2 percent of its nation’s gross domestic product on defense by 2024;
 - Whereas multiple Presidents have reaffirmed the commitment of the United States to the collective defense guarantees in Article 5 of the North Atlantic Treaty; and
 - Whereas the Constitution of the United States grants Congress the sole power to declare war: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** solemnly reaffirms the commitment of the United States to the North Atlantic Treaty Organization’s principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty;
-- **(2)** strongly supports the decision at the NATO Wales Summit in 2014 that each alliance member would spend at least two percent of its nation’s gross domestic product on defense by 2024;
+- **(2)** strongly supports the decision at the NATO Wales Summit in 2014 that each alliance member would spend at least 2 percent of its nation’s gross domestic product on defense by 2024;
 - **(3)** condemns any threat to the sovereignty, territorial integrity, freedom and democracy of any NATO ally; and
 - **(4)** welcomes the Republic of Montenegro as the 29th member of the NATO Alliance.
