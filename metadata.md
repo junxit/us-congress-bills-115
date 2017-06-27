@@ -1,7 +1,7 @@
 ---
 measure: H.R. 220
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 220
@@ -20,6 +20,10 @@ To authorize the expansion of an existing hydroelectric project, and for other p
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2017-06-27 — [House 115-1-330](votes/house-115-1-0330.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (424–1)
+
 ## Actions
 
 - 2017-01-03 — Introduced in House
@@ -35,3 +39,11 @@ To authorize the expansion of an existing hydroelectric project, and for other p
 - 2017-06-02 — Placed on the Union Calendar, Calendar No. 101.
 - 2017-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-154.
 - 2017-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-154.
+- 2017-06-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-06-27 — Considered as unfinished business. (consideration: CR H5218-5219)
+- 2017-06-27 — Considered under suspension of the rules. (consideration: CR H5204-5205)
+- 2017-06-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 220.
+- 2017-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
+- 2017-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330). (text: CR H5204)
+- 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330).(text: CR H5204)
