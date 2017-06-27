@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1073
@@ -37,3 +37,9 @@ To authorize the Secretary of the Interior to establish a structure for visitor 
 - 2017-05-11 — Placed on the Union Calendar, Calendar No. 67.
 - 2017-05-11 — Reported by the Committee on Natural Resources. H. Rept. 115-113.
 - 2017-05-11 — Reported by the Committee on Natural Resources. H. Rept. 115-113.
+- 2017-06-27 — Considered under suspension of the rules. (consideration: CR H5206-5207)
+- 2017-06-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1073.
+- 2017-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill.
+- 2017-06-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5206)
+- 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5206)
