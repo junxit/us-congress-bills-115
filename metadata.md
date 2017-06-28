@@ -1,7 +1,7 @@
 ---
 measure: H.R. 220
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 220
@@ -47,3 +47,4 @@ To authorize the expansion of an existing hydroelectric project, and for other p
 - 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
 - 2017-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330). (text: CR H5204)
 - 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330).(text: CR H5204)
+- 2017-06-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
