@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1500
@@ -32,6 +32,10 @@ Robert Emmet Park Act of 2017
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2017-06-28 — [House 115-1-338](votes/house-115-1-0338.md) — On Motion to Suspend the Rules and Pass — **Passed** (423–0)
+
 ## Actions
 
 - 2017-03-10 — Introduced in House
@@ -44,3 +48,11 @@ Robert Emmet Park Act of 2017
 - 2017-05-11 — Placed on the House Calendar, Calendar No. 47.
 - 2017-05-11 — Reported by the Committee on Natural Resources. H. Rept. 115-114.
 - 2017-05-11 — Reported by the Committee on Natural Resources. H. Rept. 115-114.
+- 2017-06-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-06-27 — Considered under suspension of the rules. (consideration: CR H5205-5206)
+- 2017-06-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1500.
+- 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill.
+- 2017-06-28 — Considered as unfinished business. (consideration: CR H5287)
+- 2017-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338). (text: CR 6/27/2017 H5205)
+- 2017-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338).(text: CR 6/27/2017 H5205)
