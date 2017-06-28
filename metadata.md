@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1967
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1967
@@ -21,9 +21,10 @@ Bureau of Reclamation Pumped Storage Hydropower Development Act
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Bureau of Reclamation Pumped Storage Hydropower Development Act
 - 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
 - 2017-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5210)
 - 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5210)
+- 2017-06-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
