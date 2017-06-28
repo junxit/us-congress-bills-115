@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 414
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 414
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3003) to amend the Immigration and
 - 2017-06-27 — Rule provides for consideration of H.R. 3003 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-06-27 — The House Committee on Rules reported an original measure, H. Rept. 115-195, by Mr. Collins (GA).
 - 2017-06-27 — The House Committee on Rules reported an original measure, H. Rept. 115-195, by Mr. Collins (GA).
+- 2017-06-28 — Considered as privileged matter. (consideration: CR H5244-5262)
+- 2017-06-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 414.
+- 2017-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-28 — On agreeing to the resolution Agreed to by recorded vote: 235 - 190 (Roll no. 332). (text: CR H5244)
+- 2017-06-28 — On ordering the previous question Agreed to by the Yeas and Nays: 235 - 190 (Roll no. 331). (consideration: CR H5261)
+- 2017-06-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 235 - 190 (Roll no. 332).(text: CR H5244)
