@@ -1,7 +1,7 @@
 ---
 measure: H.R. 220
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 220
@@ -48,3 +48,12 @@ To authorize the expansion of an existing hydroelectric project, and for other p
 - 2017-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330). (text: CR H5204)
 - 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330).(text: CR H5204)
 - 2017-06-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4809)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4809)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-12 — Presented to President.
+- 2018-07-12 — Presented to President.
+- 2018-07-20 — Became Public Law No: 115-201.
+- 2018-07-20 — Became Public Law No: 115-201.
+- 2018-07-20 — Signed by President.
+- 2018-07-20 — Signed by President.
