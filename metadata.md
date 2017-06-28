@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1073
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1073
@@ -21,9 +21,10 @@ To authorize the Secretary of the Interior to establish a structure for visitor 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To authorize the Secretary of the Interior to establish a structure for visitor 
 - 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill.
 - 2017-06-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5206)
 - 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5206)
+- 2017-06-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
