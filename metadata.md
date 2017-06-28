@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1135
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1135
@@ -66,9 +66,10 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Himes, James A. [D-CT-4] (H001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To reauthorize the Historically Black Colleges and Universities Historic Preserv
 - 2017-06-27 — Mr. Cook moved to suspend the rules and pass the bill.
 - 2017-06-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5207)
 - 2017-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5207)
+- 2017-06-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
