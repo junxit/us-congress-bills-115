@@ -1,7 +1,7 @@
 ---
 measure: S. 577
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `44 U.S.C. § 3501` | strike | in paragraph (2) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 3501` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 3501` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 3501` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
