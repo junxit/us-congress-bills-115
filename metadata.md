@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1500
@@ -28,9 +28,10 @@ Robert Emmet Park Act of 2017
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Robert Emmet Park Act of 2017
 - 2017-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-06-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338). (text: CR 6/27/2017 H5205)
 - 2017-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338).(text: CR 6/27/2017 H5205)
+- 2017-06-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
