@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1215
@@ -22,10 +22,11 @@ Protecting Access to Care Act of 2017
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (4)
 
@@ -107,3 +108,4 @@ Protecting Access to Care Act of 2017
 - 2017-06-28 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-06-28 — The previous question was ordered pursuant to the rule.
 - 2017-06-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-06-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
