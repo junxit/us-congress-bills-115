@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1029
@@ -43,3 +43,7 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
 - 2017-03-20 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-49, Part I.
 - 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2017-06-29 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported with amendments favorably.
+- 2017-06-29 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with amendments. Without written report.
+- 2017-06-29 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with amendments. Without written report.
+- 2017-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
