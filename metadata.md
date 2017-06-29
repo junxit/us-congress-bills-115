@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 67
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 67
@@ -29,3 +29,11 @@ Urging the Government of the People's Republic of China to unconditionally relea
 - 2017-06-28 — Introduced in House
 - 2017-06-28 — Introduced in House
 - 2017-06-28 — Referred to the House Committee on Foreign Affairs.
+- 2017-06-29 — Committee on Foreign Affairs discharged.
+- 2017-06-29 — Committee on Foreign Affairs discharged.
+- 2017-06-29 — Considered by unanimous consent. (consideration: CR H5356)
+- 2017-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-06-29 — Mr. Smith (NJ) asked unanimous consent to discharge from committee and consider.
+- 2017-06-29 — On agreeing to the resolution Agreed to without objection. (text: CR H5356)
+- 2017-06-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5356)
+- 2017-06-29 — Sponsor introductory remarks on measure. (CR H5370-5371, E938-939)
