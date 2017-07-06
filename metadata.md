@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2810
@@ -29,3 +29,26 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-06-07 — Introduced in House
 - 2017-06-07 — Introduced in House
 - 2017-06-07 — Referred to the House Committee on Armed Services.
+- 2017-06-08 — Referred to the Subcommittee on Emerging Threats and Capabilities.
+- 2017-06-08 — Referred to the Subcommittee on Military Personnel.
+- 2017-06-08 — Referred to the Subcommittee on Readiness.
+- 2017-06-08 — Referred to the Subcommittee on Seapower and Projection Forces.
+- 2017-06-08 — Referred to the Subcommittee on Strategic Forces.
+- 2017-06-08 — Referred to the Subcommittee on Tactical Air and Land Forces.
+- 2017-06-21 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2017-06-21 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2017-06-21 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-21 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-22 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2017-06-22 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2017-06-22 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2017-06-22 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2017-06-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-28 — Committee Consideration and Mark-up Session Held.
+- 2017-06-28 — Ordered to be Reported by the Yeas and Nays: 60 - 1.
+- 2017-07-06 — Placed on the Union Calendar, Calendar No. 137.
+- 2017-07-06 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-200.
+- 2017-07-06 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-200.
