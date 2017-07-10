@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3003
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3003
@@ -64,3 +64,4 @@ No Sanctuary for Criminals Act
 - 2017-06-29 — Rule provides for consideration of H.R. 3003 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-06-29 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-06-29 — The previous question was ordered pursuant to the rule.
+- 2017-07-10 — Received in the Senate.
