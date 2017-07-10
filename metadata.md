@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 67
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 67
@@ -20,9 +20,10 @@ Urging the Government of the People's Republic of China to unconditionally relea
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Urging the Government of the People's Republic of China to unconditionally relea
 - 2017-06-29 — On agreeing to the resolution Agreed to without objection. (text: CR H5356)
 - 2017-06-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5356)
 - 2017-06-29 — Sponsor introductory remarks on measure. (CR H5370-5371, E938-939)
+- 2017-07-10 — Received in the Senate and referred to the Committee on Foreign Relations.
