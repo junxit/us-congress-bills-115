@@ -1,7 +1,7 @@
 ---
 measure: S. 696
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 696
@@ -29,3 +29,7 @@ Stop Improper Federal Bonuses Act
 
 - 2017-03-22 — Introduced in Senate
 - 2017-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-127.
+- 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-127.
+- 2017-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
