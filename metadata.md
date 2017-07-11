@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2430
@@ -32,3 +32,10 @@ FDA Reauthorization Act of 2017
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Referred to the House Committee on Energy and Commerce.
 - 2017-05-16 — Referred to the Subcommittee on Health.
+- 2017-05-18 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2017-05-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-06-07 — Committee Consideration and Mark-up Session Held.
+- 2017-06-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.
+- 2017-07-11 — Placed on the Union Calendar, Calendar No. 138.
+- 2017-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-201.
+- 2017-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-201.
