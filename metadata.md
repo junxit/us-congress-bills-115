@@ -1,7 +1,7 @@
 ---
 measure: H.R. 954
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 954
@@ -26,3 +26,15 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2017-02-07 — Introduced in House
 - 2017-02-07 — Referred to the House Committee on Natural Resources.
 - 2017-02-07 — Sponsor introductory remarks on measure. (CR E158)
+- 2017-02-23 — Referred to the Subcommittee on Federal Lands.
+- 2017-06-27 — Committee Consideration and Mark-up Session Held.
+- 2017-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2017-07-11 — Considered under suspension of the rules. (consideration: CR H5403-5404)
+- 2017-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 954.
+- 2017-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-11 — Mr. LaHood moved to suspend the rules and pass the bill.
+- 2017-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5403)
+- 2017-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5403)
+- 2017-07-11 — Placed on the Union Calendar, Calendar No. 140.
+- 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-203.
+- 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-203.
