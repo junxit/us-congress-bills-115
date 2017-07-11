@@ -7,14 +7,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1719
 
-> To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes.
+> To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, for inclusion in the John Muir National Historic Site, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “John Muir National Historic Site Expansion Act”.
 
-## § 2. John Muir National Historic Site land acquisition
+## § 2. Definitions
 
-- **(a)** *Acquisition* The Secretary of the Interior may acquire by donation the approximately 44 acres of land, and interests in such land, that are identified on the map entitled “John Muir National Historic Site Proposed Boundary Expansion”, numbered 426/127150, and dated November, 2014.
-- **(b)** *Boundary* Upon the acquisition of the land authorized by subsection (a), the Secretary of the Interior shall adjust the boundaries of the John Muir Historic Site in Martinez, California, to include the land identified on the map referred to in subsection (a).
-- **(c)** *Administration* The land and interests in land acquired under subsection (a) shall be administered as part of the John Muir National Historic Site established by the Act of August 31, 1964 (Public Law 88–547; 78 Stat. 753; 16 U.S.C. 461 note).
+In this Act:
+
+- **(1)** *Historic site* The term “Historic Site” means the John Muir National Historic Site in Martinez, California, established by Public Law 88–547 (78 Stat. 753).
+- **(2)** *Map* The term “map” means the map entitled “John Muir National Historic Site Proposed Boundary Expansion”, numbered 426/127150, and dated November 2014.
+- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+
+## § 3. John Muir National Historic Site land acquisition
+
+- **(a)** *Acquisition* The Secretary may acquire by donation the approximately 44 acres of land and any interests in the land that is identified on the map.
+- **(b)** *Boundary* On the acquisition of the land authorized under subsection (a), the Secretary shall adjust the boundaries of the Historic Site to include the acquired land.
+- **(c)** *Administration* The land and any interests in land acquired under subsection (a) shall be administered as part of the National Historic Site.
