@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 3182
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3182
+
+> To amend section 317A of the Public Health Service Act to reauthorize a program for screenings and referrals regarding lead poisoning, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Screen, Manage, Address, and Remove Toxins for Children Act of 2017” or the “SMART Child Act of 2017”.
+
+## § 2. Screenings and referrals regarding lead poisoning
+
+- **(a)** *Grant application* Section 317A(d) of the Public Health Service Act (42 U.S.C. 247b–1(d)) is amended—
+  - **(1)** by redesignating paragraph (8) as paragraph (9); and
+  - **(2)** by inserting after paragraph (7) the following:
+    > - **(8)**
+    >   - **(A)** A protocol for referring for medical (including mental health) treatment infants and children who are found to have elevated blood lead levels.
+    >   - **(B)** Such protocol shall include identification of a single agency that will be responsible for—
+    >     - **(i)** case management for such infants and children through the later of—
+    >       - **(I)** the date that is 3 years after the infant or child is referred to the agency; and
+    >       - **(II)** if the infant or child continues to need services related to such elevated blood lead levels beyond the end of such 3-year period, the date on which the infant or child is discharged; and
+    >     - **(ii)** overseeing such referrals and ensuring that the infant or child and the family are receiving services deemed necessary by medical and mental health professionals.
+
+- **(b)** *Funding* Paragraph (1) of section 317A(l) of the Public Health Service Act (42 U.S.C. 247b–1(l)) is amended by striking “$40,000,000” and all that follows through the period and inserting “$150,000,000 for each of fiscal years 2018 through 2022.”.
