@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1719
 
-> To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, for inclusion in the John Muir National Historic Site, and for other purposes.
+> To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes.
 
 ## § 1. Short title
 
