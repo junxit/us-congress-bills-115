@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2333
@@ -30,3 +30,8 @@ Small Business Investment Opportunity Act of 2017
 - 2017-05-03 — Introduced in House
 - 2017-05-03 — Introduced in House
 - 2017-05-03 — Referred to the House Committee on Small Business.
+- 2017-06-15 — Committee Consideration and Mark-up Session Held.
+- 2017-06-15 — Ordered to be Reported (Amended).
+- 2017-07-12 — Placed on the Union Calendar, Calendar No. 151.
+- 2017-07-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-215.
+- 2017-07-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-215.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -24,9 +24,9 @@ to guess them.
 
 ## Executed
 
-### 15 U.S.C. § 682
+### 15 U.S.C. § 683
 
-> Section 303(b)(2)(A)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 682(b)(2)(A)(ii)) is amended by striking “$150,000,000” and inserting “$175,000,000”.
+> Section 303(b)(2)(A)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)(A)(ii)) is amended by striking “$150,000,000” and inserting “$175,000,000”.
 
 | | |
 |---|---|
