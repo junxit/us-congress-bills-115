@@ -24,12 +24,9 @@ In this Act—
 
 Section 7(m)(3)(C) of the Small Business Act (15 U.S.C. 636(m)(3)(C)) is amended by striking “$5,000,000” and inserting “$6,000,000”.
 
-## § 4. Elimination of 25/75 rule
+## § 4. Microloan technical assistance
 
-Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is amended—
-
-- **(1)** by striking subparagraph (E); and
-- **(2)** by redesignating subparagraph (F) as subparagraph (E).
+Section 7(m)(4)(E) of the Small Business Act (15 U.S.C. 636(m)(4)(E)) is amended by striking “25 percent” each place such term appears and inserting “50 percent”.
 
 ## § 5. SBA study of microenterprise participation
 
@@ -37,9 +34,9 @@ Not later than 1 year after the date of enactment of this Act, the Administrator
 
 - **(1)** the operations (including services provided, structure, size, and area of operation) of a representative sample of—
   - **(A)** intermediaries that are eligible to participate in the microloan program and that do participate; and
-  - **(B)** intermediaries (including those operated for profit, operated not for profit, and those affiliated with a United States institution of higher learning) that are eligible to participate in the microloan program and that do not participate;
-- **(2)** the reasons why intermediaries described in paragraph (1)(B) choose not to participate in the microloan program;
-- **(3)** recommendations on how to encourage increased participation in the microloan program by intermediaries described in paragraph (1)(B); and
+  - **(B)** intermediaries that are eligible to participate in the microloan program and that do not participate;
+- **(2)** the reasons why eligible intermediaries described in paragraph (1)(B) choose not to participate in the microloan program;
+- **(3)** recommendations on how to encourage increased participation in the microloan program by eligible intermediaries described in paragraph (1)(B); and
 - **(4)** recommendations on how to decrease the costs associated with participation in the microloan program for eligible intermediaries.
 
 ## § 6. GAO study on microloan intermediary practices
@@ -49,4 +46,4 @@ Not later than 1 year after the date of enactment of this Act, the Comptroller G
 - **(1)** oversight of the microloan program by the Small Business Administration, including oversight of intermediaries participating in the microloan program; and
 - **(2)** the specific processes used by the Small Business Administration to ensure—
   - **(A)** compliance by intermediaries participating in the microloan program; and
-  - **(B)** the overall performance of the mi­cro­loan program.
+  - **(B)** the overall performance of the microloan program.

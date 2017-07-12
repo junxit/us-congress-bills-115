@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,14 +33,11 @@ to guess them.
 | Removed | `$5,000,000` |
 | Inserted | `$6,000,000` |
 
-## Stated, not applied
+### 15 U.S.C. § 636
 
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
+> Section 7(m)(4)(E) of the Small Business Act (15 U.S.C. 636(m)(4)(E)) is amended by striking “25 percent” each place such term appears and inserting “50 percent”.
 
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `15 U.S.C. § 636` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | redesignate | by redesignating subparagraph (F) as subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| | |
+|---|---|
+| Removed | `25 percent` |
+| Inserted | `50 percent` |
