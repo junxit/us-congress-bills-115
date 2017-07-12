@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 823a
 
-> in paragraph (2)(C), by striking “45 days” and inserting “15 days”; and
+> in paragraph (2)(C), by striking “45 days” and inserting “30 days”; and
 
 | | |
 |---|---|
 | Removed | `45 days` |
-| Inserted | `15 days` |
+| Inserted | `30 days` |
 
 ## Stated, not applied
 
