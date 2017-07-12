@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1404
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1404
@@ -27,9 +27,10 @@ Pascua Yaqui Tribe Land Conveyance Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Pascua Yaqui Tribe Land Conveyance Act
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 142.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-205.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-205.
+- 2017-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
