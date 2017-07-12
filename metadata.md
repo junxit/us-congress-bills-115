@@ -1,7 +1,7 @@
 ---
 measure: H.R. 954
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 954
@@ -38,3 +38,4 @@ To remove the use restrictions on certain land transferred to Rockingham County,
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 140.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-203.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-203.
+- 2017-07-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
