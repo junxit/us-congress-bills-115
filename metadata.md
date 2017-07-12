@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2156
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2156
@@ -20,9 +20,10 @@ Saint Francis Dam Disaster National Memorial Act
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Saint Francis Dam Disaster National Memorial Act
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 147.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-210.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-210.
+- 2017-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
