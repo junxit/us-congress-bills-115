@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2430
@@ -39,3 +39,9 @@ FDA Reauthorization Act of 2017
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 138.
 - 2017-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-201.
 - 2017-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-201.
+- 2017-07-12 — Considered under suspension of the rules. (consideration: CR H5454-5483)
+- 2017-07-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2430.
+- 2017-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2017-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5454-5477)
+- 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5454-5477)
