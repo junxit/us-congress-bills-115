@@ -15,4 +15,4 @@ This Act may be cited as the “Small Business Investment Opportunity Act of 201
 
 ## § 2. Individual SBIC leverage limit increase
 
-Section 303(b)(2)(A)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 682(b)(2)(A)(ii)) is amended by striking “$150,000,000” and inserting “$175,000,000”.
+Section 303(b)(2)(A)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)(A)(ii)) is amended by striking “$150,000,000” and inserting “$175,000,000”.
