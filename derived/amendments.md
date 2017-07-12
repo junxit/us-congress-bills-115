@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1306
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
