@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1541
@@ -41,3 +41,4 @@ To authorize the Secretary of the Interior to acquire certain property related t
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 144.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-207.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-207.
+- 2017-07-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
