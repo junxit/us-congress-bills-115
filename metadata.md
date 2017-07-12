@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2364
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2364
@@ -30,3 +30,8 @@ Investing in Main Street Act of 2017
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Referred to the House Committee on Small Business.
+- 2017-06-15 — Committee Consideration and Mark-up Session Held.
+- 2017-06-15 — Ordered to be Reported.
+- 2017-07-12 — Placed on the Union Calendar, Calendar No. 152.
+- 2017-07-12 — Reported by the Committee on Small Business. H. Rept. 115-216.
+- 2017-07-12 — Reported by the Committee on Small Business. H. Rept. 115-216.
