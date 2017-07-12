@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1306
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1306
@@ -42,3 +42,4 @@ Western Oregon Tribal Fairness Act
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 141.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-204.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-204.
+- 2017-07-12 — Received in the Senate, read twice.

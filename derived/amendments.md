@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1306
 congress: 115
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
