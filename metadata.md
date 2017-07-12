@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1913
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1913
@@ -22,9 +22,10 @@ Clear Creek National Recreation Area and Conservation Act
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Clear Creek National Recreation Area and Conservation Act
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 146.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-209.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-209.
+- 2017-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
