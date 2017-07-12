@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 30(a) of the Federal Power Act (16 U.S.C. 823a(a)) is amended—
 
-- **(1)** in paragraph (2)(C), by striking “45 days” and inserting “15 days”; and
+- **(1)** in paragraph (2)(C), by striking “45 days” and inserting “30 days”; and
 - **(2)** in paragraph (3)(C)—
   - **(A)** in clause (i), by adding “and” after the semicolon;
   - **(B)** by striking clause (ii); and
