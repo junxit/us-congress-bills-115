@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1988
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1988
@@ -65,9 +65,10 @@ To designate the facility of the United States Postal Service located at 1730 18
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ To designate the facility of the United States Postal Service located at 1730 18
 - 2017-07-11 — Mr. DeSantis moved to suspend the rules and pass the bill.
 - 2017-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5402)
 - 2017-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5402)
+- 2017-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
