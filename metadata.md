@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1492
@@ -38,3 +38,11 @@ Medical Controlled Substances Transportation Act of 2017
 - 2017-06-23 — Placed on the Union Calendar, Calendar No. 131.
 - 2017-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 115-192, Part I.
 - 2017-06-23 — Reported by the Committee on Energy and Commerce. H. Rept. 115-192, Part I.
+- 2017-07-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-07-11 — Considered under suspension of the rules. (consideration: CR H5396-5398)
+- 2017-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1492.
+- 2017-07-11 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2017-07-12 — Considered as unfinished business. (consideration: CR H5485)
+- 2017-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349). (text: CR 07/11/2017 H5396)
+- 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349).(text: CR 07/11/2017 H5396)
