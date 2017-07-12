@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 1 executed, 56 stated and not applied.
+75 amendatory instructions. 7 executed, 68 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,68 @@ to guess them.
 
 ## Executed
 
-### 43 U.S.C. § 509
+### 16 U.S.C. § 1531
 
-> in section 3, by striking “Construction” and inserting “Except as provided in section 5B, construction”; and
+> in subsection (f), by striking “pursuant to the Settlement and section 10011” and inserting “or other species for any reason”;
 
 | | |
 |---|---|
-| Removed | `Construction` |
-| Inserted | `Except as provided in section 5B, construction` |
+| Removed | `pursuant to the Settlement and section 10011` |
+| Inserted | `or other species for any reason` |
+
+### 16 U.S.C. § 1531
+
+> by striking “Interim Flows” and inserting “Flows” each place it appears;
+
+| | |
+|---|---|
+| Removed | `Interim Flows` |
+| Inserted | `Flows` |
+
+### 16 U.S.C. § 1531
+
+> in subparagraph (E), by striking “as a result of the Interim Flows” and inserting “or State laws as a result of Flows.”; and
+
+| | |
+|---|---|
+| Removed | `as a result of the Interim Flows` |
+| Inserted | `or State laws as a result of Flows.` |
+
+### 16 U.S.C. § 1531
+
+> in paragraph (1), by striking “as necessary” and inserting “as necessary, as provided for in this part and in a manner that does not conflict with the intent of Congress as expressed in this title which intent shall be afforded the greatest deference and any difference or ambiguity shall be resolved in favor of said intent” before the period at the end; and
+
+| | |
+|---|---|
+| Removed | `as necessary` |
+| Inserted | `as necessary, as provided for in this part and in a manner that does not conflict with the intent of Congress as expressed in this title which intent shall be afforded the greatest deference and any difference or ambiguity shall be resolved in favor of said intent` |
+
+### 16 U.S.C. § 1531
+
+> by striking “Nothing” and inserting “Except as provided in subsection (e) below, nothing”; and
+
+| | |
+|---|---|
+| Removed | `Nothing` |
+| Inserted | `Except as provided in subsection (e) below, nothing` |
+
+### 16 U.S.C. § 1531
+
+> by striking “State law.” and inserting “State law, except as otherwise provided for herein or would conflict with achieving the purposes or intent of this title.”; and
+
+| | |
+|---|---|
+| Removed | `State law.` |
+| Inserted | `State law, except as otherwise provided for herein or would conflict with achieving the purposes or intent of this title.` |
+
+### 16 U.S.C. § 1531
+
+> Section 10008(a) of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is amended by striking “the Settlement” and inserting “the Settlement or a third party”.
+
+| | |
+|---|---|
+| Removed | `the Settlement` |
+| Inserted | `the Settlement or a third party` |
 
 ## Stated, not applied
 
@@ -97,4 +151,16 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “paragraph (h)(2)” and inserting “paragraph (2)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “paragraph (h)(i)” and inserting “paragraph (1)”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 509` | insert | by inserting after section 5A (43 U.S.C. 509) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | amend | Section 10002 of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | add-at-end | Section 10003 of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | insert | in subsection (g), by inserting “or the implementation of the Settlement and the reintroduction of California Central Valley Spring Run Chinook salmon or any other species,” after “nothing in this part”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1531` | strike | in the header by striking “Interim”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1531` | insert | in subparagraph (C)(ii), by inserting “which shall be implemented” after “significant”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1531` | replace | by striking paragraphs (2), (3), and (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | amend | by amending subsection (j) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | replace | Section 10005 of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is amended by striking subsections (b) and (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | add-at-end | in paragraph (2), by adding at the end the following: “Any statutory exemptions from conducting environmental review or consultation are not applicable.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | amend | in subsection (a), by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | replace | by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | add-at-end | San Joaquin River Restoration Settlement Act (Public Law 111–11 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
