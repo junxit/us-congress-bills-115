@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1397
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1397
@@ -16,10 +16,11 @@ To authorize, direct, facilitate, and expedite the transfer of administrative ju
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To authorize, direct, facilitate, and expedite the transfer of administrative ju
 - 2017-07-11 — Placed on the Union Calendar, Calendar No. 143.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-206, Part I.
 - 2017-07-11 — Reported by the Committee on Natural Resources. H. Rept. 115-206, Part I.
+- 2017-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
