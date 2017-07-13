@@ -1,7 +1,7 @@
 ---
 measure: H.R. 218
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 218
@@ -25,3 +25,10 @@ King Cove Road Land Exchange Act
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Natural Resources.
+- 2017-02-10 — Referred to the Subcommittee on Federal Lands.
+- 2017-04-05 — Subcommittee Hearings Held.
+- 2017-06-27 — Committee Consideration and Mark-up Session Held.
+- 2017-06-27 — Ordered to be Reported by the Yeas and Nays: 23 - 14.
+- 2017-07-13 — Placed on the Union Calendar, Calendar No. 153.
+- 2017-07-13 — Reported by the Committee on Natural Resources. H. Rept. 115-218.
+- 2017-07-13 — Reported by the Committee on Natural Resources. H. Rept. 115-218.
