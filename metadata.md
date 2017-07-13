@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2480
@@ -56,9 +56,10 @@ Empowering Law Enforcement to Fight Sex Trafficking Demand Act
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Empowering Law Enforcement to Fight Sex Trafficking Demand Act
 - 2017-07-12 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2017-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5488)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5488)
+- 2017-07-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
