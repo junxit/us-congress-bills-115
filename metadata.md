@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2664
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2664
@@ -34,9 +34,10 @@ Enhancing Detection of Human Trafficking Act
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Enhancing Detection of Human Trafficking Act
 - 2017-07-12 — Mr. Walberg moved to suspend the rules and pass the bill.
 - 2017-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5486)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5486)
+- 2017-07-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
