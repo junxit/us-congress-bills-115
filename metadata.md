@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1719
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1719
@@ -64,3 +64,5 @@ John Muir National Historic Site Expansion Act
 - 2017-07-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-208.
 - 2017-07-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-208.
 - 2017-07-11 — The title of the measure was amended. Agreed to without objection.
+- 2017-07-12 — Mr. McClintock asked unanimous consent that the Clerk be authorized to make technical corrections in the engrossment of H.R. 1719, to include addition of an enacting clause. Agreed to without objection.
+- 2017-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
