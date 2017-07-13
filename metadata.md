@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1719
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1719
@@ -70,3 +70,12 @@ John Muir National Historic Site Expansion Act
 - 2017-07-11 — The title of the measure was amended. Agreed to without objection.
 - 2017-07-12 — Mr. McClintock asked unanimous consent that the Clerk be authorized to make technical corrections in the engrossment of H.R. 1719, to include addition of an enacting clause. Agreed to without objection.
 - 2017-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
+- 2018-06-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3263-3264)
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3263-3264)
+- 2018-06-07 — Message on Senate action sent to the House.
+- 2018-06-11 — Presented to President.
+- 2018-06-11 — Presented to President.
+- 2018-06-22 — Became Public Law No: 115-191.
+- 2018-06-22 — Became Public Law No: 115-191.
+- 2018-06-22 — Signed by President.
+- 2018-06-22 — Signed by President.
