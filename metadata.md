@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1492
@@ -16,10 +16,11 @@ Medical Controlled Substances Transportation Act of 2017
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Medical Controlled Substances Transportation Act of 2017
 - 2017-07-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-07-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349). (text: CR 07/11/2017 H5396)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349).(text: CR 07/11/2017 H5396)
+- 2017-07-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
