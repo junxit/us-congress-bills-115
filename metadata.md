@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2200
@@ -48,7 +48,7 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (8)
+## Committees (9)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
@@ -58,6 +58,7 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - House — Armed Services Committee
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2017-07-12 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5492-5497)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5492-5497)
+- 2017-07-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
