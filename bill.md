@@ -21,11 +21,11 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2017”.
   - **(3)** *State Implementation Plans* Not later than October 26, 2026, notwithstanding the deadline specified in section 110(a)(1) of the Clean Air Act (42 U.S.C. 7410(a)(1)), each State shall submit the plan required by such section 110(a)(1) for the 2015 ozone standards.
 - **(b)** *Certain Preconstruction Permits*
   - **(1)** *In general* The 2015 ozone standards shall not apply to the review and disposition of a preconstruction permit application if—
-    - **(A)** the Administrator or the State, local, or tribal permitting authority, as applicable, determines the application to be complete on or before the date of promulgation of the final designation of the area involved under subsection (a)(2); or
-    - **(B)** the Administrator or the State, local, or tribal permitting authority, as applicable, publishes a public notice of a preliminary determination or draft permit for the application before the date that is 60 days after the date of promulgation of the final designation of the area involved under subsection (a)(2).
+    - **(A)** the Administrator or the State, local, or Tribal permitting authority, as applicable, determines the application to be complete on or before the date of promulgation of the final designation of the area involved under subsection (a)(2); or
+    - **(B)** the Administrator or the State, local, or Tribal permitting authority, as applicable, publishes a public notice of a preliminary determination or draft permit for the application before the date that is 60 days after the date of promulgation of the final designation of the area involved under subsection (a)(2).
   - **(2)** *Rules of Construction* Nothing in this section shall be construed to—
     - **(A)** eliminate the obligation of a preconstruction permit applicant to install best available control technology and lowest achievable emission rate technology, as applicable; or
-    - **(B)** limit the authority of a State, local, or tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or tribal law than national ambient air quality standards.
+    - **(B)** limit the authority of a State, local, or Tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or Tribal law than national ambient air quality standards.
 
 ## § 3. Facilitating State implementation of national ambient air quality standards
 
@@ -45,13 +45,13 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2017”.
   >   - **(3)** *Rules of Construction*
   >     - **(A)** Nothing in this subsection shall be construed to preclude the Administrator from issuing regulations and guidance to assist States, permitting authorities, and permit applicants in implementing a national ambient air quality standard subsequent to publishing regulations and guidance for such standard under paragraph (1).
   >     - **(B)** Nothing in this subsection shall be construed to eliminate the obligation of a preconstruction permit applicant to install best available control technology and lowest achievable emission rate technology, as applicable.
-  >     - **(C)** Nothing in this subsection shall be construed to limit the authority of a State, local, or tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or tribal law than national ambient air quality standards.
+  >     - **(C)** Nothing in this subsection shall be construed to limit the authority of a State, local, or Tribal permitting authority to impose more stringent emissions requirements pursuant to State, local, or Tribal law than national ambient air quality standards.
   >   - **(4)** *Definitions* In this subsection:
   >     - **(A)** The term best available control technology has the meaning given to that term in section 169(3).
   >     - **(B)** The term lowest achievable emission rate has the meaning given to that term in section 171(3).
   >     - **(C)** The term preconstruction permit—
   >       - **(i)** means a permit that is required under this title for the construction or modification of a stationary source; and
-  >       - **(ii)** includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.
+  >       - **(ii)** includes any such permit issued by the Environmental Protection Agency or a State, local, or Tribal permitting authority.
 
 - **(e)** *Contingency measures for extreme ozone nonattainment areas* Section 172(c)(9) of the Clean Air Act (42 U.S.C. 7502(c)(9)) is amended by adding at the end the following: “Notwithstanding the preceding sentences and any other provision of this Act, such measures shall not be required for any nonattainment area for ozone classified as an Extreme Area.”.
 - **(f)** *Plan submissions and requirements for ozone nonattainment areas* Section 182 of the Clean Air Act (42 U.S.C. 7511a) is amended—
@@ -83,7 +83,22 @@ This Act may be cited as the “Ozone Standards Implementation Act of 2017”.
   - **(3)** *Report* The Administrator shall submit to Congress a report describing the results of the study, including the findings of the peer review panel.
   - **(4)** *Regulations and guidance* The Administrator shall incorporate the results of the study, including the findings of the peer review panel, into any Federal rules and guidance implementing the 2015 ozone standards.
 
-## § 4. Definitions
+## § 4. Applicability of sanctions and fees if emissions beyond control
+
+The Clean Air Act (42 U.S.C. 7401 et seq.) is amended by inserting after section 179B the following new section:
+
+> ## § 179C. Applicability of sanctions and fees if emissions beyond control
+>
+> - **(a)** *In general* Notwithstanding any other provision of this Act, with respect to any nonattainment area that is classified under section 181 as severe or extreme for ozone or under section 188 as serious for particulate matter, no sanction or fee under section 179 or 185 shall apply with respect to a State (or a local government or source therein) on the basis of a deficiency described in section 179(a), or the State’s failure to attain a national ambient air quality standard for ozone or particulate matter by the applicable attainment date, if the State demonstrates that the State would have avoided such deficiency or attained such standard but for one or more of the following:
+>   - **(1)** Emissions emanating from outside the nonattainment area.
+>   - **(2)** Emissions from an exceptional event (as defined in section 319(b)(1)).
+>   - **(3)** Emissions from mobile sources to the extent the State demonstrates that—
+>     - **(A)** such emissions are beyond the control of the State to reduce or eliminate; and
+>     - **(B)** the State is fully implementing such measures as are within the authority of the State to control emissions from the mobile sources.
+> - **(b)** *No effect on underlying standards* The inapplicability of sanctions or fees with respect to a State pursuant to subsection (a) does not affect the obligation of the State (and local governments and sources therein) under other provisions of this Act to establish and implement measures to attain a national ambient air quality standard for ozone or particulate matter.
+> - **(c)** *Periodic renewal of demonstration* For subsection (a) to continue to apply with respect to a State or local government (or source therein), the State involved shall renew the demonstration required by subsection (a) at least once every 5 years.
+
+## § 5. Definitions
 
 In this Act:
 
@@ -94,9 +109,9 @@ In this Act:
 - **(5)** *National ambient air quality standard* The term national ambient air quality standard means a national ambient air quality standard promulgated under section 109 of the Clean Air Act (42 U.S.C. 7409).
 - **(6)** *Preconstruction permit* The term preconstruction permit—
   - **(A)** means a permit that is required under title I of the Clean Air Act (42 U.S.C. 7401 et seq.) for the construction or modification of a stationary source; and
-  - **(B)** includes any such permit issued by the Environmental Protection Agency or a State, local, or tribal permitting authority.
+  - **(B)** includes any such permit issued by the Environmental Protection Agency or a State, local, or Tribal permitting authority.
 - **(7)** *2015 ozone standards* The term 2015 ozone standards means the national ambient air quality standards for ozone published in the Federal Register on October 26, 2015 (80 Fed. Reg. 65292).
 
-## § 5. No additional funds authorized
+## § 6. No additional funds authorized
 
 No additional funds are authorized to be appropriated to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.

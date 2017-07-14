@@ -1,7 +1,7 @@
 ---
 measure: H.R. 806
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 806
@@ -16,7 +16,7 @@ Ozone Standards Implementation Act of 2017
 
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Cosponsors (19)
+## Cosponsors (24)
 
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
@@ -37,6 +37,11 @@ Ozone Standards Implementation Act of 2017
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
 
 ## Committees (1)
 
@@ -47,3 +52,11 @@ Ozone Standards Implementation Act of 2017
 - 2017-02-01 — Introduced in House
 - 2017-02-01 — Introduced in House
 - 2017-02-01 — Referred to the House Committee on Energy and Commerce.
+- 2017-02-03 — Referred to the Subcommittee on Environment.
+- 2017-03-22 — Subcommittee Hearings Held.
+- 2017-06-15 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 12 - 8 .
+- 2017-06-28 — Committee Consideration and Mark-up Session Held.
+- 2017-06-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 24.
+- 2017-07-14 — Placed on the Union Calendar, Calendar No. 157.
+- 2017-07-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-222.
+- 2017-07-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-222.
