@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2565
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2565
@@ -25,3 +25,8 @@ To require the use of replacement cost value in determining the premium rates fo
 - 2017-05-19 — Introduced in House
 - 2017-05-19 — Introduced in House
 - 2017-05-19 — Referred to the House Committee on Financial Services.
+- 2017-06-21 — Committee Consideration and Mark-up Session Held.
+- 2017-06-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.
+- 2017-07-14 — Placed on the Union Calendar, Calendar No. 156.
+- 2017-07-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-221.
+- 2017-07-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-221.
