@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2810
@@ -52,3 +52,355 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-07-06 — Placed on the Union Calendar, Calendar No. 137.
 - 2017-07-06 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-200.
 - 2017-07-06 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-200.
+- 2017-07-11 — Rules Committee Resolution H. Res. 431 Reported to House. The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules.
+- 2017-07-11 — SUPPLEMENTAL FILING AUTHORITY - Mr. Thornberry asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on the bill, H.R. 2810. Agreed to without objection.
+- 2017-07-11 — Supplemental report filed by the Committee on Armed Services, H. Rept. 115-200, Part II.
+- 2017-07-11 — Supplemental report filed by the Committee on Armed Services, H. Rept. 115-200, Part II.
+- 2017-07-12 — Amendment (A001) offered by Mr. Thornberry. (consideration: CR H5721; text: CR H5721)
+- 2017-07-12 — Amendment (A002) offered by Mr. Conaway. (consideration: CR H5721-5723; text: CR H5721)
+- 2017-07-12 — Amendment (A003) offered by Mr. Polis. (consideration: CR H5723-5724; text: CR H5723)
+- 2017-07-12 — Amendment (A004) offered by Ms. Jayapal. (consideration: CR H5724-5726; text: CR H5724)
+- 2017-07-12 — Amendment (A005) offered by Mr. Nadler. (consideration: CR H5726-5727; text: CR H5726)
+- 2017-07-12 — Amendment (A006) offered by Mr. Nadler. (consideration: CR H5727-5729; text: CR H5727)
+- 2017-07-12 — Amendment (A007) offered by Mr. Blumenauer. (consideration: CR H5729-5730; text: CR H5729)
+- 2017-07-12 — Amendment (A008) offered by Mr. Wilson (SC). (consideration: CR H5730-5731; text: CR H5730)
+- 2017-07-12 — Amendment (A009) offered by Mr. Aguilar. (consideration: CR H5731-5733; text: CR H5731-5732)
+- 2017-07-12 — Amendment (A010) offered by Mr. Garamendi. (consideration: CR H5733-5734; text: CR H5733)
+- 2017-07-12 — Amendment (A011) offered by Mr. Blumenauer. (consideration: CR H5734-5735; text: CR H5734)
+- 2017-07-12 — Amendment (A012) offered by Mr. McClintock. (consideration: CR H5737; text: CR H5737)
+- 2017-07-12 — Amendment (A013) offered by Mr. Rogers (AL). (consideration: CR H5737; text: CR H5737)
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment agreed to Committee of the Whole
+- 2017-07-12 — Amendment failed in Committee of the Whole
+- 2017-07-12 — Amendments en bloc (A014) offered by Mr. Thornberry. (consideration: CR H5737-5744; text: CR H5737-5739)
+- 2017-07-12 — Amendments en bloc (A015) offered by Mr. Thornberry. (consideration: CR H5744-5749; text: CR H5744-5747)
+- 2017-07-12 — Amendments en bloc (A016) offered by Mr. Thornberry. (consideration: CR H5749-5753; text: CR H5749-5752)
+- 2017-07-12 — Amendments en bloc (A017) offered by Mr. Thornberry. (consideration: CR H5753-5756; text: CR H5753-5756)
+- 2017-07-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business.
+- 2017-07-12 — Considered under the provisions of rule H. Res. 431. (consideration: CR H5534-5756)
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Aguilar Part B Amendment No. 10.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B Amendment No. 13.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B Amendment No. 8.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Conaway Part B Amendment No. 2.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi Part B Amendment No. 12.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal Part B Amendment No. 5.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock Part B Amendment No. 14.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler Part B Amendment No. 6.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler Part B Amendment No. 7.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Polis Part B Amendment No. 4.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) Part B Amendment No. 88.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry Part B Amendment No. 1.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (SC) Part B Amendment No. 9.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 2.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 3.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 4, as modified.
+- 2017-07-12 — DEBATE - Pursuant to the provisions of H.Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 1.
+- 2017-07-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2810.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Thornberry amendments (A015) Agreed to by voice vote.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Thornberry amendments (A016) Agreed to by voice vote.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Thornberry amendments (A017) as modified Agreed to by voice vote.
+- 2017-07-12 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A008) Agreed to by voice vote.
+- 2017-07-12 — House amendment not agreed to: On agreeing to the Nadler amendment (A006) Failed by voice vote.
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered
+- 2017-07-12 — House amendment offered/reported by : Amendment (A001) offered by Mr. Thornberry.(consideration: CR H5721; text: CR H5721)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A002) offered by Mr. Conaway.(consideration: CR H5721-5723; text: CR H5721)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A003) offered by Mr. Polis.(consideration: CR H5723-5724; text: CR H5723)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A004) offered by Ms. Jayapal.(consideration: CR H5724-5726; text: CR H5724)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A005) offered by Mr. Nadler.(consideration: CR H5726-5727; text: CR H5726)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A006) offered by Mr. Nadler.(consideration: CR H5727-5729; text: CR H5727)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A007) offered by Mr. Blumenauer.(consideration: CR H5729-5730; text: CR H5729)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A008) offered by Mr. Wilson (SC).(consideration: CR H5730-5731; text: CR H5730)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A009) offered by Mr. Aguilar.(consideration: CR H5731-5733; text: CR H5731-5732)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A010) offered by Mr. Garamendi.(consideration: CR H5733-5734; text: CR H5733)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A011) offered by Mr. Blumenauer.(consideration: CR H5734-5735; text: CR H5734)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A012) offered by Mr. McClintock.(consideration: CR H5737; text: CR H5737)
+- 2017-07-12 — House amendment offered/reported by : Amendment (A013) offered by Mr. Rogers (AL).(consideration: CR H5737; text: CR H5737)
+- 2017-07-12 — House amendment offered/reported by : Amendments en bloc (A015) offered by Mr. Thornberry.(consideration: CR H5744-5749; text: CR H5744-5747)
+- 2017-07-12 — House amendment offered/reported by : Amendments en bloc (A016) offered by Mr. Thornberry.(consideration: CR H5749-5753; text: CR H5749-5752)
+- 2017-07-12 — House amendment offered/reported by : Amendments en bloc (A017) offered by Mr. Thornberry.(consideration: CR H5753-5756; text: CR H5753-5756)
+- 2017-07-12 — House amendment offered/reported by: Amendments en bloc (A014) offered by Mr. Thornberry.(consideration: CR H5737-5744; text: CR H5737-5739)
+- 2017-07-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 431 and Rule XVIII.
+- 2017-07-12 — Mr. Thornberry moved that the Committee rise.
+- 2017-07-12 — ORDER OF BUSINESS - Mr. Thornberry asked unanimous consent that during consideration of H.R. 2810, pursuant to H.Res. 431, amendment No. 88 printed in Part B of House Report 115-212 may be considered out of sequence. Agreed to without objection.
+- 2017-07-12 — On agreeing to the Nadler amendment (A006) Failed by voice vote.
+- 2017-07-12 — On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2017-07-12 — On agreeing to the Thornberry amendments (A014) Agreed to by voice vote.
+- 2017-07-12 — On agreeing to the Thornberry amendments (A015) Agreed to by voice vote.
+- 2017-07-12 — On agreeing to the Thornberry amendments (A016) Agreed to by voice vote.
+- 2017-07-12 — On agreeing to the Thornberry amendments (A017) as modified Agreed to by voice vote.
+- 2017-07-12 — On agreeing to the Wilson (SC) amendment (A008) Agreed to by voice vote.
+- 2017-07-12 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Aguilar amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Aguilar demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conaway amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers (AL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Rogers (AL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-12 — The Speaker designated the Honorable Paul Mitchell to act as Chairman of the Committee.
+- 2017-07-12 — The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules.
+- 2017-07-12 — Thornberry amendment (A017) modified by unanimous consent. modification to amendment No. 76
+- 2017-07-13 — Amendment (A018) offered by Mr. Garamendi. (consideration: CR H5791, H5802; text: CR H5791)
+- 2017-07-13 — Amendment (A019) offered by Mr. Buck. (consideration: CR H5792-5793, H5802-5803; text: CR H5792)
+- 2017-07-13 — Amendment (A020) offered by Mr. Perry. (consideration: CR H5793-5795, H5803-5804; text: CR H5793)
+- 2017-07-13 — Amendment (A021) offered by Mr. Gosar. (consideration: CR H5795-5796, H5004-5005; text: CR H5795)
+- 2017-07-13 — Amendment (A022) offered by Mr. Rooney, Thomas J.. (consideration: CR H5796-5798, H5005-5006; text: CR H5809)
+- 2017-07-13 — Amendment (A023) offered by Mr. Keating. (consideration: CR H5798-5799; text: CR H5798)
+- 2017-07-13 — Amendment (A024) offered by Mrs. Hartzler. (consideration: CR H5799-5801, H5804; text: CR H5799)
+- 2017-07-13 — Amendment (A025) offered by Mr. Cole. (consideration: CR H5806-5809; text: CR H5806)
+- 2017-07-13 — Amendment (A026) offered by Mr. Franks (AZ). (consideration: CR H5809-5811; text: CR H5809)
+- 2017-07-13 — Amendment (A027) offered by Ms. Cheney. (consideration: CR H5811-5812; text: CR H5811)
+- 2017-07-13 — Amendment (A028) offered by Mr. Lamborn. (consideration: CR H5812-5814; text: CR H5812)
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment agreed to Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendment failed in Committee of the Whole
+- 2017-07-13 — Amendments en bloc (A029) offered by Mr. Thornberry. (consideration: CR H5814-5820; text: CR H5814-5816)
+- 2017-07-13 — Amendments en bloc (A030) offered by Mr. Thornberry. (consideration: CR H5820-5823; text: CR H5820-5822)
+- 2017-07-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business.
+- 2017-07-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business.
+- 2017-07-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business.
+- 2017-07-13 — Considered as unfinished business. (consideration: CR H5783-5790)
+- 2017-07-13 — Considered as unfinished business. (consideration: CR H5790-5801)
+- 2017-07-13 — Considered as unfinished business. (consideration: CR H5801-5823)
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 3.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Cheney amendment No. 14.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment No. 13.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 1.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 5.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 10.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 7.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 15.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 4.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Thomas J. Rooney (FL) amendment No. 6.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 1.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 2.
+- 2017-07-13 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 30 minutes of debate on the Cole amendment No. 12.
+- 2017-07-13 — House amendment agreed to: On agreeing to the Cheney amendment (A027) Agreed to by voice vote.
+- 2017-07-13 — House amendment agreed to: On agreeing to the Cole amendment (A025) Agreed to by voice vote.
+- 2017-07-13 — House amendment agreed to: On agreeing to the Keating amendment (A023) Agreed to by voice vote.
+- 2017-07-13 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A013) Agreed to by recorded vote: 253 - 172 (Roll no. 362).(consideration: CR H5788)
+- 2017-07-13 — House amendment agreed to: On agreeing to the Thornberry amendments (A029) Agreed to by voice vote.
+- 2017-07-13 — House amendment agreed to: On agreeing to the Thornberry amendments (A030) Agreed to by voice vote.
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Aguilar amendment (A009) Failed by recorded vote: 188 - 235 (Roll no. 361).(consideration: CR H5787-5788)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A007) Failed by recorded vote: 173 - 249 (Roll no. 360).(consideration: CR H5786-5787)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A011) Failed by recorded vote: 169 - 254 (Roll no. 364).(consideration: CR H5789-5790)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Buck amendment (A019) Failed by recorded vote: 203 - 218 (Roll no. 367).
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Conaway amendment (A002) Failed by recorded vote: 198 - 225 (Roll no. 356).(consideration: CR H5784)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Garamendi amendment (A010) Failed by recorded vote: 192 - 232 (Roll no. 363).(consideration: CR H5788-5789)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Garamendi amendment (A018) Failed by recorded vote: 198 - 220 (Roll no. 366).
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Gosar amendment (A021) Failed by recorded vote: 183 - 242 (Roll no. 370).
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Hartzler amendment (A024) Failed by recorded vote: 209 - 214 (Roll no. 369).
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Jayapal amendment (A004) Failed by recorded vote: 179 - 245 (Roll no. 358).(consideration: CR H5785-5786)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the McClintock amendment (A012) Failed by recorded vote: 175 - 248 (Roll no. 365).(consideration: CR H5790)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Nadler amendment (A005) Failed by recorded vote: 167 - 257 (Roll no. 359).(consideration: CR H5786)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Perry amendment (A020) Failed by recorded vote: 185 - 234 (Roll no. 368).
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Polis amendment (A003) Failed by recorded vote: 73 - 351 (Roll no. 357).(consideration: CR H5784-5785)
+- 2017-07-13 — House amendment not agreed to: On agreeing to the Rooney, Thomas J. amendment (A022) Failed by recorded vote: 107 - 318 (Roll no. 371).
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered
+- 2017-07-13 — House amendment offered/reported by : Amendment (A018) offered by Mr. Garamendi.(consideration: CR H5791, H5802; text: CR H5791)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A019) offered by Mr. Buck.(consideration: CR H5792-5793, H5802-5803; text: CR H5792)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A020) offered by Mr. Perry.(consideration: CR H5793-5795, H5803-5804; text: CR H5793)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A021) offered by Mr. Gosar.(consideration: CR H5795-5796, H5004-5005; text: CR H5795)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A022) offered by Mr. Rooney, Thomas J..(consideration: CR H5796-5798, H5005-5006; text: CR H5809)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A023) offered by Mr. Keating.(consideration: CR H5798-5799; text: CR H5798)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A024) offered by Mrs. Hartzler.(consideration: CR H5799-5801, H5804; text: CR H5799)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A025) offered by Mr. Cole.(consideration: CR H5806-5809; text: CR H5806)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A026) offered by Mr. Franks (AZ).(consideration: CR H5809-5811; text: CR H5809)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A027) offered by Ms. Cheney.(consideration: CR H5811-5812; text: CR H5811)
+- 2017-07-13 — House amendment offered/reported by : Amendment (A028) offered by Mr. Lamborn.(consideration: CR H5812-5814; text: CR H5812)
+- 2017-07-13 — House amendment offered/reported by : Amendments en bloc (A029) offered by Mr. Thornberry.(consideration: CR H5814-5820; text: CR H5814-5816)
+- 2017-07-13 — House amendment offered/reported by : Amendments en bloc (A030) offered by Mr. Thornberry.(consideration: CR H5820-5823; text: CR H5820-5822)
+- 2017-07-13 — Mr. Thornberry moved that the Committee rise.
+- 2017-07-13 — Mr. Thornberry moved that the committee rise.
+- 2017-07-13 — On agreeing to the Aguilar amendment (A009) Failed by recorded vote: 188 - 235 (Roll no. 361). (consideration: CR H5787-5788)
+- 2017-07-13 — On agreeing to the Blumenauer amendment (A007) Failed by recorded vote: 173 - 249 (Roll no. 360). (consideration: CR H5786-5787)
+- 2017-07-13 — On agreeing to the Blumenauer amendment (A011) Failed by recorded vote: 169 - 254 (Roll no. 364). (consideration: CR H5789-5790)
+- 2017-07-13 — On agreeing to the Buck amendment (A019) Failed by recorded vote: 203 - 218 (Roll no. 367).
+- 2017-07-13 — On agreeing to the Cheney amendment (A027) Agreed to by voice vote.
+- 2017-07-13 — On agreeing to the Cole amendment (A025) Agreed to by voice vote.
+- 2017-07-13 — On agreeing to the Conaway amendment (A002) Failed by recorded vote: 198 - 225 (Roll no. 356). (consideration: CR H5784)
+- 2017-07-13 — On agreeing to the Garamendi amendment (A010) Failed by recorded vote: 192 - 232 (Roll no. 363). (consideration: CR H5788-5789)
+- 2017-07-13 — On agreeing to the Garamendi amendment (A018) Failed by recorded vote: 198 - 220 (Roll no. 366).
+- 2017-07-13 — On agreeing to the Gosar amendment (A021) Failed by recorded vote: 183 - 242 (Roll no. 370).
+- 2017-07-13 — On agreeing to the Hartzler amendment (A024) Failed by recorded vote: 209 - 214 (Roll no. 369).
+- 2017-07-13 — On agreeing to the Jayapal amendment (A004) Failed by recorded vote: 179 - 245 (Roll no. 358). (consideration: CR H5785-5786)
+- 2017-07-13 — On agreeing to the Keating amendment (A023) Agreed to by voice vote.
+- 2017-07-13 — On agreeing to the McClintock amendment (A012) Failed by recorded vote: 175 - 248 (Roll no. 365). (consideration: CR H5790)
+- 2017-07-13 — On agreeing to the Nadler amendment (A005) Failed by recorded vote: 167 - 257 (Roll no. 359). (consideration: CR H5786)
+- 2017-07-13 — On agreeing to the Perry amendment (A020) Failed by recorded vote: 185 - 234 (Roll no. 368).
+- 2017-07-13 — On agreeing to the Polis amendment (A003) Failed by recorded vote: 73 - 351 (Roll no. 357). (consideration: CR H5784-5785)
+- 2017-07-13 — On agreeing to the Rogers (AL) amendment (A013) Agreed to by recorded vote: 253 - 172 (Roll no. 362). (consideration: CR H5788)
+- 2017-07-13 — On agreeing to the Rooney, Thomas J. amendment (A022) Failed by recorded vote: 107 - 318 (Roll no. 371).
+- 2017-07-13 — On agreeing to the Thornberry amendments (A029) Agreed to by voice vote.
+- 2017-07-13 — On agreeing to the Thornberry amendments (A030) Agreed to by voice vote.
+- 2017-07-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-07-13 — On motion that the committee rise Agreed to by voice vote.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Franks(AZ) amendment No. 13, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gallego demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Norcross demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hartzler amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cooper demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thomas J. Rooney (FL) amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Thomas J. Rooney (FL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Roll call votes on amendments in House
+- 2017-07-13 — Rule H. Res. 440 passed House.
+- 2017-07-13 — Rules Committee Resolution H. Res. 440 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for further consideration of H.R. 2810 under a structured rule.
+- 2017-07-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments to H.R. 2810 which had been debated earlier and on which further proceedings had been postponed.
+- 2017-07-14 — Amendment (A031) offered by Mr. Byrne. (consideration: CR H5836-5838, H5863-5864; text: CR H5836)
+- 2017-07-14 — Amendment (A032) offered by Mr. Hunter. (consideration: CR H5838-5839, H5864; text: CR H5838)
+- 2017-07-14 — Amendment (A033) offered by Mr. McGovern. (consideration: CR H5839-5840, H5864-5865; text: CR H5839)
+- 2017-07-14 — Amendment (A038) offered by Ms. Tenney. (consideration: CR H5860-5861; text: CR H5860)
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment agreed to Committee of the Whole
+- 2017-07-14 — Amendment failed in Committee of the Whole
+- 2017-07-14 — Amendment failed in Committee of the Whole
+- 2017-07-14 — Amendments en bloc (A034) offered by Mr. Thornberry. (consideration: CR H5840-5845; text: CR H5840-5843)
+- 2017-07-14 — Amendments en bloc (A035) offered by Mr. Thornberry. (consideration: CR H5845-5851; text: CR H5845-5849)
+- 2017-07-14 — Amendments en bloc (A036) offered by Mr. Thornberry. (consideration: CR H5851-5855; text: CR H5851-5854)
+- 2017-07-14 — Amendments en bloc (A037) offered by Mr. Thornberry. (consideration: CR H5855-5860; text: CR H5855-5858)
+- 2017-07-14 — Considered as unfinished business. (consideration: CR H5836-5868)
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 17.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 18.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 43.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 122.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 3.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 4.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 5.
+- 2017-07-14 — DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 6.
+- 2017-07-14 — DEBATE - The House proceeded with 10 minutes of debate on the Lujan Grisham (NM) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to add a new section to prohibit any funds authorized to be appropriated in the underlying bill from being used to plan, develop, or construct any barriers, including walls or fences, along the international border of the United States.
+- 2017-07-14 — House amendment agreed to: On agreeing to the Byrne amendment (A031) Agreed to by recorded vote: 244 - 181 (Roll no. 374).
+- 2017-07-14 — House amendment agreed to: On agreeing to the Hunter amendment (A032) Agreed to by recorded vote: 234 - 190 (Roll no. 375).
+- 2017-07-14 — House amendment agreed to: On agreeing to the Lamborn amendment (A028) Agreed to by recorded vote: 235 - 189 (Roll no. 373).(consideration: CR H5862-5863)
+- 2017-07-14 — House amendment agreed to: On agreeing to the McGovern amendment (A033) Agreed to by recorded vote: 424 - 0 (Roll no. 376).
+- 2017-07-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A034) Agreed to by voice vote.
+- 2017-07-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A035) Agreed to by voice vote.
+- 2017-07-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A036) Agreed to by voice vote.
+- 2017-07-14 — House amendment agreed to: On agreeing to the Thornberry amendments (A037) Agreed to by voice vote.
+- 2017-07-14 — House amendment not agreed to: On agreeing to the Franks (AZ) amendment (A026) Failed by recorded vote: 208 - 217 (Roll no. 372).(consideration: CR H5862)
+- 2017-07-14 — House amendment not agreed to: On agreeing to the Tenney amendment (A038) Failed by voice vote.
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered
+- 2017-07-14 — House amendment offered/reported by : Amendment (A031) offered by Mr. Byrne.(consideration: CR H5836-5838, H5863-5864; text: CR H5836)
+- 2017-07-14 — House amendment offered/reported by : Amendment (A032) offered by Mr. Hunter.(consideration: CR H5838-5839, H5864; text: CR H5838)
+- 2017-07-14 — House amendment offered/reported by : Amendment (A033) offered by Mr. McGovern.(consideration: CR H5839-5840, H5864-5865; text: CR H5839)
+- 2017-07-14 — House amendment offered/reported by : Amendment (A038) offered by Ms. Tenney.(consideration: CR H5860-5861; text: CR H5860)
+- 2017-07-14 — House amendment offered/reported by : Amendments en bloc (A034) offered by Mr. Thornberry.(consideration: CR H5840-5845; text: CR H5840-5843)
+- 2017-07-14 — House amendment offered/reported by : Amendments en bloc (A035) offered by Mr. Thornberry.(consideration: CR H5845-5851; text: CR H5845-5849)
+- 2017-07-14 — House amendment offered/reported by : Amendments en bloc (A036) offered by Mr. Thornberry.(consideration: CR H5851-5855; text: CR H5851-5854)
+- 2017-07-14 — House amendment offered/reported by : Amendments en bloc (A037) offered by Mr. Thornberry.(consideration: CR H5855-5860; text: CR H5855-5858)
+- 2017-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-14 — Ms. Lujan Grisham, M. moved to recommit with instructions to the Committee on Armed Services. (text: CR H5865)
+- 2017-07-14 — On agreeing to the Byrne amendment (A031) Agreed to by recorded vote: 244 - 181 (Roll no. 374).
+- 2017-07-14 — On agreeing to the Franks (AZ) amendment (A026) Failed by recorded vote: 208 - 217 (Roll no. 372). (consideration: CR H5862)
+- 2017-07-14 — On agreeing to the Hunter amendment (A032) Agreed to by recorded vote: 234 - 190 (Roll no. 375).
+- 2017-07-14 — On agreeing to the Lamborn amendment (A028) Agreed to by recorded vote: 235 - 189 (Roll no. 373). (consideration: CR H5862-5863)
+- 2017-07-14 — On agreeing to the McGovern amendment (A033) Agreed to by recorded vote: 424 - 0 (Roll no. 376).
+- 2017-07-14 — On agreeing to the Tenney amendment (A038) Failed by voice vote.
+- 2017-07-14 — On agreeing to the Thornberry amendments (A034) Agreed to by voice vote.
+- 2017-07-14 — On agreeing to the Thornberry amendments (A035) Agreed to by voice vote.
+- 2017-07-14 — On agreeing to the Thornberry amendments (A036) Agreed to by voice vote.
+- 2017-07-14 — On agreeing to the Thornberry amendments (A037) Agreed to by voice vote.
+- 2017-07-14 — On motion to recommit with instructions Failed by recorded vote: 190 - 235 (Roll no. 377).
+- 2017-07-14 — On passage Passed by recorded vote: 344 - 81 (Roll no. 378).
+- 2017-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Courtney demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment No. 18, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment No. 43, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-07-14 — Passed/agreed to in House: On passage Passed by recorded vote: 344 - 81 (Roll no. 378).
+- 2017-07-14 — Roll call votes on amendments in House
+- 2017-07-14 — Roll call votes on amendments in House
+- 2017-07-14 — Roll call votes on amendments in House
+- 2017-07-14 — Roll call votes on amendments in House
+- 2017-07-14 — Roll call votes on amendments in House
+- 2017-07-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2810.
+- 2017-07-14 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-07-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2810.
+- 2017-07-14 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-07-14 — The previous question was ordered pursuant to the rule.
+- 2017-07-14 — The title of the measure was amended. Agreed to without objection.
