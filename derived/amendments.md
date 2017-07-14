@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1422
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 4012a` | replace | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by striking “Sec. 102. (a)” and all that follows through the end of subsection (a) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4012a` | strike | by striking paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4012a` | redesignate | by redesignating paragraph (6) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | replace | by striking the subsection designation and all that follows through the end of paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4001` | replace | by striking paragraph (7) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4001` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
