@@ -30,7 +30,7 @@ This Act may be cited as the “Promoting Cross-Border Energy Infrastructure Act
     - **(B)** if a permit described in subsection (d) for the construction, connection, operation, or maintenance has been issued; or
     - **(C)** if an application for a permit described in subsection (d) for the construction, connection, operation, or maintenance is pending on the date of enactment of this Act, until the earlier of—
       - **(i)** the date on which such application is denied; or
-      - **(ii)** two years after the date of enactment of this Act, if such a permit has not been issued by such date of enactment.
+      - **(ii)** two years after the date of enactment of this Act, if such a permit has not been issued by such date.
   - **(4)** *Effect of other laws*
     - **(A)** *Application to projects* Nothing in this subsection or subsection (e) shall affect the application of any other Federal statute to a project for which a certificate of crossing for a border-crossing facility is requested under this subsection.
     - **(B)** *Natural Gas Act* Nothing in this subsection or subsection (e) shall affect the requirement to obtain approval or authorization under sections 3 and 7 of the Natural Gas Act for the siting, construction, or operation of any facility to import or export natural gas.
