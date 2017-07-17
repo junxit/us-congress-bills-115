@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2430
@@ -45,3 +45,5 @@ FDA Reauthorization Act of 2017
 - 2017-07-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2017-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5454-5477)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5454-5477)
+- 2017-07-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-07-17 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
