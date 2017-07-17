@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 76
@@ -31,8 +31,27 @@ Granting the consent and approval of Congress for the Commonwealth of Virginia, 
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2017-07-17 — [House 115-1-381](votes/house-115-1-0381.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–5)
+
 ## Actions
 
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on the Judiciary.
+- 2017-03-09 — Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.
+- 2017-06-14 — Committee Consideration and Mark-up Session Held.
+- 2017-06-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-06-14 — Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.
+- 2017-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-07-17 — Considered as unfinished business. (consideration: CR H5902-5903)
+- 2017-07-17 — Considered under suspension of the rules. (consideration: CR H5894-5900)
+- 2017-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 76.
+- 2017-07-17 — Mr. Goodlatte moved to suspend the rules and pass the resolution, as amended.
+- 2017-07-17 — On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 381). (text: CR H5894-5897)
+- 2017-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 381).(text: CR H5894-5897)
+- 2017-07-17 — Placed on the Union Calendar, Calendar No. 162.
+- 2017-07-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-227.
+- 2017-07-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-227.
+- 2017-07-17 — The title of the measure was amended. Agreed to without objection.
