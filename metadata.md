@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1351
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1351
@@ -29,3 +29,10 @@ Strengthening Oversight of TSA Employee Misconduct Act
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Introduced in House
 - 2017-03-02 — Referred to the House Committee on Homeland Security.
+- 2017-03-22 — Referred to the Subcommittee on Transportation and Protective Security.
+- 2017-05-03 — Committee Consideration and Mark-up Session Held.
+- 2017-05-03 — Ordered to be Reported by the Yeas and Nays: 14 - 10.
+- 2017-05-03 — Subcommittee on Transportation and Protective Security Discharged.
+- 2017-07-17 — Placed on the Union Calendar, Calendar No. 161.
+- 2017-07-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-226.
+- 2017-07-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-226.
