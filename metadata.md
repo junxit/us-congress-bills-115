@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2210
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2210
@@ -59,3 +59,10 @@ To designate the community living center of the Department of Veterans Affairs i
 - 2017-07-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379). (text: CR H5890)
 - 2017-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379).(text: CR H5890)
 - 2017-07-18 — Received in the Senate, read twice.
+- 2017-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4687)
+- 2017-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4687)
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-07 — Presented to President.
+- 2017-08-07 — Presented to President.
+- 2017-08-16 — Signed by President.
+- 2017-08-16 — Signed by President.
