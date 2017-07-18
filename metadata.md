@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3050
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3050
@@ -34,3 +34,9 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017
 - 2017-07-17 — Placed on the Union Calendar, Calendar No. 159.
 - 2017-07-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-224.
 - 2017-07-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-224.
+- 2017-07-18 — Considered under suspension of the rules. (consideration: CR H5938-5939)
+- 2017-07-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3050.
+- 2017-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-18 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
+- 2017-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5938)
+- 2017-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5938)
