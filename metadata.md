@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 92
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 92
@@ -26,9 +26,10 @@ Granting the consent and approval of Congress for the Commonwealth of Virginia, 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Granting the consent and approval of Congress for the Commonwealth of Virginia, 
 - 2017-07-17 — Placed on the House Calendar, Calendar No. 64.
 - 2017-07-17 — Reported by the Committee on Judiciary. H. Rept. 115-228.
 - 2017-07-17 — Reported by the Committee on Judiciary. H. Rept. 115-228.
+- 2017-07-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
