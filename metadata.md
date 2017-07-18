@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2210
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2210
@@ -54,3 +54,4 @@ To designate the community living center of the Department of Veterans Affairs i
 - 2017-07-17 — Mr. Dunn moved to suspend the rules and pass the bill.
 - 2017-07-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379). (text: CR H5890)
 - 2017-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379).(text: CR H5890)
+- 2017-07-18 — Received in the Senate, read twice.
