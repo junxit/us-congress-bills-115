@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 23
@@ -33,10 +33,11 @@ Gaining Responsibility on Water Act of 2017
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Denham, Jeff [R-CA-10] (D000612)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -112,3 +113,4 @@ Gaining Responsibility on Water Act of 2017
 - 2017-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-07-12 — The previous question was ordered pursuant to the rule.
 - 2017-07-12 — The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules.
+- 2017-07-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
