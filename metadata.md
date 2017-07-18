@@ -1,0 +1,31 @@
+---
+measure: H.R. 3277
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 3277
+
+To amend the Internal Revenue Code of 1986 to allow an above-the-line deduction for health insurance premiums.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+
+## Cosponsors (1)
+
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2017-07-18 — Introduced in House
+- 2017-07-18 — Introduced in House
+- 2017-07-18 — Referred to the House Committee on Ways and Means.
