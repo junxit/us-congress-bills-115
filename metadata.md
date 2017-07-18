@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2810
@@ -404,3 +404,4 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-07-14 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-07-14 — The previous question was ordered pursuant to the rule.
 - 2017-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2017-07-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
