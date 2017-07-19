@@ -69,3 +69,7 @@ This Act may be cited as the “Promoting Interagency Coordination for Review of
   - **(3)** The expected completion date for each such action.
   - **(4)** A point of contact at the agency responsible for each such action.
   - **(5)** In the event that an action is still pending as of the expected date of completion, a brief explanation of the reasons for the delay.
+
+## § 3. Pipeline security
+
+In considering an application for an authorization under section 3 of the Natural Gas Act or a certificate of public convenience and necessity under section 7 of such Act, the Federal Energy Regulatory Commission shall consult with the Administrator of the Transportation Security Administration regarding the applicant’s compliance with security guidance and best practice recommendations of the Administration regarding pipeline infrastructure security, pipeline cybersecurity, pipeline personnel security, and other pipeline security measures.
