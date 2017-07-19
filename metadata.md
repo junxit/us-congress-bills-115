@@ -1,7 +1,7 @@
 ---
 measure: H.R. 806
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 806
@@ -43,9 +43,10 @@ Ozone Standards Implementation Act of 2017
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -130,3 +131,4 @@ Ozone Standards Implementation Act of 2017
 - 2017-07-18 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-07-18 — The previous question was ordered pursuant to the rule.
 - 2017-07-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-07-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
