@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2786
@@ -20,9 +20,10 @@ To amend the Federal Power Act with respect to the criteria and process to quali
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ To amend the Federal Power Act with respect to the criteria and process to quali
 - 2017-07-18 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2017-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 384). (text: CR H5936)
 - 2017-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 384).(text: CR H5936)
+- 2017-07-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
