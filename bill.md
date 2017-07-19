@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3315
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3315
+
+> To amend section 9010 of the Patient Protection and Affordable Care Act to exclude limited scope vision insurance coverage from health insurance coverage subject to the health insurance provider annual fee.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Consumer Access to Vision Care Act of 2017”.
+
+## § 2. Excluding limited scope vision insurance coverage from health insurance subject to PPACA health insurance provider annual fee
+
+- **(a)** *In general* Section 9010(h)(3)(A) of the Patient Protection and Affordable Care Act (26 U.S.C. 4001 note) is amended by inserting “or any insurance coverage for vision benefits described in paragraph (2)(A) of such section” after “section 9832(c) of the Internal Revenue Code of 1986”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to calendar years beginning after December 31, 2017.
