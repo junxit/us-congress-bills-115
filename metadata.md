@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2828
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2828
@@ -16,9 +16,10 @@ To extend the deadline for commencement of construction of a hydroelectric proje
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To extend the deadline for commencement of construction of a hydroelectric proje
 - 2017-07-18 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2017-07-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5937)
 - 2017-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5937)
+- 2017-07-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
