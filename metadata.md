@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3050
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3050
@@ -20,9 +20,10 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017
 - 2017-07-18 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2017-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5938)
 - 2017-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5938)
+- 2017-07-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
