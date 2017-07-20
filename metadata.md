@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2910
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2910
@@ -25,9 +25,10 @@ Promoting Interagency Coordination for Review of Natural Gas Pipelines Act
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ Promoting Interagency Coordination for Review of Natural Gas Pipelines Act
 - 2017-07-19 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2017-07-19 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-07-19 — The previous question was ordered pursuant to the rule.
+- 2017-07-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
