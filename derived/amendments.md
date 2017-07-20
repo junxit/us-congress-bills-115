@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2825
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-685 amendatory instructions. 101 executed, 584 stated and not applied.
+794 amendatory instructions. 117 executed, 677 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -294,15 +294,6 @@ to guess them.
 | Removed | `Under Secretary` |
 | Inserted | `Administrator of the Transportation Security Administration` |
 
-### 49 U.S.C. § 44903
-
-> Section 117 of the Aviation and Transportation Security Act (49 U.S.C. 44903 note) is amended by striking “Secretary of Transportation” and inserting “Secretary of Homeland Security”.
-
-| | |
-|---|---|
-| Removed | `Secretary of Transportation` |
-| Inserted | `Secretary of Homeland Security` |
-
 ### 6 U.S.C. § 563
 
 > in the matter preceding paragraph (1), by striking “biennially” and inserting “annually”;
@@ -447,15 +438,6 @@ to guess them.
 | Removed | `target` |
 | Inserted | `core` |
 
-### 6 U.S.C. § 1102
-
-> in subsection (e), in the matter preceding paragraph (1), by striking “2007” and inserting “2017”.
-
-| | |
-|---|---|
-| Removed | `2007` |
-| Inserted | `2017` |
-
 ### 6 U.S.C. § 148
 
 > in paragraph (7), in the matter preceding subparagraph (A), by striking “information and recommendations” each place it appears and inserting “information, recommendations, and best practices”; and
@@ -503,12 +485,12 @@ to guess them.
 
 ### 6 U.S.C. § 113
 
-> in subparagraph (E), by striking “the Bureau of” and inserting “U.S.”; and
+> in subparagraph (E), by striking “the Bureau of” and inserting “United States”; and
 
 | | |
 |---|---|
 | Removed | `the Bureau of` |
-| Inserted | `U.S.` |
+| Inserted | `United States` |
 
 ### 6 U.S.C. § 113
 
@@ -564,114 +546,6 @@ to guess them.
 | Removed | `section 428` |
 | Inserted | `section 426` |
 
-### 6 U.S.C. § 252
-
-> in the section heading, by striking “Bureau of Border Security” and inserting “U.S. Immigration and Customs Enforcement”;
-
-| | |
-|---|---|
-| Removed | `Bureau of Border Security` |
-| Inserted | `U.S. Immigration and Customs Enforcement` |
-
-### 6 U.S.C. § 252
-
-> by striking “the Bureau of Border Security” each place it appears and inserting “U.S. Immigration and Customs Enforcement”;
-
-| | |
-|---|---|
-| Removed | `the Bureau of Border Security` |
-| Inserted | `U.S. Immigration and Customs Enforcement` |
-
-### 6 U.S.C. § 252
-
-> by striking “Under Secretary for Border and Transportation Security” each place it appears and inserting “Secretary”;
-
-| | |
-|---|---|
-| Removed | `Under Secretary for Border and Transportation Security` |
-| Inserted | `Secretary` |
-
-### 6 U.S.C. § 252
-
-> by striking “Assistant Secretary” each place it appears and inserting “Director”;
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary` |
-| Inserted | `Director` |
-
-### 6 U.S.C. § 252
-
-> by striking “the Bureau of Citizenship and Immigration Services” both places it appears and inserting “United States Citizenship and Immigration Services”;
-
-| | |
-|---|---|
-| Removed | `the Bureau of Citizenship and Immigration Services` |
-| Inserted | `United States Citizenship and Immigration Services` |
-
-### 6 U.S.C. § 252
-
-> in paragraph (1) by striking “a bureau to be known as the Bureau of Border Security” and inserting “U.S. Immigration and Customs Enforcement”; and
-
-| | |
-|---|---|
-| Removed | `a bureau to be known as the Bureau of Border Security` |
-| Inserted | `U.S. Immigration and Customs Enforcement` |
-
-### 6 U.S.C. § 271
-
-> in the section heading, by striking “Bureau of” and inserting “United States”;
-
-| | |
-|---|---|
-| Removed | `Bureau of` |
-| Inserted | `United States` |
-
-### 6 U.S.C. § 271
-
-> by striking “the Bureau of Citizenship and Immigration Services” each place it appears and inserting “United States Citizenship and Immigration Services”;
-
-| | |
-|---|---|
-| Removed | `the Bureau of Citizenship and Immigration Services` |
-| Inserted | `United States Citizenship and Immigration Services` |
-
-### 6 U.S.C. § 271
-
-> by striking “the Bureau of Border Security” each place it appears and inserting “U.S. Immigration and Customs Enforcement”;
-
-| | |
-|---|---|
-| Removed | `the Bureau of Border Security` |
-| Inserted | `U.S. Immigration and Customs Enforcement` |
-
-### 6 U.S.C. § 271
-
-> in paragraph (1), by striking “a bureau to be known as the Bureau of Citizenship and Immigration Services” and inserting “the United States Citizenship and Immigration Services”; and
-
-| | |
-|---|---|
-| Removed | `a bureau to be known as the Bureau of Citizenship and Immigration Services` |
-| Inserted | `the United States Citizenship and Immigration Services` |
-
-### 6 U.S.C. § 271
-
-> in paragraph (2)(C), by striking “Assistant Secretary” and inserting “Director”; and
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary` |
-| Inserted | `Director` |
-
-### 6 U.S.C. § 271
-
-> in subsection (c)(2), in the matter preceding subparagraph (A), by striking “Bureau of Citizenship and Immigration Services” and inserting “United States Citizenship and Immigration Services”.
-
-| | |
-|---|---|
-| Removed | `Bureau of Citizenship and Immigration Services` |
-| Inserted | `United States Citizenship and Immigration Services` |
-
 ### 6 U.S.C. § 272
 
 > by striking “the Bureau of” each place it appears and inserting “United States”; and
@@ -688,33 +562,6 @@ to guess them.
 | | |
 |---|---|
 | Removed | `Bureau of` |
-| Inserted | `United States` |
-
-### 6 U.S.C. § 273
-
-> by striking “the Bureau of” each place it appears and inserting “United States”; and
-
-| | |
-|---|---|
-| Removed | `the Bureau of` |
-| Inserted | `United States` |
-
-### 6 U.S.C. § 273
-
-> in subsection (a)(2), by striking “such bureau” and inserting “United States Citizenship and Immigration Services”.
-
-| | |
-|---|---|
-| Removed | `such bureau` |
-| Inserted | `United States Citizenship and Immigration Services` |
-
-### 6 U.S.C. § 274
-
-> by striking “the Bureau of” each place it appears and inserting “United States”; and
-
-| | |
-|---|---|
-| Removed | `the Bureau of` |
 | Inserted | `United States` |
 
 ### 6 U.S.C. § 201
@@ -734,24 +581,6 @@ to guess them.
 |---|---|
 | Removed | `Assistant Secretary of the Bureau of Border Security` |
 | Inserted | `Director of U.S. Immigration and Customs Enforcement` |
-
-### 6 U.S.C. § 291
-
-> by striking “Bureau of Border Security or the Bureau of” and inserting “U.S. Immigration and Customs Enforcement and United States”; and
-
-| | |
-|---|---|
-| Removed | `Bureau of Border Security or the Bureau of` |
-| Inserted | `U.S. Immigration and Customs Enforcement and United States` |
-
-### 6 U.S.C. § 291
-
-> by striking “two bureaus” each place it appears and inserting “two components”.
-
-| | |
-|---|---|
-| Removed | `two bureaus` |
-| Inserted | `two components` |
 
 ### 6 U.S.C. § 201
 
@@ -933,6 +762,321 @@ to guess them.
 | Removed | `Hawaiian native-serving` |
 | Inserted | `Native Hawaiian-serving` |
 
+### 6 U.S.C. § 271
+
+> Section 8I(e) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “the Bureau of Border Security,” and inserting “United States Immigration and Customs Enforcement,”.
+
+| | |
+|---|---|
+| Removed | `the Bureau of Border Security,` |
+| Inserted | `United States Immigration and Customs Enforcement,` |
+
+### 6 U.S.C. § 271
+
+> in subtitle E, in subsection (a)(2)(C) of section 451 (6 U.S.C. 271), by striking “at the same level as the Assistant Secretary of the Bureau of Border Security” and inserting “in accordance with section 5314 of title 5, United States Code”; and
+
+| | |
+|---|---|
+| Removed | `at the same level as the Assistant Secretary of the Bureau of Border Security` |
+| Inserted | `in accordance with section 5314 of title 5, United States Code` |
+
+### 6 U.S.C. § 271
+
+> Section 5314 of title 5, United States Code, is amended by striking “Director of the Bureau of Citizenship and Immigration Services” and inserting “Director of United States Citizenship and Immigration Services, Department of Homeland Security”.
+
+| | |
+|---|---|
+| Removed | `Director of the Bureau of Citizenship and Immigration Services` |
+| Inserted | `Director of United States Citizenship and Immigration Services, Department of Homeland Security` |
+
+### 18 U.S.C. § 3056
+
+> in section 3(b), by striking “any expenditures by the Secret Service” and all that follows through “imposed under section 4” and inserting “any expenditures by the Secret Service for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) are subject to the requirements set forth in section 4”; and
+
+| | |
+|---|---|
+| Removed | `any expenditures by the Secret Service” and all that follows through “imposed under section 4` |
+| Inserted | `any expenditures by the Secret Service for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) are subject to the requirements set forth in section 4` |
+
+### 33 U.S.C. § 1226
+
+> is amended by striking “this Act” and inserting “this chapter”.
+
+| | |
+|---|---|
+| Removed | `this Act` |
+| Inserted | `this chapter` |
+
+### 50 U.S.C. § 191
+
+> by striking “this title” and inserting “this subchapter”; and
+
+| | |
+|---|---|
+| Removed | `this title` |
+| Inserted | `this subchapter` |
+
+### 50 U.S.C. § 192
+
+> by striking “this title” each place it appears and inserting “this subchapter”; and
+
+| | |
+|---|---|
+| Removed | `this title` |
+| Inserted | `this subchapter` |
+
+### 50 U.S.C. § 194
+
+> by striking “the purpose of this title” and inserting “this subchapter”; and
+
+| | |
+|---|---|
+| Removed | `the purpose of this title` |
+| Inserted | `this subchapter` |
+
+### 33 U.S.C. § 2712
+
+> in subsection (l)(1), by striking “Within one year after the date of enactment of the Coast Guard Authorization Act of 2010, and annually thereafter,” and inserting “Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31, United States Code,”; and
+
+| | |
+|---|---|
+| Removed | `Within one year after the date of enactment of the Coast Guard Authorization Act of 2010, and annually thereafter,` |
+| Inserted | `Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31, United States Code,` |
+
+### 6 U.S.C. § 811
+
+> by striking “administration and operations” each place it appears and inserting “management and administration”;
+
+| | |
+|---|---|
+| Removed | `administration and operations` |
+| Inserted | `management and administration` |
+
+### 6 U.S.C. § 311
+
+> by striking “National Response Plan” each place it appears and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 311
+
+> by striking “502(a)(6)” and inserting “504(a)(6)”;
+
+| | |
+|---|---|
+| Removed | `502(a)(6)` |
+| Inserted | `504(a)(6)` |
+
+### 6 U.S.C. § 314
+
+> in paragraph (3) by striking “, including—” and inserting “(that includes incidents impacting critical infrastructure), including—”;
+
+| | |
+|---|---|
+| Removed | `, including—` |
+| Inserted | `(that includes incidents impacting critical infrastructure), including—` |
+
+### 6 U.S.C. § 314
+
+> in paragraph (5) by striking “and local” and inserting “local, and Tribal”;
+
+| | |
+|---|---|
+| Removed | `and local` |
+| Inserted | `local, and Tribal` |
+
+### 6 U.S.C. § 314
+
+> in paragraph (6) by striking “national response plan” and inserting “national response framework, which shall be reviewed and updated as required but not less than every 5 years”;
+
+| | |
+|---|---|
+| Removed | `national response plan` |
+| Inserted | `national response framework, which shall be reviewed and updated as required but not less than every 5 years` |
+
+### 6 U.S.C. § 314
+
+> in paragraph (14), as redesignated, by striking “National Response Plan” each place it appears and inserting “National Response Framework”;
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 317
+
+> in paragraph (2)(E), by striking “National Response Plan” and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 317
+
+> in paragraph (3)(A), by striking “National Response Plan” and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 317
+
+> in subsection (f)(1)(G), by striking “National Response Plan” and inserting “National Response Framework”;
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 318
+
+> in subsection (b)(1), by striking “National Response Plan” and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 318
+
+> in subsection (d)(2)(A), by striking “The Deputy Administrator, Protection and National Preparedness” and inserting “A Deputy Administrator”;
+
+| | |
+|---|---|
+| Removed | `The Deputy Administrator, Protection and National Preparedness` |
+| Inserted | `A Deputy Administrator` |
+
+### 6 U.S.C. § 319
+
+> by striking “National Response Plan” and inserting “National Response Framework, National Protection Framework, National Prevention Framework, National Mitigation Framework, National Recovery Framework”;
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework, National Protection Framework, National Prevention Framework, National Mitigation Framework, National Recovery Framework` |
+
+### 6 U.S.C. § 319
+
+> by striking “successor” and inserting “successors”; and
+
+| | |
+|---|---|
+| Removed | `successor` |
+| Inserted | `successors` |
+
+### 6 U.S.C. § 319
+
+> by striking “plan” at the end of that paragraph and inserting “framework”; and
+
+| | |
+|---|---|
+| Removed | `plan` |
+| Inserted | `framework` |
+
+### 6 U.S.C. § 319
+
+> in paragraph (2), by striking “National Response Plan” each place it appears and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 319
+
+> by striking “National Response Plan” in the header and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 319
+
+> by striking “National Response Plan” in the text and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 319
+
+> in subparagraph (B), by striking “National Response Plan” and inserting “National Response Framework”;
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 320
+
+> in subsection (a), by striking “enter into a memorandum of understanding” and inserting “partner”;
+
+| | |
+|---|---|
+| Removed | `enter into a memorandum of understanding` |
+| Inserted | `partner` |
+
+### 6 U.S.C. § 320
+
+> in subsection (b)(1)(A), by striking “National Response Plan” and inserting “National Response Framework”; and
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 320
+
+> in subsection (c), by striking “National Response Plan” and inserting “National Response Framework”;
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
+### 6 U.S.C. § 321d
+
+> in section 515(c)(1) (6 U.S.C. 321d(c)(1)), by striking “and local” each place it appears and inserting “, local, and Tribal”;
+
+| | |
+|---|---|
+| Removed | `and local` |
+| Inserted | `, local, and Tribal` |
+
+### 6 U.S.C. § 321n
+
+> in section 525(a) (6 U.S.C. 321n), by striking “Secretary” and inserting “Administrator”.
+
+| | |
+|---|---|
+| Removed | `Secretary` |
+| Inserted | `Administrator` |
+
+### 6 U.S.C. § 701
+
+> Section 602(13) of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 701(13)) is amended by striking “502(a)(6)” and inserting “504(a)(6)”.
+
+| | |
+|---|---|
+| Removed | `502(a)(6)` |
+| Inserted | `504(a)(6)` |
+
+### 6 U.S.C. § 701
+
+> Chapter 1 of subtitle C of title VI of the Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295) is amended by striking “National Response Plan” each place it appears and inserting “National Response Framework”.
+
+| | |
+|---|---|
+| Removed | `National Response Plan` |
+| Inserted | `National Response Framework` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -985,23 +1129,25 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 347` | insert | by inserting after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | insert | by inserting after subsection (c) the following new subsection (d): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 349` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 349` | redesignate | by redesignating subsections (e) through (g) as subsections (f) through (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 349` | insert | by inserting after subsection (d) the following new subsection (e): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 459` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 459` | redesignate | by redesignating subsections (e) through (g) as subsections (f) through (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 459` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 459` | strike | The Homeland Security Act of 2002 is amended by striking section 879 (6 U.S.C. 459). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 459` | strike | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 879. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 631` | strike | The Homeland Security Act of 2002 is amended by striking section 801 (6 U.S.C. 631). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 631` | strike | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 801. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 112` | strike | Section 102 of the Homeland Security Act of 2002 (6 U.S.C. 112) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 113` | insert | in the subsection heading, by inserting “; Assistant Secretaries” after “Under Secretaries”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 113` | redesignate | in paragraph (1), by striking subparagraph (I) and redesignating subparagraphs (J) and (K) as subparagraphs (I) and (J), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 113` | insert | in the subsection heading, by inserting “; Assistant Secretaries and other Officers” after “Under Secretaries”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 113` | amend | in paragraph (1), by amending subparagraph (I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 112` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 112` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 112` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 709 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 631` | strike | The Homeland Security Act of 2002 is amended by striking section 801 (6 U.S.C. 631). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 631` | strike | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 801. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 112` | strike | Section 102 of the Homeland Security Act of 2002 (6 U.S.C. 112) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | redesignate | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 708 (as redesignated pursuant to section 1705(o) of this Act) the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 709 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is further amended by inserting after the item relating to section 710, as added by this Act, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of such Act is further amended by inserting after the item relating to section 710, as added by this Act, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 345` | strike | in the section heading, by striking “Establishment of officer for”; | the bill quotes the text struck but describes what replaces it |
@@ -1040,10 +1186,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 344` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item related to section 713, as added by this Act, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.), as amended by section 122 of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended this Act, is further amended by inserting after the item relating to section 714 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of such Act is further amended by inserting after the item relating to section 527 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Title VII of the Homeland Security Act of 2002 is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b) of such Act is further amended by inserting after the item relating to section 715, as added by this Act, the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Subtitle D of title VIII of the Homeland Security Act of 2002 is amended by inserting before section 831 the following new section: | the bill names no machine-readable US Code section |
@@ -1052,8 +1196,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 341` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 342` | add-at-end | Paragraph (2) of section 702(b) of the Homeland Security Act of 2002 (6 U.S.C. 342(b)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 343` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 343` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 343` | add-at-end | Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343), as amended by this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is further amended by inserting after the item relating to section 716, as added by this Act, the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1073,12 +1216,12 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 210F the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | add-at-end | Paragraph (1) of section 201(e) of the Homeland Security Act of 2002 (6 U.S.C. 121(e)) is amended by adding at the end the following new sentence: “The Secretary shall also provide the Chief Intelligence Officer with a staff having appro… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.), as amended by section 301 of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | add-at-end | Subsection (d) of section 201 of the Homeland Security Act of 2002 (6 U.S.C. 121) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | insert | The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 210G, as added by this Act, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 111` | add-at-end | Title I of the Homeland Security Act of 2002 (6 U.S.C. 111 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 111` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 103 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.), as amended by sections 301 and 303 of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 210H, as added by this Act, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | insert | by inserting before section 701 (6 U.S.C. 341) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1090,12 +1233,16 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 124h` | replace | by striking so much as precedes paragraph (3)(B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124h` | insert | in paragraph (4)(B), in the matter preceding clause (i), by inserting “in which such fusion center is located” after “region”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 124h` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 124h` | redesignate | by redesignating paragraph (4) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124h` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 124h` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124h` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 124h` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | redesignate | by redesignating paragraph (5) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | redesignate | by redesignating paragraphs (1) through (4) as paragraphs (2) through (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | insert | by inserting before paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | redesignate | in paragraph (5), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 124h` | insert | by inserting after such paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124h` | strike | by striking subsection (k). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124h` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the item relating to section 210A and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 607` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1117,8 +1264,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 231` | add-at-end | Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 231` | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding after the item relating to section 433 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Sections 70107A and 70116 of title 46, United States Code, are repealed. | the bill names no machine-readable US Code section |
-| `6 U.S.C. § 231` | add-at-end | Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.), as amended by section 405 of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 231` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by section 405 of this Act, is further amended by inserting after the item relating to section 434 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 231` | add-at-end | Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 231` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 434 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 921` | strike | By striking section 105. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 921` | redesignate | By redesignating sections 106 and 107 as sections 105 and 106, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 921` | strike | By striking section 108. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1170,7 +1317,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d), by striking “Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation” each place it appears and inserting “the Committee on Commerce, Science, and Transpor… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Under Secretary of Transportation for Security” and inserting “Administrator of the Transportation Security Administration”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “Under Secretary” and inserting “Administrator of the Transportation Security Administration”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1), by striking “Secretary of Transportation” and inserting “Secretary of Homeland Security”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), by inserting “the Secretary of Homeland Security,” before “the Secretary of Transportation”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2)(C), by striking “Secretary of Transportation” and inserting “Secretary of Homeland Security”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), in the matter preceding paragraph (1), by striking “Secretary of Transportation” and inserting “Secretary of Homeland Security”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), in the heading, by striking “Under Secretary” and inserting “Administrator”; and | the bill names no machine-readable US Code section |
@@ -1309,6 +1456,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 44901` | strike | by striking subsection (g) (49 U.S.C. 44901 note). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 114` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5313` | strike | Section 110 of the Aviation and Transportation Security Act is amended by striking subsections (c) and (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44903` | insert | Section 117 of the Aviation and Transportation Security Act (49 U.S.C. 44903 note) is amended by inserting “the Secretary of Homeland Security in consultation with” before “the Secretary of Transportation”. | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 5313` | repeal | Section 132 of the Aviation and Transportation Security Act is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5313` | repeal | Section 135 of the Aviation and Transportation Security Act is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44912` | repeal | Section 137 of the Aviation and Transportation Security Act (49 U.S.C. 44912 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1321,9 +1469,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 561` | insert | The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 1616 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 44901 of title 49, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (B) of section 44907(a)(2) of title 49, United States Code, is amended by inserting “, including the screening and vetting of airport workers” before the semicolon at the end. | the bill names no machine-readable US Code section |
-| — | replace | in subsections (a) through (d), by striking “Secretary of Transportation” each place it appears and inserting “Secretary of Homeland Security”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “and 40106(b) of this title, the Secretary of Transportation, with the approval of the Secretary of State and without notice or a hearing, shall” and inserting “40106(b), and 41307 of this title, at the request of the Secreta… | the bill names no machine-readable US Code section |
-| — | replace | by striking “when the Secretary of Transportation decides” and inserting “when the Secretary of Homeland Security decides”. | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 44903` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44903` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44903` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1354,7 +1499,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 5103a(d) of title 49, United States Code, is amended, in the matter preceding subparagraph (A), by striking “described in subsection (a)(1)” and inserting “under subsection (a)(1)(A)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 70105 of title 46, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| `6 U.S.C. § 1204` | strike | Section 1554 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1204) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 604` | insert | in subsection (b)(2)(A), in the matter preceding clause (i), by inserting “, using the most up-to-date data available,” after “assessment”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 604` | amend | in subsection (d)(2), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 604` | replace | by striking subsection (e) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1379,24 +1523,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1135` | insert | in subsection (b)(2)(A), by inserting “and associated backfill” after “security training”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1135` | replace | by striking subsection (m) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
-| `6 U.S.C. § 1102` | insert | in subsection (c), by inserting “to the extent practicable, provide training in settings that stimulate real response environments, such as urban areas,” after “levels,”.; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 1102` | amend | in subsection (d), by amending paragraphs (1) and (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 314` | insert | Paragraph (13) of section 504(a) of the Homeland Security Act of 2002 (6 U.S.C. 314(a)) is amended by inserting “, periodically updating (but not less often than once every five years),” after “administering”. | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 753` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 753` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 319` | insert | Paragraph (2) of section 509(b) of the Homeland Security Act of 2002 (6 U.S.C. 319(b)) is amended, in the matter preceding subparagraph (A), by inserting “, but not less often than once every five years,” after “periodically”. | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 750` | amend | Section 650 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 750; title VI of the Department of Homeland Security Appropriations Act, 2007; Public Law 109–295) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | insert | in paragraph (10), by inserting before the semicolon at the end the following: “, including, in coordination with the national cybersecurity and communications integration center under section 227, access to timely technical assistance, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | strike | in paragraph (11), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 124h` | redesignate | by redesignating paragraph (12) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | insert | by inserting after paragraph (11) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | redesignate | by redesignating subparagraphs (C) through (G) as subparagraphs (D) through (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 124h` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | redesignate | by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 124h` | redesignate | by inserting before paragraph (2), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 148` | insert | in paragraph (5)(B), by inserting “, including State, local, and regional fusion centers, as appropriate” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 148` | insert | in paragraph (9), by inserting “best practices,” after “defensive measures,”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 148` | insert | in subsection (d)(1)(B)(ii), by inserting “and State, local, and regional fusion centers, as appropriate” before the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
@@ -1406,11 +1532,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 601` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 2009 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 601` | add-at-end | Subtitle A of title XX of the Homeland Security Act of 2002 (6 U.S.C. 601 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 601` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2008 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 528 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 313` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 313` | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 313` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | redesignate | by redesignating paragraphs (4) through (15) as paragraphs (3) through (14), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | redesignate | in paragraph (8), as so redesignated, by striking “, in cooperation with the National Communications System,”; | the bill quotes the text struck but describes what replaces it |
@@ -1430,11 +1551,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 321e` | replace | in paragraph (7), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321e` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321e` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 529 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Subsection (c) of section 10102 of title 5, United States Code, is amended by striking “2007” and inserting “2018”. | the bill names no machine-readable US Code section |
-| `6 U.S.C. § 321b` | amend | Section 513 of the Homeland Security Act of 2002 (6 U.S.C. 321b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 321b` | replace | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 513 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding after the item relating to section 527 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 113` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124l` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124l` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1455,23 +1573,16 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 240` | redesignate | By redesignating section 432 (6 U.S.C. 240) as section 429. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 241` | redesignate | By redesignating section 433 (6 U.S.C. 241) as section 430. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 201` | amend | By amending the subtitle D heading to read as follows: “U.S. Immigration and Customs Enforcement”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 252` | strike | in the subsection heading, by striking “of Bureau”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 252` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 255` | strike | By striking section 445 (6 U.S.C. 255). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 256` | strike | By striking section 446 (6 U.S.C. 256). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 201` | insert | In the subtitle E heading, by inserting “United States” before “Citizenship and Immigration Services”. | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 271` | strike | in the subsection heading, by striking “of Bureau”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 271` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 274` | strike | by striking “pursuant to policies and procedures applicable to employees of the Federal Bureau of Investigation,”. | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 273` | strike | By striking section 453 (6 U.S.C. 273). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 271` | strike | By striking section 455 (6 U.S.C. 271 note). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 275` | strike | By striking section 456 (6 U.S.C. 275). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 276` | strike | By striking section 459 (6 U.S.C. 276). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 277` | strike | By striking section 460 (6 U.S.C. 277). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 278` | strike | By striking section 461 (6 U.S.C. 278). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 279` | redesignate | By redesignating section 462 (6 U.S.C. 279) as section 455. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 291` | replace | by striking the section heading and inserting “Reorganization and prohibition”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 291` | strike | by striking subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 291` | strike | by striking “(b) Prohibition.—”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 292` | strike | By striking section 472 (6 U.S.C. 292). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 293` | strike | By striking section 473 (6 U.S.C. 293). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 294` | strike | By striking section 474 (6 U.S.C. 294). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1486,11 +1597,10 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 311` | insert | by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 312` | strike | By striking section 502 (6 U.S.C. 312). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 314` | strike | In section 504(a)(3)(B) (6 U.S.C. 314(a)(3)(B)), by striking “, the National Disaster Medical System,”. | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 321m` | strike | By striking section 524 (6 U.S.C. 321m). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 346` | strike | By striking section 706 (6 U.S.C. 346). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 347` | redesignate | By redesignating section 707 (6 U.S.C. 347) as section 706. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | redesignate | By redesignating section 708 as section 707. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 341` | redesignate | By redesignating section 709 as section 708. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | redesignate | By redesignating section 709 (relating to the Office of Strategy, Policy, and Plans) as section 708. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 361` | redesignate | By redesignating section 812 as section 811. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 361` | strike | by striking subsections (a) and (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 361` | strike | by striking “(as added by subsection (a) of this section)” each place it appears; | the bill quotes the text struck but describes what replaces it |
@@ -1515,7 +1625,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 101` | amend | By amending the item relating to subtitle E of title IV to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | amend | By amending the item relating to section 451 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | By striking the items relating to sections 455, 456, 459, 460, and 461 and inserting before the item relating to section 457 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | amend | By amending the item relating to section 471 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | By striking the items relating to sections 472 through 478 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | strike | By striking the item relating to section 502. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | strike | By striking the item relating to section 524. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1526,3 +1635,131 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 101` | strike | By striking the item relating to section 881. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | By striking the items relating to sections 893 and 894 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | replace | By striking the items relating to sections 1502 and 1503 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 252` | amend | Section 442 of the Homeland Security Act of 2002 (6 U.S.C. 252) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 252` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the item relating to section 442 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 252` | insert | Section 1344(b)(6) of title 31, United States Code, is amended by inserting “the Director of U.S. Immigration and Customs Enforcement, the Commissioner of U.S. Customs and Border Protection,” after “the Administrator of the Drug Enforcem… | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 271` | insert | Section 5314 of title 5, United States Code, is amended by inserting after “Director of the Bureau of Citizenship and Immigration Services.” the following new item: “Director of U.S. Immigration and Customs Enforcement.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | insert | Paragraph (2) of section 802(d) of the Trade Facilitation and Trade Enforcement Act of 2015 (Public Law 114–125) is amended by inserting before the period at the end of the following: “or the Director of U.S. Immigration and Customs Enfo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | redesignate | in subsection (e) of section 426 (as redesignated in section 1705 of this Act), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 252` | replace | The table of contents in section 1(b) of such Act is amended by striking the item relating to subtitle D of title IV and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | amend | Section 451 of the Homeland Security Act of 2002 (6 U.S.C. 271) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | amend | Section 454 of the Homeland Security Act of 2002 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | amend | Section 471 of the Homeland Security Act of 2002 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 271` | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by amending the item relating to section 471 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 3056 of title 18, United States Code, is amended by adding at the end: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (4), by inserting “or” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “section 3056(a)(6);” and inserting “paragraph (6) or (8) of section 3056(a); or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3056` | replace | The Presidential Protection Assistance Act of 1976 (18 U.S.C. 3056 note) is amended by striking section 4 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3056` | strike | in section 5(c), by striking “within the limitations imposed under section 4”. | the bill quotes the text struck but describes what replaces it |
+| — | add-at-end | Section 592 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “fiscal years 2016 and 2017” and inserting “fiscal years 2018 and 2019”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “for each of fiscal years 2016 and 2017” and inserting “for fiscal year 2018 and an end-of-year strength for such personnel of 44,500 for fiscal year 2019”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “fiscal years 2016 and 2017” and inserting “fiscal years 2018 and 2019”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 7 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The analysis for chapter 7 of such title is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 256(a) of title 14, United States Code, is amended by striking “six-tenths.” and inserting “one-half.”. | the bill names no machine-readable US Code section |
+| — | insert | Section 373(a) of title 14, United States Code, is amended by inserting “designated under section 371” after “cadet”. | the bill names no machine-readable US Code section |
+| — | repeal | Section 482 of title 14, United States Code, and the item relating to that section in the analysis for chapter 13 of that title, are repealed. | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 40101` | add-at-end | Chapter 3 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | repeal | Subsection (c) of section 564 of title 14, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the text the following: “(a) In general.—”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), as designated by the amendment made by paragraph (1) of this section, by striking the period at the end of the last sentence and inserting “or in accordance with subsection (b).”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “(A) In general.—”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and shall maintain such cutter in class” before the period at the end. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 3 of title 14, United States Code, as amended by section 206 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `14 U.S.C. § 577` | add-at-end | Subchapter II of chapter 15 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 577` | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end of the items relating to such subchapter the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 577` | repeal | The following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 573` | repeal | Section 221(b) of the Coast Guard and Maritime Transportation Act of 2012 (14 U.S.C. 573 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 573` | repeal | Section 204(c)(1) of the Coast Guard Authorization Act of 2016 (130 Stat. 35) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | strike | by striking “(1) In general.—”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), as so redesignated, by striking “subparagraph (A)” and inserting “paragraph (1)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), in the text preceding paragraph (1), by striking “sections 3304, 5333, and 5753” and inserting “section 3304”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “2017.” and inserting “2021.”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 403` | insert | Subtitle VII of title 46, United States Code, is amended by inserting before chapter 701 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 403` | insert | The analysis at the beginning of such subtitle is amended by inserting before the item relating to chapter 701 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1223a` | replace | is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1223a` | add-at-end | The analysis at the beginning of chapter 31 of such title is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1226` | add-at-end | Section 70116 of title 46, United States Code, as amended by paragraph (1) of this subsection, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1226` | replace | The analysis at the beginning of chapter 701 of such title is amended by striking the item relating to section 70116 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1223a` | repeal | Section 2307 of title 46, United States Code, and the item relating to that section in the analysis at the beginning of chapter 23 of that title, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1221` | repeal | The Ports and Waterways Safety Act (33 U.S.C. 1221–1231, 1232–1232b), as amended by this Act, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 18 of the Coast Guard Authorization Act of 1991 (Public Law 102–241; 105 Stat. 2213) is repealed. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 1233` | add-at-end | Chapter 700 of title 46, United States Code, as established by section 5301 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1233` | add-at-end | The analysis for chapter 700 of title 46, United States Code, as established by section 5301 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1233` | repeal | The Act of April 28, 1908 (35 Stat. 69, chapter 151; 33 U.S.C. 1233 et seq.), is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 191` | add-at-end | Chapter 700 of title 46, United States Code, as established by section 5301 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 191` | replace | by striking the section designation and all that follows before “by proclamation” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 191` | strike | by striking “of the Treasury”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 191` | strike | by striking “of the department in which the Coast Guard is operating”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 192` | replace | by striking the section designation and all that follows before “agent,” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 194` | replace | by striking all before “may employ” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 191` | add-at-end | The analysis for chapter 700 of title 46, United States Code, as established by section 5301 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a), by striking “an official” and inserting “a”; and | the bill names no machine-readable US Code section |
+| — | amend | in subsection (b), by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 11304(b) is amended by striking “log book” and inserting “logbook”. | the bill names no machine-readable US Code section |
+| — | replace | in section 7106(b), by striking “merchant mariner’s document,” and inserting “license,”; | the bill names no machine-readable US Code section |
+| — | replace | in section 7107(b), by striking “merchant mariner’s document,” and inserting “certificate of registry,”; | the bill names no machine-readable US Code section |
+| — | replace | in section 7507(b)(1), by striking “licenses or certificates of registry” and inserting “merchant mariner documents”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 7507(b)(2) by striking “merchant mariner’s document.” and inserting “license or certificate of registry.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall” and inserting “may”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “of” after “barge”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 499` | add-at-end | Section 5 of the Act entitled “An Act making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors, and for other purposes”, approved August 18, 1894 (33 U.S.C. 499), is amended by ad… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 4503(d) of title 46, United States Code, is amended by striking so much as precedes paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 4502(b) of title 46, United States Code, is amended by inserting “and subject to section 4503(d),” after “In addition to the requirements of subsection (a) of this section,”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 1958` | strike | by striking the em-dash and all that follows through “(1)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1958` | replace | by striking “; and” and all that follows through the end of the section and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1958` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 12114 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle VIII of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for subtitle VIII of title 46, United States Code, is amended by adding after the item relating to chapter 805 the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 468` | repeal | Subsection (h) of section 888 of the Homeland Security Act of 2002 (6 U.S.C. 468) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 604(b) of the Howard Coble Coast Guard and Maritime Transportation Act of 2014 (Public Law 113–281; 128 Stat. 3061) is amended by inserting “and fishery endorsement” after “endorsement”. | the bill names no machine-readable US Code section |
+| — | repeal | Effective January 1, 2021, section 27 of the Coast Guard Authorization Act of 1991 (Public Law 102–241; 105 Stat. 2218) is repealed. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2712` | repeal | by repealing subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2712` | amend | by amending subsection (l)(2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 811` | strike | in paragraph (2), by striking “; and”; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 811` | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 811` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1102` | insert | in subsection (c), by inserting “to the extent practicable, provide training in settings that simulate real response environments, such as urban areas,” after “levels,”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1102` | replace | in subsection (d), by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1102` | strike | in subsection (e) by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of such Act is further amended by inserting after the item relating to section 528 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 314` | insert | Paragraph (13) of section 504(a) of the Homeland Security Act of 2002 (6 U.S.C. 314(a)) is amended by inserting “, periodically updating (but not less often than once every five years),” after “administering”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 753` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 753` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 319` | insert | Paragraph (2) of section 509(b) of the Homeland Security Act of 2002 (6 U.S.C. 319(b)) is amended, in the matter preceding subparagraph (A), by inserting “, but not less often than once every five years,” after “periodically”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 750` | amend | Section 650 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 750; title VI of the Department of Homeland Security Appropriations Act, 2007; Public Law 109–295) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), as amended by this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by this Act, is further amended by inserting after the item relating to section 529 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 313` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 313` | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 313` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (c) of section 10102 of title 5, United States Code, is amended by striking “2007” and inserting “2018”. | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 321b` | amend | Section 513 of the Homeland Security Act of 2002 (6 U.S.C. 321b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 321b` | replace | The table of contents in section 1(b) of such Act is amended by striking the item relating to section 513 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 313` | insert | in section 503(b)(2)(A) (6 U.S.C. 313) by inserting “and incidents impacting critical infrastructure” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 314` | insert | in paragraph (4) by inserting “, including incidents impacting critical infrastructure” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 314` | redesignate | by redesignating paragraphs (7) through (21) as paragraphs (8) through (22), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 314` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 321m` | strike | by striking section 524 (6 U.S.C. 321m); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

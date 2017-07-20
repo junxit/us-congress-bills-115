@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2825
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2825
@@ -30,9 +30,14 @@ DHS Authorization Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2017-07-20 — [House 115-1-403](votes/house-115-1-0403.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (386–41)
 
 ## Actions
 
@@ -44,3 +49,12 @@ DHS Authorization Act
 - 2017-06-28 — Placed on the Union Calendar, Calendar No. 135.
 - 2017-06-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-198.
 - 2017-06-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-198.
+- 2017-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-07-20 — Considered as unfinished business. (consideration: CR H6128)
+- 2017-07-20 — Considered under suspension of the rules. (consideration: CR H6047-6120)
+- 2017-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2825.
+- 2017-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-20 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2017-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403). (text: CR H6047-6109)
+- 2017-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403).(text: CR H6047-6109)
+- 2017-07-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
