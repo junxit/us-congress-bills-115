@@ -72,4 +72,4 @@ The requirements relating to usage, barrier cables, and dimensions and the limit
 
 ## § 7. Effect
 
-The exchange of Federal land and non-Federal land and the road to be constructed under this Act shall not constitute a major Federal action for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The exchange of Federal land and non-Federal land and the road to be constructed under this Act (including the issuance of any permit that may be required from any Federal agency to construct the road) shall not constitute a major Federal action for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
