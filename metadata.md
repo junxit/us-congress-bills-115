@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2883
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2883
@@ -21,11 +21,12 @@ Promoting Cross-Border Energy Infrastructure Act
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (3)
+## Committees (4)
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ Promoting Cross-Border Energy Infrastructure Act
 - 2017-07-19 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-07-19 — The previous question was ordered pursuant to the rule.
 - 2017-07-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
