@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1848
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1848
@@ -38,3 +38,12 @@ Veterans Affairs Medical Scribe Pilot Act of 2017
 - 2017-05-23 — Placed on the Union Calendar, Calendar No. 99.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-151.
 - 2017-05-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-151.
+- 2017-07-24 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walz objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-07-24 — Considered as unfinished business. (consideration: CR H6198-6199)
+- 2017-07-24 — Considered under suspension of the rules. (consideration: CR H6173-6174)
+- 2017-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1848.
+- 2017-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-24 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6173-6174)
+- 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6173-6174)
+- 2017-07-24 — The title of the measure was amended. Agreed to without objection.
