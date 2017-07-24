@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 468
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 468
+
+> Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”.
+
+That upon adoption of this resolution it shall be in order to consider in the House the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”. All points of order against consideration of the joint resolution are waived. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit.
