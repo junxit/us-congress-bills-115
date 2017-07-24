@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2364
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2364
@@ -35,3 +35,9 @@ Investing in Main Street Act of 2017
 - 2017-07-12 — Placed on the Union Calendar, Calendar No. 152.
 - 2017-07-12 — Reported by the Committee on Small Business. H. Rept. 115-216.
 - 2017-07-12 — Reported by the Committee on Small Business. H. Rept. 115-216.
+- 2017-07-24 — Considered under suspension of the rules. (consideration: CR H6181-6183)
+- 2017-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2364.
+- 2017-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-24 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2017-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6181-6182)
+- 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6181-6182)
