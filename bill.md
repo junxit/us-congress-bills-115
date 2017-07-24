@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Boots on the Border Act of 2017”.
+This Act may be cited as the “Anti-Border Corruption Reauthorization Act of 2017”.
 
 ## § 2. Expanded authority to waive polygraph examinations for certain applicants for law enforcement positions with U.S. Customs and Border Protection
 
