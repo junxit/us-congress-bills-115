@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1058
 
-> To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.
+> To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,27 +17,19 @@ This Act may be cited as the “VA Provider Equity Act”.
 
 - **(a)** *Inclusion as physician*
   - **(1)** *In general* Subchapter I of chapter 74 of title 38, United States Code, is amended by adding at the end the following new section:
-    > ## § 7413. Treatment of podiatrists
+    > ## § 7413. Treatment of podiatrists; clinical oversight standards
     >
-    > For purposes of this chapter, the term physician includes a podiatrist.
+    > - **(a)** *Podiatrists* Except as provided by subsection (b), a doctor of podiatric medicine who is appointed as a podiatrist under section 7401(1) of this title is eligible for any supervisory position in the Veterans Health Administration to the same degree that a physician appointed under such section is eligible for the position.
+    > - **(b)** *Establishment of clinical oversight standards* The Secretary, in consultation with appropriate stakeholders, shall establish standards to ensure that specialists appointed in the Veterans Health Administration to supervisory positions do not provide direct clinical oversight for purposes of peer review or practice evaluation for providers of other clinical specialties.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7412 the following new item:
-  - **(3)** *Conforming amendment* Section 7401(1) of such title is amended by striking “Physicians, dentists, podiatrists,” and inserting “Physicians, dentists,”.
-- **(b)** *Qualifications* Section 7402(b) of such title is amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** in subparagraph (A), by striking “or of doctor of osteopathy” and inserting “, doctor of osteopathy, or doctor of podiatric medicine”; and
-    - **(B)** in subparagraph (C), by inserting “podiatry,” after “surgery,”;
-  - **(2)** by striking paragraph (5); and
-  - **(3)** by redesignating paragraphs (6) through (14) as paragraphs (5) through (13), respectively.
-- **(c)** *Period of appointment* Section 7403(a)(2) of such title is amended—
-  - **(1)** by striking subparagraph (C); and
-  - **(2)** by redesignating subparagraphs (D) through (H) as subparagraphs (C) through (G), respectively.
-- **(d)** *Modification of pay grade*
-  - **(1)** *Grade* The list in section 7404(b) of such title is amended by striking “PODIATRIST,”.
+- **(b)** *Modification and clarification of pay grade*
+  - **(1)** *Grade* The list in section 7404(b) of such title is amended—
+    - **(A)** by striking “PHYSICIAN AND DENTIST SCHEDULE” and inserting “PHYSICIAN AND SURGEON (MD/DO), PODIATRIC SURGEON (DPM), AND DENTIST AND ORAL SURGEON (DDS, DMD) SCHEDULE”;
+    - **(B)** by striking, “Physician grade” and inserting “Physician and surgeon grade”; and
+    - **(C)** by striking “PODIATRIST, CHIROPRACTOR, AND,” and inserting “CHIROPRACTOR AND”.
   - **(2)** *Application* The amendment made by paragraph (1) shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act.
-- **(e)** *Contracts for scarce services* Section 7409(a) of such title is amended by striking “podiatrists,”.
-- **(f)** *Personnel administration* Section 7421(b) of such title is amended—
-  - **(1)** by striking paragraph (3); and
-  - **(2)** by redesignating paragraphs (4) through (8) as paragraphs (3) through (7), respectively.
-- **(g)** *Medical directors* Section 7306(a)(4) of such title is amended by inserting “, doctor of podiatric medicine,” after “doctor of medicine”.
-- **(h)** *Application* The amendments made by this section shall apply with respect to podiatrists employed by the Department of Veterans Affairs as of the date of the enactment of this Act or who are appointed on or after such date.
+
+## § 3. Extension of reduction in amount of pension furnished by Department of Veterans Affairs for certain veterans covered by medicaid plans for services furnished by nursing facilities
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “September 30, 2024” and inserting “September 30, 2026”.
