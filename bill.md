@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1848
 
-> To direct the Secretary of Veterans Affairs to carry out a pilot program on the use of medical scribes in Department of Veterans Affairs medical centers.
+> To direct the Secretary of Veterans Affairs to carry out a pilot program on the use of medical scribes in Department of Veterans Affairs medical centers, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Veterans Affairs Medical Scribe Pilot Act of 201
 
 ## § 2. Department of Veterans Affairs medical scribe pilot program
 
-- **(a)** *In general* The Secretary of Veterans Affairs shall carry out a two-year pilot program under which the Secretary shall increase the use of medical scribes at Department of Veterans Affairs medical centers.
+- **(a)** *In general* The Secretary of Veterans Affairs shall carry out a 2-year pilot program under which the Secretary shall increase the use of medical scribes at Department of Veterans Affairs medical centers.
 - **(b)** *Locations* The Secretary shall carry out the pilot program at the 10 medical centers of the Department as follows:
   - **(1)** At least four such medical centers located in rural areas.
   - **(2)** At least four such medical centers located in urban areas.
@@ -45,3 +45,26 @@ This Act may be cited as the “Veterans Affairs Medical Scribe Pilot Act of 201
     - **(C)** Entering information into the electronic health record, as directed by the physician or practitioner.
   - **(2)** The terms “urban” and “rural” have the meanings given such terms under the rural-urban commuting codes developed by the Secretary of Agriculture and the Secretary of Health and Human Services.
 - **(f)** *Funding* The pilot program under this section shall be carried out using amounts otherwise authorized to be appropriated for the Department of Veterans Affairs. No additional amounts are authorized to be appropriated to carry out such program.
+
+## § 3. Prohibition on smoking in facilities of the Veterans Health Administration
+
+- **(a)** *Prohibition* Section 1715 of title 38, United States Code, is amended to read as follows:
+  > ## § 1715. Prohibition on smoking in facilities of the Veterans Health Administration
+  >
+  > - **(a)** *Prohibition*
+  >   - **(1)**
+  >     - **(A)** Except as provided in subparagraph (B), no person may smoke indoors in any facility of the Veterans Health Administration.
+  >     - **(B)** In the case of a facility of the Veterans Health Administration that is a community living center, no person may smoke indoors in such facility on or after December 31, 2018.
+  >   - **(2)** No person may smoke outdoors in any facility of the Veterans Health Administration on or after October 1, 2021.
+  > - **(b)** *Definitions* In this section:
+  >   - **(1)** The term “smoke” includes the smoking of cigarettes (including e-cigarettes or electronic cigarettes), cigars, pipes, and any other combustion of tobacco.
+  >   - **(2)** The term “facility of the Veterans Health Administration” means any land or building (including any medical center, nursing home, domiciliary facility, outpatient clinic, or center that provides readjustment counseling) that is—
+  >     - **(A)** under the jurisdiction of the Department of Veterans Affairs;
+  >     - **(B)** under the control of the Veterans Health Administration; and
+  >     - **(C)** not under the control of the General Services Administration.
+  >   - **(3)** The term “community living center” means a facility of the Department that provides nursing home care.
+
+- **(b)** *Conforming amendments*
+  - **(1)** The table of sections at the beginning of chapter 17 of such title is amended by striking the item relating to section 1715 and inserting the following:
+  - **(2)** Section 526 of the Veterans Health Care Act of 1992 (Public Law 102–585) is repealed.
+- **(c)** *Effective date* This section shall take effect 90 days after the date of the enactment of this Act.
