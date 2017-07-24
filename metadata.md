@@ -1,7 +1,7 @@
 ---
 measure: S. 249
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 249
@@ -38,3 +38,10 @@ A bill to provide that the pueblo of Santa Clara may lease for 99 years certain 
 - 2017-05-09 — Message on Senate action sent to the House.
 - 2017-05-11 — Received in the House.
 - 2017-05-11 — Referred to the House Committee on Natural Resources.
+- 2017-05-16 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2017-06-07 — Subcommittee Hearings Held.
+- 2017-06-27 — Committee Consideration and Mark-up Session Held.
+- 2017-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2017-07-24 — Placed on the Union Calendar, Calendar No. 174.
+- 2017-07-24 — Reported by the Committee on Natural Resources. H. Rept. 115-242.
+- 2017-07-24 — Reported by the Committee on Natural Resources. H. Rept. 115-242.
