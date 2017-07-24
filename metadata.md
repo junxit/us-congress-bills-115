@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3298
@@ -16,7 +16,7 @@ Wounded Officers Recovery Act of 2017
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Cosponsors (104)
+## Cosponsors (128)
 
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
@@ -122,13 +122,45 @@ Wounded Officers Recovery Act of 2017
 - Rep. Kihuen, Ruben J. [D-NV-4] (K000390)
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
 - 2017-07-19 — Introduced in House
 - 2017-07-19 — Introduced in House
 - 2017-07-19 — Referred to the House Committee on House Administration.
+- 2017-07-24 — Considered under suspension of the rules. (consideration: CR H6183-6187)
+- 2017-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3298.
+- 2017-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-24 — Mr. Davis, Rodney moved to suspend the rules and pass the bill, as amended.
+- 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6183)
+- 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6183)
+- 2017-07-24 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
