@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1927
@@ -16,7 +16,7 @@ African American Civil Rights Network Act of 2017
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 
-## Cosponsors (71)
+## Cosponsors (72)
 
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -89,6 +89,7 @@ African American Civil Rights Network Act of 2017
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
 
 ## Committees (1)
 
@@ -99,3 +100,9 @@ African American Civil Rights Network Act of 2017
 - 2017-04-05 — Introduced in House
 - 2017-04-05 — Introduced in House
 - 2017-04-05 — Referred to the House Committee on Natural Resources.
+- 2017-04-17 — Referred to the Subcommittee on Federal Lands.
+- 2017-06-27 — Committee Consideration and Mark-up Session Held.
+- 2017-06-27 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2017-07-24 — Placed on the Union Calendar, Calendar No. 173.
+- 2017-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-241.
+- 2017-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-241.
