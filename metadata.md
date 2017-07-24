@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2056
@@ -44,3 +44,9 @@ Microloan Modernization Act of 2017
 - 2017-07-12 — Placed on the Union Calendar, Calendar No. 150.
 - 2017-07-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-214.
 - 2017-07-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-214.
+- 2017-07-24 — Considered under suspension of the rules. (consideration: CR H6179-6181)
+- 2017-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2056.
+- 2017-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-24 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
+- 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6180)
+- 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6180)
