@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3180
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 12 executed, 27 stated and not applied.
+38 amendatory instructions. 12 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,7 +44,7 @@ to guess them.
 
 ### 50 U.S.C. § 2031
 
-> in subsection (g)(2), by striking “one year” and inserting “two years”;
+> in subsection (g)(2), by striking “one year” each place such term appears and inserting “two years”;
 
 | | |
 |---|---|
@@ -152,14 +152,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “audit” and inserting “review”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “audit” and inserting “review”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5313 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `50 U.S.C. § 3602` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3602` | insert | by inserting after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3602` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3602` | add-at-end | Section 2 of the National Security Agency Act of 1959 (Public Law 86–36; 50 U.S.C. 3602) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 2674` | insert | Section 4524(b)(2) of the Atomic Energy Defense Act (50 U.S.C. 2674(b)(2)) is amended by inserting “Intelligence and” after “The Director of”. | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3041` | insert | in subparagraph (E), by inserting “and Counterintelligence” after “Office of Intelligence”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3041` | strike | by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3041` | redesignate | by redesignating subparagraphs (G), (H), and (I) as subparagraphs (F), (G), and (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3982` | add-at-end | Subsection (a) of section 502 of the Foreign Service Act of 1980 (22 U.S.C. 3982) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4022` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3091` | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3091` | insert | The table of contents in the first section of the National Security Act of 1947 is amended by inserting after the item relating to section 1104 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3104` | insert | in subparagraph (A)(ii), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
