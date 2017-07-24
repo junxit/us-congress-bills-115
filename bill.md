@@ -32,7 +32,7 @@ This Act may be cited as the “Protecting Business Opportunities for Veterans A
     >       - **(i)** referral to the Debarment and Suspension Committee of the Department;
     >       - **(ii)** a fine under section 16(g)(1) of the Small Business Act (15 U.S.C. 645(g)(1)); and
     >       - **(iii)** prosecution for violating section 1001 of title 18.
-    >     - **(D)** Not later than November 30 for each of years 2018 through 2022, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
+    >     - **(D)** Not later than November 30 of each year, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
     >       - **(i)** the number of referred violations and suspected violations received under subparagraph (B); and
     >       - **(ii)** the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
 
