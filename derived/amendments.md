@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 2 U.S.C. § 1952
 
-> by striking “Subject to the regulations” and inserting “(a) In general.—Subject to the regulations”; and
+> by striking “Subject to the regulations” and inserting “(a) In general.—Except to the extent used or reserved for use under subsection (b) and subject to the regulations”; and
 
 | | |
 |---|---|
 | Removed | `Subject to the regulations` |
-| Inserted | `(a) In general.—Subject to the regulations` |
+| Inserted | `(a) In general.—Except to the extent used or reserved for use under subsection (b) and subject to the regulations` |
 
 ### 2 U.S.C. § 1954
 
@@ -60,5 +60,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `2 U.S.C. § 1952` | insert | in the section heading, by inserting “and certain other United States Capitol Police employees” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1952` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1954` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
