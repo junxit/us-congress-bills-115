@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3218
@@ -173,3 +173,11 @@ Harry W. Colmery Veterans Educational Assistance Act of 2017
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-247, Part I.
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-247, Part I.
 - 2017-07-25 — Received in the Senate, read twice.
+- 2017-07-26 — Referred to the Subcommittee on Military Personnel.
+- 2017-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4716)
+- 2017-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4716)
+- 2017-08-03 — Message on Senate action sent to the House.
+- 2017-08-07 — Presented to President.
+- 2017-08-07 — Presented to President.
+- 2017-08-16 — Signed by President.
+- 2017-08-16 — Signed by President.
