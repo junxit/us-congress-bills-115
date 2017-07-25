@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2781
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2781
@@ -22,9 +22,10 @@ Ensuring Veteran Enterprise Participation in Strategic Sourcing Act
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Ensuring Veteran Enterprise Participation in Strategic Sourcing Act
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 182.
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-250.
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-250.
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
