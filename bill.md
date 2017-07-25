@@ -23,12 +23,12 @@ Congress finds the following:
 - **(4)** $23,200,000 in Federal dollars have been spent on upgrades to, and the maintenance of, the Center since January 2012.
 - **(5)** In addition to the Center, Plum Island contains cultural, historical, ecological, and natural resources of regional and national significance.
 - **(6)** Plum Island is situated where the Long Island Sound and Peconic Bay meet, both of which are estuaries that are part of the National Estuary Program and are environmentally and economically significant to the region.
-- **(7)** The Federal Government has invested hundreds of millions of Federal dollars over the last two decades to make long-term improvements with respect to the conservation and management needs of Long Island Sound and Peconic Bay.
+- **(7)** The Federal Government has invested hundreds of millions of Federal dollars over the last 2 decades to make long-term improvements with respect to the conservation and management needs of Long Island Sound and Peconic Bay.
 - **(8)** In a report submitted to Congress on April 11, 2016, entitled “National Bio- and Agro-Defense Facility Construction Plan Update” the Department of Homeland Security noted that the new National Bio- and Agro-Defense Facility under construction on such date in Manhattan, Kansas, is, as of such date, fully paid for through a combination of Federal appropriations and funding from the State of Kansas.
 
 ## § 3. Report required on final disposition of Plum Island
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report containing the following:
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report containing the following:
 
 - **(1)** The alternatives for the final disposition of Plum Island, including the transfer of ownership to another Federal agency, a State or local government, a nonprofit organization, or a combination thereof for the purpose of education, research, or conservation.
 - **(2)** With respect to each such alternative final disposition, an analysis of—
