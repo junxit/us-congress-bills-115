@@ -1,7 +1,7 @@
 ---
 measure: H.R. 282
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 282
@@ -30,9 +30,10 @@ Military Residency Choice Act
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Military Residency Choice Act
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 177.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-245.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-245.
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
