@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3218
@@ -172,3 +172,4 @@ Harry W. Colmery Veterans Educational Assistance Act of 2017
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 179.
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-247, Part I.
 - 2017-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-247, Part I.
+- 2017-07-25 — Received in the Senate, read twice.

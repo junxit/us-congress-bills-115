@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 115
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-91 amendatory instructions. 50 executed, 41 stated and not applied.
+104 amendatory instructions. 58 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,21 @@ to guess them.
 
 ### 38 U.S.C. § 3317
 
-> Section 3317(a) is amended in the second sentence by striking “paragraphs (1) and (2)” and inserting “paragraphs (1), (2), (9), and (10)”.
+> Section 3317(a) is amended, in the second sentence, by striking “paragraphs (1) and (2)” and inserting “paragraphs (1), (2), (9), and (10)”.
 
 | | |
 |---|---|
 | Removed | `paragraphs (1) and (2)` |
 | Inserted | `paragraphs (1), (2), (9), and (10)` |
+
+### 38 U.S.C. § 3317
+
+> Section 3317(a) is amended, in the first sentence, by striking “section 3313(c)(1)(A)” and inserting “subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title”.
+
+| | |
+|---|---|
+| Removed | `section 3313(c)(1)(A)` |
+| Inserted | `subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title` |
 
 ### 38 U.S.C. § 3313
 
@@ -89,7 +98,7 @@ to guess them.
 
 ### 38 U.S.C. § 3313
 
-> by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”.
+> by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”;
 
 | | |
 |---|---|
@@ -233,7 +242,7 @@ to guess them.
 
 ### 38 U.S.C. § 3313
 
-> In section 3321(b)(4), as amended by section 111, by striking “section 3311(b)(9)” and inserting “section 3311(b)(8)”.
+> In section 3321(b)(4), as amended by section 112, by striking “section 3311(b)(9)” and inserting “section 3311(b)(8)”.
 
 | | |
 |---|---|
@@ -287,12 +296,12 @@ to guess them.
 
 ### 38 U.S.C. § 3315
 
-> by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for one month”; and
+> by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month”; and
 
 | | |
 |---|---|
 | Removed | `shall be determined at the rate of one month (rounded to the nearest whole month)` |
-| Inserted | `shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for one month` |
+| Inserted | `shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month` |
 
 ### 38 U.S.C. § 3315
 
@@ -305,12 +314,12 @@ to guess them.
 
 ### 38 U.S.C. § 3315A
 
-> by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for one month”; and
+> by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month”; and
 
 | | |
 |---|---|
 | Removed | `shall be determined at the rate of one month (rounded to the nearest whole month)` |
-| Inserted | `shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for one month` |
+| Inserted | `shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month` |
 
 ### 38 U.S.C. § 3315A
 
@@ -348,9 +357,27 @@ to guess them.
 | Removed | `described in subclause (A) of this clause` |
 | Inserted | `described in clause (i)` |
 
+### 38 U.S.C. § 3321
+
+> by striking “individual’s entitlement” and all that follows through the period and inserting “individual’s entitlement—”; and
+
+| | |
+|---|---|
+| Removed | `individual’s entitlement` |
+| Inserted | `individual’s entitlement—` |
+
+### 38 U.S.C. § 3321
+
+> by striking “child’s entitlement” and all that follows through the period and inserting “child’s entitlement—”; and
+
+| | |
+|---|---|
+| Removed | `child’s entitlement` |
+| Inserted | `child’s entitlement—` |
+
 ### 38 U.S.C. § 3326
 
-> by striking “As a condition” and inserting “(a) Submittal of information by educational institutions.—As a condition” ; and
+> by striking “As a condition” and inserting “(a) Submittal of information by educational institutions.—As a condition”; and
 
 | | |
 |---|---|
@@ -447,6 +474,42 @@ to guess them.
 | Removed | `for any fiscal year shall be $19,000,000` |
 | Inserted | `for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000` |
 
+### 20 U.S.C. § 1099b
+
+> in the matter preceding paragraph (1), by striking “in—” and inserting “in any of the following:”;
+
+| | |
+|---|---|
+| Removed | `in—` |
+| Inserted | `in any of the following:` |
+
+### 20 U.S.C. § 1099b
+
+> by striking “any” and inserting “Any”; and
+
+| | |
+|---|---|
+| Removed | `any` |
+| Inserted | `Any` |
+
+### 20 U.S.C. § 1099b
+
+> by striking “any” and inserting “Any”; and
+
+| | |
+|---|---|
+| Removed | `any` |
+| Inserted | `Any` |
+
+### 20 U.S.C. § 1099b
+
+> by striking “any” and inserting “Any”; and
+
+| | |
+|---|---|
+| Removed | `any` |
+| Inserted | `Any` |
+
 ### 38 U.S.C. § 3692
 
 > Section 3692 is amended by striking “December 31, 2017” and inserting “December 31, 2022”.
@@ -455,6 +518,15 @@ to guess them.
 |---|---|
 | Removed | `December 31, 2017` |
 | Inserted | `December 31, 2022` |
+
+### 38 U.S.C. § 3673
+
+> by striking “such compliance and oversight” and inserting “conducting risk-based surveys and other such oversight”; and
+
+| | |
+|---|---|
+| Removed | `such compliance and oversight` |
+| Inserted | `conducting risk-based surveys and other such oversight` |
 
 ### 38 U.S.C. § 3301
 
@@ -501,18 +573,21 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 3319` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3311` | add-at-end | Subchapter II of chapter 33 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3311` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 3319 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “individual’s entitlement” and all that follows through the period and inserting “individual’s entitlement—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “of this title” after “3311(b)(9)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “child’s entitlement” and all that follows through the period and inserting “child’s entitlement—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 3321` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3321` | insert | by inserting “of this title” after “3311(b)(9)”; | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 3321` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3321` | add-at-end | Subsection (b) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3301` | add-at-end | Section 3313 is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3326` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3511` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 401` | redesignate | by redesignating paragraph (4) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 401` | insert | by inserting after paragraph (3) the following new paragraph (4): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 401` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3680A` | amend | Paragraph (4) of section 3680A(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | replace | by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | replace | by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1099b` | replace | by striking paragraph (4) and inserting the following new paragraph (4): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3698` | strike | in clause (ix), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 3698` | replace | in clause (x), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 3698` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -523,4 +598,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of sections at the beginning of such chapter is further amended by inserting after the item relating to section 3699 the following new item: | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 3684` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3684` | insert | by inserting after paragraph (3) the following new paragraph (4): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3673` | strike | in the subsection heading, by striking “compliance and” ; | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 3673` | insert | by inserting “, in consultation with the State approving agencies,” after “as the Secretary”. | the bill quotes the text inserted but describes where it goes |
 | `37 U.S.C. § 403` | repeal | Subsection (b) of section 604 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 37 U.S.C. 403 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
