@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2056
@@ -30,9 +30,10 @@ Microloan Modernization Act of 2017
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Microloan Modernization Act of 2017
 - 2017-07-24 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6180)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6180)
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
