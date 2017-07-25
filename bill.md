@@ -17,8 +17,13 @@ This Act may be cited as the “Taxpayer Exposure Mitigation Act of 2017”.
 
 - **(a)** *Amendments to Flood Disaster Protection Act of 1973* The Flood Disaster Protection Act of 1973 is amended—
   - **(1)** in section 3(a) (42 U.S.C. 4003(a))—
-    - **(A)** in paragraph (7), by inserting “residential” before “improved real estate”; and
-    - **(B)** in paragraph (8), by inserting “residential” before “building”; and
+    - **(A)** in paragraph (10), by striking “and” at the end;
+    - **(B)** in paragraph (11), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following new paragraph:
+      > - **(12)** “residential improved real estate” means improved real estate that—
+      >   - **(A)** is primarily used for residential purposes, as defined by the Federal entities for lending regulation; and
+      >   - **(B)** secures financing or financial assistance provided through a federally related single family loan progam, as defined by the Federal entities for lending regulation.
+
   - **(2)** in section 102 (42 U.S.C. 4012a)—
     - **(A)** in subsection (b)—
       - **(i)** in paragraph (1)(A)—
@@ -30,7 +35,7 @@ This Act may be cited as the “Taxpayer Exposure Mitigation Act of 2017”.
       - **(iii)** in paragraph (3)—
         - **(I)** in subparagraph (A), by inserting “residential” before “improved real estate”; and
         - **(II)** in the matter after and below subparagraph (B), by inserting “residential” before “building or mobile home”;
-    - **(B)** in subsection (c)(3), by striking “, in the case of any residential property, for any structure that is part of such property” and inserting “for any structure that is part of a residential property”;
+    - **(B)** in subsection (c)(3), by striking “, in the case of any residential property, for any structure that is a part of such property” and inserting “for any structure that is part of a residential property”;
     - **(C)** in subsection (e)—
       - **(i)** in paragraph (1)—
         - **(I)** by inserting “residential” before “improved real estate”; and
@@ -61,17 +66,20 @@ This Act may be cited as the “Taxpayer Exposure Mitigation Act of 2017”.
       - **(i)** by inserting “residential” before “improved real estate”; and
       - **(ii)** by inserting “residential” before “building” each place such term appears; and
   - **(3)** in section 1370 (42 U.S.C. 4121)—
-    - **(A)** in paragraph (8), by inserting “residential” before “improved real estate”; and
-    - **(B)** in paragraph (10)—
-      - **(i)** by inserting “residential” after the opening quotation marks; and
-      - **(ii)** by inserting “residential” before “building”.
-- **(c)** *Rule of construction* This section and the amendments made by this section may not be construed to prohibit the Administrator of the Federal Emergency Management Agency from offering flood insurance coverage under the National Flood Insurance Program for eligible non-residential properties or to prohibit the purchase of such coverage for such eligible properties.
+    - **(A)** in paragraph (8), by inserting “residential” before “improved real estate”;
+    - **(B)** by redesignating paragraphs (14) and (15) as paragraphs (15) and (16), respectively; and
+    - **(C)** by inserting after paragraph (13) the following new paragraph:
+      > - **(14)** the term “residential improved real estate” means improved real estate that—
+      >   - **(A)** is primarily used for residential purposes, as defined by the Federal entities for lending regulation; and
+      >   - **(B)** secures financing or financial assistance provided through a federally related single family loan progam, as defined by the Federal entities for lending regulation;
+
+- **(c)** *Rule of construction* This section and the amendments made by this section may not be construed to prohibit the Administrator of the Federal Emergency Management Agency from offering flood insurance coverage under the National Flood Insurance Program for eligible non-residential properties, other residential multifamily properties, or structures financed with commercial loans, or to prohibit the purchase of such coverage for such eligible properties.
 
 ## § 3. Risk transfer requirement
 
 Subsection (e) of section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081(e)) is amended—
 
-- **(1)** by striking “(e) Risk transfer,—The Administrator” and inserting the following:
+- **(1)** by striking “(e) Risk transfer.—The Administrator” and inserting the following:
   > - **(e)** *Risk transfer*
   >   - **(1)** *Authority* The Administrator
 
@@ -94,15 +102,43 @@ Subsection (e) of section 1345 of the National Flood Insurance Act of 1968 (42 U
   >     - **(x)** any other factor the Administrator determines appropriate.
   >   - **(D)** *Multi-year contracts* Nothing in this paragraph may be construed to prevent or prohibit the Administrator from complying with the requirement under subparagraph (A) regarding ceding risk through contracts having a duration longer than one year.
 
-## § 4. Private or community flood maps
+## § 4. Community flood maps
 
-Section 100215 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101a) is amended by adding at the end the following new subsection:
+- **(a)** *Technical Mapping Advisory Council* Section 100215 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101a) is amended—
+  - **(1)** in subsection (c)—
+    - **(A)** in paragraph (5)(B), by striking “and” at the end;
+    - **(B)** by redesignating paragraph (6) as paragraph (9); and
+    - **(C)** by inserting after paragraph (5) the following new paragraphs:
+      > - **(6)** recommend to the Administrator methods or actions to make the flood mapping processes more efficient;
+      > - **(7)** recommend to the Administrator methods or actions to minimize any cost, data, and paperwork requirements of the flood mapping processes;
+      > - **(8)** assist communities, and in particular smaller communities, in locating the resources required to participate in the development of flood elevations and flood hazard area designations; and
 
-> - **(m)** *Private or community flood maps*
->   - **(1)** *Standards and procedures* In addition to the other duties of the Council under this section, not later than the expiration of the 12-month period beginning on the date of the enactment of this subsection, the Council shall develop and establish a set of standards, guidelines, and procedures for—
->     - **(A)** State and local governments, federally or State recognized Metropolitan Planning Organizations (MPOs), federally or State recognized Councils of Local Governments, and federally or State recognized Rural Transportation Planning Organizations to use in mapping flood risks and developing alternative maps to the flood insurance rate maps developed by the Agency; and
->     - **(B)** certification, by the Administrator and within 90 days of submission, of such maps for use under the National Flood Insurance Program in the case of any area covered by a flood insurance rate map developed or approved by the Administrator which has not been updated or reissued for 36 months or longer.
->   - **(2)** *Treatment* Upon certification of a map pursuant to paragraph (1)(B), such map—
->     - **(A)** shall be considered the flood insurance rate map in effect for all purposes of the National Flood Insurance Program, with respect to the area covered by the map; and
->     - **(B)** may not be revised, updated, or replaced pursuant to the standards, guidelines, and procedures established pursuant to paragraph (1) before the expiration of the 36-month period beginning upon such certification.
->   - **(3)** *Exemption from rulemaking* Until such time as the Administrator promulgates regulations implementing paragraphs (1) and (2) of this subsection, the Administrator may adopt policies and procedures, notwithstanding any other provisions of law, necessary to implement such paragraphs without undergoing notice and comment rulemaking and without conducting regulatory analyses otherwise required by statute, regulation, or executive order.
+  - **(2)** by adding at the end the following new subsection:
+    > - **(m)** *Community flood maps*
+    >   - **(1)** *Standards and procedures* In addition to the other duties of the Council under this section, not later than the expiration of the 12-month period beginning on the date of the enactment of this subsection, the Council shall recommend to the Administrator standards and requirements for chief executive officers, or entities designated by chief executive officers, of States and communities participating in the National Flood Insurance Program to use in mapping flood hazards located in States and communities that choose to develop alternative maps to the flood insurance rate maps developed by the Agency. The recommended standards and requirements shall include procedures for providing notification and appeal rights to individuals within the communities of the proposed flood elevation determinations.
+    >   - **(2)** *Exemption from rulemaking* Until such time as the Administrator promulgates regulations implementing paragraph (1) of this subsection, the Administrator may, notwithstanding any other provision of law, adopt policies and procedures necessary to implement such paragraphs without undergoing notice and comment rulemaking and without conducting regulatory analyses otherwise required by statute, regulation, or executive order.
+
+- **(b)** *FEMA identification of flood-prone areas* Subsection (a) of section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(a)) is amended—
+  - **(1)** in paragraph (2), by striking the period at the end and inserting “; and”;
+  - **(2)** by redesignating paragraphs (1) and (2) as subparagraphs (A), and (B), respectively, and realigning such subparagraphs so as to be indented 4 ems from the left margin;
+  - **(3)** by striking “is authorized to consult” and inserting the following:
+    > is authorized—
+    > - **(1)** to consult
+
+  - **(4)** by adding at the end the following new paragraph:
+    > - **(2)** to receive proposed alternative maps from communities developed pursuant to standards and requirements recommended by the Technical Mapping Advisory Council, as required by section 100215(m) of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101a(m)) and adopted by the Administrator as required by section 100216(c)(3) of such Act (42 U.S.C. 4101b(c)(3)), so that the Administrator may—
+    >   - **(A)** publish information with respect to all flood plain areas, including coastal areas located in the United States, which have special flood hazards, and
+    >   - **(B)** establish or update flood-risk zone data in all such areas, and make estimates with respect to the rates of probable flood caused loss for the various flood risk zones for each of these areas until the date specified in section 1319.
+
+- **(c)** *National Flood Mapping Program* Section 100216 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b) is amended—
+  - **(1)** in subsection (a), by inserting “prepared by the Administrator, or by a community pursuant to section 1360(a)(2) of the National Flood Insurance Act of 1968,” after “Program rate maps”;
+  - **(2)** in subsection (c)—
+    - **(A)** in paragraph (1)(B), by striking “and” at the end;
+    - **(B)** in paragraph (2)(C), by striking the period at the end and inserting a semicolon; and
+    - **(C)** by adding at the end the following new paragraphs:
+      > - **(3)** establish and adopt standards and requirements for development by States and communities of alternative flood insurance rate maps to be submitted to the Administrator pursuant to section 1360(a)(2) of the National Flood Insurance Act of 1968, taking into consideration the recommendations of the Technical Mapping Advisory Council made pursuant to section 100215(m) of this Act (42 U.S.C. 4101a(m)); and
+      > - **(4)** in the case of proposed alternative maps received by the Administrator pursuant to such section 1360(a)(2), not later than the expiration of the 6-month period beginning upon receipt of such proposed alternative maps—
+      >   - **(A)** determine whether such maps were developed in accordance with the standards and requirements adopted pursuant to paragraph (3) of this subsection; and
+      >   - **(B)** approve or disapprove such proposed maps for use under National Flood Insurance Program.
+
+  - **(3)** in subsection (d)(1), by inserting “maximum” before “30-day period” each place such term appears in subparagraphs (B) and (C).

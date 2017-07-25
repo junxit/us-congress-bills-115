@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2246
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 1 executed, 32 stated and not applied.
+46 amendatory instructions. 1 executed, 45 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,11 +26,11 @@ to guess them.
 
 ### 42 U.S.C. § 4012a
 
-> in subsection (c)(3), by striking “, in the case of any residential property, for any structure that is part of such property” and inserting “for any structure that is part of a residential property”;
+> in subsection (c)(3), by striking “, in the case of any residential property, for any structure that is a part of such property” and inserting “for any structure that is part of a residential property”;
 
 | | |
 |---|---|
-| Removed | `, in the case of any residential property, for any structure that is part of such property` |
+| Removed | `, in the case of any residential property, for any structure that is a part of such property` |
 | Inserted | `for any structure that is part of a residential property` |
 
 ## Stated, not applied
@@ -42,8 +42,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4003` | insert | in paragraph (7), by inserting “residential” before “improved real estate”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4003` | insert | in paragraph (8), by inserting “residential” before “building”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4003` | strike | in paragraph (10), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4003` | replace | in paragraph (11), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4003` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | insert | by inserting “residential” before “improved real estate”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4012a` | insert | by inserting “residential” before “building or mobile home”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4012a` | insert | by inserting “residential” before “improved real estate”; and | the bill quotes the text inserted but describes where it goes |
@@ -68,9 +69,21 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4104b` | insert | in subsection (d), by inserting “residential” before “improved real estate” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4104b` | insert | by inserting “residential” before “improved real estate”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4104b` | insert | by inserting “residential” before “building” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4121` | insert | in paragraph (8), by inserting “residential” before “improved real estate”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4121` | insert | by inserting “residential” after the opening quotation marks; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4121` | insert | by inserting “residential” before “building”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4081` | replace | by striking “(e) Risk transfer,—The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4121` | insert | in paragraph (8), by inserting “residential” before “improved real estate”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4121` | redesignate | by redesignating paragraphs (14) and (15) as paragraphs (15) and (16), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4121` | insert | by inserting after paragraph (13) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4081` | replace | by striking “(e) Risk transfer.—The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4017` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4101a` | add-at-end | Section 100215 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101a` | strike | in paragraph (5)(B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4101a` | redesignate | by redesignating paragraph (6) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101a` | insert | by inserting after paragraph (5) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4101` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A), and (B), respectively, and realigning such subparagraphs so as to be indented 4 ems from the left margin; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101` | replace | by striking “is authorized to consult” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4101a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | insert | in subsection (a), by inserting “prepared by the Administrator, or by a community pursuant to section 1360(a)(2) of the National Flood Insurance Act of 1968,” after “Program rate maps”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4101a` | strike | in paragraph (1)(B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4101a` | replace | in paragraph (2)(C), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101a` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | insert | in subsection (d)(1), by inserting “maximum” before “30-day period” each place such term appears in subparagraphs (B) and (C). | the bill quotes the text inserted but describes where it goes |

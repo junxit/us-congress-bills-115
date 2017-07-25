@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2246
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2246
@@ -25,3 +25,8 @@ Taxpayer Exposure Mitigation Act of 2017
 - 2017-04-28 — Introduced in House
 - 2017-04-28 — Introduced in House
 - 2017-04-28 — Referred to the House Committee on Financial Services.
+- 2017-06-21 — Committee Consideration and Mark-up Session Held.
+- 2017-06-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24.
+- 2017-07-25 — Placed on the Union Calendar, Calendar No. 185.
+- 2017-07-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-255.
+- 2017-07-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-255.
