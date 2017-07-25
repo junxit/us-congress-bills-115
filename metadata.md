@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2333
@@ -43,3 +43,14 @@ Small Business Investment Opportunity Act of 2017
 - 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6178)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6178)
 - 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-06-05 — Passed Senate without amendment by Unanimous Consent.
+- 2018-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-06-05 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: CR S2998)
+- 2018-06-05 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.(consideration: CR S2998)
+- 2018-06-06 — Message on Senate action sent to the House.
+- 2018-06-13 — Presented to President.
+- 2018-06-13 — Presented to President.
+- 2018-06-21 — Became Public Law No: 115-187.
+- 2018-06-21 — Became Public Law No: 115-187.
+- 2018-06-21 — Signed by President.
+- 2018-06-21 — Signed by President.
