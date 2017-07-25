@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2364
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2364
@@ -21,9 +21,10 @@ Investing in Main Street Act of 2017
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Investing in Main Street Act of 2017
 - 2017-07-24 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2017-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6181-6182)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6181-6182)
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
