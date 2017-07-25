@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 468
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 468
@@ -27,3 +27,9 @@ Providing for consideration of the joint resolution (H.J. Res. 111) providing fo
 - 2017-07-24 — Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2017-07-24 — The House Committee on Rules reported an original measure, H. Rept. 115-252, by Mr. Buck.
 - 2017-07-24 — The House Committee on Rules reported an original measure, H. Rept. 115-252, by Mr. Buck.
+- 2017-07-25 — Considered as privileged matter. (consideration: CR H6225-6233)
+- 2017-07-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 468.
+- 2017-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-25 — On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 411). (text: CR H6225)
+- 2017-07-25 — On ordering the previous question Agreed to by the Yeas and Nays: 229 - 184 (Roll no. 410). (consideration: CR H6232)
+- 2017-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 411).(text: CR H6225)
