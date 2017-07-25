@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2333
@@ -21,9 +21,10 @@ Small Business Investment Opportunity Act of 2017
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Small Business Investment Opportunity Act of 2017
 - 2017-07-24 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6178)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6178)
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
