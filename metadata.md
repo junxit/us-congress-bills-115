@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 111
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 111
@@ -72,3 +72,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-07-25 — Rule H. Res. 468 passed House.
 - 2017-07-25 — Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2017-07-25 — The previous question was ordered pursuant to the rule.
+- 2017-10-24 — Measure laid before Senate by motion. (consideration: CR S6738-6760)
+- 2017-10-24 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S6738)
+- 2017-10-24 — Passed Senate without amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 249.
+- 2017-10-24 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 249.
+- 2017-10-25 — Message on Senate action sent to the House.
+- 2017-10-25 — Presented to President.
+- 2017-10-25 — Presented to President.
+- 2017-11-01 — Signed by President.
+- 2017-11-01 — Signed by President.
