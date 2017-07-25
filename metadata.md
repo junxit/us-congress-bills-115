@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2749
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2749
@@ -21,9 +21,10 @@ Protecting Business Opportunities for Veterans Act of 2017
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Protecting Business Opportunities for Veterans Act of 2017
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 175.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-243.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-243.
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
