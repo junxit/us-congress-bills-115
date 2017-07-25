@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1848
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1848
@@ -22,9 +22,10 @@ Veterans Affairs Medical Scribe Pilot Act of 2017
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Veterans Affairs Medical Scribe Pilot Act of 2017
 - 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6173-6174)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6173-6174)
 - 2017-07-24 — The title of the measure was amended. Agreed to without objection.
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
