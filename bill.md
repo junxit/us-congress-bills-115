@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Mining School Enhancement Act”.
+This Act may be cited as the “Mining Schools Enhancement Act”.
 
 ## § 2. Support for mining schools
 
@@ -22,7 +22,7 @@ Section 721 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C.
 
 - **(2)** by adding at the end the following:
   > - **(b)** *Mining program support*
-  >   - **(1)** Of the amounts made available under this Act for activities authorized under this section, the Director of the Office of Surface Mining Reclamation and Enforcement shall ensure that at least 50 percent is expended to enhance and support mining and mineral engineering programs in the United States by funding activities at mining schools.
+  >   - **(1)** Of the amounts made available under subsection (d) for activities authorized under this section, the Director of the Office of Surface Mining Reclamation and Enforcement shall ensure that at least 70 percent is expended to enhance and support mining and mineral engineering programs in the United States by funding activities at mining schools.
   >   - **(2)** In expending funds under this section, the Director shall consult with relevant stakeholders and ensure a significant opportunity for participation by undergraduate and graduate students at mining schools.
   >   - **(3)** The Director shall ensure that the activities conducted under this section relate to resource development and production, and include—
   >     - **(A)** studies of mining, mineral extraction efficiency, and related processing technology;
@@ -34,3 +34,4 @@ Section 721 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C.
   >     - **(G)** the extraction or processing of coinciding mineralization, including rare earth elements, within coal, coal processing byproduct, overburden or coal residue; and
   >     - **(H)** enhancing technologies and practices related to mitigation of acid mine drainage, reforestation, and revegetation in the reclamation of land and water resources adversely affected by coal mining.
   > - **(c)** *Mining school defined* In this section the term mining school means a mining, metallurgical, or mineral engineering program or department accredited by the Accreditation Board for Engineering and Technology, Inc., that is located at an institution of higher education (as that term is defined in section 631(a) of the Higher Education Act of 1965 (20 U.S.C. 1132(a))) in the United States.
+  > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2018 through 2024.
