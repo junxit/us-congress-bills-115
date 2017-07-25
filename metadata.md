@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 111
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 111
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 
-## Cosponsors (33)
+## Cosponsors (34)
 
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -51,6 +51,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (1)
 
@@ -61,3 +62,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-07-20 — Introduced in House
 - 2017-07-20 — Introduced in House
 - 2017-07-20 — Referred to the House Committee on Financial Services.
+- 2017-07-24 — Rules Committee Resolution H. Res. 468 Reported to House. Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2017-07-25 — Considered under the provisions of rule H. Res. 468. (consideration: CR H6268-6278)
+- 2017-07-25 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 111.
+- 2017-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-25 — On passage Passed by recorded vote: 231 - 190 (Roll no. 412). (text: CR H6269)
+- 2017-07-25 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 190 (Roll no. 412).(text: CR H6269)
+- 2017-07-25 — Received in the Senate, read twice.
+- 2017-07-25 — Rule H. Res. 468 passed House.
+- 2017-07-25 — Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2017-07-25 — The previous question was ordered pursuant to the rule.
