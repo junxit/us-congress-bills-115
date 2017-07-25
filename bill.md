@@ -19,3 +19,11 @@ Not later than 90 days after the date of enactment of this Act, and quarterly th
 
 - **(1)** the size of the personnel security clearance investigation process backlog; and
 - **(2)** the average length of time, for each sensitivity level, to carry out an initial investigation and a periodic investigation.
+
+## § 3. Report on Security Clearance Investigations of personnel of the Executive Office of the President
+
+Not later than 90 days after the date of enactment of this Act, the Director of the National Background Investigations Bureau of the Office of Personnel Management shall submit to Congress a report that explains the process for conducting and adjudicating security clearance investigations for personnel of the Executive Office of the President, including White House personnel.
+
+## § 4. Report on duplicative costs
+
+Not later than 120 days after the date of enactment of this Act, the Director of the National Background Investigations Bureau of the Office of Personnel Management shall submit to Congress a report on the cost of duplicating resources under the control or direction of the National Background Investigations Bureau for implementation of the plan referenced in section 951(a)(1) of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. 1564 note).

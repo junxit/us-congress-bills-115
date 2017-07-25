@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3210
@@ -29,3 +29,8 @@ Securely Expediting Clearances Through Reporting Transparency Act of 2018
 - 2017-07-12 — Introduced in House
 - 2017-07-12 — Introduced in House
 - 2017-07-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-07-19 — Committee Consideration and Mark-up Session Held.
+- 2017-07-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-07-25 — Placed on the Union Calendar, Calendar No. 188.
+- 2017-07-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-258.
+- 2017-07-25 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-258.
