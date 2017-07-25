@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2006
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2006
@@ -16,9 +16,10 @@ VA Procurement Efficiency and Transparency Act
 
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ VA Procurement Efficiency and Transparency Act
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 178.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-246.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-246.
+- 2017-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
