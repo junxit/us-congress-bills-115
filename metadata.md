@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3364
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3364
@@ -60,3 +60,4 @@ Countering America's Adversaries Through Sanctions Act
 - 2017-07-25 — Referred to the Subcommittee on Aviation.
 - 2017-07-25 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
 - 2017-07-25 — Referred to the Subcommittee on Trade.
+- 2017-07-26 — Received in the Senate, read twice.
