@@ -2,14 +2,14 @@
 legis-num: H. RES. 473
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 473
 
 > Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes.
 
-That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed two hours equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. After general debate the bill shall be considered for amendment under the five-minute rule. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-30 shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. Points of order against provisions in the bill, as amended, for failure to comply with clause 2 of rule XXI are waived.
+That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed two hours equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. After general debate the bill shall be considered for amendment under the five-minute rule. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115–30 shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. Points of order against provisions in the bill, as amended, for failure to comply with clause 2 of rule XXI are waived.
 
 ## § 2.
 
