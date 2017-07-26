@@ -27,5 +27,9 @@ The purposes of this Act are—
 
 ## § 3. U.S. Civil Rights Network Program
 
-- **(a)** *In general* Subdivision 1 of Division B of subtitle III of title 54, United States Code, is amended by inserting after chapter 3083 the following:
+- **(a)** *In general* Subdivision 1 of division B of subtitle III of title 54, United States Code, is amended by inserting after chapter 3083 the following:
 - **(b)** *Clerical amendment* The table of chapters for title 54, United States Code, is amended by inserting after the item relating to chapter 3083 the following:
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
