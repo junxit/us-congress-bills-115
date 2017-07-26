@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subdivision 1 of Division B of subtitle III of title 54, United States Code, is amended by inserting after chapter 3083 the following: | the bill names no machine-readable US Code section |
+| — | insert | Subdivision 1 of division B of subtitle III of title 54, United States Code, is amended by inserting after chapter 3083 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of chapters for title 54, United States Code, is amended by inserting after the item relating to chapter 3083 the following: | the bill names no machine-readable US Code section |
