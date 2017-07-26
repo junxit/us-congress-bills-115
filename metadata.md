@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3364
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3364
@@ -36,9 +36,10 @@ Countering America's Adversaries Through Sanctions Act
 - House — Intelligence (Permanent Select) Committee
 - House — Foreign Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-07-25 — [House 115-1-413](votes/house-115-1-0413.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–3)
+- 2017-07-27 — [Senate 115-1-175](votes/senate-115-1-0175.md) — On Passage of the Bill — **Bill Passed** (98–2)
 
 ## Actions
 
@@ -65,3 +66,10 @@ Countering America's Adversaries Through Sanctions Act
 - 2017-07-25 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
 - 2017-07-25 — Referred to the Subcommittee on Trade.
 - 2017-07-26 — Received in the Senate, read twice.
+- 2017-07-27 — Message on Senate action sent to the House.
+- 2017-07-27 — Passed Senate without amendment by Yea-Nay Vote. 98 - 2. Record Vote Number: 175. (consideration: CR S4387-4389)
+- 2017-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 98 - 2. Record Vote Number: 175.(consideration: CR S4387-4389)
+- 2017-07-28 — Presented to President.
+- 2017-07-28 — Presented to President.
+- 2017-08-02 — Signed by President.
+- 2017-08-02 — Signed by President.
