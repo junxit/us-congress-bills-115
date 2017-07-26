@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3178
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3178
@@ -29,10 +29,11 @@ Medicare Part B Improvement Act of 2017
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Medicare Part B Improvement Act of 2017
 - 2017-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6233-6235)
 - 2017-07-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-254, Part I.
 - 2017-07-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-254, Part I.
+- 2017-07-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
