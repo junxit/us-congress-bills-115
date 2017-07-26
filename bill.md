@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3417
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3417
+
+> To authorize the Secretary of Health and Human Services to carry out a pilot program to improve community-based care infrastructure.
+
+## § 1. Pilot program To improve community-based care infrastructure
+
+- **(a)** *In general* The Secretary of Health and Human Services may award grants to qualified teaching health centers (as defined in section 340H of the Public Health Service Act (42 U.S.C. 256h)) and behavioral health care centers (as defined by the Secretary, to include both substance abuse and mental health care facilities) to support the improvement, renovation, or modernization of infrastructure at such centers.
+- **(b)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $100,000,000, to remain available until expended.
