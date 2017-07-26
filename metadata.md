@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2182
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2182
@@ -46,3 +46,4 @@ Plum Island Preservation Act
 - 2017-07-25 — Mr. Donovan moved to suspend the rules and pass the bill.
 - 2017-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6239)
 - 2017-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6239)
+- 2017-07-26 — Received in the Senate.
