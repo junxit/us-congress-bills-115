@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 3481
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3481
+
+> To require the inclusion of audit information on the website required by the Federal Funding Accountability and Transparency Act of 2006, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Increasing Transparency in Federal Audits Act”.
+
+## § 2. Inclusion of audit information on USAspending.gov
+
+- **(a)** *Amendments* Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
+  - **(1)** in subsection (a)(7)—
+    - **(A)** in subparagraph (C), by striking “; and” and inserting a semicolon;
+    - **(B)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
+    - **(C)** by inserting at the end the following new subparagraph:
+      > - **(E)** search for and download the results of any audit performed pursuant to chapter 75 of title 31, United States Code.
+
+  - **(2)** in subsection (b), by inserting at the end the following new paragraph:
+    > - **(5)** *Inclusion of audit information on website*
+    >   - **(A)** *In general* The website described in paragraph (1) shall include the results of any audit performed pursuant to chapter 75 of title 31, United States Code.
+    >   - **(B)** *Coordination* The Secretary shall coordinate the transfer of the following:
+    >     - **(i)** The results of any audit performed pursuant to chapter 75 of title 31, United States Code.
+    >     - **(ii)** Any other information the Secretary determines to be necessary to meet the requirements of this paragraph.
+
+- **(b)** *Report requirement* Not later than 180 days after the date of the enactment of this Act, the Comptroller General, in consultation with the Inspector General of the Department of the Treasury, shall submit to Congress either—
+  - **(1)** a certification that this Act, and the amendments made by this Act, have been fully implemented; or
+  - **(2)** if this Act, and the amendments made by this Act, have not been fully implemented, the status of such implementation, including any recommendations, as necessary.
+- **(c)** *Applicability* The amendments made by subsection (a) shall apply with respect to any audit conducted under chapter 75 of title 31, United States Code, at any time.
