@@ -16,7 +16,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas first responders deserve to be recognized for their commitment to safety, defense, and honor; and
 - Whereas October 28, 2017, would be an appropriate day to establish as “Honoring the Nation’s First Responders Day”: Now, therefore, be it
 
-That the Senate—
+That the Senate Congress—
 
 - **(1)** supports the designation of October 28, 2017, as “Honoring the Nation’s First Responders Day”;
 - **(2)** honors and recognizes the contributions of first responders; and
