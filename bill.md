@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3486
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3486
+
+> To authorize the Capitol Police to enforce the immigration laws, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending the Sanctuary Capitol Policy Act of 2017”.
+
+## § 2. Capitol police authorized to enforce the immigration laws
+
+Section 9B of the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946 (2 U.S.C. 1967), is amended—
+
+- **(1)** in paragraph (4), by striking “and”;
+- **(2)** in paragraph (5)(B), by striking the period at the end and inserting “; and”; and
+- **(3)** by inserting after paragraph (5) the following:
+  > - **(6)** within the District of Columbia, including the area described under subsection (b), with respect to any violation of the immigration laws, if the officer is in the performance of official duties when the authority is exercised.
