@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 480
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 480
+
+> Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Veterans' Affairs; and (2) one motion to recommit with or without instructions.
