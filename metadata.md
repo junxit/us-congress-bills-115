@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1927
@@ -91,9 +91,10 @@ African American Civil Rights Network Act of 2017
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. McEachin, A. Donald [D-VA-4] (M001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -112,3 +113,4 @@ African American Civil Rights Network Act of 2017
 - 2017-07-26 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2017-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6330)
 - 2017-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6330)
+- 2017-07-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
