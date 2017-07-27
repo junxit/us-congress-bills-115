@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3298
@@ -184,3 +184,5 @@ Wounded Officers Recovery Act of 2017
 - 2017-07-27 — Senate amendment agreed to: Amendment SA 409 agreed to in Senate by Unanimous Consent.
 - 2017-07-27 — Senate amendment proposed (on the floor): Amendment SA 409 proposed by Senator Flake.(consideration: CR S4362; text: CR S4362)
 - 2017-07-27 — Senate amendment submitted
+- 2017-08-04 — Signed by President.
+- 2017-08-04 — Signed by President.
