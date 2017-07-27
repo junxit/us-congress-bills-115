@@ -2,31 +2,35 @@
 legis-num: H.R. 3298
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3298
 
-> To authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.
+That the bill from the House of Representatives (H.R. 3298) entitled “An Act to authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Wounded Officers Recovery Act of 2017”.
 
-## § 2. Payments from United States Capitol Police Memorial Fund to employees sustaining serious line-of-duty injuries
+## § 2. Payments from United States Capitol Police Memorial Fund for employees killed in the line of duty or sustaining serious line-of-duty injuries
 
 - **(a)** *Authorizing payments from Fund* Section 2 of Public Law 105–223 (2 U.S.C. 1952) is amended—
   - **(1)** in the section heading, by inserting “and certain other United States Capitol Police employees” before the period at the end;
   - **(2)** by striking “Subject to the regulations” and inserting “(a) In general.—Except to the extent used or reserved for use under subsection (b) and subject to the regulations”; and
   - **(3)** by adding at the end the following new subsection:
-    > - **(b)** *Payments for employees sustaining serious line-of-Duty injuries* In addition to the amounts paid under subsection (a), amounts in the Fund may be paid to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, in accordance with the regulations issued under section 4(b).
+    > - **(b)** *Payments for employees killed in the line of duty or sustaining serious line-of-duty injuries* In addition to the amounts paid under subsection (a), and in accordance with the regulations issued under section 4(b), amounts in the Fund may be paid to—
+    >   - **(1)** families of employees of the United States Capitol Police who were killed in the line of duty; or
+    >   - **(2)** employees of the United States Capitol Police who have sustained serious line-of-duty injuries.
 
 - **(b)** *Regulations of Capitol Police Board* Section 4 of Public Law 105–223 (2 U.S.C. 1954) is amended—
   - **(1)** by striking “The Capitol Police Board” and inserting “(a) In general.—The Capitol Police Board”; and
   - **(2)** by adding at the end the following new subsection:
-    > - **(b)** *Regulations governing payments to employees sustaining serious line-of-Duty injuries* In carrying out subsection (a), the Capitol Police Board shall issue specific regulations governing the use of the Fund for making payments to employees of the United States Capitol Police who have sustained serious line-of-duty injuries (as authorized under section 2(b)), including regulations—
-    >   - **(1)** establishing the conditions under which an employee is eligible to receive such a payment;
+    > - **(b)** *Regulations governing payments for employees killed in the line of duty or sustaining serious line-of-duty injuries* In carrying out subsection (a), the Capitol Police Board shall issue specific regulations governing the use of the Fund for making payments to families of employees of the United States Capitol Police who were killed in the line of duty and employees of the United States Capitol Police who have sustained serious line-of-duty injuries (as authorized under section 2(b)), including regulations—
+    >   - **(1)** establishing the conditions under which the family of an employee or an employee is eligible to receive such a payment;
     >   - **(2)** providing for the amount, timing, and manner of such payments; and
-    >   - **(3)** ensuring that any such payment is in addition to, and does not otherwise affect, any other form of compensation payable to the employee, including benefits for workers’ compensation under chapter 81 of title 5, United States Code.
+    >   - **(3)** ensuring that any such payment is in addition to, and does not otherwise affect, any other form of compensation payable to the family of an employee or the employee, including benefits for workers’ compensation under chapter 81 of title 5, United States Code.
 
 - **(c)** *Treatment of amounts received in response to incident of June 14, 2017* The second sentence of section 1 of Public Law 105–223 (2 U.S.C. 1951) is amended by striking “deposit into the Fund” and inserting “deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017,”.
