@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2370
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2370
@@ -20,9 +20,10 @@ Escambia County Land Conveyance Act
 
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Escambia County Land Conveyance Act
 - 2017-07-26 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2017-07-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6329)
 - 2017-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6329)
+- 2017-07-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
