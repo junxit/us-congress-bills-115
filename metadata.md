@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3298
@@ -16,7 +16,7 @@ Wounded Officers Recovery Act of 2017
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Cosponsors (128)
+## Cosponsors (131)
 
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
@@ -146,6 +146,9 @@ Wounded Officers Recovery Act of 2017
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (2)
 
@@ -164,3 +167,20 @@ Wounded Officers Recovery Act of 2017
 - 2017-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6183)
 - 2017-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6183)
 - 2017-07-24 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2017-07-27 — Amendment SA 409 agreed to in Senate by Unanimous Consent.
+- 2017-07-27 — Amendment SA 409 proposed by Senator Flake. (consideration: CR S4362; text: CR S4362) In the nature of a substitute.
+- 2017-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S4361-4362)
+- 2017-07-27 — Message on Senate action sent to the House.
+- 2017-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-27 — Mr. Harper asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H6512)
+- 2017-07-27 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6512)
+- 2017-07-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-07-27 — Presented to President.
+- 2017-07-27 — Presented to President.
+- 2017-07-27 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H6512)
+- 2017-07-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2017-07-27 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2017-07-27 — Senate amendment agreed to: Amendment SA 409 agreed to in Senate by Unanimous Consent.
+- 2017-07-27 — Senate amendment proposed (on the floor): Amendment SA 409 proposed by Senator Flake.(consideration: CR S4362; text: CR S4362)
+- 2017-07-27 — Senate amendment submitted

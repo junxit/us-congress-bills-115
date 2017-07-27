@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
