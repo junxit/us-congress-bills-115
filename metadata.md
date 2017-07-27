@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1927
@@ -114,3 +114,12 @@ African American Civil Rights Network Act of 2017
 - 2017-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6330)
 - 2017-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6330)
 - 2017-07-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-12-21 — Passed Senate without amendment by Voice Vote.
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8267-8269)
+- 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8267-8269)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-27 — Presented to President.
+- 2017-12-27 — Presented to President.
+- 2018-01-08 — Signed by President.
+- 2018-01-08 — Signed by President.

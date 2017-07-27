@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1927
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
