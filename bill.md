@@ -9,4 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > Making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes.
 
-That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2018, for military functions administered by the Department of Defense and for other purposes, namely:
+## § 1. Short title
+
+This Act may be cited as the “Defense, Military Construction, Veterans Affairs, Legislative Branch, and Energy and Water Development National Security Appropriations Act, 2018”.
+
+## § 2. Additional reference
+
+This Act may also be referred to as the “Make America Secure Appropriations Act, 2018”.

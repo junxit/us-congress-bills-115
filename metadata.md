@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3219
@@ -26,3 +26,461 @@ Make America Secure Appropriations Act, 2018
 - 2017-07-13 — Placed on the Union Calendar, Calendar No. 154.
 - 2017-07-13 — The House Committee on Appropriations reported an original measure, H. Rept. 115-219, by Ms. Granger.
 - 2017-07-13 — The House Committee on Appropriations reported an original measure, H. Rept. 115-219, by Ms. Granger.
+- 2017-07-25 — Rules Committee Resolution H. Res. 473 Reported to House. Rule provides for consideration of H.R. 3219 with 2 hours of general debate. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-30 shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2017-07-26 — Amendment (A001) offered by Mr. Connolly. (consideration: CR H6408-6409; text: CR H6408)
+- 2017-07-26 — Amendment (A002) offered by Mrs. Love. (consideration: CR H6409-6410; text: CR H6409)
+- 2017-07-26 — Amendment (A003) offered by Mr. Kildee. (consideration: CR H6410-6411; text: CR H6410)
+- 2017-07-26 — Amendment (A004) offered by Mr. Perry. (consideration: CR H6411-6412, H6448; text: CR H6411)
+- 2017-07-26 — Amendment (A005) offered by Mr. Griffith. (consideration: CR H6412-6415, H6449; text: CR H6412)
+- 2017-07-26 — Amendment (A006) offered by Mr. Cicilline. (consideration: CR H6415; text: CR H6415)
+- 2017-07-26 — Amendment (A007) offered by Mr. Takano. (consideration: CR H6415-6416, H6449; text: CR H6415)
+- 2017-07-26 — Amendment (A008) offered by Ms. Shea-Porter. (consideration: CR H6416-6417; text: CR H6416)
+- 2017-07-26 — Amendment (A009) offered by Mr. Russell. (consideration: CR H6417-6418; text: CR H6417)
+- 2017-07-26 — Amendment (A010) offered by Mr. Bergman. (consideration: CR H6418; text: CR H6418)
+- 2017-07-26 — Amendment (A012) offered by Mr. Green, Al. (consideration: CR H6421; text: CR H6421)
+- 2017-07-26 — Amendment (A013) offered by Mr. Ratcliffe. (consideration: CR H6422-6423; text: CR H6422)
+- 2017-07-26 — Amendment (A014) offered by Mr. Brat. (consideration: CR H6423-6424; text: CR H6423)
+- 2017-07-26 — Amendment (A015) offered by Mr. King (IA). (consideration: CR H6424-6425, H6450; text: CR H6424)
+- 2017-07-26 — Amendment (A016) offered by Mr. Bergman. (consideration: CR H6425-6426; text: CR H6425)
+- 2017-07-26 — Amendment (A018) offered by Mr. Mitchell. (consideration: CR H6428-6429; text: CR H6428)
+- 2017-07-26 — Amendment (A019) offered by Mr. Mast. (consideration: CR H6429-6430; text: CR H6429)
+- 2017-07-26 — Amendment (A020) offered by Mr. Heck. (consideration: CR H6430-6431; text: CR H6430)
+- 2017-07-26 — Amendment (A021) offered by Ms. Kaptur. (consideration: CR H6431-6432; text: CR H6431)
+- 2017-07-26 — Amendment (A022) offered by Ms. Castor (FL). (consideration: CR H6432-6433, H6451; text: CR H6432)
+- 2017-07-26 — Amendment (A023) offered by Mr. Norcross. (consideration: CR H6433-6434, H6451-6452; text: CR H6433)
+- 2017-07-26 — Amendment (A024) offered by Mr. Quigley. (consideration: CR H6434-6435; text: CR H6434)
+- 2017-07-26 — Amendment (A025) offered by Mr. Polis. (consideration: CR H6435-6436; text: CR H6435)
+- 2017-07-26 — Amendment (A026) offered by Mr. McKinley. (consideration: CR H6436-6437; text: CR H6436)
+- 2017-07-26 — Amendment (A027) offered by Mr. Perry. (consideration: CR H6437-6438; text: CR H6437)
+- 2017-07-26 — Amendment (A028) offered by Ms. Esty (CT). (consideration: CR H6438-6439, H6452; text: CR H6438)
+- 2017-07-26 — Amendment (A029) offered by Ms. Jackson Lee. (consideration: CR H6439-6440; text: CR H6439)
+- 2017-07-26 — Amendment (A030) offered by Ms. Lujan Grisham, M.. (consideration: CR H6440-6441; text: CR H6440)
+- 2017-07-26 — Amendment (A031) offered by Mr. Foster. (consideration: CR H6441-6442; text: CR H6441)
+- 2017-07-26 — Amendment (A032) offered by Mr. Garamendi. (consideration: CR H6442-6443, H6452-6453; text: CR H6442)
+- 2017-07-26 — Amendment (A033) offered by Ms. Rosen. (consideration: CR H6443-6444; text: CR H6443)
+- 2017-07-26 — Amendment (A034) offered by Ms. Pingree. (consideration: CR H6444-6445, H6453-6454; text: CR H6444)
+- 2017-07-26 — Amendment (A035) offered by Mr. Kihuen. (consideration: CR H6445-6446; text: CR H6446)
+- 2017-07-26 — Amendment (A036) offered by Ms. Jackson Lee. (consideration: CR H6446-6448, H6454; text: CR H6447)
+- 2017-07-26 — Amendment (A037) offered by Ms. Jackson Lee. (consideration: CR H6454-6455; text: CR H6454-6455)
+- 2017-07-26 — Amendment (A038) offered by Ms. Jackson Lee. (consideration: CR H6455-6456; text: CR H6455)
+- 2017-07-26 — Amendment (A039) offered by Mr. Gosar. (consideration: CR H6456-6457; text: CR H6456)
+- 2017-07-26 — Amendment (A040) offered by Ms. DelBene. (consideration: CR H6457-6458; text: CR H6457)
+- 2017-07-26 — Amendment (A041) offered by Mr. Burgess. (consideration: CR H6458-6459; text: CR H6458)
+- 2017-07-26 — Amendment (A042) offered by Mrs. Blackburn. (consideration: CR H6459-6460; text: CR H6459)
+- 2017-07-26 — Amendment (A043) offered by Mr. Perry. (consideration: CR H6460-6461; text: CR H6460)
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment agreed to Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendment failed in Committee of the Whole
+- 2017-07-26 — Amendments en bloc (A011) offered by Mr. Dent. (consideration: CR H6419-6421; text: CR H6419)
+- 2017-07-26 — Amendments en bloc (A017) offered by Mr. Simpson. (consideration: CR H6426-6427; text: CR H6426-6427)
+- 2017-07-26 — By unanimous consent, the Bergman amendment was withdrawn. (consideration: CR H6418)
+- 2017-07-26 — By unanimous consent, the DelBene amendment was withdrawn. (consideration: CR H6458)
+- 2017-07-26 — By unanimous consent, the Green, Al amendment was withdrawn. (consideration: CR H6421)
+- 2017-07-26 — By unanimous consent, the Lujan Grisham, M. amendment was withdrawn. (consideration: CR H6441)
+- 2017-07-26 — By unanimous consent, the Rosen amendment was withdrawn. (consideration: CR H6444)
+- 2017-07-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 3219 as unfinished business.
+- 2017-07-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 3219 as unfinished business.
+- 2017-07-26 — Considered as unfinished business. (consideration: CR H6428-6437)
+- 2017-07-26 — Considered as unfinished business. (consideration: CR H6437-6462)
+- 2017-07-26 — Considered under the provisions of rule H. Res. 473. (consideration: CR H6335-6428; text: CR H6371-6407)
+- 2017-07-26 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Heck amendment No. 35.
+- 2017-07-26 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Mast amendment No. 32.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green amendment No. 13.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Bergman amendment No. 11.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Bergman amendment No. 27.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 62.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Brat amendment No. 21.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 61.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 38.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the DelBene amendment No. 60.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Esty (CT) amendment No. 44.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 51.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 52.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 59.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 49.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 56.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 57.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 58.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment No. 37.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Kihuen amendment No. 55.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 3.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 23.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 42.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Michelle Lujan Grisham (NM) amendment No. 50.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 36.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Norcross amendment No. 39.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 43.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 63.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Pingree amendment No. 54.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 41.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment No. 40.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Ratcliffe amendment No. 20.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Rosen amendment No. 53.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Russell amendment No. 9.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter amendment No. 8.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 7.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 20 minutes of debate on the Dent en bloc amendment No. 1.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 20 minutes of debate on the Simpson en bloc amendment No. 2.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H.Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 6.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H.Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 1.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H.Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 5.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H.Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Love amendment No. 2.
+- 2017-07-26 — DEBATE - Pursuant to the provisions of H.Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 4.
+- 2017-07-26 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 3219.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Bergman amendment (A016) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Brat amendment (A014) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Burgess amendment (A041) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Cicilline amendment (A006) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Dent amendments (A011) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Foster amendment (A031) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Gosar amendment (A039) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Heck amendment (A020) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A029) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A036) Agreed to by recorded vote: 234 - 192 (Roll no. 425).
+- 2017-07-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A037) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A038) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Kildee amendment (A003) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Love amendment (A002) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Mast amendment (A019) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the McKinley amendment (A026) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Perry amendment (A027) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Ratcliffe amendment (A013) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Russell amendment (A009) Agreed to by voice vote.
+- 2017-07-26 — House amendment agreed to: On agreeing to the Simpson amendments (A017) Agreed to by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Castor (FL) amendment (A022) Failed by recorded vote: 181 - 246 (Roll no. 420).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Connolly amendment (A001) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Esty (CT) amendment (A028) Failed by recorded vote: 203 - 224 (Roll no. 422).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Garamendi amendment (A032) Failed by recorded vote: 180 - 247 (Roll no. 423).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Griffith amendment (A005) Failed by recorded vote: 116 - 309 (Roll no. 417).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Kaptur amendment (A021) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Kihuen amendment (A035) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the King (IA) amendment (A015) Failed by recorded vote: 178 - 249 (Roll no. 419).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Mitchell amendment (A018) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Norcross amendment (A023) Failed by recorded vote: 186 - 241 (Roll no. 421).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Perry amendment (A004) Failed by recorded vote: 107 - 314 (Roll no. 416).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Pingree amendment (A034) Failed by recorded vote: 192 - 235 (Roll no. 424).
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Polis amendment (A025) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Quigley amendment (A024) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Shea-Porter amendment (A008) Failed by voice vote.
+- 2017-07-26 — House amendment not agreed to: On agreeing to the Takano amendment (A007) Failed by recorded vote: 191 - 236 (Roll no. 418).
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered
+- 2017-07-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Connolly.(consideration: CR H6408-6409; text: CR H6408)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A002) offered by Mrs. Love.(consideration: CR H6409-6410; text: CR H6409)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A003) offered by Mr. Kildee.(consideration: CR H6410-6411; text: CR H6410)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A004) offered by Mr. Perry.(consideration: CR H6411-6412, H6448; text: CR H6411)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A005) offered by Mr. Griffith.(consideration: CR H6412-6415, H6449; text: CR H6412)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A006) offered by Mr. Cicilline.(consideration: CR H6415; text: CR H6415)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A007) offered by Mr. Takano.(consideration: CR H6415-6416, H6449; text: CR H6415)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A008) offered by Ms. Shea-Porter.(consideration: CR H6416-6417; text: CR H6416)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A009) offered by Mr. Russell.(consideration: CR H6417-6418; text: CR H6417)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A010) offered by Mr. Bergman.(consideration: CR H6418; text: CR H6418)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A012) offered by Mr. Green, Al.(consideration: CR H6421; text: CR H6421)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A013) offered by Mr. Ratcliffe.(consideration: CR H6422-6423; text: CR H6422)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A014) offered by Mr. Brat.(consideration: CR H6423-6424; text: CR H6423)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A015) offered by Mr. King (IA).(consideration: CR H6424-6425, H6450; text: CR H6424)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A016) offered by Mr. Bergman.(consideration: CR H6425-6426; text: CR H6425)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A018) offered by Mr. Mitchell.(consideration: CR H6428-6429; text: CR H6428)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A019) offered by Mr. Mast.(consideration: CR H6429-6430; text: CR H6429)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A020) offered by Mr. Heck.(consideration: CR H6430-6431; text: CR H6430)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A021) offered by Ms. Kaptur.(consideration: CR H6431-6432; text: CR H6431)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A022) offered by Ms. Castor (FL).(consideration: CR H6432-6433, H6451; text: CR H6432)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A023) offered by Mr. Norcross.(consideration: CR H6433-6434, H6451-6452; text: CR H6433)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A024) offered by Mr. Quigley.(consideration: CR H6434-6435; text: CR H6434)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A025) offered by Mr. Polis.(consideration: CR H6435-6436; text: CR H6435)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A026) offered by Mr. McKinley.(consideration: CR H6436-6437; text: CR H6436)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A027) offered by Mr. Perry.(consideration: CR H6437-6438; text: CR H6437)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A028) offered by Ms. Esty (CT).(consideration: CR H6438-6439, H6452; text: CR H6438)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A029) offered by Ms. Jackson Lee.(consideration: CR H6439-6440; text: CR H6439)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A030) offered by Ms. Lujan Grisham, M..(consideration: CR H6440-6441; text: CR H6440)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A031) offered by Mr. Foster.(consideration: CR H6441-6442; text: CR H6441)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A032) offered by Mr. Garamendi.(consideration: CR H6442-6443, H6452-6453; text: CR H6442)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A033) offered by Ms. Rosen.(consideration: CR H6443-6444; text: CR H6443)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A034) offered by Ms. Pingree.(consideration: CR H6444-6445, H6453-6454; text: CR H6444)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A035) offered by Mr. Kihuen.(consideration: CR H6445-6446; text: CR H6446)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A036) offered by Ms. Jackson Lee.(consideration: CR H6446-6448, H6454; text: CR H6447)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A037) offered by Ms. Jackson Lee.(consideration: CR H6454-6455; text: CR H6454-6455)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A038) offered by Ms. Jackson Lee.(consideration: CR H6455-6456; text: CR H6455)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A039) offered by Mr. Gosar.(consideration: CR H6456-6457; text: CR H6456)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A040) offered by Ms. DelBene.(consideration: CR H6457-6458; text: CR H6457)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A041) offered by Mr. Burgess.(consideration: CR H6458-6459; text: CR H6458)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A042) offered by Mrs. Blackburn.(consideration: CR H6459-6460; text: CR H6459)
+- 2017-07-26 — House amendment offered/reported by : Amendment (A043) offered by Mr. Perry.(consideration: CR H6460-6461; text: CR H6460)
+- 2017-07-26 — House amendment offered/reported by : Amendments en bloc (A011) offered by Mr. Dent.(consideration: CR H6419-6421; text: CR H6419)
+- 2017-07-26 — House amendment offered/reported by : Amendments en bloc (A017) offered by Mr. Simpson.(consideration: CR H6426-6427; text: CR H6426-6427)
+- 2017-07-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 473 and Rule XVIII.
+- 2017-07-26 — Mr. Simpson moved that the Committee rise.
+- 2017-07-26 — Mr. Simpson moved that the committee rise.
+- 2017-07-26 — On agreeing to the Bergman amendment (A016) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Brat amendment (A014) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Burgess amendment (A041) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Castor (FL) amendment (A022) Failed by recorded vote: 181 - 246 (Roll no. 420).
+- 2017-07-26 — On agreeing to the Cicilline amendment (A006) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Connolly amendment (A001) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Dent amendments (A011) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Esty (CT) amendment (A028) Failed by recorded vote: 203 - 224 (Roll no. 422).
+- 2017-07-26 — On agreeing to the Foster amendment (A031) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Garamendi amendment (A032) Failed by recorded vote: 180 - 247 (Roll no. 423).
+- 2017-07-26 — On agreeing to the Gosar amendment (A039) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Griffith amendment (A005) Failed by recorded vote: 116 - 309 (Roll no. 417).
+- 2017-07-26 — On agreeing to the Heck amendment (A020) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Jackson Lee amendment (A029) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Jackson Lee amendment (A036) Agreed to by recorded vote: 234 - 192 (Roll no. 425).
+- 2017-07-26 — On agreeing to the Jackson Lee amendment (A037) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Jackson Lee amendment (A038) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Kaptur amendment (A021) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Kihuen amendment (A035) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Kildee amendment (A003) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the King (IA) amendment (A015) Failed by recorded vote: 178 - 249 (Roll no. 419).
+- 2017-07-26 — On agreeing to the Love amendment (A002) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Mast amendment (A019) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the McKinley amendment (A026) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Mitchell amendment (A018) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Norcross amendment (A023) Failed by recorded vote: 186 - 241 (Roll no. 421).
+- 2017-07-26 — On agreeing to the Perry amendment (A004) Failed by recorded vote: 107 - 314 (Roll no. 416).
+- 2017-07-26 — On agreeing to the Perry amendment (A027) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Pingree amendment (A034) Failed by recorded vote: 192 - 235 (Roll no. 424).
+- 2017-07-26 — On agreeing to the Polis amendment (A025) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Quigley amendment (A024) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Ratcliffe amendment (A013) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Russell amendment (A009) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Shea-Porter amendment (A008) Failed by voice vote.
+- 2017-07-26 — On agreeing to the Simpson amendments (A017) Agreed to by voice vote.
+- 2017-07-26 — On agreeing to the Takano amendment (A007) Failed by recorded vote: 191 - 236 (Roll no. 418).
+- 2017-07-26 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-07-26 — On motion that the committee rise Agreed to by voice vote.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor(FL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Castor(FL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Esty(CT) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Esty(CT) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Griffith amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Griffith demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Wasserman Schultz demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norcross amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Norcross demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ryan(OH) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pingree amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Pingree demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Takano demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Roll call votes on amendments in House
+- 2017-07-26 — Rule H. Res. 473 passed House.
+- 2017-07-26 — Rule provides for consideration of H.R. 3219 with 2 hours of general debate. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-30 shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2017-07-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-26 — The Speaker designated the Honorable Mike Bost to act as Chairman of the Committee.
+- 2017-07-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-07-27 — Amendment (A044) offered by Mr. Budd. (consideration: CR H6461; text: CR H6461)
+- 2017-07-27 — Amendment (A045) offered by Mr. Mitchell. (consideration: CR H6461-6462; text: CR H6461)
+- 2017-07-27 — Amendment (A047) offered by Mr. Langevin. (consideration: CR H6496-6497; text: CR H6496)
+- 2017-07-27 — Amendment (A048) offered by Mr. Suozzi. (consideration: CR H6497-6498, H6507; text: CR H6497)
+- 2017-07-27 — Amendment (A049) offered by Mr. Boyle, Brendan F.. (consideration: CR H6498-6499, H6507-6508; text: CR H6498)
+- 2017-07-27 — Amendment (A050) offered by Mr. Grothman. (consideration: CR H6499; text: CR H6499)
+- 2017-07-27 — Amendment (A051) offered by Mr. Dunn. (consideration: CR H6499-6500; text: CR H6499)
+- 2017-07-27 — Amendment (A052) offered by Ms. Speier. (consideration: CR H6500-6501; text: CR H6500)
+- 2017-07-27 — Amendment (A053) offered by Mr. Nadler. (consideration: CR H6501-6502, H6508-6509; text: CR H6501)
+- 2017-07-27 — Amendment (A054) offered by Mr. Foster. (consideration: CR H6502-6503; text: CR H6502)
+- 2017-07-27 — Amendment (A055) offered by Mr. Cartwright. (consideration: CR H6503-6504, H6509; text: CR H6504)
+- 2017-07-27 — Amendment (A056) offered by Mr. Davidson. (consideration: CR H6504-6505; text: CR H6504)
+- 2017-07-27 — Amendment (A057) offered by Mr. DeSantis. (consideration: CR H6505-6507; text: CR H6505)
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment agreed to Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendment failed in Committee of the Whole
+- 2017-07-27 — Amendments en bloc (A046) offered by Ms. Granger. (consideration: CR H6493-6496; text: CR H6493-6494)
+- 2017-07-27 — By unanimous consent, the Budd amendment was withdrawn. (consideration: CR H6461)
+- 2017-07-27 — By unanimous consent, the Mitchell amendment was withdrawn. (consideration: CR H6462)
+- 2017-07-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 3219 as unfinished business.
+- 2017-07-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 3219 as unfinished business.
+- 2017-07-27 — Considered as unfinished business. (consideration: CR H6491-6492)
+- 2017-07-27 — Considered as unfinished business. (consideration: CR H6493-6512)
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Budd amendment No. 64.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 473, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 70.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Brendan F. Boyle amendment No. 12.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment No. 43.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson amendment No. 45.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the DeSantis amendment No. 47.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Dunn amendment No. 31.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 42.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 13.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment No. 38.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment No. 35.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H. Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Suozzi amendment No. 10.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H.Res. 478, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 8.
+- 2017-07-27 — DEBATE - Pursuant to the provisions of H.Res. 478, the Committee of the Whole proceeded with 20 minutes of debate on the Granger en bloc amendment No. 1.
+- 2017-07-27 — DEBATE - The House proceeded with 10 minutes of debate on the Roybal-Allard motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike the division of the underlying bill that appropriates $1.6 billion in funds to begin construction of border wall along the U.S. Mexico border.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Boyle, Brendan F. amendment (A049) Agreed to by recorded vote: 256 - 169 (Roll no. 431).
+- 2017-07-27 — House amendment agreed to: On agreeing to the Cartwright amendment (A055) Agreed to by recorded vote: 253 - 172 (Roll no. 433).
+- 2017-07-27 — House amendment agreed to: On agreeing to the DeSantis amendment (A057) Agreed to by voice vote.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Dunn amendment (A051) Agreed to by voice vote.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Granger amendments (A046) Agreed to by voice vote.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Grothman amendment (A050) Agreed to by voice vote.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2017-07-27 — House amendment agreed to: On agreeing to the Suozzi amendment (A048) Agreed to by recorded vote: 214 - 211 (Roll no. 430).
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 140 - 285, 1 Present (Roll no. 428).
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Davidson amendment (A056) Failed by voice vote.
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Foster amendment (A054) Failed by voice vote.
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Nadler amendment (A053) Failed by recorded vote: 172 - 252 (Roll no. 432).
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Perry amendment (A043) Failed by recorded vote: 177 - 248 (Roll no. 429).
+- 2017-07-27 — House amendment not agreed to: On agreeing to the Speier amendment (A052) Failed by voice vote.
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered
+- 2017-07-27 — House amendment offered/reported by : Amendment (A044) offered by Mr. Budd.(consideration: CR H6461; text: CR H6461)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A045) offered by Mr. Mitchell.(consideration: CR H6461-6462; text: CR H6461)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A047) offered by Mr. Langevin.(consideration: CR H6496-6497; text: CR H6496)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A048) offered by Mr. Suozzi.(consideration: CR H6497-6498, H6507; text: CR H6497)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A049) offered by Mr. Boyle, Brendan F..(consideration: CR H6498-6499, H6507-6508; text: CR H6498)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A050) offered by Mr. Grothman.(consideration: CR H6499; text: CR H6499)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A051) offered by Mr. Dunn.(consideration: CR H6499-6500; text: CR H6499)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A052) offered by Ms. Speier.(consideration: CR H6500-6501; text: CR H6500)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A053) offered by Mr. Nadler.(consideration: CR H6501-6502, H6508-6509; text: CR H6501)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A054) offered by Mr. Foster.(consideration: CR H6502-6503; text: CR H6502)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A055) offered by Mr. Cartwright.(consideration: CR H6503-6504, H6509; text: CR H6504)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A056) offered by Mr. Davidson.(consideration: CR H6504-6505; text: CR H6504)
+- 2017-07-27 — House amendment offered/reported by : Amendment (A057) offered by Mr. DeSantis.(consideration: CR H6505-6507; text: CR H6505)
+- 2017-07-27 — House amendment offered/reported by : Amendments en bloc (A046) offered by Ms. Granger.(consideration: CR H6493-6496; text: CR H6493-6494)
+- 2017-07-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 478 and Rule XVIII.
+- 2017-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-27 — Mr. Simpson moved that the Committee now rise.
+- 2017-07-27 — Ms. Roybal-Allard moved to recommit with instructions to the Committee on Appropriations.
+- 2017-07-27 — On agreeing to the Blackburn amendment (A042) Failed by recorded vote: 140 - 285, 1 Present (Roll no. 428).
+- 2017-07-27 — On agreeing to the Boyle, Brendan F. amendment (A049) Agreed to by recorded vote: 256 - 169 (Roll no. 431).
+- 2017-07-27 — On agreeing to the Cartwright amendment (A055) Agreed to by recorded vote: 253 - 172 (Roll no. 433).
+- 2017-07-27 — On agreeing to the Davidson amendment (A056) Failed by voice vote.
+- 2017-07-27 — On agreeing to the DeSantis amendment (A057) Agreed to by voice vote.
+- 2017-07-27 — On agreeing to the Dunn amendment (A051) Agreed to by voice vote.
+- 2017-07-27 — On agreeing to the Foster amendment (A054) Failed by voice vote.
+- 2017-07-27 — On agreeing to the Granger amendments (A046) Agreed to by voice vote.
+- 2017-07-27 — On agreeing to the Grothman amendment (A050) Agreed to by voice vote.
+- 2017-07-27 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2017-07-27 — On agreeing to the Nadler amendment (A053) Failed by recorded vote: 172 - 252 (Roll no. 432).
+- 2017-07-27 — On agreeing to the Perry amendment (A043) Failed by recorded vote: 177 - 248 (Roll no. 429).
+- 2017-07-27 — On agreeing to the Speier amendment (A052) Failed by voice vote.
+- 2017-07-27 — On agreeing to the Suozzi amendment (A048) Agreed to by recorded vote: 214 - 211 (Roll no. 430).
+- 2017-07-27 — On motion that the Committee now rise Agreed to by voice vote.
+- 2017-07-27 — On motion to recommit with instructions Failed by recorded vote: 193 - 234 (Roll no. 434).
+- 2017-07-27 — On passage Passed by the Yeas and Nays: 235 - 192 (Roll no. 435).
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brendan F. Boyle amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Brendan F. Boyle demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cartwright demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSantis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. DeSantis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Suozzi amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Suozzi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2017-07-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 192 (Roll no. 435).
+- 2017-07-27 — Pursuant to the provisions of H.Res. 478, the House proceeded with further consideration of H.R. 3219.
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — Roll call votes on amendments in House
+- 2017-07-27 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-07-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-07-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3219.
+- 2017-07-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-07-27 — The previous question was ordered pursuant to the rule.
+- 2017-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings were postponed.
+- 2017-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-07-27 — VACATED PROCEEDINGS - Mr. Visclosky asked unanmious consent to vacate the proceedings for a recorded vote on the DeSantis amendment No. 47, to the end that the Chair put the question on the amendment de novo. Agreed to without objection.
