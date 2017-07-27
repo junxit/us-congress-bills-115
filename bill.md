@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3298
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3298
 
-That the bill from the House of Representatives (H.R. 3298) entitled “An Act to authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.
 
 ## § 1. Short title
 
