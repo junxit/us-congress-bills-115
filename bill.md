@@ -1,12 +1,15 @@
 ---
 legis-num: S. 114
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 114
 
-That the bill from the Senate (S. 114) entitled “An Act to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.”, do pass with the following
+> To authorize appropriations and to appropriate amounts for the Veterans Choice Program of the Department of Veterans Affairs, to improve hiring authorities of the Department, to authorize major medical facility leases, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “VA Choice and Quality Employment Act of 2017”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:

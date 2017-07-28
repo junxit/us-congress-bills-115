@@ -1,7 +1,7 @@
 ---
 measure: S. 114
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 114
@@ -16,9 +16,11 @@ VA Choice and Quality Employment Act of 2017
 
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (2)
 
@@ -56,3 +58,11 @@ VA Choice and Quality Employment Act of 2017
 - 2017-07-28 — Rule provides for consideration of S. 114 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that the amendment in the nature of a substitute printed in the Rules Committee report shall be considered as adopted and the bill, as amended, shall be considered as read.
 - 2017-07-28 — The previous question was ordered pursuant to the rule.
 - 2017-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2017-07-31 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2017-08-01 — Resolving differences -- Senate actions: Senate agreed to the House amendments to the Senate bill by Voice Vote.(text as Senate agree to the House amendment: CR S4686)
+- 2017-08-01 — Senate agreed to the House amendments to the Senate bill by Voice Vote. (text as Senate agree to the House amendment: CR S4686)
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-07 — Presented to President.
+- 2017-08-07 — Presented to President.
+- 2017-08-12 — Signed by President.
+- 2017-08-12 — Signed by President.
