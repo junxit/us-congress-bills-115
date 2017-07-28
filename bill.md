@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 3601
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3601
+
+> To amend the Consumer Financial Protection Act of 2010 to clarify data and information sharing requirements regarding consumer complaints, and for other purposes.
+
+## § 1. Short Title
+
+This Act may be cited as the “Protecting Consumers from Frivolous Claims Act of 2017”.
+
+## § 2. Promoting discretion within the Consumer Financial Protection Act
+
+Subsection (b) of section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(b)) is amended—
+
+- **(a)** in paragraph (1), by striking “shall establish” and inserting “may establish”;
+- **(b)** in paragraph (2), by striking “shall establish” and inserting “may establish”; and
+- **(c)** in subsection (D) of paragraph (3)—
+  - **(1)** by striking “To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the” and inserting “The”; and
+  - **(2)** by adding at the end the following: “Information collected under this paragraph may not be made publicly available.”.
