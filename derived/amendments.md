@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 1 executed, 27 stated and not applied.
+31 amendatory instructions. 1 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,7 +55,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (g)(1), by striking “noteworthy”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “The descriptions referred to in subsection (a) shall include the following elements” and inserting “In addition to the descriptions referred to in subsection (a), each such candidate shall be urged to desc… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “such l” and inserting “such agenda”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 7107` | replace | in subparagraph (C), by striking “; or” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7107` | strike | in subparagraph (C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7107` | strike | in subparagraph (D), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7107` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
@@ -63,7 +64,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1), as amended by paragraph (2) of this section, the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | Section 404(a) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “outstanding”. | the bill names no machine-readable US Code section |
 | — | replace | The section heading of section 419 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “anti-semitism” and inserting “intolerance”. | the bill names no machine-readable US Code section |
-| — | replace | Section 603(f)(1) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “section 362” and inserting “section 602(c)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(1), by striking “section 362” and inserting “section 602(c)”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (h) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 604 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | Section 703(b)(2) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “any significant restructuring,”. | the bill names no machine-readable US Code section |
 | — | insert | Section 709(a) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by inserting “, to the extent practicable,” before “transmit”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 6901` | replace | in subsection (a), by striking “In general” and inserting the following: “Policy.— | the bill quotes the text struck but describes what replaces it |

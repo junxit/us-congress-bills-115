@@ -2,18 +2,20 @@
 legis-num: S. 371
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 371
 
-> To make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.
+That the bill from the Senate (S. 371) entitled “An Act to make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Department of State Authorities Act, Fiscal Year 2017, Improvements Act”.
 
-## § 2. Oversight by Committees on Appropriations
+## § 2. Reports
 
 - **(a)** *Omnibus Diplomatic Security and Antiterrorism Act of 1986* Section 104(a) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 101 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323), is amended by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
 - **(b)** *Annual report on embassy construction costs* Section 118(a) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by inserting “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
@@ -46,10 +48,11 @@ Section 310 of the Department of State Authorities Act, Fiscal Year 2017 (Public
 
 Section 311(a)(2) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended—
 
-- **(1)** in subparagraph (C), by striking “; or” and inserting a semicolon; and
-- **(2)** by adding at the end the following new subparagraphs:
+- **(1)** in subparagraph (C), by striking “or” at the end;
+- **(2)** in subparagraph (D), by striking “and” at the end; and
+- **(3)** by adding at the end the following new subparagraphs:
   > - **(E)** which has been designated as a Tier 3 country in the annual Department of State Trafficking in Persons Report under the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107); or
-  > - **(F)** which is identified as having failed to prevent or address gross violations of human rights in the annual Department of State Human Rights Report under the Foreign Assistance Act of 1961 and the Trade Act of 1974.
+  > - **(F)** which is identified as having failed to prevent or address gross violations of human rights in the annual Department of State Human Rights Report under the Foreign Assistance Act of 1961 and the Trade Act of 1974; and
 
 ## § 6. Comparative report on peacekeeping operations
 
@@ -71,19 +74,29 @@ Section 404(a) of the Department of State Authorities Act, Fiscal Year 2017 (Pub
 
 The section heading of section 419 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “anti-semitism” and inserting “intolerance”.
 
-## § 9. Technical correction regarding completion of Western Hemisphere Drug Policy Commission report
+## § 9. Technical corrections regarding completion of western hemisphere drug policy commission report
 
-Section 603(f)(1) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “section 362” and inserting “section 602(c)”.
+Section 603 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended—
 
-## § 10. Broadcasting Board of Governors
+- **(1)** in subsection (f)(1), by striking “section 362” and inserting “section 602(c)”; and
+- **(2)** by amending subsection (h) to read as follows:
+  > - **(h)** *Compensation* Members of the Commission shall serve without pay or benefits.
+
+## § 10. Technical correction regarding powers of Western Hemisphere Drug Policy Commission
+
+Section 604 of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by adding at the end the following new subsection:
+
+> - **(f)** *Gifts, bequests, and devises* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of carrying out any duty, power, or authority of the Commission.
+
+## § 11. Broadcasting Board of Governors
 
 Section 703(b)(2) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by striking “any significant restructuring,”.
 
-## § 11. Ransoms to foreign terrorist organizations
+## § 12. Ransoms to foreign terrorist organizations
 
 Section 709(a) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323) is amended by inserting “, to the extent practicable,” before “transmit”.
 
-## § 12. Restoration of Tibet report
+## § 13. Restoration of Tibet report
 
 Section 613 of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228, 22 U.S.C. 6901 note), as amended by section 715(b)(1) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323), is further amended—
 
@@ -93,5 +106,9 @@ Section 613 of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public
 - **(2)** by redesignating subsection (b) as paragraph (2) and moving such paragraph, as so redesignated, two ems to the right; and
 - **(3)** by adding at the end the following new subsection:
   > - **(b)** *Periodic reports* Not later than 180 days after the date of the enactment of the Department of State Authorities Act, Fiscal Year 2017, Improvements Act, and annually thereafter until December 31, 2021, the President shall transmit to the appropriate congressional committees a report on—
-  >   - **(1)** the steps taken by the President and the Secretary in accordance with subsection (a)(1); and
-  >   - **(2)** the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives.
+  >   - **(1)** the steps taken by the President and the Secretary in accordance with subsection (a)(1) to implement the Tibetan Policy Act of 2002; and
+  >   - **(2)** the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama’s own choosing or the representatives of such successor.
+
+## § 14. Department of State reorganizations
+
+The report required under subsection (l) of section 7034 of the Consolidated Appropriations Act, 2017 (Public Law 115–31) shall also be provided to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations in the Senate concurrent with the submission of such report to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate pursuant to such subsection.
