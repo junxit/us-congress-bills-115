@@ -1,0 +1,17 @@
+---
+legis-num: H. RES. 491
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 491
+
+> A resolution affirming and recognizing the Khmer, Laotian, Hmong, and the other ethnic groups commonly referred to as Montagnards of Cambodia and Laos who supported and defended the United States Armed Forces and freedom in Southeast Asia.
+
+## Preamble
+
+- Whereas many Khmer, Laotian, Hmong, and Montagnards— (1)fought and died with the United States Armed Forces during the conflict in Southeast Asia; (2)rescued United States pilots shot down in enemy-controlled territory and returned the pilots to safety; (3)captured and destroyed enemy supplies and prevented enemy forces from using the supplies to kill members of the United States Armed Forces; (4)gathered and provided to the United States Armed Forces intelligence about enemy troop positions, movement, and strength; and (5)provided food, shelter, and support to the United States Armed Forces; and
+- Whereas the National Armed Forces of Cambodia facilitated the evacuation of the United States Embassy in Phnom Penh on April 12, 1975, by continuing to fight Khmer Rouge forces as they advanced upon the capital: Now, therefore, be it
+
+That the House of Representatives affirms and recognizes these Khmer, Laotian, Hmong, and Montagnard people of Cambodia and Laos for their support and defense of the United States Armed Forces and freedom in Southeast Asia.
