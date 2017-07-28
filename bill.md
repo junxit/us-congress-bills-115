@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3570
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3570
+
+> To amend part A of title II of the Clean Air Act to exclude trailers and other vehicles that rely on a connection to a self-propelled vehicle from the definition of a motor vehicle.
+
+## § 1. Short title
+
+This Act may be cited as the “Transportation and Trailer Modernization Act of 2017”.
+
+## § 2. Exclusion of vehicles that are not self-propelled from motor vehicle definition
+
+Paragraph (2) of section 216 of the Clean Air Act (42 U.S.C. 7550) is amended to read as follows:
+
+> - **(2)** The term motor vehicle means—
+>   - **(A)** any self-propelled vehicle designed for transporting persons or property on a street or highway; and
+>   - **(B)** excludes any vehicle, such as a trailer, that relies upon connection to a self-propelled vehicle described in subparagraph (A) for propulsion.
