@@ -1,7 +1,7 @@
 ---
 measure: H.R. 95
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subchapter III of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1730A the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “September 30, 2024” and inserting “September 30, 2026”. | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “September 30, 2024” and inserting “December 31, 2024”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (iv), by striking “September 30, 2024” and inserting “December 31, 2024”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”. | the bill names no machine-readable US Code section |

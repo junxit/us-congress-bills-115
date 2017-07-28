@@ -41,3 +41,24 @@ This Act may be cited as the “Veterans’ Access to Child Care Act”.
   >     - **(C)** such other intensive health care services that the Secretary determines that provision of assistance to the veteran to obtain child care would improve access to such health care services by the veteran.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1730A the following new item:
+
+## § 3. Extension of reduction in amount of pension furnished by Department of Veterans Affairs for certain veterans covered by medicaid plans for services furnished by nursing facilities
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “September 30, 2024” and inserting “September 30, 2026”.
+
+## § 4. Extension of requirement for collection of fees for housing loans guaranteed by Secretary of Veterans Affairs
+
+Section 3729(b)(2) of title 38, United States Code, is amended—
+
+- **(1)** in subparagraph (A)—
+  - **(A)** in clause (iii), by striking “September 30, 2024” and inserting “December 31, 2024”; and
+  - **(B)** in clause (iv), by striking “September 30, 2024” and inserting “December 31, 2024”;
+- **(2)** in subparagraph (B)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”;
+- **(3)** in subparagraph (C)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”; and
+- **(4)** in subparagraph (D)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “December 31, 2024”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “December 31, 2024”.
