@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3180
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3180
@@ -24,9 +24,10 @@ Intelligence Authorization Act for Fiscal Year 2018
 
 - House — Intelligence (Permanent Select) Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2017-07-24 — [House 115-1-407](votes/house-115-1-0407.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (241–163)
+- 2017-07-28 — [House 115-1-437](votes/house-115-1-0437.md) — On Passage — **Passed** (380–35)
 
 ## Actions
 
@@ -43,3 +44,13 @@ Intelligence Authorization Act for Fiscal Year 2018
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 183.
 - 2017-07-24 — Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.
 - 2017-07-24 — Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.
+- 2017-07-27 — Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.
+- 2017-07-28 — Considered under the provisions of rule H. Res. 481. (consideration: CR H6547-6557)
+- 2017-07-28 — DEBATE - The House proceeded with one hour of debate on H.R. 3180.
+- 2017-07-28 — House amendment offered
+- 2017-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-28 — On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437). (text: CR H6547-6552)
+- 2017-07-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437).(text: CR H6547-6552)
+- 2017-07-28 — Rule H. Res. 481 passed House.
+- 2017-07-28 — Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.
+- 2017-07-28 — The previous question was ordered pursuant to the rule.
