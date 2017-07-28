@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2772
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2772
@@ -39,3 +39,9 @@ SEA Act of 2018
 - 2017-07-24 — Placed on the Union Calendar, Calendar No. 180.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.
 - 2017-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.
+- 2017-07-28 — Considered under suspension of the rules. (consideration: CR H6540)
+- 2017-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2772.
+- 2017-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-28 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540)
+- 2017-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6540)
