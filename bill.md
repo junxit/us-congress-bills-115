@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3262
 
-> To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, and for other purposes.
+> To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, to establish pay grades and require competitive pay for physician assistants of the Department, and for other purposes.
 
 ## § 1. Short title
 
@@ -24,7 +24,7 @@ This Act may be cited as the “Grow Our Own Directive: Physician Assistant Empl
   - **(3)** is not eligible to participate in educational assistance under chapter 30, 31, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code;
   - **(4)** has participated in the delivery of health care services or related medical services, including participation in military training relating to the identification, evaluation, treatment, and prevention of diseases and disorders; and
   - **(5)** does not have a degree of doctor of medicine, doctor of osteopathy, or doctor of dentistry.
-- **(c)** *Duration* The pilot program shall be carried out during the 5-year period beginning on the date that is 180 days after the date of the enactment of this Act.
+- **(c)** *Duration* The pilot program shall be carried out during the five-year period beginning on the date that is 180 days after the date of the enactment of this Act.
 - **(d)** *Selection*
   - **(1)** *In general* The Secretary shall select not less than 250 eligible individuals under subsection (b) to participate in the pilot program.
   - **(2)** *Priority for selection* In selecting individuals to participate in the pilot program under paragraph (1), the Secretary shall give priority to the following individuals:
@@ -75,7 +75,7 @@ This Act may be cited as the “Grow Our Own Directive: Physician Assistant Empl
     - **(B)** works with the Workforce Management and Consulting Office and the Healthcare Talent Management Office of the Veterans Health Administration to develop and implement national recruiting strategic plans for the recruitment and retention of physician assistants within the Department.
   - **(4)** An administrative assistant, compensated at a rate not less than level GS–6 of the General Schedule, or equivalent, who assists with administrative duties relating to the pilot program in the Office of Physician Assistant Services and such other duties as determined by the Secretary to ensure that the Office runs effectively and efficiently.
 - **(k)** *Report*
-  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs, in collaboration with the Secretary of Labor, the Secretary of Defense, and the Secretary of Health and Human Services, shall submit to Congress a report on the pilot program.
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, in collaboration with the Secretary of Labor, the Secretary of Defense, and the Secretary of Health and Human Services, shall submit to Congress a report on the pilot program.
   - **(2)** *Elements* The report required by paragraph (1) shall include the following:
     - **(A)** The extent to which the pilot program is effective in improving the ability of eligible individuals under subsection (b) to become physician assistants;
     - **(B)** An examination of whether the pilot program is achieving the goals of—
@@ -99,7 +99,20 @@ This Act may be cited as the “Grow Our Own Directive: Physician Assistant Empl
   - **(4)** Creating programs, including through the use of the Department of Veterans Affairs Employee Incentive Scholarship Program under subchapter VI of chapter 76 of such title, to encourage employees of the Department to apply to accredited physician assistant programs.
 - **(c)** *Regulations* The Secretary shall prescribe such regulations as the Secretary considers appropriate to carry out this section.
 
-## § 4. Extension of requirement for collection of fees for housing loans guaranteed by secretary of Veterans Affairs
+## § 4. Establishment of pay grades for physician assistants of the Department of Veterans Affairs and requirement to provide competitive pay
+
+- **(a)** *Establishment of pay grades* Section 7404(b) of title 38, United States Code, is amended by adding at the end the following:
+- **(b)** *Competitive pay* Section 7451(a)(2) of such title is amended—
+  - **(1)** by redesignating subparagraph (B) as subparagraph (C);
+  - **(2)** by inserting after subparagraph (A) the following new subparagraph (B):
+    > - **(B)** Physician assistant.
+
+  - **(3)** in subparagraph (C), as redesignated by paragraph (1), by striking “and registered nurse” and inserting “registered nurse, and physician assistant”.
+- **(c)** *National strategic plan*
+  - **(1)** *In general* The Secretary of Veterans Affairs shall implement a national strategic plan for the retention and recruitment of physician assistants of the Department of Veterans Affairs that includes the establishment and adoption of standards for the provision of competitive pay to physician assistants of the Department in comparison to the pay of physician assistants in the private sector.
+  - **(2)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation of the national strategic plan under paragraph (1).
+
+## § 5. Extension of requirement for collection of fees for housing loans guaranteed by secretary of Veterans Affairs
 
 Section 3729(b)(2) of title 38, United States Code, is amended—
 
