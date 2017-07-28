@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3564
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3564
+
+> To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to authorize the Director of the Federal Bureau of Investigation to revoke the security clearance of political appointees in the Executive Office of the President for national security purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Security Clearance Review Act”.
+
+## § 2. Authority of Director of the Federal Bureau of Investigation to revoke certain security clearances
+
+Section 3002 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3343) is amended by adding at the end the following new subsection:
+
+> - **(e)** *Political appointees in Executive Office of the President*
+>   - **(1)** *Authority of Director of the Federal Bureau of Investigation* Notwithstanding the procedures established under section 801(a) of the National Security Act of 1947 (50 U.S.C. 3161(a)), the Director of the Federal Bureau of Investigation may revoke, or prohibit the renewal of, a security clearance of an individual described in paragraph (2) if the Director determines that such revocation, or prohibition of renewal, is necessary for national security purposes.
+>   - **(2)** *Individual described* An individual described in this paragraph is an individual who—
+>     - **(A)** is a political appointee (as defined in the Edward “Ted” Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015 (Public Law 114–136; 5 U.S.C. 3101 note)) in the Executive Office of the President; and
+>     - **(B)** holds a security clearance that provides for access to—
+>       - **(i)** special access programs;
+>       - **(ii)** Restricted Data; or
+>       - **(iii)** any other information commonly referred to as “sensitive compartmented information”.
