@@ -1,15 +1,13 @@
 ---
 legis-num: S. 371
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 371
 
-That the bill from the Senate (S. 371) entitled “An Act to make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.
 
 ## § 1. Short title
 

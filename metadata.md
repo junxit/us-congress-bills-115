@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 371
@@ -53,3 +53,11 @@ Department of State Authorities Act, Fiscal Year 2017, Improvements Act
 - 2017-07-28 — On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
 - 2017-07-28 — On passage Passed without objection. (text: CR H6558-6559)
 - 2017-07-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6558-6559)
+- 2017-07-31 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2017-12-04 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.
+- 2017-12-04 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent.
+- 2017-12-05 — Message on Senate action sent to the House.
+- 2017-12-06 — Presented to President.
+- 2017-12-06 — Presented to President.
+- 2017-12-18 — Signed by President.
+- 2017-12-18 — Signed by President.
