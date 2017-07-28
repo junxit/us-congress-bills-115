@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 481
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 481
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3180) to authorize appropriations 
 - 2017-07-27 — The House Committee on Rules reported an original measure, H. Rept. 115-263, by Ms. Cheney.
 - 2017-07-27 — The House Committee on Rules reported an original measure, H. Rept. 115-263, by Ms. Cheney.
 - 2017-07-27 — The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.
+- 2017-07-28 — Considered as privileged matter. (consideration: CR H6528-6531)
+- 2017-07-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 481.
+- 2017-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-07-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 186 (Roll no. 436). (text: CR H6528)
+- 2017-07-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 186 (Roll no. 436).(text: CR H6528)
+- 2017-07-28 — The previous question was ordered without objection.
