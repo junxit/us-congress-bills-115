@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2195
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2195
@@ -33,3 +33,8 @@ OSC Access Act
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-05-02 — Committee Consideration and Mark-up Session Held.
+- 2017-05-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-07-28 — Placed on the Union Calendar, Calendar No. 193.
+- 2017-07-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-268.
+- 2017-07-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-268.

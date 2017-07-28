@@ -27,9 +27,9 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
 >       - **(I)** section 1213, 1214, 1215, or 1216 of this title; or
 >       - **(II)** section 4324(a) of title 38.
 >   - **(B)**
->     - **(i)** The authorization of the Special Counsel under subparagraph (A) shall not apply with respect to any entity listed in section 2302(a)(2)(C) (ii) or (iii) unless the Special Counsel is investigating, or otherwise carrying out activities relating to the enforcement of, an action under subchapter III of chapter 73.
+>     - **(i)** The authorization of the Special Counsel under subparagraph (A) shall not apply with respect to any entity listed in section 2302(a)(2)(C)(ii) or (iii) unless the Special Counsel is investigating, or otherwise carrying out activities relating to the enforcement of, an action under subchapter III of chapter 73.
 >     - **(ii)** The Attorney General or an Inspector General may withhold from the Special Counsel material described in subparagraph (A) if—
->       - **(I)** disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; and
+>       - **(I)** disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material, or the material may not be disclosed pursuant to court order or has been filed under seal pursuant to section 3730 of title 31; and
 >       - **(II)** the Attorney General or the Inspector General, as applicable, submits to the Special Counsel a written report that describes—
 >         - **(aa)** the material being withheld; and
 >         - **(bb)** the reason that the material is being withheld.
