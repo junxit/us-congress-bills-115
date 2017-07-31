@@ -1,7 +1,7 @@
 ---
 measure: H.R. 873
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 873
@@ -200,3 +200,4 @@ Global War on Terrorism War Memorial Act
 - 2017-07-28 — Placed on the Union Calendar, Calendar No. 190.
 - 2017-07-28 — Reported by the Committee on Natural Resources. H. Rept. 115-264.
 - 2017-07-28 — Reported by the Committee on Natural Resources. H. Rept. 115-264.
+- 2017-07-31 — Received in the Senate, read twice.
