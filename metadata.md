@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3262
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3262
@@ -20,9 +20,10 @@ Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017
 
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017
 - 2017-07-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-267.
 - 2017-07-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-267.
 - 2017-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2017-07-31 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
