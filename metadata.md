@@ -1,7 +1,7 @@
 ---
 measure: H.R. 95
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 95
@@ -34,9 +34,10 @@ Veterans' Access to Child Care Act
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Veterans' Access to Child Care Act
 - 2017-07-28 — Placed on the Union Calendar, Calendar No. 191.
 - 2017-07-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-266.
 - 2017-07-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-266.
+- 2017-07-31 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
