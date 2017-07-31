@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2772
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2772
@@ -21,9 +21,10 @@ SEA Act of 2018
 - Rep. Takano, Mark [D-CA-41] (T000472)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ SEA Act of 2018
 - 2017-07-28 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2017-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540)
 - 2017-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6540)
+- 2017-07-31 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
