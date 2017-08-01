@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 221
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 221
@@ -35,3 +35,7 @@ A resolution designating September 25, 2017, as "National Lobster Day".
 
 - 2017-07-19 — Introduced in Senate
 - 2017-07-19 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4083)
+- 2017-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695; text: 7/19/2017 CR S4083)
+- 2017-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/19/2017 CR S4083)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
