@@ -1,7 +1,7 @@
 ---
 measure: S. 717
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 717
@@ -16,7 +16,7 @@ Pro bono Work to Empower and Represent Act of 2018
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -24,6 +24,11 @@ Pro bono Work to Empower and Represent Act of 2018
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -33,3 +38,7 @@ Pro bono Work to Empower and Represent Act of 2018
 
 - 2017-03-23 — Introduced in Senate
 - 2017-03-23 — Read twice and referred to the Committee on the Judiciary.
+- 2017-08-01 — Passed Senate without amendment by Unanimous Consent. (text: CR S4694-4695)
+- 2017-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4694-4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4694-4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4694-4695)
