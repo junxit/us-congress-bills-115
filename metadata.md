@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 178
@@ -16,7 +16,7 @@ Elder Abuse Prevention and Prosecution Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -31,6 +31,8 @@ Elder Abuse Prevention and Prosecution Act
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -44,3 +46,11 @@ Elder Abuse Prevention and Prosecution Act
 - 2017-03-23 — Committee on the Judiciary. Reported by Senator Grassley without amendment. With written report No. 115-9.
 - 2017-03-23 — Committee on the Judiciary. Reported by Senator Grassley without amendment. With written report No. 115-9.
 - 2017-03-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.
+- 2017-08-01 — Amendment SA 742 agreed to in Senate by Unanimous Consent.
+- 2017-08-01 — Amendment SA 742 proposed by Senator Portman for Senator Grassley. (consideration: CR S4681; text: CR S4681) To improve the bill.
+- 2017-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S4681-4684)
+- 2017-08-01 — Passed Senate with amendments by Voice Vote. (text: CR S4681-4684)
+- 2017-08-01 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S4681-4684)
+- 2017-08-01 — Senate amendment agreed to: Amendment SA 742 agreed to in Senate by Unanimous Consent.
+- 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 742 proposed by Senator Portman for Senator Grassley.(consideration: CR S4681; text: CR S4681)
+- 2017-08-01 — Senate amendment submitted
