@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 194
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 194
@@ -16,7 +16,7 @@ A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murphy, Christopher [D-CT] (M001169)
@@ -25,6 +25,7 @@ A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -34,3 +35,7 @@ A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".
 
 - 2017-06-15 — Introduced in Senate
 - 2017-06-15 — Referred to the Committee on the Judiciary. (text: CR S3557-3558)
+- 2017-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695)
+- 2017-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
