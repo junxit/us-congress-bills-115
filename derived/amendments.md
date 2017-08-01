@@ -1,7 +1,7 @@
 ---
 measure: S. 582
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -69,10 +69,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 4301 of title 5, United States Code, is amended, in the matter preceding paragraph (1), by striking “For the purpose of” and inserting “Except as otherwise expressly provided, for the purpose of”. | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 3003` | add-at-end | Subchapter II of chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 7514` | insert | The table of sections for subchapter II of chapter 75 of title 5, United States Code, is amended by inserting after the item relating to section 7514 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | in paragraph (1)(D), in the first sentence, by inserting “, other than a termination of an investigation described in paragraph (6)(A),” after “investigation of a prohibited personnel practice”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1214(a) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1212 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1218 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1219(a)(1) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Special Counsel” and inserting: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 1214(b)(1)(B)(ii) of title 5, United States Code, as amended by section 1 of the Act entitled “An Act to amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Bo… | the bill names no machine-readable US Code section |
