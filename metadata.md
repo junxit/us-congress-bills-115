@@ -1,7 +1,7 @@
 ---
 measure: S. 504
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 504
@@ -16,9 +16,11 @@ Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gardner, Cory [R-CO] (G000562)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017
 
 - 2017-03-02 — Introduced in Senate
 - 2017-03-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-140.
+- 2017-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-140.
+- 2017-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
