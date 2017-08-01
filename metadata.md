@@ -1,7 +1,7 @@
 ---
 measure: S. 190
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 190
@@ -34,3 +34,16 @@ Power And Security Systems (PASS) Act
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
 - 2017-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4681; text: CR S4681)
 - 2017-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4681; text: CR S4681)
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-04 — Held at the desk.
+- 2017-08-04 — Received in the House.
+- 2017-10-11 — Considered under suspension of the rules. (consideration: CR H7945-7946)
+- 2017-10-11 — DEBATE - The House proceeded with forty minutes of debate on S. 190.
+- 2017-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-11 — Mr. Olson moved to suspend the rules and pass the bill.
+- 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7945)
+- 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7945)
+- 2017-10-24 — Presented to President.
+- 2017-10-24 — Presented to President.
+- 2017-11-02 — Signed by President.
+- 2017-11-02 — Signed by President.
