@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2288
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2288
 
-That the bill from the House of Representatives (H.R. 2288) entitled “An Act to amend title 38, United States Code, to reform the rights and processes relating to appeals of decisions regarding claims for benefits under the laws administered by the Secretary of Veterans Affairs, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to reform the rights and processes relating to appeals of decisions regarding claims for benefits under the laws administered by the Secretary of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 

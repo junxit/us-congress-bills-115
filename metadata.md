@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2288
@@ -96,3 +96,12 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - 2017-08-01 — Senate amendment agreed to: Amendment SA 745 agreed to in Senate by Unanimous Consent.
 - 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 745 proposed by Senator Portman for Senator Isakson.(consideration: CR S4687; text: CR S4674-4680)
 - 2017-08-01 — Senate amendment submitted
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-08-11 — Mrs. Comstock asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment.
+- 2017-08-11 — On motion that the House agree to the Senate amendment Agreed to without objection. (consideration: CR H6595-6601; text as House agreed to Senate amendment: CR H6595-6601)
+- 2017-08-11 — Presented to President.
+- 2017-08-11 — Presented to President.
+- 2017-08-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(consideration: CR H6595-6601; text as House agreed to Senate amendment: CR H6595-6601)
+- 2017-08-23 — Signed by President.
+- 2017-08-23 — Signed by President.
