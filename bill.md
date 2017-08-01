@@ -28,8 +28,13 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
 >       - **(II)** section 4324(a) of title 38.
 >   - **(B)**
 >     - **(i)** The authorization of the Special Counsel under subparagraph (A) shall not apply with respect to any entity that is an element of the intelligence community, as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003), unless the Special Counsel is investigating, or otherwise carrying out activities relating to the enforcement of, an action under subchapter III of chapter 73.
->     - **(ii)** The Attorney General or an Inspector General may withhold from the Special Counsel material described in subparagraph (A) if—
->       - **(I)** disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; and
+>     - **(ii)** An Inspector General may withhold from the Special Counsel material described in subparagraph (A) if the Inspector General determines that the material contains information derived from, or pertaining to, intelligence activities.
+>     - **(iii)** The Attorney General or an Inspector General may withhold from the Special Counsel material described in subparagraph (A) if—
+>       - **(I)**
+>         - **(aa)** disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; or
+>         - **(bb)** the material—
+>           - **(AA)** may not be disclosed pursuant to a court order; or
+>           - **(BB)** has been filed under seal under section 3730 of title 31; and
 >       - **(II)** the Attorney General or the Inspector General, as applicable, submits to the Special Counsel a written report that describes—
 >         - **(aa)** the material being withheld; and
 >         - **(bb)** the reason that the material is being withheld.
@@ -127,7 +132,7 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
     > - **(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
 
 - **(d)** *Retaliatory investigations* Section 1214 of title 5, United States Code, is amended by adding at the end the following:
-  > - **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), even if no without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken or not taken.
+  > - **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.
 
 ## § 5. Suicide by employees
 
@@ -161,7 +166,7 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
     >     - **(A)** principles for the protection of whistleblowers, such as the degree to which supervisory employees—
     >       - **(i)** respond constructively when employees of the agency make disclosures described in subparagraph (A) or (B) of section 2302(b)(8);
     >       - **(ii)** take responsible actions to resolve the disclosures described in clause (i); and
-    >       - **(iii)** foster an environment in which employees of the agency feel comfortable making disclosures described in subparagraph (A) clause (i) to supervisory employees or other appropriate authorities; and
+    >       - **(iii)** foster an environment in which employees of the agency feel comfortable making disclosures described in clause (i) to supervisory employees or other appropriate authorities; and
     >     - **(B)** for each supervisory employee—
     >       - **(i)** whether the agency entered into an agreement with an individual who alleged that the supervisory employee committed a prohibited personnel practice; and
     >       - **(ii)** if the agency entered into an agreement described in clause (i), the number of instances in which the agency entered into such an agreement with respect to the supervisory employee.
@@ -221,20 +226,18 @@ Section 1212(b) of title 5, United States Code, is amended by adding at the end 
 
 ## § 8. Termination of certain investigations by the Office of Special Counsel
 
-Section 1214(a) of title 5, United States Code, is amended—
+Section 1214(a) of title 5, United States Code, is amended by adding at the end the following:
 
-- **(1)** in paragraph (1)(D), in the first sentence, by inserting “, other than a termination of an investigation described in paragraph (6)(A),” after “investigation of a prohibited personnel practice”; and
-- **(2)** by adding at the end the following:
-  > - **(6)**
-  >   - **(A)** Not later Notwithstanding any other provision of this section, not later than 30 days after receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry or an opportunity for the individual who submitted the allegation to respond if the Special Counsel determines that—
-  >     - **(i)** the same allegation, based on the same set of facts and circumstances had previously been—
-  >       - **(I)**
-  >         - **(aa)** made by the individual; and
-  >         - **(bb)** investigated by the Special Counsel; or
-  >       - **(II)** filed by the individual with the Merit Systems Protection Board;
-  >     - **(ii)** the Special Counsel does not have jurisdiction to investigate the allegation; or
-  >     - **(iii)** the individual knew or should have known of the alleged prohibited personnel practice on or before the date that is 3 years before the date on which the Special Counsel received the allegation.
-  >   - **(B)** Not later than 30 days after the date on which the Special Counsel terminates an investigation under subparagraph (A), the Special Counsel shall provide a written notification to the individual who submitted the allegation of a prohibited personnel practice that states the basis of the Special Counsel for terminating the investigation.
+> - **(6)**
+>   - **(A)** Notwithstanding any other provision of this section, not later than 30 days after receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry if the Special Counsel determines that—
+>     - **(i)** the same allegation, based on the same set of facts and circumstances had previously been—
+>       - **(I)**
+>         - **(aa)** made by the individual; and
+>         - **(bb)** investigated by the Special Counsel; or
+>       - **(II)** filed by the individual with the Merit Systems Protection Board;
+>     - **(ii)** the Special Counsel does not have jurisdiction to investigate the allegation; or
+>     - **(iii)** the individual knew or should have known of the alleged prohibited personnel practice on or before the date that is 3 years before the date on which the Special Counsel received the allegation.
+>   - **(B)** Not later than 30 days after the date on which the Special Counsel terminates an investigation under subparagraph (A), the Special Counsel shall provide a written notification to the individual who submitted the allegation of a prohibited personnel practice that states the basis of the Special Counsel for terminating the investigation.
 
 ## § 9. Allegations of wrongdoing within the Office of Special Counsel
 
@@ -314,3 +317,7 @@ Section 1212 of title 5, United States Code, is amended by adding at the end the
 
 - **(a)** *In general* Section 8(a)(2) of the Whistleblower Protection Act of 1989 (5 U.S.C. 5509 note) is amended by striking “2003, 2004, 2005, 2006, and 2007” and inserting “2017 through 2022”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect as though enacted on September 30, 2015.
+
+## § 14. Technical amendment
+
+Section 1214(b)(1)(B)(ii) of title 5, United States Code, as amended by section 1 of the Act entitled “An Act to amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Board lacks a quorum.” (S. 1083, 115th Congress, 1st Session), is amended by striking “who was appointed, by and with the advice and consent of the Senate,”.
