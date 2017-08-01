@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 214
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 214
@@ -16,7 +16,7 @@ A resolution designating June 19, 2017, as "Juneteenth Independence Day" in reco
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (43)
+## Cosponsors (44)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -61,6 +61,7 @@ A resolution designating June 19, 2017, as "Juneteenth Independence Day" in reco
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -70,3 +71,7 @@ A resolution designating June 19, 2017, as "Juneteenth Independence Day" in reco
 
 - 2017-06-29 — Introduced in Senate
 - 2017-06-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3864-3865)
+- 2017-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695)
+- 2017-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
