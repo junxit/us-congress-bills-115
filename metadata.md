@@ -1,7 +1,7 @@
 ---
 measure: H.R. 339
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 339
@@ -52,3 +52,14 @@ Northern Mariana Islands Economic Expansion Act
 - 2017-08-01 — Senate amendment agreed to: Amendment SA 744 agreed to in Senate by Unanimous Consent.
 - 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 744 proposed by Senator Portman for Senator Murkowski.(consideration: CR S4686; text: CR S4686)
 - 2017-08-01 — Senate amendment submitted
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-08-11 — Mrs. Comstock asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment.
+- 2017-08-11 — On motion that the House agree to the Senate amendment Agreed to without objection. (consideration: CR H6601; text as House agreed to Senate amendment: CR H6601)
+- 2017-08-11 — Presented to President.
+- 2017-08-11 — Presented to President.
+- 2017-08-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(consideration: CR H6601; text as House agreed to Senate amendment: CR H6601)
+- 2017-08-22 — Became Public Law No: 115-53.
+- 2017-08-22 — Became Public Law No: 115-53.
+- 2017-08-22 — Signed by President.
+- 2017-08-22 — Signed by President.
