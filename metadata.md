@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2288
@@ -16,7 +16,7 @@ Veterans Appeals Improvement and Modernization Act of 2017
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Cosponsors (26)
+## Cosponsors (39)
 
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -44,6 +44,19 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (2)
 
@@ -73,3 +86,13 @@ Veterans Appeals Improvement and Modernization Act of 2017
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273). (text: CR H4457-4463)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 273).(text: CR H4457-4463)
 - 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-08-01 — Amendment SA 745 agreed to in Senate by Unanimous Consent.
+- 2017-08-01 — Amendment SA 745 proposed by Senator Portman for Senator Isakson. (consideration: CR S4687; text: CR S4674-4680) In the nature of a substitute.
+- 2017-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S4687)
+- 2017-08-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2017-08-01 — Senate amendment agreed to: Amendment SA 745 agreed to in Senate by Unanimous Consent.
+- 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 745 proposed by Senator Portman for Senator Isakson.(consideration: CR S4687; text: CR S4674-4680)
+- 2017-08-01 — Senate amendment submitted

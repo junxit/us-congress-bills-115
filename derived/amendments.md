@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-47 amendatory instructions. 0 executed, 47 stated and not applied.
+48 amendatory instructions. 0 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | The table of sections at the beginning of chapter 51 of such title is amended by striking the item relating to section 5108 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5109 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 5109B of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections at the beginning of chapter 51 of such title is amended by striking the item relating to section 5109B and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “reopened” and inserting “readjudicated”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “material” and inserting “relevant”; and | the bill names no machine-readable US Code section |
@@ -58,7 +59,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 5904(c) of such title is amended, in paragraphs (1) and (2), by striking “notice of disagreement is filed” both places it appears and inserting “claimant is provided notice of the agency of original jurisdiction’s initial decisio… | the bill names no machine-readable US Code section |
 | — | replace | Section 7103(b)(1) of title 38, United States Code, is amended by striking “heard” both places it appears and inserting “decided”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7104(b) of such title is amended by striking “reopened” and inserting “readjudicated”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking the first sentence and inserting “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking the first sentence and inserting “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (d) and inserting the following new subsection (d): | the bill names no machine-readable US Code section |
