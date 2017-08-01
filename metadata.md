@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 203
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 203
@@ -60,3 +60,7 @@ A resolution designating the month of June 2017, as "National Post-Traumatic Str
 
 - 2017-06-26 — Introduced in Senate
 - 2017-06-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3767)
+- 2017-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695)
+- 2017-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
