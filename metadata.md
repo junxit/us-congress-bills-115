@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3219
@@ -484,3 +484,5 @@ Make America Secure Appropriations Act, 2018
 - 2017-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings were postponed.
 - 2017-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2017-07-27 — VACATED PROCEEDINGS - Mr. Visclosky asked unanmious consent to vacate the proceedings for a recorded vote on the DeSantis amendment No. 47, to the end that the Chair put the question on the amendment de novo. Agreed to without objection.
+- 2017-07-31 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-08-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 187.
