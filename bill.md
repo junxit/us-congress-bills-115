@@ -37,15 +37,15 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
     >       - **(ii)** with a population of not more than 50,000;
     >     - **(B)** the term governor means the chief executive of a State; and
     >     - **(C)** the term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
-    >   - **(2)** *Designation* A governor may petition the Administrator to designate one or more covered areas as a HUBZone if the average unemployment rate of each covered area is not less than 120 percent of the average unemployment rate of the United States or of the State in which the covered area is located, whichever is less, based on the most recent data available from the American Community Survey conducted by the Bureau of the Census.
+    >   - **(2)** *Designation* A governor may petition the Administrator to designate one or more covered areas as a HUBZone if the average unemployment rate of each covered area for which the designation is sought is not less than 120 percent of the average unemployment rate of the United States or of the State in which the covered area is located, whichever is less, based on the most recent data available from the American Community Survey conducted by the Bureau of the Census.
     >   - **(3)** *Criteria* In reviewing a petition submitted by a governor under paragraph (2), the Administrator may consider—
     >     - **(A)** the potential for job creation and investment;
-    >     - **(B)** the demonstrated interest of small business concerns in the covered area to participate in the HUBZone program established under section 31; and
+    >     - **(B)** the demonstrated interest of small business concerns in the covered area to participate in the HUBZone program established under this section 31; and
     >     - **(C)** the consideration by State and local government officials of a HUBZone as part of an economic development strategy.
     >   - **(4)** *Petition* With respect to a petition submitted by a governor to the Administrator under paragraph (2)—
     >     - **(A)** the governor may submit not more than 1 petition in a fiscal year unless the Administrator determines that an additional petition from the State of the governor is appropriate;
     >     - **(B)** the governor may not submit a petition for more than 10 percent of the total number of covered areas in the State of the governor; and
-    >     - **(C)** if the Administrator grants the petition and designates one or more covered areas as a HUBZone, the governor shall, not less frequently than annually, submit data to the Administrator certifying that each covered area continues to meet the requirements of clauses (i) and (ii) of paragraph (1)(A).
+    >     - **(C)** if the Administrator grants the petition and designates one or more covered areas as a HUBZone, the governor shall, not less frequently than annually, submit data to the Administrator certifying that each covered area designated by the Administrator continues to meet the requirements of clauses (i) and (ii) of paragraph (1)(A).
     >   - **(5)** *Process* The Administrator shall establish procedures—
     >     - **(A)** to ensure that the Administration accepts petitions under paragraph (2) from all States each fiscal year; and
     >     - **(B)** to provide technical assistance, before the filing of a petition under paragraph (2), to a governor who is interested in filing such a petition.
