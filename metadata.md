@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 199
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 199
@@ -33,3 +33,7 @@ A resolution designating June 2017 as "Great Outdoors Month".
 
 - 2017-06-22 — Introduced in Senate
 - 2017-06-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3734-3735)
+- 2017-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4715-4716)
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4715-4716)
