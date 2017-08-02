@@ -1,7 +1,7 @@
 ---
 measure: S. 669
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 669
@@ -30,3 +30,7 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 
 - 2017-03-21 — Introduced in Senate
 - 2017-03-21 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-03-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2017-08-02 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-143.
+- 2017-08-02 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-143.
+- 2017-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
