@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 227
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 227
@@ -31,3 +31,7 @@ A resolution recognizing "National Youth Sports Week" and the efforts by parents
 
 - 2017-07-20 — Introduced in Senate
 - 2017-07-20 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4119)
+- 2017-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4715-4716)
+- 2017-08-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4715-4716)
