@@ -1,7 +1,7 @@
 ---
 measure: S. 81
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 81
@@ -33,3 +33,5 @@ Seniors Fraud Prevention Act of 2017
 - 2017-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-141.
 - 2017-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-141.
 - 2017-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
+- 2017-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4715; text: CR S4715)
+- 2017-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4715; text: CR S4715)
