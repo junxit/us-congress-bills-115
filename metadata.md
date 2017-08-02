@@ -1,7 +1,7 @@
 ---
 measure: S. 1282
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1282
@@ -16,8 +16,9 @@ A bill to redesignate certain clinics of the Department of Veterans Affairs loca
 
 - Sen. Daines, Steve [R-MT] (D000618)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
+- Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
@@ -28,3 +29,13 @@ A bill to redesignate certain clinics of the Department of Veterans Affairs loca
 
 - 2017-05-25 — Introduced in Senate
 - 2017-05-25 — Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S3221-3222; text of measure as introduced: CR S3222)
+- 2017-08-02 — Amendment SA 749 agreed to in Senate by Unanimous Consent.
+- 2017-08-02 — Amendment SA 749 proposed by Senator McConnell for Senator Daines. (consideration: CR S4716; text: CR S4716) In the nature of a substitute.
+- 2017-08-02 — Measure laid before Senate by unanimous consent. (consideration: CR S4716)
+- 2017-08-02 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2017-08-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2017-08-02 — Senate amendment agreed to: Amendment SA 749 agreed to in Senate by Unanimous Consent.
+- 2017-08-02 — Senate amendment proposed (on the floor): Amendment SA 749 proposed by Senator McConnell for Senator Daines.(consideration: CR S4716; text: CR S4716)
+- 2017-08-02 — Senate amendment submitted
