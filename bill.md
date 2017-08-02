@@ -1,0 +1,54 @@
+---
+legis-num: S. 1719
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1719
+
+> To eliminate duties on imports of recreational performance outerwear, to establish the Sustainable Textile and Apparel Research Fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “United States Optimal Use of Trade to Develop Outerwear and Outdoor Recreation Act” or the “U.S. OUTDOOR Act”.
+
+## § 2. Elimination of duties on recreational performance outerwear
+
+- **(a)** *In general* Each subheading of the Harmonized Tariff Schedule of the United States specified in subsection (b) is amended—
+  - **(1)** by striking the matter in the column one general rate of duty column and inserting “Free”; and
+  - **(2)** by striking the matter in the column one special rate of duty column.
+- **(b)** *Subheadings specified* The subheadings of the Harmonized Tariff Schedule of the United States specified in this subsection are the following:
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date that is 15 days after the date of the enactment of this Act.
+
+## § 3. Sustainable Textile and Apparel Research Fund
+
+- **(a)** *Establishment* There is established in the Treasury of the United States the Sustainable Textile and Apparel Research Fund (in this section referred to as the “STAR Fund”).
+- **(b)** *Deposits* There shall be deposited into the STAR Fund amounts equal to the fees collected on recreational performance outerwear under subsection (d).
+- **(c)** *Board of directors*
+  - **(1)** *In general* The STAR Fund shall be administered by a board of directors (in this section referred to as the “Board”) composed of 5 individuals familiar with the recreational performance outerwear textile and apparel industry, including the production of raw materials and the finished products thereof, who shall be appointed by the President.
+  - **(2)** *Members*
+    - **(A)** *Fabric or raw material production representatives* Not fewer than 2 of the individuals appointed to the Board under paragraph (1) shall be representatives of entities involved in the production of fabrics or raw materials for use in recreational performance outerwear in the United States.
+    - **(B)** *Recreational performance outerwear production representatives* Not fewer than 2 of the individuals appointed to the Board under paragraph (1) shall be representatives of entities involved in the production of recreational performance outerwear that pay the fees imposed on the importation of such outerwear under subsection (d).
+  - **(3)** *Ineligible individuals* The President may not appoint individuals to the Board under paragraph (1) who are representatives of entities not involved in the production of recreational performance outerwear, such as customs brokers, converters, forwarders, or shippers.
+- **(d)** *Funding*
+  - **(1)** *Fee* In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect upon entry, or withdrawal from warehouse for consumption, a fee of 1.5 percent of the appraised value of imported garments (as determined under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a)) that are classifiable under the Harmonized Tariff Schedule of the United States as recreational performance outerwear (as defined in Additional U.S. Note 3 to chapter 62 of such Schedule).
+  - **(2)** *Exclusions* The assessment of fees under paragraph (1) shall not apply to imports of recreational performance outerwear from the following:
+    - **(A)** Any country that is party to a free trade agreement with the United States that—
+      - **(i)** is in effect on the day before the date of the enactment of this Act; or
+      - **(ii)** enters into force under the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (19 U.S.C. 4201 et seq.), or similar subsequent authority.
+    - **(B)** Any country designated as a CBTPA beneficiary country under section 213(b)(5)(B) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703(b)(5)(B)).
+    - **(C)** Any country designated as a beneficiary sub-Saharan African country under section 506A(a)(1) of the Trade Act of 1974 (19 U.S.C. 2466a(a)(1)), if the President has determined that the country has satisfied the requirements of section 113(a) of the African Growth and Opportunity Act (19 U.S.C. 3722(a)), and has published that determination in the Federal Register.
+  - **(3)** *Termination* The fee under paragraph (1) shall apply only to entries, or withdrawals from warehouse for consumption, that are made during the 10-year period beginning on the date of the enactment of this Act.
+- **(e)** *Distribution*
+  - **(1)** *Quarterly distributions* The Secretary of Commerce, upon a majority vote of the Board, taken annually, shall, not later than 60 days after the end of each calendar quarter, distribute amounts in the STAR Fund to one or more entities that the Board considers appropriate to use the funds in accordance with subsection (f).
+  - **(2)** *Eligibility requirements* An entity may receive funds under paragraph (1) only if the entity—
+    - **(A)** is an organization described in section 501(c)(6) of the Internal Revenue Code of 1986 that is exempt from tax under section 501(a) of such Code;
+    - **(B)** is an organization having at least 10 years of experience providing applied research, technology development, and education to all parts of the textile and apparel supply chain, with a research capability demonstrated through past research programs involving supply chain management, product development, fit specifications, operations management, lean manufacturing, or digital supply chain technologies on behalf of the textile and sewn products industries in the United States; and
+    - **(C)** is comprised of members representing the following segments of the supply chain:
+      - **(i)** One or more of the following types of producers: fiber, yarn, or fabric producers in the United States.
+      - **(ii)** Apparel producers in the United States.
+      - **(iii)** Retail companies in the United States.
+- **(f)** *Use of funds* Funds distributed under subsection (e) may be used only to conduct applied research, development, and education activities to enhance the competitiveness of businesses in the United States in clean, eco-friendly apparel, other textile and apparel articles, and sewn-product design and manufacturing.
+- **(g)** *Requirements* The Secretary of Commerce may impose such requirements on the use of funds distributed under subsection (e) as the Secretary considers necessary to ensure compliance with subsection (f), including requiring reporting and assurances by the entities using the funds.
+- **(h)** *Reports to Congress* The Secretary of Commerce shall submit to Congress a report, not later than April 1 of each year, explaining in detail how amounts in the STAR Fund were distributed under subsection (e) and used under subsection (f) during the preceding calendar year.
