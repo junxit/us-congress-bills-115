@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 225
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 225
@@ -41,3 +41,7 @@ A resolution designating July 22, 2017, as "National Day of the American Cowboy"
 
 - 2017-07-20 — Introduced in Senate
 - 2017-07-20 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4118)
+- 2017-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4715-4716)
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4715-4716)
