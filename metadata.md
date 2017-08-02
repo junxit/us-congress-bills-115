@@ -1,7 +1,7 @@
 ---
 measure: S. 1598
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1598
@@ -16,7 +16,7 @@ Harry W. Colmery Veterans Educational Assistance Act of 2017
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (39)
+## Cosponsors (63)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Rounds, Mike [R-SD] (R000605)
@@ -57,6 +57,30 @@ Harry W. Colmery Veterans Educational Assistance Act of 2017
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -66,3 +90,7 @@ Harry W. Colmery Veterans Educational Assistance Act of 2017
 
 - 2017-07-20 — Introduced in Senate
 - 2017-07-20 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-07-26 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2017-08-02 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2017-08-02 — Committee on Veterans' Affairs. Reported by Senator Isakson without amendment. Without written report.
+- 2017-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
