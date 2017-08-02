@@ -1,7 +1,7 @@
 ---
 measure: S. 1038
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1038
@@ -16,9 +16,11 @@ A bill to require the Administrator of the Small Business Administration to subm
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ A bill to require the Administrator of the Small Business Administration to subm
 
 - 2017-05-04 — Introduced in Senate
 - 2017-05-04 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2017-08-02 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-08-02 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2017-08-02 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2017-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.
