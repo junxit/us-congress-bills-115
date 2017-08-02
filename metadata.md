@@ -1,7 +1,7 @@
 ---
 measure: S. 810
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 810
@@ -28,3 +28,7 @@ A bill to facilitate construction of a bridge on certain property in Christian C
 
 - 2017-04-04 — Introduced in Senate
 - 2017-04-04 — Read twice and referred to the Committee on Environment and Public Works.
+- 2017-07-12 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-08-02 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-142.
+- 2017-08-02 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-142.
+- 2017-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
