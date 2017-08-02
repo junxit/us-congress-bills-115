@@ -1,7 +1,7 @@
 ---
 measure: S. 829
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 829
@@ -47,3 +47,5 @@ AFG and SAFER Program Reauthorization Act of 2017
 - 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-128.
 - 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-128.
 - 2017-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.
+- 2017-08-02 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4714-4715; text: CR S4714-4715)
+- 2017-08-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4714-4715; text: CR S4714-4715)
