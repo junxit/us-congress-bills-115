@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 238
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 238
@@ -28,3 +28,7 @@ A resolution recognizing the 10th anniversary and honoring the victims of the co
 
 - 2017-08-01 — Introduced in Senate
 - 2017-08-01 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4672)
+- 2017-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4715-4716)
+- 2017-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4715-4716)
