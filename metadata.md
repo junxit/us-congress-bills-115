@@ -1,7 +1,7 @@
 ---
 measure: S. 123
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 123
@@ -36,3 +36,5 @@ Kari's Law Act of 2017
 - 2017-07-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-124.
 - 2017-07-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-124.
 - 2017-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.
+- 2017-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4818-4819; text: CR S4818-4819)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4818-4819; text: CR S4818-4819)
