@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 230
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 230
@@ -55,3 +55,7 @@ A resolution designating the week of September 16 through September 23, 2017, as
 
 - 2017-07-24 — Introduced in Senate
 - 2017-07-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4139)
+- 2017-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4894)
+- 2017-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4894)
