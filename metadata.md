@@ -1,7 +1,7 @@
 ---
 measure: S. 204
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 204
@@ -16,7 +16,7 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (43)
+## Cosponsors (48)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Blunt, Roy [R-MO] (B000575)
@@ -61,6 +61,11 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -70,3 +75,14 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 
 - 2017-01-24 — Introduced in Senate
 - 2017-01-24 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2017-08-03 — Amendment SA 753 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Amendment SA 753 proposed by Senator Johnson. (consideration: CR S4788-4789; text: CR S4788-4789) In the nature of a substitute.
+- 2017-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4788-4789)
+- 2017-08-03 — Message on Senate action sent to the House.
+- 2017-08-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-08-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-08-03 — Senate amendment agreed to: Amendment SA 753 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 753 proposed by Senator Johnson.(consideration: CR S4788-4789; text: CR S4788-4789)
+- 2017-08-03 — Senate amendment submitted
