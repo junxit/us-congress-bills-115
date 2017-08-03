@@ -1,7 +1,7 @@
 ---
 measure: S. 88
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 88
@@ -34,3 +34,11 @@ Developing Innovation and Growing the Internet of Things Act
 - 2017-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-90.
 - 2017-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-90.
 - 2017-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.
+- 2017-08-03 — Amendment SA 769 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Amendment SA 769 proposed by Senator Wicker for Senator Fischer. (consideration: CR S4819; text: CR S4819) In the nature of substitute.
+- 2017-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4819)
+- 2017-08-03 — Passed Senate with an amendment by Voice Vote.
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2017-08-03 — Senate amendment agreed to: Amendment SA 769 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 769 proposed by Senator Wicker for Senator Fischer.(consideration: CR S4819; text: CR S4819)
+- 2017-08-03 — Senate amendment submitted
