@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 870
@@ -16,7 +16,7 @@ Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (13)
+## Cosponsors (18)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -31,6 +31,11 @@ Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schatz, Brian [D-HI] (S001194)
 
 ## Committees (1)
 
@@ -40,3 +45,6 @@ Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC
 
 - 2017-04-06 — Introduced in Senate
 - 2017-04-06 — Read twice and referred to the Committee on Finance.
+- 2017-08-03 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-146.
+- 2017-08-03 — Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-146.
+- 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.
