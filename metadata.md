@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 756
@@ -16,7 +16,7 @@ First Step Act of 2018
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
@@ -36,6 +36,9 @@ First Step Act of 2018
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (1)
 
@@ -49,3 +52,11 @@ First Step Act of 2018
 - 2017-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-135.
 - 2017-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-135.
 - 2017-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.
+- 2017-08-03 — Amendment SA 773 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Amendment SA 773 proposed by Senator Murkowski for Senator Sullivan. (consideration: CR S4895; text: CR S4895) To improve the bill.
+- 2017-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4895)
+- 2017-08-03 — Passed Senate with amendments by Unanimous Consent.
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2017-08-03 — Senate amendment agreed to: Amendment SA 773 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 773 proposed by Senator Murkowski for Senator Sullivan.(consideration: CR S4895; text: CR S4895)
+- 2017-08-03 — Senate amendment submitted

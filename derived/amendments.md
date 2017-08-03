@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
