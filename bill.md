@@ -1,0 +1,17 @@
+---
+legis-num: S. 1745
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1745
+
+> To revise the boundaries of a John H. Chafee Coastal Barrier Resources System Unit in Topsail, North Carolina.
+
+## § 1. Correction to map
+
+- **(a)** *In general* Not later than 30 days after the date of enactment of this Act, the Secretary of the Interior shall make such corrections to the map described in subsection (b) as are necessary to exclude lots from Coastal Barrier Resources System Unit L06 in North Topsail Beach that are serviced by infrastructure (as described in section 4(g)(1)(B) of the Coastal Barrier Resources Act (16 U.S.C. 3503(g)(1)(B))) installed along North Carolina Highway 210 and New River Inlet Road.
+- **(b)** *Map described* The map referred to in subsection (a) is a map that—
+  - **(1)** is included in a set of maps as part of the John H. Chafee Coastal Barrier Resources System Digital Mapping Pilot Project entitled “John H. Chafee Coastal Barrier Resources System”, dated November 20, 2013; and
+  - **(2)** relates to unit L06 of the Coastal Barrier Resources System.
