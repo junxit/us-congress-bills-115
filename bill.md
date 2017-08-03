@@ -15,9 +15,16 @@ This Act may be cited as “Jessie's Law”.
 
 ## § 2. Inclusion of opioid addiction history in patient records
 
-- **(a)** *Development of standards* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services shall develop and disseminate standards to provide information to hospitals and physicians relating to prominently displaying the history of opioid addiction in the medical records (including electronic health records) of any patient who has provided information about such addiction to a health care provider.
-- **(b)** *Requirements* The standards developed under subsection (a) shall take into account the following:
-  - **(1)** The potential for addiction relapse or overdose death if opioid medications are prescribed to an individual recovering from opioid addiction.
-  - **(2)** The need to display the past opioid addiction of a patient in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications.
-  - **(3)** The need for information about past opioid addiction to be prominently displayed when a physician or medical professional is prescribing medication.
-  - **(4)** The need for a variety of medical professionals, including physicians, nurses, and pharmacists, to have access to information described in this section when prescribing or dispensing opioid medication to ensure that the medication is medically appropriate given the history of addiction of the patient.
+- **(a)** *Best practices*
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with appropriate stakeholders, including a patient with a history of opioid use disorder, an expert in electronic health records, an expert in the confidentiality of patient health information and records, and a health care provider, shall identify or facilitate the development of best practices regarding—
+    - **(A)** the circumstances under which information that a patient has provided to a health care provider regarding such patient’s history of opioid use disorder should, only at the patient’s request, be prominently displayed in the medical records (including electronic health records) of such patient;
+    - **(B)** what constitutes the patient’s request for the purpose described in subparagraph (A); and
+    - **(C)** the process and methods by which the information should be so displayed.
+  - **(2)** *Dissemination* The Secretary shall disseminate the best practices developed under paragraph (1) to health care providers and State agencies.
+- **(b)** *Requirements* In identifying or facilitating the development of best practices under subsection (a), as applicable, the Secretary, in consultation with appropriate stakeholders, shall consider the following:
+  - **(1)** The potential for addiction relapse or overdose, including overdose death, when opioid medications are prescribed to a patient recovering from opioid use disorder.
+  - **(2)** The benefits of displaying information about a patient’s opioid use disorder history in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications.
+  - **(3)** The importance of prominently displaying information about a patient’s opioid use disorder when a physician or medical professional is prescribing medication, including methods for avoiding alert fatigue in providers.
+  - **(4)** The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, to have access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations.
+  - **(5)** The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations.
+  - **(6)** All applicable Federal and State laws and regulations.
