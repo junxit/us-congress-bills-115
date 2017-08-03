@@ -1,7 +1,7 @@
 ---
 measure: S. 1052
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
