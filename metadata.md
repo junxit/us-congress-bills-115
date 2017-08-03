@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 15
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 15
@@ -34,3 +34,5 @@ A concurrent resolution expressing support for the designation of October 28, 20
 - 2017-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. Without written report.
 - 2017-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. Without written report.
 - 2017-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.
+- 2017-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.
+- 2017-08-03 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.
