@@ -1,7 +1,7 @@
 ---
 measure: S. 1617
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1617
@@ -33,3 +33,7 @@ Javier Vega, Jr. Memorial Act of 2017
 
 - 2017-07-24 — Introduced in Senate
 - 2017-07-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S4137)
+- 2017-08-03 — Passed Senate without amendment by Unanimous Consent. (text: CR S4894)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4894)
+- 2017-08-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S4894)
+- 2017-08-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S4894)
