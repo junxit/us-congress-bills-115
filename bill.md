@@ -37,7 +37,7 @@ In this Act:
 - **(b)** *Elements* The guidance issued under subsection (a) shall—
   - **(1)** require relevant officials at Federal agencies to identify high-risk activities and communicate that information to the appropriate management levels within the agencies;
   - **(2)** require that appropriate officials at Federal agencies review the reports issued by charge card-issuing banks on questionable transaction activity (such as purchase and travel card pre-suspension and suspension reports, delinquency reports, and exception reports), including transactions that occur with high-risk activities, and suspicious timing or amounts of cash withdrawals or advances;
-  - **(3)** provide for the appropriate sharing of information related to potential questionable transactions, fraud schemes, and high-risk activities with General Services Administration Office of Charge Card Management and the appropriate officials in Federal agencies;
+  - **(3)** provide for the appropriate sharing of information related to potential questionable transactions, fraud schemes, and high-risk activities with the General Services Administration and the appropriate officials in Federal agencies;
   - **(4)** consider the recommendations made by Inspectors General or the best practices Inspectors General have identified; and
   - **(5)** include other requirements determined appropriate by the Director for the purposes of carrying out this Act.
 

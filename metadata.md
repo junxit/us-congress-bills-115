@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1099
@@ -35,3 +35,11 @@ Saving Federal Dollars Through Better Use of Government Purchase and Travel Card
 - 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-129.
 - 2017-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-129.
 - 2017-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.
+- 2017-08-03 — Amendment SA 771 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Amendment SA 771 proposed by Senator Murkowski for Senator Carper. (consideration: CR S4891; text: CR S4891) To make a technical correction.
+- 2017-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4891)
+- 2017-08-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-08-03 — Senate amendment agreed to: Amendment SA 771 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 771 proposed by Senator Murkowski for Senator Carper.(consideration: CR S4891; text: CR S4891)
+- 2017-08-03 — Senate amendment submitted
