@@ -1,7 +1,7 @@
 ---
 measure: S. 19
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 19
@@ -32,3 +32,5 @@ MOBILE NOW Act
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-4.
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-4.
 - 2017-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.
+- 2017-08-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4810-4815; text: CR S4810-4815)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4810-4815; text: CR S4810-4815)
