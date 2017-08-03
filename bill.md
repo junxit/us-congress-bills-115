@@ -24,7 +24,7 @@ Congress finds the following:
 - **(5)** While working on his law degree from Washburn University, Bob Dole was elected into the Kansas House of Representatives, serving from 1951–1953.
 - **(6)** Bob Dole was elected into the U.S. House of Representatives and served two Kansas districts from 1961–1969.
 - **(7)** In 1969, Bob Dole was elected into the U.S. Senate and served until 1996. Over the course of this period, he served as Chairman of the Republican National Committee, Chairman of the Finance Committee, Senate Minority Leader, and Senate Majority Leader.
-- **(8)** Bob Dole was known for his ability work across the aisle and embrace practical bipartisanship on issues such as Social Security.
+- **(8)** Bob Dole was known for his ability to work across the aisle and embrace practical bipartisanship on issues such as Social Security.
 - **(9)** Bob Dole has been a life-long advocate for the disabled and was a key figure in the passing of the Americans with Disabilities Act in 1990.
 - **(10)** After his appointment as Majority Leader, Bob Dole set the record as the nation’s longest-serving Republican Leader in the Senate.
 - **(11)** Several Presidents of the United States have specially honored Bob Dole for his hard work and leadership in the public sector. This recognition is exemplified by the following:
