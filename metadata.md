@@ -1,7 +1,7 @@
 ---
 measure: S. 1141
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1141
@@ -35,3 +35,5 @@ Women, Peace, and Security Act of 2017
 - 2017-06-08 — Committee on Foreign Relations. Reported by Senator Corker without amendment. With written report No. 115-93.
 - 2017-06-08 — Committee on Foreign Relations. Reported by Senator Corker without amendment. With written report No. 115-93.
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
+- 2017-08-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S4889-4891; text: CR S4889-4891)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4889-4891; text: CR S4889-4891)
