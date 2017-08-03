@@ -1,7 +1,7 @@
 ---
 measure: S. 96
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 96
@@ -16,7 +16,7 @@ Improving Rural Call Quality and Reliability Act of 2017
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Tester, Jon [D-MT] (T000464)
@@ -25,6 +25,7 @@ Improving Rural Call Quality and Reliability Act of 2017
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (1)
 
@@ -38,3 +39,5 @@ Improving Rural Call Quality and Reliability Act of 2017
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-6.
 - 2017-03-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-6.
 - 2017-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
+- 2017-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4815-4816; text: CR S4815-4816)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4815-4816; text: CR S4815-4816)
