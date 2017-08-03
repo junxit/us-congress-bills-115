@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 134
@@ -35,3 +35,5 @@ Spoofing Prevention Act of 2017
 - 2017-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-91.
 - 2017-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-91.
 - 2017-06-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
+- 2017-08-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4817-4818; text: CR S4817-4818)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4817-4818; text: CR S4817-4818)

@@ -27,9 +27,11 @@ In this Act, the term Commission means the Federal Communications Commission.
     - **(C)** by striking subparagraph (C) and inserting the following:
       > - **(C)** *Text message* The term text message—
       >   - **(i)** means a message consisting of text, images, sounds, or other information that is transmitted from or received by a device that is identified as the transmitting or receiving device by means of a 10-digit telephone number;
-      >   - **(ii)** includes a short message service (commonly referred to as “SMS”) message, an enhanced message service (commonly referred to as “EMS”) message, and a multimedia message service (commonly referred to as “MMS”) message; and
-      >   - **(iii)** does not include a real-time, 2-way voice or video communication.
-      > - **(D)** *Text messaging service* The term text messaging service means a service that permits the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
+      >   - **(ii)** includes a short message service (commonly referred to as “SMS”) message, and a multimedia message service (commonly referred to as “MMS”) message; and
+      >   - **(iii)** does not include—
+      >     - **(I)** a real-time, two-way voice or video communication; or
+      >     - **(II)** a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
+      > - **(D)** *Text messaging service* The term text messaging service means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
       > - **(E)** *Voice service* The term voice service—
       >   - **(i)** means any service that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1); and
       >   - **(ii)** includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
