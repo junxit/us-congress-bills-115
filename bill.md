@@ -29,13 +29,9 @@ Section 3 of the Marine Debris Act (33 U.S.C. 1952) is amended by adding at the 
 
 > - **(d)** *Assistance for severe marine debris events*
 >   - **(1)** *In general* At the discretion of the Administrator or at the request of the Governor of an affected State, the Administrator shall determine whether there is a severe marine debris event.
->   - **(2)** *Assistance*
->     - **(A)** *In general* If the Administrator makes a determination under paragraph (1) that there is a severe marine debris event, the Administrator is authorized to make sums available to be used by the affected State or by the Administrator in cooperation with the affected State—
->       - **(i)** to assist in the cleanup and response required by the severe marine debris event; or
->       - **(ii)** such other activity as the Administrator determines is appropriate in response to the severe marine debris event.
->     - **(B)** *Priority assistance* In providing assistance under this paragraph, the Administrator shall prioritize assistance for activities to respond to a severe marine debris event—
->       - **(i)** in a rural or remote community; or
->       - **(ii)** in a habitat of national concern.
+>   - **(2)** *Assistance* If the Administrator makes a determination under paragraph (1) that there is a severe marine debris event, the Administrator is authorized to make sums available to be used by the affected State or by the Administrator in cooperation with the affected State—
+>     - **(A)** to assist in the cleanup and response required by the severe marine debris event; or
+>     - **(B)** to conduct such other activity as the Administrator determines is appropriate in response to the severe marine debris event.
 >   - **(3)** *Funding*
 >     - **(A)** *Federal share* The Federal share of the cost of an activity carried out under the authority of this subsection shall be—
 >       - **(i)** if the activity is funded wholly by funds made available by an entity, including the government of a foreign country, to the Federal Government for the purpose of responding to a severe marine debris event, 100 percent of the cost of the activity; or
@@ -46,7 +42,7 @@ Section 3 of the Marine Debris Act (33 U.S.C. 1952) is amended by adding at the 
 
 It is the sense of Congress that the President should—
 
-- **(1)** support Federal funding for research and development of bio-based and other alternatives or environmentally feasible improvements to materials that reduce municipal solid waste and its consequences in the ocean;
+- **(1)** support research and development, including through the establishment of a prize competition, of bio-based and other alternatives or environmentally feasible improvements to materials that reduce municipal solid waste and its consequences in the ocean;
 - **(2)** work with representatives of foreign countries that contribute the most to the global marine debris problem to learn about, and find solutions to, the contributions of such countries to marine debris in the world's oceans;
 - **(3)** carry out studies to determine—
   - **(A)** the primary means by which solid waste enters the oceans;
