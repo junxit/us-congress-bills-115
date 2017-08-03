@@ -93,7 +93,7 @@ The Congress finds that—
   - **(3)** promoting the importance of maintaining the patriotic values, morals, culture, and citizenship of the United States; and
   - **(4)** promoting the importance of maintaining strong families, assistance for at-risk children, and activities that promote their healthy and wholesome development.
 - **(c)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
-- **(d)** *GAO audit* Each recipient described in subsection (b) shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+- **(d)** *Audit* Each recipient described in subsection (b) shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 
 ## § 8. Financial assurances
 

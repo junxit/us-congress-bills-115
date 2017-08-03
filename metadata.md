@@ -1,7 +1,7 @@
 ---
 measure: S. 1182
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1182
@@ -16,7 +16,7 @@ National Flood Insurance Program Extension Act of 2018
 
 - Sen. Young, Todd [R-IN] (Y000064)
 
-## Cosponsors (28)
+## Cosponsors (75)
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -46,6 +46,53 @@ National Flood Insurance Program Extension Act of 2018
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Strange, Luther [R-AL] (S001202)
 
 ## Committees (1)
 
@@ -55,3 +102,13 @@ National Flood Insurance Program Extension Act of 2018
 
 - 2017-05-18 — Introduced in Senate
 - 2017-05-18 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2017-08-03 — Amendment SA 772 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Amendment SA 772 proposed by Senator Murkowski for Senator Young. (consideration: CR S4892-4893; text: CR S4892-4893) To improve the bill.
+- 2017-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4892-4893)
+- 2017-08-03 — Passed Senate with an amendment by Voice Vote.
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2017-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2017-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2017-08-03 — Senate amendment agreed to: Amendment SA 772 agreed to in Senate by Unanimous Consent.
+- 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 772 proposed by Senator Murkowski for Senator Young.(consideration: CR S4892-4893; text: CR S4892-4893)
+- 2017-08-03 — Senate amendment submitted
