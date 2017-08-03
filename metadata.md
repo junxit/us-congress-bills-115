@@ -1,7 +1,7 @@
 ---
 measure: S. 1141
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1141
@@ -37,3 +37,16 @@ Women, Peace, and Security Act of 2017
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
 - 2017-08-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S4889-4891; text: CR S4889-4891)
 - 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4889-4891; text: CR S4889-4891)
+- 2017-08-04 — Held at the desk.
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-09-25 — Considered under suspension of the rules. (consideration: CR H7446-7450)
+- 2017-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1141.
+- 2017-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
+- 2017-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7447-7448)
+- 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7447-7448)
+- 2017-09-28 — Presented to President.
+- 2017-09-28 — Presented to President.
+- 2017-10-06 — Signed by President.
+- 2017-10-06 — Signed by President.
