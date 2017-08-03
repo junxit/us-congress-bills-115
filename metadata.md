@@ -1,7 +1,7 @@
 ---
 measure: S. 174
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 174
@@ -32,3 +32,5 @@ Federal Communications Commission Consolidated Reporting Act of 2017
 - 2017-05-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-61.
 - 2017-05-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-61.
 - 2017-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.
+- 2017-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4816-4817; text: CR S4816-4817)
+- 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4816-4817; text: CR S4816-4817)
