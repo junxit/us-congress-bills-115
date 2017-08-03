@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 209
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 209
@@ -28,3 +28,7 @@ A resolution commemorating the 40th Anniversary of the Silicon Valley Leadership
 
 - 2017-06-28 — Introduced in Senate
 - 2017-06-28 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3835; text of measure as introduced: CR S3835)
+- 2017-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4894)
+- 2017-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4894)
