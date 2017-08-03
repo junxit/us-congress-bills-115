@@ -1,7 +1,7 @@
 ---
 measure: S. 1359
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1359
@@ -30,3 +30,7 @@ John F. Kennedy Center Reauthorization Act of 2017
 
 - 2017-06-14 — Introduced in Senate
 - 2017-06-14 — Read twice and referred to the Committee on Environment and Public Works.
+- 2017-07-12 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2017-08-03 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-144.
+- 2017-08-03 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-144.
+- 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
