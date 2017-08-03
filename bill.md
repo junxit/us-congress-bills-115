@@ -22,8 +22,11 @@ Congress finds the following:
 
 ## § 3. Penalty for sale of Purple Hearts awarded to members of the Armed Forces
 
-Subsection (a) of section 704 of title 18, United States Code, is amended to read as follows:
+Section 704 of title 18, United States Code, is amended—
 
-> - **(a)** *In general*
->   - **(1)** *Penalty* Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title, imprisoned not more than 6 months, or both.
->   - **(2)** *Limitation on regulations* Regulations described in paragraph (1) may not authorize the sale of any Purple Heart awarded to a member of the armed forces or former member of the armed forces by the Secretary of the military department concerned, unless the sale is conducted by the member or former member to whom the Purple Heart was awarded.
+- **(1)** in subsection (a), by striking “Whoever” and inserting “Except as provided in subsection (e), whoever”; and
+- **(2)** by adding at the end the following:
+  > - **(e)** *Purple heart*
+  >   - **(1)** *Penalty* Whoever willfully purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any Purple Heart awarded to a member of the armed forces or former member of the armed forces by the Secretary of the military department concerned, except when authorized under regulations made pursuant to law, shall be fined under this title, imprisoned not more than 6 months, or both.
+  >   - **(2)** *Limitation on regulations* Regulations described in paragraph (1) may not authorize the sale of any Purple Heart awarded to a member of the armed forces or former member of the armed forces by the Secretary of the military department concerned, unless the sale is conducted by the member or former member to whom the Purple Heart was awarded.
+  >   - **(3)** *Definition* In this subsection, the term willfully means the voluntary, intentional violation of a known legal duty.
