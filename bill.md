@@ -34,7 +34,7 @@ In this Act:
   - **(1)** *In general* Consistent with the Presidential Memorandum of June 28, 2010, entitled “Unleashing the Wireless Broadband Revolution” and establishing a goal of making a total of 500 megahertz of Federal and non-Federal spectrum available on a licensed or unlicensed basis for wireless broadband use by 2020, not later than December 31, 2020, the Secretary, working through the NTIA, and the Commission shall make available a total of at least 255 megahertz of Federal and non-Federal spectrum below the frequency of 6000 megahertz for mobile and fixed wireless broadband use.
   - **(2)** *Unlicensed and licensed use* Of the spectrum made available under paragraph (1), not less than—
     - **(A)** 100 megahertz shall be made available on an unlicensed basis; and
-    - **(B)** 100 megahertz shall be made available on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission's authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time as is necessary for those incumbent entities to be relocated to other spectrum.
+    - **(B)** 100 megahertz shall be made available on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission's authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time stipulated in transition plans approved by the Technical Panel under section 113(h) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(h)) for those incumbent entities to be relocated to alternate spectrum.
   - **(3)** *Non-eligible spectrum* For purposes of satisfying the requirement under paragraph (1), the following spectrum shall not be counted:
     - **(A)** The frequencies between 1695 and 1710 megahertz.
     - **(B)** The frequencies between 1755 and 1780 megahertz.
@@ -83,18 +83,14 @@ In this Act:
 
 - **(a)** *Between 3100 megahertz and 3550 megahertz* Not later than 18 months after the date of enactment of this Act, and in consultation with the Commission and the head of each affected Federal agency (or a designee thereof), the Secretary shall submit to the Commission and the appropriate committees of Congress a report evaluating the feasibility of allowing commercial wireless services, licensed or unlicensed, to share use of the frequencies between 3100 megahertz and 3550 megahertz.
 - **(b)** *Between 3700 megahertz and 4200 megahertz* Not later than 18 months after the date of enactment of this Act, after notice and an opportunity for public comment, and in consultation with the Secretary and the head of each affected Federal agency (or a designee thereof), the Commission shall submit to the Secretary and the appropriate committees of Congress a report evaluating the feasibility of allowing commercial wireless services, licensed or unlicensed, to share use of the frequencies between 3700 megahertz and 4200 megahertz.
-- **(c)** *Requirements* A report under subsection (a) or subsection (b) shall include the following:
+- **(c)** *Requirements* A report under subsection (a) or (b) shall include the following:
   - **(1)** An assessment of the operations of Federal entities that operate Federal Government stations authorized to use the frequencies described in that subsection.
   - **(2)** An assessment of the possible impacts of such sharing on Federal and non-Federal users already operating on the frequencies described in that subsection.
   - **(3)** The criteria that may be necessary to ensure shared licensed or unlicensed services would not cause harmful interference to Federal or non-Federal users already operating in the frequencies described in that subsection.
   - **(4)** If such sharing is feasible, an identification of which of the frequencies described in that subsection are most suitable for sharing with commercial wireless services through the assignment of new licenses by competitive bidding, for sharing with unlicensed operations, or through a combination of licensing and unlicensed operations.
 - **(d)** *Commission action* The Commission, in consultation with the NTIA, shall seek public comment on the reports required under subsections (a) and (b), including regarding the bands identified in such reports as feasible pursuant to subsection (c)(4).
 
-## § 6. Distributed antenna systems and small cell infrastructure
-
-Not later than December 31, 2017, the Commission shall take action in its Program Alternatives for Small Wireless Communications Facility Deployments proceeding (WT Docket 15–180).
-
-## § 7. Communications facilities deployment on Federal property
+## § 6. Communications facilities deployment on Federal property
 
 - **(a)** *In general* Section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455) is amended by striking subsections (b), (c), and (d) and inserting the following:
   > - **(b)** *Federal easements, rights-of-Way, and leases*
@@ -117,8 +113,8 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
   >     - **(D)** *Point of contact* Upon receiving an application under subparagraph (A), an executive agency shall designate one or more appropriate individuals within the executive agency to act as a point of contact with the applicant.
   > - **(c)** *Master contracts for communications facility installation sitings*
   >   - **(1)** *In general* Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
-  >     - **(A)** develop one or more master contracts that shall govern the placement of communications facility installation on buildings and other property owned by the Federal Government; and
-  >     - **(B)** in developing the master contract or contracts, standardize the treatment of the placement of communications facility installation on building rooftops or facades, the placement of communications facility installation on rooftops or inside buildings, the technology used in connection with communications facility installation placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
+  >     - **(A)** develop one or more master contracts that shall govern the placement of communications facility installations on buildings and other property owned by the Federal Government; and
+  >     - **(B)** in developing the master contract or contracts, standardize the treatment of the placement of communications facility installations on building rooftops or facades, the placement of communications facility installations on rooftops or inside buildings, the technology used in connection with communications facility installations placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
   >   - **(2)** *Applicability* The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a communications facility installation on a specific building or other property warrant nonstandard treatment of such building or other property.
   >   - **(3)** *Application*
   >     - **(A)** *In general* The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
@@ -132,53 +128,53 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
   >       - **(iii)** is added to a tower, building, or other structure.
   >   - **(2)** *Executive agency* The term executive agency has the meaning given such term in section 102 of title 40, United States Code.
 
-- **(b)** *Savings provision* An application for an easement, right-of-way, or lease that was made or granted under section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455) before the effective date of this Act shall continue, subject to that section as in effect on the day before such effective date.
+- **(b)** *Savings provision* An application for an easement, right-of-way, or lease that was made or granted under section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455) before the date of enactment of this Act shall continue, subject to that section as in effect on the day before such date of enactment.
 - **(c)** *Streamlining broadband facility applications*
   - **(1)** *Definition of communications facility installation* In this subsection, the term communications facility installation has the meaning given the term in section 6409(d) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(d)), as amended by subsection (a).
   - **(2)** *Recommendations*
-    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the NTIA, in coordination with the Department of the Interior, the Department of Agriculture, the Department of Defense, the Department of Transportation, the Office of Management and Budget, and the General Services Administration, shall develop recommendations to streamline the process for considering applications by those agencies under section 6409(b) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(b)), as amended by subsection (a).
+    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the NTIA, in coordination with the Department of the Interior, the Department of Agriculture, the Department of Defense, the Department of Transportation, OMB, and the General Services Administration, shall develop recommendations to streamline the process for considering applications by those agencies under section 6409(b) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(b)), as amended by subsection (a).
     - **(B)** *Requirements for recommendations* The recommendations developed under subparagraph (A) shall include—
       - **(i)** procedures for the tracking of applications described in subparagraph (A);
-      - **(ii)** methods by which to reduce the amount of time between the receipt of an application and the issuance of a final decision on an application; and
-      - **(iii)** policies to expedite renewals of an easement, license, or other authorization to locate a communications facility installation on land managed by the agencies described in subparagraph (A).
+      - **(ii)** methods by which to reduce the amount of time between the receipt of an application and the issuance of a final decision on an application;
+      - **(iii)** policies to expedite renewals of an easement, license, or other authorization to locate communications facility installations on land managed by the agencies described in subparagraph (A); and
+      - **(iv)** policies that would prioritize or streamline a permit for construction in a previously-disturbed right-of-way.
     - **(C)** *Report to Congress* Not later than 2 years after the date on which the recommendations required under subparagraph (A) are developed, the NTIA shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes—
       - **(i)** the status of the implementation of the recommendations developed under subparagraph (A); and
       - **(ii)** any improvements to the process for considering applications described in subparagraph (A) that have resulted from those recommendations, including in particular the speed at which such applications are reviewed and a final determination is issued.
 
-## § 8. Broadband infrastructure deployment
+## § 7. Broadband infrastructure deployment
 
-- **(a)** *United States policy* It is the policy of the United States for the Department of Transportation and State departments of transportation—
+- **(a)** *Finding regarding Federal and State departments of transportation* Congress finds that it is the policy of the United States for the Department of Transportation and State departments of transportation—
   - **(1)** to adjust or otherwise develop right-of-way policies for Federal-aid highways to effectively accommodate broadband infrastructure;
-  - **(2)** to ensure the safe and efficient accommodation of broadband infrastructure in the public right-of-way;
-  - **(3)** to include broadband stakeholders in the transportation planning process; and
-  - **(4)** to coordinate highway construction plans with other statewide telecommunications and broadband plans.
+  - **(2)** to allow for the safe and efficient accommodation of broadband infrastructure in the public right-of-way; and
+  - **(3)** to the extent applicable, to coordinate with other statewide telecommunication and broadband plans when developing a statewide transportation improvement program.
 - **(b)** *Definitions* In this section:
-  - **(1)** *Appropriate State agency* The term appropriate State agency means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and carry out projects relating to the proper and effective installation and operation of broadband infrastructure.
-  - **(2)** *Broadband infrastructure* The term broadband infrastructure means any buried or aerial facility, and any wireless or wireline connection, that enables users to send and receive voice, video, data, graphics, or any combination thereof.
+  - **(1)** *Appropriate state agency* The term appropriate State agency means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and carry out projects relating to the proper and effective installation and operation of broadband infrastructure.
+  - **(2)** *Broadband infrastructure* The term broadband infrastructure means any buried, underground, or aerial facility, and any wireless or wireline connection, that enables users to send and receive voice, video, data, graphics, or any combination thereof.
   - **(3)** *Broadband infrastructure entity* The term broadband infrastructure entity means any entity that—
     - **(A)** installs, owns, or operates broadband infrastructure; and
-    - **(B)** provides broadband services to the public in a manner consistent with the public interest, convenience, and necessity, as determined by the State.
+    - **(B)** provides broadband services in a manner consistent with the public interest, convenience, and necessity, as determined by the State.
   - **(4)** *State* The term State means—
     - **(A)** a State;
     - **(B)** the District of Columbia; and
     - **(C)** the Commonwealth of Puerto Rico.
 - **(c)** *Broadband infrastructure deployment* To facilitate the installation of broadband infrastructure and achieve the policy described in subsection (a), the Secretary of Transportation shall ensure that each State that receives funds under chapter 1 of title 23, United States Code, meets the following requirements:
-  - **(1)** *Broadband coordination* The State department of transportation, in coordination with appropriate State agencies, shall—
-    - **(A)** identify a broadband utility coordinator, that may have additional responsibilities, whether in the State department of transportation or in another State agency, and that is responsible for coordinating the broadband infrastructure right-of-way needs of the State with Federal-aid highway projects carried out in the State;
-    - **(B)** establish a process for the registration of broadband infrastructure entities that seek to be included in those broadband infrastructure right-of-way coordination efforts within the State;
-    - **(C)** coordinate initiatives carried out under this section with other statewide telecommunication and broadband plans and State and local transportation and land use plans; and
-    - **(D)** develop strategies to minimize repeated excavations that involve the installation of broadband infrastructure in a right-of-way.
-  - **(2)** *Priority* If a State chooses to provide for the installation of broadband infrastructure in the right-of-way of an applicable Federal-aid highway under this subsection in a given case, the State department of transportation shall carry out any appropriate measures to ensure that any existing broadband infrastructure entities are not disadvantaged, as compared to other broadband infrastructure entities, with respect to the program under this subsection.
-- **(d)** *Effect of section* This section applies only to activities for which obligations or expenditures are initially approved on or after the date of enactment of this Act. Nothing in this section establishes a mandate or requirement, or authorizes the Secretary to establish a mandate or requirement, that a State install broadband infrastructure in a highway right-of-way.
+  - **(1)** *Broadband consultation* The State department of transportation, in consultation with appropriate State agencies, shall—
+    - **(A)** identify a broadband utility coordinator, that may have additional responsibilities, whether in the State department of transportation or in another State agency, that is responsible for facilitating the broadband infrastructure right-of-way efforts within the State;
+    - **(B)** establish a process for the registration of broadband infrastructure entities that seek to be included in those broadband infrastructure right-of-way facilitation efforts within the State;
+    - **(C)** establish a process to electronically notify broadband infrastructure entities identified under subparagraph (B) of the State transportation improvement program on an annual basis and provide additional notifications as necessary to achieve the goals of this section; and
+    - **(D)** coordinate initiatives carried out under this section with other statewide telecommunication and broadband plans and State and local transportation and land use plans, including strategies to minimize repeated excavations that involve the installation of broadband infrastructure in a right-of-way.
+  - **(2)** *Priority* If a State chooses to provide for the installation of broadband infrastructure in the right-of-way of an applicable Federal-aid highway project under this subsection, the State department of transportation shall carry out any appropriate measures to ensure that any existing broadband infrastructure entities are not disadvantaged, as compared to other broadband infrastructure entities, with respect to the program under this subsection.
+- **(d)** *Effect of section* This section applies only to activities for which obligations or expenditures are initially approved on or after the date of enactment of this Act. Nothing in this section establishes a mandate or requirement that a State install broadband infrastructure in a highway right-of-way.
 
-## § 9. National broadband facilities asset database
+## § 8. National broadband facilities asset database
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Communications facility installation* The term communications facility installation includes—
     - **(A)** any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switches, wiring, cabling, power sources, shelters, or cabinets, associated with the licensed or permitted unlicensed wireless or wireline transmission of writings, signs, signals, data, images, pictures, and sounds of all kinds; and
     - **(B)** any antenna or apparatus that—
       - **(i)** is designed for the purpose of emitting radio frequency;
-      - **(ii)** is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+      - **(ii)** is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Commission or is using duly authorized devices that do not require individual licenses; and
       - **(iii)** is added to a tower, building, or other structure.
   - **(2)** *Covered property* The term covered property—
     - **(A)** means any real property capable of supporting a communications facility installation; and
@@ -194,7 +190,7 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
     - **(B)** any other entity that the Director of the Office of Science and Technology Policy determines is appropriate; and
   - **(3)** establish a process for withholding data from the database for national security, public safety, or other national strategic concerns in accordance with existing statutory authority and Executive order mandates with respect to handling and protection of such information.
 - **(c)** *Public comment*
-  - **(1)** *In general* Not later than 30 days after the date of enactment of the MOBILE NOW Act, the Director of the Office of Science and Technology Policy shall seek public comment to inform the establishment and operation of the database.
+  - **(1)** *In general* Not later than 30 days after the date of enactment of this Act, the Director of the Office of Science and Technology Policy shall seek public comment to inform the establishment and operation of the database.
   - **(2)** *Contents* In seeking public comment under paragraph (1), the Director shall include a request for recommendations on—
     - **(A)** criteria that make real property capable of supporting communications facility installations;
     - **(B)** types of information related to covered property that should be included in the database;
@@ -213,11 +209,11 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
       - **(ii)** make recommendations on ways the Federal Government can assist State and local governments in collecting and providing the information described in subparagraph (A).
     - **(C)** *Report update* Not later than 2 years after the date on which the database is established under this section, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives an update to the report required under subparagraph (A) that identifies State and local governments that have contributed to the database and recommends ways to further incentivize participation by State and local governments pursuant to paragraph (1) of this subsection or through other means.
 - **(f)** *Database updates*
-  - **(1)** *Timely inclusion* After the establishment of the database, the Director of the Office of Science and Technology Policy shall ensure that information provided under subsection (d) or subsection (e) is included in the database not later than 7 days after the date on which the Director receives the information.
+  - **(1)** *Timely inclusion* After the establishment of the database, the Director of the Office of Science and Technology Policy shall ensure that information provided under subsection (d) or (e) is included in the database not later than 7 days after the date on which the Director receives the information.
   - **(2)** *Date of addition or update* Information in the database relating to covered property shall include the date on which the information was added or most recently updated.
 - **(g)** *Report* Not later than 180 days after the date the Director of the Office of Science and Technology Policy seeks public comment under subsection (c)(1), the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the progress in establishing the database under this section. The Director shall update the report annually until the date that the database is fully operational. After the database is fully operational and for the next 5 years thereafter, the Director shall provide annual reports regarding the use of the database, recommendations of how the database may provide additional utility to the entities described in subsection (b)(2), if any recommendations are warranted, and how previous recommendations have been implemented.
 
-## § 10. Reallocation incentives
+## § 9. Reallocation incentives
 
 - **(a)** *In general* Not later than 18 months after the date of enactment of this Act, the Secretary, in consultation with the Commission, the Director of OMB, and the head of each affected Federal agency (or a designee thereof), after notice and an opportunity for public comment, shall submit to the appropriate committees of Congress a report that includes legislative or regulatory recommendations to incentivize a Federal entity to relinquish, or share with Federal or non-Federal users, Federal spectrum for the purpose of allowing commercial wireless broadband services to operate on that Federal spectrum.
 - **(b)** *Post-Auction payments*
@@ -231,7 +227,7 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
     - **(A)** *Payment* The term payment means a payment in cash or in-kind by any auction winner, or any person affiliated with an auction winner, of eligible frequencies during the period after eligible frequencies have been reallocated by competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) but prior to the completion of relocation or sharing transition of such eligible frequencies per transition plans approved by the Technical Panel.
     - **(B)** *Eligible frequencies* The term eligible frequencies has the meaning given the term in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)).
 
-## § 11. Bidirectional sharing study
+## § 10. Bidirectional sharing study
 
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, including an opportunity for public comment, the Commission, in collaboration with the NTIA, shall—
   - **(1)** conduct a bidirectional sharing study to determine the best means of providing Federal entities flexible access to non-Federal spectrum on a shared basis across a range of short-, mid-, and long-range timeframes, including for intermittent purposes like emergency use; and
@@ -240,30 +236,30 @@ Not later than December 31, 2017, the Commission shall take action in its Progra
   - **(1)** consider the regulatory certainty that commercial spectrum users and Federal entities need to make longer-term investment decisions for shared access to be viable; and
   - **(2)** evaluate any barriers to voluntary commercial arrangements in which non-Federal users could provide access to Federal entities.
 
-## § 12. Unlicensed services in guard bands
+## § 11. Unlicensed services in guard bands
 
 - **(a)** *In general* After public notice and comment, and in consultation with the Secretary and the head of each affected Federal agency (or a designee thereof), with respect to frequencies allocated for Federal use, the Commission shall adopt rules that permit unlicensed services where feasible to use any frequencies that are designated as guard bands to protect frequencies allocated after the date of enactment of this Act by competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), including spectrum that acts as a duplex gap between transmit and receive frequencies.
 - **(b)** *Limitation* The Commission may not permit any use of a guard band under this section that would cause harmful interference to a licensed service or a Federal service operating in the guard band or in an adjacent band.
 - **(c)** *Rule of construction* Nothing in this section shall be construed as limiting the Commission or the Secretary from otherwise making spectrum available for licensed or unlicensed use in any frequency band in addition to guard bands, including under section 3, consistent with their statutory jurisdictions.
 
-## § 13. Pre-auction funding
+## § 12. Pre-auction funding
 
 Section 118(d)(3)(B)(i)(II) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 928(d)(3)(B)(i)(II)) is amended by striking “5 years” and inserting “8 years”.
 
-## § 14. Immediate transfer of funds
+## § 13. Immediate transfer of funds
 
 Section 118(e)(1) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 928(e)(1)) is amended by adding at the end the following:
 
-> - **(D)** At the request of an eligible Federal entity, the Director of OMB may transfer the amount under subparagraph (A) immediately—
+> - **(D)** At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as OMB) may transfer the amount under subparagraph (A) immediately—
 >   - **(i)** after the frequencies are reallocated by competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)); or
 >   - **(ii)** in the case of an incumbent Federal entity that is incurring relocation or sharing costs to accommodate sharing spectrum frequencies with another Federal entity, after the frequencies from which the other eligible Federal entity is relocating are reallocated by competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), without regard to the availability of such sums in the Fund.
 > - **(E)** Prior to the deposit of proceeds into the Fund from an auction, the Director of OMB may borrow from the Treasury the amount under subparagraph (A) for a transfer under subparagraph (D). The Treasury shall immediately be reimbursed, without interest, from funds deposited into the Fund.
 
-## § 15. Amendments to the Spectrum Pipeline Act of 2015
+## § 14. Amendments to the Spectrum Pipeline Act of 2015
 
 Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat. 584) is amended in the matter preceding paragraph (1) by inserting “, after notice and an opportunity for public comment,” after “the Commission”.
 
-## § 16. GAO assessment of unlicensed spectrum and Wi-Fi use in low-income neighborhoods
+## § 15. GAO assessment of unlicensed spectrum and Wi-Fi use in low-income neighborhoods
 
 - **(a)** *Study*
   - **(1)** *In general* The Comptroller General of the United States shall conduct a study to evaluate the availability of broadband Internet access using unlicensed spectrum and wireless networks in low-income neighborhoods.
@@ -276,7 +272,7 @@ Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat
   - **(1)** summarizes the findings of the study conducted under subsection (a); and
   - **(2)** makes recommendations with respect to potential incentives, policies, and requirements that could help achieve the goals described in subparagraphs (C) and (D) of subsection (a)(2).
 
-## § 17. Rulemaking related to partitioning or disaggregating licenses
+## § 16. Rulemaking related to partitioning or disaggregating licenses
 
 - **(a)** *Definitions* In this section—
   - **(1)** *Covered small carrier* The term covered small carrier means a carrier (as defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153)) that—
@@ -307,7 +303,7 @@ Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat
   - **(3)** *Forfeiture of spectrum* If a party fails to meet any build out requirements set by the Commission for any spectrum sold or leased under this section, the right to the spectrum shall be forfeited to the Commission unless the Commission finds that there is good cause for the failure of the party.
   - **(4)** *Requirement* The Commission may offer a licensee incentives or reduced performance requirements under this section only if the Commission finds that doing so would likely result in increased availability of advanced telecommunications services in a rural area.
 
-## § 18. Unlicensed spectrum policy
+## § 17. Unlicensed spectrum policy
 
 - **(a)** *Statement of policy* It is the policy of the United States—
   - **(1)** to maximize the benefit to the people of the United States of the spectrum resources of the United States;
@@ -318,7 +314,7 @@ Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat
   - **(2)** in the public interest.
 - **(c)** *Commission action* Not later than 18 months after the date of enactment of this Act, the Commission shall take action to implement subsection (b).
 
-## § 19. National plan for unlicensed spectrum
+## § 18. National plan for unlicensed spectrum
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Spectrum Relocation Fund* The term Spectrum Relocation Fund means the Fund established under section 118 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 928).
@@ -348,13 +344,9 @@ Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress a report that describes the plan developed under this section, including any recommendations for legislative change.
   - **(2)** *Publication on Commission website* Not later than the date on which the Commission submits the report under paragraph (1), the Commission shall make the report publicly available on the website of the Commission.
 
-## § 20. Spectrum challenge prize
+## § 19. Spectrum challenge prize
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The future competitiveness and global technology leadership of the United States depend, in part, upon the availability and efficient use of spectrum.
-  - **(2)** Dramatic improvement in spectrum efficiency would spur innovation, investment, and economic growth.
-  - **(3)** Radio frequency spectrum is vital for emergency communications, national security, law enforcement, aviation, maritime safety, space communications, and numerous other Federal functions.
-  - **(4)** Prize competitions can spur innovation in the private and public sectors.
+- **(a)** *Short title* This section may be cited as the “Spectrum Challenge Prize Act”.
 - **(b)** *Definition of prize competition* In this section, the term prize competition means a prize competition conducted by the Secretary under subsection (c)(1).
 - **(c)** *Spectrum challenge prize*
   - **(1)** *In general* The Secretary, in consultation with the Assistant Secretary of Commerce for Communications and Information and the Under Secretary of Commerce for Standards and Technology, shall, subject to the availability of funds for prize competitions under this section—
@@ -367,34 +359,27 @@ Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat
 - **(d)** *Criteria* Not later than 180 days after the date on which funds for prize competitions are made available pursuant to this section, the Commission shall publish a technical paper on spectrum efficiency providing criteria that may be used for the design of the prize competitions.
 - **(e)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-## § 21. Wireless telecommunications tax and fee collection fairness
+## § 20. Wireless telecommunications tax and fee collection fairness
 
 - **(a)** *Short title* This section may be cited as the “Wireless Telecommunications Tax and Fee Collection Fairness Act”.
-- **(b)** *Findings* Congress makes the following findings:
-  - **(1)** A State may designate an in-State or out-of-State person as a collection agent for the State and impose upon the person a duty to collect certain taxes and fees for wireless telecommunications services from residents of the State.
-  - **(2)** States have the sovereign right to tax their citizens, subject to the Constitution of the United States and Federal law. States do not have the right to tax interstate commerce or to impose taxes or other obligations on citizens of other States without limitation.
-  - **(3)** A collection agent for a State may feasibly collect taxes and fees from a customer in connection with a financial transaction to which the agent and customer are parties.
-  - **(4)** Congress can help ensure against unreasonable burdens on interstate commerce by prohibiting each State from imposing a duty on any person to serve as a collection agent for the State unless the collection is in connection with a financial transaction.
-- **(c)** *Definitions* In this section:
+- **(b)** *Definitions* In this section:
   - **(1)** *Financial transaction* The term financial transaction means a transaction in which the purchaser or user of a wireless telecommunications service upon whom a tax, fee, or surcharge is imposed gives cash, credit, or any other exchange of monetary value or consideration to the person who is required to collect or remit the tax, fee, or surcharge.
   - **(2)** *Local jurisdiction* The term local jurisdiction means a political subdivision of a State.
   - **(3)** *State* The term State means any of the several States, the District of Columbia, and any territory or possession of the United States.
   - **(4)** *State or local jurisdiction* The term State or local jurisdiction includes any governmental entity or person acting on behalf of a State or local jurisdiction that has the authority to assess, impose, levy, or collect taxes or fees.
   - **(5)** *Wireless telecommunications service* The term wireless telecommunications service means a commercial mobile radio service, as defined in section 20.3 of title 47, Code of Federal Regulations, or any successor thereto.
-- **(d)** *Financial transaction requirement*
-  - **(1)** *In general* A State, or a local jurisdiction of a State, may not require a person to collect from, or remit on behalf of, any other person a State or local tax, fee, or surcharge imposed on a purchaser or user with respect to the purchase or use of any wireless telecommunications service within the State unless the collection or remittance is in connection with a financial transaction between—
-    - **(A)** the person that the State or local jurisdiction requires to collect or remit the tax, fee, or surcharge; and
-    - **(B)** the purchaser or user of the wireless telecommunications service.
+- **(c)** *Financial transaction requirement*
+  - **(1)** *In general* A State, or a local jurisdiction of a State, may not require a person to collect from, or remit on behalf of, any other person a State or local tax, fee, or surcharge imposed on a purchaser or user with respect to the purchase or use of any wireless telecommunications service within the State unless the collection or remittance is in connection with a financial transaction.
   - **(2)** *Rule of construction* Nothing in this subsection shall be construed to affect the right of a State or local jurisdiction to require the collection of any tax, fee, or surcharge in connection with a financial transaction.
-- **(e)** *Enforcement*
-  - **(1)** *Private right of action* Any person aggrieved by a violation of subsection (d) may bring a civil action in an appropriate district court of the United States for equitable relief in accordance with paragraph (2) of this subsection.
-  - **(2)** *Jurisdiction of district courts* Notwithstanding section 1341 of title 28, United States Code, or the constitution or laws of any State, the district courts of the United States shall have jurisdiction, without regard to the amount in controversy or citizenship of the parties, to grant such mandatory or prohibitive injunctive relief, interim equitable relief, and declaratory judgments as may be necessary to prevent, restrain, or terminate any acts in violation of subsection (d).
+- **(d)** *Enforcement*
+  - **(1)** *Private right of action* Any person aggrieved by a violation of subsection (c) may bring a civil action in an appropriate district court of the United States for equitable relief in accordance with paragraph (2) of this subsection.
+  - **(2)** *Jurisdiction of district courts* Notwithstanding section 1341 of title 28, United States Code, or the constitution or laws of any State, the district courts of the United States shall have jurisdiction, without regard to the amount in controversy or citizenship of the parties, to grant such mandatory or prohibitive injunctive relief, interim equitable relief, and declaratory judgments as may be necessary to prevent, restrain, or terminate any acts in violation of subsection (c).
 
-## § 22. Rules of construction
+## § 21. Rules of construction
 
 - **(a)** *Ranges of frequencies* Each range of frequencies described in this Act shall be construed to be inclusive of the upper and lower frequencies in the range.
 - **(b)** *Assessment of electromagnetic spectrum reallocation* Nothing in this Act shall be construed to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000.
 
-## § 23. Relationship to Middle Class Tax Relief and Job Creation Act of 2012
+## § 22. Relationship to Middle Class Tax Relief and Job Creation Act of 2012
 
 Nothing in this Act shall be construed to limit, restrict, or circumvent in any way the implementation of the nationwide public safety broadband network defined in section 6001 of title VI of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401) or any rules implementing that network under title VI of that Act (47 U.S.C. 1401 et seq.).
