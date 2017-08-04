@@ -1,7 +1,7 @@
 ---
 measure: S. 88
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 88
@@ -22,9 +22,10 @@ Developing Innovation and Growing the Internet of Things Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Developing Innovation and Growing the Internet of Things Act
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 769 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 769 proposed by Senator Wicker for Senator Fischer.(consideration: CR S4819; text: CR S4819)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Energy and Commerce.
