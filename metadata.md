@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 178
@@ -60,3 +60,14 @@ Elder Abuse Prevention and Prosecution Act
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-08-04 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-08-11 — Referred to the Subcommittee on Digital Commerce and Consumer Protection.
+- 2017-10-03 — Considered under suspension of the rules. (consideration: CR H7709-7712)
+- 2017-10-03 — DEBATE - The House proceeded with forty minutes of debate on S. 178.
+- 2017-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-03 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2017-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7709-7712)
+- 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7709-7712)
+- 2017-10-06 — Presented to President.
+- 2017-10-06 — Presented to President.
+- 2017-10-18 — Signed by President.
+- 2017-10-18 — Signed by President.
