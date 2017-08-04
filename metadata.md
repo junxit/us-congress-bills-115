@@ -1,7 +1,7 @@
 ---
 measure: S. 765
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 765
@@ -24,9 +24,10 @@ Private Corrado Piccoli Purple Heart Preservation Act
 - Sen. Strange, Luther [R-AL] (S001202)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,5 @@ Private Corrado Piccoli Purple Heart Preservation Act
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 767 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 767 proposed by Senator Perdue.(consideration: CR S4806; text: CR S4806)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on the Judiciary.
