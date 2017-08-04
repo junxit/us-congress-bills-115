@@ -1,7 +1,7 @@
 ---
 measure: S. 1282
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1282
@@ -44,3 +44,15 @@ A bill to redesignate certain clinics of the Department of Veterans Affairs loca
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on Veterans' Affairs.
 - 2017-08-04 — Referred to the Subcommittee on Health.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4260-4261)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1282.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4260)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4260)
+- 2018-05-24 — Presented to President.
+- 2018-05-24 — Presented to President.
+- 2018-06-05 — Became Public Law No: 115-181.
+- 2018-06-05 — Became Public Law No: 115-181.
+- 2018-06-05 — Signed by President.
+- 2018-06-05 — Signed by President.
