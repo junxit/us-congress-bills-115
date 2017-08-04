@@ -1,7 +1,7 @@
 ---
 measure: S. 204
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 204
@@ -89,3 +89,22 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - 2017-08-03 — Senate amendment submitted
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on Energy and Commerce.
+- 2017-08-11 — Referred to the Subcommittee on Health.
+- 2018-05-21 — Rules Committee Resolution H. Res. 905 Reported to House. Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-22 — Considered under the provisions of rule H. Res. 905. (consideration: CR H4355-4366)
+- 2018-05-22 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike everything after section 1 and insert a completely new text.
+- 2018-05-22 — DEBATE - The House proceeded with one hour of debate on S. 204.
+- 2018-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-22 — Ms. Schakowsky moved to recommit with instructions to the Committee on Energy and Commerce. (CR H4363)
+- 2018-05-22 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 231 (Roll no. 213).
+- 2018-05-22 — On passage Passed by recorded vote: 250 - 169 (Roll no. 214). (text:  CR H4355-4356)
+- 2018-05-22 — Passed/agreed to in House: On passage Passed by recorded vote: 250 - 169 (Roll no. 214).(text:  CR H4355-4356)
+- 2018-05-22 — Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-22 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-05-22 — The previous question was ordered pursuant to the rule.
+- 2018-05-24 — Presented to President.
+- 2018-05-24 — Presented to President.
+- 2018-05-30 — Became Public Law No: 115-176.
+- 2018-05-30 — Became Public Law No: 115-176.
+- 2018-05-30 — Signed by President.
+- 2018-05-30 — Signed by President.
