@@ -1,7 +1,7 @@
 ---
 measure: S. 1616
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1616
@@ -134,3 +134,13 @@ Bob Dole Congressional Gold Medal Act
 - 2017-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4804-4806)
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on Financial Services.
+- 2017-09-05 — Considered under suspension of the rules. (consideration: CR H6638-6641)
+- 2017-09-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1616.
+- 2017-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-05 — Mr. Hultgren moved to suspend the rules and pass the bill.
+- 2017-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6638-6639)
+- 2017-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6638-6639)
+- 2017-09-11 — Presented to President.
+- 2017-09-11 — Presented to President.
+- 2017-09-15 — Signed by President.
+- 2017-09-15 — Signed by President.
