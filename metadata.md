@@ -1,7 +1,7 @@
 ---
 measure: S. 1617
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1617
@@ -25,9 +25,10 @@ Javier Vega, Jr. Memorial Act of 2017
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ Javier Vega, Jr. Memorial Act of 2017
 - 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4894)
 - 2017-08-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S4894)
 - 2017-08-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S4894)
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Transportation and Infrastructure.
