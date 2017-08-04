@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 178
@@ -34,9 +34,11 @@ Elder Abuse Prevention and Prosecution Act
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Energy and Commerce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -54,3 +56,7 @@ Elder Abuse Prevention and Prosecution Act
 - 2017-08-01 — Senate amendment agreed to: Amendment SA 742 agreed to in Senate by Unanimous Consent.
 - 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 742 proposed by Senator Portman for Senator Grassley.(consideration: CR S4681; text: CR S4681)
 - 2017-08-01 — Senate amendment submitted
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-08-04 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
