@@ -1,7 +1,7 @@
 ---
 measure: S. 81
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 81
@@ -21,9 +21,10 @@ Seniors Fraud Prevention Act of 2017
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Seniors Fraud Prevention Act of 2017
 - 2017-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
 - 2017-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4715; text: CR S4715)
 - 2017-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4715; text: CR S4715)
+- 2017-08-03 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Energy and Commerce.
