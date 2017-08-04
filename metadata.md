@@ -1,7 +1,7 @@
 ---
 measure: S. 1616
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1616
@@ -118,9 +118,10 @@ Bob Dole Congressional Gold Medal Act
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Young, Todd [R-IN] (Y000064)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -131,3 +132,5 @@ Bob Dole Congressional Gold Medal Act
 - 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S4804-4805)
 - 2017-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S4804-4806)
 - 2017-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4804-4806)
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Financial Services.
