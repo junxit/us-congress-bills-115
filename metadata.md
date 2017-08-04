@@ -1,7 +1,7 @@
 ---
 measure: S. 829
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 829
@@ -35,9 +35,10 @@ AFG and SAFER Program Reauthorization Act of 2017
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -49,3 +50,6 @@ AFG and SAFER Program Reauthorization Act of 2017
 - 2017-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.
 - 2017-08-02 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4714-4715; text: CR S4714-4715)
 - 2017-08-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4714-4715; text: CR S4714-4715)
+- 2017-08-03 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Science, Space, and Technology.
