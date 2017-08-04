@@ -1,7 +1,7 @@
 ---
 measure: S. 810
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 810
@@ -38,3 +38,15 @@ A bill to facilitate construction of a bridge on certain property in Christian C
 - 2017-08-04 — Message on Senate action sent to the House.
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-08-07 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2017-08-07 — Referred to the Subcommittee on Highways and Transit.
+- 2017-09-25 — Considered under suspension of the rules. (consideration: CR H7456-7457)
+- 2017-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 810.
+- 2017-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-25 — Mr. Ferguson moved to suspend the rules and pass the bill.
+- 2017-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7456-7457)
+- 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7456-7457)
+- 2017-09-28 — Presented to President.
+- 2017-09-28 — Presented to President.
+- 2017-10-06 — Signed by President.
+- 2017-10-06 — Signed by President.
