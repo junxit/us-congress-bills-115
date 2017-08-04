@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 76
@@ -63,3 +63,7 @@ Granting the consent and approval of Congress for the Commonwealth of Virginia, 
 - 2017-08-04 — Message on Senate action sent to the House.
 - 2017-08-04 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR 8/3/2017 S4806)
 - 2017-08-04 — Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR 8/3/2017 S4806)
+- 2017-08-11 — Presented to President.
+- 2017-08-11 — Presented to President.
+- 2017-08-22 — Signed by President.
+- 2017-08-22 — Signed by President.
