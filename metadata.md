@@ -1,7 +1,7 @@
 ---
 measure: S. 810
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 810
@@ -20,9 +20,10 @@ A bill to facilitate construction of a bridge on certain property in Christian C
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to facilitate construction of a bridge on certain property in Christian C
 - 2017-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
 - 2017-08-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4892; text: CR S4892)
 - 2017-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4892; text: CR S4892)
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Transportation and Infrastructure.
