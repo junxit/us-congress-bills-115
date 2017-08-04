@@ -1,7 +1,7 @@
 ---
 measure: S. 204
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 204
@@ -67,9 +67,10 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -86,3 +87,5 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 753 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 753 proposed by Senator Johnson.(consideration: CR S4788-4789; text: CR S4788-4789)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Energy and Commerce.
