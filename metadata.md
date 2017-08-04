@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1099
@@ -23,9 +23,10 @@ Saving Federal Dollars Through Better Use of Government Purchase and Travel Card
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ Saving Federal Dollars Through Better Use of Government Purchase and Travel Card
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 771 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 771 proposed by Senator Murkowski for Senator Carper.(consideration: CR S4891; text: CR S4891)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Oversight and Government Reform.
