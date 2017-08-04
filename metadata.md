@@ -1,7 +1,7 @@
 ---
 measure: S. 1617
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1617
@@ -41,3 +41,14 @@ Javier Vega, Jr. Memorial Act of 2017
 - 2017-08-04 — Message on Senate action sent to the House.
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-08-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-10-10 — Considered under suspension of the rules. (consideration: CR H7900-7901)
+- 2017-10-10 — DEBATE - The House proceeded with forty minutes of debate on S. 1617.
+- 2017-10-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-10 — Mr. Barletta moved to suspend the rules and pass the bill.
+- 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7900)
+- 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7900)
+- 2017-10-24 — Presented to President.
+- 2017-10-24 — Presented to President.
+- 2017-11-02 — Signed by President.
+- 2017-11-02 — Signed by President.
