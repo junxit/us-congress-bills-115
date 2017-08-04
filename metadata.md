@@ -1,7 +1,7 @@
 ---
 measure: S. 582
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 582
@@ -23,9 +23,10 @@ Office of Special Counsel Reauthorization Act of 2017
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Office of Special Counsel Reauthorization Act of 2017
 - 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 746 proposed by Senator Portman for Senator Johnson.(consideration: CR S4687; text: CR S4690-4694)
 - 2017-08-01 — Senate amendment submitted
 - 2017-08-01 — The committee amendments agreed to by Unanimous Consent.
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Oversight and Government Reform.
