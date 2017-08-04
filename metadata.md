@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 756
@@ -40,9 +40,11 @@ First Step Act of 2018
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -60,3 +62,7 @@ First Step Act of 2018
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 773 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 773 proposed by Senator Murkowski for Senator Sullivan.(consideration: CR S4895; text: CR S4895)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-08-04 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
