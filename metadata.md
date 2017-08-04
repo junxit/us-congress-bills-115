@@ -1,7 +1,7 @@
 ---
 measure: S. 581
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 581
@@ -25,9 +25,10 @@ Jessie's Law
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -44,3 +45,5 @@ Jessie's Law
 - 2017-08-03 — Senate amendment agreed to: Amendment SA 752 agreed to in Senate by Unanimous Consent.
 - 2017-08-03 — Senate amendment proposed (on the floor): Amendment SA 752 proposed by Senator Alexander for Senator Manchin.(consideration: CR S4787; text: CR S4787)
 - 2017-08-03 — Senate amendment submitted
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Energy and Commerce.
