@@ -1,7 +1,7 @@
 ---
 measure: S. 1052
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1052
@@ -20,9 +20,10 @@ BENEFIT Act of 2017
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ BENEFIT Act of 2017
 - 2017-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4788)
 - 2017-08-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S4787-4788)
 - 2017-08-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S4787-4788)
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on Energy and Commerce.
