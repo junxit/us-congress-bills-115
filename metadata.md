@@ -1,7 +1,7 @@
 ---
 measure: S. 717
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 717
@@ -30,9 +30,10 @@ Pro bono Work to Empower and Represent Act of 2018
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Pro bono Work to Empower and Represent Act of 2018
 - 2017-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4694-4695)
 - 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4694-4695)
 - 2017-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4694-4695)
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-08-04 — Received in the House.
+- 2017-08-04 — Referred to the House Committee on the Judiciary.
