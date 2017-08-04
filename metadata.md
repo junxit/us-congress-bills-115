@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 115
-version: Placed on Calendar Senate
+version: Received in Senate
 ---
 
 # H.J.Res. 76
@@ -56,3 +56,10 @@ Granting the consent and approval of Congress for the Commonwealth of Virginia, 
 - 2017-07-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-227.
 - 2017-07-17 — The title of the measure was amended. Agreed to without objection.
 - 2017-07-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.
+- 2017-07-24 — House requested return of papers pursuant to H.Res. 469.
+- 2017-08-01 — Message on Senate action sent to the House.
+- 2017-08-01 — Senate returned papers to House, per House request of July 24, 2017, by Unanimous Consent.
+- 2017-08-04 — ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make changes in the engrossment of H.J.Res. 76 that was placed at the desk. Agreed to without objection.
+- 2017-08-04 — Message on Senate action sent to the House.
+- 2017-08-04 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR 8/3/2017 S4806)
+- 2017-08-04 — Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR 8/3/2017 S4806)
