@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1558
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 4102` | add-at-end | Section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4015` | replace | by striking the subsection designation and all that follows through “With respect” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4015` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4014` | insert | Clause (ii) of section 1307(a)(1)(B) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(a)(1)(B)(ii)) is amended by inserting before “any administrative expenses” the following: “the costs associated with the monthly collection … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
