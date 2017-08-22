@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3663
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3663
+
+> To designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel “Woody” Williams VA Medical Center.
+
+## § 1. Designation of Hershel “Woody” Williams VA Medical Center in Huntington, West Virginia
+
+- **(a)** *Designation* The medical center of the Department of Veterans Affairs in Huntington, West Virginia, shall after the date of the enactment of this Act be known and designated as the “Hershel “Woody” Williams VA Medical Center”.
+- **(b)** *Reference* Any reference in any law, regulation, map, document, paper, or other record of the United States to the medical center referred to in subsection (a) shall be considered to be a reference to the Hershel “Woody” Williams VA Medical Center.
