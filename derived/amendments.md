@@ -1,7 +1,7 @@
 ---
 measure: H.R. 965
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “National Historic Site” each place it appears and inserting “National Historical Park”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 2(a), by striking “historic site” and inserting “Saint-Gaudens National Historical Park”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “National Historic Site” each place it appears and inserting “National Historical Park”; | the bill names no machine-readable US Code section |
+| — | replace | in section 2(a), by striking “historic site” and inserting “Saint-Gaudens National Historical Park”; | the bill names no machine-readable US Code section |
+| — | replace | in section 4(b), by striking “traditional to the site” and inserting “traditional to the park”. | the bill names no machine-readable US Code section |
