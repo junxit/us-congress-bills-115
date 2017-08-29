@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1074
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1074
@@ -31,3 +31,10 @@ To repeal the Act entitled "An Act to confer jurisdiction on the State of Iowa o
 - 2017-02-15 — Introduced in House
 - 2017-02-15 — Introduced in House
 - 2017-02-15 — Referred to the House Committee on Natural Resources.
+- 2017-02-24 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2017-06-07 — Subcommittee Hearings Held.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-08-29 — Placed on the Union Calendar, Calendar No. 199.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-279.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-279.
