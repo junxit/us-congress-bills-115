@@ -17,8 +17,8 @@ This Act may be cited as the “Udall Park Land Exchange Completion Act”.
 
 In this Act:
 
-- **(1)** *City* The term “City” means the city of Tucson, Arizona.
-- **(2)** *Non-federal land* The term “non-Federal land” means the approximately 172.8-acre parcel of City land identified in the patent numbered 02–90–0001 and dated October 4, 1989, and more particularly described as lots 3 and 4, S1/2NW1/4, sec. 5, T.14S., R.15 E., Gila and Salt River Meridian, Arizona.
+- **(1)** *City* The term City means the city of Tucson, Arizona.
+- **(2)** *Non-Federal land* The term non-Federal land means the approximately 172.8-acre parcel of City land identified in the patent numbered 02–90–0001 and dated October 4, 1989, and more particularly described as lots 3 and 4, S1/2NW1/4, sec. 5, T.14S., R.15 E., Gila and Salt River Meridian, Arizona.
 - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Conveyance of Federal reversionary interest in land located in Tucson, Arizona

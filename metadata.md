@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1547
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1547
@@ -35,3 +35,10 @@ Udall Park Land Exchange Completion Act
 - 2017-03-15 — Introduced in House
 - 2017-03-15 — Introduced in House
 - 2017-03-15 — Referred to the House Committee on Natural Resources.
+- 2017-03-24 — Referred to the Subcommittee on Federal Lands.
+- 2017-07-14 — Subcommittee Hearings Held.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-08-29 — Placed on the Union Calendar, Calendar No. 200.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-280.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-280.
