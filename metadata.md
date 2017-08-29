@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2371
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2371
@@ -16,7 +16,7 @@ Western Area Power Administration Transparency Act
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -28,6 +28,7 @@ Western Area Power Administration Transparency Act
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
 
 ## Committees (1)
 
@@ -38,3 +39,10 @@ Western Area Power Administration Transparency Act
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Referred to the House Committee on Natural Resources.
+- 2017-05-10 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-05-18 — Subcommittee Hearings Held.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-08-29 — Placed on the Union Calendar, Calendar No. 202.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-282.
+- 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-282.
