@@ -15,7 +15,7 @@ This Act may be cited as the “Joint Counterterrorism Awareness Workshop Series
 
 ## § 2. Joint Counterterrorism Awareness Workshop Series
 
-- **(a)** *In general* Title V of the Homeland Security Act (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section:
   > ## § 529. Joint Counterterrorism Awareness Workshop Series
   >
   > - **(a)** *In general* The Administrator, in consultation with the Director of the National Counterterrorism Center and the Director of the Federal Bureau of Investigation, shall establish a Joint Counterterrorism Awareness Workshop Series (in this section referred to as the “Workshop Series”) to address emerging terrorist threats and to enhance the ability of State and local jurisdictions to prevent, protect against, respond to, and recover from terrorist attacks.
