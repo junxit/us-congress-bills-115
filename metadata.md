@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 69
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 69
@@ -25,3 +25,10 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2017-07-19 — Introduced in House
 - 2017-07-19 — Introduced in House
 - 2017-07-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-07-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-07-20 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2017-07-27 — Committee Consideration and Mark-up Session Held.
+- 2017-07-27 — Ordered to be Reported by Voice Vote.
+- 2017-09-01 — Placed on the House Calendar, Calendar No. 77.
+- 2017-09-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-285.
+- 2017-09-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-285.
