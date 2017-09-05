@@ -9,12 +9,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Securities and Exchange Commission to allow certain issuers to be exempt from registration requirements, and for other purposes.
 
-## § 1. Short title
+## § 1. Application of exemption
 
-This Act may be cited as the “Improving Access to Capital Act”.
+The Securities and Exchange Commission shall amend—
 
-## § 2. Application of exemption
-
-- **(a)** *In general* The Securities and Exchange Commission shall amend section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) immediately before the offering.
-- **(b)** *Tier 2 offering reporting requirements* Section 13 of the Securities Exchange Act of 1933 (15 U.S.C. 78m) is amended by adding at the end the following:
-  > - **(s)** *Exemption to reporting requirements* With respect to a Tier 2 offering under section 230.251 of title 17, Code of Federal Regulations, an issuer that is subject to section 13 and meets the reporting requirements of that section is deemed to meet the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations.
+- **(1)** section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) immediately before the offering; and
+- **(2)** section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934.

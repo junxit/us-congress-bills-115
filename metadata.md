@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2864
@@ -16,16 +16,37 @@ Improving Access to Capital Act
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2017-09-05 — [House 115-1-440](votes/house-115-1-0440.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (403–3)
 
 ## Actions
 
 - 2017-06-08 — Introduced in House
 - 2017-06-08 — Introduced in House
 - 2017-06-08 — Referred to the House Committee on Financial Services.
+- 2017-07-25 — Committee Consideration and Mark-up Session Held.
+- 2017-07-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.
+- 2017-09-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-09-05 — Considered as unfinished business. (consideration: CR H6644)
+- 2017-09-05 — Considered under suspension of the rules. (consideration: CR H6641-6643)
+- 2017-09-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2864.
+- 2017-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-05 — Mr. Hultgren moved to suspend the rules and pass the bill, as amended.
+- 2017-09-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 440). (text: CR H6641)
+- 2017-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 440).(text: CR H6641)
+- 2017-09-05 — Placed on the Union Calendar, Calendar No. 210.
+- 2017-09-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.
+- 2017-09-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.
