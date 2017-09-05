@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 772
@@ -16,6 +16,15 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 
 - Sen. McCain, John [R-AZ] (M000303)
 
+## Cosponsors (6)
+
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+
 ## Committees (1)
 
 - Senate — Indian Affairs Committee
@@ -24,3 +33,7 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 
 - 2017-03-29 — Introduced in Senate
 - 2017-03-29 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-06-13 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2017-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-147.
+- 2017-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-147.
+- 2017-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
