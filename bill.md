@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3675
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3675
+
+> To provide that Members of Congress shall be paid last whenever the Treasury is unable to satisfy the obligations of the United States Government in a timely manner because the public debt limit has been reached.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Pay for Members Act”.
+
+## § 2. Members of Congress to be paid last
+
+- **(a)** *In general* In the event that the public debt of the United States Government reaches the public debt limit, the obligation to pay basic pay of Members of Congress may not be satisfied until—
+  - **(1)** all other obligations of the United States Government which are then due have been satisfied; or
+  - **(2)** if earlier, the ability of the Treasury to satisfy the obligations of the United States Government in a timely manner is restored, whether by an increase in the public debt limit or otherwise.
+- **(b)** *Consent* Each Member of Congress consents and agrees that payment of basic pay in accordance with subsection (a) shall constitute a full and complete discharge and acquittance of all claims and demands for service as such a Member during the period covered by the payment.
+
+## § 3. Definitions
+
+For purposes of this Act—
+
+- **(1)** the term public debt limit means the dollar limitation contained in section 3101(b) of title 31, United States Code; and
+- **(2)** the term Member of Congress means each individual whose annual rate of pay is determined under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501).
