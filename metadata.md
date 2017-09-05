@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2316
@@ -29,3 +29,9 @@ Cooperative Management of Mineral Rights Act of 2017
 - 2017-05-03 — Introduced in House
 - 2017-05-03 — Introduced in House
 - 2017-05-03 — Referred to the House Committee on Natural Resources.
+- 2017-05-11 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-09-05 — Placed on the Union Calendar, Calendar No. 207.
+- 2017-09-05 — Reported by the Committee on Natural Resources. H. Rept. 115-288.
+- 2017-09-05 — Reported by the Committee on Natural Resources. H. Rept. 115-288.
