@@ -1,7 +1,7 @@
 ---
 measure: S. 849
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 849
@@ -37,3 +37,5 @@ SMASH Act
 - 2017-05-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2017-05-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2017-05-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.
+- 2017-09-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5018-5019; text: S5018-5019)
+- 2017-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5018-5019; text: S5018-5019)

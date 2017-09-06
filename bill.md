@@ -29,19 +29,19 @@ Section 317S of the Public Health Service Act (42 U.S.C. 247b–21) is amended�
       - **(III)** by adding at the end the following:
         > - **(iv)** a public health emergency due to the incidence or prevalence of a mosquito-borne disease that presents a serious public health threat.
 
-    - **(ii)** in subparagraph (D), by inserting “or that demonstrates to the Secretary that the control program is consistent with existing State mosquito control plans, or policies, or other applicable State preparedness plans” before the period at the end;
+    - **(ii)** in subparagraph (D), by inserting “or that demonstrates to the Secretary that the control program is consistent with existing State mosquito control plans or policies, or other applicable State preparedness plans” before the period at the end;
   - **(C)** in paragraph (4)(C), by striking “that extraordinary” and all that follows through the period at the end and inserting “that—
     > - **(i)** extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver; or
-    > - **(ii)** the geographical area covered by a political subdivision or consortium for a grant under paragraph (1) has an extreme need due to—
-    >   - **(I)** the size or density of the human population;
-    >   - **(II)** the size or density of the mosquito population; or
+    > - **(ii)** the geographical area covered by a political subdivision or consortium for a grant under paragraph (1) has an extreme mosquito control need due to—
+    >   - **(I)** the size or density of the potentially impacted human population;
+    >   - **(II)** the size or density of a mosquito population that requires heightened control; or
     >   - **(III)** the severity of the mosquito-borne disease, such that expected serious adverse health outcomes for the human population justify the waiver.
 
   - **(D)** by amending paragraph (6) to read as follows:
     > - **(6)** *Number of grants* A political subdivision or a consortium of political subdivisions may not receive more than one grant under paragraph (1).
 
 - **(3)** in subsection (f)—
-  - **(A)** in paragraph (1), by striking “$100,000,000 for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007” and inserting “$130,000,000 for each of fiscal years 2017 through 2022”;
+  - **(A)** in paragraph (1), by striking “for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007” and inserting “for each of fiscal years 2018 through 2022”;
   - **(B)** in paragraph (2), by striking “the Public Health Security and Bioterrorism Preparedness and Response Act of 2002” and inserting “other medical and public health preparedness and response laws”; and
   - **(C)** in paragraph (3)—
     - **(i)** in the heading, by striking “2004” and inserting “2018”; and
@@ -52,7 +52,7 @@ Section 317S of the Public Health Service Act (42 U.S.C. 247b–21) is amended�
 Section 2821 of the Public Health Service Act (42 U.S.C. 300hh–31) is amended—
 
 - **(1)** in subsection (a)(1), by inserting “, including mosquito and other vector-borne diseases,” after “infectious diseases”; and
-- **(2)** in subsection (b), by striking “2010 through 2013” and inserting “2017 through 2022”.
+- **(2)** in subsection (b), by striking “2010 through 2013” and inserting “2018 through 2022”.
 
 ## § 4. GAO study
 
