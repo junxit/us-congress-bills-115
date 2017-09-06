@@ -44,11 +44,12 @@ This Act may be cited as the “National Clinical Care Commission Act”.
 - **(c)** *Duties* The Commission shall evaluate and make recommendations, as appropriate, to the Secretary of Health and Human Services and Congress regarding—
   - **(1)** Federal programs of the Department of Health and Human Services that focus on preventing and reducing the incidence of the diseases and complications described in subsection (a);
   - **(2)** current activities and gaps in Federal efforts to support clinicians in providing integrated, high-quality care to individuals with the diseases and complications described in subsection (a);
-  - **(3)** the improvement in, and improved coordination of, Federal education and awareness activities related to the prevention and treatment of the diseases and complications described in subsection (a), which may include the utilization of new and existing technologies; and
+  - **(3)** the improvement in, and improved coordination of, Federal education and awareness activities related to the prevention and treatment of the diseases and complications described in subsection (a), which may include the utilization of new and existing technologies;
   - **(4)** methods for outreach and dissemination of education and awareness materials that—
     - **(A)** address the diseases and complications described in subsection (a);
     - **(B)** are funded by the Federal Government; and
-    - **(C)** are intended for health care professionals and the public.
+    - **(C)** are intended for health care professionals and the public; and
+  - **(5)** whether there are opportunities for consolidation of inappropriately overlapping or duplicative Federal programs related to the diseases and complications described in subsection (a).
 - **(d)** *Operating plan* Not later than 90 days after its first meeting, the Commission shall submit to the Secretary of Health and Human Services and the Congress an operating plan for carrying out the activities of the Commission as described in subsection (c). Such operating plan may include—
   - **(1)** a list of specific activities that the Commission plans to conduct for purposes of carrying out the duties described in each of the paragraphs in subsection (c);
   - **(2)** a plan for completing the activities;
