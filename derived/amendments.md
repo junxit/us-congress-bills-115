@@ -1,7 +1,7 @@
 ---
 measure: S. 1631
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 22 U.S.C. § 304
 
-> in the section heading, by striking “Annual report on embassy construction costs” and inserting “Quarterly report on overseas capital construction projects”; and
+> in the section heading , by striking “Annual report on embassy construction costs” and inserting “Quarterly report on overseas capital construction projects”; and
 
 | | |
 |---|---|
