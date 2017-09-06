@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3388
@@ -64,3 +64,10 @@ Safely Ensuring Lives Future Deployment and Research In Vehicle Evolution Act
 - 2017-09-05 — Placed on the Union Calendar, Calendar No. 212.
 - 2017-09-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-294.
 - 2017-09-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-294.
+- 2017-09-06 — Considered under suspension of the rules. (consideration: CR H6660-6667, H6677-6678)
+- 2017-09-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3388.
+- 2017-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-06 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
+- 2017-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6667-6671)
+- 2017-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6667-6671)
+- 2017-09-06 — The title of the measure was amended. Agreed to without objection.
