@@ -1,7 +1,7 @@
 ---
 measure: S. 652
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-63 amendatory instructions. 29 executed, 34 stated and not applied.
+62 amendatory instructions. 29 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -294,7 +294,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280g-1` | amend | Section 399M of the Public Health Service Act (42 U.S.C. 280g–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-1` | amend | The section heading of section 399M of the Public Health Service Act (42 U.S.C. 280g–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-1` | replace | by striking “Early” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 280g-1` | replace | by striking the last sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
