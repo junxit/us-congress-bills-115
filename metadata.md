@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2864
@@ -24,9 +24,10 @@ Improving Access to Capital Act
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Improving Access to Capital Act
 - 2017-09-05 — Placed on the Union Calendar, Calendar No. 210.
 - 2017-09-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.
 - 2017-09-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.
+- 2017-09-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
