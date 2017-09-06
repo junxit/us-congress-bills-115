@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 69
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 69
@@ -37,3 +37,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2017-09-05 — Mr. Barletta asked unanimous consent to take from the Speaker's table and consider.
 - 2017-09-05 — On agreeing to the resolution Agreed to without objection. (text: CR H6645)
 - 2017-09-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6645)
+- 2017-09-06 — Received in the Senate, read twice.
