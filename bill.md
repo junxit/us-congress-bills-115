@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3388
 
-> To provide for information on highly automated driving systems to be made available to prospective buyers.
+> To amend title 49, United States Code, regarding the authority of the National Highway Traffic Safety Administration over highly automated vehicles, to provide safety measures for such vehicles, and for other purposes.
 
 ## § 1. Short title; table of contents
 
