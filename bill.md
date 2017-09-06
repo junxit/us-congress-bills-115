@@ -1,0 +1,15 @@
+---
+legis-num: S. CON. RES. 23
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. CON. RES. 23
+
+> Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II.
+
+## § 1. Use of emancipation hall for ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II
+
+- **(a)** *Authorization* Emancipation Hall in the Capitol Visitor Center is authorized to be used on October 25, 2017 for a ceremony to present the Congressional Gold Medal collectively to the Filipino Veterans of World War II in recognition of their dedicated military service.
+- **(b)** *Preparations* Physical preparations for the conduct of the ceremony described in subsection (a) shall be carried out in accordance with such conditions as may be prescribed by the Architect of the Capitol.
