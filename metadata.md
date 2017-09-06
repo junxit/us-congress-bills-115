@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 601
@@ -58,3 +58,16 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - 2017-08-01 — Senate amendment proposed (on the floor): Amendment SA 743 proposed by Senator Portman for Senator Rubio.(consideration: CR S4686; text: CR S4686)
 - 2017-08-01 — Senate amendment submitted
 - 2017-08-01 — The committee amendments agreed to by Unanimous Consent.
+- 2017-08-02 — Message on Senate action sent to the House.
+- 2017-09-06 — Amendment SA 808 proposed by Senator McConnell. (consideration: CR S5020) In the nature of a substitute.
+- 2017-09-06 — Amendment SA 809 proposed by Senator McConnell to Amendment SA 808. (consideration: CR S5021; text: CR S5021) To change the enactment date.
+- 2017-09-06 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) presented in Senate. (consideration: CR S5020)
+- 2017-09-06 — House agreed to Senate amendments with amendment pursuant to H. Res. 502.
+- 2017-09-06 — Measure laid before Senate by unanimous consent. (consideration: CR S5020-5021)
+- 2017-09-06 — Message on House action received in Senate and at desk: House amendment to Senate amendment numbered 6.
+- 2017-09-06 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) made in Senate.
+- 2017-09-06 — Passed/agreed to in House: House agreed to Senate amendments with amendment pursuant to H. Res. 502.
+- 2017-09-06 — Senate amendment proposed (on the floor): Amendment SA 808 proposed by Senator McConnell.(consideration: CR S5020)
+- 2017-09-06 — Senate amendment proposed (on the floor): Amendment SA 809 proposed by Senator McConnell to Amendment SA 808.(consideration: CR S5021; text: CR S5021)
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
