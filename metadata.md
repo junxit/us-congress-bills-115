@@ -1,7 +1,7 @@
 ---
 measure: S. 1697
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1697
@@ -16,7 +16,7 @@ Taylor Force Act
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (12)
+## Cosponsors (19)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Corker, Bob [R-TN] (C001071)
@@ -30,6 +30,13 @@ Taylor Force Act
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Perdue, David [R-GA] (P000612)
 
 ## Committees (1)
 
@@ -39,3 +46,7 @@ Taylor Force Act
 
 - 2017-08-01 — Introduced in Senate
 - 2017-08-01 — Read twice and referred to the Committee on Foreign Relations.
+- 2017-08-03 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2017-09-06 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-09-06 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
+- 2017-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
