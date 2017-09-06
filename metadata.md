@@ -1,7 +1,7 @@
 ---
 measure: S. 920
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 920
@@ -41,3 +41,16 @@ National Clinical Care Commission Act
 - 2017-09-06 — Senate amendment agreed to: Amendment SA 807 agreed to in Senate by Unanimous Consent.
 - 2017-09-06 — Senate amendment proposed (on the floor): Amendment SA 807 proposed by Senator Gardner for Senator Shaheen.(consideration: CR S5019; text: CR S5019)
 - 2017-09-06 — Senate amendment submitted
+- 2017-09-07 — Held at the desk.
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Received in the House.
+- 2017-10-11 — Considered under suspension of the rules. (consideration: CR H7946-7948)
+- 2017-10-11 — DEBATE - The House proceeded with forty minutes of debate on S. 920.
+- 2017-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-11 — Mr. Olson moved to suspend the rules and pass the bill.
+- 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7946)
+- 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7946)
+- 2017-10-24 — Presented to President.
+- 2017-10-24 — Presented to President.
+- 2017-11-02 — Signed by President.
+- 2017-11-02 — Signed by President.
