@@ -2,29 +2,17 @@
 legis-num: H.R. 601
 congress: 115th CONGRESS
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 601
 
-That the bill from the House of Representatives (H.R. 601) entitled “An Act to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.”, do pass with the following
+That the House agree to the amendments numbered 1, 2, 3, 4, 5, 7, and 8 of the Senate to the bill (H.R. 601) entitled “An Act to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.” and be it further
 
-*(1)On page 8, line 20, strike “; and” and insert “; ”*
+That the House agree to the amendment numbered 6 of the Senate to the aforementioned bill, with the following
 
-*(2)On page 8, line 23, strike the period at the end and insert “; and”.*
-
-*(3)On page 8, between lines 23 and 24, insert the following:*
-
-> - **(E)** promote United States values, especially respect for all persons and freedoms of religion, speech, and the press.
-
-*(4)On page 12, line 14, strike “; and” and insert “; ”*
-
-*(5)On page 12, strike line 17 and insert “educational systems; and”.*
-
-*(6)On page 12, between lines 17 and 18, insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment numbered 6 of the Senate, insert the following:*
 
 > - **(C)** there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.
 
-*(7)On page 12, line 20, strike everything after “Not” to line 25 and insert the following: later than one year after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during the following five fiscal years to promote quality basic education in partner countries by—*
-
-*(8)On page 18, line 11, strike everything after “Not” to line 14 and insert the following: later than 180 days after the end of each fiscal year during which the strategy developed pursuant to section 4(a) is carried out, the President shall—*
+The following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for disaster relief for the fiscal year ending September 30, 2017, and for other purposes, namely:
