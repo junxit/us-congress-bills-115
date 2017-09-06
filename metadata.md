@@ -1,7 +1,7 @@
 ---
 measure: S. 1359
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1359
@@ -16,11 +16,12 @@ John F. Kennedy Center Reauthorization Act of 2017
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ John F. Kennedy Center Reauthorization Act of 2017
 - 2017-08-03 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-144.
 - 2017-08-03 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-144.
 - 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
+- 2017-09-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5020; text as passed Senate: CR S5020)
+- 2017-09-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5020; text as passed Senate: CR S5020)
