@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1843
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1843
@@ -33,10 +33,11 @@ Restraining Excessive Seizure of Property through the Exploitation of Civil Asse
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Restraining Excessive Seizure of Property through the Exploitation of Civil Asse
 - 2017-09-05 — Placed on the Union Calendar, Calendar No. 205.
 - 2017-09-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-286, Part I.
 - 2017-09-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-286, Part I.
+- 2017-09-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
