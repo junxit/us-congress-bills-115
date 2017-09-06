@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 69
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 69
@@ -38,3 +38,6 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2017-09-05 — On agreeing to the resolution Agreed to without objection. (text: CR H6645)
 - 2017-09-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6645)
 - 2017-09-06 — Received in the Senate, read twice.
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5077)
+- 2017-09-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5077)
