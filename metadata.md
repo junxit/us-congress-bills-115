@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3110
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3110
@@ -74,3 +74,4 @@ Financial Stability Oversight Council Insurance Member Continuity Act
 - 2017-09-05 — Placed on the Union Calendar, Calendar No. 211.
 - 2017-09-05 — Reported by the Committee on Financial Services. H. Rept. 115-293.
 - 2017-09-05 — Reported by the Committee on Financial Services. H. Rept. 115-293.
+- 2017-09-06 — Received in the Senate, read twice.
