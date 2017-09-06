@@ -13,78 +13,152 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Early Hearing Detection and Intervention Act of 2017”.
 
-## § 2. Findings
+## § 2. Reauthorization of program for early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children
 
-Congress finds as follows:
+- **(a)** *Section heading* The section heading of section 399M of the Public Health Service Act (42 U.S.C. 280g–1) is amended to read as follows:
+  > ## § 399M. Early Detection, Diagnosis, and Treatment Regarding Deaf and Hard-of-Hearing Newborns, Infants, and Young Children
 
-- **(1)** Deaf and hard-of-hearing newborns, infants, and young children require access to specialized early intervention providers and programs in order to help them meet their linguistic and cognitive potential.
-- **(2)** Families of deaf and hard-of-hearing newborns, infants, and young children benefit from comprehensive early intervention programs that assist them in supporting their child’s development in all domains.
-- **(3)** Best practices principles for early intervention for deaf and hard-of-hearing newborns, infants, and young children have been identified in a range of areas including listening and spoken language and visual and signed language acquisition, family-to-family support, support from individuals who are deaf or hard-of-hearing, progress monitoring, and others.
-- **(4)** Effective hearing screening and early intervention programs must be in place to identify hearing levels in deaf and hard-of-hearing newborns, infants, and young children so that they may access appropriate early intervention programs in a timely manner.
+- **(b)** *Statewide systems* Section 399M(a) of the Public Health Service Act (42 U.S.C. 280g–1(a)) is amended—
+  - **(1)** in the subsection heading, by striking “Newborn and Infant” and inserting “Newborn, Infant, and Young Child”;
+  - **(2)** in the matter preceding paragraph (1)—
+    - **(A)** by striking “newborn and infant” and inserting “newborn, infant, and young child”; and
+    - **(B)** by striking “providers,” and inserting “providers (including, as appropriate, education and training of family members),”;
+  - **(3)** in paragraph (1)—
+    - **(A)** in the first sentence—
+      - **(i)** by striking “newborns and infants” and inserting “newborns, infants, and young children (referred to in this section as “children”)”; and
+      - **(ii)** by striking “and medical” and all that follows through the period and inserting “medical, and communication (or language acquisition) interventions (including family support), for children identified as deaf or hard-of-hearing, consistent with the following:”;
+    - **(B)** in the second sentence—
+      - **(i)** by striking “Early” and inserting the following:
+        > - **(A)** Early
 
-## § 3. Reauthorization of program for early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children
+      - **(ii)** by striking “and delivery of” and inserting “, and delivery of,”;
+      - **(iii)** by striking “by schools” and all that follows through “programs mandated” and inserting “by organizations such as schools and agencies (including community, consumer, and family-based agencies), in health care settings (including medical homes for children), and in programs mandated”; and
+      - **(iv)** by striking “hard of hearing” and all that follows through the period and inserting “hard-of-hearing children.”; and
+    - **(C)** by striking the last sentence and inserting the following:
+      > - **(B)** Information provided to families should be accurate, comprehensive, up-to-date, and evidence-based, as appropriate, to allow families to make important decisions for their children in a timely manner, including decisions with respect to the full range of assistive hearing technologies and communications modalities, as appropriate.
+      > - **(C)** Programs and systems under this paragraph shall offer mechanisms that foster family-to-family and deaf and hard-of-hearing consumer-to-family supports.
 
-Section 399M of the Public Health Service Act (42 U.S.C. 280g–1) is amended to read as follows:
+  - **(4)** in paragraph (2), by striking “To collect” and all that follows through the period and inserting “To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs.”; and
+  - **(5)** by striking paragraph (3) and inserting the following:
+    > - **(3)** To identify or develop efficient models (educational and medical) to ensure that children who are identified as deaf or hard-of-hearing through screening receive follow-up by qualified early intervention providers or qualified health care providers (including those at medical homes for children), and referrals, as appropriate, including to early intervention services under part C of the Individuals with Disabilities Education Act. State agencies shall be encouraged to effectively increase the rate of such follow-up and referral.
 
-> ## § 399M. Early Detection, Diagnosis, and Treatment Regarding Deaf and Hard-of-Hearing Newborns, Infants, and Young Children
->
-> - **(a)** *Health Resources and Services Administration* The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall make awards of grants or cooperative agreements to develop statewide newborn, infant, and young childhood hearing screening, diagnosis, evaluation, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers (including education and training of family members) for the following purposes:
->   - **(1)** To develop and monitor the efficacy of statewide programs and systems for hearing screening of newborns, infants, and young children, prompt evaluation and diagnosis of newborns, infants, and young children referred from screening programs, and appropriate educational, audiological, medical, and communications (or language acquisition) interventions (including family support) for newborns, infants, and young children identified as deaf or hard-of-hearing, consistent with the following:
->     - **(A)** Early intervention includes referral to, and delivery of, information and services by organizations such as schools and agencies (including community, consumer, and family-based agencies), medical homes for children, and other programs under part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meet the unique language and communication needs of deaf and hard-of-hearing newborns, infants, and young children.
->     - **(B)** Information provided to parents shall be accurate, comprehensive, and, where appropriate, evidence-based, allowing families to make important decisions for their children in a timely way, including decisions relating to all possible assistive hearing technologies (such as hearing aids, cochlear implants, and osseointegrated devices) and communication modalities (such as oral and visual communications and language acquisition services and programs).
->     - **(C)** Programs and systems under this paragraph shall offer mechanisms that foster family-to-family and deaf and hard-of-hearing consumer-to-family supports.
->   - **(2)** To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs.
->   - **(3)** To identify or develop efficient models (educational and medical) to ensure that newborns, infants, and young children who are identified through screening as deaf or hard of hearing receive, as appropriate, follow-up by qualified early intervention providers, qualified health care providers, or medical homes for children and referrals to early intervention services under part C of the Individuals with Disabilities Education Act. State agencies shall be encouraged to effectively increase the rate of such follow-up and referral.
-> - **(b)** *Technical assistance, data management, and applied research*
->   - **(1)** *Centers for Disease Control and Prevention*
->     - **(A)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies or designated entities of States—
->       - **(i)** for the development, maintenance, and improvement of data tracking and surveillance systems on newborn, infant, and young childhood hearing screening, audiologic evaluations, medical evaluations, language-acquisition evaluations, and intervention services;
->       - **(ii)** to conduct applied research related to services and outcomes;
->       - **(iii)** to provide technical assistance related to newborn, infant, and young childhood hearing screening, evaluation, and intervention programs, and information systems;
->       - **(iv)** to ensure high-quality monitoring of hearing screening, evaluation, and intervention programs and systems for newborns, infants, and young children; and
->       - **(v)** to coordinate developing standardized procedures for data management and assessing program and cost effectiveness.
->     - **(B)** *Use of awards* The awards under subparagraph (A) may be used—
->       - **(i)** to provide technical assistance on data collection and management;
->       - **(ii)** to study and report on the costs and effectiveness of newborn, infant, and young childhood hearing screening, evaluation, diagnosis, intervention programs, and systems in order to address issues of importance to State and national policy makers;
->       - **(iii)** to collect data and report on newborn, infant, and young childhood hearing screening, evaluation, diagnosis, and intervention programs and systems that can be used for applied research, program evaluation, and policy development;
->       - **(iv)** to identify the causes and risk factors for congenital hearing loss;
->       - **(v)** to study the effectiveness of newborn, infant, and young childhood hearing screening, audiologic evaluations, medical evaluations, and intervention programs and systems by assessing the health, intellectual and social developmental, cognitive, and hearing status of children at school age; and
->       - **(vi)** to promote the integration, linkage, and interoperability of data regarding early hearing loss and multiple sources to increase information exchanges between clinical care and public health, including the ability of States and territories to exchange and share data.
->   - **(2)** *National Institutes of Health* The Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall, for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
-> - **(c)** *Coordination and collaboration*
->   - **(1)** *In general* In carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with—
->     - **(A)** other Federal agencies;
->     - **(B)** State and local agencies, including agencies responsible for early intervention services pursuant to title XIX of the Social Security Act (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program), title XXI of the Social Security Act (State Children’s Health Insurance Program), title V of the Social Security Act (Maternal and Child Health Block Grant Program), and part C of the Individuals with Disabilities Education Act;
->     - **(C)** consumer groups of, and that serve, individuals who are deaf and hard-of-hearing and their families;
->     - **(D)** appropriate national medical and other health and education specialty organizations;
->     - **(E)** individuals who are deaf or hard-of-hearing and their families;
->     - **(F)** other qualified professional personnel who are proficient in deaf or hard-of-hearing children’s language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, young children, and their families;
->     - **(G)** third-party payers and managed-care organizations; and
->     - **(H)** related commercial industries.
->   - **(2)** *Policy development* The Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall coordinate and collaborate on recommendations for policy development at the Federal and State levels and with the private sector, including consumer, medical, and other health and education professional-based organizations, with respect to newborn and infant hearing screening, evaluation, diagnosis, and intervention programs and systems.
->   - **(3)** *State early detection, diagnosis, and intervention programs and systems; data collection* The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States—
->     - **(A)** to establish newborn, infant, and young childhood hearing screening, evaluation, diagnosis, and intervention programs and systems under subsection (a); and
->     - **(B)** to develop a data collection system under subsection (b).
-> - **(d)** *Rule of construction; religious accommodation* Nothing in this section shall be construed to preempt or prohibit any State law, including State laws that do not require the screening for hearing loss of newborns, infants, or young children of any parent that objects to the screening on the grounds that such screening conflicts with the parent’s religious beliefs.
-> - **(e)** *Definitions* For purposes of this section:
->   - **(1)** The term audiologic, when used in connection with evaluation, means procedures—
->     - **(A)** to assess the status of the auditory system;
->     - **(B)** to establish the site of the auditory disorder, the type and degree of hearing loss, and the potential effects of hearing loss on communication; and
->     - **(C)** to identify appropriate treatment and referral options, including—
->       - **(i)** linkage to State agencies coordinating the programs under part C of the Individuals with Disabilities Education Act or other appropriate agencies;
->       - **(ii)** medical evaluation;
->       - **(iii)** hearing aid or sensory aid assessment;
->       - **(iv)** audiologic rehabilitation treatment; and
->       - **(v)** referral to national and local consumer, self-help, family, and education organizations, and other family-centered services.
->   - **(2)** The term early intervention means—
->     - **(A)** providing appropriate services for the child who is deaf or hard of hearing, including nonmedical services; and
->     - **(B)** ensuring the family of the child is—
->       - **(i)** provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language acquisition in oral and visual modalities; and
->       - **(ii)** given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for the child from highly qualified providers.
->   - **(3)** The term medical evaluation means key components performed by a physician, including history, examination, and medical decisionmaking focused on symptomatic and related body systems for the purpose of diagnosing the etiology of hearing loss and related physical conditions, and for identifying appropriate treatment and referral options.
->   - **(4)** The term medical intervention means the process by which a physician provides medical diagnosis and direction for medical or surgical treatment options for hearing loss or other medical disorders associated with hearing loss.
->   - **(5)** The term newborn, infant, and young childhood hearing screening means objective physiologic procedures to detect possible hearing loss and to identify newborns, infants, and young children up to 3 years of age who require further audiologic evaluations and medical evaluations.
-> - **(f)** *Authorization of appropriations*
->   - **(1)** *Statewide newborn, infant, and young childhood hearing screening, evaluation and intervention programs and systems* For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration $17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022.
->   - **(2)** *Technical assistance, data management, and applied research; centers for disease control and prevention* For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
->   - **(3)** *Technical Assistance, Data Management, and Applied Research; National Institute on Deafness and Other Communication Disorders* For the purpose of carrying out subsection (b)(2), there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders, $22,400,000 for fiscal year 2018, $22,870,400 for fiscal year 2019, $23,442,160 for fiscal year 2020, $23,981,329 for fiscal year 2021, and $24,580,862 for fiscal year 2022.
+- **(c)** *Technical assistance, data management, and applied research* Section 399M(b)(1) of the Public Health Service Act (42 U.S.C. 280g–1(b)(1)) is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “The Secretary” and inserting the following:
+      > - **(A)** *In general* The Secretary
+
+    - **(B)** by striking “to complement an intramural program and” and inserting the following: “or designated entities of States—
+      > - **(i)** to develop, maintain, and improve data collection systems related to newborn, infant, and young child hearing screening, evaluation (including audiologic, medical, and language acquisition evaluations), diagnosis, and intervention services;
+
+    - **(C)** by striking “to conduct” and inserting the following:
+      > - **(ii)** to conduct
+
+    - **(D)** by striking “newborn” and all that follows through the period and inserting the following: “newborn, infant, and young child hearing screening, evaluation, and intervention programs and outcomes;
+      > - **(iii)** to ensure quality monitoring of hearing screening, evaluation, and intervention programs and systems for newborns, infants, and young children; and
+      > - **(iv)** to support newborn, infant, and young child hearing screening, evaluation, and intervention programs, and information systems.
+
+  - **(2)** in the second sentence—
+    - **(A)** by striking the matter that precedes subparagraph (A) and all that follows through subparagraph (C) and inserting the following:
+      > - **(B)** *Use of awards* The awards made under subparagraph (A) may be used—
+      >   - **(i)** to provide technical assistance on data collection and management, including to coordinate and develop standardized procedures for data management;
+      >   - **(ii)** to assess and report on the cost and program effectiveness of newborn, infant, and young child hearing screening, evaluation, and intervention programs and systems;
+      >   - **(iii)** to collect data and report on newborn, infant, and young child hearing screening, evaluation, diagnosis, and intervention programs and systems for applied research, program evaluation, and policy improvement;
+
+    - **(B)** by redesignating subparagraphs (D), (E), and (F) as clauses (iv), (v), and (vi), respectively, and aligning the margins of those clauses with the margins of clause (i) of subparagraph (B) (as inserted by subparagraph (A) of this paragraph);
+    - **(C)** in clause (v) (as redesignated by subparagraph (B) of this paragraph)—
+      - **(i)** by striking “newborn and infant” and inserting “newborn, infant, and young child”; and
+      - **(ii)** by striking “language status” and inserting “hearing status”; and
+    - **(D)** in clause (vi) (as redesignated by subparagraph (B) of this paragraph)—
+      - **(i)** by striking “sharing” and inserting “integration and interoperability”; and
+      - **(ii)** by striking “with State-based” and all that follows through the period and inserting “across multiple sources to increase the flow of information between clinical care and public health settings, including the ability of States and territories to exchange and share data.”.
+- **(d)** *Coordination and collaboration* Section 399M(c) of the Public Health Service Act (42 U.S.C. 280g–1(c)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “consult with” and inserting “consult with—”;
+    - **(B)** by striking “other Federal” and inserting the following:
+      > - **(A)** other Federal
+
+    - **(C)** by striking “State and local agencies, including those” and inserting the following:
+      > - **(B)** State and local agencies, including agencies
+
+    - **(D)** by striking “consumer groups of and that serve” and inserting the following:
+      > - **(C)** consumer groups of, and that serve,
+
+    - **(E)** by striking “appropriate national” and inserting the following:
+      > - **(D)** appropriate national
+
+    - **(F)** by striking “persons who are deaf and” and inserting the following:
+      > - **(E)** individuals who are deaf or
+
+    - **(G)** by striking “other qualified” and inserting the following:
+      > - **(F)** other qualified
+
+    - **(H)** by striking “newborns, infants, toddlers, children,” and inserting “children,”;
+    - **(I)** by striking “third-party” and inserting the following:
+      > - **(G)** third-party
+
+    - **(J)** by striking “related commercial” and inserting the following:
+      > - **(H)** related commercial
+
+  - **(2)** in paragraph (3)—
+    - **(A)** by striking “States to establish newborn and infant” and inserting the following: “States—
+      > - **(A)** to establish newborn, infant, and young child
+
+    - **(B)** by inserting a semicolon after “subsection (a)”; and
+    - **(C)** by striking “to develop” and inserting the following:
+      > - **(B)** to develop
+
+- **(e)** *Rule of construction; religious accommodation* Section 399M(d) of the Public Health Service Act (42 U.S.C. 280g–1(d)) is amended—
+  - **(1)** by striking “which” and inserting “that”;
+  - **(2)** by striking “newborn infants or young”; and
+  - **(3)** by striking “parents’” and inserting “parent’s”.
+- **(f)** *Definitions* Section 399M(e) of the Public Health Service Act (42 U.S.C. 280g–1(e)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “(1)” and all that follows through “to procedures” and inserting the following:
+      > - **(1)** The term audiologic, when used in connection with evaluation, means procedures—
+
+    - **(B)** by striking “to assess” and inserting the following:
+      > - **(A)** to assess
+
+    - **(C)** by striking “to establish” and inserting the following:
+      > - **(B)** to establish
+
+    - **(D)** by striking “auditory disorder;” and inserting “auditory disorder,”;
+    - **(E)** by striking “to identify” and inserting the following:
+      > - **(C)** to identify
+
+    - **(F)** by striking “options.” and all that follows through “linkage” and inserting the following: “options, including—
+      > - **(i)** linkage
+
+    - **(G)** by striking “appropriate agencies,” and all that follows through “national” and inserting the following: “appropriate agencies;
+      > - **(ii)** medical evaluation;
+      > - **(iii)** assessment for the full range of assistive hearing technologies appropriate for newborns, infants, and young children;
+      > - **(iv)** audiologic rehabilitation treatment; and
+      > - **(v)** referral to national
+
+    - **(H)** by striking “parent, and education” and inserting “parent, family, and education”;
+  - **(2)** by striking paragraph (2);
+  - **(3)** by redesignating paragraphs (3) through (6) as paragraphs (2) through (5);
+  - **(4)** in paragraph (2) (as redesignated by paragraph (3) of this subsection)—
+    - **(A)** by striking “refers to providing” and inserting the following: “means—
+      > - **(A)** providing
+
+    - **(B)** by striking “with hearing loss, including nonmedical services,” and inserting “who is deaf or hard-of-hearing, including nonmedical services;”;
+    - **(C)** by striking “ensuring that families of the child are provided” and inserting the following:
+      > - **(B)** ensuring that the family of the child is—
+      >   - **(i)** provided
+
+    - **(D)** by striking “language and communication options and are given” and inserting the following: “language acquisition in oral and visual modalities; and
+      > - **(ii)** given
+
+    - **(E)** by striking “their child” and inserting “the child”;
+  - **(5)** in paragraph (3) (as redesignated by paragraph (3) of this subsection), by striking “(3)” and all that follows through “decision making” and inserting “The term medical evaluation means key components performed by a physician including history, examination, and medical decisionmaking”;
+  - **(6)** in paragraph (4) (as redesignated by paragraph (3) of this subsection)—
+    - **(A)** by striking “refers to” and inserting “means”;
+    - **(B)** by striking “and/or surgical” and inserting “or surgical”; and
+    - **(C)** by striking “of hearing” and all that follows through “disorder” and inserting “for hearing loss or other medical disorders”; and
+  - **(7)** in paragraph (5) (as redesignated by paragraph (3) of this subsection)—
+    - **(A)** by striking “(5)” and all that follows through “refers to” and inserting “(5) The term newborn, infant, and young child hearing screening means”; and
+    - **(B)** by striking “and infants” and inserting “, infants, and young children under 3 years of age”.
+- **(g)** *Authorization of appropriations* Section 399M(f) of the Public Health Service Act (42 U.S.C. 280g–1(f)) is amended—
+  - **(1)** in paragraph (1), by striking “such sums” and all that follows through the period and inserting “$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022.”; and
+  - **(2)** in paragraph (2), by striking “such sums” and all that follows through the period and inserting “$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.”.
