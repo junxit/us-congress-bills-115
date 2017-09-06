@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3110
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3110
@@ -75,3 +75,10 @@ Financial Stability Oversight Council Insurance Member Continuity Act
 - 2017-09-05 — Reported by the Committee on Financial Services. H. Rept. 115-293.
 - 2017-09-05 — Reported by the Committee on Financial Services. H. Rept. 115-293.
 - 2017-09-06 — Received in the Senate, read twice.
+- 2017-09-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5867)
+- 2017-09-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5867)
+- 2017-09-20 — Message on Senate action sent to the House.
+- 2017-09-26 — Presented to President.
+- 2017-09-26 — Presented to President.
+- 2017-09-27 — Signed by President.
+- 2017-09-27 — Signed by President.
