@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 243
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 243
@@ -32,3 +32,7 @@ A resolution expressing the sense of the Senate that Joseph Leon George should b
 
 - 2017-08-02 — Introduced in Senate
 - 2017-08-02 — Referred to the Committee on Armed Services. (Sponsor introductory remarks on measure: CR S4775-4776; text of measure as introduced: CR S4775-4776)
+- 2017-09-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-09-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-09-07 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S5024)
+- 2017-09-07 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S5024)
