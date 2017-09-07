@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 115
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 601
@@ -71,3 +71,29 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - 2017-09-06 — Senate amendment proposed (on the floor): Amendment SA 809 proposed by Senator McConnell to Amendment SA 808.(consideration: CR S5021; text: CR S5021)
 - 2017-09-06 — Senate amendment submitted
 - 2017-09-06 — Senate amendment submitted
+- 2017-09-07 — Amendment SA 808 agreed to in Senate by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
+- 2017-09-07 — Amendment SA 816 proposed by Senator McConnell for Senator Paul. (consideration: CR S5031; text: CR S5031) Of a perfecting nature.
+- 2017-09-07 — Amendment SA 817 proposed by Senator McConnell to Amendment SA 816 (the instructions of the motion to refer). (consideration: CR S5031-5032; text: CR S5032) To change the enactment date.
+- 2017-09-07 — Amendment SA 818 proposed by Senator McConnell to Amendment SA 817. (consideration: CR S5032; text: CR S5032) To change the enactment date.
+- 2017-09-07 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) invoked in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 191. (consideration: CR S5037)
+- 2017-09-07 — Considered by Senate (Message from the House considered). (consideration: CR S5031-5038)
+- 2017-09-07 — Considered by Senate. (consideration: CR S5031)
+- 2017-09-07 — Considered by Senate. (consideration: CR S5031)
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report back forthwith with the following amendment (SA 816) made in Senate. (consideration: CR S5035)
+- 2017-09-07 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report back forthwith with the following amendment (SA 816) tabled in Senate by Yea-Nay Vote. 87 - 10. Record Vote Number: 189. (consideration: CR S5035)
+- 2017-09-07 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report the same back to the Senate with changes that (1) are in the jurisdiction of such committee; and (2) do not include any provision that was not contained in the House message accompanying the bill tabled in Senate by Yea-Nay Vote. 72 - 25. Record Vote Number: 190. (consideration: CR S5035-5036)
+- 2017-09-07 — Proposed amendment SA 809 withdrawn in Senate. (consideration: CR S5038)
+- 2017-09-07 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
+- 2017-09-07 — Roll call votes on amendments in Senate: Amendment SA 808 agreed to in Senate by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
+- 2017-09-07 — SA 816 fell when motion to refer was tabled.
+- 2017-09-07 — SA 817 fell when SA 816 fell.
+- 2017-09-07 — SA 818 fell when SA 817 fell.
+- 2017-09-07 — Senate amendment agreed to: Amendment SA 808 agreed to in Senate by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
+- 2017-09-07 — Senate amendment proposed (on the floor): Amendment SA 816 proposed by Senator McConnell for Senator Paul.(consideration: CR S5031; text: CR S5031)
+- 2017-09-07 — Senate amendment proposed (on the floor): Amendment SA 817 proposed by Senator McConnell to Amendment SA 816 (the instructions of the motion to refer).(consideration: CR S5031-5032; text: CR S5032)
+- 2017-09-07 — Senate amendment proposed (on the floor): Amendment SA 818 proposed by Senator McConnell to Amendment SA 817.(consideration: CR S5032; text: CR S5032)
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate concurred in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
