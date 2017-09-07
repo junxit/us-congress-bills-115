@@ -1,7 +1,7 @@
 ---
 measure: S. 652
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 652
@@ -16,7 +16,7 @@ Early Hearing Detection and Intervention Act of 2017
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -31,6 +31,7 @@ Early Hearing Detection and Intervention Act of 2017
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (2)
 
@@ -50,3 +51,15 @@ Early Hearing Detection and Intervention Act of 2017
 - 2017-09-07 — Message on Senate action sent to the House.
 - 2017-09-07 — Received in the House.
 - 2017-09-07 — Referred to the House Committee on Energy and Commerce.
+- 2017-10-03 — Considered under suspension of the rules. (consideration: CR H7694-7698)
+- 2017-10-03 — DEBATE - The House proceeded with forty minutes of debate on S. 652.
+- 2017-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-03 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2017-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7694-7696)
+- 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7694-7696)
+- 2017-10-06 — Presented to President.
+- 2017-10-06 — Presented to President.
+- 2017-10-18 — Became Public Law No: 115-71.
+- 2017-10-18 — Became Public Law No: 115-71.
+- 2017-10-18 — Signed by President.
+- 2017-10-18 — Signed by President.
