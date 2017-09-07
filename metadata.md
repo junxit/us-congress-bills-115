@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 23
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 23
@@ -28,3 +28,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2017-09-07 — Message on Senate action sent to the House.
 - 2017-09-07 — Received in the House.
 - 2017-09-07 — Referred to the House Committee on House Administration.
+- 2017-09-12 — Committee on House Administration discharged.
+- 2017-09-12 — Committee on House Administration discharged.
+- 2017-09-12 — Considered by unanimous consent. (consideration: CR H7287)
+- 2017-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-12 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2017-09-12 — On agreeing to the resolution Agreed to without objection. (text: CR H7287)
+- 2017-09-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7287)
