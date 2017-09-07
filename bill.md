@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 509
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 509
+
+> Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 601) to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 601) to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes, with the Senate amendment to the House amendment to the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment to the House amendment to the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to adoption without intervening motion.
