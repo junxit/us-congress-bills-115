@@ -1,7 +1,7 @@
 ---
 measure: S. 1165
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1165
@@ -28,3 +28,11 @@ A bill to designate the medical center of the Department of Veterans Affairs in 
 
 - 2017-05-17 — Introduced in Senate
 - 2017-05-17 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Passed Senate without amendment by Unanimous Consent. (text: CR S5078)
+- 2017-09-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5078)
+- 2017-09-07 — Received in the House.
+- 2017-09-07 — Referred to the House Committee on Veterans' Affairs.
+- 2017-09-07 — Referred to the Subcommittee on Health.
+- 2017-09-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5078)
+- 2017-09-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5078)
