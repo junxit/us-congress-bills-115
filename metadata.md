@@ -1,7 +1,7 @@
 ---
 measure: S. 652
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 652
@@ -32,9 +32,10 @@ Early Hearing Detection and Intervention Act of 2017
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ Early Hearing Detection and Intervention Act of 2017
 - 2017-05-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
 - 2017-09-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5017-5018;  text: CR S5017-5018)
 - 2017-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5017-5018;  text: CR S5017-5018)
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Received in the House.
+- 2017-09-07 — Referred to the House Committee on Energy and Commerce.
