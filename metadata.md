@@ -1,7 +1,7 @@
 ---
 measure: S. 849
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 849
@@ -25,9 +25,10 @@ SMASH Act
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ SMASH Act
 - 2017-05-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.
 - 2017-09-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5018-5019; text: S5018-5019)
 - 2017-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5018-5019; text: S5018-5019)
+- 2017-09-07 — Message on Senate action sent to the House.
+- 2017-09-07 — Received in the House.
+- 2017-09-07 — Referred to the House Committee on Energy and Commerce.
