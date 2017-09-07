@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 504
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 504
@@ -16,6 +16,15 @@ Providing for further consideration of the bill (H.R. 3354) making appropriation
 
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2017-09-07 — [House 115-1-457](votes/house-115-1-0457.md) — On Ordering the Previous Question — **Passed** (227–186)
+- 2017-09-07 — [House 115-1-458](votes/house-115-1-0458.md) — On Agreeing to the Resolution — **Passed** (222–190)
+
 ## Actions
 
 - 2017-09-06 — Introduced in House
@@ -23,3 +32,9 @@ Providing for further consideration of the bill (H.R. 3354) making appropriation
 - 2017-09-06 — The House Committee on Rules reported an original measure, H. Rept. 115-297, by Mr. Woodall.
 - 2017-09-06 — The House Committee on Rules reported an original measure, H. Rept. 115-297, by Mr. Woodall.
 - 2017-09-06 — The rule makes in order only those further amendments printed in the Rules Committee report, amendments en bloc described in section 3 of the resolution, and available pro forma amendments described in section 4 of House Resolution 500.
+- 2017-09-07 — Considered as privileged matter. (consideration: CR H7106)
+- 2017-09-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 504.
+- 2017-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 190 (Roll no. 458). (text: CR H7106)
+- 2017-09-07 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 186 (Roll no. 457). (consideration: CR H7114)
+- 2017-09-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 190 (Roll no. 458).(text: CR H7106)
