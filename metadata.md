@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3388
@@ -50,9 +50,10 @@ Safely Ensuring Lives Future Deployment and Research In Vehicle Evolution Act
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ Safely Ensuring Lives Future Deployment and Research In Vehicle Evolution Act
 - 2017-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6667-6671)
 - 2017-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6667-6671)
 - 2017-09-06 — The title of the measure was amended. Agreed to without objection.
+- 2017-09-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
