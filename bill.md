@@ -1,14 +1,22 @@
 ---
 legis-num: H.R. 601
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 601
 
-That the bill from the House of Representatives (H.R. 601) entitled “An Act to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.”, do pass with the following
+> Making continuing appropriations for the fiscal year ending September 30, 2018, and for other purposes.
 
-*In lieu of the matter proposed to be inserted, insert the following:*
+## § 1. Short title
 
-- **(“(C)** there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.”.
+This Act may be cited as the “Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017”.
+
+## § 2. Table of contents
+
+The table of contents for this Act is as follows:
+
+## § 3. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.

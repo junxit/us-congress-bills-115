@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 601
@@ -33,12 +33,13 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - House — Foreign Affairs Committee
 - Senate — Foreign Relations Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2017-09-07 — [Senate 115-1-189](votes/senate-115-1-0189.md) — On the Motion to Table — **Motion to Table Agreed to** (87–10)
 - 2017-09-07 — [Senate 115-1-190](votes/senate-115-1-0190.md) — On the Motion to Table — **Motion to Table Agreed to** (72–25)
 - 2017-09-07 — [Senate 115-1-191](votes/senate-115-1-0191.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–18)
 - 2017-09-07 — [Senate 115-1-192](votes/senate-115-1-0192.md) — On the Motion — **Motion Agreed to** (80–17)
+- 2017-09-08 — [House 115-1-480](votes/house-115-1-0480.md) — On Motion to Concur in the Senate Adt to the House Adt to the Senate Adt — **Passed** (316–90)
 
 ## Actions
 
@@ -104,3 +105,14 @@ Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster
 - 2017-09-07 — Senate amendment submitted
 - 2017-09-07 — Senate amendment submitted
 - 2017-09-07 — Senate concurred in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) by Yea-Nay Vote. 80 - 17. Record Vote Number: 192.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H.Res. 509, the House proceeded with one hour of debate on the Senate amendment to the House amendment to the Senate amendment to H.R. 601.
+- 2017-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-08 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 316 - 90 (Roll no. 480). (text as House agreed to Senate amendment: CR H7191-7194)
+- 2017-09-08 — Presented to President.
+- 2017-09-08 — Presented to President.
+- 2017-09-08 — Pursuant to the provisions of S. Con. Res. 24, enrollment corrections on H.R. 601 have been made.
+- 2017-09-08 — Pursuant to the provisons of H.Res. 509, Mr. Frelinghuysen moved that the House agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H7191-7197)
+- 2017-09-08 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 316 - 90 (Roll no. 480).(text as House agreed to Senate amendment: CR H7191-7194)
+- 2017-09-08 — Signed by President.
+- 2017-09-08 — Signed by President.
+- 2017-09-08 — The previous question was ordered pursuant to the rule.
