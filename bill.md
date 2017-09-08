@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Firefighter Cancer Registry Act of 2017”.
 
-## § 2. Patient registry for firefighter cancer incidence
+## § 2. Population-based registry for firefighter cancer incidence
 
 - **(a)** *In general* The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, shall develop and maintain, directly or through a grant or cooperative agreement, a voluntary registry of firefighters (referred to in this section as the “Firefighter Registry”) to collect relevant history and occupational information of such firefighters that can be linked to available cancer registry data collected by existing State cancer registries.
 - **(b)** *Use of Firefighter Registry* The Firefighter Registry shall be used for the following purposes:
@@ -28,7 +28,7 @@ This Act may be cited as the “Firefighter Cancer Registry Act of 2017”.
       - **(iii)** the number of years on the job and a detailing of additional employment experience that was either performed concurrently alongside firefighting service, before, or anytime thereafter;
       - **(iv)**
         - **(I)** a measure of the number of fire incidents attended as well as the type of fire incidents (such as residential house fire or commercial fire); or
-        - **(II)** in the case of a firefighter who is unable to provide information on such number and type, an estimate of such number and type based on the method developed under subsection (d)(2);
+        - **(II)** in the case of a firefighter for whom information on such number and type is not available, an estimate of such number and type based on the method developed under subsection (d)(2);
       - **(v)** a list of additional risk factors, including smoking or drug use, as determined relevant by the Secretary; and
       - **(vi)** other physical examination and medical history information relevant to a cancer incidence study or general health of firefighters not available in existing cancer registries.
     - **(C)** Any additional information that is deemed necessary by the Secretary.
@@ -44,7 +44,7 @@ This Act may be cited as the “Firefighter Cancer Registry Act of 2017”.
     - **(D)** Information on how the Secretary will store data described in subsection (c)(1) and provide links to relevant health information described in subsection (c)(2).
     - **(E)** Working in consultation with the experts described in subsection (e), a reliable and standardized method for estimating the number of fire incidents attended by a firefighter as well as the type of fire incident so attended in the case such firefighter is unable to provide such information.
   - **(3)** *Report to Congress* The Secretary shall submit the strategy described in paragraph (2) to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate not later than 30 days after the date of the completion of the strategy.
-  - **(4)** *Guidance for inclusion and maintenance of data on firefighters* The Secretary shall develop, in consultation with the stakeholders identified in subsection (e), and disseminate guidance to State health agencies, State departments of homeland security, and volunteer, paid-on-call, combination, and career firefighting agencies that outlines the following:
+  - **(4)** *Guidance for inclusion and maintenance of data on firefighters* The Secretary shall develop, in consultation with the stakeholders identified in subsection (e), State health agencies, State departments of homeland security, and volunteer, paid-on-call, combination, and career firefighting agencies, a strategy for inclusion of firefighters in the registry that are representative of the general population of firefighters, that outlines the following:
     - **(A)** How new information about firefighters will be submitted to the Firefighter Registry for inclusion.
     - **(B)** How information about firefighters will be maintained and updated in the Firefighter Registry over time.
     - **(C)** A method for estimating the number of fire incidents attended by a firefighter as well as the type of fire incident so attended in the case such firefighter is unable to provide such information.
