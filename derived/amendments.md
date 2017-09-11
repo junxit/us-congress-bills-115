@@ -1,7 +1,7 @@
 ---
 measure: S. 416
 congress: 115
-version: Reference Change Senate
+version: Engrossed in Senate
 derived: true
 ---
 
