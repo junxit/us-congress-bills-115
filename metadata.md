@@ -1,7 +1,7 @@
 ---
 measure: S. 488
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 488
@@ -33,3 +33,5 @@ JOBS and Investor Confidence Act of 2018
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
 - 2017-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
+- 2017-09-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5169; text: CR S5169)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5169; text: CR S5169)
