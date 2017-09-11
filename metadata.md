@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2874
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2874
@@ -25,3 +25,8 @@ version: Introduced in House
 - 2017-06-12 — Introduced in House
 - 2017-06-12 — Introduced in House
 - 2017-06-12 — Referred to the House Committee on Financial Services.
+- 2017-06-15 — Committee Consideration and Mark-up Session Held.
+- 2017-06-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 26.
+- 2017-09-11 — Placed on the Union Calendar, Calendar No. 217.
+- 2017-09-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-304.
+- 2017-09-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-304.
