@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 49
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 49
@@ -16,7 +16,7 @@ A joint resolution condemning the violence and domestic terrorist attack that to
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 
-## Cosponsors (54)
+## Cosponsors (56)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Gardner, Cory [R-CO] (G000562)
@@ -72,9 +72,13 @@ A joint resolution condemning the violence and domestic terrorist attack that to
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Actions
 
 - 2017-09-06 — Introduced in Senate
 - 2017-09-06 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Sponsor introductory remarks on measure: CR S5006)
 - 2017-09-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
+- 2017-09-11 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5165; text: CR S5165)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5165; text: CR S5165)
