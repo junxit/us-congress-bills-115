@@ -1,7 +1,7 @@
 ---
 measure: S. 1312
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1312
@@ -16,7 +16,7 @@ Trafficking Victims Protection Act of 2017
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (20)
+## Cosponsors (26)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -38,6 +38,12 @@ Trafficking Victims Protection Act of 2017
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -51,3 +57,12 @@ Trafficking Victims Protection Act of 2017
 - 2017-08-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-08-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 189.
+- 2017-09-11 — Amendment SA 937 agreed to in Senate by Unanimous Consent.
+- 2017-09-11 — Amendment SA 937 proposed by Senator McConnell for Senator Grassley. (consideration: CR S5184; text: CR S5184) To improve the bill.
+- 2017-09-11 — Measure laid before Senate by unanimous consent. (consideration: CR S5179-5189)
+- 2017-09-11 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5184-5189)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5184-5189)
+- 2017-09-11 — Senate amendment agreed to: Amendment SA 937 agreed to in Senate by Unanimous Consent.
+- 2017-09-11 — Senate amendment proposed (on the floor): Amendment SA 937 proposed by Senator McConnell for Senator Grassley.(consideration: CR S5184; text: CR S5184)
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — The committee substitute as amended agreed to by Unanimous Consent.
