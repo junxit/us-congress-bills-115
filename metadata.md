@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 49
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 49
@@ -82,3 +82,15 @@ A joint resolution condemning the violence and domestic terrorist attack that to
 - 2017-09-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
 - 2017-09-11 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5165; text: CR S5165)
 - 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5165; text: CR S5165)
+- 2017-09-12 — Considered by unanimous consent. (consideration: CR H7287-7288)
+- 2017-09-12 — Held at the desk.
+- 2017-09-12 — Message on Senate action sent to the House.
+- 2017-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-12 — Mr. Goodlatte asked unanimous consent to take from the Speaker's table and consider.
+- 2017-09-12 — On passage Passed without objection. (text: CR H7288)
+- 2017-09-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7288)
+- 2017-09-12 — Received in the House.
+- 2017-09-14 — Presented to President.
+- 2017-09-14 — Presented to President.
+- 2017-09-14 — Signed by President.
+- 2017-09-14 — Signed by President.
