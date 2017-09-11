@@ -1,7 +1,7 @@
 ---
 measure: S. 416
 congress: 115
-version: Reference Change Senate
+version: Engrossed in Senate
 ---
 
 # S. 416
@@ -32,3 +32,7 @@ Small Business Capital Formation Enhancement Act
 - 2017-03-07 — Referred to the Committee on Banking, Housing, and Urban Affairs.
 - 2017-03-07 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
 - 2017-03-07 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2017-09-11 — Passed Senate without amendment by Unanimous Consent. (text: CR S 5166)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S 5166)
+- 2017-09-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5166)
+- 2017-09-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5166)
