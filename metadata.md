@@ -1,7 +1,7 @@
 ---
 measure: S. 327
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 327
@@ -42,3 +42,16 @@ Fair Access to Investment Research Act of 2017
 - 2017-09-11 — Senate amendment agreed to: Amendment SA 935 agreed to in Senate by Unanimous Consent.
 - 2017-09-11 — Senate amendment proposed (on the floor): Amendment SA 935 proposed by Senator McConnell for Senator Warren.(consideration: CR S5167; text: CR S5167)
 - 2017-09-11 — Senate amendment submitted
+- 2017-09-12 — Held at the desk.
+- 2017-09-12 — Message on Senate action sent to the House.
+- 2017-09-12 — Received in the House.
+- 2017-09-27 — Considered under suspension of the rules. (consideration: CR H7547-7549)
+- 2017-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 327.
+- 2017-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-27 — Mr. Hill moved to suspend the rules and pass the bill.
+- 2017-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7547-7548)
+- 2017-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7547-7548)
+- 2017-09-29 — Presented to President.
+- 2017-09-29 — Presented to President.
+- 2017-10-06 — Signed by President.
+- 2017-10-06 — Signed by President.
