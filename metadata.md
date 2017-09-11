@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1311
@@ -16,7 +16,7 @@ Abolish Human Trafficking Act of 2017
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (28)
+## Cosponsors (31)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -46,6 +46,9 @@ Abolish Human Trafficking Act of 2017
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Franken, Al [D-MN] (F000457)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (1)
 
@@ -59,3 +62,12 @@ Abolish Human Trafficking Act of 2017
 - 2017-08-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-08-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
+- 2017-09-11 — Amendment SA 936 agreed to in Senate by Unanimous Consent.
+- 2017-09-11 — Amendment SA 936 proposed by Senator McConnell for Senator Cornyn. (consideration: CR S5174-5175; text: CR S5174-5175) To improve the bill.
+- 2017-09-11 — Measure laid before Senate by unanimous consent. (consideration: CR S5170-5179)
+- 2017-09-11 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5175-5179)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5175-5179)
+- 2017-09-11 — Senate amendment agreed to: Amendment SA 936 agreed to in Senate by Unanimous Consent.
+- 2017-09-11 — Senate amendment proposed (on the floor): Amendment SA 936 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S5174-5175; text: CR S5174-5175)
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — The committee substitute as amended agreed to by Unanimous Consent.

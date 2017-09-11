@@ -21,26 +21,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** has achieved the objective described in paragraph (1) since the establishment of the Fund.
 - **(b)** *Ensuring full funding* Section 3014 of title 18, United States Code, is amended—
   - **(1)** in subsection (a), in the matter preceding paragraph (1), by striking “September 30, 2019” and inserting “September 30, 2023”;
-  - **(2)** in subsection (f), by inserting “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”; and
-  - **(3)** in subsection (h)(3), by inserting “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102))” after “child pornography victims”.
+  - **(2)** in subsection (e)(1), in the matter preceding subparagraph (A), by striking “2019” and inserting “2023”;
+  - **(3)** in subsection (f), by inserting “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”; and
+  - **(4)** in subsection (h)(3), by inserting “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102))” after “child pornography victims”.
 
 ## § 3. Mandatory restitution for victims of commercial sexual exploitation
 
 - **(a)** *Amendment* Chapter 117 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 2429. Mandatory restitution
   >
-  > - **(a)** *In general* Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
-  > - **(b)** *Scope and nature of Order*
-  >   - **(1)** *Directions* An order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses, as determined by the court under paragraph (3).
-  >   - **(2)** *Enforcement* An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
-  >   - **(3)** *Full amount of the victim's losses defined* For purposes of this subsection, the term full amount of the victim’s losses—
-  >     - **(A)** has the meaning given the term in section 2259(b)(3); and
-  >     - **(B)** includes the gross income or value to the defendant of the victim’s services, if the services constitute commercial sex acts as defined under section 1591.
-  >   - **(4)** *Forfeiture of property* The forfeiture of property under this subsection shall be governed by the provisions of section 413 (other than subsection (d) of such section 413) of the Controlled Substances Act (21 U.S.C. 853).
-  > - **(c)** *Victim defined*
-  >   - **(1)** *In general* In this section, the term victim means the individual harmed as a result of the commission of a crime under this chapter.
-  >   - **(2)** *Assumption of crime victim's rights* In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim, a representative of the victim’s estate, or any other person appointed as suitable by the court may assume the crime victim's rights under this section.
-  > - **(d)** *Prohibition* A defendant charged with an offense under this chapter may not be named as a representative or guardian of a victim of the offense.
+  > - **(a)** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+  > - **(b)**
+  >   - **(1)** The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses, as determined by the court under paragraph (3), and shall additionally require the defendant to pay the greater of the gross income or value to the defendant of the victim's services, if the services constitute commercial sex acts as defined under section 1591.
+  >   - **(2)** An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+  >   - **(3)** As used in this subsection, the term full amount of the victim’s losses has the same meaning as provided in section 2259(b)(3).
+  > - **(c)** The forfeiture of property under this section shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act (21 U.S.C. 853).
+  > - **(d)** As used in this section, the term victim means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
 
 - **(b)** *Table of sections* The table of sections for chapter 117 of title 18, United States Code, is amended by inserting after the item relating to section 2428 the following:
 
@@ -115,58 +111,16 @@ Not later than 180 days after the date of enactment of this Act, the Attorney Ge
 - **(2)** recommending and implementing best practices for the collection of special assessments under section 3014 of title 18, United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under section 3613 of title 18, United States Code; and
 - **(3)** clarifying that commercial sexual exploitation is a form of gender-based violence.
 
-## § 10. Training for health professionals
-
-Section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(f)) is amended by adding at the end the following:
-
-> - **(h)** *Training for health professionals*
->   - **(1)** *Definitions* In this subsection—
->     - **(A)** the term pilot program means the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program established under paragraph (2); and
->     - **(B)** the term Secretary means the Secretary of Health and Human Services.
->   - **(2)** *Pilot program*
->     - **(A)** *In general* The Secretary may continue a pilot program, which shall be known as the “Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program” or the “SOAR to Health and Wellness Training pilot program”.
->     - **(B)** *Grants authorized* Under the pilot program, the Secretary may award grants to appropriate entities to train health care providers—
->       - **(i)** to identify potential human trafficking victims;
->       - **(ii)** to work with law enforcement agencies to report human trafficking and facilitate communication with human trafficking victims, in accordance with all applicable Federal, State, local, and tribal laws, including legal confidentiality requirements for patients and health care providers;
->       - **(iii)** to refer such victims to appropriate social or victims service agencies or organizations;
->       - **(iv)** to provide such victims with appropriate patient-centered, evidence-based care; and
->       - **(v)** to foster the practice of interprofessional collaboration, including practices used by organizations other than health care organizations.
->     - **(C)** *Functions*
->       - **(i)** *In general* The functions of the pilot program shall include, as appropriate, the functions of the Stop, Observe, Ask, and Respond to Health and Wellness Training program that was operating on the day before the date of the enactment of this subsection and any of the authorized initiatives described in clause (ii).
->       - **(ii)** *Authorized initiatives* The authorized initiatives of the pilot program shall include—
->         - **(I)** engaging stakeholders, including victims of human trafficking and Federal, State, local, or tribal partners;
->         - **(II)** making grants available to support training in health care sites that represent diversity in—
->           - **(aa)** geography;
->           - **(bb)** the demographics of the population served;
->           - **(cc)** the predominate types of human trafficking cases; and
->           - **(dd)** health care provider profiles; and
->         - **(III)** providing technical assistance to assist grantees in—
->           - **(aa)** achieving the objectives described in subparagraph (B); and
->           - **(bb)** reporting on any best practices they identify.
->     - **(D)** *Termination* The pilot program shall terminate not later than October 1, 2022.
->   - **(3)** *Data collection and reporting requirements*
->     - **(A)** *Data collection* During any of the fiscal years 2018 through 2022 in which the Secretary carries out any of the authorized initiatives described in paragraph (2)(C), the Secretary shall collect data and report on—
->       - **(i)** the total number of entities that received a grant under this subsection—
->         - **(I)** during the previous fiscal year;
->         - **(II)** between the previous fiscal year and the date of the enactment of this subsection; and
->         - **(III)** between the date of the enactment of this subsection and the date of the establishment of the Stop, Observe, Ask, and Respond to Health and Wellness Training program that was operating on the day before the date of the enactment of this subsection; and
->       - **(ii)** the total number of health care providers and other related providers that participated in training supported by the pilot program—
->         - **(I)** during the previous fiscal year;
->         - **(II)** between the previous fiscal year and the date of the enactment of this subsection; and
->         - **(III)** between the date of the enactment of this subsection and the date of the establishment of the Stop, Observe, Ask, and Respond to Health and Wellness Training program that was operating on the day before the date of the enactment of this subsection.
->     - **(B)** *Reporting* Not later than 90 days after the first day of each of the fiscal years 2018 through 2022, the Secretary shall prepare and submit to Congress a report on the data collected under subparagraph (A).
->     - **(C)** *Sharing best practices* The Secretary shall make available, on the website of the Department of Health and Human Services, a description of the evidence-based practices and procedures used by entities that receive a grant under the pilot program for carrying out the activities described in paragraph (2)(B).
-
-## § 11. Improving the national strategy to combat human trafficking
+## § 10. Improving the national strategy to combat human trafficking
 
 Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 14044h(b)) is amended by adding at the end the following:
 
 > - **(6)** A national strategy to prevent human trafficking and reduce demand for human trafficking victims.
 
-## § 12. Specialized human trafficking training and technical assistance for service providers
+## § 11. Specialized human trafficking training and technical assistance for service providers
 
 - **(a)** *In general* Section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 14044f) is amended—
-  - **(1)** in the heading, by striking “law enforcement training programs” and inserting “specialized human trafficking training and technical assistance”;
+  - **(1)** in the heading, by striking “law enforcement training programs” and inserting “specialized human trafficking training and technical assistance for service providers”;
   - **(2)** in subsection (a)(2), by striking “means a State or a local government.” and inserting the following:
     > means—
     > - **(A)** a State or unit of local government;
@@ -179,7 +133,7 @@ Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 
   - **(3)** by striking subsection (b) and inserting the following:
     > - **(b)** *Grants authorized* The Attorney General may award grants to eligible entities to—
     >   - **(1)** provide training to identify and protect victims of trafficking;
-    >   - **(2)** improve quality and quantity of services offered to trafficking survivors; and
+    >   - **(2)** improve the quality and quantity of services offered to trafficking survivors; and
     >   - **(3)** improve victim service providers’ partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities.
 
   - **(4)** in subsection (c)—
@@ -194,7 +148,7 @@ Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 2 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960) is amended by striking the item relating to section 111 and inserting the following:
 
-## § 13. Enhanced penalties for human trafficking, child exploitation, and repeat offenders
+## § 12. Enhanced penalties for human trafficking, child exploitation, and repeat offenders
 
 Part I of title 18, United States Code, is amended—
 
@@ -206,7 +160,7 @@ Part I of title 18, United States Code, is amended—
   - **(A)** in subsection (a), by striking “twice” and inserting “3 times”; and
   - **(B)** in subsection (b)(1)(B) by striking “paragraph (1)” and inserting “subparagraph (A)”.
 
-## § 14. Targeting organized human trafficking perpetrators
+## § 13. Targeting organized human trafficking perpetrators
 
 Section 521(c) of title 18, United States Code, is amended—
 
@@ -217,42 +171,49 @@ Section 521(c) of title 18, United States Code, is amended—
 
 - **(4)** in paragraph (4), as so redesignated, by striking “(1) or (2)” and inserting “(1), (2), or (3)”.
 
-## § 15. Investigating complex human trafficking networks
+## § 14. Investigating complex human trafficking networks
 
 Section 2516 of title 18, United States Code, is amended—
 
-- **(1)** in paragraph (1)(c)—
+- **(1)** in subsection (1)(c)—
   - **(A)** by inserting “section 1582 (vessels for slave trade), section 1583 (enticement into slavery),” after “section 1581 (peonage),”; and
   - **(B)** by inserting “section 1585 (seizure, detention, transportation or sale of slaves), section 1586 (service on vessels in slave trade), section 1587 (possession of slaves aboard vessel), section 1588 (transportation of slaves from United States),” after “section 1584 (involuntary servitude),”; and
-- **(2)** in paragraph (2)—
+- **(2)** in subsection (2)—
   - **(A)** by striking “kidnapping human” and inserting “kidnapping, human”; and
   - **(B)** by striking “production, ,” and inserting “production, prostitution,”.
 
-## § 16. Combating sex tourism
+## § 15. Combating sex tourism
 
 Section 2423 of title 18, United States Code, is amended—
 
 - **(1)** in subsection (b), by striking “for the purpose” and inserting “with a motivating purpose”; and
 - **(2)** in subsection (d), by striking “for the purpose of engaging” and inserting “with a motivating purpose of engaging”.
 
-## § 17. Human Trafficking Justice Coordinators
+## § 16. Human Trafficking Justice Coordinators
 
-- **(a)** *Human Trafficking Justice Coordinators* The Attorney General shall designate in each Federal judicial district not less than 1 Assistant United States Attorney to serve as the Human Trafficking Coordinator for the district who, in addition to any other responsibilities, works with a human trafficking victim-witness specialist and shall be responsible for—
-  - **(1)** serving as the legal counsel for the Federal judicial district on matters relating to human trafficking;
-  - **(2)** prosecuting, or assisting in the prosecution of, human trafficking cases;
-  - **(3)** conducting public outreach and awareness activities relating to human trafficking;
-  - **(4)** ensuring the collection of data required to be collected under clause (viii) of section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)(7)(Q)), as added by section 18 of this Act;
-  - **(5)** coordinating with other Federal agencies, State, tribal, and local law enforcement agencies, victim service providers, and other relevant non-governmental organizations to build partnerships on activities relating to human trafficking; and
-  - **(6)** ensuring the collection of restitution for victims as required to be ordered under section 1593 of title 18, United States Code, and section 2429 of such title, as added by section 3 of this Act.
-- **(b)** *Department of Justice Coordinator* Not later than 60 days after the date of enactment of this Act, the Attorney General shall designate an official who shall coordinate human trafficking efforts within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
-  - **(1)** coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
-  - **(2)** in consultation with survivors of human trafficking, compiling, conducting, and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
-    - **(A)** conduct investigations in human trafficking cases;
-    - **(B)** address evidentiary issues and other legal issues; and
-    - **(C)** appropriately assess, respond to, and interact with victims and witnesses in human trafficking cases, including in administrative, civil, and criminal judicial proceedings; and
-  - **(3)** carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
+Section 606 of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 14044h) is amended—
 
-## § 18. Interagency Task Force To Monitor and Combat Human Trafficking
+- **(1)** in subsection (b)(1)—
+  - **(A)** by striking subparagraph (B); and
+  - **(B)** by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and
+- **(2)** by adding at the end the following:
+  > - **(c)** *Human Trafficking Justice Coordinators* The Attorney General shall designate in each Federal judicial district not less than 1 assistant United States attorney to serve as the Human Trafficking Coordinator for the district who, in addition to any other responsibilities, works with a human trafficking victim-witness specialist and shall be responsible for—
+  >   - **(1)** implementing the National Strategy with respect to all forms of human trafficking, including labor trafficking and sex trafficking;
+  >   - **(2)** prosecuting, or assisting in the prosecution of, human trafficking cases;
+  >   - **(3)** conducting public outreach and awareness activities relating to human trafficking;
+  >   - **(4)** ensuring the collection of data required to be collected under clause (viii) of section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)(7)(Q)), as added by section 17 of the Abolish Human Trafficking Act of 2017, is sought;
+  >   - **(5)** coordinating with other Federal agencies, State, tribal, and local law enforcement agencies, victim service providers, and other relevant non-governmental organizations to build partnerships on activities relating to human trafficking; and
+  >   - **(6)** ensuring the collection of restitution for victims is sought as required to be ordered under section 1593 of title 18, United States Code, and section 2429 of such title, as added by section 3 of the Abolish Human Trafficking Act of 2017.
+  > - **(d)** *Department of Justice Coordinator* Not later than 60 days after the date of enactment of the Abolish Human Trafficking Act of 2017, the Attorney General shall designate an official who shall coordinate human trafficking efforts within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
+  >   - **(1)** coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
+  >   - **(2)** in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
+  >     - **(A)** identify signs of human trafficking;
+  >     - **(B)** conduct investigations in human trafficking cases;
+  >     - **(C)** address evidentiary issues and other legal issues; and
+  >     - **(D)** appropriately assess, respond to, and interact with victims and witnesses in human trafficking cases, including in administrative, civil, and criminal judicial proceedings; and
+  >   - **(3)** carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
+
+## § 17. Interagency Task Force to Monitor and Combat Human Trafficking
 
 Section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)(7)(Q)) is amended—
 
@@ -260,7 +221,7 @@ Section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C
 - **(2)** by adding at the end the following:
   > - **(viii)** the number of convictions obtained under chapter 77 of title 18, United States Code, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and
 
-## § 19. Additional reporting on crime
+## § 18. Additional reporting on crime
 
 Section 237(b) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (28 U.S.C. 534 note) is amended—
 
@@ -270,32 +231,25 @@ Section 237(b) of the William Wilberforce Trafficking Victims Protection Reautho
   > - **(4)** incidents of assisting or promoting prostitution, child labor that is a violation of law, or forced labor of an individual under the age of 18 as described in paragraph (1); and
   > - **(5)** incidents of purchasing or soliciting commercial sex acts, child labor that is a violation of law, or forced labor with an individual under the age of 18 as described in paragraph (2).
 
-## § 20. Making the Presidential Survivor Council permanent
+## § 19. Making the Presidential Survivor Council permanent
 
 Section 115 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended by striking subsection (h).
 
-## § 21. Strengthening the National Human Trafficking Hotline
+## § 20. Strengthening the national human trafficking hotline
 
 - **(a)** *Reporting requirement* Section 105(d)(3) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(d)(3)) is amended—
   - **(1)** by inserting “and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies” after “international trafficking”; and
   - **(2)** by inserting “and reporting requirements” after “Any data collection procedures”.
 - **(b)** *Hotline information* Section 107(b)(1)(B)(ii) of such Act (22 U.S.C. 7105(b)(1)(B)(ii)) is amended by adding at the end the following: “The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.”.
 
-## § 22. Ending Government partnerships with the commercial sex industry
+## § 21. Ending Government partnerships with the commercial sex industry
 
 No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
 
 - **(1)** has the primary purpose of providing adult entertainment; and
 - **(2)** derives profits from the commercial sex trade.
 
-## § 23. Study of human trafficking victim privilege
-
-Not later than 1 year after the date of enactment of this Act, the Judicial Conference of the United States shall—
-
-- **(1)** conduct a study on the necessity and desirability of amending the Federal Rules of Evidence to establish a Federal evidentiary privilege for confidential communications between a victim of human trafficking, regardless of whether the victim of human trafficking is a party to a legal action, and a caseworker assisting the victim of human trafficking; and
-- **(2)** submit to Congress a report on the study conducted under paragraph (1).
-
-## § 24. Understanding the effects of severe forms of trafficking in persons
+## § 22. Understanding the effects of severe forms of trafficking in persons
 
 - **(a)** *In general* Title VI of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 258) is amended by adding at the end the following:
   > ## § 607. Understanding the physical and psychological effects of severe forms of trafficking in persons
@@ -305,7 +259,7 @@ Not later than 1 year after the date of enactment of this Act, the Judicial Conf
 
 - **(b)** *Table of contents amendment* The table of contents in section 1(b) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227) is amended by inserting after the item relating to section 606 the following:
 
-## § 25. Combating trafficking in persons
+## § 23. Combating trafficking in persons
 
 - **(a)** *Trafficking Victims Prevention Act of 2000 programs* Section 113 of the Trafficking Victims Prevention Act of 2000 (22 U.S.C. 7110) is amended—
   - **(1)** in subsection (b)—
@@ -315,12 +269,12 @@ Not later than 1 year after the date of enactment of this Act, the Judicial Conf
 - **(b)** *Reinstatement and reauthorization of grants To combat child sex trafficking*
   - **(1)** *Reinstatement of expired provision*
     - **(A)** *In general* Section 202 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044a) is amended to read as such section read on March 6, 2017.
-    - **(B)** *Conforming amendment* Section 1241(b) of the Violence Against Women Reauthorization Act of 2013 (42 U.S.C. 14004a note) is repealed.
+    - **(B)** *Conforming amendment* Section 1241(b) of the Violence Against Women Reauthorization Act of 2013 (42 U.S.C. 14044a note) is repealed.
   - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect as though enacted on March 6, 2017.
   - **(3)** *Reauthorization* Section 202(i) of the Trafficking Victims Protection Reauthorization Act of 2005, as amended by paragraph (1), is amended to read as follows:
     > - **(i)** *Funding* For each of the fiscal years 2018 through 2022, the Attorney General is authorized to allocate up to $8,000,000 of the amounts appropriated pursuant to section 113(d)(1) of the Trafficking Victims Prevention Act of 2000 (22 U.S.C. 7110(d)(1)) to carry out this section.
 
-## § 26. Grant accountability
+## § 24. Grant accountability
 
 - **(a)** *Definitions* In this section—
   - **(1)** the term covered agency means an agency authorized to award grants under this Act;
@@ -357,3 +311,64 @@ Not later than 1 year after the date of enactment of this Act, the Judicial Conf
   - **(2)** *Report* If a covered official awards duplicate covered grants to the same applicant for the same purpose the covered official shall submit to the appropriate committees of Congress a report that includes—
     - **(A)** a list of all duplicate covered grants awarded, including the total dollar amount of any duplicate covered grants awarded; and
     - **(B)** the reason the covered official awarded the duplicate covered grants.
+
+## § 25. HERO Act improvements
+
+- **(a)** *In general* Section 890A of the Homeland Security Act of 2002 (6 U.S.C. 473) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (1), by inserting “Homeland Security Investigations,” after “Customs Enforcement,”; and
+    - **(B)** by striking paragraph (2) and inserting the following:
+      > - **(2)** *Purpose* The Center shall provide investigative assistance, training, and equipment to support domestic and international investigations of cyber-related crimes by the Department.
+
+  - **(2)** in subsection (b)—
+    - **(A)** in paragraph (2)(C), by inserting after “personnel” the following: “, which shall include participating in training for Homeland Security Investigations personnel conducted by Internet Crimes Against Children Task Forces”; and
+    - **(B)** in paragraph (3)—
+      - **(i)** in subparagraph (B)—
+        - **(I)** in the matter preceding clause (i), by inserting “in child exploitation investigations” after “Enforcement”; and
+        - **(II)** in clause (i), by inserting “child” before “victims”;
+      - **(ii)** in subparagraph (C), by inserting “child exploitation” after “number of”; and
+      - **(iii)** in subparagraph (D), by inserting “child exploitation” after “number of”; and
+  - **(3)** in subsection (c)(2)—
+    - **(A)** in subparagraph (A), in the matter preceding clause (i), by inserting “and administer the Digital Forensics and Document and Media Exploitation program” after “forensics”;
+    - **(B)** in subparagraph (C), by inserting “and emerging technologies” after “forensics”; and
+    - **(C)** in subparagraph (D), by striking “and the National Association to Protect Children” and inserting “, the National Association to Protect Children, and other governmental entities”.
+- **(b)** *HERO child-Rescue corps* Section 890A of the Homeland Security Act of 2002 (6 U.S.C. 473) is amended—
+  - **(1)** by redesignating subsection (e) as subsection (g);
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *HERO child-Rescue corps*
+    >   - **(1)** *Establishment*
+    >     - **(A)** *In general* There is established within the Center a Human Exploitation Rescue Operation Child-Rescue Corps Program (referred to in this section as the “HERO Child-Rescue Corps Program”), which shall be a Department-wide program, in collaboration with the Department of Defense and the National Association to Protect Children.
+    >     - **(B)** *Private sector collaboration* As part of the HERO Child-Rescue Corps Program, the National Association to Protect Children shall provide logistical support for program participants.
+    >   - **(2)** *Purpose* The purpose of the HERO Child-Rescue Corps Program shall be to recruit, train, equip, and employ members of the Armed Forces on active duty and wounded, ill, and injured veterans to combat and prevent child exploitation, including in investigative, intelligence, analyst, inspection, and forensic positions or any other positions determined appropriate by the employing agency.
+    >   - **(3)** *Functions* The HERO Child-Rescue Program shall—
+    >     - **(A)** provide, recruit, train, and equip participants of the Program in the areas of digital forensics, investigation, analysis, intelligence, and victim identification, as determined by the Center and the needs of the Department; and
+    >     - **(B)** ensure that during the internship period, participants of the Program are assigned to investigate and analyze—
+    >       - **(i)** child exploitation;
+    >       - **(ii)** child pornography;
+    >       - **(iii)** unidentified child victims;
+    >       - **(iv)** human trafficking;
+    >       - **(v)** traveling child sex offenders; and
+    >       - **(vi)** forced child labor, including the sexual exploitation of minors.
+    > - **(f)** *Paid internship and hiring program*
+    >   - **(1)** *In general* The Secretary shall establish a paid internship and hiring program for the purpose of placing participants of the HERO Child-Rescue Corps Program (in this subsection referred to as “participants”) into paid internship positions, for the subsequent appointment of the participants to permanent positions, as described in the guidelines promulgated under paragraph (3).
+    >   - **(2)** *Internship positions* Under the paid internship and hiring program required to be established under paragraph (1), the Secretary shall assign or detail participants to positions within United States Immigration and Customs Enforcement or any other Federal agency in accordance with the guidelines promulgated under paragraph (3).
+    >   - **(3)** *Placement*
+    >     - **(A)** *In general* The Secretary shall promulgate guidelines for assigning or detailing participants to positions within United States Immigration and Customs Enforcement and other Federal agencies, which shall include requirements for internship duties and agreements regarding the subsequent appointment of the participants to permanent positions.
+    >     - **(B)** *Preference* The Secretary shall give a preference to Homeland Security Investigations in assignments or details under the guidelines promulgated under subparagraph (A).
+    >   - **(4)** *Term of internship* An appointment to an internship position under this subsection shall be for a term not to exceed 12 months.
+    >   - **(5)** *Rate and term of pay* After completion of initial group training and upon beginning work at an assigned office, a participant appointed to an internship position under this subsection who is not receiving monthly basic pay as a member of the Armed Forces on active duty shall receive compensation at a rate that is—
+    >     - **(A)** not less than the minimum rate of basic pay payable for a position at level GS–5 of the General Schedule; and
+    >     - **(B)** not more than the maximum rate of basic pay payable for a position at level GS–7 of the General Schedule.
+    >   - **(6)** *Eligibility* In establishing the paid internship and hiring program required under paragraph (1), the Secretary shall ensure that the eligibility requirements for participation in the internship program are the same as the eligibility requirements for participation in the HERO Child-Rescue Corps Program.
+    >   - **(7)** *Hero corps hiring* The Secretary shall establish within Homeland Security Investigations positions, which shall be in addition to any positions in existence on the date of enactment of this subsection, for the hiring and permanent employment of graduates of the paid internship program required to be established under paragraph (1).
+
+  - **(3)** in subsection (g), as so redesignated—
+    - **(A)** by striking “There are authorized” and inserting the following:
+      > - **(1)** *In general* There are authorized
+
+    - **(B)** by adding at the end the following:
+      > - **(2)** *Allocation* Of the amount made available pursuant to paragraph (1) in each of fiscal years 2018 through 2022, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
+
+- **(c)** *Technical and conforming amendment* Section 302 of the HERO Act of 2015 (Public Law 114–22; 129 Stat. 255) is amended—
+  - **(1)** by striking subsection (c); and
+  - **(2)** by redesignating subsection (d) as subsection (c).
