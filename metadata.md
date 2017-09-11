@@ -1,7 +1,7 @@
 ---
 measure: S. 444
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 444
@@ -21,9 +21,10 @@ Supporting America's Innovators Act of 2017
 - Sen. Heller, Dean [R-NV] (H001041)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ Supporting America's Innovators Act of 2017
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
 - 2017-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
+- 2017-04-26 — Committee on Small Business and Entrepreneurship. Hearings held. Hearings printed: S.Hrg. 115-58.
+- 2017-09-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5168; text: CR S5168)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5168; text: CR S5168)
