@@ -34,24 +34,26 @@ It is the sense of Congress that the voluntary policies outlined in the Wireless
     - **(B)** the provision by non-telecommunications service provider-owned WiFi access points of public access to 9–1–1 services during times of emergency when mobile service is unavailable; and
     - **(C)** other alternative means of providing the public with access to 9–1–1 services during times of emergency when mobile service is unavailable.
   - **(2)** *Considerations* In conducting the study required under paragraph (1), the Commission shall consider issues related to making WiFi access points available to the general public for access to 9–1–1 services, including communications network provider liability, the operational security of communications networks, and any existing actions or authorities in and among the States.
-- **(c)** *Directory*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Commission shall create a master point of contact directory to provide for effective communication between public safety answering points and telecommunications service providers.
-  - **(2)** *Confidentiality* The directory established under this subsection shall be available to telecommunications service providers and public safety answering points on a confidential basis.
-  - **(3)** *Exemption from Paperwork Reduction Act requirements* In establishing the directory under this subsection, the Commission shall be exempted from chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”).
-- **(d)** *GAO study and report*
+- **(c)** *GAO study and report*
   - **(1)** *Definitions* In this subsection—
     - **(A)** the term essential communications services means wireline and mobile telephone service, Internet access service, radio and television broadcasting, cable service, and direct broadcast satellite service; and
     - **(B)** the term Executive departments has the meaning given the term in section 101 of title 5, United States Code.
   - **(2)** *Study* The Comptroller General of the United States shall conduct a study on—
-    - **(A)** how Executive departments can better ensure essential communications services remain operational during times of emergency; and
-    - **(B)** any legislative matters, if appropriate, Congress could consider to help promote the resiliency of essential communications services.
-  - **(3)** *Report* Not later than 18 months after the date of enactment of this Act, the Comptroller General shall transmit a report to Congress containing the findings and recommendations of the study required under paragraph (2).
-- **(e)** *Expanding list of essential service providers during federally declared emergencies To include all communications providers; providing access to essential service providers* Section 427 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189e) is amended—
+    - **(A)** how Executive departments can better ensure essential communications services remain operational during times of emergency;
+    - **(B)** any legislative matters, if appropriate, Congress could consider to help promote the resiliency of essential communications services; and
+    - **(C)** whether a nationwide directory of points of contact among providers of essential communications services is needed to facilitate the rapid restoration of such services damaged during times of emergency.
+  - **(3)** *Considerations* In making the determination described in paragraph (2)(C), the Comptroller General shall consider—
+    - **(A)** any similar directories that exist at the Federal, State, or local level, including the effectiveness of such directories;
+    - **(B)** how such a directory could be established and updated, including what types of information would be most useful;
+    - **(C)** how access to such a directory could be managed to adequately ensure the confidentiality of any sensitive information and operational security of essential communications services; and
+    - **(D)** the resources necessary to establish and maintain such a directory.
+  - **(4)** *Report* Not later than 18 months after the date of enactment of this Act, the Comptroller General shall transmit a report to Congress containing the findings and recommendations of the study required under paragraph (2).
+- **(d)** *Expanding list of essential service providers during federally declared emergencies To include all communications providers; providing access to essential service providers* Section 427 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189e) is amended—
   - **(1)** in subsection (a)(1)(A), by striking “telecommunications service” and inserting “wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service”; and
   - **(2)** by adding at the end the following:
     > - **(d)** *Mutual aid agreements* The President, acting through the Administrator of the Federal Emergency Management Agency, shall encourage the adoption of mutual aid agreements that recognize the credentials of essential service providers issued by all parties to the mutual aid agreement.
 
-- **(f)** *Communications networks are designated essential assistance during federally declared emergencies* Section 403(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b(a)(3)) is amended—
+- **(e)** *Communications networks are designated essential assistance during federally declared emergencies* Section 403(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b(a)(3)) is amended—
   - **(1)** in subparagraph (I), by striking “and” at the end;
   - **(2)** in subparagraph (J), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
