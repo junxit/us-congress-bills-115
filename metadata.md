@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2615
@@ -25,3 +25,9 @@ Gulf Islands National Seashore Land Exchange Act
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Referred to the House Committee on Natural Resources.
+- 2017-06-07 — Referred to the Subcommittee on Federal Lands.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-09-11 — Placed on the Union Calendar, Calendar No. 216.
+- 2017-09-11 — Reported by the Committee on Natural Resources. H. Rept. 115-302.
+- 2017-09-11 — Reported by the Committee on Natural Resources. H. Rept. 115-302.
