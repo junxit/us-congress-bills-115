@@ -1,7 +1,7 @@
 ---
 measure: S. 484
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 484
@@ -34,3 +34,5 @@ U.S. Territories Investor Protection Act of 2017
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
 - 2017-03-13 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
 - 2017-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
+- 2017-09-11 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5169; text: CR S5169)
+- 2017-09-11 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5169; text: CR S5169)
