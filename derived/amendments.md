@@ -1,7 +1,7 @@
 ---
 measure: S. 705
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -64,7 +64,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5119a` | strike | in paragraph (1)(E), by striking “unsupervised”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5119a` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5119a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5119a` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5119a` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5119c` | amend | by amending paragraph (9) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5119c` | strike | in paragraph (10), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
