@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3732
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3732
@@ -41,3 +41,5 @@ Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act
 - 2017-09-11 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5165)
 - 2017-09-11 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-11 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Signed by President.
+- 2017-09-12 — Signed by President.
