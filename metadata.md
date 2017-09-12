@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1311
@@ -71,3 +71,9 @@ Abolish Human Trafficking Act of 2017
 - 2017-09-11 — Senate amendment proposed (on the floor): Amendment SA 936 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S5174-5175; text: CR S5174-5175)
 - 2017-09-11 — Senate amendment submitted
 - 2017-09-11 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2017-09-12 — Message on Senate action sent to the House.
+- 2017-09-12 — Received in the House.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
