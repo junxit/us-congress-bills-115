@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1624
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1624
@@ -16,7 +16,7 @@ Municipal Finance Support Act of 2017
 
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Cosponsors (13)
+## Cosponsors (19)
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
@@ -31,6 +31,12 @@ Municipal Finance Support Act of 2017
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
 ## Committees (1)
 
@@ -41,3 +47,8 @@ Municipal Finance Support Act of 2017
 - 2017-03-20 — Introduced in House
 - 2017-03-20 — Introduced in House
 - 2017-03-20 — Referred to the House Committee on Financial Services.
+- 2017-07-25 — Committee Consideration and Mark-up Session Held.
+- 2017-07-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.
+- 2017-09-12 — Placed on the Union Calendar, Calendar No. 219.
+- 2017-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-306.
+- 2017-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-306.
