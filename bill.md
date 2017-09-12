@@ -15,10 +15,15 @@ This Act may be cited as the “Department of Homeland Security Classified Facil
 
 ## § 2. Inventory
 
-- **(a)** *In general* The Secretary of Homeland Security, acting through the Chief Security Officer of the Department of Homeland Security, shall—
-  - **(1)** maintain an inventory of all facilities certified by the Department to host infrastructure or systems classified above the Secret level; and
-  - **(2)** update such inventory on a regular basis.
-- **(b)** *Contents* The inventory required under subsection (a) shall include the location of such facilities, an identification of the entities operating such facilities, and date of establishment of such facilities.
-- **(c)** *Dissemination* The Chief Security Officer of the Department of Homeland Security, in coordination with the Under Secretary for Intelligence and Analysis of the Department, may share part or all of the inventory carried out under this section, in accordance with standard information sharing procedures and policies, with the following:
-  - **(1)** Appropriate Department component agencies and field personnel.
-  - **(2)** Appropriate State, local, tribal, and territorial personnel eligible to apply for a Top Secret security clearance sponsored by the Department.
+- **(a)** *In general* The Secretary of Homeland Security shall, to the extent practicable—
+  - **(1)** maintain an inventory of those Department of Homeland Security facilities that the Department certifies to house classified infrastructure or systems at the secret level and above;
+  - **(2)** update such inventory on a regular basis; and
+  - **(3)** share part or all of such inventory with—
+    - **(A)** Department personnel who have been granted the appropriate security clearance;
+    - **(B)** non-Federal governmental personnel who have been granted a Top Secret security clearance; and
+    - **(C)** other personnel as determined appropriate by the Secretary.
+- **(b)** *Inventory* The inventory of facilities described in subsection (a) may include—
+  - **(1)** the location of such facilities;
+  - **(2)** the attributes of such facilities (including the square footage of, the total capacity of, the number of workstations in, and the number of conference rooms in, such facilities);
+  - **(3)** the entities that operate such facilities; and
+  - **(4)** the date of establishment of such facilities.
