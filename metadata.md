@@ -1,7 +1,7 @@
 ---
 measure: S. 1312
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1312
@@ -66,3 +66,8 @@ Trafficking Victims Protection Act of 2017
 - 2017-09-11 — Senate amendment proposed (on the floor): Amendment SA 937 proposed by Senator McConnell for Senator Grassley.(consideration: CR S5184; text: CR S5184)
 - 2017-09-11 — Senate amendment submitted
 - 2017-09-11 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2017-09-12 — Message on Senate action sent to the House.
+- 2017-09-12 — Received in the House.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
