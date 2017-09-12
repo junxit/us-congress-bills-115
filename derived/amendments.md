@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
