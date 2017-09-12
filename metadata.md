@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2453
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2453
@@ -29,3 +29,12 @@ DHS Intelligence Rotational Assignment Program Act of 2017
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Referred to the House Committee on Homeland Security.
+- 2017-05-17 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2017-05-18 — Ordered to be Reported by Voice Vote.
+- 2017-05-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-09-12 — Considered under suspension of the rules. (consideration: CR H7232-7236)
+- 2017-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2453.
+- 2017-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-12 — Mr. Gallagher moved to suspend the rules and pass the bill.
+- 2017-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7232)
+- 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7232)
