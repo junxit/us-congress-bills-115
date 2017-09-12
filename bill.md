@@ -57,4 +57,8 @@ This Act may be cited as the “Firefighter Cancer Registry Act of 2017”.
   - **(4)** Active and retired volunteer, paid-on-call, and career firefighters as well as relevant national fire and emergency response organizations.
 - **(f)** *Research availability* The Secretary shall develop and make public a process for de-identifying data from the Firefighter Registry and making such data available without a fee for research or other purposes. Such process shall provide that such data shall be made available for such research purposes only if there is an agreement to make findings, journal articles, or other print or web-based publications derived from such research public or available to the relevant stakeholders identified in subsection (e).
 - **(g)** *Privacy* In carrying out this Act, the Secretary shall apply to the Firefighter Registry developed under subsection (a) data security provisions and privacy standards that comply with the best practices of the Centers for Disease Control and Prevention and provide for data privacy and security standards similar to those in the HIPAA privacy regulation, as defined in section 1180(b)(3) of the Social Security Act (42 U.S.C. 1320d–9(b)(3)).
-- **(h)** *Authorization of funds* To carry out this section, there are authorized to be appropriated $2,500,000 for each of the fiscal years 2018 through 2022.
+- **(h)** *Authorization of funds* To carry out this section, there are authorized to be appropriated $2,000,000 for each of the fiscal years 2018 through 2022.
+
+## § 3. Cut-Go Compliance
+
+Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by striking “through 2018” and inserting “through 2017, and $128,300,000 for fiscal year 2018”.

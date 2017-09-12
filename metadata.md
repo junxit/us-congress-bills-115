@@ -1,7 +1,7 @@
 ---
 measure: H.R. 931
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 931
@@ -224,3 +224,9 @@ Firefighter Cancer Registry Act of 2018
 - 2017-09-08 — Placed on the Union Calendar, Calendar No. 215.
 - 2017-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-301.
 - 2017-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-301.
+- 2017-09-12 — Considered under suspension of the rules. (consideration: CR H7248-7251)
+- 2017-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 931.
+- 2017-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7248-7249)
+- 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7248-7249)
