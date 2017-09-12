@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2471
@@ -29,3 +29,12 @@ Terrorist Release Announcements to Counter Extremist Recidivism Act
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Referred to the House Committee on Homeland Security.
+- 2017-05-17 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2017-05-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-05-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-09-12 — Considered under suspension of the rules. (consideration: CR H7247-7248)
+- 2017-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2471.
+- 2017-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-12 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7247)
+- 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7247)
