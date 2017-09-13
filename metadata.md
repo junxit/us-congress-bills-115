@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2427
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2427
@@ -16,10 +16,11 @@ Pathways to Improving Homeland Security At the Local Level Act
 
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Pathways to Improving Homeland Security At the Local Level Act
 - 2017-09-12 — Mr. Gallagher moved to suspend the rules and pass the bill, as amended.
 - 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7236)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7236)
+- 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
