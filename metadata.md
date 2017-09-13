@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2611
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2611
@@ -50,3 +50,10 @@ Little Rock Central High School National Historic Site Boundary Modification Act
 - 2017-09-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 485). (text: CR H7251)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 485).(text: CR H7251)
 - 2017-09-13 — Received in the Senate, read twice.
+- 2017-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S8267-8269)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S8267-8269)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2018-01-02 — Presented to President.
+- 2018-01-02 — Presented to President.
+- 2018-01-12 — Signed by President.
+- 2018-01-12 — Signed by President.
