@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2442
@@ -16,10 +16,11 @@ FIRST State and Local Law Enforcement Act
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ FIRST State and Local Law Enforcement Act
 - 2017-09-12 — Mr. Hurd moved to suspend the rules and pass the bill, as amended.
 - 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7245)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7245)
+- 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
