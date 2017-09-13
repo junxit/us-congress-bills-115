@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2433
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2433
@@ -20,9 +20,10 @@ Homeland Security Assessment of Terrorists Use of Virtual Currencies Act
 
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Homeland Security Assessment of Terrorists Use of Virtual Currencies Act
 - 2017-09-12 — Mr. Perry moved to suspend the rules and pass the bill.
 - 2017-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7242)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7242)
+- 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
