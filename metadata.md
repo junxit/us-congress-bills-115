@@ -1,7 +1,7 @@
 ---
 measure: H.R. 931
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 931
@@ -207,9 +207,10 @@ Firefighter Cancer Registry Act of 2018
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 - Rep. Evans, Dwight [D-PA-2] (E000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -230,3 +231,4 @@ Firefighter Cancer Registry Act of 2018
 - 2017-09-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7248-7249)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7248-7249)
+- 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
