@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2470
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
