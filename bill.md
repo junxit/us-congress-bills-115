@@ -13,10 +13,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Joint Counterterrorism Awareness Workshop Series Act of 2017”.
 
-## § 2. Joint Counterterrorism Awareness Workshop Series
+## § 2. Joint counterterrorism awareness workshop series
 
-- **(a)** *In general* Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section:
-  > ## § 529. Joint Counterterrorism Awareness Workshop Series
+- **(a)** *In general* Title V of the Homeland Security Act (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section:
+  > ## § 529. Joint counterterrorism awareness workshop series
   >
   > - **(a)** *In general* The Administrator, in consultation with the Director of the National Counterterrorism Center and the Director of the Federal Bureau of Investigation, shall establish a Joint Counterterrorism Awareness Workshop Series (in this section referred to as the “Workshop Series”) to address emerging terrorist threats and to enhance the ability of State and local jurisdictions to prevent, protect against, respond to, and recover from terrorist attacks.
   > - **(b)** *Purpose* The Workshop Series established under subsection (a) shall include the following components:
@@ -29,7 +29,7 @@ This Act may be cited as the “Joint Counterterrorism Awareness Workshop Series
   > - **(c)** *Designation of participating cities* The Administrator shall select jurisdictions to host a Workshop Series from those cities that—
   >   - **(1)** are currently receiving, or that previously received, funding under section 2003; and
   >   - **(2)** have requested to be considered.
-  > - **(d)** *Workshop Series participants* Individuals from State and local jurisdictions and emergency response providers in cities designated under subsection (c) shall be eligible to participate in the Workshop Series, including the following:
+  > - **(d)** *Workshop series participants* Individuals from State and local jurisdictions and emergency response providers in cities designated under subsection (c) shall be eligible to participate in the Workshop Series, including the following:
   >   - **(1)** Senior elected and appointed officials.
   >   - **(2)** Law enforcement.
   >   - **(3)** Fire and Rescue.
@@ -39,10 +39,10 @@ This Act may be cited as the “Joint Counterterrorism Awareness Workshop Series
   >   - **(7)** Private sector representatives.
   >   - **(8)** Other participants as deemed appropriate by the Administrator.
   > - **(e)** *Reports*
-  >   - **(1)** *Workshop Series report* The Administrator, in consultation with the Director of the National Counterterrorism Center, the Director of the Federal Bureau of Investigation, and officials from the city in which a Workshop Series is held, shall develop and submit to all of the agencies participating in such Workshop Series a report after the conclusion of each such Workshop Series that addresses the following:
+  >   - **(1)** *Workshop series report* The Administrator, in consultation with the Director of the National Counterterrorism Center, the Director of the Federal Bureau of Investigation, and officials from the city in which a Workshop Series is held, shall develop and submit to all of the agencies participating in such Workshop Series a report after the conclusion of each such Workshop Series that addresses the following:
   >     - **(A)** Key findings about lessons learned and best practices from each such Workshop Series.
   >     - **(B)** Potential mitigation strategies and resources to address gaps identified during each such Workshop Series.
-  >   - **(2)** *Annual reports* Not later than one year after the date of the enactment of this section and annually thereafter for the next seven years, the Administrator, in consultation with the Director of the National Counterterrorism Center and the Director of the Federal Bureau of Investigation, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive summary report of the key themes, lessons learned, and best practices identified during the Workshop Series held during the previous year.
-  > - **(f)** *Authorization* There is authorized to be appropriated $1,000,000 to carry out this section.
+  >   - **(2)** *Annual reports* Not later than 1 year after the date of the enactment of this section and annually thereafter for the next 5 years, the Administrator, in consultation with the Director of the National Counterterrorism Center and the Director of the Federal Bureau of Investigation, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive summary report of the key themes, lessons learned, and best practices identified during the Workshop Series held during the previous year.
+  > - **(f)** *Authorization* There is authorized to be appropriated $1,000,000 for each of fiscal years 2018 through 2022 to carry out this section.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 528 the following new item:
