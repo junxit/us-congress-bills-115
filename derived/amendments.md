@@ -1,7 +1,7 @@
 ---
 measure: S. 1536
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 31110(c)(1) of title 49, United States Code, is amended by adding at the end the following: “The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, p… | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (D), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 31110(c)(1) of title 49, United States Code, is amended by adding at the end the following: “The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, p… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the bill names no machine-readable US Code section |
