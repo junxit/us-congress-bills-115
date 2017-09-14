@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2763
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2763
@@ -16,9 +16,10 @@ Small Business Innovation Research and Small Business Technology Transfer Improv
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
 ## Committees (2)
 
@@ -32,3 +33,12 @@ Small Business Innovation Research and Small Business Technology Transfer Improv
 - 2017-05-30 — Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-30 — Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-30 — Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-06-15 — Committee Consideration and Mark-up Session Held.
+- 2017-06-15 — Ordered to be Reported (Amended).
+- 2017-06-22 — Committee Consideration and Mark-up Session Held.
+- 2017-06-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-09-14 — Placed on the Union Calendar, Calendar No. 223.
+- 2017-09-14 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-313, Part II.
+- 2017-09-14 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-313, Part II.
+- 2017-09-14 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-313, Part I.
+- 2017-09-14 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-313, Part I.
