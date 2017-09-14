@@ -1,7 +1,7 @@
 ---
 measure: S. 1088
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1088
@@ -28,3 +28,7 @@ Federal Agency Customer Experience Act of 2017
 
 - 2017-05-10 — Introduced in Senate
 - 2017-05-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2017-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-156.
+- 2017-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-156.
+- 2017-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.
