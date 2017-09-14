@@ -30,7 +30,7 @@ This Act may be cited as the “Criminal Alien Gang Member Removal Act”.
   >   - **(ii)** to have participated in the activities of a criminal gang (as defined in section 101(a)(53)), knowing or having reason to know that such activities will promote, further, aid, or support the illegal activity of the criminal gang.
 
 - **(c)** *Deportability* Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following:
-  > - **(G)** *Aliens associated with criminal gangs* Any alien is deportable who the Secretary of Homeland Security or the Attorney General knows or has reason to believe—
+  > - **(G)** *Aliens associated with criminal gangs* Any alien is deportable who—
   >   - **(i)** is or has been a member of a criminal gang (as defined in section 101(a)(53)); or
   >   - **(ii)** has participated in the activities of a criminal gang (as so defined), knowing or having reason to know that such activities will promote, further, aid, or support the illegal activity of the criminal gang.
 
