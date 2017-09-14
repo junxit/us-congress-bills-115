@@ -1,7 +1,7 @@
 ---
 measure: S. 1393
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1393
@@ -42,3 +42,5 @@ Jobs for Our Heroes Act
 - 2017-08-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
 - 2017-08-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
 - 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
+- 2017-09-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5771; text: CR S5771)
+- 2017-09-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5771; text: CR S5771)
