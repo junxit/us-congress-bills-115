@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3354
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3354
@@ -20,9 +20,1635 @@ Interior and Environment, Agriculture and Rural Development, Commerce, Justice, 
 
 - House — Appropriations Committee
 
+## Recorded votes (2)
+
+- 2017-09-14 — [House 115-1-527](votes/house-115-1-0527.md) — On Motion to Recommit with Instructions — **Failed** (186–223)
+- 2017-09-14 — [House 115-1-528](votes/house-115-1-0528.md) — On Passage — **Passed** (211–198)
+
 ## Actions
 
 - 2017-07-21 — Introduced in House
 - 2017-07-21 — Placed on the Union Calendar, Calendar No. 170.
 - 2017-07-21 — The House Committee on Appropriations reported an original measure, H. Rept. 115-238, by Mr. Calvert.
 - 2017-07-21 — The House Committee on Appropriations reported an original measure, H. Rept. 115-238, by Mr. Calvert.
+- 2017-09-05 — Rules Committee Resolution H. Res. 500 Reported to House. Rule provides for consideration of H.R. 3354 with 2 hours of general debate. Measure will be considered read. Specified amendments are in order. The rule also provides that it shall be in order at any time through the legislative day of September 9, 2017, for the Speaker to entertain motions that the House suspend the rules.
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — 
+- 2017-09-06 — Amendment (A002) offered by Mr. Cicilline. (consideration: CR H7037-7038; text: CR H7037)
+- 2017-09-06 — Amendment (A003) offered by Mr. Davis, Rodney. (consideration: CR H7038-7039; text: CR H7038-7039)
+- 2017-09-06 — Amendment (A004) offered by Mr. King (IA). (consideration: CR H7039-7040, H7064-7065; text: CR H7039)
+- 2017-09-06 — Amendment (A005) offered by Mrs. Hartzler. (consideration: CR H7040-7041)
+- 2017-09-06 — Amendment (A006) offered by Mr. Carter (GA). (consideration: CR H7041-7042, H7065; text: CR H7041)
+- 2017-09-06 — Amendment (A007) offered by Mr. King (IA). (consideration: CR H7042-7043; text: CR H7042)
+- 2017-09-06 — Amendment (A009) offered by Mr. Lipinski. (consideration: CR H7044; text: CR H7044)
+- 2017-09-06 — Amendment (A010) offered by Mr. Mitchell. (consideration: CR H7044-7045; text: CR H7044)
+- 2017-09-06 — Amendment (A011) offered by Mr. McClintock. (consideration: CR H7045-7046, H7065-7066; text: CR H7045)
+- 2017-09-06 — Amendment (A012) offered by Mr. Kildee. (consideration: CR H7046; text: CR H7046)
+- 2017-09-06 — Amendment (A013) offered by Mr. Woodall. (consideration: CR H7046-7047; text: CR H7046)
+- 2017-09-06 — Amendment (A014) offered by Mr. Budd. (consideration: CR H7047-7049, HH7066-7067; text: CR H7047)
+- 2017-09-06 — Amendment (A015) offered by Mr. Brooks (AL). (consideration: CR H7049-7050, H7067; text: CR H7049)
+- 2017-09-06 — Amendment (A016) offered by Mr. Soto. (consideration: CR H7050; text: CR H7050)
+- 2017-09-06 — Amendment (A017) offered by Mr. Carbajal. (consideration: CR H7050; text: CR H7050)
+- 2017-09-06 — Amendment (A018) offered by Ms. Rosen. (consideration: CR H7050-7052, H7067-7068; text: CR H7051)
+- 2017-09-06 — Amendment (A019) offered by Mr. Grothman. (consideration: CR H7052, H7068-7069; text: CR H7052)
+- 2017-09-06 — Amendment (A020) offered by Mr. Courtney. (consideration: CR H7052-7053; text: CR H7052)
+- 2017-09-06 — Amendment (A021) offered by Mr. Grothman. (consideration: CR H7053, H7069; text: CR H7053)
+- 2017-09-06 — Amendment (A022) offered by Mr. Stivers. (consideration: CR H7053-7054; text: CR H7053)
+- 2017-09-06 — Amendment (A023) offered by Mr. Thompson (PA). (consideration: CR H7054-7055; text: CR H7054)
+- 2017-09-06 — Amendment (A024) offered by Mr. King (IA). (consideration: CR H7055-7056, H7069-7070; text: CR H7055)
+- 2017-09-06 — Amendment (A025) offered by Ms. Jackson Lee. (consideration: CR H7056-7058; text: CR H7056)
+- 2017-09-06 — Amendment (A026) offered by Ms. Herrera Beutler. (consideration: CR H7058-7059; text: CR H7058)
+- 2017-09-06 — Amendment (A027) offered by Mr. Grothman. (consideration: CR H7059-7060, H7070-7071; text: CR H7059)
+- 2017-09-06 — Amendment (A028) offered by Mr. Barr. (consideration: CR H7060-7061; text: CR H7060)
+- 2017-09-06 — Amendment (A029) offered by Mr. Smith (MO). (consideration: CR H7061, H7071; text: CR H7061)
+- 2017-09-06 — Amendment (A030) offered by Mr. Perry. (consideration: CR H7061-7062; text: CR H7061)
+- 2017-09-06 — Amendment (A031) offered by Mr. Babin. (consideration: CR H7062-7063, H7071-7072; text: CR H7062)
+- 2017-09-06 — Amendment (A032) offered by Mr. King (IA). (consideration: CR H7063-7064; text: CR H7063)
+- 2017-09-06 — Amendment (A034) offered by Ms. Lujan Grisham, M.. (consideration: CR H7074-7075; text: CR H7074)
+- 2017-09-06 — Amendment (A035) offered by Ms. Jayapal. (consideration: CR H7075-7076;text: CR H7075)
+- 2017-09-06 — Amendment (A036) offered by Mr. Fitzpatrick. (consideration: CR H7076; text: CR H7076)
+- 2017-09-06 — Amendment (A037) offered by Mr. Castro (TX). (consideration: CR H7076-7077; text: CR H7076)
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment agreed to Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendment failed in Committee of the Whole
+- 2017-09-06 — Amendments en bloc (A001) offered by Mr. Aderholt. (consideration: CR H7035-7037; text: CR H7036)
+- 2017-09-06 — Amendments en bloc (A008) offered by Mr. Diaz-Balart. (consideration: CR H7043-7044; text: CR H7043)
+- 2017-09-06 — Amendments en bloc (A033) offered by Mr. Carter (TX). (consideration: CR H7072-7074; text: CR H7072-7073)
+- 2017-09-06 — By unanimous consent, the Kildee amendment was withdrawn.
+- 2017-09-06 — By unanimous consent, the Soto amendment was withdrawn.
+- 2017-09-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-06 — Considered as unfinished business. (consideration: CR H7072-7087)
+- 2017-09-06 — Considered under the provisions of rule H. Res. 500. (consideration: CR H6695-7072)
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 58.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 55.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Brooks (AL) amendment No. 33.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Budd amendment No. 32.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 37.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Carter (GA) amendment No. 17.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro amendment No. 71.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 44.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 70.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 39.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 46.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 54.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 16.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera-Beutler amendment No. 53.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 52.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 66.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 26.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 15.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 18.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 51.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 59.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 21.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan Grisham (NM) amendment No. 63.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 25.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 22.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 57.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rosen amendment No. 38.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 56.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 36.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment No. 48.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment No. 49.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment No. 28.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Carter (TX) En Bloc amendment No. 3.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Diaz-Balart En Bloc amendment No. 2.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 10.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis amendment No. 14.
+- 2017-09-06 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Aderholt En Bloc amendment No. 1.
+- 2017-09-06 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 3354.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Aderholt amendments (A001) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Barr amendment (A028) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Carbajal amendment (A017) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Carter (TX) amendments (A033) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Cicilline amendment (A002) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Courtney amendment (A020) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A003) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Diaz-Balart amendments (A008) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A036) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Hartzler amendment (A005) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Herrera Beutler amendment (A026) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A025) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the King (IA) amendment (A007) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the King (IA) amendment (A032) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Lipinski amendment (A009) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Lujan Grisham, M. amendment (A034) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Perry amendment (A030) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A029) Agreed to by recorded vote: 225 - 195 (Roll no. 455).
+- 2017-09-06 — House amendment agreed to: On agreeing to the Stivers amendment (A022) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Thompson (PA) amendment (A023) Agreed to by voice vote.
+- 2017-09-06 — House amendment agreed to: On agreeing to the Woodall amendment (A013) Agreed to by voice vote.
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Babin amendment (A031) Failed by recorded vote: 173 - 246 (Roll no. 456).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Brooks (AL) amendment (A015) Failed by recorded vote: 128 - 293 (Roll no. 449).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Budd amendment (A014) Failed by recorded vote: 159 - 260 (Roll no. 448).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Carter (GA) amendment (A006) Failed by recorded vote: 141 - 279 (Roll no. 446).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Grothman amendment (A019) Failed by recorded vote: 124 - 295 (Roll no. 451).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Grothman amendment (A021) Failed by recorded vote: 139 - 282 (Roll no. 452).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Grothman amendment (A027) Failed by recorded vote: 140 - 280 (Roll no. 454).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Jayapal amendment (A035) Failed by voice vote.
+- 2017-09-06 — House amendment not agreed to: On agreeing to the King (IA) amendment (A004) Failed by recorded vote: 176 - 241 (Roll no. 445).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the King (IA) amendment (A024) Failed by recorded vote: 180 - 241 (Roll no. 453).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the McClintock amendment (A011) Failed by recorded vote: 140 - 280 (Roll no. 447).
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Mitchell amendment (A010) Failed by voice vote.
+- 2017-09-06 — House amendment not agreed to: On agreeing to the Rosen amendment (A018) Failed by recorded vote: 200 - 220 (Roll no. 450).
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered
+- 2017-09-06 — House amendment offered/reported by : Amendment (A002) offered by Mr. Cicilline.(consideration: CR H7037-7038; text: CR H7037)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A003) offered by Mr. Davis, Rodney.(consideration: CR H7038-7039; text: CR H7038-7039)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A004) offered by Mr. King (IA).(consideration: CR H7039-7040, H7064-7065; text: CR H7039)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A005) offered by Mrs. Hartzler.(consideration: CR H7040-7041)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A006) offered by Mr. Carter (GA).(consideration: CR H7041-7042, H7065; text: CR H7041)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A007) offered by Mr. King (IA).(consideration: CR H7042-7043; text: CR H7042)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A009) offered by Mr. Lipinski.(consideration: CR H7044; text: CR H7044)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A010) offered by Mr. Mitchell.(consideration: CR H7044-7045; text: CR H7044)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A011) offered by Mr. McClintock.(consideration: CR H7045-7046, H7065-7066; text: CR H7045)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A012) offered by Mr. Kildee.(consideration: CR H7046; text: CR H7046)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A013) offered by Mr. Woodall.(consideration: CR H7046-7047; text: CR H7046)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A014) offered by Mr. Budd.(consideration: CR H7047-7049, HH7066-7067; text: CR H7047)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A015) offered by Mr. Brooks (AL).(consideration: CR H7049-7050, H7067; text: CR H7049)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A016) offered by Mr. Soto.(consideration: CR H7050; text: CR H7050)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A017) offered by Mr. Carbajal.(consideration: CR H7050; text: CR H7050)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A018) offered by Ms. Rosen.(consideration: CR H7050-7052, H7067-7068; text: CR H7051)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A019) offered by Mr. Grothman.(consideration: CR H7052, H7068-7069; text: CR H7052)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A020) offered by Mr. Courtney.(consideration: CR H7052-7053; text: CR H7052)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A021) offered by Mr. Grothman.(consideration: CR H7053, H7069; text: CR H7053)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A022) offered by Mr. Stivers.(consideration: CR H7053-7054; text: CR H7053)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A023) offered by Mr. Thompson (PA).(consideration: CR H7054-7055; text: CR H7054)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A024) offered by Mr. King (IA).(consideration: CR H7055-7056, H7069-7070; text: CR H7055)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A025) offered by Ms. Jackson Lee.(consideration: CR H7056-7058; text: CR H7056)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A026) offered by Ms. Herrera Beutler.(consideration: CR H7058-7059; text: CR H7058)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A027) offered by Mr. Grothman.(consideration: CR H7059-7060, H7070-7071; text: CR H7059)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A028) offered by Mr. Barr.(consideration: CR H7060-7061; text: CR H7060)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A029) offered by Mr. Smith (MO).(consideration: CR H7061, H7071; text: CR H7061)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A030) offered by Mr. Perry.(consideration: CR H7061-7062; text: CR H7061)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A031) offered by Mr. Babin.(consideration: CR H7062-7063, H7071-7072; text: CR H7062)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A032) offered by Mr. King (IA).(consideration: CR H7063-7064; text: CR H7063)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A034) offered by Ms. Lujan Grisham, M..(consideration: CR H7074-7075; text: CR H7074)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A035) offered by Ms. Jayapal.(consideration: CR H7075-7076;text: CR H7075)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A036) offered by Mr. Fitzpatrick.(consideration: CR H7076; text: CR H7076)
+- 2017-09-06 — House amendment offered/reported by : Amendment (A037) offered by Mr. Castro (TX).(consideration: CR H7076-7077; text: CR H7076)
+- 2017-09-06 — House amendment offered/reported by : Amendments en bloc (A001) offered by Mr. Aderholt.(consideration: CR H7035-7037; text: CR H7036)
+- 2017-09-06 — House amendment offered/reported by : Amendments en bloc (A008) offered by Mr. Diaz-Balart.(consideration: CR H7043-7044; text: CR H7043)
+- 2017-09-06 — House amendment offered/reported by : Amendments en bloc (A033) offered by Mr. Carter (TX).(consideration: CR H7072-7074; text: CR H7072-7073)
+- 2017-09-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 500 and Rule XVIII.
+- 2017-09-06 — Mr. Carter (TX) moved that the Committee rise.
+- 2017-09-06 — Mr. Goodlatte raised a point of order against the content of the measure. Mr. Goodlatte stated that the measure sought to change existing law and constituted legislation in an appropriations bill The Chair sustained the point of order.
+- 2017-09-06 — Mr. Hensarling raised a point of order against the content of the measure. Mr. Hensarling stated that the measure sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2017-09-06 — Mr. Hensarling raised a point of order against the content of the measure. Mr. Hensarling stated that the measure sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2017-09-06 — Ms. Waters, Maxine appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair.
+- 2017-09-06 — On agreeing to the Aderholt amendments (A001) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Babin amendment (A031) Failed by recorded vote: 173 - 246 (Roll no. 456).
+- 2017-09-06 — On agreeing to the Barr amendment (A028) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Brooks (AL) amendment (A015) Failed by recorded vote: 128 - 293 (Roll no. 449).
+- 2017-09-06 — On agreeing to the Budd amendment (A014) Failed by recorded vote: 159 - 260 (Roll no. 448).
+- 2017-09-06 — On agreeing to the Carbajal amendment (A017) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Carter (GA) amendment (A006) Failed by recorded vote: 141 - 279 (Roll no. 446).
+- 2017-09-06 — On agreeing to the Carter (TX) amendments (A033) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Cicilline amendment (A002) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Courtney amendment (A020) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Davis, Rodney amendment (A003) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Diaz-Balart amendments (A008) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Fitzpatrick amendment (A036) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Grothman amendment (A019) Failed by recorded vote: 124 - 295 (Roll no. 451).
+- 2017-09-06 — On agreeing to the Grothman amendment (A021) Failed by recorded vote: 139 - 282 (Roll no. 452).
+- 2017-09-06 — On agreeing to the Grothman amendment (A027) Failed by recorded vote: 140 - 280 (Roll no. 454).
+- 2017-09-06 — On agreeing to the Hartzler amendment (A005) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Herrera Beutler amendment (A026) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Jackson Lee amendment (A025) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Jayapal amendment (A035) Failed by voice vote.
+- 2017-09-06 — On agreeing to the King (IA) amendment (A004) Failed by recorded vote: 176 - 241 (Roll no. 445).
+- 2017-09-06 — On agreeing to the King (IA) amendment (A007) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the King (IA) amendment (A024) Failed by recorded vote: 180 - 241 (Roll no. 453).
+- 2017-09-06 — On agreeing to the King (IA) amendment (A032) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Lipinski amendment (A009) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Lujan Grisham, M. amendment (A034) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the McClintock amendment (A011) Failed by recorded vote: 140 - 280 (Roll no. 447).
+- 2017-09-06 — On agreeing to the Mitchell amendment (A010) Failed by voice vote.
+- 2017-09-06 — On agreeing to the Perry amendment (A030) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Rosen amendment (A018) Failed by recorded vote: 200 - 220 (Roll no. 450).
+- 2017-09-06 — On agreeing to the Smith (MO) amendment (A029) Agreed to by recorded vote: 225 - 195 (Roll no. 455).
+- 2017-09-06 — On agreeing to the Stivers amendment (A022) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Thompson (PA) amendment (A023) Agreed to by voice vote.
+- 2017-09-06 — On agreeing to the Woodall amendment (A013) Agreed to by voice vote.
+- 2017-09-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-06 — On sustaining the ruling of the Chair. Agreed to by voice vote.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Babin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Babin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brooks (AL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Brooks (AL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Budd amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Budd demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carter (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. DeLauro demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Bishop demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Rosen demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (MO) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Price demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Roll call votes on amendments in House
+- 2017-09-06 — Rule H. Res. 500 passed House.
+- 2017-09-06 — Rule provides for consideration of H.R. 3354 with 2 hours of general debate. Measure will be considered read. Specified amendments are in order. The rule also provides that it shall be in order at any time through the legislative day of September 9, 2017, for the Speaker to entertain motions that the House suspend the rules.
+- 2017-09-06 — Rules Committee Resolution H. Res. 504 Reported to House. Rule provides for consideration of H.R. 3354. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule makes in order only those further amendments printed in the Rules Committee report, amendments en bloc described in section 3 of the resolution, and available pro forma amendments described in section 4 of House Resolution 500.
+- 2017-09-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-06 — The Speaker designated the Honorable Chris Collins to act as Chairman of the Committee.
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — 
+- 2017-09-07 — Amendment (A038) offered by Ms. Roybal-Allard. (consideration: CR H7077-7078; ; text: CR H7077)
+- 2017-09-07 — Amendment (A039) offered by Mr. Castro (TX). (consideration: CR H7078-7080; text: CR H7078)
+- 2017-09-07 — Amendment (A040) offered by Mr. Correa. (consideration: CR H7080; text: CR H7080)
+- 2017-09-07 — Amendment (A041) offered by Mr. Hunter. (consideration: CR H7080-7081; text: CR H7080)
+- 2017-09-07 — Amendment (A042) offered by Mrs. Torres. (consideration: CR H7081-7082; text: CR H7082)
+- 2017-09-07 — Amendment (A043) offered by Mr. King (IA). (consideration: CR H7082-7083; text: CR H7082)
+- 2017-09-07 — Amendment (A044) offered by Mr. Castro (TX). (consideration: CR H7083-7084; text: CR H7083)
+- 2017-09-07 — Amendment (A045) offered by Ms. Jayapal. (consideration: CR H7084-7085; text: CR H7084)
+- 2017-09-07 — Amendment (A046) offered by Mr. Zeldin. (consideration: CR H7085-7086; text: CR H7085)
+- 2017-09-07 — Amendment (A047) offered by Mr. King (IA). (consideration: CR H7086-7087; text: CR H7086)
+- 2017-09-07 — Amendment (A049) offered by Mr. Rothfus. (consideration: CR H7121-7123; text: CR H7121)
+- 2017-09-07 — Amendment (A050) offered by Mr. Scott, Austin. (consideration: CR H7123-7125; text: CR H7123)
+- 2017-09-07 — Amendment (A051) offered by Mr. Buck. (consideration: CR H7125-7128; text: CR H7125)
+- 2017-09-07 — Amendment (A052) offered by Mr. Engel. (consideration: CR H7128-7129; text: H7128)
+- 2017-09-07 — Amendment (A053) offered by Ms. Frankel (FL). (consideration: CR H7129-7130; text: CR H7129)
+- 2017-09-07 — Amendment (A054) offered by Mr. Hastings. (consideration: CR H7130; text: CR H7130)
+- 2017-09-07 — Amendment (A055) offered by Mr. Hastings. (consideration: CR H7130-7131; text: H7131)
+- 2017-09-07 — Amendment (A056) offered by Mr. Grothman. (consideration: CR H7131; text: CR H7131)
+- 2017-09-07 — Amendment (A057) offered by Mr. Paulsen. (consideration: CR H7132; text: CR H7132)
+- 2017-09-07 — Amendment (A058) offered by Mr. Yoho. (consideration: CR H7132-7134; text: CR H7132)
+- 2017-09-07 — Amendment (A059) offered by Mr. Gaetz. (consideration: CR H7134; text: CR H7134)
+- 2017-09-07 — Amendment (A061) offered by Mr. Grijalva. (consideration: CR H7137-7138; text: CR H7137)
+- 2017-09-07 — Amendment (A062) offered by Mr. Bacon. (consideration: CR H7138-7139; text: CR H7138)
+- 2017-09-07 — Amendment (A064) offered by Ms. McSally. (consideration: CR H7140-7141; text: CR H7140)
+- 2017-09-07 — Amendment (A065) offered by Mr. Griffith. (consideration: CR H7141-7142; text: CR H7141)
+- 2017-09-07 — Amendment (A066) offered by Mr. Thompson (PA). (consideration: CR H7142-7143, H7164-7165; text: CR H7142)
+- 2017-09-07 — Amendment (A067) offered by Mr. Grijalva. (consideration: CR H7143-7144, H7165-7166; text: CR H7143)
+- 2017-09-07 — Amendment (A068) offered by Mr. Price (NC). (consideration: CR H7144-7145; text: CR H7144)
+- 2017-09-07 — Amendment (A069) offered by Mr. Langevin. (consideration: CR H7146; text: CR H7146)
+- 2017-09-07 — Amendment (A070) offered by Mr. Biggs. (consideration: CR H7147, H7166; text: CR H7147)
+- 2017-09-07 — Amendment (A071) offered by Mr. Katko. (consideration: CR H7147-7148; text: CR H7148)
+- 2017-09-07 — Amendment (A072) offered by Mr. Lujan, Ben Ray. (consideration: CR H7148-7149, H7166-7167; text: CR H7148)
+- 2017-09-07 — Amendment (A073) offered by Mr. Beyer. (consideration: CR H7149-7150; text: CR H7149)
+- 2017-09-07 — Amendment (A074) offered by Mr. Beyer. (consideration: CR H7150-7152; text: CR H7150)
+- 2017-09-07 — Amendment (A075) offered by Mr. Ellison. (consideration: CR H7152-7153, H7167-7168; text: CR H7152)
+- 2017-09-07 — Amendment (A076) offered by Mr. Lowenthal. (consideration: CR H7153, H7168; text: CR H7153)
+- 2017-09-07 — Amendment (A077) offered by Mr. Long. (consideration: CR H7153-7154; text: CR H7153)
+- 2017-09-07 — Amendment (A078) offered by Mr. Buck. (consideration: CR H7154-7155; text: CR H7154)
+- 2017-09-07 — Amendment (A079) offered by Mr. Young (AK). (consideration: CR H7155-7156, H7168-7169; text: CR H7155)
+- 2017-09-07 — Amendment (A080) offered by Mr. Young (AK). (consideration: CR H7156-3157; text: CR H7156)
+- 2017-09-07 — Amendment (A081) offered by Mr. Westerman. (consideration: CR H7157; text: CR H7157)
+- 2017-09-07 — Amendment (A082) offered by Mr. Goodlatte. (consideration: CR H7157-7158, H7169-7170; text: CR H7157)
+- 2017-09-07 — Amendment (A083) offered by Mr. Sanford. (consideration: CR H7158-7160; text: CR H7158-7159)
+- 2017-09-07 — Amendment (A084) offered by Mrs. Blackburn. (consideration: CR H7170-7171; text: CR H7170)
+- 2017-09-07 — Amendment (A085) offered by Mr. Palmer. (consideration: CR H7171-7172; text: CR H7171)
+- 2017-09-07 — Amendment (A086) offered by Mr. Carbajal. (consideration: CR H7172-7173; text: CR H7172)
+- 2017-09-07 — Amendment (A087) offered by Mr. Perry. (consideration: CR H7173; text: CR H7173)
+- 2017-09-07 — Amendment (A088) offered by Mr. Pearce. (consideration: CR H7174-7175; text: CR H7174)
+- 2017-09-07 — Amendment (A089) offered by Mr. Pearce. (consideration: CR H7175-7176; text: CR H7175)
+- 2017-09-07 — Amendment (A090) offered by Mr. McEachin. (consideration: CR H7176-7177; text: CR H7176)
+- 2017-09-07 — Amendment (A091) offered by Mr. Grothman. (consideration: CR H7177-7178; text: CR H7177)
+- 2017-09-07 — Amendment (A092) offered by Mr. Lamborn. (consideration: CR H7178-7179; text: CR H7178)
+- 2017-09-07 — Amendment (A093) offered by Mr. Lamborn. (consideration: CR H7179-7180; text: CR H7179)
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment agreed to Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendment failed in Committee of the Whole
+- 2017-09-07 — Amendments en bloc (A048) offered by Mr. Rogers (KY). (consideration: CR H7120-7121; text: CR H7120-7121)
+- 2017-09-07 — Amendments en bloc (A060) offered by Mr. Calvert. (consideration: CR H7135-7137; text: CR H7135)
+- 2017-09-07 — Amendments en bloc (A063) offered by Mr. Calvert. (consideration: CR H7139-7140; text: CR H7139)
+- 2017-09-07 — By unanimous consent, the Bacon amendment was withdrawn. (consideration: CR H7139)
+- 2017-09-07 — By unanimous consent, the Frankel (FL) amendment was withdrawn. (consideration: CR H7130)
+- 2017-09-07 — By unanimous consent, the Langevin amendment was withdrawn. (consideration: CR H7146)
+- 2017-09-07 — Carter (TX) amendment (A033) modified by unanimous consent. Modification to amendment numbered 79 printed in Part B of House Report 115-295, before "dollar amount" insert "first".
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-07 — Considered as unfinished business.
+- 2017-09-07 — Considered as unfinished business.
+- 2017-09-07 — Considered as unfinished business. (consideration: CR H7115-7180)
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 81.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro amendment No. 75.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Gaetz amendment No. 113.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 77.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 80.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 88.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Roybal-Allard amendment No. 74.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Torres amendment No. 78.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 85.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Bacon amendment No. 5.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan(NM) amendment No. 31.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 36.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 37.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 29.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 41.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 38.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 50.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 13, as modified.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 18.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 2.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Katko amendment No. 30.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 27.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Long amendment No. 40.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 39.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the McSally amendment No. 8.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Price (NC) amendment No. 21.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment No. 51.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment No. 15.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 45.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 43.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 44.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert En Bloc amendment No. 1.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert En Bloc amendment No. 2.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Austin Scott Part B amendment No. 92.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 94.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Correa amendment No. 76.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 95.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel (FL) amendment No. 96.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 99.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 97.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 98.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 84.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Paulsen amendment No. 101.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment No. 91.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment No. 110.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Rogers (KY) En Bloc amendment No. 4.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 mintues of debate on the Lamborn amendment No. 67.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 55.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 57.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 66.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 68.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the McEachin amendment No. 65.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 56.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 62.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 63.
+- 2017-09-07 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 59.
+- 2017-09-07 — Griffith amendment (A065) modified by unanimous consent. Modification adds language to provide a more balanced distribution of funds among Appalachian states for reclamation of abandoned mine lands in conjunction with economic and community development, offset by funds from the Environmental Programs and Management account. (text as modified: CR H7141)
+- 2017-09-07 — House amendment agreed to: On agreeing to the Buck amendment (A078) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Calvert amendments (A060) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Calvert amendments (A063) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Gaetz amendment (A059) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Goodlatte amendment (A082) Agreed to by recorded vote: 214 - 197 (Roll no. 479).
+- 2017-09-07 — House amendment agreed to: On agreeing to the Griffith amendment (A065) as modified Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Hunter amendment (A041) Agreed to by recorded vote: 245 - 168 (Roll no. 463).
+- 2017-09-07 — House amendment agreed to: On agreeing to the Katko amendment (A071) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the King (IA) amendment (A047) as modified Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Lamborn amendment (A092) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Lamborn amendment (A093) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Long amendment (A077) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Lujan, Ben Ray amendment (A072) Agreed to by recorded vote: 220 - 191 (Roll no. 475).
+- 2017-09-07 — House amendment agreed to: On agreeing to the McSally amendment (A064) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Pearce amendment (A088) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Perry amendment (A087) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Rogers (KY) amendments (A048) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Scott, Austin amendment (A050) Agreed to by recorded vote: 217 - 193 (Roll no. 468).
+- 2017-09-07 — House amendment agreed to: On agreeing to the Thompson (PA) amendment (A066) Agreed to by recorded vote: 207 - 205 (Roll no. 472).
+- 2017-09-07 — House amendment agreed to: On agreeing to the Westerman amendment (A081) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Young (AK) amendment (A079) Agreed to by recorded vote: 215 - 196 (Roll no. 478).
+- 2017-09-07 — House amendment agreed to: On agreeing to the Young (AK) amendment (A080) Agreed to by voice vote.
+- 2017-09-07 — House amendment agreed to: On agreeing to the Zeldin amendment (A046) Agreed to by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Beyer amendment (A073) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Beyer amendment (A074) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Biggs amendment (A070) Failed by recorded vote: 184 - 228 (Roll no. 474).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Buck amendment (A051) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A037) Failed by recorded vote: 205 - 207 (Roll no. 459).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A039) Failed by recorded vote: 203 - 211 (Roll no. 461).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A044) Failed by recorded vote: 183 - 230 (Roll no. 465).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Correa amendment (A040) Failed by recorded vote: 182 - 229 (Roll no. 462).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Ellison amendment (A075) Failed by recorded vote: 194 - 218 (Roll no. 476).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Engel amendment (A052) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Grijalva amendment (A061) Failed by recorded vote: 191 - 221 (Roll no. 471).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Grijalva amendment (A067) Failed by recorded vote: 190 - 218 (Roll no. 473).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Grothman amendment (A056) Failed by recorded vote: 105 - 307 (Roll no. 469).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Grothman amendment (A091) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Hastings amendment (A054) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Hastings amendment (A055) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Jayapal amendment (A045) Failed by recorded vote: 180 - 230 (Roll no. 466).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the King (IA) amendment (A043) as modified Failed by recorded vote: 173 - 240 (Roll no. 464).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Lowenthal amendment (A076) Failed by recorded vote: 189 - 220 (Roll no. 477).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the McEachin amendment (A090) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Paulsen amendment (A057) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Price (NC) amendment (A068) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Rothfus amendment (A049) Failed by recorded vote: 163 - 248 (Roll no. 467).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Roybal-Allard amendment (A038) Failed by recorded vote: 170 - 241 (Roll no. 460).
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Sanford amendment (A083) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Torres amendment (A042) Failed by voice vote.
+- 2017-09-07 — House amendment not agreed to: On agreeing to the Yoho amendment (A058) Failed by recorded vote: 199 - 212 (Roll no. 470).
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered
+- 2017-09-07 — House amendment offered/reported by : Amendment (A038) offered by Ms. Roybal-Allard.(consideration: CR H7077-7078; ; text: CR H7077)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A039) offered by Mr. Castro (TX).(consideration: CR H7078-7080; text: CR H7078)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A040) offered by Mr. Correa.(consideration: CR H7080; text: CR H7080)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A041) offered by Mr. Hunter.(consideration: CR H7080-7081; text: CR H7080)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A042) offered by Mrs. Torres.(consideration: CR H7081-7082; text: CR H7082)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A043) offered by Mr. King (IA).(consideration: CR H7082-7083; text: CR H7082)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A044) offered by Mr. Castro (TX).(consideration: CR H7083-7084; text: CR H7083)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A045) offered by Ms. Jayapal.(consideration: CR H7084-7085; text: CR H7084)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A046) offered by Mr. Zeldin.(consideration: CR H7085-7086; text: CR H7085)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A047) offered by Mr. King (IA).(consideration: CR H7086-7087; text: CR H7086)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A049) offered by Mr. Rothfus.(consideration: CR H7121-7123; text: CR H7121)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A050) offered by Mr. Scott, Austin.(consideration: CR H7123-7125; text: CR H7123)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A051) offered by Mr. Buck.(consideration: CR H7125-7128; text: CR H7125)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A052) offered by Mr. Engel.(consideration: CR H7128-7129; text: H7128)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A053) offered by Ms. Frankel (FL).(consideration: CR H7129-7130; text: CR H7129)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A054) offered by Mr. Hastings.(consideration: CR H7130; text: CR H7130)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A055) offered by Mr. Hastings.(consideration: CR H7130-7131; text: H7131)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A056) offered by Mr. Grothman.(consideration: CR H7131; text: CR H7131)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A057) offered by Mr. Paulsen.(consideration: CR H7132; text: CR H7132)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A058) offered by Mr. Yoho.(consideration: CR H7132-7134; text: CR H7132)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A059) offered by Mr. Gaetz.(consideration: CR H7134; text: CR H7134)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A061) offered by Mr. Grijalva.(consideration: CR H7137-7138; text: CR H7137)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A062) offered by Mr. Bacon.(consideration: CR H7138-7139; text: CR H7138)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A064) offered by Ms. McSally.(consideration: CR H7140-7141; text: CR H7140)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A066) offered by Mr. Thompson (PA).(consideration: CR H7142-7143, H7164-7165; text: CR H7142)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A067) offered by Mr. Grijalva.(consideration: CR H7143-7144, H7165-7166; text: CR H7143)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A068) offered by Mr. Price (NC).(consideration: CR H7144-7145; text: CR H7144)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A069) offered by Mr. Langevin.(consideration: CR H7146; text: CR H7146)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A070) offered by Mr. Biggs.(consideration: CR H7147, H7166; text: CR H7147)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A071) offered by Mr. Katko.(consideration: CR H7147-7148; text: CR H7148)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A072) offered by Mr. Lujan, Ben Ray.(consideration: CR H7148-7149, H7166-7167; text: CR H7148)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A073) offered by Mr. Beyer.(consideration: CR H7149-7150; text: CR H7149)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A074) offered by Mr. Beyer.(consideration: CR H7150-7152; text: CR H7150)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A075) offered by Mr. Ellison.(consideration: CR H7152-7153, H7167-7168; text: CR H7152)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A076) offered by Mr. Lowenthal.(consideration: CR H7153, H7168; text: CR H7153)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A077) offered by Mr. Long.(consideration: CR H7153-7154; text: CR H7153)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A078) offered by Mr. Buck.(consideration: CR H7154-7155; text: CR H7154)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A079) offered by Mr. Young (AK).(consideration: CR H7155-7156, H7168-7169; text: CR H7155)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A080) offered by Mr. Young (AK).(consideration: CR H7156-3157; text: CR H7156)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A081) offered by Mr. Westerman.(consideration: CR H7157; text: CR H7157)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A082) offered by Mr. Goodlatte.(consideration: CR H7157-7158, H7169-7170; text: CR H7157)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A083) offered by Mr. Sanford.(consideration: CR H7158-7160; text: CR H7158-7159)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A084) offered by Mrs. Blackburn.(consideration: CR H7170-7171; text: CR H7170)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A085) offered by Mr. Palmer.(consideration: CR H7171-7172; text: CR H7171)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A086) offered by Mr. Carbajal.(consideration: CR H7172-7173; text: CR H7172)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A087) offered by Mr. Perry.(consideration: CR H7173; text: CR H7173)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A088) offered by Mr. Pearce.(consideration: CR H7174-7175; text: CR H7174)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A089) offered by Mr. Pearce.(consideration: CR H7175-7176; text: CR H7175)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A090) offered by Mr. McEachin.(consideration: CR H7176-7177; text: CR H7176)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A091) offered by Mr. Grothman.(consideration: CR H7177-7178; text: CR H7177)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A092) offered by Mr. Lamborn.(consideration: CR H7178-7179; text: CR H7178)
+- 2017-09-07 — House amendment offered/reported by : Amendment (A093) offered by Mr. Lamborn.(consideration: CR H7179-7180; text: CR H7179)
+- 2017-09-07 — House amendment offered/reported by : Amendments en bloc (A048) offered by Mr. Rogers (KY).(consideration: CR H7120-7121; text: CR H7120-7121)
+- 2017-09-07 — House amendment offered/reported by : Amendments en bloc (A060) offered by Mr. Calvert.(consideration: CR H7135-7137; text: CR H7135)
+- 2017-09-07 — House amendment offered/reported by : Amendments en bloc (A063) offered by Mr. Calvert.(consideration: CR H7139-7140; text: CR H7139)
+- 2017-09-07 — House amendment offered/reported by: Amendment (A065) offered by Mr. Griffith.(consideration: CR H7141-7142; text: CR H7141)
+- 2017-09-07 — King (IA) amendment (A043) modified by unanimous consent. After the words "this Act" insert "or Divisions A, C, D, F, or G". (text as modified: CR H7082)
+- 2017-09-07 — King (IA) amendment (A047) modified by unanimous consent. After the words "this Act" insert "or Divisions A, C, D, or F". (text as modified: CR H7086)
+- 2017-09-07 — Mr. Calvert moved that the Committee rise.
+- 2017-09-07 — Mr. Calvert moved that the committee rise.
+- 2017-09-07 — Mr. Calvert moved that the committee rise.
+- 2017-09-07 — Mr. Calvert moved that the committee rise.
+- 2017-09-07 — Mr. Carter (TX) asked unanimous consent that amendment numbered 79 printed in Part B of House Report 115-295, which was adopted as part of En Bloc amendment No. 3, be modified. Agreed to without objection.
+- 2017-09-07 — Mr. Carter (TX) moved that the Committee rise.
+- 2017-09-07 — On agreeing to the Beyer amendment (A073) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Beyer amendment (A074) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Biggs amendment (A070) Failed by recorded vote: 184 - 228 (Roll no. 474).
+- 2017-09-07 — On agreeing to the Buck amendment (A051) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Buck amendment (A078) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Calvert amendments (A060) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Calvert amendments (A063) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Castro (TX) amendment (A037) Failed by recorded vote: 205 - 207 (Roll no. 459).
+- 2017-09-07 — On agreeing to the Castro (TX) amendment (A039) Failed by recorded vote: 203 - 211 (Roll no. 461).
+- 2017-09-07 — On agreeing to the Castro (TX) amendment (A044) Failed by recorded vote: 183 - 230 (Roll no. 465).
+- 2017-09-07 — On agreeing to the Correa amendment (A040) Failed by recorded vote: 182 - 229 (Roll no. 462).
+- 2017-09-07 — On agreeing to the Ellison amendment (A075) Failed by recorded vote: 194 - 218 (Roll no. 476).
+- 2017-09-07 — On agreeing to the Engel amendment (A052) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Gaetz amendment (A059) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Goodlatte amendment (A082) Agreed to by recorded vote: 214 - 197 (Roll no. 479).
+- 2017-09-07 — On agreeing to the Griffith amendment (A065) as modified Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Grijalva amendment (A061) Failed by recorded vote: 191 - 221 (Roll no. 471).
+- 2017-09-07 — On agreeing to the Grijalva amendment (A067) Failed by recorded vote: 190 - 218 (Roll no. 473).
+- 2017-09-07 — On agreeing to the Grothman amendment (A056) Failed by recorded vote: 105 - 307 (Roll no. 469).
+- 2017-09-07 — On agreeing to the Grothman amendment (A091) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Hastings amendment (A054) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Hastings amendment (A055) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Hunter amendment (A041) Agreed to by recorded vote: 245 - 168 (Roll no. 463).
+- 2017-09-07 — On agreeing to the Jayapal amendment (A045) Failed by recorded vote: 180 - 230 (Roll no. 466).
+- 2017-09-07 — On agreeing to the Katko amendment (A071) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the King (IA) amendment (A043) as modified Failed by recorded vote: 173 - 240 (Roll no. 464).
+- 2017-09-07 — On agreeing to the King (IA) amendment (A047) as modified Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Lamborn amendment (A092) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Lamborn amendment (A093) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Long amendment (A077) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Lowenthal amendment (A076) Failed by recorded vote: 189 - 220 (Roll no. 477).
+- 2017-09-07 — On agreeing to the Lujan, Ben Ray amendment (A072) Agreed to by recorded vote: 220 - 191 (Roll no. 475).
+- 2017-09-07 — On agreeing to the McEachin amendment (A090) Failed by voice vote.
+- 2017-09-07 — On agreeing to the McSally amendment (A064) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Paulsen amendment (A057) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Pearce amendment (A088) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Perry amendment (A087) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Price (NC) amendment (A068) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Rogers (KY) amendments (A048) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Rothfus amendment (A049) Failed by recorded vote: 163 - 248 (Roll no. 467).
+- 2017-09-07 — On agreeing to the Roybal-Allard amendment (A038) Failed by recorded vote: 170 - 241 (Roll no. 460).
+- 2017-09-07 — On agreeing to the Sanford amendment (A083) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Scott, Austin amendment (A050) Agreed to by recorded vote: 217 - 193 (Roll no. 468).
+- 2017-09-07 — On agreeing to the Thompson (PA) amendment (A066) Agreed to by recorded vote: 207 - 205 (Roll no. 472).
+- 2017-09-07 — On agreeing to the Torres amendment (A042) Failed by voice vote.
+- 2017-09-07 — On agreeing to the Westerman amendment (A081) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Yoho amendment (A058) Failed by recorded vote: 199 - 212 (Roll no. 470).
+- 2017-09-07 — On agreeing to the Young (AK) amendment (A079) Agreed to by recorded vote: 215 - 196 (Roll no. 478).
+- 2017-09-07 — On agreeing to the Young (AK) amendment (A080) Agreed to by voice vote.
+- 2017-09-07 — On agreeing to the Zeldin amendment (A046) Agreed to by voice vote.
+- 2017-09-07 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-07 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-07 — On motion that the committee now rise Agreed to by voice vote.
+- 2017-09-07 — On motion that the committee rise Agreed to by voice vote.
+- 2017-09-07 — On motion that the committee rise Agreed to by voice vote.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Austin Scott amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ben Ray Lujan(NM) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ben Ray Lujan (NM) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carbajal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Castro (TX) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Castro demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Castro demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Correa amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Correa demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Scott(VA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Hastings demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Hastings demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowenthal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Lowenthal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Calvert demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roybal-Allard amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Yoho amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Yoho demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young(AK) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Roll call votes on amendments in House
+- 2017-09-07 — Rule H. Res. 504 passed House.
+- 2017-09-07 — Subsequently, the Committee resume it's sitting.
+- 2017-09-07 — Subsequently, the Committee resume it's sitting.
+- 2017-09-07 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2017-09-07 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2017-09-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H. Res. 504.
+- 2017-09-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H.Res. 500.
+- 2017-09-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to the provisions of H.Res. 504.
+- 2017-09-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-07 — VACATED PROCEEDINGS - Mr. Hastings asked unanimous consent to vacate the proceedings on his amendment numbered 97 printed Part B of House Report 115-295, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2017-09-07 — VACATED PROCEEDINGS - Mr. Hastings asked unanimous consent to vacate the proceedings on his amendment numbered 98 printed Part B of House Report 115-295, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2017-09-07 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Young (AK) asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The Committee of the Whole resumed with debate on the Young (AK) amendment.
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — 
+- 2017-09-08 — Amendment (A094) offered by Mr. Knight. (consideration: CR H7201-7202; text: CR H7202)
+- 2017-09-08 — Amendment (A095) offered by Mr. Smith (MO). (consideration: CR H7202-7203; text: CR H7202)
+- 2017-09-08 — Amendment (A096) offered by Mr. Mullin. (consideration: CR H7203-7204; text: CR H7203)
+- 2017-09-08 — Amendment (A097) offered by Mr. Mullin. (consideration: CR H7204-7205; text: CR H7204)
+- 2017-09-08 — Amendment (A098) offered by Mr. Polis. (consideration: CR H7205-7206; text: CR H7205)
+- 2017-09-08 — Amendment (A099) offered by Mr. Polis. (consideration: CR H7206-7207; text: CR H7206)
+- 2017-09-08 — Amendment (A100) offered by Mr. Norman. (consideration: CR H7207-7208; text: CR H7207)
+- 2017-09-08 — Amendment agreed to Committee of the Whole
+- 2017-09-08 — Amendment agreed to Committee of the Whole
+- 2017-09-08 — Amendment failed in Committee of the Whole
+- 2017-09-08 — Amendment failed in Committee of the Whole
+- 2017-09-08 — Amendment failed in Committee of the Whole
+- 2017-09-08 — By unanimous consent, the Knight amendment was withdrawn. (consideration: CR H7202)
+- 2017-09-08 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-08 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-08 — Considered as unfinished business. (consideration: CR H7197-7200)
+- 2017-09-08 — Considered as unfinished business. (consideration: CR H7201-7208)
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Knight amendment No. 69.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 74.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 77.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 75.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 76.
+- 2017-09-08 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 72.
+- 2017-09-08 — House amendment agreed to: On agreeing to the Pearce amendment (A089) Agreed to by recorded vote: 216 - 186 (Roll no. 484).
+- 2017-09-08 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A095) Agreed to by voice vote.
+- 2017-09-08 — House amendment not agreed to: On agreeing to the Blackburn amendment (A084) Failed by recorded vote: 156 - 248 (Roll no. 481).
+- 2017-09-08 — House amendment not agreed to: On agreeing to the Carbajal amendment (A086) Failed by recorded vote: 177 - 230 (Roll no. 483).
+- 2017-09-08 — House amendment not agreed to: On agreeing to the Palmer amendment (A085) Failed by recorded vote: 178 - 227 (Roll no. 482).
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered
+- 2017-09-08 — House amendment offered/reported by : Amendment (A094) offered by Mr. Knight.(consideration: CR H7201-7202; text: CR H7202)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A095) offered by Mr. Smith (MO).(consideration: CR H7202-7203; text: CR H7202)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A096) offered by Mr. Mullin.(consideration: CR H7203-7204; text: CR H7203)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A097) offered by Mr. Mullin.(consideration: CR H7204-7205; text: CR H7204)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A098) offered by Mr. Polis.(consideration: CR H7205-7206; text: CR H7205)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A099) offered by Mr. Polis.(consideration: CR H7206-7207; text: CR H7206)
+- 2017-09-08 — House amendment offered/reported by : Amendment (A100) offered by Mr. Norman.(consideration: CR H7207-7208; text: CR H7207)
+- 2017-09-08 — Mr. Calvert moved that the Committee now rise.
+- 2017-09-08 — Mr. Calvert moved that the Committee rise.
+- 2017-09-08 — On agreeing to the Blackburn amendment (A084) Failed by recorded vote: 156 - 248 (Roll no. 481).
+- 2017-09-08 — On agreeing to the Carbajal amendment (A086) Failed by recorded vote: 177 - 230 (Roll no. 483).
+- 2017-09-08 — On agreeing to the Palmer amendment (A085) Failed by recorded vote: 178 - 227 (Roll no. 482).
+- 2017-09-08 — On agreeing to the Pearce amendment (A089) Agreed to by recorded vote: 216 - 186 (Roll no. 484).
+- 2017-09-08 — On agreeing to the Smith (MO) amendment (A095) Agreed to by voice vote.
+- 2017-09-08 — On motion that the Committee now rise Agreed to by voice vote.
+- 2017-09-08 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Norman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-08 — Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 73.
+- 2017-09-08 — Roll call votes on amendments in House
+- 2017-09-08 — Roll call votes on amendments in House
+- 2017-09-08 — Roll call votes on amendments in House
+- 2017-09-08 — Roll call votes on amendments in House
+- 2017-09-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — 
+- 2017-09-12 — Amendment (A102) offered by Mrs. Torres. (consideration: CR H7256-7257; text: CR H7256)
+- 2017-09-12 — Amendment (A103) offered by Mr. McKinley. (consideration: CR H7257; text: CR H7257)
+- 2017-09-12 — Amendment (A104) offered by Ms. Rosen. (consideration: CR H7257-7258; text: CR H7257)
+- 2017-09-12 — Amendment (A105) offered by Mr. Cohen. (consideration: CR H7258-7259; text: CR H7258)
+- 2017-09-12 — Amendment (A106) offered by Mr. Grothman. (consideration: CR H7259-7260; text: CR H7259)
+- 2017-09-12 — Amendment (A107) offered by Mr. Grothman. (consideration: CR H7260-7261; text: CR H7260)
+- 2017-09-12 — Amendment (A108) offered by Mr. Cohen. (consideration: CR H7261-7262; text: CR H7261)
+- 2017-09-12 — Amendment (A109) offered by Mr. Pascrell. (consideration: CR H7262-7264; text: CR H7262)
+- 2017-09-12 — Amendment (A110) offered by Mr. Smith (TX). (consideration: CR H7264; text: CR H7264)
+- 2017-09-12 — Amendment (A111) offered by Mr. Scott (VA). (consideration: CR H7264-7265; text: CR H7264)
+- 2017-09-12 — Amendment (A112) offered by Mr. Zeldin. (consideration: CR H7265-7266; text: CR H7265)
+- 2017-09-12 — Amendment (A113) offered by Ms. Norton. (consideration: CR H7266-7267; text: CR H7266)
+- 2017-09-12 — Amendment (A114) offered by Mr. Latta. (consideration: CR H7267-7268; text: CR H7267)
+- 2017-09-12 — Amendment (A115) offered by Mr. Gaetz. (consideration: CR H7268; text: CR H7268)
+- 2017-09-12 — Amendment (A116) offered by Mr. Serrano. (consideration: CR H7268-7269; text: CR H7268)
+- 2017-09-12 — Amendment (A117) offered by Mr. Flores. (consideration: CR H7269-7270; text: CR H7269)
+- 2017-09-12 — Amendment (A118) offered by Mr. Buck. (consideration: CR H7270-7272; text: CR H7270)
+- 2017-09-12 — Amendment (A119) offered by Mr. Amash. (consideration: CR H7272-7273; text: CR H7272)
+- 2017-09-12 — Amendment (A120) offered by Mr. Roskam. (consideration: CR H7273; text: CR H7273)
+- 2017-09-12 — Amendment (A121) offered by Mr. Walberg. (consideration: CR H7273-7274; text: CR H7273)
+- 2017-09-12 — Amendment (A122) offered by Mr. Raskin. (consideration: CR H7274-7275; text: CR H7274)
+- 2017-09-12 — Amendment (A124) offered by Mr. Kildee. (consideration: CR H7277-7278; text: CR H7277)
+- 2017-09-12 — Amendment (A125) offered by Mr. Mitchell. (consideration: CR H7278-7279; text: CR H7278)
+- 2017-09-12 — Amendment (A126) offered by Mr. Pocan. (consideration: CR H7279-7280; text: CR H7279)
+- 2017-09-12 — Amendment (A127) offered by Mr. Sablan. (consideration: CR H7280-7281; text: CR H7280)
+- 2017-09-12 — Amendment (A128) offered by Ms. Meng. (consideration: CR H7281; text: CR H7281)
+- 2017-09-12 — Amendment (A129) offered by Mr. Foster. (consideration: CR H7281-7282; text: CR H7282)
+- 2017-09-12 — Amendment (A130) offered by Ms. Meng. (consideration: CR H7282-7283; text: CR H7282)
+- 2017-09-12 — Amendment (A131) offered by Ms. Meng. (consideration: CR H7283; text: CR H7283)
+- 2017-09-12 — Amendment (A132) offered by Mr. Kildee. (consideration: CR H7283-7284; text: CR H7283)
+- 2017-09-12 — Amendment (A133) offered by Mr. Flores. (consideration: CR H7284-7285; text: CR H7284)
+- 2017-09-12 — Amendment (A134) offered by Ms. Tenney. (consideration: CR H7285; text: CR H7285)
+- 2017-09-12 — Amendment (A135) offered by Mr. Nolan. (consideration: CR H7285-7286; text: CR H7285-7286)
+- 2017-09-12 — Amendment (A136) offered by Ms. Clark (MA). (consideration: CR H7286; text: CR H7286)
+- 2017-09-12 — Amendment (A137) offered by Mr. Murphy (PA). (consideration: CR H7288-7290; text: CR H7288)
+- 2017-09-12 — Amendment (A138) offered by Mr. Kelly (PA). (consideration: CR H7290-7291; text: CR H7290)
+- 2017-09-12 — Amendment (A139) offered by Ms. Bonamici. (consideration: CR H7291-7292; text: CR H7291)
+- 2017-09-12 — Amendment (A140) offered by Mr. Lujan, Ben Ray. (consideration: CR H7292-7293; text: CR H7292)
+- 2017-09-12 — Amendment (A141) offered by Mrs. Lowey. (consideration: CR H7293-7294; text: CR H7293)
+- 2017-09-12 — Amendment (A142) offered by Mr. Courtney. (consideration: CR H7294-7295; text: CR H7294)
+- 2017-09-12 — Amendment (A143) offered by Mr. Lewis (MN). (consideration: CR H7295-7297; text: CR H7295)
+- 2017-09-12 — Amendment (A144) offered by Mr. Grothman. (consideration: CR H7297-7298; text: CR H7297)
+- 2017-09-12 — Amendment (A145) offered by Mr. Grothman. (consideration: CR H7298-7299; text: CR H7298)
+- 2017-09-12 — Amendment (A146) offered by Mr. Meadows. (consideration: CR H7299-7300; text: CR H7299)
+- 2017-09-12 — Amendment (A147) offered by Mr. Walberg. (consideration: CR H7300-7301; text: CR H7300)
+- 2017-09-12 — Amendment (A148) offered by Mrs. Blackburn. (consideration: CR H7301-7302; text: CR H7301)
+- 2017-09-12 — Amendment (A149) offered by Mr. Murphy (PA). (consideration: CR H7302-7304; text: CR H7302)
+- 2017-09-12 — Amendment (A150) offered by Mr. Murphy (PA). (consideration: CR H7304-7305; text: CR H7304)
+- 2017-09-12 — Amendment (A151) offered by Mr. Murphy (PA). (consideration: CR H7305; text: CR H7305)
+- 2017-09-12 — Amendment (A152) offered by Mr. Murphy (PA). (consideration: CR H7305-7306; text: CR H7306)
+- 2017-09-12 — Amendment (A153) offered by Mr. Burgess. (consideration: CR H7306-7307; text: CR H7306)
+- 2017-09-12 — Amendment (A154) offered by Mr. Scott (VA). (consideration: CR H7307; text: CR H7307)
+- 2017-09-12 — Amendment (A155) offered by Mr. Ellison. (consideration: CR H7307-7309; text: CR H7307)
+- 2017-09-12 — Amendment (A156) offered by Mr. Gibbs. (consideration: CR H7309-7310; text: CR H7309)
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment agreed to Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendment failed in Committee of the Whole
+- 2017-09-12 — Amendments en bloc (A101) offered by Mr. Culberson. (consideration: CR H7254-7256; text: CR H7254)
+- 2017-09-12 — Amendments en bloc (A123) offered by Mr. Cole. (consideration: CR H7275-7277; text: CR H7275)
+- 2017-09-12 — By unanimous consent, the Cohen amendment was withdrawn. (consideration: CR H7259)
+- 2017-09-12 — By unanimous consent, the Cohen amendment was withdrawn. (consideration: CR H7262)
+- 2017-09-12 — By unanimous consent, the Murphy (PA) amendment was withdrawn. (consideration: CR H7305)
+- 2017-09-12 — By unanimous consent, the Tenney amendment was withdrawn. (consideration: CR H7285)
+- 2017-09-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-12 — Considered as unfinished business. (consideration: CR H7253-7277)
+- 2017-09-12 — Considered as unfinished business. (consideration: CR H7288-7291)
+- 2017-09-12 — Considered as unfinished business. (consideration: CR H7291-7310)
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan (NM) amendment No. 160.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 174.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment No. 158.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 182.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment No. 101.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment No. 108.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 164.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 186.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment No. 124.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Gaetz amendment No. 122.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Gibbs amendment No. 187.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 105.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 106.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 168.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 170.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (PA) amendment No. 156.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Latta amendment No. 118.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis (MN) amendment No. 167.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lowey amendment No. 161.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 91.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Meadows amendment No. 172.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 175.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 176.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 178.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 179.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment No. 117.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pascrell amendment No. 109.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Rosen amendment No. 94.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment No. 113.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment No. 184.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Serrano amendment No. 123.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment No. 112.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Torres amendment No. 87.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment No. 173.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 115.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Culberson En Bloc amendment No. 3.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Amash amendment No. 126.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 125.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Clark (MA) amendment No. 154.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment No. 149.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 139.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 131.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 145.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 138.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 141.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 142.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 133.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 155.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan amendment No. 152.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 134.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Raskin amendment No. 130.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 127.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Sablan amendment No. 136.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 150.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment No. 129.
+- 2017-09-12 — DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Cole En Bloc amendment No. 4.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Amash amendment (A119) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Burgess amendment (A153) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Cole amendments (A123) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Culberson amendments Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Foster amendment (A129) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Gaetz amendment (A115) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Grothman amendment (A107) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Kelly (PA) amendment (A138) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Latta amendment (A114) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the McKinley amendment (A103) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Murphy (PA) amendment (A152) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Nolan amendment (A135) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Pascrell amendment (A109) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Raskin amendment (A122) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Roskam amendment (A120) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Scott (VA) amendment (A154) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Smith (TX) amendment (A110) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Walberg amendment (A121) Agreed to by voice vote.
+- 2017-09-12 — House amendment agreed to: On agreeing to the Zeldin amendment (A112) Agreed to by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Bonamici amendment (A139) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Meng amendment (A130) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Meng amendment (A131) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Mitchell amendment (A125) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Rosen amendment (A104) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Sablan amendment (A127) Failed by voice vote.
+- 2017-09-12 — House amendment not agreed to: On agreeing to the Serrano amendment (A116) Failed by voice vote.
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered
+- 2017-09-12 — House amendment offered/reported by : Amendment (A102) offered by Mrs. Torres.(consideration: CR H7256-7257; text: CR H7256)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A103) offered by Mr. McKinley.(consideration: CR H7257; text: CR H7257)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A104) offered by Ms. Rosen.(consideration: CR H7257-7258; text: CR H7257)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A105) offered by Mr. Cohen.(consideration: CR H7258-7259; text: CR H7258)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A106) offered by Mr. Grothman.(consideration: CR H7259-7260; text: CR H7259)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A107) offered by Mr. Grothman.(consideration: CR H7260-7261; text: CR H7260)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A108) offered by Mr. Cohen.(consideration: CR H7261-7262; text: CR H7261)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A109) offered by Mr. Pascrell.(consideration: CR H7262-7264; text: CR H7262)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A110) offered by Mr. Smith (TX).(consideration: CR H7264; text: CR H7264)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A111) offered by Mr. Scott (VA).(consideration: CR H7264-7265; text: CR H7264)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A112) offered by Mr. Zeldin.(consideration: CR H7265-7266; text: CR H7265)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A113) offered by Ms. Norton.(consideration: CR H7266-7267; text: CR H7266)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A114) offered by Mr. Latta.(consideration: CR H7267-7268; text: CR H7267)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A115) offered by Mr. Gaetz.(consideration: CR H7268; text: CR H7268)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A116) offered by Mr. Serrano.(consideration: CR H7268-7269; text: CR H7268)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A117) offered by Mr. Flores.(consideration: CR H7269-7270; text: CR H7269)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A118) offered by Mr. Buck.(consideration: CR H7270-7272; text: CR H7270)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A119) offered by Mr. Amash.(consideration: CR H7272-7273; text: CR H7272)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A120) offered by Mr. Roskam.(consideration: CR H7273; text: CR H7273)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A121) offered by Mr. Walberg.(consideration: CR H7273-7274; text: CR H7273)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A122) offered by Mr. Raskin.(consideration: CR H7274-7275; text: CR H7274)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A124) offered by Mr. Kildee.(consideration: CR H7277-7278; text: CR H7277)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A125) offered by Mr. Mitchell.(consideration: CR H7278-7279; text: CR H7278)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A126) offered by Mr. Pocan.(consideration: CR H7279-7280; text: CR H7279)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A127) offered by Mr. Sablan.(consideration: CR H7280-7281; text: CR H7280)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A128) offered by Ms. Meng.(consideration: CR H7281; text: CR H7281)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A129) offered by Mr. Foster.(consideration: CR H7281-7282; text: CR H7282)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A130) offered by Ms. Meng.(consideration: CR H7282-7283; text: CR H7282)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A131) offered by Ms. Meng.(consideration: CR H7283; text: CR H7283)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A132) offered by Mr. Kildee.(consideration: CR H7283-7284; text: CR H7283)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A133) offered by Mr. Flores.(consideration: CR H7284-7285; text: CR H7284)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A134) offered by Ms. Tenney.(consideration: CR H7285; text: CR H7285)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A135) offered by Mr. Nolan.(consideration: CR H7285-7286; text: CR H7285-7286)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A136) offered by Ms. Clark (MA).(consideration: CR H7286; text: CR H7286)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A137) offered by Mr. Murphy (PA).(consideration: CR H7288-7290; text: CR H7288)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A138) offered by Mr. Kelly (PA).(consideration: CR H7290-7291; text: CR H7290)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A139) offered by Ms. Bonamici.(consideration: CR H7291-7292; text: CR H7291)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A140) offered by Mr. Lujan, Ben Ray.(consideration: CR H7292-7293; text: CR H7292)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A141) offered by Mrs. Lowey.(consideration: CR H7293-7294; text: CR H7293)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A142) offered by Mr. Courtney.(consideration: CR H7294-7295; text: CR H7294)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A143) offered by Mr. Lewis (MN).(consideration: CR H7295-7297; text: CR H7295)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A144) offered by Mr. Grothman.(consideration: CR H7297-7298; text: CR H7297)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A145) offered by Mr. Grothman.(consideration: CR H7298-7299; text: CR H7298)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A146) offered by Mr. Meadows.(consideration: CR H7299-7300; text: CR H7299)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A147) offered by Mr. Walberg.(consideration: CR H7300-7301; text: CR H7300)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A148) offered by Mrs. Blackburn.(consideration: CR H7301-7302; text: CR H7301)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A149) offered by Mr. Murphy (PA).(consideration: CR H7302-7304; text: CR H7302)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A150) offered by Mr. Murphy (PA).(consideration: CR H7304-7305; text: CR H7304)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A151) offered by Mr. Murphy (PA).(consideration: CR H7305; text: CR H7305)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A152) offered by Mr. Murphy (PA).(consideration: CR H7305-7306; text: CR H7306)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A153) offered by Mr. Burgess.(consideration: CR H7306-7307; text: CR H7306)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A154) offered by Mr. Scott (VA).(consideration: CR H7307; text: CR H7307)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A155) offered by Mr. Ellison.(consideration: CR H7307-7309; text: CR H7307)
+- 2017-09-12 — House amendment offered/reported by : Amendment (A156) offered by Mr. Gibbs.(consideration: CR H7309-7310; text: CR H7309)
+- 2017-09-12 — House amendment offered/reported by : Amendments en bloc (A101) offered by Mr. Culberson.(consideration: CR H7254-7256; text: CR H7254)
+- 2017-09-12 — House amendment offered/reported by : Amendments en bloc (A123) offered by Mr. Cole.(consideration: CR H7275-7277; text: CR H7275)
+- 2017-09-12 — Mr. Cole moved that the Committee now rise.
+- 2017-09-12 — Mr. Cole moved that the Committee rise.
+- 2017-09-12 — Mr. Cole moved that the committee rise.
+- 2017-09-12 — On agreeing to the Amash amendment (A119) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Bonamici amendment (A139) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Burgess amendment (A153) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Cole amendments (A123) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Culberson amendments Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Foster amendment (A129) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Gaetz amendment (A115) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Grothman amendment (A107) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Kelly (PA) amendment (A138) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Latta amendment (A114) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the McKinley amendment (A103) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Meng amendment (A130) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Meng amendment (A131) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Mitchell amendment (A125) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Murphy (PA) amendment (A152) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Nolan amendment (A135) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Pascrell amendment (A109) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Raskin amendment (A122) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Rosen amendment (A104) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Roskam amendment (A120) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Sablan amendment (A127) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Scott (VA) amendment (A154) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Serrano amendment (A116) Failed by voice vote.
+- 2017-09-12 — On agreeing to the Smith (TX) amendment (A110) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Walberg amendment (A121) Agreed to by voice vote.
+- 2017-09-12 — On agreeing to the Zeldin amendment (A112) Agreed to by voice vote.
+- 2017-09-12 — On motion that the Committee now rise Agreed to by voice vote.
+- 2017-09-12 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-12 — On motion that the committee rise Agreed to by voice vote.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ben Ray Lujan (NM) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ben Ray Lujan (NM) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Clark (MA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clark (MA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Clark (MA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Courtney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Courtney demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flores amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Culberson demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flores amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Flores demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gibbs amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Clark (MA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Kildee demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Kildee demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lewis (MN) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Lewis (MN) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowey amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meng amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Meng demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cole demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cole demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Murphy (PA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norton amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Norton demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pocan amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Pocan demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Scott (VA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Torres demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walberg amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Clark (MA)demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-12 — Subsequently, the Committee resume its sitting. (consideration: CR H7277-7287)
+- 2017-09-12 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2017-09-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — 
+- 2017-09-13 — Amendment (A158) offered by Mr. Roskam. (consideration: CR H7340-7341; text: CR H7340)
+- 2017-09-13 — Amendment (A159) offered by Mr. Roskam. (consideration: CR H7341-7342; text: CR H7341)
+- 2017-09-13 — Amendment (A160) offered by Mr. Palmer. (consideration: CR H7342-7344; text: CR H7342)
+- 2017-09-13 — Amendment (A161) offered by Mr. Gohmert. (consideration: CR H7344; text: CR H7344)
+- 2017-09-13 — Amendment (A162) offered by Ms. Norton. (consideration: CR H7345; text: CR H7345)
+- 2017-09-13 — Amendment (A163) offered by Mr. Ellison. (consideration: CR H7345-7347; text: CR H7345)
+- 2017-09-13 — Amendment (A164) offered by Mr. Ellison. (consideration: CR H7347-7349; text: CR H7347)
+- 2017-09-13 — Amendment (A165) offered by Mr. Ellison. (consideration: CR H7349-7350; text: CR H7349)
+- 2017-09-13 — Amendment (A166) offered by Mr. Mitchell. (consideration: CR H7350-7351; text: CR H7350)
+- 2017-09-13 — Amendment (A167) offered by Mr. Jenkins (WV). (consideration: CR H7351-7352; text: CR H7351)
+- 2017-09-13 — Amendment (A168) offered by Ms. Jackson Lee. (consideration: CR H7352-7353; text: CR H7352)
+- 2017-09-13 — Amendment (A169) offered by Mr. Huizenga. (consideration: CR H7353-7356; text: CR H7353)
+- 2017-09-13 — Amendment (A170) offered by Mr. Heck. (consideration: CR H7356-7358; text: CR H7357)
+- 2017-09-13 — Amendment (A171) offered by Mr. Amodei. (consideration: CR H7358-7359; text: CR H7358)
+- 2017-09-13 — Amendment (A172) offered by Mr. Kildee. (consideration: CR H7359-7360; text: CR H7359)
+- 2017-09-13 — Amendment (A173) offered by Ms. Jackson Lee. (consideration: CR H7360-7362; text: CR H7360)
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment agreed to Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendment failed in Committee of the Whole
+- 2017-09-13 — Amendments en bloc (A157) offered by Mr. Graves (GA). (consideration: CR H7338-7340; text: CR H7338)
+- 2017-09-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.
+- 2017-09-13 — Considered as unfinished business. (consideration: CR H7334-7378)
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Amodei amendment No. 221.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 199.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 200.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 201.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment No. 195.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Heck amendment No. 211.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 207.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 206.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 223.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Jenkins (WA) amendment No. 205.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 222.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 204.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment No. 196.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 192.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 190.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 191.
+- 2017-09-13 — DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Graves (GA) En Bloc amendment No. 5.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Amodei amendment (A171) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Buck amendment (A118) Agreed to by recorded vote: 226 - 191 (Roll no. 498).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Clark (MA) amendment (A136) Agreed to by recorded vote: 225 - 192 (Roll no. 503).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Flores amendment (A117) Agreed to by recorded vote: 216 - 199 (Roll no. 497).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Gibbs amendment (A156) Agreed to by recorded vote: 215 - 201 (Roll No. 515).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Graves (GA) amendments (A157) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Jenkins (WV) amendment (A167) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Kildee amendment (A124) Agreed to by recorded vote: 247 - 170 (Roll no. 499).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Kildee amendment (A132) Agreed to by recorded vote: 243 - 175 (Roll no. 502).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Lowey amendment (A141) Agreed to by recorded vote: 228 - 188 (Roll no. 506).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Lujan, Ben Ray amendment (A140) Agreed to by recorded vote: 213 - 205 (Roll no. 505).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Meng amendment (A128) Agreed to by recorded vote: 220 - 198 (Roll no. 501).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Mullin amendment (A096) Agreed to by recorded vote: 218 - 195 (Roll no. 488).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Mullin amendment (A097) Agreed to by recorded vote: 225 - 186 (Roll no. 489).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Murphy (PA) amendment (A149) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Murphy (PA) amendment (A150) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Roskam amendment (A158) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Roskam amendment (A159) Agreed to by voice vote.
+- 2017-09-13 — House amendment agreed to: On agreeing to the Torres amendment (A102) Agreed to by recorded vote: 279 - 137 (Roll no. 493).
+- 2017-09-13 — House amendment agreed to: On agreeing to the Walberg amendment (A147) Agreed to by recorded vote: 221 - 196 (Roll no. 512).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Blackburn amendment (A148) Failed by recorded vote: 156 - 260 (Roll no. 513).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Courtney amendment (A142) Failed by recorded vote: 204 - 212 (Roll no. 507).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Ellison amendment (A155) Failed by recorded vote: 191 - 226 (Roll no. 514).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Flores amendment (A133) Failed by voice vote.
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Grothman amendment (A106) Failed by recorded vote: 98 - 313 (Roll no. 494).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Grothman amendment (A144) Failed by recorded vote: 131 - 285 (Roll no. 509).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Grothman amendment (A145) Failed by recorded vote: 175 - 241 (Roll no. 510).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Heck amendment (A170) Failed by voice vote.
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A168) Failed by voice vote.
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Kildee amendment (A172) Failed by voice vote.
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Lewis (MN) amendment (A143) Failed by recorded vote: 153 - 263, 1 Present (Roll no. 508).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Meadows amendment (A146) Failed by recorded vote: 178 - 238, 1 Present (Roll no. 511).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Murphy (PA) amendment (A137) Failed by recorded vote: 198 - 219 (Roll no. 504).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Norman amendment (A100) Failed by recorded vote: 151 - 260 (Roll no. 492).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Norton amendment (A113) Failed by recorded vote: 189 - 225 (Roll no. 496).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Pocan amendment (A126) Failed by recorded vote: 199 - 219 (Roll no. 500).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Polis amendment (A098) Failed by recorded vote: 201 - 212 (Roll no. 490).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Polis amendment (A099) Failed by recorded vote: 198 - 212 (Roll no. 491).
+- 2017-09-13 — House amendment not agreed to: On agreeing to the Scott (VA) amendment (A111) Failed by recorded vote: 192 - 223 (Roll no. 495).
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered
+- 2017-09-13 — House amendment offered/reported by : Amendment (A158) offered by Mr. Roskam.(consideration: CR H7340-7341; text: CR H7340)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A159) offered by Mr. Roskam.(consideration: CR H7341-7342; text: CR H7341)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A160) offered by Mr. Palmer.(consideration: CR H7342-7344; text: CR H7342)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A161) offered by Mr. Gohmert.(consideration: CR H7344; text: CR H7344)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A162) offered by Ms. Norton.(consideration: CR H7345; text: CR H7345)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A163) offered by Mr. Ellison.(consideration: CR H7345-7347; text: CR H7345)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A164) offered by Mr. Ellison.(consideration: CR H7347-7349; text: CR H7347)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A165) offered by Mr. Ellison.(consideration: CR H7349-7350; text: CR H7349)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A166) offered by Mr. Mitchell.(consideration: CR H7350-7351; text: CR H7350)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A167) offered by Mr. Jenkins (WV).(consideration: CR H7351-7352; text: CR H7351)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A168) offered by Ms. Jackson Lee.(consideration: CR H7352-7353; text: CR H7352)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A169) offered by Mr. Huizenga.(consideration: CR H7353-7356; text: CR H7353)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A170) offered by Mr. Heck.(consideration: CR H7356-7358; text: CR H7357)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A171) offered by Mr. Amodei.(consideration: CR H7358-7359; text: CR H7358)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A172) offered by Mr. Kildee.(consideration: CR H7359-7360; text: CR H7359)
+- 2017-09-13 — House amendment offered/reported by : Amendment (A173) offered by Ms. Jackson Lee.(consideration: CR H7360-7362; text: CR H7360)
+- 2017-09-13 — House amendment offered/reported by : Amendments en bloc (A157) offered by Mr. Graves (GA).(consideration: CR H7338-7340; text: CR H7338)
+- 2017-09-13 — Mr. Cole moved that the Committee rise.
+- 2017-09-13 — On agreeing to the Amodei amendment (A171) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Blackburn amendment (A148) Failed by recorded vote: 156 - 260 (Roll no. 513).
+- 2017-09-13 — On agreeing to the Buck amendment (A118) Agreed to by recorded vote: 226 - 191 (Roll no. 498).
+- 2017-09-13 — On agreeing to the Clark (MA) amendment (A136) Agreed to by recorded vote: 225 - 192 (Roll no. 503).
+- 2017-09-13 — On agreeing to the Courtney amendment (A142) Failed by recorded vote: 204 - 212 (Roll no. 507).
+- 2017-09-13 — On agreeing to the Ellison amendment (A155) Failed by recorded vote: 191 - 226 (Roll no. 514).
+- 2017-09-13 — On agreeing to the Flores amendment (A117) Agreed to by recorded vote: 216 - 199 (Roll no. 497).
+- 2017-09-13 — On agreeing to the Flores amendment (A133) Failed by voice vote.
+- 2017-09-13 — On agreeing to the Gibbs amendment (A156) Agreed to by recorded vote: 215 - 201 (Roll No. 515).
+- 2017-09-13 — On agreeing to the Graves (GA) amendments (A157) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Grothman amendment (A106) Failed by recorded vote: 98 - 313 (Roll no. 494).
+- 2017-09-13 — On agreeing to the Grothman amendment (A144) Failed by recorded vote: 131 - 285 (Roll no. 509).
+- 2017-09-13 — On agreeing to the Grothman amendment (A145) Failed by recorded vote: 175 - 241 (Roll no. 510).
+- 2017-09-13 — On agreeing to the Heck amendment (A170) Failed by voice vote.
+- 2017-09-13 — On agreeing to the Jackson Lee amendment (A168) Failed by voice vote.
+- 2017-09-13 — On agreeing to the Jenkins (WV) amendment (A167) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Kildee amendment (A124) Agreed to by recorded vote: 247 - 170 (Roll no. 499).
+- 2017-09-13 — On agreeing to the Kildee amendment (A132) Agreed to by recorded vote: 243 - 175 (Roll no. 502).
+- 2017-09-13 — On agreeing to the Kildee amendment (A172) Failed by voice vote.
+- 2017-09-13 — On agreeing to the Lewis (MN) amendment (A143) Failed by recorded vote: 153 - 263, 1 Present (Roll no. 508).
+- 2017-09-13 — On agreeing to the Lowey amendment (A141) Agreed to by recorded vote: 228 - 188 (Roll no. 506).
+- 2017-09-13 — On agreeing to the Lujan, Ben Ray amendment (A140) Agreed to by recorded vote: 213 - 205 (Roll no. 505).
+- 2017-09-13 — On agreeing to the Meadows amendment (A146) Failed by recorded vote: 178 - 238, 1 Present (Roll no. 511).
+- 2017-09-13 — On agreeing to the Meng amendment (A128) Agreed to by recorded vote: 220 - 198 (Roll no. 501).
+- 2017-09-13 — On agreeing to the Mullin amendment (A096) Agreed to by recorded vote: 218 - 195 (Roll no. 488).
+- 2017-09-13 — On agreeing to the Mullin amendment (A097) Agreed to by recorded vote: 225 - 186 (Roll no. 489).
+- 2017-09-13 — On agreeing to the Murphy (PA) amendment (A137) Failed by recorded vote: 198 - 219 (Roll no. 504).
+- 2017-09-13 — On agreeing to the Murphy (PA) amendment (A149) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Murphy (PA) amendment (A150) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Norman amendment (A100) Failed by recorded vote: 151 - 260 (Roll no. 492).
+- 2017-09-13 — On agreeing to the Norton amendment (A113) Failed by recorded vote: 189 - 225 (Roll no. 496).
+- 2017-09-13 — On agreeing to the Pocan amendment (A126) Failed by recorded vote: 199 - 219 (Roll no. 500).
+- 2017-09-13 — On agreeing to the Polis amendment (A098) Failed by recorded vote: 201 - 212 (Roll no. 490).
+- 2017-09-13 — On agreeing to the Polis amendment (A099) Failed by recorded vote: 198 - 212 (Roll no. 491).
+- 2017-09-13 — On agreeing to the Roskam amendment (A158) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Roskam amendment (A159) Agreed to by voice vote.
+- 2017-09-13 — On agreeing to the Scott (VA) amendment (A111) Failed by recorded vote: 192 - 223 (Roll no. 495).
+- 2017-09-13 — On agreeing to the Torres amendment (A102) Agreed to by recorded vote: 279 - 137 (Roll no. 493).
+- 2017-09-13 — On agreeing to the Walberg amendment (A147) Agreed to by recorded vote: 221 - 196 (Roll no. 512).
+- 2017-09-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gohmert amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Quigley demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huizenga amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Moore demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mitchell amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Quigley demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norton amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Norton demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Norton demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — Roll call votes on amendments in House
+- 2017-09-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-09-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-09-13 — VACATED PROCEEDINGS - Mr. Cole asked unanimous consent to vacate the proceedings on amendment numbered 175 of House Report 115-297, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2017-09-13 — VACATED PROCEEDINGS - Mr. Cole asked unanimous consent to vacate the proceedings on amendment numbered 176 of House Report 115-297, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2017-09-13 — VACATED PROCEEDINGS - Mr. Flores asked unanimous consent to vacate the proceedings on amendment numbered 149 of House Report 115-297, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2017-09-14 — Amendment agreed to Committee of the Whole
+- 2017-09-14 — Amendment agreed to Committee of the Whole
+- 2017-09-14 — Amendment agreed to Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Amendment failed in Committee of the Whole
+- 2017-09-14 — Considered as unfinished business. (consideration: CR H7402-7411)
+- 2017-09-14 — DEBATE - The House proceeded with 10 minutes of debate on the Jackson Lee motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike the $2.3 billion in total appropriated for a border wall and for U.S. Immigration and Customs Enforcement to purchase detention beds; and to transfer funds to the FEMA Federal Assistance Account to provide addition funds for pre-disaster mitigation services.
+- 2017-09-14 — House amendment agreed to: On agreeing to the Huizenga amendment (A169) Agreed to by recorded vote: 211 - 195 (Roll no. 525).
+- 2017-09-14 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A173) Agreed to by recorded vote: 265 - 143 (Roll no. 526).
+- 2017-09-14 — House amendment agreed to: On agreeing to the Palmer amendment (A160) Agreed to by recorded vote: 214 - 194 (Roll no. 518).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Ellison amendment (A163) Failed by recorded vote: 183 - 226 (Roll no. 521).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Ellison amendment (A164) Failed by recorded vote: 163 - 245 (Roll no. 522).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Ellison amendment (A165) Failed by recorded vote: 186 - 221 (Roll no. 523).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Gohmert amendment (A161) Failed by recorded vote: 186 - 223 (Roll no. 519).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Mitchell amendment (A166) Failed by recorded vote: 166 - 241 (Roll no. 524).
+- 2017-09-14 — House amendment not agreed to: On agreeing to the Norton amendment (A162) Failed by recorded vote: 186 - 222 (Roll no. 520).
+- 2017-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-14 — Ms. Jackson Lee moved to recommit with instructions to the Committee on Appropriations. (text: CR H7408)
+- 2017-09-14 — On agreeing to the Ellison amendment (A163) Failed by recorded vote: 183 - 226 (Roll no. 521).
+- 2017-09-14 — On agreeing to the Ellison amendment (A164) Failed by recorded vote: 163 - 245 (Roll no. 522).
+- 2017-09-14 — On agreeing to the Ellison amendment (A165) Failed by recorded vote: 186 - 221 (Roll no. 523).
+- 2017-09-14 — On agreeing to the Gohmert amendment (A161) Failed by recorded vote: 186 - 223 (Roll no. 519).
+- 2017-09-14 — On agreeing to the Huizenga amendment (A169) Agreed to by recorded vote: 211 - 195 (Roll no. 525).
+- 2017-09-14 — On agreeing to the Jackson Lee amendment (A173) Agreed to by recorded vote: 265 - 143 (Roll no. 526).
+- 2017-09-14 — On agreeing to the Mitchell amendment (A166) Failed by recorded vote: 166 - 241 (Roll no. 524).
+- 2017-09-14 — On agreeing to the Norton amendment (A162) Failed by recorded vote: 186 - 222 (Roll no. 520).
+- 2017-09-14 — On agreeing to the Palmer amendment (A160) Agreed to by recorded vote: 214 - 194 (Roll no. 518).
+- 2017-09-14 — On motion to recommit with instructions Failed by recorded vote: 186 - 223 (Roll no. 527).
+- 2017-09-14 — On passage Passed by the Yeas and Nays: 211 - 198 (Roll no. 528). (text: 09/06/17 CR H6697-6835)
+- 2017-09-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 211 - 198 (Roll no. 528).(text: 09/06/17 CR H6697-6835)
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — Roll call votes on amendments in House
+- 2017-09-14 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-09-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2017-09-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3354.
+- 2017-09-14 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-09-14 — The previous question was ordered pursuant to the rule.
