@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2374
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2374
@@ -31,3 +31,9 @@ Eastern Nevada Economic Development and Land Management Improvement Act
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Referred to the House Committee on Natural Resources.
+- 2017-05-11 — Referred to the Subcommittee on Federal Lands.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-09-14 — Placed on the Union Calendar, Calendar No. 221.
+- 2017-09-14 — Reported by the Committee on Natural Resources. H. Rept. 115-311.
+- 2017-09-14 — Reported by the Committee on Natural Resources. H. Rept. 115-311.
