@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2423
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2423
@@ -26,3 +26,9 @@ Washington County, Utah, Public Lands Management Implementation Act
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Referred to the House Committee on Natural Resources.
 - 2017-05-16 — Referred to the Subcommittee on Federal Lands.
+- 2017-05-23 — Subcommittee Hearings Held.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by the Yeas and Nays: 19 - 15.
+- 2017-09-14 — Placed on the Union Calendar, Calendar No. 222.
+- 2017-09-14 — Reported by the Committee on Natural Resources. H. Rept. 115-312.
+- 2017-09-14 — Reported by the Committee on Natural Resources. H. Rept. 115-312.
