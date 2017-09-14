@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
--  This Act may be cited as the “Federal Agency Customer Experience Act of 2017”.
+This Act may be cited as the “Federal Agency Customer Experience Act of 2017”.
 
 ## § 2. Findings; sense of Congress
 
@@ -30,7 +30,7 @@ In this Act:
 
 - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
 - **(2)** *Agency* The term agency has the meaning given the term in section 3502 of title 44, United States Code.
-- **(3)** *Covered agency* The term covered agency means an agency or component of an agency that is required by the Director to collect voluntary feedback under section 6, based on an assessment of the components and programs of the agency with the highest impact on or number of interactions with individuals or entities.
+- **(3)** *Covered agency* The term covered agency means an agency or component of an agency that is required by the Director to collect voluntary feedback under for purposes of section 6, based on an assessment of the components and programs of the agency with the highest impact on or number of interactions with individuals or entities.
 - **(4)** *Director* The term Director means the Director of the Office of Management and Budget.
 - **(5)** *Voluntary feedback* The term voluntary feedback has the meaning given the term in section 3502 of title 44, United States Code, as added by section 4 of this Act.
 
@@ -40,7 +40,7 @@ Subchapter I of chapter 35 of title 44, United States Code (commonly known as th
 
 - **(1)** in section 3502—
   - **(A)** in paragraph (13)(D), by striking “and” at the end;
-  - **(B)** in paragraph (14), by striking the period at the end and inserting “; and”; and
+  - **(B)** in paragraph (14), by striking the period at the end and inserting “; and or”; and
   - **(C)** by adding at the end the following:
     > - **(15)** the term voluntary feedback means any submission of information, opinion, or concern that is—
     >   - **(A)** voluntarily made by a specific individual or other entity relating to a particular service of or transaction with an agency; and
@@ -57,7 +57,7 @@ Subchapter I of chapter 35 of title 44, United States Code (commonly known as th
 Each agency that solicits voluntary feedback shall ensure that—
 
 - **(1)** responses to the solicitation of voluntary feedback remain anonymous and shall not be traced to specific individuals or entities;
-- **(2)** individuals who decline to participate in the solicitation of voluntary feedback shall not be treated differently by the agency for purposes of providing services or information;
+- **(2)** individuals and entities who decline to participate in the solicitation of voluntary feedback shall not be treated differently by the agency for purposes of providing services or information;
 - **(3)** the solicitation does not include more than 10 questions;
 - **(4)** the voluntary nature of the solicitation is clear;
 - **(5)** the proposed solicitation of voluntary feedback will contribute to improved customer service;
