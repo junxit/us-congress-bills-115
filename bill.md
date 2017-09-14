@@ -48,20 +48,28 @@ Except as otherwise expressly provided, wherever in this Act an amendment or rep
   - **(1)** accepted under section 204(c)(4)(F) of that Act (33 U.S.C. 1123(c)(4)(F)); or
   - **(2)** appropriated pursuant to the authorization of appropriations under section 212 of that Act (33 U.S.C. 1131).
 
-## § 5. Repeal of requirement for report on coordination of oceans and coastal research activities
-
-Section 9 of the National Sea Grant College Program Act Amendments of 2002 (33 U.S.C. 857–20) is repealed.
-
-## § 6. Reduction in frequency required for National Sea Grant Advisory Board report
+## § 5. Reduction in frequency required for National Sea Grant Advisory Board report
 
 Section 209(b)(2) (33 U.S.C. 1128(b)(2)) is amended—
 
-- **(1)** in the heading, by striking “Biennial” and inserting “Periodic”; and
-- **(2)** in the first sentence, by striking “The Board shall report to the Congress every two years” and inserting “Not less frequently than once every 3 years, the Board shall submit to Congress a report”.
+- **(1)** in the heading, by striking “Biennial” and inserting “Periodic”;
+- **(2)** by striking the first sentence and inserting the following: “The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report.”; and
+- **(3)** in the second sentence, by adding before the end period the following: “and provide a summary of research conducted under the program”.
 
-## § 7. Modification of elements of National Sea Grant College Program
+## § 6. Modification of elements of National Sea Grant College Program
 
 Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”.
+
+## § 7. Designation of new national sea grant colleges and sea grant institutes
+
+Section 207(b) (33 U.S.C. 1126(b)) is amended—
+
+- **(1)** in the subsection heading, by striking “existing designees” and inserting “Additional designations”; and
+- **(2)** by striking “Any institution” and inserting the following:
+  > - **(1)** *Notification to Congress of designations*
+  >   - **(A)** *In general* Not less than 30 days before designating an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a), the Secretary shall notify Congress in writing of the proposed designation. The notification shall include an evaluation and justification for the designation.
+  >   - **(B)** *Effect of joint resolution of disapproval* The Secretary may not designate an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a) if, before the end of the 30-day period described in subparagraph (A), a joint resolution disapproving the designation is enacted.
+  > - **(2)** *Existing designees* Any institution
 
 ## § 8. Direct hire authority; Dean John A. Knauss Marine Policy Fellowship
 
@@ -89,8 +97,8 @@ Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph
     >   - **(B)** University research on oyster diseases, oyster restoration, and oyster-related human health risks.
     >   - **(C)** University research on the biology, prevention, and forecasting of harmful algal blooms.
     >   - **(D)** University research, education, training, and extension services and activities focused on coastal resilience and United States working waterfronts and other regional or national priority issues identified in the strategic plan under section 204(c)(1).
-    >   - **(E)** University research on sustainable aquaculture techniques and technologies.
-    >   - **(F)** Fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
+    >   - **(E)** University research and extension on sustainable aquaculture techniques and technologies.
+    >   - **(F)** Fishery research and extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
 - **(b)** *Modification of limitations on amounts for administration* Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows:
   > - **(1)** *Administration*
@@ -98,7 +106,7 @@ Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph
   >     - **(i)** the amount authorized to be appropriated under this title for the fiscal year; or
   >     - **(ii)** the amount appropriated under this title for the fiscal year.
   >   - **(B)** *Critical staffing requirements*
-  >     - **(i)** *In general* The Director shall use the authority under subchapter VI of chapter 33 of title 5, United States Code, to meet any critical staffing requirement while carrying out the activities authorized under this title.
+  >     - **(i)** *In general* The Director shall use the authority under subchapter VI of chapter 33 of title 5, United States Code, and under section 210 of this title, to meet any critical staffing requirement while carrying out the activities authorized under this title.
   >     - **(ii)** *Exception from cap* For purposes of subparagraph (A), any costs incurred as a result of an exercise of authority as described in clause (i) shall not be considered an amount used for administration of programs under this title in a fiscal year.
 
 - **(c)** *Allocation of funding*

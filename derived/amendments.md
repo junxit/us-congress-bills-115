@@ -1,7 +1,7 @@
 ---
 measure: S. 129
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 5 executed, 11 stated and not applied.
+18 amendatory instructions. 5 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,21 @@ to guess them.
 
 ### 33 U.S.C. § 1128
 
-> in the heading, by striking “Biennial” and inserting “Periodic”; and
+> in the heading, by striking “Biennial” and inserting “Periodic”;
 
 | | |
 |---|---|
 | Removed | `Biennial` |
 | Inserted | `Periodic` |
 
-### 33 U.S.C. § 1128
+### 33 U.S.C. § 1126
 
-> in the first sentence, by striking “The Board shall report to the Congress every two years” and inserting “Not less frequently than once every 3 years, the Board shall submit to Congress a report”.
+> in the subsection heading, by striking “existing designees” and inserting “Additional designations”; and
 
 | | |
 |---|---|
-| Removed | `The Board shall report to the Congress every two years` |
-| Inserted | `Not less frequently than once every 3 years, the Board shall submit to Congress a report` |
+| Removed | `existing designees` |
+| Inserted | `Additional designations` |
 
 ### 33 U.S.C. § 1123
 
@@ -81,8 +81,10 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1127` | replace | in the first sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1127` | replace | in paragraph (1), as designated by paragraph (1), in the second sentence, by striking “A fellowship” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1123` | amend | Section 204(c)(4)(E) (33 U.S.C. 1123(c)(4)(E)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 857-20` | repeal | Section 9 of the National Sea Grant College Program Act Amendments of 2002 (33 U.S.C. 857–20) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1128` | replace | by striking the first sentence and inserting the following: “The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1128` | amend | in the second sentence, by adding before the end period the following: “and provide a summary of research conducted under the program”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1123` | insert | Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1126` | replace | by striking “Any institution” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1131` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1131` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1131` | amend | Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
