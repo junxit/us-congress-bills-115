@@ -1,7 +1,7 @@
 ---
 measure: S. 1532
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1532
@@ -43,3 +43,18 @@ No Human Trafficking on Our Roads Act
 - 2017-09-18 — Message on Senate action sent to the House.
 - 2017-09-18 — Received in the House.
 - 2017-09-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-09-19 — Referred to the Subcommittee on Highways and Transit.
+- 2017-11-30 — By Senator Thune from Committee on Commerce, Science, and Transportation filed written report. Report No. 115-188.
+- 2017-11-30 — By Senator Thune from Committee on Commerce, Science, and Transportation filed written report. Report No. 115-188.
+- 2017-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-12-19 — Considered under suspension of the rules. (consideration: CR H10217-10218)
+- 2017-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 1532.
+- 2017-12-19 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
+- 2017-12-21 — Considered as unfinished business. (consideration: CR H10404-10405)
+- 2017-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 710). (text: CR 12/19/2017 H10217)
+- 2017-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 710).(text: CR 12/19/2017 H10217)
+- 2017-12-27 — Presented to President.
+- 2017-12-27 — Presented to President.
+- 2018-01-08 — Signed by President.
+- 2018-01-08 — Signed by President.
