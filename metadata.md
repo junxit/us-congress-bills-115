@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1679
@@ -54,3 +54,10 @@ FEMA Accountability, Modernization and Transparency Act of 2017
 - 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-159.
 - 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-159.
 - 2017-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.
+- 2017-11-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7178)
+- 2017-11-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7178)
+- 2017-11-14 — Message on Senate action sent to the House.
+- 2017-11-15 — Presented to President.
+- 2017-11-15 — Presented to President.
+- 2017-11-21 — Signed by President.
+- 2017-11-21 — Signed by President.
