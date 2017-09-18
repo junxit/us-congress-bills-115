@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-84 amendatory instructions. 19 executed, 65 stated and not applied.
+85 amendatory instructions. 19 executed, 66 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 26 U.S.C. § 5845
 
-> Section 5845(a) of the Internal Revenue Code of 1986 is amended by striking “(7) any silencer” and all that follows through “; and (8)” and inserting “; and (7)”.
+> Section 5845(a) of the Internal Revenue Code of 1986 is amended by striking “(7) any silencer” and all that follows through “; and (8)” and inserting “and (7)”.
 
 | | |
 |---|---|
 | Removed | `(7) any silencer” and all that follows through “; and (8)` |
-| Inserted | `; and (7)` |
+| Inserted | `and (7)` |
 
 ### 26 U.S.C. § 4181
 
@@ -188,7 +188,7 @@ to guess them.
 
 ### 15 U.S.C. § 632
 
-> in paragraph (1), by striking “provide a fair return to the United States” and insert “be sufficient to cover the cost of a film permit and other administrative and personnel costs”; and
+> in paragraph (1), by striking “provide a fair return to the United States” and inserting “be sufficient to cover the cost of a film permit and other administrative and personnel costs”; and
 
 | | |
 |---|---|
@@ -214,7 +214,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669g` | replace | in the third sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669g` | insert | by inserting after paragraph (1) (as designated by paragraph (1) of this subsection) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669h-1` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7601` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669h-1` | replace | by striking “Amounts made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 704` | replace | Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -236,7 +236,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 5841` | add-at-end | Section 5841 of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 927 of title 18, United States Code, is amended by adding at the end the following: “Notwithstanding the preceding sentence, a law of a State or a political subdivision of a State that imposes a tax, other than a generally applic… | the bill names no machine-readable US Code section |
 | — | replace | in section 921(a), by striking paragraph (24) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “shotgun or rifle” the first place it appears and inserting “shotgun, rifle, firearm silencer or firearm muffler,”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “shotgun or rifle” the first place it appears and inserting “shotgun, rifle, firearm silencer or firearm muffler”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “rifle or shotgun” and inserting “shotgun, rifle, firearm silencer or firearm muffler”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Licensed” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -250,11 +250,11 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 5845` | replace | by striking subsections (d) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5845` | strike | in the second sentence, by striking “solely”. | the bill quotes the text struck but describes what replaces it |
 | — | strike | Section 922 of title 18, United States Code, is amended in each of subsections (a)(5)(B), (a)(9), and (b)(3)(B), by striking “sporting”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 1712` | replace | in subsection (a), by striking “section 206” and all that follows through the period and inserting the following: “section 206— | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1712` | replace | in subsection (a), by striking “section 206” and all that follows through the period at the end and inserting the following: “section 206— | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 2305` | amend | by amending section 206(c)(1) (43 U.S.C. 2305(c)(1)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B), (C), and (D) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 2305` | insert | by inserting “for the activities outlined in paragraph (2)” after “generated”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 2305` | insert | by inserting “for the activities outlined in paragraph (1)” after “generated”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 2305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2305` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -269,3 +269,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 632` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 632` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | By adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | amend | Subsection (h) of section 803 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
