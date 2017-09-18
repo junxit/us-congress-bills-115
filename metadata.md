@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1117
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1117
@@ -46,3 +46,7 @@ To require the Administrator of the Federal Emergency Management Agency to submi
 - 2017-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195). (text: CR H2448)
 - 2017-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195).(text: CR H2448)
 - 2017-03-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-158.
+- 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-158.
+- 2017-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
