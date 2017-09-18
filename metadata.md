@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1679
@@ -46,3 +46,7 @@ FEMA Accountability, Modernization and Transparency Act of 2017
 - 2017-05-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-107.
 - 2017-05-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-107.
 - 2017-05-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-159.
+- 2017-09-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-159.
+- 2017-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.
