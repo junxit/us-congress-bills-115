@@ -1,7 +1,7 @@
 ---
 measure: S. 188
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 188
@@ -36,3 +36,5 @@ EGO Act
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-28.
 - 2017-04-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-28.
 - 2017-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.
+- 2017-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5810; text: CR S5810)
+- 2017-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5810; text: CR S5810)
