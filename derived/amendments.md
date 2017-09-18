@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Engrossed Amendment Senate
+version: Printed as Passed
 derived: true
 ---
 
