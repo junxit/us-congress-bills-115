@@ -1,7 +1,7 @@
 ---
 measure: S. 1536
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1536
@@ -25,9 +25,10 @@ Combating Human Trafficking in Commercial Vehicles Act
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Combating Human Trafficking in Commercial Vehicles Act
 - 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 204.
 - 2017-09-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5771-5772; text: CR S5771-5772)
 - 2017-09-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5771-5772; text: CR S5771-5772)
+- 2017-09-18 — Message on Senate action sent to the House.
+- 2017-09-18 — Received in the House.
+- 2017-09-18 — Referred to the House Committee on Transportation and Infrastructure.
