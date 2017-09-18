@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2810
@@ -16,15 +16,735 @@ National Defense Authorization Act for Fiscal Year 2018
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (1)
+## Cosponsors (721)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
 - House — Armed Services Committee
 
-## Recorded votes (23)
+## Recorded votes (28)
 
 - 2017-07-13 — [House 115-1-356](votes/house-115-1-0356.md) — On Agreeing to the Amendment — **Failed** (198–225)
 - 2017-07-13 — [House 115-1-357](votes/house-115-1-0357.md) — On Agreeing to the Amendment — **Failed** (73–351)
@@ -49,6 +769,11 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-07-14 — [House 115-1-376](votes/house-115-1-0376.md) — On Agreeing to the Amendment — **Agreed to** (424–0)
 - 2017-07-14 — [House 115-1-377](votes/house-115-1-0377.md) — On Motion to Recommit with Instructions — **Failed** (190–235)
 - 2017-07-14 — [House 115-1-378](votes/house-115-1-0378.md) — On Passage — **Passed** (344–81)
+- 2017-09-11 — [Senate 115-1-193](votes/senate-115-1-0193.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–3)
+- 2017-09-13 — [Senate 115-1-195](votes/senate-115-1-0195.md) — On the Motion to Table — **Motion to Table Agreed to** (61–36)
+- 2017-09-14 — [Senate 115-1-197](votes/senate-115-1-0197.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–9)
+- 2017-09-18 — [Senate 115-1-198](votes/senate-115-1-0198.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–7)
+- 2017-09-18 — [Senate 115-1-199](votes/senate-115-1-0199.md) — On Passage of the Bill — **Bill Passed** (89–8)
 
 ## Actions
 
@@ -431,3 +1156,846 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-07-14 — The previous question was ordered pursuant to the rule.
 - 2017-07-14 — The title of the measure was amended. Agreed to without objection.
 - 2017-07-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
+- 2017-07-24 — Motion to proceed to consideration of measure made in Senate. (CR S4130)
+- 2017-07-25 — Motion to proceed to consideration of measure made in Senate. (CR S4165)
+- 2017-07-25 — Senate amendment submitted
+- 2017-07-25 — Senate amendment submitted
+- 2017-07-25 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-26 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-27 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-28 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-07-31 — Senate amendment submitted
+- 2017-08-02 — Senate amendment submitted
+- 2017-08-02 — Senate amendment submitted
+- 2017-08-02 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-08-03 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-05 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-06 — Senate amendment submitted
+- 2017-09-07 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5038)
+- 2017-09-07 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5038)
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-07 — Senate amendment submitted
+- 2017-09-11 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 3. Record Vote Number: 193. (consideration: CR S5091)
+- 2017-09-11 — Motion to proceed to measure considered in Senate. (consideration: CR S5086-5092)
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-11 — Senate amendment submitted
+- 2017-09-12 — Motion to proceed to measure considered in Senate. (consideration: CR S5192-5196, S5198-5210)
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-13 — Amendment SA 1003 proposed by Senator McCain. (consideration: CR S5253-5474; text as modified: CR S5487-5671) In the nature of a substitute.
+- 2017-09-13 — Amendment SA 545 proposed by Senator McConnell for Senator McCain to Amendment SA 1003. To strike the section relating to the treatment of storm water collection systems as utility systems.
+- 2017-09-13 — Amendment SA 871 proposed by Senator McConnell for Senator Paul to Amendment SA 1003. (consideration: CR S5253-5259; text: CR S5253) To repeal the Authorization for Use of Military Force and the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+- 2017-09-13 — Cloture motion on amendment SA 1003 as modified presented in Senate. (consideration: CR S5474)
+- 2017-09-13 — Cloture motion on the measure presented in Senate.
+- 2017-09-13 — Measure laid before Senate by motion.
+- 2017-09-13 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2017-09-13 — Motion to proceed to measure considered in Senate. (consideration: CR S5245-5474)
+- 2017-09-13 — Motion to table amendment SA 871 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 195.
+- 2017-09-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 871 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 195.
+- 2017-09-13 — Senate amendment proposed (on the floor): Amendment SA 1003 proposed by Senator McCain.(consideration: CR S5253-5474; text: CR S5487-5671)
+- 2017-09-13 — Senate amendment proposed (on the floor): Amendment SA 871 proposed by Senator McConnell for Senator Paul to Amendment SA 1003.(consideration: CR S5253-5259; text: CR S5253)
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-13 — Senate amendment submitted
+- 2017-09-14 — Cloture on amendment SA 1003 as modified invoked in Senate by Yea-Nay Vote. 84 - 9. Record Vote Number: 197. (CR S5732)
+- 2017-09-14 — Considered by Senate. (consideration: CR S5712)
+- 2017-09-14 — Considered by Senate. (consideration: CR S5712-5727)
+- 2017-09-14 — Considered by Senate. (consideration: CR S5712-5727, S5731-5738)
+- 2017-09-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 1003 as modified invoked in Senate by Yea-Nay Vote. 84 - 9. Record Vote Number: 197.(CR S5732)
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-14 — Senate amendment submitted
+- 2017-09-18 — Amendment SA 1003 as modified agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1006 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1006 proposed by Senator McCain for Senator Moran to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To modernize Government information technology, and for other purposes.
+- 2017-09-18 — Amendment SA 1014 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1014 proposed by Senator Reed for Senator Stabenow to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To require the Government Accountability Office to evaluate Buy American training policies for the Defense acquisition workforce.
+- 2017-09-18 — Amendment SA 1015 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1015 proposed by Senator Reed for Senator Whitehouse to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To encourage the United States Trade Representative to consider the impact of marine debris in future trade agreements.
+- 2017-09-18 — Amendment SA 1021 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1021 proposed by Senator Reed for Senator Harris to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To require a review of effects of personnel requirements and limitations on the availability of members of the National Guard for the performance of funeral honors duty for veterans.
+- 2017-09-18 — Amendment SA 1023 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1023 proposed by Senator Reed for Senator Sanders to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To authorize the provision of support for Beyond Yellow Ribbon programs.
+- 2017-09-18 — Amendment SA 1031 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1031 proposed by Senator McCain for Senator Tillis to Amendment SA 1003. (consideration: CR S5787; text: CR S5793-5794) To require a certification and report related to the enhanced multi mission parachute system.
+- 2017-09-18 — Amendment SA 1032 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1032 proposed by Senator McCain for Senator Isakson to Amendment SA 1003. (consideration: CR S5787; text: CR S5796) To prohibit the availability of funds for retirment of E-8 JSTARS aircraft.
+- 2017-09-18 — Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1033 proposed by Senator McCain for Senator Perdue to Amendment SA 1003. (consideration: CR S5787; text: CR S5794) To require a report related to the E-8C JSTARS recapitalization program.
+- 2017-09-18 — Amendment SA 1034 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1034 proposed by Senator McCain for Senator Strange to Amendment SA 1003. (consideration: CR S5787; text: CR S5794) To express the sense of Congress regarding fire protection in Department of Defense facilities.
+- 2017-09-18 — Amendment SA 1038 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1038 proposed by Senator McCain for Senator Lankford to Amendment SA 1003. (consideration: CR S5787; text: CR S5794) To ensure transparency in acquisition programs.
+- 2017-09-18 — Amendment SA 1039 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1039 proposed by Senator McCain for Senator Rounds to Amendment SA 1003. (consideration: CR S5787; text: CR S5794) To devolve acquisition authority from the Office of the Secretary of Defense to the military services.
+- 2017-09-18 — Amendment SA 1050 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1050 proposed by Senator McCain for Senator Scott to Amendment SA 1003. (consideration: CR S5787; text: CR S5794) To increase funding for research, development, test, and evaluation for historically Black colleges and universities and other minority-serving institutions of higher education.
+- 2017-09-18 — Amendment SA 1055 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1055 proposed by Senator McCain for Senator Portman to Amendment SA 1003. (consideration: CR S5787; text: CR S5794-5795) To require a report on cyber applications of blockchain technology.
+- 2017-09-18 — Amendment SA 1063 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1063 proposed by Senator McCain for Senator Tillis to Amendment SA 1003. (consideration: CR S5787; text: CR S5795) To modify the definition of custom-developed computer software.
+- 2017-09-18 — Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1065 proposed by Senator Reed for Senator Cantwell to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To increase funding for environmental restoration for the Air Force, and to provide an offset.
+- 2017-09-18 — Amendment SA 1073 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1073 proposed by Senator McCain for Senator Sullivan to Amendment SA 1003. (consideration: CR S5787; text: CR S5795) To improve section 1653, relating to ground-based interceptor capability, capacity, and reliability.
+- 2017-09-18 — Amendment SA 1086 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1086 proposed by Senator McCain for Senator Strange to Amendment SA 1003. (consideration: CR S5787; text: CR S5795) To authorize $600,000,000 in increased funding for the procurement of one Littoral Combat Ship for the Navy above the President's budget request.
+- 2017-09-18 — Amendment SA 1087 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1087 proposed by Senator Reed for Senator Bennet to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To recognize the National Museum of World War II Aviation.
+- 2017-09-18 — Amendment SA 1088 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1088 proposed by Senator Reed for Senator Wyden to Amendment SA 1003. (consideration: CR S5787; text: CR S5791) To authorize an additional $10,000,000 for the National Guard for training on wildfire response, and to provide an offset.
+- 2017-09-18 — Amendment SA 1089 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1089 proposed by Senator Reed for Senator Kaine to Amendment SA 1003. (consideration: CR S5787; text: CR S5791) To establish opportunities for scholarships related to cybersecurity, and for other purposes.
+- 2017-09-18 — Amendment SA 1094 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1094 proposed by Senator Reed for Senator Cortez Masto to Amendment SA 1003. (consideration: CR S5787; text: CR S5791) To express the sense of Senate on increasing enrollment in Senior Reserve Officers' Training Corps programs at minority-serving institutions.
+- 2017-09-18 — Amendment SA 1096 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1096 proposed by Senator McCain for Senator Graham to Amendment SA 1003. (consideration: CR S5787; text: CR S5795-5796) To prohibit multichannel video programming distributors from being required to carry certain video content that is owned or controlled by the Government of the Russian Federation.
+- 2017-09-18 — Amendment SA 1100 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 1100 proposed by Senator Reed for Senator Durbin to Amendment SA 1003. (consideration: CR S5787; text: CR S5791-5792) To modify the basis on which an extension of the period for enlistment in the Armed Forces may be made under the Delayed Entry Program.
+- 2017-09-18 — Amendment SA 277 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 277 proposed by Senator Reed for Senator Kaine to Amendment SA 1003. (consideration: CR S5787; text: CR S5787-5788) To provide for the establishment of a visitor services facility on the Arlington Ridge tract, Virginia.
+- 2017-09-18 — Amendment SA 434 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 434 proposed by Senator Reed for Senator Tester to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To convert the authority for a National Language Service Corps into a requirement for such a Corps.
+- 2017-09-18 — Amendment SA 470 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 470 proposed by Senator McCain for Senator Lee to Amendment SA 1003. (consideration: CR S5787; text: CR S5792) Relating to mechanisms to facilitate the obtaining by military spouses of occupational licenses or credentials in other States.
+- 2017-09-18 — Amendment SA 574 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 574 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To expand the SkillBridge initiative to include participation by Federal agencies.
+- 2017-09-18 — Amendment SA 601 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 601 proposed by Senator McCain for Senator Moran to Amendment SA 1003. (consideration: CR S5787; text: CR S5792) To require the Secretary of Defense to declassify certain documents related to incidents in which members of the Armed Forces were exposed to toxic substances.
+- 2017-09-18 — Amendment SA 660 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 660 proposed by Senator Reed for Senator Merkley to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To treat the service of recipients of Boren scholarships and fellowships in excepted service positions as service by such recipients under career appointments for purposes of career tenure under title 5, United States Code.
+- 2017-09-18 — Amendment SA 712 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 712 proposed by Senator McCain for Senator Portman to Amendment SA 1003. (consideration: CR S5787; text: CR S5792) To require a plan to meet the demand for cyberspace career fields in the reserve components of the Armed Forces.
+- 2017-09-18 — Amendment SA 750 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 750 proposed by Senator Reed for Senator Whitehouse to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To extend temporarily the extended period of protection for members of uniformed services relating to mortgages, mortgage foreclosure, and eviction.
+- 2017-09-18 — Amendment SA 756 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 756 proposed by Senator Reed for Senator Van Hollen to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To require a report on compliance with Department of Defense and Service policies regarding runway clear zones.
+- 2017-09-18 — Amendment SA 780 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 780 proposed by Senator McCain for Senator Inhofe to Amendment SA 1003. (consideration: CR S5787; text: CR S5792) To increase the maximum term for intergovernmental support agreements to provide installation support services.
+- 2017-09-18 — Amendment SA 833 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 833 proposed by Senator Reed for Senator Murray to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To provide for the promotion of financial literacy concerning retirement among members of the Armed Forces.
+- 2017-09-18 — Amendment SA 873 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 873 proposed by Senator McCain for Senator Ernst to Amendment SA 1003. (consideration: CR S5787; text: CR S5792-5793) To require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.
+- 2017-09-18 — Amendment SA 874 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 874 proposed by Senator McCain to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To limit authorized cost increases in military construction projects.
+- 2017-09-18 — Amendment SA 879 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 879 proposed by Senator McCain for Senator Johnson to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To amend title 46, United States Code, to provide greater flexibility to the Coast Guard in deciding the Federal district court in which to prosecute individuals engaged in drug trafficking.
+- 2017-09-18 — Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 890 proposed by Senator Reed for Senator Brown to Amendment SA 1003. (consideration: CR S5787; text: CR S5788) To ensure the continued designation of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950.
+- 2017-09-18 — Amendment SA 900 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 900 proposed by Senator Reed for Senator Cardin to Amendment SA 1003. (consideration: CR S5787; text: CR S5788-5789) To require a report on the National Biodefense Analysis and Countermeasures Center (NBACC) and to provide a limitation on use of funds.
+- 2017-09-18 — Amendment SA 903 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 903 proposed by Senator Reed for Senator Leahy to Amendment SA 1003. (consideration: CR S5787; text: CR S5789) To require the Secretary of Defense to conduct a feasibility study and cost estimate for a pilot program that uses predictive analytics and screening to identify mental health risk and provide early, targeted intervention for part-time members of the reserve components of the Armed Forces.
+- 2017-09-18 — Amendment SA 904 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 904 proposed by Senator Reed for Senator Baldwin to Amendment SA 1003. (consideration: CR S5787; text: CR S5789) To prohibit or suspend certain health care providers from providing non-Department of Veterans Affairs health care services to veterans.
+- 2017-09-18 — Amendment SA 908 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 908 proposed by Senator McCain for Senator Murkowski to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To authorize the modification of the Second Division Memorial.
+- 2017-09-18 — Amendment SA 927 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 927 proposed by Senator McCain for Senator Rubio to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) Requiring a report on the availability of postsecondary credit for skills acquired during military service.
+- 2017-09-18 — Amendment SA 943 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 943 proposed by Senator McCain for Senator Isakson to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To authorize the Secretary of the Air Force to enter into an agreement providing for the joint use of Dobbins Air Reserve Base, Marietta, Georgia, with civil aviation.
+- 2017-09-18 — Amendment SA 945 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 945 proposed by Senator McCain for Senator Flake to Amendment SA 1003. (consideration: CR S5787; text: CR S5793) To require information on Department of Defense funding in Department press releases and related public statements on programs, projects, and activities funded by the Department.
+- 2017-09-18 — Amendment SA 950 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 950 proposed by Senator Reed for Senator Peters to Amendment SA 1003. (consideration: CR S5787; text: CR S5789-5790) To authorize the Secretary of the Air Force to increase the Primary Aircraft Authorization of Air force or Air National Guard A-10 aircraft units in the event conversion of an A-10 unit is in the best interest of a long-term Air Force mission.
+- 2017-09-18 — Amendment SA 976 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 976 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To express the sense of Congress on use of test sites for research and development on countering unmanned aircraft systems.
+- 2017-09-18 — Amendment SA 995 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Amendment SA 995 proposed by Senator Reed for Senator Cantwell to Amendment SA 1003. (consideration: CR S5787; text: CR S5790) To extend the authorization of the Advisory Board on Toxic Substances and Worker Health.
+- 2017-09-18 — Cloture invoked in Senate by Yea-Nay Vote. 90 - 7. Record Vote Number: 198. (CR S5785)
+- 2017-09-18 — Considered by Senate. (consideration: CR S5776, S5785)
+- 2017-09-18 — Considered by Senate. (consideration: CR S5776-5785)
+- 2017-09-18 — Considered by Senate. (consideration: CR S5776-5796)
+- 2017-09-18 — Passed Senate with an amendment by Yea-Nay Vote. 89 - 8. Record Vote Number: 199.
+- 2017-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 89 - 8. Record Vote Number: 199.
+- 2017-09-18 — Proposed amendment SA 545 withdrawn in Senate. (consideration: CR S5785)
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1003 as modified agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1006 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1014 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1015 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1021 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1023 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1031 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1032 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1034 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1038 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1039 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1050 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1055 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1063 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1073 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1086 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1087 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1088 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1089 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1094 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1096 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 1100 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 277 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 434 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 470 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 574 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 601 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 660 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 712 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 750 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 756 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 780 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 833 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 873 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 874 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 879 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 900 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 903 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 904 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 908 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 927 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 943 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 945 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 950 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 976 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment agreed to: Amendment SA 995 agreed to in Senate by Unanimous Consent.
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1006 proposed by Senator McCain for Senator Moran to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1014 proposed by Senator Reed for Senator Stabenow to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1015 proposed by Senator Reed for Senator Whitehouse to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1021 proposed by Senator Reed for Senator Harris to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1023 proposed by Senator Reed for Senator Sanders to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1031 proposed by Senator McCain for Senator Tillis to Amendment SA 1003.(consideration: CR S5787; text: CR S5793-5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1032 proposed by Senator McCain for Senator Isakson to Amendment SA 1003.(consideration: CR S5787; text: CR S5796)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1033 proposed by Senator McCain for Senator Perdue to Amendment SA 1003.(consideration: CR S5787; text: CR S5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1034 proposed by Senator McCain for Senator Strange to Amendment SA 1003.(consideration: CR S5787; text: CR S5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1038 proposed by Senator McCain for Senator Lankford to Amendment SA 1003.(consideration: CR S5787; text: CR S5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1039 proposed by Senator McCain for Senator Rounds to Amendment SA 1003.(consideration: CR S5787; text: CR S5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1050 proposed by Senator McCain for Senator Scott to Amendment SA 1003.(consideration: CR S5787; text: CR S5794)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1055 proposed by Senator McCain for Senator Portman to Amendment SA 1003.(consideration: CR S5787; text: CR S5794-5795)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1063 proposed by Senator McCain for Senator Tillis to Amendment SA 1003.(consideration: CR S5787; text: CR S5795)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1065 proposed by Senator Reed for Senator Cantwell to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1073 proposed by Senator McCain for Senator Sullivan to Amendment SA 1003.(consideration: CR S5787; text: CR S5795)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1086 proposed by Senator McCain for Senator Strange to Amendment SA 1003.(consideration: CR S5787; text: CR S5795)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1087 proposed by Senator Reed for Senator Bennet to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1088 proposed by Senator Reed for Senator Wyden to Amendment SA 1003.(consideration: CR S5787; text: CR S5791)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1089 proposed by Senator Reed for Senator Kaine to Amendment SA 1003.(consideration: CR S5787; text: CR S5791)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1094 proposed by Senator Reed for Senator Cortez Masto to Amendment SA 1003.(consideration: CR S5787; text: CR S5791)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1096 proposed by Senator McCain for Senator Graham to Amendment SA 1003.(consideration: CR S5787; text: CR S5795-5796)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 1100 proposed by Senator Reed for Senator Durbin to Amendment SA 1003.(consideration: CR S5787; text: CR S5791-5792)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 277 proposed by Senator Reed for Senator Kaine to Amendment SA 1003.(consideration: CR S5787; text: CR S5787-5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 434 proposed by Senator Reed for Senator Tester to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 470 proposed by Senator McCain for Senator Lee to Amendment SA 1003.(consideration: CR S5787; text: CR S5792)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 574 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 601 proposed by Senator McCain for Senator Moran to Amendment SA 1003.(consideration: CR S5787; text: CR S5792)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 660 proposed by Senator Reed for Senator Merkley to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 712 proposed by Senator McCain for Senator Portman to Amendment SA 1003.(consideration: CR S5787; text: CR S5792)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 750 proposed by Senator Reed for Senator Whitehouse to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 756 proposed by Senator Reed for Senator Van Hollen to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 780 proposed by Senator McCain for Senator Inhofe to Amendment SA 1003.(consideration: CR S5787; text: CR S5792)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 833 proposed by Senator Reed for Senator Murray to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 873 proposed by Senator McCain for Senator Ernst to Amendment SA 1003.(consideration: CR S5787; text: CR S5792-5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 874 proposed by Senator McCain to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 879 proposed by Senator McCain for Senator Johnson to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 890 proposed by Senator Reed for Senator Brown to Amendment SA 1003.(consideration: CR S5787; text: CR S5788)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 900 proposed by Senator Reed for Senator Cardin to Amendment SA 1003.(consideration: CR S5787; text: CR S5788-5789)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 903 proposed by Senator Reed for Senator Leahy to Amendment SA 1003.(consideration: CR S5787; text: CR S5789)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 904 proposed by Senator Reed for Senator Baldwin to Amendment SA 1003.(consideration: CR S5787; text: CR S5789)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 908 proposed by Senator McCain for Senator Murkowski to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 927 proposed by Senator McCain for Senator Rubio to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 943 proposed by Senator McCain for Senator Isakson to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 945 proposed by Senator McCain for Senator Flake to Amendment SA 1003.(consideration: CR S5787; text: CR S5793)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 950 proposed by Senator Reed for Senator Peters to Amendment SA 1003.(consideration: CR S5787; text: CR S5789-5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 976 proposed by Senator Reed for Senator Heitkamp to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment proposed (on the floor): Amendment SA 995 proposed by Senator Reed for Senator Cantwell to Amendment SA 1003.(consideration: CR S5787; text: CR S5790)
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate amendment submitted
+- 2017-09-18 — Senate ordered measure printed as passed.
