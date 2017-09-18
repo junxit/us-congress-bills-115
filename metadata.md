@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3284
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3284
@@ -23,9 +23,10 @@ Joint Counterterrorism Awareness Workshop Series Act of 2017
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Joint Counterterrorism Awareness Workshop Series Act of 2017
 - 2017-09-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 4 (Roll no. 529). (text: 09/12/17 CR H7229-7230)
 - 2017-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 4 (Roll no. 529).(text: 09/12/17 CR H7229-7230)
+- 2017-09-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
