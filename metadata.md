@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3697
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3697
@@ -25,9 +25,10 @@ Criminal Alien Gang Member Removal Act
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -54,3 +55,4 @@ Criminal Alien Gang Member Removal Act
 - 2017-09-14 — Rule provides for consideration of H.R. 3697 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-09-14 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-09-14 — The previous question was ordered pursuant to the rule.
+- 2017-09-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
