@@ -1,7 +1,7 @@
 ---
 measure: S. 129
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 129
@@ -24,9 +24,10 @@ National Sea Grant College Program Amendments Act of 2017
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ National Sea Grant College Program Amendments Act of 2017
 - 2017-09-14 — Senate amendment agreed to: Amendment SA 1091 agreed to in Senate by Unanimous Consent.
 - 2017-09-14 — Senate amendment proposed (on the floor): Amendment SA 1091 proposed by Senator McConnell for Senator Wicker.(consideration: CR S5770; text: CR S5769-5770)
 - 2017-09-14 — Senate amendment submitted
+- 2017-09-18 — Message on Senate action sent to the House.
+- 2017-09-18 — Received in the House.
+- 2017-09-18 — Referred to the House Committee on Natural Resources.
