@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2810
 congress: 115
-version: Printed as Passed
+version: Enrolled Bill
 ---
 
 # H.R. 2810
@@ -740,9 +740,11 @@ National Defense Authorization Act for Fiscal Year 2018
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (3)
 
 - House — Armed Services Committee
+- House — Transportation and Infrastructure Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -1968,3 +1970,65 @@ National Defense Authorization Act for Fiscal Year 2018
 - 2017-09-18 — Senate amendment submitted
 - 2017-09-18 — Senate amendment submitted
 - 2017-09-18 — Senate ordered measure printed as passed.
+- 2017-09-19 — Amendment SA 545 proposed by Senator McConnell for Senator McCain to Amendment SA 1003. (consideration: CR S5867; text: CR S5867)
+- 2017-09-19 — Notwithstanding the passage of H.R. 2810, as amended, amendment SA 545 agreed to in Senate by Unanimous Consent.
+- 2017-09-19 — Senate amendment agreed to: Notwithstanding the passage of H.R. 2810, as amended, amendment SA 545 agreed to in Senate by Unanimous Consent.
+- 2017-09-19 — Senate amendment proposed (on the floor): Amendment SA 545 proposed by Senator McConnell for Senator McCain to Amendment SA 1003.(consideration: CR S5867; text: CR S5867)
+- 2017-09-25 — Amendment SA 1065, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S5878)
+- 2017-09-25 — Amendment SA 1086, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S5878)
+- 2017-09-26 — Message on Senate action sent to the House.
+- 2017-10-12 — DEBATE - The House proceeded with one hour of debate on the Langevin motion to instruct conferees on H.R. 2810. The instructions contained in the motion seek to require the managers on the part of the House to disagree with subsection (c) of section 336 of the Senate amendment, to recede from section 1064 of the House bill and to disagree with section 1087 of the Senate amendment.
+- 2017-10-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-12 — Mr. Langevin moved that the House instruct conferees. (consideration: CR H8004; text: CR H8004)
+- 2017-10-12 — Mr. Thornberry asked unanimous consent that the House disagree to the Senate amendment, and request a conference. (consideration: CR H8004-8008, H8008-8009, H8009-8010)
+- 2017-10-12 — Mr. Thornberry moved that the House to close portions of the conference.
+- 2017-10-12 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.
+- 2017-10-12 — On motion that the House instruct conferees Failed by the Yeas and Nays: 184 - 237 (Roll no. 564).
+- 2017-10-12 — On motion to close portions of the conference Agreed to by the Yeas and Nays: 414 - 8 (Roll no. 565).
+- 2017-10-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin motion to instruct conferees to H.R. 2810, the Chair put the question on the motion to instruct and by voice vote, announced that the noes had prevailed. Mr. Langevin demanded the yeas and nays and the Chair postponed further proceedings on the motion to instruct until a time to be announced.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Thornberry, Wilson (SC), LoBiondo, Bishop (UT), Turner, Rogers (AL), Franks (AZ), Shuster, Conaway, Lamborn, Wittman, Coffman, Hartzler, Scott, Austin, Cook, Stefanik, Knight, Bacon, Smith (WA), Brady (PA), Davis (CA), Langevin, Larsen (WA), Cooper, Bordallo, Courtney, Tsongas, Garamendi, Speier, Veasey, and Gabbard.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 221, 551, 555, and 3509 of the House bill, and secs. 236, 551-53, 3116, 5508, and 6001 of the Senate amendment, and modifications committed to conference: Foxx, Byrne, and Scott (VA).
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 313, 314, 601, 723, 727, 729, 732, 3118, and 3122 of the House bill, and secs. 601, 701, 725, 732, 1089A, 1625, and 3114 of the Senate amendment, and modifications committed to conference: Walden, Barton, and Pallone.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of sec. 862 of the Senate amendment, and modifications committed to conference: Barr, Williams, and Waters, Maxine.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 864, 1032, 1039, 1040, 1058, 1201, 1203-05, 1211, 1222, 1223, 1231, 1232, 1234, 1243, 1246, 1247, 1265, 1270A, 1272, 1276, 1278, 1280, 1301, 1302, 1521, 1522, 1687, 2841, and 3117 of the House bill, and secs. 111, 861, 867, 1011, 1203-05, 1212, 1213, 1231-33, 1241-45, 1250, 1261-63, 1270B, 1270C, 1282, 1283, 1301, 1302, 1531, and 1651 of the Senate amendment, and modifications committed to conference: Royce (CA), Donovan, and Engel.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 601, 1062, 1265, 2827, 2828, 2831, 2832, 2844, 2863, subtitle F of title XXVIII, and sec. 2863 of the House bill, and secs. 311, 338, 601, 1263, 1264, 2850, and 12801 of the Senate amendment, and modifications committed to conference: Westerman, Cheney, and Grijalva.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 323, 501, 801, 803, 859-860A, 873, and 1101-09 of the House bill, and secs. 218, 544, 557, 801, 812, 821, 822, 829, 852, 902, 931, 934, 938, 1045, 1093, 1094, 1101, 1102, 1104-06, 1111-13, 2821, 2822, 6005, 6012, 10804, 11023-25, and 11603 of the Senate amendment, and modifications committed to conference: Meadows, Ross, and Lynch.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of sec. 223 of the House bill and secs. 897, 898, 1662-64, and 6002 of the Senate amendment, and modifications committed to conference: Smith (TX), Lucas, and Johnson, E. B..
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 801, 860B, 867, 1701-04, 1711-13, 1721-23, 1731-37, and 1741 of the House bill, and secs. 854, 862, 897, 898, 899C, 10801, and 10802 of the Senate amendment, and modifications committed to conference: Chabot, Kelly (MS), and Velazquez.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs 122, 311, 546, 601, 1082, 1617, 1695, 3501, 3502, 3505, and 3507-10 of the House bill, and secs. 331, 601, 1048, 6002, 13501, 13502, 13508, 13513, 13607, and 14013 of the Senate amendment, and modifications committed to conference: Graves (MO), Hunter, and Bustos.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 572, 573, 576, 578, 1077, and 2841 of the House bill, and secs. 731, 1084, 1088, 1264, 11001, 11008, and 14004 of the Senate amendment, and modifications committed to conference: Roe (TN), Bilirakis, and Walz.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of sec. 701 of the Senate amendment, and modifications committed to conference: Tiberi, Walorski, and Neal.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on the Budget for consideration of sec. 1262 of the House bill, and sec. 4 of the Senate amendment, and modifications committed to conference: Johnson (OH), Bergman, and Yarmuth.
+- 2017-10-12 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 515, 1062, 1063, 1067, 1080, 1695, 2843, and 3510 of the House bill, and secs. 520A, 529, 1035, 1081, 1083, 1217, 1264, and 14013 of the Senate amendment, and modifications committed to conference: Goodlatte, Issa, and Conyers.
+- 2017-10-12 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Nunes, Stewart, and Schiff.
+- 2017-10-12 — The previous question was ordered without objection.
+- 2017-10-16 — Message on House action received in Senate and at desk: House requests a conference.
+- 2017-10-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6424)
+- 2017-10-17 — Message on Senate action sent to the House.
+- 2017-10-17 — Senate insists on its amendment, agrees to request for a conference, appoints conferees McCain; Inhofe; Wicker; Fischer; Cotton; Rounds; Ernst; Tillis; Sullivan; Perdue; Cruz; Graham; Sasse; Strange; Reed; Nelson; McCaskill; Shaheen; Gillibrand; Blumenthal; Donnelly; Hirono; Kaine; King; Heinrich; Warren; Peters by Voice Vote. (consideration: CR S6424)
+- 2017-10-25 — Conference committee actions: Conference held.
+- 2017-10-25 — Conference held.
+- 2017-11-08 — Conferees agreed to file conference report.
+- 2017-11-08 — Conference committee actions: Conferees agreed to file conference report.
+- 2017-11-09 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2017-11-09 — Conference report H. Rept. 115-404 filed. (text of conference report: CR H8701-9136)
+- 2017-11-09 — Conference report filed: Conference report H. Rept. 115-404 filed.(text of conference report: CR H8701-9136)
+- 2017-11-13 — Rules Committee Resolution H. Res. 616 Reported to House. The resolution provides for one hour of general debate and closed rule for H.R. 2874. Also, the resolution provides for consideration of the conference report to accompany H.R. 2810.
+- 2017-11-14 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 356 - 70 (Roll no. 631).
+- 2017-11-14 — DEBATE - The House proceeded with 1 hour of debate on the Conference report to accompany H.R. 2810.
+- 2017-11-14 — Motions to reconsider laid on the table Agreed to without objection.
+- 2017-11-14 — Mr. Thornberry brought up conference report H. Rept. 115-404 for consideration under the provisions of H. Res. 616. (consideration: CR H9200-9209)
+- 2017-11-14 — On agreeing to the conference report Agreed to by the Yeas and Nays: 356 - 70 (Roll no. 631).
+- 2017-11-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conference Report to accompany H.R. 2810, the Chair put the question on agreeing to the Conference Report and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded the yeas and nays and the Chair postponed further proceedings on the Conference Report until later in the legislative day.
+- 2017-11-14 — Rule H. Res. 616 passed House.
+- 2017-11-14 — The House proceeded to consider the conference report H.Rept. 115-404 as unfinished business. (consideration: CR H9238-9239)
+- 2017-11-14 — The previous question was ordered pursuant to the rule.
+- 2017-11-16 — Conference papers: message on House action held at the desk in Senate.
+- 2017-11-16 — Conference report agreed to in Senate: Senate agreed to conference report by Voice Vote.
+- 2017-11-16 — Conference report considered in Senate.
+- 2017-11-16 — Message on Senate action sent to the House.
+- 2017-11-16 — Senate agreed to conference report by Voice Vote.
+- 2017-11-30 — Presented to President.
+- 2017-11-30 — Presented to President.
+- 2017-12-12 — Signed by President.
+- 2017-12-12 — Signed by President.
