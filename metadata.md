@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 390
@@ -89,3 +89,7 @@ Iraq and Syria Genocide Relief and Accountability Act of 2018
 - 2017-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4632-4633)
 - 2017-06-06 — The title of the measure was amended. Agreed to without objection.
 - 2017-06-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2017-09-19 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-09-19 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-09-19 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.
