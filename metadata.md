@@ -1,7 +1,7 @@
 ---
 measure: S. 396
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 396
@@ -30,3 +30,7 @@ A bill to make technical amendments to certain marine fish conservation statutes
 
 - 2017-02-15 — Introduced in Senate
 - 2017-02-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-05-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2017-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-160.
+- 2017-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-160.
+- 2017-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
