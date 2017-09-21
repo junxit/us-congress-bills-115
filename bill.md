@@ -13,26 +13,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017”.
 
-## § 2. Findings
+## § 2. Reaffirmation of status and actions
 
-Congress finds as follows:
-
-- **(1)** The Chumash People have resided along California’s Central Coast since time immemorial. Prior to contact with European settlers in 1769, an estimated 22,000 Chumash lived in villages between Malibu and Monterey, California.
-- **(2)** Like many California Indians, many of the Chumash people were forced to live on Spanish Missions. Mission life was cruel and resulted in the decimation of the Chumash people so that by 1831, the number of mission registered Chumash had fallen to 2,788.
-- **(3)** After the dissolution of Mission Santa Ines, in current day Santa Ynez, California, the Santa Ynez Band of Chumash Indian was able to begin to reassemble its government and culture. Tribal leaders and members continued to be marginalized until the United States granted the tribe 99 acres to establish its reservation in 1901.
-- **(4)** More than 100 years later, the tribe finally secured the resources to expand its reservation and purchased roughly 1,400 acres only a few miles away from its current lands. This land is more accurately described in section 3(e) of this legislation.
-- **(5)** On June 1, 2011, the Santa Ynez Band of Chumash Indians deliver a proposed cooperative agreement to the County of Santa Barbara as an initial offer to mitigate any potential impacts of taking the land into trust.
-- **(6)** On June 27, 2013, after waiting more than two years for a response from Santa Barbara County to the tribe’s proposed mitigation agreement, the Santa Ynez Band of Chumash Indians submitted a fee-to-trust application for the Camp 4 property.
-- **(7)** The BIA published a Notice of Availability for the initial Environmental Assessment and invited comments through an extended comment period ending on November 18, 2013. In response to comments and changes in the plan for development of Camp 4, the BIA conducted another Environmental Assessment. A final, revised EA was published in May 2014 through a Notice of Availability, and comments on the revised Environmental Assessment were accepted through and extended comment period ending July 14, 2014.
-- **(8)** Based on the comments submitted to the revised Environmental Assessment for the proposed Federal action to accept the fee-to-trust transfer for the Santa Ynez Band of Chumash Indians, the Bureau of Indian Affairs issued a Finding of No Significant Impact on October 23, 2014.
-- **(9)** On December 24, 2014, the Bureau of Indian Affairs Pacific Region issued a Notice of Decision indicating its intent to accept the fee-to-trust transfer of the Camp 4 land.
-- **(10)** Throughout 2015, a number of parties appealed the Bureau of Indian Affairs’ proposed decision to take the Camp 4 land into trust on behalf of the Santa Ynez Band of Chumash Indians.
-- **(11)** On January 19, 2017, Department of the Interior Principal Deputy Assistant Secretary-Indian Affairs Lawrence S. Roberts dismissed the appeals and affirmed the December 24, 2014, Bureau of Indian Affairs Pacific Region decision to place the Camp 4 land into trust on behalf of the Santa Ynez Band of Chumash Indians.
-
-## § 3. Reaffirmation of status and actions
-
-- **(a)** *Ratification of trust status* The action taken by the Secretary on January 20, 2016, to place approximately 1,427.28 acres of land located in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
-- **(b)** *Ratification of actions of the secretary* The actions taken by the Secretary to assume jurisdiction over the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 20, 2015, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
+- **(a)** *Ratification of trust status* The action taken by the Secretary on January 20, 2017, to place approximately 1,427.28 acres of land located in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
+- **(b)** *Ratification of actions of the secretary* The actions taken by the Secretary to assume jurisdiction over the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 30, 2015, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
 - **(c)** *Ratification of actions of the secretary* The actions taken by the Secretary to dismiss the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 19, 2017, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
 - **(d)** *Administration*
   - **(1)** *Administration* The land placed into trust for the benefit of the Santa Ynez Band of Chumash Indians by the Secretary of the Interior on January 20, 2017, shall be a part of the Santa Ynez Indian Reservation and administered in accordance with the laws and regulations generally applicable to the land held in trust by the United States for an Indian tribe.
