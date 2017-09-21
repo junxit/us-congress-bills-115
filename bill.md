@@ -32,8 +32,9 @@ In this Act:
 - **(7)** *Renewable energy project* The term renewable energy project means a project carried out on covered land that uses wind, solar, or geothermal energy to generate energy.
 - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(9)** *Variance area* The term variance area means covered land that is—
-  - **(A)** not an exclusion area; and
-  - **(B)** not a priority area.
+  - **(A)** not an exclusion area;
+  - **(B)** not a priority area; and
+  - **(C)** identified by the Secretary as potentially available for renewable energy development and could be approved without a plan amendment, consistent with the principles of multiple use (as that term is defined in the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.)).
 
 ## § 3. Extension of funding for implementation of Geothermal Steam Act of 1970
 
@@ -43,7 +44,7 @@ In this Act:
     > - **(1)** *In general* Amounts
 
   - **(2)** by adding at the end the following:
-    > - **(2)** *Authorization* Effective for fiscal year 2017 and each fiscal year thereafter, amounts deposited under subsection (a) shall be available to the Secretary of the Interior for expenditure, without further appropriation or fiscal year limitation, to implement the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) and this Act.
+    > - **(2)** *Authorization* Effective for fiscal year 2018 and each fiscal year thereafter, amounts deposited under subsection (a) shall be available to the Secretary of the Interior for expenditure, without further appropriation or fiscal year limitation, to implement the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) and this Act.
 
 ## § 4. Land use planning; supplements to programmatic environmental impact statements
 
@@ -58,9 +59,9 @@ In this Act:
   - **(1)** review the adequacy of land allocations for geothermal, solar, and wind energy priority and variance areas for the purpose of encouraging new renewable energy development opportunities; and
   - **(2)** based on the review carried out under paragraph (1), add, modify, or eliminate priority, variance, and exclusion areas.
 - **(d)** *Compliance with the national environmental policy act* For purposes of this section, compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall be accomplished—
-  - **(1)** for geothermal energy, by supplementing the October 2008 final programmatic environmental impact statement for geothermal leasing in the western United States;
-  - **(2)** for solar energy, by supplementing the July 2012 final programmatic environmental impact statement for solar energy projects; and
-  - **(3)** for wind energy, by supplementing the July 2005 final programmatic environmental impact statement for wind energy projects.
+  - **(1)** for geothermal energy, by supplementing the October 2008 final programmatic environmental impact statement for geothermal leasing in the western United States and incorporating any additional regional analyses that have been completed by Federal agencies since the programmatic environmental impact statement was finalized;
+  - **(2)** for solar energy, by supplementing the July 2012 final programmatic environmental impact statement for solar energy projects and incorporating any additional regional analyses that have been completed by Federal agencies since the programmatic environmental impact statement was finalized; and
+  - **(3)** for wind energy, by supplementing the July 2005 final programmatic environmental impact statement for wind energy projects and incorporating any additional regional analyses that have been completed by Federal agencies since the programmatic environmental impact statement was finalized.
 - **(e)** *No effect on processing applications* A requirement to prepare a supplement to a programmatic environmental impact statement under this section shall not result in any delay in processing an application for a renewable energy project.
 - **(f)** *Coordination* In developing a supplement required by this section, the Secretary shall coordinate, on an ongoing basis, with appropriate State, tribal, and local governments, transmission infrastructure owners and operators, developers, and other appropriate entities to ensure that priority areas identified by the Secretary are—
   - **(1)** economically viable (including having access to transmission);
@@ -106,19 +107,19 @@ In this Act:
 
 ## § 7. Disposition of revenues
 
-- **(a)** *Disposition of revenues* Beginning on January 1, 2017, without further appropriation or fiscal year limitation, of the amounts collected as bonus bids, rentals, fees, or other payments under a right-of-way, permit, lease, or other authorization (other than under section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g))) for the development of wind or solar energy on covered land—
+- **(a)** *Disposition of revenues* Beginning on January 1, 2018, without further appropriation or fiscal year limitation, of the amounts collected as bonus bids, rentals, fees, or other payments under a right-of-way, permit, lease, or other authorization (other than under section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g))) for the development of wind or solar energy on covered land—
   - **(1)** 25 percent shall be paid by the Secretary of the Treasury to the State within the boundaries of which the revenue is derived;
   - **(2)** 25 percent shall be paid by the Secretary of the Treasury to the one or more counties within the boundaries of which the revenue is derived, to be allocated among the counties based on the percentage of land from which the revenue is derived;
   - **(3)** to be deposited in the Treasury and be made available to the Secretary to carry out the program established by section 6, including the transfer of the funds by the Bureau of Land Management to other Federal agencies and State agencies to facilitate the processing of renewable energy permits on Federal land, with priority given to using the amounts, to the maximum extent practicable, to expediting the issuance of permits required for the development of renewable energy projects in the States from which the revenues are derived—
-    - **(A)** 25 percent for each of fiscal years 2016 through 2025;
-    - **(B)** 20 percent for each of fiscal years 2026 through 2030;
-    - **(C)** 15 percent for each of fiscal years 2031 through 2035; and
-    - **(D)** 10 percent for fiscal year 2036 and each fiscal year thereafter; and
+    - **(A)** 25 percent for each of fiscal years 2018 through 2027;
+    - **(B)** 20 percent for each of fiscal years 2028 through 2032;
+    - **(C)** 15 percent for each of fiscal years 2033 through 2037; and
+    - **(D)** 10 percent for fiscal year 2038 and each fiscal year thereafter; and
   - **(4)** to be deposited in the Renewable Energy Resource Conservation Fund established by subsection (c)—
-    - **(A)** 25 percent for each of fiscal years 2016 through 2025;
-    - **(B)** 30 percent for each of fiscal years 2026 through 2030;
-    - **(C)** 35 percent for each of fiscal years 2031 through 2035; and
-    - **(D)** 40 percent for fiscal year 2036 and each fiscal year thereafter.
+    - **(A)** 25 percent for each of fiscal years 2018 through 2027;
+    - **(B)** 30 percent for each of fiscal years 2028 through 2032;
+    - **(C)** 35 percent for each of fiscal years 2033 through 2037; and
+    - **(D)** 40 percent for fiscal year 2038 and each fiscal year thereafter.
 - **(b)** *Payments to states and counties*
   - **(1)** *In general* Amounts paid to States and counties under subsection (a) shall be used consistent with section 35 of the Mineral Leasing Act (30 U.S.C. 191).
   - **(2)** *Payments in lieu of taxes* A payment to a county under paragraph (1) shall be in addition to a payment in lieu of taxes received by the county under chapter 69 of title 31, United States Code.
@@ -129,12 +130,17 @@ In this Act:
       - **(i)** fish and wildlife habitat for affected species;
       - **(ii)** fish and wildlife corridors for affected species; and
       - **(iii)** water resources in areas affected by wind, geothermal, or solar energy development; and
-    - **(B)** preserving and improving recreational access to Federal land and water in an affected region through an easement, right-of-way, or other instrument from willing landowners for the purpose of enhancing public access to existing Federal land and water that is inaccessible or significantly restricted.
-  - **(3)** *Partnerships* The Secretary may enter into cooperative agreements with State and tribal agencies, nonprofit organizations, and other appropriate entities to carry out the activities described in subparagraphs (A) and (B) of paragraph (2).
-  - **(4)** *Investment of fund*
+    - **(B)** preserving and improving recreational access to Federal land and water in an affected region through an easement, right-of-way, or other instrument from willing landowners for the purpose of enhancing public access to existing Federal land and water that is inaccessible or restricted.
+  - **(3)** *Restriction on use of funds* No funds made available under this subsection may be used for the purchase of real property unless in fulfillment of subparagraph (B) of paragraph (2).
+  - **(4)** *Partnerships* The Secretary may enter into cooperative agreements with State and tribal agencies, nonprofit organizations, and other appropriate entities to carry out the activities described in subparagraphs (A) and (B) of paragraph (2).
+  - **(5)** *Investment of fund*
     - **(A)** *In general* Any amounts deposited in the Fund shall earn interest in an amount determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
     - **(B)** *Use* Any interest earned under subparagraph (A) may be expended in accordance with this subsection.
-  - **(5)** *Intent of congress* It is the intent of Congress that the revenues deposited and used in the Fund shall supplement (and not supplant) annual appropriations for activities described in subparagraphs (A) and (B) of paragraph (2).
+  - **(6)** *Report to Congress* At the end of each fiscal year, the Secretary shall report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
+    - **(A)** the amount collected as described in subsection (a), by source, during that fiscal year;
+    - **(B)** the amount and purpose of payments during that fiscal year to each Federal, State, and tribal agency under paragraph (2); and
+    - **(C)** the amount remaining in the Fund at the end of the fiscal year.
+  - **(7)** *Intent of congress* It is the intent of Congress that the revenues deposited and used in the Fund shall supplement (and not supplant) annual appropriations for activities described in subparagraphs (A) and (B) of paragraph (2).
 
 ## § 8. Savings clause
 
