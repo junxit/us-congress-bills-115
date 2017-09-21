@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2142
@@ -16,9 +16,26 @@ INTERDICT Act
 
 - Rep. Tsongas, Niki [D-MA-3] (T000465)
 
-## Cosponsors (1)
+## Cosponsors (18)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
 
 ## Committees (1)
 
@@ -29,3 +46,11 @@ INTERDICT Act
 - 2017-04-25 — Introduced in House
 - 2017-04-25 — Introduced in House
 - 2017-04-25 — Referred to the House Committee on Homeland Security.
+- 2017-05-02 — Sponsor introductory remarks on measure. (CR H3011)
+- 2017-05-16 — Referred to the Subcommittee on Border and Maritime Security.
+- 2017-09-07 — Committee Consideration and Mark-up Session Held.
+- 2017-09-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-09-07 — Subcommittee on Border and Maritime Security Discharged.
+- 2017-09-21 — Placed on the Union Calendar, Calendar No. 227.
+- 2017-09-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-317.
+- 2017-09-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-317.
