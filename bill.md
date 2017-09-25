@@ -46,6 +46,11 @@ This Act may be cited as the “Fair Chance to Compete for Jobs Act of 2017” o
   - **(2)** *Clerical amendment* The table of contents of such Act is amended—
     - **(A)** by redesignating the item relating to section 207 as the item relating to section 208; and
     - **(B)** by inserting after the item relating to section 206 the following new item:
+  - **(2)** *Clerical amendments*
+    - **(A)** The table of contents in section 1(b) of the Congressional Accountability Act of 1995 (Public Law 104–1; 109 Stat. 3) is amended—
+      - **(i)** by redesignating the item relating to section 207 as the item relating to section 208; and
+      - **(ii)** by inserting after the item relating to section 206 the following new item:
+    - **(B)** Section 62(e)(2) of the Internal Revenue Code of 1986 is amended by striking “207” and inserting “208”.
 - **(e)** *Application to judicial branch*
   - **(1)** *In general* Section 604 of title 28, United States Code, is amended by adding at the end the following:
     > - **(i)** *Restrictions on criminal history inquiries*

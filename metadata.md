@@ -1,7 +1,7 @@
 ---
 measure: S. 842
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 842
@@ -16,13 +16,15 @@ Fair Chance to Compete for Jobs Act of 2017
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -32,3 +34,7 @@ Fair Chance to Compete for Jobs Act of 2017
 
 - 2017-04-05 — Introduced in Senate
 - 2017-04-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S2366-2367)
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2017-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-162.
+- 2017-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-162.
+- 2017-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
