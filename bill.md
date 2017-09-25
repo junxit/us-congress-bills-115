@@ -20,11 +20,10 @@ Section 399V–2 of the Public Health Service Act (42 U.S.C. 280g–13) is amend
 > ## § 399V–2. National congenital heart disease research, surveillance, and awareness
 >
 > - **(a)** *In general* The Secretary shall—
->   - **(1)** enhance and expand research and surveillance infrastructure to study and track the epidemiology of congenital heart disease (in this section referred to as “CHD”);
->   - **(2)** plan and implement a public outreach and education campaign regarding CHD across the lifespan; and
->   - **(3)** award grants to eligible entities to undertake the activities described in subsections (b) and (c).
+>   - **(1)** enhance and expand research and surveillance infrastructure to study and track the epidemiology of congenital heart disease (in this section referred to as “CHD”); and
+>   - **(2)** award grants to eligible entities to undertake the activities described in this section.
 > - **(b)** *National congenital heart disease study*
->   - **(1)** *In general* The Director of the Centers for Disease Control and Prevention shall plan, develop, implement, and submit one or more reports to the Congress on a study to improve understanding of the epidemiology of CHD across the lifespan, from birth to adulthood, with particular interest in the following:
+>   - **(1)** *In general* The Secretary shall plan, develop, implement, and submit one or more reports to the Congress on a study to improve understanding of the epidemiology of CHD across the lifespan, from birth to adulthood, with particular interest in the following:
 >     - **(A)** Health care utilization of those affected by CHD.
 >     - **(B)** Demographic factors associated with CHD, such as age, race, ethnicity, gender, and family history of individuals who are diagnosed with the disease.
 >     - **(C)** Outcome measures, such that analysis of the outcome measures will allow derivation of evidence-based best practices and guidelines for CHD patients.
@@ -36,15 +35,10 @@ Section 399V–2 of the Public Health Service Act (42 U.S.C. 280g–13) is amend
 >     - **(A)** for purposes of CHD research, subject to appropriate protections of personal privacy, including protections required by paragraph (4); and
 >     - **(B)** to the public, subject to paragraph (4) and with appropriate exceptions for protection of personal privacy.
 >   - **(4)** *Patient privacy* The Secretary shall ensure that the study under this subsection is carried out in a manner that complies with the requirements applicable to a covered entity under the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
-> - **(c)** *Congenital heart disease awareness campaign*
->   - **(1)** *In general* The Director of the Centers for Disease Control and Prevention shall establish and implement an awareness, outreach, and education campaign regarding CHD across the lifespan.
->   - **(2)** *Permissible activities* The campaign under this subsection may—
->     - **(A)** utilize collaborations or partnerships with other agencies, health care professionals, and patient advocacy organizations that specialize in the needs of individuals with CHD; and
->     - **(B)** include the use of print, film, and electronic materials distributed via television, radio, Internet, or other commercial marketing venues.
-> - **(d)** *Eligibility for grants* To be eligible to receive a grant under subsection (a)(3), an entity shall—
+> - **(c)** *Eligibility for grants* To be eligible to receive a grant under subsection (a)(2), an entity shall—
 >   - **(1)** be a public or private nonprofit entity with specialized experience in CHD; and
 >   - **(2)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-> - **(e)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $4,000,000 for each of fiscal years 2017 through 2021.
+> - **(d)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $4,000,000 for each of fiscal years 2018 through 2022.
 
 ## § 3. Congenital heart disease research
 
@@ -60,7 +54,7 @@ Section 425 of the Public Health Service Act (42 U.S.C. 285b–8) is amended to 
 >   - **(5)** identifying barriers to lifelong care for individuals with congenital heart disease.
 > - **(b)** *Coordination of research activities* The Director of the Institute may coordinate research efforts related to congenital heart disease among multiple research institutions and may develop research networks.
 > - **(c)** *Minority and medically underserved communities* In carrying out the activities described in this section, the Director of the Institute shall consider the application of such research and other activities to minority and medically underserved communities.
-> - **(d)** *Report from NIH* Not later than 1 year after the date of enactment of the Congenital Heart Futures Reauthorization Act of 2017, the Director of NIH, acting through the Director of the Institute, shall provide a report to Congress—
+> - **(d)** *Report from NIH* Not later than one year after the date of the enactment of the Congenital Heart Futures Reauthorization Act of 2017, the Director of NIH, acting through the Director of the Institute, shall provide a report to Congress—
 >   - **(1)** outlining the ongoing research efforts of the National Institutes of Health regarding congenital heart disease; and
 >   - **(2)** identifying—
 >     - **(A)** future plans for research regarding congenital heart disease; and
