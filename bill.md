@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Security and Accountability for Every Port Act of 2006 to reauthorize the Customs-Trade Partnership Against Terrorism Program, and for other purposes.
 
-## § 1. Customs-Trade Partnership Against Terrorism
+## § 1. Short title
+
+This Act may be cited as the “C-TPAT Reauthorization Act of 2017”.
+
+## § 2. Customs-Trade Partnership Against Terrorism
 
 - **(a)** *In general* Subtitle B of title II of the Security and Accountability for Every Port Act of 2006 (6 U.S.C. 961 et seq.) is amended to read as follows:
 - **(b)** *Saving clause*
