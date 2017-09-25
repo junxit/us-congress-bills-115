@@ -13,35 +13,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Action for Dental Health Act of 2017”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** More than 181 million Americans will not visit a dentist even though nearly half of people over 30 suffer from some form of gum disease and nearly one in four children under the age of five already have cavities.
-- **(2)** Many volunteer dental projects sponsored by national, State, and local dental societies provide free care now to those most in need. Annually, dentists deliver an estimated $2.6 billion in free and discounted care according to the America’s Dentists Care Foundation.
-- **(3)** It is estimated that emergency department (ED) charges for dental complaints totaled up to $2.1 billion in 2010. Nearly 80 percent of the dental emergency room visits were nonurgent and could have been seen in a dental office. Shifting those ED visits to a dental office translates into potential cost savings of up to $1.7 billion a year and offers the possibility of establishing a “dental home” for these individuals.
-- **(4)** Seniors, especially those in nursing homes and long-term care facilities, often have special dental needs and complicated medical histories that require consultation between dentists and fellow medical professionals in providing an interdisciplinary approach to their overall health needs.
-
-## § 3. Volunteer dental projects and action for dental health program
+## § 2. Volunteer dental projects and action for dental health program
 
 Section 317M of the Public Health Service Act (42 U.S.C. 247b–14) is amended—
 
-- **(1)** by redesignating subsections (e) and (f) as subsections (g) and (h), respectively;
-- **(2)** by inserting after subsection (d), the following new subsection:
-  > - **(e)** *Grants To Support Volunteer Dental Projects*
-  >   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to or enter into contracts with eligible entities to obtain portable or mobile dental equipment, and pay for appropriate operational costs, for the provision of free dental services to underserved populations that are delivered in a manner consistent with State licensing laws.
-  >   - **(2)** *Eligible entity* In this subsection, the term eligible entity includes a State or local dental association, a State oral health program, a dental education, dental hygiene education, or postdoctoral dental education program accredited by the Commission on Dental Accreditation, or a community-based organization that partners with an academic institution, that—
-  >     - **(A)** is exempt from tax under section 501(c) of the Internal Revenue Code of 1986; and
-  >     - **(B)** offers a free dental services program for underserved populations.
-  > - **(f)** *Action for Dental Health Program*
-  >   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to or enter into contracts with eligible entities to collaborate with State, county, or local public officials and other stakeholders to develop and implement initiatives to accomplish any of the following goals:
+- **(1)** by redesignating subsections (e) and (f) as subsections (f) and (g), respectively;
+- **(2)** by inserting after subsection (d) the following new subsection:
+  > - **(e)** *Action for dental health program*
+  >   - **(1)** *In general* The Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Administrator of the Health Resources and Service Administration, may award grants to or enter into contracts with eligible entities to collaborate with State, county, or local public officials and other stakeholders to develop and implement initiatives to accomplish any of the following goals:
   >     - **(A)** To improve oral health education and dental disease prevention, including through community-wide prevention programs, through the use of dental sealants and fluoride varnish, and by increasing oral health literacy.
-  >     - **(B)** To make the health care delivery system providing dental services more accessible and efficient through the development and expansion of outreach programs that will facilitate the establishment of dental homes for children and adults, including for the aged, blind, and disabled populations.
-  >     - **(C)** To reduce geographic barriers, language barriers, cultural barriers, and other similar barriers to the provision of dental services.
-  >     - **(D)** To help reduce the use of emergency departments by individuals who seek dental services more appropriately delivered in a dental primary care setting.
-  >     - **(E)** To facilitate the provision of dental care to nursing home residents who are disproportionately affected by the lack of dental care.
-  >   - **(2)** *Eligible entity* In this subsection, the term eligible entity includes a State or local dental association; a State oral health program; or a dental education, dental hygiene, or postdoctoral dental education program accredited by the Commission on Dental Accreditation, or a community-based organization that partners with an academic institution, that—
-  >     - **(A)** is exempt from tax under section 501(c) of the Internal Revenue Code of 1986; and
-  >     - **(B)** partners with public and private stakeholders to facilitate the provision of dental services for underserved populations.
+  >     - **(B)** To reduce geographic barriers, language barriers, cultural barriers, and other similar barriers to the provision of dental services.
+  >   - **(2)** *Eligible entity* In this subsection, the term eligible entity means an entity that is—
+  >     - **(A)** a State or local dental association;
+  >     - **(B)** a State oral health program;
+  >     - **(C)** a dental education, dental hygiene, or postdoctoral dental education program accredited by the Commission on Dental Accreditation; or
+  >     - **(D)** a community-based organization that—
+  >       - **(i)** partners with an academic institution;
+  >       - **(ii)** is exempt from tax under section 501(c) of the Internal Revenue Code of 1986; and
+  >       - **(iii)** partners with public and private stakeholders to facilitate the provision of dental services for underserved populations.
 
-- **(3)** in subsection (h), as redesignated by paragraph (1), by inserting “and $18,000,000 for each of the fiscal years 2018 through 2022” after “fiscal years 2001 through 2005”.
+- **(3)** in subsection (g), as redesignated by paragraph (1), by striking “such sums as may be necessary for each of the fiscal years 2001 through 2005” and inserting “$18,000,000 for each of the fiscal years 2018 through 2022”.
+
+## § 3. Grants for innovative programs
+
+Section 340G of the Public Health Service Act (42 U.S.C. 256g) is amended—
+
+- **(1)** in subsection (b)(5)—
+  - **(A)** in subparagraph (B), by striking “and” at the end; and
+  - **(B)** by adding at the end the following:
+    > - **(D)** the establishment of dental homes for children and adults, including for the aged, blind, and disabled populations;
+    > - **(E)** the establishment of initiatives to reduce the use of emergency departments by individuals who seek dental services more appropriately delivered in a dental primary care setting; and
+    > - **(F)** the provision of dental care to nursing home residents;
+
+- **(2)** in subsection (f), by striking “$25,000,000 for the 5-fiscal year period beginning with fiscal year 2008” and inserting “$13,903,000 for each of fiscal years 2018 through 2022”.
