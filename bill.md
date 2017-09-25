@@ -23,5 +23,5 @@ Section 2 of the National Labor Relations Act (29 U.S.C. 152) is amended—
   > - **(16)** The term Indian means any individual who is a member of an Indian tribe.
   > - **(17)** The term Indian lands means—
   >   - **(A)** all lands within the limits of any Indian reservation;
-  >   - **(B)** any lands title to which is either held in trust by the United States for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to restriction by the United States against alienation; and
+  >   - **(B)** any lands title to which is either held in trust by the United States for the benefit of any Indian tribe or Indian or held by any Indian tribe or Indian subject to restriction by the United States against alienation; and
   >   - **(C)** any lands in the State of Oklahoma that are within the boundaries of a former reservation (as defined by the Secretary of the Interior) of a federally recognized Indian tribe.
