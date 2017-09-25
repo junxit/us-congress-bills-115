@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2199
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2199
@@ -29,3 +29,11 @@ Federal Land Asset Inventory Reform Act of 2017
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Introduced in House
 - 2017-04-27 — Referred to the House Committee on Natural Resources.
+- 2017-05-03 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2017-05-03 — Referred to the Subcommittee on Federal Lands.
+- 2017-05-23 — Subcommittee Hearings Held.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-09-25 — Placed on the Union Calendar, Calendar No. 232.
+- 2017-09-25 — Reported by the Committee on Natural Resources. H. Rept. 115-322.
+- 2017-09-25 — Reported by the Committee on Natural Resources. H. Rept. 115-322.
