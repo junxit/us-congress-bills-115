@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 6 executed, 0 stated and not applied.
+13 amendatory instructions. 10 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,25 @@ to guess them.
 
 ### 22 U.S.C. § 7814
 
-> Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by striking “2017” in each place it appears and inserting “2022”.
+> by striking “$2,000,000” and inserting “$3,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$2,000,000` |
+| Inserted | `$3,000,000` |
+
+### 22 U.S.C. § 7814
+
+> by striking “2017” and inserting “2022”; and
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2022` |
+
+### 22 U.S.C. § 7814
+
+> in subsection (c), by striking “2017” and inserting “2022”.
 
 | | |
 |---|---|
@@ -77,3 +95,34 @@ to guess them.
 |---|---|
 | Removed | `2017` |
 | Inserted | `2022` |
+
+### 22 U.S.C. § 7813
+
+> by striking “radio broadcasting” and inserting “broadcasting, including news rebroadcasting,”; and
+
+| | |
+|---|---|
+| Removed | `radio broadcasting` |
+| Inserted | `broadcasting, including news rebroadcasting,` |
+
+### 22 U.S.C. § 7813
+
+> by striking “increase broadcasts” and inserting “increase such broadcasts, including news rebroadcasts,”; and
+
+| | |
+|---|---|
+| Removed | `increase broadcasts` |
+| Inserted | `increase such broadcasts, including news rebroadcasts,` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `22 U.S.C. § 7814` | replace | by striking “The President” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7814` | insert | by inserting “, USB drives, micro SD cards, audio players, video players, cell phones, wi-fi, wireless internet, webpages, internet, wireless telecommunications, and other electronic media that share information” before the period at the… | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7814` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
