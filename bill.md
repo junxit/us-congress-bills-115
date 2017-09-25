@@ -22,10 +22,10 @@ The Congress finds the following:
 - **(3)** The Naismith Memorial Basketball Hall of Fame honors players who have achieved greatness, exemplary coaches, referees and other major contributors to the sport of basketball. The Inaugural Hall of Fame Class of 1959 had seventeen honorees who were inducted, including Dr. James Naismith, George Mikan, Forrest C. Allen, Angelo Luisetti, Original Celtics and First Team.
 - **(4)** The Naismith Memorial Basketball Hall of Fame is recognized throughout the world as the premier institution entrusted with recording and disseminating the history of the game of basketball and recognizing and honoring the achievements of its greatest players, coaches, and contributors.
 - **(5)** The Naismith Memorial Basketball Hall of Fame provides an entertaining, enriching experience and is known for its educational outreach programs and celebrates and promotes positive core values demonstrated by basketball’s hallowed heroes and its founder.
-- **(6)** Basketball is one of America’s national treasures; with its fast pace which reflects the freedom of expression and the modern experience of life in the 21st century.
+- **(6)** Basketball is one of America’s national treasures, with its fast pace which reflects the freedom of expression and the modern experience of life in the 21st century.
 - **(7)** Since its opening in 1959, the Naismith Memorial Basketball Hall of Fame is home to the largest collection of basketball memorabilia in the world, including more than 30,000 three-dimensional objects, 800,000 photographs, and 1.5 million documents.
-- **(8)** The Naismith Memorial Basketball Hall of Fame welcomes more than 6,000,000 visitors interested in discovering the rich history of the game through its stories, its personalities, and its most celebrated moments.
-- **(9)** The Naismith Memorial Basketball Hall of Fame reaches over seven million Americans through its educational programs, events, exhibits, social media, and its interactive website.
+- **(8)** The Naismith Memorial Basketball Hall of Fame welcomes more than 6 million visitors interested in discovering the rich history of the game through its stories, its personalities, and its most celebrated moments.
+- **(9)** The Naismith Memorial Basketball Hall of Fame reaches over 7 million Americans through its educational programs, events, exhibits, social media, and its interactive website.
 - **(10)** The Naismith Memorial Basketball Hall of Fame’s customized educational programs use basketball to teach young students around the world the important lessons on a variety of topics including: financial literacy, mathematics, civil rights, leadership of character, women’s and men’s history, and geography.
 - **(11)** The Naismith Memorial Basketball Hall of Fame will lead the celebration of the 60th Anniversary of Basketball and will partner with a select group of constituents including the National Basketball Association, the National Collegiate Athletic Association, and USA Basketball in commemorating the game throughout the 2019–2020 basketball season.
 
@@ -55,7 +55,7 @@ The Congress finds the following:
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 - **(b)** *Designations and inscriptions* On each coin minted under this Act there shall be—
   - **(1)** a designation of the value of the coin;
-  - **(2)** an inscription of the year “2019”; and
+  - **(2)** an inscription of the year “2020”; and
   - **(3)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(c)** *Selection and approval process for obverse design*
   - **(1)** *In general* The Secretary shall hold a competition to determine the design of the common obverse of the coins minted under this Act, with such design being emblematic of the game of basketball.
@@ -67,7 +67,7 @@ The Congress finds the following:
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2019.
+- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2020.
 
 ## § 6. Sale of coins
 
