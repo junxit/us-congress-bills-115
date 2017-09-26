@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2061
@@ -35,9 +35,10 @@ North Korean Human Rights Reauthorization Act of 2017
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ North Korean Human Rights Reauthorization Act of 2017
 - 2017-09-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 531). (text: CR H7441-7442)
 - 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 531).(text: CR H7441-7442)
+- 2017-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
