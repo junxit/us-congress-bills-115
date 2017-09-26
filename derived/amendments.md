@@ -1,7 +1,7 @@
 ---
 measure: S. 1057
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 3 executed, 26 stated and not applied.
+19 amendatory instructions. 2 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 33 U.S.C. § 4001a
-
-> Section 102 of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 (33 U.S.C. 4001a) is amended by striking “the amendments made by this title” and inserting “the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998”.
-
-| | |
-|---|---|
-| Removed | `the amendments made by this title` |
-| Inserted | `the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998` |
 
 ### 33 U.S.C. § 4002
 
@@ -60,15 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 4001` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 4001` | redesignate | by redesignating paragraph (13) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | strike | by striking subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | redesignate | by redesignating subsections (g), (h), (i), and (j) as subsections (f), (g), (h), and (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | in the heading, by inserting “marine and freshwater” after “assessments of”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 4001` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | amend | by amending the third sentence to read as follows: “Each assessment shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries and those that originate in freshwater l… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4009` | insert | Section 609(a) (33 U.S.C. 4009(a)) is amended by inserting “, and $22,000,000 for each of fiscal years 2019 through 2023” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 4001` | strike | in paragraph (12), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 4001` | redesignate | by redesignating paragraph (13) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4001` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
