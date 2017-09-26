@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3819
@@ -40,3 +40,4 @@ Department of Veterans Affairs Expiring Authorities Act of 2017
 - 2017-09-25 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-25 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-25 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-26 — Received in the Senate, read twice.
