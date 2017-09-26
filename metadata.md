@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2519
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2519
@@ -420,3 +420,10 @@ The American Legion 100th Anniversary Commemorative Coin Act
 - 2017-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7452-7453)
 - 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7452-7453)
 - 2017-09-26 — Received in the Senate, read twice.
+- 2017-09-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S6232)
+- 2017-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6232)
+- 2017-09-29 — Message on Senate action sent to the House.
+- 2017-09-29 — Presented to President.
+- 2017-09-29 — Presented to President.
+- 2017-10-06 — Signed by President.
+- 2017-10-06 — Signed by President.
