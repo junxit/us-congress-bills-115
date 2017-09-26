@@ -1,0 +1,15 @@
+---
+legis-num: S. 1857
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1857
+
+> To establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.
+
+## § 1. Step 2 compliance deadline for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces
+
+- **(a)** *In general* With respect to the final rule entitled “Standards of Performance for New Residential Wood Heaters, New Residential Hydronic Heaters and Forced-Air Furnaces” (80 Fed. Reg. 13672 (March 16, 2015)), the compliance deadline for Step 2 emissions standards shall be May 15, 2023.
+- **(b)** *Technical and conforming changes* Not later than 60 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall finalize such technical and conforming changes to rules and guidance documents as may be necessary to implement subsection (a).
