@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 114
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 114
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate on humanitarian crises in Nigeri
 
 - Sen. Young, Todd [R-IN] (Y000064)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Gardner, Cory [R-CO] (G000562)
@@ -24,6 +24,7 @@ A resolution expressing the sense of the Senate on humanitarian crises in Nigeri
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -37,3 +38,12 @@ A resolution expressing the sense of the Senate on humanitarian crises in Nigeri
 - 2017-06-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2017-06-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2017-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.
+- 2017-09-26 — Amendment SA 1103 agreed to in Senate by Unanimous Consent.
+- 2017-09-26 — Amendment SA 1103 proposed by Senator Cornyn for Senator Lee. (consideration: CR S6140; text: CR S6140) To recognize that charities, non-profit organizations, religious organizations, and businesses of the United States have an important role in addressing humanitarian crises.
+- 2017-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S6143-6144)
+- 2017-09-26 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR 9/27/2017 S6191)
+- 2017-09-26 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR 9/27/2017 S6191)
+- 2017-09-26 — Senate amendment agreed to: Amendment SA 1103 agreed to in Senate by Unanimous Consent.
+- 2017-09-26 — Senate amendment proposed (on the floor): Amendment SA 1103 proposed by Senator Cornyn for Senator Lee.(consideration: CR S6140; text: CR S6140)
+- 2017-09-26 — Senate amendment submitted
+- 2017-09-26 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S6143)
