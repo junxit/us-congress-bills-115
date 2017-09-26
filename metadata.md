@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 533
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 533
@@ -27,3 +27,12 @@ Providing for consideration of the bill (H.R. 2824) to amend title V of the Soci
 - 2017-09-25 — The House Committee on Rules reported an original measure, H. Rept. 115-331, by Mr. Burgess.
 - 2017-09-25 — The House Committee on Rules reported an original measure, H. Rept. 115-331, by Mr. Burgess.
 - 2017-09-25 — The resolution provides a structured rule for H.R. 2824, and closed rule for H.R. 2792. It provides for 1 hour of general debate for both bills.
+- 2017-09-26 — Considered as privileged matter. (consideration: CR H7499-7503)
+- 2017-09-26 — Considered as unfinished business. (consideration: CR H7504-7505)
+- 2017-09-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 533.
+- 2017-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-26 — On agreeing to the resolution Agreed to by recorded vote: 230 - 190 (Roll no. 533). (text: CR H7499-7500)
+- 2017-09-26 — On ordering the previous question Agreed to by the Yeas and Nays: 230 - 189 (Roll no. 532). (consideration: CR H7504)
+- 2017-09-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 533, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes prevailed. Mr. Hastings demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2017-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 230 - 190 (Roll no. 533).(text: CR H7499-7500)
+- 2017-09-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on ordering the previous question and adoption of H.Res. 533, all of which had been debated earlier and on which further proceedings had been postponed.
