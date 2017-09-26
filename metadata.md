@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1235
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1235
@@ -310,9 +310,10 @@ Naismith Memorial Basketball Hall of Fame Commemorative Coin Act
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -325,3 +326,4 @@ Naismith Memorial Basketball Hall of Fame Commemorative Coin Act
 - 2017-09-25 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2017-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7450-7451)
 - 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7450-7451)
+- 2017-09-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
