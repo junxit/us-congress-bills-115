@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1235
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1235
@@ -327,3 +327,14 @@ Naismith Memorial Basketball Hall of Fame Commemorative Coin Act
 - 2017-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7450-7451)
 - 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7450-7451)
 - 2017-09-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-12-18 — Passed Senate without amendment by Voice Vote.
+- 2018-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-12-18 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S7822)
+- 2018-12-18 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S7822)
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Presented to President.
+- 2018-12-19 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-343.
+- 2018-12-21 — Became Public Law No: 115-343.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
