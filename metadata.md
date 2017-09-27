@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 870
@@ -40,9 +40,11 @@ Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -53,3 +55,7 @@ Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC
 - 2017-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.
 - 2017-09-26 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6147-6153; text: CR S6147-6152)
 - 2017-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6147-6153; text: CR S6147-6152)
+- 2017-09-27 — Message on Senate action sent to the House.
+- 2017-09-27 — Received in the House.
+- 2017-09-27 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-27 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
