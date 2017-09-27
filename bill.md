@@ -2,56 +2,131 @@
 legis-num: H.R. 2266
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2266
 
-> To amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.
+That the bill from the House of Representatives (H.R. 2266) entitled “An Act to amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Bankruptcy Judgeship Act of 2017”.
 
-## § 2. Conversion of the temporary office of bankruptcy judge to the permanent office of bankruptcy judge in certain judicial districts
+## § 2. Extension of temporary office of bankruptcy judges in certain judicial districts
 
-- **(a)** *District of Delaware*
-  - **(1)** The temporary office of four bankruptcy judges authorized for the district of Delaware by section 1223(b)(1)(C) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(C) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(1) of this Act, and may be filled.
-  - **(2)** The temporary office of bankruptcy judge authorized for the district of Delaware by section 3(a)(3) of Public Law 102–361 (106 Stat. 966; 28 U.S.C. 152 note), and extended by section 1223(c)(1) of Public Law 109–8 (119 Stat. 198; 28 U.S.C. 152 note) and section 2(b)(1) of Public Law 112–121 (126 Stat. 347; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(1) of this Act, and may be filled.
-- **(b)** *Southern District of Florida* The temporary office of two bankruptcy judges authorized for the southern district of Florida by section 1223(b)(1)(D) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(D) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(3) of this Act, and may be filled.
-- **(c)** *District of Maryland* The temporary office of one bankruptcy judge first appointed as authorized for the district of Maryland by section 1223(b)(1)(F) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(F) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(4) of this Act, and may be filled.
-- **(d)** *Eastern District of Michigan* The temporary office of bankruptcy judge authorized for the eastern district of Michigan by section 1223(b)(1)(G) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(G) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(5) of this Act, and may be filled.
-- **(e)** *District of Nevada* The temporary office of bankruptcy judge authorized for the district of Nevada by section 1223(b)(1)(T) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(Q) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(6) of this Act, and may be filled.
-- **(f)** *Eastern District of North Carolina* The temporary office of bankruptcy judge authorized for the eastern district of North Carolina by section 1223(b)(1)(M) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(J) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(7) of this Act, and may be filled.
-- **(g)** *District of Puerto Rico*
-  - **(1)** The temporary office of bankruptcy judge authorized for the district of Puerto Rico by section 1223(b)(1)(P) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(M) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and represented in the amendment made by section 3(8) of this Act, and may be filled.
-  - **(2)** The temporary office of bankruptcy judge authorized for the district of Puerto Rico by section 3(a)(7) of Public Law 102–361 (106 Stat. 966; 28 U.S.C. 152 note), and extended by section 1223(c)(1) of Public Law 109–8 (119 Stat. 198; 28 U.S.C. 152 note) and section 2(b)(1) of Public Law 112–121 (126 Stat. 347; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and is represented in the amendment made by section 3(8) of this Act, and may be filled.
-- **(h)** *Eastern District of Virginia* The temporary office of bankruptcy judge authorized for the eastern district of Virginia by section 1223(b)(1)(R) of Public Law 109–8 (119 Stat. 197; 28 U.S.C. 152 note), and extended by section 2(a)(1)(P) of Public Law 112–121 (126 Stat. 346; 28 U.S.C. 152 note), is converted hereby to the permanent office of bankruptcy judge and is represented in the amendment made by section 3(9) of this Act, and may be filled.
+- **(a)** *Temporary office of bankruptcy judges authorized by the Bankruptcy Judgeship Act of 2005*
+  - **(1)** *Extensions* The temporary office of bankruptcy judges authorized for the following districts by subsection (b) of the Bankruptcy Judgeship Act of 2005 (28 U.S.C. 152 note) are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs:
+    - **(A)** The district of Delaware.
+    - **(B)** The southern district of Florida.
+    - **(C)** The district of Maryland.
+    - **(D)** The eastern district of Michigan.
+    - **(E)** The district of Nevada.
+    - **(F)** The eastern district of North Carolina.
+    - **(G)** The district of Puerto Rico.
+    - **(H)** The eastern district of Virginia.
+  - **(2)** *Vacancies*
+    - **(A)** *Single vacancies* Except as provided in subparagraphs (B), (C), and (D), the 1st vacancy in the office of a bankruptcy judge for each district specified in paragraph (1)—
+      - **(i)** occurring more than 5 years after the date of the enactment of this Act, and
+      - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+    - **(B)** *District of Delaware* The 1st, 2d, 3d, and 4th vacancies in the office of a bankruptcy judge for the district of Delaware—
+      - **(i)** occurring 5 years or more after the date of the enactment of this Act, and
+      - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+    - **(C)** *District of Maryland*
+      - **(i)** The 1st vacancy in the office of a bankruptcy judge for the district of Maryland—
+        - **(I)** occurring more than 5 years after the date of the enactment of this Act, and
+        - **(II)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+      - **(ii)** The 2d and 3d vacancies in the office of a bankruptcy judge for the district of Maryland resulting from the death, retirement, resignation, or removal of a bankruptcy judge, shall not be filled.
+    - **(D)** *Southern district of Florida* The 1st and 2d vacancies in the office of a bankruptcy judge for the southern district of Florida—
+      - **(i)** occurring more than 5 years after the date of the enactment of this Act, and
+      - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+  - **(3)** *Applicability of provisions* Except as provided in paragraphs (1) and (2), all other provisions of subsection (b) of the Bankruptcy Judgeship Act of 2005 (28 U.S.C. 152 note) and section 2 of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
+- **(b)** *Temporary office of bankruptcy judges extended by the Bankruptcy Judgeship Act of 2005 and the Temporary Bankruptcy Judgeships Extension Act of 2012*
+  - **(1)** *Extensions* The temporary office of bankruptcy judges authorized by section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) and extended by subsection (c) of the Bankruptcy Judgeship Act of 2005 (28 U.S.C. 152 note) and further extended by section 2 of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note) for the district of Delaware and the district of Puerto Rico are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs.
+  - **(2)** *Vacancies*
+    - **(A)** *District of Delaware* The 5th vacancy in the office of a bankruptcy judge for the district of Delaware—
+      - **(i)** occurring more than 5 years after the date of the enactment of this Act, and
+      - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+    - **(B)** *District of Puerto Rico* The 2d vacancy in the office of a bankruptcy judge for the district of Puerto Rico—
+      - **(i)** occurring more than 5 years after the date of the enactment of this Act, and
+      - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+  - **(3)** *Applicability of other provisions* Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note), subsection (c) of the Bankruptcy Judgeship Act of 2005 (28 U.S.C. 152 note), and section 2 of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
 
-## § 3. Permanent office of bankruptcy judge authorized
+## § 3. Temporary office of bankruptcy judge authorized
 
-To reflect the conversion of the temporary office of bankruptcy judge to the permanent office of bankruptcy judge made by the operation of section 2, and to authorize the appointment of additional bankruptcy judges, section 152(a)(2) of title 28 of the United States Code is amended—
+- **(a)** *Appointments* The following bankruptcy judges shall be appointed in the manner prescribed in section 152(a)(1) of title 28, United States Code, for the appointment of bankruptcy judges provided for in section 152(a)(2) of that title:
+  - **(1)** Two additional bankruptcy judges for the district of Delaware.
+  - **(2)** One additional bankruptcy judge of the middle district of Florida.
+  - **(3)** One additional bankruptcy judge for the eastern district of Michigan.
+- **(b)** *Vacancies*
+  - **(1)** *District of Delaware* The 6th and 7th vacancies in the office of a bankruptcy judge for the district of Delaware—
+    - **(A)** occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office, and
+    - **(B)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+  - **(2)** *Middle district of Florida* The 1st vacancy in the office of a bankruptcy judge for the middle district of Florida—
+    - **(A)** occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office, and
+    - **(B)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+  - **(3)** *Eastern district of Michigan* The 2d vacancy in the office of a bankruptcy judge for the eastern district of Michigan—
+    - **(A)** occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office, and
+    - **(B)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
-- **(1)** in the item relating to the district of Delaware by striking “1” and inserting “8”;
-- **(2)** in the item relating to the middle district of Florida by striking “8” and inserting “9”;
-- **(3)** in the item relating to the southern district of Florida by striking “5” and inserting “7”;
-- **(4)** in the item relating to the district of Maryland by striking “4” and inserting “5”;
-- **(5)** in the item relating to the eastern district of Michigan by striking “4” and inserting “6”;
-- **(6)** in the item relating to the district of Nevada by striking “3” and inserting “4”;
-- **(7)** in the item relating to the eastern district of North Carolina by striking “2” and inserting “3”;
-- **(8)** in the item relating to the district of Puerto Rico by striking “2” and inserting “4”; and
-- **(9)** in the item relating to the eastern district of Virginia by striking “5” and inserting “6” .
+## § 4. Bankruptcy fees
 
-## § 4. Bankruptcy Fees
-
-- **(a)** *Amendments to title 28 of the United States Code* Section 1930(a)(6) of title 28 of the United States Code is amended—
-  - **(1)** by striking “(6) In” and inserting “(6)(A) Except as provided in subparagraph (B), in”; and
+- **(a)** *Amendments to title 28 of the United States Code* Section 1930(a)(6) of title 28, United States Code, is amended—
+  - **(1)** by striking “(6) In” and inserting ‘‘(6)(A) Except as provided in subparagraph (B), in’’; and
   - **(2)** by adding at the end the following:
-    > - **(B)** In any fiscal year, the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be 1 percent of such disbursements or $250,000, whichever is less, unless the balance in the United States Trustee System Fund as of September 30 immediately preceding such fiscal year exceeds $200,000,000.
+    > - **(B)** During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000, the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
 
-- **(b)** *Deposits of certain fees for fiscal years 2018 through 2022* Notwithstanding section 589a(b) of title 28 of the United States Code, for each of the fiscal years 2018 through 2022—
-  - **(1)** 97.5 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended; and
-  - **(2)** 2.5 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.
-- **(c)** *Effective date; application amendments*
-  - **(1)** *Effective date* Except as provided in paragraph (2), this section shall take effect on July 1, 2017, or on the date of the enactment of this Act, whichever is later.
-  - **(2)** *Application of amendments* The amendments made by this section shall apply to quarterly fees payable under section 1930(a)(6) of title 28 of the United States Code, as amended by this section, for disbursements made in any calendar quarter that begins on or after the effective date of the amendments made by this section.
+- **(b)** *Deposits of certain fees for fiscal years 2018 through 2022* Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2018 through 2022—
+  - **(1)** 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended; and
+  - **(2)** 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.
+- **(c)** *Application of amendments* The amendments made by this section shall apply to quarterly fees payable under section 1930(a)(6) of title 28, United States Code, as amended by this section, for disbursements made in any calendar quarter that begins on or after the date of enactment of this Act.
+
+## § 5. Clarification of rule allowing discharge to governmental claims arising from the disposition of farm assets under chapter 12 bankruptcies
+
+- **(a)** *In general* Subchapter II of chapter 12 of title 11, United States Code, is amended by adding at the end the following:
+  > ## § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation
+  >
+  > - **(a)** Any unsecured claim of a governmental unit against the debtor or the estate that arises before the filing of the petition, or that arises after the filing of the petition and before the debtor’s discharge under section 1228, as a result of the sale, transfer, exchange, or other disposition of any property used in the debtor’s farming operation—
+  >   - **(1)** shall be treated as an unsecured claim arising before the date on which the petition is filed;
+  >   - **(2)** shall not be entitled to priority under section 507;
+  >   - **(3)** shall be provided for under a plan; and
+  >   - **(4)** shall be discharged in accordance with section 1228.
+  > - **(b)** For purposes of applying sections 1225(a)(4), 1228(b)(2), and 1229(b)(1) to a claim described in subsection (a) of this section, the amount that would be paid on such claim if the estate of the debtor were liquidated in a case under chapter 7 of this title shall be the amount that would be paid by the estate in a chapter 7 case if the claim were an unsecured claim arising before the date on which the petition was filed and were not entitled to priority under section 507.
+  > - **(c)** For purposes of applying sections 523(a), 1228(a)(2), and 1228(c)(2) to a claim described in subsection (a) of this section, the claim shall not be treated as a claim of a kind specified in subparagraph (A) or (B) of section 523(a)(1).
+  > - **(d)**
+  >   - **(1)** A governmental unit may file a proof of claim for a claim described in subsection (a) that arises after the date on which the petition is filed.
+  >   - **(2)** If a debtor files a tax return after the filing of the petition for a period in which a claim described in subsection (a) arises, and the claim relates to the tax return, the debtor shall serve notice of the claim on the governmental unit charged with the responsibility for the collection of the tax at the address and in the manner designated in section 505(b)(1). Notice under this paragraph shall state that the debtor has filed a petition under this chapter, state the name and location of the court in which the case under this chapter is pending, state the amount of the claim, and include a copy of the filed tax return and documentation supporting the calculation of the claim.
+  >   - **(3)** If notice of a claim has been served on the governmental unit in accordance with paragraph (2), the governmental unit may file a proof of claim not later than 180 days after the date on which such notice was served. If the governmental unit has not filed a timely proof of the claim, the debtor or trustee may file proof of the claim that is consistent with the notice served under paragraph (2). If a proof of claim is filed by the debtor or trustee under this paragraph, the governmental unit may not amend the proof of claim.
+  >   - **(4)** A claim filed under this subsection shall be determined and shall be allowed under subsection (a), (b), or (c) of section 502, or disallowed under subsection (d) or (e) of section 502, in the same manner as if the claim had arisen immediately before the date of the filing of the petition.
+
+- **(b)** *Technical and conforming amendments*
+  - **(1)** *In general* Subchapter II of chapter 12 of title 11, United States Code, is amended—
+    - **(A)** in section 1222(a)—
+      - **(i)** in paragraph (2), by striking “unless—” and all that follows through “the holder” and inserting “unless the holder”;
+      - **(ii)** in paragraph (3), by striking “and” at the end;
+      - **(iii)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+      - **(iv)** by adding at the end the following:
+        > - **(5)** subject to section 1232, provide for the treatment of any claim by a governmental unit of a kind described in section 1232(a).
+
+    - **(B)** in section 1228—
+      - **(i)** in subsection (a)—
+        - **(I)** in the matter preceding paragraph (1)—
+          - **(aa)** by inserting a comma after “all debts provided for by the plan”; and
+          - **(bb)** by inserting a comma after “allowed under section 503 of this title”; and
+        - **(II)** in paragraph (2), by striking “the kind” and all that follows and inserting “a kind specified in section 523(a) of this title, except as provided in section 1232(c).”; and
+      - **(ii)** in subsection (c)(2), by inserting “, except as provided in section 1232(c)” before the period at the end; and
+    - **(C)** in section 1229(a)—
+      - **(i)** in paragraph (2), by striking “or” at the end;
+      - **(ii)** in paragraph (3), by striking the period at the end and inserting “; or”; and
+      - **(iii)** by adding at the end the following:
+        > - **(4)** provide for the payment of a claim described in section 1232(a) that arose after the date on which the petition was filed.
+
+  - **(2)** *Table of sections* The table of sections for subchapter II of chapter 12 of title 11, United States Code, is amended by adding at the end the following:
+- **(c)** *Effective date* The amendments made by this section shall apply to—
+  - **(1)** any bankruptcy case—
+    - **(A)** that is pending on the date of enactment of this Act;
+    - **(B)** in which the plan under chapter 12 of title 11, United States Code, has not been confirmed on the date of enactment of this Act; and
+    - **(C)** relating to which an order of discharge under section 1228 of title 11, United States Code, has not been entered; and
+  - **(2)** any bankruptcy case that commences on or after the date of enactment of this Act.

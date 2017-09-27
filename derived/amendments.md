@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the item relating to the district of Delaware by striking “1” and inserting “8”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the middle district of Florida by striking “8” and inserting “9”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the southern district of Florida by striking “5” and inserting “7”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Maryland by striking “4” and inserting “5”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of Michigan by striking “4” and inserting “6”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Nevada by striking “3” and inserting “4”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of North Carolina by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Puerto Rico by striking “2” and inserting “4”; and | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of Virginia by striking “5” and inserting “6” . | the bill names no machine-readable US Code section |
-| — | replace | by striking “(6) In” and inserting “(6)(A) Except as provided in subparagraph (B), in”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(6) In” and inserting ‘‘(6)(A) Except as provided in subparagraph (B), in’’; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 12 of title 11, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “unless—” and all that follows through “the holder” and inserting “unless the holder”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting a comma after “all debts provided for by the plan”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting a comma after “allowed under section 503 of this title”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “the kind” and all that follows and inserting “a kind specified in section 523(a) of this title, except as provided in section 1232(c).”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(2), by inserting “, except as provided in section 1232(c)” before the period at the end; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for subchapter II of chapter 12 of title 11, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
