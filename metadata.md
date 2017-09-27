@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2266
@@ -50,3 +50,13 @@ Additional Supplemental Appropriations for Disaster Relief Requirements Act, 201
 - 2017-05-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-130.
 - 2017-05-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-130.
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-09-27 — Amendment SA 1106 agreed to in Senate by Unanimous Consent.
+- 2017-09-27 — Amendment SA 1106 proposed by Senator Inhofe for Senator Grassley. (consideration: CR S6189-6190; text: CR S6189-6190) In the nature of a substitute.
+- 2017-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S6191)
+- 2017-09-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-09-27 — Senate amendment agreed to: Amendment SA 1106 agreed to in Senate by Unanimous Consent.
+- 2017-09-27 — Senate amendment proposed (on the floor): Amendment SA 1106 proposed by Senator Inhofe for Senator Grassley.(consideration: CR S6189-6190; text: CR S6189-6190)
+- 2017-09-27 — Senate amendment submitted
