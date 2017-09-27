@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3229
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3229
@@ -37,3 +37,9 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2017-09-26 — Placed on the Union Calendar, Calendar No. 241.
 - 2017-09-26 — Reported by the Committee on Judiciary. H. Rept. 115-332.
 - 2017-09-26 — Reported by the Committee on Judiciary. H. Rept. 115-332.
+- 2017-09-27 — Considered under suspension of the rules. (consideration: CR H7549-7551)
+- 2017-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3229.
+- 2017-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-09-27 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
+- 2017-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7549)
+- 2017-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7549)

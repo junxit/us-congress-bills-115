@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3229
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (E), by striking “2017” both places it appears and inserting “2027”. | the bill names no machine-readable US Code section |
+| — | replace | Section 105(b)(3)(E) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking “2017” both places it appears and inserting “2027”. | the bill names no machine-readable US Code section |

@@ -11,6 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Extension of redaction authority concerning sensitive security information
 
-Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended—
-
-- **(1)** in subparagraph (E), by striking “2017” both places it appears and inserting “2027”.
+Section 105(b)(3)(E) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking “2017” both places it appears and inserting “2027”.
