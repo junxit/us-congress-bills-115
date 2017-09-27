@@ -1,7 +1,7 @@
 ---
 measure: S. 1028
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1028
@@ -33,10 +33,11 @@ Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (2)
+## Committees (3)
 
 - Senate — Health, Education, Labor, and Pensions Committee
 - Senate — Aging (Special) Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -60,3 +61,6 @@ Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017
 - 2017-09-26 — Senate amendment proposed (on the floor): Amendment SA 1102 proposed by Senator Cornyn for Senator Collins.(consideration: CR S6140)
 - 2017-09-26 — Senate amendment submitted
 - 2017-09-26 — Senate amendment submitted
+- 2017-09-27 — Message on Senate action sent to the House.
+- 2017-09-27 — Received in the House.
+- 2017-09-27 — Referred to the House Committee on Education and the Workforce.
