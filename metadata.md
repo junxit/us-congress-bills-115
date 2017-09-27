@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3354
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3354
@@ -1647,3 +1647,6 @@ Interior and Environment, Agriculture and Rural Development, Commerce, Justice, 
 - 2017-09-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3354.
 - 2017-09-14 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-09-14 — The previous question was ordered pursuant to the rule.
+- 2017-09-25 — Received in the Senate.
+- 2017-09-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-09-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
