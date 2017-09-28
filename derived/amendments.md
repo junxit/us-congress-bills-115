@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3823
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-49 amendatory instructions. 17 executed, 32 stated and not applied.
+43 amendatory instructions. 17 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -212,9 +212,3 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 256i` | redesignate | Part D of the Public Health Service Act is amended by redesignating— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | in paragraph (1), by inserting after “for a period of 3 years” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | add-at-end | in paragraph (2), by adding at the end the following new sentences: “Subject to the preceding sentence, a Medicare beneficiary enrolled in the demonstration project on September 30, 2017, shall be automatically enrolled during the period… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4012a` | replace | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by striking “Sec. 102. (a)” and all that follows through the end of subsection (a) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4012a` | strike | by striking paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4012a` | redesignate | by redesignating paragraph (6) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4012a` | replace | by striking the subsection designation and all that follows through the end of paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4001` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4015` | add-at-end | Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
