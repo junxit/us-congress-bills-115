@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3823
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed in House
 ---
 
 # H.R. 3823
