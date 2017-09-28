@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 3869
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3869
+
+> To amend the Higher Education Act of 1965 to direct the Secretary of Education to establish a process for accrediting agencies or associations to seek a waiver of certain accreditation requirements.
+
+## § 1. Short title
+
+This Act may be cited as the “Innovation in Accreditation Act”.
+
+## § 2. Waivers of certain accreditation requirements
+
+Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is amended by adding at the end the following:
+
+> - **(r)** *Waiver* The Secretary shall establish a process through which an accrediting agency or association may seek to have a requirement of this subpart waived, if such agency or association—
+>   - **(1)** demonstrates that such waiver is necessary to enable an institution of higher education or program accredited by the agency or association to implement innovative practices intended to—
+>     - **(A)** reduce administrative burdens to the institution or program without creating costs for the taxpayer; or
+>     - **(B)** improve the delivery of services to students, improve instruction or learning outcomes, or otherwise benefit students; and
+>   - **(2)** describes the terms and conditions that will be placed upon the institution or program to ensure academic integrity and quality.
