@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3823
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3823
@@ -78,3 +78,7 @@ Disaster Tax Relief and Airport and Airway Extension Act of 2017
 - 2017-09-28 — Senate amendment submitted
 - 2017-09-28 — Senate amendment submitted
 - 2017-09-28 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-09-29 — Presented to President.
+- 2017-09-29 — Presented to President.
+- 2017-09-29 — Signed by President.
+- 2017-09-29 — Signed by President.
