@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3229
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3229
@@ -22,9 +22,10 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2017-09-27 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2017-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7549)
 - 2017-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7549)
+- 2017-09-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
