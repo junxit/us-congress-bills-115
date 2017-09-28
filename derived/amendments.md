@@ -1,7 +1,7 @@
 ---
 measure: S. 770
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 272` | strike | in clause (vii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 272` | redesignate | by redesignating clause (viii) as clause (ix); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | insert | by inserting after clause (vii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 272` | strike | in clause (vii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 272` | redesignate | by redesignating clause (viii) as clause (ix); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | insert | by inserting after clause (vii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
