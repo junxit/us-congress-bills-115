@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3884
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3884
+
+> To amend the Missing Children’s Assistance Act with respect to the National Child Identification Program.
+
+## § 1. Short title
+
+This Act may be cited as the “National Child Identification Assistance Act”.
+
+## § 2. Amendments
+
+Section 402 of the Missing Children's Assistance Act (34 U.S.C. 11291) is amended—
+
+- **(1)** by redesignating paragraphs (6), (7), (8), (9), and (10) as paragraphs (8), (9), (10), (11), and (12), respectively; and
+- **(2)** by inserting after paragraph (5) the following:
+  > - **(6)** the proactive collection and central storage of comprehensive identification information about individual children by local, State, and Federal law enforcement agencies is resource intensive;
+  > - **(7)** the National Child Identification Program—
+  >   - **(A)** is a national community service initiative that has partnered with the Department of Justice, Department of State, Federal Bureau of Investigation, local law enforcement agencies, nonprofit organizations, and community organizations to provide families with inkless, in-home fingerprint identification kits; and
+  >   - **(B)** promotes the proactive collection and storage of comprehensive identification information within the home, decentralizing the process for law enforcement agencies that often lack the resources to collect and centrally store vital identification information related to individual children;
