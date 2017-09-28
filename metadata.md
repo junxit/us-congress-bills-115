@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2824
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2824
@@ -26,10 +26,11 @@ Increasing Opportunity and Success for Children and Parents through Evidence-Bas
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -101,3 +102,4 @@ Increasing Opportunity and Success for Children and Parents through Evidence-Bas
 - 2017-09-26 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-09-26 — The previous question was ordered pursuant to the rule.
 - 2017-09-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2017-09-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
