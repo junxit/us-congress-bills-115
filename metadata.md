@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 267
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 267
@@ -16,7 +16,7 @@ A resolution designating September 2017 as "National Workforce Development Month
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (14)
+## Cosponsors (20)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -32,6 +32,12 @@ A resolution designating September 2017 as "National Workforce Development Month
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Graham, Lindsey [R-SC] (G000359)
 
 ## Committees (1)
 
@@ -41,3 +47,7 @@ A resolution designating September 2017 as "National Workforce Development Month
 
 - 2017-09-25 — Introduced in Senate
 - 2017-09-25 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5888-5889; Sponsor introductory remarks on measure: CR S5888-5889)
+- 2017-09-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/25/2017 S5888-5889)
+- 2017-09-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/25/2017 S5888-5889)
+- 2017-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6234)
+- 2017-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6234)
