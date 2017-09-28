@@ -1,7 +1,7 @@
 ---
 measure: S. 770
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 770
@@ -40,3 +40,12 @@ NIST Small Business Cybersecurity Act
 - 2017-09-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-153.
 - 2017-09-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-153.
 - 2017-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
+- 2017-09-12 — Senate amendment submitted
+- 2017-09-28 — Amendment SA 977 as modified agreed to in Senate by Unanimous Consent.
+- 2017-09-28 — Amendment SA 977 proposed by Senator McConnell for Senator Schatz. (consideration: CR S6232-6233; text as modified: CR S6233) To improve the bill.
+- 2017-09-28 — Measure laid before Senate by unanimous consent. (consideration: CR S6232-6233)
+- 2017-09-28 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6233)
+- 2017-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6233)
+- 2017-09-28 — Senate amendment agreed to: Amendment SA 977 as modified agreed to in Senate by Unanimous Consent.
+- 2017-09-28 — Senate amendment proposed (on the floor): Amendment SA 977 proposed by Senator McConnell for Senator Schatz.(consideration: CR S6232-6233; text as modified: CR S6233)
+- 2017-09-28 — The committee substitute as amended agreed to by Unanimous Consent.
