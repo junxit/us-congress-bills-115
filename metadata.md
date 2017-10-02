@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2937
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2937
@@ -34,3 +34,9 @@ Community Reclamation Partnerships Act
 - 2017-07-26 — Placed on the Union Calendar, Calendar No. 189.
 - 2017-07-26 — Reported by the Committee on Natural Resources. H. Rept. 115-260.
 - 2017-07-26 — Reported by the Committee on Natural Resources. H. Rept. 115-260.
+- 2017-10-02 — Considered under suspension of the rules. (consideration: CR H7645-7646)
+- 2017-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2937.
+- 2017-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
+- 2017-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7645)
+- 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7645)
