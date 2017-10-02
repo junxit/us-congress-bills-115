@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1547
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1547
@@ -30,6 +30,10 @@ Udall Park Land Exchange Completion Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2017-10-02 — [House 115-1-544](votes/house-115-1-0544.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–0)
+
 ## Actions
 
 - 2017-03-15 — Introduced in House
@@ -42,3 +46,11 @@ Udall Park Land Exchange Completion Act
 - 2017-08-29 — Placed on the Union Calendar, Calendar No. 200.
 - 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-280.
 - 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-280.
+- 2017-10-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-02 — Considered as unfinished business. (consideration: CR H7650-7651)
+- 2017-10-02 — Considered under suspension of the rules. (consideration: CR H7641-7642)
+- 2017-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1547.
+- 2017-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
+- 2017-10-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544). (text: CR H7641)
+- 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544).(text: CR H7641)
