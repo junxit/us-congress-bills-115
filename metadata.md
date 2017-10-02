@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2582
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2582
@@ -32,3 +32,9 @@ Confirming State Land Grants for Education Act
 - 2017-09-12 — Placed on the Union Calendar, Calendar No. 218.
 - 2017-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-305.
 - 2017-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-305.
+- 2017-10-02 — Considered under suspension of the rules. (consideration: CR H7643-7644)
+- 2017-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2582.
+- 2017-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
+- 2017-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7644)
+- 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7644)
