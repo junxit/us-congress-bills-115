@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1616
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1616
@@ -64,3 +64,13 @@ Strengthening State and Local Cyber Crime Fighting Act of 2017
 - 2017-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 258). (text: CR H4206)
 - 2017-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 258).(text: CR H4206)
 - 2017-05-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-10-02 — Amendment SA 1109 agreed to in Senate by Unanimous Consent.
+- 2017-10-02 — Amendment SA 1109 proposed by Senator McConnell for Senator Cornyn. (consideration: CR S6264; text: CR S6264) In the nature of a substitute.
+- 2017-10-02 — Measure laid before Senate by unanimous consent.
+- 2017-10-02 — Passed Senate with an amendment by Voice Vote.
+- 2017-10-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2017-10-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6263-6264)
+- 2017-10-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6263-6264)
+- 2017-10-02 — Senate amendment agreed to: Amendment SA 1109 agreed to in Senate by Unanimous Consent.
+- 2017-10-02 — Senate amendment proposed (on the floor): Amendment SA 1109 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S6264; text: CR S6264)
+- 2017-10-02 — Senate amendment submitted
