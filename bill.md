@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1616
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1616
 
-That the bill from the House of Representatives (H.R. 1616) entitled “An Act to amend the Homeland Security Act of 2002 to authorize the National Computer Forensics Institute, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Homeland Security Act of 2002 to authorize the National Computer Forensics Institute, and for other purposes.
 
 ## § 1. Short title
 
@@ -42,6 +40,6 @@ This Act may be cited as the “Strengthening State and Local Cyber Crime Fighti
 ## § 3. Prevention, investigation, and prosecution of economic, high technology, internet, and other white collar crime
 
 - **(a)** *In general* Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by adding at the end the following:
-- **(b)** *Authorization of appropriations* There are authorized to be appropriated $13,000,000 for each of fiscal years 2018 through 2022 to carry out —
+- **(b)** *Authorization of appropriations* There are authorized to be appropriated $13,000,000 for each of fiscal years 2018 through 2022 to carry out—
   - **(1)** part MM of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by subsection (a); and
   - **(2)** section 401(b) of the Prioritizing Resources and Organization for Intellectual Property Act of 2008 (34 U.S.C. 30103(b)).
