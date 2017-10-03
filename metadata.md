@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 782
@@ -59,3 +59,12 @@ PROTECT Our Children Act of 2017
 - 2017-10-03 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2017-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 550). (text: CR H7706)
 - 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 550).(text: CR H7706)
+- 2017-10-04 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2017-10-26 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S6859)
+- 2017-10-26 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S6859)
+- 2017-10-27 — Message on Senate action sent to the House.
+- 2017-10-27 — Pursuant to the provisions of S. Con. Res. 28, enrollment corrections on S. 782 have been made.
+- 2017-11-02 — Presented to President.
+- 2017-11-02 — Presented to President.
+- 2017-11-02 — Signed by President.
+- 2017-11-02 — Signed by President.
