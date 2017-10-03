@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2582
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2582
@@ -16,9 +16,10 @@ Confirming State Land Grants for Education Act
 
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Confirming State Land Grants for Education Act
 - 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7644)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7644)
+- 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
