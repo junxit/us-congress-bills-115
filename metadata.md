@@ -1,7 +1,7 @@
 ---
 measure: H.R. 289
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 289
@@ -29,10 +29,11 @@ GO Act
 - Rep. Cheney, Liz [R-WY-At Large] (C001109)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ GO Act
 - 2017-10-02 — Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.
 - 2017-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7646-7648)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7646-7648)
+- 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
