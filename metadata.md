@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1547
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1547
@@ -26,9 +26,10 @@ Udall Park Land Exchange Completion Act
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Udall Park Land Exchange Completion Act
 - 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
 - 2017-10-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544). (text: CR H7641)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544).(text: CR H7641)
+- 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
