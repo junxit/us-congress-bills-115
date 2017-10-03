@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 782
@@ -51,3 +51,11 @@ PROTECT Our Children Act of 2017
 - 2017-06-19 — Message on Senate action sent to the House.
 - 2017-06-20 — Received in the House.
 - 2017-06-20 — Referred to the House Committee on the Judiciary.
+- 2017-10-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-03 — Considered as unfinished business. (consideration: CR H7728)
+- 2017-10-03 — Considered under suspension of the rules. (consideration: CR H7706-7709)
+- 2017-10-03 — DEBATE - The House proceeded with forty minutes of debate on S. 782.
+- 2017-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-03 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2017-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 550). (text: CR H7706)
+- 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 550).(text: CR H7706)
