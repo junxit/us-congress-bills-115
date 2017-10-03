@@ -17,11 +17,11 @@ This Act may be cited as the “Protecting Girls’ Access to Education in Vulne
 
 Congress finds the following:
 
-- **(1)** At the start of 2017, more than 65,000,000 people have been displaced by disasters and conflicts around the world, the highest number recorded since the end of World War II, of which more than 21,000,000 people are refugees.
-- **(2)** More than half of the population of displaced people are children and, according to the United Nations High Commissioner for Refugees, nearly 4,000,000 school-aged displaced children lack access to primary education.
+- **(1)** At the start of 2017, more than 65 million people have been displaced by disasters and conflicts around the world, the highest number recorded since the end of World War II, of which more than 21 million people are refugees.
+- **(2)** More than half of the population of displaced people are children and, according to the United Nations High Commissioner for Refugees, nearly 4 million school-aged displaced children lack access to primary education.
 - **(3)** Education offers socioeconomic opportunities, psychological stability, and physical protection for displaced people, particularly for women and girls, who might otherwise be vulnerable to severe forms of trafficking in persons (as such term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(9))), child marriage, sexual exploitation, or economic disenfranchisement, and contributes to long-term recovery and economic opportunities for displaced people and for the communities hosting them.
 - **(4)** Displaced children face considerable barriers to accessing educational services and, because the duration of such displacement is, on average, 20 years, such children may spend the entirety of their childhood without access to such services.
-- **(5)** Despite the rising need for such services, less than two percent of global emergency aid was directed toward educational services in 2016.
+- **(5)** Despite the rising need for such services, less than 2 percent of global emergency aid was directed toward educational services in 2016.
 
 ## § 3. Sense of Congress
 
@@ -52,7 +52,7 @@ It is the policy of the United States to—
 
 ## § 6. Report
 
-During the five-year period beginning on the date of the enactment of this Act, the Secretary and the Administrator shall include in any report or evaluation submitted to Congress relating to a foreign assistance program for natural or manmade disaster relief or response the following information (to the extent practicable and appropriate):
+During the 5-year period beginning on the date of the enactment of this Act, the Secretary and the Administrator shall include in any report or evaluation submitted to Congress relating to a foreign assistance program for natural or manmade disaster relief or response the following information (to the extent practicable and appropriate):
 
 - **(1)** A breakdown of the beneficiaries of such program by location, age, gender, marital status, and school enrollment status.
 - **(2)** A description of how such program benefits displaced people.
