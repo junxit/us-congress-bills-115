@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,18 +24,9 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 17615
+### 42 U.S.C. § 17601
 
-> in section 105(h) (42 U.S.C. 17615(h)), by striking “2016” and inserting “2022”; and
-
-| | |
-|---|---|
-| Removed | `2016` |
-| Inserted | `2022` |
-
-### 42 U.S.C. § 17617
-
-> in section 107(a)(10) (42 U.S.C. 17617(a)(10)), by striking “fiscal year 2018” and inserting “each of fiscal years 2018 through 2022”.
+> Title I of the PROTECT Our Children Act of 2008 (42 U.S.C. 17601 et seq.) is amended in section 107(a)(10) (42 U.S.C. 17617(a)(10)), by striking “fiscal year 2018” and inserting “each of fiscal years 2018 through 2022”.
 
 | | |
 |---|---|
