@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2316
@@ -20,9 +20,10 @@ Cooperative Management of Mineral Rights Act of 2017
 
 - Rep. Green, Gene [D-TX-29] (G000410)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Cooperative Management of Mineral Rights Act of 2017
 - 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
 - 2017-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7640)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7640)
+- 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
