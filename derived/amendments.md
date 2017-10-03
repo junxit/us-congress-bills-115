@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -24,9 +24,9 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 17601
+### 34 U.S.C. § 21101
 
-> Title I of the PROTECT Our Children Act of 2008 (42 U.S.C. 17601 et seq.) is amended in section 107(a)(10) (42 U.S.C. 17617(a)(10)), by striking “fiscal year 2018” and inserting “each of fiscal years 2018 through 2022”.
+> Title I of the PROTECT Our Children Act of 2008 (34 U.S.C. 21101 et seq.) is amended in section 107(a)(10) (34 U.S.C. 21117(a)(10)), by striking “fiscal year 2018” and inserting “each of fiscal years 2018 through 2022”.
 
 | | |
 |---|---|
