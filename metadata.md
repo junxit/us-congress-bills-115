@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1918
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1918
@@ -16,7 +16,7 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
 
-## Cosponsors (24)
+## Cosponsors (25)
 
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
@@ -42,6 +42,7 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Rooney, Thomas J. [R-FL-17] (R000583)
 - Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
 
 ## Committees (2)
 
@@ -54,3 +55,14 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 - 2017-04-05 — Introduced in House
 - 2017-04-05 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-04-05 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-18 — Referred to the Subcommittee on the Western Hemisphere.
+- 2017-05-24 — Committee Consideration and Mark-up Session Held.
+- 2017-05-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-07-27 — Committee Consideration and Mark-up Session Held.
+- 2017-07-27 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2017-10-03 — Considered under suspension of the rules. (consideration: CR H7700-7704)
+- 2017-10-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1918.
+- 2017-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-03 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2017-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7700-7702)
+- 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7700-7702)
