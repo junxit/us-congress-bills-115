@@ -1,7 +1,7 @@
 ---
 measure: S. 396
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 396
@@ -22,9 +22,10 @@ A bill to make technical amendments to certain marine fish conservation statutes
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ A bill to make technical amendments to certain marine fish conservation statutes
 - 2017-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
 - 2017-10-02 — Passed Senate without amendment by Voice Vote. (consideration: CR S6263; text: CR S6263)
 - 2017-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6263; text: CR S6263)
+- 2017-10-03 — Message on Senate action sent to the House.
+- 2017-10-03 — Received in the House.
+- 2017-10-03 — Referred to the House Committee on Natural Resources.
