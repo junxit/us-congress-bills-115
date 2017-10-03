@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1624
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1624
@@ -52,3 +52,10 @@ Municipal Finance Support Act of 2017
 - 2017-09-12 — Placed on the Union Calendar, Calendar No. 219.
 - 2017-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-306.
 - 2017-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-306.
+- 2017-10-03 — Considered under suspension of the rules. (consideration: CR H7704-7706)
+- 2017-10-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1624.
+- 2017-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-03 — Mr. Huizenga moved to suspend the rules and pass the bill, as amended.
+- 2017-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7704-7705)
+- 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7704-7705)
+- 2017-10-03 — The title of the measure was amended. Agreed to without objection.
