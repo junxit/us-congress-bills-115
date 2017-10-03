@@ -1,7 +1,7 @@
 ---
 measure: H.R. 965
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 965
@@ -20,9 +20,10 @@ Saint-Gaudens National Historical Park Redesignation Act
 
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Saint-Gaudens National Historical Park Redesignation Act
 - 2017-10-02 — Mr. Thompson (PA) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 545). (text: CR H7642)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 545).(text: CR H7642)
+- 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
