@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1624
 
-> To require the appropriate Federal banking agencies to treat certain municipal obligations as level 2A liquid assets, and for other purposes.
+> To require the appropriate Federal banking agencies to treat certain municipal obligations as no lower than level 2B liquid assets, and for other purposes.
 
 ## § 1. Short title
 
