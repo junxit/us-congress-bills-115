@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 36
@@ -201,9 +201,10 @@ Pain-Capable Unborn Child Protection Act
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -224,3 +225,4 @@ Pain-Capable Unborn Child Protection Act
 - 2017-10-03 — Rule provides for consideration of H.R. 36 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-10-03 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-10-03 — The previous question was ordered pursuant to the rule.
+- 2017-10-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
