@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 147
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 147
@@ -28,3 +28,7 @@ A resolution commemorating the 25th anniversary of the 1992 Los Angeles civil un
 
 - 2017-04-27 — Introduced in Senate
 - 2017-04-27 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2628-2629; text of measure as introduced: CR S2628)
+- 2017-10-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-10-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-10-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6324)
+- 2017-10-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6324)
