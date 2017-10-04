@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2408
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2408
@@ -69,9 +69,10 @@ Protecting Girls' Access to Education Act
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Protecting Girls' Access to Education Act
 - 2017-10-03 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2017-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7698)
 - 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7698)
+- 2017-10-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
