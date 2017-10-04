@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1918
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1918
@@ -44,10 +44,11 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 - 2017-10-03 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7700-7702)
 - 2017-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7700-7702)
+- 2017-10-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
