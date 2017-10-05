@@ -1,0 +1,15 @@
+---
+legis-num: S. 1924
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1924
+
+> To authorize 2 additional district judgeships for the district of Colorado.
+
+## § 1. Additional district judgeships for the district of Colorado
+
+- **(a)** *Additional district judgeships* The President shall appoint, by and with the advice and consent of the Senate, 2 additional district judges for the district of Colorado.
+- **(b)** *Technical and conforming amendment* In order that the table contained in section 133(a) of title 28, United States Code, will reflect the change in the number of judgeships authorized by subsection (a), the item relating to Colorado in such table is amended by striking “7” and inserting “9”.
