@@ -1,0 +1,19 @@
+---
+legis-num: S. 1934
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1934
+
+> To prevent catastrophic failure or shutdown of remote diesel power engines due to emission control devices, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Alaska Remote Generator Reliability and Protection Act”.
+
+## § 2. Revision of regulations required
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall revise section 60.4216(c) of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act), by striking “, except that for 2014 model year” and all that follows through “compared to engine-out emissions”.
+- **(b)** *Electricity and energy reliability* A revision of section 60.4216 of title 40, Code of Federal Regulations, may require the installation of emission control devices only if, after consultation with the Secretary of Energy, the Administrator of the Environmental Protection Agency determines that such a requirement will not negatively affect electricity or energy reliability in any remote area of the State of Alaska.
