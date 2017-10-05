@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3982
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3982
+
+> To amend the Internal Revenue Code of 1986 to increase the amount of, and remove the marriage penalty with respect to, social security benefits excludable from gross income.
+
+## § 1. Short title
+
+This Act may be cited as the “Social Security Tax Fairness Act”.
+
+## § 2. Increase in amount of, and removal of marriage penalty with respect to, social security benefits excludable from gross income
+
+- **(a)** *In general* Section 86(c) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “$25,000” in paragraph (1)(A) and inserting “$50,000”;
+  - **(2)** by striking “$32,000” in paragraph (1)(B) and inserting “twice the amount in effect under subparagraph (A)”;
+  - **(3)** by striking “$34,000” in paragraph (2)(A) and inserting “$68,000”; and
+  - **(4)** by striking “$44,000” in paragraph (2)(B) and inserting “twice the amount in effect under subparagraph (A)”.
+- **(b)** *Inflation adjustment* Section 86(c) of such Code is amended by adding at the end the following new paragraph:
+  > - **(3)** *Inflation adjustment* In the case of any taxable year beginning in a calendar year after 2018, the dollar amounts contained in paragraphs (1)(A) and (2)(A) shall each be increased by an amount equal to—
+  >   - **(A)** such dollar amount, multiplied by
+  >   - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2017” for “calendar year 1992” in subparagraph (B) thereof.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
