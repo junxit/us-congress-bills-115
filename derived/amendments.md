@@ -1,7 +1,7 @@
 ---
 measure: S. 1595
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
