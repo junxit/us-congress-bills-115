@@ -1,7 +1,7 @@
 ---
 measure: S. 1103
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1103
@@ -32,3 +32,5 @@ Department of Homeland Security Blue Campaign Authorization Act of 2017
 - 2017-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-157.
 - 2017-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-157.
 - 2017-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.
+- 2017-10-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6374-6375; text: CR S6374-6375)
+- 2017-10-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6374-6375; text: CR S6374-6375)
