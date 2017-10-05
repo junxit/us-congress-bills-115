@@ -1,7 +1,7 @@
 ---
 measure: S. 692
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 692
@@ -42,3 +42,5 @@ Water Infrastructure Flexibility Act
 - 2017-05-25 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-87.
 - 2017-05-25 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-87.
 - 2017-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
+- 2017-10-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6373-6374; text: CR S6373-6374)
+- 2017-10-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6373-6374; text: CR S6373-6374)

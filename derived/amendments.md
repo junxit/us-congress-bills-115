@@ -1,7 +1,7 @@
 ---
 measure: S. 692
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1319` | add-at-end | Section 309 of the Federal Water Pollution Control Act (33 U.S.C. 1319) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1251` | redesignate | by redesignating section 519 (33 U.S.C. 1251 note) as section 520; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1377` | insert | by inserting after section 518 (33 U.S.C. 1377) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1319` | add-at-end | Section 309 of the Federal Water Pollution Control Act (33 U.S.C. 1319) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1251` | redesignate | by redesignating section 519 (33 U.S.C. 1251 note) as section 520; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
