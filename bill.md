@@ -77,3 +77,31 @@ This Act may be cited as the “Reducing DHS Acquisition Cost Growth Act”.
   >     - **(D)** the management structure for the program is adequate to manage and control cost, schedule, and performance.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by inserting after the item relating to section 835 the following:
+
+## § 3. Report on bid protests
+
+- **(a)** *Definition* In this section, the term Department means the Department of Homeland Security.
+- **(b)** *Study and report* Not later than 1 year after the date of enactment of this Act, the Inspector General of the Department shall conduct a study and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the prevalence and impact of bid protests on the acquisition process of the Department, in particular bid protests filed with the Government Accountability Office and the United States Court of Federal Claims.
+- **(c)** *Contents* The report required under subsection (b) shall include—
+  - **(1)** with respect to contracts with the Department—
+    - **(A)** trends in the number of bid protests filed with Federal agencies, the Government Accountability Office, and Federal courts, the effectiveness of each forum for contracts and task or delivery orders, and the rate of those bid protests compared to contract obligations and the number of contracts;
+    - **(B)** an analysis of bid protests filed by incumbent contractors, including the rate at which those contractors are awarded bridge contracts or contract extensions over the period during which the bid protest remains unresolved;
+    - **(C)** a comparison of the number of bid protests and the outcome of bid protests for—
+      - **(i)** awards of contracts compared to awards of task or delivery orders;
+      - **(ii)** contracts or orders primarily for products compared to contracts or orders primarily for services;
+      - **(iii)** protests filed pre-award to challenge the solicitation compared to those filed post-award;
+      - **(iv)** contracts or awards with single protestors compared to multiple protestors; and
+      - **(v)** contracts with single awards compared to multiple award contracts;
+    - **(D)** a description of trends in the number of bid protests filed as a percentage of contracts and as a percentage of task or delivery orders by the value of the contract or order with respect to—
+      - **(i)** contracts valued at more than $300,000,000;
+      - **(ii)** contracts valued at not less than $50,000,000 and not more than $300,000,000;
+      - **(iii)** contracts valued at not less than $10,000,000 and not more than $50,000,000; and
+      - **(iv)** contracts valued at less than $10,000,000;
+    - **(E)** an assessment of the cost and schedule impact of successful and unsuccessful bid protests, as well as delineation of litigation costs, filed on major acquisitions with more than $100,000,000 in annual expenditures or $300,000,000 in lifecycle costs;
+    - **(F)** an analysis of how often bid protestors are awarded the contract that was the subject of the bid protest;
+    - **(G)** a summary of the results of bid protests in which the contracting Federal agencies took unilateral corrective action, including the average time for remedial action to be completed;
+    - **(H)** the time it takes Federal agencies to implement corrective actions after a ruling or decision with respect to a bid protest, and the percentage of those corrective actions that are subsequently protested, including the outcome of any subsequent bid protest;
+    - **(I)** an analysis of those contracts with respect to which a company files a bid protest and later files a subsequent bid protest;
+    - **(J)** an analysis of the time spent at each phase of the procurement process attempting to prevent a bid protest, addressing a bid protest, or taking corrective action in response to a bid protest, including the efficacy of any actions attempted to prevent the occurrence of a protest; and
+    - **(K)** with respect to a company bidding on contracts or task or delivery orders, the extent to and manner in which the bid protest process affects or may affect the decision to offer a bid or proposal on single award or multiple award contracts when the company is the incumbent or non-incumbent contractor; and
+  - **(2)** any recommendations by the Inspector General of the Department relating to the study conducted under this section.
