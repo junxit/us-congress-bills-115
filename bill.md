@@ -27,7 +27,7 @@ Congress makes the following findings:
 - **(8)** Douglass lived in the District of Columbia for 23 of his 57 years as a free man, and in recognition of his leadership and continuous fight for justice and freedom, his home, Cedar Hill, was established as a National Historic Site in Anacostia, in Southeast Washington, DC.
 - **(9)** The statue of Frederick Douglass in the United States Capitol is a gift from the almost 700,000 residents of the District of Columbia.
 - **(10)** All Americans could benefit from studying the life of Frederick Douglass, for Douglass dedicated his own life to ensuring freedom and equality for future generations of Americans. This Nation should ensure that his tireless struggle, transformative words, and inclusive vision of humanity continue to inspire and sustain us.
-- **(11)** The year 2018 marks the bicentennial anniversary of the birth of Frederick Douglass, and a commission should be established to study and recommend to Congress activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Frederick Douglass.
+- **(11)** The year 2018 marks the bicentennial anniversary of the birth of Frederick Douglass, and a commission should be established to plan, develop, and carry out, and to recommend to Congress, programs and activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Frederick Douglass.
 
 ## § 3. Establishment
 
@@ -37,12 +37,8 @@ There is established a commission to be known as the Frederick Douglass Bicenten
 
 The Commission shall have the following duties:
 
-- **(1)** To study activities that may be carried out by the Federal Government to determine whether the activities are fitting and proper to honor Frederick Douglass on the occasion of the bicentennial anniversary of Douglass’ birth, including—
-  - **(A)** the issuance of a Frederick Douglass bicentennial postage stamp;
-  - **(B)** the convening of a joint meeting or joint session of Congress for ceremonies and activities relating to Frederick Douglass;
-  - **(C)** a rededication of the Frederick Douglass National Historic Site, or other activity with respect to the Site; and
-  - **(D)** the acquisition and preservation of artifacts associated with Frederick Douglass.
-- **(2)** To recommend to Congress the activities that the Commission considers most fitting and proper to honor Frederick Douglass on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such activities.
+- **(1)** To plan, develop, and carry out programs and activities that are fitting and proper to honor Frederick Douglass on the occasion of the bicentennial anniversary of Douglass’ birth.
+- **(2)** To recommend to Congress programs and activities that the Commission considers fitting and proper to honor Frederick Douglass on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such programs and activities.
 
 ## § 5. Membership
 
@@ -59,7 +55,7 @@ The Commission shall have the following duties:
 - **(b)** *Qualified citizen* A qualified citizen described in this subsection is a private citizen of the United States with—
   - **(1)** a demonstrated dedication to educating others about the importance of historical figures and events; and
   - **(2)** substantial knowledge and appreciation of Frederick Douglass.
-- **(c)** *Time of appointment* Each initial appointment of a member of the Commission shall be made before the expiration of the 120-day period beginning on the date of the enactment of this Act.
+- **(c)** *Time of appointment* Each initial appointment of a member of the Commission shall be made before the expiration of the 60-day period beginning on the date of the enactment of this Act.
 - **(d)** *Continuation of membership* If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
 - **(e)** *Terms* Each member shall be appointed for the life of the Commission.
 - **(f)** *Vacancies* A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
@@ -75,7 +71,6 @@ The Commission shall have the following duties:
 - **(b)** *Applicability of certain civil service laws*
   - **(1)** *Director* The Director of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
   - **(2)** *Staff* The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
-- **(c)** *Donations* The Commission may accept donations of supplies, money, and services to carry out its responsibilities.
 
 ## § 7. Powers
 
@@ -84,19 +79,16 @@ The Commission shall have the following duties:
 - **(c)** *Obtaining official data* The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
 - **(d)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 - **(e)** *Administrative support services* Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
+- **(f)** *Gifts* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for carrying out its duties.
 
 ## § 8. Reports
 
-- **(a)** *Interim reports* The Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
-- **(b)** *Final report* The Commission shall submit a final report to Congress no later than December 1, 2017. The final report shall contain—
-  - **(1)** a detailed statement of the findings and conclusions of the Commission;
-  - **(2)** the recommendations of the Commission; and
+- **(a)** *Initial report* Not later than August 1, 2018, the Commission shall submit to Congress an initial report containing its recommendations under section 4(2).
+- **(b)** *Final report* Not later than June 1, 2019, the Commission shall submit a final report to Congress, and shall include in the final report—
+  - **(1)** a summary of its activities and programs;
+  - **(2)** a final accounting of the funds the Commission received and expended; and
   - **(3)** any other information that the Commission considers to be appropriate.
 
 ## § 9. Termination
 
-The Commission shall terminate 120 days after submitting the final report of the Commission pursuant to section 8.
-
-## § 10. Authorization of appropriations
-
-There are authorized to be appropriated such sums as may be necessary to carry out this Act.
+The Commission shall terminate 30 days after submitting the final report pursuant to section 8(b).
