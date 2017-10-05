@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1293
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1293
@@ -38,3 +38,7 @@ To amend title 5, United States Code, to require that the Office of Personnel Ma
 - 2017-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4528-4529)
 - 2017-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4528-4529)
 - 2017-05-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-167.
+- 2017-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-167.
+- 2017-10-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.
