@@ -1,0 +1,25 @@
+---
+legis-num: S. 1943
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1943
+
+> To amend the Caribbean Basin Economic Recovery Act to extend the transition period for preferential treatment of certain textile and apparel articles.
+
+## § 1. Short title
+
+This Act may be cited as the “Caribbean Trade Extension Act of 2017”.
+
+## § 2. Extension of transition period for preferential treatment of certain textile and apparel articles
+
+Section 213(b) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703(b)) is amended—
+
+- **(1)** in paragraph (2)(A)—
+  - **(A)** in clause (iii)—
+    - **(i)** in subclause (II)(cc), by striking “2020” and inserting “2030”; and
+    - **(ii)** in subclause (IV)(dd), by striking “2020” and inserting “2030”; and
+  - **(B)** in clause (iv)(II), by striking “18” and inserting “28”; and
+- **(2)** in paragraph (5)(D)(i), by striking “2020” and inserting “2030”.
