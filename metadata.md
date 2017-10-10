@@ -1,7 +1,7 @@
 ---
 measure: H.R. 294
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 294
@@ -63,3 +63,11 @@ To designate the facility of the United States Postal Service located at 2700 Cu
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Introduced in House
 - 2017-01-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Unanimous Consent.
+- 2017-10-10 — Considered under suspension of the rules. (consideration: CR H7899-7900)
+- 2017-10-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 294.
+- 2017-10-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-10 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7899)
+- 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7899)
