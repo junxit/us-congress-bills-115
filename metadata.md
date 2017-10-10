@@ -1,7 +1,7 @@
 ---
 measure: S. 692
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 692
@@ -28,9 +28,11 @@ Water Infrastructure Flexibility Act
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Donnelly, Joe [D-IN] (D000607)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Environment and Public Works Committee
+- House — Energy and Commerce Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -44,3 +46,7 @@ Water Infrastructure Flexibility Act
 - 2017-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
 - 2017-10-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6373-6374; text: CR S6373-6374)
 - 2017-10-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6373-6374; text: CR S6373-6374)
+- 2017-10-10 — Message on Senate action sent to the House.
+- 2017-10-10 — Received in the House.
+- 2017-10-10 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-10-10 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
