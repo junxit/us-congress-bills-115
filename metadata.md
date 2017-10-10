@@ -1,7 +1,7 @@
 ---
 measure: H.R. 378
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 378
@@ -29,3 +29,8 @@ Bonuses for Cost-Cutters Act of 2017
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Introduced in House
 - 2017-01-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-07-19 — Committee Consideration and Mark-up Session Held.
+- 2017-07-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-10-10 — Placed on the Union Calendar, Calendar No. 246.
+- 2017-10-10 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-341.
+- 2017-10-10 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-341.
