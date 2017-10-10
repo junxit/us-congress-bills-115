@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2464
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2464
@@ -36,3 +36,13 @@ To designate the facility of the United States Postal Service located at 25 New 
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Introduced in House
 - 2017-05-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Unanimous Consent.
+- 2017-10-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-10 — Considered as unfinished business. (consideration: CR H7902-7903)
+- 2017-10-10 — Considered under suspension of the rules. (consideration: CR H7899)
+- 2017-10-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2464.
+- 2017-10-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-10 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 559). (text: CR H7899)
+- 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 559).(text: CR H7899)
