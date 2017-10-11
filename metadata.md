@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2763
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2763
@@ -42,3 +42,9 @@ Small Business Innovation Research and Small Business Technology Transfer Improv
 - 2017-09-14 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-313, Part II.
 - 2017-09-14 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-313, Part I.
 - 2017-09-14 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-313, Part I.
+- 2017-10-11 — Considered under suspension of the rules. (consideration: CR H7939-7945)
+- 2017-10-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2763.
+- 2017-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-11 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
+- 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7939-7942)
+- 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7939-7942)

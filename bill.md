@@ -9,26 +9,150 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Small Business Act to improve the Small Business Innovation Research program and Small Business Technology Transfer program, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017”.
+- **(a)** *Short title* This Act may be cited as the “The Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Reporting requirements
-
-- **(a)** *Annual report to Congress* Section 9(b)(7) of the Small Business Act (15 U.S.C. 638(b)(7)) is amended by striking “to report not less than annually” and inserting “to submit a report not later than December 31 of each year”.
-- **(b)** *Annual report to SBA and the Office of Science and Technology Policy* Section 9(g)(9) of the Small Business Act (15 U.S.C. 638(g)(9)) is amended—
-  - **(1)** by striking “make an annual report” and inserting “not later than March 30 of each year, submit a report”; and
-  - **(2)** by striking “and the Office of Science and Technology Policy” and inserting “, the Office of Science and Technology Policy, the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate”.
-
-## § 3. Requiring insertion incentives
+## § 2. Requiring insertion incentives
 
 Section 9(y)(5) of the Small Business Act (15 U.S.C. 638(y)(5)) is amended by striking “is authorized to” and inserting “shall”.
 
-## § 4. SBIR Phase flexibility
+## § 3. Additional SBIR and STTR technology insertion reporting requirement
 
-Section 9(cc) of the Small Business Act (15 U.S.C. 638(cc)) is amended by striking “During fiscal years” and all that follows through “may each provide” and inserting “During fiscal years 2018 through 2022, all agencies participating in the SBIR program may provide”.
+Section 9(y)(6) of the Small Business Act (15 U.S.C. 638(y)(6)) is amended—
 
-## § 5. Establishing the Civilian Agency Commercialization Readiness Program
+- **(1)** in subparagraph (B), by striking “and” at the end;
+- **(2)** in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(D)** not later than 120 days after the date of the enactment of this subparagraph, and not later than December 31 of each year thereafter, submit to the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business and Entrepreneurship of the Senate, a report describing the goals set under subparagraph (A) and the incentives used or created under subparagraph (B).
+
+## § 4. Encouraging innovation in United States manufacturing
+
+Section 9 of the Small Business Act (15 U.S.C. 638) is amended by adding at the end the following new subsection:
+
+> - **(tt)** *Encouraging innovation in United States manufacturing* In carrying out this section, the Administrator shall—
+>   - **(1)** ensure that, in selecting small business concerns to participate in SBIR or STTR programs under this section, Federal agencies give high priority to small manufacturing companies and other small business concerns engaged in or planning to engage in manufacturing research and development for the purpose of developing and producing new products and technologies in the United States; and
+>   - **(2)** include in the annual report to Congress under subsection (b)(7) a determination of whether the priority described in paragraph (1) is being carried out.
+
+## § 5. Encouraging innovation in cybersecurity
+
+Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 4, is further amended by adding at the end the following new subsection:
+
+> - **(uu)** *Encouraging innovation in cybersecurity* In carrying out this section, the Administrator shall—
+>   - **(1)** ensure that, in selecting small business concerns to participate in SBIR or STTR programs under this section, Federal agencies engaged in cybersecurity research give high priority to small business concerns that are engaged in cybersecurity research and development, for the purpose of developing and implementing technology services and products to strengthen the security of United States Government and private computer systems, including software, hardware, and portable devices; and
+>   - **(2)** include in the annual report to Congress under subsection (b)(7) a determination of whether the priority described in paragraph (1) is being carried out.
+
+## § 6. Compliance of Phase III awards with competitive procedures
+
+Section 9(r)(4) of the Small Business Act (15 U.S.C. 638(r)(4)) is amended by inserting “as direct follow-on awards issued without further competition” after “developed the technology”.
+
+## § 7. Improvements to technical and business assistance in the SBIR and STTR programs
+
+Section 9(q) of the Small Business Act (15 U.S.C. 638(q)) is amended—
+
+- **(1)** in the subsection heading, by inserting “and business” after “technical”;
+- **(2)** in paragraph (1)—
+  - **(A)** in the matter preceding subparagraph (A)—
+    - **(i)** by striking “a vendor selected under paragraph (2)” and inserting “1 or more vendors selected under paragraph (2)(A)”;
+    - **(ii)** by inserting “and business” before “assistance services”; and
+    - **(iii)** by inserting “assistance with product sales, intellectual property protections, market research, market validation, and development of regulatory plans and manufacturing plans,” after “technologies,”; and
+  - **(B)** in subparagraph (D), by inserting “, including intellectual property protections” before the period at the end;
+- **(3)** in paragraph (2)—
+  - **(A)** by striking “Each agency may select a vendor to assist small business concerns to meet” and inserting the following:
+    > - **(A)** *In general* Each agency may select 1 or more vendors from which small business concerns may obtain assistance in meeting
+
+  - **(B)** by adding at the end the following new subparagraph:
+    > - **(B)** *Selection by small business concern* A small business concern may, by contract or otherwise, select 1 or more vendors to assist the small business concern in meeting the goals listed in paragraph (1).
+
+- **(4)** in paragraph (3)—
+  - **(A)** by inserting “(A)” after “paragraph (2)” each place it appears;
+  - **(B)** in subparagraph (A), by striking “$5,000 per year” each place it appears and inserting “$6,500 per project”;
+  - **(C)** in subparagraph (B)—
+    - **(i)** by striking “$5,000 per year” each place it appears and inserting “$35,000 per project”; and
+    - **(ii)** in clause (ii), by striking “which shall be in addition to the amount of the recipient's award” and inserting “which may, as determined appropriate by the head of the agency, be included as part of the recipient's award or be in addition to the amount of the recipient's award”;
+  - **(D)** in subparagraph (C)—
+    - **(i)** by inserting “or business” after “technical”;
+    - **(ii)** by striking “the vendor” and inserting “a vendor”; and
+    - **(iii)** by adding at the end the following: “Business-related services aimed at improving the commercialization success of a small business concern may be obtained from an entity, such as a public or private organization or an agency of or other entity established or funded by a State that facilitates or accelerates the commercialization of technologies or assists in the creation and growth of private enterprises that are commercializing technology.”;
+  - **(E)** in subparagraph (D)—
+    - **(i)** by inserting “or business” after “technical” each place it appears; and
+    - **(ii)** in clause (i), by striking “the vendor” and inserting “1 or more vendors”; and
+  - **(F)** by adding at the end the following new subparagraph:
+    > - **(E)** *Multiple award recipients* The Administrator shall establish a limit on the amount of technical and business assistance services that may be received or purchased under subparagraph (B) by a small business concern that has received multiple Phase II SBIR or STTR awards for a fiscal year.
+
+## § 8. Procurement center representatives and other acquisition personnel in the SBIR and STTR programs
+
+- **(a)** *Definition of senior procurement executive* Section 9(e) of the Small Business Act (15 U.S.C. 638(e)) is amended—
+  - **(1)** in paragraph (12)(B), by striking “and” at the end;
+  - **(2)** in paragraph (13)(B), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(14)** the term senior procurement executive means an official designated under section 1702(c) of title 41, United States Code, as the senior procurement executive of a Federal agency participating in a SBIR or STTR program.
+
+- **(b)** *Inclusion of senior procurement executives in SBIR and STTR*
+  - **(1)** *In general* Section 9(b) of the Small Business Act (15 U.S.C. 638(b)) is amended—
+    - **(A)** in paragraph (8), by striking “and” at the end;
+    - **(B)** in paragraph (9), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following new paragraph:
+      > - **(10)** to coordinate, where appropriate, with the senior procurement executive of the relevant Federal agency to assist small business concerns participating in a SBIR or STTR program with commercializing research developed under such a program before such small business concern is awarded a contract from such Federal agency.
+
+  - **(2)** *Technical amendment* Section 9(b)(3) of the Small Business Act (15 U.S.C. 638(b)(3)) is amended by striking “and” at the end.
+- **(c)** *Modifications relating to procurement center representatives and other acquisition personnel*
+  - **(1)** *SBIR amendment* Section 9(j) of the Small Business Act (15 U.S.C. 638(j)) is amended by adding at the end the following new paragraph:
+    > - **(4)** *Modifications relating to procurement center representatives* Upon the enactment of this paragraph, the Administrator shall modify the policy directives issued pursuant to this subsection to require procurement center representatives (as described in section 15(l)) to coordinate with the appropriate contracting officer or SBIR program officer, and the appropriate Director of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the agency letting the contract, to assist small business concerns participating in the SBIR program, particularly in Phase III. The procurement center representatives shall coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the agency letting the contract.
+
+  - **(2)** *STTR amendment* Section 9(p)(2) of the Small Business Act (15 U.S.C. 638(p)(2)) is amended—
+    - **(A)** in subparagraph (E)(ii), by striking “and” at the end;
+    - **(B)** in subparagraph (F), by striking the period at the end and inserting a semicolon; and
+    - **(C)** by adding at the end the following new subparagraph:
+      > - **(G)** procedures to ensure that procurement center representatives (as described in section 15(l))—
+      >   - **(i)** coordinate with the appropriate contracting officer or STTR program officer, and the appropriate Director of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the agency letting the contract, to assist small business concerns participating in the STTR program, particularly in Phase III; and
+      >   - **(ii)** coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the Federal agency letting the contract in providing the assistance described in clause (i); and
+
+- **(d)** *Amendment to duties of procurement center representatives* Section 15(l)(2) of the Small Business Act (15 U.S.C. 644(l)(2)) is amended—
+  - **(1)** in subparagraph (I), by striking “and” at the end;
+  - **(2)** by redesignating subparagraph (J) as subparagraph (L); and
+  - **(3)** by inserting after subparagraph (I) the following new subparagraphs:
+    > - **(J)** coordinate with the appropriate contracting officer or SBIR or STTR program officer, and the appropriate Director of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the agency letting the contract, to assist small business concerns participating in a SBIR or STTR program under section 9 with Phase III;
+    > - **(K)** coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to subsection (k) for the agency letting the contract; and
+
+- **(e)** *Amendment to the duties of the Director of Small and Disadvantaged Business Utilization for Federal agencies* Section 15(k) of the Small Business Act (15 U.S.C. 644(k)) is amended—
+  - **(1)** in paragraph (19), by striking “and” at the end;
+  - **(2)** in paragraph (20), by striking the period at the end and inserting a semicolon; and
+  - **(3)** by adding at the end the following new paragraphs:
+    > - **(21)** shall coordinate with the appropriate contracting officer of SBIR or STTR program officer to assist small business concerns participating in a SBIR or STTR program under section 9 with researching applicable solicitations for the award of a Federal contract (particularly with the Federal agency that has a funding agreement (as defined under section 9) with the concern) to market the research developed by such concern under such SBIR or STTR program; and
+    > - **(22)** shall provide technical assistance to small business concerns participating in a SBIR or STTR program under section 9 to submit a bid for an award of a Federal contract, including coordination with procurement center representatives and the appropriate senior procurement executive for the agency letting the contract.
+
+## § 9. Increased outreach requirements
+
+- **(a)** *In general*
+  - **(1)** *SBIR amendment* Section 9(j) of the Small Business Act (15 U.S.C. 638(j)), as amended by section 8, is further amended by adding at the end the following new paragraph:
+    > - **(5)** *Increased outreach requirements* Upon the enactment of this paragraph, the Administrator shall modify the policy directives issued pursuant to this subsection to require outreach efforts to increase the participation in technological innovation under the SBIR programs among individuals conducting research at minority institutions (as defined in section 365(3) of the Higher Education Act of 1965) and Hispanic-serving institutions (as defined in section 502(a)(5) of such Act).
+
+  - **(2)** *STTR amendment* Section 9(p)(2) of the Small Business Act (15 U.S.C. 638(p)(2)), as amended by section 8, is further amended by adding at the end the following new subparagraph:
+    > - **(H)** procedures for outreach efforts to increase the participation in technological innovation under the SBIR programs among individuals conducting research at minority institutions (as defined in section 365(3) of the Higher Education Act of 1965) and Hispanic-serving institutions (as defined in section 502(a)(5) of such Act).
+
+- **(b)** *Funding for outreach* Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)) is amended—
+  - **(1)** in subparagraph (I), by striking the “and” at the end;
+  - **(2)** in subparagraph (J), by striking the period at the end and inserting a semicolon; and
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(K)** the outreach efforts described under subsections (j)(4) and (p)(2)(G); and
+
+## § 10. Annual meeting
+
+- **(a)** *In general* Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 5, is further amended by adding at the end the following new subsection:
+  > - **(vv)** *Annual meeting*
+  >   - **(1)** *In general* The head of each Federal agency required to have a program under this section (or a designee) and the Administrator (or a designee) shall meet annually to discuss methods—
+  >     - **(A)** to improve the collection of data under this section;
+  >     - **(B)** to improve the reporting of data to the Administrator under this section;
+  >     - **(C)** to make the application processes for programs under this section more efficient; and
+  >     - **(D)** to increase participation in the programs established under this section.
+  >   - **(2)** *Report* Not later than 60 days after the date on which an annual meeting required under paragraph (1) is held, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, a report on the findings of such meeting and recommendations on how to implement changes to programs under this section.
+
+- **(b)** *Funding for annual meeting* Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)) as amended by section 9, is further amended by adding at the end the following new subparagraph:
+  > - **(L)** the annual meeting required under subsection (vv).
+
+## § 11. Establishing the Civilian Agency Commercialization Readiness Program
 
 Section 9(gg) of the Small Business Act (15 U.S.C. 638(gg)) is amended—
 
@@ -43,43 +167,11 @@ Section 9(gg) of the Small Business Act (15 U.S.C. 638(gg)) is amended—
 - **(7)** in paragraph (7) (as so redesignated), by amending subparagraph (B) to read as follows:
   > - **(B)** the term Civilian Agency Commercialization Readiness Program means each program established under paragraph (1).
 
-## § 6. Extension of deadline for assistance for administrative, oversight, and contract processing costs
+## § 12. Commercialization assistance pilot programs
 
-Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)) is amended by striking “September 30, 2017” and inserting “September 30, 2022”.
+Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 10, is further amended by adding at the end the following new subsection:
 
-## § 7. Increased underserved population participation waiver removed
-
-- **(a)** *In general* Section 9(mm)(2) of the Small Business Act (15 U.S.C. 638(mm)(2)) is amended to read as follows:
-  > - **(2)** *Outreach and technical assistance* A Federal agency participating in the program under this subsection shall use a portion of the funds authorized for uses under paragraph (1) to carry out the policy directive required under subsection (j)(2)(F) and to increase the participation of States with respect to which a low level of SBIR awards have historically been awarded.
-
-- **(b)** *Conforming amendment* Section 9(mm)(6) of the Small Business Act (15 U.S.C. 638(mm)(6)) is amended by striking “paragraph (2)(A) and any use of the waiver authority under paragraph (2)(B)” and inserting “paragraph (2)”.
-
-## § 8. Annual meeting
-
-- **(a)** *In general* Section 9 of the Small Business Act (15 U.S.C. 638) is amended by adding at the end the following new subsection:
-  > - **(tt)** *Annual meeting*
-  >   - **(1)** *In general* The head of each Federal agency required to have a program under this section (or a designee) and the Administrator (or a designee) shall meet annually to discuss methods—
-  >     - **(A)** to improve the collection of data under this section;
-  >     - **(B)** to improve the reporting of data to the Administrator under this section;
-  >     - **(C)** to make the application processes for programs under this section more efficient; and
-  >     - **(D)** to increase participation in the programs established under this section.
-  >   - **(2)** *Report* Not later than 60 days after the date on which an annual meeting required under paragraph (1) is held, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, a report on the findings of such meeting and recommendations on how to implement changes to programs under this section.
-
-- **(b)** *Funding for annual meeting* Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)), as amended by this Act, is further amended—
-  - **(1)** in subparagraph (I), by striking the “and” at the end;
-  - **(2)** in subparagraph (J), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following new subparagraph:
-    > - **(K)** the annual meeting required under subsection (tt).
-
-## § 9. Compliance of Phase III awards with competitive procedures
-
-Section 9(r)(4) of the Small Business Act (15 U.S.C. 638(r)(4)) is amended by striking “, including sole source awards,” and inserting “as direct follow-on awards issued without further competition”.
-
-## § 10. Commercialization assistance pilot programs
-
-Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 8, is further amended by adding at the end the following new subsection:
-
-> - **(uu)** *Commercialization assistance pilot programs*
+> - **(ww)** *Commercialization assistance pilot programs*
 >   - **(1)** *Pilot programs implemented*
 >     - **(A)** *In general* Except as provided in subparagraph (B), not later than one year after the date of the enactment of this subsection, a covered agency shall implement a commercialization assistance pilot program, under which an eligible entity may receive a subsequent Phase II SBIR award.
 >     - **(B)** *Exception* If the Administrator determines that a covered agency has a program that is sufficiently similar to the commercialization assistance pilot program established under this subsection, such covered agency shall not be required to implement a commercialization assistance pilot program under this subsection.
@@ -124,87 +216,32 @@ Section 9 of the Small Business Act (15 U.S.C. 638), as amended by section 8, is
 >       - **(iv)** Funding attained through loans or other forms of debt obligations.
 >     - **(E)** *Subsequent Phase II SBIR award* The term subsequent Phase II SBIR award means an award granted to an eligible entity under this subsection to carry out further commercialization activities for research conducted pursuant to an SBIR program.
 
-## § 11. Procurement center representatives and other acquisition personnel in the SBIR and STTR programs
+## § 13. Phase 0 Proof of Concept Partnership Pilot Program
 
-- **(a)** *Definition of senior procurement executive* Section 9(e) of the Small Business Act (15 U.S.C. 638(e)) is amended—
-  - **(1)** in paragraph (12)(B), by striking “and” at the end;
-  - **(2)** in paragraph (13)(B), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following new paragraph:
-    > - **(14)** the term senior procurement executive means an official designated under section 1702(c) of title 41, United States Code, as the senior procurement executive of a Federal agency participating in a SBIR or STTR program.
+- **(a)** *Inclusion of additional agencies in pilot program* Section 9(jj) of the Small Business Act (15 U.S.C. 638(jj) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “The Director of the National Institutes of Health” and inserting “Each covered agency head”; and
+    - **(B)** by striking “the Director” and inserting “each covered agency head”;
+  - **(2)** by amending subparagraph (A) of paragraph (2) to read as follows:
+    > - **(A)** the term “covered agency head” means the Director of the National Institutes of Health, the Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration and the Secretary of Energy;
 
-- **(b)** *Inclusion of senior procurement executives in SBIR and STTR*
-  - **(1)** *In general* Section 9(b) of the Small Business Act (15 U.S.C. 638(b)) is amended—
-    - **(A)** in paragraph (8), by striking “and” at the end;
-    - **(B)** in paragraph (9), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following new paragraph:
-      > - **(10)** to coordinate, where appropriate, with the senior procurement executive of the relevant Federal agency to assist small business concerns participating in a SBIR or STTR program with commercializing research developed under such a program before such small business concern is awarded a contract from such Federal agency.
+  - **(3)** in paragraph (4)—
+    - **(A)** in subparagraph (A), by striking “The Director” and inserting “Each covered agency head”; and
+    - **(B)** in subparagraph (B), by striking “the Director shall consider, in addition to any other criteria the Director” and inserting “each covered agency head shall consider, in addition to any other criteria the appropriate covered agency head”; and
+  - **(4)** in paragraph (6), by striking “The Director” and inserting “Each covered agency head”.
+- **(b)** *Extension of pilot program authority* Section 9(jj)(7) of the Small Business Act (15 U.S.C. 638(jj)(7)) is amended by striking “fiscal year 2017” and inserting “fiscal year 2022”.
 
-  - **(2)** *Technical amendment* Section 9(b)(3) of the Small Business Act (15 U.S.C. 638(b)(3)) is amended by striking “and” at the end.
-- **(c)** *Modifications relating to procurement center representatives and other acquisition personnel*
-  - **(1)** *SBIR amendment* Section 9(j) of the Small Business Act (15 U.S.C. 638(j)) is amended by adding at the end the following new paragraph:
-    > - **(4)** *Modifications relating to procurement center representatives* Upon the enactment of this paragraph, the Administrator shall modify the policy directives issued pursuant to this subsection to require procurement center representatives (as described in section 15(l)) to assist small business concerns participating in the SBIR program, particularly in Phase III. The procurement center representatives shall coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the agency letting the contract.
+## § 14. Reporting requirements
 
-  - **(2)** *STTR amendment* Section 9(p)(2) of the Small Business Act (15 U.S.C. 638(p)(2)) is amended—
-    - **(A)** in subparagraph (E)(ii), by striking “and” at the end;
-    - **(B)** in subparagraph (F), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following new subparagraph:
-      > - **(G)** procedures to ensure that procurement center representatives (as described in section 15(l))—
-      >   - **(i)** assist small business concerns participating in the STTR program, particularly in Phase III; and
-      >   - **(ii)** coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to section 15(k) for the Federal agency letting the contract in providing the assistance described in clause (i).
+- **(a)** *Annual report to Congress* Section 9(b)(7) of the Small Business Act (15 U.S.C. 638(b)(7)) is amended by striking “to report not less than annually” and inserting “to submit a report not later than December 31 of each year”.
+- **(b)** *Annual report to SBA and the Office of Science and Technology Policy* Section 9(g)(9) of the Small Business Act (15 U.S.C. 638(g)(9)) is amended—
+  - **(1)** by striking “make an annual report” and inserting “not later than March 30 of each year, submit a report”; and
+  - **(2)** by striking “and the Office of Science and Technology Policy” and inserting “, the Office of Science and Technology Policy, the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate”.
 
-- **(d)** *Amendment to duties of procurement center representatives* Section 15(l)(2) of the Small Business Act (15 U.S.C. 644(l)(2)) is amended—
-  - **(1)** in subparagraph (I), by striking “and” at the end;
-  - **(2)** by redesignating subparagraph (J) as subparagraph (L); and
-  - **(3)** by inserting after subparagraph (I) the following new subparagraphs:
-    > - **(J)** assist small business concerns participating in a SBIR or STTR program under section 9 with Phase III;
-    > - **(K)** coordinate with the appropriate contracting officer and the appropriate Director of the Office of Small and Disadvantaged Business Utilization established pursuant to subsection (k) for the agency letting the contract; and
+## § 15. SBIR Phase flexibility
 
-- **(e)** *Amendment to the duties of the Director of Small and Disadvantaged Business Utilization for Federal agencies* Section 15(k) of the Small Business Act (15 U.S.C. 644(k)) is amended—
-  - **(1)** in paragraph (19), by striking “and” at the end;
-  - **(2)** in paragraph (20), by striking the period at the end and inserting a semicolon; and
-  - **(3)** by adding at the end the following new paragraphs:
-    > - **(21)** shall assist small business concerns participating in a SBIR or STTR program under section 9 with researching applicable solicitations for the award of a Federal contract (particularly with the Federal agency that has a funding agreement (as defined under section 9) with the concern) to market the research developed by such concern under such SBIR or STTR program; and
-    > - **(22)** shall provide technical assistance to small business concerns participating in a SBIR or STTR program under section 9 to submit a bid for an award of a Federal contract, including coordination with procurement center representatives and the appropriate senior procurement executive for the agency letting the contract.
+Section 9(cc) of the Small Business Act (15 U.S.C. 638(cc)) is amended by striking “During fiscal years” and all that follows through “may each provide” and inserting “During fiscal years 2018 through 2022, all agencies participating in the SBIR program may provide”.
 
-## § 12. Improvements to technical and business assistance in the SBIR and STTR programs
+## § 16. Extension of deadline for assistance for administrative, oversight, and contract processing costs
 
-Section 9(q) of the Small Business Act (15 U.S.C. 638(q)) is amended—
-
-- **(1)** in the subsection heading, by inserting “and business” after “technical”;
-- **(2)** in paragraph (1)—
-  - **(A)** in the matter preceding subparagraph (A)—
-    - **(i)** by striking “a vendor selected under paragraph (2)” and inserting “1 or more vendors selected under paragraph (2)(A)”;
-    - **(ii)** by inserting “and business” before “assistance services”; and
-    - **(iii)** by inserting “assistance with product sales, intellectual property protections, market research, market validation, and development of regulatory plans and manufacturing plans,” after “technologies,”; and
-  - **(B)** in subparagraph (D), by inserting “, including intellectual property protections” before the period at the end;
-- **(3)** in paragraph (2)—
-  - **(A)** by striking “Each agency may select a vendor to assist small business concerns to meet” and inserting the following:
-    > - **(A)** *In general* Each agency may select 1 or more vendors from which small business concerns may obtain assistance in meeting
-
-  - **(B)** by adding at the end the following:
-    > - **(B)** *Selection by small business concern* A small business concern may, by contract or otherwise, select 1 or more vendors to assist the small business concern in meeting the goals listed in paragraph (1).
-
-- **(4)** in paragraph (3)—
-  - **(A)** by inserting “(A)” after “paragraph (2)” each place it appears;
-  - **(B)** in subparagraph (A), by striking “$5,000 per year” each place it appears and inserting “$6,500 per project”;
-  - **(C)** in subparagraph (B)—
-    - **(i)** by striking “$5,000 per year” each place it appears and inserting “$35,000 per project”; and
-    - **(ii)** in clause (ii), by striking “which shall be in addition to the amount of the recipient's award” and inserting “which may, as determined appropriate by the head of the agency, be included as part of the recipient's award or be in addition to the amount of the recipient's award”;
-  - **(D)** in subparagraph (C)—
-    - **(i)** by inserting “or business” after “technical”;
-    - **(ii)** by striking “the vendor” and inserting “a vendor”; and
-    - **(iii)** by adding at the end the following: “Business-related services aimed at improving the commercialization success of a small business concern may be obtained from an entity, such as a public or private organization or an agency of or other entity established or funded by a State that facilitates or accelerates the commercialization of technologies or assists in the creation and growth of private enterprises that are commercializing technology.”;
-  - **(E)** in subparagraph (D)—
-    - **(i)** by inserting “or business” after “technical” each place it appears; and
-    - **(ii)** in clause (i), by striking “the vendor” and inserting “1 or more vendors”; and
-  - **(F)** by adding at the end the following:
-    > - **(E)** *Multiple award recipients* The Administrator shall establish a limit on the amount of technical and business assistance services that may be received or purchased under subparagraph (B) by a small business concern that has received multiple Phase II SBIR or STTR awards for a fiscal year.
-
-## § 13. Additional SBIR and STTR technology insertion reporting requirement
-
-Section 9(y)(6) of the Small Business Act (15 U.S.C. 638(y)(6)) is amended—
-
-- **(1)** in subparagraph (B), by striking “and” at the end;
-- **(2)** in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and
-- **(3)** by adding at the end the following new subparagraph:
-  > - **(D)** not later than 120 days after the date of the enactment of this subparagraph, and not later than December 31 of each year thereafter, submit to the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business and Entrepreneurship of the Senate, a report describing the goals set under subparagraph (A) and the incentives used or created under subparagraph (B).
+Section 9(mm)(1) of the Small Business Act (15 U.S.C. 638(mm)(1)), as amended by this Act, is further amended by striking “September 30, 2017” and inserting “September 30, 2022”.
