@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 4007
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4007
+
+> To revise the quorum requirement for the Board of Directors of the Export-Import Bank of the United States.
+
+## § 1. Revision of quorum requirement for the Board of Directors of the Export-Import Bank of the United States
+
+- **(a)** *In general* Section 3(c)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)(6)) is amended by striking “at least three members” and inserting “the lesser of 3 members or the number of members holding office on the Board”.
+- **(b)** *Conforming repeal* Public Law 106–46 (12 U.S.C. 635a note) is repealed.
