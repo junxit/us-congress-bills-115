@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2989
 
-> To establish the Frederick Douglass Bicentennial Commission.
+> To establish the Frederick Douglass Bicentennial Commission
 
 ## § 1. Short title
 
@@ -79,7 +79,8 @@ The Commission shall have the following duties:
 - **(c)** *Obtaining official data* The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
 - **(d)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 - **(e)** *Administrative support services* Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
-- **(f)** *Gifts* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for carrying out its duties.
+- **(f)** *Gifts* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for the purpose of carrying out its duties.
+- **(g)** *Volunteer and uncompensated services* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
 ## § 8. Reports
 
@@ -92,3 +93,7 @@ The Commission shall have the following duties:
 ## § 9. Termination
 
 The Commission shall terminate 30 days after submitting the final report pursuant to section 8(b).
+
+## § 10. No additional funds authorized
+
+No Federal funds are authorized or may be obligated to carry out this Act.
