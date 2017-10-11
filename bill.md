@@ -36,5 +36,5 @@ This Act may be cited as the “TSP Modernization Act of 2017”.
   - **(2)** by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively; and
   - **(3)** in paragraph (3), as so redesignated, by inserting “limitations or” before “conditions”.
 - **(e)** *Technical amendment* Section 8432b(h)(2)(A) of title 5, United States Code, is amended by striking “section 8433(d), or paragraph (1) or (2) of section 8433(h)” and inserting “subsection (d) or (f) of section 8433”.
-- **(f)** *Regulations* As soon as is practicable, as determined by the Executive Director of the Federal Retirement Thrift Investment Board, the Executive Director shall prescribe such regulations as are necessary to carry out the amendments made by this section.
+- **(f)** *Regulations* As soon as is practicable, as determined by the Executive Director of the Federal Retirement Thrift Investment Board, but not later than 2 years after the date of enactment of this Act, the Executive Director shall prescribe such regulations as are necessary to carry out the amendments made by this section.
 - **(g)** *Effective date* The amendments made by this section shall take effect on the date on which the regulations prescribed under subsection (f) take effect.
