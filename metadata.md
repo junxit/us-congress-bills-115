@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2302
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 259 Nas
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
@@ -26,6 +26,9 @@ To designate the facility of the United States Postal Service located at 259 Nas
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
 ## Committees (1)
 
@@ -36,3 +39,11 @@ To designate the facility of the United States Postal Service located at 259 Nas
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Introduced in House
 - 2017-05-02 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Unanimous Consent.
+- 2017-10-11 — Considered under suspension of the rules. (consideration: CR H7948)
+- 2017-10-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2302.
+- 2017-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill.
+- 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7948)
+- 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7948)
