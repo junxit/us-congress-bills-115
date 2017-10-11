@@ -11,18 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NIST Small Business Cybersecurity Act of 2017”.
+This Act may be cited as the “NIST Small Business Cybersecurity Act”.
 
-## § 2. Findings
-
-Congress makes the following findings:
-
-- **(1)** Small businesses play a vital role in the economy of the United States, accounting for 54 percent of all United States sales and 55 percent of jobs in the United States.
-- **(2)** Attacks targeting small and medium businesses account for a high percentage of cyberattacks in the United States. Sixty percent of small businesses that suffer a cyberattack are out of business within 6 months, according to the National Cyber Security Alliance.
-- **(3)** The Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7421 et seq.) calls on the National Institute of Standards and Technology to facilitate and support a voluntary public-private partnership to reduce cybersecurity risks to critical infrastructure. Such a partnership continues to play a key role in improving the cyber resilience of the United States and making cyberspace safer.
-- **(4)** There is a need to develop simplified resources that are consistent with the partnership described in paragraph (3) that improves its use by small businesses.
-
-## § 3. Improving cybersecurity of small businesses
+## § 2. Improving cybersecurity of small businesses
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Director* The term “Director” means the Director of the National Institute of Standards and Technology.
@@ -40,8 +31,9 @@ Congress makes the following findings:
     - **(A)** are generally applicable and usable by a wide range of small business concerns;
     - **(B)** vary with the nature and size of the implementing small business concern, and the nature and sensitivity of the data collected or stored on the information systems or devices of the implementing small business concern;
     - **(C)** include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks;
-    - **(D)** are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and
-    - **(E)** are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+    - **(D)** include case studies of practical application;
+    - **(E)** are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and
+    - **(F)** are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
   - **(3)** *National cybersecurity awareness and education program* The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 401 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7451).
   - **(4)** *Small Business Development Center Cyber Strategy* In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328).
   - **(5)** *Voluntary resources* The use of the resources disseminated under paragraph (1) shall be considered voluntary.
