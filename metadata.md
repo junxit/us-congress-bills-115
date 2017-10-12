@@ -1,7 +1,7 @@
 ---
 measure: S. 1595
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1595
@@ -89,9 +89,12 @@ Hizballah International Financing Prevention Amendments Act of 2018
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
+- House — Judiciary Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -107,3 +110,9 @@ Hizballah International Financing Prevention Amendments Act of 2018
 - 2017-10-05 — Senate amendment agreed to: Amendment SA 1110 agreed to in Senate by Unanimous Consent.
 - 2017-10-05 — Senate amendment proposed (on the floor): Amendment SA 1110 proposed by Senator McConnell for Senator Rubio.(consideration: CR S6375)
 - 2017-10-05 — Senate amendment submitted
+- 2017-10-10 — Held at the desk.
+- 2017-10-10 — Message on Senate action sent to the House.
+- 2017-10-10 — Received in the House.
+- 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
