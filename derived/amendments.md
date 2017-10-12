@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
