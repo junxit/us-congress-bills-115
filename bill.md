@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2266
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2266
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2266) entitled “An Act to amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the Senate amendment, insert the following:*
+> Making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2018, and for other purposes.
 
 ## § 1. Short title
 
