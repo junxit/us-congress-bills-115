@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4063
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4063
+
+> To require the Secretary of Energy to maintain a database of information on electricity outages, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Power Outage for Weather Emergency Repair Act” or the “POWER Act”.
+
+## § 2. Electricity outage database
+
+- **(a)** *Database* Not later than 90 days after the date of enactment of this Act, the Secretary of Energy shall maintain a database of information on electricity outages that—
+  - **(1)** is publicly accessible; and
+  - **(2)** includes—
+    - **(A)** for each such outage—
+      - **(i)** the specific cause of the outage, including type of weather event or natural disaster and strength of such weather event or natural disaster, if applicable; and
+      - **(ii)** the impact of the outage, including duration and number of electric consumers affected, and megawatts lost, because of the interruption in electric service; and
+    - **(B)** information that is categorized—
+      - **(i)** by type and size of utility;
+      - **(ii)** by impact of the outages;
+      - **(iii)** by cause of the outages; or
+      - **(iv)** in any other manner that the Secretary determines will make such information available and useful in the mitigation of future electricity outages.
+- **(b)** *Collection of data* The Secretary of Energy shall promulgate a rule to require each electric utility to report to the Secretary of Energy, acting through the Administrator of the Energy Information Administration, information on electricity outages of the electric utility for outages that interrupt electric service resulting in a loss of more than 300 megawatts or affecting at least 50,000 electric consumers.
