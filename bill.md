@@ -26,7 +26,7 @@ Not later than 120 days after the date of the enactment of this Act, the Adminis
 
 ## § 4. Report on general aviation security and select aviation security topics
 
-Not later than 120 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration, in consultation with the Aviation Security Advisory Committee, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an implementation plan, including an implementation schedule, for the following recommendations adopted by the Aviation Security Advisory Committee:
+Not later than 120 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration, in consultation with the Aviation Security Advisory Committee, shall, consistent with the requirements of paragraphs (6) and (7) of section 44946(b) of title 49, United States Code, submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an implementation plan, including an implementation schedule, for any of the following recommendations that were adopted by the Aviation Security Advisory Committee and with which the Administrator has concurred before the date of the enactment of this Act:
 
 - **(1)** The recommendation regarding general aviation access to Ronald Reagan Washington National Airport, as adopted on February 17, 2015.
 - **(2)** The recommendation regarding the vetting of persons seeking flight training in the United States, as adopted on July 28, 2016.
@@ -35,3 +35,7 @@ Not later than 120 days after the date of the enactment of this Act, the Adminis
 ## § 5. Designated staffing for general aviation
 
 The Administrator of the Transportation Security Administration is authorized to designate not fewer than one full time employee of the Administration to be responsible for engagement with general aviation stakeholders and manage issues related to general aviation.
+
+## § 6. Security enhancements
+
+Not later than one year after the date of the enactment of this Act, the Administrator of the Transportation Security Administration, in consultation with the Aviation Security Advisory Committee, shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibility of requiring security threat assessments for all candidates seeking flight school training in the operation of any aircraft having a maximum certificated takeoff weight of more than 12,500 pounds to further enhance the vetting of persons seeking such training in the United States.

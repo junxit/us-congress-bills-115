@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3669
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3669
@@ -29,3 +29,8 @@ Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017
 - 2017-09-01 — Introduced in House
 - 2017-09-01 — Introduced in House
 - 2017-09-01 — Referred to the House Committee on Homeland Security.
+- 2017-09-07 — Committee Consideration and Mark-up Session Held.
+- 2017-09-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-10-12 — Placed on the Union Calendar, Calendar No. 250.
+- 2017-10-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.
+- 2017-10-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.
