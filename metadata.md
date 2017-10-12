@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2266
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2266
@@ -60,3 +60,7 @@ Additional Supplemental Appropriations for Disaster Relief Requirements Act, 201
 - 2017-09-27 — Senate amendment agreed to: Amendment SA 1106 agreed to in Senate by Unanimous Consent.
 - 2017-09-27 — Senate amendment proposed (on the floor): Amendment SA 1106 proposed by Senator Inhofe for Senator Grassley.(consideration: CR S6189-6190; text: CR S6189-6190)
 - 2017-09-27 — Senate amendment submitted
+- 2017-09-28 — Message on Senate action sent to the House.
+- 2017-10-12 — House agreed to Senate amendment with amendment pursuant to H.Res. 569. (consideration: CR H7989-7992; text as House agreed to Senate amendment: CR H7989-7992)
+- 2017-10-12 — Pursuant to the provisions of H. Con. Res. 85, enrollment corrections on H.R. 2266 have been made.
+- 2017-10-12 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H.Res. 569.(consideration: CR H7989-7992; text as House agreed to Senate amendment: CR H7989-7992)
