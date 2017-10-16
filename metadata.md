@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2105
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2105
@@ -36,9 +36,10 @@ NIST Small Business Cybersecurity Act
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ NIST Small Business Cybersecurity Act
 - 2017-10-11 — Mr. Webster (FL) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7936-7937)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7936-7937)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
