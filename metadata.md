@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 85
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 85
@@ -25,3 +25,4 @@ Providing for a correction in the enrollment of H.R. 2266.
 - 2017-10-12 — Mr. Frelinghuysen asked unanimous consent to consider as introduced.
 - 2017-10-12 — On agreeing to the resolution Agreed to without objection. (text: CR H8013-8014)
 - 2017-10-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8013-8014)
+- 2017-10-16 — Received in the Senate.
