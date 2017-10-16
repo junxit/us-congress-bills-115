@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2989
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2989
@@ -58,3 +58,4 @@ Frederick Douglass Bicentennial Commission Act
 - 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7952-7953)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7952-7953)
+- 2017-10-16 — Received in the Senate, read twice.
