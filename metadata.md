@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 245
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 245
@@ -16,9 +16,15 @@ A resolution calling on the Government of Iran to release unjustly detained Unit
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -28,3 +34,7 @@ A resolution calling on the Government of Iran to release unjustly detained Unit
 
 - 2017-08-03 — Introduced in Senate
 - 2017-08-03 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4881)
+- 2017-10-05 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2017-10-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2017-10-16 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2017-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.
