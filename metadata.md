@@ -1,7 +1,7 @@
 ---
 measure: S. 21
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 21
@@ -16,7 +16,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 
 - Sen. Paul, Rand [R-KY] (P000603)
 
-## Cosponsors (27)
+## Cosponsors (37)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -45,6 +45,16 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 - Sen. Sasse, Ben [R-NE] (S001197)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Strange, Luther [R-AL] (S001202)
 
 ## Committees (1)
 
@@ -54,3 +64,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2017
 
 - 2017-01-04 — Introduced in Senate
 - 2017-01-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-169. Minority views filed.
+- 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-169. Minority views filed.
+- 2017-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
