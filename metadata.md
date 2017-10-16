@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 26
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 26
@@ -36,3 +36,11 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2017-10-16 — Introduced in Senate
 - 2017-10-16 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6409; text: CR S6406)
 - 2017-10-16 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6409; text: CR S6406)
+- 2017-10-17 — Message on Senate action sent to the House.
+- 2017-10-19 — Held at the desk.
+- 2017-10-19 — Received in the House.
+- 2017-10-25 — Considered by unanimous consent. (consideration: CR H8168)
+- 2017-10-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-25 — Mr. Harper asked unanimous consent to take from the Speaker's table and consider.
+- 2017-10-25 — On agreeing to the resolution Agreed to without objection. (text: CR H8168)
+- 2017-10-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8168)
