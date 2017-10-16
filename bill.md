@@ -29,8 +29,14 @@ This Act may be cited as the “Judgment Fund Transparency Act of 2017”.
   >     - **(A)** A description of the method of payment.
   >     - **(B)** A description of the currency denominations used for the payment.
   >     - **(C)** The name and location of each financial institution owned or controlled, directly or indirectly, by a foreign state or an agent of a foreign state through which the payment passed or from which the payment was withdrawn, including any financial institution owned or controlled, directly or indirectly, by a foreign state or an agent of a foreign state that is holding the payment as of the date on which the information is made available.
-  >   - **(3)** In this subsection, the term “foreign state” has the meaning given the term in section 1603 of title 28.
+  >   - **(3)** Not later than January 1, 2018, and annually thereafter, the Secretary of the Treasury shall make available to the public on the website described in paragraph (1)—
+  >     - **(A)** the total amount paid under this section during the year preceding the date of the report; and
+  >     - **(B)** the amount paid under this section during the year preceding the date of the report—
+  >       - **(i)** for attorney fees;
+  >       - **(ii)** for interest; and
+  >       - **(iii)** for all other payments.
+  >   - **(4)** In this subsection, the term “foreign state” has the meaning given the term in section 1603 of title 28.
   > - **(e)** Except with regard to children under eighteen, the disclosure of information required in this section shall not be considered a “clearly unwarranted invasion of personal privacy” for purposes of title 5, United States Code.
-  > - **(f)** No payment may be made under this section to a state sponsor of terrorism, as defined in section 1605A(h) of title 28.
+  > - **(f)** No payment may be made under this section to a state sponsor of terrorism, as defined in section 1605A(h) of title 28, or to an organization that has been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 
 - **(b)** *Implementation* The Secretary of the Treasury shall carry out the amendment made by this section by not later than 60 days after the date of enactment of this Act.
