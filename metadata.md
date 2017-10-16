@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2254
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2254
@@ -68,9 +68,10 @@ To designate the facility of the United States Postal Service located at 2635 Na
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ To designate the facility of the United States Postal Service located at 2635 Na
 - 2017-10-10 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7898)
 - 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7898)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
