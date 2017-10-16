@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2302
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 259 Nas
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 259 Nas
 - 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7948)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7948)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
