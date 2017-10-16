@@ -1,7 +1,7 @@
 ---
 measure: H.R. 378
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 378
@@ -20,9 +20,10 @@ Bonuses for Cost-Cutters Act of 2017
 
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Bonuses for Cost-Cutters Act of 2017
 - 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7948-7949)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7948-7949)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
