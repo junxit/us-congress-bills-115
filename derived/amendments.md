@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1769
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | In the sixth sentence of section 1(a), by inserting the following at the end of the sentence: “except that the provision of drainage or drainage service under section 1(a) shall not apply to lands within Westlands.”. | the bill names no machine-readable US Code section |
+| — | insert | In the sixth sentence of section 1(a), by inserting the following at the end of the sentence before the period: “, except that the provision of drainage or drainage service under section 1(a) shall not apply to lands within Westlands”. | the bill names no machine-readable US Code section |
 | — | replace | In section 5, by striking the first sentence and inserting “Notwithstanding any other provision of law, the Secretary of the Interior shall have no duty to provide drainage or drainage service to Westlands. Westlands shall be responsible… | the bill names no machine-readable US Code section |
 | — | strike | In the first sentence of section 8 by striking the words “other than distribution systems and drains,”. | the bill names no machine-readable US Code section |
