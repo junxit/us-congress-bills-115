@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 695
@@ -88,3 +88,18 @@ Department of Defense Appropriations Act, 2018
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-138.
 - 2017-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-138.
 - 2017-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-10-16 — Amendment SA 1114 agreed to in Senate by Unanimous Consent.
+- 2017-10-16 — Amendment SA 1114 proposed by Senator McConnell for Senator Hatch. (consideration: CR S6411) In the nature of a substitute.
+- 2017-10-16 — Amendment SA 1115 agreed to in Senate by Unanimous Consent.
+- 2017-10-16 — Amendment SA 1115 proposed by Senator McConnell for Senator Hatch. (consideration: CR S6411; text: CR S6411) To amend the title.
+- 2017-10-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6410-6411)
+- 2017-10-16 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2017-10-16 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2017-10-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-10-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-10-16 — Senate amendment agreed to: Amendment SA 1114 agreed to in Senate by Unanimous Consent.
+- 2017-10-16 — Senate amendment agreed to: Amendment SA 1115 agreed to in Senate by Unanimous Consent.
+- 2017-10-16 — Senate amendment proposed (on the floor): Amendment SA 1114 proposed by Senator McConnell for Senator Hatch.(consideration: CR S6411)
+- 2017-10-16 — Senate amendment proposed (on the floor): Amendment SA 1115 proposed by Senator McConnell for Senator Hatch.(consideration: CR S6411; text: CR S6411)
+- 2017-10-16 — Senate amendment submitted
+- 2017-10-16 — Senate amendment submitted
