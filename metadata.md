@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 211
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 211
@@ -16,7 +16,7 @@ A resolution condemning the violence and persecution in Chechnya.
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 
-## Cosponsors (40)
+## Cosponsors (44)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -58,6 +58,10 @@ A resolution condemning the violence and persecution in Chechnya.
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -67,3 +71,7 @@ A resolution condemning the violence and persecution in Chechnya.
 
 - 2017-06-29 — Introduced in Senate
 - 2017-06-29 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3863)
+- 2017-10-05 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2017-10-16 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2017-10-16 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2017-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
