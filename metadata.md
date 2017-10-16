@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2196
@@ -22,9 +22,10 @@ To amend title 5, United States Code, to allow whistleblowers to disclose inform
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend title 5, United States Code, to allow whistleblowers to disclose inform
 - 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7950)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7950)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
