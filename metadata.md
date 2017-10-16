@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3031
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3031
@@ -48,3 +48,10 @@ TSP Modernization Act of 2017
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7954)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7954)
 - 2017-10-16 — Received in the Senate, read twice.
+- 2017-11-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7029)
+- 2017-11-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7029)
+- 2017-11-07 — Message on Senate action sent to the House.
+- 2017-11-08 — Presented to President.
+- 2017-11-08 — Presented to President.
+- 2017-11-17 — Signed by President.
+- 2017-11-17 — Signed by President.
