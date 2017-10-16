@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3243
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3243
@@ -49,3 +49,10 @@ FITARA Enhancement Act of 2017
 - 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 563). (text: CR H7956)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 563).(text: CR H7956)
 - 2017-10-16 — Received in the Senate, read twice.
+- 2017-11-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7121)
+- 2017-11-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7121)
+- 2017-11-09 — Message on Senate action sent to the House.
+- 2017-11-09 — Presented to President.
+- 2017-11-09 — Presented to President.
+- 2017-11-21 — Signed by President.
+- 2017-11-21 — Signed by President.
