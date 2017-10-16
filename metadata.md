@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 71
@@ -85,3 +85,4 @@ Establishing the congressional budget for the United States Government for fisca
 - 2017-10-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2017-10-05 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 71.
 - 2017-10-05 — The previous question was ordered pursuant to the rule.
+- 2017-10-16 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
