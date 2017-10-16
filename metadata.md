@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2763
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2763
@@ -21,10 +21,11 @@ Small Business Innovation Research and Small Business Technology Transfer Improv
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Small Business Innovation Research and Small Business Technology Transfer Improv
 - 2017-10-11 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7939-7942)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7939-7942)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
