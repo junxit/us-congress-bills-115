@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 705
 
-> To amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.
+> To amend the National Child Protection Act of 1993 to establish a voluntary national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,9 +15,9 @@ This Act may be cited as the “Child Protection Improvements Act of 2017”.
 
 ## § 2. National Criminal History Background Check and Criminal History Review Program
 
-The National Child Protection Act of 1993 (42 U.S.C. 5119 et seq.) is amended—
+The National Child Protection Act of 1993 (34 U.S.C. 40101 et seq.) is amended—
 
-- **(1)** in section 3 (42 U.S.C. 5119a)—
+- **(1)** in section 3 (34 U.S.C. 40102)—
   - **(A)** by striking “provider” each place it appears and inserting “covered individual”;
   - **(B)** by striking “provider's” each place it appears and inserting “covered individual's”;
   - **(C)** by amending subsection (a)(3) to read as follows:
@@ -27,18 +27,25 @@ The National Child Protection Act of 1993 (42 U.S.C. 5119 et seq.) is amended—
 
   - **(D)** in subsection (b)—
     - **(i)** in paragraph (1)(E), by striking “unsupervised”;
-    - **(ii)** in paragraph (2)—
-      - **(I)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
-      - **(II)** in the matter preceding clause (i), as so redesignated, by striking “that each covered individual who is the subject of a background check” and inserting “(A) that each covered individual who is the subject of a background check conducted pursuant to the procedures established pursuant to subsection (a)(1)”; and
-      - **(III)** by adding at the end the following:
-        > - **(B)** that each covered individual who is the subject of a national criminal history background check and criminal history review conducted pursuant to the procedures established pursuant to subsection (a)(3) is entitled to challenge the accuracy and completeness of any information in the criminal history record of the individual by contacting the Federal Bureau of Investigation under the procedure set forth in section 16.34 of title 28, Code of Federal Regulations, or any successor thereto.
+    - **(ii)** by striking paragraph (2) and inserting the following:
+      > - **(2)**
+      >   - **(A)** that the State, or in a State that does not have in effect procedures described in subsection (a)(1), the designated entity, ensures that—
+      >     - **(i)** each covered individual who is the subject of a background check under subsection (a) is entitled to obtain a copy of any background check report;
+      >     - **(ii)** each covered individual who is the subject of a background check under subsection (a) is provided a process by which the covered individual may appeal the results of the background check to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and
+      >     - **(iii)**
+      >       - **(I)** each covered individual described in clause (ii) is given notice of the opportunity to appeal;
+      >       - **(II)** each covered individual described in clause (ii) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and
+      >       - **(III)** the appeals process is completed in a timely manner for each covered individual described in clause (ii); and
+      >   - **(B)** the State, or in a State that does not have in effect procedures described in subsection (a)(1), the designated entity, may allow for a review process—
+      >     - **(i)** through which the State or designated entity, as the case may be, may determine that a covered individual who is the subject of a background check under subsection (a) is disqualified for a crime specified in subsection (f)(2)(C); and
+      >     - **(ii)** which shall be consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.);
 
-    - **(iii)** in paragraph (3), insert after “authorized agency” the following: “or designated entity, as applicable,”; and
-    - **(iv)** in paragraph (4), insert after “authorized agency” the following: “or designated entity, as applicable,”;
-  - **(E)** in subsection (d), insert after “officer or employee thereof,” the following: “, nor shall any designated entity nor any officer or employee thereof,”;
+    - **(iii)** in paragraph (3), by inserting after “authorized agency” the following: “or designated entity, as applicable,”; and
+    - **(iv)** in paragraph (4), by inserting after “authorized agency” the following: “or designated entity, as applicable,”;
+  - **(E)** in subsection (d), by inserting after “officer or employee thereof,” the following: “, nor shall any designated entity nor any officer or employee thereof,”;
   - **(F)** by amending subsection (e) to read as follows:
     > - **(e)** *Fees*
-    >   - **(1)** *State program* In the case of a background check conducted pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a covered individual, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with may not exceed the actual cost of the background check conducted with fingerprints.
+    >   - **(1)** *State program* In the case of a background check conducted pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a covered individual, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed the actual cost of the background check conducted with fingerprints.
     >   - **(2)** *Federal program* In the case of a national criminal history background check and criminal history review conducted pursuant to the procedures established pursuant to subsection (a)(3), the fees collected by a designated entity shall be set at a level that will ensure the recovery of the full costs of providing all such services. The designated entity shall remit the appropriate portion of such fee to the Attorney General, which amount is in accordance with the amount published in the Federal Register to be collected for the provision of a criminal history background check by the Federal Bureau of Investigation.
     >   - **(3)** *Ensuring fees do not discourage volunteers* A fee system under this subsection shall be established in a manner that ensures that fees to qualified entities for background checks do not discourage volunteers from participating in programs to care for children, the elderly, or individuals with disabilities. A fee charged to a qualified entity that is not organized under section 501(c)(3) of the Internal Revenue Code of 1986 may not be less than the total sum of the costs of the Federal Bureau of Investigation and the designated entity.
 
@@ -48,15 +55,34 @@ The National Child Protection Act of 1993 (42 U.S.C. 5119 et seq.) is amended—
     >   - **(2)** *Criminal history review*
     >     - **(A)** *Designated entities* The Attorney General shall designate, and enter into an agreement with, one or more entities to make determinations described in paragraph (2). The Attorney General may not designate and enter into an agreement with a Federal agency under this subparagraph.
     >     - **(B)** *Determinations* A designated entity shall, upon the receipt of the information described in paragraph (1), make a determination of fitness described in subsection (b)(4), using the criteria described in subparagraph (C).
-    >     - **(C)** *Criminal history review criteria* The Attorney General shall, by rule, establish the criteria for use by designated entities in making a determination of fitness described in subsection (b)(4). Such criteria shall be based on the criteria established pursuant to section 108(a)(3)(G)(i) of the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003 (42 U.S.C. 5119a note).
+    >     - **(C)** *Criminal history review criteria* A covered individual may be determined to be unfit under subsection (b)(4) if the covered individual—
+    >       - **(i)** refuses to consent to a criminal background check under this section;
+    >       - **(ii)** knowingly makes a materially false statement in connection with a criminal background check under this section;
+    >       - **(iii)** is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20901 et seq.);
+    >       - **(iv)** has been convicted of a felony consisting of—
+    >         - **(I)** murder, as described in section 1111 of title 18, United States Code;
+    >         - **(II)** child abuse or neglect;
+    >         - **(III)** a crime against children, including child pornography;
+    >         - **(IV)** spousal abuse;
+    >         - **(V)** a crime involving rape or sexual assault;
+    >         - **(VI)** kidnapping;
+    >         - **(VII)** arson;
+    >         - **(VIII)** physical assault or battery; or
+    >         - **(IX)** a drug-related offense committed during the preceding 5 years;
+    >       - **(v)** has been convicted of a violent misdemeanor committed as an adult against a child, including—
+    >         - **(I)** child abuse;
+    >         - **(II)** child endangerment;
+    >         - **(III)** sexual assault; or
+    >         - **(IV)** of a misdemeanor involving child pornography; or
+    >       - **(vi)** in the case of a covered individual who has, seeks to have, or may have access to the elderly or individuals with disabilities, has been convicted of any criminal offense relating to the abuse, exploitation, or neglect (as those terms are defined in section 2011 of the Social Security Act (42 U.S.C. 1397j)) of an elder or an individual with disabilities.
 
-- **(2)** in section 5 (42 U.S.C. 5119c)—
+- **(2)** in section 5 (34 U.S.C. 40104)—
   - **(A)** by amending paragraph (9) to read as follows:
     > - **(9)** the term covered individual means an individual—
     >   - **(A)** who has, seeks to have, or may have access to children, the elderly, or individuals with disabilities, served by a qualified entity; and
     >   - **(B)** who—
     >     - **(i)** is employed by or volunteers with, or seeks to be employed by or volunteer with, a qualified entity; or
-    >     - **(ii)** owns or operates, or seeks to own or operate, a qualified entity.
+    >     - **(ii)** owns or operates, or seeks to own or operate, a qualified entity;
 
   - **(B)** in paragraph (10), by striking “and” at the end;
   - **(C)** in paragraph (11), by striking the period at the end and inserting “; and”; and
