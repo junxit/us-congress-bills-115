@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2464
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2464
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 25 New 
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 25 New 
 - 2017-10-10 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 559). (text: CR H7899)
 - 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 559).(text: CR H7899)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
