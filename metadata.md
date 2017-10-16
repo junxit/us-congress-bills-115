@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2229
@@ -20,10 +20,11 @@ All Circuit Review Act
 
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ All Circuit Review Act
 - 2017-10-11 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7951)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7951)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
