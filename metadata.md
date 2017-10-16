@@ -1,7 +1,7 @@
 ---
 measure: H.R. 452
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 452
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 324 Wes
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 324 Wes
 - 2017-10-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-10-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 562). (text: CR 10/10/2017 H7897)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 562).(text: CR 10/10/2017 H7897)
+- 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
