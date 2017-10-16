@@ -1,7 +1,7 @@
 ---
 measure: S. 1584
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1584
@@ -28,3 +28,7 @@ A bill to amend the Ethics in Government Act of 1978 to reauthorize the Judicial
 
 - 2017-07-19 — Introduced in Senate
 - 2017-07-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-172.
+- 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-172.
+- 2017-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 242.
