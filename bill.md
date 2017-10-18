@@ -1,0 +1,25 @@
+---
+legis-num: S. 1977
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1977
+
+> To amend the Internal Revenue Code of 1986 to extend the 7.5 percent threshold for the medical expense deduction for individuals age 65 or older.
+
+## § 1. Short title
+
+This Act may be cited as the “Seniors Tax Hike Prevention Act of 2017”.
+
+## § 2. Extension of 7.5 percent threshold for medical expense deduction for individuals age 65 or older
+
+- **(a)** *In general* Subsection (f) of section 213 of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “January 1, 2017” and inserting “January 1, 2020”; and
+  - **(2)** by striking “2013, 2014, 2015, and 2016” in the heading and inserting “2013 through 2019”.
+- **(b)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2016.
+
+## § 3. Sense of the Senate relating to offsetting revenue loss
+
+It is the sense of the Senate that the reduction in revenues to the Treasury resulting from the amendments made by section 2 should be offset by means of an appropriate amendment to the Internal Revenue Code of 1986.
