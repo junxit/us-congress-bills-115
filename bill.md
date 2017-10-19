@@ -20,22 +20,30 @@ This Act may be cited as the “Revitalizing the Economy of Coal Communities by 
   >
   > - **(a)** *Purpose* The purpose of this section is to promote economic revitalization, diversification, and development in economically distressed mining communities through the reclamation and restoration of land and water resources adversely affected by coal mining carried out before August 3, 1977.
   > - **(b)** *In general* From amounts deposited into the fund under section 401(b) before October 1, 2007, and not otherwise appropriated to the extent such funds are available, $200,000,000 shall be made available to the Secretary, without further appropriation, for each of fiscal years 2017 through 2021 for distribution to States and Indian tribes in accordance with this section for reclamation and restoration projects at sites identified as priorities under section 403(a): Provided, That if less than $200,000,000 is available in any fiscal year to the Secretary, such remaining amount shall be made available to the Secretary, without further appropriation, and such fiscal year shall end distributions made available under this section.
-  > - **(c)** *Use of funds for priority sites* Funds distributed to a State or Indian tribe under subsection (d) shall be used only for projects classified under the priorities of section 403(a). In addition, if the project is classified under paragraph (3) of such section, the project also must meet the following criteria:
+  > - **(c)** *Use of funds* Funds distributed to a State or Indian tribe under subsection (d) shall be used only for projects classified under the priorities of section 403(a) that meet the following criteria:
   >   - **(1)** *Contribution to future economic or community development*
   >     - **(A)** *In general* The project, upon completion of reclamation, is intended to create favorable conditions for the economic development of the project site or create favorable conditions that promote the general welfare through economic and community development of the area in which the project is conducted.
   >     - **(B)** *Demonstration of conditions* Such conditions are demonstrated by—
   >       - **(i)** documentation of the role of the project in such area’s economic development strategy or other economic and community development planning process;
   >       - **(ii)** any other documentation of the planned economic and community use of the project site after the primary reclamation activities are completed, which may include contracts, agreements in principle, or other evidence that, once reclaimed, the site is reasonably anticipated to be used for one or more industrial, commercial, residential, agricultural, or recreational purposes; or
   >       - **(iii)** any other documentation agreed to by the State or Indian tribe that demonstrates the project will meet the criteria set forth in this subsection.
-  >   - **(2)** *Location in community affected by recent decline in mining* The project will be conducted in a community—
-  >     - **(A)** that has been adversely affected economically by a recent reduction in coal mining-related activity, as demonstrated by employment data, per capita income, or other indicators of reduced economic activity attributable to such reduction; or
-  >     - **(B)**
-  >       - **(i)** that has historically relied on coal mining for a substantial portion of its economy; and
-  >       - **(ii)** in which the economic contribution of coal mining has significantly declined.
+  >   - **(2)** *Location in economically distressed community affected by recent decline in mining*
+  >     - **(A)** *In general* The project will be conducted in a community—
+  >       - **(i)** that has been adversely affected economically by a recent reduction in coal mining related activity, as demonstrated by employment data, per capita income, or other indicators of economic distress; or
+  >       - **(ii)**
+  >         - **(I)** that has historically relied on coal mining for a substantial portion of its economy; and
+  >         - **(II)** in which the economic contribution of coal mining has significantly declined.
+  >     - **(B)** *Submission and publication of evidence or analysis* Any evidence or analysis relied upon in selecting the location of a project under this subparagraph shall be submitted to the Secretary for publication. The Secretary shall publish such evidence or analysis in the Federal Register within 30 days after receiving such submission.
   >   - **(3)** *Stakeholder collaboration*
   >     - **(A)** *In general* The project has been the subject of project planning under subsection (g) and has been the focus of collaboration, including partnerships, as appropriate, with interested persons or local organizations.
-  >     - **(B)** *Public notice* As part of project planning, the public has been notified and has been given an opportunity to comment at a public meeting convened in a community near the proposed site.
+  >     - **(B)** *Public notice* As part of project planning—
+  >       - **(i)** the public has been notified of the project and has been given an opportunity to comment at a public meeting convened in a community near the proposed project site; and
+  >       - **(ii)** the State or Indian tribe published notice of such meetings in local newspapers of general circulation, on the Internet, and by any other means considered desirable by the Secretary.
+  >     - **(C)** *Electronic notification* The State or Indian tribe established a way for interested persons to receive electronically all public notices issued under subparagraph (B) and any written declarations submitted to the Secretary under paragraph (5).
   >   - **(4)** *Eligible applicants* The project has been proposed by entities of State, local, county, or tribal governments, or local organizations, and will be approved and executed by State or tribal programs, approved under section 405 or referred to in section 402(g)(8)(B), which may include subcontracting project-related activities, as appropriate.
+  >   - **(5)** *Waiver* If the State or Indian tribe—
+  >     - **(A)** cannot provide documentation described in paragraph (1)(B) for a project conducted under a priority stated in paragraph (1) or (2) of section 403(a), or
+  >     - **(B)** is unable to meet the requirements under paragraph (2),
   > - **(d)** *Distribution of funds*
   >   - **(1)** *Uncertified States*
   >     - **(A)** *In general* From the amount made available in subsection (b), the Secretary shall distribute $195,000,000 annually for each of fiscal years 2017 through 2021 to States and Indian tribes that have a State or tribal program approved under section 405 or are referred to in section 402(g)(8)(B), and have not made a certification under section 411(a) in which the Secretary has concurred, as follows:
@@ -86,6 +94,7 @@ This Act may be cited as the “Revitalizing the Economy of Coal Communities by 
   >   - **(2)** the extent and degree of reclamation using such funds that achieved the priorities described in paragraph (1) or (2) of section 403(a);
   >   - **(3)** the community and economic benefits that are resulting from, or are expected to result from, the use of the funds that achieved the priorities described in paragraph (3) of section 403(a); and
   >   - **(4)** the reduction since the previous report in the inventory referred to in section 403(c).
+  > - **(i)** *Prohibition on certain use of funds* Any State or Indian tribe that uses the funds distributed under this section for purposes other than reclamation or drainage abatement expenditures, as made eligible by section 404, and for the purposes authorized under subsections (f) and (g), shall be barred from receiving any subsequent funding under this section.
 
 - **(b)** *Clerical amendment* The table of contents in the first section of the Surface Mining Control and Reclamation Act of 1977 is amended by adding at the end of the items relating to title IV the following:
 
@@ -146,3 +155,7 @@ Not later than two years after the date of the enactment of this Act, the Comptr
     > - **(g)** *Headquarters* The headquarters of the Commission shall be located in the Appalachian Region.
 
   - **(2)** *Implementation* The Federal Cochairman of the Appalachian Regional Commission shall take such actions as may be necessary to carry out the amendment made by paragraph (1).
+
+## § 8. Payments to certified States not affected
+
+Nothing in this Act shall be construed to reduce or otherwise affect payments under section 402(g) of the Surface Mining Reclamation and Control Act of 1977 (30 U.S.C. 1232(g)) to States that have made a certification under section 411(a) of such Act (30 U.S.C. 1240a(a)) in which the Secretary of the Interior has concurred.
