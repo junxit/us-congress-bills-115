@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2941
@@ -32,3 +32,9 @@ Kisatchie National Forest Land Conveyance Act
 - 2017-06-20 — Introduced in House
 - 2017-06-20 — Introduced in House
 - 2017-06-20 — Referred to the House Committee on Agriculture.
+- 2017-07-11 — Referred to the Subcommittee on Conservation and Forestry.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported by Voice Vote.
+- 2017-10-19 — Placed on the Union Calendar, Calendar No. 257.
+- 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-353.
+- 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-353.
