@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1488
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,11 +26,11 @@ to guess them.
 
 ### 16 U.S.C. § 460u
 
-> by striking “National Lakeshore” each place it appears and inserting “National Park”; and
+> by striking “National Lakeshore” and “national lakeshore” each place it appears and inserting “National Park”; and
 
 | | |
 |---|---|
-| Removed | `National Lakeshore` |
+| Removed | `National Lakeshore” and “national lakeshore` |
 | Inserted | `National Park` |
 
 ### 16 U.S.C. § 460u

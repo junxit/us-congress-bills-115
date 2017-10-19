@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1488
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1488
@@ -16,7 +16,7 @@ Indiana Dunes National Park Act
 
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Banks, Jim [R-IN-3] (B001299)
@@ -26,6 +26,7 @@ Indiana Dunes National Park Act
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
 
 ## Committees (1)
 
@@ -36,3 +37,9 @@ Indiana Dunes National Park Act
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Referred to the House Committee on Natural Resources.
+- 2017-03-20 — Referred to the Subcommittee on Federal Lands.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-10-19 — Placed on the Union Calendar, Calendar No. 254.
+- 2017-10-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-350.
+- 2017-10-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-350.
