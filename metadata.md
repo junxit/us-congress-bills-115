@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2921
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2921
@@ -16,7 +16,7 @@ National Forest System Vegetation Management Pilot Program Act of 2017
 
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
@@ -26,6 +26,7 @@ National Forest System Vegetation Management Pilot Program Act of 2017
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
 ## Committees (2)
 
@@ -39,3 +40,12 @@ National Forest System Vegetation Management Pilot Program Act of 2017
 - 2017-06-15 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-06-15 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-06-15 — Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-06-26 — Referred to the Subcommittee on Federal Lands.
+- 2017-07-11 — Referred to the Subcommittee on Conservation and Forestry.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported by Voice Vote.
+- 2017-10-19 — Committee on Natural Resources discharged.
+- 2017-10-19 — Committee on Natural Resources discharged.
+- 2017-10-19 — Placed on the Union Calendar, Calendar No. 261.
+- 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-357, Part I.
+- 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-357, Part I.
