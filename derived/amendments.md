@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3053
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-83 amendatory instructions. 34 executed, 49 stated and not applied.
+92 amendatory instructions. 37 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,9 +96,18 @@ to guess them.
 | Removed | `After the MRS Commission submits its report to the Congress under section 143, the` |
 | Inserted | `(a) In general.—The` |
 
+### 42 U.S.C. § 10164
+
+> in the matter preceding paragraph (1), by striking “for a monitored retrievable storage facility” and inserting “for any monitored retrievable storage facility authorized under section 142”;
+
+| | |
+|---|---|
+| Removed | `for a monitored retrievable storage facility` |
+| Inserted | `for any monitored retrievable storage facility authorized under section 142` |
+
 ### 42 U.S.C. § 10165
 
-> by striking “select the site evaluated” and inserting “select a site evaluated”; and
+> by striking “select the site evaluated” and inserting “select a site evaluated”;
 
 | | |
 |---|---|
@@ -125,12 +134,30 @@ to guess them.
 
 ### 42 U.S.C. § 10134
 
-> by striking “the expiration of 3 years after the date of the submission of such application” and inserting “18 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017”;
+> Section 114(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10134(c)) is amended by striking “the date on which such authorization is granted” and inserting “the date on which the Commission issues a final decision approving or disapproving such application”.
+
+| | |
+|---|---|
+| Removed | `the date on which such authorization is granted` |
+| Inserted | `the date on which the Commission issues a final decision approving or disapproving such application` |
+
+### 42 U.S.C. § 10134
+
+> by striking “the expiration of 3 years after the date of the submission of such application” and inserting “30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017”;
 
 | | |
 |---|---|
 | Removed | `the expiration of 3 years after the date of the submission of such application` |
-| Inserted | `18 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017` |
+| Inserted | `30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017` |
+
+### 42 U.S.C. § 10134
+
+> by striking “70,000 metric tons” each place it appears and inserting “110,000 metric tons”; and
+
+| | |
+|---|---|
+| Removed | `70,000 metric tons` |
+| Inserted | `110,000 metric tons` |
 
 ### 42 U.S.C. § 10134
 
@@ -352,14 +379,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10164` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10164` | amend | by adding after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10165` | strike | by striking “the most”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10165` | insert | by inserting “authorized under section 142(b)(1)” after “monitored retrievable storage facility”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10165` | strike | by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10167` | insert | by inserting “the Secretary intends to construct and operate under section 142(b)(1)” after “storage facility”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10167` | insert | by inserting “or once a non-Federal entity enters into an MRS agreement under section 142(b)(2),” after “section 145,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10168` | strike | in paragraph (2), by striking “or construction of the repository ceases”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10144` | insert | by inserting “(a) Water rights acquisition effect.—” before “The Secretary shall give full”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 10144` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 149 of the Nuclear Waste Policy Act of 1982 is amended by inserting “authorized under section 142(b)(1)” after “a monitored retrievable storage facility”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 10134` | replace | by striking “The Commission shall consider” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10134` | strike | by striking “The Commission decision approving the first such application” and all that follows through “monitored retrievable storage facility until such time as a second repository is in operation.”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10134` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10143` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173` | insert | by inserting a comma after “repository”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -367,8 +393,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10173` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173a` | amend | The table in section 171(a)(1) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173a(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10173a` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10173a` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10173a` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10173a` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10173a` | redesignate | in paragraph (3) (as redesignated by paragraph (2) of this subsection), by striking “in the design of the repository or monitored retrievable storage facility and”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10173a` | replace | Section 171(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173a(c)) is amended by striking the first sentence and inserting the following: “The Secretary shall make payments to the State of Nevada under a benefits agreement conc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10101` | insert | The Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) is amended by inserting after section 172 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173` | insert | by inserting “made available pursuant to a benefits agreement under this section” after “under this subtitle”; and | the bill quotes the text inserted but describes where it goes |
@@ -377,6 +404,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10173c` | insert | in paragraph (1), by inserting “concerning a repository or a monitored retrievable storage facility, if” before “the site under consideration”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10173c` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10174` | add-at-end | Subtitle G of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10174 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10101` | amend | The table of contents for the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 note) is amended by adding after the item relating to section 175, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10142` | add-at-end | Section 122 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10142) is amended by adding at the end the following: “Any economic benefits derived from the retrieval of spent nuclear fuel pursuant to this section shall be shared with th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10222` | replace | by striking “(4) Not later than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10222` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -386,5 +414,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10137` | insert | Section 117(d) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10137(d)) is amended by inserting “designated with respect to a repository” after “such representatives”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10222` | add-at-end | Section 302 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10222) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10155` | redesignate | Section 135 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10155) is amended by striking subsection (h) and redesignating subsection (i) as subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10175` | replace | by striking “(c) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10175` | replace | by striking “The Waste Fund” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10224` | amend | Subsection (b) of section 304 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10224(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7133` | strike | Section 203(a) of the Department of Energy Organization Act (42 U.S.C. 7133(a)) is amended by striking paragraph (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10104` | replace | by striking “Nothing in this Act ” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10104` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10104` | repeal | Section 224 of the Nuclear Waste Policy Act of 1982, and the item relating thereto in the table of contents for such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
