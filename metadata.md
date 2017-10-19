@@ -1,7 +1,7 @@
 ---
 measure: H.R. 194
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 194
@@ -42,3 +42,7 @@ Federal Agency Mail Management Act of 2017
 - 2017-05-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4266)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4266)
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-176.
+- 2017-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-176.
+- 2017-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 250.
