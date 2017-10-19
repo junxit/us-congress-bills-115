@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 71
@@ -474,7 +474,7 @@ Establishing the congressional budget for the United States Government for fisca
 
 - House — Budget Committee
 
-## Recorded votes (32)
+## Recorded votes (33)
 
 - 2017-10-04 — [House 115-1-553](votes/house-115-1-0553.md) — On Agreeing to the Amendment — **Failed** (108–314)
 - 2017-10-04 — [House 115-1-554](votes/house-115-1-0554.md) — On Agreeing to the Amendment — **Failed** (130–292)
@@ -508,6 +508,7 @@ Establishing the congressional budget for the United States Government for fisca
 - 2017-10-19 — [Senate 115-1-243](votes/senate-115-1-0243.md) — On the Amendment — **Amendment Rejected** (48–52)
 - 2017-10-19 — [Senate 115-1-244](votes/senate-115-1-0244.md) — On the Amendment — **Amendment Agreed to** (52–48)
 - 2017-10-19 — [Senate 115-1-245](votes/senate-115-1-0245.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (51–49)
+- 2017-10-26 — [House 115-1-589](votes/house-115-1-0589.md) — On Motion to Concur in the Senate Amendment — **Passed** (216–212)
 
 ## Actions
 
@@ -1192,3 +1193,12 @@ Establishing the congressional budget for the United States Government for fisca
 - 2017-10-19 — Senate amendment submitted
 - 2017-10-19 — Senate amendment submitted
 - 2017-10-19 — Senate amendment submitted
+- 2017-10-20 — Message on Senate action sent to the House.
+- 2017-10-24 — Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H. Con. Res. 71 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments. Provides for consideration of the Senate amendment and the motion, offered by the chair of the Committee on the Budget, that the House concur in the Senate amendment.
+- 2017-10-25 — Rule H. Res. 580 passed House.
+- 2017-10-26 — DEBATE - Pursuant to the provisions of H.Res. 580, the House proceeded with one hour of debate on the Senate amendment to H. Con. Res. 71.
+- 2017-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-26 — Mrs. Black moved that the House agree to the Senate amendment. (consideration: CR H8230-8254)
+- 2017-10-26 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 212 (Roll no. 589). (text: CR H8230-8242)
+- 2017-10-26 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 212 (Roll no. 589).(text: CR H8230-8242)
+- 2017-10-26 — The previous question was ordered pursuant to the rule.
