@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 71
@@ -16,17 +16,498 @@ Establishing the congressional budget for the United States Government for fisca
 
 - Rep. Black, Diane [R-TN-6] (B001273)
 
+## Cosponsors (451)
+
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+
 ## Committees (1)
 
 - House — Budget Committee
 
-## Recorded votes (5)
+## Recorded votes (32)
 
 - 2017-10-04 — [House 115-1-553](votes/house-115-1-0553.md) — On Agreeing to the Amendment — **Failed** (108–314)
 - 2017-10-04 — [House 115-1-554](votes/house-115-1-0554.md) — On Agreeing to the Amendment — **Failed** (130–292)
 - 2017-10-05 — [House 115-1-555](votes/house-115-1-0555.md) — On Agreeing to the Amendment — **Failed** (139–281)
 - 2017-10-05 — [House 115-1-556](votes/house-115-1-0556.md) — On Agreeing to the Amendment — **Failed** (156–268)
 - 2017-10-05 — [House 115-1-557](votes/house-115-1-0557.md) — On Agreeing to the Resolution — **Passed** (219–206)
+- 2017-10-17 — [Senate 115-1-219](votes/senate-115-1-0219.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–47)
+- 2017-10-18 — [Senate 115-1-220](votes/senate-115-1-0220.md) — On the Amendment — **Amendment Agreed to** (89–9)
+- 2017-10-18 — [Senate 115-1-221](votes/senate-115-1-0221.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2017-10-18 — [Senate 115-1-222](votes/senate-115-1-0222.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2017-10-18 — [Senate 115-1-223](votes/senate-115-1-0223.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2017-10-18 — [Senate 115-1-224](votes/senate-115-1-0224.md) — On the Motion — **Motion Rejected** (46–52)
+- 2017-10-19 — [Senate 115-1-225](votes/senate-115-1-0225.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2017-10-19 — [Senate 115-1-226](votes/senate-115-1-0226.md) — On the Amendment — **Amendment Agreed to** (52–47)
+- 2017-10-19 — [Senate 115-1-227](votes/senate-115-1-0227.md) — On the Motion — **Motion Rejected** (47–52)
+- 2017-10-19 — [Senate 115-1-228](votes/senate-115-1-0228.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2017-10-19 — [Senate 115-1-229](votes/senate-115-1-0229.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2017-10-19 — [Senate 115-1-230](votes/senate-115-1-0230.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2017-10-19 — [Senate 115-1-231](votes/senate-115-1-0231.md) — On the Motion — **Motion Rejected** (47–51)
+- 2017-10-19 — [Senate 115-1-232](votes/senate-115-1-0232.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2017-10-19 — [Senate 115-1-233](votes/senate-115-1-0233.md) — On the Amendment — **Amendment Rejected** (4–94)
+- 2017-10-19 — [Senate 115-1-234](votes/senate-115-1-0234.md) — On the Motion — **Motion Rejected** (47–52)
+- 2017-10-19 — [Senate 115-1-235](votes/senate-115-1-0235.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2017-10-19 — [Senate 115-1-236](votes/senate-115-1-0236.md) — On the Amendment — **Amendment Rejected** (5–95)
+- 2017-10-19 — [Senate 115-1-237](votes/senate-115-1-0237.md) — On the Amendment — **Amendment Rejected** (32–67)
+- 2017-10-19 — [Senate 115-1-238](votes/senate-115-1-0238.md) — On the Amendment — **Amendment Rejected** (33–66)
+- 2017-10-19 — [Senate 115-1-239](votes/senate-115-1-0239.md) — On the Amendment — **Amendment Agreed to** (58–41)
+- 2017-10-19 — [Senate 115-1-240](votes/senate-115-1-0240.md) — On the Amendment — **Amendment Rejected** (50–50)
+- 2017-10-19 — [Senate 115-1-241](votes/senate-115-1-0241.md) — On the Amendment — **Amendment Rejected** (7–93)
+- 2017-10-19 — [Senate 115-1-242](votes/senate-115-1-0242.md) — On the Amendment — **Amendment Rejected** (49–51)
+- 2017-10-19 — [Senate 115-1-243](votes/senate-115-1-0243.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2017-10-19 — [Senate 115-1-244](votes/senate-115-1-0244.md) — On the Amendment — **Amendment Agreed to** (52–48)
+- 2017-10-19 — [Senate 115-1-245](votes/senate-115-1-0245.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (51–49)
 
 ## Actions
 
@@ -94,3 +575,620 @@ Establishing the congressional budget for the United States Government for fisca
 - 2017-10-05 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 71.
 - 2017-10-05 — The previous question was ordered pursuant to the rule.
 - 2017-10-16 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
+- 2017-10-17 — Amendment SA 1116 proposed by Senator Enzi. (consideration: CR S6427-6445) In the nature of a substitute.
+- 2017-10-17 — Measure laid before Senate by motion. (consideration: CR S6424-6427)
+- 2017-10-17 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 219. (CR S6424)
+- 2017-10-17 — Senate amendment proposed (on the floor): Amendment SA 1116 proposed by Senator Enzi.(consideration: CR S6427-6445)
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-17 — Senate amendment submitted
+- 2017-10-18 — Amendment SA 1119 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 221.
+- 2017-10-18 — Amendment SA 1119 proposed by Senator Enzi for Senator Sanders to Amendment SA 1116. (consideration: CR S6518-6520, S6523; text: CR S6518-6519) To provide additional resources to restore the $1,000,000,000,000 in cuts to Medicaid paid for by reducing the tax breaks for the wealthy.
+- 2017-10-18 — Amendment SA 1120 proposed by Senator Enzi for Senator Sanders to Amendment SA 1116. (consideration: CR S6518-6521, S6524-6525; text: CR S6519-6520) To ensure that there are no tax cuts for the top 1 percent of Americans.
+- 2017-10-18 — Amendment SA 1120 ruled out of order by the chair.
+- 2017-10-18 — Amendment SA 1144 agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 220.
+- 2017-10-18 — Amendment SA 1144 proposed by Senator Enzi for Senator Hatch to Amendment SA 1116. (consideration: CR S6518-6520, S6521-6522; text: CR S6518) To establish a deficit-neutral reserve fund relating to protecting Medicare and Medicaid.
+- 2017-10-18 — Amendment SA 1146 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 223.
+- 2017-10-18 — Amendment SA 1146 proposed by Senator Enzi for Senator Heller to Amendment SA 1116. (consideration: CR S6518-6520, S6523-6524; text: CR S6519) To provide tax relief to American families with children to provide them with more money in their paychecks to make ends meet.
+- 2017-10-18 — Amendment SA 1150 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 222.
+- 2017-10-18 — Amendment SA 1150 proposed by Senator Enzi for Senator Nelson to Amendment SA 1116. (consideration: CR S6518-6520, S6523; text: CR S6519) To provide additional resources to restore the $473,000,000,000 in cuts to Medicare paid for by closing special interest tax loopholes.
+- 2017-10-18 — Amendment SA 1151 agreed to in Senate by Voice Vote.
+- 2017-10-18 — Amendment SA 1151 proposed by Senator Enzi for Senator Collins to Amendment SA 1116. (consideration: CR S6518-6520, S6522, S6525; text: CR S6520) To provide tax relief to small businesses and to include provisions to prevent upper-income taxpayers from sheltering income from taxation at the appropriate rate.
+- 2017-10-18 — Considered by Senate. (consideration: CR S6492)
+- 2017-10-18 — Considered by Senate. (consideration: CR S6492-6532)
+- 2017-10-18 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1120 rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 224.
+- 2017-10-18 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1120.
+- 2017-10-18 — Roll call votes on amendments in Senate: Amendment SA 1119 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 221.
+- 2017-10-18 — Roll call votes on amendments in Senate: Amendment SA 1144 agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 220.
+- 2017-10-18 — Roll call votes on amendments in Senate: Amendment SA 1146 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 223.
+- 2017-10-18 — Roll call votes on amendments in Senate: Amendment SA 1150 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 222.
+- 2017-10-18 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1120 rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 224.
+- 2017-10-18 — Senate amendment agreed to: Amendment SA 1144 agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 220.
+- 2017-10-18 — Senate amendment agreed to: Amendment SA 1146 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 223.
+- 2017-10-18 — Senate amendment agreed to: Amendment SA 1151 agreed to in Senate by Voice Vote.
+- 2017-10-18 — Senate amendment not agreed to: Amendment SA 1119 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 221.
+- 2017-10-18 — Senate amendment not agreed to: Amendment SA 1150 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 222.
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1119 proposed by Senator Enzi for Senator Sanders to Amendment SA 1116.(consideration: CR S6518-6520, S6523; text: CR S6518-6519)
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1120 proposed by Senator Enzi for Senator Sanders to Amendment SA 1116.(consideration: CR S6518-6521, S6524-6525; text: CR S6519-6520)
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1144 proposed by Senator Enzi for Senator Hatch to Amendment SA 1116.(consideration: CR S6518-6520, S6521-6522; text: CR S6518)
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1146 proposed by Senator Enzi for Senator Heller to Amendment SA 1116.(consideration: CR S6518-6520, S6523-6524; text: CR S6519)
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1150 proposed by Senator Enzi for Senator Nelson to Amendment SA 1116.(consideration: CR S6518-6520, S6523; text: CR S6519)
+- 2017-10-18 — Senate amendment proposed (on the floor): Amendment SA 1151 proposed by Senator Enzi for Senator Collins to Amendment SA 1116.(consideration: CR S6518-6520, S6522, S6525; text: CR S6520)
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-18 — Senate amendment submitted
+- 2017-10-19 — Amendment SA 1116 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 228.
+- 2017-10-19 — Amendment SA 1138 proposed by Senator Warner to Amendment SA 1116. (consideration: CR S6611-6612; text: CR S6612) To strike the Senate pay-as-you-go exemption for tax cut reconciliation legislation and the exception to rules preventing any legislation from increasing the deficit over the short-term.
+- 2017-10-19 — Amendment SA 1139 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 230.
+- 2017-10-19 — Amendment SA 1139 proposed by Senator Enzi for Senator Baldwin to Amendment SA 1116. (consideration: CR S6615-6616, S6618-6619; text: CR S6616) To prohibit reconciliation legislation that would increase the deficit or reduce a surplus.
+- 2017-10-19 — Amendment SA 1141 proposed by Senator Cantwell to Amendment SA 1116. (consideration: CR S6603-6604; text: CR S6603) To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.
+- 2017-10-19 — Amendment SA 1141 ruled out of order by the chair.
+- 2017-10-19 — Amendment SA 1167 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Amendment SA 1167 proposed by Senator Enzi for Senator Perdue to Amendment SA 1116. (consideration: CR S6625-6626, S6629; text: CR S6626) To establish a deficit-neutral reserve fund relating to significantly improving the budget process.
+- 2017-10-19 — Amendment SA 1178 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 229.
+- 2017-10-19 — Amendment SA 1178 proposed by Senator Enzi for Senator Flake to Amendment SA 1116. (consideration: CR S6615-6616, S6618; text: CR S6615-6616) To make the American tax system simpler and fairer.
+- 2017-10-19 — Amendment SA 1205 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Amendment SA 1205 proposed by Senator Enzi for Senator Rubio to Amendment SA 1116. (consideration: CR S6615-6616, S6619; text: CR S6616) To establish a deficit-neutral reserve fund relating to tax cuts for working American families.
+- 2017-10-19 — Amendment SA 1228 proposed by Senator Enzi for Senator Heitkamp to Amendment SA 1116. (consideration: CR S6615-6616, S6619-6620; text: CR S6616) To create a point of order against legislation that would increase taxes on taxpayers whose annual income is below $250,000.
+- 2017-10-19 — Amendment SA 1228 ruled out of order by the chair.
+- 2017-10-19 — Amendment SA 1234 as modified agreed to in Senate by Voice Vote. (text as modified: CR S6620)
+- 2017-10-19 — Amendment SA 1234 proposed by Senator Enzi for Senator Donnelly to Amendment SA 1116. (consideration: CR S6615-6616, S6620; text: CR S6616) To establish a deficit-neutral reserve fund relating to eliminating tax breaks for companies that ship jobs to foreign countries.
+- 2017-10-19 — Amendment SA 1249 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 235.
+- 2017-10-19 — Amendment SA 1249 proposed by Senator Enzi for Senator Kaine to Amendment SA 1116. (consideration: CR S6615-6616, S6622-6623; text: CR S6616) To modify section 4111 to reinstate and strengthen a prohibition on voting on legislation without a Congressional Budget Office score.
+- 2017-10-19 — Amendment SA 1277 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 238.
+- 2017-10-19 — Amendment SA 1277 proposed by Senator Enzi for Senator Paul to Amendment SA 1116. (consideration: CR S6622-6623, S6625; text: CR S6623) To provide for reconciliation instructions to the relevant committees for the purpose of repealing and replacing the Patient Protection and Affordable Care Act.
+- 2017-10-19 — Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 4 - 94. Record Vote Number: 233.
+- 2017-10-19 — Amendment SA 1296 proposed by Senator Enzi for Senator Paul to Amendment SA 1116. (consideration: CR S6621-6622; text: CR S6621) To modify reconciliation instructions to reduce the deficit.
+- 2017-10-19 — Amendment SA 1298 not agreed to in Senate by Yea-Nay Vote. 5 - 95. Record Vote Number: 236.
+- 2017-10-19 — Amendment SA 1298 proposed by Senator Enzi for Senator Paul to Amendment SA 1116. (consideration: CR S6622-6624; text: CR S6622-6623) To reduce discretionary spending by $43,000,000,000.
+- 2017-10-19 — Amendment SA 1301 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 243.
+- 2017-10-19 — Amendment SA 1301 proposed by Senator Enzi for Senator Cantwell to Amendment SA 1116. (consideration: CR S6625-6626, S6628; text: CR S6626) To strike the reconciliation instructions for the Committee on Energy and Natural Resources of the Senate to prevent oil and gas development within the Arctic National Wildlife Refuge.
+- 2017-10-19 — Amendment SA 1302 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 225.
+- 2017-10-19 — Amendment SA 1302 proposed by Senator Wyden to Amendment SA 1116. (consideration: CR S6594-6602; text: CR S6594) To strike the reconciliation instructions relating to tax reform.
+- 2017-10-19 — Amendment SA 1375 proposed by Senator Enzi for Senator Cardin to Amendment SA 1116. (consideration: CR S6621-6622; text: CR S6621) To create a point of order against legislation that includes deficit-financed tax cuts.
+- 2017-10-19 — Amendment SA 1375 ruled out of order by the chair.
+- 2017-10-19 — Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 232.
+- 2017-10-19 — Amendment SA 1378 proposed by Senator Brown to Amendment SA 1116. (consideration: CR S6620-6621; text: CR S6620) To establish a deficit-neutral reserve fund relating to providing tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers.
+- 2017-10-19 — Amendment SA 1393 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 226.
+- 2017-10-19 — Amendment SA 1393 proposed by Senator Capito to Amendment SA 1116. (consideration: CR S6602-6603; text: CR S6603) To help provide tax relief to middle-class Americans by reducing deductibility, for Federal tax purposes, of federal deductions, such as the state and local tax deduction which disproportionally favors high-income individuals.
+- 2017-10-19 — Amendment SA 1404 not agreed to in Senate by Yea-Nay Vote. 7 - 93. Record Vote Number: 241.
+- 2017-10-19 — Amendment SA 1404 proposed by Senator Enzi for Senator Paul to Amendment SA 1116. (consideration: CR S6625-6627; text: CR S6625) To ensure that all Americans receive a tax cut, keeping more of their hard earned money, and enjoy the benefit of tax reform.
+- 2017-10-19 — Amendment SA 1422 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Amendment SA 1422 proposed by Senator Enzi for Senator Portman to Amendment SA 1116. (consideration: CR S6615-6616, S6620; text: CR S6616) To provide for an international tax system that provides or enhances incentives for businesses to invest in America, generate American jobs, retain American jobs, and return jobs to America.
+- 2017-10-19 — Amendment SA 1428 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 240.
+- 2017-10-19 — Amendment SA 1428 proposed by Senator Enzi for Senator Lee to Amendment SA 1116. (consideration: CR S6625-6627; text: CR S6625) To modify a deficit neutral reserve fund relating to public land and the environment to address making payments under the payments in lieu of taxes program equivalent to the property tax revenue that would be due to a State or local government if the State or local government owned the land.
+- 2017-10-19 — Amendment SA 1429 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 242.
+- 2017-10-19 — Amendment SA 1429 proposed by Senator Enzi for Senator Lee to Amendment SA 1116. (consideration: CR S6625-6628; text: CR S6625) To establish a spending-neutral reserve fund relating to prohibiting Federal regulation of entirely intrastate species under the Endangered Species Act of 1973.
+- 2017-10-19 — Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 237.
+- 2017-10-19 — Amendment SA 1430 proposed by Senator Enzi for Senator Lee to Amendment SA 1116. (consideration: CR S6622-6625; text: CR S6623) To expand the deficit-neutral reserve fund relating to the repeal of provisions of title I of the Patient Protection and Affordable Care Act.
+- 2017-10-19 — Amendment SA 1552 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Amendment SA 1552 proposed by Senator Enzi for Senator Fischer to Amendment SA 1116. (consideration: CR S6625-6626, S6628; text: CR S6626) To provide tax relief to American workers, families, and job creators in a manner which maintains the progressivity of the tax system by maintaining or raising the share of taxes paid by high income taxpayers.
+- 2017-10-19 — Amendment SA 1553 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 239.
+- 2017-10-19 — Amendment SA 1553 proposed by Senator Enzi for Senator Udall to Amendment SA 1116. (consideration: CR S6625-6626; text: CR S6625) To establish a deficit-neutral reserve fund relating to the provision of full, permanent, and mandatory funding for the payment in lieu of taxes program.
+- 2017-10-19 — Amendment SA 1561 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 244.
+- 2017-10-19 — Amendment SA 1561 proposed by Senator Enzi to Amendment SA 1116. (consideration: CR S6625-6626, S6628-6629; text: CR S6626) To provide other enforcement provisions related to the House of Representatives.
+- 2017-10-19 — Considered by Senate. (consideration: CR S6593-6630)
+- 2017-10-19 — Considered by Senate. (consideration: CR S6594)
+- 2017-10-19 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1141 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 227.
+- 2017-10-19 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1228 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 231.
+- 2017-10-19 — Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1375 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 234.
+- 2017-10-19 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 245.
+- 2017-10-19 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1141.
+- 2017-10-19 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1228.
+- 2017-10-19 — Point of order that the amendment violates section 305(b)(2) raised in Senate with respect to amendment SA 1375.
+- 2017-10-19 — Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 245.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 228.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1139 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 230.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1178 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 229.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1249 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 235.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1277 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 238.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 4 - 94. Record Vote Number: 233.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1298 not agreed to in Senate by Yea-Nay Vote. 5 - 95. Record Vote Number: 236.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1301 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 243.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1302 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 225.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 232.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1393 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 226.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1404 not agreed to in Senate by Yea-Nay Vote. 7 - 93. Record Vote Number: 241.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1428 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 240.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1429 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 242.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 237.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1553 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 239.
+- 2017-10-19 — Roll call votes on amendments in Senate: Amendment SA 1561 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 244.
+- 2017-10-19 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1141 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 227.
+- 2017-10-19 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1228 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 231.
+- 2017-10-19 — Roll call votes on amendments in Senate: Motion to waive section 305(b)(2) of the CBA with respect to amendment SA 1375 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 234.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1116 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1167 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1178 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 229.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1205 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1234 as modified agreed to in Senate by Voice Vote.(text as modified: CR S6620)
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1393 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 226.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1422 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1552 agreed to in Senate by Voice Vote.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1553 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 239.
+- 2017-10-19 — Senate amendment agreed to: Amendment SA 1561 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 244.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 228.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1139 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 230.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1249 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 235.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1277 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 238.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 4 - 94. Record Vote Number: 233.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1298 not agreed to in Senate by Yea-Nay Vote. 5 - 95. Record Vote Number: 236.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1301 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 243.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1302 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 225.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 232.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1404 not agreed to in Senate by Yea-Nay Vote. 7 - 93. Record Vote Number: 241.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1428 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 240.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1429 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 242.
+- 2017-10-19 — Senate amendment not agreed to: Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 237.
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1138 proposed by Senator Warner to Amendment SA 1116.(consideration: CR S6611-6612; text: CR S6612)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1139 proposed by Senator Enzi for Senator Baldwin to Amendment SA 1116.(consideration: CR S6615-6616, S6618-6619; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1141 proposed by Senator Cantwell to Amendment SA 1116.(consideration: CR S6603-6604; text: CR S6603)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1167 proposed by Senator Enzi for Senator Perdue to Amendment SA 1116.(consideration: CR S6625-6626, S6629; text: CR S6626)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1178 proposed by Senator Enzi for Senator Flake to Amendment SA 1116.(consideration: CR S6615-6616, S6618; text: CR S6615-6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1205 proposed by Senator Enzi for Senator Rubio to Amendment SA 1116.(consideration: CR S6615-6616, S6619; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1228 proposed by Senator Enzi for Senator Heitkamp to Amendment SA 1116.(consideration: CR S6615-6616, S6619-6620; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1234 proposed by Senator Enzi for Senator Donnelly to Amendment SA 1116.(consideration: CR S6615-6616, S6620; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1249 proposed by Senator Enzi for Senator Kaine to Amendment SA 1116.(consideration: CR S6615-6616, S6622-6623; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1277 proposed by Senator Enzi for Senator Paul to Amendment SA 1116.(consideration: CR S6622-6623, S6625; text: CR S6623)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1296 proposed by Senator Enzi for Senator Paul to Amendment SA 1116.(consideration: CR S6621-6622; text: CR S6621)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1298 proposed by Senator Enzi for Senator Paul to Amendment SA 1116.(consideration: CR S6622-6624; text: CR S6622-6623)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1301 proposed by Senator Enzi for Senator Cantwell to Amendment SA 1116.(consideration: CR S6625-6626, S6628; text: CR S6626)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1302 proposed by Senator Wyden to Amendment SA 1116.(consideration: CR S6594-6602; text: CR S6594)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1375 proposed by Senator Enzi for Senator Cardin to Amendment SA 1116.(consideration: CR S6621-6622; text: CR S6621)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1378 proposed by Senator Brown to Amendment SA 1116.(consideration: CR S6620-6621; text: CR S6620)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1393 proposed by Senator Capito to Amendment SA 1116.(consideration: CR S6602-6603; text: CR S6603)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1404 proposed by Senator Enzi for Senator Paul to Amendment SA 1116.(consideration: CR S6625-6627; text: CR S6625)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1422 proposed by Senator Enzi for Senator Portman to Amendment SA 1116.(consideration: CR S6615-6616, S6620; text: CR S6616)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1428 proposed by Senator Enzi for Senator Lee to Amendment SA 1116.(consideration: CR S6625-6627; text: CR S6625)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1429 proposed by Senator Enzi for Senator Lee to Amendment SA 1116.(consideration: CR S6625-6628; text: CR S6625)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1430 proposed by Senator Enzi for Senator Lee to Amendment SA 1116.(consideration: CR S6622-6625; text: CR S6623)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1552 proposed by Senator Enzi for Senator Fischer to Amendment SA 1116.(consideration: CR S6625-6626, S6628; text: CR S6626)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1553 proposed by Senator Enzi for Senator Udall to Amendment SA 1116.(consideration: CR S6625-6626; text: CR S6625)
+- 2017-10-19 — Senate amendment proposed (on the floor): Amendment SA 1561 proposed by Senator Enzi to Amendment SA 1116.(consideration: CR S6625-6626, S6628-6629; text: CR S6626)
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
+- 2017-10-19 — Senate amendment submitted
