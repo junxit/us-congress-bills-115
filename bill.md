@@ -32,7 +32,7 @@ This Act may be cited as the “Congressional Subpoena Compliance and Enforcemen
 
 ## § 3. Compliance with congressional subpoenas
 
-- **(a)** *In general* Chapter 7 of title II of the Revised Statutes of the United States (2 U.S.C. 191 et seq.) is amended by adding at the end the following:
+- **(a)** *In general* Chapter seven of title II of the Revised Statutes of the United States (2 U.S.C. 191 et seq.) is amended by adding at the end the following:
   > ## § 105. Response to congressional subpoenas
   >
   > - **(a)** *Subpoena by congressional committee* Any recipient of any subpoena from a congressional committee or subcommittee shall appear and testify or produce records in a manner consistent with the subpoena and this section.
@@ -53,4 +53,4 @@ This Act may be cited as the “Congressional Subpoena Compliance and Enforcemen
 
 ## § 4. Rule of construction
 
-Nothing in this Act shall be interpreted to diminish Congress’ inherent authority or previously established methods and practices for enforcing compliance with congressional subpoenas, nor shall anything in this Act be interpreted to establish Congress’ acceptance of any asserted privilege or other legal basis for noncompliance with a congressional subpoena.
+Nothing in this Act shall be interpreted to diminish Congress’ inherent authority or previously established methods and practices for enforcing compliance with congressional subpoenas, nor shall anything in this Act be interpreted to establish Congress’ acceptance of any privilege or other legal basis for noncompliance with a congressional subpoena.
