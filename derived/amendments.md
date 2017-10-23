@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3921
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-86 amendatory instructions. 40 executed, 46 stated and not applied.
+89 amendatory instructions. 40 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -143,12 +143,12 @@ to guess them.
 
 ### 42 U.S.C. § 1397dd
 
-> by striking “fiscal year 2015 and fiscal year 2017” and inserting “fiscal year 2015, 2017, and 2022”; and
+> by striking “fiscal year 2015 and fiscal year 2017” and inserting “fiscal years 2015, 2017, and 2022”; and
 
 | | |
 |---|---|
 | Removed | `fiscal year 2015 and fiscal year 2017` |
-| Inserted | `fiscal year 2015, 2017, and 2022` |
+| Inserted | `fiscal years 2015, 2017, and 2022` |
 
 ### 42 U.S.C. § 1397dd
 
@@ -251,12 +251,12 @@ to guess them.
 
 ### 48 U.S.C. § 2121
 
-> in subparagraph (A), by striking “subparagraph (B)” and inserting “subparagraphs (B), (C), (D), and (E)”; and
+> in subparagraph (A), by striking “subparagraph (B)” and inserting “subparagraphs (B), (C), (D), (E), and (F)”; and
 
 | | |
 |---|---|
 | Removed | `subparagraph (B)` |
-| Inserted | `subparagraphs (B), (C), (D), and (E)` |
+| Inserted | `subparagraphs (B), (C), (D), (E), and (F)` |
 
 ### 42 U.S.C. § 1396a
 
@@ -407,20 +407,23 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Out of any” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “there is appropriated for each” and inserting “there is appropriated— | the bill names no machine-readable US Code section |
 | — | replace | by striking “, and there is appropriated for the period” and inserting “; | the bill names no machine-readable US Code section |
-| — | replace | by striking “. Funds appropriated under this subsection shall remain available until expended” and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “. Funds appropriated under this subsection shall remain available until expended.” and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1397mm` | insert | by inserting after “2017” the following: “, and $100,000,000 for the period of fiscal years 2018 through 2022”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397mm` | add-at-end | in paragraph (1), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397mm` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ee` | insert | Section 2105(b) of the Social Security Act (42 U.S.C. 1397ee(b)) is amended in the second sentence by inserting “and during the period that begins on October 1, 2019, and ends on September 30, 2020, the enhanced FMAP determined for a Sta… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396r-4` | redesignate | by striking subclause (I) and redesignating subclauses (II) through (VIII) as subclauses (I) through (VII), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-4` | redesignate | in subclause (VI), as redesignated by paragraph (1), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-4` | redesignate | in subclause (VII), as redesignated by paragraph (1), by striking at the end the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-4` | add-at-end | by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1308` | insert | in paragraph (2)(A), by inserting “(or, with respect to fiscal years 2018 and 2019, increased by such percentage increase plus one percentage point)” after “beginning of the fiscal year”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1308` | insert | in subparagraph (A), by inserting “(or, with respect to fiscal years 2018 and 2019, increased by such percentage increase plus one percentage point)” after “beginning of the fiscal year”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1308` | insert | in subparagraph (B), by inserting “(or, with respect to fiscal years 2018 and 2019, increased by such percentage increase plus one percentage point)” after “percentage increase referred to in subparagraph (A)”; | the bill quotes the text inserted but describes where it goes |
 | `48 U.S.C. § 2121` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | insert | in paragraph (2)(A), by inserting “subject to paragraph (8),” before “an amount”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396b` | insert | in subparagraph (B), by inserting “subject to paragraph (8),” before “75 per centum”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396b` | strike | by striking at the end “plus”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | replace | in paragraph (7), by striking at the end the period and inserting “; plus”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | replace | in paragraph (7), by striking at the end the period and inserting “; plus” ; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | insert | by inserting “responsible” before “third” each place it appears in subparagraphs (A)(i), (A)(ii), (C), (D), and (H). | the bill quotes the text inserted but describes where it goes |
