@@ -1,7 +1,7 @@
 ---
 measure: S. 1766
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 5 executed, 4 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 14136a
-
-> by striking “and elder abuse” and inserting “elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents”.
-
-| | |
-|---|---|
-| Removed | `and elder abuse` |
-| Inserted | `elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents` |
-
-### 42 U.S.C. § 14135
-
-> Section 2(c)(4) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(c)(4)) is amended by striking “2017” and inserting “2022”.
-
-| | |
-|---|---|
-| Removed | `2017` |
-| Inserted | `2022` |
 
 ### 34 U.S.C. § 40723
 
@@ -78,7 +60,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 14136a` | insert | by inserting “, both adult and pediatric,” after “role of forensic nurses”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 14135` | repeal | Section 1006 of the SAFER Act of 2013 (42 U.S.C. 14135 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14135` | strike | The table of contents for the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54) is amended by striking the item relating to section 1006. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40723` | insert | by inserting “, both adult and pediatric,” after “role of forensic nurses”; and | the bill quotes the text inserted but describes where it goes |

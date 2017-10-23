@@ -1,7 +1,7 @@
 ---
 measure: S. 1766
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1766
@@ -16,7 +16,7 @@ SAFER Act of 2017
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Heller, Dean [R-NV] (H001041)
@@ -32,6 +32,9 @@ SAFER Act of 2017
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -45,3 +48,5 @@ SAFER Act of 2017
 - 2017-09-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-09-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2017-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
+- 2017-10-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6717; text as passed Senate: CR S6717)
+- 2017-10-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6717; text as passed Senate: CR S6717)
