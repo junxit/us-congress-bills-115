@@ -15,7 +15,7 @@ This Act may be cited as the “Cuban Airport Security Act of 2017”.
 
 ## § 2. Flights between the United States and Cuba
 
-- **(a)** *In general* The Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Comptroller General of the United States on the following aspects of security measures at each of Cuba’s ten international airports:
+- **(a)** *In general* The Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Comptroller General of the United States on the following aspects of security measures at each of Cuba’s 10 international airports:
   - **(1)** Details about the type of equipment used at screening checkpoints and an analysis of such equipment’s capabilities and weaknesses.
   - **(2)** Information about each such airport’s canine program, if used.
   - **(3)** The frequency of training for screening and security personnel.

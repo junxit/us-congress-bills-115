@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3328
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3328
@@ -44,3 +44,9 @@ Cuban Airport Security Act of 2017
 - 2017-09-13 — Placed on the Union Calendar, Calendar No. 220.
 - 2017-09-13 — Reported by the Committee on Homeland Security. H. Rept. 115-308, Part I.
 - 2017-09-13 — Reported by the Committee on Homeland Security. H. Rept. 115-308, Part I.
+- 2017-10-23 — Considered under suspension of the rules. (consideration: CR H8049-8052)
+- 2017-10-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3328.
+- 2017-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-23 — Mr. Katko moved to suspend the rules and pass the bill.
+- 2017-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8049-8050)
+- 2017-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8049-8050)
