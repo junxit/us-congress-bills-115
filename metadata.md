@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3279
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3279
@@ -25,3 +25,8 @@ Helium Extraction Act of 2017
 - 2017-07-18 — Introduced in House
 - 2017-07-18 — Introduced in House
 - 2017-07-18 — Referred to the House Committee on Natural Resources.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2017-10-23 — Placed on the Union Calendar, Calendar No. 267.
+- 2017-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-365.
+- 2017-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-365.
