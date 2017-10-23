@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3972
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3972
@@ -25,3 +25,9 @@ Family Office Technical Correction Act of 2017
 - 2017-10-05 — Introduced in House
 - 2017-10-05 — Introduced in House
 - 2017-10-05 — Referred to the House Committee on Financial Services.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.
+- 2017-10-23 — Placed on the Union Calendar, Calendar No. 266.
+- 2017-10-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-362.
+- 2017-10-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-362.
