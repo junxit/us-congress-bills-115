@@ -17,7 +17,7 @@ This Act may be cited as the “Impeding North Korea’s Access to Finance Act o
 
 The Congress finds the following:
 
-- **(1)** On June 1, 2016, the Department of the Treasury’s Financial Crimes Enforcement Network announced a Notice of Finding that the Democratic Republic of North Korea is a jurisdiction of primary money laundering concern due to its use of state-controlled financial institutions and front companies to support the proliferation and development of weapons of mass destruction (WMD) and ballistic missiles.
+- **(1)** On June 1, 2016, the Department of the Treasury’s Financial Crimes Enforcement Network announced a Notice of Finding that the Democratic People’s Republic of Korea is a jurisdiction of primary money laundering concern due to its use of state-controlled financial institutions and front companies to support the proliferation and development of weapons of mass destruction (WMD) and ballistic missiles.
 - **(2)** The Financial Action Task Force (FATF) has expressed serious concerns with the threat posed by North Korea’s proliferation and financing of WMD, and has called on FATF members to apply effective counter-measures to protect their financial sectors from North Korean money laundering, WMD proliferation financing, and the financing of terrorism.
 - **(3)** In its February 2017 report, the U.N. Panel of Experts concluded that—
   - **(A)** North Korea continued to access the international financial system in support of illicit activities despite sanctions imposed by U.N. Security Council Resolutions 2270 (2016) and 2321 (2016);
@@ -67,11 +67,11 @@ The Congress finds the following:
   - **(1)** *In general* Not later than 120 days following the date of the enactment of this Act, and every 90 days thereafter, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that includes—
     - **(A)** a list of financial institutions that, in the period since the preceding report, knowingly facilitated a significant transaction or transactions or provided significant financial services for a covered person, or failed to apply appropriate due diligence to prevent such activities;
     - **(B)** a list of any penalties imposed under section 3 in the period since the preceding report; and
-    - **(C)** a description of efforts by the Department of the Treasury in the period since the preceding report, through consultations, technical assistance, or other appropriate activities, to strengthen the capacity of financial institutions and foreign governments to prevent the provision of financial services benefitting a person described under subparagraphs (A) through (L) of section 7(2).
+    - **(C)** a description of efforts by the Department of the Treasury in the period since the preceding report, through consultations, technical assistance, or other appropriate activities, to strengthen the capacity of financial institutions and foreign governments to prevent the provision of financial services benefitting any covered person.
   - **(2)** *Form of report; public availability*
     - **(A)** *Form* The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
     - **(B)** *Public availability* The unclassified portion of such report shall be made available to the public and posted on the website of the Department of the Treasury.
-- **(b)** *Testimony required* Upon request of the Committee on Financial Services of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, the Under Secretary of the Treasury for Terrorism and Financial Intelligence shall testify to explain the effects of this Act, and the amendments made by this Act, on North Korea’s access to financial services.
+- **(b)** *Testimony required* Upon request of the Committee on Financial Services of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, the Under Secretary of the Treasury for Terrorism and Financial Intelligence shall testify to explain the effects of this Act, and the amendments made by this Act, on North Korea’s access to finance.
 - **(c)** *International Monetary Fund* Title XVI of the International Financial Institutions Act (22 U.S.C. 262p et seq.) is amended by adding at the end the following:
   > ## § 1629. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
   >
@@ -103,20 +103,24 @@ The Congress finds the following:
 
 For purposes of this Act:
 
-- **(1)** *Terms related to North Korea* The terms “applicable Executive order”, “Government of North Korea”, “North Korea”, and “North Korean person” have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202).
+- **(1)** *Terms related to North Korea* The terms “applicable Executive order”, “Government of North Korea”, “North Korea”, “North Korean person”, and “significant activities undermining cybersecurity” have the meanings given those terms, respectively, in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9202).
 - **(2)** *Covered person* The term “covered person” means the following:
   - **(A)** Any designated person under an applicable Executive order.
   - **(B)** Any North Korean person that facilitates the transfer of bulk cash or covered goods (as defined under section 1027.100 of title 31, Code of Federal Regulations).
   - **(C)** Any North Korean financial institution.
-  - **(D)** Any North Korean person employed outside of North Korea.
+  - **(D)** Any North Korean person employed outside of North Korea, except that the Secretary of the Treasury may waive the application of this subparagraph for a North Korean person that is not otherwise a covered person and—
+    - **(i)** has been granted asylum or refugee status by the country of employment; or
+    - **(ii)** is employed as essential diplomatic personnel for the Government of North Korea.
   - **(E)** Any person acting on behalf of, or at the direction of, a person described under subparagraphs (A) through (D).
   - **(F)** Any person that knowingly employs a person described under subparagraph (D).
   - **(G)** Any person that facilitates the import of goods, services, technology, or natural resources, including energy imports and minerals, or their derivatives, from North Korea.
   - **(H)** Any person that facilitates the export of goods, services, technology, or natural resources, including energy exports and minerals, or their derivatives, to North Korea, except for food, medicine, or medical supplies required for civilian humanitarian needs.
   - **(I)** Any person that invests in, or participates in a joint venture with, an entity in which the Government of North Korea participates or an entity that is created or organized under North Korean law.
   - **(J)** Any person that provides financial services, including through a subsidiary or joint venture, in North Korea.
-  - **(K)** Any person that insures, registers, facilitates the registration of, or maintains insurance or a registration for, a vessel commanded or operated by a North Korean person.
-  - **(L)** Any person providing specialized teaching, training, or information to a North Korean person that may contribute to North Korea’s development and proliferation of WMD, including systems designed in whole or in part for the delivery of such weapons.
+  - **(K)** Any person that insures, registers, facilitates the registration of, or maintains insurance or a registration for, a vessel owned, controlled, commanded, or operated by a North Korean person.
+  - **(L)** Any person providing specialized teaching, training, or information or providing material or technological support to a North Korean person that—
+    - **(i)** may contribute to North Korea’s development and proliferation of WMD, including systems designed in whole or in part for the delivery of such weapons; or
+    - **(ii)** may contribute to significant activities undermining cybersecurity.
 - **(3)** *Financial institution definitions*
   - **(A)** *Financial institution* The term “financial institution” means a United States financial institution or a foreign financial institution.
   - **(B)** *Foreign financial institution* The term “foreign financial institution” has the meaning given that term under section 1010.605 of title 31, Code of Federal Regulations.
