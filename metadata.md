@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 555
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 555
@@ -16,7 +16,7 @@ Of inquiry requesting the President and directing the Secretary of the Interior 
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Cosponsors (25)
+## Cosponsors (37)
 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Chu, Judy [D-CA-27] (C001080)
@@ -43,6 +43,18 @@ Of inquiry requesting the President and directing the Secretary of the Interior 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Kihuen, Ruben J. [D-NV-4] (K000390)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
 ## Committees (1)
 
@@ -53,3 +65,8 @@ Of inquiry requesting the President and directing the Secretary of the Interior 
 - 2017-10-04 — Introduced in House
 - 2017-10-04 — Introduced in House
 - 2017-10-04 — Referred to the House Committee on Natural Resources.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.
+- 2017-10-23 — Placed on the House Calendar, Calendar No. 93.
+- 2017-10-23 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 115-364.
+- 2017-10-23 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 115-364.
