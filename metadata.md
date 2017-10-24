@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2142
@@ -41,6 +41,10 @@ INTERDICT Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2017-10-24 — [House 115-1-574](votes/house-115-1-0574.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–3)
+
 ## Actions
 
 - 2017-04-25 — Introduced in House
@@ -54,3 +58,11 @@ INTERDICT Act
 - 2017-09-21 — Placed on the Union Calendar, Calendar No. 227.
 - 2017-09-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-317.
 - 2017-09-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-317.
+- 2017-10-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-23 — Considered under suspension of the rules. (consideration: CR H8057-8059; text: CR H8058)
+- 2017-10-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2142.
+- 2017-10-23 — Mr. Fitzpatrick moved to suspend the rules and pass the bill, as amended.
+- 2017-10-24 — Considered as unfinished business. (consideration: CR H8096)
+- 2017-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
+- 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
