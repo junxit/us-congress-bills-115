@@ -1,7 +1,7 @@
 ---
 measure: H.R. 304
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 304
@@ -83,3 +83,12 @@ Protecting Patient Access to Emergency Medications Act of 2017
 - 2017-10-24 — Senate amendment agreed to: Amendment SA 1577 agreed to in Senate by Unanimous Consent.
 - 2017-10-24 — Senate amendment proposed (on the floor): Amendment SA 1577 proposed by Senator McConnell for Senator Cassidy.(consideration: CR S6773)
 - 2017-10-24 — Senate amendment submitted
+- 2017-10-25 — Message on Senate action sent to the House.
+- 2017-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-02 — Mr. Hudson asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H8421-8422)
+- 2017-11-02 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate Amendment: CR H8421-8422)
+- 2017-11-02 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate Amendment: CR H8421-8422)
+- 2017-11-07 — Presented to President.
+- 2017-11-07 — Presented to President.
+- 2017-11-17 — Signed by President.
+- 2017-11-17 — Signed by President.

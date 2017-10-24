@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 304
-congress: 115th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 304
 
-That the bill from the House of Representatives (H.R. 304) entitled “An Act to amend the Controlled Substances Act with regard to the provision of emergency medical services.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Controlled Substances Act with regard to the provision of emergency medical services.
 
 ## § 1. Short title
 
