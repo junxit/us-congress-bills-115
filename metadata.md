@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4010
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4010
@@ -24,9 +24,10 @@ Congressional Subpoena Compliance and Enforcement Act of 2017
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Congressional Subpoena Compliance and Enforcement Act of 2017
 - 2017-10-23 — Placed on the Union Calendar, Calendar No. 264.
 - 2017-10-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-360.
 - 2017-10-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-360.
+- 2017-10-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
