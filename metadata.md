@@ -1,7 +1,7 @@
 ---
 measure: S. 226
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 226
@@ -33,3 +33,5 @@ A bill to exclude power supply circuits, drivers, and devices to be connected to
 - 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-78.
 - 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-78.
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 97.
+- 2017-10-24 — Passed Senate without amendment by Voice Vote. (consideration: CR S6772-6773; text as passed Senate: CR S6772-6773)
+- 2017-10-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6772-6773; text as passed Senate: CR S6772-6773)
