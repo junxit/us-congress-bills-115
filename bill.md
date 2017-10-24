@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3898
 
-> To require the Secretary of the Treasury to place conditions on certain accounts at United States financial institutions with respect to North Korea, and for other purposes.
+> To impose secondary sanctions with respect to North Korea, strengthen international efforts to improve sanctions enforcement, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Impeding North Korea’s Access to Finance Act of 2017”.
+This Act may be cited as the “Otto Warmbier North Korea Nuclear Sanctions Act”.
 
 ## § 2. Findings
 
@@ -52,14 +52,14 @@ The Congress finds the following:
 - **(a)** *International financial institutions* The Bretton Woods Agreements Act (22 U.S.C. 286 et seq.) is amended by adding at the end the following:
   > ## § 73. Opposition to assistance for any government that fails to implement sanctions on North Korea
   >
-  > - **(a)** *In general* The Secretary of the Treasury shall instruct the United States Executive Director at the international financial institutions (as defined under section 1701(c) of the International Financial Institutions Act) to use the voice and vote of the United States to oppose the provision of financial assistance to a foreign government, other than assistance to support basic human needs, if the President determines that, in the year preceding consideration of approval of such assistance, the government has knowingly failed to prevent the provision of financial services to, or freeze the funds, financial assets, and economic resources of, a person described under subparagraphs (A) through (E) of section 7(2) of the Impeding North Korea’s Access to Finance Act of 2017.
+  > - **(a)** *In general* The Secretary of the Treasury shall instruct the United States Executive Director at the international financial institutions (as defined under section 1701(c) of the International Financial Institutions Act) to use the voice and vote of the United States to oppose the provision of financial assistance to a foreign government, other than assistance to support basic human needs, if the President determines that, in the year preceding consideration of approval of such assistance, the government has knowingly failed to prevent the provision of financial services to, or freeze the funds, financial assets, and economic resources of, a person described under subparagraphs (A) through (E) of section 7(2) of the Otto Warmbier North Korea Nuclear Sanctions Act.
   > - **(b)** *Waiver* The President may waive subsection (a) for up to 180 days at a time with respect to a foreign government if the President reports to Congress that—
   >   - **(1)** the foreign government’s failure described under (a) is due exclusively to a lack of foreign government capacity;
   >   - **(2)** the foreign government is taking effective steps to prevent recurrence of such failure; or
   >   - **(3)** such waiver is vital to the national security interests of the United States.
 
 - **(b)** *Export-Import Bank* Section 2(b) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)) is amended by adding at the end the following:
-  > - **(14)** *Prohibition on support involving persons connected with North Korea* The Bank may not guarantee, insure, or extend credit, or participate in the extension of credit in connection with the export of a good or service to a covered person (as defined under section 7 of the Impeding North Korea’s Access to Finance Act of 2017).
+  > - **(14)** *Prohibition on support involving persons connected with North Korea* The Bank may not guarantee, insure, or extend credit, or participate in the extension of credit in connection with the export of a good or service to a covered person (as defined under section 7 of the Otto Warmbier North Korea Nuclear Sanctions Act).
 
 ## § 5. Treasury reports on compliance, penalties, and technical assistance
 
