@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 580
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 580
+
+> Providing for consideration of the Senate amendment to the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.
+
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the concurrent resolution (H. Con. Res. 71) establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on the Budget or her designee that the House concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on the Budget. The previous question shall be considered as ordered on the motion to adoption without intervening motion.
