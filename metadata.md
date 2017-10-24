@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4038
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4038
@@ -21,9 +21,10 @@ DHS Accountability Enhancement Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ DHS Accountability Enhancement Act
 - 2017-10-23 — Mr. McCaul moved to suspend the rules and pass the bill.
 - 2017-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8048)
 - 2017-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8048)
+- 2017-10-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
