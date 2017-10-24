@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2600
@@ -25,3 +25,9 @@ To provide for the conveyance to the State of Iowa of the reversionary interest 
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Referred to the House Committee on Natural Resources.
+- 2017-06-07 — Referred to the Subcommittee on Federal Lands.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-10-24 — Placed on the Union Calendar, Calendar No. 270.
+- 2017-10-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-368.
+- 2017-10-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-368.
