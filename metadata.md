@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3101
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3101
@@ -46,3 +46,9 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - 2017-10-19 — Placed on the Union Calendar, Calendar No. 260.
 - 2017-10-19 — Reported by the Committee on Homeland Security. H. Rept. 115-356, Part I.
 - 2017-10-19 — Reported by the Committee on Homeland Security. H. Rept. 115-356, Part I.
+- 2017-10-24 — Considered under suspension of the rules. (consideration: CR H8104-8107)
+- 2017-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3101.
+- 2017-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-24 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8104-8105)
+- 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8104-8105)

@@ -17,20 +17,26 @@ This Act may be cited as the “Strengthening Cybersecurity Information Sharing 
 
 The Secretary of Homeland Security shall—
 
-- **(1)** develop and implement a maritime cybersecurity risk assessment model within 120 days after the date of the enactment of this Act, consistent with the National Institute of Standards and Technology Framework for Improving Critical Infrastructure Cybersecurity and any update to that document pursuant to Public Law 113–274, to evaluate current and future cybersecurity risks (as that term is defined in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148));
-- **(2)** evaluate, on a periodic basis but not less than once every two years, the effectiveness of the cybersecurity risk assessment model established under paragraph (1);
-- **(3)** seek to ensure participation of at least one information sharing and analysis organization (as that term is defined in section 212 of the Homeland Security Act of 2002 (6 U.S.C. 131)) representing the maritime community in the National Cybersecurity and Communications Integration Center, pursuant to subsection (d)(1)(B) of section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148);
-- **(4)** establish guidelines for voluntary reporting of maritime-related cybersecurity risks and incidents (as such terms are defined in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148)) to the Center (as that term is defined subsection (b) of section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148)), and other appropriate Federal agencies; and
-- **(5)** request the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, to report and make recommendations to the Secretary on enhancing the sharing of information related to cybersecurity risks and incidents between relevant Federal agencies and State, local, and tribal governments and consistent with the responsibilities of the Center (as that term is defined subsection (b) of section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148)); relevant public safety and emergency response agencies; relevant law enforcement and security organizations; maritime industry; port owners and operators; and terminal owners and operators.
+- **(1)** develop and implement a maritime cybersecurity risk assessment model within 120 days after the date of the enactment of this Act, consistent with the National Institute of Standards and Technology Framework for Improving Critical Infrastructure Cybersecurity and any update to that document pursuant to Public Law 113–274, to evaluate current and future cybersecurity risks (as such term is defined in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148));
+- **(2)** evaluate, on a periodic basis but not less often than once every 2 years, the effectiveness of the maritime cybersecurity risk assessment model under paragraph (1);
+- **(3)** seek to ensure participation of at least one information sharing and analysis organization (as such term is defined in section 212 of the Homeland Security Act of 2002 (6 U.S.C. 131)) representing the maritime community in the National Cybersecurity and Communications Integration Center, pursuant to subsection (d)(1)(B) of section 227 of such Act;
+- **(4)** establish guidelines for voluntary reporting of maritime-related cybersecurity risks and incidents (as such terms are defined in section 227 of such Act) to the Center (as such term is defined subsection (b) of such section 227), and other appropriate Federal agencies; and
+- **(5)** request the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, to report and make recommendations to the Secretary on enhancing the sharing of information related to cybersecurity risks and incidents, consistent with the responsibilities of the Center, between relevant Federal agencies and—
+  - **(A)** State, local, and tribal governments;
+  - **(B)** relevant public safety and emergency response agencies;
+  - **(C)** relevant law enforcement and security organizations;
+  - **(D)** maritime industry;
+  - **(E)** port owners and operators; and
+  - **(F)** terminal owners and operators.
 
 ## § 3. Cybersecurity enhancements to maritime security activities
 
 The Secretary of Homeland Security, acting through the Commandant of the Coast Guard, shall direct—
 
 - **(1)** each Area Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, to facilitate the sharing of cybersecurity risks and incidents to address port-specific cybersecurity risks, which may include the establishment of a working group of members of Area Maritime Security Advisory Committees to address port-specific cybersecurity vulnerabilities; and
-- **(2)** that any area maritime security plan and facility security plan required under section 70103 of title 46, United States Code, approved after the development of the cybersecurity risk assessment model required by paragraph (1) of section 2 include a mitigation plan to prevent, manage, and respond to cybersecurity risks.
+- **(2)** that any area maritime transportation security plan and any vessel or facility security plan required under section 70103 of title 46, United States Code, approved after the development of the cybersecurity risk assessment model required by paragraph (1) of section 2 include a mitigation plan to prevent, manage, and respond to cybersecurity risks (as such term is defined in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148)).
 
-## § 4. vulnerability assessments and security plans
+## § 4. Vulnerability assessments and security plans
 
 Title 46, United States Code, is amended—
 
