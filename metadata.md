@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3898
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3898
@@ -41,6 +41,10 @@ Otto Warmbier North Korea Nuclear Sanctions Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2017-10-24 — [House 115-1-581](votes/house-115-1-0581.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–2)
+
 ## Actions
 
 - 2017-09-13 — Hearings Held by the Subcommittee on Monetary Policy and Trade Prior to Introduction and Referral.
@@ -53,3 +57,12 @@ Otto Warmbier North Korea Nuclear Sanctions Act
 - 2017-10-23 — Placed on the Union Calendar, Calendar No. 265.
 - 2017-10-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-361.
 - 2017-10-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-361.
+- 2017-10-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-24 — Considered as unfinished business. (consideration: CR H8129-8130)
+- 2017-10-24 — Considered under suspension of the rules. (consideration: CR H8099-8104)
+- 2017-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3898.
+- 2017-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-24 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
+- 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 581). (text: CR H8099-8100)
+- 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 581).(text: CR H8099-8100)
+- 2017-10-24 — The title of the measure was amended. Agreed to without objection.
