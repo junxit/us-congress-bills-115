@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3328
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3328
@@ -21,11 +21,12 @@ Cuban Airport Security Act of 2017
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Foreign Affairs Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Cuban Airport Security Act of 2017
 - 2017-10-23 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2017-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8049-8050)
 - 2017-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8049-8050)
+- 2017-10-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
