@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3342
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3342
@@ -16,12 +16,34 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Cosponsors (4)
+## Cosponsors (26)
 
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Meng, Grace [D-NY-6] (M001188)
 
 ## Committees (2)
 
@@ -34,3 +56,10 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 - 2017-07-20 — Introduced in House
 - 2017-07-20 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-07-20 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-28 — Committee Consideration and Mark-up Session Held.
+- 2017-09-28 — Ordered to be Reported by Voice Vote.
+- 2017-10-24 — Committee on the Judiciary discharged.
+- 2017-10-24 — Committee on the Judiciary discharged.
+- 2017-10-24 — Placed on the Union Calendar, Calendar No. 269.
+- 2017-10-24 — Reported by the Committee on Foreign Affairs. H. Rept. 115-367, Part I.
+- 2017-10-24 — Reported by the Committee on Foreign Affairs. H. Rept. 115-367, Part I.
