@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4010
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `28 U.S.C. § 1365` | insert | Chapter 85 of title 28, United States Code, is amended by inserting after section 1365 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1365` | insert | The table of sections for chapter 85 of title 28, United States Code, is amended by inserting after the item relating to section 1365 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 191` | add-at-end | Chapter seven of title II of the Revised Statutes of the United States (2 U.S.C. 191 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 191` | add-at-end | Chapter 7 of title II of the Revised Statutes of the United States (2 U.S.C. 191 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 191` | add-at-end | The table of contents for chapter 7 of title II of the Revised Statutes of the United States is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
