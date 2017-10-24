@@ -1,7 +1,7 @@
 ---
 measure: H.R. 304
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 304
@@ -16,7 +16,7 @@ Protecting Patient Access to Emergency Medications Act of 2017
 
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
@@ -43,6 +43,9 @@ Protecting Patient Access to Emergency Medications Act of 2017
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (3)
 
@@ -69,3 +72,14 @@ Protecting Patient Access to Emergency Medications Act of 2017
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 25). (text: CR H206-207)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 25).(text: CR H206-207)
 - 2017-01-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2017-01-12 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2017-10-24 — Amendment SA 1577 agreed to in Senate by Unanimous Consent.
+- 2017-10-24 — Amendment SA 1577 proposed by Senator McConnell for Senator Cassidy. (consideration: CR S6773) In the nature of substitute.
+- 2017-10-24 — Measure laid before Senate by unanimous consent. (consideration: CR S6773)
+- 2017-10-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-10-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-10-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-10-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2017-10-24 — Senate amendment agreed to: Amendment SA 1577 agreed to in Senate by Unanimous Consent.
+- 2017-10-24 — Senate amendment proposed (on the floor): Amendment SA 1577 proposed by Senator McConnell for Senator Cassidy.(consideration: CR S6773)
+- 2017-10-24 — Senate amendment submitted

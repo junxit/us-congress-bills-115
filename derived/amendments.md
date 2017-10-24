@@ -1,7 +1,7 @@
 ---
 measure: H.R. 304
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
