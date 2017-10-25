@@ -1,7 +1,7 @@
 ---
 measure: H.R. 732
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 732
@@ -53,9 +53,10 @@ Stop Settlement Slush Funds Act of 2017
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (6)
 
@@ -140,3 +141,4 @@ Stop Settlement Slush Funds Act of 2017
 - 2017-10-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 732.
 - 2017-10-24 — The Speaker designated the Honorable Frank D. Lucas to act as Chairman of the Committee.
 - 2017-10-24 — The previous question was ordered pursuant to the rule.
+- 2017-10-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
