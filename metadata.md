@@ -1,7 +1,7 @@
 ---
 measure: S. 1766
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1766
@@ -36,9 +36,10 @@ SAFER Act of 2017
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ SAFER Act of 2017
 - 2017-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
 - 2017-10-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6717; text as passed Senate: CR S6717)
 - 2017-10-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6717; text as passed Senate: CR S6717)
+- 2017-10-25 — Message on Senate action sent to the House.
+- 2017-10-25 — Received in the House.
+- 2017-10-25 — Referred to the House Committee on the Judiciary.
