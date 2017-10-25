@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2142
@@ -67,3 +67,10 @@ INTERDICT Act
 - 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
 - 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
 - 2017-10-25 — Received in the Senate, read twice.
+- 2017-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8279)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8279)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-29 — Presented to President.
+- 2017-12-29 — Presented to President.
+- 2018-01-10 — Signed by President.
+- 2018-01-10 — Signed by President.
