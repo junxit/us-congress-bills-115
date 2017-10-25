@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2142
@@ -66,3 +66,4 @@ INTERDICT Act
 - 2017-10-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
 - 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 574).
+- 2017-10-25 — Received in the Senate, read twice.
