@@ -2,7 +2,7 @@
 legis-num: H. RES. 359
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 359
@@ -20,20 +20,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in December 2015 the Hizballah International Financing Prevention Act of 2015 (Public Law 114–102) was signed into law in the United States, broadening financial sector sanctions against Hizballah to compel foreign financial institutions to refrain from supporting the terrorist group;
 - Whereas in February 2016 the United States Drug Enforcement Administration and U.S. Customs and Border Protection partnered with counterparts in France, Germany, Italy, and Belgium to arrest top leaders of the European cell of Hizballah’s External Security Organization Business Affairs Component—a cell that engages in international money laundering and drug trafficking to support Hizballah’s terror activities;
 - Whereas for many years, the Governments of Iran and Syria have been the prime sponsors of Hizballah, harboring, financing, training, and arming the group;
-- Whereas Department of Defense officials estimate that Iran provides as much as $200,000,000 per year to Hizballah in the form of financial and logistical support, weapons, and training;
+- Whereas Department of Defense officials estimate that Iran provides as much as $200 million per year to Hizballah in the form of financial and logistical support, weapons, and training;
 - Whereas Hizballah now has an arsenal of approximately 150,000 missiles and rockets, many of which can reach deep into Israel, at a time when Hizballah Secretary General Hassan Nasrallah is threatening to attack and invade Israel;
 - Whereas Hizballah fighters have been supporting the Assad regime in Syria, often leading operations in the conflict which has left more than 465,000 dead;
 - Whereas Russia has established fusion centers in Syria to coordinate with Iran, the Assad regime, and Hizballah, and Russian air cover has given Hizballah an advantage on the battlefield against Syria rebels;
-- Whereas the conflict in Syria has fueled a migrant crisis that has brought nearly 400,000 migrants and refugees to Europe in 2016 and 2017 alone;
+- Whereas Hizballah’s destabilizing actions in the conflict in Syria has fueled a migrant crisis that has brought nearly 400,000 migrants and refugees to Europe in 2016 and 2017 alone;
 - Whereas Lebanon continues to be plagued by instability and violence;
 - Whereas due to Hizballah’s actions in Syria, the Islamic State of Iraq and the Levant has carried out retaliatory terrorist attacks in Beirut;
 - Whereas the Lebanese Armed Forces, the legitimate security establishment of the country as set forth in United Nations Security Council Resolution 1701 (2006), are struggling to control the flow of weapons and Hizballah fighters at its borders;
 - Whereas Hizballah trains and provides weapons for Shiite militias in Iraq and Yemen, further destabilizing the region and perpetuating violence in those countries;
-- Whereas in October 2012 Hizballah Deputy Secretary General Naim Qassem stated that “[Hizballah does not] have a military wing and a political one . . . Every element of Hizballah, from commanders to members as well as our various capabilities, are in the service of the resistance”;
+- Whereas in October 2012 Hizballah Deputy Secretary General Naim Qassem stated that “[Hizballah does not] have a military wing and a political one * * * Every element of Hizballah, from commanders to members as well as our various capabilities, are in the service of the resistance”;
 - Whereas the United States, Canada, Israel, and the Netherlands have designated Hizballah in its entirety as a terror organization, while Australia and New Zealand have applied the designation to the organization’s so-called military wing;
 - Whereas in March 2016 the Gulf Cooperation Council, the bloc of six Gulf Arab nations, formally branded Hizballah, in its entirety, a terrorist organization, and the League of Arab States shortly thereafter adopted the same designation;
 - Whereas in April 2016 the Organization of Islamic Cooperation, denounced Hizballah’s “terrorist acts” in the Middle East;
-- Whereas Hizballah Secretary General Nasrallah said in May 2017 that the conflict in Syria had entered a “new and critical phase” in which Damascus, Moscow, Tehran, and Hezbollah were “in more harmony politically and militarily than at any time”; and
+- Whereas Hizballah Secretary General Nasrallah said in May 2017 that the conflict in Syria had entered a “new and critical phase” in which Damascus, Moscow, Tehran, and Hezbollah were “in more harmony politically and militarily than at any time”;
+- Whereas the United States has designated Hizballah’s Foreign Relations Department, which has representatives around the world, as a Specially Designated National, subject to United States primary and secondary sanctions;
+- Whereas the Department of the Treasury has diligently added persons and entities to the list of Specially Designated Global Terrorists who have provided material support to the Hizballah terrorist organization, thereby hampering its financing and logistical capabilities; and
 - Whereas in May 2017 the United States and Saudi Arabia sanctioned Hashem Saffiedine, a member of Hizballah’s executive council which oversees the organization’s political, organizational, social and educational activities, for his involvement in terrorist activity: Now, therefore, be it
 
 That the House of Representatives—
