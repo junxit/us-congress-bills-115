@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3898
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3898
@@ -37,9 +37,10 @@ Otto Warmbier North Korea Nuclear Sanctions Act
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Otto Warmbier North Korea Nuclear Sanctions Act
 - 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 581). (text: CR H8099-8100)
 - 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 581).(text: CR H8099-8100)
 - 2017-10-24 — The title of the measure was amended. Agreed to without objection.
+- 2017-10-25 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
