@@ -1,7 +1,7 @@
 ---
 measure: S. 1766
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1766
@@ -54,3 +54,15 @@ SAFER Act of 2017
 - 2017-10-25 — Message on Senate action sent to the House.
 - 2017-10-25 — Received in the House.
 - 2017-10-25 — Referred to the House Committee on the Judiciary.
+- 2017-12-21 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Handel objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-12-21 — Considered as unfinished business. (consideration: CR H10405)
+- 2017-12-21 — Considered under suspension of the rules. (consideration: CR H10362-10364)
+- 2017-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1766.
+- 2017-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-21 — Mrs. Handel moved to suspend the rules and pass the bill.
+- 2017-12-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10362)
+- 2017-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10362)
+- 2017-12-27 — Presented to President.
+- 2017-12-27 — Presented to President.
+- 2018-01-08 — Signed by President.
+- 2018-01-08 — Signed by President.
