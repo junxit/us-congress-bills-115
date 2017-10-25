@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 580
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 580
@@ -27,3 +27,9 @@ Providing for consideration of the Senate amendment to the concurrent resolution
 - 2017-10-24 — Provides for consideration of the Senate amendment and the motion, offered by the chair of the Committee on the Budget, that the House concur in the Senate amendment.
 - 2017-10-24 — The House Committee on Rules reported an original measure, H. Rept. 115-369, by Mr. Woodall.
 - 2017-10-24 — The House Committee on Rules reported an original measure, H. Rept. 115-369, by Mr. Woodall.
+- 2017-10-25 — Considered as privileged matter. (consideration: CR H8157-8167)
+- 2017-10-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 580.
+- 2017-10-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-25 — On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 583). (text: CR H8157)
+- 2017-10-25 — On ordering the previous question Agreed to by the Yeas and Nays: 229 - 188 (Roll no. 582). (consideration: CR H8166)
+- 2017-10-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 583).(text: CR H8157)
