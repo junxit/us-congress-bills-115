@@ -1,0 +1,45 @@
+---
+legis-num: H.R. 4123
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4123
+
+> To require the Director of National Intelligence, in coordination with the Secretary of State, to submit a report to Congress with respect to North Korea’s procurement of engines and technologies from a foreign source, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “North Korea Ballistic Missile Investigations Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** According to experts, North Korea’s missile program has made “astounding strides over the past two years”, marked particularly by the successful launching of two new missiles within ten months: the intermediate-range Hwasong–12 and the intercontinental ballistic missile Hwasong–14.
+- **(2)** According to a August 14, 2017, report by the International Institute for Strategic Studies, North Korea made these advancements by acquiring a high-performance liquid-propellant engine from a foreign source, likely from Ukraine.
+- **(3)** Available evidence indicates that the liquid-propellant engine is based on the Soviet RD–250 family of engines, and has been modified to operate as the boosting force for the Hwasong–12 and the Hwasong–14. Those engines are linked to a missile factory in Dnipro, Ukraine, which has been struggling financially over the past decade.
+- **(4)** The New York Times reported on September 17, 2017, that North Korea may have initially procured rocket fuel from China and Russia, including the highly volatile fuel unsymmetrical dimethyl hydrazine.
+
+## § 3. Investigation with respect to North Korea
+
+- **(a)** *In general* The Director of National Intelligence, in coordination with the Secretary of State, shall conduct an investigation into North Korea’s alleged procurement of engines and related technology, including the procurement of unsymmetrical dimethyl hydrazine, from foreign sources.
+- **(b)** *Report required* Not later than 105 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate congressional committees a report that contains the conclusions of the investigation conducted under subsection (a) and addresses each of the following:
+  - **(1)** North Korea’s indigenous capabilities to have produced unsymmetrical dimethyl hydrazine and intercontinental ballistic missile engines, and the likelihood of foreign procurement of such fuel and missiles.
+  - **(2)** The role of Russia and China in helping North Korea to illegally procure missile technology.
+- **(c)** *Consultation required* The Director of National Intelligence shall conduct the investigation under subsection (a) in consultation with the Government of Ukraine.
+
+## § 4. Cooperative threat reduction enhancement
+
+- **(a)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** the Cooperative Threat Reduction Program was established to combat the type of proliferation alleged by the International Institute for Strategic Studies report described in section 2(2); and
+  - **(2)** the United States needs to take steps to strengthen that program, particularly in Ukraine, to thwart the proliferation of sensitive technology or expertise.
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report including recommendations to improve the implementation of the Department of Defense Cooperative Threat Reduction Program established by section 1321 of the Department of Defense Cooperate Threat Reduction Act (50 U.S.C. 3711).
+
+## § 5. Appropriate congressional committees
+
+In this Act, the term appropriate congressional committees means—
+
+- **(1)** the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Armed Services of the House of Representatives; and
+- **(2)** the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Armed Services of the Senate.
