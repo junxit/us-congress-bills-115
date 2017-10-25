@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3972
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3972
@@ -16,9 +16,10 @@ Family Office Technical Correction Act of 2017
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Family Office Technical Correction Act of 2017
 - 2017-10-24 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8097)
 - 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8097)
+- 2017-10-25 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
