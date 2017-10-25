@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3101
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3101
@@ -25,10 +25,11 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Ac
 - 2017-10-24 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2017-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8104-8105)
 - 2017-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8104-8105)
+- 2017-10-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
