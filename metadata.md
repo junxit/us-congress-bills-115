@@ -1,7 +1,7 @@
 ---
 measure: H.R. 469
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 469
@@ -55,3 +55,60 @@ Congressional Article I Powers Strengthening Act
 - 2017-10-16 — Placed on the Union Calendar, Calendar No. 251.
 - 2017-10-16 — Reported by the Committee on Judiciary. H. Rept. 115-347.
 - 2017-10-16 — Reported by the Committee on Judiciary. H. Rept. 115-347.
+- 2017-10-23 — Rules Committee Resolution H. Res. 577 Reported to House. Rule provides for consideration of H.R. 469 and H.R. 732. Measure will be considered read. Specified amendments are in order. Rule provides for one hour of general debate for H.R. 469. The rule also provides for consideration of amendments printed in part A of the report. The rule provides for one hour of general debate for H.R. 732. The rule provides for consideration of amendments printe in part B of the report.
+- 2017-10-24 — ORDER OF PROCEDURE - Mr. Collins(GA) asked unanimous consent that during consideration of H.R. 469, pursuant to H.Res. 577, the amendment at the desk be in order in lieu of the amendment printed in part A of House Report 115-363 and numbered 2. Agreed to without objection (consideration:  CR H8097; text: CR H8097)
+- 2017-10-25 — Amendment (A001) offered by Mr. Collins (GA). (consideration: CR H8202; text: CR H8202)
+- 2017-10-25 — Amendment (A002) offered by Mr. Conyers. (consideration: CR H8202-8203; text: CR H8202)
+- 2017-10-25 — Amendment (A003) offered by Mr. Johnson (GA). (consideration: CR H8203-8204; text: CR H8203)
+- 2017-10-25 — Amendment (A004) offered by Mr. McEachin. (consideration: CR H8204-8205; text: CR H8204)
+- 2017-10-25 — Amendment (A005) offered by Mr. Cartwright. (consideration: CR H8205-8206; text: CR H8205)
+- 2017-10-25 — Amendment agreed to Committee of the Whole
+- 2017-10-25 — Amendment failed in Committee of the Whole
+- 2017-10-25 — Amendment failed in Committee of the Whole
+- 2017-10-25 — Amendment failed in Committee of the Whole
+- 2017-10-25 — Amendment failed in Committee of the Whole
+- 2017-10-25 — Considered under the provisions of rule H. Res. 577. (consideration: CR H8194-8209)
+- 2017-10-25 — DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment No. 6.
+- 2017-10-25 — DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the Collins (GA) amendment No. 1.
+- 2017-10-25 — DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment No. 2.
+- 2017-10-25 — DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 3.
+- 2017-10-25 — DEBATE - Pursuant to the provisions of H. Res. 577, the Committee of the Whole proceeded with 10 minutes of debate on the McEachin amendment No. 4.
+- 2017-10-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 469.
+- 2017-10-25 — House amendment agreed to: On agreeing to the Collins (GA) amendment (A001) Agreed to by voice vote.
+- 2017-10-25 — House amendment not agreed to: On agreeing to the Cartwright amendment (A005) Failed by recorded vote: 186 - 232 (Roll no. 587).
+- 2017-10-25 — House amendment not agreed to: On agreeing to the Conyers amendment (A002) Failed by voice vote.
+- 2017-10-25 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 185 - 231 (Roll no. 585).
+- 2017-10-25 — House amendment not agreed to: On agreeing to the McEachin amendment (A004) Failed by recorded vote: 187 - 226 (Roll no. 586).
+- 2017-10-25 — House amendment offered
+- 2017-10-25 — House amendment offered
+- 2017-10-25 — House amendment offered
+- 2017-10-25 — House amendment offered
+- 2017-10-25 — House amendment offered
+- 2017-10-25 — House amendment offered/reported by : Amendment (A001) offered by Mr. Collins (GA).(consideration: CR H8202; text: CR H8202)
+- 2017-10-25 — House amendment offered/reported by : Amendment (A002) offered by Mr. Conyers.(consideration: CR H8202-8203; text: CR H8202)
+- 2017-10-25 — House amendment offered/reported by : Amendment (A003) offered by Mr. Johnson (GA).(consideration: CR H8203-8204; text: CR H8203)
+- 2017-10-25 — House amendment offered/reported by : Amendment (A004) offered by Mr. McEachin.(consideration: CR H8204-8205; text: CR H8204)
+- 2017-10-25 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cartwright.(consideration: CR H8205-8206; text: CR H8205)
+- 2017-10-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 577 and Rule XVIII.
+- 2017-10-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-25 — On agreeing to the Cartwright amendment (A005) Failed by recorded vote: 186 - 232 (Roll no. 587).
+- 2017-10-25 — On agreeing to the Collins (GA) amendment (A001) Agreed to by voice vote.
+- 2017-10-25 — On agreeing to the Conyers amendment (A002) Failed by voice vote.
+- 2017-10-25 — On agreeing to the Johnson (GA) amendment (A003) Failed by recorded vote: 185 - 231 (Roll no. 585).
+- 2017-10-25 — On agreeing to the McEachin amendment (A004) Failed by recorded vote: 187 - 226 (Roll no. 586).
+- 2017-10-25 — On passage Passed by recorded vote: 234 - 187 (Roll no. 588). (text: CR H8199-8201)
+- 2017-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cartwright demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McEachin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McEachin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2017-10-25 — Passed/agreed to in House: On passage Passed by recorded vote: 234 - 187 (Roll no. 588).(text: CR H8199-8201)
+- 2017-10-25 — Roll call votes on amendments in House
+- 2017-10-25 — Roll call votes on amendments in House
+- 2017-10-25 — Roll call votes on amendments in House
+- 2017-10-25 — Rule provides for consideration of H.R. 469 and H.R. 732. Measure will be considered read. Specified amendments are in order. Rule provides for one hour of general debate for H.R. 469. The rule also provides for consideration of amendments printed in part A of the report. The rule provides for one hour of general debate for H.R. 732. The rule provides for consideration of amendments printe in part B of the report.
+- 2017-10-25 — Subsequently, the Committee resumed its sitting.
+- 2017-10-25 — The Committee rose informally.
+- 2017-10-25 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2017-10-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 469.
+- 2017-10-25 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
+- 2017-10-25 — The previous question was ordered pursuant to the rule.
+- 2017-10-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
