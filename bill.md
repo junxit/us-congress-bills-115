@@ -42,20 +42,20 @@ The President should direct the United States Permanent Representative to the Un
 - **(c)** *Sanctions described* The sanctions to be imposed on a foreign person or an agency or instrumentality of a foreign state on the list required under subsection (b) are the following:
   - **(1)** *Blocking of property* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person or of such agency or instrumentality of a foreign state if such property or interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** *Aliens ineligible for visas, admission, or parole*
-    - **(A)** *Visas, admission, or parole* An alien who the Secretary of State or the Secretary of Homeland Security (or a designee of one of such Secretaries) who is a foreign person on the list required under subsection (b) is—
+    - **(A)** *Visas, admission, or parole* An alien who the Secretary of State or the Secretary of Homeland Security determines is a foreign person on the list required under subsection (b) is—
       - **(i)** inadmissible to the United States;
       - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
       - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
     - **(B)** *Current visas revoked*
-      - **(i)** *In general* The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall revoke any visa or other entry documentation issued to an alien who is a foreign person on the list required under subsection (b) regardless of when such visa or other entry documentation was issued.
+      - **(i)** *In general* Any visa or other documentation issued to an alien who is a foreign person on the list required under subsection (b), regardless of when such visa or other documentation was issued, shall be revoked and such alien shall be denied admission to the United States.
       - **(ii)** *Effect of revocation* A revocation under clause (i)—
         - **(I)** shall take effect immediately; and
-        - **(II)** shall automatically cancel any other valid visa or entry documentation that is in the possession of the alien who is the subject of such revocation.
+        - **(II)** shall automatically cancel any other valid visa or documentation that is in the possession of the alien who is the subject of such revocation.
   - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that knowingly violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section to the same extent that such penalties apply to a person that knowingly commits an unlawful act described in section 206(a) of such Act.
   - **(4)** *Regulatory authority*
     - **(A)** *In general* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
     - **(B)** *Issuance of regulations* Not later than 180 days after the date of the enactment of this Act, the President shall, promulgate regulations as necessary for the implementation of this section and the amendments made by this section.
-    - **(C)** *Notification to congress* Not later than ten days before the promulgation of regulations under subparagraph (B), the President shall brief the appropriate congressional committees on the proposed regulations and the provisions of this section that the regulations are implementing.
+    - **(C)** *Notification to congress* Not later than 10 days before the promulgation of regulations under subparagraph (B), the President shall brief the appropriate congressional committees on the proposed regulations and the provisions of this section that the regulations are implementing.
   - **(5)** *Rule of construction* Nothing in this section may be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or any other relevant provision of law.
 - **(d)** *Waiver* The President may waive the application of sanctions under this section for periods not to exceed 120 days with respect to a foreign person, or an agency or instrumentality of a foreign state, if the President reports to the appropriate congressional committees that such waiver is vital to the national security interests of the United States.
 - **(e)** *Exemptions* Any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
@@ -81,8 +81,8 @@ In this Act:
 - **(1)** *Admitted; alien* The terms admitted and alien have the meanings given such terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
 - **(2)** *Agency or instrumentality of a foreign state* The term agency or instrumentality of a foreign state has the meaning given such term in section 1603(b) of title 28, United States Code.
 - **(3)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
-  - **(A)** the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives; and
-  - **(B)** the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate.
+  - **(A)** the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on Ways and Means, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives; and
+  - **(B)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Committee on Finance, the Committee on the Judiciary, and the Committee on Appropriations of the Senate.
 - **(4)** *Foreign person* The term foreign person means any citizen or national of a foreign country, or any entity not organized solely under the laws of the United States or existing solely in the United States.
 - **(5)** *Foreign state* The term foreign state has the meaning given such term in section 1603(a) of title 28, United States Code.
 - **(6)** *United states person* The term United States person means any United States citizen, permanent resident alien, entity organized under the laws of the United States (including foreign branches), or any person in the United States.
