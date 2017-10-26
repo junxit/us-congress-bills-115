@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 4157
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4157
+
+> To amend title 18, United States Code, to require that Bureau of Prisons help Federal prisoners who are being released to obtain appropriate ID to facilitate their reentry into society, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Identity and Dignity Act”.
+
+## § 2. Reentry assistance for Federal prisoners
+
+Section 4042(a) of title 18, United States Code, is amended—
+
+- **(1)** by redesignating paragraph (D) as paragraph (6), and redesignating subparagraphs (i) and (ii) of that paragraph as subparagraphs (A) and (B) respectively;
+- **(2)** by redesignating paragraph (E) as paragraph (7), and redesignating subparagraphs (i) through (vii) of that paragraph as subparagraphs (A) through (G) respectively; and
+- **(3)** by amending paragraph (6), as redesignated by this section to read as follows:
+  > - **(6)** establish prerelease planning procedures (including the payment of any costs) that help the prisoner, subject to any limitations in law—
+  >   - **(A)** apply for available Federal and State benefits (including Social Security benefits and veterans' benefits) upon release;
+  >   - **(B)** obtain appropriate documents, such as Social Security cards, birth certificates, and driver’s licenses or State identification documents, to assist the prisoner in doing so, prior to release; and
+  >   - **(C)** pay for the cost of applying for those benefits and obtaining those documents; and
