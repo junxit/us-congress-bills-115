@@ -1,7 +1,7 @@
 ---
 measure: H.R. 469
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 469
@@ -40,9 +40,10 @@ Congressional Article I Powers Strengthening Act
 - Rep. Budd, Ted [R-NC-13] (B001305)
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (4)
 
@@ -119,3 +120,4 @@ Congressional Article I Powers Strengthening Act
 - 2017-10-25 — The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee.
 - 2017-10-25 — The previous question was ordered pursuant to the rule.
 - 2017-10-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-10-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
