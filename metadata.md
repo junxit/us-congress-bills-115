@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3342
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3342
@@ -45,10 +45,11 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 - 2017-10-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8178-8179)
 - 2017-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8178-8179)
+- 2017-10-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
