@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1698
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 2 executed, 19 stated and not applied.
+19 amendatory instructions. 2 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,22 +51,20 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 1701` | insert | Section (4)(e) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by inserting “or 5(b)” after “section 5(a)” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1701` | replace | by striking “Except as” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | by striking “(A) on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | redesignate | by striking “and” at the end of subparagraph (A)(i) (as so redesignated); | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | by striking “(B) knew” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | by striking “(i) the export” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | by striking “(ii) the export” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | by striking “(I) acquire” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | redesignate | by striking “; or” at the end of subparagraph (A)(ii)(II)(aa) (as so redesignated); | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | redesignate | by inserting after subparagraph (A)(ii)(II)(aa) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | redesignate | by striking “; or” at the end of subparagraph (A)(ii)(II)(bb)(AA) (as so redesignated); | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | redesignate | by inserting after subparagraph (A)(ii)(II)(bb)(AA) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | replace | by striking “(II) acquire” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | redesignate | by striking the period at the end of subparagraph (A)(ii)(II)(cc) (as so redesignated) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1701` | redesignate | by striking the period at the end of subparagraph (A)(ii)(II)(bb)(CC) (as so redesignated) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1701` | add-at-end | by adding at the end of subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | add-at-end | Paragraph (1) of section 5(b) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), as amended by subsection (e), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | add-at-end | Paragraph (1) of section 5(b) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), as amended by subsections (e) and (f), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | add-at-end | Paragraph (1) of section 5(b) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), as amended by subsections (e), (f), and (g), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1201` | replace | by striking paragraph (10) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | replace | by striking paragraph (10) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | redesignate | by redesignating paragraph (12) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
