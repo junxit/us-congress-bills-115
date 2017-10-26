@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3329
@@ -161,3 +161,4 @@ Hizballah International Financing Prevention Amendments Act of 2017
 - 2017-10-25 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8184-8188)
 - 2017-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8184-8188)
+- 2017-10-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.

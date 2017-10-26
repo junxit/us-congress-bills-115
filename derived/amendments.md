@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
