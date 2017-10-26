@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3567
@@ -29,3 +29,9 @@ To authorize the purchase of a small parcel of Natural Resources Conservation Se
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Referred to the House Committee on Agriculture.
+- 2017-09-01 — Referred to the Subcommittee on Conservation and Forestry.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported by Voice Vote.
+- 2017-10-26 — Placed on the Union Calendar, Calendar No. 272.
+- 2017-10-26 — Reported by the Committee on Agriculture. H. Rept. 115-372.
+- 2017-10-26 — Reported by the Committee on Agriculture. H. Rept. 115-372.
