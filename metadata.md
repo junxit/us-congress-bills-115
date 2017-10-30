@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1698
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1698
@@ -342,13 +342,14 @@ Iran Ballistic Missiles and International Sanctions Enforcement Act
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -372,3 +373,4 @@ Iran Ballistic Missiles and International Sanctions Enforcement Act
 - 2017-10-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 2 (Roll no. 590). (text: CR 10/25/2017 H8174)
 - 2017-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 2 (Roll no. 590).(text: CR 10/25/2017 H8174)
+- 2017-10-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
