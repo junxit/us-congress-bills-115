@@ -31,7 +31,21 @@ This Act may be cited as the “Border Enforcement Security Task Force Reauthori
 
 - **(c)** *Updated report elements* Section 432(e) of the Homeland Security Act of 2002 (6 U.S.C. 240(e)) is amended to read as follows:
   > - **(e)** *Report* Not later than 180 days after the date of the enactment of this subsection, and annually thereafter for the following 5 years, the Secretary shall submit to Congress a report that includes—
-  >   - **(1)** a description of the effectiveness of BEST in enhancing border security, disrupting and dismantling transnational criminal organizations, and reducing drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States, as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests;
-  >   - **(2)** an assessment of how BEST enhances information-sharing, including the dissemination of homeland security information, among Federal, State, local, tribal, and foreign law enforcement agencies;
+  >   - **(1)** a description of the effectiveness of BEST in enhancing border security, disrupting and dismantling transnational criminal organizations, and reducing drug trafficking, arms smuggling, child exploitation, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States, as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests;
+  >   - **(2)** an assessment of how BEST enhances information-sharing, including the dissemination of homeland security information, among Federal, State, local, tribal, and foreign law enforcement agencies, as well as BEST capability gaps relating to intelligence coordinating and sharing efforts;
   >   - **(3)** a description of how BEST advances the Department’s homeland and border security strategic priorities and effectiveness of BEST in achieving related objectives; and
-  >   - **(4)** an assessment of BEST’s joint operational efforts with departmental Joint Task Force operations established pursuant to section 708 and other joint cross-border initiatives.
+  >   - **(4)** an assessment of BEST’s joint operational efforts with departmental Joint Task Force operations established pursuant to section 708 and other joint cross-border initiatives;.
+  >   - **(5)** An assessment of whether additional authorities are needed to accomplish the BEST mission;
+  >   - **(6)** An assessment of whether additional Memos of Understanding are needed to address intelligence and coordination gaps; and
+  >   - **(7)** An assessment of whether funding has an impact on the overall mission of BEST operations to assist in advancing the Department’s homeland and border security priorities and related objectives.
+
+## § 3. Authorization of danger pay allowance for ICE agents stationed in dangerous areas
+
+- **(a)** *Sense of Congress* It is the sense of Congress that providing personnel danger pay to U.S. Immigration and Customs Enforcement (ICE) agents who are assigned to dangerous overseas posts will—
+  - **(1)** help modernize ICE’s overseas workforce compensation system; and
+  - **(2)** place ICE on equal footing with the law enforcement agencies of the Department of Justice.
+- **(b)** *Authorization* Section 5928 of title 5, United States Code, is amended by inserting “The Secretary of State may not deny a request by the Administrator of the Drug Enforcement Administration, the Director of the Federal Bureau of Investigation, or the Director of U.S. Immigration and Customs Enforcement to authorize a danger pay allowance under this section for any employee of any such agency.” after the first sentence.
+- **(c)** *Conforming amendment* Section 151 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) is repealed.
+- **(d)** *Reporting requirement* Not later than 30 days after the date on which regulations are issued pursuant to subsection (d), the Director of U.S. Immigration and Customs Enforcement shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Homeland Security of the House of Representatives that specifies—
+  - **(1)** the overseas posts that have been designated by the Director as locations at which ICE agents will receive a danger pay allowance; and
+  - **(2)** the justification for each such designation.

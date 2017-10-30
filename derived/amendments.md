@@ -1,7 +1,7 @@
 ---
 measure: S. 1199
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+9 amendatory instructions. 1 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,5 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 240` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 240` | add-at-end | Section 432(c) of the Homeland Security Act of 2002, as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 240` | amend | Section 432(e) of the Homeland Security Act of 2002 (6 U.S.C. 240(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 5928 of title 5, United States Code, is amended by inserting “The Secretary of State may not deny a request by the Administrator of the Drug Enforcement Administration, the Director of the Federal Bureau of Investigation, or the … | the bill names no machine-readable US Code section |
+| — | repeal | Section 151 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) is repealed. | the bill names no machine-readable US Code section |
