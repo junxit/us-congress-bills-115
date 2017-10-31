@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3043
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 15852
 
-> in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.”; and
+> in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.” ; and
 
 | | |
 |---|---|
