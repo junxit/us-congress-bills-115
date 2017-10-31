@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2521
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2521
@@ -29,6 +29,10 @@ South Carolina Peanut Parity Act of 2017
 
 - House — Agriculture Committee
 
+## Recorded votes (1)
+
+- 2017-10-31 — [House 115-1-591](votes/house-115-1-0591.md) — On Motion to Suspend the Rules and Pass — **Passed** (394–1)
+
 ## Actions
 
 - 2017-05-18 — Introduced in House
@@ -41,3 +45,11 @@ South Carolina Peanut Parity Act of 2017
 - 2017-10-19 — Placed on the Union Calendar, Calendar No. 256.
 - 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-352.
 - 2017-10-19 — Reported by the Committee on Agriculture. H. Rept. 115-352.
+- 2017-10-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-10-31 — Considered as unfinished business. (consideration: CR H8285-8286)
+- 2017-10-31 — Considered under suspension of the rules. (consideration: CR H8284-8285)
+- 2017-10-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2521.
+- 2017-10-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-10-31 — Mr. Crawford moved to suspend the rules and pass the bill.
+- 2017-10-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 591). (text: CR H8284)
+- 2017-10-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 591).(text: CR H8284)
