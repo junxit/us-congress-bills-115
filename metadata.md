@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1585
@@ -16,7 +16,7 @@ Fair Investment Opportunities for Professional Experts Act
 
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
@@ -28,6 +28,7 @@ Fair Investment Opportunities for Professional Experts Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Messer, Luke [R-IN-6] (M001189)
 
 ## Committees (1)
 
@@ -38,3 +39,9 @@ Fair Investment Opportunities for Professional Experts Act
 - 2017-03-16 — Introduced in House
 - 2017-03-16 — Introduced in House
 - 2017-03-16 — Referred to the House Committee on Financial Services.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 2.
+- 2017-10-31 — Placed on the Union Calendar, Calendar No. 275.
+- 2017-10-31 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-375.
+- 2017-10-31 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-375.
