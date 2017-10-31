@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 77b` | replace | Section 2(a)(15)(ii) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)(ii)) is amended by striking the period at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77b` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77b` | redesignate | in subparagraph (A) (as so redesignated), by striking “; or” and inserting a semicolon, and inserting after such subparagraph the following: | the bill quotes the text struck but describes what replaces it |
