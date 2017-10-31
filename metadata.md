@@ -1,7 +1,7 @@
 ---
 measure: S. 1586
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1586
@@ -16,9 +16,10 @@ Great Lakes Environmental Sensitivity Index Act of 2017
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Great Lakes Environmental Sensitivity Index Act of 2017
 
 - 2017-07-19 — Introduced in Senate
 - 2017-07-19 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-08-02 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-10-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-180.
+- 2017-10-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-180.
+- 2017-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
