@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2941
@@ -23,9 +23,10 @@ Kisatchie National Forest Land Conveyance Act
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Kisatchie National Forest Land Conveyance Act
 - 2017-10-31 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2017-10-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8282)
 - 2017-10-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8282)
+- 2017-11-01 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
