@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3567
@@ -20,9 +20,10 @@ To authorize the purchase of a small parcel of Natural Resources Conservation Se
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To authorize the purchase of a small parcel of Natural Resources Conservation Se
 - 2017-10-31 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2017-10-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8283)
 - 2017-10-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8283)
+- 2017-11-01 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
