@@ -18,7 +18,7 @@ This Act may be cited as the “Save Local Business Act”.
 - **(a)** *National Labor Relations Act* Section 2(2) of the National Labor Relations Act (29 U.S.C. 152(2)) is amended—
   - **(1)** by striking “The term “employer”” and inserting “(A) The term “employer””; and
   - **(2)** by adding at the end the following:
-    > - **(B)** A person may be considered a joint employer in relation to an employee only if such person directly, actually, and immediately, and not in a limited and routine manner, exercises significant control over the essential terms and conditions of employment (including hiring employees, discharging employees, determining individual employee rates of pay and benefits, day-to-day supervision of employees, assigning individual work schedules, positions, and tasks, and administering employee discipline).
+    > - **(B)** A person may be considered a joint employer in relation to an employee only if such person directly, actually, and immediately, and not in a limited and routine manner, exercises significant control over essential terms and conditions of employment, such as hiring employees, discharging employees, determining individual employee rates of pay and benefits, day-to-day supervision of employees, assigning individual work schedules, positions, and tasks, or administering employee discipline.
 
 - **(b)** *Fair Labor Standards Act of 1938* Section 3(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(d)) is amended—
   - **(1)** by striking ““Employer” includes” and inserting “(1) “Employer” includes”; and
