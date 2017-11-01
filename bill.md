@@ -20,15 +20,10 @@ The Act entitled “An Act to regulate the issue and validity of passports, and 
 > ## § 4. Authority to deny or revoke passport
 >
 > - **(a)** *Ineligibility*
->   - **(1)** *Issuance* Except as provided under subsection (b), the Secretary of State shall refuse to issue a passport to any individual whom the Secretary has determined—
->     - **(A)** is a member of or is otherwise affiliated with an organization the Secretary has designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
->     - **(B)** has aided, abetted, or provided material support to such an organization.
->   - **(2)** *Revocation* The Secretary of State shall revoke a passport previously issued to any individual described in paragraph (1).
-> - **(b)** *Exceptions*
->   - **(1)** *Emergency circumstances, humanitarian reasons, and law enforcement purposes* Notwithstanding subsection (a), the Secretary of State may issue to or decline to revoke a passport of an individual described in such subsection in emergency circumstances, for humanitarian reasons, or for law enforcement purposes.
->   - **(2)** *Limitation for return to United States* Notwithstanding subsection (a)(2), the Secretary of State, before revocation, may—
->     - **(A)** limit a previously issued passport only for return travel to the United States; or
->     - **(B)** issue a limited passport that only permits return travel to the United States.
-> - **(c)** *Right of review* Any individual who, in accordance with this section, is denied issuance of a passport by the Secretary of State, or whose passport is revoked or otherwise limited by the Secretary, may request a hearing before the Secretary not later than 60 days after receiving notice of such denial, revocation, or limitation.
-> - **(d)** *Report* If the Secretary of State denies, issues, limits, or declines to revoke a passport under subsection (b), the Secretary shall, not later than 30 days after such denial, issuance, limitation, or revocation, submit to Congress a report on such denial, issuance, limitation, or revocation, as the case may be.
-> - **(e)** *Rule of construction* In this section, the term “passport” includes a passport card.
+>   - **(1)** *Issuance* Except as provided under subsection (b), the Secretary of State may refuse to issue a passport to any individual whom the Secretary has determined has aided, assisted, abetted, or otherwise helped an organization the Secretary has designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+>   - **(2)** *Revocation* The Secretary of State may revoke a passport previously issued to any individual described in paragraph (1).
+> - **(b)** *Right of review* Any individual who, in accordance with this section, is denied issuance of a passport by the Secretary of State, or whose passport is revoked by the Secretary, may request a hearing before the Secretary not later than 60 days after receiving notice of such denial or revocation.
+> - **(c)** *Report*
+>   - **(1)** *In general* If the Secretary of State refuses to issue or revokes a passport pursuant to subsection (a), or if, subsequent to a hearing pursuant to subsection (b), the Secretary issues or cancels a revocation of a passport that was the subject of such a hearing, the Secretary shall, not later than 30 days after such refusal or revocation, or such issuance or cancellation, submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on such refusal, revocation, issuance, or cancellation, as the case may be.
+>   - **(2)** *Form* The report submitted under paragraph (1) may be submitted in classified or unclassified form.
+> - **(d)** *Definition* In this section, the term “passport” includes a passport card.
