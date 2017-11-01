@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 279
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 279
@@ -16,9 +16,10 @@ A resolution reaffirming the commitment of the United States to promote democrac
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution reaffirming the commitment of the United States to promote democrac
 
 - 2017-10-03 — Introduced in Senate
 - 2017-10-03 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6290-6291)
+- 2017-10-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-11-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2017-11-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2017-11-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.
