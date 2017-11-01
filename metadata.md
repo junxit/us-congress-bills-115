@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2521
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2521
@@ -25,9 +25,10 @@ South Carolina Peanut Parity Act of 2017
 - Rep. Sanford, Mark [R-SC-1] (S000051)
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ South Carolina Peanut Parity Act of 2017
 - 2017-10-31 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2017-10-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 591). (text: CR H8284)
 - 2017-10-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 591).(text: CR H8284)
+- 2017-11-01 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
