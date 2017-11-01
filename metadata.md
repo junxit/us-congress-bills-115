@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1488
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1488
@@ -43,3 +43,9 @@ Indiana Dunes National Park Act
 - 2017-10-19 — Placed on the Union Calendar, Calendar No. 254.
 - 2017-10-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-350.
 - 2017-10-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-350.
+- 2017-11-01 — Considered under suspension of the rules. (consideration: CR H8325-8326)
+- 2017-11-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1488.
+- 2017-11-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-01 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
+- 2017-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8325)
+- 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8325)
