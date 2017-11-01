@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2921
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2921
@@ -28,10 +28,11 @@ National Forest System Vegetation Management Pilot Program Act of 2017
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ National Forest System Vegetation Management Pilot Program Act of 2017
 - 2017-10-31 — Mr. Crawford moved to suspend the rules and pass the bill.
 - 2017-10-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8280-8281)
 - 2017-10-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8280-8281)
+- 2017-11-01 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
