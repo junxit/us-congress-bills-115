@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3387
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 11 executed, 28 stated and not applied.
+47 amendatory instructions. 12 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 300g-3
 
-> in the heading for subparagraph (A), by striking “Annual report” and inserting “Report”;
+> in the heading for subparagraph (A), by striking “Annual reports” and inserting “Reports”;
 
 | | |
 |---|---|
-| Removed | `Annual report` |
-| Inserted | `Report` |
+| Removed | `Annual reports` |
+| Inserted | `Reports` |
 
 ### 42 U.S.C. § 300g-3
 
@@ -50,6 +50,15 @@ to guess them.
 |---|---|
 | Removed | `$100,000,000 for each of fiscal years 1997 through 2003` |
 | Inserted | `$150,000,000 for each of fiscal years 2018 through 2022` |
+
+### 42 U.S.C. § 300j-4
+
+> Section 1445(a)(2)(H) of the Safe Drinking Water Act (42 U.S.C. 300j–4(a)(2)(H)) is amended by striking “1997 through 2003” and inserting “2018 through 2022”.
+
+| | |
+|---|---|
+| Removed | `1997 through 2003` |
+| Inserted | `2018 through 2022` |
 
 ### 42 U.S.C. § 300j-12
 
@@ -116,7 +125,7 @@ to guess them.
 
 ### 42 U.S.C. § 11022
 
-> by striking “State emergency planning commission” and inserting “State emergency response commission”; and
+> in paragraph (1), by striking “State emergency planning commission” and inserting “State emergency response commission”; and
 
 | | |
 |---|---|
@@ -139,12 +148,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300g-3` | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300g-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300g-3` | insert | Section 1414(i)(1) of the Safe Drinking Water Act (42 U.S.C. 300g–3(i)(1)) is amended by inserting a comma after “1417”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300g-3` | add-at-end | Subsection (h) of section 1414 of the Safe Drinking Water Act (42 U.S.C. 300g–3) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300g-2` | replace | in paragraph (5), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300g-2` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300g-2` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300g-2` | strike | Section 1413(b)(1) of the Safe Drinking Water Act (42 U.S.C. 300g–2(b)(1)) is amended by striking “of paragraphs (1), (2), (3), and (4)”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300g-3` | add-at-end | Section 1414 of the Safe Drinking Water Act (42 U.S.C. 300g–3) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300g-9` | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300g-9` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300g-9` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300g-9` | insert | in subsection (c)(3), by inserting “, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementi… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300g-9` | add-at-end | in subsection (d), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300i-2` | amend | Section 1433 of the Safe Drinking Water Act (42 U.S.C. 300i–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-4` | add-at-end | Section 1445 of the Safe Drinking Water Act (42 U.S.C. 300j–4) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300j-12` | add-at-end | Section 1452(a) of the Safe Drinking Water Act (42 U.S.C. 300j–12(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300j-12` | add-at-end | Section 1452(a) of the Safe Drinking Water Act (42 U.S.C. 300j–12(a)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300j-12` | amend | Section 1452(d)(2) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
