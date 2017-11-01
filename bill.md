@@ -1,0 +1,16 @@
+---
+legis-num: S. 2058
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2058
+
+> To amend title 38, United States Code, to increase the thresholds by which medical facility projects and medical facility leases of the Department of Veterans Affairs are considered major medical facility projects and major medical facility leases, respectively, and for other purposes.
+
+## § 1. Modification of thresholds used to classify major medical facility projects and major medical facility leases of the Department of Veterans Affairs
+
+- **(a)** *Major medical facility projects* Subparagraph (A) of section 8104(a)(3) of title 38, United States Code, is amended by striking “$10,000,000” and inserting “$20,000,000”.
+- **(b)** *Major medical facility leases* Subparagraph (B) of such section is amended by striking “$1,000,000” and inserting “the average annual rental rate set forth in section 3307(a)(2) of title 40”.
+- **(c)** *Applicability* The amendments made by this section shall apply with respect to a medical facility project or medical facility lease in progress on the date of the enactment of this Act or beginning on or after such date.
