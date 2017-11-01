@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4216
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4216
+
+> To amend the Agricultural Act of 2014 to make available additional funds for the Commonwealth of the Northern Mariana Islands pilot project.
+
+## § 1. Short title
+
+This Act may be cited as the “Northern Mariana Islands Enhanced Nutrition Assistance Act of 2017”.
+
+## § 2. Amendment
+
+Section 4031(e)(2)(A)(ii) of the Agricultural Act of 2014 (Public Law 113–79; 48 U.S.C. 1841 note) is amended by striking “and 2018” and inserting “through 2023”.
