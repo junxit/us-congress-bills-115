@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 43
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 43
@@ -36,9 +36,10 @@ Providing official recognition of the massacre of 11 African-American soldiers o
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Providing official recognition of the massacre of 11 African-American soldiers o
 - 2017-11-01 — Mr. Scott, Austin asked unanimous consent to discharge from committee and consider.
 - 2017-11-01 — On agreeing to the resolution Agreed to without objection. (text: CR H8362)
 - 2017-11-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8362)
+- 2017-11-02 — Received in the Senate and referred to the Committee on Armed Services.
