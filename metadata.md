@@ -1,7 +1,7 @@
 ---
 measure: H.R. 425
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 425
@@ -21,9 +21,10 @@ FTO Passport Revocation Act of 2017
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ FTO Passport Revocation Act of 2017
 - 2017-11-01 — Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended.
 - 2017-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8363)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8363)
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
