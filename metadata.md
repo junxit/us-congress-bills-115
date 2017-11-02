@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1074
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1074
@@ -46,3 +46,14 @@ To repeal the Act entitled "An Act to confer jurisdiction on the State of Iowa o
 - 2017-11-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8323)
 - 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2018-11-27 — Passed Senate without amendment by Voice Vote.
+- 2018-11-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-11-27 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7141)
+- 2018-11-27 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7141)
+- 2018-11-28 — Message on Senate action sent to the House.
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-301.
+- 2018-12-11 — Became Public Law No: 115-301.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
