@@ -1,7 +1,7 @@
 ---
 measure: H.R. 849
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 849
@@ -295,6 +295,10 @@ Protecting Seniors Access to Medicare Act
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2017-11-02 — [House 115-1-604](votes/house-115-1-0604.md) — On Passage — **Passed** (307–111)
+
 ## Actions
 
 - 2017-02-03 — Introduced in House
@@ -315,3 +319,13 @@ Protecting Seniors Access to Medicare Act
 - 2017-10-31 — Placed on the Union Calendar, Calendar No. 273.
 - 2017-10-31 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-373, Part I.
 - 2017-10-31 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-373, Part I.
+- 2017-11-01 — Rules Committee Resolution H. Res. 600 Reported to House. Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
+- 2017-11-02 — Considered under the provisions of rule H. Res. 600. (consideration: CR H8413-8421)
+- 2017-11-02 — DEBATE - The House proceeded with one hour of debate on H.R. 849.
+- 2017-11-02 — House amendment offered
+- 2017-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-02 — On passage Passed by the Yeas and Nays: 307 - 111 (Roll no. 604). (text: CR H8413)
+- 2017-11-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 307 - 111 (Roll no. 604).(text: CR H8413)
+- 2017-11-02 — Rule H. Res. 600 passed House.
+- 2017-11-02 — Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
+- 2017-11-02 — The previous question was ordered pursuant to the rule.
