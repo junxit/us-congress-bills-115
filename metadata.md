@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1074
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1074
@@ -22,9 +22,10 @@ To repeal the Act entitled "An Act to confer jurisdiction on the State of Iowa o
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. King, Steve [R-IA-4] (K000362)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To repeal the Act entitled "An Act to confer jurisdiction on the State of Iowa o
 - 2017-11-01 — Mr. Cook moved to suspend the rules and pass the bill.
 - 2017-11-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8323)
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
