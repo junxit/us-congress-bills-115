@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1585
@@ -30,9 +30,10 @@ Fair Investment Opportunities for Professional Experts Act
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Fair Investment Opportunities for Professional Experts Act
 - 2017-11-01 — Mr. Huizenga moved to suspend the rules and pass the bill, as amended.
 - 2017-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8320-8321)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8320-8321)
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
