@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2936
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2936
@@ -37,12 +37,13 @@ Resilient Federal Forests Act of 2017
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (4)
+## Committees (5)
 
 - House — Transportation and Infrastructure Committee
 - House — Education and the Workforce Committee
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (5)
 
@@ -149,3 +150,4 @@ Resilient Federal Forests Act of 2017
 - 2017-11-01 — The Speaker designated the Honorable David Young to act as Chairman of the Committee.
 - 2017-11-01 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-11-01 — The previous question was ordered pursuant to the rule.
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
