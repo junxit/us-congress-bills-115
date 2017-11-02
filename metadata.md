@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3903
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3903
@@ -20,9 +20,10 @@ Encouraging Public Offerings Act of 2017
 
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Encouraging Public Offerings Act of 2017
 - 2017-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 599). (text: CR H8318)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 599).(text: CR H8318)
 - 2017-11-01 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3903.
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
