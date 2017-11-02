@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3279
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3279
@@ -16,9 +16,10 @@ Helium Extraction Act of 2017
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Helium Extraction Act of 2017
 - 2017-11-01 — Mr. Cook moved to suspend the rules and pass the bill.
 - 2017-11-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8323)
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
