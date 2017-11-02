@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2600
@@ -16,9 +16,10 @@ To provide for the conveyance to the State of Iowa of the reversionary interest 
 
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To provide for the conveyance to the State of Iowa of the reversionary interest 
 - 2017-11-01 — Mr. Cook moved to suspend the rules and pass the bill, as amended.
 - 2017-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8324)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8324)
+- 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
