@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Community Health And Medical Professionals Improve Our Nation Act of 2017” or the “CHAMPION Act”.
+This Act may be cited as the “Continuing Community Health And Medical Professional Programs to Improve Our Nation, Increase National Gains, and Help Ensure Access for Little Ones, Toddlers, and Hopeful Youth by Keeping Insurance Delivery Stable Act of 2017” or the “CHAMPIONING HEALTHY KIDS Act”.
 
 ## § 2. Table of contents
 
