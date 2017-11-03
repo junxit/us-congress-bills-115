@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4247
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4247
+
+> To repeal title VIII of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Financial Market Freedom Act of 2017”.
+
+## § 2. Repeal of title VIII
+
+- **(a)** *Repeal* Title VIII of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5461 et seq.) is repealed, and provisions of law amended by such title are restored and revived as if such title had never been enacted.
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by striking the items relating to title VIII.
