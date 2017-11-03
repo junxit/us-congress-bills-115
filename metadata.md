@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3911
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3911
@@ -29,3 +29,9 @@ Risk-Based Credit Examination Act
 - 2017-10-02 — Introduced in House
 - 2017-10-02 — Introduced in House
 - 2017-10-02 — Referred to the House Committee on Financial Services.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported by the Yeas and Nays: 60 - 0.
+- 2017-11-03 — Placed on the Union Calendar, Calendar No. 281.
+- 2017-11-03 — Reported by the Committee on Financial Services. H. Rept. 115-384.
+- 2017-11-03 — Reported by the Committee on Financial Services. H. Rept. 115-384.
