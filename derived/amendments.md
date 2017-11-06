@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3656
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subparagraph (B), by inserting “who dies on or after November 11, 1998” after “veteran”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (C), by inserting “who dies on or after November 11, 1998” after “veteran”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “The” and inserting “An individual who dies on or after November 11, 1998, who is the”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “An” and inserting “An individual who dies on or after November 11, 1998, who is an”. | the bill names no machine-readable US Code section |

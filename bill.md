@@ -13,5 +13,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 2306(b)(2) of title 38, United States Code, is amended—
 
-- **(1)** in subparagraph (B), by inserting “who dies on or after November 11, 1998” after “veteran”; and
-- **(2)** in subparagraph (C), by inserting “who dies on or after November 11, 1998” after “veteran”.
+- **(1)** in subparagraph (B), by striking “The” and inserting “An individual who dies on or after November 11, 1998, who is the”; and
+- **(2)** in subparagraph (C), by striking “An” and inserting “An individual who dies on or after November 11, 1998, who is an”.
