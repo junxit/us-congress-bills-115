@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3657
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 2306(a)(4) of title 38, United States Code, is amended by inserting “or a tribal organization” after “State”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(4), by inserting “or a veterans’ cemetery owned by a tribal organization or on tribal land owned by or held in trust by a tribal organization” after “State”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), by inserting “, a veterans’ cemetery of a tribal organization or on tribal land owned by or held in trust by a tribal organization” after “owned by a State”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Secretary” and inserting “(1) The Secretary”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title” and inserting “a covered cemetery”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
