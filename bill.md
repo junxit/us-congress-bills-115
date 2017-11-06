@@ -13,14 +13,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Veteran Urgent Access to Mental Healthcare Act”.
 
-## § 2. Expansion of initial and urgent mental health care for certain former members of the Armed Forces
+## § 2. Expansion of mental health care for certain former members of the Armed Forces
 
 - **(a)** *In general* Chapter 17 of title 38, United States Code, is amended by inserting after section 1720H the following new section:
-  > ## § 1720I. Provision of initial and urgent mental health care for certain former members not otherwise eligible for care
+  > ## § 1720I. Expansion of mental health care for certain former members of the Armed Forces
   >
   > - **(a)** *In general* The Secretary shall furnish to former members of the Armed Forces described in subsection (b)—
   >   - **(1)** an initial mental health assessment; and
-  >   - **(2)** the mental health care services authorized under this chapter that the Secretary determines are required to treat the urgent mental health care needs of the former member, including risk of suicide or harming others.
+  >   - **(2)** the mental health care services authorized under this chapter that the Secretary determines are required to treat the mental health care needs of the former member, including risk of suicide or harming others.
   > - **(b)** *Former members of the Armed Forces described* A former member of the Armed Forces described in this subsection is an individual who meets the following criteria:
   >   - **(1)** The individual is a former member of the Armed Forces, including the reserve components, who—
   >     - **(A)** served in the active military, naval, or air service, and was discharged or released therefrom under a condition that is not honorable except—
@@ -45,15 +45,37 @@ This Act may be cited as the “Veteran Urgent Access to Mental Healthcare Act�
   >   - **(2)** shall ensure that information about the mental health care services available under this section—
   >     - **(A)** is revised and updated as appropriate;
   >     - **(B)** is made available and visibly posted at appropriate facilities of the Department; and
-  >     - **(C)** is made available through appropriate public information services; and
+  >     - **(C)** is made available to State veteran agencies and through appropriate public information services; and
   >   - **(3)** shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
   > - **(f)** *Annual reports* Each year, the Secretary shall submit to Congress an annual report on the mental health care services provided pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
   >   - **(1)** The number of individuals who received mental health care services under subsection (a), disaggregated by the number of men who received such services and the number of women who received such services.
   >   - **(2)** Such other information as the Secretary considers appropriate.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of title 38, United States Code, is amended by inserting after the item relating to section 1720H the following new item:
-- **(c)** *Study on effect of combat service on suicide rates*
-  - **(1)** *Study* The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall seek to enter into a contract with an independent nongovernmental entity to carry out a study on the effect combat service has had on suicide rates and serious mental health issues among veterans. To the extent practicable, such study shall—
-    - **(A)** compare the rate and method of suicides among veterans who have received mental health care services from the Veterans Health Administration and veterans who have not received such services from the Veterans Health Administration; and
-    - **(B)** compare the rate and method of suicides and the incidence of serious mental health issues among veterans who have served in combat and veterans who have not served in combat.
-  - **(2)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report containing the study conducted under paragraph (1).
+
+## § 3. Extension of requirement for collection of fees for housing loans guaranteed by secretary ofveterans affairs
+
+Section 3729(b)(2) of title 38, United States Code, is amended—
+
+- **(1)** in subparagraph (A)—
+  - **(A)** in clause (iii), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+  - **(B)** in clause (iv), by striking “September 30, 2024” and inserting “September 30, 2025”;
+- **(2)** in subparagraph (B)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”;
+- **(3)** in subparagraph (C)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+- **(4)** in subparagraph (D)—
+  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
+  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”.
+
+## § 4. Character of service determinations
+
+- **(a)** *In general* Chapter 53 of title 38, United States Code, is amended by inserting after section 5303A the following new section:
+  > ## § 5303B. Character of service determinations
+  >
+  > - **(a)** *Determination* The Secretary shall establish a process by which an individual who served in the Armed Forces and was discharged or dismissed therefrom may seek a determination from the Secretary with respect to whether such discharge or release was under a condition that bars the right of such individual to a benefit under the laws administered by the Secretary based upon the period of service from which discharged or dismissed.
+  > - **(b)** *Provision of information* If the Secretary determines under subsection (a) that an individual is barred to a benefit under the laws administered by the Secretary, the Secretary shall provide to such individual information regarding the ability of the individual to address such condition, including pursuant to section 5303 of this title and chapter 79 of title 10.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5303A the following new item:
