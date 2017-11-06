@@ -2,12 +2,14 @@
 legis-num: H.R. 1370
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1370
 
-> To amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes.
+That the bill from the House of Representatives (H.R. 1370) entitled “An Act to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,26 +17,46 @@ This Act may be cited as the “Department of Homeland Security Blue Campaign Au
 
 ## § 2. Enhanced Department of Homeland Security coordination through the Blue Campaign
 
-- **(a)** *In general* Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) is amended by adding at the end the following:
   > ## § 434. Department of Homeland Security Blue Campaign
   >
-  > - **(a)** *In general* There is authorized in the Department a unified, anti-human trafficking campaign to be known as the “Blue Campaign”. As part of the Blue Campaign, the Secretary shall—
-  >   - **(1)** issue Department-wide guidance to appropriate personnel of the Department;
-  >   - **(2)** develop training programs for such personnel; and
-  >   - **(3)** coordinate departmental efforts, including training for such personnel.
-  > - **(b)** *Guidance and training* The Blue Campaign shall provide guidance and training to appropriate personnel of the Department regarding the following:
-  >   - **(1)** Programs for such personnel, as well as Federal, State, local, tribal, and territorial law enforcement entities, to help identify instances of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
-  >   - **(2)** Systematic and routine information sharing between and among the components of the Department and the National Network of Fusion Centers regarding individuals suspected or convicted of human trafficking and patterns and practices of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
-  >   - **(3)** Techniques to identify suspected victims of trafficking along the borders of the United States.
-  >   - **(4)** Techniques specifically for Transportation Security Administration personnel to—
-  >     - **(A)** identify suspected victims of trafficking at airport security; and
-  >     - **(B)** serve as a liaison and resource to aviation workers and the traveling public.
-  >   - **(5)** Utilizing resources to educate partners and stakeholders and increase public awareness of human trafficking, such as indicator cards, fact sheets, pamphlets, posters, brochures, and radio and television campaigns.
-  >   - **(6)** Leveraging partnerships with governmental, non-governmental, and private sector organizations at the State and local levels to raise public awareness of human trafficking and potential connections to terrorist activities, including along the borders of the United States.
-  >   - **(7)** Any other activities determined necessary by the Secretary as part of the Blue Campaign.
-  > - **(c)** *Definition* In this section, the term “human trafficking” means an act or practice described in paragraph (9) or (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+  > - **(a)** *Definition* In this section, the term human trafficking means an act or practice described in paragraph (9) or (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+  > - **(b)** *Establishment* There is established within the Department a program, which shall be known as the “Blue Campaign”. The Blue Campaign shall be headed by a Director, who shall be appointed by the Secretary.
+  > - **(c)** *Purpose* The purpose of the Blue Campaign shall be to unify and coordinate Department efforts to address human trafficking.
+  > - **(d)** *Responsibilities* The Secretary, working through the Director, shall, in accordance with subsection (e)—
+  >   - **(1)** issue Department-wide guidance to appropriate Department personnel;
+  >   - **(2)** develop training programs for such personnel;
+  >   - **(3)** coordinate departmental efforts, including training for such personnel; and
+  >   - **(4)** provide guidance and training on trauma-informed practices to ensure that human trafficking victims are afforded prompt access to victim support service providers, in addition to the government assistance required under section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105), to address their immediate and long-term needs.
+  > - **(e)** *Guidance and training* The Blue Campaign shall provide guidance and training to appropriate Department personnel and other Federal, State, tribal, and law enforcement personnel, as appropriate regarding—
+  >   - **(1)** programs to help identify instances of human trafficking;
+  >   - **(2)** the types of information that should be collected and recorded in information technology systems utilized by the Department to help identify individuals suspected or convicted of human trafficking;
+  >   - **(3)** systematic and routine information sharing within the Department and among Federal, State, tribal, and local law enforcement agencies regarding—
+  >     - **(A)** individuals suspected or convicted of human trafficking; and
+  >     - **(B)** patterns and practices of human trafficking;
+  >   - **(4)** techniques to identify suspected victims of trafficking along the United States border and at airport security checkpoints;
+  >   - **(5)** methods to be used by the Transportation Security Administration and personnel from other appropriate agencies—
+  >     - **(A)** to train employees of the Transportation Security Administration to identify suspected victims of trafficking; and
+  >     - **(B)** to serve as a liaison and resource regarding human trafficking prevention to appropriate State, local, and private sector aviation workers and the traveling public;
+  >   - **(6)** utilizing resources, such as indicator cards, fact sheets, pamphlets, posters, brochures, and radio and television campaigns—
+  >     - **(A)** to educate partners and stakeholders; and
+  >     - **(B)** to increase public awareness of human trafficking;
+  >   - **(7)** leveraging partnerships with State and local governmental, nongovernmental, and private sector organizations to raise public awareness of human trafficking; and
+  >   - **(8)** any other activities the Secretary determines necessary to carry out the Blue Campaign.
 
-- **(b)** *Information technology systems* Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security shall ensure that, consistent with the Department of Homeland Security-wide guidance required under subsection (a) of section 434 of the Homeland Security Act of 2002 (as added by subsection (a) of this section), information technology systems utilized within the Department to record and track information regarding individuals suspected or convicted of human trafficking (as such term is defined in such section 434) are capable of systematic and routine information sharing.
-- **(c)** *Oversight* Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the status and effectiveness of the Blue Campaign.
-- **(d)** *Authorization* For each of fiscal years 2018 through 2022, $819,000 is authorized to carry out section 434 of the Homeland Security Act of 2002, as added by subsection (a) of this section.
-- **(e)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 433 the following new item:
+- **(b)** *Clerical amendment* The table of contents of the Homeland Security Act of 2002 (Public Law 107–296) is amended by inserting after the item relating to section 433 the following:
+
+## § 3. Information technology systems
+
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security shall ensure, in accordance with the Department of Homeland Security-wide guidance required under section 434(d) of the Homeland Security Act of 2002, as added by section 2, the integration of information technology systems utilized within the Department to record and track information regarding individuals suspected or convicted of human trafficking.
+
+## § 4. Report
+
+Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives that—
+
+- **(1)** describes the status and effectiveness of the Department of Homeland Security Blue Campaign; and
+- **(2)** provides a recommendation regarding the appropriate office within the Department of Homeland Security for the Blue Campaign.
+
+## § 5. Authorization of appropriations
+
+There is authorized to be appropriated $819,000 to carry out section 434 of the Homeland Security Act of 2002, as added by section 2.
