@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3657
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3657
@@ -26,3 +26,16 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 - 2017-08-18 — Introduced in House
 - 2017-08-18 — Referred to the House Committee on Veterans' Affairs.
 - 2017-08-18 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2017-09-13 — Subcommittee Hearings Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2017-11-06 — Considered under suspension of the rules. (consideration: CR H8508-8509)
+- 2017-11-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3657.
+- 2017-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-06 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2017-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8508)
+- 2017-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8508)
+- 2017-11-06 — Placed on the Union Calendar, Calendar No. 285.
+- 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-388.
+- 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-388.
+- 2017-11-06 — The title of the measure was amended. Agreed to without objection.
