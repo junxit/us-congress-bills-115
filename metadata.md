@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3922
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3922
@@ -16,10 +16,11 @@ Continuing Community Health And Medical Professional Programs to Improve Our Nat
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -53,3 +54,4 @@ Continuing Community Health And Medical Professional Programs to Improve Our Nat
 - 2017-11-03 — Rule provides for consideration of H.R. 3922 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
 - 2017-11-03 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-11-03 — The previous question was ordered pursuant to the rule.
+- 2017-11-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
