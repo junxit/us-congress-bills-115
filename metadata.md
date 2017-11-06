@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1370
@@ -16,7 +16,7 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
@@ -26,6 +26,7 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Katko, John [R-NY-24] (K000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (3)
 
@@ -54,3 +55,13 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4480-4481)
 - 2017-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4480-4481)
 - 2017-05-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-11-06 — Amendment SA 1579 agreed to in Senate by Unanimous Consent.
+- 2017-11-06 — Amendment SA 1579 proposed by Senator McConnell for Senator Johnson. (consideration: CR S7029; text: CR S7029) In the nature of a substitute.
+- 2017-11-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7029-7030)
+- 2017-11-06 — Passed Senate with an amendment by Voice Vote.
+- 2017-11-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2017-11-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2017-11-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2017-11-06 — Senate amendment agreed to: Amendment SA 1579 agreed to in Senate by Unanimous Consent.
+- 2017-11-06 — Senate amendment proposed (on the floor): Amendment SA 1579 proposed by Senator McConnell for Senator Johnson.(consideration: CR S7029; text: CR S7029)
+- 2017-11-06 — Senate amendment submitted
