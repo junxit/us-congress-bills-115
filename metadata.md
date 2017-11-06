@@ -1,7 +1,7 @@
 ---
 measure: H.R. 849
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 849
@@ -289,11 +289,12 @@ Protecting Seniors Access to Medicare Act
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 - Rep. Labrador, Raul R. [R-ID-1] (L000573)
 
-## Committees (3)
+## Committees (4)
 
 - House — Rules Committee
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -325,3 +326,4 @@ Protecting Seniors Access to Medicare Act
 - 2017-11-02 — Rule H. Res. 600 passed House.
 - 2017-11-02 — Rule provides for consideration of H.R. 849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
 - 2017-11-02 — The previous question was ordered pursuant to the rule.
+- 2017-11-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
