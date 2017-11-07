@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3441
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3441
@@ -158,3 +158,17 @@ Save Local Business Act
 - 2017-11-01 — Placed on the Union Calendar, Calendar No. 278.
 - 2017-11-01 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-379.
 - 2017-11-01 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-379.
+- 2017-11-06 — Rules Committee Resolution H. Res. 607 Reported to House. Rule provides for consideration of H.R. 3043 and H.R. 3441. Measure will be considered read. The resolution provides for one hour of debate on H.R. 3043. The resolution makes in order only those further amendments printed in the report and one motion to recommit with or without instructions. Also, the resolution provides for one hour of debate on H.R. 3441 with one motion to recommit with or without instructions.
+- 2017-11-07 — Considered under the provisions of rule H. Res. 607. (consideration: CR H8566-8581)
+- 2017-11-07 — DEBATE - The House proceeded with 10 minutes of debate on the Bonamici motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to section 2, Clarification of Joint Employment, to change the applicability when a franchisee takes an action at the direction of a franchisor, and such action by the franchisee violates this Act, in which case the franchisor shall be considered a joint employer for purposes of such violation.
+- 2017-11-07 — DEBATE - The House proceeded with one hour of debate on H.R. 3441.
+- 2017-11-07 — House amendment offered
+- 2017-11-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-07 — Ms. Bonamici moved to recommit with instructions to the Committee on Education and the Workforce. (text: CR H8579)
+- 2017-11-07 — On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 235 (Roll no. 613).
+- 2017-11-07 — On passage Passed by recorded vote: 242 - 181 (Roll no. 614). (text: CR H8566)
+- 2017-11-07 — Passed/agreed to in House: On passage Passed by recorded vote: 242 - 181 (Roll no. 614).(text: CR H8566)
+- 2017-11-07 — Rule H. Res. 607 passed House.
+- 2017-11-07 — Rule provides for consideration of H.R. 3043 and H.R. 3441. Measure will be considered read. The resolution provides for one hour of debate on H.R. 3043. The resolution makes in order only those further amendments printed in the report and one motion to recommit with or without instructions. Also, the resolution provides for one hour of debate on H.R. 3441 with one motion to recommit with or without instructions.
+- 2017-11-07 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-11-07 — The previous question was ordered pursuant to the rule.
