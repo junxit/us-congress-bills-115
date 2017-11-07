@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3562
@@ -51,3 +51,14 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-386.
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-386.
 - 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-05-16 — Passed Senate without amendment by Unanimous Consent.
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-05-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2732)
+- 2018-05-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2732)
+- 2018-05-17 — Message on Senate action sent to the House.
+- 2018-05-21 — Presented to President.
+- 2018-05-21 — Presented to President.
+- 2018-06-01 — Became Public Law No: 115-177.
+- 2018-06-01 — Became Public Law No: 115-177.
+- 2018-06-01 — Signed by President.
+- 2018-06-01 — Signed by President.
