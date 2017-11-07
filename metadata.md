@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3657
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3657
@@ -16,9 +16,10 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-388.
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-388.
 - 2017-11-06 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
