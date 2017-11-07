@@ -1,7 +1,7 @@
 ---
 measure: H.R. 918
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,13 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 1720H` | insert | Chapter 17 of title 38, United States Code, is amended by inserting after section 1720H the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1720H` | insert | The table of sections at the beginning of chapter 17 of title 38, United States Code, is amended by inserting after the item relating to section 1720H the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in clause (iii), by striking “September 30, 2024” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iv), by striking “September 30, 2024” and inserting “September 30, 2025”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”. | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 5303A` | insert | Chapter 53 of title 38, United States Code, is amended by inserting after section 5303A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 5303A` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5303A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
