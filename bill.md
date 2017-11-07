@@ -1,0 +1,29 @@
+---
+legis-num: S. 2085
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2085
+
+> To amend the Agriculture and Consumer Protection Act of 1973 to streamline application processes and reduce the administrative burden for the commodity supplemental food program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Nourishing Our Golden Years Act”.
+
+## § 2. Commodity Supplemental Food Program certification
+
+Section 5(g) of the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note) is amended—
+
+- **(1)** by striking “Except” and inserting the following:
+  > - **(1)** *In general* Except
+
+- **(2)** by adding at the end the following:
+  > - **(2)** *Certification*
+  >   - **(A)** *Definition of certification period* In this paragraph, the term “certification period” means the period that a participant in the commodity supplemental food program may continue to receive benefits under that program without a formal review of the eligibility of the participant.
+  >   - **(B)** *Minimum certification period* Subject to subparagraph (C), a State shall establish a certification period of not less than 1 year.
+  >   - **(C)** *Extensions* On the request of a State, the Secretary shall approve a State certification period of more than 1 year on the condition that, on an annual basis, the local agency in the State administering the commodity supplemental food program—
+  >     - **(i)** verifies the address and continued interest of each participant in receiving program benefits; and
+  >     - **(ii)** has sufficient reason to determine that the participant still meets the income eligibility standards, which may include a determination that the participant has a fixed income.
