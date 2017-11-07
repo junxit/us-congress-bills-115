@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3562
@@ -22,9 +22,10 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend title 38, United States Code, to authorize the Secretary of Veterans Af
 - 2017-11-06 — Placed on the Union Calendar, Calendar No. 283.
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-386.
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-386.
+- 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
