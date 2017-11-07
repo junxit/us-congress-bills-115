@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1066
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1066
@@ -29,9 +29,10 @@ VA Management Alignment Act of 2017
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ VA Management Alignment Act of 2017
 - 2017-11-06 — Placed on the Union Calendar, Calendar No. 286.
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-389.
 - 2017-11-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-389.
+- 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
