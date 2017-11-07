@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2148
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2148
@@ -51,3 +51,9 @@ Clarifying Commercial Real Estate Loans
 - 2017-11-06 — Placed on the Union Calendar, Calendar No. 288.
 - 2017-11-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-392.
 - 2017-11-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-392.
+- 2017-11-07 — Considered under suspension of the rules. (consideration: CR H8547-8550)
+- 2017-11-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2148.
+- 2017-11-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-07 — Mr. Huizenga moved to suspend the rules and pass the bill, as amended.
+- 2017-11-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8547-8548)
+- 2017-11-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8547-8548)

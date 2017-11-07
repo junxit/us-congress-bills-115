@@ -19,10 +19,10 @@ The Federal Deposit Insurance Act is amended by adding at the end the following 
 
 > ## § 51. Capital requirements for certain acquisition, development, or construction loans
 >
-> - **(a)** *In general* The appropriate Federal banking agencies may only subject a depository institution to higher capital standards with respect to a high volatility commercial real estate (HVCRE) exposure (as defined under section 324.2 of title 12, Code of Federal Regulations, as in effect on the day before the date of the enactment of this section) (as such term is defined under section 324.2 of title 12, Code of Federal Regulations, as of October 11, 2017, or if a successor regulation is in effect as of the date of the enactment of this section, such term or any successor term contained in such successor regulation) if such exposure is an HVCRE ADC loan.
+> - **(a)** *In general* The appropriate Federal banking agencies may only subject a depository institution to higher capital standards with respect to a high volatility commercial real estate (HVCRE) exposure (as such term is defined under section 324.2 of title 12, Code of Federal Regulations, as of October 11, 2017, or if a successor regulation is in effect as of the date of the enactment of this section, such term or any successor term contained in such successor regulation) if such exposure is an HVCRE ADC loan.
 > - **(b)** *HVCRE ADC loan defined* For purposes of this section and with respect to a depository institution, the term “HVCRE ADC loan”—
 >   - **(1)** means a credit facility secured by land or improved real property that, prior to being reclassified by the depository institution as a Non-HVCRE ADC loan pursuant to subsection (d)—
->     - **(A)** finances or has financed primarily finances, has financed, or refinances the acquisition, development, or construction of real property;
+>     - **(A)** primarily finances, has financed, or refinances the acquisition, development, or construction of real property;
 >     - **(B)** has the purpose of providing financing to acquire, develop, or improve such real property into income-producing real property; and
 >     - **(C)** is dependent upon future income or sales proceeds from, or refinancing of, such real property for the repayment of such credit facility;
 >   - **(2)** does not include a credit facility financing—
