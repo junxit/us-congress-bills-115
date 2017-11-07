@@ -53,24 +53,7 @@ This Act may be cited as the “Veteran Urgent Access to Mental Healthcare Act�
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of title 38, United States Code, is amended by inserting after the item relating to section 1720H the following new item:
 
-## § 3. Extension of requirement for collection of fees for housing loans guaranteed by secretary ofveterans affairs
-
-Section 3729(b)(2) of title 38, United States Code, is amended—
-
-- **(1)** in subparagraph (A)—
-  - **(A)** in clause (iii), by striking “September 30, 2024” and inserting “September 30, 2025”; and
-  - **(B)** in clause (iv), by striking “September 30, 2024” and inserting “September 30, 2025”;
-- **(2)** in subparagraph (B)—
-  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
-  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”;
-- **(3)** in subparagraph (C)—
-  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
-  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”; and
-- **(4)** in subparagraph (D)—
-  - **(A)** in clause (i), by striking “September 30, 2024” and inserting “September 30, 2025”; and
-  - **(B)** in clause (ii), by striking “September 30, 2024” and inserting “September 30, 2025”.
-
-## § 4. Character of service determinations
+## § 3. Character of service determinations
 
 - **(a)** *In general* Chapter 53 of title 38, United States Code, is amended by inserting after section 5303A the following new section:
   > ## § 5303B. Character of service determinations
