@@ -13,21 +13,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “National Veterans Memorial and Museum Act”.
 
-## § 2. Findings; Sense of Congress
+## § 2. Designation of National Veterans Memorial and Museum
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The Veterans Memorial and Museum is a civic landmark and cultural institution being built in Columbus, Ohio, to honor, connect, inspire and educate all Americans about the service and sacrifice of more than 40,000,000 veterans, over half of whom are living today, and 1,100,000 fallen who have bravely defended the freedoms enjoyed by all citizens of the United States of America.
-  - **(2)** The Veterans Memorial and Museum is the only public museum of its kind that exists for the exclusive purpose of interpreting the collective experiences of veterans of the United States of America across all eras, conflicts, and branches of the military.
-  - **(3)** The Veterans Memorial and Museum would attract and educate a diverse group of audiences from across the country through its visitor-centered, interactive, and participatory exhibits.
-  - **(4)** The Veterans Memorial and Museum would work to help bridge the military-civilian gap that has increasingly isolated veterans and their families and often made the journey from civilian to soldier back to civilian more difficult to navigate.
-- **(b)** *Sense of Congress* It is the sense of Congress that—
-  - **(1)** the Veterans Memorial and Museum will preserve the stories and legacy of service so that visitors can conduct a critical evaluation of the history and evolution of our country as seen through the lens of the military experience;
-  - **(2)** the Veterans Memorial and Museum will inspire civilians to serve their communities and country as active and engaged citizens;
-  - **(3)** the Veterans Memorial and Museum will be a beacon for all veterans, veteran families, and civilians of this country to ensure that the sacrifices of America’s service men and women are a guarantee to posterity;
-  - **(4)** the State of Ohio, Franklin County, and many more private individuals, foundations, and corporations have contributed millions of dollars to design and construct this national destination, which broke ground in December 2015; and
-  - **(5)** it is fitting and proper to refer to the Veterans Memorial and Museum in Columbus, Ohio, as the “National Veterans Memorial and Museum”.
-
-## § 3. Designation of National Veterans Memorial and Museum
-
-- **(a)** *Designation* The Veterans Memorial and Museum is hereby designated as the “National Veterans Memorial and Museum”.
-- **(b)** *Veterans Memorial and Museum defined* In this section, the term Veterans Memorial and Museum means the memorial and museum that is, as of the date of the enactment of this Act, being constructed on an approximately 7-acre area on West Broad Street, Columbus, Ohio, bounded by the Scioto River and the Scioto Greenway.
+- **(a)** *Designation* Subject to the condition described in subsection (b), the memorial and museum that is, as of the date of the enactment of this Act, being constructed on an approximately 7-acre area on West Broad Street, Columbus, Ohio, bounded by the Scioto River and the Scioto Greenway, shall be designated as the “National Veterans Memorial and Museum”.
+- **(b)** *Withdrawal of designation* The designation under subsection (a) may be withdrawn no earlier than 5 years after the date on which the museum opens the public, pursuant to an Act of Congress, if the progress and operation of the museum are found to be unsatisfactory based on the report submitted under subsection (c).
+- **(c)** *Report to Congress*
+  - **(1)** *In general* As a condition of the designation under subsection (a), the director of the memorial and museum described in that subsection shall submit to Congress a report on the memorial and museum by not later than the date specified in paragraph (2). Such report shall include each of the following:
+    - **(A)** The projected budget for the memorial and museum for the 5-year period beginning on the date the memorial and museum is expected to open to the public.
+    - **(B)** A description of the outreach conducted by the memorial and museum to veterans across the United States to receive input about the design and contents of the memorial and museum.
+    - **(C)** A description of the process by which decisions are made about the contents of the exhibits displayed at the memorial and museum.
+    - **(D)** A description of the organizational structure of the memorial and museum.
+    - **(E)** A copy of the bylaws and rules of the memorial and museum.
+    - **(F)** A list of any organizations or entities that have accredited the memorial and museum.
+  - **(2)** *Deadline for report* The date specified in this paragraph is the earlier of the following dates:
+    - **(A)** The date that is 90 days after the date of the enactment of this Act.
+    - **(B)** The date that is 30 days before the date on which the memorial and museum is first open to the public.
+- **(d)** *Effect of designation* The national memorial and museum designated by subsection (a) is not a unit of the National Park System, and the designation of the national memorial and museum shall not be construed to require Federal funds to be expended for any purpose related to the national memorial and museum.
