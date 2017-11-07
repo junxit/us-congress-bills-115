@@ -17,8 +17,12 @@ This Act may be cited as the “Veterans Apprenticeship and Labor Opportunity Re
 
 Paragraph (1) of subsection (c) of section 3672 of title 38, United States Code, is amended to read as follows:
 
-> - **(2)**
+> - **(1)**
 >   - **(A)** The State approving agency for a multi-State apprenticeship program is—
 >     - **(i)** for purposes of approval of the program, the State approving agency for the State in which the headquarters of the apprenticeship program is located; and
 >     - **(ii)** for all other purposes, the State approving agency for the State in which the apprenticeship program takes place.
 >   - **(B)** In this paragraph, the term “multi-State apprenticeship program” means a non-Federal apprenticeship program operating in more than one State that meets the minimum national program standards, as developed by the Department of Labor.
+
+## § 3. Elimination of certain certification requirement for assistance for apprenticeship and other on-job training
+
+Section 3680(c) of title 38, United States Code, is amended by striking “shall have received—” and all that follows through “person's certificate,” and inserting “receives from the training establishment a certification”.
