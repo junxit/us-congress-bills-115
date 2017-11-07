@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2601
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 1701` | strike | in subparagraph (C)(ii), by striking “or”; | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 1701` | replace | in subparagraph (D)(ii)(II)(dd), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 1701` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

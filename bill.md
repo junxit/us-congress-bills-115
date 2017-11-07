@@ -21,11 +21,14 @@ Section 101(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014
 - **(2)** in subparagraph (D)(ii)(II)(dd), by striking the period and inserting “; or”; and
 - **(3)** by adding at the end the following new subparagraph:
   > - **(E)**
-  >   - **(i)** requires an organ transplant;
-  >   - **(ii)** resides more than 100 miles from a transplant center operated by the Department; and
-  >   - **(iii)** is seeking, under subsection (a), hospital care or medical services related to the required organ transplant at a transplant center—
-  >     - **(I)** located within 100 miles of the residence of the veteran;
-  >     - **(II)** operated by an entity that is described in subsection (a)(1)(B) that has entered into an agreement with the Secretary under subsection (d).
+  >   - **(i)** requires an organ or bone marrow transplant; and
+  >   - **(ii)**
+  >     - **(I)** has, in the opinion of the primary health care provider of the veteran, a medically compelling reason to travel outside the region of the Organ Procurement and Transplantation Network, established under section 372 of the National Organ Transplantation Act (Public Law 98–507; 42 U.S.C. 274), in which the veteran resides to receive such transplant at a medical facility of the Department; or
+  >     - **(II)** faces an unusual or excessive burden in receiving such transplant at a medical facility of the Department, including—
+  >       - **(aa)** geographical challenges;
+  >       - **(bb)** environmental factors, including roads that are not accessible to the general public, traffic, or hazardous weather;
+  >       - **(cc)** a medical condition of the veteran that affects the ability to travel; or
+  >       - **(dd)** other factors the Secretary determines appropriate, including the preference of the veteran to receive such transplant at a non-Department facility.
 
 ## § 3. Effective date
 
