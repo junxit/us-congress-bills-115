@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4173
@@ -16,13 +16,22 @@ Veterans Crisis Line Study Act of 2017
 
 - Rep. Banks, Jim [R-IN-3] (B001299)
 
-## Cosponsors (5)
+## Cosponsors (14)
 
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 
 ## Committees (1)
 
@@ -33,3 +42,12 @@ Veterans Crisis Line Study Act of 2017
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Referred to the House Committee on Veterans' Affairs.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-11-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-11-07 — Considered under suspension of the rules. (consideration: CR H8563-8566)
+- 2017-11-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4173.
+- 2017-11-07 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2017-11-07 — Placed on the Union Calendar, Calendar No. 295.
+- 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-400.
+- 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-400.
