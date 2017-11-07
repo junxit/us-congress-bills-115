@@ -2,12 +2,12 @@
 legis-num: H.R. 3122
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3122
 
-> To protect individuals who are eligible for increased pension under laws administered by the Secretary of Veterans Affairs on the basis of need of regular aid and attendance from dishonest, predatory, or otherwise unlawful practices, and for other purposes.
+> To direct the Secretary of Veterans Affairs to include on the internet website of the Department of Veterans Affairs a warning regarding dishonest, predatory, or otherwise unlawful practices targeting individuals who are eligible for increased pension on the basis of need for regular aid and attendance, and for other purposes.
 
 ## § 1. Short title
 

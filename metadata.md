@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3122
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3122
@@ -25,9 +25,10 @@ Veterans Care Financial Protection Act of 2017
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Veterans Care Financial Protection Act of 2017
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-385.
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-385.
 - 2017-11-06 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
