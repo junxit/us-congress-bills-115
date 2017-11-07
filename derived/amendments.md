@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Paragraph (1) of subsection (c) of section 3672 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 3680(c) of title 38, United States Code, is amended by striking “shall have received—” and all that follows through “person's certificate,” and inserting “receives from the training establishment a certification”. | the bill names no machine-readable US Code section |
