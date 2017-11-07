@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3656
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3656
@@ -20,9 +20,10 @@ To amend title 38, United States Code, to provide for a consistent eligibility d
 
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend title 38, United States Code, to provide for a consistent eligibility d
 - 2017-11-06 — Placed on the Union Calendar, Calendar No. 284.
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-387.
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-387.
+- 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
