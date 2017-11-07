@@ -30,7 +30,7 @@ In this Act:
 
 - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
 - **(2)** *Agency* The term agency has the meaning given the term in section 3502 of title 44, United States Code.
-- **(3)** *Covered agency* The term covered agency means an agency or component of an agency that is required by the Director to collect voluntary feedback under for purposes of section 6, based on an assessment of the components and programs of the agency with the highest impact on or number of interactions with individuals or entities.
+- **(3)** *Covered agency* The term covered agency means an agency or component of an agency that is required by the Director to collect voluntary feedback for purposes of section 6, based on an assessment of the components and programs of the agency with the highest impact on or number of interactions with individuals or entities.
 - **(4)** *Director* The term Director means the Director of the Office of Management and Budget.
 - **(5)** *Voluntary feedback* The term voluntary feedback has the meaning given the term in section 3502 of title 44, United States Code, as added by section 4 of this Act.
 
@@ -40,7 +40,7 @@ Subchapter I of chapter 35 of title 44, United States Code (commonly known as th
 
 - **(1)** in section 3502—
   - **(A)** in paragraph (13)(D), by striking “and” at the end;
-  - **(B)** in paragraph (14), by striking the period at the end and inserting “; and or”; and
+  - **(B)** in paragraph (14), by striking the period at the end and inserting “; or”; and
   - **(C)** by adding at the end the following:
     > - **(15)** the term voluntary feedback means any submission of information, opinion, or concern that is—
     >   - **(A)** voluntarily made by a specific individual or other entity relating to a particular service of or transaction with an agency; and
@@ -68,7 +68,7 @@ Each agency that solicits voluntary feedback shall ensure that—
 
 ## § 6. Customer experience data collection
 
-- **(a)** *Collection of responses* The head of each covered agency (or a designee), assisted by and in coordination with the Chief Performance Officer or other senior accountable official for customer service of the covered agency, shall collect voluntary feedback with respect to services of or transactions with the covered agency.
+- **(a)** *Collection of responses* The head of each covered agency (or a designee), assisted by and in coordination with the Performance Improvement Officer or other senior accountable official for customer service of the covered agency, shall collect voluntary feedback with respect to services of or transactions with the covered agency.
 - **(b)** *Content of questions*
   - **(1)** *Standardized questions* The Director, in coordination with the Administrator, shall develop a set of standardized questions for use by covered agencies in collecting voluntary feedback under this section that address—
     - **(A)** overall satisfaction of individuals or entities with the specific interaction or service received;
@@ -76,7 +76,7 @@ Each agency that solicits voluntary feedback shall ensure that—
     - **(C)** whether the individual or entity was treated with respect and professionalism;
     - **(D)** whether the individual or entity believes they were served in a timely manner; and
     - **(E)** any additional metrics as determined by the Director, in coordination with the Administrator.
-  - **(2)** *Additional questions* In addition to the questions developed under paragraph (1), the Chief Performance Officer or other senior accountable official for customer service at a covered agency may develop questions relevant to the specific operations or programs of the covered agency.
+  - **(2)** *Additional questions* In addition to the questions developed under paragraph (1), the Performance Improvement Officer or other senior accountable official for customer service at a covered agency may develop questions relevant to the specific operations or programs of the covered agency.
 - **(c)** *Additional requirements* To the extent practicable—
   - **(1)** each covered agency shall collect voluntary feedback across all platforms or channels through which the covered agency interacts with individuals or other entities to deliver information or services; and
   - **(2)** voluntary feedback collected under this section shall be tied to specific transactions or interactions with customers of the covered agency.
@@ -94,7 +94,7 @@ Each agency that solicits voluntary feedback shall ensure that—
 
 ## § 7. Customer experience scorecard report
 
-- **(a)** *In general* Not later than 15 months after the date of enactment of this Act, and annually thereafter for 10 years, the Comptroller General of the United States shall make publicly available and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a scorecard report assessing the quality of services provided to the public by each covered agency.
+- **(a)** *In general* Not later than 15 months after the date on which all covered agencies have submitted the first annual reports to the Director required under section 6(d)(1), and every 2 years thereafter until the date that is 10 years after such date, the Comptroller General of the United States shall make publicly available and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a scorecard report assessing the data collected and reported by the covered agencies.
 - **(b)** *Contents* The report required under subsection (a) shall include—
   - **(1)** a summary of the information required to be published by covered agencies under section 6(d); and
-  - **(2)** an analysis of administrative and legislative barriers to improving service delivery by covered agencies.
+  - **(2)** a description of how each covered agency will use the voluntary feedback received by the covered agency to improve service delivery.
