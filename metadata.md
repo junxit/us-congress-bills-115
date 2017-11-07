@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3656
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3656
@@ -44,3 +44,14 @@ To amend title 38, United States Code, to provide for a consistent eligibility d
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-387.
 - 2017-11-06 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-387.
 - 2017-11-07 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-03-01 — Passed Senate without amendment by Unanimous Consent.
+- 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1320-1321)
+- 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1320-1321)
+- 2018-03-05 — Message on Senate action sent to the House.
+- 2018-03-06 — Presented to President.
+- 2018-03-06 — Presented to President.
+- 2018-03-16 — Became Public Law No: 115-136.
+- 2018-03-16 — Became Public Law No: 115-136.
+- 2018-03-16 — Signed by President.
+- 2018-03-16 — Signed by President.
