@@ -1,7 +1,7 @@
 ---
 measure: S. 1015
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1015
@@ -38,3 +38,5 @@ National Suicide Hotline Improvement Act of 2017
 - 2017-10-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2017-10-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2017-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
+- 2017-11-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7069; text of amendment in the nature of a substitute: CR S7069)
+- 2017-11-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7069; text of amendment in the nature of a substitute: CR S7069)
