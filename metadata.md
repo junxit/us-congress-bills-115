@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1133
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1133
@@ -16,7 +16,7 @@ Veterans Transplant Coverage Act of 2017
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Cosponsors (46)
+## Cosponsors (79)
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
@@ -64,6 +64,39 @@ Veterans Transplant Coverage Act of 2017
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. O'Rourke, Beto [D-TX-16] (O000170)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Denham, Jeff [R-CA-10] (D000612)
+- Rep. Taylor, Scott [R-VA-2] (T000477)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Messer, Luke [R-IN-6] (M001189)
 
 ## Committees (1)
 
@@ -74,3 +107,16 @@ Veterans Transplant Coverage Act of 2017
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Introduced in House
 - 2017-02-16 — Referred to the House Committee on Veterans' Affairs.
+- 2017-03-03 — Referred to the Subcommittee on Health.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-11-07 — Considered under suspension of the rules. (consideration: CR H8553-8554)
+- 2017-11-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1133.
+- 2017-11-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-07 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2017-11-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8553)
+- 2017-11-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8553)
+- 2017-11-07 — Placed on the Union Calendar, Calendar No. 289.
+- 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-393.
+- 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-393.
+- 2017-11-07 — The title of the measure was amended. Agreed to without objection.
