@@ -1,7 +1,7 @@
 ---
 measure: S. 873
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | in paragraph (1), by striking “and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal” and inserting “may make 1 or more withdrawals”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “change an” and inserting “return a payment that was made under”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “change an” and inserting “return a payment that was made under an”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “a payment” and inserting “such payment”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1) Notwithstanding” and inserting “Notwithstanding”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
