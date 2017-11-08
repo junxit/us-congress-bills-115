@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 609
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 609
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2201) to amend the Securities Act 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2017-11-08 — [House 115-1-616](votes/house-115-1-0616.md) — On Ordering the Previous Question — **Passed** (224–190)
+- 2017-11-08 — [House 115-1-617](votes/house-115-1-0617.md) — On Agreeing to the Resolution — **Passed** (233–190)
+
 ## Actions
 
 - 2017-11-07 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2201) to amend the Securities Act 
 - 2017-11-07 — Rule provides for consideration of H.R. 2201 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
 - 2017-11-07 — The House Committee on Rules reported an original measure, H. Rept. 115-401, by Mr. Buck.
 - 2017-11-07 — The House Committee on Rules reported an original measure, H. Rept. 115-401, by Mr. Buck.
+- 2017-11-08 — Considered as privileged matter. (consideration: CR H8609-8614)
+- 2017-11-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 609.
+- 2017-11-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 190 (Roll no. 617). (text: CR H8609)
+- 2017-11-08 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 190 (Roll no. 616). (consideration: CR H8612-8613)
+- 2017-11-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 190 (Roll no. 617).(text: CR H8609)
