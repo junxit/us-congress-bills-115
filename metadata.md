@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3897
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3897
@@ -108,9 +108,10 @@ Gold Star Family Support and Installation Access Act of 2017
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -125,3 +126,4 @@ Gold Star Family Support and Installation Access Act of 2017
 - 2017-11-07 — Mr. Bacon asked unanimous consent to discharge from committee and consider.
 - 2017-11-07 — On passage Passed without objection. (text: CR H8545)
 - 2017-11-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8545)
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
