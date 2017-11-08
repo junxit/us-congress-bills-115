@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3244
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 7101` | add-at-end | Subchapter I of chapter 71 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7101` | add-at-end | Chapter 14 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 7101` | repeal | Section 1128 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 7101 note), and the item relating to such section in the table of sections, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7106` | insert | The table of sections for chapter 71 of title 5, United States Code, is amended by inserting after the item relating to section 7106 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1402` | insert | The table of sections for chapter 14 of title 5, United States Code, is amended by inserting after the item relating to section 1402 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7101` | amend | The item relating to chapter 14 in the table of chapters for part II of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7101` | amend | The heading for chapter 14 of title 5, United States Code, is amended to read as follows: “Chapter 14—Agency Chief Human Capital Officers; Employee Surveys”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
