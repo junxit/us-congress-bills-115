@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3043
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 6 executed, 12 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 15852
 
-> in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.” ; and
+> in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.”; and
 
 | | |
 |---|---|
@@ -99,3 +99,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 823d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 792` | add-at-end | Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 811` | strike | Section 18 of the Federal Power Act (16 U.S.C. 811) is amended by striking the second, third, and fourth sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 811` | insert | Section 18 of the Federal Power Act (16 U.S.C. 811) is amended by inserting after “the Secretary of Commerce.” the following: “In prescribing a fishway, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
