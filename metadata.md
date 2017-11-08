@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1900
@@ -38,10 +38,11 @@ National Veterans Memorial and Museum Act
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Veterans' Affairs Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ National Veterans Memorial and Museum Act
 - 2017-11-07 — Placed on the House Calendar, Calendar No. 99.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-399, Part I.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-399, Part I.
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
