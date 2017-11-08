@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3634
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3634
@@ -26,9 +26,10 @@ Securing Electronic Records for Veterans' Ease Act of 2017
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Securing Electronic Records for Veterans' Ease Act of 2017
 - 2017-11-07 — Placed on the Union Calendar, Calendar No. 292.
 - 2017-11-07 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-396.
 - 2017-11-07 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-396.
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
