@@ -19,7 +19,7 @@ This Act may be cited as the “Hydropower Policy Modernization Act of 2017”.
   - **(1)** hydropower is a renewable resource for purposes of all Federal programs and is an essential source of energy in the United States; and
   - **(2)** the United States should increase substantially the capacity and generation of clean, renewable hydropower that would improve environmental quality in the United States.
 - **(b)** *Modifying the definition of renewable energy to include hydropower* Section 203 of the Energy Policy Act of 2005 (42 U.S.C. 15852) is amended—
-  - **(1)** in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.” ; and
+  - **(1)** in subsection (a), by striking “the following amounts” and all that follows through paragraph (3) and inserting “not less than 15 percent in fiscal year 2017 and each fiscal year thereafter shall be renewable energy.”; and
   - **(2)** in subsection (b), by striking paragraph (2) and inserting the following:
     > - **(2)** *Renewable energy* The term renewable energy means electric energy generated from solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, or municipal solid waste, or from a hydropower project.
 
@@ -158,7 +158,7 @@ This Act may be cited as the “Hydropower Policy Modernization Act of 2017”.
   >   - **(2)** compile a comprehensive collection of studies and data accessible to the public that could be used to inform license proceedings under this part; and
   >   - **(3)** encourage license applicants, agencies, and Indian tribes to develop and use, for the purpose of fostering timely and efficient consideration of license applications, a limited number of open-source methodologies and tools applicable across a wide array of projects, including water balance models and streamflow analyses.
   > - **(b)** *Use of studies* To the extent practicable, the Commission and other Federal, State, and local government agencies and Indian tribes considering an aspect of an application for Federal authorization (as defined in section 34) shall use studies and data based on current, accepted science in support of their actions. Any participant in a proceeding with respect to such a Federal authorization shall demonstrate that a study requested by the participant is not duplicative of current, existing studies that are applicable to the project.
-  > - **(c)** *Intra-watershed review* The Commission shall establish a program to develop comprehensive plans, at the request of project applicants, on a watershed-wide scale, in consultation with the applicants, appropriate Federal agencies, and affected States, local governments, and Indian tribes, in watersheds with respect to which there are more than one application for a project. Upon such a request, the Commission, in consultation with the applicants, such Federal agencies, and affected States, local governments, and Indian tribes, may conduct or commission watershed-wide environmental studies, with the participation of at least 2 applicants. Any study conducted under this subsection shall apply only to a project with respect to which the applicants participate.
+  > - **(c)** *Intra-Watershed review* The Commission shall establish a program to develop comprehensive plans, at the request of project applicants, on a watershed-wide scale, in consultation with the applicants, appropriate Federal agencies, and affected States, local governments, and Indian tribes, in watersheds with respect to which there are more than one application for a project. Upon such a request, the Commission, in consultation with the applicants, such Federal agencies, and affected States, local governments, and Indian tribes, may conduct or commission watershed-wide environmental studies, with the participation of at least 2 applicants. Any study conducted under this subsection shall apply only to a project with respect to which the applicants participate.
   >
   > ## § 37. License amendment improvements
   >
@@ -201,3 +201,15 @@ This Act may be cited as the “Hydropower Policy Modernization Act of 2017”.
   - **(1)** by striking “adequate protection and utilization of such reservation” and all that follows through “That no license affecting the navigable capacity” and inserting “adequate protection and utilization of such reservation: Provided further, That no license affecting the navigable capacity”; and
   - **(2)** by striking “deem” and inserting “determine”.
 - **(b)** *Operation of navigation facilities* Section 18 of the Federal Power Act (16 U.S.C. 811) is amended by striking the second, third, and fourth sentences.
+
+## § 5. Consideration of invasive species
+
+Section 18 of the Federal Power Act (16 U.S.C. 811) is amended by inserting after “the Secretary of Commerce.” the following: “In prescribing a fishway, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall consider the threat of invasive species.”.
+
+## § 6. Examination of licenses for projects located in disaster areas
+
+Not later than one year after the date of enactment of this Act, the Federal Energy Regulatory Commission may examine the license issued by the Commission under part I of the Federal Power Act for any project that is located in an area that was declared by the President to be a disaster area in 2017.
+
+## § 7. Studies for non-federal hydropower
+
+Notwithstanding any other provision of law, if the Federal Energy Regulatory Commission has in place a memorandum of understanding with another Federal agency for non-federal hydropower with respect to a project licensed under part I of the Federal Power Act (regardless of explicit Congressional authorization for such non-federal hydropower), the other Federal agency may fully study and review the potential expansion of such non-federal hydropower at the project, including a review of seasonal pool levels and slowing flood releases.
