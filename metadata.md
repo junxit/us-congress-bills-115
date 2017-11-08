@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1133
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1133
@@ -98,9 +98,10 @@ Veterans Transplant Coverage Act of 2017
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -120,3 +121,4 @@ Veterans Transplant Coverage Act of 2017
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-393.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-393.
 - 2017-11-07 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
