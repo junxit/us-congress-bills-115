@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3911
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3911
@@ -20,9 +20,10 @@ Risk-Based Credit Examination Act
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Risk-Based Credit Examination Act
 - 2017-11-07 — Mr. Huizenga moved to suspend the rules and pass the bill.
 - 2017-11-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 32 (Roll no. 615). (text: CR H8545-8546)
 - 2017-11-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 32 (Roll no. 615).(text: CR H8545-8546)
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
