@@ -21,7 +21,7 @@ This Act may be cited as the “TSP Modernization Act of 2017”.
     > - **(5)** Withdrawals under this subsection shall be subject to such other conditions as the Executive Director may prescribe by regulation.
 
 - **(b)** *Stopping periodic payments* Section 8433(d)(2) of title 5, United States Code, is amended—
-  - **(1)** by striking “change an” and inserting “return a payment that was made under”; and
+  - **(1)** by striking “change an” and inserting “return a payment that was made under an”; and
   - **(2)** by striking “a payment” and inserting “such payment”.
 - **(c)** *Elimination of withdrawal election deadline* Section 8433(f) of title 5, United States Code, is amended—
   - **(1)** by striking “(1) Notwithstanding” and inserting “Notwithstanding”; and
