@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3949
@@ -50,3 +50,10 @@ VALOR Act
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-398.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-398.
 - 2017-11-08 — Received in the Senate, read twice.
+- 2017-11-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7267)
+- 2017-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7267)
+- 2017-11-16 — Message on Senate action sent to the House.
+- 2017-11-17 — Presented to President.
+- 2017-11-17 — Presented to President.
+- 2017-11-21 — Signed by President.
+- 2017-11-21 — Signed by President.
