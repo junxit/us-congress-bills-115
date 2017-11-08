@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4305
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4305
+
+> To amend the Federal Crop Insurance Act to prohibit payments of premium subsidy for harvest price policies.
+
+## § 1. Short title
+
+This Act may be cited as the “Harvest Price Subsidy Prohibition Act”.
+
+## § 2. Prohibition on premium subsidy for harvest price policies
+
+Section 508(e) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)) is amended by adding at the end the following:
+
+> - **(9)** *Prohibition on premium subsidy for harvest price policies* Notwithstanding any other provision of law and beginning with the 2018 reinsurance year, the Corporation may not pay any amount of premium subsidy in the case of a policy or plan of insurance that is based on the actual market price of an agricultural commodity at the time of harvest.
