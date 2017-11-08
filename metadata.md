@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 195
@@ -42,3 +42,7 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-128, Part I.
 - 2017-05-17 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-128, Part I.
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-11-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-184.
+- 2017-11-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-184.
+- 2017-11-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.
