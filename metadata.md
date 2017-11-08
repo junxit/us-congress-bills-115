@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2123
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2123
@@ -45,9 +45,10 @@ Veterans E-Health and Telemedicine Support Act of 2017
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Veterans E-Health and Telemedicine Support Act of 2017
 - 2017-11-07 — Placed on the Union Calendar, Calendar No. 290.
 - 2017-11-07 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-394.
 - 2017-11-07 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-394.
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

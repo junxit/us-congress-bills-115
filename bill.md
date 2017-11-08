@@ -2,7 +2,7 @@
 legis-num: H.R. 2123
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2123
@@ -29,7 +29,7 @@ This Act may be cited as the “Veterans E-Health and Telemedicine Support Act o
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1730A the following new item:
 - **(c)** *Report on telemedicine*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the effectiveness of the use of telemedicine by the Department of Veterans Affairs.
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the effectiveness of the use of telemedicine by the Department of Veterans Affairs.
   - **(2)** *Elements* The report required by paragraph (1) shall include an assessment of the following:
     - **(A)** The satisfaction of veterans with telemedicine furnished by the Department.
     - **(B)** The satisfaction of health care providers in providing telemedicine furnished by the Department.
@@ -39,6 +39,6 @@ This Act may be cited as the “Veterans E-Health and Telemedicine Support Act o
       - **(iii)** The productivity of health care providers.
       - **(iv)** Wait times for an appointment for the receipt of health care from the Department.
       - **(v)** The reduction, if any, in the use by veterans of in-person services at Department facilities and non-Department facilities.
-    - **(D)** The types of appointments for the receipt of telemedicine furnished by the Department that were provided during the one-year period preceding the submittal of the report.
+    - **(D)** The types of appointments for the receipt of telemedicine furnished by the Department that were provided during the 1-year period preceding the submittal of the report.
     - **(E)** The number of appointments for the receipt of telemedicine furnished by the Department that were requested during such period, disaggregated by Veterans Integrated Service Network.
     - **(F)** Savings by the Department, if any, including travel costs, of furnishing health care through the use of telemedicine during such period.
