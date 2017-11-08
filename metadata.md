@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2601
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2601
@@ -51,9 +51,10 @@ Veterans Increased Choice for Transplanted Organs and Recovery Act of 2017
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Veterans Increased Choice for Transplanted Organs and Recovery Act of 2017
 - 2017-11-07 — Placed on the Union Calendar, Calendar No. 291.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-395.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-395.
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
