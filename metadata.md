@@ -1,7 +1,7 @@
 ---
 measure: S. 1088
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1088
@@ -20,9 +20,10 @@ Federal Agency Customer Experience Act of 2017
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ Federal Agency Customer Experience Act of 2017
 - 2017-11-07 — Senate amendment proposed (on the floor): Amendment SA 1580 proposed by Senator Daines for Senator McCaskill.(consideration: CR S7067-7068; text: CR S7067-7068)
 - 2017-11-07 — Senate amendment submitted
 - 2017-11-07 — The committee amendments agreed to by Unanimous Consent.
+- 2017-11-08 — Message on Senate action sent to the House.
+- 2017-11-08 — Received in the House.
+- 2017-11-08 — Referred to the House Committee on Oversight and Government Reform.
