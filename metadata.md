@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3949
@@ -49,3 +49,4 @@ VALOR Act
 - 2017-11-07 — Placed on the Union Calendar, Calendar No. 294.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-398.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-398.
+- 2017-11-08 — Received in the Senate, read twice.
