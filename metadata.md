@@ -1,7 +1,7 @@
 ---
 measure: H.R. 918
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 918
@@ -59,9 +59,10 @@ Veteran Urgent Access to Mental Healthcare Act
 - Rep. Young, David [R-IA-3] (Y000066)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -82,3 +83,4 @@ Veteran Urgent Access to Mental Healthcare Act
 - 2017-11-07 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2017-11-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8550)
 - 2017-11-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8550)
+- 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
