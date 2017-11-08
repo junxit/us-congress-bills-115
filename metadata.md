@@ -1,7 +1,7 @@
 ---
 measure: S. 1015
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1015
@@ -26,9 +26,11 @@ National Suicide Hotline Improvement Act of 2017
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +42,8 @@ National Suicide Hotline Improvement Act of 2017
 - 2017-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
 - 2017-11-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7069; text of amendment in the nature of a substitute: CR S7069)
 - 2017-11-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7069; text of amendment in the nature of a substitute: CR S7069)
+- 2017-11-08 — Message on Senate action sent to the House.
+- 2017-11-08 — Received in the House.
+- 2017-11-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-11-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-11-08 — Referred to the Subcommittee on Health.
