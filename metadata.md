@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3441
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3441
@@ -172,3 +172,4 @@ Save Local Business Act
 - 2017-11-07 — Rule provides for consideration of H.R. 3043 and H.R. 3441. Measure will be considered read. The resolution provides for one hour of debate on H.R. 3043. The resolution makes in order only those further amendments printed in the report and one motion to recommit with or without instructions. Also, the resolution provides for one hour of debate on H.R. 3441 with one motion to recommit with or without instructions.
 - 2017-11-07 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-11-07 — The previous question was ordered pursuant to the rule.
+- 2017-11-08 — Received in the Senate.
