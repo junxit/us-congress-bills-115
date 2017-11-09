@@ -1,7 +1,7 @@
 ---
 measure: S. 1153
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1153
@@ -28,3 +28,8 @@ Veterans ACCESS Act
 
 - 2017-05-17 — Introduced in Senate
 - 2017-05-17 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2017-07-11 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 115-320.
+- 2017-11-09 — Passed Senate without amendment by Unanimous Consent. (text: CR S7166)
+- 2017-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7166)
+- 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7166)
+- 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7166)
