@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4337
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4337
+
+> To amend the Defense Production Act of 1950 to require national security reviews carried out by the Committee on Foreign Investment in the United States to take into account the potential effects of covered transactions on personally identifiable information.
+
+## § 1. Short title
+
+This Act may be cited as the “Safeguarding American Personal Information and Investment Act” or the “Safeguarding American PII Act”.
+
+## § 2. Factoring the impact of foreign transactions on personally identifiable information in CFIUS national security reviews
+
+Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565) is amended—
+
+- **(1)** in subsection (a), by adding at the end the following:
+  > - **(9)** *Personally identifiable information* The term “personally identifiable information” means data in a form that identifies a particular individual, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.
+
+- **(2)** in subsection (f)—
+  - **(A)** in paragraph (10), by striking “and” at the end;
+  - **(B)** by redesignating paragraph (11) as paragraph (12); and
+  - **(C)** by inserting after paragraph (10) the following new paragraph:
+    > - **(11)** whether the covered transaction could expose the personally identifiable information of United States persons in a manner that threatens national security; and
