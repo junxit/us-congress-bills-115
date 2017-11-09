@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3043
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3043
@@ -16,10 +16,11 @@ Hydropower Policy Modernization Act of 2017
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -87,3 +88,4 @@ Hydropower Policy Modernization Act of 2017
 - 2017-11-08 — The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee.
 - 2017-11-08 — The previous question was ordered pursuant to the rule.
 - 2017-11-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2017-11-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
