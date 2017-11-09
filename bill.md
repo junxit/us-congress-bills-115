@@ -22,7 +22,9 @@ This Act may be cited as the “Reducing DHS Acquisition Cost Growth Act”.
   >   - **(1)** *Acquisition* The term acquisition has the meaning given the term in section 131 of title 41, United States Code.
   >   - **(2)** *Acquisition program* The term acquisition program means the process by which the Department acquires, with any appropriated amounts, by contract for purchase or lease, property or services (including construction) that support the missions and goals of the Department.
   >   - **(3)** *Acquisition program baseline* The term acquisition program baseline, with respect to an acquisition program, means a summary of the cost, schedule, and performance parameters, expressed in standard, measurable, quantitative terms, which shall be met in order to accomplish the goals of the program.
-  >   - **(4)** *Appropriate committees of Congress* The term appropriate committees of Congress has the meaning given the term in section 226(a).
+  >   - **(4)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
+  >     - **(A)** the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and
+  >     - **(B)** in the case of notice or a report relating to the Coast Guard or the Transportation Security Administration, the committees described in subparagraph (A) and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
   >   - **(5)** *Best practices* The term best practices, with respect to acquisition, means a knowledge-based approach to capability development that includes—
   >     - **(A)** identifying and validating needs;
   >     - **(B)** assessing alternatives to select the most appropriate solution;
@@ -80,11 +82,13 @@ This Act may be cited as the “Reducing DHS Acquisition Cost Growth Act”.
 
 ## § 3. Report on bid protests
 
-- **(a)** *Definition* In this section, the term Department means the Department of Homeland Security.
-- **(b)** *Study and report* Not later than 1 year after the date of enactment of this Act, the Inspector General of the Department shall conduct a study and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the prevalence and impact of bid protests on the acquisition process of the Department, in particular bid protests filed with the Government Accountability Office and the United States Court of Federal Claims.
+- **(a)** *Definitions* In this section—
+  - **(1)** the term appropriate committees of Congress has the meaning given the term in section 836(a) of the Homeland Security Act of 2002, as added by section 2(a); and
+  - **(2)** the term Department means the Department of Homeland Security.
+- **(b)** *Study and report* Not later than 1 year after the date of enactment of this Act, the Inspector General of the Department shall conduct a study, in consultation with the Government Accountability Office when necessary, and submit to the appropriate committees of Congress a report on the prevalence and impact of bid protests on the acquisition process of the Department, in particular bid protests filed with the Government Accountability Office and the United States Court of Federal Claims.
 - **(c)** *Contents* The report required under subsection (b) shall include—
   - **(1)** with respect to contracts with the Department—
-    - **(A)** trends in the number of bid protests filed with Federal agencies, the Government Accountability Office, and Federal courts, the effectiveness of each forum for contracts and task or delivery orders, and the rate of those bid protests compared to contract obligations and the number of contracts;
+    - **(A)** trends in the number of bid protests filed with Federal agencies, the Government Accountability Office, and Federal courts and the rate of those bid protests compared to contract obligations and the number of contracts;
     - **(B)** an analysis of bid protests filed by incumbent contractors, including the rate at which those contractors are awarded bridge contracts or contract extensions over the period during which the bid protest remains unresolved;
     - **(C)** a comparison of the number of bid protests and the outcome of bid protests for—
       - **(i)** awards of contracts compared to awards of task or delivery orders;
@@ -99,9 +103,8 @@ This Act may be cited as the “Reducing DHS Acquisition Cost Growth Act”.
       - **(iv)** contracts valued at less than $10,000,000;
     - **(E)** an assessment of the cost and schedule impact of successful and unsuccessful bid protests, as well as delineation of litigation costs, filed on major acquisitions with more than $100,000,000 in annual expenditures or $300,000,000 in lifecycle costs;
     - **(F)** an analysis of how often bid protestors are awarded the contract that was the subject of the bid protest;
-    - **(G)** a summary of the results of bid protests in which the contracting Federal agencies took unilateral corrective action, including the average time for remedial action to be completed;
-    - **(H)** the time it takes Federal agencies to implement corrective actions after a ruling or decision with respect to a bid protest, and the percentage of those corrective actions that are subsequently protested, including the outcome of any subsequent bid protest;
-    - **(I)** an analysis of those contracts with respect to which a company files a bid protest and later files a subsequent bid protest;
-    - **(J)** an analysis of the time spent at each phase of the procurement process attempting to prevent a bid protest, addressing a bid protest, or taking corrective action in response to a bid protest, including the efficacy of any actions attempted to prevent the occurrence of a protest; and
-    - **(K)** with respect to a company bidding on contracts or task or delivery orders, the extent to and manner in which the bid protest process affects or may affect the decision to offer a bid or proposal on single award or multiple award contracts when the company is the incumbent or non-incumbent contractor; and
+    - **(G)** a summary of the results of bid protests in which the Department took unilateral corrective action, including the average time for remedial action to be completed;
+    - **(H)** the time it takes the Department to implement corrective actions after a ruling or decision with respect to a bid protest, and the percentage of those corrective actions that are subsequently protested, including the outcome of any subsequent bid protest;
+    - **(I)** an analysis of those contracts with respect to which a company files a bid protest and later files a subsequent bid protest; and
+    - **(J)** an assessment of the overall time spent on preventing and responding to bid protests as it relates to the procurement process; and
   - **(2)** any recommendations by the Inspector General of the Department relating to the study conducted under this section.
