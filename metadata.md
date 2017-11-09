@@ -1,7 +1,7 @@
 ---
 measure: S. 324
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 324
@@ -74,3 +74,18 @@ State Veterans Home Adult Day Health Care Improvement Act of 2017
 - 2017-11-09 — Senate amendment agreed to: Amendment SA 1581 agreed to in Senate by Unanimous Consent.
 - 2017-11-09 — Senate amendment proposed (on the floor): Amendment SA 1581 proposed by Senator McConnell for Senator Hatch.(consideration: CR S7163-7164; text: CR S7164)
 - 2017-11-09 — Senate amendment submitted
+- 2017-11-13 — Held at the desk.
+- 2017-11-13 — Message on Senate action sent to the House.
+- 2017-11-13 — Received in the House.
+- 2018-03-13 — Considered under suspension of the rules. (consideration: CR H1513-1515)
+- 2018-03-13 — DEBATE - The House proceeded with forty minutes of debate on S. 324.
+- 2018-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2018-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1513)
+- 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1513)
+- 2018-03-19 — Presented to President.
+- 2018-03-19 — Presented to President.
+- 2018-03-27 — Became Public Law No: 115-159.
+- 2018-03-27 — Became Public Law No: 115-159.
+- 2018-03-27 — Signed by President.
+- 2018-03-27 — Signed by President.
