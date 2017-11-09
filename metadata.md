@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2201
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2201
@@ -28,6 +28,10 @@ Micro Offering Safe Harbor Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2017-11-09 — [House 115-1-622](votes/house-115-1-0622.md) — On Passage — **Passed** (232–188)
+
 ## Actions
 
 - 2017-04-27 — Introduced in House
@@ -39,3 +43,22 @@ Micro Offering Safe Harbor Act
 - 2017-11-01 — Placed on the Union Calendar, Calendar No. 280.
 - 2017-11-01 — Reported by the Committee on Financial Services. H. Rept. 115-383.
 - 2017-11-01 — Reported by the Committee on Financial Services. H. Rept. 115-383.
+- 2017-11-07 — Rules Committee Resolution H. Res. 609 Reported to House. Rule provides for consideration of H.R. 2201 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
+- 2017-11-08 — Rule H. Res. 609 passed House.
+- 2017-11-09 — Amendment (A001) offered by Mr. Emmer. (consideration: CR H8677-8678; text: CR H8677)
+- 2017-11-09 — Amendment agreed to by House: On agreeing to the Emmer amendment (A001) Agreed to by voice vote.
+- 2017-11-09 — Considered as unfinished business. (consideration: CR H8678-8679)
+- 2017-11-09 — Considered under the provisions of rule H. Res. 609. (consideration: CR H8667-8678; text of measure as reported in House: CR H8667)
+- 2017-11-09 — DEBATE - Pursuant to the provisions of H.Res. 609, the House proceeded with 10 minutes of debate on the Emmer amendment.
+- 2017-11-09 — DEBATE - The House proceeded with one hour of debate on H.R. 2201.
+- 2017-11-09 — DEBATE - The House resumed debate on H.R. 2201.
+- 2017-11-09 — House amendment agreed to: On agreeing to the Emmer amendment (A001) Agreed to by voice vote.
+- 2017-11-09 — House amendment offered
+- 2017-11-09 — House amendment offered/reported by: Amendment (A001) offered by Mr. Emmer.(consideration: CR H8677-8678; text: CR H8677)
+- 2017-11-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-09 — On agreeing to the Emmer amendment (A001) Agreed to by voice vote.
+- 2017-11-09 — On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 622).
+- 2017-11-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2201, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Ms. Maxine Waters (CA) demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2017-11-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 622).
+- 2017-11-09 — Rule provides for consideration of H.R. 2201 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
+- 2017-11-09 — The previous question was ordered on the amendment and the bill pursuant to the rule.
