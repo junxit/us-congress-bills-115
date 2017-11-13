@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3071
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3071
@@ -46,3 +46,11 @@ Federal Acquisition Savings Act of 2017
 - 2017-11-08 — Placed on the Union Calendar, Calendar No. 296.
 - 2017-11-08 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-402.
 - 2017-11-08 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-402.
+- 2017-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-11-13 — Considered as unfinished business. (consideration: CR H9157)
+- 2017-11-13 — Considered under suspension of the rules. (consideration: CR H9143-9145)
+- 2017-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3071.
+- 2017-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-13 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill, as amended.
+- 2017-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 624). (text: CR H9143)
+- 2017-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 624).(text: CR H9143)
