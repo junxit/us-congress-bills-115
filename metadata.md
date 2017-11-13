@@ -1,0 +1,25 @@
+---
+measure: H.Res. 616
+congress: 115
+version: Reported in House
+---
+
+# H.Res. 616
+
+Providing for consideration of the bill (H.R. 2874) to achieve reforms to improve the financial stability of the National Flood Insurance Program, to enhance the development of more accurate estimates of flood risk through new technology and better maps, to increase the role of private markets in the management of flood insurance risks, and to provide for alternative methods to insure against flood peril, and for other purposes, and providing for consideration of the conference report to accompany the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+
+## Actions
+
+- 2017-11-13 — Introduced in House
+- 2017-11-13 — Placed on the House Calendar, Calendar No. 101.
+- 2017-11-13 — The House Committee on Rules reported an original measure, H. Rept. 115-408, by Mr. Byrne.
+- 2017-11-13 — The House Committee on Rules reported an original measure, H. Rept. 115-408, by Mr. Byrne.
+- 2017-11-13 — The resolution provides for one hour of general debate and closed rule for H.R. 2874. Also, the resolution provides for consideration of the conference report to accompany H.R. 2810.
