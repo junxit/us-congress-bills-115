@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3973
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3973
@@ -35,3 +35,9 @@ Market Data Protection Act of 2017
 - 2017-11-09 — Placed on the Union Calendar, Calendar No. 299.
 - 2017-11-09 — Reported by the Committee on Financial Services. H. Rept. 115-405.
 - 2017-11-09 — Reported by the Committee on Financial Services. H. Rept. 115-405.
+- 2017-11-13 — Considered under suspension of the rules. (consideration: CR H9140-9142)
+- 2017-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3973.
+- 2017-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-13 — Mr. Huizenga moved to suspend the rules and pass the bill.
+- 2017-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9140)
+- 2017-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9140)
