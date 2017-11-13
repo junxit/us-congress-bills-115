@@ -18,11 +18,11 @@ This Act may be cited as the “Presidential Allowance Modernization Act of 2017
 - **(a)** *Former Presidents* The first section of the Act entitled “An Act to provide retirement, clerical assistants, and free mailing privileges to former Presidents of the United States, and for other purposes”, approved August 25, 1958 (commonly known as the Former Presidents Act of 1958) (3 U.S.C. 102 note), is amended—
   - **(1)** by redesignating subsections (f) and (g) as subsections (h) and (i), respectively;
   - **(2)** by striking the matter preceding subsection (e) and inserting the following:
-    > - **(a)** *In general* Each former President shall be entitled to receive from the United States—
-    >   - **(1)** an annuity, subject to subsections (b) and (c)—
+    > - **(a)** *Annuities and allowances*
+    >   - **(1)** *Annuity* Each former President shall be entitled to receive from the United States an annuity, subject to subsections (b) and (c)—
     >     - **(A)** at the rate of $200,000 per year; and
-    >     - **(B)** which shall commence on the day after the date on which an individual becomes a former President; and
-    >   - **(2)** a monetary allowance, subject to subsections (b), (c), and (d), at the rate of—
+    >     - **(B)** which shall commence on the day after the date on which an individual becomes a former President.
+    >   - **(2)** *Allowance* The General Services Administration is authorized to provide each former President a monetary allowance, subject to appropriations and subsections (b), (c), and (d), at the rate of—
     >     - **(A)** $500,000 per year for 5 years beginning on the day after the last day of the period described in the first sentence of section 5 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note);
     >     - **(B)** $350,000 per year for the 5 years following the 5-year period under subparagraph (A); and
     >     - **(C)** $250,000 per year thereafter.
