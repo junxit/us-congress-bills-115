@@ -1,7 +1,7 @@
 ---
 measure: S. 1153
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1153
@@ -20,9 +20,10 @@ Veterans ACCESS Act
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,7 @@ Veterans ACCESS Act
 - 2017-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7166)
 - 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7166)
 - 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7166)
+- 2017-11-13 — Message on Senate action sent to the House.
+- 2017-11-13 — Received in the House.
+- 2017-11-13 — Referred to the House Committee on Veterans' Affairs.
+- 2017-11-13 — Referred to the Subcommittee on Health.
