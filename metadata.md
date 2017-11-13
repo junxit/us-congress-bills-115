@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1
@@ -52,3 +52,8 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-11-02 — Introduced in House
 - 2017-11-02 — Introduced in House
 - 2017-11-02 — Referred to the House Committee on Ways and Means.
+- 2017-11-06 — Committee Consideration and Mark-up Session Held.
+- 2017-11-07 — Committee Consideration and Mark-up Session Held.
+- 2017-11-13 — Placed on the Union Calendar, Calendar No. 302.
+- 2017-11-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-409.
+- 2017-11-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-409.
