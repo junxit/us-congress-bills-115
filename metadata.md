@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2201
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2201
@@ -24,9 +24,10 @@ Micro Offering Safe Harbor Act
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Micro Offering Safe Harbor Act
 - 2017-11-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 622).
 - 2017-11-09 — Rule provides for consideration of H.R. 2201 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.
 - 2017-11-09 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2017-11-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
