@@ -1,7 +1,7 @@
 ---
 measure: S. 1266
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1266
@@ -22,9 +22,10 @@ Enhancing Veteran Care Act
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,7 @@ Enhancing Veteran Care Act
 - 2017-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7166-7167)
 - 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7166-7167)
 - 2017-11-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7166-7167)
+- 2017-11-13 — Message on Senate action sent to the House.
+- 2017-11-13 — Received in the House.
+- 2017-11-13 — Referred to the House Committee on Veterans' Affairs.
+- 2017-11-13 — Referred to the Subcommittee on Health.
