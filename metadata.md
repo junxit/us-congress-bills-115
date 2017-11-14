@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2874
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2874
@@ -30,3 +30,15 @@ version: Reported in House
 - 2017-09-11 — Placed on the Union Calendar, Calendar No. 217.
 - 2017-09-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-304.
 - 2017-09-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-304.
+- 2017-11-13 — Rules Committee Resolution H. Res. 616 Reported to House. The resolution provides for one hour of general debate and closed rule for H.R. 2874. Also, the resolution provides for consideration of the conference report to accompany H.R. 2810.
+- 2017-11-14 — Considered under the provisions of rule H. Res. 616. (consideration: CR H9209-9238)
+- 2017-11-14 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to establish the effective date to take place after the first day that the Administrator of the Federal Emergency Management Agency and the Inspector General of the Federal Emergency Management Agency have certified that final resolution has been reached on all claims for losses resulting from Hurricane Sandy in 2012 that were covered by flood insurance made available under the National Flood Insurance Program.
+- 2017-11-14 — DEBATE - The House proceeded with one hour of debate on H.R. 2874.
+- 2017-11-14 — House amendment offered
+- 2017-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-14 — Mr. Pascrell moved to recommit with instructions to the Committee on Financial Services. (text: CR H9236)
+- 2017-11-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 190 - 236 (Roll no. 629).
+- 2017-11-14 — On passage Passed by the Yeas and Nays: 237 - 189 (Roll no. 630). (text: CR H9209-9226)
+- 2017-11-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 189 (Roll no. 630).(text: CR H9209-9226)
+- 2017-11-14 — The previous question was ordered pursuant to the rule.
+- 2017-11-14 — The resolution provides for one hour of general debate and closed rule for H.R. 2874. Also, the resolution provides for consideration of the conference report to accompany H.R. 2810.
