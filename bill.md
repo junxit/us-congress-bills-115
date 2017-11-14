@@ -14,7 +14,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Portland Thorns FC won the National Women's Soccer League (referred to in this preamble as the “NWSL”) Championship on October 14, 2017;
 - Whereas the Portland Thorns FC won the NWSL Championship, an event that has been held for 5 years, for the second time by defeating the North Carolina Courage by a score of 1 to 0;
 - Whereas Portland Thorns FC midfielder Lindsey Horan scored the only goal in the 2017 NWSL Championship and was named the Most Valuable Player of that Championship;
-- Whereas the Head Coach, Mark Parsons, and Chief Executive Officer, Merritt Paulson, of the Portland Thorns FC won the NWSL Championship for the second time;
+- Whereas the Chief Executive Officer of the Portland Thorns FC, Merritt Paulson, won the NWSL Championship for the second time;
+- Whereas the Head Coach of the Portland Thorns FC, Mark Parsons, won the NWSL Championship for the first time;
 - Whereas the Rose City Riveters and the fans of the Portland Thorns FC, who provide the Providence Park venue with spirit and pride, are the best fans in the NWSL;
 - Whereas the Portland Thorns FC holds the record for highest average game attendance in the NWSL in 2017 and has held that record in each year since the establishment of the NWSL in 2013;
 - Whereas the goalkeeper of the Portland Thorns FC, Adrianna Franch, was named the NWSL Goalkeeper of the Year for 2017;
