@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3973
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3973
@@ -20,9 +20,10 @@ Market Data Protection Act of 2017
 
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Market Data Protection Act of 2017
 - 2017-11-13 — Mr. Huizenga moved to suspend the rules and pass the bill.
 - 2017-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9140)
 - 2017-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9140)
+- 2017-11-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
