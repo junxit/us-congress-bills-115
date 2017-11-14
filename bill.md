@@ -2,7 +2,7 @@
 legis-num: H. RES. 615
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 615
@@ -16,10 +16,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Giffords was the youngest person ever elected to the Arizona State Senate, serving from 2000 to 2005;
 - Whereas Giffords was the third woman in Arizona history elected to Congress;
 - Whereas Congresswoman Giffords was widely known for her middle-of-the-road political views, problem solving ethos, and commitment to bipartisanship and cooperation;
-- Whereas Congresswoman Giffords’s many achievements and inspirational service in Congress included contributions to the strength of our armed forces, the security of our Nation, the health and welfare of our veterans, our progress toward a clean energy economy, and the interests of her constituents in her beloved southern Arizona district;
+- Whereas Congresswoman Giffords’s many achievements and inspirational service in Congress included contributions to the strength of our armed forces, the security of our nation, the health and welfare of our veterans, our progress toward a clean energy economy, and the interests of her constituents in her beloved southern Arizona district;
 - Whereas Giffords prided herself on being accessible to her constituents;
-- Whereas, on January 8, 2011, while listening to her constituents at a “Congress on your Corner” event in Tucson, a gunman attempted to assassinate Congresswoman Giffords;
-- Whereas Congresswoman Giffords was shot and wounded along with 12 others while an additional 6 people were killed, including her Congressional aide, Gabriel Zimmerman;
+- Whereas on January 8, 2011, while listening to her constituents at a “Congress on your Corner” event in Tucson, a gunman attempted to assassinate Congresswoman Giffords;
+- Whereas Congresswoman Giffords was shot and wounded along with 12 others while an additional 6 people were killed, including her congressional aide, Gabriel Zimmerman;
 - Whereas in 2013 Congresswoman Giffords formed an organization to promote gun violence prevention and responsible gun ownership;
 - Whereas Congresswoman Giffords continues to serve the American public by being an outspoken advocate for solutions to gun violence;
 - Whereas Congressman Leo Ryan was an elected member of the House of Representatives for the 11th district of California from 1973 through 1978, championing causes related to equality, freedom, human rights and the protection of our democratic institutions, and represented an unwavering example of dedication to public service;
@@ -37,7 +37,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the original delegation along with 15 Jonestown inhabitants attempted to board planes at Port Kaituma airstrip but were fired upon by a Jones loyalist and other gunmen;
 - Whereas an additional 40 Jonestown inhabitants were also awaiting transport to leave Jonestown;
 - Whereas Congressman Ryan, one Jonestown inhabitant (Patricia Parks), and three journalists (NBC news reporter Don Harris, NBC photographer Bob Brown, and San Francisco Examiner photographer Greg Robinson) were shot to death at the airstrip and nine others, including Congresswoman Jackie Speier, were wounded;
-- Whereas Congressman Leo Ryan was the first Member of Congress to be assassinated overseas while performing his Congressional duties;
+- Whereas Congressman Leo Ryan was the first Member of Congress to be assassinated overseas while performing his congressional duties;
 - Whereas Congressman Ryan stated, “I learned that if you give in to fear you can't do your job”; and
 - Whereas Congressman Ryan went above and beyond to provide service to his constituents and to the people of the United States, exhibiting courage and resilience: Now, therefore, be it
 

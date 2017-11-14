@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 615
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 615
@@ -33,3 +33,14 @@ Designating the Democratic Cloakroom in the Hall of the House of Representatives
 - 2017-11-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-11-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-11-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-11-14 — Committee on Foreign Affairs discharged.
+- 2017-11-14 — Committee on Foreign Affairs discharged.
+- 2017-11-14 — Committee on House Administration discharged.
+- 2017-11-14 — Committee on House Administration discharged.
+- 2017-11-14 — Committee on Transportation discharged.
+- 2017-11-14 — Committee on Transportation discharged.
+- 2017-11-14 — Considered by unanimous consent. (consideration: CR H9199-9200)
+- 2017-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-14 — Mr. Shuster asked unanimous consent to discharge from committee and consider.
+- 2017-11-14 — On agreeing to the resolution Agreed to without objection. (text: CR H9199-9200)
+- 2017-11-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9199-9200)
