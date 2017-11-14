@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3071
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3071
@@ -32,9 +32,10 @@ Federal Acquisition Savings Act of 2017
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Federal Acquisition Savings Act of 2017
 - 2017-11-13 — Mr. Hice, Jody B. moved to suspend the rules and pass the bill, as amended.
 - 2017-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 624). (text: CR H9143)
 - 2017-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 624).(text: CR H9143)
+- 2017-11-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
