@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3739
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3739
@@ -22,9 +22,10 @@ Presidential Allowance Modernization Act of 2017
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Presidential Allowance Modernization Act of 2017
 - 2017-11-13 — Placed on the Union Calendar, Calendar No. 301.
 - 2017-11-13 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-407.
 - 2017-11-13 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-407.
+- 2017-11-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
