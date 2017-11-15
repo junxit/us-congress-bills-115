@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3893
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3893
@@ -54,3 +54,12 @@ To designate the facility of the United States Postal Service located at 100 Mat
 - 2017-09-28 — Introduced in House
 - 2017-09-28 — Introduced in House
 - 2017-09-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-15 — Considered under suspension of the rules. (consideration: CR H9295-9296)
+- 2017-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3893.
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
+- 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9295)
+- 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9295)
+- 2017-11-15 — The title of the measure was amended. Agreed to without objection.
