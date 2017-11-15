@@ -7,9 +7,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3821
 
-> To designate the facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, as the “Zachary Addington Post Office”.
+> To designate the facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, as the “Zack T. Addington Post Office”.
 
-## § 1. Zachary Addington Post Office
+## § 1. Zack T. Addington Post Office
 
-- **(a)** *Designation* The facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, shall be known and designated as the “Zachary Addington Post Office”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Zachary Addington Post Office”.
+- **(a)** *Designation* The facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, shall be known and designated as the “Zack T. Addington Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Zack T. Addington Post Office”.
