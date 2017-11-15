@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2672
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2672
@@ -45,3 +45,13 @@ To designate the facility of the United States Postal Service located at 520 Car
 - 2017-05-25 — Introduced in House
 - 2017-05-25 — Introduced in House
 - 2017-05-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-11-15 — Considered as unfinished business. (consideration: CR H9301-9302)
+- 2017-11-15 — Considered under suspension of the rules. (consideration: CR H9296)
+- 2017-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2672.
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 636). (text: CR H9296)
+- 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 636).(text: CR H9296)
