@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2874
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2874
@@ -16,9 +16,10 @@ version: Engrossed in House
 
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ version: Engrossed in House
 - 2017-11-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 189 (Roll no. 630).(text: CR H9209-9226)
 - 2017-11-14 — The previous question was ordered pursuant to the rule.
 - 2017-11-14 — The resolution provides for one hour of general debate and closed rule for H.R. 2874. Also, the resolution provides for consideration of the conference report to accompany H.R. 2810.
+- 2017-11-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
