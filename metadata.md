@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2873
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2873
@@ -45,3 +45,11 @@ To designate the facility of the United States Postal Service located at 207 Gle
 - 2017-06-12 — Introduced in House
 - 2017-06-12 — Introduced in House
 - 2017-06-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-15 — Considered under suspension of the rules. (consideration: CR H9293-9294)
+- 2017-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2873.
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9293)
+- 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9293)
