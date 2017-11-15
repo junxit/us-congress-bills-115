@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2331
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2331
@@ -39,3 +39,7 @@ Connected Government Act
 - 2017-11-13 — Placed on the Union Calendar, Calendar No. 300.
 - 2017-11-13 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-406.
 - 2017-11-13 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-406.
+- 2017-11-15 — Considered as unfinished business. (consideration: CR H9280)
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 634).
+- 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 634).
