@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 92
@@ -31,3 +31,15 @@ Recognizing the deep and abiding friendship between the United States and Israel
 - 2017-11-13 — Introduced in House
 - 2017-11-13 — Introduced in House
 - 2017-11-13 — Referred to the House Committee on Foreign Affairs.
+- 2017-11-15 — Amendment (A001) offered by Mr. Royce (CA). (consideration: CR H9302; text: CR H9302)
+- 2017-11-15 — Amendment agreed to by House: On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
+- 2017-11-15 — Committee on Foreign Affairs discharged. (consideration: CR H9302)
+- 2017-11-15 — Committee on Foreign Affairs discharged.(consideration: CR H9302)
+- 2017-11-15 — House amendment agreed to: On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
+- 2017-11-15 — House amendment offered
+- 2017-11-15 — House amendment offered/reported by: Amendment (A001) offered by Mr. Royce (CA).(consideration: CR H9302; text: CR H9302)
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — Mr. Royce (CA) asked unanimous consent to discharge from committee and consider.
+- 2017-11-15 — On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
+- 2017-11-15 — On agreeing to the resolution Agreed to without objection. (text: CR H9302)
+- 2017-11-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9302)
