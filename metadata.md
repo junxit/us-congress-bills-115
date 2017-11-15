@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4174
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4174
@@ -31,3 +31,14 @@ Foundations for Evidence-Based Policymaking Act of 2018
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by Voice Vote.
+- 2017-11-15 — Considered under suspension of the rules. (consideration: CR H9281-9291)
+- 2017-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4174.
+- 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-15 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended.
+- 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9281-9288)
+- 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9281-9288)
+- 2017-11-15 — Placed on the Union Calendar, Calendar No. 303.
+- 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
+- 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
