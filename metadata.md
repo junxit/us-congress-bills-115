@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4374
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4374
@@ -35,3 +35,10 @@ To amend the Federal Food, Drug, and Cosmetic Act to authorize additional emerge
 - 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9297-9298)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9297-9298)
 - 2017-11-15 — Received in the Senate, read twice.
+- 2017-11-16 — Message on Senate action sent to the House.
+- 2017-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7270)
+- 2017-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7270)
+- 2017-11-30 — Presented to President.
+- 2017-11-30 — Presented to President.
+- 2017-12-12 — Signed by President.
+- 2017-12-12 — Signed by President.
