@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2331
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2331
@@ -43,3 +43,4 @@ Connected Government Act
 - 2017-11-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 634).
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 634).
+- 2017-11-16 — Received in the Senate, read twice.
