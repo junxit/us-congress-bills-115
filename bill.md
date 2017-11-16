@@ -1,0 +1,29 @@
+---
+legis-num: S. 2145
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2145
+
+> To prohibit the United States Government from barring refugees from entering the United States based on their country of origin.
+
+## § 1. Short title
+
+This Act may be cited as the “No Ban on Refugees Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** An individual’s country of origin is unlikely to be an indicator of his or her threat to the security of the United States.
+- **(2)** Since 1980, there has not been a single lethal terrorist attack in the United States that was committed by a refugee.
+- **(3)** The United States accepts the most vulnerable refugees for resettlement, the vast majority of whom are women and children.
+- **(4)** The need for stable countries willing to welcome refugees has never been greater. The United Nations High Commissioner for Refugees (UNHCR) has reported that the level of forcibly displaced people worldwide is “the highest since the aftermath of World War II”.
+- **(5)** Refugees are, by definition, fleeing insecure or war-torn countries, such as Syria, Afghanistan, South Sudan, Somalia, and Yemen.
+- **(6)** The refugee vetting process involves at least 8 United States Government agencies and does not rely primarily on information provided by the refugees’ countries of origin.
+
+## § 3. Prohibition
+
+Notwithstanding any other provision of law, no agency or instrumentality of the United States Government may prevent a refugee (as defined in section 101(a)(42) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(42))) from entering the United States based on the refugee’s country of origin.
