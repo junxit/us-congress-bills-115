@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1
@@ -57,3 +57,21 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-11-13 — Placed on the Union Calendar, Calendar No. 302.
 - 2017-11-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-409.
 - 2017-11-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-409.
+- 2017-11-15 — Considered under the provisions of rule H. Res. 619. (consideration: CR H9269-9281, H9302-9361; text of amendment in the nature of a substitute: CR H9302-9345)
+- 2017-11-15 — DEBATE - The House proceeded with four hours of debate on H.R. 1.
+- 2017-11-15 — House amendment offered
+- 2017-11-15 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further consideration of H.R. 1 is postponed.
+- 2017-11-15 — Rule H. Res. 619 passed House.
+- 2017-11-15 — Rule provides for consideration of H.R. 1 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rule also provides that on any legislative day during the period from November 17, 2017, through November 27, 2017--the Journal of the proceedings of the previous day shall be considered as approved.
+- 2017-11-15 — Rules Committee Resolution H. Res. 619 Reported to House. Rule provides for consideration of H.R. 1 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rule also provides that on any legislative day during the period from November 17, 2017, through November 27, 2017: the Journal of the proceedings of the previous day shall be considered as approved.
+- 2017-11-16 — DEBATE - The House resumed with debate on H.R. 1.
+- 2017-11-16 — DEBATE - The House resumed with debate on H.R. 1.
+- 2017-11-16 — DEBATE - The House resumed with debate on H.R. 1.
+- 2017-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-16 — On passage Passed by the Yeas and Nays: 227 - 205 (Roll no. 637).
+- 2017-11-16 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further consideration of H.R. 1 is postponed.
+- 2017-11-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 205 (Roll no. 637).
+- 2017-11-16 — Pursuant to clause 1(c) of rule 19, the House continued with further consideration on H.R. 1.
+- 2017-11-16 — Pursuant to clause 1(c) of rule 19, the House continued with further consideration on H.R. 1. (consideration: CR H9381-9414)
+- 2017-11-16 — The previous question was ordered pursuant to the rule.
+- 2017-11-16 — The title of the measure was amended pursuant to H. Res. 619.

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1
 
-> To provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2018.
+> To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.
 
 ## § 1. Short title; etc
 
