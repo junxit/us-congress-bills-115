@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4174
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4174
@@ -22,9 +22,10 @@ Foundations for Evidence-Based Policymaking Act of 2018
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Foundations for Evidence-Based Policymaking Act of 2018
 - 2017-11-15 — Placed on the Union Calendar, Calendar No. 303.
 - 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
 - 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
