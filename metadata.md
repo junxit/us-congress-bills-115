@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3821
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3821
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 430 Mai
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Handel, Karen C. [R-GA-6] (H001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To designate the facility of the United States Postal Service located at 430 Mai
 - 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 635). (text: CR H9296-9297)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 635).(text: CR H9296-9297)
 - 2017-11-15 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
