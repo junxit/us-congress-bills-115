@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4182
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4182
@@ -16,10 +16,11 @@ EQUALS Act of 2017
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ EQUALS Act of 2017
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by the Yeas and Nays: 19 - 17.
+- 2017-11-16 — Placed on the Union Calendar, Calendar No. 307.
+- 2017-11-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-415.
+- 2017-11-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-415.
