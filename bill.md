@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4440
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4440
+
+> To require the Secretary of Energy to retain and redistribute certain amounts collected as fines.
+
+## § 1. Short title
+
+This Act may be cited as the “Redistribution of Fines to Our Communities Act”.
+
+## § 2. Use of funds
+
+The Secretary of Energy shall retain amounts collected for safety-related fines pursuant to section 234A of the Atomic Energy Act of 1954 (42 U.S.C. 2282a), and shall distribute the portion of those amounts that the Secretary determines appropriate to local governments to mitigate any economic impacts in connection with the closure of the nuclear facility with respect to which the fines were collected.
