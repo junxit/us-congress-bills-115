@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2706
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2706
@@ -16,7 +16,7 @@ Financial Institution Customer Protection Act of 2017
 
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
-## Cosponsors (12)
+## Cosponsors (19)
 
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
@@ -30,6 +30,13 @@ Financial Institution Customer Protection Act of 2017
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Faso, John J. [R-NY-19] (F000464)
 
 ## Committees (1)
 
@@ -40,3 +47,9 @@ Financial Institution Customer Protection Act of 2017
 - 2017-05-25 — Introduced in House
 - 2017-05-25 — Introduced in House
 - 2017-05-25 — Referred to the House Committee on Financial Services.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 1.
+- 2017-11-16 — Placed on the Union Calendar, Calendar No. 306.
+- 2017-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-414.
+- 2017-11-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-414.
