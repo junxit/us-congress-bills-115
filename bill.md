@@ -15,9 +15,9 @@ This Act may be cited as the “Financial Institution Customer Protection Act of
 
 ## § 2. Requirements for deposit account termination requests and orders
 
-- **(a)** *Termination requests or orders must be material*
+- **(a)** *Termination requests or orders must be valid*
   - **(1)** *In general* An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts or to otherwise restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers unless—
-    - **(A)** the agency has a material reason for such request or order; and
+    - **(A)** the agency has a valid reason for such request or order; and
     - **(B)** such reason is not based solely on reputation risk.
   - **(2)** *Treatment of national security threats* If an appropriate Federal banking agency believes a specific customer or group of customers is, or is acting as a conduit for, an entity which—
     - **(A)** poses a threat to national security;
@@ -43,15 +43,3 @@ This Act may be cited as the “Financial Institution Customer Protection Act of
   - **(2)** *Depository institution* The term “depository institution” means—
     - **(A)** a depository institution, as defined under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
     - **(B)** an insured credit union.
-
-## § 3. Amendments to the Financial Institutions Reform, Recovery, and Enforcement Act of 1989
-
-Section 951 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1833a) is amended—
-
-- **(1)** in subsection (c)(2), by striking “affecting a federally insured financial institution” and inserting “against a federally insured financial institution or by a federally insured financial institution against an unaffiliated third person”; and
-- **(2)** in subsection (g)—
-  - **(A)** in the header, by striking “subpoenas” and inserting “investigations”; and
-  - **(B)** by amending paragraph (1)(C) to read as follows:
-    > - **(C)** summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry, if the Attorney General—
-    >   - **(i)** requests a court order from a court of competent jurisdiction for such actions and offers specific and articulable facts showing that there are reasonable grounds to believe that the information or testimony sought is relevant and material for conducting an investigation under this section; or
-    >   - **(ii)** either personally or through delegation no lower than the Deputy Attorney General, issues and signs a subpoena for such actions and such subpoena is supported by specific and articulable facts showing that there are reasonable grounds to believe that the information or testimony sought is relevant for conducting an investigation under this section.
