@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1207
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1207
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 306 Riv
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To designate the facility of the United States Postal Service located at 306 Riv
 - 2017-11-15 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9292)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9292)
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
