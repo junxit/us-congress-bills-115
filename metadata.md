@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2873
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2873
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 207 Gle
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 207 Gle
 - 2017-11-15 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9293)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9293)
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
