@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3893
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3893
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 100 Mat
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ To designate the facility of the United States Postal Service located at 100 Mat
 - 2017-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9295)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9295)
 - 2017-11-15 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
