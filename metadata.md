@@ -1,7 +1,7 @@
 ---
 measure: S. 2099
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2099
@@ -28,3 +28,7 @@ Federal Land Management Act of 2017
 
 - 2017-11-08 — Introduced in Senate
 - 2017-11-08 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2017-11-09 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2017-11-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts without amendment. Without written report.
+- 2017-11-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts without amendment. Without written report.
+- 2017-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
