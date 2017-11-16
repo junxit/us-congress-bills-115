@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 92
@@ -22,9 +22,10 @@ Recognizing the deep and abiding friendship between the United States and Israel
 - Rep. Russell, Steve [R-OK-5] (R000604)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Recognizing the deep and abiding friendship between the United States and Israel
 - 2017-11-15 — On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
 - 2017-11-15 — On agreeing to the resolution Agreed to without objection. (text: CR H9302)
 - 2017-11-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9302)
+- 2017-11-16 — Received in the Senate and referred to the Committee on Foreign Relations.
