@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3369
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3369
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 225 Nor
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Holding, George [R-NC-2] (H001065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the facility of the United States Postal Service located at 225 Nor
 - 2017-11-15 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2017-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9291)
 - 2017-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9291)
+- 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
