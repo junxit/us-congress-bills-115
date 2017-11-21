@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3176
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3176
@@ -16,7 +16,7 @@ Disaster Assistance Fairness and Accountability Act of 2017
 
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
@@ -28,6 +28,8 @@ Disaster Assistance Fairness and Accountability Act of 2017
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Faso, John J. [R-NY-19] (F000464)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 
 ## Committees (1)
 
@@ -38,3 +40,10 @@ Disaster Assistance Fairness and Accountability Act of 2017
 - 2017-07-11 — Introduced in House
 - 2017-07-11 — Introduced in House
 - 2017-07-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-07-12 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2017-07-27 — Committee Consideration and Mark-up Session Held.
+- 2017-07-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-07-27 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2017-11-21 — Placed on the Union Calendar, Calendar No. 310.
+- 2017-11-21 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-418.
+- 2017-11-21 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-418.
