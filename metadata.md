@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3469
@@ -25,3 +25,11 @@ To designate the bridge located in Blount County, Tennessee, on the Foothills Pa
 - 2017-07-27 — Introduced in House
 - 2017-07-27 — Introduced in House
 - 2017-07-27 — Referred to the House Committee on Natural Resources.
+- 2017-08-14 — Referred to the Subcommittee on Federal Lands.
+- 2017-11-07 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-08 — Subcommittee on Federal Lands Discharged.
+- 2017-11-21 — Placed on the House Calendar, Calendar No. 103.
+- 2017-11-21 — Reported by the Committee on Natural Resources. H. Rept. 115-421.
+- 2017-11-21 — Reported by the Committee on Natural Resources. H. Rept. 115-421.
