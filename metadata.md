@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3072
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3072
@@ -29,3 +29,9 @@ Bureau of Consumer Financial Protection Examination and Reporting Threshold Act 
 - 2017-06-27 — Introduced in House
 - 2017-06-27 — Introduced in House
 - 2017-06-27 — Referred to the House Committee on Financial Services.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported by the Yeas and Nays: 39 - 21.
+- 2017-11-21 — Placed on the Union Calendar, Calendar No. 311.
+- 2017-11-21 — Reported by the Committee on Financial Services. H. Rept. 115-420.
+- 2017-11-21 — Reported by the Committee on Financial Services. H. Rept. 115-420.
