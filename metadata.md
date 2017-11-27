@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3210
@@ -42,3 +42,7 @@ Securely Expediting Clearances Through Reporting Transparency Act of 2018
 - 2017-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6327)
 - 2017-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6327)
 - 2017-07-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-11-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-185.
+- 2017-11-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-185.
+- 2017-11-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
