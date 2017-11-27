@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3109
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3109
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 1114 No
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. Taylor, Scott [R-VA-2] (T000477)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ To designate the facility of the United States Postal Service located at 1114 No
 - 2017-11-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2017-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2017-11-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
