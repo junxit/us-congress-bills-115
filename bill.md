@@ -2,28 +2,11 @@
 legis-num: H.R. 1892
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1892
 
-> To amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.
+That the bill from the House of Representatives (H.R. 1892) entitled “An Act to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Honoring Hometown Heroes Act”.
-
-## § 2. Permitting the flag to be flown at half-staff in the event of the death of a first responder serving in the line of duty
-
-- **(a)** *Amendment* The sixth sentence of section 7(m) of title 4, United States Code, is amended—
-  - **(1)** by striking “or” after “possession of the United States” and inserting a comma;
-  - **(2)** by inserting “or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty,” after “while serving on active duty,”;
-  - **(3)** by striking “and” after “former officials of the District of Columbia” and inserting a comma; and
-  - **(4)** by inserting before the period the following: “, and first responders working in the District of Columbia”.
-- **(b)** *First responder defined* Such subsection is further amended—
-  - **(1)** in paragraph (2), by striking “, United States Code; and” and inserting a semicolon;
-  - **(2)** in paragraph (3), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following new paragraph:
-    > - **(4)** the term first responder means a public safety officer as defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b).
-
-- **(c)** *Effective date* The amendments made by this Act shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act.
+*On page 3, line 6 through 8, strike “section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b)” and insert “section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284)”.*

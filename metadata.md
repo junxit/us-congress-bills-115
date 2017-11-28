@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1892
@@ -59,3 +59,13 @@ Bipartisan Budget Act of 2018
 - 2017-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 266). (text: CR 5/16/2017 H4208)
 - 2017-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 266).(text: CR 5/16/2017 H4208)
 - 2017-05-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-11-28 — Amendment SA 1587 agreed to in Senate by Unanimous Consent.
+- 2017-11-28 — Amendment SA 1587 proposed by Senator McConnell for Senator Boozman. (consideration: CR S7362) To make a technical correction.
+- 2017-11-28 — Measure laid before Senate by unanimous consent. (consideration: CR S7362-7363)
+- 2017-11-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-11-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-11-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-11-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-11-28 — Senate amendment agreed to: Amendment SA 1587 agreed to in Senate by Unanimous Consent.
+- 2017-11-28 — Senate amendment proposed (on the floor): Amendment SA 1587 proposed by Senator McConnell for Senator Boozman.(consideration: CR S7362)
+- 2017-11-28 — Senate amendment submitted
