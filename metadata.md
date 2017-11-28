@@ -1,7 +1,7 @@
 ---
 measure: S. 1928
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1928
@@ -34,3 +34,7 @@ Multilateral Aid Review Act of 2017
 
 - 2017-10-05 — Introduced in Senate
 - 2017-10-05 — Read twice and referred to the Committee on Foreign Relations.
+- 2017-11-14 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-11-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-11-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2017-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 267.
