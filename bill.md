@@ -67,4 +67,4 @@ Nothing in this Act or the amendments made by this Act shall be construed to pro
 
 ## § 5. Effective date
 
-The amendments made by this Act shall take effect after the end of the 1-year period following the date of the enactment of this Act.
+The amendments made by this Act shall take effect after the end of the 1-year 18-month period following the date of the enactment of this Act.
