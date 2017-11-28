@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 995
 
-> To direct the Secretary of Agriculture and the Secretary of the Interior to amend regulations for racial appropriateness.
+> To direct the Secretary of Agriculture and the Secretary of the Interior to modernize terms in certain regulations.
 
 ## § 1. Short title
 
@@ -22,6 +22,9 @@ This Act may be cited as the “21st Century Respect Act”.
 - **(b)** *Secretary of the Interior* The Secretary of the Interior shall amend section 906.2 of title 36, Code of Federal Regulations, for purposes of—
   - **(1)** replacing the references to the term “Negro” with “Black or African American”;
   - **(2)** replacing the definition of “Negro” with the definition of “Black or African American” as “a person having origins in any of the Black racial groups of Africa”;
-  - **(3)** replacing the references to the term “Oriental” with “Asian American or Pacific Islander”;
-  - **(4)** replacing the references to the terms “Eskimo” and “Aleut” to “Alaska Native”; and
-  - **(5)** replacing the definition of “Eskimo” and “Aleut” to have the same meaning as the term “Native” has in section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b)).
+  - **(3)** replacing the references to the term “Oriental” with “Asian American or Pacific Islander”; and
+  - **(4)** replacing the references to the terms “Eskimo” and “Aleut” with “Alaska Native”.
+
+## § 3. Rule of construction
+
+Nothing in this Act, or the amendments required by this Act, shall be construed to affect Federal law, except with respect to the use of terms by the Secretary of Agriculture and the Secretary of the Interior, respectively, to the regulations affected by this Act.
