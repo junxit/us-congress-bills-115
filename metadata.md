@@ -1,7 +1,7 @@
 ---
 measure: S. 1885
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1885
@@ -30,3 +30,7 @@ AV START Act
 
 - 2017-09-28 — Introduced in Senate
 - 2017-09-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-10-04 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-11-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-187.
+- 2017-11-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-187.
+- 2017-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 268.

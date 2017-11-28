@@ -1,7 +1,7 @@
 ---
 measure: S. 1885
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 0 executed, 24 stated and not applied.
+54 amendatory instructions. 0 executed, 54 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,3 +55,33 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 30106` | insert | The analysis for chapter 301 of title 49, United States Code, is amended by inserting after the item relating to section 30106 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 148` | add-at-end | Subchapter I of chapter 301 of title 49, United States Code, as amended by section 9, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 30107` | insert | The analysis for chapter 301 of title 49, United States Code, is amended by inserting after the item relating to section 30107, as added by section 9, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating paragraphs (5) through (13) as paragraphs (8) through (16) respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before paragraph (2), as redesignated, the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (3), as redesignated, the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (6), as redesignated, the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 12102` | add-at-end | Section 30103(b) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12102` | amend | Section 30103(e) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in paragraph (9), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting “(except for a highly automated vehicle)” after “the introduction of a motor vehicle”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “this section,” and inserting the following: “this section— | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(B)(iv), by inserting “or introducing or delivering into interstate commerce” after “selling”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “Eligibility.—”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the second sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e), by inserting “, unless the vehicle is a highly automated vehicle” before the period at the end. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “A manufacturer”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 30106` | add-at-end | Subchapter I of chapter 301 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 30106` | insert | The analysis for chapter 301 of title 49, United States Code, is amended by inserting after the item relating to section 30106 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 30106` | insert | Section 30165(a)(4) of title 49, United States Code, is amended by inserting “or under the certification process established pursuant to section 30107(e)” after “30166(o)”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 148` | add-at-end | Subchapter I of chapter 301 of title 49, United States Code, as amended by section 9, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 30107` | insert | The analysis for chapter 301 of title 49, United States Code, is amended by inserting after the item relating to section 30107, as added by section 9, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Chapter 323 of title 49, United States Code, is amended by adding after section 32304A the following: | the bill names no machine-readable US Code section |
+| — | replace | The analysis for chapter 323 of title 49, United States Code, is amended by striking the item relating to section 32304A and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 402 of title 23, United States Code, is amended by inserting after subsection (k) the following: | the bill names no machine-readable US Code section |
