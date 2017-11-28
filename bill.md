@@ -88,7 +88,7 @@ In this Act:
 
 ## § 7. Post-exchange land management
 
-- **(a)** *Non-federal land* Upon conveyance of the non-Federal land to the United States in the NorthMet Land Exchange, the non-Federal land shall become part of the Superior National Forest and be managed in accordance with—
+- **(a)** *Non-Federal land* Upon conveyance of the non-Federal land to the United States in the NorthMet Land Exchange, the non-Federal land shall become part of the Superior National Forest and be managed in accordance with—
   - **(1)** the Act of March 1, 1911 (commonly known as the Weeks Law; 16 U.S.C. 500 et seq.); and
   - **(2)** the laws and regulations applicable to the Superior National Forest and the National Forest System.
 - **(b)** *Planning* Upon acquisition by the United States in the NorthMet Land Exchange, the non-Federal lands shall be managed in a manner consistent with the land and resource management plan applicable to adjacent federally owned lands in the Superior National Forest. An amendment or supplement to the land and resource management plan shall not be required solely because of the acquisition of the non-Federal lands.
