@@ -19,7 +19,7 @@ This Act may be cited as the “Law Enforcement Mental Health and Wellness Act o
 - **(b)** *Case studies* The Director of the Office of Community Oriented Policing Services shall submit to Congress a report—
   - **(1)** that is similar to the report entitled “Health, Safety, and Wellness Program Case Studies in Law Enforcement” published by the Office of Community Oriented Policing Services in 2015; and
   - **(2)** that focuses on case studies of programs designed primarily to address officer psychological health and well-being.
-- **(c)** *Peer mentoring pilot program* Section 1701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)) is amended—
+- **(c)** *Peer mentoring pilot program* Section 1701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd(b)) is amended—
   - **(1)** in paragraph (21), by striking “; and” and inserting a semicolon;
   - **(2)** in paragraph (22), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
@@ -37,6 +37,5 @@ The Attorney General shall—
   - **(A)** identify and review the effectiveness of any existing crisis hotlines for law enforcement officers;
   - **(B)** provide recommendations to Congress on whether Federal support for existing crisis hotlines or the creation of an alternative hotline would improve the effectiveness or use of the hotline; and
   - **(C)** conduct research into the efficacy of an annual mental health check for law enforcement officers;
-- **(2)** in consultation with the Secretary of Homeland Security and the head of other Federal agencies that employ law enforcement officers, examine the mental health and wellness needs of Federal law enforcement officers, including the efficacy of expanding peer mentoring programs for law enforcement officers at each Federal agency;
-- **(3)** ensure that any recommendations, resources, or programs provided under this Act protect the privacy of participating law enforcement officers; and
-- **(4)** not later than 1 year after the date of enactment of this Act, submit a report to Congress containing findings from the review and research under paragraphs (1) and (2), and final recommendations based upon those findings.
+- **(2)** in consultation with the Secretary of Homeland Security and the head of other Federal agencies that employ law enforcement officers, examine the mental health and wellness needs of Federal law enforcement officers, including the efficacy of expanding peer mentoring programs for law enforcement officers at each Federal agency; and
+- **(3)** ensure that any recommendations, resources, or programs provided under this Act protect the privacy of participating law enforcement officers.
