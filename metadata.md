@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1
@@ -75,3 +75,5 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-11-16 — Pursuant to clause 1(c) of rule 19, the House continued with further consideration on H.R. 1. (consideration: CR H9381-9414)
 - 2017-11-16 — The previous question was ordered pursuant to the rule.
 - 2017-11-16 — The title of the measure was amended pursuant to H. Res. 619.
+- 2017-11-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2017-11-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
