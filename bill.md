@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 995
 
-> To direct the Secretary of Agriculture and the Secretary of the Interior to modernize terms in certain regulations.
+> To direct the Secretary of Agriculture and the Secretary of the Interior to amend regulations for racial appropriateness.
 
 ## § 1. Short title
 
