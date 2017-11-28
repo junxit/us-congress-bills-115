@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3115
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3115
@@ -32,6 +32,10 @@ Superior National Forest Land Exchange Act of 2017
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2017-11-28 — [House 115-1-639](votes/house-115-1-0639.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (309–99)
+
 ## Actions
 
 - 2017-06-29 — Introduced in House
@@ -45,3 +49,11 @@ Superior National Forest Land Exchange Act of 2017
 - 2017-09-05 — Placed on the Union Calendar, Calendar No. 206.
 - 2017-09-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-287.
 - 2017-09-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-287.
+- 2017-11-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-11-28 — Considered as unfinished business. (consideration: CR H9455)
+- 2017-11-28 — Considered under suspension of the rules. (consideration: CR H9445-9448)
+- 2017-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3115.
+- 2017-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-28 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
+- 2017-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 309 - 99 (Roll no. 639). (text: CR H9445-9446)
+- 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 309 - 99 (Roll no. 639).(text: CR H9445-9446)
