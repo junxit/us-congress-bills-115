@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2768
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2768
@@ -31,3 +31,11 @@ Fowler and Boskoff Peaks Designation Act
 - 2017-09-05 — Placed on the House Calendar, Calendar No. 78.
 - 2017-09-05 — Reported by the Committee on Natural Resources. H. Rept. 115-291.
 - 2017-09-05 — Reported by the Committee on Natural Resources. H. Rept. 115-291.
+- 2017-11-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-11-28 — Considered as unfinished business. (consideration: CR H9454-9455)
+- 2017-11-28 — Considered under suspension of the rules. (consideration: CR H9441-9442)
+- 2017-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2768.
+- 2017-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-28 — Mr. Tipton moved to suspend the rules and pass the bill.
+- 2017-11-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638). (text: CR H9441)
+- 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638).(text: CR H9441)
