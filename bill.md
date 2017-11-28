@@ -13,11 +13,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017”.
 
-## § 2. Reaffirmation of status and actions
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** On October 13, 2017, the General Council of the Santa Ynez Band of Chumash Indians voted to approve the Memorandum of Agreement between the County of Santa Barbara and the Santa Ynez Band of Chumash Indians regarding the approximately 1,427.28 acres of land, commonly known as Camp 4, and authorized the Tribal Chairman to sign the Memorandum of Agreement.
+- **(2)** On October 31, 2017, the Board of Supervisors for the County of Santa Barbara approved the Memorandum of Agreement on Camp 4 and authorized the Chair to sign the Memorandum of Agreement.
+- **(3)** The Secretary of the Interior approved the Memorandum of Agreement pursuant to section 2103 of the Revised Statutes (25 U.S.C. 81).
+
+## § 3. Reaffirmation of status and actions
 
 - **(a)** *Ratification of trust status* The action taken by the Secretary on January 20, 2017, to place approximately 1,427.28 acres of land located in Santa Barbara County, California, into trust for the benefit of the Santa Ynez Band of Chumash Indians is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
-- **(b)** *Ratification of actions of the secretary* The actions taken by the Secretary to assume jurisdiction over the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 30, 2015, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
-- **(c)** *Ratification of actions of the secretary* The actions taken by the Secretary to dismiss the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 19, 2017, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
+- **(b)** *Ratification of actions of the Secretary* The actions taken by the Secretary to assume jurisdiction over the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 30, 2015, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
+- **(c)** *Ratification of actions of the Secretary* The actions taken by the Secretary to dismiss the appeals relating to the fee-to-trust acquisition of approximately 1,427.28 acres in Santa Barbara County, California, on January 19, 2017, is hereby ratified and confirmed as if that action had been taken under a Federal law specifically authorizing or directing that action.
 - **(d)** *Administration*
   - **(1)** *Administration* The land placed into trust for the benefit of the Santa Ynez Band of Chumash Indians by the Secretary of the Interior on January 20, 2017, shall be a part of the Santa Ynez Indian Reservation and administered in accordance with the laws and regulations generally applicable to the land held in trust by the United States for an Indian tribe.
   - **(2)** *Effect* For purposes of certain California State laws (including the California Land Conservation Act of 1965, Government Code Section 51200, et seq.), placing the land described in subsection (b) into trust shall remove any restrictions on the property pursuant to California Government Code Section 51295 or any other provision of such Act.
