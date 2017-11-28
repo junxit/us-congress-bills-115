@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3093
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3093
@@ -16,12 +16,13 @@ Investor Clarity and Bank Parity Act
 
 - Rep. Capuano, Michael E. [D-MA-7] (C001037)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
 
 ## Committees (1)
 
@@ -32,3 +33,8 @@ Investor Clarity and Bank Parity Act
 - 2017-06-28 — Introduced in House
 - 2017-06-28 — Introduced in House
 - 2017-06-28 — Referred to the House Committee on Financial Services.
+- 2017-11-14 — Committee Consideration and Mark-up Session Held.
+- 2017-11-14 — Ordered to be Reported by Voice Vote.
+- 2017-11-28 — Placed on the Union Calendar, Calendar No. 316.
+- 2017-11-28 — Reported by the Committee on Financial Services. H. Rept. 115-426.
+- 2017-11-28 — Reported by the Committee on Financial Services. H. Rept. 115-426.
