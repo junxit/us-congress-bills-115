@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3115
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3115
@@ -28,9 +28,10 @@ Superior National Forest Land Exchange Act of 2017
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Superior National Forest Land Exchange Act of 2017
 - 2017-11-28 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
 - 2017-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 309 - 99 (Roll no. 639). (text: CR H9445-9446)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 309 - 99 (Roll no. 639).(text: CR H9445-9446)
+- 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
