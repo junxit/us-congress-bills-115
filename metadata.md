@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2768
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2768
@@ -16,9 +16,10 @@ Fowler and Boskoff Peaks Designation Act
 
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Fowler and Boskoff Peaks Designation Act
 - 2017-11-28 — Mr. Tipton moved to suspend the rules and pass the bill.
 - 2017-11-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638). (text: CR H9441)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638).(text: CR H9441)
+- 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
