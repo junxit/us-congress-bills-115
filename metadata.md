@@ -1,7 +1,7 @@
 ---
 measure: S. 1285
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1285
@@ -33,3 +33,5 @@ Oregon Tribal Economic Development Act
 - 2017-10-17 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments and an amendment to the title. With written report No. 115-175.
 - 2017-10-17 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments and an amendment to the title. With written report No. 115-175.
 - 2017-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.
+- 2017-11-29 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent. (consideration: CR S7499; text: CR S7499)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.(consideration: CR S7499; text: CR S7499)
