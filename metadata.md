@@ -1,7 +1,7 @@
 ---
 measure: S. 343
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 343
@@ -32,3 +32,5 @@ RESPECT Act
 - 2017-05-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-85.
 - 2017-05-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-85.
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7497; text: CR S7497)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7497; text: CR S7497)
