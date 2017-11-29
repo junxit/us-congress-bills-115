@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2228
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2228
@@ -74,3 +74,12 @@ Law Enforcement Mental Health and Wellness Act of 2017
 - 2017-11-28 — Reported by the Committee on Judiciary. H. Rept. 115-428.
 - 2017-11-28 — Reported by the Committee on Judiciary. H. Rept. 115-428.
 - 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2017-12-21 — Passed Senate without amendment by Unanimous Consent.
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2017-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8279)
+- 2017-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8279)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-29 — Presented to President.
+- 2017-12-29 — Presented to President.
+- 2018-01-10 — Signed by President.
+- 2018-01-10 — Signed by President.
