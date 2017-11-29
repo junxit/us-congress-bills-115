@@ -1,7 +1,7 @@
 ---
 measure: S. 825
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 825
@@ -32,3 +32,5 @@ Southeast Alaska Regional Health Consortium Land Transfer Act of 2017
 - 2017-10-17 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-173.
 - 2017-10-17 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-173.
 - 2017-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
+- 2017-11-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7498; text: CR S7498)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7498; text: CR S7498)
