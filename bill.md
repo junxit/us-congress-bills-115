@@ -2,7 +2,7 @@
 legis-num: H. RES. 630
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 630
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Requiring training for all Members, officers, and employees*
   - **(1)** *Requirement* Not later than 30 days after the date of the enactment of this resolution, the Committee on House Administration shall issue regulations to provide that, during each session of each Congress, each Member (including each Delegate or Resident Commissioner to the Congress), officer, and employee of the House of Representatives shall complete a program of training in the workplace rights and responsibilities applicable to offices and employees of the House under part A of title II of the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.), including anti-discrimination and anti-harassment training.
-  - **(2)** *Inclusion of interns, fellows, and detailees* For purposes of this resolution, an individual serving in an office of the House of Representatives as an intern (including an unpaid intern), a participant in a fellowship program, or a detailee from another office of the Federal Government shall be considered an employee of the House.
+  - **(2)** *Inclusion of interns, fellows, and detailees* For purposes of this resolution, an individual serving in an office of the House of Representatives as an intern (including an unpaid intern), a participant in a fellowship program, or a detailee from another office of the Federal government shall be considered an employee of the House.
 - **(b)** *Deadline*
   - **(1)** *In general* Under the regulations issued by the Committee on House Administration under subsection (a), an individual shall complete the program of training required under subsection (a) and file a certificate of completion of such training not later than—
     - **(A)** in the case of an individual who is serving as a Member, officer, or employee of the House as of the first day of a session of Congress, not later than 90 days after the session begins; or

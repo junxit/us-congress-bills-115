@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 630
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 630
@@ -16,7 +16,7 @@ Requiring each Member, officer, and employee of the House of Representatives to 
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Cosponsors (187)
+## Cosponsors (229)
 
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
@@ -205,6 +205,48 @@ Requiring each Member, officer, and employee of the House of Representatives to 
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Levin, Sander M. [D-MI-9] (L000263)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Nolan, Richard M. [D-MN-8] (N000127)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Titus, Dina [D-NV-1] (T000468)
 
 ## Committees (1)
 
@@ -215,3 +257,9 @@ Requiring each Member, officer, and employee of the House of Representatives to 
 - 2017-11-28 — Introduced in House
 - 2017-11-28 — Introduced in House
 - 2017-11-28 — Referred to the House Committee on House Administration.
+- 2017-11-29 — Considered under suspension of the rules. (consideration: CR H9491-9498)
+- 2017-11-29 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 630.
+- 2017-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-29 — Mr. Harper moved to suspend the rules and agree to the resolution.
+- 2017-11-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H9491)
+- 2017-11-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H9491)
