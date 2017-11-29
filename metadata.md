@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2228
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2228
@@ -51,9 +51,10 @@ Law Enforcement Mental Health and Wellness Act of 2017
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Law Enforcement Mental Health and Wellness Act of 2017
 - 2017-11-28 — Placed on the Union Calendar, Calendar No. 317.
 - 2017-11-28 — Reported by the Committee on Judiciary. H. Rept. 115-428.
 - 2017-11-28 — Reported by the Committee on Judiciary. H. Rept. 115-428.
+- 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

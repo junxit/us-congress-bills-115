@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2228
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 3796dd` | replace | in paragraph (21), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 3796dd` | replace | in paragraph (22), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3796dd` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10381` | replace | in paragraph (21), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10381` | replace | in paragraph (22), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10381` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
