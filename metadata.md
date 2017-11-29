@@ -1,7 +1,7 @@
 ---
 measure: H.R. 995
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 995
@@ -23,10 +23,11 @@ version: Reported in House
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ version: Reported in House
 - 2017-11-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-427, Part I.
 - 2017-11-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-427, Part I.
 - 2017-11-28 — The title of the measure was amended. Agreed to without objection.
+- 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

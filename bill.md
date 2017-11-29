@@ -2,12 +2,12 @@
 legis-num: H.R. 995
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 995
 
-> To direct the Secretary of Agriculture and the Secretary of the Interior to amend regulations for racial appropriateness.
+> To direct the Secretary of Agriculture and the Secretary of the Interior to modernize terms in certain regulations.
 
 ## § 1. Short title
 
