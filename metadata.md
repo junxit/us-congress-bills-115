@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 772
@@ -37,3 +37,5 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 - 2017-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-147.
 - 2017-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-147.
 - 2017-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
+- 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7498; text: CR S7498)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7498; text: CR S7498)
