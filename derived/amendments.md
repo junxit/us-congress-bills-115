@@ -1,7 +1,7 @@
 ---
 measure: S. 254
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 2992d
 
-> Section 816(e) of the Native American Programs Act of 1974 (42 U.S.C. 2992d(e)) is amended by striking “2008, 2009, 2010, 2011, and 2012” and inserting “2018 through 2022”.
+> Section 816(e) of the Native American Programs Act of 1974 (42 U.S.C. 2992d(e)) is amended by striking “such sums” and all that follows through the period at the end and inserting “$13,000,000 for each of fiscal years 2019 through 2023.”.
 
 | | |
 |---|---|
-| Removed | `2008, 2009, 2010, 2011, and 2012` |
-| Inserted | `2018 through 2022` |
+| Removed | `such sums` |
+| Inserted | `$13,000,000 for each of fiscal years 2019 through 2023.` |
 
 ### 42 U.S.C. § 2992d
 

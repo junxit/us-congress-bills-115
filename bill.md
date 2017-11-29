@@ -26,5 +26,5 @@ Section 803C of the Native American Programs Act of 1974 (42 U.S.C. 2991b–3) i
 
 ## § 3. Reauthorization of Native American languages program
 
-- **(a)** *In general* Section 816(e) of the Native American Programs Act of 1974 (42 U.S.C. 2992d(e)) is amended by striking “2008, 2009, 2010, 2011, and 2012” and inserting “2018 through 2022”.
+- **(a)** *In general* Section 816(e) of the Native American Programs Act of 1974 (42 U.S.C. 2992d(e)) is amended by striking “such sums” and all that follows through the period at the end and inserting “$13,000,000 for each of fiscal years 2019 through 2023.”.
 - **(b)** *Technical correction* Section 816 of the Native American Programs Act of 1974 (42 U.S.C. 2992d) is amended in subsections (a) and (b) by striking “subsection (e)” each place it appears and inserting “subsection (d)”.
