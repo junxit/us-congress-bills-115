@@ -27,3 +27,10 @@ This Act may be cited as the “Columbia River In-Lieu and Treaty Fishing Access
 - **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of the Interior such sums as are necessary, to remain available until expended—
   - **(1)** for improvements to existing structures and infrastructure to improve sanitation and safety conditions assessed under subsection (a); and
   - **(2)** to improve access to electricity, sewer, and water infrastructure, where feasible, to reflect needs for sanitary and safe use of facilities referred to in subsection (a).
+
+## § 3. Study of assessment and improvement activities
+
+The Comptroller General of the United States, in consultation with the Committee on Indian Affairs of the Senate, shall—
+
+- **(1)** conduct a study to evaluate whether the sanitation and safety conditions on lands held by the United States for the benefit of the affected Columbia River Treaty tribes (as defined in section 2) have improved as a result of the activities authorized in section 2; and
+- **(2)** prepare and submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report containing the results of that study.
