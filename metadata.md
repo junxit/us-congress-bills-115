@@ -1,7 +1,7 @@
 ---
 measure: S. 302
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 302
@@ -33,3 +33,5 @@ John P. Smith Act
 - 2017-04-06 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-27.
 - 2017-04-06 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-27.
 - 2017-04-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7490-7491; text: CR S7490-7491)
+- 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7490-7491; text: CR S7490-7491)
