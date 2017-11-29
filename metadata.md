@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1491
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1491
@@ -32,9 +32,10 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 - Rep. Walters, Mimi [R-CA-45] (W000820)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017
 - 2017-11-28 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
 - 2017-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9443-9444)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9443-9444)
+- 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
