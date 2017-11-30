@@ -1,7 +1,7 @@
 ---
 measure: S. 343
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 343
@@ -20,9 +20,10 @@ RESPECT Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ RESPECT Act
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
 - 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7497; text: CR S7497)
 - 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7497; text: CR S7497)
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-11-30 — Received in the House.
+- 2017-11-30 — Referred to the House Committee on Natural Resources.
