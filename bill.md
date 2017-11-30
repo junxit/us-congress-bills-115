@@ -36,7 +36,7 @@ Section 101(40) of the Comprehensive Environmental Response, Compensation, and L
 - **(5)** by adding at the end the following:
   > - **(I)** *Leaseholders* In the case of a person holding a leasehold interest in a facility—
   >   - **(i)** the leasehold interest in the facility—
-  >     - **(I)** is for a term of not less than 10 years; and
+  >     - **(I)** is for a term of not less than 5 years; and
   >     - **(II)** grants the person control of, and access to, the facility; and
   >   - **(ii)** the person is responsible for the management of all hazardous substances at the facility.
 
@@ -51,13 +51,15 @@ Section 101(40) of the Comprehensive Environmental Response, Compensation, and L
     > - **(K)** a limited partnership in which all general partners are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I); or
     > - **(L)** a qualified community development entity (as defined in section 45D(c)(1) of the Internal Revenue Code of 1986).
 
-- **(b)** *Conforming amendments* Section 104(k)(3) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)(3)) is amended—
-  - **(1)** in subparagraph (A)(ii)—
-    - **(A)** by striking “or nonprofit organizations”; and
-    - **(B)** by striking “entity or organization” and inserting “eligible entity”; and
-  - **(2)** in subparagraph (B)(ii)—
-    - **(A)** by striking “or other nonprofit organization”; and
-    - **(B)** by striking “or nonprofit organization”.
+- **(b)** *Conforming amendments* Section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) is amended—
+  - **(1)** in paragraph (3)—
+    - **(A)** in subparagraph (A)(ii)—
+      - **(i)** by striking “or nonprofit organizations”; and
+      - **(ii)** by striking “entity or organization” and inserting “eligible entity”; and
+    - **(B)** in subparagraph (B)(ii)—
+      - **(i)** by striking “or other nonprofit organization”; and
+      - **(ii)** by striking “or nonprofit organization”; and
+  - **(2)** in paragraph (6)(A), by striking “or nonprofit organizations”.
 
 ## § 6. Treatment of publicly owned brownfield sites
 
@@ -68,6 +70,10 @@ Section 104(k) of the Comprehensive Environmental Response, Compensation, and Li
 
 - **(2)** in paragraph (3), by adding at the end the following:
   > - **(E)** *Exemption for certain publicly owned brownfield sites* Notwithstanding any other provision of law, an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant or loan under this paragraph for property acquired by that eligible entity prior to January 11, 2002, even if such eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
+
+- **(3)** in paragraph (4)(B)(iii)—
+  - **(A)** by striking “up to 25 percent of the”; and
+  - **(B)** by inserting “described in any of subparagraphs (A) through (H) of paragraph (1)” after “eligible entities”.
 
 ## § 7. Remediation grant enhancement
 
@@ -81,8 +87,10 @@ Section 104(k) of the Comprehensive Environmental Response, Compensation, and Li
 - **(2)** in paragraph (3)(A), by striking “Subject to paragraphs (4) and (5)” and inserting “Subject to paragraphs (5) and (6)”;
 - **(3)** by inserting after paragraph (3) the following:
   > - **(4)** *Multipurpose brownfields grants*
-  >   - **(A)** *In general* Subject to subparagraph (D) and paragraphs (5) and (6), the Administrator shall establish a program to provide multipurpose grants to an eligible entity based on the criteria under subparagraph (C) and the considerations under paragraph (3)(C), to carry out inventory, characterization, assessment, planning, technical assistance, or remediation activities at 1 or more brownfield sites in an area proposed by the eligible entity.
-  >   - **(B)** *Grant amounts* Each grant awarded under this paragraph shall not exceed $1,000,000.
+  >   - **(A)** *In general* Subject to subparagraph (D) and paragraphs (5) and (6), the Administrator shall establish a program to provide multipurpose grants to an eligible entity based on the criteria under subparagraph (C) and the considerations under paragraph (3)(C), to carry out inventory, characterization, assessment, planning, or remediation activities at 1 or more brownfield sites in an area proposed by the eligible entity.
+  >   - **(B)** *Grant amounts*
+  >     - **(i)** *Individual grant amounts* Each grant awarded under this paragraph shall not exceed $1,000,000.
+  >     - **(ii)** *Cumulative grant amounts* The total amount of grants awarded for each fiscal year under this paragraph may not exceed 15 percent of the amounts made available for the fiscal year to carry out this subsection.
   >   - **(C)** *Criteria* In awarding a grant under this paragraph, the Administrator shall consider the extent to which the eligible entity is able—
   >     - **(i)** to provide an overall plan for revitalization of the 1 or more brownfield sites in the proposed area in which the multipurpose grant will be used;
   >     - **(ii)** to demonstrate a capacity to conduct the range of activities that will be funded by the multipurpose grant; and
@@ -119,27 +127,31 @@ Paragraph (6) of section 104(k) of the Comprehensive Environmental Response, Com
 
 ## § 11. Small community technical assistance grants
 
-Paragraph (7)(A) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 8 of this Act) is amended—
+- **(a)** *In general* Section 128(a)(1)(B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9628(a)(1)(B)) is amended—
+  - **(1)** in clause (ii)—
+    - **(A)** in subclause (I), by striking “; or” and inserting a semicolon;
+    - **(B)** in subclause (II), by striking the period at the end and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(III)** assist small communities, Indian tribes, rural areas, or disadvantaged areas in carrying out activities described in section 104(k)(7)(A) with respect to brownfield sites.
 
-- **(1)** by striking “The Administrator may provide, or fund eligible entities or nonprofit organizations to provide,” and inserting the following:
-  > - **(i)** *In general* The Administrator may provide, or fund eligible entities to provide,
+  - **(2)** by adding at the end the following:
+    > - **(iii)** *Small communities, Indian tribes, rural areas, and disadvantaged areas*
+    >   - **(I)** *In general* To make grants to States or Indian tribes under clause (ii)(III), the Administrator may use not more than $1,500,000 of the amounts made available to carry out section 104(k)(7) in each fiscal year.
+    >   - **(II)** *Limitation* Each grant made under subclause (I) may be not more than $20,000.
+    > - **(iv)** *Definitions* In this subparagraph:
+    >   - **(I)** *Disadvantaged area* The term disadvantaged area means a community with an annual median household income that is less than 2⁄3 of the statewide annual median household income, as determined by the President based on the latest available decennial census.
+    >   - **(II)** *Small community* The term small community means a community with a population of not more than 10,000 individuals, as determined by the President based on the latest available decennial census.
 
-- **(2)** by adding at the end the following:
-  > - **(ii)** *Small community, Indian tribe, rural area, and disadvantaged area recipients*
-  >   - **(I)** *In general* The Administrator shall use not more than $1,500,000 of the amounts made available to carry out this paragraph in each fiscal year to make grants to States that receive amounts under section 128(a) in that fiscal year to assist small communities, Indian tribes, rural areas, or disadvantaged areas in the State in carrying out activities described in clause (i) with respect to brownfield sites.
-  >   - **(II)** *Limitation* Each grant made under subclause (I) shall be not more than $20,000.
-  > - **(iii)** *Definitions* In this subparagraph:
-  >   - **(I)** *Disadvantaged area* The term disadvantaged area means a community with an annual median household income that is less than 2⁄3 of the statewide annual median household income, as determined by the President based on the latest available decennial census.
-  >   - **(II)** *Small community* The term small community means a community with a population of not more than 20,000 individuals, as determined by the President based on the latest available decennial census.
+- **(b)** *Conforming amendment* Section 104(g)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(g)(1)) is amended by inserting “or section 128(a)(1)(B)(ii)(III)” after “under this section”.
 
 ## § 12. Brownfields funding
 
 Paragraph (13) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 8 of this Act) is amended to read as follows:
 
-> - **(13)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2017 through 2021.
+> - **(13)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2018 through 2022.
 
 ## § 13. State response program funding
 
 Section 128(a)(3) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9628(a)(3)) is amended to read as follows:
 
-> - **(3)** *Funding* There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2017 through 2021.
+> - **(3)** *Funding* There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2018 through 2022.

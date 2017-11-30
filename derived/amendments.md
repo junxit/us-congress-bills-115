@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3017
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 7 executed, 26 stated and not applied.
+39 amendatory instructions. 7 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -107,9 +107,12 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | strike | by striking “or nonprofit organizations”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9604` | strike | by striking “or other nonprofit organization”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 9604` | strike | by striking “or nonprofit organization”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9604` | strike | by striking “or nonprofit organization”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9604` | strike | in paragraph (6)(A), by striking “or nonprofit organizations”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9604` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | add-at-end | in paragraph (3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9604` | strike | by striking “up to 25 percent of the”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9604` | insert | by inserting “described in any of subparagraphs (A) through (H) of paragraph (1)” after “eligible entities”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 9604` | redesignate | by redesignating paragraphs (4) through (12) as paragraphs (5) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | strike | by striking subclause (III); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -118,7 +121,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9604` | redesignate | by redesignating clause (iii) as clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9604` | redesignate | Paragraph (6) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 8 of this Act) is amended by adding at the end of subparagraph (C) the f… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9604` | replace | by striking “The Administrator may provide, or fund eligible entities or nonprofit organizations to provide,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 9604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9628` | replace | in subclause (I), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9628` | replace | in subclause (II), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 9628` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9628` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9604` | insert | Section 104(g)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(g)(1)) is amended by inserting “or section 128(a)(1)(B)(ii)(III)” after “under this section”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 9604` | redesignate | Paragraph (13) of section 104(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(k)) (as redesignated by section 8 of this Act) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9628` | amend | Section 128(a)(3) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9628(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

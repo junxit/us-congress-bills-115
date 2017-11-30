@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3017
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3017
@@ -30,6 +30,10 @@ Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2017-11-30 — [House 115-1-649](votes/house-115-1-0649.md) — On Passage — **Passed** (409–8)
+
 ## Actions
 
 - 2017-06-22 — Introduced in House
@@ -48,3 +52,15 @@ Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017
 - 2017-11-09 — Committee on Transportation discharged.
 - 2017-11-09 — Committee on Transportation discharged.
 - 2017-11-09 — Placed on the Union Calendar, Calendar No. 298.
+- 2017-11-28 — Rules Committee Resolution H. Res. 631 Reported to House. The rules provides 1 hour of general debate on both bills. For H.R. 3017, the bill is closed to amendments. For H.R. 3905, the rule provides for a specified amendment. The rule also provides for one motion to recommit with or without instructions on each bill.
+- 2017-11-30 — Considered as unfinished business. (consideration: CR H9559)
+- 2017-11-30 — Considered under the provisions of rule H. Res. 631. (consideration: CR H9538-9547)
+- 2017-11-30 — DEBATE - The House proceeded with one hour of debate on H.R. 3017.
+- 2017-11-30 — DEBATE - The House resumed debate on H.R. 3017.
+- 2017-11-30 — House amendment offered
+- 2017-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-11-30 — On passage Passed by the Yeas and Nays: 409 - 8 (Roll no. 649). (text: CR H9539-9540)
+- 2017-11-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3017, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Shimkus demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until later in the legislative day.
+- 2017-11-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 409 - 8 (Roll no. 649).(text: CR H9539-9540)
+- 2017-11-30 — The previous question was ordered pursuant to the rule.
+- 2017-11-30 — The rules provides 1 hour of general debate on both bills. For H.R. 3017, the bill is closed to amendments. For H.R. 3905, the rule provides for a specified amendment. The rule also provides for one motion to recommit with or without instructions on each bill.
