@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 772
@@ -25,9 +25,10 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 - 2017-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
 - 2017-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7498; text: CR S7498)
 - 2017-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7498; text: CR S7498)
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-11-30 — Received in the House.
+- 2017-11-30 — Referred to the House Committee on the Judiciary.
