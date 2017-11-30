@@ -1,7 +1,7 @@
 ---
 measure: S. 669
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 669
@@ -22,9 +22,10 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 - 2017-11-29 — Senate amendment agreed to: Amendment SA 1638 agreed to in Senate by Unanimous Consent.
 - 2017-11-29 — Senate amendment proposed (on the floor): Amendment SA 1638 proposed by Senator McConnell for Senator Hoeven.(consideration: CR S7497-7498; text: CR S7497)
 - 2017-11-29 — Senate amendment submitted
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-11-30 — Received in the House.
+- 2017-11-30 — Referred to the House Committee on Natural Resources.
