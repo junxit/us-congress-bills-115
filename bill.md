@@ -2,7 +2,7 @@
 legis-num: H. RES. 635
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 635
@@ -13,4 +13,4 @@ That at any time after adoption of this resolution the Speaker may, pursuant to 
 
 ## § 2.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1699) to amend the Truth in Lending Act to modify the definitions of a mortgage originator and a high-cost mortgage, to amend the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 to modify the definition of a loan originator, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-42 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1699) to amend the Truth in Lending Act to modify the definitions of a mortgage originator and a high-cost mortgage, to amend the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 to modify the definition of a loan originator, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115–42 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
