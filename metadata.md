@@ -1,7 +1,7 @@
 ---
 measure: S. 1285
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1285
@@ -20,9 +20,10 @@ Oregon Tribal Economic Development Act
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Oregon Tribal Economic Development Act
 - 2017-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.
 - 2017-11-29 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent. (consideration: CR S7499; text: CR S7499)
 - 2017-11-29 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.(consideration: CR S7499; text: CR S7499)
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-11-30 — Received in the House.
+- 2017-11-30 — Referred to the House Committee on Natural Resources.
