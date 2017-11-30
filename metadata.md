@@ -1,7 +1,7 @@
 ---
 measure: S. 254
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 254
@@ -26,9 +26,10 @@ Esther Martinez Native American Languages Preservation Act
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ Esther Martinez Native American Languages Preservation Act
 - 2017-11-29 — Senate amendment agreed to: Amendment SA 1637 agreed to in Senate by Unanimous Consent.
 - 2017-11-29 — Senate amendment proposed (on the floor): Amendment SA 1637 proposed by Senator McConnell for Senator Hoeven.(consideration: CR S7470; text: CR S7490)
 - 2017-11-29 — Senate amendment submitted
+- 2017-11-30 — Message on Senate action sent to the House.
+- 2017-11-30 — Received in the House.
+- 2017-11-30 — Referred to the House Committee on Education and the Workforce.
