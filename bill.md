@@ -31,7 +31,7 @@ Section 320301 of title 54, United States Code, is amended by adding at the end 
     - **(B)** as provided in paragraph (2), shall be renewable after the period described in subparagraph (A) for 10-year renewal periods.
   - **(2)** *Requirements for renewal* A lease shall be renewed under paragraph (1)(B)—
     - **(A)** if the lessee has complied with the terms and conditions of the lease during the preceding lease period; and
-    - **(B)** on the condition that, at the end of each ten-year renewal period, such reasonable readjustment of the terms and conditions of the lease may be prescribed by the Secretary of the Interior, in consultation with the Secretary of Agriculture, for the purpose of—
+    - **(B)** on the condition that, at the end of each 10-year renewal period, such reasonable readjustment of the terms and conditions of the lease may be prescribed by the Secretary of the Interior, in consultation with the Secretary of Agriculture, for the purpose of—
       - **(i)** encouraging production; or
       - **(ii)** addressing changing conditions within the lease area.
 - **(b)** *Suspension of operations* The Secretary of the Interior may suspend operations under a lease described in subsection (a) when—
