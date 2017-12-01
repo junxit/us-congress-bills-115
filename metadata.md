@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1699
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1699
@@ -88,6 +88,11 @@ Preserving Access to Manufactured Housing Act of 2017
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2017-12-01 — [House 115-1-650](votes/house-115-1-0650.md) — On Motion to Recommit with Instructions — **Failed** (193–227)
+- 2017-12-01 — [House 115-1-651](votes/house-115-1-0651.md) — On Passage — **Passed** (256–163)
+
 ## Actions
 
 - 2017-03-23 — Introduced in House
@@ -99,3 +104,15 @@ Preserving Access to Manufactured Housing Act of 2017
 - 2017-11-21 — Placed on the Union Calendar, Calendar No. 308.
 - 2017-11-21 — Reported by the Committee on Financial Services. H. Rept. 115-416.
 - 2017-11-21 — Reported by the Committee on Financial Services. H. Rept. 115-416.
+- 2017-11-29 — Rules Committee Resolution H. Res. 635 Reported to House. Rule provides for consideration of H.R. 4182 and H.R. 1699. Resolution provides for consideration of H.R. 4182 under a structured rule, with one hour of general debate, and one motion to recommit with or without instructions. Resolution also provides for consideration of H.R. 1699 under a closed rule, with one hour of general debate, and one motion to recommit with or without instructions.
+- 2017-11-30 — Rule H. Res. 635 passed House.
+- 2017-12-01 — Considered under the provisions of rule H. Res. 635. (consideration: CR H9573-9585)
+- 2017-12-01 — DEBATE - The House proceeded with one hour of debate on H.R. 1699.
+- 2017-12-01 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Waters, Maxine (CA) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to protect consumers from excessive costs and predatory lenders.
+- 2017-12-01 — House amendment offered
+- 2017-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-01 — Ms. Waters, Maxine moved to recommit with instructions to the Committee on Financial Services. (text: CR H9583)
+- 2017-12-01 — On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 227 (Roll no. 650).
+- 2017-12-01 — On passage Passed by recorded vote: 256 - 163 (Roll no. 651). (text: CR H9573)
+- 2017-12-01 — Passed/agreed to in House: On passage Passed by recorded vote: 256 - 163 (Roll no. 651).(text: CR H9573)
+- 2017-12-01 — Rule provides for consideration of H.R. 4182 and H.R. 1699. Resolution provides for consideration of H.R. 4182 under a structured rule, with one hour of general debate, and one motion to recommit with or without instructions. Resolution also provides for consideration of H.R. 1699 under a closed rule, with one hour of general debate, and one motion to recommit with or without instructions.
