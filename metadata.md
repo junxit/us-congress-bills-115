@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1886
@@ -24,3 +24,7 @@ Temporary and Term Appointments Act of 2017
 
 - 2017-09-28 — Introduced in Senate
 - 2017-09-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-189.
+- 2017-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-189.
+- 2017-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
