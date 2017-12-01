@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 4526
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4526
+
+> To amend title 18, United States Code, to provide penalties for certain obstructions of the enforcement of Federal immigration laws.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Lawless Actions of Politicians (SLAP) Act of 2017”.
+
+## § 2. Certain Obstructions of Enforcement of Immigration Laws
+
+- **(a)** *Offense* Chapter 73 of title 18, United States Code, is amended by adding at the end the following;
+  > ## § 1522. Certain obstructions of enforcement of immigration laws
+  >
+  > Whoever, being a State or local official having custody of an individual, knowingly ignores a request from the Federal Government for the custody of that individual, if the requesting authority has designated that individual as a violator of the immigration laws, shall be fined under this title or imprisoned not more than five years, or both
+
+- **(b)** *Clerical Amendment* The table of sections at the beginning of chapter 73 is amended by adding at the end the following:
