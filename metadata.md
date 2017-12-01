@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3017
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3017
@@ -64,3 +64,4 @@ Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017
 - 2017-11-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 409 - 8 (Roll no. 649).(text: CR H9539-9540)
 - 2017-11-30 — The previous question was ordered pursuant to the rule.
 - 2017-11-30 — The rules provides 1 hour of general debate on both bills. For H.R. 3017, the bill is closed to amendments. For H.R. 3905, the rule provides for a specified amendment. The rule also provides for one motion to recommit with or without instructions on each bill.
+- 2017-12-01 — Received in the Senate.
