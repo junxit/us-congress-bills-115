@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3905
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3905
@@ -22,9 +22,10 @@ Minnesota's Economic Rights in the Superior National Forest Act
 - Rep. Lewis, Jason [R-MN-2] (L000587)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Minnesota's Economic Rights in the Superior National Forest Act
 - 2017-11-30 — Passed/agreed to in House: On passage Passed by recorded vote: 216 - 204 (Roll no. 643).
 - 2017-11-30 — Roll call votes on amendments in House
 - 2017-11-30 — UNFINISHED BUSINESS - Pursuant to clause 1(c) of rule 19, the House resumed with further consideration of H.R. 3905. (consideration: CR H9535-9536)
+- 2017-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
