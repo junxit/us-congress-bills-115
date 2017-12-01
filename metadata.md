@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4182
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4182
@@ -22,9 +22,10 @@ EQUALS Act of 2017
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -83,3 +84,4 @@ EQUALS Act of 2017
 - 2017-11-30 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2017-11-30 — The previous question was ordered pursuant to the rule.
 - 2017-11-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2017-12-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
