@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 4519
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4519
+
+> To amend the Securities Exchange Act of 1934 to repeal certain disclosure requirements related to resource extraction, and for other purposes.
+
+## § 1. Repeal of resource extraction disclosure requirements
+
+- **(a)** *In general* Subsection (q) of section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is hereby repealed.
+- **(b)** *Conforming amendments* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—
+  - **(1)** by striking section 1504; and
+  - **(2)** in the table of contents in section 1(b) of such Act, by striking the item relating to section 1504.
