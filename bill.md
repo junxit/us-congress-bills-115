@@ -42,7 +42,38 @@ This Act may be cited as the “Concealed Carry Reciprocity Act of 2017”.
   >     - **(C)** Public land under the jurisdiction of the Bureau of Land Management.
   >     - **(D)** Land administered and managed by the Army Corps of Engineers.
   >     - **(E)** Land administered and managed by the Bureau of Reclamation.
+  >     - **(F)** Land administered and managed by the Forest Service.
 
 - **(b)** *Clerical amendment* The table of sections for such chapter is amended by inserting after the item relating to section 926C the following:
 - **(c)** *Severability* Notwithstanding any other provision of this Act, if any provision of this section, or any amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, this section and amendments made by this section and the application of such provision or amendment to other persons or circumstances shall not be affected thereby.
 - **(d)** *Effective date* The amendments made by this section shall take effect 90 days after the date of the enactment of this Act.
+
+## § 3. Rule of construction
+
+Nothing in this Act prohibits a law enforcement officer with reasonable suspicion of a violation of any law from conducting a brief investigative stop in accordance with the Constitution of the United States.
+
+## § 4. Certain off-duty law enforcement officers and retired law enforcement officers allowed to carry a concealed firearm, and discharge a firearm, in a school zone
+
+Section 922(q) of title 18, United States Code, is amended—
+
+- **(1)** in paragraph (2)(B)—
+  - **(A)** by striking “or” at the end of clause (vi); and
+  - **(B)** by redesignating clause (vii) as clause (ix) and inserting after clause (vi) the following:
+    > - **(vii)** by an off-duty law enforcement officer who is a qualified law enforcement officer (as defined in section 926B) and is authorized under such section to carry a concealed firearm, if the firearm is concealed;
+    > - **(viii)** by a qualified retired law enforcement officer (as defined in section 926C) who is authorized under such section to carry a concealed firearm, if the firearm is concealed; or
+
+- **(2)** in paragraph (3)(B)—
+  - **(A)** by striking “or” at the end of clause (iii);
+  - **(B)** by striking the period at the end of clause (iv) and inserting a semicolon; and
+  - **(C)** by adding at the end the following:
+    > - **(v)** by an off-duty law enforcement officer who is a qualified law enforcement officer (as defined in section 926B) and is authorized under such section to carry a concealed firearm; or
+    > - **(vi)** by a qualified retired law enforcement officer (as defined in section 926C) who is authorized under such section to carry a concealed firearm.
+
+## § 5. Interstate carrying of firearms by Federal judges
+
+- **(a)** *In general* Chapter 44 of title 18, United States Code, as amended by section 2(a) of this Act, is amended by inserting after section 926D the following:
+  > ## § 926E. Interstate carrying of firearms by Federal judges
+  >
+  > Notwithstanding any provision of the law of any State or political subdivision thereof, a Federal judge may carry a concealed firearm in any State if such judge is not prohibited by Federal law from receiving a firearm.
+
+- **(b)** *Clerical amendment* The table of sections for such chapter, as amended by section 2(b) of this Act, is amended by inserting after the item relating to section 926D the following:
