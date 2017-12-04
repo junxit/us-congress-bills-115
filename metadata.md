@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1699
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1699
@@ -84,9 +84,10 @@ Preserving Access to Manufactured Housing Act of 2017
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -116,3 +117,4 @@ Preserving Access to Manufactured Housing Act of 2017
 - 2017-12-01 — On passage Passed by recorded vote: 256 - 163 (Roll no. 651). (text: CR H9573)
 - 2017-12-01 — Passed/agreed to in House: On passage Passed by recorded vote: 256 - 163 (Roll no. 651).(text: CR H9573)
 - 2017-12-01 — Rule provides for consideration of H.R. 4182 and H.R. 1699. Resolution provides for consideration of H.R. 4182 under a structured rule, with one hour of general debate, and one motion to recommit with or without instructions. Resolution also provides for consideration of H.R. 1699 under a closed rule, with one hour of general debate, and one motion to recommit with or without instructions.
+- 2017-12-04 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
