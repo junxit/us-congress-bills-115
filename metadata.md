@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2396
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2396
@@ -16,9 +16,15 @@ Privacy Notification Technical Clarification Act
 
 - Rep. Trott, David A. [R-MI-11] (T000475)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 
 ## Committees (1)
 
@@ -29,3 +35,10 @@ Privacy Notification Technical Clarification Act
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Referred to the House Committee on Financial Services.
+- 2017-07-12 — Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.
+- 2017-10-11 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Committee Consideration and Mark-up Session Held.
+- 2017-10-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 20.
+- 2017-12-04 — Placed on the Union Calendar, Calendar No. 321.
+- 2017-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-434.
+- 2017-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-434.
