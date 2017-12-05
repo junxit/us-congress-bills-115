@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4477
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 4 executed, 20 stated and not applied.
+27 amendatory instructions. 7 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,15 +42,6 @@ to guess them.
 | Removed | `(18 U.S.C. 922 note)` |
 | Inserted | `(34 U.S.C. 40901(b))` |
 
-### 34 U.S.C. § 40301
-
-> in subsection (e)(1), by striking “2002 through 2007” and inserting “2018 through 2022”.
-
-| | |
-|---|---|
-| Removed | `2002 through 2007` |
-| Inserted | `2018 through 2022` |
-
 ### 34 U.S.C. § 40302
 
 > by striking “as of the date of enactment of this Act” and inserting “, as of the date of enactment of the Fix NICS Act of 2017,”; and
@@ -59,6 +50,42 @@ to guess them.
 |---|---|
 | Removed | `as of the date of enactment of this Act` |
 | Inserted | `, as of the date of enactment of the Fix NICS Act of 2017,` |
+
+### 34 U.S.C. § 10261
+
+> by striking “$33,000,000” and inserting “$31,000,000”;
+
+| | |
+|---|---|
+| Removed | `$33,000,000` |
+| Inserted | `$31,000,000` |
+
+### 34 U.S.C. § 10261
+
+> by striking “1994 and 1995” and inserting “2018 through 2022”; and
+
+| | |
+|---|---|
+| Removed | `1994 and 1995` |
+| Inserted | `2018 through 2022` |
+
+### 34 U.S.C. § 10261
+
+> by striking “$33,000,000” and inserting “$27,000,000”;
+
+| | |
+|---|---|
+| Removed | `$33,000,000` |
+| Inserted | `$27,000,000` |
+
+### 34 U.S.C. § 10261
+
+> by striking “1994 and 1995” and inserting “2018 through 2022”; and
+
+| | |
+|---|---|
+| Removed | `1994 and 1995` |
+| Inserted | `2018 through 2022` |
 
 ## Stated, not applied
 
@@ -74,18 +101,18 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 14601` | insert | by inserting “is in compliance with an implementation plan established under subsection (b) or” before “provides at least 90 percent of the information described in subsection (c)”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 40912` | insert | in subsection (b)(1)(B), by inserting “or has established an implementation plan under section 107” after “the Attorney General”. | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 40913` | insert | in subsection (b)(3), by inserting before the semicolon at the end the following: “, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40913` | strike | by striking “and”; and | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 40913` | insert | by inserting before the period at the end the following: “, and $125,000,000 for each of fiscal years 2018 through 2022”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40913` | replace | by striking paragraph (2) and inserting the following— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40913` | replace | in subsection (e), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40913` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40301` | redesignate | by redesignating subparagraphs (C), (D), and (E) as subparagraphs (D), (E), and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40301` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 922` | insert | by inserting before the semicolon at the end the following: “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measur… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40301` | insert | in subsection (d), by inserting after “unless” the following: “the State has achieved compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007 or”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40301` | insert | in subsection (d), by inserting after “unless” the following: “the State has achieved compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007 or”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40302` | replace | by striking “files,” and inserting the following: “files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records,”; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 40302` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 40302` | strike | by striking “upon establishment of the national system,”; and | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 40302` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 40302` | add-at-end | by adding at the end the following— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40911` | add-at-end | Title I of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40911 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40911` | insert | The table of contents in section 1(b) of the NICS Improvement Amendments Act of 2007 (Public Law 110–180; 121 Stat. 2559) is amended by inserting after the item relating to section 106 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | add-at-end | Title I of the NICS Improvement Amendments Act of 2007 (34 U.S. 40911 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | insert | The table of contents in section 1(b) of the NICS Improvement Amendments Act of 2007 (Public Law 110–180; 121 Stat. 2559) is amended by inserting after the item relating to section 106 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10261` | insert | by inserting “, in addition to any amounts otherwise made available for research, evaluation or statistical purposes in a fiscal year” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10261` | insert | by inserting “, in addition to any amounts otherwise made available for research, evaluation or statistical purposes in a fiscal year” before the period. | the bill quotes the text inserted but describes where it goes |

@@ -28,7 +28,7 @@ Section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) is am
   >     - **(II)** for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
   >     - **(III)** the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor compliance and correct any reporting failures or inaccuracies.
   > - **(G)** *Implementation plan*
-  >   - **(i)** *In general* Not later than 1 year after the date of enactment of this subparagraph, the head of each Federal department or agency, in coordination with the Attorney General, shall establish a plan to ensure maximum coordination and automated reporting or making available of records to the Attorney General as required under subparagraph (C), and the verification of the accuracy of those records, including the pre-validation of those records, where appropriate, during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18, United States Code.
+  >   - **(i)** *In general* Not later than 1 year after the date of enactment of this subparagraph, the head of each Federal department or agency, in coordination with the Attorney General, shall establish a plan to ensure maximum coordination and automated reporting or making available of records to the Attorney General as required under subparagraph (C), and the verification of the accuracy of those records, including the pre-validation of those records, where appropriate, during a 4-year period specified in the plan. The head of each Federal department or agency shall update the plan biennially, to the extent necessary, based on the most recent biennial assessment under subparagraph (K). The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18, United States Code.
   >   - **(ii)** *Benchmark requirements* Each plan established under clause (i) shall include annual benchmarks to enable the Attorney General to assess implementation of the plan, including—
   >     - **(I)** qualitative goals and quantitative measures;
   >     - **(II)** measures to monitor internal compliance, including any reporting failures and inaccuracies;
@@ -47,40 +47,37 @@ Section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) is am
   >   - **(i)** certifies compliance with the record submission requirements under subparagraph (C); or
   >   - **(ii)** achieves substantial compliance with an implementation plan established under subparagraph (G).
   > - **(J)** *Technical assistance* The Attorney General may use funds made available for the national instant criminal background check system established under subsection (b) to provide technical assistance to a Federal department or agency, at the request of the department or agency, in order to help the department or agency comply with the record submission requirements under subparagraph (C).
-  > - **(K)** *Application to Federal courts* For purposes of this paragraph—
+  > - **(K)** *Biennial assessment* Every 2 years, the Attorney General shall assess the extent to which the actions taken under the Fix NICS Act of 2017 have resulted in improvements in the system established under this section.
+  > - **(L)** *Application to Federal courts* For purposes of this paragraph—
   >   - **(i)** the terms department or agency of the United States and Federal department or agency include a Federal court; and
   >   - **(ii)** the Director of the Administrative Office of the United States Courts shall perform, for a Federal court, the functions assigned to the head of a department or agency.
 
 - **(2)** in subsection (g), by adding at the end the following: “For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.”.
 
-## § 3. Reauthorization of NICS Act Record Improvement Program
+## § 3. NICS Act Record Improvement Program
 
-- **(a)** *Requirements To obtain waiver* Section 102 of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40912) is amended—
+- **(a)** *Requirements to obtain waiver* Section 102 of the NICS Improvement Amendments Act of 2007(34 U.S.C. 40912) is amended—
   - **(1)** in subsection (a), in the first sentence—
     - **(A)** by striking “the Crime Identification Technology Act of 1988 (42 U.S.C. 14601)” and inserting “section 102 of the Crime Identification Technology Act of 1998 (34 U.S.C. 40301)”; and
     - **(B)** by inserting “is in compliance with an implementation plan established under subsection (b) or” before “provides at least 90 percent of the information described in subsection (c)”; and
   - **(2)** in subsection (b)(1)(B), by inserting “or has established an implementation plan under section 107” after “the Attorney General”.
 - **(b)** *Implementation assistance to States* Section 103 of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40913) is amended—
   - **(1)** in subsection (b)(3), by inserting before the semicolon at the end the following: “, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations”;
-  - **(2)** in subsection (e)—
-    - **(A)** in paragraph (1)—
-      - **(i)** by striking “and”; and
-      - **(ii)** by inserting before the period at the end the following: “, and $125,000,000 for each of fiscal years 2018 through 2022”; and
-    - **(B)** by striking paragraph (2) and inserting the following—
-      > - **(2)** *Domestic Abuse and Violence Prevention Initiative*
-      >   - **(A)** *Establishment* For each of fiscal years 2018 through 2022, the Attorney General shall create a priority area under the NICS Act Record Improvement Program (commonly known as “NARIP”) for a Domestic Abuse and Violence Prevention Initiative that emphasizes the need for grantees to identify and upload all felony conviction records and domestic violence records.
-      >   - **(B)** *Funding* The Attorney General—
-      >     - **(i)** may use not more than 50 percent of the amounts made available under this subsection for each of fiscal years 2018 through 2022 to carry out the initiative described in subparagraph (A); and
-      >     - **(ii)** shall give a funding preference under NARIP to States that—
-      >       - **(I)** have established an implementation plan under section 107; and
-      >       - **(II)** will use amounts made available under this subparagraph to improve efforts to identify and upload all felony conviction records and domestic violence records described in clauses (i), (v), and (vi) of section 102(b)(1)(C) by not later than September 30, 2022.
+  - **(2)** in subsection (e), by striking paragraph (2) and inserting the following:
+    > - **(2)** *Domestic Abuse and Violence Prevention Initiative*
+    >   - **(A)** *Establishment* For each of fiscal years 2018 through 2022, the Attorney General shall create a priority area under the NICS Act Record Improvement Program (commonly known as “NARIP”) for a Domestic Abuse and Violence Prevention Initiative that emphasizes the need for grantees to identify and upload all felony conviction records and domestic violence records.
+    >   - **(B)** *Funding* The Attorney General—
+    >     - **(i)** may use not more than 50 percent of the amounts made available under section 7 of the Fix NICS Act for each of fiscal years 2018 through 2022 to carry out the initiative described in subparagraph (A); and
+    >     - **(ii)** shall give a funding preference under NARIP to States that—
+    >       - **(I)** have established an implementation plan under section 107; and
+    >       - **(II)** will use amounts made available under this subparagraph to improve efforts to identify and upload all felony conviction records and domestic violence records described in clauses (i), (v), and (vi) of section 102(b)(1)(C) by not later than September 30, 2022.
 
   - **(3)** by adding at the end the following:
     > - **(g)** *Technical assistance* The Attorney General shall direct the Office of Justice Programs, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Federal Bureau of Investigation to—
     >   - **(1)** assist States that are not currently eligible for grants under this section to achieve compliance with all eligibility requirements; and
     >   - **(2)** provide technical assistance and training services to grantees under this section.
 
-## § 4. Reauthorization of the National Criminal History Improvement Program
+## § 4. National Criminal History Improvement Program
 
 - **(a)** *State grant program for criminal justice identification, information, and communication* Section 102 of the Crime Identification Technology Act of 1998 (34 U.S.C. 40301) is amended—
   - **(1)** in subsection (a)(3)—
@@ -90,9 +87,8 @@ Section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) is am
 
   - **(2)** in subsection (b)(6)—
     - **(A)** by striking “(18 U.S.C. 922 note)” and inserting “(34 U.S.C. 40901(b))”; and
-    - **(B)** by inserting before the semicolon at the end the following: “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007”;
-  - **(3)** in subsection (d), by inserting after “unless” the following: “the State has achieved compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007 or”; and
-  - **(4)** in subsection (e)(1), by striking “2002 through 2007” and inserting “2018 through 2022”.
+    - **(B)** by inserting before the semicolon at the end the following: “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007”; and
+  - **(3)** in subsection (d), by inserting after “unless” the following: “the State has achieved compliance with an implementation plan under section 107 of the NICS Improvement Amendments Act of 2007 or”.
 - **(b)** *Grants for the improvement of criminal records* Section 106(b)(1) of the Brady Handgun Violence Prevention Act (34 U.S.C. 40302(1)) is amended—
   - **(1)** in the matter preceding subparagraph (A)—
     - **(A)** by striking “as of the date of enactment of this Act” and inserting “, as of the date of enactment of the Fix NICS Act of 2017,”; and
@@ -106,10 +102,10 @@ Section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) is am
 
 ## § 5. Improving information sharing with the States
 
-- **(a)** *In general* Title I of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40911 et seq.) is amended by adding at the end the following:
+- **(a)** *In general* Title I of the NICS Improvement Amendments Act of 2007 (34 U.S. 40911 et seq.) is amended by adding at the end the following:
   > ## § 107. Implementation plan
   >
-  > - **(a)** *In general* Not later than 1 year after the date of enactment of the Fix NICS Act of 2017, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) and the verification of the accuracy of those records during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18, United States Code.
+  > - **(a)** *In general* Not later than 1 year after the date of enactment of the Fix NICS Act of 2017, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) and the verification of the accuracy of those records during a 4-year period specified in the plan, and shall update the plan biennially, to the extent necessary, based on the most recent biennial assessment under subsection (f). The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18, United States Code
   > - **(b)** *Benchmark requirements* Each plan established under this section shall include annual benchmarks to enable the Attorney General to assess the implementation of the plan, including—
   >   - **(1)** qualitative goals and quantitative measures; and
   >   - **(2)** a needs assessment, including estimated compliance costs.
@@ -122,13 +118,42 @@ Section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) is am
   >     - **(A)** immediately correct the applicable record; and
   >     - **(B)** not later than 3 days after the determination, remove the record from the website of the Department of Justice and any other location where the record was published.
   > - **(e)** *Incentives* For each of fiscal years 2018 through 2022, the Attorney General shall give affirmative preference to all Bureau of Justice Assistance discretionary grant applications of a State or Indian tribal government that received a determination of substantial compliance under subsection (c) for the fiscal year in which the grant was solicited.
+  > - **(f)** *Biennial assessment* Every 2 years, the Attorney General shall assess the extent to which the actions taken under the Fix NICS Act of 2017 have resulted in improvements in the National Instant Criminal Background Check System established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40903).
+  >
+  > ## § 108. Notification to law enforcement agencies of prohibited purchase of a firearm
+  >
+  > - **(a)** *In general* In the case of a background check conducted by the National Instant Criminal Background Check System pursuant to the request of a licensed importer, licensed manufacturer, or licensed dealer of firearms (as such terms are defined in section 921 of title 18, United States Code), which background check determines that the receipt of a firearm by a person would violate subsection (g) or (n) of section 922 of title 18, United States Code, and such determination is made after 3 business days have elapsed since the licensee contacted the System and a firearm has been transferred to that person, the System shall notify the law enforcement agencies described in subsection (b).
+  > - **(b)** *Law enforcement agencies described* The law enforcement agencies described in this subsection are the law enforcement agencies that have jurisdiction over the location from which the licensee contacted the system and the law enforcement agencies that have jurisdiction over the location of the residence of the person for which the background check was conducted, as follows:
+  >   - **(1)** The field office of the Federal Bureau of Investigation.
+  >   - **(2)** The local law enforcement agency.
+  >   - **(3)** The State law enforcement agency.
 
 - **(b)** *Table of contents* The table of contents in section 1(b) of the NICS Improvement Amendments Act of 2007 (Public Law 110–180; 121 Stat. 2559) is amended by inserting after the item relating to section 106 the following:
 
-## § 6. BJS report on use of bump stocks in crime
+## § 6. Attorney General report on use of bump stocks in crime
 
-- **(a)** *In general* Within 180 days after the date of the enactment of this Act, the Bureau of Justice Statistics shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a written report that specifies the number of times that a bump stock has been used in the commission of a crime in the United States.
+- **(a)** *In general* Using amounts made available for research, evaluation, or statistical purposes, within 180 days after the date of the enactment of this Act, the Attorney General shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a written report that—
+  - **(1)** specifies the number of instances in which a bump stock has been used in the commission of a crime in the United States;
+  - **(2)** specifies the types of firearms with which a bump stock has been so used; and
+  - **(3)** contains the opinion of the Attorney General as to whether subparagraphs (B)(i) and (C)(i) of section 924(c)(1) of title 18, United States Code, apply to all instances in which a bump stock has been used in the commission of a crime of violence in the United States.
 - **(b)** *Definition of bump stock* In this section, the term bump stock means a device that—
   - **(1)** attaches to a semiautomatic rifle (as defined in section 921(a)(28) of title 18, United States Code);
   - **(2)** is designed and intended to repeatedly activate the trigger without the deliberate and volitional act of the user pulling the trigger each time the firearm is fired; and
   - **(3)** functions by continuous forward pressure applied to the rifle’s fore end in conjunction with a linear forward and backward sliding motion of the mechanism utilizing the recoil energy when the rifle is discharged.
+
+## § 7. Authorizations of appropriations
+
+- **(a)** *In general* There is authorized to be appropriated $100,000,000 for each of fiscal years 2018 through 2022 to carry out, in accordance with the NICS Act Record Improvement Program and the National Criminal History Improvement Program, the activities under—
+  - **(1)** section 102 of the NICS Improvement Amendments Act of 2007;
+  - **(2)** section 103 of the NICS Improvement Amendments Act of 2007;
+  - **(3)** section 102 of the Crime Identification Technology Act of 1998; and
+  - **(4)** section 106(b) of the Brady Handgun Violence Prevention Act.
+- **(b)** *Additional authorizations* Section 1001(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “$33,000,000” and inserting “$31,000,000”;
+    - **(B)** by striking “1994 and 1995” and inserting “2018 through 2022”; and
+    - **(C)** by inserting “, in addition to any amounts otherwise made available for research, evaluation or statistical purposes in a fiscal year” before the period; and
+  - **(2)** in paragraph (2)—
+    - **(A)** by striking “$33,000,000” and inserting “$27,000,000”;
+    - **(B)** by striking “1994 and 1995” and inserting “2018 through 2022”; and
+    - **(C)** by inserting “, in addition to any amounts otherwise made available for research, evaluation or statistical purposes in a fiscal year” before the period.
