@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4477
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4477
@@ -39,3 +39,6 @@ Fix NICS Act of 2017
 - 2017-11-29 — Introduced in House
 - 2017-11-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 6.
 - 2017-11-29 — Referred to the House Committee on the Judiciary.
+- 2017-12-05 — Placed on the Union Calendar, Calendar No. 322.
+- 2017-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-437.
+- 2017-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-437.
