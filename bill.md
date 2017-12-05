@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stopping Abusive Female Exploitation Act” or the “SAFE Act”.
+This Act may be cited as the “Stopping Abusive Female Exploitation Act of 2017” or the “SAFE Act of 2017”.
 
 ## § 2. Increased penalty for female genital mutilation
 
