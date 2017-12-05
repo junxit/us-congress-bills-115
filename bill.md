@@ -28,20 +28,11 @@ This Act may be cited as the “Secret Service Recruitment and Retention Act of 
   - **(6)** the total amount of premium pay United States Secret Service personnel would have been paid but for the premium pay earnings limitation in such section; and
   - **(7)** a list of United States Secret Service personnel who, within the calendar year, received premium pay above the premium pay limitation in subsection (a) of section 5547 of title 5, United States Code, and separated from the agency, including the type of separation in each case.
 
-## § 3. Recruitment and retention efforts
+## § 3. Report of the Comptroller General of the United States
 
-- **(a)** *Threat assessments*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Secret Service shall conduct updated threat assessments on all individuals protected by the United States Secret Service and provide such assessments to the appropriate congressional committees. Such threat assessments shall not be conducted for—
-    - **(A)** the President, the Vice President, or any spouses or children of the President or Vice President; or
-    - **(B)** former Presidents or Vice Presidents.
-  - **(2)** *Requirement of threat assessments* The threat assessments required under paragraph (1) shall include a description of the costs, including total annual costs, of the protection of each individual.
-- **(b)** *Recruitment and retention* Not later than 180 days after the date of the enactment of this Act, the Director of the Secret Service shall submit to the appropriate congressional committees a report on the recruitment and retention efforts of the Secret Service. Such report shall include—
-  - **(1)** data on the overall attrition rate for agency personnel;
-  - **(2)** information on the causes of employee attrition and issues of low morale;
-  - **(3)** a strategy for overhauling the agency’s recruitment and hiring process; and
-  - **(4)** a strategy for improving retention of agency personnel.
-- **(c)** *Extension of protection* Not later than 30 days after the Department of Homeland Security or the United States Secret Service is directed by the President or the Secretary of Homeland Security to extend the protection of an individual beyond the length of time that would otherwise be provided to such individual, and such protection is provided by the United States Secret Service, the Secretary of Homeland Security, acting through the Director of the Secret Service, shall submit to the appropriate congressional committees a notice of such extension, including an updated threat assessment on such individual.
-- **(d)** *Polygraph test questions* Not later than 10 days after the date of enactment of this Act, the Director of the Secret Service shall submit to the appropriate congressional committees a list of all questions asked in calendar year 2016 on any polygraph exam the United States Secret Service issued to an applicant for employment in the United States Secret Service.
-- **(e)** *Definitions* In this section, the term “appropriate congressional committees” means—
-  - **(1)** the Committee on Homeland Security and the Committee on Oversight and Government Reform of the House of Representatives; and
-  - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate.
+Not later than 1 year after the effective date of this section, the Comptroller General of the United States shall complete a study and submit to the Committee on the Judiciary of the House of Representatives, the Committee on the Judiciary of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the extent of the progress made by the United States Secret Service in implementing the recommendations of the United States Secret Service Protective Mission Panel, including in particular those items pertaining to training and personnel enumerated in the Executive Summary to Report from the United States Secret Service Protective Mission Panel to the Secretary of Homeland Security dated December 15, 2014.
+
+## § 4. Rescissions
+
+- **(a)** *Rescission of unobligated balances in the Department of Justice Assets Forfeiture Fund* Of the unobligated balances available under the Department of Justice Assets Forfeiture Fund, $10,000,000 is hereby permanently rescinded.
+- **(b)** *Authorization To rescind future unobligated balances in the Department of Justice Assets Forfeiture Fund* There is authorized to be rescinded from the unobligated balances available under the Department of Justice Assets Forfeiture Fund $7,000,000 in fiscal year 2018 and $3,000,000 in fiscal year 2019.
