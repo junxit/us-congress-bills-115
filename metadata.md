@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3979
@@ -16,7 +16,7 @@ Keep America's Refuges Operational Act
 
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Cosponsors (6)
+## Cosponsors (17)
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
@@ -24,6 +24,17 @@ Keep America's Refuges Operational Act
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Collins, Doug [R-GA-9] (C001093)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
 ## Committees (1)
 
@@ -34,3 +45,13 @@ Keep America's Refuges Operational Act
 - 2017-10-05 — Introduced in House
 - 2017-10-05 — Introduced in House
 - 2017-10-05 — Referred to the House Committee on Natural Resources.
+- 2017-10-11 — Sponsor introductory remarks on measure. (CR H7959)
+- 2017-10-12 — Referred to the Subcommittee on Federal Lands.
+- 2017-11-15 — Subcommittee Hearings Held.
+- 2017-11-29 — Committee Consideration and Mark-up Session Held.
+- 2017-11-29 — Subcommittee on Federal Lands Discharged.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2017-12-05 — Placed on the Union Calendar, Calendar No. 324.
+- 2017-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-438.
+- 2017-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-438.
