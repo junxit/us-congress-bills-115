@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 115
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
