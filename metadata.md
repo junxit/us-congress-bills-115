@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3731
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3731
@@ -34,10 +34,11 @@ Secret Service Recruitment and Retention Act of 2018
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Secret Service Recruitment and Retention Act of 2018
 - 2017-12-05 — Mr. Rutherford moved to suspend the rules and pass the bill, as amended.
 - 2017-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 655). (text: CR H9633)
 - 2017-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 655).(text: CR H9633)
+- 2017-12-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
