@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4566
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4566
+
+> To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to provide relief to nonbanks from certain stress test requirements under such Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Alleviating Stress Test Burdens to Help Investors Act”.
+
+## § 2. Stress test relief for nonbanks
+
+Section 165(i) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365(i)) is amended—
+
+- **(1)** in paragraph (1)(B)(ii), by striking “and nonbank financial companies”;
+- **(2)** in paragraph (2)—
+  - **(A)** in subparagraph (A)—
+    - **(i)** by striking “other financial companies” and inserting “other bank holding companies”; and
+    - **(ii)** by striking “and are regulated by a primary Federal financial regulatory agency”; and
+  - **(B)** in subparagraph (C), by striking “Each Federal primary financial regulatory agency, in coordination with the Board of Governors and the Federal Insurance Office, shall issue consistent and comparable” and inserting “The Board of Governors, in coordination with the Federal primary financial regulatory agencies and the Federal Insurance Office shall issue”; and
+- **(3)** by adding at the end the following:
+  > - **(3)** *Limitation* The Board of Governors may limit the requirements of this subsection with respect to a nonbank financial company supervised by the Board of Governors, if the Board of Governors determines such limitation is appropriate.
