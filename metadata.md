@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 140
@@ -38,3 +38,12 @@ Frank LoBiondo Coast Guard Authorization Act of 2018
 - 2017-05-09 — Message on Senate action sent to the House.
 - 2017-05-11 — Received in the House.
 - 2017-05-11 — Referred to the House Committee on Natural Resources.
+- 2017-05-16 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-11-02 — Subcommittee Hearings Held.
+- 2017-11-07 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-08 — Subcommittee on Water, Power and Oceans Discharged.
+- 2017-12-06 — Placed on the Union Calendar, Calendar No. 326.
+- 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-441.
+- 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-441.
