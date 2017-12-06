@@ -19,18 +19,17 @@ This Act may be cited as the “Prostate Cancer Misdiagnosis Elimination Act of 
   - **(1)** in subparagraph (O), by striking “and” at the end;
   - **(2)** in subparagraph (P), by striking the semicolon at the end and inserting “, and”; and
   - **(3)** by adding at the end the following new subparagraph:
-    > - **(Q)** in the case of a DNA Specimen Provenance Assay clinical diagnostic laboratory test (DSPA test), unless the DSPA test is furnished to an individual enrolled under part B who has had a prostate cancer biopsy the results of which are positive, the DSPA test is furnished with respect to such biopsy, and the DSPA test is ordered by the physician who furnished the prostate cancer biopsy that obtained the specimen tested;
+    > - **(Q)** in the case of a DNA Specimen Provenance Assay clinical diagnostic laboratory test (DSPA test) furnished on or after the date specified in section 1834A(j)(4), unless the DSPA test is furnished to an individual enrolled under part B who has had a prostate cancer biopsy the results of which are positive, the DSPA test is furnished with respect to such biopsy, and the DSPA test is ordered by the physician who furnished the prostate cancer biopsy that obtained the specimen tested;
 
-- **(b)** *Temporary payment amount for tests furnished during 2018 through 2020 and related requirements* Section 1834A of the Social Security Act (42 U.S.C. 1395m–1) is amended—
+- **(b)** *Temporary payment amount for certain tests furnished before 2028 and related requirements* Section 1834A of the Social Security Act (42 U.S.C. 1395m–1) is amended—
   - **(1)** in subsection (b)(1)(A), by striking “and (d)” and inserting “, (d), and (j)”; and
   - **(2)** by adding at the end the following new subsection:
     > - **(j)** *DNA Specimen Provenance Assay clinical diagnostic laboratory tests*
-    >   - **(1)** *Temporary payment amount for tests furnished during 2018 through 2020* Notwithstanding the payment amount that would otherwise apply under this section, with respect to a DNA Specimen Provenance Assay clinical diagnostic laboratory test furnished on or after January 1, 2018, and before January 1, 2021, the payment amount under this section shall be equal to 85 percent of the amount determined under the fee schedule under section 1833(h)(1) for 2016 for HCPCS code 81265.
-    >   - **(2)** *HCPCS code assignment* The Secretary shall assign an HCPCS code to the DNA Specimen Provenance Assay clinical diagnostic laboratory test.
-    >   - **(3)** *Ensuring proper billing and payment*
-    >     - **(A)** *Use of modifier to ensure proper payment* The Secretary may use a modifier to facilitate making payment under this section with respect to a DNA Specimen Provenance Assay clinical diagnostic laboratory test.
-    >     - **(B)** *Paid claims sample error rate*
-    >       - **(i)** *In general* The Secretary shall conduct a post-payment review of a sample of not less than 50 claims for DNA Specimen Provenance Assay clinical diagnostic laboratory tests for which payment is made under this part. The sample reviewed under the preceding sentence may be taken from claims paid to more than one supplier.
-    >       - **(ii)** *Posting on Internet website* Not later than July 1, 2019, the Secretary shall post on the Internet website of the Centers for Medicare & Medicaid Services the number of claims with errors identified based on the reviews conducted under clause (i).
-
-- **(c)** *Effective date* The amendments made by this section shall apply to DNA Specimen Provenance Assay clinical diagnostic laboratory tests furnished on or after January 1, 2018.
+    >   - **(1)** *Temporary payment amount for certain tests furnished before 2028* With respect to a DNA Specimen Provenance Assay clinical diagnostic laboratory test furnished on or after the date specified in paragraph (4) and before January 1, 2028, the payment amount under this section for such test shall be equal to $200.
+    >   - **(2)** *HCPCS code and modifier assignment*
+    >     - **(A)** *In general* The Secretary shall assign one or more HCPCS codes to the DNA Specimen Provenance Assay clinical diagnostic laboratory test and may use a modifier to facilitate making payment under this section with respect to such test.
+    >     - **(B)** *Identification of DNA match on claim* The Secretary shall require an indication on a claim for a DNA Specimen Provenance Assay clinical diagnostic laboratory test of whether the DNA of the prostate biopsy specimen for such test matches the DNA of the individual with respect to whom the test was ordered. Such indication may be made through use of a HCPCS code, a modifier, or other means, as determined appropriate by the Secretary.
+    >   - **(3)** *DNA match review*
+    >     - **(A)** *In general* The Secretary shall review at least three years of claims under part B for DNA Specimen Provenance Assay clinical diagnostic laboratory tests to identify whether the DNA of the prostate biopsy specimens for such tests matched the DNA of the individuals with respect to whom such tests were ordered.
+    >     - **(B)** *Posting on Internet website* Not later than July 1, 2024, the Secretary shall post on the Internet website of the Centers for Medicare & Medicaid Services the findings of the review conducted under subparagraph (A).
+    >   - **(4)** *Date specified* For purposes of paragraph (1) and section 1862(a)(1)(Q), the date specified in this paragraph is the first day of the second calendar quarter that begins at least 180 days after the date of the enactment of this subsection.
