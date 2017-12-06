@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3317
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3317
@@ -24,9 +24,10 @@ SAFE Act of 2017
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ SAFE Act of 2017
 - 2017-12-05 — Mr. Rutherford moved to suspend the rules and pass the bill, as amended.
 - 2017-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 656). (text: CR H9637)
 - 2017-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 656).(text: CR H9637)
+- 2017-12-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
