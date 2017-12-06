@@ -1,7 +1,7 @@
 ---
 measure: H.R. 38
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 38
@@ -247,3 +247,17 @@ Concealed Carry Reciprocity Act of 2017
 - 2017-12-04 — Placed on the Union Calendar, Calendar No. 320.
 - 2017-12-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-433.
 - 2017-12-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-433.
+- 2017-12-05 — Rules Committee Resolution H. Res. 645 Reported to House. Rule provides for consideration of H.R. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-12-06 — Considered under the provisions of rule H. Res. 645. (consideration: CR H9685-9703)
+- 2017-12-06 — DEBATE - The House proceeded with 10 minutes of debate on the Thompson (CA) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to prohibit an individual who has been convicted of a violent crime within the preceding three years from possessing or carrying a concealed handgun in a State that by law prohibits a person from doing so on the basis of a conviction for such offense. The amendment also outlines what is considered a violent crime, and a conviction.
+- 2017-12-06 — DEBATE - The House proceeded with one hour of debate on H.R. 38.
+- 2017-12-06 — House amendment offered
+- 2017-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-06 — Mr. Thompson (CA) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H9701)
+- 2017-12-06 — On motion to recommit with instructions Failed by the Yeas and Nays: 190 - 236 (Roll no. 662).
+- 2017-12-06 — On passage Passed by recorded vote: 231 - 198 (Roll no. 663). (text: CR H9685-9688)
+- 2017-12-06 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 198 (Roll no. 663).(text: CR H9685-9688)
+- 2017-12-06 — Rule H. Res. 645 passed House.
+- 2017-12-06 — Rule provides for consideration of H.R. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2017-12-06 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-12-06 — The previous question was ordered pursuant to the rule.
