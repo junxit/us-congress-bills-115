@@ -17,15 +17,25 @@ This Act may be cited as the “Furthering Access to Stroke Telemedicine Act of 
 
 - **(a)** *In general* Section 1834(m)(4) of the Social Security Act (42 U.S.C. 1395m(m)(4)) is amended—
   - **(1)** in subparagraph (C)—
-    - **(A)** in clause (i), by striking “The term” and inserting “Subject to clause (iii), the term”; and
+    - **(A)** in clause (i), in the matter preceding subclause (I), by striking “The term” and inserting “Except as provided in clause (iii), the term”; and
     - **(B)** by adding at the end the following new clause:
-      > - **(iii)** *Telehealth-eligible stroke services* With respect to telehealth-eligible stroke services, the term originating site means any hospital, or any mobile unit equipped with the ability to evaluate possible stroke patients while being transported to a hospital, at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, regardless of where the hospital or mobile unit is located.
+      > - **(iii)** *Telehealth-eligible stroke services* With respect to telehealth-eligible stroke services, the term originating site means any hospital (as defined in section 1861(e)) or critical access hospital (as defined in section 1861(mm)(1)), or any mobile stroke unit, at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, regardless of where the hospital, critical access hospital, or mobile stroke unit is located.
 
   - **(2)** in subparagraph (F)(i) by inserting “telehealth-eligible stroke services,” after “Secretary)),”; and
   - **(3)** by adding at the end the following new subparagraph:
     > - **(G)** *Telehealth-eligible stroke services* The term “telehealth-eligible stroke services” means services that are—
-    >   - **(i)** related to the diagnosis, evaluation, or treatment of symptoms in an individual of an acute stroke; and
-    >   - **(ii)** provided to such individual not later than four and a half hours (or such other clinically appropriate amount of time as is determined by the Secretary) after the onset of such symptoms with respect to such individual.
+    >   - **(i)** related to the diagnosis, evaluation, or treatment of symptoms of an acute stroke in an individual; and
+    >   - **(ii)** furnished to such individual not later than four and a half hours (or such other clinically appropriate amount of time as is determined by the Secretary) after the onset of such symptoms with respect to such individual.
 
-- **(b)** *No originating site facility fee for new sites* Section 1834(m)(2)(B) of the Social Security Act (42 U.S.C. 1395m(m)(2)(B)) is amended, in the matter preceding clause (i), by inserting “(other than an originating site that is only described in clause (iii) of paragraph (4)(C), and does not meet the requirement for an originating site under clause (i) of such paragraph)” after “the originating site”.
-- **(c)** *Effective date* The amendments made by this section shall apply to services furnished on or after the date that is 18 months after the date of the enactment of this Act.
+- **(b)** *No originating site facility fee for new sites* Section 1834(m)(2)(B) of the Social Security Act (42 U.S.C. 1395m(m)(2)(B)) is amended—
+  - **(1)** by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively (and adjusting the margins accordingly);
+  - **(2)** in subclause (II), as redesignated by paragraph (1), by striking “clause (i) or this clause” and inserting “subclause (I) or this subclause”;
+  - **(3)** by striking “Site.—With respect to” and inserting
+    > Site.—
+    > - **(i)** *In general* With respect to
+
+  - **(4)** by striking “subject to section 1833(a)(1)(U)” and inserting “subject to clause (ii) and section 1833(a)(1)(U)”; and
+  - **(5)** by adding at the end the following new clause:
+    > - **(ii)** *No originating site facility fee for certain telestroke services* No facility fee shall be paid under this subparagraph to an originating site that is described in clause (iii) of paragraph (4)(C) and that would not otherwise meet the requirements for an originating site under paragraph (4)(C) without application of the amendments made by the FAST Act of 2017.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to services furnished on or after January 1, 2021.
