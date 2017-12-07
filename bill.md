@@ -24,9 +24,9 @@ The Congress finds the following:
 - **(5)** Iran continues to be listed by the Financial Action Task Force (FATF) among the “Non-Cooperative Countries or Territories”—countries which it perceived to be non-cooperative in the global fight against terror finance and money laundering.
 - **(6)** Iran and North Korea are the only countries listed by the FATF as “Non-Cooperative Countries or Territories” against which FATF countries should take measures.
 - **(7)** The Transparency International index of perceived public corruption ranks Iran 130th out of 168 countries surveyed.
-- **(8)** The State Department identified Iran as a country/jurisdiction of “primary concern” for money laundering in its 2014 International Narcotics Control Strategy Report (INCSR).
+- **(8)** The State Department identified Iran as a “major money-laundering country” in its International Narcotics Control Strategy Report (INCSR) for 2016.
 - **(9)** The State Department currently identifies Iran, along with Sudan and Syria, as a state sponsor of terrorism, “having repeatedly provided support for acts of international terrorism”.
-- **(10)** The State Department’s “Country Reports on Terrorism”, published last in June 2015 noted that “Iran continued to sponsor terrorist groups around the world, principally through its Islamic Revolutionary Guard Corps–Qods Force (IRGC–QF). These groups included Lebanese Hizballah, several Iraqi Shia militant groups, Hamas, and Palestine Islamic Jihad. Iran, Hizballah, and other Shia militia continued to provide support to the Asad regime, dramatically bolstering its capabilities, prolonging the civil war in Syria, and worsening the human rights and refugee crisis there.”.
+- **(10)** The State Department’s “Country Reports on Terrorism”, published last in July 2017, noted that “Iran continued to sponsor terrorist groups around the world, principally through its Islamic Revolutionary Guard Corps–Qods Force (IRGC–QF). These groups included Lebanese Hizballah, several Iraqi Shia militant groups, Hamas, and Palestine Islamic Jihad. Iran, Hizballah, and other Shia militia continued to provide support to the Asad regime, dramatically bolstering its capabilities, prolonging the civil war in Syria, and worsening the human rights and refugee crisis there.”.
 - **(11)** The Iranian Government’s tolerance of corruption and nepotism in business limits opportunities for foreign and domestic investment, particularly given the significant involvement of the IRGC in many sectors of Iran’s economy.
 - **(12)** The IRGC and the leadership-controlled bonyads (foundations) control an estimated one-third of Iran’s total economy, including large portions of Iran’s telecommunications, construction, and airport and port operations. These operations give the IRGC and bonyads vast funds to support terrorist organizations such as Hezbollah and Hamas.
 - **(13)** By gaining control of major economic sectors, the IRGC and bonyads have also served to further disadvantage the average Iranian.
@@ -68,7 +68,7 @@ The Congress finds the following:
   - **(2)** *Public availability* The unclassified portion of such report shall be made available to the public and posted on the website of the Department of the Treasury—
     - **(A)** in English, Farsi, Arabic, and Azeri; and
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
-- **(d)** *Sources of information* In preparing a report described under subsection (a), the Secretary of the Treasury may utilize any credible publication, database, web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity provided to or made available to the Secretary.
+- **(d)** *Sources of information* In preparing a report described under subsection (a), the Secretary of the Treasury may use any credible publication, database, web-based resource, public information compiled by any government agency, and any information collected or compiled by a nongovernmental organization or other entity provided to or made available to the Secretary, that the Secretary finds credible.
 - **(e)** *Definitions* For purposes of this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate.
   - **(2)** *Funds* The term “funds” means—
@@ -76,3 +76,10 @@ The Congress finds the following:
     - **(B)** equity;
     - **(C)** any other intangible asset whose value is derived from a contractual claim, including bank deposits, bonds, stocks, a security as defined in section 2(a) of the Securities Act of 1933 (15 U.S.C. 77b(a)), or a security or an equity security as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)); and
     - **(D)** anything else that the Secretary determines appropriate.
+
+## § 4. Sense of Congress
+
+It is the sense of Congress that in preparing the reports required under section 3, the Secretary of the Treasury should consider acquiring information from sources that—
+
+- **(1)** collect and, if necessary, translate high-veracity, official records; or
+- **(2)** provide search and analysis tools that enable law enforcement to have new insights into commercial and financial relationships.
