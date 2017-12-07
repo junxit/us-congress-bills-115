@@ -1,7 +1,7 @@
 ---
 measure: S. 1901
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1901
@@ -16,9 +16,13 @@ LEED Act
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Young, Todd [R-IN] (Y000064)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ LEED Act
 
 - 2017-10-02 — Introduced in Senate
 - 2017-10-02 — Read twice and referred to the Committee on Foreign Relations.
+- 2017-12-05 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2017-12-07 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2017-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.
