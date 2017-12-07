@@ -1,0 +1,38 @@
+---
+legis-num: S. RES. 353
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 353
+
+> Designating December 16, 2017, as “Wreaths Across America Day”.
+
+## Preamble
+
+- Whereas, 26 years before the date of adoption of this resolution, the Wreaths Across America project began with an annual tradition, which occurs in December, of donating, transporting, and placing 5,000 Maine balsam fir remembrance wreaths on the graves of the fallen heroes buried at Arlington National Cemetery;
+- Whereas, during the 26 years preceding the date of adoption of this resolution, more than 4,517,000 wreaths have been sent to locations, including national cemeteries and veterans memorials, in every State and overseas;
+- Whereas the mission of the Wreaths Across America project, to “Remember, Honor, Teach”, is carried out in part by coordinating wreath-laying ceremonies in all 50 States and overseas, including at— (1)Arlington National Cemetery; (2)veterans cemeteries; and (3)other locations;
+- Whereas the Wreaths Across America project carries out a week-long veterans parade from Maine to Virginia, stopping along the way to spread a message about the importance of— (1)remembering the fallen heroes of the United States; (2)honoring those who serve; and (3)reminding the people of the United States about the sacrifices made by veterans and the families of veterans to preserve freedoms in the United States;
+- Whereas, in 2016, approximately 1,200,000 remembrance wreaths were sent to more than 1,220 locations across the United States and overseas, which is an increase of more than 100 locations compared to the previous year;
+- Whereas, in December 2017, the tradition of escorting tractor-trailers filled with donated wreaths from Harrington, Maine, to Arlington National Cemetery will be continued by— (1)the Patriot Guard Riders; and (2)other patriotic escort units, including— (A)motorcycle units; (B)law enforcement units; and (C)first responder units;
+- Whereas hundreds of thousands of individuals volunteer each December to help lay remembrance wreaths;
+- Whereas, in 2017, the trucking industry in the United States continues to support the Wreaths Across America project by providing drivers, equipment, and related services to assist in the transportation of wreaths to more than 1,300 locations across the United States;
+- Whereas the Senate designated December 17, 2016, as “Wreaths Across America Day”; and
+- Whereas, on December 16, 2017, the Wreaths Across America project will continue the proud legacy of bringing remembrance wreaths to Arlington National Cemetery: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** designates December 16, 2017, as “Wreaths Across America Day”;
+- **(2)** honors—
+  - **(A)** the Wreaths Across America project;
+  - **(B)** patriotic escort units, including—
+    - **(i)** motorcycle units;
+    - **(ii)** law enforcement units; and
+    - **(iii)** first responder units;
+  - **(C)** the trucking industry in the United States; and
+  - **(D)** the volunteers and donors involved in this worthy tradition; and
+- **(3)** recognizes—
+  - **(A)** the service of veterans and members of the Armed Forces; and
+  - **(B)** the sacrifices that veterans and members of the Armed Forces have made, and continue to make, for the United States, a great nation.
