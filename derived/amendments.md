@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 123
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
