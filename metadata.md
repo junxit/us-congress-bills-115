@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4300
@@ -124,3 +124,8 @@ Admiral Lloyd R. "Joe" Vasey Pacific War Commemorative Display Establishment Act
 - 2017-12-06 — Placed on the Union Calendar, Calendar No. 332.
 - 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-450.
 - 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-450.
+- 2017-12-07 — Considered by unanimous consent. (consideration: CR H9746)
+- 2017-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-07 — Mr. Bishop (UT) asked unanimous consent to take from the Speaker's table and consider.
+- 2017-12-07 — On passage Passed without objection. (text: CR H9746)
+- 2017-12-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9746)
