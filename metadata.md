@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 90
@@ -50,9 +50,10 @@ Condemning ethnic cleansing of the Rohingya and calling for an end to the violen
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Condemning ethnic cleansing of the Rohingya and calling for an end to the violen
 - 2017-12-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 664). (text: CR 12/5/2017 H9643)
 - 2017-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 664).(text: CR 12/5/2017 H9643)
 - 2017-12-06 — The title of the measure was amended. Agreed to without objection.
+- 2017-12-07 — Received in the Senate and referred to the Committee on Foreign Relations.
