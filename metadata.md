@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 123
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 123
@@ -44,3 +44,7 @@ Making further continuing appropriations for fiscal year 2018, and for other pur
 - 2017-12-07 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 81 - 14. Record Vote Number: 311. (consideration: CR S7923-7925)
 - 2017-12-07 — Rule H. Res. 647 passed House.
 - 2017-12-07 — The previous question was ordered pursuant to the rule.
+- 2017-12-08 — Presented to President.
+- 2017-12-08 — Presented to President.
+- 2017-12-08 — Signed by President.
+- 2017-12-08 — Signed by President.
