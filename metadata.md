@@ -1,7 +1,7 @@
 ---
 measure: H.R. 38
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 38
@@ -232,9 +232,10 @@ Concealed Carry Reciprocity Act of 2017
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -266,3 +267,4 @@ Concealed Carry Reciprocity Act of 2017
 - 2017-12-06 — Rule provides for consideration of H.R. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2017-12-06 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-12-06 — The previous question was ordered pursuant to the rule.
+- 2017-12-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
