@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1164
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1164
@@ -205,3 +205,5 @@ Taylor Force Act
 - 2017-12-05 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2017-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9648-9649)
 - 2017-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9648-9649)
+- 2017-12-06 — Received in the Senate.
+- 2017-12-07 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
