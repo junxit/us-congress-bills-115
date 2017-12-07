@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4581
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4581
+
+> To require the Secretary of Homeland Security to develop best practices for utilizing advanced passenger information and passenger name record data for counterterrorism screening and vetting operations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Screening and Vetting Passenger Exchange Act of 2017”.
+
+## § 2. Passenger screening best practices
+
+- **(a)** *In general* Not later than 270 days after the date of the enactment of this Act, the Secretary of Homeland Security shall develop best practices for utilizing advanced passenger information and passenger name record data for counterterrorism screening and vetting operations.
+- **(b)** *Considerations* The Secretary of Homeland Security shall, to the greatest extent practicable—
+  - **(1)** make available to certain countries, including visa waiver program countries under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187), the best practices required under subsection (a); and
+  - **(2)** provide assistance to such countries in implementing such best practices.
