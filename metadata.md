@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 647
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 647
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 477) to amend the Securities Excha
 - 2017-12-06 — Provides for consideration of H.R. 477 and H.R. 3971 under structured rules with one hour of debate, one motion to recommit with or without instructions on each measure. Also provides for consideration of H.J.Res. 123 under a closed rule, with one hour of debate and one motion
 - 2017-12-06 — The House Committee on Rules reported an original measure, H. Rept. 115-443, by Mr. Woodall.
 - 2017-12-06 — The House Committee on Rules reported an original measure, H. Rept. 115-443, by Mr. Woodall.
+- 2017-12-07 — Considered as privileged matter. (consideration: CR H9722-9730)
+- 2017-12-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 647.
+- 2017-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 188 (Roll no. 666). (text: CR H9722)
+- 2017-12-07 — On ordering the previous question Agreed to by the Yeas and Nays: 236 - 190 (Roll no. 665). (consideration: CR H9730)
+- 2017-12-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 188 (Roll no. 666).(text: CR H9722)
