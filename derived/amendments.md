@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2658
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,16 @@ to guess them.
 
 ### 50 U.S.C. § 1701
 
-> in subsection (f), as redesignated, by striking “December 31, 2019” and inserting “December 31, 2022”.
+> in paragraph (5) (as redesignated), by striking “paragraph (1) or (2)” and inserting “paragraph (1), (2), (3), or (4)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (1) or (2)` |
+| Inserted | `paragraph (1), (2), (3), or (4)` |
+
+### 50 U.S.C. § 1701
+
+> in subsection (e), by striking “December 31, 2019” and inserting “December 31, 2022”.
 
 | | |
 |---|---|
@@ -43,7 +52,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `50 U.S.C. § 1701` | strike | in paragraph (2), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | redesignate | by redesignating paragraph (3) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | redesignate | by redesignating paragraph (3) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
