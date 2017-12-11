@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4300
@@ -109,9 +109,10 @@ Admiral Lloyd R. "Joe" Vasey Pacific War Commemorative Display Establishment Act
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -129,3 +130,4 @@ Admiral Lloyd R. "Joe" Vasey Pacific War Commemorative Display Establishment Act
 - 2017-12-07 — Mr. Bishop (UT) asked unanimous consent to take from the Speaker's table and consider.
 - 2017-12-07 — On passage Passed without objection. (text: CR H9746)
 - 2017-12-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9746)
+- 2017-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
