@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4171
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4171
@@ -29,3 +29,8 @@ To amend title 5, United States Code, to extend the authority to conduct telewor
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Introduced in House
 - 2017-10-31 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by Voice Vote.
+- 2017-12-11 — Placed on the Union Calendar, Calendar No. 342.
+- 2017-12-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-460.
+- 2017-12-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-460.
