@@ -25,10 +25,8 @@ This Act may be cited as the “Cybersecurity and Infrastructure Security Agency
   - **(1)** the Office of Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Emergency Communications Division; and
   - **(2)** the Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Emergency Communications.
 - **(d)** *Oversight* The Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall provide to Congress, in accordance with the deadlines specified in paragraphs (1) and (2), information on the following:
-  - **(1)** Not later than 60 days after the date of the enactment of this Act, a briefing on the activities of the Agency relating to the development and use of the mechanisms required pursuant to section 2202(c)(6) of the Homeland Security Act of 2002 (as added by subsection (a) of this section).
-  - **(2)** Not later than 1 year after the date of the enactment of this Act, a briefing on the activities of the Agency relating to its use and improvement of the mechanisms required pursuant to section 2202(c)(6) of the Homeland Security Act of 2002 and how such activities have impacted coordination, situational awareness, and communications with Sector-Specific Agencies.
-  - **(3)** Not later than 90 days after the date of the enactment of this Act, information on the Agency’s mechanisms for regular and ongoing consultation and collaboration, as required pursuant to section 2202(c)(7) of the Homeland Security Act of 2002 (as added by subsection (a) of this section).
-  - **(4)** Not later than 1 year after the date of the enactment of this Act, the activities of the Agency’s consultation and collaboration mechanisms as required pursuant to section 2202(c)(7) of the Homeland Security Act of 2002, and how such mechanisms have impacted operational coordination, situational awareness, and integration across the Agency.
+  - **(1)** Not later than 90 days after the date of the enactment of this Act, information on the Agency’s mechanisms for regular and ongoing consultation and collaboration, as required pursuant to section 2202(c)(7) of the Homeland Security Act of 2002 (as added by this Act).
+  - **(2)** Not later than one year after the date of the enactment of this Act, the activities of the Agency’s consultation and collaboration mechanisms and how such mechanisms have impacted operational coordination, situational awareness, and integration across the Agency.
 - **(e)** *Cyber workforce* Not later than 90 days after the date of the enactment of this subtitle, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall submit to Congress a report detailing how the Agency is meeting legislative requirements under the Cybersecurity Workforce Assessment Act (Public Law 113–246) and the Homeland Security Cybersecurity Workforce Assessment Act (enacted as section 4 of the Border Patrol Agent Pay Reform Act of 2014; Public Law 113–277) to address cyber workforce needs.
 - **(f)** *Facility* Not later than 180 days after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall report to Congress on the most efficient and effective methods of consolidating Agency facilities, personnel, and programs to most effectively carry out the Agency’s mission.
 - **(g)** *Conforming amendments to the Homeland Security Act of 2002* The Homeland Security Act of 2002 is amended—
@@ -61,15 +59,15 @@ This Act may be cited as the “Cybersecurity and Infrastructure Security Agency
       - **(i)** in subsection (c)(1), in the matter preceding subparagraph (A), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
       - **(ii)** in subsection (d)(1), in the matter preceding subparagraph (A), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
     - **(E)** in subparagraph (B) of section 210A(c)(2) (6 U.S.C. 124h(c)(2)), by striking “Office of Infrastructure Protection” and inserting “Cybersecurity and Infrastructure Security Agency”;
-    - **(F)** by transferring section 210E (6 U.S.C. 124) to appear after section 2213 (as redesignated by subparagraph (H) of this paragraph) and redesignating such section 210E as section 2214;
-    - **(G)** in subtitle B, by redesignating sections 211 through 215 (6 U.S.C. 101 note through 134) as sections 2221 through 2225, respectively, and inserting such redesignated sections, including the enumerator and heading of subtitle B (containing such redesignated sections), after section 2214, as redesignated by subparagraph (F) of this paragraph; and
+    - **(F)** by transferring section 210E (6 U.S.C. 124) to appear after section 2212 (as redesignated by subparagraph (G) of this paragraph) and redesignating such section 210E as section 2214;
+    - **(G)** in subtitle B, by redesignating sections 211 through 215 (6 U.S.C. 101 note through 134) as sections 2221 through 2225, respectively, and inserting such redesignated sections, including the enumerator and heading of subtitle B (containing such redesignated sections), after section 2213, as redesignated by subparagraph (E) of this paragraph; and
     - **(H)** by redesignating sections 223 through 230 (6 U.S.C. 143 through 151) as sections 2205 through 2213, respectively, and inserting such redesignated sections after section 2204, as added by this Act;
   - **(3)** in title III, in paragraph (3) of section 302 (6 U.S.C. 182), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
   - **(4)** in title V—
-    - **(A)** in section 514 (6 U.S.C. 321c), by—
+    - **(A)** in section 514 (6 U.S.C. 321(c)), by—
       - **(i)** striking subsection (b); and
       - **(ii)** redesignating subsection (c) as subsection (b);
-    - **(B)** in section 523 (6 U.S.C. 321l)—
+    - **(B)** in section 523 (6 U.S.C. 321I)—
       - **(i)** in subsection (a), in the matter preceding paragraph (1), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
       - **(ii)** in subsection (c), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
     - **(C)** in section 524(a)(2)(B) (6 U.S.C. 321m(a)(2)(B)), in the matter preceding clause (i)—
@@ -82,9 +80,9 @@ This Act may be cited as the “Cybersecurity and Infrastructure Security Agency
       - **(ii)** in subsection (a)—
         - **(I)** by striking “Office of Emergency Communications” and inserting “Emergency Communications Division”; and
         - **(II)** by adding at the end the following new sentence: “The Division shall be located in the Cybersecurity and Infrastructure Security Agency.”;
-      - **(iii)** by amending subsection (b) to read as follows:
-        > - **(b)** *Assistant Director* The head of the office shall be the Assistant Director for Emergency Communications. The Assistant Director shall report to the Director of the Cybersecurity and Infrastructure Security Agency. All decisions of the Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director.
-
+      - **(iii)** in subsection (b)—
+        - **(I)** in the first sentence, by inserting “Assistant” before “Director”; and
+        - **(II)** in the second sentence, by striking “Assistant Secretary for Cybersecurity and Communications” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
       - **(iv)** in subsection (c)—
         - **(I)** in the matter preceding paragraph (1), by inserting “Assistant” before “Director”;
         - **(II)** in paragraph (14), by striking “and” at the end;
@@ -119,12 +117,9 @@ This Act may be cited as the “Cybersecurity and Infrastructure Security Agency
       - **(iii)** in subsection (c)(11), by striking “Office of Emergency Communications” and inserting “Emergency Communications Division”;
     - **(D)** in section 2210, as so redesignated—
       - **(i)** by striking “section 227” each place it appears and inserting “section 2209”; and
-      - **(ii)** in subsection (c)—
-        - **(I)** by striking “Under Secretary appointed under section 103(a)(1)(H)” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
-        - **(II)** by striking “section 212(5)” and inserting “section 2225(5)”;
-    - **(E)** in subsection (b)(2)(A) of section 2211, as so redesignated, by striking “section 227” and inserting “section 2209”;
-    - **(F)** in section 2212, as so redesignated, by striking “section 212(5)” and inserting “section 2225(5)”; and
-    - **(G)** in section 2213, as so redesignated, in subsection (a)—
+      - **(ii)** in subsection (c), by striking “Under Secretary appointed under section 103(a)(1)(H)” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
+    - **(E)** in section 2211, as so redesignated, by striking “section 212(5)” and inserting “section 2215(5)”; and
+    - **(F)** in section 2212, as so redesignated, in subsection (a)—
       - **(i)** in paragraph (3), by striking “section 228” and inserting “section 2210”; and
       - **(ii)** in paragraph (4), by striking “section 227” and inserting “section 2209”.
 - **(h)** *Conforming amendment to title 5, United States Code* Section 5314 of title 5, United States Code, is amended by inserting after “Under Secretaries, Department of Homeland Security.” the following new item:
@@ -137,9 +132,8 @@ This Act may be cited as the “Cybersecurity and Infrastructure Security Agency
     - **(C)** in the item relating to section 201, by striking “and Infrastructure Protection”;
     - **(D)** by striking the item relating to section 210E;
     - **(E)** by striking the items relating to subtitle B of title II; and
-    - **(F)** by striking the items relating to section 223 through section 230;
-  - **(2)** in title XVIII, by amending the item relating to section 1801 to read as follows:
-  - **(3)** by adding at the end the following new items:
+    - **(F)** by striking the items relating to section 223 through section 230; and
+  - **(2)** by adding at the end the following new items:
 
 ## § 3. Transfer of other entities
 
