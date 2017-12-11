@@ -1,0 +1,21 @@
+---
+legis-num: H. RES. 655
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 655
+
+> Calling for Congress to investigate allegations of sexual misconduct against President Trump.
+
+## Preamble
+
+- Whereas gender inequality in America unfortunately and undeniably persists to this day;
+- Whereas the recent “Me Too” movement has empowered women who have been the victims of sexual misconduct;
+- Whereas we are at a pivotal time in our Nation’s history to denounce sexual misconduct;
+- Whereas Members of Congress have been accused of sexual misconduct;
+- Whereas allegations against these Members of Congress are being investigated by the Committee on Ethics of the House and the Select Committee on Ethics of the Senate; and
+- Whereas President Donald J. Trump has been accused of sexual misconduct by 13 courageous women: Now, therefore, be it
+
+That it is the sense of the House of Representatives that Congress should investigate the allegations of sexual misconduct which have been made against President Trump, either through an existing committee or a committee established for purposes of investigating these allegations.
