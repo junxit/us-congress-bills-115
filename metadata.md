@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 115
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3359
