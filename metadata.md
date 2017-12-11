@@ -1,7 +1,7 @@
 ---
 measure: H.R. 477
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 477
@@ -29,9 +29,10 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - Rep. Budd, Ted [R-NC-13] (B001305)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - 2017-12-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 426 - 0 (Roll no. 669).
 - 2017-12-07 — Provides for consideration of H.R. 477 and H.R. 3971 under structured rules with one hour of debate, one motion to recommit with or without instructions on each measure. Also provides for consideration of H.J.Res. 123 under a closed rule, with one hour of debate and one motion
 - 2017-12-07 — The previous question was ordered on the amendment and the bill without objection
+- 2017-12-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
