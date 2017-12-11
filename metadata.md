@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3669
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3669
@@ -34,3 +34,9 @@ Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017
 - 2017-10-12 — Placed on the Union Calendar, Calendar No. 250.
 - 2017-10-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.
 - 2017-10-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.
+- 2017-12-11 — Considered under suspension of the rules. (consideration: CR H9769-9770)
+- 2017-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3669.
+- 2017-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-11 — Mr. Estes (KS) moved to suspend the rules and pass the bill, as amended.
+- 2017-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9769)
+- 2017-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9769)
