@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2658
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2658
@@ -42,10 +42,11 @@ Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 20
 - Rep. DeSantis, Ron [R-FL-6] (D000621)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 20
 - 2017-12-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 29 (Roll no. 671). (text: CR 12/5/2017 H9653-9656)
 - 2017-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 29 (Roll no. 671).(text: CR 12/5/2017 H9653-9656)
+- 2017-12-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
