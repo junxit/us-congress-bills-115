@@ -22,6 +22,6 @@ Section 247 of title 18, United States Code, is amended—
   - **(A)** in paragraph (3), by striking “and” at the end;
   - **(B)** by redesignating paragraph (4) as paragraph (5); and
   - **(C)** by inserting after paragraph (3) the following:
-    > - **(4)** if damage to or destruction of property results from the acts committed in violation of this section, which damage to or destruction of such property is in an amount that exceeds $5,000, a fine in accordance with this title and imprisonment for not more than 3 years, or both; and
+    > - **(4)** if damage to or destruction of property results from the acts committed, by means of fire or explosives, in violation of this section, a fine in accordance with this title and imprisonment for not more than 3 years, or both; and
 
 - **(3)** in subsection (f), by inserting before the period at the end the following: “, or real property owned or leased by a nonprofit, religiously affiliated organization”.
