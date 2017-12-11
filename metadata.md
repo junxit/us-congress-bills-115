@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3093
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3093
@@ -38,3 +38,9 @@ Investor Clarity and Bank Parity Act
 - 2017-11-28 — Placed on the Union Calendar, Calendar No. 316.
 - 2017-11-28 — Reported by the Committee on Financial Services. H. Rept. 115-426.
 - 2017-11-28 — Reported by the Committee on Financial Services. H. Rept. 115-426.
+- 2017-12-11 — Considered under suspension of the rules. (consideration: CR H9773)
+- 2017-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3093.
+- 2017-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-11 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
+- 2017-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9773)
+- 2017-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9773)
