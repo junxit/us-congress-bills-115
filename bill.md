@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Energy savings from lubricating oil
 
-Not later than one year after the date of enactment of this Act, the Secretary of Energy, in cooperation with the Administrator of the Environmental Protection Agency and the Director of the Office of Management and Budget, shall—
+Not later than 1 year after the date of enactment of this Act, the Secretary of Energy, in cooperation with the Administrator of the Environmental Protection Agency and the Director of the Office of Management and Budget, shall—
 
 - **(1)** review and update the report prepared pursuant to section 1838 of the Energy Policy Act of 2005;
 - **(2)** after consultation with relevant Federal, State, and local agencies and affected industry and stakeholder groups, update data that was used in preparing that report; and

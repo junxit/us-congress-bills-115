@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1733
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1733
@@ -49,3 +49,9 @@ To direct the Secretary of Energy to review and update a report on the energy an
 - 2017-12-11 — Placed on the Union Calendar, Calendar No. 339.
 - 2017-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 115-457.
 - 2017-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 115-457.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9808-9809)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1733.
+- 2017-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-12 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9808)
+- 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9808)
