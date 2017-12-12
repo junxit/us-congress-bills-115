@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 407
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 407
@@ -16,7 +16,7 @@ Condemning the persecution of Christians around the world.
 
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Cosponsors (24)
+## Cosponsors (35)
 
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Harris, Andy [R-MD-1] (H001052)
@@ -42,6 +42,17 @@ Condemning the persecution of Christians around the world.
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Evans, Dwight [D-PA-2] (E000296)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Franks, Trent [R-AZ-8] (F000448)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
 ## Committees (1)
 
@@ -52,3 +63,12 @@ Condemning the persecution of Christians around the world.
 - 2017-06-26 — Introduced in House
 - 2017-06-26 — Introduced in House
 - 2017-06-26 — Referred to the House Committee on Foreign Affairs.
+- 2017-07-06 — Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9821-9824)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 407.
+- 2017-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-12 — Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended.
+- 2017-12-12 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H9821)
+- 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H9821)
