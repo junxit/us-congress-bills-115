@@ -19,7 +19,7 @@ Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at 
 
 > ## § 34. Closed-loop pumped storage projects
 >
-> - **(a)** *Expedited licensing process for closed-loop pumped storage projects*
+> - **(a)** *Expedited licensing process for closed-Loop pumped storage projects*
 >   - **(1)** *In general* As provided in this section, the Commission may issue and amend licenses and preliminary permits, as appropriate, for closed-loop pumped storage projects.
 >   - **(2)** *Rule* Not later than 180 days after the date of enactment of this section, the Commission shall issue a rule establishing an expedited process for issuing and amending licenses and preliminary permits for closed-loop pumped storage projects under this section.
 >   - **(3)** *Interagency Task Force* In establishing the expedited process under this section, the Commission shall convene an interagency task force, with appropriate Federal and State agencies and Indian tribes represented, to coordinate the regulatory processes associated with the authorizations required to construct and operate closed-loop pumped storage projects.
@@ -41,7 +41,7 @@ Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at 
 > - **(f)** *Developing abandoned mines for pumped storage*
 >   - **(1)** *Workshop* Not later than 6 months after the date of enactment of this section, the Commission shall hold a workshop to explore potential opportunities for development of closed-loop pumped storage projects at abandoned mine sites.
 >   - **(2)** *Guidance* Not later than 1 year after the date of enactment of this section, the Commission shall issue guidance to assist applicants for licenses or preliminary permits for closed-loop pumped storage projects at abandoned mine sites.
-> - **(g)** *Qualifying criteria for closed-loop pumped storage projects*
+> - **(g)** *Qualifying criteria for closed-Loop pumped storage projects*
 >   - **(1)** *In general* The Commission shall establish criteria that a pumped storage project shall meet in order to qualify as a closed-loop pumped storage project eligible for the expedited process established under this section.
 >   - **(2)** *Inclusions* In establishing the criteria under paragraph (1), the Commission shall include criteria requiring that the pumped storage project—
 >     - **(A)** cause little to no change to existing surface and groundwater flows and uses; and
