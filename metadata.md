@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3669
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3669
@@ -20,9 +20,10 @@ Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017
 - 2017-12-11 — Mr. Estes (KS) moved to suspend the rules and pass the bill, as amended.
 - 2017-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9769)
 - 2017-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9769)
+- 2017-12-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
