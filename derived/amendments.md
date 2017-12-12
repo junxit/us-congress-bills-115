@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3971
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
