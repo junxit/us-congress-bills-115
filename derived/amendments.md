@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4171
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

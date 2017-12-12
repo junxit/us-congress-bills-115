@@ -11,4 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Extension of authority to conduct telework travel expenses test programs
 
-Section 5711(g) of title 5, United States Code, is amended by striking “7 years after the date of the enactment of the Telework Enhancement Act of 2010” and inserting “on December 31, 2020”.
+- **(a)** *In general* Section 5711(g) of title 5, United States Code, is amended by striking “7 years after the date of the enactment of the Telework Enhancement Act of 2010” and inserting “on December 31, 2020”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as though enacted on December 1, 2017.
