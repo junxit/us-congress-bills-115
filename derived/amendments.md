@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-68 amendatory instructions. 27 executed, 41 stated and not applied.
+70 amendatory instructions. 28 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `Assistant Secretary for Infrastructure Protection` |
 | Inserted | `Director of the Cybersecurity and Infrastructure Security Agency` |
 
-### 6 U.S.C. § 321I
+### 6 U.S.C. § 321l
 
 > in subsection (a), in the matter preceding paragraph (1), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
 
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `Assistant Secretary for Infrastructure Protection` |
 | Inserted | `Director of the Cybersecurity and Infrastructure Security Agency` |
 
-### 6 U.S.C. § 321I
+### 6 U.S.C. § 321l
 
 > in subsection (c), by striking “Assistant Secretary for Infrastructure Protection” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
 
@@ -113,15 +113,6 @@ to guess them.
 |---|---|
 | Removed | `Office of Emergency Communications` |
 | Inserted | `Emergency Communications Division` |
-
-### 6 U.S.C. § 571
-
-> in the second sentence, by striking “Assistant Secretary for Cybersecurity and Communications” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary for Cybersecurity and Communications` |
-| Inserted | `Director of the Cybersecurity and Infrastructure Security Agency` |
 
 ### 6 U.S.C. § 575
 
@@ -233,7 +224,7 @@ to guess them.
 
 ### 6 U.S.C. § 113
 
-> in subsection (c), by striking “Under Secretary appointed under section 103(a)(1)(H)” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”;
+> by striking “Under Secretary appointed under section 103(a)(1)(H)” and inserting “Director of the Cybersecurity and Infrastructure Security Agency”; and
 
 | | |
 |---|---|
@@ -242,12 +233,30 @@ to guess them.
 
 ### 6 U.S.C. § 113
 
-> in section 2211, as so redesignated, by striking “section 212(5)” and inserting “section 2215(5)”; and
+> by striking “section 212(5)” and inserting “section 2225(5)”;
 
 | | |
 |---|---|
 | Removed | `section 212(5)` |
-| Inserted | `section 2215(5)` |
+| Inserted | `section 2225(5)` |
+
+### 6 U.S.C. § 113
+
+> in subsection (b)(2)(A) of section 2211, as so redesignated, by striking “section 227” and inserting “section 2209”;
+
+| | |
+|---|---|
+| Removed | `section 227` |
+| Inserted | `section 2209` |
+
+### 6 U.S.C. § 113
+
+> in section 2212, as so redesignated, by striking “section 212(5)” and inserting “section 2225(5)”; and
+
+| | |
+|---|---|
+| Removed | `section 212(5)` |
+| Inserted | `section 2225(5)` |
 
 ### 6 U.S.C. § 113
 
@@ -298,7 +307,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 143` | redesignate | by redesignating sections 223 through 230 (6 U.S.C. 143 through 151) as sections 2205 through 2213, respectively, and inserting such redesignated sections after section 2204, as added by this Act; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 488a` | insert | in title VIII, in section 899B(a) (6 U.S.C. 488a(a)), by inserting at the end the following new sentence: “Such regulations shall be carried out by the Cybersecurity and Infrastructure Security Agency.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | add-at-end | by adding at the end the following new sentence: “The Division shall be located in the Cybersecurity and Infrastructure Security Agency.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 571` | insert | in the first sentence, by inserting “Assistant” before “Director”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 571` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 571` | insert | in the matter preceding paragraph (1), by inserting “Assistant” before “Director”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 571` | strike | in paragraph (14), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 571` | redesignate | by redesignating paragraph (15) as paragraph (16); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -315,5 +324,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1501` | strike | in the item relating to section 201, by striking “and Infrastructure Protection”; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 1501` | strike | by striking the item relating to section 210E; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1501` | strike | by striking the items relating to subtitle B of title II; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1501` | strike | by striking the items relating to section 223 through section 230; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1501` | strike | by striking the items relating to section 223 through section 230; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1501` | amend | in title XVIII, by amending the item relating to section 1801 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1501` | add-at-end | by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
