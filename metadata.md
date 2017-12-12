@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3638
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3638
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1100 Ki
 
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 
-## Cosponsors (20)
+## Cosponsors (26)
 
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. DeSantis, Ron [R-FL-6] (D000621)
@@ -38,6 +38,12 @@ To designate the facility of the United States Postal Service located at 1100 Ki
 - Rep. Rooney, Thomas J. [R-FL-17] (R000583)
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
 
 ## Committees (1)
 
@@ -48,3 +54,11 @@ To designate the facility of the United States Postal Service located at 1100 Ki
 - 2017-08-01 — Introduced in House
 - 2017-08-01 — Introduced in House
 - 2017-08-01 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported by Unanimous Consent.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9818)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3638.
+- 2017-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9818)
+- 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9818)
