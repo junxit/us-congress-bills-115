@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1730
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1730
@@ -69,9 +69,10 @@ Protecting Religiously Affiliated Institutions Act of 2017
 - Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -97,3 +98,4 @@ Protecting Religiously Affiliated Institutions Act of 2017
 - 2017-12-11 — Placed on the Union Calendar, Calendar No. 338.
 - 2017-12-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-456.
 - 2017-12-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-456.
+- 2017-12-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
