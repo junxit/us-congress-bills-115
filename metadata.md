@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 115
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 2872
