@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2706
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2706
@@ -38,9 +38,10 @@ Financial Institution Customer Protection Act of 2017
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Financial Institution Customer Protection Act of 2017
 - 2017-12-11 — Mr. Luetkemeyer moved to suspend the rules and pass the bill, as amended.
 - 2017-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 672). (text: CR H9770-9771)
 - 2017-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 672).(text: CR H9770-9771)
+- 2017-12-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
