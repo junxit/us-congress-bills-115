@@ -19,34 +19,44 @@ Part I of the Federal Power Act (16 U.S.C. 792 et seq.) is amended by adding at 
 
 > ## § 34. Promoting hydropower development at existing nonpowered dams
 >
-> - **(a)** *Exemptions for qualifying facilities*
->   - **(1)** *Exemption qualifications* Subject to the requirements of this subsection, the Commission may grant an exemption in whole or in part from the requirements of this part, including any license requirements contained in this part, to any facility the Commission determines is a qualifying facility.
->   - **(2)** *Consultation with Federal and State agencies* In granting any exemption under this subsection, the Commission shall consult with—
->     - **(A)** the United States Fish and Wildlife Service, the National Marine Fisheries Service, and the State agency exercising administrative control over the fish and wildlife resources of the State in which the facility will be located, in the manner provided by the Fish and Wildlife Coordination Act;
->     - **(B)** any Federal department supervising any public lands or reservations occupied by the project; and
->     - **(C)** any Indian tribe affected by the project.
->   - **(3)** *Exemption conditions*
->     - **(A)** *In general* The Commission shall include in any exemption granted under this subsection only such terms and conditions that the Commission determines are—
->       - **(i)** necessary to protect public safety; or
->       - **(ii)** reasonable, economically feasible, and essential to prevent loss of or damage to, or to mitigate adverse effects on, fish and wildlife resources directly caused by the construction and operation of the qualifying facility, as compared to the environmental baseline existing at the time the Commission grants the exemption.
->     - **(B)** *No changes to release regime* No Federal authorization required with respect to a qualifying facility, including an exemption granted by the Commission under this subsection, may include any condition or other requirement that results in any material change to the storage, control, withdrawal, diversion, release, or flow operations of the associated qualifying nonpowered dam.
->   - **(4)** *Environmental review* The Commission’s environmental review under the National Environmental Policy Act of 1969 of a proposed exemption under this subsection shall consist only of an environmental assessment, unless the Commission determines, by rule or order, that the Commission’s obligations under such Act for granting exemptions under this subsection can be met through a categorical exclusion.
->   - **(5)** *Violation of terms of exemption* Any violation of a term or condition of any exemption granted under this subsection shall be treated as a violation of a rule or order of the Commission under this Act.
->   - **(6)** *Annual charges for enhancement activities* Exemptees under this subsection for any facility located at a non-Federal dam shall pay to the United States reasonable annual charges in an amount to be fixed by the Commission for the purpose of funding environmental enhancement projects in watersheds in which facilities exempted under this subsection are located. Such annual charges shall be equivalent to the annual charges for use of a Government dam under section 10(e), unless the Commission determines, by rule, that a lower charge is appropriate to protect exemptees’ investment in the project or avoid increasing the price to consumers of power due to such charges. The proceeds of charges made by the Commission under this paragraph shall be paid into the Treasury of the United States and credited to miscellaneous receipts. Subject to annual appropriation Acts, such proceeds shall be available to Federal and State fish and wildlife agencies for purposes of carrying out specific environmental enhancement projects in watersheds in which one or more facilities exempted under this subsection are located. Not later than 180 days after the date of enactment of this section, the Commission shall establish rules, after notice and opportunity for public comment, for the collection and administration of annual charges under this paragraph.
->   - **(7)** *Effect of jurisdiction* The jurisdiction of the Commission over any qualifying facility exempted under this subsection shall extend only to the qualifying facility exempted and any associated primary transmission line, and shall not extend to any conduit, dam, impoundment, shoreline or other land, or any other project work associated with the qualifying facility exempted under this subsection.
-> - **(b)** *Definitions* For purposes of this section:
->   - **(1)** *Federal authorization* The term Federal authorization—
->     - **(A)** means any authorization required under Federal law with respect to an application for a license, license amendment, or exemption under this part; and
->     - **(B)** includes any permits, special use authorizations, certifications, opinions, or other approvals as may be required under Federal law to approve or implement the license, license amendment, or exemption under this part.
->   - **(2)** *Qualifying criteria* The term qualifying criteria means, with respect to a facility—
+> - **(a)** *Expedited licensing process for non-Federal hydropower projects at existing nonpowered dams*
+>   - **(1)** *In general* As provided in this section, the Commission may issue and amend licenses and preliminary permits, as appropriate, for any facility the Commission determines is a qualifying facility.
+>   - **(2)** *Rule* Not later than 180 days after the date of enactment of this section, the Commission shall issue a rule establishing an expedited process for issuing and amending licenses and preliminary permits for qualifying facilities under this section.
+>   - **(3)** *Interagency Task Force* In establishing the expedited process under this section, the Commission shall convene an interagency task force, with appropriate Federal and State agencies and Indian tribes represented, to coordinate the regulatory processes associated with the authorizations required to construct and operate a qualifying facility.
+>   - **(4)** *Length of Process* The Commission shall ensure that the expedited process under this section will result in a final decision on an application for a license by not later than 2 years after receipt of a completed application for the license.
+> - **(b)** *Dam safety*
+>   - **(1)** *Assessment* Before issuing any license for a qualifying facility, the Commission shall assess the safety of existing non-Federal dams and other non-Federal structures related to the qualifying facility (including possible consequences associated with failure of such structures).
+>   - **(2)** *Requirements* In issuing any license for a qualifying facility, the Commission shall ensure that the Commission’s dam safety requirements apply to such qualifying facility, and the associated qualifying nonpowered dam, over the term of such license.
+> - **(c)** *Interagency communications* Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to an application for a license for a qualifying facility under this section, and interagency communications relating to licensing process coordination pursuant to this section, shall not—
+>   - **(1)** be considered to be ex parte communications under Commission rules; or
+>   - **(2)** preclude an agency from participating in a licensing proceeding under this part.
+> - **(d)** *Identification of nonpowered dams for hydropower development*
+>   - **(1)** *In general* Not later than 12 months after the date of enactment of this section, the Commission, with the Secretary of the Army, the Secretary of the Interior, and the Secretary of Agriculture, shall jointly develop a list of existing nonpowered Federal dams that the Commission and the Secretaries agree have the greatest potential for non-Federal hydropower development.
+>   - **(2)** *Considerations* In developing the list under paragraph (1), the Commission and the Secretaries may consider the following:
+>     - **(A)** The compatibility of hydropower generation with existing purposes of the dam.
+>     - **(B)** The proximity of the dam to existing transmission resources.
+>     - **(C)** The existence of studies to characterize environmental, cultural, and historic resources relating to the dam.
+>     - **(D)** The effects of hydropower development on release or flow operations of the dam.
+>   - **(3)** *Availability* The Commission shall—
+>     - **(A)** provide the list developed under paragraph (1) to—
+>       - **(i)** the Committee on Energy and Commerce, the Committee on Transportation and Infrastructure, and the Committee on Natural Resources, of the House of Representatives; and
+>       - **(ii)** the Committee on Environment and Public Works, and the Committee on Energy and Natural Resources, of the Senate; and
+>     - **(B)** make such list available to the public.
+> - **(e)** *Definitions* For purposes of this section:
+>   - **(1)** *Qualifying criteria* The term qualifying criteria means, with respect to a facility—
 >     - **(A)** as of the date of enactment of this section, the facility is not licensed under, or exempted from the license requirements contained in, this part;
 >     - **(B)** the facility will be associated with a qualifying nonpowered dam;
 >     - **(C)** the facility will be constructed, operated, and maintained for the generation of electric power;
 >     - **(D)** the facility will use for such generation any withdrawals, diversions, releases, or flows from the associated qualifying nonpowered dam, including its associated impoundment or other infrastructure; and
->     - **(E)** the operation of the facility will not result in any material change to the storage, control, withdrawal, diversion, release, or flow operations of the associated qualifying nonpowered dam.
->   - **(3)** *Qualifying facility* The term qualifying facility means a facility that is determined under this section to meet the qualifying criteria.
->   - **(4)** *Qualifying nonpowered dam* The term qualifying nonpowered dam means any dam, dike, embankment, or other barrier—
+>     - **(E)** the operation of the facility will not result in any material change to the storage, release, or flow operations of the associated qualifying nonpowered dam.
+>   - **(2)** *Qualifying facility* The term qualifying facility means a facility that is determined under this section to meet the qualifying criteria.
+>   - **(3)** *Qualifying nonpowered dam* The term qualifying nonpowered dam means any dam, dike, embankment, or other barrier—
 >     - **(A)** the construction of which was completed on or before the date of enactment of this section;
->     - **(B)** that is operated for the control, release, or distribution of water for agricultural, municipal, navigational, industrial, commercial, environmental, recreational, aesthetic, or flood control purposes;
->     - **(C)** that, as of the date of enactment of this section, is not equipped with hydropower generating works that are licensed under, or exempted from the license requirements contained in, this part; and
->     - **(D)** that, in the case of a non-Federal dam, has been certified by an independent consultant approved by the Commission as complying with the Commission’s dam safety requirements.
+>     - **(B)** that is or was operated for the control, release, or distribution of water for agricultural, municipal, navigational, industrial, commercial, environmental, recreational, aesthetic, drinking water, or flood control purposes; and
+>     - **(C)** that, as of the date of enactment of this section, is not generating electricity with hydropower generating works that are licensed under, or exempted from the license requirements contained in, this part.
+
+## § 3. Obligation for payment of annual charges
+
+Section 10(e) of the Federal Power Act (16 U.S.C. 803(e)) is amended by adding at the end the following:
+
+> - **(5)** Any obligation of a licensee for payment of annual charges under this subsection shall commence when the construction of the applicable facility commences.
