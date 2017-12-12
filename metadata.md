@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2880
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2880
@@ -32,3 +32,9 @@ Promoting Closed-Loop Pumped Storage Hydropower Act
 - 2017-12-11 — Placed on the Union Calendar, Calendar No. 340.
 - 2017-12-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-458.
 - 2017-12-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-458.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9812-9814)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2880.
+- 2017-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-12 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
+- 2017-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9812)
+- 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9812)
