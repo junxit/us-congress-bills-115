@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3655
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3655
@@ -39,3 +39,11 @@ To designate the facility of the United States Postal Service located at 1300 Ma
 - 2017-08-15 — Introduced in House
 - 2017-08-15 — Introduced in House
 - 2017-08-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported by Unanimous Consent.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9819-9820)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3655.
+- 2017-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9819-9820)
+- 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9819-9820)
