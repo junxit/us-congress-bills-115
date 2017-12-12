@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3359
@@ -30,12 +30,13 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (4)
+## Committees (5)
 
 - House — Transportation and Infrastructure Committee
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 - 2017-12-11 — Placed on the Union Calendar, Calendar No. 336.
 - 2017-12-11 — Reported by the Committee on Homeland Security. H. Rept. 115-454, Part I.
 - 2017-12-11 — Reported by the Committee on Homeland Security. H. Rept. 115-454, Part I.
+- 2017-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
