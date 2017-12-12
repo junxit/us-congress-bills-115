@@ -13,22 +13,20 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Justice for Uncompensated Survivors Today (JUST) Act of 2017”.
 
-## § 2. Annual reporting on holocaust era assets and related issues
+## § 2. Report on Holocaust era assets and related issues
 
-- **(a)** *In general* For covered countries, the Secretary of State shall annually include within either the relevant Annual Country Report on Human Rights, the International Religious Freedom Report, or other appropriate report as determined by the Secretary, an assessment and description of the nature and extent of national laws or enforceable policies regarding the identification and the return of or restitution for wrongfully seized or transferred Holocaust era assets and compliance with or progress toward the goals and objectives of the 2009 Terezin Declaration on Holocaust Era Assets and Related Issues, including—
-  - **(1)** the return to the rightful owner of any property, including religious or communal property, that was wrongfully seized or transferred;
-  - **(2)** if return of such property is no longer possible, the provision of comparable substitute property or the payment of equitable compensation to the rightful owner in accordance with principles of justice and through an expeditious claims-driven administrative process that is just, transparent, and fair;
-  - **(3)** the use of the Washington Conference Principles on Nazi-Confiscated Art, agreed to December 3, 1998, and the Terezin Declaration on Holocaust Assets and Related Issues, agreed to June 30, 2009, in settling all claims involving publically and privately held movable property;
-  - **(4)** the restitution of heirless property to assist needy Holocaust survivors, and for other purposes;
-  - **(5)** the extent to which such laws and policies are implemented and enforced in practice, including through any applicable administrative or judicial processes; and
-  - **(6)** the mechanism for and demonstrable progress on the resolution of claims for United States citizen Holocaust survivors and United States citizen family members of Holocaust victims.
-- **(b)** *Effective date of inclusion*
-  - **(1)** *Inclusion in Annual Country Report on Human Rights or International Religious Freedom report* If the Secretary of State includes the information required under subsection (a) in the report required under section 116(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d)) or the report required under section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6412(b)), the requirement to include such information shall apply beginning with the first report submitted later than 180 days after the date of the enactment of this Act.
-  - **(2)** *Inclusion in other Department of State report* If the Secretary of State includes the information required under subsection (a) in an existing report of the Department of State other than a report described in paragraph (1), the requirement to include such information shall apply beginning with the first report submitted later than 180 days after the date of the enactment of this Act.
-  - **(3)** *Inclusion in new report* If the Secretary of State includes the information required under subsection (a) in a new report, the Secretary shall submit such report not later than one year after the date of the enactment of this Act.
-- **(c)** *Definitions* In this section:
+- **(a)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-    - **(A)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
-    - **(B)** the Committee on Foreign Affairs and the Committees on Appropriations of the House of Representatives.
-  - **(2)** *Covered countries* The term covered countries means signatories to the 2009 Terezin Declaration on Holocaust Era Assets and Related Issues that are determined by the Special Envoy for Holocaust Issues, in consultation with expert nongovernmental organizations, to be countries of particular concern relative to the issues listed in subsection (a).
+    - **(A)** the Committee on Foreign Relations of the Senate;
+    - **(B)** the Committee on Appropriations of the Senate;
+    - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
+    - **(D)** the Committee on Appropriations of the House of Representatives.
+  - **(2)** *Covered countries* The term covered countries means participants in the 2009 Holocaust Era Assets Conference that are determined by the Secretary of State, or the Secretary’s designee, in consultation with expert nongovernmental organizations, to be countries of particular concern relative to the issues listed in subsection (b).
   - **(3)** *Wrongfully seized or transferred* The term wrongfully seized or transferred includes confiscations, expropriations, nationalizations, forced sales or transfers, and sales or transfers under duress during the Holocaust era or the period of Communist rule of a covered country.
+- **(b)** *Report* Not later than 18 months after the date of the enactment of this Act, the Secretary of State shall submit a report to the appropriate congressional committees that assesses and describes the nature and extent of national laws and enforceable policies of covered countries regarding the identification and the return of or restitution for wrongfully seized or transferred Holocaust era assets consistent with, and evaluated with respect to, the goals and objectives of the 2009 Holocaust Era Assets Conference, including—
+  - **(1)** the return to the rightful owner of any property, including religious or communal property, that was wrongfully seized or transferred;
+  - **(2)** if return of any property described in paragraph (1) is no longer possible, the provision of comparable substitute property or the payment of equitable compensation to the rightful owner in accordance with principles of justice and through an expeditious claims-driven administrative process that is just, transparent, and fair;
+  - **(3)** in the case of heirless property, the provision of property or compensation to assist needy Holocaust survivors, to support Holocaust education, and for other purposes;
+  - **(4)** the extent to which such laws and policies are implemented and enforced in practice, including through any applicable administrative or judicial processes; and
+  - **(5)** to the extent practicable, the mechanism for and an overview of progress toward the resolution of claims for United States citizen Holocaust survivors and United States citizen family members of Holocaust victims.
+- **(c)** *Sense of Congress* It is the sense of Congress that after the submission of the report described in subsection (b), the Secretary of State should continue to report to Congress on Holocaust era assets and related issues in a manner that is consistent with the manner in which the Department of State reported on such matters before the date of the enactment of the Act.

@@ -1,7 +1,7 @@
 ---
 measure: S. 447
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 447
@@ -16,7 +16,7 @@ Justice for Uncompensated Survivors Today (JUST) Act of 2017
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -38,10 +38,12 @@ Justice for Uncompensated Survivors Today (JUST) Act of 2017
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -51,3 +53,8 @@ Justice for Uncompensated Survivors Today (JUST) Act of 2017
 - 2017-12-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-12-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2017-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
+- 2017-12-12 — Message on Senate action sent to the House.
+- 2017-12-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7950; text as passed Senate: CR S7950)
+- 2017-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7950; text as passed Senate: CR S7950)
+- 2017-12-12 — Received in the House.
+- 2017-12-12 — Referred to the House Committee on Foreign Affairs.
