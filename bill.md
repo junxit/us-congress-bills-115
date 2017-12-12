@@ -2,7 +2,7 @@
 legis-num: H. RES. 357
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 357
@@ -14,14 +14,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas history, proximity, commerce, security, and shared democratic values underpin a close relationship between the United States and Canada;
 - Whereas this year marks 150 years of the Canadian Confederation;
 - Whereas Americans and Canadians have the longest international border and one of the largest commercial relationships in the world, with $1.7 billion of trade and nearly 400,000 people crossing the shared border daily;
-- Whereas Canada is the United States largest trading partner, and a majority of States of the United States also consider Canada their top export destination, with 15 States counting Canada as their top point of origin for imports;
-- Whereas the United States and Canada cooperate extensively within the North Atlantic Treaty Organization (NATO), United States Northern Command (NORTHCOM), and North American Aerospace Defense Command (NORAD);
+- Whereas Canada is the United States second-largest trading partner and the largest export destination for United States goods and services, and a majority of States of the United States consider Canada their top export destination, with 15 States counting Canada as their top point of origin for imports;
+- Whereas the United States and Canada cooperate extensively within the North Atlantic Treaty Organization (NATO), and through a “Tri-Command Framework” with United States Northern Command (NORTHCOM), Canadian Joint Operations Command (CJOC), and North American Aerospace Defense Command (NORAD);
 - Whereas Canada has been a critical ally of the United States in the global war on terror, deploying approximately 2,800 Canadian troops in the NATO-led International Security Assistance Force (ISAF) in Afghanistan from 2006–2011, the fifth-largest national contingent in the ISAF;
 - Whereas 158 Canadian Armed Forces personnel bravely gave their lives while participating in the ISAF in Afghanistan;
 - Whereas Canada has 830 Canadian Armed Forces personnel currently serving in the Middle East in support of the United States-led coalition to counter the Islamic State;
 - Whereas longstanding bilateral border security cooperation between the United States and Canada protects vital United States security interests while promoting trade and travel;
 - Whereas the Western Hemisphere Travel Initiative, Beyond the Border Initiative, United States-Canada NEXUS Trusted Traveler Program, Border Enforcement Security Taskforces (BEST), Shiprider Integrated Cross Border Maritime Law Enforcement program, Cross Border Crime Forum, Integrated Border Enforcement Teams, and United States preclearance operations conducted at eight Canadian airports enhance United States-Canadian border security efforts;
-- Whereas Canada is the world’s fifth-largest petroleum producer in the world and is the United States largest foreign supplier of energy, including oil, uranium, natural gas, and electricity;
+- Whereas Canada is the world’s sixth-largest petroleum producer in the world and is the United States largest foreign supplier of energy, including oil, uranium, natural gas, and electricity;
 - Whereas Canada is the largest source of imported oil for United States refineries and while the United States produces 90 percent of the natural gas it uses, of the remaining natural gas that the United States imports, 97 percent comes from Canada;
 - Whereas Canada is a net exporter of electricity to the United States, with more than 30 active electricity transmission connectors between the two countries;
 - Whereas Canada is a strategic leader in international affairs, a member of the G7 and G20, and an important voice for democratic principles, market-oriented policies, and human rights in the United Nations, Organization for Economic Co-operation and Development (OECD), and Organization of American States; and
