@@ -2,7 +2,7 @@
 legis-num: H. RES. 336
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 336
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas shared cultural ties, values, and beliefs connect the citizens of the United States and Mexico and have long been the foundation from which the friendly, bilateral relationship has flourished;
-- Whereas the United States and Mexico have benefited from a bilateral, mutually beneficial partnership focused on advancing the economic and security interests of both countries;
+- Whereas the United States and Mexico have benefitted from a bilateral, mutually beneficial partnership focused on advancing the economic and security interests of both countries;
 - Whereas it is in the national interests of the United States and Mexico to continue deepening economic cooperation and security cooperation;
 - Whereas consecutive United States and Mexican administrations have increased bilateral defense and law enforcement cooperation on counterterrorism and counternarcotics issues, including the illicit trafficking of weapons, money, people, and drugs across the United States southern border;
 - Whereas cooperation with Mexico during the administration of President Peña Nieto has led to the extradition of more than 270 individuals facing criminal charges in the United States;
