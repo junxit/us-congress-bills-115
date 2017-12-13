@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1208
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1208
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 9155 Sc
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To designate the facility of the United States Postal Service located at 9155 Sc
 - 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9815)
 - 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9815)
+- 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
