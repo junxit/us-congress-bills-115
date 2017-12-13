@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2872
@@ -16,11 +16,12 @@ Promoting Hydropower Development at Existing Nonpowered Dams Act
 
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Promoting Hydropower Development at Existing Nonpowered Dams Act
 - 2017-12-12 — Referred jointly and sequentially to the House Committee on Transportation and Infrastructure for a period ending not later than Dec. 12, 2017 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee under clause 1(r) of rule X.
 - 2017-12-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-461, Part I.
 - 2017-12-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-461, Part I.
+- 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
