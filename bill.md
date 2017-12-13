@@ -34,13 +34,16 @@ The Congress finds the following:
 ## § 3. Report requirement relating to assets of Iranian leaders and certain senior political figures
 
 - **(a)** *In general* Not later than 270 days after the date of enactment of this Act, and annually thereafter (or more frequently if the Secretary of the Treasury determines it appropriate based on new information received by the Secretary) for the following 2 years, the Secretary of the Treasury shall, in furtherance of the Secretary’s efforts to prevent the financing of terrorism, money laundering, or related illicit finance and to make financial institutions’ required compliance with remaining sanctions more easily understood, submit a report to the appropriate congressional committees containing—
-  - **(1)** the estimated total funds or assets held in accounts at U.S. and foreign financial institutions that are under direct or indirect control by each natural person described in subsection (b) and a description of such assets;
+  - **(1)** the estimated total funds or assets held in accounts at United States and foreign financial institutions that are under direct or indirect control by each natural person described in subsection (b) and a description of such assets;
   - **(2)** an identification of any equity stake such natural person has in an entity on the Department of the Treasury's list of Specially Designated Nationals or in any other sanctioned entity;
   - **(3)** a description of how such funds or assets or equity interests were acquired, and how they have been used or employed;
-  - **(4)** a description of any new methods or techniques used to evade anti-money laundering and related laws, including recommendations to improve techniques to combat illicit uses of the U.S. financial system by each natural person described in subsection (b);
-  - **(5)** recommendations for how U.S. economic sanctions against Iran may be revised to prevent the funds or assets described under this subsection from being used by the natural persons described in subsection (b) to contribute to the continued development, testing, and procurement of ballistic missile technology by Iran;
-  - **(6)** a description of how the Department of the Treasury assesses the impact and effectiveness of U.S. economic sanctions programs against Iran; and
-  - **(7)** recommendations for improving the ability of the Department of the Treasury to rapidly and effectively develop, implement, and enforce additional economic sanctions against Iran if so ordered by the President under the International Emergency Economic Powers Act or other corresponding legislation.
+  - **(4)** a description of any new methods or techniques used to evade anti-money laundering and related laws, including recommendations to improve techniques to combat illicit uses of the United States financial system by each natural person described in subsection (b);
+  - **(5)** recommendations for how United States economic sanctions against Iran may be revised to prevent the funds or assets described under this subsection from being used by the natural persons described in subsection (b) to contribute—
+    - **(A)** to the continued development, testing, and procurement of ballistic missile technology by Iran; and
+    - **(B)** to human rights abuses;
+  - **(6)** a description of how the Department of the Treasury assesses the impact and effectiveness of United States economic sanctions programs against Iran;
+  - **(7)** an assessment of the impact and effectiveness of United States economic sanctions programs against Iran; and
+  - **(8)** recommendations for improving the ability of the Department of the Treasury to rapidly and effectively develop, implement, and enforce additional economic sanctions against Iran if so ordered by the President under the International Emergency Economic Powers Act or other corresponding legislation.
 - **(b)** *Persons described* The natural persons described in this subsection are the following:
   - **(1)** The Supreme Leader of Iran.
   - **(2)** The President of Iran.
