@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3971
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3971
@@ -23,9 +23,10 @@ Community Institution Mortgage Relief Act of 2017
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -66,3 +67,4 @@ Community Institution Mortgage Relief Act of 2017
 - 2017-12-12 — Provides for consideration of H.R. 477 and H.R. 3971 under structured rules with one hour of debate, one motion to recommit with or without instructions on each measure. Also provides for consideration of H.J.Res. 123 under a closed rule, with one hour of debate and one motion
 - 2017-12-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-12-12 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
