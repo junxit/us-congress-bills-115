@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1733
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1733
@@ -33,9 +33,10 @@ To direct the Secretary of Energy to review and update a report on the energy an
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ To direct the Secretary of Energy to review and update a report on the energy an
 - 2017-12-12 — Mr. Upton moved to suspend the rules and pass the bill.
 - 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9808)
 - 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9808)
+- 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
