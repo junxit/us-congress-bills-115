@@ -2,7 +2,7 @@
 legis-num: H. RES. 657
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 657
@@ -13,4 +13,4 @@ That upon adoption of this resolution it shall be in order to consider in the Ho
 
 ## § 2.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4015) to improve the quality of proxy advisory firms for the protection of investors and the U.S. economy, and in the public interest, by fostering accountability, transparency, responsiveness, and competition in the proxy advisory firm industry. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-46 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4015) to improve the quality of proxy advisory firms for the protection of investors and the U.S. economy, and in the public interest, by fostering accountability, transparency, responsiveness, and competition in the proxy advisory firm industry. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115–46 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
