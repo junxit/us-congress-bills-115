@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1733
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1733
@@ -57,3 +57,14 @@ To direct the Secretary of Energy to review and update a report on the energy an
 - 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9808)
 - 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9808)
 - 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S7962)
+- 2018-12-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S7962)
+- 2018-12-21 — Became Public Law No: 115-345.
+- 2018-12-21 — Became Public Law No: 115-345.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
