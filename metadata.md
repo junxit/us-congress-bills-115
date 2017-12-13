@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4285
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4285
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 123 Bri
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 123 Bri
 - 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2017-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9820)
 - 2017-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9820)
+- 2017-12-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
