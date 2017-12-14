@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4292
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4292
@@ -16,9 +16,11 @@ Financial Institution Living Will Improvement Act of 2017
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Financial Institution Living Will Improvement Act of 2017
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Referred to the House Committee on Financial Services.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.
+- 2017-12-14 — Placed on the Union Calendar, Calendar No. 345.
+- 2017-12-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-465.
+- 2017-12-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-465.

@@ -15,8 +15,8 @@ This Act may be cited as the “Financial Institution Living Will Improvement Ac
 
 ## § 2. Living will reforms
 
-- **(a)** *In general* Section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365) is amended—
-  - **(1)** in paragraph (1), by striking “periodically” and inserting “not more often than every 2 years”; and
+- **(a)** *In general* Section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365(d)) is amended—
+  - **(1)** in paragraph (1), by striking “periodically” and inserting “every 2 years”; and
   - **(2)** in paragraph (3)—
     - **(A)** by striking “The Board” and inserting the following:
       > - **(A)** *In general* The Board
@@ -32,15 +32,19 @@ This Act may be cited as the “Financial Institution Living Will Improvement Ac
 
 - **(b)** *Treatment of other resolution plan requirements*
   - **(1)** *In general* With respect to an appropriate Federal banking agency that requires a banking organization to submit to the agency a resolution plan not described under section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act—
-    - **(A)** the agency shall comply with the requirements of paragraphs (3) and (4) of such section 165(d);
+    - **(A)** the respective agency shall ensure that the review of such resolution plan is consistent with the requirements contained in the amendments made by this Act;
     - **(B)** the agency may not require the submission of such a resolution plan more often than every 2 years; and
     - **(C)** paragraphs (6) and (7) of such section 165(d) shall apply to such a resolution plan.
   - **(2)** *Definitions* For purposes of this subsection:
-    - **(A)** *Banking organization* The term banking organization means—
+    - **(A)** *Appropriate Federal banking agency* The term “appropriate Federal banking agency”—
+      - **(i)** has the meaning given such term under section 3 of the Federal Deposit Insurance Act; and
+      - **(ii)** means the National Credit Union Administration, in the case of an insured credit union.
+    - **(B)** *Banking organization* The term banking organization means—
       - **(i)** an insured depository institution;
       - **(ii)** an insured credit union;
       - **(iii)** a depository institution holding company;
       - **(iv)** a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act; and
       - **(v)** a U.S. intermediate holding company established by a foreign banking organization pursuant to section 252.153 of title 12, Code of Federal Regulations.
-    - **(B)** *Insured credit union* The term “insured credit union” has the meaning given that term under section 101 of the Federal Credit Union Act.
-    - **(C)** *Other banking terms* The terms “appropriate Federal banking agency”, “depository institution holding company”, and “insured depository institution” have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.
+    - **(C)** *Insured credit union* The term “insured credit union” has the meaning given that term under section 101 of the Federal Credit Union Act.
+    - **(D)** *Other banking terms* The terms “depository institution holding company” and “insured depository institution” have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.
+- **(c)** *Rule of construction* Nothing in this Act, or any amendment made by this Act, shall be construed as limiting the authority of an appropriate Federal banking agency (as defined under subsection (b)(2)) to obtain information from an institution in connection with such agency’s authority to examine or require reports from the institution.
