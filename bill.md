@@ -1,0 +1,21 @@
+---
+legis-num: S. 2241
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2241
+
+> To amend the Patient Protection and Affordable Care Act by clarifying that State Exchanges are prohibited from imposing fees or assessments on issuers of excepted benefits and standalone dental plans not sold through an Exchange.
+
+## § 1. Prohibiting State exchanges from imposing assessments or fees on excepted benefits and standalone dental plans not sold through an Exchange
+
+- **(a)** *In general* Section 1311(d)(5) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(d)(5)) is amended—
+  - **(1)** in subparagraph (A), by inserting “, subject to subparagraph (C)” after “its operations”; and
+  - **(2)** by adding at the end the following new subparagraph:
+    > - **(C)** *Limitation* A State may not charge a health insurance issuer, solely for purposes of supporting an Exchange in accordance with subparagraph (A), an assessment, user fee, tax, or any other fee—
+    >   - **(i)** on excepted benefits coverage within the meaning of section 2791(c) of the Public Health Service Act that is not sold on an Exchange; or
+    >   - **(ii)** on standalone dental plans described in paragraph (2)(B)(ii) that are not sold on an Exchange.
+
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply to assessments, user fees, taxes, and other fees imposed, assessed, or collected on or after January 1, 2018, except that, with respect to the Exchange of the District of Columbia, such amendments shall apply to assessments, user fees, taxes, and other fees imposed, assessed, or collected on or after January 1, 2020.
