@@ -1,7 +1,7 @@
 ---
 measure: S. 1769
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1769
@@ -16,9 +16,10 @@ Connected Government Act
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Connected Government Act
 
 - 2017-09-07 — Introduced in Senate
 - 2017-09-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2017-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-195.
+- 2017-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-195.
+- 2017-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.
