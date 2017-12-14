@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4042
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4042
@@ -54,3 +54,13 @@ To designate the facility of the United States Postal Service located at 1415 We
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported by Unanimous Consent.
+- 2017-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gianforte objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9818-9819; text: CR H9818-9819)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4042.
+- 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-12-14 — Considered as unfinished business. (consideration: CR H9918)
+- 2017-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2017-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
