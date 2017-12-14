@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4324
 
-> To require the Secretary of the Treasury to make certifications with respect to United States and foreign financial institutions’ aircraft-related transactions involving Iran, and for other purposes.
+> To require the Secretary of the Treasury to make certifications with respect to United States and foreign financial institutions' aircraft-related transactions involving Iran, and for other purposes.
 
 ## § 1. Short title
 
@@ -22,7 +22,7 @@ The Congress finds the following:
 - **(3)** In March 2016 remarks to the Carnegie Endowment for International Peace, Secretary Lew, in reference to U.S. commitments under the JCPOA, stated: “While we have lifted the nuclear sanctions, we continue to enforce sanctions directed at support for terrorism and regional destabilization, and missile and human rights violations.”.
 - **(4)** In an April 2016 forum at the Council on Foreign Relations, Secretary Lew stated that, under the JCPOA, the U.S. committed to lifting its nuclear sanctions, “but the U.S. financial system is not open to Iran, and that is not something that is going to change”.
 - **(5)** In September 2016, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) issued licenses permitting the export of up to 97 aircraft for use by Iran Air, the Islamic Republic of Iran's flagship state-owned carrier. These licenses included authorization for U.S. financial institutions “to engage in all transactions necessary to provide financing or other financial services” in order to effectuate the sales. In November 2016, OFAC licensed an additional 106 aircraft for purchase by Iran Air, which are also eligible for financing authorized by OFAC.
-- **(6)** The Department of the Treasury had sanctioned Iran Air in 2011 for its use of commercial passenger aircraft to transport rockets, missiles, and other military cargo on behalf of the Islamic Revolutionary Guard Corps (IRGC) and Iran’s Ministry of Defense and Armed Forces Logistics, both of which had been designated under Executive Order 13382 for weapons proliferation-related activities. In October 2017, the IRGC went on to be designated under Executive Order 13224 for its support of the IRGC-Qods Force, which has provided support to terrorist groups such as Hizballah, Hamas, and the Taliban.
+- **(6)** The Department of the Treasury had sanctioned Iran Air in 2011 for its use of commercial passenger aircraft to transport rockets, missiles, and other military cargo on behalf of the Islamic Revolutionary Guard Corps (IRGC) and Iran’s Ministry of Defense and Armed Forces Logistics, both of which had been designated under Executive Order No. 13382 for weapons proliferation-related activities. In October 2017, the IRGC went on to be designated under Executive Order No. 13224 for its support of the IRGC-Qods Force, which has provided support to terrorist groups such as Hizballah, Hamas, and the Taliban.
 - **(7)** Among Iran Air’s sanctionable activities, the airline delivered missile or rocket components to the Assad government in Syria, which like Iran is classified as a state sponsor of terrorism.
 - **(8)** The Assad regime is responsible for a civil conflict that has claimed an estimated 400,000 lives, including through the government's deployment of chemical weapons and barrel bombs against unarmed civilians and children.
 - **(9)** Despite being delisted in 2016, Iran Air has continued to fly known weapons resupply routes to government-controlled areas of Syria. According to research by the Foundation for Defense of Democracies, between Implementation Day of the JCPOA on January 16, 2016, and May 4, 2017, Iran Air operated at least 134 flights to Syria, which included stops in Abadan, Iran, a suspected IRGC logistical hub for airlifts to the Assad regime.
@@ -32,17 +32,18 @@ The Congress finds the following:
 ## § 3. Certifications for aircraft-related transactions by United States and foreign financial institutions
 
 - **(a)** *In general* Not later than 30 days after authorizing a transaction by a United States or foreign financial institution in connection with the export or re-export of a commercial passenger aircraft to Iran (or, for an authorization made after January 16, 2016, but before the date of the enactment of this Act, not later than 60 days after such date of enactment), and every 180 days thereafter for the duration of the authorization, the Secretary of the Treasury shall submit the report described under subsection (b) to the appropriate congressional committees.
-- **(b)** *Report with respect to financial institutions’ Iran-related transactions and due diligence* With respect to a financial institution and a transaction described under subsection (a), a report is described under this subsection if it contains—
-  - **(1)** a list of financial institutions that, since January 16, 2016, have conducted transactions authorized by the Secretary in connection with the export or re-export of commercial passenger aircraft to Iran;
+- **(b)** *Report with respect to financial institutions’ Iran-Related transactions and due diligence* With respect to a financial institution and a transaction described under subsection (a), a report is described under this subsection if it contains—
+  - **(1)** a list of financial institutions that, since January 16, 2016, have conducted transactions authorized by the Secretary in connection with the export or re-export of commercial passenger aircraft to Iran; and
   - **(2)** either—
     - **(A)** a certification that—
       - **(i)** the transaction does not pose a significant money laundering or terrorism financing risk to the United States financial system;
-      - **(ii)** the transaction will not benefit an Iranian person that, since the date that is one year preceding the date of the certification—
-        - **(I)** has knowingly transported items used for the proliferation of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; or
-        - **(II)** has knowingly provided transportation services or material support for, or on behalf of, any person designated under Executive Orders 13224, 13382, or 13572; and
+      - **(ii)** the transaction will not benefit an Iranian person that, since the date that is 1 year preceding the date of the certification—
+        - **(I)** has knowingly transported items used for the proliferation of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons;
+        - **(II)** has knowingly transported items used to establish in Syria a permanent military presence of either Iranian military forces or Iranian backed militia; or
+        - **(III)** has knowingly provided transportation services or material support for, or on behalf of, any person designated under Executive Order Nos. 13224, 13382, or 13572; and
       - **(iii)** any financial institution described under subsection (b)(1) has had since the date such authorization was made, or, if the authorization is no longer in effect, had for the duration of such authorization, appropriate policies, procedures, and processes in place to avoid engaging in sanctionable activities that may result from the financial institutions’ exposure to Iran; or
     - **(B)** a statement that the Secretary is unable to make the certification described under subparagraph (A) and a notice that the Secretary will, not later than 60 days after the date the determination is submitted to the appropriate congressional committees, issue a report on non-certification described under subsection (c) to the appropriate congressional committees.
-- **(c)** *Report on non-certification* With respect to a financial institution and a transaction described under subsection (a), a report on non-certification is described under this subsection if it contains—
+- **(c)** *Report on non-Certification* With respect to a financial institution and a transaction described under subsection (a), a report on non-certification is described under this subsection if it contains—
   - **(1)** a detailed explanation for why the Secretary is unable to make the certification described under subsection (b)(2);
   - **(2)** a notification of whether the Secretary will—
     - **(A)** not amend the authorization of the transaction with respect to a financial institution, notwithstanding such non-certification;
@@ -50,7 +51,7 @@ The Congress finds the following:
     - **(C)** revoke the authorization; or
     - **(D)** otherwise amend the authorization; and
   - **(3)** an explanation of the reasons for any action to be taken described under paragraph (2).
-- **(d)** *Waiver* The President may waive, on a case-by-case basis, the provisions of this Act for up to one year at a time upon certifying to the appropriate congressional committees that—
+- **(d)** *Waiver* The President may waive, on a case-by-case basis, the provisions of this Act for up to 1 year at a time upon certifying to the appropriate congressional committees that—
   - **(1)** the Government of Iran has—
     - **(A)** made substantial progress towards combating money laundering and terrorism financing risk emanating from Iran; or
     - **(B)** has significantly reduced Iran’s—
