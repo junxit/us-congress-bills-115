@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4292
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 12 U.S.C. § 5365
 
-> in paragraph (1), by striking “periodically” and inserting “not more often than every 2 years”; and
+> in paragraph (1), by striking “periodically” and inserting “every 2 years”; and
 
 | | |
 |---|---|
 | Removed | `periodically` |
-| Inserted | `not more often than every 2 years` |
+| Inserted | `every 2 years` |
 
 ## Stated, not applied
 
