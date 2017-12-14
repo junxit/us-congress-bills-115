@@ -1,7 +1,7 @@
 ---
 measure: S. 584
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 25 U.S.C. § 450b
+### 16 U.S.C. § 1604
 
 > in paragraph (6), by striking “minimize the significant economic impact” and inserting “minimize the adverse significant economic impact or maximize the beneficial significant economic impact”.
 
@@ -42,19 +42,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 450b` | amend | Section 601(2) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | add-at-end | Section 601 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | replace | Section 603(c) of title 5, United States Code, is amended by striking the first sentence and inserting “Each initial regulatory flexibility analysis shall also contain a detailed description of alternatives to the proposed rule which min… | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 450b` | redesignate | by redesignating the second paragraph designated as paragraph (6) (relating to covered agencies) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | insert | Section 601(5) of title 5, United States Code, is amended by inserting “and tribal organizations (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l))),” after “special districts,”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1604` | amend | Section 601(2) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | add-at-end | Section 601 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | replace | Section 603(c) of title 5, United States Code, is amended by striking the first sentence and inserting “Each initial regulatory flexibility analysis shall also contain a detailed description of alternatives to the proposed rule which min… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1604` | redesignate | by redesignating the second paragraph designated as paragraph (6) (relating to covered agencies) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | insert | Section 601(5) of title 5, United States Code, is amended by inserting “and tribal organizations (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b5304(l))),” after “special district… | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1604` | strike | by striking “or” after “proposed rule,”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1604` | insert | by inserting “or publishes a revision or amendment to a land management plan,” after “United States,”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1604` | strike | by striking “or” after “proposed rulemaking,”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1604` | insert | by inserting “or adopts a revision or amendment to a land management plan,” after “section 603(a),”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1604` | add-at-end | Section 601 of title 5, United States Code, as amended by subsection (b), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | replace | Section 603(a) of title 5, United States Code, is amended by striking the period at the end and inserting “or a recordkeeping requirement, and without regard to whether such requirement is imposed by statute or regulation.”. | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 450b` | amend | Section 601(7) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | amend | Section 601(8) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | replace | Section 603(a) of title 5, United States Code, is amended by striking the period at the end and inserting “or a recordkeeping requirement, and without regard to whether such requirement is imposed by statute or regulation.”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1604` | amend | Section 601(7) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | amend | Section 601(8) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | amend | Section 601(4) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (2), by striking “, and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
@@ -93,7 +93,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 612(b) of title 5, United States Code, is amended by inserting “chapter 5, and chapter 7,” after “this chapter,”. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 632` | amend | Section 3(a)(2)(A) of the Small Business Act (15 U.S.C. 632(a)(2)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | amend | Section 3(a)(2)(C)(iii) of the Small Business Act (15 U.S.C. 632(a)(2)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | insert | by inserting “or Chief Counsel for Advocacy, as appropriate” before “shall ensure”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 632` | insert | by inserting “or Chief Counsel for Advocacy, as appropriate,” before “shall ensure”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 632` | insert | by inserting “or Chief Counsel for Advocacy” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 632` | add-at-end | Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking the semicolon at the end and inserting a period; and | the bill names no machine-readable US Code section |

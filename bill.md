@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 584
 
-> To amend chapter 6 of title 5, United States Code (commonly known as the Regulatory Flexibility Act), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes.
+> To amend chapter 6 of title 5, United States Code (commonly known as the “Regulatory Flexibility Act”), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,9 +17,9 @@ This Act may be cited as the “Small Business Regulatory Flexibility Improvemen
 
 - **(a)** *In general* Section 601(2) of title 5, United States Code, is amended to read as follows:
   > - **(2)** *Rule* The term rule—
-  >   - **(A)** has the meaning given such term in section 551(4) of this title; and
+  >   - **(A)** has the meaning given such the term in section 551(4) of this title; and
   >   - **(B)** does not include—
-  >     - **(i)** a rule pertaining to the protection of the rights of and benefits for veterans or part 232 of title 32 of the Code of Federal Regulations (as in effect on July 1, 2014) or any successor provisions thereto; or
+  >     - **(i)** a rule pertaining to the protection of the rights of and benefits for veterans or part 232 of title 32, of the Code of Federal Regulations (as in effect on July 1, 2014), or any successor provisions thereto; or
   >     - **(ii)** a rule of particular (and not general) applicability relating to rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services, or allowances therefor or to valuations, costs or accounting, or practices relating to such rates, wages, structures, prices, appliances, services, or allowances.
 
 - **(b)** *Inclusion of rules with indirect effects* Section 601 of title 5, United States Code, is amended by adding at the end the following:
@@ -32,7 +32,7 @@ This Act may be cited as the “Small Business Regulatory Flexibility Improvemen
   - **(2)** *Final regulatory flexibility analysis* Section 604(a) of title 5, United States Code, is amended—
     - **(A)** by redesignating the second paragraph designated as paragraph (6) (relating to covered agencies) as paragraph (7); and
     - **(B)** in paragraph (6), by striking “minimize the significant economic impact” and inserting “minimize the adverse significant economic impact or maximize the beneficial significant economic impact”.
-- **(d)** *Inclusion of rules affecting tribal organizations* Section 601(5) of title 5, United States Code, is amended by inserting “and tribal organizations (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l))),” after “special districts,”.
+- **(d)** *Inclusion of rules affecting tribal organizations* Section 601(5) of title 5, United States Code, is amended by inserting “and tribal organizations (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b5304(l))),” after “special districts,”.
 - **(e)** *Inclusion of land management plans and formal rule making*
   - **(1)** *Initial regulatory flexibility analysis* Section 603(a) of title 5, United States Code, is amended in the first sentence—
     - **(A)** by striking “or” after “proposed rule,”; and
@@ -62,7 +62,7 @@ This Act may be cited as the “Small Business Regulatory Flexibility Improvemen
 
 - **(g)** *Definition of small organization* Section 601(4) of title 5, United States Code, is amended to read as follows:
   > - **(4)** *Small organization*
-  >   - **(A)** *In general* The term small organization means any nonprofit enterprise which, as of the issuance of the notice of proposed rule making—
+  >   - **(A)** *In general* The term small organization means any nonprofit enterprise which, as of the issuance of the a notice of proposed rule making—
   >     - **(i)** in the case of an enterprise which is described by a classification code of the North American Industrial Classification System, does not exceed the size standard established by the Administrator of the Small Business Administration pursuant to section 3 of the Small Business Act (15 U.S.C. 632) for small business concerns described by such classification code; and
   >     - **(ii)** in the case of any other enterprise, has a net worth that does not exceed $7,000,000 and has not more than 500 employees.
   >   - **(B)** *Local labor organizations* In the case of any local labor organization, subparagraph (A) shall be applied without regard to any national or international organization of which such local labor organization is a part.
@@ -125,13 +125,20 @@ Section 602 of title 5, United States Code, is amended—
   > - **(1)** a quantifiable or numerical description of the effects of the proposed or final rule and alternatives to the proposed or final rule; or
   > - **(2)** a more general descriptive statement and a detailed statement explaining why quantification is not practicable or reliable.
 
+  > ## § 607. Quantification requirements
+  >
+  > In complying with sections 603 and 604, an agency shall provide—
+  >
+  > - **(1)** a quantifiable or numerical description of the effects of the proposed or final rule and alternatives to the proposed or final rule; or
+  > - **(2)** a more general descriptive statement and a detailed statement explaining why quantification is not practicable or reliable.
+
 ## § 5. Repeal of waiver and delay authority; additional powers of the chief counsel for advocacy
 
 - **(a)** *In general* Section 608 of title 5, United States Code, is amended to read as follows:
   > ## § 608. Additional powers of chief counsel for advocacy
   >
   > - **(a)**
-  >   - **(1)** Not later than 270 days after the date of enactment of this section, the Chief Counsel for Advocacy of the Small Business Administration shall, after opportunity for notice and comment under section 553, issue rules governing agency compliance with this chapter. The Chief Counsel may modify or amend such rules after notice and comment under section 553. This chapter (other than this subsection) shall not apply with respect to the issuance, modification, and amendment of rules under this paragraph.
+  >   - **(1)** Not later than 270 days after the date of enactment of this section the Small Business Regulatory Flexibility Improvements Act, the Chief Counsel for Advocacy of the Small Business Administration shall, after opportunity for notice and comment under section 553, issue rules governing agency compliance with this chapter. The Chief Counsel may modify or amend such rules after notice and comment under section 553. This chapter (other than this subsection) shall not apply with respect to the issuance, modification, and amendment of rules under this paragraph.
   >   - **(2)** An agency shall not issue rules which supplement the rules issued under subsection (a) unless such agency has first consulted with the Chief Counsel for Advocacy to ensure that the supplemental rules comply with this chapter and the rules issued under paragraph (1).
   > - **(b)** Notwithstanding any other law, the Chief Counsel for Advocacy of the Small Business Administration may intervene in any agency adjudication (unless such agency is authorized to impose a fine or penalty under such adjudication), and may inform the agency of the impact that any decision on the record may have on small entities. The Chief Counsel shall not initiate an appeal with respect to any adjudication in which the Chief Counsel intervenes under this subsection.
   > - **(c)** The Chief Counsel for Advocacy may file comments in response to any agency notice requesting comment, regardless of whether the agency is required to file a general notice of proposed rule making under section 553.
@@ -157,7 +164,7 @@ Section 609 of title 5, United States Code, is amended by striking subsection (b
 >     - **(B)** is proposed by an independent regulatory agency.
 > - **(c)** Not later than 15 days after the receipt of the materials and information under subsection (b), the Chief Counsel for Advocacy of the Small Business Administration shall—
 >   - **(1)** identify small entities or representatives of small entities or a combination of both for the purpose of obtaining advice, input, and recommendations from those persons about the potential economic impacts of the proposed rule and the compliance of the agency with section 603; and
->   - **(2)** convene a review panel consisting of an employee from the Office of Advocacy of the Small Business Administration, an employee from the agency making the rule, and in the case of an agency other than an independent regulatory agency, an employee from the Office of Information and Regulatory Affairs of the Office of Management and Budget to review the materials and information provided to the Chief Counsel under subsection (b).
+>   - **(2)** convene a review panel consisting of an employee from the Office of Advocacy of the Small Business Administration, an employee from the agency making the rule, and, in the case of an agency other than an independent regulatory agency, an employee from the Office of Information and Regulatory Affairs of the Office of Management and Budget to review the materials and information provided to the Chief Counsel under subsection (b).
 > - **(d)**
 >   - **(1)** Not later than 60 days after the review panel described in subsection (c)(2) is convened, the Chief Counsel for Advocacy of the Small Business Administration shall, after consultation with the members of the panel, submit a report to the agency and, in the case of an agency other than an independent regulatory agency, the Office of Information and Regulatory Affairs of the Office of Management and Budget.
 >   - **(2)** Each report described in paragraph (1) shall include an assessment of the economic impact of the proposed rule on small entities, including—
@@ -171,7 +178,7 @@ Section 609 of title 5, United States Code, is amended by striking subsection (b
 >   - **(3)** significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic and export markets; or
 >   - **(4)** a significant economic impact on a substantial number of small entities.
 > - **(f)** Upon application by the agency, the Chief Counsel for Advocacy of the Small Business Administration may waive the requirements of subsections (b) through (e) if the Chief Counsel determines that compliance with the requirements of such subsections are impracticable, unnecessary, or contrary to the public interest.
-> - **(g)** A small entity or a representative of a small entity may submit a request that the agency provide a copy of the report prepared under subsection (d) and all materials and information provided to the Chief Counsel for Advocacy of the Small Business Administration under subsection (b). The agency receiving such request shall provide the report, materials and information to the requesting small entity or representative of a small entity not later than 10 business days after receiving such request, except that the agency shall not disclose any information that is prohibited from disclosure to the public pursuant to section 552(b) of this title.
+> - **(g)** A small entity or a representative of a small entity may submit a request that the agency provide a copy of the report prepared under subsection (d) and all materials and information provided to the Chief Counsel for Advocacy of the Small Business Administration under subsection (b). The agency receiving such request shall provide the report, materials, and information to the requesting small entity or representative of a small entity not later than 10 business days after receiving such request, except that the agency shall not disclose any information that is prohibited from disclosure to the public pursuant to section 552(b) of this title.
 > - **(h)** In this section, the term independent regulatory agency has the meaning given the term in section 3502 of title 44.
 
 ## § 7. Periodic review of rules
@@ -180,10 +187,10 @@ Section 610 of title 5, United States Code, is amended to read as follows:
 
 > ## § 610. Periodic review of rules
 >
-> - **(a)** Not later than 180 days after the date of enactment of this section, each agency shall publish in the Federal Register and place on website of the agency a plan for the periodic review of rules issued by the agency which the head of the agency determines have a significant economic impact on a substantial number of small entities. Such determination shall be made without regard to whether the agency performed an analysis under section 604. The purpose of the review shall be to determine whether such rules should be continued without change, or should be amended or rescinded, consistent with the stated objectives of applicable statutes, to minimize any adverse significant economic impacts or maximize any beneficial significant economic impacts on a substantial number of small entities. Such plan may be amended by the agency at any time by publishing the revision in the Federal Register and subsequently placing the amended plan on the website of the agency.
-> - **(b)** The plan shall provide for the review of all such agency rules existing on the date of enactment of this section within 10 years of the date of publication of the plan in the Federal Register and for review of rules adopted after the date of enactment of this section within 10 years after the publication of the final rule in the Federal Register. If the head of the agency determines that completion of the review of existing rules is not feasible by the established date, the head of the agency shall so certify in a statement published in the Federal Register and may extend the review for not longer than 2 years after publication of notice of extension in the Federal Register. Such certification and notice shall be sent to the Chief Counsel for Advocacy of the Small Business Administration and the Congress.
+> - **(a)** Not later than 180 days after the date of enactment of this section the Small Business Regulatory Flexibility Improvements Act, each agency shall publish in the Federal Register and place on website of the agency a plan for the periodic review of rules issued by the agency which the head of the agency determines have a significant economic impact on a substantial number of small entities. Such determination shall be made without regard to whether the agency performed an analysis under section 604. The purpose of the review shall be to determine whether such rules should be continued without change, or should be amended or rescinded, consistent with the stated objectives of applicable statutes, to minimize any adverse significant economic impacts or maximize any beneficial significant economic impacts on a substantial number of small entities. Such plan may be amended by the agency at any time by publishing the revision in the Federal Register and subsequently placing the amended plan on the website of the agency.
+> - **(b)** The plan shall provide for the review of all such agency rules existing on the date of enactment of this section the Small Business Regulatory Flexibility Improvements Act within 10 years of the date of publication of the plan in the Federal Register and for review of rules adopted after the date of enactment of this section the Small Business Regulatory Flexibility Improvements Act within 10 years after the publication of the final rule in the Federal Register. If the head of the agency determines that completion of the review of existing rules is not feasible by the established date, the head of the agency shall so certify in a statement published in the Federal Register and may extend the review for not longer than 2 years after publication of notice of extension in the Federal Register. Such certification and notice shall be sent to the Chief Counsel for Advocacy of the Small Business Administration and the Congress.
 > - **(c)** The plan shall include a section that details how an agency will conduct outreach to and meaningfully include small businesses (including small business concerns owned and controlled by women, small business concerns owned and controlled by veterans, and small business concerns owned and controlled by socially and economically disadvantaged individuals (as such terms are defined in section 3 and section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 632 and 637(d)(3)(C)))) for the purposes of carrying out this section. The agency shall include in this section a plan for how the agency will contact small businesses and gather their input on existing agency rules.
-> - **(d)** Each agency shall annually submit a report regarding the results of its review pursuant to such plan to Congress, the Chief Counsel for Advocacy of the Small Business Administration, and, in the case of agencies other than independent regulatory agencies (as defined in section 3502 of title 44) to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget. Such report shall include the identification of any rule with respect to which the head of the agency made a determination described in paragraph (5) or (6) of subsection (e) and a detailed explanation of the reasons for such determination.
+> - **(d)** Each agency shall annually submit a report regarding the results of its review pursuant to such plan to Congress, the Chief Counsel for Advocacy of the Small Business Administration, and, in the case of agencies other than independent regulatory agencies (as defined in section 3502 of title 44), to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget. Such report shall include the identification of any rule with respect to which the head of the agency made a determination described in paragraph (5) or (6) of subsection (e) and a detailed explanation of the reasons for such determination.
 > - **(e)** In reviewing a rule pursuant to subsections (a) through (d), the agency shall amend or rescind the rule to minimize any adverse significant economic impact on a substantial number of small entities or disproportionate economic impact on a specific class of small entities, or maximize any beneficial significant economic impact of the rule on a substantial number of small entities to the greatest extent possible, consistent with the stated objectives of applicable statutes. In amending or rescinding the rule, the agency shall consider the following factors:
 >   - **(1)** The continued need for the rule.
 >   - **(2)** The nature of complaints received by the agency from small entities concerning the rule.
@@ -231,7 +238,7 @@ Section 610 of title 5, United States Code, is amended to read as follows:
   > - **(iii)** except in the case of a size standard prescribed by the Administrator, is approved by the Chief Counsel for Advocacy.
 
 - **(c)** *Industry variation* Section 3(a)(3) of the Small Business Act (15 U.S.C. 632(a)(3)) is amended—
-  - **(1)** by inserting “or Chief Counsel for Advocacy, as appropriate” before “shall ensure”; and
+  - **(1)** by inserting “or Chief Counsel for Advocacy, as appropriate,” before “shall ensure”; and
   - **(2)** by inserting “or Chief Counsel for Advocacy” before the period at the end.
 - **(d)** *Judicial review of size standards approved by chief counsel* Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following:
   > - **(10)** *Judicial review of standards approved by chief counsel* In the case of an action for judicial review of a rule which includes a definition or standard approved by the Chief Counsel for Advocacy under this subsection, the party seeking such review shall be entitled to join the Chief Counsel as a party in such action.
@@ -260,6 +267,8 @@ Section 610 of title 5, United States Code, is amended to read as follows:
       > - **(6)** *Small entity* The term
 
 - **(b)** *Incorporations by reference and certifications* The heading of section 605 of title 5, United States Code, is amended to read as follows:
+  > ## § 605. Incorporations by reference and certifications
+
   > ## § 605. Incorporations by reference and certifications
 
 - **(c)** *Table of sections* The table of sections for chapter 6 of title 5, United States Code, is amended as follows:
@@ -291,9 +300,9 @@ Section 3506 of title 44, United States Code (commonly referred to as the “Pap
 
 > - **(j)** *Small businesses*
 >   - **(1)** *Definitions* In this subsection:
->     - **(A)** *First time violation* The term first-time violation means a violation by a small business concern of a requirement regarding collection of information by an agency, where the small business concern has not previously violated any similar requirement regarding collection of information by that same agency during the 5-year period preceding the violation.
+>     - **(A)** *First-time violation* The term first-time violation means a violation by a small business concern of a requirement regarding collection of information by an agency, where the small business concern has not previously violated any similar requirement regarding collection of information by that same agency during the 5-year period preceding the violation.
 >     - **(B)** *Small business concern* The term small business concern has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).
->   - **(2)** *First time violation*
+>   - **(2)** *First-time violation*
 >     - **(A)** *In general* Except as provided in paragraph (3), in the case of a first-time violation by a small business concern of a requirement regarding the collection of information by an agency, the head of the agency shall not impose a civil fine on the small business concern.
 >     - **(B)** *Determination* For purposes of determining whether to impose a civil fine on a small business concern under subparagraph (A), the head of an agency shall not take into account any violation by the small business concern of a requirement regarding collection of information by another agency.
 >     - **(C)** *Exception* An agency may impose a civil fine on a small business concern for a first-time violation if the head of the agency determines that—
