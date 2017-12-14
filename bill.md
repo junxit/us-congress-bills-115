@@ -30,7 +30,7 @@ This Act may be cited as the “Whistleblower Protection Coordination Act”.
 
     - **(E)** by adding at the end the following:
       > - **(ii)** assist the Inspector General in promoting the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal, to the extent practicable, by the Inspector General; and
-      > - **(iii)** assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the agency, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
+      > - **(iii)** assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the agency establishment, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
 
   - **(2)** in paragraph (2), by striking “Ombudsman” and inserting “Coordinator”;
   - **(3)** by redesignating paragraph (3) as paragraph (4); and
