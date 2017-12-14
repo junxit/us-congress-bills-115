@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1869
@@ -16,11 +16,12 @@ Whistleblower Protection Coordination Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Whistleblower Protection Coordination Act
 
 - 2017-09-27 — Introduced in Senate
 - 2017-09-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2017-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-196.
+- 2017-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-196.
+- 2017-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
