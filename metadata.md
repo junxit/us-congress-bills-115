@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2815
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2815
@@ -39,3 +39,20 @@ To designate the facility of the United States Postal Service located at 30 East
 - 2017-06-07 — Introduced in House
 - 2017-06-07 — Introduced in House
 - 2017-06-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Unanimous Consent.
+- 2017-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gianforte objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2017-12-12 — Considered under suspension of the rules. (consideration: CR H9816-9818; text: CR H9816)
+- 2017-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2815.
+- 2017-12-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2017-12-14 — Amendment (A001) offered by Mr. Gianforte. (consideration: CR H9918; text: CR H9918)
+- 2017-12-14 — Amendment agreed to by House: On agreeing to the Gianforte amendment (A001) Agreed to without objection.
+- 2017-12-14 — Considered as unfinished business. (consideration: CR H9918)
+- 2017-12-14 — House amendment agreed to: On agreeing to the Gianforte amendment (A001) Agreed to without objection.
+- 2017-12-14 — House amendment offered
+- 2017-12-14 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gianforte.(consideration: CR H9918; text: CR H9918)
+- 2017-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-14 — On agreeing to the Gianforte amendment (A001) Agreed to without objection.
+- 2017-12-14 — On motion to suspend the rules and pass the bill as amended Agreed to by voice vote.
+- 2017-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill as amended Agreed to by voice vote.
+- 2017-12-14 — The title of the measure was amended. Agreed to without objection.
