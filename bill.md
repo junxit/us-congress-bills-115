@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 4646
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4646
+
+> To designate the facility of the United States Postal Service located at 1900 Corporate Drive in Birmingham, Alabama, as the “Lance Corporal Thomas E. Rivers, Jr. Post Office Building”.
+
+## § 1. Lance Corporal Thomas E. Rivers, Jr. Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 1900 Corporate Drive in Birmingham, Alabama, shall be known and designated as the “Lance Corporal Thomas E. Rivers, Jr. Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Lance Corporal Thomas E. Rivers, Jr. Post Office Building”.
