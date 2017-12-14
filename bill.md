@@ -2,15 +2,11 @@
 legis-num: H.R. 1
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1
 
-> To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.
+That the bill from the House of Representatives (H.R. 1) entitled “An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.”, do pass with the following
 
-## § 1. Short title; etc
-
-- **(a)** *Short title* This Act may be cited as the “Tax Cuts and Jobs Act”.
-- **(b)** *Amendment of 1986 Code* Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
-- **(c)** *Table of contents* The table of contents for this Act is as follows:
+*Strike all after the first word and insert the following:*

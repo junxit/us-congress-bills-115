@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1
@@ -16,7 +16,7 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Cosponsors (24)
+## Cosponsors (349)
 
 - Rep. Ryan, Paul D. [R-WI-1] (R000570)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -42,6 +42,331 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 - Rep. Bishop, Mike [R-MI-8] (B001293)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Strange, Luther [R-AL] (S001202)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -77,3 +402,376 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-11-16 — The title of the measure was amended pursuant to H. Res. 619.
 - 2017-11-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2017-11-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
+- 2017-11-29 — Amendment SA 1618 proposed by Senator McConnell for Senator Hatch. (consideration: CR S7402) To improve the bill.
+- 2017-11-29 — Measure laid before Senate by motion.
+- 2017-11-29 — Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 285.
+- 2017-11-29 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 284. (consideration: CR S7393-7402, S7499-7504)
+- 2017-11-29 — Senate amendment proposed (on the floor): Amendment SA 1618 proposed by Senator McConnell for Senator Hatch.(consideration: CR S7402)
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-29 — Senate amendment submitted
+- 2017-11-30 — Considered by Senate. (consideration: CR S7507-7557)
+- 2017-11-30 — Considered by Senate. (consideration: CR S7508)
+- 2017-11-30 — Motion by Senator Baldwin to commit to Senate Committee on Finance with instructions made in Senate.
+- 2017-11-30 — Motion by Senator Brown to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 286.
+- 2017-11-30 — Motion by Senator Casey to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 287.
+- 2017-11-30 — Motion by Senator King to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 288.
+- 2017-11-30 — Motion by Senator Nelson to commit to Senate Committee on Finance with instructions made in Senate.
+- 2017-11-30 — Motion by Senator Stabenow to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 289.
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-11-30 — Senate amendment submitted
+- 2017-12-01 — Amendment SA 1720 proposed by Senator McConnell for Senator Sanders to Amendment SA 1618. (consideration: CR S7700, S7702; text: CR S7700) To create a point of order against legislation that cuts Social Security, Medicare, or Medicaid benefits.
+- 2017-12-01 — Amendment SA 1720 ruled out of order by the chair.
+- 2017-12-01 — Amendment SA 1846 proposed by Senator Cornyn for Senator Kaine to Amendment SA 1618. (consideration: CR S7704-7706; text: CR S7704-7705) To provide middle class tax relief.
+- 2017-12-01 — Amendment SA 1850 proposed by Senator McConnell for Senator Rubio to Amendment SA 1618. (consideration: CR S7700, S7703; text: CR S7701-7702) To increase the refundability of the child tax credit, and for other purposes.
+- 2017-12-01 — Amendment SA 1850 ruled out of order by the chair.
+- 2017-12-01 — Amendment SA 1852 proposed by Senator Cornyn for Senator Cruz to Amendment SA 1618. (consideration: CR S7704-7705; text: CR S7704) To allow limited 529 account funds to be used for elementary and secondary education, including homeschool.
+- 2017-12-01 — Amendment SA 1854 proposed by Senator McConnell for Senator Brown to Amendment SA 1618. (consideration: CR S7700, S7702-7703; text: CR S7700-7701) To amend the Internal Revenue Code of 1986 to increase the Child Tax Credit, and for other purposes.
+- 2017-12-01 — Amendment SA 1854 ruled out of order by the chair.
+- 2017-12-01 — Amendment SA 1855 agreed to in Senate by Unanimous Consent.
+- 2017-12-01 — Amendment SA 1855 proposed by Senator McConnell for Senator Hatch to Amendment SA 1618. (consideration: CR S7700; text: CR S7758-7804) To provide a perfecting amendment.
+- 2017-12-01 — Considered by Senate. (consideration: CR S7653, S7712)
+- 2017-12-01 — Considered by Senate. (consideration: CR S7653-7712)
+- 2017-12-01 — Motion by Senator Baldwin to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 291.
+- 2017-12-01 — Motion by Senator Cardin to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 43 - 57. Record Vote Number: 292.
+- 2017-12-01 — Motion by Senator Menendez to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 297.
+- 2017-12-01 — Motion by Senator Nelson to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 290.
+- 2017-12-01 — Motion to waive the Budget Act with respect to amendment SA 1720 rejected in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 294.
+- 2017-12-01 — Motion to waive the Budget Act with respect to amendment SA 1850 rejected in Senate by Yea-Nay Vote. 29 - 71. Record Vote Number: 296.
+- 2017-12-01 — Motion to waive the Budget Act with respect to amendment SA 1854 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 295.
+- 2017-12-01 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 1850.
+- 2017-12-01 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 1854.
+- 2017-12-01 — Point of order that the amendment violates section 313(b)(1)(A) of the CBA raised in Senate with respect to amendment SA 1720.
+- 2017-12-01 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1720 rejected in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 294.
+- 2017-12-01 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1850 rejected in Senate by Yea-Nay Vote. 29 - 71. Record Vote Number: 296.
+- 2017-12-01 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1854 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 295.
+- 2017-12-01 — Senate amendment agreed to: Amendment SA 1855 agreed to in Senate by Unanimous Consent.
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1720 proposed by Senator McConnell for Senator Sanders to Amendment SA 1618.(consideration: CR S7700, S7702; text: CR S7700)
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1846 proposed by Senator Cornyn for Senator Kaine to Amendment SA 1618.(consideration: CR S7704-7706; text: CR S7704-7705)
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1850 proposed by Senator McConnell for Senator Rubio to Amendment SA 1618.(consideration: CR S7700, S7703; text: CR S7701-7702)
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1852 proposed by Senator Cornyn for Senator Cruz to Amendment SA 1618.(consideration: CR S7704-7705; text: CR S7704)
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1854 proposed by Senator McConnell for Senator Brown to Amendment SA 1618.(consideration: CR S7700, S7702-7703; text: CR S7700-7701)
+- 2017-12-01 — Senate amendment proposed (on the floor): Amendment SA 1855 proposed by Senator McConnell for Senator Hatch to Amendment SA 1618.(consideration: CR S7700; text: CR S7758-7804)
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-01 — Senate amendment submitted
+- 2017-12-02 — Amendment SA 1618, as amended, agreed to in Senate by Voice Vote.
+- 2017-12-02 — Amendment SA 1717 proposed by Senator Cantwell to Amendment SA 1618. (consideration: 12/01/17 CR S7707-7711; text: 12/01/17 CR S7707) To strike title II.
+- 2017-12-02 — Amendment SA 1717 ruled out of order by the chair.
+- 2017-12-02 — Amendment SA 1846 ruled out of order by the chair.
+- 2017-12-02 — Amendment SA 1852 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 298.
+- 2017-12-02 — Amendment SA 1856 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 302.
+- 2017-12-02 — Amendment SA 1856 proposed by Senator Merkley to Amendment SA 1618. (consideration: 12/01/17 CR S7711-7712; text: 12/01/17 CR S7711) Of a perfecting nature.
+- 2017-12-02 — Motion by Senator Manchin to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 300.
+- 2017-12-02 — Motion to waive the Budget Act with respect to amendment SA 1717 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 301.
+- 2017-12-02 — Motion to waive the Budget Act with respect to amendment SA 1846 rejected in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 299.
+- 2017-12-02 — Passed Senate with an amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 303.
+- 2017-12-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 303.
+- 2017-12-02 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 1717.
+- 2017-12-02 — Point of order that the amendment violates section 4105 of H.Con.Res. 71,115th Congress, raised in Senate with respect to amendment SA 1846.
+- 2017-12-02 — Roll call votes on amendments in Senate: Amendment SA 1852 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 298.
+- 2017-12-02 — Roll call votes on amendments in Senate: Amendment SA 1856 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 302.
+- 2017-12-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1717 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 301.
+- 2017-12-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1846 rejected in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 299.
+- 2017-12-02 — Senate amendment agreed to: Amendment SA 1618, as amended, agreed to in Senate by Voice Vote.
+- 2017-12-02 — Senate amendment agreed to: Amendment SA 1852 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 298.
+- 2017-12-02 — Senate amendment agreed to: Amendment SA 1856 agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 302.
+- 2017-12-02 — Senate amendment proposed (on the floor): Amendment SA 1717 proposed by Senator Cantwell to Amendment SA 1618.(consideration: 12/01/17 CR S7707-7711; text: 12/01/17 CR S7707)
+- 2017-12-02 — Senate amendment proposed (on the floor): Amendment SA 1856 proposed by Senator Merkley to Amendment SA 1618.(consideration: 12/01/17 CR S7711-7712; text: 12/01/17 CR S7711)
+- 2017-12-02 — Senate amendment submitted
+- 2017-12-02 — Senate amendment submitted
+- 2017-12-02 — Senate amendment submitted
+- 2017-12-02 — Senate amendment submitted
+- 2017-12-02 — Senate amendment submitted
+- 2017-12-04 — DEBATE - The House proceeded with one hour of debate on the Neal motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to disagree with section 11081 of the Senate amendment and recede from section 1303 of the House bill.
+- 2017-12-04 — DEBATE - The House proceeded with one hour of debate on the motion to disagree to the Senate amendment and request a conference.
+- 2017-12-04 — Message on Senate action sent to the House.
+- 2017-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-04 — Mr. Brady (TX) moved that the House disagree to the Senate amendment, and request a conference. (consideration: CR H9601-9613)
+- 2017-12-04 — Mr. Neal moved that the House instruct conferees. (consideration: CR H9603; text: CR H9603)
+- 2017-12-04 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to by the Yeas and Nays: 222 - 192 (Roll no. 653).
+- 2017-12-04 — On motion that the House instruct conferees Failed by the Yeas and Nays: 186 - 233 (Roll no. 654).
+- 2017-12-04 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of sec. 20003 of the Senate amendment, and modifications committed to conference: Upton, Shimkus, and Castor of Florida.
+- 2017-12-04 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 20001 and 20002 of the Senate amendment, and modifications committed to conference: Bishop (UT), Young (AK), and Grijalva.
+- 2017-12-04 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of the House bill and the Senate amendment, and modifications committed to conference: Brady (TX), Nunes, Roskam, Black, Noem, Neal, Levin, and Doggett.
+- 2017-12-04 — The previous question was ordered without objection.
+- 2017-12-04 — The previous question was ordered without objection.
+- 2017-12-05 — APPOINTMENT OF CONFEREE - Pursuant to clause 11 of rule I, the Chair announced the removal of the gentleman from Oregon, Mr. Walden, as a conferee on H.R. 1 and appointed the gentleman from Michigan, Mr. Upton, to fill the vacancy.
+- 2017-12-05 — Message on House action received in Senate and at desk: House requests a conference.
+- 2017-12-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7859-7883)
+- 2017-12-06 — Motion by Senator Booker to instruct Senate conferees (health insurance) rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 309.
+- 2017-12-06 — Motion by Senator Booker to instruct Senate conferees made in Senate.
+- 2017-12-06 — Motion by Senator King to instruct Senate conferees (Federal budget deficit) rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 307.
+- 2017-12-06 — Motion by Senator King to instruct Senate conferees made in Senate.
+- 2017-12-06 — Motion by Senator Rubio to instruct Senate conferees (child tax credit) agreed to in Senate by Voice Vote.
+- 2017-12-06 — Motion by Senator Rubio to instruct Senate conferees made in Senate.
+- 2017-12-06 — Motion by Senator Stabenow to instruct Senate conferees (corporate tax rate) rejected in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 308.
+- 2017-12-06 — Motion by Senator Stabenow to instruct Senate conferees made in Senate.
+- 2017-12-06 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 306.
+- 2017-12-06 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate.
+- 2017-12-06 — Senate insists on its amendment, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2017-12-07 — Senate appointed conferees. Hatch; Enzi; Murkowski; Cornyn; Thune; Portman; Scott; Toomey; Wyden; Sanders; Murray; Cantwell; Stabenow; Menendez; Carper.
+- 2017-12-11 — Message on Senate action sent to the House.
+- 2017-12-13 — Conference committee actions: Conference held.
+- 2017-12-13 — Conference held.
