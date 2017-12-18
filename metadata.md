@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3979
@@ -40,6 +40,10 @@ Keep America's Refuges Operational Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2017-12-18 — [House 115-1-687](votes/house-115-1-0687.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (371–14)
+
 ## Actions
 
 - 2017-10-05 — Introduced in House
@@ -55,3 +59,11 @@ Keep America's Refuges Operational Act
 - 2017-12-05 — Placed on the Union Calendar, Calendar No. 324.
 - 2017-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-438.
 - 2017-12-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-438.
+- 2017-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-12-18 — Considered as unfinished business. (consideration: CR H10166)
+- 2017-12-18 — Considered under suspension of the rules. (consideration: CR H10154-10155)
+- 2017-12-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3979.
+- 2017-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-18 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
+- 2017-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687). (text: CR H10154)
+- 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687).(text: CR H10154)
