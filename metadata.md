@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4324
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4324
@@ -31,9 +31,10 @@ Strengthening Oversight of Iran's Access to Finance Act
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Strengthening Oversight of Iran's Access to Finance Act
 - 2017-12-14 — On passage Passed by the Yeas and Nays: 252 - 167 (Roll no. 684).
 - 2017-12-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 252 - 167 (Roll no. 684).
 - 2017-12-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4324.
+- 2017-12-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
