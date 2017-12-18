@@ -24,7 +24,7 @@ In this Act:
 
 ## § 3. Family Caregiving Strategy
 
-- **(a)** *In general* The Secretary, in consultation with the heads of other appropriate Federal agencies, and acting jointly with the Advisory Council, shall develop and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a Family Caregiving Strategy.
+- **(a)** *In general* The Secretary, in consultation with the heads of other appropriate Federal agencies, shall develop jointly with the Advisory Council and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a Family Caregiving Strategy.
 - **(b)** *Contents* The Strategy shall identify recommended actions that Federal (under existing Federal programs), State, and local governments, communities, health care providers, long-term services and supports providers, and others are taking, or may take, to recognize and support family caregivers in a manner that reflects their diverse needs, including with respect to the following:
   - **(1)** Promoting greater adoption of person- and family-centered care in all health and long-term services and supports settings, with the person receiving services and supports and the family caregiver (as appropriate) at the center of care teams.
   - **(2)** Assessment and service planning (including care transitions and coordination) involving family caregivers and care recipients.
@@ -33,20 +33,20 @@ In this Act:
   - **(5)** Financial security and workplace issues.
   - **(6)** Delivering services based on the performance, mission, and purpose of a program while eliminating redundancies.
 - **(c)** *Duties of the Secretary* The Secretary, in carrying out subsection (a), shall oversee the following:
-  - **(1)** Collecting and making publicly available information, submitted by the Advisory Council under section 4(d), including evidence-based or promising practices and innovative models (both domestic and foreign) regarding the provision of care by family caregivers or support for family caregivers.
+  - **(1)** Collecting and making publicly available information submitted by the Advisory Council under section 4(d) to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, including evidence-based or promising practices and innovative models (both domestic and foreign) regarding the provision of care by family caregivers or support for family caregivers.
   - **(2)** Coordinating and assessing existing Federal Government programs and activities to recognize and support family caregivers while ensuring maximum effectiveness and avoiding unnecessary duplication.
   - **(3)** Providing technical assistance, as appropriate, such as disseminating identified best practices and information sharing based on reports provided under section 4(d), to State or local efforts to support family caregivers.
 - **(d)** *Initial strategy; updates* The Secretary shall—
   - **(1)** not later than 18 months after the date of enactment of this Act, develop, publish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, an initial Strategy incorporating the items addressed in the Advisory Council's initial report under section 4(d) and other relevant information, including best practices, for recognizing and supporting family caregivers; and
-  - **(2)** biennially update, republish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, the Strategy, taking into account the most recent annual report submitted under section 4(d)(1)—
+  - **(2)** biennially update, republish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs the Strategy, taking into account the most recent annual report submitted under section 4(d)(1)—
     - **(A)** to reflect new developments, challenges, opportunities, and solutions; and
     - **(B)** to review progress based on recommendations for recognizing and supporting family caregivers in the Strategy and, based on the results of such review, recommend priority actions for improving the implementation of such recommendations, as appropriate.
 - **(e)** *Process for public input* The Secretary shall establish a process for public input to inform the development of, and updates to, the Strategy, including a process for the public to submit recommendations to the Advisory Council and an opportunity for public comment on the proposed Strategy.
 - **(f)** *No preemption* Nothing in this Act preempts any authority of a State or local government to recognize or support family caregivers.
 - **(g)** *Rule of construction* Nothing in this Act shall be construed to permit the Secretary (through regulation, guidance, grant criteria, or otherwise) to—
   - **(1)** mandate, direct, or control the allocation of State or local resources;
-  - **(2)** to mandate the use of any of the best practices identified in the reports required under this Act; or
-  - **(3)** to otherwise expand the authority of the Secretary beyond that expressly provided to the Secretary in this Act.
+  - **(2)** mandate the use of any of the best practices identified in the reports required under this Act; or
+  - **(3)** otherwise expand the authority of the Secretary beyond that expressly provided to the Secretary in this Act.
 
 ## § 4. Family Caregiving Advisory Council
 
@@ -55,7 +55,7 @@ In this Act:
   - **(1)** *In general* The members of the Advisory Council shall consist of—
     - **(A)** the appointed members under paragraph (2); and
     - **(B)** the Federal members under paragraph (3).
-  - **(2)** *Appointed members* In addition to the Federal members under paragraph (3), the Secretary shall appoint not more than 15 voting members of the Advisory Council who are not representatives of Federal departments or agencies and who shall include at least one representative of each of the following:
+  - **(2)** *Appointed members* In addition to the Federal members under paragraph (3), the Secretary shall appoint not more than 15 voting members of the Advisory Council who are not representatives of Federal departments or agencies and who shall include at least 1 representative of each of the following:
     - **(A)** Family caregivers.
     - **(B)** Older adults with long-term services and supports needs.
     - **(C)** Individuals with disabilities.
@@ -80,15 +80,15 @@ In this Act:
     - **(A)** an inventory and assessment of all federally funded efforts to recognize and support family caregivers and the outcomes of such efforts, including analyses of the extent to which federally funded efforts are reaching family caregivers and gaps in such efforts;
     - **(B)** recommendations—
       - **(i)** to improve and better coordinate Federal programs and activities to recognize and support family caregivers, as well as opportunities to improve the coordination of such Federal programs and activities with State programs; and
-      - **(ii)** to effectively deliver services based on the performance, mission, and purpose of a program while eliminating re­dun­dan­cies, avoiding unnecessary duplication and overlap, and ensuring the needs of family caregivers are met;
+      - **(ii)** to effectively deliver services based on the performance, mission, and purpose of a program while eliminating redundancies, avoiding unnecessary duplication and overlap, and ensuring the needs of family caregivers are met;
     - **(C)** the identification of challenges faced by family caregivers, including financial, health, and other challenges, and existing approaches to address such challenges; and
     - **(D)** an evaluation of how family caregiving impacts the Medicare program, the Medicaid program, and other Federal programs.
 - **(e)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Council.
 
 ## § 5. Funding
 
-No additional funds are authorized to be appropriated to carry out the provisions of this Act. Such provisions shall be carried out using funds otherwise authorized.
+No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using funds otherwise authorized.
 
 ## § 6. Sunset provision
 
-The authority and obligations established by this Act shall terminate on the date that is 5 years after the date of enactment of this Act.
+The authority and obligations established by this Act shall terminate on the date that is 3 years after the date of enactment of this Act.
