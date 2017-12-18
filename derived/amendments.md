@@ -1,7 +1,7 @@
 ---
 measure: S. 2155
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-79 amendatory instructions. 21 executed, 58 stated and not applied.
+169 amendatory instructions. 59 executed, 110 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 303(2)(A)` |
 | Inserted | `section 303(3)(A)` |
 
-### 15 U.S.C. § 1639d
+### 12 U.S.C. § 1752
 
 > in paragraph (1), as so redesignated, by striking “the Board” each place that term appears and inserting “the Bureau”; and
 
@@ -44,7 +44,16 @@ to guess them.
 
 ### 12 U.S.C. § 1820
 
-> Section 10(d)(4)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)(4)(A)) is amended by striking “$1,000,000,000” and inserting “$3,000,000,000”.
+> in paragraph (4)(A), by striking “$1,000,000,000” and inserting “$3,000,000,000”.; and
+
+| | |
+|---|---|
+| Removed | `$1,000,000,000` |
+| Inserted | `$3,000,000,000` |
+
+### 12 U.S.C. § 1820
+
+> in paragraph (10), by striking “$1,000,000,000” and inserting “$3,000,000,000”.
 
 | | |
 |---|---|
@@ -59,6 +68,330 @@ to guess them.
 |---|---|
 | Removed | `90 days` |
 | Inserted | `1 year` |
+
+### 15 U.S.C. § 1681c-1
+
+> in subsection (a)(1)(A), by striking “90 days” and inserting “1 year”; and
+
+| | |
+|---|---|
+| Removed | `90 days` |
+| Inserted | `1 year` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “the certificate and voucher programs under section 8” and inserting “sections 8 and 9”;
+
+| | |
+|---|---|
+| Removed | `the certificate and voucher programs under section 8` |
+| Inserted | `sections 8 and 9` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” the first time it appears and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in the first sentence, by striking “each leaseholder receiving assistance under the certificate and voucher programs of the public housing agency under section 8 or residing in public housing administered by the agency” and inserting “a household member of an eligible family”; and
+
+| | |
+|---|---|
+| Removed | `each leaseholder receiving assistance under the certificate and voucher programs of the public housing agency under section 8 or residing in public housing administered by the agency` |
+| Inserted | `a household member of an eligible family` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “A local program under this section” and inserting “An eligible entity”;
+
+| | |
+|---|---|
+| Removed | `A local program under this section` |
+| Inserted | `An eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “provide” and inserting “coordinate”; and
+
+| | |
+|---|---|
+| Removed | `provide` |
+| Inserted | `coordinate` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “to” and inserting “for”; and
+
+| | |
+|---|---|
+| Removed | `to` |
+| Inserted | `for` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “provided during” and inserting “coordinated for”;
+
+| | |
+|---|---|
+| Removed | `provided during` |
+| Inserted | `coordinated for` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “under section 8 or residing in public housing” and inserting “pursuant to section 8 or 9 and for the duration of the contract of participation”; and
+
+| | |
+|---|---|
+| Removed | `under section 8 or residing in public housing` |
+| Inserted | `pursuant to section 8 or 9 and for the duration of the contract of participation` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in paragraph (1), by striking “whose monthly adjusted income does not exceed 50 percent” and all that follows through the period at the end of the third sentence and inserting “shall be calculated under the rental provisions of section 3 or section 8(o), as applicable.”;
+
+| | |
+|---|---|
+| Removed | `whose monthly adjusted income does not exceed 50 percent` |
+| Inserted | `shall be calculated under the rental provisions of section 3 or section 8(o), as applicable.` |
+
+### 42 U.S.C. § 1437u
+
+> in the fourth sentence, by striking “subsection (c)” and inserting “subsection (d)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (c)` |
+| Inserted | `subsection (d)` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “A public housing agency” and inserting “An eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `A public housing agency` |
+| Inserted | `An eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “the public housing agency” and inserting “such eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `the public housing agency` |
+| Inserted | `such eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “the public housing agency” and inserting “such eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `the public housing agency` |
+| Inserted | `such eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “subsection (g)” and inserting “subsection (h)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (g)` |
+| Inserted | `subsection (h)` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity” each place that term appears;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “participating in the” and inserting “carrying out a”; and
+
+| | |
+|---|---|
+| Removed | `participating in the` |
+| Inserted | `carrying out a` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “subsection (f)” and inserting “subsection (g)”;
+
+| | |
+|---|---|
+| Removed | `subsection (f)` |
+| Inserted | `subsection (g)` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “residents of the public housing” and inserting “the current and prospective participants of the program”; and
+
+| | |
+|---|---|
+| Removed | `residents of the public housing` |
+| Inserted | `the current and prospective participants of the program` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “subsection (c)(2)” and inserting “subsection (d)(2)”;
+
+| | |
+|---|---|
+| Removed | `subsection (c)(2)` |
+| Inserted | `subsection (d)(2)` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “provided to” and inserting “coordinated on behalf of participating”;
+
+| | |
+|---|---|
+| Removed | `provided to` |
+| Inserted | `coordinated on behalf of participating` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “the section 8 and public housing programs” and inserting “sections 8 and 9”;
+
+| | |
+|---|---|
+| Removed | `the section 8 and public housing programs` |
+| Inserted | `sections 8 and 9` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “subsection (d)” and inserting “subsection (e)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsection (e)` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in subparagraph (E), by striking “deliver” and inserting “coordinate”;
+
+| | |
+|---|---|
+| Removed | `deliver` |
+| Inserted | `coordinate` |
+
+### 42 U.S.C. § 1437u
+
+> in subparagraph (I), by striking “public housing or section 8 assistance” and inserting “assistance under section 8 or 9”;
+
+| | |
+|---|---|
+| Removed | `public housing or section 8 assistance` |
+| Inserted | `assistance under section 8 or 9` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”;
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in subsection (k), by striking “public housing agencies” and inserting “eligible entities”;
+
+| | |
+|---|---|
+| Removed | `public housing agencies` |
+| Inserted | `eligible entities` |
+
+### 42 U.S.C. § 1437u
+
+> in the first sentence, by striking “Each public housing agency” and inserting “Each eligible entity”;
+
+| | |
+|---|---|
+| Removed | `Each public housing agency` |
+| Inserted | `Each eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in the second sentence, by striking “The report shall include” and inserting “The contents of the report shall include”; and
+
+| | |
+|---|---|
+| Removed | `The report shall include` |
+| Inserted | `The contents of the report shall include` |
+
+### 42 U.S.C. § 1437u
+
+> by striking “public housing agency” and inserting “eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `public housing agency` |
+| Inserted | `eligible entity` |
+
+### 42 U.S.C. § 1437u
+
+> in subsection (n), as so redesignated, by striking “may” and inserting “shall”; and
+
+| | |
+|---|---|
+| Removed | `may` |
+| Inserted | `shall` |
 
 ### 12 U.S.C. § 5365
 
@@ -143,6 +476,15 @@ to guess them.
 
 ### 12 U.S.C. § 5365
 
+> by striking “3” and inserting “2”; and
+
+| | |
+|---|---|
+| Removed | `3` |
+| Inserted | `2` |
+
+### 12 U.S.C. § 5365
+
 > in subsection (j)(1), in the first sentence, by striking “$50,000,000,000” and inserting “$250,000,000,000”.
 
 | | |
@@ -170,7 +512,7 @@ to guess them.
 
 ### 12 U.S.C. § 5311
 
-> in section 121(a) (12 U.S.C. 5311(a)), in the matter preceding paragraph (1), by striking “$50,000,000,000” and inserting “$250,000,000,000”;
+> in section 121(a) (12 U.S.C. 5311(a)5331(a)), in the matter preceding paragraph (1), by striking “$50,000,000,000” and inserting “$250,000,000,000”;
 
 | | |
 |---|---|
@@ -236,9 +578,10 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1602` | redesignate | by redesignating the second subsection (cc) (relating to definitions relating to mortgage origination and residential mortgage loans) and subsection (dd) as subsections (dd) and (ee), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1602` | redesignate | in paragraph (2) of subsection (dd), as so redesignated, by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639c` | add-at-end | Section 129C(b)(3) of the Truth in Lending Act (15 U.S.C. 1639c(b)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1639d` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1639d` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “The Board” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1639d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1752` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1752` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “The Board” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1752` | add-at-end | in subsection (i), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | add-at-end | Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -265,16 +608,67 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78k-1` | strike | by striking “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77r` | strike | in subparagraph (C), by striking “or (B)”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77r` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1789` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1789` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1789` | insert | by inserting “detailed” after “submit a”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1789` | insert | by inserting “, which shall address any comment submitted by the public under paragraph (1)(B)” after “Control Act”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681c-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 651` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681t` | strike | in subparagraph (H), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1681t` | amend | in subparagraph (I), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681t` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681i` | insert | in subsection (a)(1)(A), by inserting “and except as provided in subsection (g)” after “subsection (f)”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5201` | repeal | Section 704 of the Protecting Tenants at Foreclosure Act of 2009 (12 U.S.C. 5201 note; 12 U.S.C. 5220 note; 42 U.S.C. 1437f note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5219` | insert | Section 109(a)(1) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5219(a)(1)) is amended, in the second sentence, by inserting “and to remediate lead and asbestos hazards in residential properties” before the period at the… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | by striking “public housing and”; and | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 2801` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | strike | by striking subsection (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | redesignate | by redesignating subsections (c), (d), (e), (f), (g), and (h) as subsections (d), (e), (f), (g), (h), and (i) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | by inserting after subsection (b), as amended, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | replace | by striking the third sentence and inserting the following: “Housing assistance may not be terminated as a consequence of either successful completion of the contract of participation or failure to complete such contract. A contract of p… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | by inserting “, but are not limited to” after “may include”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | insert | in subparagraph (D), by inserting “or attainment of a high school equivalency certificate” after “high school”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | by striking subparagraph (G); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | redesignate | by redesignating subparagraphs (E), (F), and (J) as subparagraphs (F), (G), and (K) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | in subparagraph (H), by inserting “financial literacy, such as training in financial management, financial coaching, and asset building, and” after “training in”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | in subparagraph (I), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | insert | by inserting after subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | in the first sentence, by inserting “the first recertification of income after” after “not later than 5 years after”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | by striking “of the agency”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | replace | by striking the first sentence and inserting the following: “For each participating family, an amount equal to any increase in the amount of rent paid by the family in accordance with the provisions of section 3 or 8(o), as applicable, t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | replace | by striking the second sentence and inserting the following: “All Family Self-Sufficiency programs administered under this section shall include an escrow account.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | redesignate | in subsection (f), as so redesignated, by striking “, unless the income of the family equals or exceeds 80 percent of the median income of the area (as determined by the Secretary with adjustments for smaller and larger families)”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | strike | by striking “or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act ”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | insert | by inserting “primary, secondary, and post-secondary” after “public and private”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | insert | in the second sentence, by inserting “and tenants served by the program” after “the unit of general local government”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | by striking “to the Secretary”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | strike | by striking “or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | insert | by inserting “direct” before “assistance”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | in subparagraph (H), by striking “the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | redesignate | by amending subsection (i), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | strike | by striking “public housing” before “units”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | strike | by striking “in public housing projects administered by the agency”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | insert | by inserting “or coordination” after “provision”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | strike | by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | strike | by striking subsection (n); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | strike | by striking subsection (o); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | redesignate | by redesignating subsections (l) and (m) as subsections (m) and (n), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | insert | by inserting after subsection (k) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437u` | strike | by striking “local”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437u` | insert | in paragraph (2), by inserting “and describing any additional research needs of the Secretary to evaluate the effectiveness of the program” after “under paragraph (1)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437u` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | add-at-end | Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | strike | in subparagraph (A)(iv), by striking “and credit exposure report”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | insert | in subparagraph (B)(ii), by inserting “, including credit exposure reports” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 5365` | strike | by striking “, adverse,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | strike | by striking “, adverse,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 248` | insert | by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 248` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
