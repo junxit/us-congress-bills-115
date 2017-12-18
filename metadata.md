@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3813
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3813
@@ -29,3 +29,10 @@ Combating Human Trafficking in Commercial Vehicles Act
 - 2017-09-21 — Introduced in House
 - 2017-09-21 — Introduced in House
 - 2017-09-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-09-22 — Referred to the Subcommittee on Highways and Transit.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-11-30 — Subcommittee on Highways and Transit Discharged.
+- 2017-12-18 — Placed on the Union Calendar, Calendar No. 346.
+- 2017-12-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-467.
+- 2017-12-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-467.
