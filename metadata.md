@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4254
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4254
@@ -16,11 +16,15 @@ Women in Aerospace Education Act
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Foster, Bill [D-IL-11] (F000454)
 
 ## Committees (1)
 
@@ -31,3 +35,12 @@ Women in Aerospace Education Act
 - 2017-11-06 — Introduced in House
 - 2017-11-06 — Introduced in House
 - 2017-11-06 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2017-12-18 — Considered under suspension of the rules. (consideration: CR H10160-10161)
+- 2017-12-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4254.
+- 2017-12-18 — Mr. Knight moved to suspend the rules and pass the bill, as amended.
+- 2017-12-18 — Placed on the Union Calendar, Calendar No. 351.
+- 2017-12-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-472.
+- 2017-12-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-472.
