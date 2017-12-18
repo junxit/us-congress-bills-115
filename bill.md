@@ -7,13 +7,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4375
 
-> To provide for a report on broadening participation in certain National Science Foundation research and education programs, to collect data on Federal research grants to science agencies, and for other purposes.
+> To provide for a study on broadening participation in certain National Science Foundation research and education programs, to collect data on Federal research grants to science agencies, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “STEM Research and Education Effectiveness and Transparency Act”.
 
-## § 2. Broadening participation in STEM program effectiveness
+## § 2. Broadening participation in STEM program effectiveness study
 
 - **(a)** *In general* Not later than 12 months after the date of enactment of this Act, the Director of the National Science Foundation shall submit a report to Congress on the effectiveness of all National Science Foundation research and education programs for broadening the participation of women and other historically underrepresented individuals in STEM studies and careers, including—
   - **(1)** development or identification of performance metrics to evaluate such programs;
