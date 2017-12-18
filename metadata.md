@@ -1,7 +1,7 @@
 ---
 measure: S. 2155
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2155
@@ -16,7 +16,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (19)
+## Cosponsors (23)
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
@@ -37,6 +37,10 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -46,3 +50,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 
 - 2017-11-16 — Introduced in Senate
 - 2017-11-16 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2017-12-05 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with amendments favorably.
+- 2017-12-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
+- 2017-12-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
+- 2017-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.
