@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2396
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2396
@@ -26,9 +26,10 @@ Privacy Notification Technical Clarification Act
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -68,3 +69,4 @@ Privacy Notification Technical Clarification Act
 - 2017-12-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2396.
 - 2017-12-14 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-12-14 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2017-12-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
