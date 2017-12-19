@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 95
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 95
@@ -36,9 +36,10 @@ Expressing support for the use of public-private partnerships to bring computer 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Expressing support for the use of public-private partnerships to bring computer 
 - 2017-12-18 — Mr. Estes (KS) moved to suspend the rules and agree to the resolution, as amended.
 - 2017-12-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10152)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10152)
+- 2017-12-19 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
