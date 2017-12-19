@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4254
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4254
@@ -44,3 +44,7 @@ Women in Aerospace Education Act
 - 2017-12-18 — Placed on the Union Calendar, Calendar No. 351.
 - 2017-12-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-472.
 - 2017-12-18 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-472.
+- 2017-12-19 — Considered as unfinished business. (consideration: CR H10200-10201)
+- 2017-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 17 (Roll no. 690). (text: CR 12/18/2017 H10160)
+- 2017-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 17 (Roll no. 690).(text: CR 12/18/2017 H10160)
