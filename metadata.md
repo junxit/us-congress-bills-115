@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 667
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 667
@@ -16,6 +16,10 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2017-12-18 — Introduced in House
@@ -23,3 +27,9 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 - 2017-12-18 — The House Committee on Rules reported an original measure, H. Rept. 115-474, by Mr. Sessions.
 - 2017-12-18 — The House Committee on Rules reported an original measure, H. Rept. 115-474, by Mr. Sessions.
 - 2017-12-18 — The resolution provides for consideration of the conference report to accompany H.R. 1. Additionally, the resolution provides for consideration of H.R. 3312, under a closed rule. The rule provides for one hour of general debate and one motion to recommit on both the conference report and H.R. 3312. Lastly, the rule provides for motions to suspend the rules through the remainder of the first session of the 115th Congress.
+- 2017-12-19 — Considered as privileged matter. (consideration: CR H10189-10200)
+- 2017-12-19 — DEBATE - The House proceeded with one hour of debate on H. Res. 667.
+- 2017-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-19 — On agreeing to the resolution Agreed to by recorded vote: 233 - 193 (Roll no. 689). (text: CR H10189-10190)
+- 2017-12-19 — On ordering the previous question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 688).
+- 2017-12-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 193 (Roll no. 689).(text: CR H10189-10190)
