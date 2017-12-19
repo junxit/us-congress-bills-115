@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3979
@@ -68,3 +68,12 @@ Keep America's Refuges Operational Act
 - 2017-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687). (text: CR H10154)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687).(text: CR H10154)
 - 2017-12-19 — Received in the Senate, read twice.
+- 2018-04-09 — Passed Senate without amendment by Voice Vote. (consideration: CR S2017)
+- 2018-04-09 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2017)
+- 2018-04-10 — Message on Senate action sent to the House.
+- 2018-04-11 — Presented to President.
+- 2018-04-11 — Presented to President.
+- 2018-04-23 — Became Public Law No: 115-168.
+- 2018-04-23 — Became Public Law No: 115-168.
+- 2018-04-23 — Signed by President.
+- 2018-04-23 — Signed by President.
