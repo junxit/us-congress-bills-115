@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3979
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3979
@@ -67,3 +67,4 @@ Keep America's Refuges Operational Act
 - 2017-12-18 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
 - 2017-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687). (text: CR H10154)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 14 (Roll no. 687).(text: CR H10154)
+- 2017-12-19 — Received in the Senate, read twice.
