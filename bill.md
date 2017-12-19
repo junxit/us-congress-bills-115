@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 4683
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4683
+
+> To amend title XVIII of the Social Security Act to revise the NTAP period under the Medicare inpatient prospective payment system and the pass-through period under the Medicare outpatient prospective payment system.
+
+## § 1. Revision to NTAP period under IPPS and pass-through period under OPPS for new drugs and devices
+
+- **(a)** *Revision to NTAP period under IPPS* Section 1886(d)(5)(K)(ii)(II) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(K)(ii)(II)) is amended by striking “not less than two years and not more than three years” and inserting “five years”.
+- **(b)** *Revision to pass-Through period under OPPS* Section 1833(t)(6) of the Social Security Act (42 U.S.C. 1395l(t)(6)) is amended—
+  - **(1)** in subparagraph (B)(iii), by striking “at least 2 years, but not more than 3 years” and inserting “5 years”; and
+  - **(2)** in subparagraph (C)(i), by striking “at least 2 years, but not more than 3 years” and inserting “5 years”.
