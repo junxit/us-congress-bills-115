@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3759
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3759
@@ -132,9 +132,10 @@ RAISE Family Caregivers Act
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -147,3 +148,4 @@ RAISE Family Caregivers Act
 - 2017-12-18 — Mr. Estes (KS) moved to suspend the rules and pass the bill, as amended.
 - 2017-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10148-10149)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10148-10149)
+- 2017-12-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
