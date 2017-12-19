@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3759
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3759
@@ -149,3 +149,14 @@ RAISE Family Caregivers Act
 - 2017-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10148-10149)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10148-10149)
 - 2017-12-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-01-08 — Passed Senate without amendment by Voice Vote.
+- 2018-01-08 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-01-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S68-69)
+- 2018-01-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S68-69)
+- 2018-01-09 — Message on Senate action sent to the House.
+- 2018-01-10 — Presented to President.
+- 2018-01-10 — Presented to President.
+- 2018-01-22 — Became Public Law No: 115-119.
+- 2018-01-22 — Became Public Law No: 115-119.
+- 2018-01-22 — Signed by President.
+- 2018-01-22 — Signed by President.
