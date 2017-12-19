@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3312
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3312
@@ -92,6 +92,10 @@ Systemic Risk Designation Improvement Act of 2017
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2017-12-19 — [House 115-1-694](votes/house-115-1-0694.md) — On Passage — **Passed** (288–130)
+
 ## Actions
 
 - 2017-07-19 — Introduced in House
@@ -104,3 +108,11 @@ Systemic Risk Designation Improvement Act of 2017
 - 2017-11-28 — Placed on the Union Calendar, Calendar No. 313.
 - 2017-11-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-423.
 - 2017-11-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-423.
+- 2017-12-19 — Considered under the provisions of rule H. Res. 667. (consideration: CR H10220-10229)
+- 2017-12-19 — DEBATE - The House proceeded with one hour of debate on H.R. 3312.
+- 2017-12-19 — House amendment offered
+- 2017-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-19 — On passage Passed by the Yeas and Nays: 288 - 130 (Roll no. 694). (text: CR H10220-10221)
+- 2017-12-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 288 - 130 (Roll no. 694).(text: CR H10220-10221)
+- 2017-12-19 — The previous question was ordered pursuant to the rule.
+- 2017-12-19 — The resolution provides for consideration of the conference report to accompany H.R. 1. Additionally, the resolution provides for consideration of H.R. 3312, under a closed rule. The rule provides for one hour of general debate and one motion to recommit on both the conference report and H.R. 3312. Lastly, the rule provides for motions to suspend the rules through the remainder of the first session of the 115th Congress.

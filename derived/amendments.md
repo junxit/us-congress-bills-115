@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3312
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 11 executed, 8 stated and not applied.
+17 amendatory instructions. 10 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,15 +114,6 @@ to guess them.
 | Removed | `with total consolidated assets equal to or greater than $50,000,000,000` |
 | Inserted | `which has been identified as a global systemically important bank holding company pursuant to section 217.402 of title 12, Code of Federal Regulations, or subjected to a determination under subsection (l)` |
 
-### 12 U.S.C. § 248
-
-> in paragraph (2)(A), by striking “having total consolidated assets of $50,000,000,000 or more” and inserting “which have been identified as global systemically important bank holding companies pursuant to section 217.402 of title 12, Code of Federal Regulations, or subjected to a determination under subsection (l) of section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act”.
-
-| | |
-|---|---|
-| Removed | `having total consolidated assets of $50,000,000,000 or more` |
-| Inserted | `which have been identified as global systemically important bank holding companies pursuant to section 217.402 of title 12, Code of Federal Regulations, or subjected to a determination under subsection (l) of section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -136,7 +127,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5325` | replace | in subparagraph (A), by striking “; or” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5325` | strike | by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | strike | by striking “(A) In general.—”; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5365` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5365` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | add-at-end | Section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | add-at-end | Section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365), as amended by subsection (d), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 248` | redesignate | by redesignating such subsection as subsection (t); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
