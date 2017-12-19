@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -52,7 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1862n-1` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1862n-1` | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “, and veterans” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | in subsection (c)(2), by inserting “and veterans” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
@@ -63,4 +63,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7404` | strike | in subparagraph (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7404` | redesignate | by redesignating subparagraph (J) as subparagraph (K); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7404` | insert | by inserting after subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7404` | insert | Section 5(c)(6)(C) of the Cyber Security Research and Development Act of 2002 (15 U.S.C. 7404(c)(6)(C)) is amended by inserting “or veterans,” after “disciplines”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 7404` | insert | Section 5(c)(6)(C) of the Cyber Security Research and Development Act (15 U.S.C. 7404(c)(6)(C)) is amended by inserting “or veterans” after “disciplines”. | the bill quotes the text inserted but describes where it goes |
