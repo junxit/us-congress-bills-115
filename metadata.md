@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4661
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4661
@@ -42,3 +42,4 @@ United States Fire Administration, AFG, and SAFER Program Reauthorization Act of
 - 2017-12-18 — Mrs. Comstock moved to suspend the rules and pass the bill.
 - 2017-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10155-10156)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10155-10156)
+- 2017-12-19 — Received in the Senate, read twice.
