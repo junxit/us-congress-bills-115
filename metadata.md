@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4661
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4661
@@ -27,9 +27,11 @@ United States Fire Administration, AFG, and SAFER Program Reauthorization Act of
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Committees (1)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
+- House — Homeland Security Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -43,3 +45,10 @@ United States Fire Administration, AFG, and SAFER Program Reauthorization Act of
 - 2017-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10155-10156)
 - 2017-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10155-10156)
 - 2017-12-19 — Received in the Senate, read twice.
+- 2017-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8280)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8280)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2018-01-02 — Presented to President.
+- 2018-01-02 — Presented to President.
+- 2018-01-03 — Signed by President.
+- 2018-01-03 — Signed by President.
