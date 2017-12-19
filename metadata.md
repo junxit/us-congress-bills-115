@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4323
@@ -47,3 +47,7 @@ Supporting Veterans in STEM Careers Act
 - 2017-12-18 — Placed on the Union Calendar, Calendar No. 352.
 - 2017-12-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-473.
 - 2017-12-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-473.
+- 2017-12-19 — Considered as unfinished business. (consideration: CR H10215)
+- 2017-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 693). (text: CR 12/18/2017 H10163)
+- 2017-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 693).(text: CR 12/18/2017 H10163)

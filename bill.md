@@ -33,7 +33,7 @@ In this Act:
 - **(d)** *Robert Noyce Teacher Scholarship Program update* Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended—
   - **(1)** in subsection (a)(5)—
     - **(A)** in subparagraph (A), by striking “and” at the end;
-    - **(B)** in subparagraph (B), by striking the period and inserting “; and”; and
+    - **(B)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
       > - **(C)** higher education programs that serve or support veterans.
 
@@ -47,7 +47,7 @@ In this Act:
     - **(A)** by striking “and individuals” and inserting “, individuals”; and
     - **(B)** by inserting “, and veterans” before the period at the end; and
   - **(2)** in paragraph (4)(B), by inserting “and veterans” before the period at the end.
-- **(f)** *National Science Foundation Computer and Network Security Capacity Building Grants update* Section 5(a) of the Cyber Security Research and Development Act of 2002 (15 U.S.C. 7404(a)) is amended—
+- **(f)** *National Science Foundation Computer and Network Security Capacity Building Grants update* Section 5(a) of the Cyber Security Research and Development Act (15 U.S.C. 7404(a)) is amended—
   - **(1)** in paragraph (1), by inserting “and students who are veterans” after “these fields”; and
   - **(2)** in paragraph (3)—
     - **(A)** in subparagraph (I), by striking “and” at the end;
@@ -55,7 +55,7 @@ In this Act:
     - **(C)** by inserting after subparagraph (I) the following:
       > - **(J)** creating opportunities for veterans to transition to careers in computer and network security; and
 
-- **(g)** *Graduate traineeships in computer and network security research update* Section 5(c)(6)(C) of the Cyber Security Research and Development Act of 2002 (15 U.S.C. 7404(c)(6)(C)) is amended by inserting “or veterans,” after “disciplines”.
+- **(g)** *Graduate traineeships in computer and network security research update* Section 5(c)(6)(C) of the Cyber Security Research and Development Act (15 U.S.C. 7404(c)(6)(C)) is amended by inserting “or veterans” after “disciplines”.
 - **(h)** *Veterans and military families STEM education interagency subcommittee*
   - **(1)** *In general* The Director of the Office of Science and Technology Policy shall establish a subcommittee under the Committee on STEM Education of the National Science and Technology Council (established under section 101 of the America COMPETES Reauthorization Act of 2010) to coordinate Federal programs and policies for transitioning and training veterans and military spouses for STEM careers.
   - **(2)** *Duties of subcommittee* The subcommittee established under paragraph (1) shall—
