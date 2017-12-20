@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 326
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 326
@@ -38,3 +38,7 @@ A resolution recognizing the crew of the San Antonio Rose, B-17F, who sacrificed
 
 - 2017-11-09 — Introduced in Senate
 - 2017-11-09 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S7158-7159)
+- 2017-12-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8154)
+- 2017-12-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8154)
+- 2017-12-20 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2017-12-20 — Senate Committee on Armed Services discharged by Unanimous Consent.
