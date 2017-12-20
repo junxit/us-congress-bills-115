@@ -28,4 +28,4 @@ The Congress finds that—
 
 ## § 3. Continuing cooperation
 
-The Administrator of the National Aeronautics and Space Administration shall continue to work with the Israel Space Agency to identify and cooperatively pursue peaceful space exploration and science initiatives in areas of mutual interest.
+The Administrator of the National Aeronautics and Space Administration shall continue to work with the Israel Space Agency to identify and cooperatively pursue peaceful space exploration and science initiatives in areas of mutual interest, taking all appropriate measures to protect sensitive information, intellectual property, trade secrets, and economic interests of the United States.
