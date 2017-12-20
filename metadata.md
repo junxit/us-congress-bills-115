@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 150
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 150
@@ -16,11 +16,12 @@ A resolution recognizing threats to freedom of the press and expression around t
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ A resolution recognizing threats to freedom of the press and expression around t
 - 2017-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2017-12-07 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2017-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
+- 2017-12-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8154)
+- 2017-12-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8154)
