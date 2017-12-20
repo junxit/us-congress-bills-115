@@ -7,6 +7,8 @@ chamber: In the Senate of the United States,
 
 # H.R. 1
 
-That the bill from the House of Representatives (H.R. 1) entitled “An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.”, do pass with the following
+That the report of the Committee of Conference on the disagreeing votes of the two Houses on the amendment of the Senate to the bill (H.R. 1) entitled “An Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.”, fails on a point of order.
 
-*Strike all after the first word and insert the following:*
+That the Senate recede from its amendment to the above-titled bill with a further amendment as follows:
+
+*Strike out all after the enacting clause and insert:*

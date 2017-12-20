@@ -775,3 +775,39 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-12-11 — Message on Senate action sent to the House.
 - 2017-12-13 — Conference committee actions: Conference held.
 - 2017-12-13 — Conference held.
+- 2017-12-15 — Conference report H. Rept. 115-466 filed. (text of conference report: CR H9943-10142)
+- 2017-12-15 — Conference report filed: Conference report H. Rept. 115-466 filed.(text of conference report: CR H9943-10142)
+- 2017-12-18 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2017-12-19 — Conference papers: message on House action held at the desk in Senate.
+- 2017-12-19 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 227 - 203 (Roll no. 692).
+- 2017-12-19 — Conference report considered in Senate. (consideration: CR S8088-8142)
+- 2017-12-19 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 1 hour of general debate on the conference report to accompany H.R. 1.
+- 2017-12-19 — Motion to proceed to consideration of the conference report agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 321. (CR S8088)
+- 2017-12-19 — Motions to reconsider laid on the table Agreed to without objection.
+- 2017-12-19 — Mr. Brady (TX) brought up conference report H. Rept. 115-466 for consideration under the provisions of H. Res. 667. (consideration: CR H10201-10215)
+- 2017-12-19 — Mr. Neal moved to recommit with instructions to the conference committee. The instructions contained in the motion seek to instruct the managers on the part of the House to disagree in section 11042 and part VIII of subtitle A of title I of the conference report.
+- 2017-12-19 — On agreeing to the conference report Agreed to by the Yeas and Nays: 227 - 203 (Roll no. 692).
+- 2017-12-19 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 191 - 236 (Roll no. 691).
+- 2017-12-19 — Points of order against the conference report to accompany H.R.1 raised in Senate.
+- 2017-12-19 — The previous question on the motion to recommit with instructions to conference committee was ordered without objection.
+- 2017-12-19 — The previous question was ordered pursuant to the rule.
+- 2017-12-20 — Amendment SA 1863 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 323.
+- 2017-12-20 — Amendment SA 1863 proposed by Senator Enzi. In the nature of a substitute.
+- 2017-12-20 — DEBATE - Pursuant to the provisions of H.Res. 668, the House proceeded with 20 minutes of debate on the motion to concur in the Senate amendment to H.R. 1.
+- 2017-12-20 — Message on Senate action sent to the House.
+- 2017-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-20 — Motion to waive all applicable budget resolutions with respect to the conference report to accompany H.R. 1 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 322. (12/19/17 CR S8101)
+- 2017-12-20 — Mr. Brady (TX) moved that the House agree to the Senate amendment.
+- 2017-12-20 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 224 - 201 (Roll no. 699). (text: CR H10261-10308)
+- 2017-12-20 — Points of order were sustained against the applicable provisions within the conference report, and the language was stricken.
+- 2017-12-20 — Pursuant to the provisions of H.Res. 668, Mr. Brady (TX) brought up H.R. 1 and offered a motion. (consideration: CR H10261-10312)
+- 2017-12-20 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 224 - 201 (Roll no. 699).(text: CR H10261-10308)
+- 2017-12-20 — Roll call votes on amendments in Senate: Amendment SA 1863 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 323.
+- 2017-12-20 — Rule H. Res. 668 passed House.
+- 2017-12-20 — Rules Committee Resolution H. Res. 668 Reported to House. Rule provides for consideration of Senate Amendment to H.R. 1. Previous question shall be considered as ordered without intervening motions.
+- 2017-12-20 — Senate amendment agreed to: Amendment SA 1863 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 323.
+- 2017-12-20 — Senate amendment proposed (on the floor): Amendment SA 1863 proposed by Senator Enzi.
+- 2017-12-20 — Senate amendment submitted
+- 2017-12-20 — Senate defeated conference report pursuant to the points of order raised under the Budget Act.
+- 2017-12-20 — Senate receded from its amendment and concurred with an amendment (SA 1863) by Yea-Nay Vote. 51 - 48. Record Vote Number: 323.
+- 2017-12-20 — The previous question was ordered pursuant to the rule.
