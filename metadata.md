@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4375
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4375
@@ -24,9 +24,10 @@ STEM Research and Education Effectiveness and Transparency Act
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,5 @@ STEM Research and Education Effectiveness and Transparency Act
 - 2017-12-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-471.
 - 2017-12-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-471.
 - 2017-12-18 — The title of the measure was amended. Agreed to without objection.
+- 2017-12-19 — UNANIMOUS CONSENT - Mrs. Comstock asked unanimous consent that the clerk be directed to make a change in the engrossment of H.R. 4375.
+- 2017-12-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
