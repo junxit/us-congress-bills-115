@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1
@@ -846,3 +846,7 @@ An Act to provide for reconciliation pursuant to titles II and V of the concurre
 - 2017-12-20 — Senate defeated conference report pursuant to the points of order raised under the Budget Act.
 - 2017-12-20 — Senate receded from its amendment and concurred with an amendment (SA 1863) by Yea-Nay Vote. 51 - 48. Record Vote Number: 323.
 - 2017-12-20 — The previous question was ordered pursuant to the rule.
+- 2017-12-21 — Presented to President.
+- 2017-12-21 — Presented to President.
+- 2017-12-22 — Signed by President.
+- 2017-12-22 — Signed by President.

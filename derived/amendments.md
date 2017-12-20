@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -1349,12 +1349,12 @@ to guess them.
 
 ### 26 U.S.C. § 5414
 
-> by striking “Beer may be removed” and inserting “(a) In general—Beer may be removed”, and
+> by striking “Beer may be removed” and inserting “(a) In general.—Beer may be removed”, and
 
 | | |
 |---|---|
 | Removed | `Beer may be removed` |
-| Inserted | `(a) In general—Beer may be removed` |
+| Inserted | `(a) In general.—Beer may be removed` |
 
 ### 26 U.S.C. § 5041
 
@@ -1790,7 +1790,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 529A` | add-at-end | Section 529A(b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25B` | replace | Section 25B(d)(1) is amended by striking “and” at the end of subparagraph (B)(ii), by striking the period at the end of subparagraph (C) and inserting “, and”, and by inserting at the end the following: | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `26 U.S.C. § 213` | amend | Subsection (f) of section 213 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 56` | add-at-end | Section 56(b)(1)(B) is amended by adding at the end the following new sentence:“This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 56` | add-at-end | Section 56(b)(1)(B) is amended by adding at the end the following new sentence: “This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 108` | add-at-end | Section 108(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 529` | add-at-end | Section 529(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 529` | add-at-end | Section 529(e)(3)(A) is amended by adding at the end the following: “The amount of cash distributions from all qualified tuition programs described in subsection (b)(1)(A)(ii) with respect to a beneficiary during any taxable year shall, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1810,7 +1810,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 132` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 217` | add-at-end | Section 217 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 165` | add-at-end | Section 165(d) is amended by adding at the end the following: “For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017, and before January 1, 2026, the term losses from wagering transactions… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | strike | Part VII of subchapter B is amended by striking by striking section 215 (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 61` | strike | Part VII of subchapter B is amended by striking section 215 (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 61` | redesignate | Subsection (a) of section 61 is amended by striking paragraph (8) and by redesignating paragraphs (9) through (15) as paragraphs (8) through (14), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 61` | strike | Part II of subchapter B of chapter 1 is amended by striking section 71 (and by striking the item relating to such section in the table of sections for such part). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 61` | strike | Subpart F of part I of subchapter J of chapter 1 is amended by striking section 682 (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2217,7 +2217,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6038A` | amend | Subsection (b) of section 6038A is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 26` | insert | Paragraph (2) of section 26(b) is amended by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 13001` | amend | The table of parts for subchapter A of chapter 1 is amended by adding after the item relating to part VI the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 13001` | insert | Paragraph (1) of section 882(a), as amended by this Act, is amended by inserting “ or 59A,” after “section 11,”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 13001` | insert | Paragraph (1) of section 882(a), as amended by this Act, is amended by inserting “or 59A,” after “section 11,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 13001` | amend | Subparagraph (A) of section 6425(c)(1), as amended by section 13001, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6655` | redesignate | Subparagraph (A) of section 6655(g)(1), as amended by sections 12001 and 13001, is amended by striking “plus” at the end of clause (i), by redesignating clause (ii) as clause (iii), and by inserting after clause (i) the following new cla… | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6655` | insert | Subparagraphs (A)(i) and (B)(i) of section 6655(e)(2), as amended by sections 12001 and 13001, are each amended by inserting “and modified taxable income” after “taxable income”. | the bill quotes the text inserted but describes where it goes |
