@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4015
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4015
@@ -25,6 +25,11 @@ Corporate Governance Reform and Transparency Act of 2017
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2017-12-20 — [House 115-1-701](votes/house-115-1-0701.md) — On Motion to Recommit with Instructions — **Failed** (189–231)
+- 2017-12-20 — [House 115-1-702](votes/house-115-1-0702.md) — On Passage — **Passed** (238–182)
+
 ## Actions
 
 - 2017-10-11 — Introduced in House
@@ -35,3 +40,18 @@ Corporate Governance Reform and Transparency Act of 2017
 - 2017-12-07 — Placed on the Union Calendar, Calendar No. 333.
 - 2017-12-07 — Reported by the Committee on Financial Services. H. Rept. 115-451.
 - 2017-12-07 — Reported by the Committee on Financial Services. H. Rept. 115-451.
+- 2017-12-12 — Rules Committee Resolution H. Res. 657 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for one hour of general debate for each bill. The amendment in the nature of a substitute printed in H.R. 2396 shall be considered as adopted. The rule also makes in order the amendment printed in the report. An amendment in the nature of a substitute to H.R. 4015 consisting of Rules Committee Print 115-46, shall be considered as adopted.
+- 2017-12-13 — Rule H. Res. 657 passed House.
+- 2017-12-20 — Considered under the provisions of rule H. Res. 657. (consideration: CR H10313-10330)
+- 2017-12-20 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to exempt proxy voting recommendations on shareholder proposals related to political campaign contributions of a company.
+- 2017-12-20 — DEBATE - The House proceeded with one hour of debate on H.R. 4015.
+- 2017-12-20 — House amendment offered
+- 2017-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-20 — Mr. Sarbanes moved to recommit with instructions to the Committee on Financial Services. (text: CR H10328)
+- 2017-12-20 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 231 (Roll no. 701).
+- 2017-12-20 — On passage Passed by the Yeas and Nays: 238 - 182 (Roll no. 702). (text: CR H10313-10315)
+- 2017-12-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Sarbanes demanded the yeas and nays and the Chair postponed further proceedings on the motion to recommit with instructions until a time to be announced.
+- 2017-12-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 238 - 182 (Roll no. 702).(text: CR H10313-10315)
+- 2017-12-20 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for one hour of general debate for each bill. The amendment in the nature of a substitute printed in H.R. 2396 shall be considered as adopted. The rule also makes in order the amendment printed in the report. An amendment in the nature of a substitute to H.R. 4015 consisting of Rules Committee Print 115-46, shall be considered as adopted.
+- 2017-12-20 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2017-12-20 — The previous question was ordered pursuant to the rule.
