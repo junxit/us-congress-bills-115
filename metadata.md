@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3312
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3312
@@ -88,9 +88,10 @@ Systemic Risk Designation Improvement Act of 2017
 - Rep. Walorski, Jackie [R-IN-2] (W000813)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -112,3 +113,4 @@ Systemic Risk Designation Improvement Act of 2017
 - 2017-12-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 288 - 130 (Roll no. 694).(text: CR H10220-10221)
 - 2017-12-19 — The previous question was ordered pursuant to the rule.
 - 2017-12-19 — The resolution provides for consideration of the conference report to accompany H.R. 1. Additionally, the resolution provides for consideration of H.R. 3312, under a closed rule. The rule provides for one hour of general debate and one motion to recommit on both the conference report and H.R. 3312. Lastly, the rule provides for motions to suspend the rules through the remainder of the first session of the 115th Congress.
+- 2017-12-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
