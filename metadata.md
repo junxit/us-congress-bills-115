@@ -1,7 +1,7 @@
 ---
 measure: S. 35
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 35
@@ -33,3 +33,5 @@ Black Hills National Cemetery Boundary Expansion Act
 - 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-35.
 - 2017-05-03 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-35.
 - 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
+- 2017-12-21 — Passed Senate with an amendment by Voice Vote. (consideration: CR S8267-8269; text: CR S8267-8268)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S8267-8269; text: CR S8267-8268)
