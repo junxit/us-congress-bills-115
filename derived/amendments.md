@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3168
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -48,7 +48,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-28` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1315b` | add-at-end | Section 2602(d) of Public Law 111–148 (42 U.S.C. 1315b(d)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-28` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-28` | redesignate | in clause (ii), as redesignated by subparagraph (B), by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-28` | redesignate | in clause (ii), as redesignated by subparagraph (A), by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-28` | replace | by striking “all SNPs.—The requirements” and inserting “all SNPs.— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-28` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-28` | replace | by striking “who have” and inserting “who— | the bill quotes the text struck but describes what replaces it |
