@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3726
@@ -16,10 +16,11 @@ Stark Administrative Simplification Act of 2017
 
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
 
 ## Committees (2)
 
@@ -32,3 +33,11 @@ Stark Administrative Simplification Act of 2017
 - 2017-09-11 — Introduced in House
 - 2017-09-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-09-15 — Referred to the Subcommittee on Health.
+- 2017-12-21 — Committee on Energy and Commerce discharged.
+- 2017-12-21 — Committee on Energy and Commerce discharged.
+- 2017-12-21 — Placed on the Union Calendar, Calendar No. 354.
+- 2017-12-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-479, Part I.
+- 2017-12-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-479, Part I.
