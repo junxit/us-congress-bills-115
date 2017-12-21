@@ -1,7 +1,7 @@
 ---
 measure: S. 167
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 167
@@ -16,9 +16,12 @@ National Memorial to Fallen Educators Act
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -32,3 +35,5 @@ National Memorial to Fallen Educators Act
 - 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-95.
 - 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-95.
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
+- 2017-12-21 — Passed Senate with an amendment by Voice Vote. (consideration: CR S8267-8269; text: CR S8269)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S8267-8269; text: CR S8269)

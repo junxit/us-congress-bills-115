@@ -13,18 +13,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “National Memorial to Fallen Educators Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** from 1764 to the date of enactment of this Act, more than 119 educators from 36 States have lost their lives in the United States while performing professional duties;
-- **(2)** the United States lacks a national memorial dedicated to fallen educators; and
-- **(3)** a memorial to fallen educators at the National Teachers Hall of Fame in Emporia, Kansas—
-  - **(A)** was dedicated on June 12, 2014; and
-  - **(B)** will honor educators who have lost their lives in the line of professional service.
-
-## § 3. Designation
-
 ## § 2. Designation
 
 - **(a)** *In General* The memorial to fallen educators located at the National Teachers Hall of Fame in Emporia, Kansas, is designated as the “National Memorial to Fallen Educators”.
