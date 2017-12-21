@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4015
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4015
@@ -21,9 +21,10 @@ Corporate Governance Reform and Transparency Act of 2017
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -55,3 +56,4 @@ Corporate Governance Reform and Transparency Act of 2017
 - 2017-12-20 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for one hour of general debate for each bill. The amendment in the nature of a substitute printed in H.R. 2396 shall be considered as adopted. The rule also makes in order the amendment printed in the report. An amendment in the nature of a substitute to H.R. 4015 consisting of Rules Committee Print 115-46, shall be considered as adopted.
 - 2017-12-20 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2017-12-20 — The previous question was ordered pursuant to the rule.
+- 2017-12-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
