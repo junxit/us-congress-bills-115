@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4641
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4641
