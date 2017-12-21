@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 501
@@ -20,9 +20,10 @@ East Rosebud Wild and Scenic Rivers Act
 
 - Sen. Daines, Steve [R-MT] (D000618)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ East Rosebud Wild and Scenic Rivers Act
 - 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
 - 2017-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8185; text: CR S8185)
 - 2017-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8185; text: CR S8185)
+- 2017-12-21 — Message on Senate action sent to the House.
+- 2017-12-21 — Received in the House.
+- 2017-12-21 — Referred to the House Committee on Natural Resources.
