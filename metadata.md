@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1370
@@ -34,6 +34,12 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (3)
+
+- 2017-12-21 — [House 115-1-708](votes/house-115-1-0708.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (231–188)
+- 2017-12-21 — [Senate 115-1-324](votes/senate-115-1-0324.md) — On the Motion — **Motion Agreed to** (91–8)
+- 2017-12-21 — [Senate 115-1-325](votes/senate-115-1-0325.md) — On the Motion — **Motion Agreed to** (66–32)
+
 ## Actions
 
 - 2017-03-06 — Introduced in House
@@ -65,3 +71,20 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-11-06 — Senate amendment agreed to: Amendment SA 1579 agreed to in Senate by Unanimous Consent.
 - 2017-11-06 — Senate amendment proposed (on the floor): Amendment SA 1579 proposed by Senator McConnell for Senator Johnson.(consideration: CR S7029; text: CR S7029)
 - 2017-11-06 — Senate amendment submitted
+- 2017-11-07 — Message on Senate action sent to the House.
+- 2017-12-21 — DEBATE - The House proceeded with one hour of debate on the motion to agree in the Senate amendment with an amendment to H.R. 1370.
+- 2017-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S8235)
+- 2017-12-21 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2017-12-21 — Message on Senate action sent to the House.
+- 2017-12-21 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment made in the Senate. (CR S8235)
+- 2017-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2017-12-21 — Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 91 - 8. Record Vote Number: 324.
+- 2017-12-21 — Mr. Frelinghuysen moved that the House agree with an amendment to the Senate amendment.
+- 2017-12-21 — On motion that the House agree with an amendment to the Agreed to by the Yeas and Nays: 231 - 188 (Roll no. 708). (text: CR H10394-10397)
+- 2017-12-21 — Point of order that the motion to concur in the House amendment to the Senate amendment violates section 306 of the CBA against the measure raised in Senate.
+- 2017-12-21 — Presented to President.
+- 2017-12-21 — Presented to President.
+- 2017-12-21 — Pursuant to the provisions of H. Res. 670, Mr. Frelinghuysen brought up H.R. 1370 and offered a motion. (consideration: CR H10394-10403)
+- 2017-12-21 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Agreed to by the Yeas and Nays: 231 - 188 (Roll no. 708).(text: CR H10394-10397)
+- 2017-12-21 — Resolving differences -- Senate actions: Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1370 by Yea-Nay Vote. 66 - 32. Record Vote Number: 325.
+- 2017-12-21 — Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1370 by Yea-Nay Vote. 66 - 32. Record Vote Number: 325.
