@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 195
@@ -15,6 +15,12 @@ Making further continuing appropriations for the fiscal year ending September 30
 ## Sponsor
 
 - Rep. Russell, Steve [R-OK-5] (R000604)
+
+## Cosponsors (3)
+
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (3)
 
@@ -46,3 +52,11 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2017-11-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-184.
 - 2017-11-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-184.
 - 2017-11-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.
+- 2017-12-21 — Amendment SA 1864 agreed to in Senate by Unanimous Consent.
+- 2017-12-21 — Amendment SA 1864 proposed by Senator McConnell for Senator Grassley. To amend the Violent Crime Control and Law Enforcement Act of 1994, to reauthorize the Missing Alzheimer's Disease Patient Alert Program, and to promote initiatives that will reduce the risk of injury and death relating to the wandering characteristics of some children with autism.
+- 2017-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S8271)
+- 2017-12-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2017-12-21 — Senate amendment agreed to: Amendment SA 1864 agreed to in Senate by Unanimous Consent.
+- 2017-12-21 — Senate amendment proposed (on the floor): Amendment SA 1864 proposed by Senator McConnell for Senator Grassley.
+- 2017-12-21 — Senate amendment submitted
