@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3729
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 4 executed, 4 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,33 +33,6 @@ to guess them.
 | Removed | `For the purposes of` |
 | Inserted | `Subject to subsection (d), for the purposes of` |
 
-### 42 U.S.C. § 1395m
-
-> in paragraph (12)(A), by striking “2018” and inserting “2023”;
-
-| | |
-|---|---|
-| Removed | `2018` |
-| Inserted | `2023` |
-
-### 42 U.S.C. § 1395m
-
-> in paragraph (13)(A), by striking “2018” each place it appears and inserting “2023”; and
-
-| | |
-|---|---|
-| Removed | `2018` |
-| Inserted | `2023` |
-
-### 42 U.S.C. § 1395m
-
-> in paragraph (15), by striking “on or after October 1, 2013” and inserting “during the period beginning on October 1, 2013, and ending on September 30, 2018, and by 32 percent for such services furnished on or after October 1, 2018”.
-
-| | |
-|---|---|
-| Removed | `on or after October 1, 2013` |
-| Inserted | `during the period beginning on October 1, 2013, and ending on September 30, 2018, and by 32 percent for such services furnished on or after October 1, 2018` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -70,6 +43,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1320a` | insert | by inserting “suppliers of ground ambulance services,” after “health maintenance organizations,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1320a` | amend | in the matter at the end, by adding the following new sentence: “Not later than December 31, 2019, the Secretary shall modify the uniform reporting system for providers of services with respect to ambulance services to ensure that such s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1320a` | amend | in the matter following paragraph (5), by adding the following new sentence: “Not later than December 31, 2019, the Secretary shall modify the uniform reporting system for providers of services with respect to ambulance services to ensur… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1320a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834(l) of the Social Security Act (42 U.S.C. 1395m(l)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (12)(A), by striking “2018” and inserting “2023”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (13)(A), by striking “2018” each place it appears and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (15), by striking “on or after October 1, 2013” and inserting “during the period beginning on October 1, 2013, and ending on September 30, 2018, and by 32 percent for such services furnished on or after October 1, 2018”. | the bill names no machine-readable US Code section |
