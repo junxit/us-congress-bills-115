@@ -1,7 +1,7 @@
 ---
 measure: S. 1208
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1208
@@ -33,3 +33,5 @@ Strengthening the Department of Homeland Security Secure Mail Initiative Act
 - 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-171.
 - 2017-10-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-171.
 - 2017-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
+- 2017-12-21 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S8270-8271; text: CR S8270-8271)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S8270-8271; text: CR S8270-8271)

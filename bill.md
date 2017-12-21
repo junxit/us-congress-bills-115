@@ -17,7 +17,7 @@ This Act may be cited as the “Strengthening the Department of Homeland Securit
 
 In this Act—
 
-- **(1)** the terms Hold for Pickup service and Signature Confirmation service means mean the services described in sections 508.7.2.1 507.3.0 and 503.8.1.1.a, respectively, of the Domestic Mail Manual (or any successor services);
+- **(1)** the terms Hold for Pickup service and Signature Confirmation service mean the services described in sections 507.3.0 and 503.8.1.1.a, respectively, of the Domestic Mail Manual (or any successor services);
 - **(2)** the term Immigration Examinations Fee Account means the account established under section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m));
 - **(3)** the term Postal Service means the United States Postal Service; and
 - **(4)** the term Secretary means the Secretary of Homeland Security.
