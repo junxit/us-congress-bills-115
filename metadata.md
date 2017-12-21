@@ -1,7 +1,7 @@
 ---
 measure: S. 117
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 117
@@ -20,9 +20,10 @@ Alex Diekmann Peak Designation Act of 2017
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Alex Diekmann Peak Designation Act of 2017
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.
 - 2017-12-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8184-8185; text as passed Senate: CR S8185)
 - 2017-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8184-8185; text as passed Senate: CR S8185)
+- 2017-12-21 — Message on Senate action sent to the House.
+- 2017-12-21 — Received in the House.
+- 2017-12-21 — Referred to the House Committee on Natural Resources.
