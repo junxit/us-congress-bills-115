@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title XVIII of the Social Security Act to provide continued access to specialized Medicare Advantage plans for special needs individuals, and for other purposes.
 
-## § 1. Specialized Medicare Advantage plans for special needs individuals
+## § 1. Short title
+
+This Act may be cited as the “Special Needs Plans Reauthorization Act of 2017” or the “SNP Reauthorization Act of 2017”.
+
+## § 2. Specialized Medicare Advantage plans for special needs individuals
 
 - **(a)** *Extension* Section 1859(f)(1) of the Social Security Act (42 U.S.C. 1395w–28(f)(1)) is amended—
   - **(1)** by striking “and for periods before January 1, 2019”; and
@@ -40,11 +44,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       >     - **(iv)** *Continuation of benefits pending appeal* The unified procedures under clause (i) shall, with respect to all benefits under parts A and B and title XIX subject to appeal under such procedures, incorporate provisions under current law and implementing regulations that provide continuation of benefits pending appeal under this title and title XIX.
       >   - **(C)** *Requirement for unified grievances and appeals* For 2022 and subsequent years, the contract of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) with a State Medicaid agency under paragraph (3)(D) shall require the use of unified grievances and appeals procedures as described in subparagraph (B).
       >   - **(D)** *Requirements for full integration for certain dual SNPs*
-      >     - **(i)** *Requirement* For 2022 and subsequent years, a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) shall meet one or more of the following requirements, to the extent allowed by the State, for integration of benefits under this title and title XIX:
+      >     - **(i)** *Requirement* For 2021 and subsequent years, a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) shall meet one or more of the following requirements for integration of benefits under this title and title XIX:
       >       - **(I)** Meet the requirements of a fully integrated plan described in section 1853(a)(1)(B)(iv)(II) (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program).
       >       - **(II)** Enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
-      >       - **(III)** Enter into any other type of arrangement, as determined appropriate by the Secretary.
-      >     - **(ii)** *Sanctions* For 2022 and subsequent years, if the Secretary determines that a specialized MA plan fails to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan any of the remedies described in section 1857(g)(2).
+      >       - **(III)** To the extent the State does not allow for or require such a specialized MA plan to enter into a capitated contract described in subclause (II), enter into another type of integration arrangement, as determined appropriate by the Secretary after consultation with stakeholders, such as by—
+      >         - **(aa)** entering into a contract with the State that requires notifying the State in a timely manner of hospitalizations, emergency room visits, and hospital or nursing home discharges of enrollees or otherwise requires sharing data that would benefit the coordination of items and services under this title and the State plan under title XIX; or
+      >         - **(bb)** offering, by a parent organization, a Medicaid managed care plan that provides long term services and supports or behavioral health services to the same enrollees as under such specialized MA plan.
+      >     - **(ii)** *Sanctions* For 2021 and subsequent years, if the Secretary determines that a specialized MA plan fails to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan any of the remedies described in section 1857(g)(2).
 
   - **(2)** *Conforming amendment to responsibilities of Federal Coordinated Health Care Office* Section 2602(d) of Public Law 111–148 (42 U.S.C. 1315b(d)) is amended by adding at the end the following new paragraphs:
     > - **(6)** To act as a designated contact for States under subsection (f)(8)(A) of section 1859 of the Social Security Act (42 U.S.C. 1395w–28) with respect to the integration of specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section.
@@ -54,7 +60,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Improvements to severe or disabling chronic condition SNPs*
   - **(1)** *Care management requirements* Section 1859(f)(5) of the Social Security Act (42 U.S.C. 1395w–28(f)(5)) is amended—
     - **(A)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;
-    - **(B)** in clause (ii), as redesignated by subparagraph (B), by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and indenting appropriately;
+    - **(B)** in clause (ii), as redesignated by subparagraph (A), by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and indenting appropriately;
     - **(C)** by striking “all SNPs.—The requirements” and inserting “all SNPs.—
       > - **(A)** *In general* Subject to subparagraph (B), the requirements
 
@@ -100,20 +106,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(e)** *GAO study and report on State-Level integration between dual SNPs and Medicaid*
   - **(1)** *Study* The Comptroller General of the United States (in this paragraph referred to as the “Comptroller General”) shall conduct a study on State-level integration between specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of section 1859 of the Social Security Act (42 U.S.C. 1395w–28) and the Medicaid program under title XIX of such Act (42 U.S.C. 1396 et seq.). Such study shall include an analysis of the following:
-    - **(A)** The characteristics of States in which the State agency responsible for administering the State plan under such title XIX has a contract with such a specialized MA plan and that delivers long-term services and supports under the State plan under such title XIX through a managed care program, including the requirements under such State plan with respect to long-term services and supports.
+    - **(A)** The characteristics of States in which the State agency responsible for administering the State plan under such title XIX has a contract with such a specialized MA plan and that delivers long term services and supports under the State plan under such title XIX through a managed care program, including the requirements under such State plan with respect to long term services and supports.
     - **(B)** The types of such specialized MA plans, which may include the following:
       - **(i)** A plan described in section 1853(a)(1)(B)(iv)(II) of such Act (42 U.S.C. 1395w–23(a)(1)(B)(iv)(II)).
       - **(ii)** A plan that meets the requirements described in subsection (f)(3)(D) of such section 1859.
       - **(iii)** A plan described in clause (ii) that also meets additional requirements established by the State.
     - **(C)** The characteristics of individuals enrolled in such specialized MA plans.
-    - **(D)** As practicable, the following with respect to State programs for the delivery of long-term services and supports under such title XIX through a managed care program:
+    - **(D)** As practicable, the following with respect to State programs for the delivery of long term services and supports under such title XIX through a managed care program:
       - **(i)** Which populations of individuals are eligible to receive such services and supports.
       - **(ii)** Whether all such services and supports are provided on a capitated basis or if any of such services and supports are carved out and provided through fee-for-service.
     - **(E)** As, practicable, how the availability and variation of integration arrangements of such specialized MA plans offered in States affects spending, service delivery options, access to community-based care, and utilization of care.
     - **(F)** Barriers and opportunities for making further progress on dual integration, as well as recommend legislation to expedite or refine pathways toward fully integrated care.
   - **(2)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Comptroller General determines appropriate.
 
-## § 2. Expanding supplemental benefits to meet the needs of chronically ill medicare advantage enrollees
+## § 3. Expanding supplemental benefits to meet the needs of chronically ill medicare advantage enrollees
 
 - **(a)** *In general* Section 1852(a)(3) of the Social Security Act (42 U.S.C. 1395w–22(a)(3)) is amended—
   - **(1)** in subparagraph (A), by striking “Each” and inserting “Subject to subparagraph (D), each”; and
@@ -128,7 +134,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(II)** has a high risk of hospitalization or other adverse health outcomes; or
     >     - **(III)** requires intensive care coordination.
 
-- **(b)** *GAO Study and Report*
+- **(b)** *GAO Study And Report*
   - **(1)** *Study* The Comptroller General of the United States (in this subsection referred to as the “Comptroller General”) shall conduct a study on supplemental benefits provided to enrollees in Medicare Advantage plans under part C of title XVIII of the Social Security Act, including specialized MA plans for special needs individuals described in section 1859(b)(6) of such Act (42 U.S.C. 1395w–28(b)(6)). Such study shall be conducted in consultation with the Centers for Medicare & Medicaid Services and Medicare Advantage plans as necessary and, to the extent data is available, shall include an analysis of the following:
     - **(A)** The type of supplemental benefits provided to such enrollees, the total number of enrollees receiving each supplemental benefit, and whether the supplemental benefit is covered by the standard benchmark cost of the benefit or with an additional premium.
     - **(B)** The frequency in which supplemental benefits are utilized by such enrollees.
