@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-93 amendatory instructions. 18 executed, 75 stated and not applied.
+97 amendatory instructions. 18 executed, 79 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -256,7 +256,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5172` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5172` | insert | Section 406(e)(1) of such Act (42 U.S.C. 5172(e)(1)) is further amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5172` | add-at-end | Section 406(e) of such Act (42 U.S.C. 5172(e)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5170c` | insert | Section 205(d)(2) of the Disaster Mitigation Act of 2000 (Public Law 106–390) is amended by inserting “(C)” after “except that paragraph (1)”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5170c` | insert | Section 205(d)(2) of the Disaster Mitigation Act of 2000 (Public Law 106–390) is amended by inserting “(B)” after “except that paragraph (1)”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5172` | insert | Section 406(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(b)) is amended by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 9011` | add-at-end | Section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 9011` | add-at-end | Section 1111(6) of the Agricultural Act of 2014 (7 U.S.C. 9011(6)) is amended by adding at the end the following new sentence: “Effective beginning with the 2018 crop year, the term includes seed cotton.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -270,3 +270,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1508b` | amend | Section 508B of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1508b) is amended by adding the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1523` | repeal | Paragraph (10) of section 523(b) of the Federal Crop Insurance Act (7 U.S.C. 1523) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | amend | The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended at the end by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1400Z` | add-at-end | Section 1400Z-1(b) of the Internal Revenue Code of 1986, as added by the Tax Cuts and Jobs Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1400Z` | insert | Section 1400Z-1(d)(1) of such Code is amended by inserting “and subsection (b)(3)” after “paragraph (2)”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Subsections (a)(2) and (b)(2) of section 501 of the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Public Law 115–63; 131 Stat. 1173) are both amended by striking “September 21, 2017” and inserting “October 17, 2017”. | the bill names no machine-readable US Code section |
+| — | replace | Subsections (a)(3), (b)(3), and (c)(3) of section 503 of the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (Public Law 115–63; 131 Stat. 1181) are each amended by striking “sections 51(i)(1) and 52” and inserting “sect… | the bill names no machine-readable US Code section |
