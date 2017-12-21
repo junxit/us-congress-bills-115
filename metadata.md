@@ -1,7 +1,7 @@
 ---
 measure: S. 2070
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2070
@@ -16,7 +16,7 @@ Kevin and Avonte's Law of 2017
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -26,6 +26,10 @@ Kevin and Avonte's Law of 2017
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
 
 ## Committees (1)
 
@@ -39,3 +43,12 @@ Kevin and Avonte's Law of 2017
 - 2017-12-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
 - 2017-12-01 — Committee on the Judiciary. Reported by Senator Grassley with an amendment. Without written report.
 - 2017-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.
+- 2017-12-21 — Amendment SA 1865 agreed to in Senate by Unanimous Consent.
+- 2017-12-21 — Amendment SA 1865 proposed by Senator McConnell for Senator Grassley. To make technical corrections.
+- 2017-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S8271-8276)
+- 2017-12-21 — Passed Senate with amendments by Voice Vote. (text: CR S8274-8276)
+- 2017-12-21 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S8274-8276)
+- 2017-12-21 — Senate amendment agreed to: Amendment SA 1865 agreed to in Senate by Unanimous Consent.
+- 2017-12-21 — Senate amendment proposed (on the floor): Amendment SA 1865 proposed by Senator McConnell for Senator Grassley.
+- 2017-12-21 — Senate amendment submitted
+- 2017-12-21 — The committee amendment agreed to by Unanimous Consent.
