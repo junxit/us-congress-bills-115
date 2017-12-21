@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 139
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 139
@@ -16,7 +16,7 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Cosponsors (31)
+## Cosponsors (33)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -49,6 +49,8 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -62,3 +64,5 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 - 2017-12-11 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with an amended preamble. Without written report.
 - 2017-12-11 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with an amended preamble. Without written report.
 - 2017-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
+- 2017-12-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S8276-8277; text: CR S8277)
+- 2017-12-21 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S8276-8277; text: CR S8277)
