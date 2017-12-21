@@ -2,14 +2,14 @@
 legis-num: H. RES. 670
 congress: 115th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 670
 
 > Providing for consideration of the Senate amendment to the bill (H.R.1370) to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes; providing for consideration of the bill (H.R. 4667) making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assistance for Hurricanes Harvey, Irma, and Maria, and calendar year 2017 wildfires, and for other purposes; and providing for proceedings during the period from December 22, 2017, through January 7, 2018.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 1370) to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 115–52. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 1370) to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 115-52. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
 
 ## § 2.
 
