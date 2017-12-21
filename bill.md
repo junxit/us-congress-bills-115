@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4725
+congress: 115th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4725
+
+> To amend the Federal Deposit Insurance Act to require short form call reports for certain depository institutions.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Bank Reporting Relief Act”.
+
+## § 2. Short form call reports
+
+Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)) is amended by adding at the end the following:
+
+> - **(12)** *Short form reporting*
+>   - **(A)** *In general* The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
+>   - **(B)** *Definition* In this paragraph, the term covered depository institution means an insured depository institution that—
+>     - **(i)** has less than $5,000,000,000 in total consolidated assets; and
+>     - **(ii)** satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.
