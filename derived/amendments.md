@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

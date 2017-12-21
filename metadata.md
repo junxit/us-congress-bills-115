@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1370
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1370
@@ -88,3 +88,5 @@ An Act to amend the Homeland Security Act of 2002 to require the Secretary of Ho
 - 2017-12-21 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Agreed to by the Yeas and Nays: 231 - 188 (Roll no. 708).(text: CR H10394-10397)
 - 2017-12-21 — Resolving differences -- Senate actions: Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1370 by Yea-Nay Vote. 66 - 32. Record Vote Number: 325.
 - 2017-12-21 — Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1370 by Yea-Nay Vote. 66 - 32. Record Vote Number: 325.
+- 2017-12-22 — Signed by President.
+- 2017-12-22 — Signed by President.
