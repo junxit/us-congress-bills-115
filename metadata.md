@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 327
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 327
@@ -28,3 +28,7 @@ A resolution designating the week of November 5 through 12, 2017, as "National C
 
 - 2017-11-09 — Introduced in Senate
 - 2017-11-09 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7159)
+- 2017-12-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-12-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2017-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8279)
+- 2017-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8279)
