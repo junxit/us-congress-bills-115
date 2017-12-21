@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4641
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4641
@@ -34,3 +34,12 @@ To authorize the President to award the Medal of Honor to John L. Canley for act
 - 2017-12-21 — On passage Passed without objection. (text: CR H10362)
 - 2017-12-21 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10362)
 - 2017-12-21 — Received in the Senate, read twice.
+- 2018-01-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S170)
+- 2018-01-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S170)
+- 2018-01-12 — Message on Senate action sent to the House.
+- 2018-01-17 — Presented to President.
+- 2018-01-17 — Presented to President.
+- 2018-01-29 — Became Private Law No: 115-1.
+- 2018-01-29 — Became Private Law No: 115-1.
+- 2018-01-29 — Signed by President.
+- 2018-01-29 — Signed by President.
