@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1159
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1159
@@ -56,9 +56,10 @@ United States and Israel Space Cooperation Act
 - Rep. Faso, John J. [R-NY-19] (F000464)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ United States and Israel Space Cooperation Act
 - 2017-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2017-12-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 700). (text: CR 12/18/2017 H10161)
 - 2017-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 700).(text: CR 12/18/2017 H10161)
+- 2017-12-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
