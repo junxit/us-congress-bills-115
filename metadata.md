@@ -1,7 +1,7 @@
 ---
 measure: S. 1438
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1438
@@ -37,3 +37,18 @@ Gateway Arch National Park Designation Act
 - 2017-12-22 — Message on Senate action sent to the House.
 - 2017-12-22 — Received in the House.
 - 2017-12-22 — Referred to the House Committee on Natural Resources.
+- 2018-01-02 — Referred to the Subcommittee on Federal Lands.
+- 2018-02-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gosar objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-02-05 — Considered under suspension of the rules. (consideration: CR H752-753)
+- 2018-02-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1438.
+- 2018-02-05 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2018-02-07 — Considered as unfinished business. (consideration: CR H968)
+- 2018-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 2/5/2018 H752)
+- 2018-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 2/5/2018 H752)
+- 2018-02-12 — Presented to President.
+- 2018-02-12 — Presented to President.
+- 2018-02-22 — Became Public Law No: 115-128.
+- 2018-02-22 — Became Public Law No: 115-128.
+- 2018-02-22 — Signed by President.
+- 2018-02-22 — Signed by President.
