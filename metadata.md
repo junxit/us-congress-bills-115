@@ -1,7 +1,7 @@
 ---
 measure: S. 466
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 466
@@ -20,9 +20,10 @@ A bill to clarify the description of certain Federal land under the Northern Ari
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to clarify the description of certain Federal land under the Northern Ari
 - 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
 - 2017-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S8267-8269; text: CR S8269)
 - 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S8267-8269; text: CR S8269)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-22 — Received in the House.
+- 2017-12-22 — Referred to the House Committee on Natural Resources.
