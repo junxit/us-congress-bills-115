@@ -1,7 +1,7 @@
 ---
 measure: S. 2030
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2030
@@ -40,3 +40,15 @@ Ceiling Fan Energy Conservation Harmonization Act
 - 2017-12-22 — Received in the House.
 - 2017-12-22 — Referred to the House Committee on Energy and Commerce.
 - 2017-12-22 — Referred to the Subcommittee on Energy.
+- 2018-03-19 — Considered under suspension of the rules. (consideration: CR H1659-1661)
+- 2018-03-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2030.
+- 2018-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-19 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2018-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1659)
+- 2018-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1659)
+- 2018-03-22 — Presented to President.
+- 2018-03-22 — Presented to President.
+- 2018-04-03 — Became Public Law No: 115-161.
+- 2018-04-03 — Became Public Law No: 115-161.
+- 2018-04-03 — Signed by President.
+- 2018-04-03 — Signed by President.
