@@ -1,7 +1,7 @@
 ---
 measure: S. 2030
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2030
@@ -22,9 +22,10 @@ Ceiling Fan Energy Conservation Harmonization Act
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -35,3 +36,7 @@ Ceiling Fan Energy Conservation Harmonization Act
 - 2017-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8277-8278)
 - 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8277)
 - 2017-12-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8277)
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-22 — Received in the House.
+- 2017-12-22 — Referred to the House Committee on Energy and Commerce.
+- 2017-12-22 — Referred to the Subcommittee on Energy.

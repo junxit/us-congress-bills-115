@@ -2,7 +2,7 @@
 legis-num: S. 2030
 congress: 115th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 2030
