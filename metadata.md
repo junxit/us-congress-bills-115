@@ -1,7 +1,7 @@
 ---
 measure: S. 2070
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2070
@@ -31,9 +31,13 @@ Kevin and Avonte's Law of 2017
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Committees (1)
+## Committees (5)
 
 - Senate — Judiciary Committee
+- House — Committee on House Administration
+- House — Oversight and Accountability Committee
+- House — Education and the Workforce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -52,3 +56,9 @@ Kevin and Avonte's Law of 2017
 - 2017-12-21 — Senate amendment proposed (on the floor): Amendment SA 1865 proposed by Senator McConnell for Senator Grassley.
 - 2017-12-21 — Senate amendment submitted
 - 2017-12-21 — The committee amendment agreed to by Unanimous Consent.
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-22 — Received in the House.
+- 2017-12-22 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-12-22 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-12-22 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-12-22 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
