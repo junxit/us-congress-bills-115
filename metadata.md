@@ -1,7 +1,7 @@
 ---
 measure: S. 167
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 167
@@ -41,3 +41,18 @@ National Memorial to Fallen Educators Act
 - 2017-12-22 — Message on Senate action sent to the House.
 - 2017-12-22 — Received in the House.
 - 2017-12-22 — Referred to the House Committee on Natural Resources.
+- 2018-01-02 — Referred to the Subcommittee on Federal Lands.
+- 2018-04-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-04-16 — Considered as unfinished business. (consideration: CR H3328-3329)
+- 2018-04-16 — Considered under suspension of the rules. (consideration: CR H3327)
+- 2018-04-16 — DEBATE - The House proceeded with forty minutes of debate on S. 167.
+- 2018-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-16 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2018-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 141). (text: CR H3327)
+- 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 141).(text: CR H3327)
+- 2018-04-19 — Presented to President.
+- 2018-04-19 — Presented to President.
+- 2018-04-30 — Became Public Law No: 115-169.
+- 2018-04-30 — Became Public Law No: 115-169.
+- 2018-04-30 — Signed by President.
+- 2018-04-30 — Signed by President.
