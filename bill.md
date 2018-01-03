@@ -1,7 +1,7 @@
 ---
 legis-num: S. 925
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,17 +19,20 @@ This Act may be cited as the “Veterans E-Health and Telemedicine Support Act o
   > ## § 1730B. Licensure of health care professionals providing treatment via telemedicine
   >
   > - **(a)** *In general* Notwithstanding any provision of law regarding the licensure of health care professionals, a covered health care professional may practice the health care profession of the health care professional at any location in any State, regardless of where the covered health care professional or the patient is located, if the covered health care professional is using telemedicine to provide treatment to an individual under this chapter.
-  > - **(b)** *Property of Federal Government* Subsection (a) shall apply to a covered health care professional providing treatment to a patient regardless of whether the covered health care professional or patient is located in a facility owned by the Federal Government during such treatment.
-  > - **(c)** *Construction* Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act (21 U.S.C. 801 et seq.).
-  > - **(d)** *Covered health care professional defined* In this section, the term covered health care professional means a health care professional who—
+  > - **(b)** *Covered health care professionals* For purposes of this section, a covered health care professional is any health care professional who—
   >   - **(1)** is an employee of the Department appointed under the authority under section 7306, 7401, 7405, 7406, or 7408 of this title or title 5;
   >   - **(2)** is authorized by the Secretary to provide health care under this chapter;
-  >   - **(3)** is required to adhere to all quality standards relating to the provision of telemedicine in accordance with applicable policies of the Department; and
+  >   - **(3)** is required to adhere to all standards of quality relating to the provision of medicine in accordance with applicable policies of the Department; and
   >   - **(4)** has an active, current, full, and unrestricted license, registration, or certification in a State to practice the health care profession of the health care professional.
+  > - **(c)** *Property of Federal government* Subsection (a) shall apply to a covered health care professional providing treatment to a patient regardless of whether the covered health care professional or patient is located in a facility owned by the Federal Government during such treatment.
+  > - **(d)** *Relation to State law*
+  >   - **(1)** The provisions of this section shall supersede any provisions of the law of any State to the extent that such provision of State law are inconsistent with this section.
+  >   - **(2)** No State shall deny or revoke the license, registration, or certification of a covered health care professional who otherwise meets the qualifications of the State for holding the license, registration, or certification on the basis that the covered health care professional has engaged or intends to engage in activity covered by subsection (a).
+  > - **(e)** *Rule of construction* Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act (21 U.S.C. 801 et seq.).
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1730A the following new item:
 - **(c)** *Report on telemedicine*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the effectiveness of the use of telemedicine by the Department of Veterans Affairs.
+  - **(1)** *In general* Not later than one year after the earlier of the date on which services provided under section 1730B of title 38, United States Code, as added by subsection (a), first occur or regulations are promulgated to carry out such section, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the effectiveness of the use of telemedicine by the Department of Veterans Affairs.
   - **(2)** *Elements* The report required by paragraph (1) shall include an assessment of the following:
     - **(A)** The satisfaction of veterans with telemedicine furnished by the Department.
     - **(B)** The satisfaction of health care providers in providing telemedicine furnished by the Department.
@@ -38,7 +41,7 @@ This Act may be cited as the “Veterans E-Health and Telemedicine Support Act o
       - **(ii)** The frequency of use by veterans of telemedicine.
       - **(iii)** The productivity of health care providers.
       - **(iv)** Wait times for an appointment for the receipt of health care from the Department.
-      - **(v)** The reduction, if any, in the use by veterans of in-person services at Department facilities and non-Department facilities.
+      - **(v)** The use by veterans of in-person services at Department facilities and non-Department facilities.
     - **(D)** The types of appointments for the receipt of telemedicine furnished by the Department that were provided during the one-year period preceding the submittal of the report.
-    - **(E)** The number of appointments for the receipt of telemedicine furnished by the Department that were requested during such period, disaggregated by Veterans Integrated Service Network.
-    - **(F)** Savings by the Department, if any, including travel costs, of furnishing health care through the use of telemedicine during such period.
+    - **(E)** The number of appointments for the receipt of telemedicine furnished by the Department that were requested during such period, disaggregated by medical facility.
+    - **(F)** Savings by the Department, if any, including travel costs, from furnishing health care through the use of telemedicine during such period.
