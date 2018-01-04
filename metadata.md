@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 115
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4667
@@ -43,3 +43,5 @@ Making further supplemental appropriations for the fiscal year ending September 
 - 2017-12-21 — QUESTION OF CONSIDERATION - The Chair announced that the bill contained an emergency designation pursuant to section 4(g)(1) of the Statutory Pay-As-You-Go Act of 2010 and accordingly, the Chair would put the question of consideration under section 4(g)(2) of the Statutory Pay-As-You-Go Act of 2010.
 - 2017-12-21 — Received in the Senate.
 - 2017-12-21 — The previous question was ordered pursuant to the rule.
+- 2018-01-03 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-01-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 115
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
