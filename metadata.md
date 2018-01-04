@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 36
 congress: 115
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.J.Res. 36
@@ -59,9 +59,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -77,3 +78,6 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2017-02-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 191 (Roll no. 78).(text of measure as passed: CR H951)
 - 2017-02-03 — Received in the Senate.
 - 2017-02-03 — The previous question was ordered pursuant to the rule.
+- 2017-05-10 — Motion to proceed to consideration of measure made in Senate. (CR S2851)
+- 2017-05-10 — Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 125.
+- 2018-01-04 — Read twice and referred to the Committee on Energy and Natural Resources.
