@@ -1,7 +1,7 @@
 ---
 legis-num: H.J. RES. 36
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
