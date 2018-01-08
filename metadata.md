@@ -1,7 +1,7 @@
 ---
 measure: H.R. 772
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 772
@@ -16,7 +16,7 @@ Common Sense Nutrition Disclosure Act of 2017
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (35)
+## Cosponsors (86)
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
@@ -53,6 +53,57 @@ Common Sense Nutrition Disclosure Act of 2017
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Holding, George [R-NC-2] (H001065)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Lewis, Jason [R-MN-2] (L000587)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Shimkus, John [R-IL-15] (S000364)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
 ## Committees (1)
 
@@ -63,3 +114,10 @@ Common Sense Nutrition Disclosure Act of 2017
 - 2017-01-31 — Introduced in House
 - 2017-01-31 — Introduced in House
 - 2017-01-31 — Referred to the House Committee on Energy and Commerce.
+- 2017-02-03 — Referred to the Subcommittee on Health.
+- 2017-07-27 — Committee Consideration and Mark-up Session Held.
+- 2017-07-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 14.
+- 2017-07-27 — Subcommittee on Health Discharged.
+- 2018-01-08 — Placed on the Union Calendar, Calendar No. 360.
+- 2018-01-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-486.
+- 2018-01-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-486.
