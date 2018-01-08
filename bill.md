@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2954
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,16 +15,11 @@ This Act may be cited as the “Home Mortgage Disclosure Adjustment Act”.
 
 ## § 2. Depository institutions subject to maintenance of records and disclosure requirements
 
-- **(a)** *Loan volume threshold* Section 304 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803) is amended—
-  - **(1)** by redesignating subsection (i) as paragraph (2) and adjusting the margin appropriately; and
-  - **(2)** by inserting before such paragraph (2) the following:
+- **(a)** *In general* Section 304 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803) is amended—
+  - **(1)** by redesignating subsection (i) as paragraph (3) and adjusting the margins accordingly; and
+  - **(2)** by inserting before paragraph (3), as so redesignated, the following:
     > - **(i)** *Exemptions*
-    >   - **(1)** *In general* With respect to a depository institution, the requirements of subsections (a) and (b) shall not apply—
-    >     - **(A)** with respect to closed-end mortgage loans, if such depository institution originated less than 1,000 closed-end mortgage loans in each of the two preceding calendar years; and
-    >     - **(B)** with respect to open-end lines of credit, if such depository institution originated less than 2,000 open-end lines of credit in each of the two preceding calendar years.
+    >   - **(1)** *Closed-end mortgage loans* With respect to a depository institution, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to closed-end mortgage loans if the depository institution originated less than 500 closed-end mortgage loans in each of the 2 preceding calendar years.
+    >   - **(2)** *Open-end lines of credit* With respect to a depository institution, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the depository institution originated less than 500 open-end lines of credit in each of the 2 preceding calendar years.
 
-- **(b)** *Technical correction* Section 304(i)(2) of such Act, as redesignated by subsection (a), is amended by striking “section 303(2)(A)” and inserting “section 303(3)(A)”.
-- **(c)** *Data points* Section 304(b) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(b)) is amended—
-  - **(1)** by striking paragraphs (5) and (6);
-  - **(2)** in paragraph (3), by inserting “and” at the end; and
-  - **(3)** in paragraph (4), by striking “age.”.
+- **(b)** *Technical correction* Section 304(i)(3) of the Home Mortgage Disclosure Act of 1975, as so redesignated by subsection (a)(1), is amended by striking “section 303(2)(A)” and inserting “section 303(3)(A)”.
