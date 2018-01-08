@@ -1,7 +1,7 @@
 ---
 measure: H.R. 772
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 21 U.S.C. § 343
 
-> by striking “Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.” and inserting “Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Any final regulations that are promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017, and any final regulations that were promulgated pursuant to this clause before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect earlier than 2 years after the promulgation of final regulations pursuant to the Common Sense Nutrition Disclosure Act of 2017.”; and
+> by striking “Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.” and inserting “Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Final regulations to carry out this clause, including any regulations promulgated before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect until such compliance date as shall be specified by the Secretary in the regulations promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017.”; and
 
 | | |
 |---|---|
 | Removed | `Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.` |
-| Inserted | `Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Any final regulations that are promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017, and any final regulations that were promulgated pursuant to this clause before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect earlier than 2 years after the promulgation of final regulations pursuant to the Common Sense Nutrition Disclosure Act of 2017.` |
+| Inserted | `Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Final regulations to carry out this clause, including any regulations promulgated before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect until such compliance date as shall be specified by the Secretary in the regulations promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017.` |
 
 ### 21 U.S.C. § 343-1
 

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 772
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -35,7 +35,7 @@ This Act may be cited as the “Common Sense Nutrition Disclosure Act of 2017”
     > - **(v)** *Menu variability and combination meals* The Secretary shall establish by regulation standards for determining and disclosing the nutrient content for standard menu items that come in different flavors, varieties, or combinations, but which are listed as a single menu item, such as soft drinks, ice cream, pizza, doughnuts, or children's combination meals. Such standards shall allow a restaurant or similar retail food establishment to choose whether to determine and disclose such content for the whole standard menu item, for a serving or common unit division thereof, or for a serving or common unit division thereof accompanied by the number of servings or common unit divisions in the whole standard menu item. Such standards shall allow a restaurant or similar retail food establishment to determine and disclose such content by using any of the following methods: ranges, averages, individual labeling of flavors or components, or labeling of one preset standard build. In addition to such methods, the Secretary may allow the use of other methods, to be determined by the Secretary, for which there is a reasonable basis (as such term is defined in subclause (iv)(II)).
 
   - **(5)** in subclause (x)—
-    - **(A)** by striking “Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.” and inserting “Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Any final regulations that are promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017, and any final regulations that were promulgated pursuant to this clause before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect earlier than 2 years after the promulgation of final regulations pursuant to the Common Sense Nutrition Disclosure Act of 2017.”; and
+    - **(A)** by striking “Not later than 1 year after the date of enactment of this clause, the Secretary shall promulgate proposed regulations to carry out this clause.” and inserting “Not later than 1 year after the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, the Secretary shall issue proposed regulations to carry out this clause, as amended by such Act. Final regulations to carry out this clause, including any regulations promulgated before the date of enactment of the Common Sense Nutrition Disclosure Act of 2017, shall not take effect until such compliance date as shall be specified by the Secretary in the regulations promulgated pursuant to the Common Sense Nutrition Disclosure Act of 2017.”; and
     - **(B)** by adding at the end the following:
       > - **(IV)** *Certifications* Restaurants and similar retail food establishments shall not be required to provide certifications or similar signed statements relating to compliance with the requirements of this clause.
 
