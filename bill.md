@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4475
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,11 +25,11 @@ In this Act:
 - **(a)** *Establishment*
   - **(1)** *In general* The Secretary shall establish within the United States Geological Survey a system, to be known as the “National Volcano Early Warning and Monitoring System”, to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
   - **(2)** *Purposes* The purposes of the System are—
-    - **(A)** to organize, modernize, standardize, and stabilize the monitoring systems of the volcano observatories in the United States, which include the Alaska Volcano Observatory, California Volcano Observatory, Cascades Volcano Observatory, Hawaiian Volcano Observatory, and Yellowstone Volcano Observatory; and
+    - **(A)** to organize, modernize, standardize, and stabilize the monitoring systems of the volcano observatories in the United States, which include the Alaska Volcano Observatory, California Volcano Observatory, Cascades Volcano Observatory, Hawaiian Volcano Observatory, Yellowstone Volcano Observatory, and other volcano observatories established under subsection (d); and
     - **(B)** to unify the monitoring systems of volcano observatories in the United States into a single interoperative system.
   - **(3)** *Objective* The objective of the System is to monitor all the volcanoes in the United States at a level commensurate with the threat posed by the volcanoes by—
     - **(A)** upgrading existing networks on monitored volcanoes;
-    - **(B)** installing new networks on un­mon­i­tored volcanoes; and
+    - **(B)** installing new networks on unmonitored volcanoes; and
     - **(C)** employing geodetic and other components when applicable.
 - **(b)** *System components*
   - **(1)** *In general* The System shall include—
@@ -43,15 +43,19 @@ In this Act:
     - **(B)** *Inclusions* The management plan submitted under subparagraph (A) shall include—
       - **(i)** annual cost estimates for modernization activities and operation of the System;
       - **(ii)** annual milestones, standards, and performance goals; and
-      - **(iii)** recommendations for, and prog­ress towards, establishing new, or enhancing existing, partnerships to leverage resources.
+      - **(iii)** recommendations for, and progress towards, establishing new, or enhancing existing, partnerships to leverage resources.
   - **(2)** *Advisory committee* The Secretary shall establish an advisory committee to assist the Secretary in implementing the System, to be comprised of representatives of relevant agencies and members of the scientific community, to be appointed by the Secretary.
-  - **(3)** *Partnerships* The Secretary may enter into cooperative agreements with institutions of higher education and State agencies designating the institutions of higher education and State agencies as volcano observatory partners for the System.
+  - **(3)** *Partnerships* The Secretary may enter into cooperative agreements with institutions of higher education and State or territorial agencies designating the institutions of higher education and State or territorial agencies as volcano observatory partners for the System.
   - **(4)** *Coordination* The Secretary shall coordinate the activities under this Act with the heads of relevant Federal agencies, including—
     - **(A)** the Secretary of Transportation;
     - **(B)** the Administrator of the Federal Aviation Administration;
     - **(C)** the Administrator of the National Oceanic and Atmospheric Administration; and
     - **(D)** the Director of the Federal Emergency Management Administration.
-- **(d)** *Annual report* Annually, the Secretary shall submit to Congress a report that describes the activities carried out under this Act.
+- **(d)** *Volcano Observatory in Pacific U.S. Territories*
+  - **(1)** *Feasibility study* Not later than 180 days after the date of enactment of this Act, the Secretary shall conduct a study to assess the feasibility of establishing volcano observatories in Guam, the Northern Mariana Islands, and American Samoa to monitor volcanic activity across the western and southern Pacific Ocean along the Ring of Fire, including underwater volcanic activity in such region.
+  - **(2)** *Consultation* The Secretary shall consult with appropriate territorial and local entities in conducting the study.
+  - **(3)** *Cooperative agreement* If the study required by paragraph (1) determines that such observatories are feasible, then the Secretary, subject to the availability of appropriations, may enter into cooperative agreements under subsection (c)(3) with institutions of higher education or territorial agencies to establish such volcano observatories as part of the National Volcano Early Warning and Monitoring System.
+- **(e)** *Annual report* In each of fiscal years 2018 through 2024, the Secretary shall submit to Congress a report that describes the activities carried out under this Act.
 
 ## § 4. Funding
 

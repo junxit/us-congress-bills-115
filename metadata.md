@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4475
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4475
@@ -25,3 +25,9 @@ National Volcano Early Warning and Monitoring System Act
 - 2017-11-28 — Introduced in House
 - 2017-11-28 — Introduced in House
 - 2017-11-28 — Referred to the House Committee on Natural Resources.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-01-09 — Placed on the Union Calendar, Calendar No. 374.
+- 2018-01-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-501.
+- 2018-01-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-501.
