@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4433
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,28 +18,42 @@ This Act may be cited as the “Securing Department of Homeland Security Firearm
 In this Act:
 
 - **(1)** *Department* The term Department means the Department of Homeland Security.
-- **(2)** *Under Secretary for Management* The term Under Secretary for Management means the Under Secretary for Management of the Department of Homeland Security.
+- **(2)** *Lost* The term lost includes loss by theft.
+- **(3)** *Sensitive assets* The term sensitive assets means any asset, regardless of value—
+  - **(A)** that the Department of Homeland Security issues to a Department employee; and
+  - **(B)** that either the Under Secretary for Management of the Department or a component head determines requires special control and accounting.
+- **(4)** *Under Secretary for Management* The term Under Secretary for Management means the Under Secretary for Management of the Department of Homeland Security.
 
 ## § 3. Inclusion of securing firearms and other sensitive assets in responsibilities of Under Secretary for Management
 
-Paragraph (6) of section 701(a) of the Homeland Security Act of 2002 (6 U.S.C. 341(a)) is amended by inserting “(including firearms and other sensitive assets)” after “equipment”.
+Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
+
+- **(1)** in subsection (a)(6), by inserting “(including firearms and other sensitive assets)” after “equipment”;
+- **(2)** by redesignating the second subsection (e) (relating to the definition of interoperable communications) as subsection (f); and
+- **(3)** by amending such redesignated subsection (f) to read as follows:
+  > - **(f)** *Definitions* In this section:
+  >   - **(1)** *Interoperable communications* The term interoperable communications has the meaning given such term in section 7303(g) of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 194(g)).
+  >   - **(2)** *Sensitive assets* The term sensitive assets means any asset, regardless of value—
+  >     - **(A)** that the Department of Homeland Security issues to a Department employee; and
+  >     - **(B)** that either the Under Secretary for Management of the Department or a component head determines requires special control and accounting.
 
 ## § 4. Management directive
 
 - **(a)** *Safeguarding firearms and sensitive assets directive*
-  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Under Secretary for Management shall disseminate a Department-wide directive for achieving adequate security over firearms and other sensitive assets across the Department.
+  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Under Secretary for Management shall develop and disseminate a Department-wide directive for achieving adequate security over firearms and other sensitive assets across the Department.
   - **(2)** *Contents* The directive required under subsection (a) shall, at a minimum, include the following:
     - **(A)** Descriptions of what equipment, in addition to firearms, is classified as a sensitive asset for the purpose of carrying out this Act.
     - **(B)** Requirements for securing Department-issued firearms and other sensitive assets.
     - **(C)** A classification system for all categories of Department-issued badges and corresponding requirements for safeguarding such assets.
     - **(D)** Reporting requirements for lost firearms and other sensitive assets, including timelines for such reporting, to supervisors, local law enforcement, the Federal Bureau of Investigation’s National Crime Information Center, and Department headquarters.
     - **(E)** Recordkeeping requirements for lost firearms and other sensitive assets in inventory systems, including a timeline for recording such losses.
-  - **(3)** *Review and update of directive* Not later than one year after the issuance of the directive required under subsection (a) the Under Secretary for Management shall review and update, as necessary, such directive, including adding a requirement relating to recording in the inventory systems maintained by each component of the Department the acceptance or transfer of a firearm or other sensitive asset by such component.
-- **(b)** *Personal Property Asset Management Program Manual* Together with the issuance of the directive pursuant to subsection (a), the Under Secretary for Management shall disseminate a revised version of the Personal Property Asset Management Program Manual that includes the following:
-  - **(1)** Procedures to safeguard sensitive assets during on- and off-duty time, and utilization of safety locking devices and policies on the use of such assets, as applicable.
-  - **(2)** Initial, recurrent, and remedial training on safeguarding such assets.
-  - **(3)** Examples, with detail, of how to record lost sensitive assets across components of the Department, and an enforcement mechanism to ensure supervisors maintain such records.
-  - **(4)** A requirement that the file maintained on a lost firearm or other sensitive asset contains both the corresponding police report and the Department report detailing the circumstances surrounding such loss, including information on adherence to safeguarding procedures.
+  - **(3)** *Review and update of directive* Not later than 1 year after the issuance of the directive required under subsection (a) the Under Secretary for Management shall review and update, as necessary, such directive, including adding a requirement relating to recording in the inventory systems maintained by each component of the Department the acceptance or transfer of a firearm or other sensitive asset by such component.
+- **(b)** *Personal property asset management program manual* Together with the issuance of the directive pursuant to subsection (a), the Under Secretary for Management shall disseminate a revised version of the Personal Property Asset Management Program Manual that includes the following:
+  - **(1)** Requirements for component heads to develop procedures to safeguard firearms and other sensitive assets during on and off-duty time.
+  - **(2)** Requirements for the issuance of safety locking devices and policies on the use of such assets, as applicable.
+  - **(3)** Requirements for initial, recurrent, and remedial training on safeguarding such assets.
+  - **(4)** Examples, with detail, of how to report and record lost sensitive assets across components of the Department, and an enforcement mechanism to ensure supervisors maintain such records.
+  - **(5)** A requirement that the file maintained on a lost firearm or other sensitive asset contains both the corresponding police report and the Department report detailing the circumstances surrounding such loss, including information on adherence to safeguarding procedures.
 
 ## § 5. Component responsibilities
 
