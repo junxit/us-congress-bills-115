@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 4748
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4748
+
+> To amend the Internal Revenue Code of 1986 to deny a deduction for severance payments made in connection with sexual misconduct.
+
+## § 1. Denial of deduction for severance payments made in connection with sexual misconduct
+
+- **(a)** *In general* Section 162 of the Internal Revenue Code of 1986 is amended by redesignating subsection (q) as subsection (r) and by inserting after subsection (p) the following new subsection:
+  > - **(q)** *Denial of deduction for severance payments made in connection with sexual misconduct* No deduction shall be allowed under this chapter for any amount paid or incurred to any employee in connection with the termination of employment of such employee if a factor in such termination was sexual assault, sexual harassment, or any other sexual misconduct by such employee.
+
+- **(b)** *Effective date* The amendments made by this section shall apply to amounts paid or incurred in taxable years ending after the date of the enactment of this Act.
