@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4555
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 112` | add-at-end | Section 102 of the Homeland Security Act of 2002 (6 U.S.C. 112) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 112` | add-at-end | Section 102 of the Homeland Security Act of 2002 (6 U.S.C. 112) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
