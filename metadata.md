@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4519
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4519
@@ -25,3 +25,9 @@ To amend the Securities Exchange Act of 1934 to repeal certain disclosure requir
 - 2017-12-01 — Introduced in House
 - 2017-12-01 — Introduced in House
 - 2017-12-01 — Referred to the House Committee on Financial Services.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by the Yeas and Nays: 33 - 27.
+- 2018-01-09 — Placed on the Union Calendar, Calendar No. 373.
+- 2018-01-09 — Reported by the Committee on Financial Services. H. Rept. 115-500.
+- 2018-01-09 — Reported by the Committee on Financial Services. H. Rept. 115-500.
