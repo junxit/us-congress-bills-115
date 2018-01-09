@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4568
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4568
@@ -29,3 +29,9 @@ Enhancing Geothermal Production on Federal Lands Act
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Referred to the House Committee on Natural Resources.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by Unanimous Consent.
+- 2018-01-09 — Placed on the Union Calendar, Calendar No. 375.
+- 2018-01-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-502.
+- 2018-01-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-502.
