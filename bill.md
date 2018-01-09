@@ -17,14 +17,14 @@ This Act may be cited as the “Securing Department of Homeland Security Firearm
 
 In this Act:
 
-- **(1)** *Department* The term Department means the Department of Homeland Security.
-- **(2)** *Lost* The term lost includes loss by theft.
-- **(3)** *Sensitive assets* The term sensitive assets means any asset, regardless of value—
+- **(1)** *Department* The term “Department” means the Department of Homeland Security.
+- **(2)** *Lost* The term “lost” includes loss by theft.
+- **(3)** *Sensitive assets* The term “sensitive assets” means any asset, regardless of value—
   - **(A)** that the Department of Homeland Security issues to a Department employee; and
   - **(B)** that either the Under Secretary for Management of the Department or a component head determines requires special control and accounting.
-- **(4)** *Under Secretary for Management* The term Under Secretary for Management means the Under Secretary for Management of the Department of Homeland Security.
+- **(4)** *Under Secretary for Management* The term “Under Secretary for Management” means the Under Secretary for Management of the Department of Homeland Security.
 
-## § 3. Inclusion of securing firearms and other sensitive assets in responsibilities of Under Secretary for Management
+## § 3. Inclusion of securing firearms and other sensitive assets in responsibilities of under secretary for management
 
 Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
 
@@ -32,8 +32,8 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
 - **(2)** by redesignating the second subsection (e) (relating to the definition of interoperable communications) as subsection (f); and
 - **(3)** by amending such redesignated subsection (f) to read as follows:
   > - **(f)** *Definitions* In this section:
-  >   - **(1)** *Interoperable communications* The term interoperable communications has the meaning given such term in section 7303(g) of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 194(g)).
-  >   - **(2)** *Sensitive assets* The term sensitive assets means any asset, regardless of value—
+  >   - **(1)** *Interoperable communications* The term “interoperable communications” has the meaning given such term in section 7303(g) of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 194(g)).
+  >   - **(2)** *Sensitive assets* The term “sensitive assets” means any asset, regardless of value—
   >     - **(A)** that the Department of Homeland Security issues to a Department employee; and
   >     - **(B)** that either the Under Secretary for Management of the Department or a component head determines requires special control and accounting.
 
@@ -47,7 +47,7 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended—
     - **(C)** A classification system for all categories of Department-issued badges and corresponding requirements for safeguarding such assets.
     - **(D)** Reporting requirements for lost firearms and other sensitive assets, including timelines for such reporting, to supervisors, local law enforcement, the Federal Bureau of Investigation’s National Crime Information Center, and Department headquarters.
     - **(E)** Recordkeeping requirements for lost firearms and other sensitive assets in inventory systems, including a timeline for recording such losses.
-  - **(3)** *Review and update of directive* Not later than 1 year after the issuance of the directive required under subsection (a) the Under Secretary for Management shall review and update, as necessary, such directive, including adding a requirement relating to recording in the inventory systems maintained by each component of the Department the acceptance or transfer of a firearm or other sensitive asset by such component.
+  - **(3)** *Review and update of directive* Not later than one year after the issuance of the directive required under subsection (a) the Under Secretary for Management shall review and update, as necessary, such directive, including adding a requirement relating to recording in the inventory systems maintained by each component of the Department the acceptance or transfer of a firearm or other sensitive asset by such component.
 - **(b)** *Personal property asset management program manual* Together with the issuance of the directive pursuant to subsection (a), the Under Secretary for Management shall disseminate a revised version of the Personal Property Asset Management Program Manual that includes the following:
   - **(1)** Requirements for component heads to develop procedures to safeguard firearms and other sensitive assets during on and off-duty time.
   - **(2)** Requirements for the issuance of safety locking devices and policies on the use of such assets, as applicable.
@@ -66,6 +66,6 @@ Department component heads shall—
 - **(5)** require that lost firearms and other sensitive assets are reported to local law enforcement, the Federal Bureau of Investigation’s National Crime Information Center, and Department headquarters in the timeframe established in such directive; and
 - **(6)** require that lost firearms and other sensitive assets are recorded in inventory systems in the timeframe established by such directive.
 
-## § 6. Inspector General review
+## § 6. Inspector general review
 
 The Inspector General of the Department of Homeland Security shall, on an ongoing basis, review implementation of this Act and, not later than 180 days after issuance of the directive under section 4, submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a review of the progress and effectiveness of such directive, including an assessment of the adequacy of such directive, as well as the level of compliance among the components of the Department to achieve adequate security of sensitive assets across Department components.
