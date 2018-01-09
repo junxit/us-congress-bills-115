@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3202
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3202
@@ -30,3 +30,9 @@ Cyber Vulnerability Disclosure Reporting Act
 - 2017-09-01 — Placed on the Union Calendar, Calendar No. 203.
 - 2017-09-01 — Reported by the Committee on Homeland Security. H. Rept. 115-283.
 - 2017-09-01 — Reported by the Committee on Homeland Security. H. Rept. 115-283.
+- 2018-01-09 — Considered under suspension of the rules. (consideration: CR H43-46)
+- 2018-01-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3202.
+- 2018-01-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-09 — Mr. Estes (KS) moved to suspend the rules and pass the bill.
+- 2018-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H43)
+- 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H43)
