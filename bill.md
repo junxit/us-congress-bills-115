@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Security Assessment Feasibility for Equipment Testing and Evaluation of Capabilities for our Homeland Act” or the “SAFE TECH Act”.
+This Act may be cited as the “Security Assessment Feasibility for Equipment Testing and Evaluation of Capabilities for our Homeland Act” or the “SAFE TECH Act” .
 
 ## § 2. Definitions
 
@@ -22,7 +22,7 @@ In this Act:
 
 ## § 3. Third party testing of security screening technology
 
-- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall develop a program to enable a vendor of transportation security screening technology to obtain testing, including as an alternative to the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, by an appropriate third party, as determined by the Administrator, in consultation with the Under Secretary, of such technology before procurement or development of such technology.
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall develop a program to enable a vendor of transportation security screening technology to obtain testing, including as an alternative to the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, by an appropriate third party, as determined by the Administrator, in consultation with the Under Secretary, of such technology before procurement or development of such technology.
 - **(b)** *Detection testing*
   - **(1)** *In general* The third party testing program authorized under subsection (a) shall include detection testing to evaluate the performance of a security screening technology relating to the probability of detection, the probability of false alarm, and other indicators that such technology is able to meet the Administration’s mission needs for detection of—
     - **(A)** explosives; and
@@ -57,7 +57,7 @@ In this Act:
 
 ## § 5. GAO review
 
-Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study on the third party testing program developed under this Act. Such study shall include a review of the following:
+Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study on the third party testing program developed under this Act. Such study shall include a review of the following:
 
 - **(1)** Any efficiencies or gains in effectiveness achieved in the Administration’s operations as a result of such program.
 - **(2)** The degree to which the Administration conducts timely and regular oversight of entities engaged in such testing.
@@ -67,4 +67,4 @@ Not later than 2 years after the date of the enactment of this Act, the Comptrol
   - **(C)** Any vulnerabilities associated with such program including with respect to the following:
     - **(i)** National security.
     - **(ii)** Conflicts of interest between entities carrying out such testing and entities with such technologies to be tested.
-    - **(iii)** Waste, fraud, and abuse.
+    - **(iii)** Waste, fraud and abuse.
