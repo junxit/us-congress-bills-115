@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4561
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,12 +22,12 @@ In this Act:
 
 ## § 3. Third party testing of security screening technology
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall develop a program to enable a vendor of transportation security screening technology to obtain testing, including as an alternative to the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, by an appropriate third party, as determined by the Administrator, in consultation with the Under Secretary, of such technology before procurement or development of such technology.
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall develop a program to enable a vendor of transportation security screening technology to obtain testing, including as an alternative to the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, by an appropriate third party, as determined by the Administrator, in consultation with the Under Secretary, of such technology before procurement or development of such technology.
 - **(b)** *Detection testing*
   - **(1)** *In general* The third party testing program authorized under subsection (a) shall include detection testing to evaluate the performance of a security screening technology relating to the probability of detection, the probability of false alarm, and other indicators that such technology is able to meet the Administration’s mission needs for detection of—
     - **(A)** explosives; and
     - **(B)** prohibited items.
-  - **(2)** *Coordination with final processes* To the extent practicable, and without compromising the integrity of the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, or the Department of Homeland Security’s oversight of such testing process, or increasing costs to the Administration, the Administrator shall coordinate the third party detection testing under paragraph (1) with any associated subsequent final Government Department of Homeland Security testing.
+  - **(2)** *Coordination with final processes* To the extent practicable, and without compromising the integrity of the Administration’s testing process under paragraph (9) of section 114(f) of title 49, United States Code, or the Department of Homeland Security’s oversight of such testing process, or increasing costs to the Administration, the Administrator shall coordinate the third party detection testing under paragraph (1) with any associated subsequent final Department of Homeland Security testing.
   - **(3)** *International partnerships* To the extent practicable and permissible under law, and in accordance with national security interests of the United States, the Administrator shall—
     - **(A)** share with appropriate international partners detection testing information and standards; and
     - **(B)** coordinate with such appropriate international partners to align such testing information and standards to maximize the capability to detect explosives and other threats.
@@ -39,13 +39,32 @@ In this Act:
   - **(5)** throughput;
   - **(6)** reliability, maintainability, and availability factors; and
   - **(7)** interoperability.
-- **(d)** *Testing framework*
-  - **(1)** *In general* The Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall—
-    - **(A)** establish a framework for the third party testing under this section to determine if the security screening technology that is the subject of such testing satisfies the Administration’s requirements before such technology may enter or re-enter, as applicable, operational testing at an airport or other transportation facility; and
-    - **(B)** use phased implementation to allow the Administration and the third party concerned to establish best practices.
+- **(d)** *Testing framework* The Administrator, in consultation with the Under Secretary for Science and Technology of the Department of Homeland Security, shall—
+  - **(1)** establish a framework for the third party testing under this section to determine if the security screening technology that is the subject of such testing satisfies the Administration’s requirements before such technology may enter or re-enter, as applicable, operational testing at an airport or other transportation facility; and
+  - **(2)** use phased implementation to allow the Administration and the third party concerned to establish best practices.
 - **(e)** *Prioritization of third party testing* The Administrator may prioritize, when appropriate, the field testing of security screening technology and equipment by third parties.
+- **(f)** *Eligible entities*
+  - **(1)** *United States ownership* An entity providing third party testing under the program developed pursuant to subsection (a) shall be owned and controlled by a citizen of the United States.
+  - **(2)** *Waiver* The Administrator may waive the requirement specified in paragraph (1) with respect to an entity that is a United States subsidiary of a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to seeking to engage in third party testing. The Administrator has complete discretion to reject any proposal from a company to provide testing under subsection (a) that requires a waiver under this paragraph.
+  - **(3)** *Conflicts of interest* The Administrator shall ensure, to the extent possible, that an entity providing third party testing under this section does not have a contractual, business, or other pecuniary interest (exclusive of any such testing) in—
+    - **(A)** the security screening technology subject to such testing; or the
+    - **(B)** vendor of such technology.
 
 ## § 4. Reciprocal recognition of security standards
 
 - **(a)** *In general* The Administrator, in coordination with the European Civil Aviation Conference, shall continue development of a validation process for the reciprocal recognition of security validation processes for recognition of security screening technologies or certification authorities for deployment.
 - **(b)** *Requirement* The validation process under subsection (a) shall ensure that the certification process of each participating international security partner or recognized certification authority complies with Administration standards.
+
+## § 5. GAO review
+
+Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study on the third party testing program developed under this Act. Such study shall include a review of the following:
+
+- **(1)** Any efficiencies or gains in effectiveness achieved in the Administration’s operations as a result of such program.
+- **(2)** The degree to which the Administration conducts timely and regular oversight of entities engaged in such testing.
+- **(3)** The effect of such program on the following:
+  - **(A)** The introduction of innovative detection technologies into security screening operations.
+  - **(B)** The availability of testing for technologies developed by small to medium sized businesses.
+  - **(C)** Any vulnerabilities associated with such program including with respect to the following:
+    - **(i)** National security.
+    - **(ii)** Conflicts of interest between entities carrying out such testing and entities with such technologies to be tested.
+    - **(iii)** Waste, fraud, and abuse.
