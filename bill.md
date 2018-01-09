@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4559
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,7 @@ In this Act:
 
 ## § 3. Global aviation security review
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Administrator shall conduct a global aviation security review to address improving aviation security standards across the global aviation system.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Administrator shall conduct a global aviation security review to address improving aviation security standards, including standards intended to mitigate cybersecurity threats, across the global aviation system.
 - **(b)** *Composition* The global aviation security review established under subsection (a) shall include input from the following entities:
   - **(1)** The Office of Global Strategies of the Administration.
   - **(2)** The Office of Intelligence and Analysis of the Administration.
@@ -32,7 +32,7 @@ In this Act:
   - **(1)** U.S. Customs and Border Protection.
   - **(2)** The Office of International Engagement of the Department of Homeland Security.
   - **(3)** The Department of State.
-  - **(4)** Any other relevant office or agency of the Federal Government, as determined by the Administrator.
+  - **(4)** Any other relevant office or agency of the Federal government, as determined by the Administrator.
 - **(d)** *Best practices* The global aviation security review shall establish best practices regarding the following:
   - **(1)** Collaborating with foreign partners to improve global aviation security capabilities and standards.
   - **(2)** Identifying foreign partners that have not successfully implemented security protocols from the International Civil Aviation Organization or the Department of Homeland Security and have not taken steps to implement such security protocols.
