@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 535
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,13 +21,13 @@ Congress finds the following:
 - **(2)** The Taiwan Relations Act declares that peace and stability in the Western Pacific area are in the political, security, and economic interests of the United States and are matters of international concern.
 - **(3)** The United States considers any effort to determine the future of Taiwan by other than peaceful means, including by boycotts or embargoes, a threat to the peace and security of the Western Pacific area and of grave concern to the United States.
 - **(4)** Taiwan has succeeded in a momentous transition to democracy beginning in the late 1980s and has been a beacon of democracy in Asia, and Taiwan’s democratic achievements inspire many countries and people in the region.
-- **(5)** Visits to a country by United States cabinet members and other high-ranking officials are an indicator of the breadth and depth of ties between the United States and such country.
+- **(5)** Visits to a country by United States Cabinet members and other high-ranking officials are an indicator of the breadth and depth of ties between the United States and such country.
 - **(6)** Since the enactment of the Taiwan Relations Act, relations between the United States and Taiwan have suffered from insufficient high-level communication due to the self-imposed restrictions that the United States maintains on high-level visits with Taiwan.
 
 ## § 3. Sense of Congress; Statement of policy
 
 - **(a)** *Sense of congress* It is the sense of Congress that the United States Government should encourage visits between officials from the United States and Taiwan at all levels.
 - **(b)** *Statement of policy* It should be the policy of the United States to—
-  - **(1)** allow officials at all levels of the United States Government, including cabinet-level national security officials, general officers, and other executive branch officials, to travel to Taiwan to meet their Taiwanese counterparts;
-  - **(2)** allow high-level officials of Taiwan to enter the United States, under conditions which demonstrate appropriate respect for the dignity of such officials, and to meet with officials of the United States, including officials from the Department of State and the Department of Defense and other cabinet agencies; and
+  - **(1)** allow officials at all levels of the United States Government, including Cabinet-level national security officials, general officers, and other executive branch officials, to travel to Taiwan to meet their Taiwanese counterparts;
+  - **(2)** allow high-level officials of Taiwan to enter the United States, under conditions which demonstrate appropriate respect for the dignity of such officials, and to meet with officials of the United States, including officials from the Department of State and the Department of Defense and other Cabinet agencies; and
   - **(3)** encourage the Taipei Economic and Cultural Representative Office, and any other instrumentality established by Taiwan, to conduct business in the United States, including activities which involve participation by Members of Congress, officials of Federal, State, or local governments of the United States, or any high-level official of Taiwan.
