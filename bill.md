@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4568
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,10 +25,11 @@ The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is amended by adding a
 >     - **(A)** less than 5 acres of soil or vegetation disruption at the location of each geothermal exploration well; and
 >     - **(B)** not more than an additional 5 acres of soil or vegetation disruption during access or egress to the test site;
 >   - **(3)** is developed—
->     - **(A)** 8 inches or less in diameter;
+>     - **(A)** less than 9 inches in diameter;
 >     - **(B)** in a manner that does not require off-road motorized access other than to and from the well site along an identified off-road route;
->     - **(C)** without construction of new roads other than upgrading of existing drainage crossings for safety purposes; and
->     - **(D)** with the use of rubber-tired digging or drilling equipment vehicles;
+>     - **(C)** without construction of new roads other than upgrading of existing drainage crossings for safety purposes;
+>     - **(D)** with the use of rubber-tired digging or drilling equipment vehicles; and
+>     - **(E)** without the use of high-pressure well stimulation;
 >   - **(4)** is completed in less than 90 days, including the removal of any surface infrastructure from the site; and
 >   - **(5)** requires the restoration of the project site within 3 years of the date of first exploration drilling to approximately the condition that existed at the time the project began, unless the site is subsequently used as part of energy development under the lease.
 > - **(b)** *Categorical exclusion*
@@ -39,10 +40,9 @@ The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is amended by adding a
 >   - **(2)** *Review and determination* Not later than 10 days after receipt of a notice of intent under paragraph (1), the Secretary shall, with respect to the project described in the notice of intent—
 >     - **(A)** determine if the project qualifies for a categorical exclusion under subsection (b); and
 >     - **(B)** notify the leaseholder of such determination.
->   - **(3)** *Opportunity to remedy*
->     - **(A)** *In general* If the Secretary determines under paragraph (2)(A) that the project does not qualify for a categorical exclusion under subsection (b), the Secretary shall—
->       - **(i)** include in such notice clear and detailed findings on any deficiencies in the project that resulted in such determination; and
->       - **(ii)** allow the leaseholder to remedy any such deficiencies and resubmit the notice of intent under paragraph (1).
+>   - **(3)** *Opportunity to remedy* If the Secretary determines under paragraph (2)(A) that the project does not qualify for a categorical exclusion under subsection (b), the Secretary shall—
+>     - **(A)** include in such notice clear and detailed findings on any deficiencies in the project that resulted in such determination; and
+>     - **(B)** allow the leaseholder to remedy any such deficiencies and resubmit the notice of intent under paragraph (1).
 
 ## § 3. Geothermal leasing priority areas
 
@@ -64,7 +64,7 @@ The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is further amended by 
 >   - **(1)** review covered land and, if appropriate, make additional designations of geothermal leasing priority areas; and
 >   - **(2)** review each area designated as a geothermal leasing priority area under this section, and, if appropriate, remove such designation.
 > - **(e)** *Programmatic environmental impact statement*
->   - **(1)** *Initial designations* Not later than 5 years after the date of the enactment of this section, the Secretary shall prepare a supplement to any final programmatic environmental impact statement for geothermal leasing that is the most recently finalized such statement with respect to covered land designated as a geothermal leasing priority area under subsection (b).
+>   - **(1)** *Initial designations* No later than one year after the initial designation of a geothermal leasing priority area, the Secretary shall prepare a supplement to any final programmatic environmental impact statement for geothermal leasing that is the most recently finalized such statement with respect to covered land designated as a geothermal leasing priority area under subsection (b).
 >   - **(2)** *Subsequent designations* Each designation of a geothermal leasing priority area under subsection (d) shall be included in a programmatic environmental impact statement for geothermal leasing or in a supplement to such a statement.
 >   - **(3)** *Consultations* In developing any programmatic environmental impact statement for geothermal leasing or supplement to such a statement under this section, the Secretary shall consult, on an ongoing basis, with appropriate State, Tribal, and local governments, transmission infrastructure owners and operators, developers, and other appropriate entities.
 >   - **(4)** *Procedure* The Secretary may not delay issuing a permit or holding a lease sale under this Act because the supplement required under paragraph (1) has not been finalized by the Secretary.
