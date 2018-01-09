@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 676
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 676
@@ -16,7 +16,7 @@ Supporting the rights of the people of Iran to free expression, condemning the I
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (35)
+## Cosponsors (41)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
@@ -53,6 +53,12 @@ Supporting the rights of the people of Iran to free expression, condemning the I
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
 
 ## Committees (1)
 
@@ -63,3 +69,10 @@ Supporting the rights of the people of Iran to free expression, condemning the I
 - 2018-01-05 — Introduced in House
 - 2018-01-05 — Introduced in House
 - 2018-01-08 — Referred to the House Committee on Foreign Affairs.
+- 2018-01-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-09 — Considered as unfinished business. (consideration: CR H62)
+- 2018-01-09 — Considered under suspension of the rules. (consideration: CR H51-57)
+- 2018-01-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 676.
+- 2018-01-09 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.
+- 2018-01-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 2). (text: CR H51-52)
+- 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 2).(text: CR H51-52)
