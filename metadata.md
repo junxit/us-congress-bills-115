@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4567
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4567
@@ -32,3 +32,12 @@ DHS Overseas Personnel Enhancement Act of 2017
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Referred to the House Committee on Homeland Security.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-01-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-09 — Considered under suspension of the rules. (consideration: CR H34-36; text: CR H34)
+- 2018-01-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4567.
+- 2018-01-09 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
+- 2018-01-09 — Placed on the Union Calendar, Calendar No. 364.
+- 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-490.
+- 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-490.

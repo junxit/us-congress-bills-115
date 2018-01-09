@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4567
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,12 +15,14 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2017�
 
 ## § 2. Overseas personnel briefing
 
-- **(a)** *In general* Not later than 90 days after submission of the comprehensive three-year strategy required under section 1910 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328), the Secretary of Homeland Security shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding Department of Homeland Security personnel with primary duties that take place outside of the United States.
+- **(a)** *In general* Not later than 90 days after submission of the comprehensive three-year strategy required under section 1910 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) and every 180 days thereafter, the Secretary of Homeland Security shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding Department of Homeland Security personnel with primary duties that take place outside of the United States.
 - **(b)** *Requirements* The briefing required under subsection (a) shall include the following:
   - **(1)** A detailed summary of each type of personnel position with primary duties that take place outside of the United States and how each such position contributes to the Department of Homeland Security’s counterterrorism mission.
   - **(2)** Information related to how the geographic and regional placement of such positions contributes to the Department’s counterterrorism mission.
   - **(3)** Information related to the position-specific training received by such personnel before and during placement at a foreign location.
   - **(4)** Challenges that may impede the communication of counterterrorism information between Department personnel at foreign locations and Department entities in the United States, including technical, resource, and administrative challenges.
+  - **(5)** The status of efforts to implement the strategy referred to in subsection (a).
+  - **(6)** The status of efforts (beginning with the second briefing required under this section) to implement the enhancement plan under section 3.
 
 ## § 3. Overseas personnel enhancement plan
 
@@ -28,5 +30,10 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2017�
 - **(b)** *Plan requirements* The plan referred to in subsection (a) shall include proposals to—
   - **(1)** improve efforts of Department of Homeland Security personnel at foreign locations, as necessary, for purposes of providing foreign partner capacity development and furthering the Department’s counterterrorism mission;
   - **(2)** as appropriate, redeploy Department personnel to respond to changing threats to the United States;
-  - **(3)** enhance collaboration among Department personnel at foreign locations, other Federal personnel at foreign locations, and foreign partners; and
-  - **(4)** improve the communication of counterterrorism information between Department personnel at foreign locations and Department entities in the United States, including to address technical, resource, and administrative challenges.
+  - **(3)** enhance collaboration among Department personnel at foreign locations, other Federal personnel at foreign locations, and foreign partners;
+  - **(4)** improve the communication of counterterrorism information between Department personnel at foreign locations and Department entities in the United States, including to address technical, resource, and administrative challenges; and
+  - **(5)** maintain practices to guard against counter-espionage threats associated with Department personnel.
+
+## § 4. Termination
+
+The briefing requirement under section 2 shall terminate on the date that is four years after the submission of the strategy referred to in such section.
