@@ -1,7 +1,7 @@
 ---
 measure: S. 1425
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1425
@@ -30,9 +30,11 @@ Coordinated Ocean Monitoring and Research Act
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -51,3 +53,7 @@ Coordinated Ocean Monitoring and Research Act
 - 2018-01-08 — Senate amendment proposed (on the floor): Amendment SA 1869 proposed by Senator McConnell for Senator Wicker.(consideration: CR S72; text: CR S72)
 - 2018-01-08 — Senate amendment submitted
 - 2018-01-08 — The committee substitute as amended agreed to by Unanimous Consent. (text of amendment in the nature of a substitute: CR S69-72)
+- 2018-01-09 — Message on Senate action sent to the House.
+- 2018-01-09 — Received in the House.
+- 2018-01-09 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-01-09 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
