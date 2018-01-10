@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4567
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4567
@@ -27,6 +27,10 @@ DHS Overseas Personnel Enhancement Act of 2017
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2018-01-10 — [House 115-2-12](votes/house-115-2-0012.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–0)
+
 ## Actions
 
 - 2017-12-06 — Introduced in House
@@ -41,3 +45,7 @@ DHS Overseas Personnel Enhancement Act of 2017
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 364.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-490.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-490.
+- 2018-01-10 — Considered as unfinished business. (consideration; CR H125)
+- 2018-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).
+- 2018-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).

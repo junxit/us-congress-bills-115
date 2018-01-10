@@ -15,7 +15,7 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2017�
 
 ## § 2. Overseas personnel briefing
 
-- **(a)** *In general* Not later than 90 days after submission of the comprehensive three-year strategy required under section 1910 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) and every 180 days thereafter, the Secretary of Homeland Security shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding Department of Homeland Security personnel with primary duties that take place outside of the United States.
+- **(a)** *In general* Not later than 90 days after submission of the comprehensive 3-year strategy required under section 1910 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) and every 180 days thereafter, the Secretary of Homeland Security shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding Department of Homeland Security personnel with primary duties that take place outside of the United States.
 - **(b)** *Requirements* The briefing required under subsection (a) shall include the following:
   - **(1)** A detailed summary of each type of personnel position with primary duties that take place outside of the United States and how each such position contributes to the Department of Homeland Security’s counterterrorism mission.
   - **(2)** Information related to how the geographic and regional placement of such positions contributes to the Department’s counterterrorism mission.
@@ -36,4 +36,4 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2017�
 
 ## § 4. Termination
 
-The briefing requirement under section 2 shall terminate on the date that is four years after the submission of the strategy referred to in such section.
+The briefing requirement under section 2 shall terminate on the date that is 4 years after the submission of the strategy referred to in such section.
