@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3320
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3320
@@ -48,9 +48,10 @@ To direct the Secretary of State to develop a strategy to regain observer status
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ To direct the Secretary of State to develop a strategy to regain observer status
 - 2018-01-09 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2018-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H59-60)
 - 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H59-60)
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
