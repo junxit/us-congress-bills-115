@@ -1,7 +1,7 @@
 ---
 measure: H.R. 535
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 535
@@ -100,9 +100,10 @@ Taiwan Travel Act
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -120,3 +121,4 @@ Taiwan Travel Act
 - 2018-01-09 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2018-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H57)
 - 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H57)
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
