@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 115
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 140
@@ -47,3 +47,13 @@ Frank LoBiondo Coast Guard Authorization Act of 2018
 - 2017-12-06 — Placed on the Union Calendar, Calendar No. 326.
 - 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-441.
 - 2017-12-06 — Reported by the Committee on Natural Resources. H. Rept. 115-441.
+- 2018-01-09 — Rules Committee Resolution H. Res. 681 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-54 shall be considered as adopted
+- 2018-01-10 — Considered under the provisions of rule H. Res. 681. (consideration: CR H114-125; text: CR H114)
+- 2018-01-10 — DEBATE - The House proceeded with one hour of debate on S. 140.
+- 2018-01-10 — House amendment offered
+- 2018-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-10 — On passage Passed by recorded vote: 239 - 173 (Roll no. 11).
+- 2018-01-10 — Passed/agreed to in House: On passage Passed by recorded vote: 239 - 173 (Roll no. 11).
+- 2018-01-10 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-54 shall be considered as adopted.
+- 2018-01-10 — Rule H. Res. 681 passed House.
+- 2018-01-10 — The previous question was ordered pursuant to the rule.
