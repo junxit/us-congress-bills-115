@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4759
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4759
+
+> To amend the Federal Reserve Act to revise the membership of Federal Open Market Committee, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “FOMC Representation Improvement Act”.
+
+## § 2. Membership of Federal Open Market Committee
+
+Section 12A(a) of the Federal Reserve Act (12 U.S.C. 263(a)) is amended—
+
+- **(1)** in the first sentence, by striking “five representatives of the Federal Reserve banks to be selected as hereinafter provided” and inserting “one representative from each of the Federal Reserve banks”;
+- **(2)** in the second sentence, by striking “and, beginning” and all that follows through “San Francisco”; and
+- **(3)** by striking the third and fourth sentences.
