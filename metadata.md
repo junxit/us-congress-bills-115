@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2504
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2504
@@ -32,3 +32,13 @@ To ensure fair treatment in licensing requirements for the export of certain ech
 - 2017-05-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-24 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-11-07 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Committee Consideration and Mark-up Session Held.
+- 2017-11-08 — Ordered to be Reported by Unanimous Consent.
+- 2017-11-08 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-01-10 — Committee on Foreign Affairs discharged.
+- 2018-01-10 — Committee on Foreign Affairs discharged.
+- 2018-01-10 — Placed on the Union Calendar, Calendar No. 376.
+- 2018-01-10 — Reported by the Committee on Natural Resources. H. Rept. 115-506, Part I.
+- 2018-01-10 — Reported by the Committee on Natural Resources. H. Rept. 115-506, Part I.
