@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4433
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4433
@@ -21,9 +21,10 @@ Securing Department of Homeland Security Firearms Act of 2017
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Securing Department of Homeland Security Firearms Act of 2017
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 369.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-496.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-496.
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
