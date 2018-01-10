@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4577
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4577
@@ -28,9 +28,10 @@ Domestic Explosives Detection Canine Capacity Building Act of 2017
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Domestic Explosives Detection Canine Capacity Building Act of 2017
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 362.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-488.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-488.
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

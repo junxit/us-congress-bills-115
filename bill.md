@@ -2,7 +2,7 @@
 legis-num: H.R. 4577
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4577
@@ -34,7 +34,7 @@ In this Act:
 - **(d)** *Preliminary standards and recommendations* Not later than 180 days after the establishment of the working group under subsection (a), such working group shall submit to the Administrator of the Transportation Security Administration preliminary behavioral standards, medical standards, and technical standards for the domestic canine breeding network and canine training described in such subsection, including recommendations on how the Transportation Security Administration can engage stakeholders to further the development of such network and training.
 - **(e)** *Strategy* Not later than 180 days after submission of recommendations to the Administrator of the Transportation Security Administration under subsection (c), the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a strategy for expanding the domestic canine breeding network described in subsection (a), based on such recommendations.
 - **(f)** *Consultation* In developing the strategy required under subsection (e), the Administrator of the Transportation Security Administration shall consult with the Under Secretary for Science and Technology of the Department of Homeland Security, the Commissioner for U.S. Customs and Border Protection, the Director of the United States Secret Service, and the heads of other Department of Homeland Security components determined appropriate by the Administrator to incorporate, to the extent practicable, mission needs across the Department for an expanded domestic explosives detection canine breeding network that can be leveraged to help meet the Department’s operational needs.
-- **(g)** *Sunset* The working group established under subsection (a) shall terminate on the date that is two years after the submission of the strategy required under subsection (e).
+- **(g)** *Sunset* The working group established under subsection (a) shall terminate on the date that is 2 years after the submission of the strategy required under subsection (e).
 
 ## § 4. Acquiring baseline capacity
 
