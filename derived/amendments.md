@@ -1,7 +1,7 @@
 ---
 measure: S. 1693
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,12 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 230` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 230` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 230` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 230` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 230` | add-at-end | in subsection (e), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1595 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1), by striking “this section” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), in the matter preceding paragraph (1), by striking “this section” and inserting “subsection (a)”. | the bill names no machine-readable US Code section |
