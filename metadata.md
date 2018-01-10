@@ -1,7 +1,7 @@
 ---
 measure: S. 875
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 875
@@ -28,3 +28,5 @@ A bill to require the Comptroller General of the United States to conduct a stud
 - 2017-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-192.
 - 2017-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-192.
 - 2017-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
+- 2018-01-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S141-142; text: CR S142)
+- 2018-01-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S141-142; text: CR S142)

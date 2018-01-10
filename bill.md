@@ -1,7 +1,7 @@
 ---
 legis-num: S. 875
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,14 +24,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(F)** the Connect America Fund Broadband Loop Support program set forth under subpart K of that part;
     - **(G)** the Mobility Fund set forth under subpart L of that part; and
     - **(H)** the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of that part.
-- **(b)** *Study and report* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to the Commission, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report, which shall include—
+- **(b)** *Study and report* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to the Commission, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report, which shall include—
   - **(1)** an analysis of the filing requirements for covered carriers participating in a Universal Service Fund program, including any filings required by the Universal Service Administrative Company;
   - **(2)** an analysis of the financial impact of those filing requirements on covered carriers participating in a Universal Service Fund program; and
   - **(3)** recommendations, if any, on how to consolidate redundant filing requirements for covered carriers participating in a Universal Service Fund program.
 - **(c)** *Rulemaking*
-  - **(1)** *New or ongoing rulemaking* Except as provided in paragraph (2), not later than 30 days after the date on which the report is submitted under subsection (b), the Commission shall—
+  - **(1)** *New or ongoing rulemaking* Except as provided in paragraph (3), not later than 60 days after the date on which the report is submitted under subsection (b), the Commission shall—
     - **(A)**
       - **(i)** initiate a rulemaking to consolidate redundant filing requirements for covered carriers participating in a Universal Service Fund program; and
-      - **(ii)** incorporate the recommendations described in subsection (b)(3), if any, into the rulemaking under clause (i) of this subparagraph, except to the extent that doing so would violate the requirements of the Administrative Procedure Act; or
-    - **(B)** incorporate the recommendations described in subsection (b)(3), if any, into an ongoing rulemaking relating to consolidating redundant filing requirements of the Commission, except to the extent that doing so would violate the requirements of the Administrative Procedure Act.
-  - **(2)** *Previous rulemaking* Paragraph (1) shall not apply if, on or before the date on which the report is submitted under subsection (b), the Commission completes a rulemaking to consolidate redundant filing requirements for covered carriers participating in a Universal Service Fund program.
+      - **(ii)** incorporate into the rulemaking under clause (i), and as part of that rulemaking seek comment on, the recommendations described in subsection (b)(3), if any, except to the extent that doing so would violate the requirements of the Administrative Procedure Act; or
+    - **(B)** incorporate into an ongoing rulemaking relating to consolidating redundant filing requirements of the Commission, and as part of that rulemaking seek comment on, the recommendations described in subsection (b)(3), if any, except to the extent that doing so would violate the requirements of the Administrative Procedure Act.
+  - **(2)** *Waste, fraud, and abuse* In a rulemaking in which the Commission is required under paragraph (1) to seek comment on the recommendations described in subsection (b)(3), if any, the Commission shall also seek comment on and consider whether the benefit of each recommendation is outweighed by any potential increased risk of waste, fraud, and abuse in the Universal Service Fund program affected by the recommendation.
+  - **(3)** *Previous rulemaking* Paragraph (1) shall not apply if, on or before the date on which the report is submitted under subsection (b), the Commission completes a rulemaking to consolidate redundant filing requirements for covered carriers participating in a Universal Service Fund program.
