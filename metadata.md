@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4581
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4581
@@ -28,9 +28,10 @@ Screening and Vetting Passenger Exchange Act of 2017
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Screening and Vetting Passenger Exchange Act of 2017
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 367.
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-493.
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-493.
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
