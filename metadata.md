@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 682
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 682
@@ -16,6 +16,14 @@ Providing for consideration of the bill (S. 139) to implement the use of Rapid D
 
 - Rep. Collins, Doug [R-GA-9] (C001093)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2018-01-10 — [House 115-2-8](votes/house-115-2-0008.md) — On Agreeing to the Resolution — **Passed** (233–181)
+
 ## Actions
 
 - 2018-01-09 — An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-53 shall be considered as adopted. The further amendment printed in the report accompanying the rule, if offered by the Member designated in the report shall be debatable for the time printed in the report.
@@ -23,3 +31,9 @@ Providing for consideration of the bill (S. 139) to implement the use of Rapid D
 - 2018-01-09 — Placed on the House Calendar, Calendar No. 116.
 - 2018-01-09 — The House Committee on Rules reported an original measure, H. Rept. 115-504, by Mr. Collins (GA).
 - 2018-01-09 — The House Committee on Rules reported an original measure, H. Rept. 115-504, by Mr. Collins (GA).
+- 2018-01-10 — Considered as privileged matter. (consideration: CR H103-112)
+- 2018-01-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 682.
+- 2018-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 181 (Roll no. 8). (text: CR H103)
+- 2018-01-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 181 (Roll no. 8).(text: CR H103)
+- 2018-01-10 — The previous question was ordered without objection.
