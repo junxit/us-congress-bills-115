@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4757
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4757
+
+> To amend the Federal Reserve Act to modify the appointment process for presidents of Federal Reserve Banks.
+
+## § 1. Short title
+
+This Act may be cited as the “Fully Informed District Bank Act”.
+
+## § 2. Amendment to appointment of presidents of Federal Reserve Banks
+
+The fifth subparagraph of the fourth undesignated paragraph of section 4 of the Federal Reserve Act (12 U.S.C. 341) is amended by striking “Class B and Class C directors” and inserting “board of directors”.
