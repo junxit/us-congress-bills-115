@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3202
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3202
@@ -16,9 +16,10 @@ Cyber Vulnerability Disclosure Reporting Act
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Cyber Vulnerability Disclosure Reporting Act
 - 2018-01-09 — Mr. Estes (KS) moved to suspend the rules and pass the bill.
 - 2018-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H43)
 - 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H43)
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
