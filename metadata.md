@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4561
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4561
@@ -22,9 +22,10 @@ SAFE TECH Act
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ SAFE TECH Act
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 371.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-498.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-498.
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
