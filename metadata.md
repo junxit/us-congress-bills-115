@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4555
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4555
@@ -25,9 +25,10 @@ DHS Interagency Counterterrorism Task Force Act of 2017
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ DHS Interagency Counterterrorism Task Force Act of 2017
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 372.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-499.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-499.
+- 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
