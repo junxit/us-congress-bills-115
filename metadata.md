@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4567
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4567
@@ -23,9 +23,10 @@ DHS Overseas Personnel Enhancement Act of 2017
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ DHS Overseas Personnel Enhancement Act of 2017
 - 2018-01-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).
 - 2018-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).
+- 2018-01-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
