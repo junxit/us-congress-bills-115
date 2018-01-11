@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3737
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3737
@@ -29,3 +29,8 @@ Social Media Use in Clearance Investigations Act of 2017
 - 2017-09-12 — Introduced in House
 - 2017-09-12 — Introduced in House
 - 2017-09-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-09-13 — Committee Consideration and Mark-up Session Held.
+- 2017-09-13 — Ordered to be Reported by Voice Vote.
+- 2018-01-11 — Placed on the Union Calendar, Calendar No. 382.
+- 2018-01-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-512.
+- 2018-01-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-512.
