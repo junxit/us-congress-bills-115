@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4043
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -26,7 +26,7 @@ This Act may be cited as the “Whistleblower Protection Extension Act of 2017�
     - **(D)** in subclause (II), as so redesignated, by striking the period at the end and inserting the following:
       > , including—
       > - **(aa)** the means by which employees may seek review of any allegation of reprisal, including the roles of the Office of the Inspector General, the Office of Special Counsel, the Merit Systems Protection Board, and any other relevant entities; and
-      > - **(bb)** general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief.
+      > - **(bb)** general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief.;
 
     - **(E)** by adding at the end the following:
       > - **(ii)** assist the Inspector General in promoting the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal, to the extent practicable, by the Inspector General; and
@@ -55,3 +55,6 @@ This Act may be cited as the “Whistleblower Protection Extension Act of 2017�
       > - **(4)** whether the establishment entered into a settlement agreement with the official described in subsection (a)(20)(A), which shall be reported regardless of any confidentiality agreement relating to the settlement agreement; and
 
 - **(d)** *Repeal of sunset* Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed.
+- **(d)** *Repeal of sunset*
+  - **(1)** *In general* Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed.
+  - **(2)** *Retroactive effective date* The amendment made by paragraph (1) shall take effect on November 26, 2017.
