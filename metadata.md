@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4578
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4578
@@ -41,3 +41,7 @@ Counter Terrorist Network Act
 - 2018-01-09 — Placed on the Union Calendar, Calendar No. 366.
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-492.
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-492.
+- 2018-01-11 — Considered as unfinished business. (consideration: CR H160)
+- 2018-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 17). (text: CR 1/9/2018 H40)
+- 2018-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 17).(text: CR 1/9/2018 H40)
