@@ -1,7 +1,7 @@
 ---
 measure: S. 875
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 875
@@ -16,9 +16,10 @@ A bill to require the Comptroller General of the United States to conduct a stud
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to require the Comptroller General of the United States to conduct a stud
 - 2017-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
 - 2018-01-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S141-142; text: CR S142)
 - 2018-01-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S141-142; text: CR S142)
+- 2018-01-11 — Message on Senate action sent to the House.
+- 2018-01-11 — Received in the House.
+- 2018-01-11 — Referred to the House Committee on Energy and Commerce.
