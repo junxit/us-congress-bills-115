@@ -1,40 +1,21 @@
 ---
 legis-num: S. 139
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 139
 
-> To implement the use of Rapid DNA instruments to inform decisions about pretrial release or detention and their conditions, to solve and prevent violent crimes and other crimes, to exonerate the innocent, to prevent DNA analysis backlogs, and for other purposes.
+That the bill from the Senate (S. 139) entitled “An Act to implement the use of Rapid DNA instruments to inform decisions about pretrial release or detention and their conditions, to solve and prevent violent crimes and other crimes, to exonerate the innocent, to prevent DNA analysis backlogs, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*Strike out all after the enacting clause and insert:*
 
-This Act may be cited as the “Rapid DNA Act of 2017”.
+## § 1. Short title; table of contents
 
-## § 2. Rapid DNA instruments
+- **(a)** *Short title* This Act may be cited as the “FISA Amendments Reauthorization Act of 2017”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-- **(a)** *Standards* Section 210303(a) of the DNA Identification Act of 1994 (42 U.S.C. 14131(a)) is amended by adding at the end the following:
-  > - **(5)**
-  >   - **(A)** In addition to issuing standards as provided in paragraphs (1) through (4), the Director of the Federal Bureau of Investigation shall issue standards and procedures for the use of Rapid DNA instruments and resulting DNA analyses.
-  >   - **(B)** In this Act, the term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
+## § 2. Amendments to the Foreign Intelligence Surveillance Act of 1978
 
-- **(b)** *Index* Paragraph (2) of section 210304(b) of the DNA Identification Act of 1994 (42 U.S.C. 14132(b)(2)) is amended to read as follows:
-  > - **(2)** prepared by—
-  >   - **(A)** laboratories that—
-  >     - **(i)** have been accredited by a nonprofit professional association of persons actively involved in forensic science that is nationally recognized within the forensic science community; and
-  >     - **(ii)** undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; or
-  >   - **(B)** criminal justice agencies using Rapid DNA instruments approved by the Director of the Federal Bureau of Investigation in compliance with the standards and procedures issued by the Director under section 210303(a)(5); and
-
-## § 3. Conforming amendments relating to collection of DNA identification information
-
-- **(a)** *From certain Federal offenders* Section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a) is amended—
-  - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
-  - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
-
-- **(b)** *From certain District of Columbia offenders* Section 4 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135b) is amended—
-  - **(1)** in subsection (b), by adding at the end the following: “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”; and
-  - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** The term “Rapid DNA instruments” means instrumentation that carries out a fully automated process to derive a DNA analysis from a DNA sample.
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or a repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
