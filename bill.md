@@ -1,15 +1,13 @@
 ---
 legis-num: S. 139
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 139
 
-That the bill from the Senate (S. 139) entitled “An Act to implement the use of Rapid DNA instruments to inform decisions about pretrial release or detention and their conditions, to solve and prevent violent crimes and other crimes, to exonerate the innocent, to prevent DNA analysis backlogs, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Foreign Intelligence Surveillance Act of 1978 to improve foreign intelligence collection and the safeguards, accountability, and oversight of acquisitions of foreign intelligence, to extend title VII of such Act, and for other purposes.
 
 ## § 1. Short title; table of contents
 

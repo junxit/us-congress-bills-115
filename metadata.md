@@ -1,7 +1,7 @@
 ---
 measure: S. 139
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 139
@@ -16,7 +16,7 @@ FISA Amendments Reauthorization Act of 2017
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (12)
+## Cosponsors (94)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -30,17 +30,101 @@ FISA Amendments Reauthorization Act of 2017
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
 
-## Recorded votes (4)
+## Recorded votes (6)
 
 - 2018-01-11 — [House 115-2-14](votes/house-115-2-0014.md) — On Agreeing to the Amendment — **Failed** (183–233)
 - 2018-01-11 — [House 115-2-15](votes/house-115-2-0015.md) — On Motion to Commit with Instructions — **Failed** (189–227)
 - 2018-01-11 — [House 115-2-16](votes/house-115-2-0016.md) — On Passage — **Passed** (256–164)
 - 2018-01-11 — [Senate 115-2-10](votes/senate-115-2-0010.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (68–27)
+- 2018-01-16 — [Senate 115-2-11](votes/senate-115-2-0011.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–38)
+- 2018-01-18 — [Senate 115-2-12](votes/senate-115-2-0012.md) — On the Motion — **Motion Agreed to** (65–34)
 
 ## Actions
 
@@ -102,3 +186,59 @@ FISA Amendments Reauthorization Act of 2017
 - 2018-01-11 — Senate amendment submitted
 - 2018-01-11 — The previous question on the motion to commit with instructions was ordered without objection.
 - 2018-01-11 — The previous question was ordered without objection.
+- 2018-01-16 — Cloture on the motion to concur in the House amendment to S. 139 invoked in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 11.
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174)
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174)
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174)
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174)
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174)
+- 2018-01-16 — Considered by Senate (Message from the House considered). (consideration: CR S174-185)
+- 2018-01-16 — Motion by Senator McConnell to refer to Senate Committee on the Judiciary the House message to accompany S. 139 with instructions to report back forthwith with the following amendment (SA 1872) fell when cloture was invoked on the motion to concur in the House amendment to S. 139 in Senate.
+- 2018-01-16 — SA 1872 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to S. 139.
+- 2018-01-16 — SA 1873 fell when SA 1872 fell.
+- 2018-01-16 — SA 1874 fell when SA 1873 fell.
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-16 — Senate amendment submitted
+- 2018-01-17 — Considered by Senate (Message from the House considered). (consideration: CR S215)
+- 2018-01-17 — Considered by Senate (Message from the House considered). (consideration: CR S215)
+- 2018-01-17 — Considered by Senate (Message from the House considered). (consideration: CR S215-247; S256-264)
+- 2018-01-18 — Considered by Senate (Message from the House considered). (consideration: CR S268)
+- 2018-01-18 — Considered by Senate (Message from the House considered). (consideration: CR S268)
+- 2018-01-18 — Considered by Senate (Message from the House considered). (consideration: CR S268-270)
+- 2018-01-18 — Message on Senate action sent to the House.
+- 2018-01-18 — Motion to table the motion to concur in the House amendment to S. 139 with an amendment (SA 1870) agreed to in Senate by Voice Vote.
+- 2018-01-18 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 139 by Yea-Nay Vote. 65 - 34. Record Vote Number: 12.
+- 2018-01-18 — SA 1871 fell when the motion to concur in the House amendment to S. 139 with an amendment (SA 1870) tabled.
+- 2018-01-18 — Senate agreed to the House amendment to S. 139 by Yea-Nay Vote. 65 - 34. Record Vote Number: 12.
+- 2018-01-19 — Became Public Law No: 115-118.
+- 2018-01-19 — Became Public Law No: 115-118.
+- 2018-01-19 — Presented to President.
+- 2018-01-19 — Presented to President.
+- 2018-01-19 — Signed by President.
+- 2018-01-19 — Signed by President.
