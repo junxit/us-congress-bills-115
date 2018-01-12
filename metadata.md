@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4033
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4033
@@ -29,3 +29,12 @@ National Geologic Mapping Act Reauthorization Act
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Referred to the House Committee on Natural Resources.
+- 2017-10-16 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2017-11-30 — Subcommittee Hearings Held.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-12 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by Unanimous Consent.
+- 2018-01-12 — Placed on the Union Calendar, Calendar No. 385.
+- 2018-01-12 — Reported by the Committee on Natural Resources. H. Rept. 115-515.
+- 2018-01-12 — Reported by the Committee on Natural Resources. H. Rept. 115-515.
