@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1119
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,29 +27,8 @@ This Act may be cited as the “Satisfying Energy Needs and Saving the Environme
     - **(A)** located on one or more contiguous or adjacent properties;
     - **(B)** specified within the same Major Group (2-digit code), as described in the Standard Industrial Classification Manual (1987); and
     - **(C)** under common control of the same person (or persons under common control).
-  - **(6)** *Cross-State Air Pollution Rule* The terms Cross-State Air Pollution Rule and CSAPR mean the regulatory program promulgated by the Administrator to address the interstate transport of air pollution in parts 51, 52, and 97 of title 40, Code of Federal Regulations, including any subsequent or successor regulation.
-  - **(7)** *Electric utility steam generating unit* The term electric utility steam generating unit means either or both—
-    - **(A)** an electric utility steam generating unit, as such term is defined in section 63.10042 of title 40, Code of Federal Regulations, or any successor regulation; or
-    - **(B)** an electricity generating unit or electric generating unit, as such terms are used in CSAPR.
-  - **(8)** *Phase I* The term Phase I means, with respect to CSAPR, the initial compliance period under CSAPR, identified for the 2015 and 2016 annual compliance periods.
-- **(b)** *Application of CSAPR to certain coal refuse electric utility steam generating units*
-  - **(1)** *Coal refuse electric utility steam generating units combusting bituminous coal refuse*
-    - **(A)** *Applicability* This paragraph applies with respect to any coal refuse electric utility steam generating unit that—
-      - **(i)** combusts coal refuse derived from the mining and processing of bituminous coal; and
-      - **(ii)** is subject to sulfur dioxide allowance surrender provisions pursuant to CSAPR.
-    - **(B)** *Continued applicability of Phase I allowance allocations* In carrying out CSAPR, the Administrator shall provide that, for any compliance period, the allocation (whether through a Federal implementation plan or State implementation plan) of sulfur dioxide allowances for a coal refuse electric utility steam generating unit described in subparagraph (A) is equivalent to the allocation of the unit-specific sulfur dioxide allowance allocation identified for such unit for Phase I, as referenced in the notice entitled “Availability of Data on Allocations of Cross-State Air Pollution Rule Allowances to Existing Electricity Generating Units” (79 Fed. Reg. 71674 (December 3, 2014)).
-    - **(C)** *Rules for allowance allocations* For any compliance period under CSAPR that commences on or after January 1, 2017, any sulfur dioxide allowance allocation provided by the Administrator to a coal refuse electric utility steam generating unit described in subparagraph (A)—
-      - **(i)** shall not be transferable for use by any other source not located at the same coal refuse-fired facility as the relevant coal refuse electric utility steam generating unit;
-      - **(ii)** may be transferable for use by another source located at the same coal refuse-fired facility as the relevant coal refuse electric utility steam generating unit;
-      - **(iii)** may be banked for application to compliance obligations in future compliance periods under CSAPR; and
-      - **(iv)** shall be surrendered upon the permanent cessation of operation of such coal refuse electric utility steam generating unit.
-  - **(2)** *Other sources*
-    - **(A)** *No increase in overall State budget of sulfur dioxide allowance allocations* For purposes of paragraph (1), the Administrator may not, for any compliance period under CSAPR, increase the total budget of sulfur dioxide allowance allocations for a State in which a unit described in paragraph (1)(A) is located.
-    - **(B)** *Compliance periods 2017 through 2020* For any compliance period under CSAPR that commences on or after January 1, 2017, but before December 31, 2020, the Administrator shall carry out subparagraph (A) by proportionally reducing, as necessary, the unit-specific sulfur dioxide allowance allocations from each source that—
-      - **(i)** is located in a State in which a unit described in paragraph (1)(A) is located;
-      - **(ii)** permanently ceases operation, or converts its primary fuel source from coal to natural gas, prior to the relevant compliance period; and
-      - **(iii)** otherwise receives an allocation of sulfur dioxide allowances under CSAPR for such period.
-- **(c)** *Emission limitations To address hydrogen chloride and sulfur dioxide as hazardous air pollutants*
+  - **(6)** *Electric utility steam generating unit* The term electric utility steam generating unit means an electric utility steam generating unit, as such term is defined in section 63.10042 of title 40, Code of Federal Regulations, or any successor regulation.
+- **(b)** *Emission limitations To address hydrogen chloride and sulfur dioxide as hazardous air pollutants*
   - **(1)** *Applicability* For purposes of regulating emissions of hydrogen chloride or sulfur dioxide from a coal refuse electric utility steam generating unit under section 112 of the Clean Air Act (42 U.S.C. 7412), the Administrator—
     - **(A)** shall authorize the operator of such unit to elect that such unit comply with either—
       - **(i)** an emissions standard for emissions of hydrogen chloride that meets the requirements of paragraph (2); or
