@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 4788
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4788
+
+> To direct the Secretary of Energy to establish a pilot program to award grants and loan guarantees to hospitals to carry out projects for the purpose of reducing energy costs and increasing resilience to improve security.
+
+## § 1. Short title
+
+This Act may be cited as the “Hospital Energy Conservation Act”.
+
+## § 2. Energy Conservation Grant and Loan Guarantee Pilot Program
+
+- **(a)** *Establishment* The Secretary of Energy shall establish a pilot program to award grants and loan guarantees to hospitals to carry out energy conservation projects for the purpose of—
+  - **(1)** significantly improving the energy efficiency of such hospitals; and
+  - **(2)** encouraging onsite power generation and energy storage, capable of operating independent of the grid, and providing sufficient onsite emergency backup power for essential hospital functions.
+- **(b)** *Number of hospitals* The Secretary shall award grants and loan guarantees under the pilot program to no more than 6 hospitals during the period described in subsection (f).
+- **(c)** *Applications* A hospital seeking a grant or loan guarantee under the pilot program shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
+- **(d)** *Considerations* In selecting a hospital to award a grant or loan guarantee under the pilot program, the Secretary shall give special consideration to applications from such hospitals that can demonstrate that they are able to commence an energy conservation project more promptly.
+- **(e)** *Definitions* In this section, the terms hospital and energy conservation project have the meanings given such terms in section 391 of the Energy Policy and Conservation Act (42 U.S.C. 6371).
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated for carrying out this section such sums as may be necessary for fiscal years 2019 and 2020, to be derived from funds otherwise authorized to be appropriated for related purposes.
