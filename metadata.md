@@ -1,7 +1,7 @@
 ---
 measure: S. 117
 congress: 115
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 117
@@ -53,3 +53,9 @@ Alex Diekmann Peak Designation Act of 2017
 - 2018-01-16 — Placed on the House Calendar, Calendar No. 117.
 - 2018-01-16 — Reported by the Committee on Natural Resources. H. Rept. 115-516.
 - 2018-01-16 — Reported by the Committee on Natural Resources. H. Rept. 115-516.
+- 2018-01-19 — Presented to President.
+- 2018-01-19 — Presented to President.
+- 2018-01-31 — Became Public Law No: 115-122.
+- 2018-01-31 — Became Public Law No: 115-122.
+- 2018-01-31 — Signed by President.
+- 2018-01-31 — Signed by President.
