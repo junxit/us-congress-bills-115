@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4708
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4708
@@ -44,3 +44,12 @@ Department of Homeland Security Blue Campaign Authorization Act
 - 2018-01-11 — On passage Passed without objection. (text: CR H161)
 - 2018-01-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H161)
 - 2018-01-16 — Received in the Senate, read twice.
+- 2018-01-30 — Message on Senate action sent to the House.
+- 2018-01-30 — Passed Senate without amendment by Voice Vote. (consideration: CR S591)
+- 2018-01-30 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S591)
+- 2018-02-06 — Presented to President.
+- 2018-02-06 — Presented to President.
+- 2018-02-14 — Became Public Law No: 115-125.
+- 2018-02-14 — Became Public Law No: 115-125.
+- 2018-02-14 — Signed by President.
+- 2018-02-14 — Signed by President.
