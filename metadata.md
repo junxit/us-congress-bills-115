@@ -1,7 +1,7 @@
 ---
 measure: S. 117
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 117
@@ -38,3 +38,18 @@ Alex Diekmann Peak Designation Act of 2017
 - 2017-12-21 — Message on Senate action sent to the House.
 - 2017-12-21 — Received in the House.
 - 2017-12-21 — Referred to the House Committee on Natural Resources.
+- 2018-01-02 — Referred to the Subcommittee on Federal Lands.
+- 2018-01-10 — Committee Consideration and Mark-up Session Held.
+- 2018-01-10 — Ordered to be Reported by Unanimous Consent.
+- 2018-01-10 — Subcommittee on Federal Lands Discharged.
+- 2018-01-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-16 — Considered as unfinished business. (consideration: CR H396)
+- 2018-01-16 — Considered under suspension of the rules. (consideration: CR H386-387)
+- 2018-01-16 — DEBATE - The House proceeded with forty minutes of debate on S. 117.
+- 2018-01-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-16 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2018-01-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 3 (Roll no. 19). (text: CR H386)
+- 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 3 (Roll no. 19).(text: CR H386)
+- 2018-01-16 — Placed on the House Calendar, Calendar No. 117.
+- 2018-01-16 — Reported by the Committee on Natural Resources. H. Rept. 115-516.
+- 2018-01-16 — Reported by the Committee on Natural Resources. H. Rept. 115-516.
