@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1532
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1532
@@ -45,3 +45,9 @@ Poarch Band of Creek Indians Land Reaffirmation Act
 - 2018-01-11 — Placed on the Union Calendar, Calendar No. 383.
 - 2018-01-11 — Reported by the Committee on Natural Resources. H. Rept. 115-513.
 - 2018-01-11 — Reported by the Committee on Natural Resources. H. Rept. 115-513.
+- 2018-01-16 — Considered under suspension of the rules. (consideration: CR H392-394)
+- 2018-01-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1532.
+- 2018-01-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-16 — Mr. Gianforte moved to suspend the rules and pass the bill.
+- 2018-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H392-393)
+- 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H392-393)
