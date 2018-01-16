@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4279
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4279
@@ -16,6 +16,12 @@ Expanding Investment Opportunities Act
 
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 
+## Cosponsors (3)
+
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -26,3 +32,12 @@ Expanding Investment Opportunities Act
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Referred to the House Committee on Financial Services.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 2.
+- 2018-01-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-16 — Considered under suspension of the rules. (consideration: CR H183-185)
+- 2018-01-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4279.
+- 2018-01-16 — Mr. Duffy moved to suspend the rules and pass the bill, as amended.
+- 2018-01-16 — Placed on the Union Calendar, Calendar No. 386.
+- 2018-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-517.
+- 2018-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-517.
