@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4318
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,677 amendatory instructions. 0 executed, 1,677 stated and not applied.
+1,665 amendatory instructions. 1 executed, 1,664 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 19 U.S.C. § 58c
+
+> Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “January 14, 2026” and inserting “April 22, 2026”.
+
+| | |
+|---|---|
+| Removed | `January 14, 2026` |
+| Inserted | `April 22, 2026` |
 
 ## Stated, not applied
 
@@ -34,19 +45,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking heading 9902.01.01 and all headings that follow through the end of such subchapter; and | the bill names no machine-readable US Code section |
 | — | strike | by striking U.S. Note 7 and U.S. Notes 13 through 19. | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 99 is amended by inserting the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading: | the bill names no machine-readable US Code section |

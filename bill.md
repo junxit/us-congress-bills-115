@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4318
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; reference; expired provisions
 
-- **(a)** *Short title* This Act may be cited as the “Miscellaneous Tariff Bill Act of 2017”.
+- **(a)** *Short title* This Act may be cited as the “Miscellaneous Tariff Bill Act of 2018”.
 - **(b)** *Reference* Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a chapter, subchapter, note, additional U.S. note, heading, subheading, or other provision, the reference shall be considered to be made to a chapter, subchapter, note, additional U.S. note, heading, subheading, or other provision of the Harmonized Tariff Schedule of the United States.
 - **(c)** *Expired provisions* Subchapter II of chapter 99 is amended—
   - **(1)** by striking heading 9902.01.01 and all headings that follow through the end of such subchapter; and
@@ -3445,7 +3445,7 @@ Subchapter II of chapter 99 is amended by inserting in numerical sequence the fo
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 859. Ion-exchange resin
+## § 859. Iprodione and Trifloxystrobin Formulations
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
@@ -3765,2958 +3765,2910 @@ Subchapter II of chapter 99 is amended by inserting in numerical sequence the fo
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 939. Akolidine; pyridine, alkyl derivatives unspecified
+## § 939. Polymeric ester blend
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 940. Polymeric ester blend
+## § 940. CE-1618BL Methyl palmitate/oleate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 941. CE-1618BL Methyl palmitate/oleate
+## § 941. N-Propylthophosphoryl triamide (NPPT)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 942. N-Propylthophosphoryl triamide (NPPT)
+## § 942. Iminodisuccinate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 943. Iminodisuccinate
+## § 943. Bleaching additive
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 944. Bleaching additive
+## § 944. Mixtures of C5-C18 perfluorocarbon alkanes, perfluorocarbon amines, and perfluorocarbon ethers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 945. Mixtures of C5-C18 perfluorocarbon alkanes, perfluorocarbon amines, and perfluorocarbon ethers
+## § 945. Certain specialty monomers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 946. Certain specialty monomers
+## § 946. Silicon dioxide
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 947. Silicon dioxide
+## § 947. Sodium ethylate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 948. Sodium ethylate
+## § 948. Organo-modified siloxanes combined with silica
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 949. Organo-modified siloxanes combined with silica
+## § 949. Sucrose stearate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 950. Sucrose stearate
+## § 950. Synthetic acid washed beta zeolite powder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 951. Synthetic acid washed beta zeolite powder
+## § 951. Polymers of ethylene, other
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 952. Polymers of ethylene, other
+## § 952. Mineral filled polypropylene pellets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 953. Mineral filled polypropylene pellets
+## § 953. Polyisobutylene: other
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 954. Polyisobutylene: other
+## § 954. Polyisobutylene
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 955. Polyisobutylene
+## § 955. Propylene-ethylene copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 956. Propylene-ethylene copolymer
+## § 956. Methoxysilanated amorphous poly alpha olefin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 957. Methoxysilanated amorphous poly alpha olefin
+## § 957. Amorphous alpha olefin with high softening point
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 958. Amorphous alpha olefin with high softening point
+## § 958. Polymethylpentene (PMP) polyolefin copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 959. Polymethylpentene (PMP) polyolefin copolymer
+## § 959. Alpha-Alkenes (C20-C24) maleic anhyd
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 960. Alpha-Alkenes (C20-C24) maleic anhyd
+## § 960. Non-functionalized polybutadiene
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 961. Non-functionalized polybutadiene
+## § 961. Vinylacetate-vinylchloride copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 962. Vinylacetate-vinylchloride copolymer
+## § 962. Poly(fumaric acid-co-vinyl acetate-co-vinyl chloride)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 963. Poly(fumaric acid-co-vinyl acetate-co-vinyl chloride)
+## § 963. Vinyl chloride copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 964. Vinyl chloride copolymer
+## § 964. Vinyl chloride-hydroxypropyl acrylate copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 965. Vinyl chloride-hydroxypropyl acrylate copolymer
+## § 965. Aquivion (acid form) dispersion
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 966. Aquivion (acid form) dispersion
+## § 966. Aquivion (SO2F)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 967. Aquivion (SO2F)
+## § 967. Aquivion (li salt)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 968. Aquivion (li salt)
+## § 968. Aquivion (NH4 salt)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 969. Aquivion (NH4 salt)
+## § 969. Solvene
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 970. Solvene
+## § 970. Solvene T
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 971. Solvene T
+## § 971. Solvera / Fluorolink PT5060
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 972. Solvera / Fluorolink PT5060
+## § 972. Galden fluids with boiling points above 170 degrees Celsius
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 973. Galden fluids with boiling points above 170 degrees Celsius
+## § 973. Fomblin W 500
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 974. Fomblin W 500
+## § 974. Fomlbin M and Z lubricants
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 975. Fomlbin M and Z lubricants
+## § 975. Fomblin MD grades
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 976. Fomblin MD grades
+## § 976. Fomblin DA306
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 977. Fomblin DA306
+## § 977. Fomblin DA 305, Galden MF310
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 978. Fomblin DA 305, Galden MF310
+## § 978. Fomblin T4 and Fomblin Z tetraol products
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 979. Fomblin T4 and Fomblin Z tetraol products
+## § 979. Fomblin Z DOL and Fluorolink D series
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 980. Fomblin Z DOL and Fluorolink D series
+## § 980. Fomblin Z DEAL, Fluorolink L series
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 981. Fomblin Z DEAL, Fluorolink L series
+## § 981. Fomblin ETX, Fluorolink E series
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 982. Fomblin ETX, Fluorolink E series
+## § 982. Tetraethylene glycol
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 983. Tetraethylene glycol
+## § 983. Fluorolink S10
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 984. Fluorolink S10
+## § 984. Polyvinyl acetate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 985. Polyvinyl acetate
+## § 985. Vinyl acetate-alkeneoic acid copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 986. Vinyl acetate-alkeneoic acid copolymer
+## § 986. Ethylene-vinyl acetate copolymers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 987. Ethylene-vinyl acetate copolymers
+## § 987. Polyvinyl formal resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 988. Polyvinyl formal resin
+## § 988. D-500
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 989. D-500
+## § 989. ACUSOL
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 990. ACUSOL
+## § 990. Polymeric sulfonic acid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 991. Polymeric sulfonic acid
+## § 991. 2-Propenoic acid, sodium salt
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 992. 2-Propenoic acid, sodium salt
+## § 992. Poly(butyl methacrylate)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 993. Poly(butyl methacrylate)
+## § 993. Poly(ethyl acrylate-co-methyl methacrylate)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 994. Poly(ethyl acrylate-co-methyl methacrylate)
+## § 994. Poly(methacrylic acid-co-methyl methacrylate) 1:1
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 995. Poly(methacrylic acid-co-methyl methacrylate) 1:1
+## § 995. Poly(methyl acrylate-co-methyl methacrylate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 996. Poly(methyl acrylate-co-methyl methacrylate
+## § 996. Zeba
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 997. Zeba
+## § 997. UV absorber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 998. UV absorber
+## § 998. High-performance dispersant used in concrete
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 999. High-performance dispersant used in concrete
+## § 999. Solvera PT 5045, Solvera XPH723
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1000. Solvera PT 5045, Solvera XPH723
+## § 1000. Heat-curable epoxy resin mixture
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1001. Heat-curable epoxy resin mixture
+## § 1001. Liquid resin known as Chemitylene or TC-2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1002. Liquid resin known as Chemitylene or TC-2
+## § 1002. Sorbitol diglycidyl ether epoxide resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1003. Sorbitol diglycidyl ether epoxide resin
+## § 1003. Sulfonated polyethylene terephthalate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1004. Sulfonated polyethylene terephthalate
+## § 1004. Linear hydroxyl-terminated aliphatic polycarb diol
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1005. Linear hydroxyl-terminated aliphatic polycarb diol
+## § 1005. Linear aliphatic polycarbonate polyester
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1006. Linear aliphatic polycarbonate polyester
+## § 1006. Hindered amine light stabilizer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1007. Hindered amine light stabilizer
+## § 1007. Polymer of 1,4-benzenedicarboxylic acid with 1,4-butanediol and hexanedioic acid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1008. Polymer of 1,4-benzenedicarboxylic acid with 1,4-butanediol and hexanedioic acid
+## § 1008. 1,4-Benzenedicarboxylic acid, polymer with 1,4 butanediol and decanedioc acid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1009. 1,4-Benzenedicarboxylic acid, polymer with 1,4 butanediol and decanedioc acid
+## § 1009. 1,4-Benzenedicarboxylic acid, polymer with 1,4-butanediol, hexanedioic acid and nonanedioic acid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1010. 1,4-Benzenedicarboxylic acid, polymer with 1,4-butanediol, hexanedioic acid and nonanedioic acid
+## § 1010. 1,4-Benzenedicarboxylic acid, polymer with 1,4-butanediol, decanedioic acid and hexanedioic acid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1011. 1,4-Benzenedicarboxylic acid, polymer with 1,4-butanediol, decanedioic acid and hexanedioic acid
+## § 1011. Polyester resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1012. Polyester resin
+## § 1012. 1,4-Benzenedicarboxylic acid, polymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1013. 1,4-Benzenedicarboxylic acid, polymer
+## § 1013. Grilamid TR 90
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1014. Grilamid TR 90
+## § 1014. Orgasol polyamide powders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1015. Orgasol polyamide powders
+## § 1015. Grilamid TR 30
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1016. Grilamid TR 30
+## § 1016. Grilamid TR 60
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1017. Grilamid TR 60
+## § 1017. Methylene dianiline 50
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1018. Methylene dianiline 50
+## § 1018. Phenol, 4-(1,1-dimethylethyl)-,polymer with formaldehyde
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1019. Phenol, 4-(1,1-dimethylethyl)-,polymer with formaldehyde
+## § 1019. Phenol, 4,4′-(1-methylethylidine)bis-, polymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1020. Phenol, 4,4′-(1-methylethylidine)bis-, polymer
+## § 1020. Formaldehyde - 1,3-benzenediol (1:1)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1021. Formaldehyde - 1,3-benzenediol (1:1)
+## § 1021. Polyurethane hardener
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1022. Polyurethane hardener
+## § 1022. H12MDI based aliphatic polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1023. H12MDI based aliphatic polyisocyanate
+## § 1023. TDI based blocked aromatic polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1024. TDI based blocked aromatic polyisocyanate
+## § 1024. Self-cross linking, stoving polyurethane resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1025. Self-cross linking, stoving polyurethane resin
+## § 1025. Silane terminated polyurethane prepolymer resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1026. Silane terminated polyurethane prepolymer resin
+## § 1026. Hydrogenated polymers of norbornene derivatives
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1027. Hydrogenated polymers of norbornene derivatives
+## § 1027. Polyethyleneimine, refrigerated in containers holding not more than 1 liter
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1028. Polyethyleneimine, refrigerated in containers holding not more than 1 liter
+## § 1028. Polyethyleneimine, components for manufacturing into medical devices
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1029. Polyethyleneimine, components for manufacturing into medical devices
+## § 1029. Aliphatic/aromatic polyisocyanate copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1030. Aliphatic/aromatic polyisocyanate copolymer
+## § 1030. TDI based aromatic polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1031. TDI based aromatic polyisocyanate
+## § 1031. Water dispersible HDI based polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1032. Water dispersable HDI based polyisocyanate
+## § 1032. Water dispersible HDI based polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1033. Water dispersible HDI based polyisocyanate
+## § 1033. IPDI based aliphatic polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1034. IPDI based aliphatic polyisocyanate
+## § 1034. HDI based aliphatic polyisocyanate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1035. HDI based aliphatic polyisocyanate
+## § 1035. Nourybond 276 curing agent
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1036. Nourybond 276 curing agent
+## § 1036. P84 polyimide powder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1037. P84 polyimide powder
+## § 1037. Modified ethylene-norbornene copolymer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1038. Modified ethylene-norbornene copolymer
+## § 1038. 1,6-Hexanediamine,N-N′-bis(2,2,6,6-tet
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1039. 1,6-Hexanediamine,N-N′-bis(2,2,6,6-tet
+## § 1039. Amberlite XAD4
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1040. Amberlite XAD4
+## § 1040. Certain industrial nitrocellulose, damped with an alcohol content of 28 to 32 percent
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1041. Certain industrial nitrocellulose, damped with an alcohol content of 28 to 32 percent
+## § 1041. Certain industrial nitrocellulose, damped with an alcohol content of 33 to 37 percent
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1042. Certain industrial nitrocellulose, damped with an alcohol content of 33 to 37 percent
+## § 1042. Sodium alginate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1043. Sodium alginate
+## § 1043. Propylene glycol alginate (PGA)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1044. Propylene glycol alginate (PGA)
+## § 1044. Alginic acid and other alginates
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1045. Alginic acid and other alginates
+## § 1045. Sodium alginate containing citrate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1046. Sodium alginate containing citrate
+## § 1046. Sodium hyaluronate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1047. Sodium hyaluronate
+## § 1047. Weak acid cation ion-exchange resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1048. Weak acid cation ion-exchange resin
+## § 1048. Weak acid macroporous cation ion-exchange resins
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1049. Weak acid macroporous cation ion-exchange resins
+## § 1049. Ion-exchange resin comprised of divinylbenzene co-polymerized with styrene and ethylstyrene
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1050. Ion-exchange resin comprised of divinylbenzene co-polymerized with styrene and ethylstyrene
+## § 1050. Ion-exchange resin comprised of a copolymer of methacrylic acid cross-linked with divinylbenzene
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1051. Ion-exchange resin comprised of a copolymer of methacrylic acid cross-linked with divinylbenzene
+## § 1051. Ion-exchange resin utilizing a type I quaternary ammonium functional group
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1052. Ion-exchange resin utilizing a type I quaternary ammonium functional group
+## § 1052. Ion-exchange resin, free base form
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1053. Ion-exchange resin, free base form
+## § 1053. Ion-exchange resin, chloride form
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1054. Ion-exchange resin, chloride form
+## § 1054. Amberlite IRP69
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1055. Amberlite IRP69
+## § 1055. Anion ion-exchange resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1056. Anion ion-exchange resin
+## § 1056. Amberlite IRC748
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1057. Amberlite IRC748
+## § 1057. DOWEX* MAC-3
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1058. DOWEX* MAC-3
+## § 1058. Iminidiacetic acid ion-exchange resin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1059. Iminidiacetic acid ion-exchange resin
+## § 1059. Ion-exchange resin and chelating resin with a isothiouronium functional group
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1060. Ion-exchange resin and chelating resin with a isothiouronium functional group
+## § 1060. Ion-exchange resin and chelating resin with an aminophosphoric functional group
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1061. Ion-exchange resin and chelating resin with an aminophosphoric functional group
+## § 1061. Amberlite IRP88
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1062. Amberlite IRP88
+## § 1062. Strips of 100 percent ePTFE sealant between 3mm and 30mm thick
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1063. Strips of 100 percent ePTFE sealant between 3mm and 30mm thick
+## § 1063. Plastic tubes, not reinforced, polyvinyl
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1064. Plastic tubes, not reinforced, polyvinyl
+## § 1064. Polyethylene micro-tubes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1065. Polyethylene micro-tubes
+## § 1065. Plastic, other fittings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1066. Plastic, other fittings
+## § 1066. Transparent polypropylene flat film
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1067. Transparent polypropylene flat film
+## § 1067. Acrylic poly methacrylate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1068. Acrylic poly methacrylate
+## § 1068. Acrylic films
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1069. Acrylic films
+## § 1069. Saflex
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1070. Saflex
+## § 1070. Regen cellulose sheets for industrial sponges
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1071. Regen cellulose sheets for industrial sponges
+## § 1071. Expanded PTFE sheets between 1.6mm and 3mm thick for sealants
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1072. Expanded PTFE sheets between 1.6mm and 3mm thick for sealants
+## § 1072. Expanded PTFE sheets between 3.1mm and 6.00mm thick for sealants
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1073. Expanded PTFE sheets between 3.1mm and 6.00mm thick for sealants
+## § 1073. Thermoplastic containers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1074. Thermoplastic containers
+## § 1074. PE plug cap with holding top and inserting bottom
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1075. PE plug cap with holding top and inserting bottom
+## § 1075. Thermoplastic closures
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1076. Thermoplastic closures
+## § 1076. Plastic lids for food storage containers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1077. Plastic lids for food storage containers
+## § 1077. Plastic cap for squeezable sport water bottle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1078. Plastic cap for squeezable sport water bottle
+## § 1078. Single wrapped cutlery joined by a skewer
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1079. Single wrapped cutlery joined by a skewer
+## § 1079. Set of plastic cutlery wrapped in paper
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1080. Set of plastic cutlery wrapped in paper
+## § 1080. 98 percent polypropylene disposable cutlery
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1081. 98 percent polypropylene disposable cutlery
+## § 1081. Plastic pet crate pan
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1082. Plastic pet crate pan
+## § 1082. Plastic ornamentation for aquariums
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1083. Plastic ornamentation for aquariums
+## § 1083. Boxing and mixed martial arts gloves of plastic
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1084. Boxing and mixed martial arts gloves of plastic
+## § 1084. Plastic handles for coolers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1085. Plastic handles for coolers
+## § 1085. Belting for machinery containing textile components
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1086. Belting for machinery containing textile components
+## § 1086. Plastic clip fasteners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1087. Plastic clip fasteners
+## § 1087. Golf bag component top bottom divider
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1088. Golf bag component top bottom divider
+## § 1088. Plastic non-skid base rings for toilet brush caddies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1089. Plastic non-skid base rings for toilet brush caddies
+## § 1089. Plastic lips for dust pans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1090. Plastic lips for dust pans
+## § 1090. Quick Clamps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1091. Quick Clamps
+## § 1091. Certain plastic smartphone cases
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1092. Certain plastic smartphone cases
+## § 1092. Plastic reusable freezer packs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1093. Plastic reusable freezer packs
+## § 1093. Three-way camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1094. Three-way camera mounts
+## § 1094. Head straps and quickclips for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1095. Head straps and quickclips for cameras
+## § 1095. Buoyant pistol grip camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1096. Buoyant pistol grip camera mounts
+## § 1096. Suction cup camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1097. Suction cup camera mounts
+## § 1097. Camera mounts designed to hold 2 cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1098. Camera mounts designed to hold 2 cameras
+## § 1098. Frame mounts for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1099. Frame mounts for cameras
+## § 1099. Large tube mounts for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1100. Large tube mounts for cameras
+## § 1100. Circular adhesive mounts for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1101. Circular adhesive mounts for cameras
+## § 1101. Plastic screen protectors for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1102. Plastic screen protectors for cameras
+## § 1102. Replacement door housings for cameras
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1103. Replacement door housings for cameras
+## § 1103. Replacement camera doors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1104. Replacement camera doors
+## § 1104. Seatpost camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1105. Seatpost camera mounts
+## § 1105. Adhesive camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1106. Adhesive camera mounts
+## § 1106. Camera surfboard mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1107. Camera surfboard mounts
+## § 1107. Camera tethers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1108. Camera tethers
+## § 1108. Flexible camera mountings without clamps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1109. Flexible camera mountings without clamps
+## § 1109. Assorted plastic camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1110. Assorted plastic camera mounts
+## § 1110. Camera mounts for musical instruments
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1111. Camera mounts for musical instruments
+## § 1111. Conveyor belting of vulcanized rubber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1112. Conveyor belting of vulcanized rubber
+## § 1112. Automotive gaskets, washers, and other seals
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1113. Automotive gaskets, washers, and other seals
+## § 1113. Rubber pet toys covered with felt
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1114. Rubber pet toys covered with felt
+## § 1114. Camera flotation devices
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1115. Camera flotation devices
+## § 1115. Small camera floatation devices
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1116. Small camera floatation devices
+## § 1116. Certain high-quality bull hides
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1117. Certain high-quality bull hides
+## § 1117. Life jackets for pets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1118. Life jackets for pets
+## § 1118. Collapsible insulated food and beverage bags
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1119. Collapsible insulated food and beverage bags
+## § 1119. Doll diaper bags
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1120. Doll diaper bags
+## § 1120. Sleeping bag stuff sacks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1121. Sleeping bag stuff sacks
+## § 1121. Doll carriers with windows
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1122. Doll carriers with windows
+## § 1122. Doll carriers without windows
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1123. Doll carriers without windows
+## § 1123. Nonwoven polypropylene bags
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1124. Nonwoven polypropylene bags
+## § 1124. Novelty backpacks with decorative plastic shells in the shape of a shield
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1125. Novelty backpacks with decorative plastic shells in the shape of a shield
+## § 1125. Novelty backpacks with decorative plastic shells in the shape of animals
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1126. Novelty backpacks with decorative plastic shells in the shape of animals
+## § 1126. Other novelty backpacks with decorative plastic shells
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1127. Other novelty backpacks with decorative plastic shells
+## § 1127. Backpacks with removable pouches
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1128. Backpacks with removable pouches
+## § 1128. Binocular carrying cases, valued $20 or over
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1129. Binocular carrying cases, valued $20 or over
+## § 1129. Bags designed for janitorial carts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1130. Bags designed for janitorial carts
+## § 1130. Sets of 5 drawstring bags
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1131. Sets of 5 drawstring bags
+## § 1131. Certain cases for electronic games or accessories
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1132. Certain cases for electronic games or accessories
+## § 1132. Plastic pet carriers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1133. Plastic pet carriers
+## § 1133. Camera dive housings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1134. Camera dive housings
+## § 1134. Camera wrist housings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1135. Camera wrist housings
+## § 1135. Plastic cases for electronic games or accessories
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1136. Plastic cases for electronic games or accessories
+## § 1136. Camera housings for waterproof operation not below 40m
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1137. Camera housings for waterproof operation not below 40m
+## § 1137. Skeleton camera housings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1138. Skeleton camera housings
+## § 1138. Opaque camera housings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1139. Opaque camera housings
+## § 1139. Women's leather jackets with no closure
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1140. Women's leather jackets with no closure
+## § 1140. Batting gloves of leather
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1141. Batting gloves of leather
+## § 1141. Leather gloves with flip mitts for hunting
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1142. Leather gloves with flip mitts for hunting
+## § 1142. Boxing and mixed martial arts gloves of leather
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1143. Boxing and mixed martial arts gloves of leather
+## § 1143. Leather gloves with fourchettes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1144. Leather gloves with fourchettes
+## § 1144. Leather gloves without fourchettes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1145. Leather gloves without fourchettes
+## § 1145. Men's leather gloves valued at $18 or more per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1146. Men's leather gloves valued at $18 or more per pair
+## § 1146. Women's leather belts valued at $7 or more
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1147. Women's leather belts valued at $7 or more
+## § 1147. Belts of furskin, not mink
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1148. Belts of furskin, not mink
+## § 1148. Woven bamboo products
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1149. Woven bamboo products
+## § 1149. Woven wood products
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1150. Woven wood products
+## § 1150. Flatgoods with or without straps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1151. Flatgoods with or without straps
+## § 1151. Cashmere, not carded or combed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1152. Cashmere, not carded or combed
+## § 1152. Camel hair, not carded or combed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1153. Camel hair, not carded or combed
+## § 1153. Camel hair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1154. Camel hair
+## § 1154. Noils of camel hair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1155. Noils of camel hair
+## § 1155. Cashmere, carded or combed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1156. Cashmere, carded or combed
+## § 1156. Camel hair, carded or combed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1157. Camel hair, carded or combed
+## § 1157. Yarn of carded cashmere, with a yarn count of 19.35 metric or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1158. Yarn of carded cashmere, with a yarn count of 19.35 metric or higher
+## § 1158. Yarn of carded cashmere, with a yarn count of less than 19.35 metric
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1159. Yarn of carded cashmere, with a yarn count of less than 19.35 metric
+## § 1159. Yarn of carded camel hair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1160. Yarn of carded camel hair
+## § 1160. Yarn of combed cashmere or yarn of camel hair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1161. Yarn of combed cashmere or yarn of camel hair
+## § 1161. Woven fabric of carded vicuna hair of a weight not exceeding 300 g/m2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1162. Woven fabric of carded vicuna hair of a weight not exceeding 300 g/m2
+## § 1162. Woven fabric of carded vicuna hair of a weight exceeding 300 g/m2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1163. Woven fabric of carded vicuna hair of a weight exceeding 300 g/m2
+## § 1163. Woven fabric of combed vicuna hair of a weight not exceeding 200 g/m2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1164. Woven fabric of combined vicuna hair of a weight not exceeding 200 g/m2
+## § 1164. Woven fabric of combed vicuna hair of a weight exceeding 200 g/m2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1165. Woven fabric of combined vicuna hair of a weight exceeding 200 g/m2
+## § 1165. Production roll bleached woven cotton gauze
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1166. Production roll bleached woven cotton gauze
+## § 1166. Bleached pique fabric
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1167. Bleached pique fabric
+## § 1167. Dyed pique fabric
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1168. Dyed pique fabric
+## § 1168. 50D nylon
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1169. 50D nylon
+## § 1169. Untwisted filament polyvinyl alcohol yarn
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1170. Untwisted filament polyvinyl alcohol yarn
+## § 1170. Grilon yarn
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1171. Grilon yarn
+## § 1171. High tenacity single rayon yarn with a decitex equal to or greater than 1,000
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1172. High tenacity single rayon yarn with a decitex equal to or greater than 1,000
+## § 1172. High tenacity single rayon yarn with a decitex less than 1,000
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1173. High tenacity single rayon yarn with a decitex less than 1,000
+## § 1173. High tenacity multiple or cabled rayon yarn
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1174. High tenacity multiple or cabled rayon yarn
+## § 1174. Single yarn of viscose rayon
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1175. Single yarn of viscose rayon
+## § 1175. Twisted yarn of viscose rayon
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1176. Twisted yarn of viscose rayon
+## § 1176. Polypropylene (PP) monofilament
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1177. Polypropylene (PP) monofilament
+## § 1177. Nylon monofilament thread
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1178. Nylon monofilament thread
+## § 1178. 80D nylon
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1179. 80D nylon
+## § 1179. Elastic, water-repellent woven polyester fabric
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1180. Elastic, water-repellent woven polyester fabric
+## § 1180. Acrylic fiber tow with an average decitex of between 2 and 5
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1181. Acrylic fiber tow with an average decitex of between 2 and 5
+## § 1181. Acrylic filament tow with an average decitex of 2.2
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1182. Acrylic filament tow with an average decitex of 2.2
+## § 1182. Acrylic fiber tow with an average decitex of 3.3
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1183. Acrylic fiber tow with an average decitex of 3.3
+## § 1183. Polyacrylonitrile tow with an average decitex of 2.75
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1184. Polyacrylonitrile tow with an average decitex of 2.75
+## § 1184. Polyacrylonitrile tow with an average decitex of 3.3
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1185. Polyacrylonitrile tow with an average decitex of 3.3
+## § 1185. Acrylic filament tow with a decitex of 5.0 to 5.6
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1186. Acrylic filament tow with an average decitex of 5.0 to 5.6
+## § 1186. Acrylic filament tow with a decitex of 3.3
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1187. Acrylic filament tow with a decitex of 3.3
+## § 1187. Acrylic or modacrylic staple fibers, not processed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1188. Acrylic or modacrylic staple fibers, not processed
+## § 1188. Modacrylic staple fibers with an average decitex of 2.2 and a fiber length of 38mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1189. Modacrylic staple fibers with an average decitex of 2.2 and a fiber length of 38mm
+## § 1189. Modacrylic staple fibers with an average dexitex of 2.2 and a fiber length of 51mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1190. Modacrylic staple fibers with an average dexitex of 2.2 and a fiber length of 51mm
+## § 1190. Modacrylic staple fibers with an average decitex of 1.7 and a fiber length of 51mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1191. Modacrylic staple fibers with an average decitex of 1.7 and a fiber length of 51mm
+## § 1191. Acrylic staple fibers with a fiber length of 38mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1192. Acrylic staple fibers with a fiber length of 38mm
+## § 1192. Acrylic staple fibers with a fiber length of 40mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1193. Acrylic staple fibers with a fiber length of 40mm
+## § 1193. Synthetic staple fibers not processed for spinning
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1194. Synthetic staple fibers not processed for spinning
+## § 1194. Acrylic staple fibers with a fiber length between 40 and 47.5mm and a solar reflectance index less than 10
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1195. Acrylic staple fibers with a fiber length between 40 and 47.5mm and a solar reflectance index less than 10
+## § 1195. Acrylic staple fibers with a fiber length between 40 and 47.5mm and a solar reflectance index between 10 and 30
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1196. Acrylic staple fibers with a fiber length between 40 and 47.5mm and a solar reflectance index between 10 and 30
+## § 1196. Acrylic staple fibers with a fiber length between 40 and 47.5 mm and a solar reflectance index greater than 30
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1197. Acrylic staple fibers with a fiber length between 40 and 47.5 mm and a solar reflectance index greater than 30
+## § 1197. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index less than 10
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1198. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index less than 10
+## § 1198. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index between 10 and 30
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1199. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index between 10 and 30
+## § 1199. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index greater than 30
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1200. Acrylic staple fibers with a fiber length between 48 and 60mm and a solar reflectance index greater than 30
+## § 1200. Modacrylic staple fiber with a decitex of 1.7 and a fiber length of 38mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1201. Modacrylic staple fiber with a decitex of 1.7 and a fiber length of 38mm
+## § 1201. Acrylic staple fibers not processed for spinning
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1202. Acrylic staple fibers not processed for spinning
+## § 1202. Modified acrylic flame retardant staple fiber with a decitex of 2.7
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1203. Modified acrylic flame retardant staple fiber with a decitex of 2.7
+## § 1203. Modified acrylic flame retardant staple fiber with a decitex of 3.9
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1204. Modified acrylic flame retardant staple fiber with a decitex of 3.9
+## § 1204. Acrylic fiber staple, dyed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1205. Acrylic fiber staple, dyed
+## § 1205. Flame retardant rayon fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1206. Flame retardant rayon fiber
+## § 1206. Cellulosic man-made viscose rayon staple fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1207. Cellulosic man-made viscose rayon staple fiber
+## § 1207. Cellulosic man-made shortcut viscose rayon fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1208. Cellulosic man-made shortcut viscose rayon fiber
+## § 1208. Flame resistant staple fibers of viscose rayon
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1209. Flame resistant staple fibers of viscose rayon
+## § 1209. Rayon staple fibers for use in goods of heading 9619
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1210. Rayon staple fibers for use in goods of heading 9619
+## § 1210. Flame retardant viscose rayon staple fiber with a decitex of 4.7 and a length of 60mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1211. Flame retardant viscose rayon staple fiber with a decitex of 4.7 and a length of 60mm
+## § 1211. Flame retardant viscose rayon staple fiber with a decitex of 3.3 and a length of 60mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1212. Flame retardant viscose rayon staple fiber with a decitex of 3.3 and a length of 60mm
+## § 1212. Flame retardant viscose rayon staple fiber with a decitex of 5.0 and a length of 60mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1213. Flame retardant viscose rayon staple fiber with a decitex of 5.0 and a length of 60mm
+## § 1213. Flame retardant viscose rayon staple fiber with a decitex of 2.2 and a length of 38mm
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1214. Flame retardant viscose rayon staple fiber with a decitex of 2.2 and a length of 38mm
+## § 1214. Viscose rayon staple fiber not processed for spinning
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1215. Viscose rayon staple fiber not processed for spinning
+## § 1215. Reduced flammability lyocell fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1216. Reduced flammability lyocell fiber
+## § 1216. Acrylic staple fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1217. Acrylic staple fiber
+## § 1217. Acrylic or modacrylic staple fibers processed and with a decitex of 2.75 to 3.3
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1218. Acrylic or modacrylic staple fibers processed and with a decitex of 2.75 to 3.3
+## § 1218. Acrylic or modacrylic staple fibers processed and with a decitex of 11.0
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1219. Acrylic or modacrylic staple fibers processed and with a decitex of 11.0
+## § 1219. Acrylic or modacrylic staple fibers processed and with a decitex of 5.0 to 5.6
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1220. Acrylic or modacrylic staple fibers processed and with a decitex of 5.0 to 5.6
+## § 1220. Rayon top
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1221. Rayon top
+## § 1221. Woven fabrics of certain sythetic fibers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1222. Woven fabrics of certain sythetic fibers
+## § 1222. Heavy weight fabric of modal/cotton blend
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1223. Heavy weight fabric of modal/cotton blend
+## § 1223. Hand-tufted wool carpets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1224. Hand-tufted wool carpets
+## § 1224. Heat exchange capillary material
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1225. Heat exchange capillary material
+## § 1225. Men's shirts incorporating snaps used to attach a heart rate monitor
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1226. Men's shirts incorporating a heart rate monitor
+## § 1226. Tank tops incorporating snaps used to attach a heart rate monitor
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1227. Tank tops incorporating a heart rate monitor
+## § 1227. Women's or girls' man-made fiber knit vests
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1228. Women's or girls' man-made fiber knit vests
+## § 1228. Vests incorporating snaps used to attach a heart rate monitor
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1229. Vests incorporating a heart rate monitor
+## § 1229. Men's or boys' silk knit pullovers and cardigans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1230. Men's or boys' silk knit pullovers and cardigans
+## § 1230. Men's or boys' linen knit sweaters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1231. Men's or boys' linen knit sweaters
+## § 1231. Girls' cotton knit coveralls or jumpsuits
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1232. Girls' cotton knit coveralls or jumpsuits
+## § 1232. Neoprene wading socks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1233. Neoprene wading socks
+## § 1233. Neoprene guard socks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1234. Neoprene guard socks
+## § 1234. Training gloves
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1235. Training gloves
+## § 1235. Insulated handmuffs of knit polyester
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1236. Insulated handmuffs of knit polyester
+## § 1236. Boys' man-made fiber woven coats
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1237. Boys' man-made fiber woven coats
+## § 1237. Men's or boys' cotton woven corduroy jackets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1238. Boys' cotton woven blue denim jackets
+## § 1238. Boys' man-made fiber woven jackets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1239. Men's or boys' cotton woven corduroy jackets
+## § 1239. Women's or girls' wool padded sleeveless jackets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1240. Boys' man-made fiber woven jackets
+## § 1240. Girls' man-made fiber woven jackets containing wool
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1241. Women's or girls' wool padded sleeveless jackets
+## § 1241. Women's dresses, 100 percent silk
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1242. Girls' man-made fiber woven jackets containing wool
+## § 1242. Women's skirts and divided skirts, 100 percent silk
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1243. Women's dresses, 100 percent silk
+## § 1243. Women's blouses and shirts, 100 percent silk
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1244. Girls' cotton blue denim skirts and divided skirts
+## § 1244. Men's or boys' man-made woven sleepwear separates
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1245. Women's skirts and divided skirts, 100 percent silk
+## § 1245. Babies' artificial fibers woven trousers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1246. Women's blouses and shirts, 100 percent silk
+## § 1246. Babies' linen woven garments
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1247. Men's or boys' man-made woven sleepwear separates
+## § 1247. Women's sports bras incorporating snaps used to attach a heart rate monitor
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1248. Babies' artificial fibers woven trousers
+## § 1248. Women's shawls and scarves, 100 percent silk
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1249. Babies' linen woven garments
+## § 1249. Batting gloves
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1250. Women's sports bras incorporating a heart rate monitor
+## § 1250. Mechanics' work gloves with fourchettes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1251. Women's shawls and scarves, 100 percent silk
+## § 1251. Fishing wader pocket pouches
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1252. Batting gloves
+## § 1252. Nylon wool packs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1253. Mechanics' work gloves with fourchettes
+## § 1253. Sleeping bag shells
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1254. Fishing wader pocket pouches
+## § 1254. Brake segments
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1255. Nylon wool packs
+## § 1255. Collapsible, stackable polypropylene fabric bins
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1256. Beach shelters
+## § 1256. Certain neoprene smartphone cases with armband
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1257. Tents with floor and integrated LED lighting
+## § 1257. Portable, foldable bowls for pets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1258. Tents with automatic window rollers
+## § 1258. Bee nets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1259. Tents with hinged doors
+## § 1259. Camera chest harnesses
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1260. Six-sided screen houses
+## § 1260. Helmet camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1261. Tent shelters without floors and with LED lighting
+## § 1261. Textile ice bags
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1262. Sleeping bag shells
+## § 1262. Camera wrist strap mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1263. Six-sided canopies
+## § 1263. Certified color swatches with pinked edges
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1264. Brake segments
+## § 1264. Sports footwear for men, valued over $12 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1265. Collapsible, stackable polypropylene fabric bins
+## § 1265. Sports footwear for women, valued over $12 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1266. Certain neoprene smartphone cases with armband
+## § 1266. Men's oil and slip resistant outsole work footwear
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1267. Portable, foldable bowls for pets
+## § 1267. Men's shoes with outer soles and uppers of rubber or plastic
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1268. Bee nets
+## § 1268. Women's protective active shoes, covering ankle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1269. Camera chest harnesses
+## § 1269. Women's protective active footwear, valued over $26 per pair, covering the ankle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1270. Helmet camera mounts
+## § 1270. Men's waterproof shoes with outer soles and uppers of rubber or plastic, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1271. Textile ice bags
+## § 1271. Men's footwear with waterproof soles, valued over $27 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1272. Camera wrist strap mounts
+## § 1272. Polyurethane-injected boots for fishing waders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1273. Certified color swatches with pinked edges
+## § 1273. Men's waterproof shoes with outer soles and uppers of rubber or plastic, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1274. Sports footwear for men, valued over $12 per pair
+## § 1274. Men's shoes with outer soles and uppers of rubber or plastics, valued over $3 but not over $6.50 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1275. Sports footwear for women, valued over $12 per pair
+## § 1275. Men's shoes with outer soles and uppers of rubber or plastics, valued over $6.50 but not over $12 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1276. Men's oil and slip resistant outsole work footwear
+## § 1276. Footwear made on a base or platform of wood
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1277. Men's shoes with outer soles and uppers of rubber or plastic
+## § 1277. Footwear for women, with 90 percent of the external surface of rubber or plastics
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1278. Women's protective active shoes, covering ankle
+## § 1278. Work footwear for women
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1279. Women's protective active footwear, valued over $26 per pair, covering the ankle
+## § 1279. Work footwear for men
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1280. Men's waterproof shoes with outer soles and uppers of rubber or plastic, valued over $25 per pair
+## § 1280. Contoured zoris
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1281. Men's footwear with waterproof soles, valued over $27 per pair
+## § 1281. Sideline cheer shoes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1282. Polyurethane-injected boots for fishing waders
+## § 1282. Men's protective active footwear, not covering the ankle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1283. Men's waterproof shoes with outer soles and uppers of rubber or plastic, valued over $25 per pair
+## § 1283. Women's protective active footwear, not covering the ankle, valued over $24 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1284. Men's shoes with outer soles and uppers of rubber or plastics, valued over $3 but not over $6.50 per pair
+## § 1284. Women's protective active footwear, not covering the ankle, valued over $26 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1285. Men's shoes with outer soles and uppers of rubber or plastics, valued over $6.50 but not over $12 per pair
+## § 1285. Women's waterproof footwear with outer soles and uppers of rubber or plastics, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1286. Footwear made on a base or platform of wood
+## § 1286. Women's footwear with waterproof soles, not covering the ankle, valued over $27 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1287. Footwear for women, with 90 percent of the external surface of rubber or plastics
+## § 1287. Children's footwear with waterproof soles, not covering the ankle, valued over $18 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1288. Work footwear for women
+## § 1288. Women's waterproof footwear with outer soles and uppers of rubber or plastics, not covering the ankle, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1289. Work footwear for men
+## § 1289. Competitive cheer shoe
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1290. Contoured zoris
+## § 1290. Men's & boys' golf shoes with waterproof soles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1291. Sideline cheer shoes
+## § 1291. Women’s footwear made on a base or platform of wood
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1292. Men's protective active footwear, not covering the ankle
+## § 1292. Men's oxford work footwear with composite safety toe
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1293. Women's protective active footwear, not covering the ankle, valued over $24 per pair
+## § 1293. Men's and boys' house slippers with leather uppers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1294. Women's protective active footwear, not covering the ankle, valued over $26 per pair
+## § 1294. Men's waterproof leather footwear, valued at $29 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1295. Women's waterproof footwear with outer soles and uppers of rubber or plastics, valued over $25 per pair
+## § 1295. Men's waterproof leather footwear, valued at $27 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1296. Women's footwear with waterproof soles, not covering the ankle, valued over $27 per pair
+## § 1296. Women's oxford-style composite safety toe footwear
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1297. Children's footwear with waterproof soles, not covering the ankle, valued over $18 per pair
+## § 1297. Children's footwear with leather uppers, valued at $20 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1298. Women's waterproof footwear with outer soles and uppers of rubber or plastics, not covering the ankle, valued over $25 per pair
+## § 1298. Women's footwear with leather uppers, valued at $29 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1299. Competitive cheer shoe
+## § 1299. Women's house slippers with leather uppers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1300. Men's & boys' golf shoes with waterproof soles
+## § 1300. Women's waterproof leather footwear, valued at $27 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1301. Women’s footwear made on a base or platform of wood
+## § 1301. Children's waterproof leather footwear, valued at $18 per pair or over
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1302. Men's oxford work footwear with composite safety toe
+## § 1302. Competitive cheer shoe with leather uppers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1303. Men's and boys' house slippers with leather uppers
+## § 1303. Sports and athletic footwear for women
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1304. Men's waterproof leather footwear, valued at $29 per pair or higher
+## § 1304. Athletic type shoes for boys, girls, and babies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1305. Men's waterproof leather footwear, valued at $27 per pair or higher
+## § 1305. Ski boots and snowboard boots
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1306. Women's oxford-style composite safety toe footwear
+## § 1306. Women's sports footwear with waterproof soles, valued over $20 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1307. Children's footwear with leather uppers, valued at $20 per pair or higher
+## § 1307. Men's sports footwear with waterproof soles, valued over $20 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1308. Women's footwear with leather uppers, valued at $29 per pair or higher
+## § 1308. Men's boots for fishing waders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1309. Women's house slippers with leather uppers
+## § 1309. Women's waterproof footwear with uppers of leather or textiles, covering the ankle, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1310. Women's waterproof leather footwear, valued at $27 per pair or higher
+## § 1310. Women's waterproof footwear with uppers of leather or textiles, not covering the ankle, valued over $25 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1311. Children's waterproof leather footwear, valued at $18 per pair or over
+## § 1311. Women's sheepskin footwear
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1312. Competitive cheer shoe with leather uppers
+## § 1312. Men's, children's, and infants' sheepskin footwear
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1313. Sports and athletic footwear for women
+## § 1313. Footwear for women with textile uppers, valued at $15 per pair or higher
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1314. Athletic type shoes for boys, girls, and babies
+## § 1314. Footwear for women with textile uppers, valued between $10 and $14.99 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1315. Ski boots and snowboard boots
+## § 1315. Women's, children's, and infants' sheepskin footwear
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1316. Women's sports footwear with waterproof soles, valued over $20 per pair
+## § 1316. Women's sheepskin footwear with uppers of textiles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1317. Men's sports footwear with waterproof soles, valued over $20 per pair
+## § 1317. Men's, children's, and infants' sheepskin footwear with uppers of textiles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1318. Men's boots for fishing waders
+## § 1318. Children's footwear with uppers of vegetable fibers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1319. Women's waterproof footwear with uppers of leather or textiles, covering the ankle, valued over $25 per pair
+## § 1319. House slippers with textile uppers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1320. Women's waterproof footwear with uppers of leather or textiles, not covering the ankle, valued over $25 per pair
+## § 1320. Men’s footwear, covering the ankle but not the knee valued over $24 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1321. Women's sheepskin footwear
+## § 1321. Oxford footwear with textile uppers and composite toes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1322. Men's, children's, and infants' sheepskin footwear
+## § 1322. Women's footwear with leather soles and textile uppers, valued at not more than $20 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1323. Footwear for women with textile uppers, valued at $15 per pair or higher
+## § 1323. Women's footwear with leather soles and textile uppers, valued over $20 per pair
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1324. Footwear for women with textile uppers, valued between $10 and $14.99 per pair
+## § 1324. Men's boots for fishing waders with felt outsoles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1325. Women's, children's, and infants' sheepskin footwear
+## § 1325. Novelty house slippers with sound or light
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1326. Women's sheepskin footwear with uppers of textiles
+## § 1326. Men's footwear with felt soles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1327. Men's, children's, and infants' sheepskin footwear with uppers of textiles
+## § 1327. Removable footwear neoprene cuffs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1328. Children's footwear with uppers of vegetable fibers
+## § 1328. Removable insoles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1329. House slippers with textile uppers
+## § 1329. Hats of vegetable fibers, plaited and sewed
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1330. Men’s footwear, covering the ankle but not the knee valued over $24 per pair
+## § 1330. Hats of vegetable fibers, sewn by assembled strips
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1331. Oxford footwear with textile uppers and composite toes
+## § 1331. Hats of vegetable fibers, plaited, not sewn
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1332. Women's footwear with leather soles and textile uppers, valued at not more than $20 per pair
+## § 1332. Hats of vegetable fibers, made by assembling strips, not sewn
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1333. Women's footwear with leather soles and textile uppers, valued over $20 per pair
+## § 1333. Hats containing 23 percent or more of wool
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1334. Men's boots for fishing waders with felt outsoles
+## § 1334. Hats containing less than 23 percent of wool
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1335. Novelty house slippers with sound or light
+## § 1335. Hats of man-made fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1336. Men's footwear with felt soles
+## § 1336. Babies' hats of man-made fiber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1337. Removable footwear neoprene cuffs
+## § 1337. Patio umbrella frame
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1338. Removable insoles
+## § 1338. Plastic plants for aquariums and terrariums
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1339. Hats of vegetable fibers, plaited and sewed
+## § 1339. Plastic plants for aquariums, not glued or bound
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1340. Hats of vegetable fibers, sewn by assembled strips
+## § 1340. Polycrystalline Fibers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1341. Hats of vegetable fibers, plaited, not sewn
+## § 1341. Catalytic converter needled blanket mats with a thickness of 10 mm or more and not over 3 percent of binder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1342. Hats of vegetable fibers, made by assembling strips, not sewn
+## § 1342. Catalytic converter blanket mats with a thickness between 5 mm and 9.9 mm and not over 3 percent of binder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1343. Hats containing 23 percent or more of wood
+## § 1343. Catalytic converter needled blanket mats with a thickness between 5 mm and 9.9 mm and between 3 and 7 percent of binder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1344. Hats containing less than 23 percent of wool
+## § 1344. Catalytic converter needled blanket mats with a thickness of 10 mm or more and between 3 and 7 percent binder
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1345. Hats of man-made fiber
+## § 1345. Large format ultra-compacted ceramic surfaces
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1346. Babies' hats of man-made fiber
+## § 1346. Glass beads from 3 to 6 mm in diameter
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1347. Patio umbrella frame
+## § 1347. Polished wired glass in rectangular sheets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1348. Plastic plants for aquariums and terrariums
+## § 1348. Meniscus-shaped drawn glass-ceramic discs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1349. Plastic plants for aquariums, not glued or bound
+## § 1349. Tempered glass cookware covers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1350. Polycrystalline Fibers
+## § 1350. Transparent glass-ceramic cookware
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1351. Catalytic converter needled blanket mats with a thickness of 10 mm or more and not over 3 percent of binder
+## § 1351. Opaque glass-ceramic cookware
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1352. Catalytic converter blanket mats with a thickness between 5 mm and 9.9 mm and not over 3 percent of binder
+## § 1352. Novelty designed drink coasters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1353. Catalytic converter needled blanket mats with a thickness between 5 mm and 9.9 mm and between 3 and 7 percent of binder
+## § 1353. Blown glass vases measuring between 15.2 cm and 20.4 cm tall
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1354. Catalytic converter needled blanket mats with a thickness of 10 mm or more and between 3 and 7 percent binder
+## § 1354. Blown glass vases measuring between 20.4 cm and 25.4 cm tall
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1355. Large format ultra-compacted ceramic surfaces
+## § 1355. Glassware used for indoor decor
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1356. Glass beads from 3 to 6 mm in diameter
+## § 1356. Chopped strands of glass
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1357. Polished wired glass in rectangular sheets
+## § 1357. Slivers of glass
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1358. Meniscus-shaped drawn glass-ceramic discs
+## § 1358. Liquid-filled glass bulbs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1359. Tempered glass cookware covers
+## § 1359. Silver wire
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1360. Transparent glass-ceramic cookware
+## § 1360. Strips consisting of silver and tin
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1361. Opaque glass-ceramic cookware
+## § 1361. Gauzes made of precious metal
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1362. Novelty designed drink coasters
+## § 1362. Strips consisting of silver, copper, and zinc
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1363. Blown glass vases measuring between 15.2 cm and 20.4 cm tall
+## § 1363. Pins and metal inserts, valued at $0.20 each or less
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1364. Blown glass vases measuring between 20.4 cm and 25.4 cm tall
+## § 1364. Ferroboron
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1365. Glassware used for indoor decor
+## § 1365. Screw anchors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1366. Chopped strands of glass
+## § 1366. Portable gas cooking stove
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1367. Slivers of glass
+## § 1367. Stainless steel handles for cookware
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1368. Liquid-filled glass bulbs
+## § 1368. Vacuum steel hinged lid pitchers not exceeding 1L
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1369. Silver wire
+## § 1369. Small metal wire crate for dogs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1370. Strips consisting of silver and tin
+## § 1370. Large metal wire crate for dogs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1371. Gauzes made of precious metal
+## § 1371. Metal wire cages for pets other than dogs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1372. Strips consisting of silver, copper, and zinc
+## § 1372. Two-story fire escape ladders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1373. Pins and metal inserts, valued at $0.20 each or less
+## § 1373. Three-story fire escape ladders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1374. Ferroboron
+## § 1374. Belts and bandoliers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1375. Screw anchors
+## § 1375. Side press wringer handles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1376. Portable gas cooking stove
+## § 1376. Riser specialty joints
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1377. Stainless steel handles for cookware
+## § 1377. Isosceles triangle wire
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1378. Vacuum steel hinged lid pitchers not exceeding 1L
+## § 1378. Nickel alloy wire
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1379. Small metal wire crate for dogs
+## § 1379. Aluminum mountings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1380. Large metal wire crate for dogs
+## § 1380. Zinc punches
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1381. Metal wire cages for pets other than dogs
+## § 1381. Sintered tungsten bar
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1382. Two-story fire escape ladders
+## § 1382. Gallium unwrought in solid form
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1383. Three-story fire escape ladders
+## § 1383. Germanium unwrought in ingot form
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1384. Belts and bandoliers
+## § 1384. Germanium purified metal ingots
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1385. Side press wringer handles
+## § 1385. Gear driven one-handed pruners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1386. Riser specialty joints
+## § 1386. Non-circular gear driven two-handed pruning shears
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1387. Isosceles triangle wire
+## § 1387. Swivel head grass shears
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1388. Nickel alloy wire
+## § 1388. Tweezers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1389. Aluminum mountings
+## § 1389. Rotary cutting hand tools
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1390. Zinc punches
+## § 1390. Hand tools for applying plastic clip fasteners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1391. Sintered tungsten bar
+## § 1391. Four-inch bench vises
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1392. Gallium unwrought in solid form
+## § 1392. Five-inch bench vises
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1393. Germanium unwrought in ingot form
+## § 1393. Six-inch bench vises
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1394. Germanium purified metal ingots
+## § 1394. Fixed carbide cutter and roller cone drill bits
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1395. Gear driven one-handed pruners
+## § 1395. Fixed diamond cutter and roller cone drill bits
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1396. Non-circular gear driven two-handed pruning shears
+## § 1396. Steel liner insulated coffee servers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1397. Swivel head grass shears
+## § 1397. Vacuum steel lined coffee servers with lids
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1398. Tweezers
+## § 1398. Vacuum steel insulated coffee servers with bases
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1399. Rotary cutting hand tools
+## § 1399. Full tang knives
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1400. Hand tools for applying plastic clip fasteners
+## § 1400. Pet grooming scissors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1401. Four-inch bench vises
+## § 1401. Scissors, valued over $1.75 per dozen
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1402. Five-inch bench vises
+## § 1402. Nail clippers for pets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1403. Six-inch bench vises
+## § 1403. Nail clippers, nail nippers, and nail files
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1404. Fixed carbide cutter and roller cone drill bits
+## § 1404. Manicure and pedicure sets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1405. Fixed diamond cutter and roller cone drill bits
+## § 1405. Padlocks of base metal imported in bulk
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1406. Steel liner insulated coffee servers
+## § 1406. Manual door closers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1407. Vacuum steel lined coffee servers with lids
+## § 1407. Antitheft steel cases with digital locks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1408. Vacuum steel insulated coffee servers with bases
+## § 1408. Recovery boiler economizers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1409. Full tang knives
+## § 1409. Steam turbines with an output between 60 MW and 120 MW
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1410. Pet grooming scissors
+## § 1410. Steam turbines with an output between 27 MW and 40 MW
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1411. Scissors, valued over $1.75 per dozen
+## § 1411. Used compression-ignition internal combustion engines
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1412. Nail clippers for pets
+## § 1412. Engine blocks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1413. Nail clippers, nail nippers, and nail files
+## § 1413. High silicon molybdenum exhaust manifolds
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1414. Manicure and pedicure sets
+## § 1414. Connecting rods
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1415. Padlocks of base metal imported in bulk
+## § 1415. Crankcases
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1416. Manual door closers
+## § 1416. Cylinder heads
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1417. Antitheft steel cases with digital locks
+## § 1417. Pistons
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1418. Recovery boiler economizers
+## § 1418. Fuel pump assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1419. Steam turbines with an output between 60 MW and 120 MW
+## § 1419. High pressure pumps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1420. Steam turbines with an output between 27 MW and 40 MW
+## § 1420. Used fuel pumps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1421. Used compression-ignition internal combustion engines
+## § 1421. Fuel transfer pumps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1422. Engine blocks
+## § 1422. Fuel pumps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1423. High silicon molybdenum exhaust manifolds
+## § 1423. Pumps for vacuums
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1424. Connecting rods
+## § 1424. Exhaust fans for permanent installation
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1425. Crankcases
+## § 1425. Exhaust fans for permanent installation
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1426. Cylinder heads
+## § 1426. Blower subassemblies incorporated into fans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1427. Pistons
+## § 1427. Range hoods
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1428. Fuel pump assemblies
+## § 1428. Pre-assembled pedestal fan column assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1429. High pressure pumps
+## § 1429. Grilles for exhaust fans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1430. Used fuel pumps
+## § 1430. Certain portable air conditioners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1431. Fuel transfer pumps
+## § 1431. Portable air conditioners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1432. Fuel pumps
+## § 1432. Self-contained portable air conditioners
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1433. Pumps for vacuums
+## § 1433. Pressure distillation columns
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1434. Exhaust fans for permanent installation
+## § 1434. Shell and tube oil coolers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1435. Exhaust fans for permanent installation
+## § 1435. Mobile sprinklers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1436. Blower subassemblies incorporated into fans
+## § 1436. Flexographic printers with print speed less than 184 meters per minute
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1437. Range hoods
+## § 1437. Flexographic printing machinery
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1438. Pre-assembled pedestal fan column assemblies
+## § 1438. Shuttleless rapier power looms to weave fabrics
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1439. Grilles for exhaust fans
+## § 1439. Shuttleless, jet type power looms to weave fabrics
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1440. Certain ductless mini split air conditioners
+## § 1440. Miter saws with cut-off
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1441. Air conditioning units
+## § 1441. Table saws
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1442. Certain portable air conditioners
+## § 1442. Certain benchtop band saws
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1443. Portable air conditioners
+## § 1443. Certain stationary band saws
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1444. Self-contained portable air conditioners
+## § 1444. Certain titling arbor table saws
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1445. Self-contained air conditioning units
+## § 1445. Certain table saws with 10 inch (25.4 centimeter) blade
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1446. Pressure distillation columns
+## § 1446. Compound miter saw, 10 inch, without laser
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1447. Shell and tube oil coolers
+## § 1447. Drill presses
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1448. Mobile sprinklers
+## § 1448. Electrical rotary drill, hammer and chiseling tools
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1449. Flexographic printers with print speed less than 184 meters per minute
+## § 1449. Tire assembly machines (TAM)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1450. Flexographic printing machinery
+## § 1450. Catty whack
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1451. Shuttleless rapier power looms to weave fabrics
+## § 1451. Fly by spinner toys
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1452. Shuttleless, jet type power looms to weave fabrics
+## § 1452. Vehicle stability control actuator assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1453. Miter saws with cut-off
+## § 1453. Hydraulic subsea jumper connectors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1454. Table saws
+## § 1454. Bird in a cage
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1455. Certain benchtop band saws
+## § 1455. Mouse in a pouch
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1456. Certain stationary band saws
+## § 1456. Telescope mirror segment support assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1457. Certain titling arbor table saws
+## § 1457. Segmented compression molds of more than 25-inch rim diameter
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1458. Certain table saws with 10 inch (25.4 centimeter) blade
+## § 1458. Valve-type fuel injectors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1459. Compound miter saw, 10 inch, without laser
+## § 1459. Dosing module injectors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1460. Drill presses
+## § 1460. Regulator valves
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1461. Electrical rotary drill, hammer and chiseling tools
+## § 1461. Fuel injectors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1462. Tire assembly machines (TAM)
+## § 1462. Subsea flow modules
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1463. Catty whack
+## § 1463. Crankshafts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1464. Fly by spinner toys
+## § 1464. Used camshafts and crankshafts for diesel engines
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1465. Vehicle stability control actuator assemblies
+## § 1465. Crankshafts for engines with cylinder capacity exceeding 19,000 cubic centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1466. Hydraulic subsea jumper connectors
+## § 1466. Crankshaft bearings
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1467. Bird in a cage
+## § 1467. Used transmissions
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1468. Mouse in a pouch
+## § 1468. Flexplates for engines with cylinder capacity between 6,000 and 20,000 cubic centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1469. Telescope mirror segment support assemblies
+## § 1469. Flexplates for engines with cylinder capacity between 1,000 and 5,900 cubic centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1470. Segmented compression molds of more than 25-inch rim diameter
+## § 1470. Ring gears
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1471. Valve-type fuel injectors
+## § 1471. Electromechanical rotational actuator assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1472. Dosing module injectors
+## § 1472. Power back door actuator assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1473. Regulator valves
+## § 1473. Direct current pump motors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1474. Fuel injectors
+## § 1474. Motor assemblies for electric box fans with output between 37.5 watts and 74.6 watts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1475. Subsea flow modules
+## § 1475. Motor assemblies for oscillating fans with output between 37.5 watts and 72 watts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1476. Crankshafts
+## § 1476. Motors for low wattage fans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1477. Used camshafts and crankshafts for diesel engines
+## § 1477. Motor assemblies for air circulator electric fans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1478. Crankshafts for engines with cylinder capacity exceeding 20,000 cubic centimeters NOTE: Should this read 19,000?
+## § 1478. Motors for high wattage fans
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1479. Crankshaft bearings
+## § 1479. Alternating current multiphase submersible pump motors with output between 3 kilowatts and 14.92 kilowatts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1480. Used transmissions
+## § 1480. Alternating current multiphase submersible pump motors with output between 149.2 kilowatts and 150 kilowatts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1481. Flexplates for engines with cylinder capacity between 6,000 and 20,000 cubic centimeters
+## § 1481. Alternating current generators for exercise equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1482. Flexplates for engines with cylinder capacity between 1,000 and 5,900 cubic centimeters
+## § 1482. Electric generating sets with natural gas engines
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1483. Ring gears
+## § 1483. Stator and rotor core laminations
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1484. Electromechanical rotational actuator assemblies
+## § 1484. Universal serial bus (USB) auto chargers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1485. Power back door actuator assemblies
+## § 1485. Fuel shutoff solenoids
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1486. Direct current pump motors
+## § 1486. Lithium polymer rechargeable batteries
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1487. Motor assemblies for electric box fans with output between 37.5 watts and 74.6 watts
+## § 1487. Annular shaped lithium thionyl chloride (LTC) batteries
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1488. Motor assemblies for oscillating fans with output between 37.5 watts and 72 watts
+## § 1488. Cylindrical shaped lithium thionyl chloride (LTC) batteries
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1489. Motors for low wattage fans
+## § 1489. Electric burr coffee grinders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1490. Motor assemblies for air circulator electric fans
+## § 1490. Electric food spiralizing appliances
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1491. Motors for high wattage fans
+## § 1491. Electric cylindrical coffee grinders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1492. Alternating current multiphase submersible pump motors with output between 3 kilowatts and 14.92 kilowatts
+## § 1492. Electromechanical knives
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1493. Alternating current multiphase submersible pump motors with output between 149.2 kilowatts and 150 kilowatts
+## § 1493. Automatic litterboxes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1494. Alternating current generators for exercise equipment
+## § 1494. Automatic food feeders for dogs and cats
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1495. Electric generating sets with natural gas engines
+## § 1495. Automatic pet waterers for dogs and cats
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1496. Stator and rotor core laminations
+## § 1496. Automatic fish feeders
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1497. Universal serial bus (USB) auto chargers
+## § 1497. Electric knives
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1498. Fuel shutoff solenoids
+## § 1498. Handheld electric can openers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1499. Lithium polymer rechargeable batteries
+## § 1499. Food beaters designed to attach to handheld mixers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1500. Annular shaped lithium thionyl chloride (LTC) batteries
+## § 1500. Dough hooks designed to attach to handheld mixers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1501. Cylindrical shaped lithium thionyl chloride (LTC) batteries
+## § 1501. Electrothermic bowls for food stand mixers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1502. Electric burr coffee grinders
+## § 1502. Metal bowls for use with food stand mixers with capacity of more than 4.7 liters and not more than 8.6 liters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1503. Electric food spiralizing appliances
+## § 1503. Metal bowls for use with food stand mixers with capacity of more than 3.3 liters and not more than 4.8 liters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1504. Electric cylindrical coffee grinders
+## § 1504. Used starters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1505. Electromechanical knives
+## § 1505. Alternators
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1506. Automatic litterboxes
+## § 1506. Used alternators
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1507. Automatic food feeders for dogs and cats
+## § 1507. Parking sensors, signaling equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1508. Automatic pet waterers for dogs and cats
+## § 1508. Bulb heaters with or without a fan
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1509. Automatic fish feeders
+## § 1509. Heater fan lights for permanent installation
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1510. Electric knives
+## § 1510. Wall heaters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1511. Handheld electric can openers
+## § 1511. Cordless steam irons
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1512. Food beaters designed to attach to handheld mixers
+## § 1512. Electric steam irons
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1513. Dough hooks designed to attach to handheld mixers
+## § 1513. Microwave hoods with a plastic handle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1514. Electrothermic bowls for food stand mixers
+## § 1514. Microwave hoods with a metal handle
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1515. Metal bowls for use with food stand mixers with capacity of more than 4.7 liters and not more than 8.6 liters
+## § 1515. Microwave hoods with 53 to 55 liter capacity
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1516. Metal bowls for use with food stand mixers with capacity of more than 3.3 liters and not more than 4.8 liters
+## § 1516. Microwave hoods with 58 to 60 liter capacity
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1517. Used starters
+## § 1517. Microwave hoods with 58 to 60 liter capacity and large turntable plates
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1518. Alternators
+## § 1518. Microwave hoods with 53 to 55 liter capacity and large turntable plates
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1519. Used alternators
+## § 1519. Microwave hoods with 56 to 58 liter capacity
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1520. Parking sensors, signaling equipment
+## § 1520. Microwave hoods with rectangular plate
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1521. Bulb heaters with or without a fan
+## § 1521. Vertical waffle makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1522. Heater fan lights for permanent installation
+## § 1522. Multifunction grills
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1523. Wall heaters
+## § 1523. Electric sandwich grillers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1524. Cordless steam irons
+## § 1524. Automatic drip coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1525. Electric steam irons
+## § 1525. Automatic pour over coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1526. Microwave hoods with a plastic handle
+## § 1526. Automatic siphon coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1527. Microwave hoods with a metal handle
+## § 1527. Automatic glass tea kettles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1528. Microwave hoods with 53 to 55 liter capacity
+## § 1528. Single serving capsule coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1529. Microwave hoods with 58 to 60 liter capacity
+## § 1529. Electrothermic espresso makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1530. Microwave hoods with 58 to 60 liter capacity and large turntable plates
+## § 1530. Front-loading coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1531. Microwave hoods with 53 to 55 liter capacity and large turntable plates
+## § 1531. Carafe-less coffee makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1532. Microwave hoods with 56 to 58 liter capacity
+## § 1532. Built-in coffee machines
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1533. Microwave hoods with rectangular plate
+## § 1533. Toaster ovens with a pop-up toaster feature
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1534. Vertical waffle makers
+## § 1534. Automatic painted metal hot water kettles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1535. Multifunction grills
+## § 1535. Automatic cylindrical metal hot water kettles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1536. Electric sandwich grillers
+## § 1536. Multicooker slow cookers with 5 cooking functions
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1537. Automatic drip coffee makers
+## § 1537. Multicooker slow cookers with 3 cooking functions
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1538. Automatic pour over coffee makers
+## § 1538. Swing and serve slow cookers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1539. Automatic siphon coffee makers
+## § 1539. Electric breakfast sandwich makers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1540. Automatic glass tea kettles
+## § 1540. Electric multi-cookers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1541. Single serving capsule coffee makers
+## § 1541. Programmable slow cookers with thermometer probe
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1542. Electrothermic espresso makers
+## § 1542. Electric pressure cookers rated more than 1000 watts but not more than 1200 watts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1543. Front-loading coffee makers
+## § 1543. Electric rice cookers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1544. Carafe-less coffee makers
+## § 1544. Electric pressure cookers rated more than 1200 watts but not more than 1400 watts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1545. Built-in coffee machines
+## § 1545. Electric pressure cookers rated more than 800 watts but not more than 1000 watts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1546. Toaster ovens with a pop-up toaster feature
+## § 1546. Electric oil popcorn poppers and tumblers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1547. Automatic painted metal hot water kettles
+## § 1547. Candle warmers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1548. Automatic cylindrical metal hot water kettles
+## § 1548. Garment steamers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1549. Multicooker slow cookers with 5 cooking functions
+## § 1549. Vacuum steel insulated coffee carafes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1550. Multicooker slow cookers with 3 cooking functions
+## § 1550. Steel vacuum pitchers with plastic hinged lid
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1551. Swing and serve slow cookers
+## § 1551. Flat panel liquid crystal display (LCD) televisions for exercise equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1552. Electric breakfast sandwich makers
+## § 1552. Ground fault circuit interrupters rated at 15 amps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1553. Electric multi-cookers
+## § 1553. Ground fault circuit interrupters rated at 20 amps
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1554. Programmable slow cookers with thermometer probe
+## § 1554. Arc fault circuit interrupters or dual function arc fault and ground fault circuit interrupters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1555. Electric pressure cookers rated more than 1000 watts but not more than 1200 watts
+## § 1555. Lamp-holder housings of porcelain
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1556. Electric rice cookers
+## § 1556. Chassis or shelving containing backplane
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1557. Electric pressure cookers rated more than 1200 watts but not more than 1400 watts
+## § 1557. Printed board assemblies for circuit breakers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1558. Electric pressure cookers rated more than 800 watts but not more than 1000 watts
+## § 1558. Lamps containing deuterium gas without radio-frequency identification (RFID)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1559. Electric oil popcorn poppers and tumblers
+## § 1559. Lamps containing deuterium gas with radio-frequency identification (RFID)
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1560. Candle warmers
+## § 1560. Cathode-ray tubes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1561. Garment steamers
+## § 1561. Mirror segment controller sensors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1562. Vacuum steel insulated coffee carafes
+## § 1562. Insulated electric conductors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1563. Steel vacuum pitchers with plastic hinged lid
+## § 1563. Mitsubishi Fuso eCanter trucks
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1564. Flat panel liquid crystal display (LCD) televisions for exercise equipment
+## § 1564. Electric commercial vehicles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1565. Ground fault circuit interrupters rated at 15 amps
+## § 1565. Cabs and bodies for electric vehicles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1566. Ground fault circuit interrupters rated at 20 amps
+## § 1566. Used gear boxes for certain vehicles for the transportation of goods
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1567. Arc fault circuit interrupters or dual function arc fault and ground fault circuit interrupters
+## § 1567. Gear boxes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1568. Lamp-holder housings of porcelain
+## § 1568. Used gear boxes for certain other vehicles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1569. Chassis or shelving containing backplane
+## § 1569. Differentials
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1570. Printed board assemblies for circuit breakers
+## § 1570. Suspension system stabilizer bars
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1571. Lamps containing deuterium gas without radio-frequency identification (RFID)
+## § 1571. Mufflers and exhaust pipes and parts thereof
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1572. Lamps containing deuterium gas with radio-frequency identification (RFID)
+## § 1572. Stand-up bicycles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1573. Cathode-ray tubes
+## § 1573. Elliptical cycles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1574. Mirror segment controller sensors
+## § 1574. Unicycles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1575. Insulated electric conductors
+## § 1575. Bicycle disc brakes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1576. Mitsubishi Fuso eCanter trucks
+## § 1576. Zee cages
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1577. Electric commercial vehicles
+## § 1577. Bicycle wide angle reflectors
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1578. Cabs and bodies for electric vehicles
+## § 1578. Baby strollers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1579. Used gear boxes for certain vehicles for the transportation of goods
+## § 1579. Baby stroller systems
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1580. Gear boxes
+## § 1580. Projection lenses with a focal length of 1.13 meters or more but not over 36.94 meters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1581. Used gear boxes for certain other vehicles
+## § 1581. Projection lenses with a focal length of 19.68 millimeters or more but not over 132 millimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1582. Differentials
+## § 1582. Swim goggles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1583. Suspension system stabilizer bars
+## § 1583. Projection screens
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1584. Mufflers and exhaust pipes and parts thereof
+## § 1584. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring not over 58.42 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1585. Stand-up bicycles
+## § 1585. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 58.42 centimeters but not over 78.74 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1586. Elliptical cycles
+## § 1586. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 78.74 centimeters but not over 81.28 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1587. Unicycles
+## § 1587. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 81.28 centimeters but not over 99.06 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1588. Bicycle disc brakes
+## § 1588. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 99.06 centimeters but not over 101.6 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1589. Zee cages
+## § 1589. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 101.6 centimeters but not over 124.46 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1590. Bicycle wide angle reflectors
+## § 1590. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 124.46 centimeters but not over 137.16 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1591. Baby strollers
+## § 1591. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 137.16 centimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1592. Baby stroller systems
+## § 1592. Optical attenuators
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1593. Projection lenses with a focal length of 1.13 meters or more but not over 36.94 meters
+## § 1593. Bicycle speedometers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1594. Projection lenses with a focal length of 19.68 millimeters or more but not over 132 millimeters
+## § 1594. Wide-band oscilloscopes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1595. Swim goggles
+## § 1595. Oscilloscopes
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1596. Projection screens
+## § 1596. Multimeters, without recording device, bench top
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1597. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring not over 58.42 centimeters
+## § 1597. Multimeters, without recording device, handheld
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1598. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 58.42 centimeters but not over 78.74 centimeters
+## § 1598. PXI multimeters, without recording device, module
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1599. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 78.74 centimeters but not over 81.28 centimeters
+## § 1599. Multimeters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1600. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 81.28 centimeters but not over 99.06 centimeters
+## § 1600. Impedance analyzers having a frequency range of 20 hertz to 120 megahertz
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1601. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 99.06 centimeters but not over 101.6 centimeters
+## § 1601. Electromagnetic interference receivers having a frequency band range of 3 hertz to 44 gigahertz
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1602. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 101.6 centimeters but not over 124.46 centimeters
+## § 1602. Oscilloscope calibration tools
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1603. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 124.46 centimeters but not over 137.16 centimeters
+## § 1603. Local area network extensions for instrumentation (LXI) data acquisition and switch units
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1604. Liquid crystal display (LCD) television panel assemblies with a video display diagonal measuring over 137.16 centimeters
+## § 1604. Oscilloscope calibration tools with five channels
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1605. Optical attenuators
+## § 1605. Signal generators
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1606. Bicycle speedometers
+## § 1606. Oscilloscope calibration tools
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1607. Wide-band oscilloscopes
+## § 1607. Chiming melody battery operated clock movements
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1608. Oscilloscopes
+## § 1608. Mechanical clock movements
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1609. Multimeters, without recording device, bench top
+## § 1609. Chime melody rod assemblies
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1610. Multimeters, without recording device, handheld
+## § 1610. Pillows, cushions, and similar furnishings of cotton
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1611. PXI multimeters, without recording device, module
+## § 1611. Pillows, cushions, and similar furnishings of material other than cotton
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1612. Multimeters
+## § 1612. Light emitting diode (LED) hanging lamps with total internal reflection
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1613. Impedance analyzers having a frequency range of 20 hertz to 120 megahertz
+## § 1613. Light emitting diode (LED) lamps, mounting options, bases, clamps, and mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1614. Electromagnetic interference receivers having a frequency band range of 3 hertz to 44 gigahertz
+## § 1614. Electric table or desk light emitting diode (LED) task lamps with ball joints
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1615. Oscilloscope calibration tools
+## § 1615. Light emitting diode (LED) task lamps that reflect light from LED
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1616. Local area network extensions for instrumentation (LXI) data acquisition and switch units
+## § 1616. Light emitting diode (LED) motion activated security lanterns
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1617. Oscilloscope calibration tools with five channels
+## § 1617. Exterior emergency lights
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1618. Signal generators
+## § 1618. Wing illumination lights
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1619. Oscilloscope calibration tools
+## § 1619. Lantern globes of extruded borosilicate glass
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1620. Chiming melody battery operated clock movements
+## § 1620. Ski bindings valued not more than $55 each
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1621. Mechanical clock movements
+## § 1621. Golf club driver heads with a loft of 9.5 degrees
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1622. Chime melody rod assemblies
+## § 1622. Golf club driver heads with a loft over 9.5 degrees
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1623. Pillows, cushions, and similar furnishings of cotton
+## § 1623. Golf club driver heads with a loft under 9.5 degrees
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1624. Pillows, cushions, and similar furnishings of material other than cotton
+## § 1624. Iron head golf clubs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1625. Light emitting diode (LED) hanging lamps with total internal reflection
+## § 1625. Golf club hybrid heads
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1626. Light emitting diode (LED) lamps, mounting options, bases, clamps, and mounts
+## § 1626. Golf club wedge heads with a loft of 56 degrees or less
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1627. Electric table or desk light emitting diode (LED) task lamps with ball joints
+## § 1627. Golf club iron heads of 6-Irons and 7-Irons
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1628. Light emitting diode (LED) task lamps that reflect light from LED
+## § 1628. Golf club iron heads of 8-Irons and 9-Irons
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1629. Light emitting diode (LED) motion activated security lanterns
+## § 1629. Golf club heads with a loft greater than 56 degrees
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1630. Exterior emergency lights
+## § 1630. Golf club putter heads
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1631. Wing illumination lights
+## § 1631. Tennis rackets, strung
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1632. Lantern globes of extruded borosilicate glass
+## § 1632. Tennis racket frames, unstrung
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1633. Ski bindings valued not more than $55 each
+## § 1633. Racquetball rackets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1634. Golf club driver heads with a loft of 9.5 degrees
+## § 1634. Squash rackets
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1635. Golf club driver heads with a loft over 9.5 degrees
+## § 1635. Volleyballs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1636. Golf club driver heads with a loft under 9.5 degrees
+## § 1636. Basketballs other than leather or rubber
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1637. Iron head golf clubs
+## § 1637. Leather basketballs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1638. Golf club hybrid heads
+## § 1638. Rubber basketballs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1639. Golf club wedge heads with a loft of 56 degrees or less
+## § 1639. Racquetballs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1640. Golf club iron heads of 6-Irons and 7-Irons
+## § 1640. Bluetooth enabled fitness equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1641. Golf club iron heads of 8-Irons and 9-Irons
+## § 1641. Certain fitness equipment, tread climbers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1642. Golf club heads with a loft greater than 56 degrees
+## § 1642. Fitness equipment incorporating several modalities
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1643. Golf club putter heads
+## § 1643. Exercise and yoga mats
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1644. Tennis rackets, strung
+## § 1644. Bluetooth enabled multimodality fitness equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1645. Tennis racket frames, unstrung
+## § 1645. Speed bags and related equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1646. Racquetball rackets
+## § 1646. Exercise cycles
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1647. Squash rackets
+## § 1647. Certain bluetooth enabled adjustable dumbbells
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1648. Volleyballs
+## § 1648. Certain adjustable dumbbells with rotating single handle grips
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1649. Basketballs other than leather or rubber
+## § 1649. Bluetooth enabled multimodality fitness equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1650. Leather basketballs
+## § 1650. Certain adjustable dumbbells with rotating end dials
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1651. Rubber basketballs
+## § 1651. Inflatable tetherballs
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1652. Racquetballs
+## § 1652. Athletic mouth guards
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1653. Bluetooth enabled fitness equipment
+## § 1653. Boxing and mixed martial arts (MMA) protective equipment
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1654. Certain fitness equipment, tread climbers
+## § 1654. Fishing rods, 1-piece, of fiberglass and graphite
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1655. Fitness equipment incorporating several modalities
+## § 1655. Fishing reels valued more than $2.70 but not more than $8.45, pre-spooled, with rod
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1656. Exercise and yoga mats
+## § 1656. Hair-slides with imitation pearls or stones
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1657. Bluetooth enabled multimodality fitness equipment
+## § 1657. Hair-slides without imitation pearls or stones
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1658. Speed bags and related equipment
+## § 1658. Eyelash curlers
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1659. Exercise cycles
+## § 1659. Vacuum glass lined steel coffee servers over 2 liters
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1660. Certain bluetooth enabled adjustable dumbbells
+## § 1660. Vacuum glass coffee servers with top lever action
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1661. Certain adjustable dumbbells with rotating single handle grips
+## § 1661. Vacuum glass lined coffee servers with sight gauge
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1662. Bluetooth enabled multimodality fitness equipment
+## § 1662. Vacuum steel lined coffee servers with sight gauge
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1663. Certain adjustable dumbbells with rotating end dials
+## § 1663. Tripod camera mounts
 
 Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
 
-## § 1664. Inflatable tetherballs
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1665. Athletic mouth guards
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1666. Boxing and mixed martial arts (MMA) protective equipment
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1667. Fishing rods, 1-piece, of fiberglass and graphite
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1668. Fishing reels valued more than $2.70 but not more than $8.45, pre-spooled, with rod
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1669. Hair-slides with imitation pearls or stones
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1670. Hair-slides without imitation pearls or stones
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1671. Eyelash curlers
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1672. Vacuum glass lined steel coffee servers over 2 liters
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1673. Vacuum glass coffee servers with top lever action
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1674. Vacuum glass lined coffee servers with sight gauge
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1675. Vacuum steel lined coffee servers with sight gauge
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1676. Tripod camera mounts
-
-Subchapter II of chapter 99 is amended by inserting in numerical sequence the following new heading:
-
-## § 1677. Effective date
+## § 1664. Effective date
 
 The amendments made by this Act apply to goods entered, or withdrawn from warehouse for consumption, on or after the 30th day after the date of the enactment of this Act.
+
+## § 1665. Customs user fees
+
+Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “January 14, 2026” and inserting “April 22, 2026”.
