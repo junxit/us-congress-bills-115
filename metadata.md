@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4578
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4578
@@ -23,9 +23,10 @@ Counter Terrorist Network Act
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Counter Terrorist Network Act
 - 2018-01-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 17). (text: CR 1/9/2018 H40)
 - 2018-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 17).(text: CR 1/9/2018 H40)
+- 2018-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
