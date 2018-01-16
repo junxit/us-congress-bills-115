@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4708
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4708
@@ -43,3 +43,4 @@ Department of Homeland Security Blue Campaign Authorization Act
 - 2018-01-11 — Mr. McCaul asked unanimous consent to discharge from the Committees on Homeland Security and the Judiciary and consider.
 - 2018-01-11 — On passage Passed without objection. (text: CR H161)
 - 2018-01-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H161)
+- 2018-01-16 — Received in the Senate, read twice.
