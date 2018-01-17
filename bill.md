@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3326
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ This Act may be cited as the “World Bank Accountability Act of 2017”.
     - **(A)** shall be withheld from disbursement until the conditions of paragraph (2) or (3) are satisfied; and
     - **(B)**
       - **(i)** shall be disbursed after the conditions of paragraph (2) are satisfied; and
-      - **(ii)** may be disbursed after the conditions of paragraph (3) are satisfied
+      - **(ii)** may be disbursed after the conditions of paragraph (3) are satisfied.
   - **(2)** *Initial conditions* The conditions of this paragraph are satisfied with respect to the amounts provided in appropriations Acts for a fiscal year if, in the fiscal year, the Secretary of the Treasury reports to the appropriate congressional committees that the International Bank for Reconstruction and Development—
     - **(A)** is implementing institutional incentives, including through formal staff evaluation criteria, that prioritize poverty reduction, development outcomes, and capable project management over the volume of the Bank’s lending and grantmaking;
     - **(B)** is taking steps to address the management failures described in Inspection Panel Investigation Report 106710–UG, and to prevent their recurrence in countries that are eligible for World Bank support; and
@@ -31,9 +31,9 @@ This Act may be cited as the “World Bank Accountability Act of 2017”.
     - **(A)** shall be withheld from disbursement until the conditions of paragraph (2) or (3) are satisfied; and
     - **(B)**
       - **(i)** shall be disbursed after the conditions of paragraph (2) are satisfied; and
-      - **(ii)** may be disbursed after the conditions of paragraph (3) are satisfied
+      - **(ii)** may be disbursed after the conditions of paragraph (3) are satisfied.
   - **(2)** *Initial conditions* The conditions of this paragraph are satisfied with respect to the amounts provided in appropriations Acts for a fiscal year if, in the fiscal year, the Secretary of the Treasury reports to the appropriate congressional committees that the International Bank for Reconstruction and Development—
-    - **(A)** is emphasizing in appropriate operational policies, directives, and country strategies its support for secure property rights, due process of law, and economic freedom as essential conditions for sustained poverty reduction in World Bank borrowing countries;
+    - **(A)** is emphasizing in appropriate operational policies, directives, and country strategies its support for secure property rights, due process of law, and economic freedom, including reduction of government barriers to entrepreneurship, as essential conditions for sustained poverty reduction in World Bank borrowing countries;
     - **(B)**
       - **(i)** in the preceding fiscal year, has not approved any loans or grants assistance by the Bank to a country designated by the United States as a state sponsor of terrorism; and
       - **(ii)** is strengthening the ability of Bank-funded projects to undermine violent extremism;
@@ -44,7 +44,7 @@ This Act may be cited as the “World Bank Accountability Act of 2017”.
 
 ## § 3. Reports to Congress
 
-The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the report required by section 1701 of the International Financial Institutions Act for each of fiscal years 2018 through 2023 a detailed description of the actions undertaken by the International Bank for Reconstruction and Development in the fiscal year covered by the report to institute the measures described in subsections (a)(2) and (b)(2) of section 2 of this Act.
+The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the report required by section 1701 of the International Financial Institutions Act for each of fiscal years 2018 through 2023 a detailed description of the actions undertaken by the International Bank for Reconstruction and Development in the fiscal year covered by the report to institute the measures described in subsections (a)(2) and (b)(2) of section 2 of this Act, to institute the measures described in section 203 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (8 U.S.C. 1375c), and to ensure that persons to whom a G–5 visa (as defined in such section 203) has been issued and who are employed by a diplomat or staff of the Bank are informed of their rights and protections under such section 203.
 
 ## § 4. Opposition to World Bank assistance for government that fails to implement or enforce measures required under an applicable United Nations Security Council resolution
 
@@ -52,7 +52,11 @@ The Bretton Woods Agreements Act (22 U.S.C. 286 et seq.) is amended by adding at
 
 > ## § 73. Opposition to assistance for government that fails to implement or enforce measures required under an applicable United Nations Security Council resolution
 >
-> The Secretary of the Treasury should instruct the United States Executive Director at the International Bank for Reconstruction and Development to use the voice and vote of the United States to oppose the provision of assistance to the government of a borrowing country of the International Development Association if the President of the United States determines that the government has knowingly failed to implement or enforce sanctions required under an applicable United Nations Security Council resolution (as defined in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122; 22 U.S.C. 9202)) that is in effect.
+> - **(a)** *In General* The Secretary of the Treasury shall instruct the United States Executive Director at the International Bank for Reconstruction and Development to use the voice and vote of the United States to oppose the provision of financial assistance, other than assistance to support basic human needs, to the government of a borrowing country of the International Development Association if the President of the United States determines that the government has knowingly failed to implement or enforce sanctions required under an applicable United Nations Security Council resolution (as defined in section 3 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122; 22 U.S.C. 9202)) that is in effect.
+> - **(b)** *Waiver* The President may waive subsection (a) for not more than 180 days at a time with respect to a foreign government if the President reports to the Congress that—
+>   - **(1)** the failure described in subsection (a) by the foreign government is due exclusively to a lack of capacity of the foreign government;
+>   - **(2)** the foreign government is taking effective steps to prevent the failure from recurring; or
+>   - **(3)** the waiver is vital to the national security interests of the United States.
 
 ## § 5. Eighteenth replenishment of the International Development Association; reduction from IDA-17 authorized level
 
