@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4811
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4811
+
+> To provide for grants from the Attorney General to local education agencies to purchase and install devices that would allow for the immediate notification of appropriate officials in case of emergency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Securing Our Schools Act of 2018”.
+
+## § 2. Pilot program
+
+- **(a)** *In general* For each of fiscal years 2019 through 2022, the Attorney General may make a grant to a local education agency to acquire and install a device that allows for immediate notification of emergency response personnel, law enforcement, or other appropriate officials (as determined by the local education agency) in the case of an emergency, including a health emergency, reports of an assailant armed with a weapon, an act of terrorism, a natural disaster, or other similar emergency, as determined by the local education agency.
+- **(b)** *Application* An application for a grant under this section shall be submitted at such time, in such manner, and containing such information as the Attorney General may require.
+- **(c)** *Matching requirement* The portion of the costs of a device acquired and installed pursuant to this section that is provided by a grant under subsection (a) may not exceed 75 percent.
+- **(d)** *Maximum amount of grant* A grant under this section may not be in an amount greater than $200,000 for fiscal year.
+- **(e)** *Term of grant* A grant under this section shall be for a term of one fiscal year.
