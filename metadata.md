@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4279
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4279
@@ -41,3 +41,7 @@ Expanding Investment Opportunities Act
 - 2018-01-16 — Placed on the Union Calendar, Calendar No. 386.
 - 2018-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-517.
 - 2018-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-517.
+- 2018-01-17 — Considered as unfinished business. (consideration: CR H454)
+- 2018-01-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 25). (text: CR 1/16/2018 H183)
+- 2018-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 25).(text: CR 1/16/2018 H183)
