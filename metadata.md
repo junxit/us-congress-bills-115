@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2897
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2897
@@ -20,10 +20,11 @@ To authorize the Mayor of the District of Columbia and the Director of the Natio
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Oversight and Accountability Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To authorize the Mayor of the District of Columbia and the Director of the Natio
 - 2018-01-16 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2018-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H394)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H394)
+- 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
