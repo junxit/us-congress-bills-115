@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4258
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,7 +34,7 @@ This Act may be cited as the “Family Self-Sufficiency Act”.
   - **(5)** by inserting after subsection (b), as amended, the following:
     > - **(c)** *Eligibility*
     >   - **(1)** *Eligible families* A family is eligible to participate in a local Family Self-Sufficiency program under this section if—
-    >     - **(A)** at least 1 household member seeks to become and remain employed in suitable employment or to increase earnings; and
+    >     - **(A)** at least one household member seeks to become and remain employed in suitable employment or to increase earnings; and
     >     - **(B)** the household member receives direct assistance under section 8 or resides in a unit assisted under section 8 or 9.
     >   - **(2)** *Eligible entities* The following entities are eligible to administer a local Family Self-Sufficiency program under this section:
     >     - **(A)** A public housing agency administering housing assistance to or on behalf of an eligible family under section 8 or 9.
@@ -72,7 +72,7 @@ This Act may be cited as the “Family Self-Sufficiency Act”.
         - **(I)** by striking “public housing agency” and inserting “eligible entity”; and
         - **(II)** by striking “of the agency”;
     - **(D)** by amending paragraph (4) to read as follows:
-      > - **(4)** *Employment* The contract of participation shall require 1 household member of the participating family to seek and maintain suitable employment.
+      > - **(4)** *Employment* The contract of participation shall require one household member of the participating family to seek and maintain suitable employment.
 
     - **(E)** by adding at the end the following:
       > - **(5)** *Nonparticipation* Assistance under section 8 or 9 for a family that elects not to participate in a Family Self-Sufficiency program shall not be delayed by reason of such election.
@@ -136,14 +136,14 @@ This Act may be cited as the “Family Self-Sufficiency Act”.
     >       - **(i)** *First priority* Renewal of the full cost of all coordinators in the previous year at each eligible entity with an existing Family Self-Sufficiency program that meets applicable performance standards set by the Secretary.
     >       - **(ii)** *Second priority* New or incremental coordinator funding authorized under this section.
     >     - **(B)** *Guidance* If the first priority, as described in subparagraph (A)(i), cannot be fully satisfied, the Secretary may prorate the funding for each eligible entity, as long as—
-    >       - **(i)** each eligible entity that has received funding for at least 1 part-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 part-time coordinator as part of any such proration; and
-    >       - **(ii)** each eligible entity that has received funding for at least 1 full-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 full-time coordinator as part of any such proration.
+    >       - **(i)** each eligible entity that has received funding for at least one part-time coordinator in the prior fiscal year is provided sufficient funding for at least one part-time coordinator as part of any such proration; and
+    >       - **(ii)** each eligible entity that has received funding for at least one full-time coordinator in the prior fiscal year is provided sufficient funding for at least one full-time coordinator as part of any such proration.
     >   - **(4)** *Recapture or offset* Any awards allocated under this subsection by the Secretary in a fiscal year that have not been spent by the end of the subsequent fiscal year or such other time period as determined by the Secretary may be recaptured by the Secretary and shall be available for providing additional awards pursuant to paragraph (2)(B), or may be offset as determined by the Secretary. Funds appropriated pursuant to this section shall remain available for 3 years in order to facilitate the re-use of any recaptured funds for this purpose.
     >   - **(5)** *Performance reporting* Programs under this section shall be required to report the number of families enrolled and graduated, the number of established escrow accounts and positive escrow balances, and any other information that the Secretary may require. Program performance shall be reviewed periodically as determined by the Secretary.
     >   - **(6)** *Incentives for innovation and high performance* The Secretary may reserve up to 5 percent of the amounts made available under this subsection to provide support to or reward Family Self-Sufficiency programs based on the rate of successful completion, increased earned income, or other factors as may be established by the Secretary.
 
   - **(12)** in subsection (j)—
-    - **(A)** by striking “public housing agency” and inserting “eligible entity”;
+    - **(A)** by striking “public housing agency” the first place such term appears and inserting “eligible entity”;
     - **(B)** by striking “public housing” before “units”;
     - **(C)** by striking “in public housing projects administered by the agency”;
     - **(D)** by inserting “or coordination” after “provision”; and

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4258
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -287,7 +287,7 @@ to guess them.
 
 ### 42 U.S.C. § 1437u
 
-> by striking “public housing agency” and inserting “eligible entity”;
+> by striking “public housing agency” the first place such term appears and inserting “eligible entity”;
 
 | | |
 |---|---|
