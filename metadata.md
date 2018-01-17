@@ -1,7 +1,7 @@
 ---
 measure: H.R. 770
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 770
@@ -50,9 +50,10 @@ American Innovation $1 Coin Act
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ American Innovation $1 Coin Act
 - 2018-01-16 — Mr. Duffy moved to suspend the rules and pass the bill, as amended.
 - 2018-01-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H181-182)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H181-182)
+- 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
