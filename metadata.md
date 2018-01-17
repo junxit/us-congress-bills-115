@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1107
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1107
@@ -22,9 +22,10 @@ Pershing County Economic Development and Conservation Act
 - Rep. Rosen, Jacky [D-NV-3] (R000608)
 - Rep. Kihuen, Ruben J. [D-NV-4] (K000390)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Pershing County Economic Development and Conservation Act
 - 2018-01-16 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-01-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H387-391)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H387-391)
+- 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
