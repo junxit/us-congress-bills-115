@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4318
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4318
@@ -49,9 +49,10 @@ Miscellaneous Tariff Bill Act of 2018
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -70,3 +71,4 @@ Miscellaneous Tariff Bill Act of 2018
 - 2018-01-16 — Mr. Bishop (MI) moved to suspend the rules and pass the bill, as amended.
 - 2018-01-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 18). (text: CR H185-385)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 18).(text: CR H185-385)
+- 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
