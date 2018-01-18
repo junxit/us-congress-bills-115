@@ -23,3 +23,7 @@ This Act may be cited as the “Home Mortgage Disclosure Adjustment Act”.
     >   - **(2)** *Open-end lines of credit* With respect to a depository institution, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the depository institution originated less than 500 open-end lines of credit in each of the 2 preceding calendar years.
 
 - **(b)** *Technical correction* Section 304(i)(3) of the Home Mortgage Disclosure Act of 1975, as so redesignated by subsection (a)(1), is amended by striking “section 303(2)(A)” and inserting “section 303(3)(A)”.
+
+## § 3. Securities and Exchange Commission Reserve Fund
+
+Notwithstanding section 4(i)(2)(B)(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(i)(2)(B)(i)), the amount deposited in the Securities and Exchange Commission Reserve Fund for fiscal year 2018 may not exceed $48,000,000.
