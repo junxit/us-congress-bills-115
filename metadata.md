@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4258
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4258
@@ -26,9 +26,10 @@ Family Self-Sufficiency Act
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Family Self-Sufficiency Act
 - 2018-01-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 22). (text: CR 1/16/2018 H178-180)
 - 2018-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 22).(text: CR 1/16/2018 H178-180)
+- 2018-01-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
