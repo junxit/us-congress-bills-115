@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 694
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 694
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 4712) to amend title 18, United St
 
 - Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2018-01-16 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 4712) to amend title 18, United St
 - 2018-01-16 — The House Committee on Rules reported an original measure, H. Rept. 115-519, by Ms. Cheney.
 - 2018-01-16 — The House Committee on Rules reported an original measure, H. Rept. 115-519, by Ms. Cheney.
 - 2018-01-16 — The rule also provides for proceedings during the period from January 22, 2018 through January 26, 2018.
+- 2018-01-18 — Considered as privileged matter. (consideration: CR H494-503)
+- 2018-01-18 — Considered as unfinished business. (consideration: CR H512-513)
+- 2018-01-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 694.
+- 2018-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 189 (Roll no. 30). (text CR H494)
+- 2018-01-18 — On ordering the previous question Agreed to by the Yeas and Nays: 229 - 190 (Roll no. 29). (consideration: CR H512)
+- 2018-01-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 694, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes prevailed. Mr. McGovern demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2018-01-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 189 (Roll no. 30).(text CR H494)
