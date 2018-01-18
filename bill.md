@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 98
-congress: 115th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 98

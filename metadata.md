@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 98
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 98
@@ -26,3 +26,6 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2018-01-11 — On agreeing to the resolution Agreed to without objection. (text: CR H162)
 - 2018-01-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H162)
 - 2018-01-11 — Received in the Senate.
+- 2018-01-18 — Message on Senate action sent to the House.
+- 2018-01-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S270)
+- 2018-01-18 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S270)
