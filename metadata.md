@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 195
@@ -60,3 +60,33 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2017-12-21 — Senate amendment agreed to: Amendment SA 1864 agreed to in Senate by Unanimous Consent.
 - 2017-12-21 — Senate amendment proposed (on the floor): Amendment SA 1864 proposed by Senator McConnell for Senator Grassley.
 - 2017-12-21 — Senate amendment submitted
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2018-01-18 — Amendment SA 1903 proposed by Senator McConnell. (consideration: CR S305; text: CR S305) To change the enactment date.
+- 2018-01-18 — Amendment SA 1904 proposed by Senator McConnell to Amendment SA 1903. (consideration: CR S305; text: CR S305) Of a perfecting nature.
+- 2018-01-18 — Amendment SA 1905 proposed by Senator McConnell. (consideration: CR S305; text: CR S305) Of a perfecting nature.
+- 2018-01-18 — Amendment SA 1906 proposed by Senator McConnell to Amendment SA 1905 (the instructions of the motion to refer). (consideration: CR S305; text: CR S305) Of a perfecting nature.
+- 2018-01-18 — Amendment SA 1907 proposed by Senator McConnell to Amendment SA 1906. (consideration: CR S305; text: CR S305) Of a perfecting nature.
+- 2018-01-18 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 195 presented in Senate.
+- 2018-01-18 — DEBATE - The House proceeded with one hour of debate on the motion that the House agree to the Senate amendment with an amendment to H.R. 195.
+- 2018-01-18 — Measure laid before Senate by motion.
+- 2018-01-18 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2018-01-18 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 195 made in Senate.
+- 2018-01-18 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1903) made in Senate.
+- 2018-01-18 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 195 with instructions to report back forthwith with the following amendment (SA 1905) made in Senate.
+- 2018-01-18 — Motion to proceed to consideration of the House message to accompany H.R. 195 agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 13. (consideration: CR S304-308)
+- 2018-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-18 — On motion the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nay: 230-197 (Roll no. 33). (text as House agreed to Senate amendment: CR H523-526)
+- 2018-01-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Senate amendment, the Chair put the question on the motion to agree to the Senate amendment with an amendment, and by voice vote announced that the ayes had prevailed. Mr. Frelinghuysen demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2018-01-18 — Pursuant to the provisions of H.Res. 696, Mr. Frelinghuysen moved that the House agree with an amendment to the Senate amendment. (consideration: CR H521-536, H537-538)
+- 2018-01-18 — Resolving differences -- House actions: On motion the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nay: 230-197 (Roll no. 33).(text as House agreed to Senate amendment: CR H523-526)
+- 2018-01-18 — Senate amendment proposed (on the floor): Amendment SA 1903 proposed by Senator McConnell.(consideration: CR S305; text: CR S305)
+- 2018-01-18 — Senate amendment proposed (on the floor): Amendment SA 1904 proposed by Senator McConnell to Amendment SA 1903.(consideration: CR S305; text: CR S305)
+- 2018-01-18 — Senate amendment proposed (on the floor): Amendment SA 1905 proposed by Senator McConnell.(consideration: CR S305; text: CR S305)
+- 2018-01-18 — Senate amendment proposed (on the floor): Amendment SA 1906 proposed by Senator McConnell to Amendment SA 1905 (the instructions of the motion to refer).(consideration: CR S305; text: CR S305)
+- 2018-01-18 — Senate amendment proposed (on the floor): Amendment SA 1907 proposed by Senator McConnell to Amendment SA 1906.(consideration: CR S305; text: CR S305)
+- 2018-01-18 — Senate amendment submitted
+- 2018-01-18 — Senate amendment submitted
+- 2018-01-18 — Senate amendment submitted
+- 2018-01-18 — Senate amendment submitted
+- 2018-01-18 — Senate amendment submitted
+- 2018-01-18 — The previous question was ordered pursuant to the rule.
