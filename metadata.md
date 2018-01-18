@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4279
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4279
@@ -22,9 +22,10 @@ Expanding Investment Opportunities Act
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Expanding Investment Opportunities Act
 - 2018-01-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 25). (text: CR 1/16/2018 H183)
 - 2018-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 25).(text: CR 1/16/2018 H183)
+- 2018-01-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
