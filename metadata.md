@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3326
@@ -20,9 +20,10 @@ World Bank Accountability Act of 2017
 
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ World Bank Accountability Act of 2017
 - 2018-01-17 — The previous question was ordered pursuant to the rule.
 - 2018-01-17 — The rule provides for one hour of general debate on both measures. Only those amendments printed in Part A of the report shall be considered for H.R. 3326. The amendment printed in Part B of the report, relating to H.R. 2954, shall be considered as adopted. The rule allows for one motion to recommit with or without instructions for both measures.
 - 2018-01-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2018-01-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
