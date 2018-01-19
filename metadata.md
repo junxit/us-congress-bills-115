@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2954
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2954
@@ -26,9 +26,10 @@ Home Mortgage Disclosure Adjustment Act
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -62,3 +63,4 @@ Home Mortgage Disclosure Adjustment Act
 - 2018-01-18 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-01-18 — The previous question was ordered pursuant to the rule.
 - 2018-01-18 — The rule provides for one hour of general debate on both measures. Only those amendments printed in Part A of the report shall be considered for H.R. 3326. The amendment printed in Part B of the report, relating to H.R. 2954, shall be considered as adopted. The rule allows for one motion to recommit with or without instructions for both measures.
+- 2018-01-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
