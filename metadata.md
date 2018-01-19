@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1660
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1660
@@ -38,9 +38,10 @@ Global Health Innovation Act of 2017
 - Rep. Faso, John J. [R-NY-19] (F000464)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Global Health Innovation Act of 2017
 - 2018-01-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 34). (text: CR 1/17/2018 H439)
 - 2018-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 34).(text: CR 1/17/2018 H439)
+- 2018-01-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
