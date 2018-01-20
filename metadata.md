@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 708
 congress: 115
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 708
