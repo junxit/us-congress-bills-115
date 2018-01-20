@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4712
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4712
@@ -172,3 +172,4 @@ Born-Alive Abortion Survivors Protection Act
 - 2018-01-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 241 - 183 (Roll no. 36).(text: CR H560-561)
 - 2018-01-19 — Rule provides for consideration of H.R. 4712 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The rule also provides for proceedings during the period from January 22, 2018 through January 26, 2018.
 - 2018-01-19 — The previous question was ordered pursuant to the rule.
+- 2018-01-20 — Received in the Senate.
