@@ -1,7 +1,7 @@
 ---
 measure: H.R. 195
 congress: 115
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 195
@@ -16,8 +16,58 @@ Making further continuing appropriations for the fiscal year ending September 30
 
 - Rep. Russell, Steve [R-OK-5] (R000604)
 
-## Cosponsors (3)
+## Cosponsors (53)
 
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -90,3 +140,70 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2018-01-18 — Senate amendment submitted
 - 2018-01-18 — Senate amendment submitted
 - 2018-01-18 — The previous question was ordered pursuant to the rule.
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316)
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316)
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316)
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316, S354)
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316, S354)
+- 2018-01-19 — Considered by Senate (Message from the House considered). (consideration: CR S316-344, S351-355)
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-19 — Senate amendment submitted
+- 2018-01-20 — Amendment SA 1917 proposed by Senator McConnell. (consideration: 1/19/18 CR S354; text: 1/19/18 CR S354) Of a perfecting nature.
+- 2018-01-20 — Amendment SA 1918 proposed by Senator McConnell. (consideration: 1/19/18 CR S354; text: 1/19/18 CR S354) Of a perfecting nature.
+- 2018-01-20 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) presented in Senate. (1/19/18 CR S354)
+- 2018-01-20 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 not invoked in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 14. (1/19/18 CR S351-352)
+- 2018-01-20 — Considered by Senate (Message from the House considered). (consideration: CR S359)
+- 2018-01-20 — Considered by Senate (Message from the House considered). (consideration: CR S359)
+- 2018-01-20 — Considered by Senate (Message from the House considered). (consideration: CR S359-393)
+- 2018-01-20 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) made in Senate.
+- 2018-01-20 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 was not invoked (Record Vote No. 14) entered in Senate.
+- 2018-01-20 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 195 with instructions to report back forthwith with the following amendment (SA 1905) tabled in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 15.
+- 2018-01-20 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 195 with instructions to report back forthwith with the following amendment (SA 1918) made in Senate.
+- 2018-01-20 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1903) agreed to in Senate by Voice Vote.
+- 2018-01-20 — SA 1904 fell when the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1903) tabled.
+- 2018-01-20 — SA 1905 fell when the motion to refer the House message to accompany H.R. 195 tabled.
+- 2018-01-20 — SA 1906 fell when SA 1905 (the instructions of the motion to refer) fell.
+- 2018-01-20 — SA 1907 fell when SA 1906 fell.
+- 2018-01-20 — Senate amendment proposed (on the floor): Amendment SA 1917 proposed by Senator McConnell.(consideration: 1/19/18 CR S354; text: 1/19/18 CR S354)
+- 2018-01-20 — Senate amendment proposed (on the floor): Amendment SA 1918 proposed by Senator McConnell.(consideration: 1/19/18 CR S354; text: 1/19/18 CR S354)
+- 2018-01-20 — Senate amendment submitted
+- 2018-01-20 — Senate amendment submitted
+- 2018-01-21 — Considered by Senate (Message from the House considered). (consideration: CR S397)
+- 2018-01-21 — Considered by Senate (Message from the House considered). (consideration: CR S397)
+- 2018-01-21 — Considered by Senate (Message from the House considered). (consideration: CR S397-428)
+- 2018-01-22 — Amendment SA 1917 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 17.
+- 2018-01-22 — Became Public Law No: 115-120.
+- 2018-01-22 — Became Public Law No: 115-120.
+- 2018-01-22 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 195 rendered moot in Senate.
+- 2018-01-22 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) invoked in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 16. (CR S431)
+- 2018-01-22 — Considered by Senate (Message from the House considered). (consideration: CR S429)
+- 2018-01-22 — Considered by Senate (Message from the House considered). (consideration: CR S429, S437-438)
+- 2018-01-22 — Considered by Senate (Message from the House considered). (consideration: CR S429-438)
+- 2018-01-22 — DEBATE - The House proceeded with 10 minutes of debate on the motion that the House agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 195.
+- 2018-01-22 — Message on Senate action sent to the House.
+- 2018-01-22 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 195 was not invoked (Record Vote No. 14) rendered moot in Senate.
+- 2018-01-22 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 195 with instructions to report back forthwith with the following amendment (SA 1918) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) in Senate.
+- 2018-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-22 — ORDER OF PROCEDURE - Mr. Sessions asked unanimous consent that it be in order at any time to take from the Speaker's table H.R. 195, with the Senate amendment to the House amendment to the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the Majority Leader or his designee that the House concur in the Senate amendment to the House amendment to the Senate amendment; that the Senate amendment and the motion be considered as read; that the motion be debatable for 10 minutes equally divided and controlled by the Majority Leader and the Minority Leader or their respective designees; and that the previous question be considered as ordered on the motion to its adoption without intervening motion. Agreed to without objection. (consideration: CR H617-620)
+- 2018-01-22 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 266 - 150 (Roll no. 44).
+- 2018-01-22 — Presented to President.
+- 2018-01-22 — Presented to President.
+- 2018-01-22 — Pursuant to the order of the House of January 22, 2018, Mr. McCarthy moved that the House agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 195.
+- 2018-01-22 — Pursuant to the provisions of S. Con. Res. 33, enrollment corrections on H.R. 195 have been made.
+- 2018-01-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 266 - 150 (Roll no. 44).
+- 2018-01-22 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) by Yea-Nay Vote. 81 - 18. Record Vote Number: 17.
+- 2018-01-22 — Roll call votes on amendments in Senate: Amendment SA 1917 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 17.
+- 2018-01-22 — SA 1918 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917).
+- 2018-01-22 — Senate amendment agreed to: Amendment SA 1917 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 17.
+- 2018-01-22 — Senate amendment submitted
+- 2018-01-22 — Senate concurred in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1917) by Yea-Nay Vote. 81 - 18. Record Vote Number: 17.
+- 2018-01-22 — Signed by President.
+- 2018-01-22 — Signed by President.
+- 2018-01-22 — The previous question was ordered pursuant to the order of the House of January 22, 2018.
