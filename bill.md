@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1457
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,38 +9,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To establish requirements for use of a driver’s license or personal identification card by certain financial institutions for opening an account or obtaining a financial product or service, and for other purposes.
 
-## § 1. Short title
+## § 1. Making online banking initiation legal and easy
 
-This Act may be cited as the “Making Online Banking Initiation Legal and Easy Act of 2017” or the “MOBILE Act of 2017”.
-
-## § 2. Definitions
-
-In this Act:
-
-- **(1)** *Affiliate* The term affiliate has the meaning given such term in section 2(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(k)).
-- **(2)** *Driver’s license* The term driver’s license means a license issued by a State to an individual which authorizes the individual to operate a motor vehicle on public streets, roads, or highways.
-- **(3)** *Federal bank secrecy laws* The term Federal bank secrecy laws means—
-  - **(A)** section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
-  - **(B)** section 123 of Public Law 91–508; and
-  - **(C)** subchapter II of chapter 53 of title 31, United States Code.
-- **(4)** *Financial institution* The term financial institution means—
-  - **(A)** an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813);
-  - **(B)** an insured credit union, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752); or
-  - **(C)** any affiliate of an insured depository institution or insured credit union.
-- **(5)** *Financial product or service* The term financial product or service has the meaning given such term in section 1002(15) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481(15)).
-- **(6)** *Personal identification card* The term personal identification card means an identification document issued by a State or local government to an individual solely for the purpose of identification of such individual.
-- **(7)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
-- **(8)** *Swipe* The term swipe means the act of using a device on a driver’s license or personal identification card to decipher, in an electronically readable format, personal information displayed on or electronically encoded on the driver’s license or personal identification card.
-
-## § 3. Use of a driver’s license or personal identification card
-
-- **(a)** *In general* With the consent of an individual, a financial institution may record personal information from a swipe of the individual’s driver’s license or personal identification card, or make a copy or receive an image of the individual’s driver’s license or personal identification card, and store or retain such information in any electronic format for purposes of opening an account with the financial institution or obtaining a financial product or service from the financial institution. Except as required to comply with Federal bank secrecy laws, the financial institution may only use the personal information—
-  - **(1)** to verify the authenticity of the driver’s license or personal identification card with the State that issued the driver’s license or personal identification card;
-  - **(2)** to verify the identity of the individual; and
-  - **(3)** to comply with a legal requirement to record, retain, or transmit the personal information in connection with opening the account or obtaining the financial product or service.
-- **(b)** *Notice to consumer* A financial institution that swipes or copies an individual’s driver’s license or personal identification card in accordance with subsection (a) shall inform the individual about the type of information collected.
-- **(c)** *Restrictions on use of information* Except as otherwise provided by law, a financial institution that obtains information from a swipe or a copy of a driver’s license or personal identification card as described in subsection (a) may not sell, rent, transfer, or make the personal information available to another person (other than an affiliate).
-
-## § 4. Relation to State law
-
-The provisions of this Act shall preempt and supersede any State law that conflicts with a provision of this Act, but only to the extent of such conflict.
+- **(a)** *Definitions* In this section:
+  - **(1)** *Affiliate* The term affiliate has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+  - **(2)** *Driver's license* The term driver's license means a license issued by a State to an individual that authorizes the individual to operate a motor vehicle on public streets, roads, or highways.
+  - **(3)** *Federal bank secrecy laws* The term Federal bank secrecy laws means—
+    - **(A)** section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
+    - **(B)** section 123 of Public Law 91–508 (84 Stat. 1116); and
+    - **(©)** subchapter II of chapter 53 of title 31, United States Code.
+  - **(4)** *Federally recognized Indian Tribe* The term “federally recognized Indian Tribe” has the meaning given the term by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a)).
+  - **(5)** *Financial institution* The term financial institution means—
+    - **(A)** an insured depository institution;
+    - **(B)** an insured credit union; or
+    - **(C)** any affiliate of an insured depository institution or insured credit union.
+  - **(6)** *Financial product or service* The term financial product or service has the meaning given the term in section 1002(15) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481(15)).
+  - **(7)** *Insured credit union* The term insured credit union has the meaning given the term in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
+  - **(8)** *Insured depository institution* The term insured depository institution has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+  - **(9)** *Online service* The term online service means any Internet-based service, such as a Web site or mobile application.
+  - **(10)** *Personal identification card* The term personal identification card means an identification document issued by a State, local government, or federally recognized Indian Tribe to an individual solely for the purpose of identification of that individual.
+  - **(11)** *Personal information* The term personal information means the information displayed on or electronically encoded on a driver’s license or personal identification card that is reasonably necessary to fulfill the purpose and uses permitted by subsection (b).
+  - **(12)** *State* The term State means any State, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+  - **(13)** *Scan* The term scan means the act of using a device or software to decipher, in an electronically readable format, personal information displayed on or electronically encoded on a driver’s license or personal identification card.
+- **(b)** *Use of a driver's license or personal identification card*
+  - **(1)** *In general* When an individual initiates a request through an online service to open an account with a financial institution or obtain a financial product or service from a financial institution, the financial institution may record personal information from a scan of the driver’s license or personal identification card of the individual, or make a copy or receive an image of the driver’s license or personal identification card of the individual, and store or retain such information in any electronic format for the purposes described in paragraph (2).
+  - **(2)** *Uses of information* Except as required to comply with Federal bank secrecy laws, a financial institution may only use the information obtained under paragraph (1)—
+    - **(A)** to verify the authenticity of the driver’s license or personal identification card;
+    - **(B)** to verify the identity of the individual; and
+    - **(C)** to comply with a legal requirement to record, retain, or transmit the personal information in connection with opening an account or obtaining a financial product or service.
+  - **(3)** *Deletion of image* A financial institution that makes a copy or receives an image of a driver’s license or personal identification card of an individual in accordance with paragraph (1) shall, after using the image for the purposes described in paragraph (2), permanently delete, within a reasonable amount of time—
+    - **(A)** any image of the driver’s license or personal identification card, as applicable; and
+    - **(B)** any copy of any such image.
+- **(c)** *Disclosure of personal information* Nothing in this section shall be construed to amend, modify, or otherwise affect any State or Federal laws that govern a financial institution’s disclosure and security of personal information that is not publicly available.
+- **(d)** *Relation to State law* The provisions of this section shall preempt and supersede any State law that conflicts with a provision of this section, but only to the extent of such conflict.

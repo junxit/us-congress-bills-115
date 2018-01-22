@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1457
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1457
@@ -16,13 +16,38 @@ MOBILE Act of 2017
 
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Cosponsors (5)
+## Cosponsors (30)
 
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Pittenger, Robert [R-NC-9] (P000606)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Rothfus, Keith J. [R-PA-12] (R000598)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
 
 ## Committees (1)
 
@@ -33,3 +58,10 @@ MOBILE Act of 2017
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Referred to the House Committee on Financial Services.
+- 2017-07-12 — Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.
+- 2018-01-22 — Placed on the Union Calendar, Calendar No. 388.
+- 2018-01-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-523.
+- 2018-01-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-523.
