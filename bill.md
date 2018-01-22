@@ -1,0 +1,21 @@
+---
+legis-num: H. RES. 711
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 711
+
+> Celebrating the 325th anniversary of the founding of the College of William & Mary in Virginia by British Royal Charter and congratulating President W. Taylor Reveley, III, after a decade of tremendous leadership as the 27th President of William & Mary.
+
+## Preamble
+
+- Whereas, on February 8, 1693, King William III and Queen Mary II of England signed the charter for a “perpetual College of Divinity, Philosophy, Languages, and other good Arts and Sciences” to be founded in the Virginia Colony, making William & Mary the Nation’s second-oldest college;
+- Whereas William & Mary is considered the Alma Mater of the Nation because it educated Founding Fathers of the Nation, including George Washington, Thomas Jefferson, John Tyler, and James Monroe;
+- Whereas William & Mary is a place of many firsts for the Nation, including the first United States institution with a Royal Charter, the first Greek-letter society (Phi Beta Kappa), the first student honor code, the first college to become a university, and the first law school in America;
+- Whereas today, William & Mary functions as a comprehensive public research university, educating future leaders in areas of the arts and sciences, business, education, law, and marine science;
+- Whereas William & Mary has been led tremendously for the last ten years by W. Taylor Reveley, III, William & Mary’s 27th President; and
+- Whereas W. Taylor Reveley, III, has remarkably guided the Alma Mater of the Nation to a position where it continues to thrive and has markedly achieved success in many ways, including outstanding educational value, a commitment to public service, and a diverse and inclusive community: Now, therefore, be it
+
+That the House of Representatives celebrates the 325th anniversary of the College of William & Mary’s Royal Charter and congratulates W. Taylor Reveley, III, on his retirement after a decade of selfless and steadfast service as the institution’s 27th President.
