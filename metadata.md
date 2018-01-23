@@ -1,7 +1,7 @@
 ---
 measure: S. 1395
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1395
@@ -32,3 +32,5 @@ A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resour
 - 2017-09-07 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-149.
 - 2017-09-07 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-149.
 - 2017-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
+- 2018-01-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S471; text: CR S471)
+- 2018-01-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S471; text: CR S471)
