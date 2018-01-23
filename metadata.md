@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2152
@@ -16,7 +16,7 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (24)
+## Cosponsors (26)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -42,6 +42,8 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -55,3 +57,5 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 - 2018-01-16 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2018-01-16 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2018-01-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
+- 2018-01-23 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S471-475; text: CR S473-475)
+- 2018-01-23 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S471-475; text: CR S473-475)

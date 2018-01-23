@@ -36,7 +36,7 @@ Congress finds the following:
   - **(4)** by inserting after paragraph (1) the following:
     > - **(2)** *Restitution for trafficking in child pornography* If the defendant was convicted for trafficking in child pornography, the order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) an amount of restitution determined by the court as follows:
     >   - **(A)** *Determining the full amount of a victim’s losses* The court shall determine the full amount of the victim’s losses that were incurred or are reasonably projected to be incurred by the victim as a result of the trafficking in child pornography.
-    >   - **(B)** *Determining a restitution amount* After completing the determination required under subparagraph (A), the court shall enter an order of restitution against the defendant in favor of the victim in an amount which is not less than $3000 and not greater than 1 percent of the full amount of the victim’s losses when the full amount of a victim’s losses are greater than $300,000.between $3,000 and 1 percent of the full amount of the victim's losses.
+    >   - **(B)** *Determining a restitution amount* After completing the determination required under subparagraph (A), the court shall enter an order of restitution against the defendant in favor of the victim in an amount which is between $3,000 and 1 percent of the full amount of the victim's losses.
     >   - **(C)** *Termination of payment* A victim’s total aggregate recovery pursuant to this section shall not exceed the full amount of the victim's demonstrated losses. After the victim has received restitution in the full amount of the victim’s losses as measured by the greatest amount of such losses found in any case involving that victim that has resulted in a final restitution order under this section, the liability of each defendant who is or has been ordered to pay restitution for such losses to that victim shall be terminated. The court may direct the victim to provide information concerning the amount of restitution the victim has been paid in other cases for the same losses.
 
 - **(b)** *Additional definitions* Section 2259(c) of title 18, United States Code, is amended—
@@ -47,7 +47,7 @@ Congress finds the following:
   - **(3)** by striking “under this chapter, including, in the case” and inserting “under this chapter. In the case”;
   - **(4)** by inserting after “or any other person appointed as suitable by the court,” the following: “may assume the crime victim’s rights under this section,”; and
   - **(5)** by inserting before paragraph (4), as so designated, the following:
-    > - **(1)** *Child pornography production* For purposes of this section and section 2259A, the term child pornography production means conduct proscribed by section 2251, section 2251Asubsections (a) through (c) of section 2251, section 2252A(g) if at least one of the offenses listed in this section is charged as part of a series of offenses(in cases in which the series of felony violations involves at least 1 of the violations listed in this section), section 2260(a), or any offense under chapter 109A or chapter 117 that involved the production of child pornography, as defined in section 2256.
+    > - **(1)** *Child pornography production* For purposes of this section and section 2259A, the term child pornography production means conduct proscribed by subsections (a) through (c) of section 2251, section 2252A(g) (in cases in which the series of felony violations involves at least 1 of the violations listed in this section), section 2260(a), or any offense under chapter 109A or chapter 117 that involved the production of child pornography, as defined in section 2256.
     > - **(2)** *Full amount of the victim's losses* For purposes of this section, the term full amount of the victim's losses includes any costs incurred, or reasonably projected to be incurred in the future, by the victim, and in the case of a trafficking in child pornography conviction, as a proximate result of all trafficking in child pornography offenses involving the same victim, including—
     >   - **(A)** medical services relating to physical, psychiatric, or psychological care;
     >   - **(B)** physical and occupational therapy or rehabilitation;
@@ -55,7 +55,7 @@ Congress finds the following:
     >   - **(D)** lost income;
     >   - **(E)** attorneys’ fees, as well as other costs incurred; and
     >   - **(F)** any other relevant losses incurred by the victim.
-    > - **(3)** *Trafficking in child pornography* For purposes of this section and section 2259A, the term trafficking in child pornography means conduct proscribed by section 2251(d), 2251A, 2252, 2252A, section 2252A(g) if at least one of the offenses listed in this section is charged as part of a series of offenses(in cases in which the series of felony violations exclusively involves violations listed in this section), or section 2260(b)).
+    > - **(3)** *Trafficking in child pornography* For purposes of this section and section 2259A, the term trafficking in child pornography means conduct proscribed by section 2251(d), 2251A, 2252, 2252A, section 2252A(g) (in cases in which the series of felony violations exclusively involves violations listed in this section), or section 2260(b).
 
 - **(c)** *Clerical amendment* Section 1593(b)(3) of title 18, United States Code, is amended by striking “section 2259(b)(3)” and inserting “section 2259(c)(2)”.
 
@@ -71,8 +71,8 @@ Section 2259 of title 18, United States Code, is amended by adding at the end th
 >     - **(D)** *Amount of defined monetary assistance* The amount of defined monetary assistance payable under this subparagraph shall be equal to—
 >       - **(i)** for the first calendar year after the date of enactment of this subsection, $35,000; and
 >       - **(ii)** for each calendar year after the year described in clause (i), $35,000 multiplied by the ratio (not less than one) of—
->         - **(I)** the Consumer Price Index for all Urban Consumer (CPI-U, as published by the Bureau of Labor Statistics of the Department of Labor) for the calendar year preceding such calendar year; to
->         - **(II)** the CPI-U for the calendar year 2 years before the calendar year described in clause (i).
+>         - **(I)** the Consumer Price Index for all Urban Consumer (CPI–U, as published by the Bureau of Labor Statistics of the Department of Labor) for the calendar year preceding such calendar year; to
+>         - **(II)** the CPI–U for the calendar year 2 years before the calendar year described in clause (i).
 >   - **(2)** *Limitations on defined monetary assistance*
 >     - **(A)** *In general* A victim may only obtain defined monetary assistance under this subsection once.
 >     - **(B)** *Effect on recovery of other restitution* A victim who obtains defined monetary assistance under this subsection shall not be barred or limited from receiving restitution against any defendant for any offenses not covered by this section.
