@@ -1,7 +1,7 @@
 ---
 measure: S. 943
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 943
@@ -29,3 +29,8 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 
 - 2017-04-26 — Introduced in Senate
 - 2017-04-26 — Read twice and referred to the Committee on Indian Affairs.
+- 2017-07-12 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 115-76.
+- 2017-10-04 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-01-24 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-201.
+- 2018-01-24 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-201.
+- 2018-01-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
