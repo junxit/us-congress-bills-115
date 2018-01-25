@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2152
@@ -45,9 +45,10 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -59,3 +60,7 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 - 2018-01-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
 - 2018-01-23 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S471-475; text: CR S473-475)
 - 2018-01-23 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S471-475; text: CR S473-475)
+- 2018-01-24 — Message on Senate action sent to the House.
+- 2018-01-25 — Received in the House.
+- 2018-01-25 — Referred to the House Committee on the Judiciary.
+- 2018-01-25 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
