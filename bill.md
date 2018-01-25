@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4266
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,23 +61,19 @@ Section 102 of Public Law 99–420 (16 U.S.C. 341 note) is amended—
   >   - **(4)** submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine Congressional Delegation a written notice of the proposed boundary revision.
   > - **(l)** *Limitation* The Secretary may not use the authority provided by section 100506 of title 54, United States Code, to adjust the permanent boundaries of the Park pursuant to this title.
 
-## § 4. Solid waste management
-
-Section 102(f) of Public Law 99–420 (16 U.S.C. 341 note) is amended, in the second sentence, by striking “toward the cost of constructing” through the period at the end of the sentence and inserting the following: “$350,000 to a regional consortium composed of units of local government located on, or in the vicinity of, Mount Desert Island, Maine, that is established for the purpose of improving the management of the disposal and recycling of solid waste.”.
-
-## § 5. Acadia National Park Advisory Commission
+## § 4. Acadia National Park Advisory Commission
 
 - **(a)** *In general* The Secretary shall reestablish and appoint members to the Acadia National Park Advisory Commission in accordance with section 103 of Public Law 99–420 (16 U.S.C. 341 note).
 - **(b)** *Conforming amendment* Section 103 of Public Law 99–420 (16 U.S.C. 341 note) is amended by striking subsection (f).
 
-## § 6. Repeal of certain provisions relating to Acadia National Park
+## § 5. Repeal of certain provisions relating to Acadia National Park
 
 The following are repealed:
 
 - **(1)** Section 3 of the Act of February 26, 1919 (40 Stat. 1178, chapter 45).
 - **(2)** The first section of the Act of January 19, 1929 (45 Stat. 1083, chapter 77).
 
-## § 7. Modification of use restriction
+## § 6. Modification of use restriction
 
 The Act of August 1, 1950 (64 Stat. 383, chapter 511), is amended—
 
@@ -88,7 +84,7 @@ The Act of August 1, 1950 (64 Stat. 383, chapter 511), is amended—
 
 - **(2)** by striking “for school purposes” and inserting “for public purposes, subject to the conditions that use of the land shall not degrade or adversely impact the resources or values of Acadia National Park and that the land shall remain in public ownership for recreational, educational, or similar public purposes”.
 
-## § 8. Continuation of certain traditional uses
+## § 7. Continuation of certain traditional uses
 
 Title I of Public Law 99–420 (16 U.S.C. 341 note) is amended by adding at the end the following:
 
@@ -99,7 +95,7 @@ Title I of Public Law 99–420 (16 U.S.C. 341 note) is amended by adding at the 
 > - **(1)** within the boundaries of the Park; and
 > - **(2)** on any land located outside of the boundaries of the Park with respect to which the Secretary has or obtains a property interest of any type pursuant to this title.
 
-## § 9. Conveyance of certain land in Acadia National Park to the Town of Bar Harbor, Maine
+## § 8. Conveyance of certain land in Acadia National Park to the Town of Bar Harbor, Maine
 
 - **(a)** *In general* The Secretary shall convey to the Town of Bar Harbor all right, title, and interest of the United States in and to the .29-acre parcel of land in Acadia National Park identified as lot 110–055–000 on the tax map of the Town of Bar Harbor for section 110, dated April 1, 2015, to be used for a solid waste transfer facility.
 - **(b)** *Reversion* If the land conveyed under subsection (a) is used for a purpose other than the purpose described in that subsection, the land shall, at the discretion of the Secretary, revert to the United States.

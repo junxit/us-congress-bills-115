@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4266
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 1 executed, 14 stated and not applied.
+14 amendatory instructions. 1 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,7 +50,6 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 341` | strike | in subsection (a), in the matter preceding paragraph (1), by striking “of the Interior (hereinafter in this title referred to as the Secretary)”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 341` | redesignate | by redesignating the subsection as paragraph (4) and indenting the paragraph appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 341` | replace | Section 102(f) of Public Law 99–420 (16 U.S.C. 341 note) is amended, in the second sentence, by striking “toward the cost of constructing” through the period at the end of the sentence and inserting the following: “$350,000 to a regional… | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 341` | strike | Section 103 of Public Law 99–420 (16 U.S.C. 341 note) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | The following are repealed: | the bill names no machine-readable US Code section |
 | — | replace | by striking “That the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
