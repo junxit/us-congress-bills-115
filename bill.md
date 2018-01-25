@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1873
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,8 +17,8 @@ This Act may be cited as the “Veteran Partners’ Efforts to Enhance Reintegra
 
 - **(a)** *Program required* The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services for mental health, substance use disorder, and behavior health in a primary care setting.
 - **(b)** *Timeframe for establishment of program* The Secretary shall carry out the program at medical centers of the Department as follows:
-  - **(1)** Not later than December 31, 2017, at not fewer than 25 medical centers of the Department.
-  - **(2)** Not later than December 31, 2018, at not fewer than 50 medical centers of the Department.
+  - **(1)** Not later than December 31, 2018, at not fewer than 25 medical centers of the Department.
+  - **(2)** Not later than December 31, 2019, at not fewer than 50 medical centers of the Department.
 - **(c)** *Selection of locations*
   - **(1)** *In general* The Secretary shall select medical centers for the program as follows:
     - **(A)** Not fewer than five shall be medical centers of the Department that are designated by the Secretary as polytrauma centers.
