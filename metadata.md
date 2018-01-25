@@ -1,7 +1,7 @@
 ---
 measure: S. 1395
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1395
@@ -20,9 +20,10 @@ A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resour
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resour
 - 2017-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
 - 2018-01-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S471; text: CR S471)
 - 2018-01-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S471; text: CR S471)
+- 2018-01-24 — Message on Senate action sent to the House.
+- 2018-01-25 — Received in the House.
+- 2018-01-25 — Referred to the House Committee on Natural Resources.
