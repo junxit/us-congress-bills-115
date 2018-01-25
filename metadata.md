@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4264
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4264
@@ -25,3 +25,9 @@ Hyde Park Land Conveyance Act
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Introduced in House
 - 2017-11-07 — Referred to the House Committee on Natural Resources.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by the Yeas and Nays: 23 - 12.
+- 2018-01-25 — Placed on the Union Calendar, Calendar No. 392.
+- 2018-01-25 — Reported by the Committee on Natural Resources. H. Rept. 115-527.
+- 2018-01-25 — Reported by the Committee on Natural Resources. H. Rept. 115-527.
