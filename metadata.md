@@ -1,7 +1,7 @@
 ---
 measure: S. 534
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 534
@@ -58,6 +58,10 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2018-01-29 — [House 115-2-45](votes/house-115-2-0045.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (406–3)
+
 ## Actions
 
 - 2017-03-06 — Introduced in Senate
@@ -76,3 +80,14 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 - 2017-11-14 — Senate amendment proposed (on the floor): Amendment SA 1584 proposed by Senator McConnell for Senator Feinstein.(consideration: CR S7220-7221)
 - 2017-11-14 — Senate amendment submitted
 - 2017-11-14 — The committee substitute withdrawn by Unanimous Consent. (consideration: CR S7220)
+- 2017-11-15 — Held at the desk.
+- 2017-11-15 — Message on Senate action sent to the House.
+- 2017-11-15 — Received in the House.
+- 2018-01-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-29 — Considered as unfinished business. (consideration: CR H652-653)
+- 2018-01-29 — Considered under suspension of the rules. (consideration: CR H633-643)
+- 2018-01-29 — DEBATE - The House proceeded with forty minutes of debate on S. 534.
+- 2018-01-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-29 — Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended.
+- 2018-01-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 45). (text: CR H633-634)
+- 2018-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 45).(text: CR H633-634)

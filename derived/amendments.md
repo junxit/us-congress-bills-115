@@ -1,7 +1,7 @@
 ---
 measure: S. 534
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
