@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 101
 congress: 115
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 101
@@ -24,3 +24,6 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2018-01-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-25 — On agreeing to the resolution Agreed to without objection. (text: CR H627)
 - 2018-01-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H627)
+- 2018-01-29 — Message on Senate action sent to the House.
+- 2018-01-29 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S554)
+- 2018-01-29 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S554)
