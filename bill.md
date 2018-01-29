@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** *Federal bank secrecy laws* The term Federal bank secrecy laws means—
     - **(A)** section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
     - **(B)** section 123 of Public Law 91–508 (84 Stat. 1116); and
-    - **(©)** subchapter II of chapter 53 of title 31, United States Code.
+    - **(C)** subchapter II of chapter 53 of title 31, United States Code.
   - **(4)** *Federally recognized Indian Tribe* The term “federally recognized Indian Tribe” has the meaning given the term by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a)).
   - **(5)** *Financial institution* The term financial institution means—
     - **(A)** an insured depository institution;
