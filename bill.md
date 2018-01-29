@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 101
-congress: One Hundred Fifteenth Congress of the United States of America
-session: At the Second Session
-chamber: 
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 101

@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 101
 congress: 115
-version: Enrolled Bill
+version: Received in Senate
 ---
 
 # H.Con.Res. 101
