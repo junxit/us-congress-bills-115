@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1457
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1457
@@ -65,3 +65,11 @@ MOBILE Act of 2017
 - 2018-01-22 — Placed on the Union Calendar, Calendar No. 388.
 - 2018-01-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-523.
 - 2018-01-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-523.
+- 2018-01-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-01-29 — Considered as unfinished business. (consideration: CR H653-654)
+- 2018-01-29 — Considered under suspension of the rules. (consideration: CR H644-645)
+- 2018-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1457.
+- 2018-01-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-29 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
+- 2018-01-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 8 (Roll no. 46). (text: CR H644)
+- 2018-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 8 (Roll no. 46).(text: CR H644)
