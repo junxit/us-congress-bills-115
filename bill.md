@@ -1,12 +1,15 @@
 ---
 legis-num: S. 534
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 534
 
-That the bill from the Senate (S. 534) entitled “An Act to prevent the sexual abuse of minors and amateur athletes by requiring the prompt reporting of sexual abuse to law enforcement authorities, and for other purposes.”, do pass with the following
+> To prevent the sexual abuse of minors and amateur athletes by requiring the prompt reporting of sexual abuse to law enforcement authorities, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
