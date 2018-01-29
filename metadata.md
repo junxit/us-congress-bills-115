@@ -1,7 +1,7 @@
 ---
 measure: S. 534
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 534
@@ -16,7 +16,7 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (35)
+## Cosponsors (36)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -46,6 +46,7 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -87,3 +88,13 @@ Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2
 - 2018-01-29 — Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended.
 - 2018-01-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 45). (text: CR H633-634)
 - 2018-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 45).(text: CR H633-634)
+- 2018-01-30 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-01-30 — Message on Senate action sent to the House.
+- 2018-01-30 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 534 by Voice Vote.(consideration: CR S589-591)
+- 2018-01-30 — Senate agreed to the House amendment to S. 534 by Voice Vote. (consideration: CR S589-591)
+- 2018-02-07 — Presented to President.
+- 2018-02-07 — Presented to President.
+- 2018-02-14 — Became Public Law No: 115-126.
+- 2018-02-14 — Became Public Law No: 115-126.
+- 2018-02-14 — Signed by President.
+- 2018-02-14 — Signed by President.
