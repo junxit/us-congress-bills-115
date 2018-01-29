@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2255
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 78d
+
+> in subsection (j)(4)(C), by striking “and women-owned small businesses” and inserting “, women-owned, and rural-area small businesses”; and
+
+| | |
+|---|---|
+| Removed | `and women-owned small businesses` |
+| Inserted | `, women-owned, and rural-area small businesses` |
+
+### 15 U.S.C. § 78d
+
+> in subsection (j)(6)(B)(iii), by striking “and women-owned small businesses” and inserting “, women-owned, and rural-area small businesses”.
+
+| | |
+|---|---|
+| Removed | `and women-owned small businesses` |
+| Inserted | `, women-owned, and rural-area small businesses` |
 
 ## Stated, not applied
 
@@ -31,4 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 129E(i) of the Truth in Lending Act (15 U.S.C. 1639e(i)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1639e` | add-at-end | Section 129E(i) of the Truth in Lending Act (15 U.S.C. 1639e(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
