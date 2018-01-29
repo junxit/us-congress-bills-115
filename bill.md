@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2630
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,32 +17,33 @@ This Act may be cited as the “La Paz County Land Conveyance Act”.
 
 In this Act:
 
-- **(1)** *County* The term “County” means La Paz County, Arizona.
-- **(2)** *Federal land* The term Federal land means the approximately 8,000 acres of Federal land managed by the Bureau of Land Management and designated as “Federal land to be conveyed” on the map.
-- **(3)** *Map* The term “map” means the map prepared by the Bureau of Land Management entitled “Proposed La Paz County Land Conveyance” and dated May 24, 2017.
-- **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(1)** *County* The term County means La Paz County, Arizona.
+- **(2)** *Federal land* The term Federal land means the approximately 8,800 acres of land managed by the Bureau of Land Management and designated as “Federal land to be conveyed” on the map.
+- **(3)** *Map* The term map means the map prepared by the Bureau of Land Management entitled “Proposed La Paz County Land Conveyance” and dated May 24, 2017.
+- **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Conveyance to La Paz County, Arizona
 
-- **(a)** *Conveyance authorized* Subject to valid existing rights and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), not later than 180 days after the date on which the Secretary receives a request from the County for the conveyance of the Federal land, the Secretary shall convey to the County, without consideration, all right, title, and interest of the United States in and to the Federal land.
-- **(b)** *Use of conveyed land*
-  - **(1)** *In general* The Federal land conveyed under subsection (a)—
-    - **(A)** may be used by the County for any public purposes consistent with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (43 U.S.C. 869 et seq.); and
-    - **(B)** shall not be disposed of by the County.
-  - **(2)** *Reversion* If the County ceases to use a parcel of the Federal land conveyed under subsection (a) in accordance with paragraph (1)—
-    - **(A)** title to the parcel shall revert to the Secretary, at the option of the Secretary; and
-    - **(B)** the County shall be responsible for any reclamation necessary for the parcel to revert to the United States.
-- **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
-- **(d)** *Costs* At the closing for the conveyance of Federal land under subsection (a), the County shall pay or reimburse the Secretary, as appropriate, for the reasonable transaction and administrative personnel costs associated with the conveyance authorized under that subsection, including the costs of title searches, maps, and boundary and cadastral surveys.
-- **(e)** *Release of United States* On conveyance of the Federal land under subsection (a), notwithstanding any other provision of law, the United States is released from any and all liabilities or claims of any kind or nature arising from the presence, release, or threat of release of any hazardous substance, pollutant, contaminant, petroleum product (or derivative of a petroleum product of any kind), solid waste, mine materials, or mining-related features (including tailings, overburden, waste rock, mill remnants, pits, or other hazards resulting from the presence of mining-related features) on the Federal land in existence before or on the date of the conveyance.
-- **(f)** *Acquisition of federal reversionary interest*
-  - **(1)** *Request* After the date of conveyance of the Federal land under subsection (a), the County may submit to the Secretary a request to acquire the Federal reversionary interest in all or any portion of the Federal land.
-  - **(2)** *Appraisal*
-    - **(A)** *In general* Not later than 180 days after the date of receipt of a request under paragraph (1), the Secretary shall complete an appraisal of the Federal reversionary interest in the Federal land requested by the County under that paragraph.
-    - **(B)** *Requirement* The appraisal under subparagraph (A) shall be completed in accordance with—
-      - **(i)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
+- **(a)** *In general* Not later than 90 days after the date on which the Secretary receives a request from the County to convey all or a portion of the Federal land, subject to valid existing rights and to such terms and conditions as the Secretary determines to be necessary and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the County all right, title, and interest of the United States in and to the Federal land identified on the map.
+- **(b)** *Phased conveyance*
+  - **(1)** *In general* The Secretary shall convey the public land described in subsection (a) in parcels over a period of up to 20 years, as is required to carry out the phased development of renewable energy or other economic development.
+  - **(2)** *Payment of fair market value* A parcel shall be conveyed by the Secretary on payment by La Paz County, Arizona, to the Secretary, of the fair market value of the parcel, as determined under paragraph (3).
+  - **(3)** *Appraisal to determine fair market value* The Secretary shall determine the fair market value of the Federal land to be conveyed—
+    - **(A)** in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+    - **(B)** based on an appraisal that is conducted in accordance with—
+      - **(i)** the Uniform Appraisal Standards for Federal Land Acquisition; and
       - **(ii)** the Uniform Standards of Professional Appraisal Practice.
-  - **(3)** *Conveyance required* If, by the date that is 1 year after the date of completion of the appraisal under paragraph (2), the County submits to the Secretary an offer to acquire the Federal reversionary requested under paragraph (1), the Secretary shall, not later than the date that is 30 days after the date on which the offer is submitted, convey to the County the reversionary interest covered by the offer.
-  - **(4)** *Consideration* As consideration for the conveyance of the Federal reversionary interest under paragraph (3), the County shall pay to the Secretary an amount equal to the appraised value of the Federal reversionary interest, as determined under paragraph (2).
-  - **(5)** *Costs of conveyance* As a condition of the conveyance of the Federal reversionary interest under paragraph (3), all costs associated with the conveyance (including the cost of the appraisal under paragraph (2)), shall be paid by the County.
-  - **(6)** *Restrictions on use not applicable* On conveyance of the Federal reversionary interest to the County under paragraph (3), the restrictions on the use and disposal of the Federal land under subsection (b) shall not apply to any portion of the Federal land that was subject to the conveyed Federal reversionary interest.
+- **(c)** *Protection of tribal cultural artifacts* To the greatest extent practicable, the County and all subsequent owners of land conveyed under this Act shall—
+  - **(1)** make good faith efforts to avoid disturbing Tribal artifacts;
+  - **(2)** minimize impacts on Tribal artifacts if they are disturbed;
+  - **(3)** work with the Colorado River Indian Tribes Tribal Historic Preservation Office to identify artifacts of cultural and historic significance; and
+  - **(4)** allow Tribal representatives to rebury unearthed artifacts at or near where they were discovered.
+- **(d)** *Availability of map*
+  - **(1)** *In general* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+  - **(2)** *Corrections* The Secretary and the County may, by mutual agreement—
+    - **(A)** make minor boundary adjustments to the Federal land to be conveyed under subsection (a); and
+    - **(B)** correct any minor errors in the map, an acreage estimate, or the description of the Federal land.
+- **(e)** *Withdrawal* The Federal land is withdrawn from the operation of the mining and mineral leasing laws of the United States.
+- **(f)** *Costs* As a condition of the conveyance of the Federal land under subsection (a), the County shall pay—
+  - **(1)** an amount equal to the appraised value determined in accordance with subsection (b)(3); and
+  - **(2)** all costs related to the conveyance, including all surveys, appraisals, and other administrative costs associated with the conveyance of the Federal land to the County under subsection (a).
