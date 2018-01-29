@@ -1,7 +1,7 @@
 ---
 measure: S. 1873
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1873
@@ -28,9 +28,10 @@ Veteran Partners' Efforts to Enhance Reintegration Act
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ Veteran Partners' Efforts to Enhance Reintegration Act
 - 2018-01-25 — Senate amendment agreed to: Amendment SA 1920 agreed to in Senate by Unanimous Consent.
 - 2018-01-25 — Senate amendment proposed (on the floor): Amendment SA 1920 proposed by Senator McConnell for Senator Blunt.(consideration: CR S525; text: CR S525)
 - 2018-01-25 — Senate amendment submitted
+- 2018-01-29 — Received in the House.
+- 2018-01-29 — Referred to the House Committee on Veterans' Affairs.
+- 2018-01-29 — Referred to the Subcommittee on Health.
