@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4792
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4792
@@ -22,9 +22,10 @@ Small Business Access to Capital After a Natural Disaster Act
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Small Business Access to Capital After a Natural Disaster Act
 - 2018-01-29 — Placed on the Union Calendar, Calendar No. 394.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-529.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-529.
+- 2018-01-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
