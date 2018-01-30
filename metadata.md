@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2255
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2255
@@ -21,9 +21,10 @@ HOME Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ HOME Act
 - 2018-01-29 — Placed on the Union Calendar, Calendar No. 393.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-528.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-528.
+- 2018-01-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
