@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 695
@@ -70,6 +70,10 @@ Department of Defense Appropriations Act, 2018
 - House — Judiciary Committee
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2018-01-30 — [House 115-2-49](votes/house-115-2-0049.md) — On Motion to Concur in the Senate Amendments with an Amendment — **Passed** (250–166)
+
 ## Actions
 
 - 2017-01-24 — Introduced in House
@@ -103,3 +107,12 @@ Department of Defense Appropriations Act, 2018
 - 2017-10-16 — Senate amendment proposed (on the floor): Amendment SA 1115 proposed by Senator McConnell for Senator Hatch.(consideration: CR S6411; text: CR S6411)
 - 2017-10-16 — Senate amendment submitted
 - 2017-10-16 — Senate amendment submitted
+- 2017-12-20 — Message on Senate action sent to the House.
+- 2018-01-30 — DEBATE - Pursuant to the provisions of H.Res. 714, the House proceeded with 1 hour of debate on the motion that the House agree in the Senate amendments to H.R. 695 with an amendment.
+- 2018-01-30 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2018-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-01-30 — Ms. Granger moved that the House agree with an amendment to the Senate amendments. (consideration: CR H698-725)
+- 2018-01-30 — On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 250 - 166 (Roll no. 49). (text as House agreed to Senate amendments: CR H699-719)
+- 2018-01-30 — Pursuant to the provisions of H.Res. 714, Ms. Granger took from the Speaker's table H.R. 695, and moved that the House agree in the Senate amendment to the title of H.R. 695 and that the House agree in the Senate amendment to the text of H.R. 695 with an amendment consisting of the text of Rules Committee Print 115-56.
+- 2018-01-30 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 250 - 166 (Roll no. 49).(text as House agreed to Senate amendments: CR H699-719)
+- 2018-01-30 — The previous question was ordered pursuant to the rule.
