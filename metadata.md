@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1426
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1426
@@ -26,9 +26,10 @@ Federal Savings Association Charter Flexibility Act of 2017
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Federal Savings Association Charter Flexibility Act of 2017
 - 2018-01-29 — Placed on the Union Calendar, Calendar No. 395.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-530.
 - 2018-01-29 — Reported by the Committee on Financial Services. H. Rept. 115-530.
+- 2018-01-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
