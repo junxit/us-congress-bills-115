@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1457
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1457
@@ -49,9 +49,10 @@ MOBILE Act of 2017
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -77,3 +78,4 @@ MOBILE Act of 2017
 - 2018-01-29 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
 - 2018-01-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 8 (Roll no. 46). (text: CR H644)
 - 2018-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 8 (Roll no. 46).(text: CR H644)
+- 2018-01-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
