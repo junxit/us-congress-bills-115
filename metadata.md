@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4771
@@ -30,3 +30,9 @@ Small Bank Holding Company Relief Act of 2018
 - 2018-01-11 — Introduced in House
 - 2018-01-11 — Introduced in House
 - 2018-01-11 — Referred to the House Committee on Financial Services.
+- 2018-01-17 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Ordered to be Reported by the Yeas and Nays: 41 - 14.
+- 2018-02-02 — Placed on the Union Calendar, Calendar No. 408.
+- 2018-02-02 — Reported by the Committee on Financial Services. H. Rept. 115-543.
+- 2018-02-02 — Reported by the Committee on Financial Services. H. Rept. 115-543.
