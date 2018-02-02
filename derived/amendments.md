@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4299
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 670a
 
-> in the section heading, by striking “Duration” and inserting “Relinquishment”;
+> in the section heading, by striking “DURATION” and inserting “RELINQUISHMENT”;
 
 | | |
 |---|---|
-| Removed | `Duration` |
-| Inserted | `Relinquishment` |
+| Removed | `DURATION` |
+| Inserted | `RELINQUISHMENT` |
 
 ### 16 U.S.C. § 670a
 
@@ -89,11 +89,11 @@ to guess them.
 
 ### 16 U.S.C. § 670a
 
-> by striking “If because” and everything that follows through “determines that” and inserting “If the Secretary of the Interior declines to accept jurisdiction over lands withdrawn by this subtitle which have been proposed for relinquishment because the Secretary determines that”; and
+> by striking “If because” and all that follows through “determines that” and inserting “If the Secretary of the Interior declines to accept jurisdiction over lands withdrawn by this subtitle which have been proposed for relinquishment because the Secretary determines that”; and
 
 | | |
 |---|---|
-| Removed | `If because” and everything that follows through “determines that` |
+| Removed | `If because” and all that follows through “determines that` |
 | Inserted | `If the Secretary of the Interior declines to accept jurisdiction over lands withdrawn by this subtitle which have been proposed for relinquishment because the Secretary determines that` |
 
 ### 16 U.S.C. § 670a
@@ -184,7 +184,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 670a` | strike | in paragraph (1), by striking “under subsection (c)”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | strike | in paragraph (3), by striking “before the date of termination, as provided for in subsection (a)(1)”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 670a` | strike | in the section heading, by striking “or upon termination of withdrawal”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 670a` | strike | in the section heading, by striking “OR UPON TERMINATION OF WITHDRAWAL”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | strike | in subsection (a)(1), by striking “and in all cases not later than 2 years before the date of termination of withdrawal and reservation,”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | add-at-end | Section 2910 of the Juniper Butte Range Withdrawal Act (title XXIX of Public Law 105–261; 112 Stat. 2231) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 670a` | add-at-end | in subsection (c), by adding at the end the following new sentence: “The review shall include the determination of the Secretary of the Air Force regarding whether there will be a continuing military need for any or all of the withdrawn … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -203,9 +203,9 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 670a` | strike | in paragraph (3), by striking “before the termination date of the withdrawal and reservation of such lands under this section”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | insert | Section 3031 of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 897) is further amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 670a` | replace | Section 3031(c)(5) of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 907) is amended by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 670a` | replace | in section 2910, by striking the section heading and all that follows through “At the time of the termination” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 670a` | replace | in section 2910, by striking the section heading and all that follows through “At the time of termination” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 670a` | strike | by striking section 2911; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 670a` | strike | in the section heading, by striking “Termination and”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 670a` | strike | in the section heading, by striking “TERMINATION AND”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | strike | in subsection (c), by striking “before the termination date of the withdrawal and reservation”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 670a` | insert | The Fort Irwin Military Land Withdrawal Act of 2001 (title XXIX of Public Law 107–107; 115 Stat. 1335) is further amended by inserting after section 2910 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 670a` | add-at-end | The Fort Irwin Military Land Withdrawal Act of 2001 (title XXIX of Public Law 107–107; 115 Stat. 1335) is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

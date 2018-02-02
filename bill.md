@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4299
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,7 +61,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Juniper Butte Range*
   - **(1)** *Elimination of termination date and conforming amendments* The Juniper Butte Range Withdrawal Act (title XXIX of Public Law 105–261; 112 Stat. 2226) is amended—
     - **(A)** in section 2915—
-      - **(i)** in the section heading, by striking “Duration” and inserting “Relinquishment”;
+      - **(i)** in the section heading, by striking “DURATION” and inserting “RELINQUISHMENT”;
       - **(ii)** in subsection (a), by striking “Termination.—” and all that follows through “At the time of termination” and inserting “Effect of relinquishment on operation of general land laws.—Upon relinquishment of Department of the Air Force jurisdiction over lands withdrawn and reserved by this title”;
       - **(iii)** in subsection (b)—
         - **(I)** in the subsection heading, by inserting “Process” after “Relinquishment”;
@@ -69,7 +69,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
         - **(III)** in paragraph (3), by striking “before the date of termination, as provided for in subsection (a)(1)”; and
       - **(iv)** by striking subsection (c); and
     - **(B)** in section 2916—
-      - **(i)** in the section heading, by striking “or upon termination of withdrawal”;
+      - **(i)** in the section heading, by striking “OR UPON TERMINATION OF WITHDRAWAL”;
       - **(ii)** in subsection (a)(1), by striking “and in all cases not later than 2 years before the date of termination of withdrawal and reservation,”;
       - **(iii)** in subsection (b), by striking “environmental remediation” and all that follows through the end of the subsection and inserting “environmental remediation before relinquishing, to the Secretary of the Interior, jurisdiction over any lands identified in a notice of intent to relinquish under section 2915(b).”; and
       - **(iv)** in subsection (d)—
@@ -114,7 +114,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** in section 3017—
       - **(i)** by striking “section 3016(d)” each place it appears and inserting “section 3016”; and
       - **(ii)** in subsection (e)—
-        - **(I)** by striking “If because” and everything that follows through “determines that” and inserting “If the Secretary of the Interior declines to accept jurisdiction over lands withdrawn by this subtitle which have been proposed for relinquishment because the Secretary determines that”; and
+        - **(I)** by striking “If because” and all that follows through “determines that” and inserting “If the Secretary of the Interior declines to accept jurisdiction over lands withdrawn by this subtitle which have been proposed for relinquishment because the Secretary determines that”; and
         - **(II)** in paragraph (2), by striking “the expiration of the withdrawal of such lands under this subtitle” and inserting “such determination”.
   - **(2)** *Establishment of intergovernmental executive committees* Section 3014 of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 890) is amended by adding at the end the following new subsection:
     > - **(g)** *Intergovernmental executive committees*
@@ -167,14 +167,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(f)** *National Training Center*
   - **(1)** *Elimination of termination date and conforming amendments* The Fort Irwin Military Land Withdrawal Act of 2001 (title XXIX of Public Law 107–107; 115 Stat. 1335) is amended—
-    - **(A)** in section 2910, by striking the section heading and all that follows through “At the time of the termination” and inserting the following:
+    - **(A)** in section 2910, by striking the section heading and all that follows through “At the time of termination” and inserting the following:
       > ## § 2910. Effect of relinquishment on operation of general land laws
       >
       > On the date of relinquishment
 
     - **(B)** by striking section 2911; and
     - **(C)** in section 2912—
-      - **(i)** in the section heading, by striking “Termination and”;
+      - **(i)** in the section heading, by striking “TERMINATION AND”;
       - **(ii)** in subsection (a), by striking “During the first 22 years of the withdrawal and reservation made by this title, if” and inserting “If”;
       - **(iii)** in subsection (c), by striking “before the termination date of the withdrawal and reservation”; and
       - **(iv)** in subsection (d), by striking “Notwithstanding the termination date specified in section 2910, unless” and inserting “Unless”.
@@ -225,7 +225,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(c)** *Operation* The intergovernmental executive committee for a location covered by subsection (a) shall operate in accordance with the terms set forth in the memorandum of understanding under subsection (a).
     > - **(d)** *Procedures* The memorandum of understanding under subsection (a) shall establish procedures for creating a forum for exchanging views, information, and advice relating to the management of natural and cultural resources on the withdrawn and reserved lands, procedures for rotating the chair of the intergovernmental executive committee, and procedures for scheduling regular meetings, which shall occur no less frequently than twice a year.
     > - **(e)** *Coordinator* The Secretary concerned, in consultation with the Secretary of the Interior, shall appoint an individual to serve as coordinator of the intergovernmental executive committee for a location covered by subsection (a). The duties of the coordinator shall be included in the memorandum of understanding under subsection (a). The coordinator shall not be a member of the committee.
-    > - **(f)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a intergovernmental executive committee for a location covered by subsection (a).
+    > - **(f)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to an intergovernmental executive committee for a location covered by subsection (a).
 
   - **(3)** *Determination of continuing military need for withdrawal and reservation and public reports* The Military Land Withdrawals Act of 2013 (title XXIX of Public Law 113–66; 127 Stat. 1025) is further amended by inserting after section 2919, as added by paragraph (2), the following new section:
     > ## § 2920. Determination of continuing military need for withdrawal and reservation and public reports
