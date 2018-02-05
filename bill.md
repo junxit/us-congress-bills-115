@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4547
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Strengthening Protections for Social Security Beneficiaries Act of 2017”.
+This Act may be cited as the “Strengthening Protections for Social Security Beneficiaries Act of 2018”.
 
 ## § 2. Table of contents
 
