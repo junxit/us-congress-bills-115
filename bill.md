@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1887
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -42,6 +42,9 @@ This Act may be cited as the “Direct Hire of Students and Recent Graduates Act
   > - **(f)** *Regulations* Not later than 180 days after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the Director shall issue interim regulations, with an opportunity for comment, for the administration of this section.
   > - **(g)** *Reporting*
   >   - **(1)** *In general* Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the head of an agency that makes an appointment under this section shall submit to Congress a report assessing the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted.
+  >   - **(1)** *In general* Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the head of an agency that makes an appointment under this section shall submit a report to—
+  >     - **(A)** Congress that assesses the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted; and
+  >     - **(B)** the Director that contains data that the Director considers necessary for the Director to assess the impact and effectiveness of the authority described in subparagraph (A).
   >   - **(2)** *Content* The head of an agency shall include in each report under paragraph (1)—
   >     - **(A)** the total number of individuals appointed by the agency under this section, as well as the number of such individuals who are—
   >       - **(i)** minorities or members of other underrepresented groups; or
@@ -74,12 +77,15 @@ This Act may be cited as the “Direct Hire of Students and Recent Graduates Act
   >   - **(2)** *Exceptions* Under a regulation prescribed under subsection (g), the Director may establish a lower limit on the number of students that may be appointed under paragraph (1) of this subsection during a fiscal year based on any factor the Director considers appropriate.
   > - **(e)** *Conversion* The head of an agency may, without regard to any provision of chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, convert a student serving in an appointment under subsection (b) to a permanent appointment in the competitive service within the agency without further competition if the student—
   >   - **(1)** has completed the course of study leading to the baccalaureate or graduate degree;
-  >   - **(2)** has completed not less than 640 hours of current continuous employment under subsection (b); and
+  >   - **(2)** has completed not less than 640 hours of current continuous employment in an appointment under subsection (b); and
   >   - **(3)** meets the qualification standards for the position to which the student will be converted.
   > - **(f)** *Termination* The head of an agency shall, without regard to any provision of chapter 35 or 75, terminate the appointment of a student appointed under subsection (b) upon completion of the designated academic course of study unless the student is selected for conversion under subsection (e).
   > - **(g)** *Regulations* Not later than 180 days after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the Director shall issue interim regulations, with an opportunity for comment, for the administration of this section.
   > - **(h)** *Reporting*
   >   - **(1)** *In general* Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the head of an agency that makes an appointment under this section shall submit to Congress a report assessing the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted.
+  >   - **(1)** *In general* Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of the Direct Hire of Students and Recent Graduates Act of 2017, the head of an agency that makes an appointment under this section shall submit a report to—
+  >     - **(A)** Congress that assesses the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted; and
+  >     - **(B)** the Director that contains data that the Director considers necessary for the Director to assess the impact and effectiveness of the authority described in subparagraph (A).
   >   - **(2)** *Content* The head of an agency shall include in each report under paragraph (1)—
   >     - **(A)** the total number of individuals appointed by the agency under this section, as well as the number of such individuals who are—
   >       - **(i)** minorities or members of other underrepresented groups; or

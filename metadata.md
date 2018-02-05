@@ -1,7 +1,7 @@
 ---
 measure: S. 1887
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1887
@@ -24,3 +24,7 @@ Direct Hire of Students and Recent Graduates Act of 2017
 
 - 2017-09-28 — Introduced in Senate
 - 2017-09-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2018-02-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-205.
+- 2018-02-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-205.
+- 2018-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
