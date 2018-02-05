@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 582
@@ -67,3 +67,13 @@ Kari's Law Act of 2017
 - 2017-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 61). (text: CR H588)
 - 2017-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 61).(text: CR H588)
 - 2017-01-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-02-05 — Amendment SA 1921 agreed to in Senate by Unanimous Consent.
+- 2018-02-05 — Amendment SA 1921 proposed by Senator McConnell for Senator Klobuchar. (consideration: CR S615; text: CR S615) To modify the effective date.
+- 2018-02-05 — Measure laid before Senate by unanimous consent. (consideration: CR S615; text: CR S615)
+- 2018-02-05 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-02-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-02-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-02-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-02-05 — Senate amendment agreed to: Amendment SA 1921 agreed to in Senate by Unanimous Consent.
+- 2018-02-05 — Senate amendment proposed (on the floor): Amendment SA 1921 proposed by Senator McConnell for Senator Klobuchar.(consideration: CR S615; text: CR S615)
+- 2018-02-05 — Senate amendment submitted
