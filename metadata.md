@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2504
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2504
@@ -42,3 +42,9 @@ To ensure fair treatment in licensing requirements for the export of certain ech
 - 2018-01-10 — Placed on the Union Calendar, Calendar No. 376.
 - 2018-01-10 — Reported by the Committee on Natural Resources. H. Rept. 115-506, Part I.
 - 2018-01-10 — Reported by the Committee on Natural Resources. H. Rept. 115-506, Part I.
+- 2018-02-05 — Considered under suspension of the rules. (consideration: CR H753-755)
+- 2018-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2504.
+- 2018-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-05 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2018-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H753)
+- 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H753)
