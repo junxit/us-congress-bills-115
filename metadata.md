@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4292
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4292
@@ -22,9 +22,10 @@ Financial Institution Living Will Improvement Act of 2017
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Financial Institution Living Will Improvement Act of 2017
 - 2018-01-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-01-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 50).
 - 2018-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 50).
+- 2018-02-05 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
