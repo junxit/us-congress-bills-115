@@ -1,7 +1,7 @@
 ---
 measure: S. 118
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 118
@@ -31,3 +31,7 @@ Reinforcing American-Made Products Act of 2017
 
 - 2017-01-12 — Introduced in Senate
 - 2017-01-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-05-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-02-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-203.
+- 2018-02-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-203.
+- 2018-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.
