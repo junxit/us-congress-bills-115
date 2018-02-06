@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1892
@@ -69,3 +69,11 @@ Bipartisan Budget Act of 2018
 - 2017-11-28 — Senate amendment agreed to: Amendment SA 1587 agreed to in Senate by Unanimous Consent.
 - 2017-11-28 — Senate amendment proposed (on the floor): Amendment SA 1587 proposed by Senator McConnell for Senator Boozman.(consideration: CR S7362)
 - 2017-11-28 — Senate amendment submitted
+- 2017-11-29 — Message on Senate action sent to the House.
+- 2018-02-06 — DEBATE - Pursuant to the provisions of H. Res. 727, the House proceeded with 1 hour of debate on the motion that the House agree in the Senate amendment to H.R. 1892 with an amendment.
+- 2018-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-06 — Mr. Frelinghuysen moved that the House agree with an amendment to the Senate amendment.
+- 2018-02-06 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 245 - 182 (Roll no. 60). (text of House amendment to Senate amendment: CR H834-888)
+- 2018-02-06 — Pursuant to the provisions of H. Res. 727, Mr. Frelinghuysen brought up H.R. 1892 and offered a motion. (consideration: CR H834-896)
+- 2018-02-06 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 245 - 182 (Roll no. 60).(text of House amendment to Senate amendment: CR H834-888)
+- 2018-02-06 — The previous question was ordered pursuant to the rule.
