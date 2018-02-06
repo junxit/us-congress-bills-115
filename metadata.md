@@ -1,7 +1,7 @@
 ---
 measure: H.R. 772
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 772
@@ -109,6 +109,10 @@ Common Sense Nutrition Disclosure Act of 2017
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2018-02-06 — [House 115-2-56](votes/house-115-2-0056.md) — On Passage — **Passed** (266–157)
+
 ## Actions
 
 - 2017-01-31 — Introduced in House
@@ -121,3 +125,14 @@ Common Sense Nutrition Disclosure Act of 2017
 - 2018-01-08 — Placed on the Union Calendar, Calendar No. 360.
 - 2018-01-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-486.
 - 2018-01-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-486.
+- 2018-02-05 — Rules Committee Resolution H. Res. 725 Reported to House. The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
+- 2018-02-06 — Considered as unfinished business. (consideration: CR H830-831)
+- 2018-02-06 — Considered under the provisions of rule H. Res. 725. (consideration: CR H815-821)
+- 2018-02-06 — DEBATE - The House proceeded with one hour of debate on H.R. 772.
+- 2018-02-06 — House amendment offered
+- 2018-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-06 — On passage Passed by the Yeas and Nays: 266 - 157, 1 Present (Roll no. 56). (text: CR H815)
+- 2018-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 772, the Chair put the question on passage of the measure, and by voice vote announced that the ayes had prevailed. Ms. Schakowsky demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2018-02-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 157, 1 Present (Roll no. 56).(text: CR H815)
+- 2018-02-06 — The previous question was ordered pursuant to the rule.
+- 2018-02-06 — The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
