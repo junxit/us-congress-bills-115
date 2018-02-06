@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3445
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3445
@@ -47,3 +47,5 @@ African Growth and Opportunity Act and Millennium Challenge Act Modernization Ac
 - 2018-01-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-01-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H430-432)
 - 2018-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H430-432)
+- 2018-01-18 — Received in the Senate.
+- 2018-02-06 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
