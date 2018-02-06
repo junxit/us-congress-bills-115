@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4547
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4547
@@ -113,3 +113,14 @@ Strengthening Protections for Social Security Beneficiaries Act of 2018
 - 2018-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 51). (text: CR H741-746)
 - 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 51).(text: CR H741-746)
 - 2018-02-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-03-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1982)
+- 2018-03-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1982)
+- 2018-03-23 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2018-03-23 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2018-04-03 — Presented to President.
+- 2018-04-03 — Presented to President.
+- 2018-04-13 — Became Public Law No: 115-165.
+- 2018-04-13 — Became Public Law No: 115-165.
+- 2018-04-13 — Signed by President.
+- 2018-04-13 — Signed by President.
