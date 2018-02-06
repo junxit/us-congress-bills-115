@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4941
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4941
+
+> To amend the Animal Welfare Act to protect common household pets from harmful confinement.
+
+## § 1. Short title
+
+This Act may be cited as the “Keep Our Pets Safe Act of 2018”.
+
+## § 2. Prohibition on harmful confinement of common household pets
+
+The Animal Welfare Act (7 U.S.C. 2131 et seq.) is amended by adding at the end the following new section:
+
+> ## § 30. Prohibition on harmful confinement of common household pets
+>
+> - **(a)** *In general* It shall be unlawful for any person to knowingly confine a common household pet in a motor vehicle or other enclosed space if such confinement could harm or kill such common household pet through—
+>   - **(1)** exposure to excessive heat or cold;
+>   - **(2)** lack of ventilation; or
+>   - **(3)** lack of water.
+> - **(b)** *Definition of common household pet* In this section, the term “common household pet” means a domesticated animal that is traditionally kept in the home for pleasure rather than for commercial purposes, including a dog, cat, bird, rodent, rabbit, fish, or turtle.
+> - **(c)** *Penalty* Whoever violates subsection (a) shall be fined under title 18, United States Code, imprisoned not more than 1 year, or both, for each violation.
