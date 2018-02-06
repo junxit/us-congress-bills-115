@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1551
 congress: 115
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1551
@@ -72,3 +72,5 @@ Orrin G. Hatch-Bob Goodlatte Music Modernization Act
 - 2017-06-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-183.
 - 2017-06-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-183.
 - 2017-06-21 — Received in the Senate.
+- 2018-02-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-02-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.
