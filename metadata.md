@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2504
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2504
@@ -20,10 +20,11 @@ To ensure fair treatment in licensing requirements for the export of certain ech
 
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To ensure fair treatment in licensing requirements for the export of certain ech
 - 2018-02-05 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2018-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H753)
 - 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H753)
+- 2018-02-06 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
