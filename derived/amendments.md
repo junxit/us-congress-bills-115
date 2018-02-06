@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3445
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3445
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3445
@@ -49,3 +49,12 @@ African Growth and Opportunity Act and Millennium Challenge Act Modernization Ac
 - 2018-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H430-432)
 - 2018-01-18 — Received in the Senate.
 - 2018-02-06 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
+- 2018-04-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2015)
+- 2018-04-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2015)
+- 2018-04-10 — Message on Senate action sent to the House.
+- 2018-04-11 — Presented to President.
+- 2018-04-11 — Presented to President.
+- 2018-04-23 — Became Public Law No: 115-167.
+- 2018-04-23 — Became Public Law No: 115-167.
+- 2018-04-23 — Signed by President.
+- 2018-04-23 — Signed by President.
