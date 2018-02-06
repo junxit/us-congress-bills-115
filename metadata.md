@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 115
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2579
@@ -43,3 +43,5 @@ Broader Options for Americans Act
 - 2017-06-15 — Rule H. Res. 379 passed House.
 - 2017-06-15 — Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments.
 - 2017-06-15 — The previous question was ordered pursuant to the rule.
+- 2018-02-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-02-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.
