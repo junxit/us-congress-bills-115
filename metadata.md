@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4547
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4547
@@ -94,9 +94,10 @@ Strengthening Protections for Social Security Beneficiaries Act of 2018
 - Rep. Boyle, Brendan F. [D-PA-13] (B001296)
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -115,3 +116,4 @@ Strengthening Protections for Social Security Beneficiaries Act of 2018
 - 2018-02-05 — Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.
 - 2018-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 51). (text: CR H741-746)
 - 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 51).(text: CR H741-746)
+- 2018-02-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
