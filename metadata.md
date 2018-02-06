@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2646
@@ -31,9 +31,10 @@ United States-Jordan Defense Cooperation Extension Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Frankel, Lois [D-FL-21] (F000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ United States-Jordan Defense Cooperation Extension Act
 - 2018-02-05 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2018-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H755)
 - 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H755)
+- 2018-02-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
