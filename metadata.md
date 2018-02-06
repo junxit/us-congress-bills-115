@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2888
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2888
@@ -16,9 +16,10 @@ Ste. Genevieve National Historical Park Establishment Act
 
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Ste. Genevieve National Historical Park Establishment Act
 - 2018-02-05 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2018-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H750-751)
 - 2018-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H750-751)
+- 2018-02-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
