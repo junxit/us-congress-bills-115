@@ -1,7 +1,7 @@
 ---
 measure: H.R. 219
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 219
@@ -37,3 +37,11 @@ Swan Lake Hydroelectric Project Boundary Correction Act
 - 2018-01-29 — Placed on the Union Calendar, Calendar No. 397.
 - 2018-01-29 — Reported by the Committee on Natural Resources. H. Rept. 115-532.
 - 2018-01-29 — Reported by the Committee on Natural Resources. H. Rept. 115-532.
+- 2018-02-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Young (AK) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-02-05 — Considered under suspension of the rules. (consideration: CR H761-762)
+- 2018-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 219.
+- 2018-02-05 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2018-02-06 — Considered as unfinished business. (consideration: CR H896)
+- 2018-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR (2/5/2018) H761)
+- 2018-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR (2/5/2018) H761)
