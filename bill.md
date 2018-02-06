@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 4950
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4950
+
+> To amend the Foreign Assistance Act of 1961 to require the annual human rights reports to include information on instances of sexual assault in refugee camps, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Demand the end of Assault in Refugee Camps Act” or the “D’ARC Act”.
+
+## § 2. Amendments to annual human rights reports under the Foreign Assistance Act of 1961
+
+- **(a)** *In general* The Foreign Assistance Act of 1961 is amended as follows:
+  - **(1)** In section 116(d) (22 U.S.C. 2151n(d))—
+    - **(A)** in paragraph (11), by striking “and” at the end;
+    - **(B)** in paragraph (12), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(13)** wherever applicable, with respect to each country, a description of the extent to which—
+      >   - **(A)** the government of the country is engaging in practices that fail to address, reduce, or prosecute instances of sexual assault in refugee camps located in such country; and
+      >   - **(B)** the United States has taken or will take action to end such practices, including by providing training to relevant personnel to address the crime of sexual assault.
+
+  - **(2)** In section 502B (22 U.S.C. 2304)—
+    - **(A)** by redesignating the second subsection (i) (as added by section 1207(b)(2) of Public Law 113–4) as subsection (j); and
+    - **(B)** by adding at the end the following:
+      > - **(k)** The report required by subsection (b) shall include, wherever applicable, with respect to each country, a description of the extent to which—
+      >   - **(1)** the government of the country is engaging in practices that fail to address, reduce, or prosecute instances of sexual assault in refugee camps located in such country; and
+      >   - **(2)** the United States has taken or will take action to end such practices, including by providing training to relevant personnel to address the crime of sexual assault.
+
+- **(b)** *Effective date* The amendments made by subsection (a)(1) take effect on the date of the enactment of this Act and apply with respect to reports required to be submitted under section 116(d) of the Foreign Assistance Act of 1961 on or after such date of enactment. The amendments made by subsection (a)(2) take effect on the date of the enactment of this Act and apply with respect to reports required to be submitted under section 502B(b) of the Foreign Assistance Act of 1961 on or after such date of enactment.
