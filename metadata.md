@@ -1,7 +1,7 @@
 ---
 measure: H.R. 219
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 219
@@ -45,3 +45,4 @@ Swan Lake Hydroelectric Project Boundary Correction Act
 - 2018-02-06 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR (2/5/2018) H761)
 - 2018-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR (2/5/2018) H761)
+- 2018-02-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.
