@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1997
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,35 +17,34 @@ This Act may be cited as the “Ukraine Cybersecurity Cooperation Act of 2017”
 
 Congress finds the following:
 
-- **(1)** The United States established diplomatic relations with Ukraine in 1992, following its independence from the Soviet Union.
+- **(1)** The United States established diplomatic relations with Ukraine in 1992, following Ukraine’s independence from the Soviet Union.
 - **(2)** The United States attaches great importance to the success of Ukraine’s transition to a modern democratic country with a flourishing market economy.
-- **(3)** In 2014, days before the Presidential election in Ukraine, there took place a failed attempt to destroy the election system software through a cyber attack.
-- **(4)** In December 2015, Ukrainian power companies experienced unscheduled power outages impacting a large number of customers in Ukraine from a cyber attack.
-- **(5)** In response to cyber attacks in Ukraine, Ukrainian President Petro Poroshenko emphasized the need for a National Cyber Security System declaring that cyberspace has turned into another battlefield 101 for State independence.
-- **(6)** As a result of the December 2015 cyberattack, the United States sent interagency teams that included representatives from the Department of Energy, the Federal Bureau of Investigation, and the North American Electric Reliability Corporation to Ukraine to look into the safety of their infrastructure and to help with investigations. The visit was followed up by another interagency delegation to Ukraine in March 2016, and a May 2016 United States-Ukrainian tabletop exercise on mitigating attacks against Ukraine’s infrastructure.
-- **(7)** As noted by former Deputy Secretary of Commerce, Bruce Andrews, “Cybersecurity is a perfect example of a sector in which we can work together to increase national and economic security, create jobs, and provide mutual prosperity for both our economies. Together I am confident that we can provide leadership to enhance cybersecurity capabilities across Central and Southeast Europe.”.
+- **(3)** In an effort to undermine democracy in Ukraine, hackers targeted the country’s voting infrastructure just days before its 2014 presidential election.
+- **(4)** In December 2015, a malicious cyber intrusion into Ukrainian electric utility companies resulted in widespread power outages.
+- **(5)** As a result of the December 2015 cyber incident, the United States sent an interagency team to Ukraine, including representatives from the Department of Energy, the Federal Bureau of Investigation, and the North American Electric Reliability Corporation, to help with the investigation and to assess the vulnerability of Ukraine’s infrastructure to cyber intrusion. The visit was followed up by another interagency delegation to Ukraine in March 2016 and a May 2016 United States-Ukrainian tabletop exercise on mitigating attacks against Ukraine’s infrastructure.
+- **(6)** In response to an escalating series of cyber attacks on the country’s critical infrastructure—including its national railway system, its major stock exchanges, and its busiest airport—President Petro Poroshenko declared that “Cyberspace has turned into another battlefield for state independence.”.
+- **(7)** In May 2017, Ukraine cited activities on Russian social media platforms, including pro-Russian propaganda and offensive cyber operations, as threats to Ukrainian national security.
+- **(8)** Following the June 2017 Petya malware event—a global cyber incident that primarily affected Ukraine—the Secretary General of the North Atlantic Treaty Organization (NATO) said “the cyber attacks we have seen * * * very much highlight the importance of the support, the help NATO provides * * * gives * * * or provides to Ukraine to strengthen its cyber defenses, technical and other kinds of support. We will continue to do that and it’s an important part of our cooperation with Ukraine.”.
+- **(9)** In September 2017, the United States and Ukraine conducted the first United States-Ukraine Bilateral Cyber Dialogue in Kyiv, during which both sides affirmed their commitment to an internet that is open, interoperable, reliable, and secure, and the United States announced $5 million in new cyber assistance to strengthen Ukraine’s ability to prevent, mitigate, and respond to cyber attacks.
 
 ## § 3. Statement of policy
 
 It is the policy of the United States to—
 
-- **(1)** reaffirm the commitment of the United States to the United States-Ukraine Charter on Strategic Partnership, which highlights the importance of the bilateral relationship and outlines enhanced cooperation in the areas of defense, security, economics and trade, energy security, democracy, and cultural exchanges;
-- **(2)** reaffirm the commitment of the United States to support cooperation between the North Atlantic Treaty Organization (NATO) and Ukraine;
-- **(3)** reaffirm the commitment of the United States to provide financial, economic, and technical assistance to Ukraine to achieve its goals for the Ukrainian Government to make progress on reforms and anticorruption initiatives;
-- **(4)** reaffirm the commitment of the United States to the Budapest Memorandum on security assurances; and
-- **(5)** assist the Ukrainian Government to improve its cybersecurity strategy.
+- **(1)** reaffirm the United States-Ukraine Charter on Strategic Partnership, which highlights the importance of the bilateral relationship and outlines enhanced cooperation in the areas of defense, security, economics and trade, energy security, democracy, and cultural exchanges;
+- **(2)** support continued cooperation between NATO and Ukraine;
+- **(3)** support Ukraine’s political and economic reforms;
+- **(4)** reaffirm the commitment of the United States to the Budapest Memorandum on Security Assurances;
+- **(5)** assist Ukraine’s efforts to enhance its cybersecurity capabilities; and
+- **(6)** improve Ukraine’s ability to respond to Russian-supported disinformation and propaganda efforts in cyberspace, including through social media and other outlets.
 
-## § 4. United States actions to assist Ukraine to improve its cybersecurity and protect American interests
+## § 4. United States cybersecurity cooperation with Ukraine
 
 - **(a)** *Sense of Congress* It is the sense of Congress that the Secretary of State should take the following actions, commensurate with United States interests, to assist Ukraine to improve its cybersecurity:
-  - **(1)** Provide Ukraine such support as may be necessary to increase most advanced security protection on government computers, particularly such systems that defend the critical infrastructure of Ukraine.
-  - **(2)** Provide Ukraine support in reducing reliance on Russian technology.
-  - **(3)** Assist Ukraine to build capacity, expand cybersecurity information sharing, and cooperate in international response efforts.
-- **(b)** *Report on Ukraine’s cybersecurity* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the status of United States cybersecurity cooperation with Ukraine to seek new areas for collaboration and assistance, as well as pursue cooperation with regional partners and organizations to address shared cyber challenges. Such report shall also include information relating to the following:
-  - **(1)** An update on the U.S. Department of Energy’s efforts to establish a United States-Ukraine Stakeholder Working Group as an element of their work with Ukraine to develop a Ukrainian Cyber Security Program.
-  - **(2)** An assessment capability to establish joint United States and Ukrainian participation to—
-    - **(A)** conduct cybersecurity assessments of existing Ukrainian Government, military, critical infrastructure, and banking systems in order to identify critical vulnerabilities;
-    - **(B)** recommend mitigation strategies relating to such assessments;
-    - **(C)** combat cybercrime, including through training workshops and joint tabletop exercises covering priority cybersecurity scenarios; and
-    - **(D)** establish an information security awareness program.
-  - **(3)** An update of progress on NATO’s agreement to establish an Incident Management Center to monitor cyber security events and laboratories to investigate cybersecurity incidents.
+  - **(1)** Provide Ukraine such support as may be necessary to secure government computer networks from malicious cyber intrusions, particularly such networks that defend the critical infrastructure of Ukraine.
+  - **(2)** Provide Ukraine support in reducing reliance on Russian information and communications technology.
+  - **(3)** Assist Ukraine to build its capacity, expand cybersecurity information sharing, and cooperate on international cyberspace efforts.
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on United States cybersecurity cooperation with Ukraine. Such report shall also include information relating to the following:
+  - **(1)** United States efforts to strengthen Ukraine’s ability to prevent, mitigate, and respond to cyber incidents, including through training, education, technical assistance, capacity building, and cybersecurity risk management strategies.
+  - **(2)** The potential for new areas of collaboration and mutual assistance between the United States and Ukraine in addressing shared cyber challenges, including cybercrime, critical infrastructure protection, and resilience against botnets and other automated, distributed threats.
+  - **(3)** NATO’s efforts to help Ukraine develop technical capabilities to counter cyber threats.
