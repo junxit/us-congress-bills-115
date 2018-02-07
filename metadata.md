@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 104
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 104
@@ -25,3 +25,4 @@ Providing for a correction in the enrollment of H.R. 1892.
 - 2018-02-06 — Mr. Frelinghuysen asked unanimous consent to consider as introduced.
 - 2018-02-06 — On agreeing to the resolution Agreed to without objection. (text: CR H896-897)
 - 2018-02-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H896-897)
+- 2018-02-07 — Received in the Senate.
