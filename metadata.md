@@ -1,7 +1,7 @@
 ---
 measure: H.R. 772
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 772
@@ -136,3 +136,4 @@ Common Sense Nutrition Disclosure Act of 2017
 - 2018-02-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 157, 1 Present (Roll no. 56).(text: CR H815)
 - 2018-02-06 — The previous question was ordered pursuant to the rule.
 - 2018-02-06 — The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
+- 2018-02-07 — Received in the Senate.
