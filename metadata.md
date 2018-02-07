@@ -1,7 +1,7 @@
 ---
 measure: S. 1621
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1621
@@ -16,7 +16,7 @@ Rural Wireless Access Act of 2017
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Sullivan, Dan [R-AK] (S001198)
@@ -27,6 +27,7 @@ Rural Wireless Access Act of 2017
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ Rural Wireless Access Act of 2017
 
 - 2017-07-24 — Introduced in Senate
 - 2017-07-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-08-02 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-02-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.
+- 2018-02-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.
+- 2018-02-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.
