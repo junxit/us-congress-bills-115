@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 385
@@ -16,7 +16,7 @@ A resolution supporting the observation of "National Trafficking and Modern Slav
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -28,8 +28,18 @@ A resolution supporting the observation of "National Trafficking and Modern Slav
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+
+## Committees (1)
+
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2018-01-29 — Introduced in Senate
 - 2018-01-29 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S552-553; text of measure as introduced: CR S552-553)
+- 2018-02-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S697)
+- 2018-02-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S697)
+- 2018-02-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S697)
+- 2018-02-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S697)
