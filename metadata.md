@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4924
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4924
@@ -57,11 +57,12 @@ Congressional Accountability Act of 1995 Reform Act
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Congressional Accountability Act of 1995 Reform Act
 - 2018-02-06 — Mr. Harper moved to suspend the rules and pass the bill.
 - 2018-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H797-803)
 - 2018-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H797-803)
+- 2018-02-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
