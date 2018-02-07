@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2371
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2371
@@ -46,3 +46,11 @@ Western Area Power Administration Transparency Act
 - 2017-08-29 — Placed on the Union Calendar, Calendar No. 202.
 - 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-282.
 - 2017-08-29 — Reported by the Committee on Natural Resources. H. Rept. 115-282.
+- 2018-02-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Gosar objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-02-05 — Considered under suspension of the rules. (consideration: CR H749-750)
+- 2018-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2371.
+- 2018-02-05 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2018-02-07 — Considered as unfinished business. (consideration: CR H967)
+- 2018-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 2/5/2018 H749-750)
+- 2018-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 2/5/2018 H749-750)
