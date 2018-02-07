@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 102
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 102
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2018-02-06 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2018-02-06 — On agreeing to the resolution Agreed to without objection. (text: CR H815)
 - 2018-02-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H815)
+- 2018-02-07 — Received in the Senate.
