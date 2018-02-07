@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3851
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,4 +19,4 @@ Paragraph (10) of section 36(b) of the State Department Basic Authorities Act of
 
 > defined—
 > - **(A)** under the statute of such country or tribunal, as the case may be; or
-> - **(B)** under United States law.
+> - **(B)** under United States law;
