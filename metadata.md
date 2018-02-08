@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4771
@@ -36,3 +36,16 @@ Small Bank Holding Company Relief Act of 2018
 - 2018-02-02 — Placed on the Union Calendar, Calendar No. 408.
 - 2018-02-02 — Reported by the Committee on Financial Services. H. Rept. 115-543.
 - 2018-02-02 — Reported by the Committee on Financial Services. H. Rept. 115-543.
+- 2018-02-05 — Rules Committee Resolution H. Res. 725 Reported to House. The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
+- 2018-02-06 — Rule H. Res. 725 passed House.
+- 2018-02-08 — Considered as unfinished business. (consideration: CR H995)
+- 2018-02-08 — Considered under the provisions of rule H. Res. 725. (consideration: CR H983-990; text of amendment in nature of a substitute: CR H983)
+- 2018-02-08 — DEBATE - The House proceeded with one hour of debate on H.R. 4771.
+- 2018-02-08 — DEBATE - The House resumed debate on H.R. 4771.
+- 2018-02-08 — House amendment offered
+- 2018-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-08 — On passage Passed by the Yeas and Nays: 280 - 139 (Roll no. 66). (text of Amendment in nature of a substitute: CR H983)
+- 2018-02-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4771, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Hensarling demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2018-02-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 280 - 139 (Roll no. 66).(text of Amendment in nature of a substitute: CR H983)
+- 2018-02-08 — The previous question was ordered pursuant to the rule.
+- 2018-02-08 — The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
