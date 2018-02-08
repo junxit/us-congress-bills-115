@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1417
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1417
@@ -29,3 +29,10 @@ National Law Enforcement Museum Exhibits Act
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Referred to the House Committee on Natural Resources.
+- 2017-03-16 — Referred to the Subcommittee on Federal Lands.
+- 2018-01-17 — Committee Consideration and Mark-up Session Held.
+- 2018-01-17 — Ordered to be Reported by Unanimous Consent.
+- 2018-01-17 — Subcommittee on Federal Lands Discharged.
+- 2018-02-08 — Placed on the Union Calendar, Calendar No. 411.
+- 2018-02-08 — Reported by the Committee on Natural Resources. H. Rept. 115-548.
+- 2018-02-08 — Reported by the Committee on Natural Resources. H. Rept. 115-548.
