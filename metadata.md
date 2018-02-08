@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3851
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3851
@@ -26,9 +26,10 @@ War Crimes Rewards Expansion Act
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ War Crimes Rewards Expansion Act
 - 2018-02-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 61). (text: CR 2/5/2018 H760)
 - 2018-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 61).(text: CR 2/5/2018 H760)
+- 2018-02-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
