@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1997
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1997
@@ -44,9 +44,10 @@ Ukraine Cybersecurity Cooperation Act of 2017
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Frankel, Lois [D-FL-21] (F000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ Ukraine Cybersecurity Cooperation Act of 2017
 - 2018-02-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 404 - 3 (Roll no. 62). (text: CR 2/5/2018 H757-758)
 - 2018-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 404 - 3 (Roll no. 62).(text: CR 2/5/2018 H757-758)
+- 2018-02-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
