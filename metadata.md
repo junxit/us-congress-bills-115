@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1153
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1153
@@ -50,3 +50,13 @@ Mortgage Choice Act of 2017
 - 2018-01-22 — Placed on the Union Calendar, Calendar No. 387.
 - 2018-01-22 — Reported by the Committee on Financial Services. H. Rept. 115-522.
 - 2018-01-22 — Reported by the Committee on Financial Services. H. Rept. 115-522.
+- 2018-02-05 — Rules Committee Resolution H. Res. 725 Reported to House. The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
+- 2018-02-07 — Considered under the provisions of rule H. Res. 725. (consideration: CR H906-965; text: CR H907)
+- 2018-02-07 — DEBATE - The House proceeded with one hour of debate on H.R. 1153.
+- 2018-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1153, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Hensarling demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2018-02-07 — The previous question was ordered pursuant to the rule.
+- 2018-02-07 — The resolution provides for one hour of debate on each measure. The resolution also waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of February 9, 2018. It shall be in order at any time on the legislative day of February 8, 2018 or February 9, 2018 for the Speaker to entertain motions to suspend the rules.
+- 2018-02-08 — Considered as unfinished business. (consideration: CR H981-982)
+- 2018-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-08 — On passage Passed by the Yeas and Nays: 280 - 131 (Roll no. 64).
+- 2018-02-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 280 - 131 (Roll no. 64).
