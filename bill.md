@@ -1,15 +1,15 @@
 ---
 legis-num: H. CON. RES. 104
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 104
 
-That the resolution from the House of Representatives (H. Con. Res. 104) entitled “Concurrent resolution providing for a correction in the enrollment of H.R. 1892”, do pass with the following
+> Providing for a correction in the enrollment of H.R. 1892.
 
-*Strike all after the resolving clause and insert the following:*
+That in the enrollment of the bill H.R. 1892, the Clerk of the House of Representatives shall make the following corrections:
 
 - **(1)** Strike the first section 1 and section 2 immediately following the enacting clause and insert the following:
   > ## § 1. Short Title

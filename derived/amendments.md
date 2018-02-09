@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 104
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
