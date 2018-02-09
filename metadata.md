@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1301
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1301
