@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1301
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1301
@@ -45,3 +45,22 @@ Continuing Appropriations Amendments Act, 2018
 - 2017-03-09 — Received in the Senate.
 - 2017-04-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2017-04-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
+- 2018-02-09 — Amendment SA 1942 agreed to in Senate by Unanimous Consent.
+- 2018-02-09 — Amendment SA 1942 proposed by Senator McConnell. (consideration: CR S853; text: CR S853) In the nature of a substitute.
+- 2018-02-09 — Became Public Law No: 115-124.
+- 2018-02-09 — Became Public Law No: 115-124.
+- 2018-02-09 — Measure laid before Senate by unanimous consent. (consideration: CR S853)
+- 2018-02-09 — Message on Senate action sent to the House.
+- 2018-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-09 — Mr. Frelinghuysen asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR 2/8/2018 H1071-1072)
+- 2018-02-09 — On motion that the House agree to the Senate amendment Agreed to without objection. (text of Senate amendment: CR 2/8/2018 H1071-1072)
+- 2018-02-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-02-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-02-09 — Presented to President.
+- 2018-02-09 — Presented to President.
+- 2018-02-09 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text of Senate amendment: CR 2/8/2018 H1071-1072)
+- 2018-02-09 — Senate amendment agreed to: Amendment SA 1942 agreed to in Senate by Unanimous Consent.
+- 2018-02-09 — Senate amendment proposed (on the floor): Amendment SA 1942 proposed by Senator McConnell.(consideration: CR S853; text: CR S853)
+- 2018-02-09 — Senate amendment submitted
+- 2018-02-09 — Signed by President.
+- 2018-02-09 — Signed by President.
