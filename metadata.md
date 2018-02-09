@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 734
 congress: 115
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 734
