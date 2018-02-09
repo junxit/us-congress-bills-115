@@ -2,21 +2,52 @@
 legis-num: H. CON. RES. 104
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H. CON. RES. 104
 
-> Providing for a correction in the enrollment of H.R. 1892.
+That the resolution from the House of Representatives (H. Con. Res. 104) entitled “Concurrent resolution providing for a correction in the enrollment of H.R. 1892”, do pass with the following
 
-That in the enrollment of the bill H.R. 1892, the Clerk of the House of Representatives shall make the following corrections:
+*Strike all after the resolving clause and insert the following:*
 
-- **(1)** Insert before section 1 the following:
-- **(2)** In section 1, strike “Act” and insert “division”.
-- **(3)** In section 2, after “a “public safety officer” as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284)”, insert the following:
-  > .”.
-  > - **(c)** *Effective date* The amendments made by this section shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act.
+- **(1)** Strike the first section 1 and section 2 immediately following the enacting clause and insert the following:
+  > ## § 1. Short Title
+  >
+  > This Act may be cited as the ‘‘Bipartisan Budget Act of 2018’’.
 
-- **(4)** At the end of division G, strike the following:
+- **(2)** Strike section 1 immediately preceding division B.
+- **(3)** In section 30422(b)(4), strike subparagraphs (A) and (B) and insert the following:
+  > - **(A)** *General authority* For purposes of enabling the joint committee to exercise its powers, functions, and duties under this subtitle, and consistent with the Standing Rules of the Senate, there is authorized from the date of enactment of this Act through February 28, 2019, $500,000 to be allocated—
+  >   - **(i)** in total during the period October 1, 2017 through September 30, 2018; and
+  >   - **(ii)** any remaining amounts shall be carried forward for the period October 1, 2018 through February 28, 2019.
+  > - **(B)** *Expenses* Expenses of the joint committee shall be paid from the contingent fund of the Senate upon vouchers approved by the co-chairs, subject to the rules and regulations of the Senate.
+
+- **(4)** In section 30422(b)(4)(I)(i), insert “, consistent with the rules and regulations of the Senate” before the period at the end.
+- **(5)** Strike section 30423 and insert the following:
+  > ## § 30423. Funding
+  >
+  > - **(a)** *Special reserve* To enable the joint committee to exercise its powers, functions, and duties under this subtitle, within the funds in the account for “Expenses of Inquiries and Investigations” of the Senate, not more than $500,000 shall be allocated from the special reserve established in S. Res. 62, agreed to February 28, 2017 (115th Congress), for use by the joint committee.
+  > - **(b)** *Expiration* None of the funds made available by this section may be available for obligation by the joint committee after January 2, 2019.
+  > - **(c)** *Availability requirements* For purposes of the joint committee, section 20(b) of S. Res. 62, agreed to February 28, 2017 (115th Congress), shall not apply.
+
+- **(6)** In section 30442(b)(4), strike subparagraphs (A) and (B) and insert the following:
+  > - **(A)** *General authority* For purposes of enabling the joint committee to exercise its powers, functions, and duties under this subtitle, and consistent with the Standing Rules of the Senate, there is authorized from the date of enactment of this Act through February 28, 2019, $500,000 to be allocated—
+  >   - **(i)** in total during the period October 1, 2017 through September 30, 2018; and
+  >   - **(ii)** any remaining amounts shall be carried forward for the period October 1, 2018 through February 28, 2019.
+  > - **(B)** *Expenses* Expenses of the joint committee shall be paid from the contingent fund of the Senate upon vouchers approved by the co-chairs, subject to the rules and regulations of the Senate.
+
+- **(7)** In section 30442(b)(4)(I)(i), insert “, consistent with the rules and regulations of the Senate” before the period at the end.
+- **(8)** Strike section 30443 and insert the following:
+  > ## § 30443. Funding
+  >
+  > - **(a)** *Special reserve* To enable the joint committee to exercise its powers, functions, and duties under this subtitle, within the funds in the account for “Expenses of Inquiries and Investigations” of the Senate, not more than $500,000 shall be allocated from the special reserve established in S. Res. 62, agreed to February 28, 2017 (115th Congress), for use by the joint committee.
+  > - **(b)** *Expiration* None of the funds made available by this section may be available for obligation by the joint committee after January 2, 2019.
+  > - **(c)** *Availability requirements* For purposes of the joint committee, section 20(b) of S. Res. 62, agreed to February 28, 2017 (115th Congress), shall not apply.
+
+- **(9)** Strike lines 4–8 on page 232 of the amendment and replace with the following:
+  > - **(II)** a State false claims act, including a State false claims act with qui tam provisions, or
+
+- **(10)** At the end of division G, strike the following:
   > .”.
   > - **(c)** *Effective date* The amendments made by this Act shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act.
