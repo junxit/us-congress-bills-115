@@ -1,7 +1,7 @@
 ---
 measure: S. 2286
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 7 executed, 16 stated and not applied.
+24 amendatory instructions. 7 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -109,6 +109,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2507b` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2507b` | replace | in paragraph (6), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2507b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507c` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2522` | redesignate | by redesignating subsections (a), (b), (c), (d), (e), (f), and (g) as paragraphs (1), (6), (2), (3), (8), (7), and (5), respectively, by arranging such redesignated paragraphs in numerical order, and by moving such paragraphs 2 ems to th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2522` | redesignate | in paragraph (1), as redesignated, by striking “(1)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2522` | redesignate | by inserting after paragraph (3), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
