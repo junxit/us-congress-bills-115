@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1153
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1153
@@ -36,9 +36,10 @@ Mortgage Choice Act of 2017
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Mortgage Choice Act of 2017
 - 2018-02-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-02-08 — On passage Passed by the Yeas and Nays: 280 - 131 (Roll no. 64).
 - 2018-02-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 280 - 131 (Roll no. 64).
+- 2018-02-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
