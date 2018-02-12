@@ -1,7 +1,7 @@
 ---
 measure: H.R. 535
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 535
@@ -126,3 +126,12 @@ Taiwan Travel Act
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
+- 2018-02-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1290-1291)
+- 2018-02-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1290-1291)
+- 2018-03-01 — Message on Senate action sent to the House.
+- 2018-03-05 — Presented to President.
+- 2018-03-05 — Presented to President.
+- 2018-03-16 — Became Public Law No: 115-135.
+- 2018-03-16 — Became Public Law No: 115-135.
+- 2018-03-16 — Signed by President.
+- 2018-03-16 — Signed by President.
