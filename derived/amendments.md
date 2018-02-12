@@ -1,7 +1,7 @@
 ---
 measure: S. 2060
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 3 executed, 1 stated and not applied.
+15 amendatory instructions. 6 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,33 @@ to guess them.
 | Removed | `until such time” and all that follows through “2008` |
 | Inserted | `beginning on the date that is 15 days after the date of the enactment of the Burma Human Rights and Freedom Act of 2017` |
 
+### 50 U.S.C. § 1701
+
+> in paragraph (1), by striking “until such time” and all that follows through “2008” and inserting “beginning on the date that is 180 days after the date of the enactment of the Burma Human Rights and Freedom Act of 2018”; and
+
+| | |
+|---|---|
+| Removed | `until such time” and all that follows through “2008` |
+| Inserted | `beginning on the date that is 180 days after the date of the enactment of the Burma Human Rights and Freedom Act of 2018` |
+
+### 50 U.S.C. § 1701
+
+> in paragraph (3), by striking “the date of the enactment of this Act” and inserting “the date of the enactment of the Burma Human Rights and Freedom Act of 2018”; and
+
+| | |
+|---|---|
+| Removed | `the date of the enactment of this Act` |
+| Inserted | `the date of the enactment of the Burma Human Rights and Freedom Act of 2018` |
+
+### 50 U.S.C. § 1701
+
+> in paragraph (1), by striking “until such time” and all that follows through “2008” and inserting “beginning on the date that is 180 days after the date of the enactment of the Burma Human Rights and Freedom Act of 2018”; and
+
+| | |
+|---|---|
+| Removed | `until such time” and all that follows through “2008` |
+| Inserted | `beginning on the date that is 180 days after the date of the enactment of the Burma Human Rights and Freedom Act of 2018` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -61,3 +88,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `50 U.S.C. § 1701` | add-at-end | Section 3A of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | replace | Section 3A of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by striking subsections (g) and (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | strike | by striking “and rubies”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | strike | by striking “or rubies”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | strike | in clause (ii), by striking “or polished rubies” | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | strike | by striking “or rubies” each place it appears. | the bill quotes the text struck but describes what replaces it |
