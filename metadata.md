@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 92
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 92
@@ -16,7 +16,7 @@ A resolution expressing concern over the disappearance of David Sneddon, and for
 
 - Sen. Lee, Mike [R-UT] (L000577)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Fischer, Deb [R-NE] (F000463)
@@ -25,6 +25,7 @@ A resolution expressing concern over the disappearance of David Sneddon, and for
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Flake, Jeff [R-AZ] (F000444)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -34,3 +35,7 @@ A resolution expressing concern over the disappearance of David Sneddon, and for
 
 - 2017-03-23 — Introduced in Senate
 - 2017-03-23 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1977)
+- 2018-02-07 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
