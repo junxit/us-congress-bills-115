@@ -1,7 +1,7 @@
 ---
 measure: S. 2060
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2060
@@ -16,7 +16,7 @@ Burma Human Rights and Freedom Act of 2018
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -31,6 +31,9 @@ Burma Human Rights and Freedom Act of 2018
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -40,3 +43,7 @@ Burma Human Rights and Freedom Act of 2018
 
 - 2017-11-02 — Introduced in Senate
 - 2017-11-02 — Read twice and referred to the Committee on Foreign Relations.
+- 2018-02-07 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
