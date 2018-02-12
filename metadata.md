@@ -1,7 +1,7 @@
 ---
 measure: H.R. 535
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 535
@@ -122,3 +122,7 @@ Taiwan Travel Act
 - 2018-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H57)
 - 2018-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H57)
 - 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-02-07 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
