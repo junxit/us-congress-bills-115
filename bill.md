@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4378
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Nuclear Energy Research Infrastructure Act of 2017”.
+This Act may be cited as the “Nuclear Energy Research Infrastructure Act of 2018”.
 
 ## § 2. Versatile neutron source
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Nuclear Energy Research Infrastructure Act of 20
     - **(G)** Additional pre-irradiation and post-irradiation examination capabilities.
     - **(H)** Lifetime operating costs and lifecycle costs.
 - **(c)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the facility under this section occurs before December 31, 2025.
-- **(d)** *Funding* Out of funds appropriated to the Office of Nuclear Energy, there shall be made available to the Secretary to carry out activities, including design and construction of the facility, under this section—
+- **(d)** *Funding* There are authorized to be appropriated to the Secretary for the Office of Nuclear Energy to carry out to completion the construction of the facility under this section—
   - **(1)** $35,000,000 for fiscal year 2018;
   - **(2)** $100,000,000 for fiscal year 2019;
   - **(3)** $200,000,000 for fiscal year 2020;
@@ -39,3 +39,7 @@ This Act may be cited as the “Nuclear Energy Research Infrastructure Act of 20
   - **(6)** $350,000,000 for fiscal year 2023;
   - **(7)** $350,000,000 for fiscal year 2024; and
   - **(8)** $350,000,000 for fiscal year 2025.
+
+## § 3. Spending limitation
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
