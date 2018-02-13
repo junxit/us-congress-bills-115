@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4979
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 19 U.S.C. § 2463
 
-> in subparagraph (E), by striking “on January 1, 1995” and inserting “in any of the preceding three calendar years”; and
+> in subparagraph (E), by striking “on January 1, 1995” and inserting “in any of the preceding 3 calendar years”; and
 
 | | |
 |---|---|
 | Removed | `on January 1, 1995` |
-| Inserted | `in any of the preceding three calendar years` |
+| Inserted | `in any of the preceding 3 calendar years` |
 
 ### 19 U.S.C. § 2463
 
@@ -62,9 +62,9 @@ to guess them.
 
 ### 19 U.S.C. § 58c
 
-> Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “January 14, 2026” and inserting “June 21, 2026”.
+> Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “February 24, 2027” and inserting “August 1, 2027”.
 
 | | |
 |---|---|
-| Removed | `January 14, 2026` |
-| Inserted | `June 21, 2026` |
+| Removed | `February 24, 2027` |
+| Inserted | `August 1, 2027` |

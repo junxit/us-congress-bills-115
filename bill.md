@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *In general* The amendment made by subsection (a) shall apply to articles entered on or after the 30th day after the date of the enactment of this Act.
   - **(2)** *Retroactive application for certain liquidations and reliquidations*
     - **(A)** *In general* Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law and subject to subparagraph (B), any entry of a covered article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 (19 U.S.C. 2461 et seq.) would have applied if the entry had been made on December 31, 2017, that was made—
-      - **(i)** after December 31, 2017; and
+      - **(i)** after December 31, 2017, and
       - **(ii)** before the effective date specified in paragraph (1),
     - **(B)** *Requests* A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable U.S. Customs and Border Protection—
       - **(i)** to locate the entry; or
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** *Definitions* In this subsection:
     - **(A)** *Covered article* The term “covered article” means an article from a country that is a beneficiary developing country under title V of the Trade Act of 1974 (19 U.S.C. 2461 et seq.) as of the effective date specified in paragraph (1).
     - **(B)** *Enter; entry* The terms “enter” and “entry” include a withdrawal from warehouse for consumption.
-- **(c)** *Annual report on enforcement of eligibility criteria* Not later than one year after the date of the enactment of this Act, and annually thereafter through December 31, 2020, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on efforts to ensure that countries designated as beneficiary developing countries under title V of the Trade Act of 1974 (19 U.S.C. 2461 et seq.) are meeting the eligibility criteria set forth in section 502(c) of such Act (19 U.S.C. 2462(c)).
+- **(c)** *Annual report on enforcement of eligibility criteria* Not later than 1 year after the date of the enactment of this Act, and annually thereafter through December 31, 2020, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on efforts to ensure that countries designated as beneficiary developing countries under title V of the Trade Act of 1974 (19 U.S.C. 2461 et seq.) are meeting the eligibility criteria set forth in section 502(c) of such Act (19 U.S.C. 2462(c)).
 
 ## § 2. Technical modification to procedures for competitive need limitation and waivers
 
@@ -33,9 +33,9 @@ Section 503 of the Trade Act of 1974 (19 U.S.C. 2463) is amended—
 
 - **(1)** in subsection (c)(2)—
   - **(A)** in the matter following subparagraph (A)(i)(II), by striking “July 1” and inserting “November 1”; and
-  - **(B)** in subparagraph (E), by striking “on January 1, 1995” and inserting “in any of the preceding three calendar years”; and
+  - **(B)** in subparagraph (E), by striking “on January 1, 1995” and inserting “in any of the preceding 3 calendar years”; and
 - **(2)** in subsection (d), by striking “July 1” each place it appears and inserting “November 1”.
 
 ## § 3. Customs user fees
 
-Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “January 14, 2026” and inserting “June 21, 2026”.
+Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “February 24, 2027” and inserting “August 1, 2027”.
