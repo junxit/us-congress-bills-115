@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4675
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Low-Dose Radiation Research Act of 2017”.
+This Act may be cited as the “Low-Dose Radiation Research Act of 2018”.
 
 ## § 2. Low-dose radiation research program
 
@@ -25,8 +25,9 @@ This Act may be cited as the “Low-Dose Radiation Research Act of 2017”.
   >   - **(1)** formulate scientific goals for low-dose radiation basic research in the United States;
   >   - **(2)** identify ongoing scientific challenges for understanding the long-term effects of ionizing radiation on biological systems;
   >   - **(3)** develop a long-term strategic and prioritized basic research agenda to address such scientific challenges in coordination with other research efforts;
-  >   - **(4)** leverage the collective body of knowledge from existing low-dose radiation research; and
-  >   - **(5)** engage with other Federal agencies, research communities, and potential users of information produced under this section, including institutions concerning radiation research, medical physics, radiology, health physics, and emergency response.
+  >   - **(4)** identify and, to the extent possible, quantify, potential monetary and health-related benefits to Federal agencies, the general public, industry, research communities, and other users of information produced by such research program;
+  >   - **(5)** leverage the collective body of knowledge from existing low-dose radiation research; and
+  >   - **(6)** engage with other Federal agencies, research communities, and potential users of information produced under this section, including institutions concerning radiation research, medical physics, radiology, health physics, and emergency response.
   > - **(c)** *Coordination* In carrying out the program, the Secretary, in coordination with the Physical Science Subcommittee of the National Science and Technology Council, shall—
   >   - **(1)** support the directives under section 106 of the American Innovation and Competitiveness Act (42 U.S.C. 6601 note);
   >   - **(2)** ensure that the Office of Science of the Department of Energy consults with the National Aeronautics and Space Administration, the National Institutes of Health, the Environmental Protection Agency, the Department of Defense, the Nuclear Regulatory Commission, and the Department of Homeland Security;
@@ -42,3 +43,7 @@ This Act may be cited as the “Low-Dose Radiation Research Act of 2017”.
   >   - **(4)** $30,000,000 for fiscal year 2021.
 
 - **(b)** *Conforming amendment* The table of contents for subtitle G of title IX of the Energy Policy Act of 2005 is amended by inserting after the item relating to section 977 the following:
+
+## § 3. Spending limitation
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
