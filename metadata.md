@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4376
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4376
@@ -32,3 +32,14 @@ Department of Energy Research Infrastructure Act of 2018
 - 2017-11-13 — Introduced in House
 - 2017-11-13 — Introduced in House
 - 2017-11-13 — Referred to the House Committee on Science, Space, and Technology.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported by Voice Vote.
+- 2018-02-13 — Considered under suspension of the rules. (consideration: CR H1095-1097)
+- 2018-02-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4376.
+- 2018-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-13 — Mr. Weber (TX) moved to suspend the rules and pass the bill, as amended.
+- 2018-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1096)
+- 2018-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1096)
+- 2018-02-13 — Placed on the Union Calendar, Calendar No. 418.
+- 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-556.
+- 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-556.
