@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Low-Dose Radiation Research Act of 2018”.
+This Act may be cited as the “Low-Dose Radiation Research Act of 2017”.
 
 ## § 2. Low-dose radiation research program
 
@@ -43,7 +43,3 @@ This Act may be cited as the “Low-Dose Radiation Research Act of 2018”.
   >   - **(4)** $30,000,000 for fiscal year 2021.
 
 - **(b)** *Conforming amendment* The table of contents for subtitle G of title IX of the Energy Policy Act of 2005 is amended by inserting after the item relating to section 977 the following:
-
-## § 3. Spending limitation
-
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
