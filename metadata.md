@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4675
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4675
@@ -23,9 +23,10 @@ Low-Dose Radiation Research Act of 2018
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Low-Dose Radiation Research Act of 2018
 - 2018-02-13 — Placed on the Union Calendar, Calendar No. 416.
 - 2018-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-554.
 - 2018-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-554.
+- 2018-02-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
