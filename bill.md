@@ -9,14 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Real Estate Settlement Procedures Act of 1974 to modify requirements related to mortgage disclosures, and for other purposes.
 
-## § 1. Short title
+## § 1. Table of contents
 
-This Act may be cited as the “TRID Improvement Act of 2017”.
+The table of contents for this Act is as follows:
 
-## § 2. Amendments to mortgage disclosure requirements
+## § 2. Securities and Exchange Commission Reserve Fund
 
-Section 4(a) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2603(a)) is amended—
-
-- **(1)** by striking “itemize all charges” and inserting “itemize all actual charges”;
-- **(2)** by striking “and all charges imposed upon the seller in connection with the settlement and” and inserting “and the seller in connection with the settlement. Such forms”; and
-- **(3)** by inserting after “or both.” the following new sentence: “Charges for any title insurance premium disclosed on such forms shall be equal to the amount charged for each individual title insurance policy, subject to any discounts as required by State regulation or the title company rate filings.”.
+Notwithstanding section 4(i)(2)(B)(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(i)(2)(B)(i)), the amount deposited in the Securities and Exchange Commission Reserve Fund for fiscal year 2018 may not exceed $48,000,000.
