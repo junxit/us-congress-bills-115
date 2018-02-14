@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 103
@@ -38,3 +38,10 @@ Authorizing the use of Emancipation Hall for a ceremony as part of the commemora
 - 2018-02-05 — Introduced in House
 - 2018-02-05 — Introduced in House
 - 2018-02-05 — Referred to the House Committee on House Administration.
+- 2018-02-14 — Committee on House Administration discharged.
+- 2018-02-14 — Committee on House Administration discharged.
+- 2018-02-14 — Considered by unanimous consent. (consideration: CR H1147)
+- 2018-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-14 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2018-02-14 — On agreeing to the resolution Agreed to without objection. (text: CR H1147)
+- 2018-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1147)
