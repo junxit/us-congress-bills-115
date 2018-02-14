@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5012
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5012
+
+> To provide further tax relief for Americans receiving bonuses.
+
+## § 1. Short title
+
+This Act may be cited as the “Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018”.
+
+## § 2. Tax relief for bonuses
+
+- **(a)** *In general* In the case of a taxable year beginning after December 31, 2017, and before January 1, 2019—
+  - **(1)** If an employee receives a bonus, amounts not to exceed a total of $2,500 annually of bonus income shall not be considered taxable earnings for the purposes of the employee’s Federal tax liabilities.
+- **(b)** *Definitions* For purposes of this paragraph—
+  - **(1)** *Bonus* The term bonus means wages paid in addition to the compensation ordinarily given, required, optioned, or obligated under an employment contract.
