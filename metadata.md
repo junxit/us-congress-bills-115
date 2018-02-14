@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4378
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4378
@@ -24,9 +24,10 @@ Nuclear Energy Research Infrastructure Act of 2018
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Nuclear Energy Research Infrastructure Act of 2018
 - 2018-02-13 — Placed on the Union Calendar, Calendar No. 419.
 - 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-557.
 - 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-557.
+- 2018-02-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
