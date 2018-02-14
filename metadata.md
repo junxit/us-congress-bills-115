@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4533
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4533
@@ -43,3 +43,12 @@ To designate the health care system of the Department of Veterans Affairs in Lex
 - 2018-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 70). (text: CR H1081-1082)
 - 2018-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 70).(text: CR H1081-1082)
 - 2018-02-14 — Received in the Senate, read twice.
+- 2018-02-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1191)
+- 2018-02-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1191)
+- 2018-02-16 — Message on Senate action sent to the House.
+- 2018-02-28 — Presented to President.
+- 2018-02-28 — Presented to President.
+- 2018-03-09 — Became Public Law No: 115-132.
+- 2018-03-09 — Became Public Law No: 115-132.
+- 2018-03-09 — Signed by President.
+- 2018-03-09 — Signed by President.
