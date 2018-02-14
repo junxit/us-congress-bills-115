@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 736
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 736
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 620) to amend the Americans with D
 
 - Rep. Collins, Doug [R-GA-9] (C001093)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2018-02-14 — [House 115-2-72](votes/house-115-2-0072.md) — On Ordering the Previous Question — **Passed** (228–187)
+- 2018-02-14 — [House 115-2-73](votes/house-115-2-0073.md) — On Agreeing to the Resolution — **Passed** (227–187)
+
 ## Actions
 
 - 2018-02-13 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the bill (H.R. 620) to amend the Americans with D
 - 2018-02-13 — Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
 - 2018-02-13 — The House Committee on Rules reported an original measure, H. Rept. 115-559, by Mr. Collins (GA).
 - 2018-02-13 — The House Committee on Rules reported an original measure, H. Rept. 115-559, by Mr. Collins (GA).
+- 2018-02-14 — Considered as privileged matter. (consideration: CR H1136-1146)
+- 2018-02-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 736.
+- 2018-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-14 — On agreeing to the resolution Agreed to by recorded vote: 227 - 187 (Roll no. 73). (text: CR H1136)
+- 2018-02-14 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 187 (Roll no. 72).
+- 2018-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 187 (Roll no. 73).(text: CR H1136)
