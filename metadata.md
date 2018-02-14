@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3397
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3397
@@ -50,9 +50,10 @@ Building Blocks of STEM Act
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Building Blocks of STEM Act
 - 2018-02-13 — Placed on the Union Calendar, Calendar No. 420.
 - 2018-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-558.
 - 2018-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-558.
+- 2018-02-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

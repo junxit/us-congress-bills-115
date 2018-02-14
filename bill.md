@@ -2,7 +2,7 @@
 legis-num: H.R. 3397
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3397
@@ -29,7 +29,7 @@ In this Act:
 - **(1)** *Director* The term “Director” means the Director of the National Science Foundation.
 - **(2)** *Early Childhood* The term “early childhood” applies to children from birth through the age of 10.
 - **(3)** *Institution of higher education* The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
-- **(4)** *Local educational agency* The term “local educational agency” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 USC 7801), except that such term also includes preschools, after-school programs, and summer programs.
+- **(4)** *Local educational agency* The term “local educational agency” has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801), except that such term also includes preschools, after-school programs, and summer programs.
 - **(5)** *STEM* The term “STEM” has the meaning given the term in section 2 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621 note).
 - **(6)** *Young girls* The term “young girls” means female individuals who have not attained the age of 11.
 
