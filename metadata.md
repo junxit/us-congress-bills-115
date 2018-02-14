@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3299
@@ -26,6 +26,10 @@ Protecting Consumers' Access to Credit Act of 2017
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2018-02-14 — [House 115-2-78](votes/house-115-2-0078.md) — On Passage — **Passed** (245–171)
+
 ## Actions
 
 - 2017-07-19 — Introduced in House
@@ -36,3 +40,13 @@ Protecting Consumers' Access to Credit Act of 2017
 - 2018-01-30 — Placed on the Union Calendar, Calendar No. 402.
 - 2018-01-30 — Reported by the Committee on Financial Services. H. Rept. 115-538.
 - 2018-01-30 — Reported by the Committee on Financial Services. H. Rept. 115-538.
+- 2018-02-13 — Rules Committee Resolution H. Res. 736 Reported to House. Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
+- 2018-02-14 — Considered as unfinished business. (consideration: CR H1169)
+- 2018-02-14 — Considered under the provisions of rule H. Res. 736. (consideration: CR H1147-1155)
+- 2018-02-14 — DEBATE - The House proceeded with one hour of debate on H.R. 3299.
+- 2018-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-14 — On passage Passed by the Yeas and Nays: 245 - 171 (Roll no. 78). (text: CR H1148)
+- 2018-02-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3299, the Chair put the question on passage of the bill, and by voice vote announced the ayes had prevailed. Mr. Hensarling demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until later in the legislative day.
+- 2018-02-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 171 (Roll no. 78).(text: CR H1148)
+- 2018-02-14 — Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
+- 2018-02-14 — The previous question was ordered pursuant to the rule.
