@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4377
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4377
@@ -26,9 +26,10 @@ Accelerating American Leadership in Science Act of 2018
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Accelerating American Leadership in Science Act of 2018
 - 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-555.
 - 2018-02-13 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-555.
 - 2018-02-13 — The title of the measure was amended. Agreed to without objection.
+- 2018-02-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

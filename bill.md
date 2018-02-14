@@ -2,16 +2,16 @@
 legis-num: H.R. 4377
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4377
 
-> To direct the Secretary of Energy to carry out an upgrade to research equipment and construct research user facilities, and for other purposes.
+> To direct the Secretary of Energy to carry out certain upgrades to research equipment and construct research user facilities, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Accelerating American Leadership in Science Act of 2017”.
+This Act may be cited as the “Accelerating American Leadership in Science Act of 2018”.
 
 ## § 2. Advanced photon source upgrade
 
@@ -20,7 +20,7 @@ This Act may be cited as the “Accelerating American Leadership in Science Act 
   - **(1)** *Flux* The term “flux” means the rate of flow of photons.
   - **(2)** *Hard x-ray* The term “hard x-ray” means a photon with energy greater than 20 kiloelectron volts.
 - **(c)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the upgrade under this section occurs before December 31, 2025.
-- **(d)** *Funding* Out of funds appropriated to the Office of Science, there shall be made available to the Secretary to carry out the upgrade under this section—
+- **(d)** *Funding* There are authorized to be appropriated to the Secretary for the Office of Science to carry out to completion the upgrade under this section—
   - **(1)** $93,000,000 for fiscal year 2018;
   - **(2)** $130,000,000 for fiscal year 2019;
   - **(3)** $152,400,000 for fiscal year 2020;
@@ -33,11 +33,11 @@ This Act may be cited as the “Accelerating American Leadership in Science Act 
 - **(a)** *In general* The Secretary of Energy shall provide for a Long-Baseline Neutrino Facility to facilitate the international Deep Underground Neutrino Experiment to enable a program in neutrino physics to measure the fundamental properties of neutrinos, explore physics beyond the Standard Model, and better clarify the nature of matter and antimatter.
 - **(b)** *Facility capabilities* The Secretary shall ensure that the facility described in subsection (a) will provide, at a minimum, the following capabilities:
   - **(1)** A broad-band neutrino beam capable of 1.2 megawatts (MW) of beam power and upgradable to 2.4 MW of beam power.
-  - **(2)** Four caverns excavated for a forty kiloton fiducial detector mass and supporting surface buildings and utilities.
+  - **(2)** Four caverns excavated for a 40 kiloton fiducial detector mass and supporting surface buildings and utilities.
   - **(3)** Neutrino detector facilities at both the Far Site in South Dakota and the Near Site in Illinois to categorize and study neutrinos on their 800-mile journey between the two sites.
   - **(4)** Cryogenic systems to support neutrino detectors.
 - **(c)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the facility under this section occurs before December 31, 2026.
-- **(d)** *Funding* Out of funds appropriated to the Office of Science, there shall be made available to the Secretary to carry out activities, including construction of the facility, under this section—
+- **(d)** *Funding* There are authorized to be appropriated to the Secretary for the Office of Science to carry out to completion the construction of the facility under this section—
   - **(1)** $95,000,000 for fiscal year 2018;
   - **(2)** $160,000,000 for fiscal year 2019;
   - **(3)** $195,000,000 for fiscal year 2020;
@@ -56,7 +56,7 @@ This Act may be cited as the “Accelerating American Leadership in Science Act 
   - **(2)** the publication of the Office of Science of the Department of Energy titled “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published August 2007; and
   - **(3)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
 - **(c)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the upgrade under this section occurs before December 31, 2025.
-- **(d)** *Funding* Out of funds appropriated to the Office of Science, there shall be made available to the Secretary to carry out the upgrade under this section—
+- **(d)** *Funding* There are authorized to be appropriated to the Secretary for the Office of Science to carry out to completion the upgrade under this section—
   - **(1)** $26,000,000 for fiscal year 2018;
   - **(2)** $70,800,000 for fiscal year 2019;
   - **(3)** $33,500,000 for fiscal year 2020;
@@ -73,7 +73,7 @@ This Act may be cited as the “Accelerating American Leadership in Science Act 
   - **(2)** the publication of the Office of Science of the Department of Energy titled “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published August 2007; and
   - **(3)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
 - **(c)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the second target station under this section occurs before December 31, 2030, with the option for early operation in 2028.
-- **(d)** *Funding* Out of funds appropriated to the Office of Science, there shall be made available to the Secretary to carry out activities, including construction, under this section—
+- **(d)** *Funding* There are authorized to be appropriated to the Secretary for the Office of Science to carry out to completion the construction of the facility under this section—
   - **(1)** $5,000,000 for fiscal year 2018;
   - **(2)** $10,000,000 for fiscal year 2019;
   - **(3)** $15,000,000 for fiscal year 2020;
@@ -85,3 +85,7 @@ This Act may be cited as the “Accelerating American Leadership in Science Act 
   - **(9)** $275,000,000 for fiscal year 2026;
   - **(10)** $250,000,000 for fiscal year 2027; and
   - **(11)** $120,000,000 for fiscal year 2028.
+
+## § 6. Spending limitation
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
