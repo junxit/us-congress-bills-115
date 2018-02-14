@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4979
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4979
@@ -30,9 +30,10 @@ To extend the Generalized System of Preferences and to make technical changes to
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To extend the Generalized System of Preferences and to make technical changes to
 - 2018-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 2 (Roll no. 71). (text: CR H1100)
 - 2018-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 2 (Roll no. 71).(text: CR H1100)
 - 2018-02-13 — Referred to the Subcommittee on Trade.
+- 2018-02-14 — Received in the Senate and Read twice and referred to the Committee on Finance.
