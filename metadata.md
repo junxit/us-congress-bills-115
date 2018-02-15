@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 103
@@ -45,3 +45,4 @@ Authorizing the use of Emancipation Hall for a ceremony as part of the commemora
 - 2018-02-14 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2018-02-14 — On agreeing to the resolution Agreed to without objection. (text: CR H1147)
 - 2018-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1147)
+- 2018-02-15 — Received in the Senate.
