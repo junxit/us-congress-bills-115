@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3978
@@ -37,9 +37,10 @@ TRID Improvement Act of 2017
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ TRID Improvement Act of 2017
 - 2018-02-14 — Rule H. Res. 736 passed House.
 - 2018-02-14 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-02-14 — The previous question was ordered on the bill and amendment pursuant to the rule.
+- 2018-02-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
