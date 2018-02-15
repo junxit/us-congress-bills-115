@@ -1,7 +1,7 @@
 ---
 measure: H.R. 620
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 620
@@ -133,6 +133,11 @@ ADA Education and Reform Act of 2017
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2018-02-15 — [House 115-2-79](votes/house-115-2-0079.md) — On Agreeing to the Amendment — **Failed** (188–226)
+- 2018-02-15 — [House 115-2-80](votes/house-115-2-0080.md) — On Passage — **Passed** (225–192)
+
 ## Actions
 
 - 2017-01-24 — Introduced in House
@@ -144,3 +149,70 @@ ADA Education and Reform Act of 2017
 - 2018-01-30 — Placed on the Union Calendar, Calendar No. 403.
 - 2018-01-30 — Reported by the Committee on Judiciary. H. Rept. 115-539.
 - 2018-01-30 — Reported by the Committee on Judiciary. H. Rept. 115-539.
+- 2018-02-13 — Rules Committee Resolution H. Res. 736 Reported to House. Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
+- 2018-02-15 — Amendment (A001) offered by Mr. Denham. (consideration: CR H1192-1194; text: CR H1193)
+- 2018-02-15 — Amendment (A002) offered by Mr. Langevin. (consideration: CR H1194-1195, H1198-1199; text: CR H1194)
+- 2018-02-15 — Amendment (A003) offered by Mr. Foster. (consideration: CR H1195; text: CR H1195)
+- 2018-02-15 — Amendment (A004) offered by Ms. Speier. (consideration: CR H1195-1196; text: CR H1195)
+- 2018-02-15 — Amendment (A005) offered by Mr. Bera. (consideration: CR H1196-1197; text: CR H1196)
+- 2018-02-15 — Amendment (A006) offered by Mr. Poe (TX). (consideration: CR H1197-1198; text: CR H1197)
+- 2018-02-15 — Amendment agreed to Committee of the Whole
+- 2018-02-15 — Amendment agreed to Committee of the Whole
+- 2018-02-15 — Amendment agreed to Committee of the Whole
+- 2018-02-15 — Amendment agreed to Committee of the Whole
+- 2018-02-15 — Amendment failed in Committee of the Whole
+- 2018-02-15 — Amendment failed in Committee of the Whole
+- 2018-02-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 620 as unfinished business.
+- 2018-02-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 620 as unfinished business.
+- 2018-02-15 — Considered as unfinished business. (consideration: CR H1192-1198)
+- 2018-02-15 — Considered as unfinished business. (consideration: CR H1198-1200)
+- 2018-02-15 — Considered under the provisions of rule H. Res. 736. (consideration: CR H1183-1192)
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Bera Part A amendment No. 5.
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Denham Part A amendment No. 1.
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Foster Part A amendment No. 3.
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin Part A amendment No. 2.
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Poe(TX) Part A amendment No. 6.
+- 2018-02-15 — DEBATE - Pursuant to the provisions of H.Res. 736, the Committee of the Whole proceeded with 10 minutes of debate on the Speier Part A amendment No. 4.
+- 2018-02-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 620.
+- 2018-02-15 — House amendment agreed to: On agreeing to the Bera amendment (A005) Agreed to by voice vote.
+- 2018-02-15 — House amendment agreed to: On agreeing to the Denham amendment (A001) Agreed to by voice vote.
+- 2018-02-15 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A006) Agreed to by voice vote.
+- 2018-02-15 — House amendment agreed to: On agreeing to the Speier amendment (A004) Agreed to by voice vote.
+- 2018-02-15 — House amendment not agreed to: On agreeing to the Foster amendment (A003) Failed by voice vote.
+- 2018-02-15 — House amendment not agreed to: On agreeing to the Langevin amendment Failed by recorded vote: 188 - 226 (Roll no. 79).
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered
+- 2018-02-15 — House amendment offered/reported by: Amendment (A001) offered by Mr. Denham.(consideration: CR H1192-1194; text: CR H1193)
+- 2018-02-15 — House amendment offered/reported by: Amendment (A002) offered by Mr. Langevin.(consideration: CR H1194-1195, H1198-1199; text: CR H1194)
+- 2018-02-15 — House amendment offered/reported by: Amendment (A003) offered by Mr. Foster.(consideration: CR H1195; text: CR H1195)
+- 2018-02-15 — House amendment offered/reported by: Amendment (A004) offered by Ms. Speier.(consideration: CR H1195-1196; text: CR H1195)
+- 2018-02-15 — House amendment offered/reported by: Amendment (A005) offered by Mr. Bera.(consideration: CR H1196-1197; text: CR H1196)
+- 2018-02-15 — House amendment offered/reported by: Amendment (A006) offered by Mr. Poe (TX).(consideration: CR H1197-1198; text: CR H1197)
+- 2018-02-15 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 736 and Rule XVIII.
+- 2018-02-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-15 — Mr. Goodlatte moved that the committee rise.
+- 2018-02-15 — Mr. Poe (TX) moved that the committee rise.
+- 2018-02-15 — On agreeing to the Bera amendment (A005) Agreed to by voice vote.
+- 2018-02-15 — On agreeing to the Denham amendment (A001) Agreed to by voice vote.
+- 2018-02-15 — On agreeing to the Foster amendment (A003) Failed by voice vote.
+- 2018-02-15 — On agreeing to the Langevin amendment Failed by recorded vote: 188 - 226 (Roll no. 79).
+- 2018-02-15 — On agreeing to the Poe (TX) amendment (A006) Agreed to by voice vote.
+- 2018-02-15 — On agreeing to the Speier amendment (A004) Agreed to by voice vote.
+- 2018-02-15 — On motion that the committee rise Agreed to by voice vote.
+- 2018-02-15 — On motion that the committee rise Agreed to by voice vote.
+- 2018-02-15 — On passage Passed by the Yeas and Nays: 225 - 192 (Roll no. 80). (text: CR H1192)
+- 2018-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-02-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 192 (Roll no. 80).(text: CR H1192)
+- 2018-02-15 — Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
+- 2018-02-15 — Roll call votes on amendments in House
+- 2018-02-15 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-02-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-02-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-02-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 620.
+- 2018-02-15 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2018-02-15 — The previous question was ordered pursuant to the rule.
+- 2018-02-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
