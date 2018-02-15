@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 5033
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5033
+
+> To set aside certain funds for supplementary safety measures and alternative safety measures for railway-highway grade crossings, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanding Resources to Establish Rail Quiet Zones Act of 2018”.
+
+## § 2. Rail improvement set-aside for supplementary and alternative safety measures
+
+- **(a)** *In general* Section 24407 of title 49, United States Code, is amended by adding at the end the following:
+  > - **(m)** *Supplementary and alternative safety measures* Of the amounts appropriated under this section, 10 percent shall be available for supplementary safety measures and alternative safety measures, as those terms are defined in section 222.9 of title 49, Code of Federal Regulations.
+
+- **(b)** *Authorization of appropriations* Section 11102 of the FAST Act (Public Law 114–94) is amended—
+  - **(1)** in subsection (a)(4) by striking “$255,000,000” and inserting “$330,000,000”; and
+  - **(2)** in subsection (a)(5) by striking “$330,000,000” and inserting “$350,000,000”.
+
+## § 3. Railway-highway crossings
+
+Section 130 of title 23, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by striking “and projects at grade crossings” and inserting “projects at grade crossings”; and
+  - **(B)** by inserting “and supplementary safety measures and alternative safety measures, as those terms are defined in section 222.9 of title 49, Code of Federal Regulations,” after “idling trains,”; and
+- **(2)** in subsection (f)(3) by inserting “, except that the Federal share for supplementary safety measures and alternative safety measures described under subsection (a) shall be 100 percent” before the period at the end.
+
+## § 4. Surface transportation block grant program
+
+Section 133(b)(4) of title 23, United States Code, is amended by inserting “and supplementary safety measures and alternative safety measures, as those terms are defined in section 222.9 of title 49, Code of Federal Regulations” after “grade crossings”.
