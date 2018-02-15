@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3542
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3542
@@ -40,10 +40,11 @@ Hamas Human Shields Prevention Act
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Hamas Human Shields Prevention Act
 - 2018-02-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 74). (text: CR 2/13/2018 H1083-1084)
 - 2018-02-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 74).(text: CR 2/13/2018 H1083-1084)
 - 2018-02-14 — The title of the measure was amended. Agreed to without objection.
+- 2018-02-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
