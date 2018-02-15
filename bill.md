@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5049
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5049
+
+> To amend title 10, United States Code, to ensure that each member of the Armed Forces who is discharged or separated from the Armed Forces receives documentation regarding the training and experience of the member.
+
+## § 1. Short title
+
+This Act may be cited as the “Facilitating Veterans' Education Act”.
+
+## § 2. Provision of joint services transcript
+
+- **(a)** *In general* Chapter 53 of title 10, United States Code, is amended by inserting after section 1041 the following new section:
+  > ## § 1041a. Provision of joint services transcript
+  >
+  > At the same time that the Secretary concerned issues a certificate of release or discharge to a member of the armed forces who is being discharged or released from active duty, the Secretary shall provide to such member a copy of the joint services transcript of the member, or such successor transcript.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1041 the following new item:
