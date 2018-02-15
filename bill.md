@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2040
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
