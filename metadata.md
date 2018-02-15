@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3299
@@ -22,9 +22,10 @@ Protecting Consumers' Access to Credit Act of 2017
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Protecting Consumers' Access to Credit Act of 2017
 - 2018-02-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 171 (Roll no. 78).(text: CR H1148)
 - 2018-02-14 — Provides for consideration of H.R. 620 and H.R. 3978 under structured rules and H.R. 3299 under a closed rule. Each bill shall be debatable for one hour. The resolution provides for proceedings during the period of February 16, 2018 through February 23, 2018.
 - 2018-02-14 — The previous question was ordered pursuant to the rule.
+- 2018-02-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
