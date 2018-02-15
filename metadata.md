@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1274
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1274
@@ -16,7 +16,7 @@ State, Tribal, and Local Species Transparency and Recovery Act
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
@@ -27,6 +27,10 @@ State, Tribal, and Local Species Transparency and Recovery Act
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Gianforte, Greg [R-MT-At Large] (G000584)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
 
 ## Committees (1)
 
@@ -38,3 +42,9 @@ State, Tribal, and Local Species Transparency and Recovery Act
 - 2017-03-01 — Introduced in House
 - 2017-03-01 — Referred to the House Committee on Natural Resources.
 - 2017-03-01 — Sponsor introductory remarks on measure. (CR E262)
+- 2017-07-19 — Committee Hearings Held.
+- 2017-10-04 — Committee Consideration and Mark-up Session Held.
+- 2017-10-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.
+- 2018-02-15 — Placed on the Union Calendar, Calendar No. 422.
+- 2018-02-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-561.
+- 2018-02-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-561.
