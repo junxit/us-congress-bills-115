@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3607
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Fees for Medical Services
 
-- **(a)** *Fees authorized* The Secretary may establish and collect fees for medical services provided to persons in units of the National Park System.
+- **(a)** *Fees authorized* The Secretary may establish and collect fees for medical services provided to persons in units of the National Park System or for medical services provided by National Park Service personnel outside units of the National Park System.
 - **(b)** *National Park Medical Services Fund* There is hereby established in the Treasury a fund to be known as the “National Park Medical Services Fund”. The Fund shall consist of—
   - **(1)** donations to the Fund; and
   - **(2)** fees collected under subsection (a).

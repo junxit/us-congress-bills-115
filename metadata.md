@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3607
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3607
@@ -29,3 +29,12 @@ To authorize the Secretary of the Interior to establish fees for medical service
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Referred to the House Committee on Natural Resources.
+- 2017-08-17 — Referred to the Subcommittee on Federal Lands.
+- 2017-10-11 — Subcommittee Hearings Held.
+- 2017-11-29 — Committee Consideration and Mark-up Session Held.
+- 2017-11-29 — Subcommittee on Federal Lands Discharged.
+- 2017-11-30 — Committee Consideration and Mark-up Session Held.
+- 2017-11-30 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-02-15 — Placed on the Union Calendar, Calendar No. 426.
+- 2018-02-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-565.
+- 2018-02-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-565.
