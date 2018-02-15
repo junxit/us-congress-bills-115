@@ -1,7 +1,7 @@
 ---
 measure: H.R. 294
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 294
@@ -73,3 +73,7 @@ To designate the facility of the United States Postal Service located at 2700 Cu
 - 2017-10-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7899)
 - 2017-10-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7899)
 - 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-02-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-02-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
