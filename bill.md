@@ -1,7 +1,7 @@
 ---
 legis-num: S. 946
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Treatment Court Improvement Act of 2017”.
+This Act may be cited as the “Veterans Treatment Court Improvement Act of 2018”.
 
 ## § 2. Hiring by Department of Veterans Affairs of additional Veterans Justice Outreach Specialists
 
@@ -48,15 +48,15 @@ This Act may be cited as the “Veterans Treatment Court Improvement Act of 2017
     - **(B)** *Contents* The report required by subparagraph (A) shall include the following:
       - **(i)** An assessment of whether the Secretary has fulfilled the Secretary's obligations under this section.
       - **(ii)** The number of veterans who are served by Veterans Justice Outreach Specialists hired under subsection (a)(1), disaggregated by demographics (including discharge status).
-      - **(iii)** An identification of any subgroups of veterans who underutilize services provided under laws administered by the Secretary, including an assessment of whether these veterans have access to Veterans Justice Outreach Specialists under the Veterans Justice Outreach Program.
+      - **(iii)** An identification of any subgroups of veterans who underutilize services provided under laws administered by the Secretary and to which they are referred by a Veterans Justice Outreach Specialist.
       - **(iv)** Such recommendations as the Comptroller General may have for the Secretary to improve the effectiveness of the Veterans Justice Outreach Program.
 - **(e)** *Authorization of appropriations*
-  - **(1)** *In general* There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out subsection (a) $5,500,000 for each of fiscal years 2017 through 2027.
+  - **(1)** *In general* There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out subsection (a) $5,500,000 for each of fiscal years 2018 through 2028.
   - **(2)** *Identification of offsets* The Secretary shall submit to Congress a report that identifies such legislative or administrative actions as the Secretary determines will result in a reduction in expenditures by the Department of Veterans Affairs that is equal to or greater than the amounts authorized to be appropriated by paragraph (1).
 - **(f)** *Definitions* In this section:
   - **(1)** *Justice team* The term justice team means the group of individuals, which may include a judge, court coordinator, prosecutor, public defender, treatment provider, probation or other law enforcement officer, program mentor, and Veterans Justice Outreach Specialist, who assist justice-involved veterans in a veterans treatment court or other veteran-focused court.
   - **(2)** *Justice-involved veteran* The term justice-involved veteran means a veteran with active, ongoing, or recent contact with some component of a local criminal justice system.
-  - **(3)** *Local criminal justice system* The term local criminal justice system means law enforcement, jails, prisons, and State and local courts.
+  - **(3)** *Local criminal justice system* The term local criminal justice system means law enforcement, jails, prisons, and Federal, State, and local courts.
   - **(4)** *Veterans Justice Outreach Program* The term Veterans Justice Outreach Program means the program through which the Department of Veterans Affairs identifies justice-involved veterans and provides such veterans with access to Department services.
   - **(5)** *Veterans Justice Outreach Specialist* The term Veterans Justice Outreach Specialist means an employee of the Department of Veterans Affairs who serves as a liaison between the Department and the local criminal justice system on behalf of a justice-involved veteran.
-  - **(6)** *Veterans treatment court* The term veterans treatment court means a State or local court that is participating in the veterans treatment court program (as defined in section 2991(i)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa(i)(1))).
+  - **(6)** *Veterans treatment court* The term veterans treatment court means a Federal, State, or local court that is participating in the veterans treatment court program (as defined in section 2991(i)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa(i)(1))).
