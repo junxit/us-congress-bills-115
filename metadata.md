@@ -1,7 +1,7 @@
 ---
 measure: H.R. 435
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 435
@@ -16,7 +16,7 @@ The Credit Access and Inclusion Act of 2017
 
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 
-## Cosponsors (14)
+## Cosponsors (30)
 
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -32,6 +32,22 @@ The Credit Access and Inclusion Act of 2017
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Messer, Luke [R-IN-6] (M001189)
 
 ## Committees (1)
 
@@ -42,3 +58,9 @@ The Credit Access and Inclusion Act of 2017
 - 2017-01-11 — Introduced in House
 - 2017-01-11 — Introduced in House
 - 2017-01-11 — Referred to the House Committee on Financial Services.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.
+- 2018-02-16 — Placed on the Union Calendar, Calendar No. 429.
+- 2018-02-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-568.
+- 2018-02-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-568.
