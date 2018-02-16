@@ -1,7 +1,7 @@
 ---
 measure: S. 2246
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2246
@@ -20,9 +20,10 @@ A bill to designate the health care center of the Department of Veterans Affairs
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,7 @@ A bill to designate the health care center of the Department of Veterans Affairs
 - 2018-02-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1130)
 - 2018-02-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1130)
 - 2018-02-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1130)
+- 2018-02-15 — Message on Senate action sent to the House.
+- 2018-02-16 — Received in the House.
+- 2018-02-16 — Referred to the House Committee on Veterans' Affairs.
+- 2018-02-16 — Referred to the Subcommittee on Health.
