@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 435
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,3 +33,5 @@ This Act may be cited as the “The Credit Access and Inclusion Act of 2017”.
   - **(2)** by redesignating paragraph (3) as paragraph (4); and
   - **(3)** by inserting after paragraph (2) the following new paragraph:
     > - **(3)** subsection (f) of this section, including any regulations issued thereunder; or
+
+- **(c)** *GAO study and report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the impact of furnishing information pursuant to subsection (f) of section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) (as added by this Act) on consumers.
