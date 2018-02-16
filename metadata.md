@@ -1,7 +1,7 @@
 ---
 measure: S. 2246
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2246
@@ -37,3 +37,16 @@ A bill to designate the health care center of the Department of Veterans Affairs
 - 2018-02-16 — Received in the House.
 - 2018-02-16 — Referred to the House Committee on Veterans' Affairs.
 - 2018-02-16 — Referred to the Subcommittee on Health.
+- 2018-06-07 — Committee on Veterans' Affairs discharged.
+- 2018-06-07 — Committee on Veterans' Affairs discharged.
+- 2018-06-07 — Considered by unanimous consent. (consideration: CR H4964)
+- 2018-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-07 — Mr. Roe (TN) asked unanimous consent to discharge from committee and consider.
+- 2018-06-07 — On passage Passed without objection. (text: CR H4964)
+- 2018-06-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4964)
+- 2018-06-14 — Presented to President.
+- 2018-06-14 — Presented to President.
+- 2018-06-25 — Became Public Law No: 115-193.
+- 2018-06-25 — Became Public Law No: 115-193.
+- 2018-06-25 — Signed by President.
+- 2018-06-25 — Signed by President.
