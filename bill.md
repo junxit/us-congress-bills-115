@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1220
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -26,14 +26,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(h)** *Duties* The Commission shall consider and formulate plans for a permanent memorial to honor John Adams and his legacy, including the nature, location, design, and construction of the memorial.
 - **(i)** *Powers* The Commission may—
   - **(1)** make such expenditures for services and materials for the purpose of carrying out this section as the Commission considers advisable from funds appropriated or received as gifts for that purpose;
-  - **(2)** accept gifts to be used in carrying out this section or to be used in connection with the construction or other expenses of the memorial; and
+  - **(2)** accept gifts, including funds from the Adams Memorial Foundation, to be used in carrying out this section or to be used in connection with the construction or other expenses of the memorial; and
   - **(3)** hold hearings, enter into contracts for personal services and otherwise, and do such other things as are necessary to carry out this section.
 - **(j)** *Reports* The Commission shall—
   - **(1)** report the plans required by subsection (h), together with recommendations, to the President and the Congress at the earliest practicable date; and
   - **(2)** in the interim, make annual reports on its progress to the President and the Congress.
 - **(k)** *Applicability of other laws* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 - **(l)** *Termination* The Commission shall terminate 7 years after the date of the enactment of this Act.
-- **(m)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 to carry out this Act.
 
 ## § 2. Amendment to Public Law 107–62
 

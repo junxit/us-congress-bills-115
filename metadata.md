@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1220
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1220
@@ -16,7 +16,7 @@ To establish the Adams Memorial Commission to carry out the provisions of Public
 
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
@@ -28,6 +28,7 @@ To establish the Adams Memorial Commission to carry out the provisions of Public
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
 ## Committees (1)
 
@@ -38,3 +39,10 @@ To establish the Adams Memorial Commission to carry out the provisions of Public
 - 2017-02-27 — Introduced in House
 - 2017-02-27 — Introduced in House
 - 2017-02-27 — Referred to the House Committee on Natural Resources.
+- 2017-03-07 — Referred to the Subcommittee on Federal Lands.
+- 2018-01-10 — Committee Consideration and Mark-up Session Held.
+- 2018-01-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-01-10 — Subcommittee on Federal Lands Discharged.
+- 2018-02-16 — Placed on the Union Calendar, Calendar No. 427.
+- 2018-02-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-566.
+- 2018-02-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-566.
