@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4289
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5301` | strike | The table of contents in section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended by striking the item relating to section 1503. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m-2` | strike | The table of contents in section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by striking the item relating to section 1503. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
