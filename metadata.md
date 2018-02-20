@@ -1,7 +1,7 @@
 ---
 measure: S. 946
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 946
@@ -36,9 +36,10 @@ Veterans Treatment Court Improvement Act of 2018
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,7 @@ Veterans Treatment Court Improvement Act of 2018
 - 2018-02-15 — Senate amendment agreed to: Amendment SA 2042 agreed to in Senate by Unanimous Consent.
 - 2018-02-15 — Senate amendment proposed (on the floor): Amendment SA 2042 proposed by Senator Alexander for Senator Flake.(consideration: CR S1190; text: CR S1190)
 - 2018-02-15 — Senate amendment submitted
+- 2018-02-16 — Message on Senate action sent to the House.
+- 2018-02-20 — Received in the House.
+- 2018-02-20 — Referred to the House Committee on Veterans' Affairs.
+- 2018-02-20 — Referred to the Subcommittee on Health.
