@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 47 U.S.C. § 230
-
-> in the second sentence of paragraph (3), by striking “No cause of action” and inserting “Except as provided in paragraphs (1)(B) and (5)(B), no cause of action”; and
-
-| | |
-|---|---|
-| Removed | `No cause of action` |
-| Inserted | `Except as provided in paragraphs (1)(B) and (5)(B), no cause of action` |
-
-### 47 U.S.C. § 230
-
-> Such section is further amended by striking “subsection (e)(2)” each place it appears and inserting “subsection (f)(2)”.
-
-| | |
-|---|---|
-| Removed | `subsection (e)(2)` |
-| Inserted | `subsection (f)(2)` |
 
 ## Stated, not applied
 
@@ -51,13 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 230` | replace | in paragraph (4), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 230` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 230` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 230` | insert | by inserting “section 1591 of such title (relating to sex trafficking),” after “title 18, United States Code,”; | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 230` | replace | by striking “impair the enforcement of section” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 230` | replace | by striking “statute.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 230` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 230` | redesignate | by redesignating subsection (e) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 230` | redesignate | in subsection (f), as redesignated by paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 230` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2421` | insert | Chapter 117 of title 18, United States Code, is amended by inserting after section 2421 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2421` | insert | The table of contents for such chapter is amended by inserting after the item relating to section 2421 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 230` | add-at-end | Section 230(e) of the Communications Act of 1934 (47 U.S.C. 230(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

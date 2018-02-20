@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1865
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,58 +13,37 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Allow States and Victims to Fight Online Sex Trafficking Act of 2017”.
 
-## § 2. Findings
+## § 2. Sense of congress
 
-Congress finds the following:
+It is the sense of Congress that—
 
-- **(1)** Section 230 of the Communications Act of 1934 (47 U.S.C. 230; commonly known as the “Communications Decency Act of 1996”) was never intended to provide legal protection to websites that facilitate traffickers in advertising the sale of unlawful sex acts with sex trafficking victims.
-- **(2)** Clarification of such section is warranted to ensure that such section does not provide such protection to such websites.
+- **(1)** section 230 of the Communications Act of 1934 (47 U.S.C. 230; commonly known as the “Communications Decency Act of 1996”) was never intended to provide legal protection to websites that unlawfully promote and facilitate prostitution and contribute to sex trafficking;
+- **(2)** websites that promote and facilitate prostitution have been reckless in allowing the sale of sex trafficking victims and have done nothing to prevent the trafficking of children and victims of force, fraud, and coercion; and
+- **(3)** clarification of such section is warranted to ensure that such section does not provide such protection to such websites.
 
-## § 3. Ensuring ability to enforce Federal and State criminal and civil law relating to sexual exploitation of children or sex trafficking
+## § 3. Promotion of prostitution and reckless disregard of sex trafficking
 
-- **(a)** *In general* Section 230 of the Communications Act of 1934 (47 U.S.C. 230) is amended—
-  - **(1)** in subsection (b)—
-    - **(A)** in paragraph (4), by striking “; and” and inserting a semicolon;
-    - **(B)** in paragraph (5), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following:
-      > - **(6)** to ensure vigorous enforcement against providers and users of interactive computer services of Federal and State criminal and civil law relating to sexual exploitation of children or sex trafficking, including through the availability of a civil remedy for victims of sex trafficking.
+- **(a)** *Promotion of prostitution* Chapter 117 of title 18, United States Code, is amended by inserting after section 2421 the following:
+  > ## § 2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking
+  >
+  > - **(a)** *In general* Whoever uses or operates a facility or means of interstate or foreign commerce or attempts to do so with the intent to promote or facilitate the prostitution of another person shall be fined under this title, imprisoned for not more than 10 years, or both.
+  > - **(b)** *Aggravated violation* Whoever uses or operates a facility or means of interstate or foreign commerce with the intent to promote or facilitate the prostitution of another person and—
+  >   - **(1)** promotes or facilitates the prostitution of 5 or more persons; or
+  >   - **(2)** acts in reckless disregard of the fact that such conduct contributed to sex trafficking, in violation of 1591(a),
+  > - **(c)** *Civil recovery* Any person injured by reason of a violation of section 2421A(b) may recover damages and reasonable attorneys’ fees in an action before any appropriate United States district court. Consistent with section 230 of the Communications Act of 1934 (47 U.S.C. 230), a defendant may be held liable, under this subsection, where promotion or facilitation of prostitution activity includes responsibility for the creation or development of all or part of the information or content provided through any interactive computer service.
+  > - **(d)** *Mandatory restitution* Notwithstanding sections 3663 or 3663A and in addition to any other civil or criminal penalties authorized by law, the court shall order restitution for any offense under this section.
+  > - **(e)** *Affirmative Defense* It shall be an affirmative defense to a charge of violating subsection (a) where the defendant proves, by a preponderance of the evidence, that the promotion or facilitation of prostitution is legal in the jurisdiction where the promotion or facilitation was targeted.
 
-  - **(2)** in subsection (e)—
-    - **(A)** in paragraph (1)—
-      - **(i)** by inserting “section 1591 of such title (relating to sex trafficking),” after “title 18, United States Code,”;
-      - **(ii)** by striking “impair the enforcement of section” and inserting the following:
-        > impair the enforcement of, or limit the availability of victim restitution under—
-        > - **(A)** section
+- **(b)** *Table of contents* The table of contents for such chapter is amended by inserting after the item relating to section 2421 the following:
 
-      - **(iii)** by striking “statute.” and inserting the following:
-        > statute; or
-        > - **(B)** any State criminal statute that prohibits—
-        >   - **(i)** sexual exploitation of children;
-        >   - **(ii)** sex trafficking of children; or
-        >   - **(iii)** sex trafficking by force, threats of force, fraud, or coercion.
+## § 4. Communications decency act
 
-    - **(B)** in the second sentence of paragraph (3), by striking “No cause of action” and inserting “Except as provided in paragraphs (1)(B) and (5)(B), no cause of action”; and
-    - **(C)** by adding at the end the following:
-      > - **(5)** *No effect on civil law relating to sexual exploitation of children or sex trafficking* Nothing in this section shall be construed to impair the enforcement or limit the application of—
-      >   - **(A)** section 1595 of title 18, United States Code; or
-      >   - **(B)** any other Federal or State law that provides causes of action, restitution, or other civil remedies to victims of—
-      >     - **(i)** sexual exploitation of children;
-      >     - **(ii)** sex trafficking of children; or
-      >     - **(iii)** sex trafficking by force, threats of force, fraud, or coercion.
+Section 230(e) of the Communications Act of 1934 (47 U.S.C. 230(e)) is amended by adding at the end the following:
 
-- **(b)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act, and the amendment made by subsection (a)(2)(C) (and, to the extent it relates to such amendment, the amendment made by subsection (a)(2)(B)) shall apply regardless of whether the conduct alleged occurred, or is alleged to have occurred, before, on, or after such date of enactment.
+> - **(5)** *No effect on state laws conforming to 18 u.s.c. 1591(a) or 2421a* Nothing in this section shall be construed to impair or limit any charge in a criminal prosecution brought under State law—
+>   - **(A)** if the conduct underlying the charge constitutes a violation of section 2421A of title 18, United States Code, and promotion or facilitation of prostitution is illegal in the jurisdiction where the defendant’s promotion or facilitation of prostitution was targeted; or
+>   - **(B)** if the conduct underlying the charge constitutes a violation of section 1591(a) of title 18, United States Code.
 
-## § 4. Ensuring Federal liability for publishing information designed to facilitate sex trafficking
+## § 5. Savings clause
 
-- **(a)** *In general* Section 1591 of title 18, United States Code, is amended—
-  - **(1)** by redesignating subsection (e) as subsection (f);
-  - **(2)** in subsection (f), as redesignated by paragraph (1), by adding at the end the following:
-    > - **(6)** “The terms “information content provider” and “interactive computer service” have the meanings given those terms in section 230 of the Communications Act of 1934 (47 U.S.C. 230).
-    > - **(7)** The term “participation in a venture” includes knowing or reckless conduct by any person or entity and by any means that furthers or in anyway aids or abets the violation of subsection (a)(1).
-
-  - **(3)** by inserting after subsection (d) the following:
-    > - **(e)**
-    >   - **(1)** Whoever, being a provider of an interactive computer service, publishes information provided by an information content provider, with reckless disregard that the information provided by the information content provider is in furtherance of an offense under subsection (a) or an attempt to commit such an offense, shall be fined in accordance with this title or imprisoned not more than 20 years, or both.
-    >   - **(2)** Nothing in paragraph (1) shall be construed to require the Federal Government in a prosecution, or a plaintiff in a civil action, to prove any intent on the part of the information content provider.
-
-- **(b)** *Clerical amendments* Such section is further amended by striking “subsection (e)(2)” each place it appears and inserting “subsection (f)(2)”.
+Nothing in this Act or the amendments made by this Act shall be construed to limit or preempt any civil action or criminal prosecution under Federal law or State law (including State statutory law and State common law) filed before or after the day before the date of enactment of this Act that was not limited or preempted by section 230 of the Communications Act of 1934 (47 U.S.C. 230), as such section was in effect on the day before the date of enactment of this Act.
