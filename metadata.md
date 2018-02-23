@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4529
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4529
@@ -25,3 +25,9 @@ Accelerating Access to Capital Act of 2017
 - 2017-12-01 — Introduced in House
 - 2017-12-01 — Introduced in House
 - 2017-12-01 — Referred to the House Committee on Financial Services.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by the Yeas and Nays: 34 - 26.
+- 2018-02-23 — Placed on the Union Calendar, Calendar No. 436.
+- 2018-02-23 — Reported by the Committee on Financial Services. H. Rept. 115-576.
+- 2018-02-23 — Reported by the Committee on Financial Services. H. Rept. 115-576.
