@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2219
@@ -16,11 +16,23 @@ End Banking for Human Traffickers Act of 2018
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 
-## Cosponsors (3)
+## Cosponsors (15)
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Love, Mia B. [R-UT-4] (L000584)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Delaney, John K. [D-MD-6] (D000620)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (2)
 
@@ -34,3 +46,15 @@ End Banking for Human Traffickers Act of 2018
 - 2017-04-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-04-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-04-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-11-29 — Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.
+- 2017-11-29 — Hearings Held by the Subcommittee on Terrorism and Illicit Finance Prior to Referral.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.
+- 2017-12-14 — Committee Consideration and Mark-up Session Held.
+- 2017-12-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-02-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-569, Part I.
+- 2018-02-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-569, Part I.
+- 2018-02-23 — Placed on the Union Calendar, Calendar No. 439.
+- 2018-02-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-569, Part II.
+- 2018-02-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-569, Part II.

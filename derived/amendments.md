@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 7103` | insert | Section 105(b) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(b)) is amended by inserting “the Secretary of the Treasury,” after “the Secretary of Education,”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7107` | add-at-end | Section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 312(a) of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 7103` | insert | by inserting “the Committee on Financial Services,” after “the Committee on Foreign Affairs,”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7103` | insert | by inserting “the Committee on Banking, Housing, and Urban Affairs,” after “the Committee on Foreign Relations,”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7103` | replace | in subparagraph (Q)(vii), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7103` | replace | in subparagraph (R), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7103` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7103` | insert | Section 105(b) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(b)) is amended by inserting “the Secretary of the Treasury,” after “the Secretary of Education,”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7107` | add-at-end | Section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7106` | add-at-end | Section 108(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
