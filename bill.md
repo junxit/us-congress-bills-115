@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 723
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -38,7 +38,7 @@ This Act may be cited as the “Energy Savings Through Public-Private Partnershi
   > - **(H)** *Miscellaneous authority* Notwithstanding any other provision of law, a Federal agency may sell or transfer energy savings and apply the proceeds of the sale or transfer to fund a contract under this title.
 
 - **(f)** *Payment of costs* Section 802 of the National Energy Conservation Policy Act (42 U.S.C. 8287a) is amended by striking “(and related operation and maintenance expenses)” and inserting “, including related operations and maintenance expenses”.
-- **(g)** *Definition of Federal building* Section 551(6) of the National Energy Conservation Policy Act (42 U.S.C. 8259(6)) is amended by striking the semicolon at the end and inserting “the term does not include a dam, reservoir, or hydropower facility owned or operated by a Federal agency;”.
+- **(g)** *Definition of Federal building* Section 551(6) of the National Energy Conservation Policy Act (42 U.S.C. 8259(6)) is amended by striking the semicolon at the end and inserting “; the term does not include a dam, reservoir, or hydropower facility owned or operated by a Federal agency;”.
 - **(h)** *Definition of energy savings* Section 804(2) of the National Energy Conservation Policy Act (42 U.S.C. 8287c(2)) is amended—
   - **(1)** in subparagraph (A), by striking “federally owned building or buildings or other federally owned facilities” and inserting “Federal building (as defined in section 551)” each place it appears;
   - **(2)** in subparagraph (C), by striking “; and” and inserting a semicolon;
