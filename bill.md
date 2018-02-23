@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2226
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,21 +13,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Portfolio Lending and Mortgage Access Act”.
 
-## § 2. Safe harbor for certain loans held on portfolio
+## § 2. Minimum standards for residential mortgage loans
 
-- **(a)** *In general* Section 129C of the Truth in Lending Act (15 U.S.C. 1639c) is amended by adding at the end the following:
-  > - **(j)** *Safe harbor for certain loans held on portfolio*
-  >   - **(1)** *Safe harbor for creditors that are depository institutions*
-  >     - **(A)** *In general* A creditor that is a depository institution shall not be subject to suit for failure to comply with subsection (a), (c)(1), or (f)(2) of this section or section 129H with respect to a residential mortgage loan, and the banking regulators shall treat such loan as a qualified mortgage, if—
-  >       - **(i)** the creditor has, since the origination of the loan, held the loan on the balance sheet of the creditor; and
-  >       - **(ii)** all prepayment penalties with respect to the loan comply with the limitations described under subsection (c)(3).
-  >     - **(B)** *Exception for certain transfers* In the case of a depository institution that transfers a loan originated by that institution to another depository institution by reason of the bankruptcy or failure of the originating depository institution or the purchase of the originating depository institution, the depository institution transferring such loan shall be deemed to have complied with the requirement under subparagraph (A)(i).
-  >   - **(2)** *Safe harbor for mortgage originators* A mortgage originator shall not be subject to suit for a violation of section 129B(c)(3)(B) for steering a consumer to a residential mortgage loan if—
-  >     - **(A)** the creditor of such loan is a depository institution and has informed the mortgage originator that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan; and
-  >     - **(B)** the mortgage originator informs the consumer that the creditor intends to hold the loan on the balance sheet of the creditor for the life of the loan.
-  >   - **(3)** *Definitions* For purposes of this subsection:
-  >     - **(A)** *Banking regulators* The term banking regulators means the Federal banking agencies, the Bureau, and the National Credit Union Administration.
-  >     - **(B)** *Depository institution* The term depository institution has the meaning given that term under section 19(b)(1) of the Federal Reserve Act (12 U.S.C. 505(b)(1)).
-  >     - **(C)** *Federal banking agencies* The term Federal banking agencies has the meaning given that term under section 3 of the Federal Deposit Insurance Act.
+Section 129C(b) of the Truth in Lending Act (15 U.S.C. 1639c(b)) is amended by adding at the end the following:
 
-- **(b)** *Rule of construction* Nothing in the amendment made by this Act may be construed as preventing a balloon loan from qualifying for the safe harbor provided under section 129C(j) of the Truth in Lending Act if the balloon loan otherwise meets all of the requirements under such subsection (j), regardless of whether the balloon loan meets the requirements described under clauses (i) through (iv) of section 129C(b)(2)(E) of such Act.
+> - **(4)** *Safe harbor*
+>   - **(A)** *In general* A residential mortgage loan shall be deemed a qualified mortgage loan for purposes of this subsection if the loan—
+>     - **(i)** is originated by, and continuously retained in the portfolio of, a covered institution;
+>     - **(ii)** is in compliance with the limitations with respect to prepayment penalties described in subsections (c)(1) and (c)(3);
+>     - **(iii)** is in compliance with the requirements related to points and fees under paragraph (2)(A)(vii);
+>     - **(iv)** does not have negative amortization terms or interest-only terms; and
+>     - **(v)** is a loan for which the covered institution considers, documents, and verifies the debt, income, and financial resources of the consumer in accordance with subparagraph (C).
+>   - **(B)** *Exception for certain transfers* Subparagraph (A) shall not apply to a residential mortgage loan if the legal title to such residential mortgage loan is sold, assigned, or otherwise transferred to another person unless the legal title to such residential mortgage loan is sold, assigned, or otherwise transferred—
+>     - **(i)** to another person by reason of the bankruptcy or failure of the covered institution that originated such loan;
+>     - **(ii)** to an insured depository institution or insured credit union that has less than $10,000,000,000 in total consolidated assets on the date of such sale, assignment, or transfer, if the loan is retained in portfolio by such insured depository institution or insured credit union;
+>     - **(iii)** pursuant to a merger of the covered institution that originated such loan with another person or the acquisition of a the covered institution that originated such loan by another person or of another person by a covered institution, if the loan is retained in portfolio by the person to whom the loan is sold, assigned, or otherwise transferred; or
+>     - **(iv)** to a wholly owned subsidiary of the covered institution that originated such loan if the loan is considered to be an asset of such covered institution for regulatory accounting purposes.
+>   - **(C)** *Consideration and documentation requirements* The consideration and documentation requirements described in subparagraph (A)(v) shall—
+>     - **(i)** not be construed to require compliance with, or documentation in accordance with, appendix Q to part 1026 of title 12, Code of Federal Regulations, or any successor regulation; and
+>     - **(ii)** be construed to permit multiple methods of documentation.
+>   - **(D)** *Definitions* In this paragraph—
+>     - **(i)** the term covered institution means an insured depository institution or an insured credit union that, together with its affiliates, has less than $10,000,000,000 in total consolidated assets on the date on the origination of a residential mortgage loan;
+>     - **(ii)** the term insured credit union has the meaning given the term in section 101 of the Federal Credit Union Act (12 U.S.C. 1752);
+>     - **(iii)** the term insured depository institution has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+>     - **(iv)** the term interest-only term means a term of a residential mortgage loan that allows one or more of the periodic payments made under the loan to be applied solely to accrued interest and not to the principal of the loan; and
+>     - **(v)** the term negative amortization term means a term of a residential mortgage loan under which the payment of periodic payments will result in an increase in the principal of the loan.

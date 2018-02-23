@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2226
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2226
@@ -16,7 +16,7 @@ Portfolio Lending and Mortgage Access Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (31)
+## Cosponsors (40)
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
@@ -49,6 +49,15 @@ Portfolio Lending and Mortgage Access Act
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. Trott, David A. [R-MI-11] (T000475)
 - Rep. Blum, Rod [R-IA-1] (B001294)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
 
 ## Committees (1)
 
@@ -59,3 +68,9 @@ Portfolio Lending and Mortgage Access Act
 - 2017-04-28 — Introduced in House
 - 2017-04-28 — Introduced in House
 - 2017-04-28 — Referred to the House Committee on Financial Services.
+- 2018-01-17 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 55 - 0.
+- 2018-02-23 — Placed on the Union Calendar, Calendar No. 438.
+- 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.
+- 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.
