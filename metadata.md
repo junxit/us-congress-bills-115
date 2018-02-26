@@ -1,7 +1,7 @@
 ---
 measure: H.R. 805
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 805
@@ -29,3 +29,11 @@ Tulare Youth Recreation and Women's History Enhancement Act
 - 2017-02-01 — Introduced in House
 - 2017-02-01 — Introduced in House
 - 2017-02-01 — Referred to the House Committee on Natural Resources.
+- 2017-02-15 — Referred to the Subcommittee on Federal Lands.
+- 2017-12-07 — Subcommittee Hearings Held.
+- 2018-01-17 — Committee Consideration and Mark-up Session Held.
+- 2018-01-17 — Ordered to be Reported by Unanimous Consent.
+- 2018-01-17 — Subcommittee on Federal Lands Discharged.
+- 2018-02-26 — Placed on the Union Calendar, Calendar No. 440.
+- 2018-02-26 — Reported by the Committee on Natural Resources. H. Rept. 115-579.
+- 2018-02-26 — Reported by the Committee on Natural Resources. H. Rept. 115-579.
