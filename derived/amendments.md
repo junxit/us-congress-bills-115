@@ -1,0 +1,39 @@
+---
+measure: H.R. 5088
+congress: 115
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 5088 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+6 amendatory instructions. 0 executed, 6 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | amend | Section 922(b)(1) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 922(c)(1) of such title is amended by striking “in the case of any firearm” and all that follows through “eighteen years or more of age” and inserting “in the case of a semiautomatic assault weapon, I am at least 21 years of age … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 922 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(1), by striking “or (k)” and inserting “(k), or (aa)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 921(a) of such title is amended by inserting after paragraph (29) the following: | the bill names no machine-readable US Code section |
