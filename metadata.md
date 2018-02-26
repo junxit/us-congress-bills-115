@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2422
@@ -106,6 +106,10 @@ Action for Dental Health Act of 2018
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2018-02-26 — [House 115-2-82](votes/house-115-2-0082.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (387–13)
+
 ## Actions
 
 - 2017-05-15 — Introduced in House
@@ -119,3 +123,11 @@ Action for Dental Health Act of 2018
 - 2017-09-25 — Placed on the Union Calendar, Calendar No. 238.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-328.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-328.
+- 2018-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-02-26 — Considered as unfinished business. (consideration: CR H1247-1248)
+- 2018-02-26 — Considered under suspension of the rules. (consideration: CR H1243-1244)
+- 2018-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2422.
+- 2018-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82). (text: CR H1243)
+- 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82).(text: CR H1243)
