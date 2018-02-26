@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 772
@@ -49,3 +49,13 @@ Ashlynne Mike AMBER Alert in Indian Country Act
 - 2018-02-26 — Mr. Biggs moved to suspend the rules and pass the bill, as amended.
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1233)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1233)
+- 2018-02-27 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-03-22 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 772 by Unanimous Consent.
+- 2018-03-22 — Senate agreed to the House amendment to S. 772 by Unanimous Consent.
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-04-02 — Presented to President.
+- 2018-04-02 — Presented to President.
+- 2018-04-13 — Became Public Law No: 115-166.
+- 2018-04-13 — Became Public Law No: 115-166.
+- 2018-04-13 — Signed by President.
+- 2018-04-13 — Signed by President.

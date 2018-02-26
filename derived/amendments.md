@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
