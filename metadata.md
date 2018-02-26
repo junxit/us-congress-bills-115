@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 107
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 107
@@ -47,3 +47,5 @@ Authorizing Reverend Billy Graham to lie in honor in the rotunda of the Capitol.
 - 2018-02-23 — On agreeing to the resolution Agreed to without objection. (text: CR H1224)
 - 2018-02-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1224)
 - 2018-02-23 — Referred to the House Committee on House Administration.
+- 2018-02-26 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1222)
+- 2018-02-26 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1222)
