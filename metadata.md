@@ -1,7 +1,7 @@
 ---
 measure: H.R. 620
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 620
@@ -211,3 +211,4 @@ ADA Education and Reform Act of 2017
 - 2018-02-15 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2018-02-15 — The previous question was ordered pursuant to the rule.
 - 2018-02-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2018-02-26 — Received in the Senate.
