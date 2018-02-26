@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 880
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,3 +16,7 @@ This Act may be cited as the “Military Injury Surgical Systems Integrated Oper
 ## § 2. Military and civilian partnership for trauma readiness grant program
 
 Title XII of the Public Health Service Act (42 U.S.C. 300d et seq.) is amended by adding at the end the following new part:
+
+## § 3. Cut-Go Compliance
+
+Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by striking “through 2018” and inserting “through 2017, and $75,300,000 for fiscal year 2018”.

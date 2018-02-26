@@ -1,7 +1,7 @@
 ---
 measure: H.R. 880
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 880
@@ -61,3 +61,9 @@ Military Injury Surgical Systems Integrated Operationally Nationwide to Achieve 
 - 2017-09-25 — Placed on the Union Calendar, Calendar No. 240.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-330.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-330.
+- 2018-02-26 — Considered under suspension of the rules. (consideration: CR H1236-1238)
+- 2018-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 880.
+- 2018-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1236-1237)
+- 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1236-1237)
