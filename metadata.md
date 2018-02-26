@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1222
@@ -64,3 +64,11 @@ Congenital Heart Futures Reauthorization Act of 2017
 - 2017-09-25 — Placed on the Union Calendar, Calendar No. 239.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-329.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-329.
+- 2018-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-02-26 — Considered as unfinished business. (consideration: CR H1246-1247)
+- 2018-02-26 — Considered under suspension of the rules. (consideration: CR H1238-1240)
+- 2018-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1222.
+- 2018-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81). (text: CR H1238-1239)
+- 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81).(text: CR H1238-1239)

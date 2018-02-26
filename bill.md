@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1222
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -54,7 +54,7 @@ Section 425 of the Public Health Service Act (42 U.S.C. 285b–8) is amended to 
 >   - **(5)** identifying barriers to lifelong care for individuals with congenital heart disease.
 > - **(b)** *Coordination of research activities* The Director of the Institute may coordinate research efforts related to congenital heart disease among multiple research institutions and may develop research networks.
 > - **(c)** *Minority and medically underserved communities* In carrying out the activities described in this section, the Director of the Institute shall consider the application of such research and other activities to minority and medically underserved communities.
-> - **(d)** *Report from NIH* Not later than one year after the date of the enactment of the Congenital Heart Futures Reauthorization Act of 2017, the Director of NIH, acting through the Director of the Institute, shall provide a report to Congress—
+> - **(d)** *Report from NIH* Not later than 1 year after the date of the enactment of the Congenital Heart Futures Reauthorization Act of 2017, the Director of NIH, acting through the Director of the Institute, shall provide a report to Congress—
 >   - **(1)** outlining the ongoing research efforts of the National Institutes of Health regarding congenital heart disease; and
 >   - **(2)** identifying—
 >     - **(A)** future plans for research regarding congenital heart disease; and
