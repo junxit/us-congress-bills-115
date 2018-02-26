@@ -1,12 +1,54 @@
 ---
 legis-num: S. 772
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 772
 
-That the bill from the Senate (S. 772) entitled “An Act to amend the PROTECT Act to make Indian tribes eligible for AMBER Alert grants.”, do pass with the following
+> To amend the PROTECT Act to make Indian tribes eligible for AMBER Alert grants.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “Ashlynne Mike AMBER Alert in Indian Country Act”.
+
+## § 2. AMBER Alert grants for Indian tribes
+
+Section 304 of the PROTECT Act (34 U.S.C. 20504) is amended—
+
+- **(1)** by amending subsection (a) to read as follows:
+  > - **(a)** *Program required* The Attorney General shall carry out a program to provide grants to States and Indian tribes for—
+  >   - **(1)** the development or enhancement of programs and activities for the support of AMBER Alert communications plans; and
+  >   - **(2)** the integration of tribal AMBER Alert systems into State AMBER Alert systems.
+
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (3), by striking “and” at the end;
+  - **(B)** by redesignating paragraph (4) as paragraph (5); and
+  - **(C)** by inserting after paragraph (3) the following:
+    > - **(4)** the integration of State or regional AMBER Alert communication plans with an Indian tribe; and
+
+- **(3)** in subsection (c)—
+  - **(A)** by striking “The Federal” and inserting the following:
+    > - **(1)** *In general* Except as provided in paragraph (2), the Federal
+
+  - **(B)** by adding at the end the following:
+    > - **(2)** *Waiver of Federal share* If the Attorney General determines that an Indian tribe does not have sufficient funds available to comply with the Federal share requirement under paragraph (1) for the cost of activities funded by a grant for the purpose described in subsection (b)(4), the Attorney General may increase the Federal share of the costs for such activities to the extent the Attorney General determines necessary.
+
+- **(4)** in subsection (e), by striking “for grants under” and inserting “and standards to improve accountability and transparency for grants awarded under”;
+- **(5)** by redesignating subsection (f) as subsection (g);
+- **(6)** by inserting after subsection (e) the following:
+  > - **(f)** *Definition of Indian tribe* In this section, the term Indian tribe means a federally recognized Indian tribe or a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)).
+
+- **(7)** in subsection (g)(1), as so redesignated—
+  - **(A)** by striking “2004” each place it appears and inserting “2019”; and
+  - **(B)** by striking “subsection (b)(3)” and inserting “paragraphs (3) and (4) of subsection (b)”.
+
+## § 3. Report to Congress
+
+Not later than 1 year after the date of enactment of this Act, the Attorney General shall submit a report evaluating the readiness, education, and training needs, technological challenges, and specific obstacles encountered by Indian tribes in the integration of State or regional AMBER Alert communication plans to—
+
+- **(1)** the Committee on Indian Affairs of the Senate;
+- **(2)** the Committee on the Judiciary of the Senate;
+- **(3)** the Committee on Natural Resources of the House of Representatives; and
+- **(4)** the Committee on the Judiciary of the House of Representatives.
