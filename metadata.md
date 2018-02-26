@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 767
@@ -48,3 +48,9 @@ SOAR to Health and Wellness Act of 2018
 - 2017-09-25 — Placed on the Union Calendar, Calendar No. 237.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-327.
 - 2017-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-327.
+- 2018-02-26 — Considered under suspension of the rules. (consideration: CR H1234-1236)
+- 2018-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 767.
+- 2018-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1234-1235)
+- 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1234-1235)

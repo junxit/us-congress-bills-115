@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 767
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stop, Observe, Ask, and Respond to Health and Wellness Act of 2017” or the “SOAR to Health and Wellness Act of 2017”.
+This Act may be cited as the “Stop, Observe, Ask, and Respond to Health and Wellness Act of 2018” or the “SOAR to Health and Wellness Act of 2018”.
 
 ## § 2. Definitions
 
@@ -64,3 +64,7 @@ In this Act:
 ## § 5. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this Act $4,000,000 for each of fiscal years 2018 through 2022.
+
+## § 6. Cut-go compliance
+
+Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by striking “through 2018” and inserting “through 2017, and $118,300,000 for fiscal year 2018”.
