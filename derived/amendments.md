@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 5791c
+### 34 U.S.C. § 20504
 
 > in subsection (e), by striking “for grants under” and inserting “and standards to improve accountability and transparency for grants awarded under”;
 
@@ -33,16 +33,16 @@ to guess them.
 | Removed | `for grants under` |
 | Inserted | `and standards to improve accountability and transparency for grants awarded under` |
 
-### 42 U.S.C. § 5791c
+### 34 U.S.C. § 20504
 
-> by striking “2004” each place it appears and inserting “2018”; and
+> by striking “2004” each place it appears and inserting “2019”; and
 
 | | |
 |---|---|
 | Removed | `2004` |
-| Inserted | `2018` |
+| Inserted | `2019` |
 
-### 42 U.S.C. § 5791c
+### 34 U.S.C. § 20504
 
 > by striking “subsection (b)(3)” and inserting “paragraphs (3) and (4) of subsection (b)”.
 
@@ -60,11 +60,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5791c` | insert | in subsection (a), by inserting “and Indian tribes” after “States”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5791c` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5791c` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5791c` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5791c` | replace | by striking “The Federal” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5791c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5791c` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20504` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20504` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 20504` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20504` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20504` | replace | by striking “The Federal” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 20504` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20504` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1602` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
