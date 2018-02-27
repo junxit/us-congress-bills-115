@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4296
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4296
@@ -25,6 +25,11 @@ To place requirements on operational risk capital requirements for banking organ
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2018-02-27 — [House 115-2-88](votes/house-115-2-0088.md) — On Motion to Recommit with Instructions — **Failed** (185–228)
+- 2018-02-27 — [House 115-2-89](votes/house-115-2-0089.md) — On Passage — **Passed** (245–169)
+
 ## Actions
 
 - 2017-11-08 — Introduced in House
@@ -35,3 +40,16 @@ To place requirements on operational risk capital requirements for banking organ
 - 2018-02-23 — Placed on the Union Calendar, Calendar No. 434.
 - 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-574.
 - 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-574.
+- 2018-02-26 — Rules Committee Resolution H. Res. 747 Reported to House. Rule provides for consideration of H.R. 4296 and H.R. 4607. Rule provides for consideration of H.R. 4296 and H.R. 4607 under closed rules with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Financial Services for each measure.
+- 2018-02-27 — Considered under the provisions of rule H. Res. 747. (consideration: CR H1308-1317)
+- 2018-02-27 — DEBATE - The House proceeded with 10 minutes of debate on the Waters(CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add an exemption to the underlying bill for any global systematically important bank holding company or subsidiary that has engaged in a pattern or practice of unsafe or unsound banking practices related to consumer harm.
+- 2018-02-27 — DEBATE - The House proceeded with one hour of debate on H.R. 4296.
+- 2018-02-27 — House amendment offered
+- 2018-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-27 — Ms. Waters, Maxine moved to recommit with instructions to the Committee on Financial Services. (text: CR H1314-1315)
+- 2018-02-27 — On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 228 (Roll no. 88).
+- 2018-02-27 — On passage Passed by the Yeas and Nays: 245 - 169 (Roll no. 89). (text of amendment in the nature of a substitute: CR H1308)
+- 2018-02-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 169 (Roll no. 89).(text of amendment in the nature of a substitute: CR H1308)
+- 2018-02-27 — Rule provides for consideration of H.R. 4296 and H.R. 4607. Rule provides for consideration of H.R. 4296 and H.R. 4607 under closed rules with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Financial Services for each measure.
+- 2018-02-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-02-27 — The previous question was ordered pursuant to the rule.

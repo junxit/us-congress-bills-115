@@ -26,3 +26,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** a depository institution holding company (as defined under section 3 of the Federal Deposit Insurance Act);
     - **(D)** a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act; and
     - **(E)** a U.S. intermediate holding company established by a foreign banking organization pursuant to section 252.153 of title 12, Code of Federal Regulations.
+
+## § 2. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,468,571,428”.
+- **(b)** *Effective date* Subsection (a) shall take effect on May 1, 2018.
