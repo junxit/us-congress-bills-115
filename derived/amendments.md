@@ -1,0 +1,256 @@
+---
+measure: S. 2463
+congress: 115
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 2463 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+37 amendatory instructions. 23 executed, 14 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 2 U.S.C. § 905
+
+> Section 255(g) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)) is amended by striking “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).” and inserting “United States International Development Finance Corporation.”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).` |
+| Inserted | `United States International Development Finance Corporation.` |
+
+### 15 U.S.C. § 649
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “the President of the Overseas Private Investment Corporation, Director” and inserting “the Board of Directors of the United States International Development Finance Corporation, the Director”; and
+
+| | |
+|---|---|
+| Removed | `the President of the Overseas Private Investment Corporation, Director` |
+| Inserted | `the Board of Directors of the United States International Development Finance Corporation, the Director` |
+
+### 15 U.S.C. § 649
+
+> by striking “Overseas Private Investment Corporation” each place it appears and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 15 U.S.C. § 4721
+
+> Section 2301 of the Export Enhancement Act of 1988 (15 U.S.C. 4721) is amended by striking “Overseas Private Investment Corporation” each place it appears and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 15 U.S.C. § 4727
+
+> Section 2312(d)(1)(K) of the Export Enhancement Act of 1988 (15 U.S.C. 4727(d)(1)(K)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 15 U.S.C. § 4902
+
+> Section 5402(b) of the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 4902(b)) is amended by striking “the President of the Overseas Private Investment Corporation” and inserting “the Chief Executive Officer of the United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `the President of the Overseas Private Investment Corporation` |
+| Inserted | `the Chief Executive Officer of the United States International Development Finance Corporation` |
+
+### 2 U.S.C. § 905
+
+> Section 709 of title 18, United States Code, is amended by striking “Overseas Private Investment, Overseas Private Investment Corporation, or OPIC,” and inserting “United States International Development Finance Corporation or DFC”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment, Overseas Private Investment Corporation, or OPIC,` |
+| Inserted | `United States International Development Finance Corporation or DFC` |
+
+### 19 U.S.C. § 4421
+
+> Section 701(c)(1)(A) of the Trade Facilitation and Trade Enforcement Act of 2015 (19 U.S.C. 4421(c)(1)(A)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 20 U.S.C. § 1131c
+
+> Section 625 of the Higher Education Act of 1965 (20 U.S.C. 1131c(a)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 2296b
+
+> in section 449B(b)(2) (22 U.S.C. 2296b(b)(2)), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 2291
+
+> in section 481(e)(4)(A) (22 U.S.C. 2291(e)(4)(A)), in the matter preceding clause (i), by striking “(including programs under title IV of chapter 2, relating to the Overseas Private Investment Corporation)” and inserting “(and any support under title II of the Better Utilization of Investments Leading to Development Act of 2018, relating to the United States International Development Finance Corporation)”.
+
+| | |
+|---|---|
+| Removed | `(including programs under title IV of chapter 2, relating to the Overseas Private Investment Corporation)` |
+| Inserted | `(and any support under title II of the Better Utilization of Investments Leading to Development Act of 2018, relating to the United States International Development Finance Corporation)` |
+
+### 22 U.S.C. § 2293
+
+> Sections 5 and 7 of the Electrify Africa Act of 2015 (Public Law 114–121; 22 U.S.C. 2293 note) are amended by striking “Overseas Private Investment Corporation” each place it appears and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 6062
+
+> Section 202(b)(2)(B)(iv) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6062(b)(2)(B)(iv)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 6445
+
+> Section 405(a)(10) of the International Religious Freedom Act of 1998 (22 U.S.C. 6445(a)(10)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 7902
+
+> Section 732(b) of the Global Environmental Protection Assistance Act of 1989 (22 U.S.C. 7902(b)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 8926
+
+> in the matter preceding subparagraph (A), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 9303
+
+> Section 4(7) of the Global Food Security Act of 2016 (22 U.S.C. 9303(7)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 9546
+
+> Section 257(c)(2)(B) of the Countering Russian Influence in Europe and Eurasia Act of 2017 (22 U.S.C. 9546(c)(2)(B)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 2 U.S.C. § 905
+
+> Section 9101(3) of title 31, United States Code, is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 42 U.S.C. § 17334
+
+> in the section heading, by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”;
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 42 U.S.C. § 17334
+
+> in subsection (a), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation` |
+| Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 2200a
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation shall include in its annual report required under section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a)” and inserting “United States International Development Finance Corporation shall include in its annual report required under section 403 of the Better Utilization of Investments Leading to Development Act of 2018”; and
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation shall include in its annual report required under section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a)` |
+| Inserted | `United States International Development Finance Corporation shall include in its annual report required under section 403 of the Better Utilization of Investments Leading to Development Act of 2018` |
+
+### 42 U.S.C. § 17336
+
+> in section 916(a)(2)(I) (42 U.S.C. 17336(a)(2)(I)), by striking “Overseas Private Investment Corporation:” and inserting “United States International Development Finance Corporation;”.
+
+| | |
+|---|---|
+| Removed | `Overseas Private Investment Corporation:` |
+| Inserted | `United States International Development Finance Corporation;` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | add-at-end | Section 5313 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by inserting “the United States International Development Finance Corporation,” after “the Smithsonian Institution,”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (G), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (I), by striking the semicolon and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2191` | repeal | the following provisions are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 905` | strike | in section 5314, by striking “President, Overseas Private Investment Corporation.”; | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 905` | strike | in section 5315, by striking “Executive Vice President, Overseas Private Investment Corporation.”; and | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 905` | strike | in section 5316, by striking “Vice Presidents, Overseas Private Investment Corporation (3).”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2394c` | replace | Section 2(3) of the Foreign Aid Transparency and Accountability Act of 2016 (Public Law 114–191; 22 U.S.C. 2394c note) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 5401` | replace | Section 2(c) of the Support for East European Democracy (SEED) Act of 1989 (22 U.S.C. 5401(c)) is amended by striking paragraph (12) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7102` | replace | in clause (vii), by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7102` | strike | by striking clause (viii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2198` | strike | in subparagraph (B), by striking “by eligible investors (as defined in section 238 of the Foreign Assistance Act of 1961 (22 U.S.C. 2198))”. | the bill quotes the text struck but describes what replaces it |
