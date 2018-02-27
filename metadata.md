@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2422
@@ -102,9 +102,10 @@ Action for Dental Health Act of 2018
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -127,3 +128,4 @@ Action for Dental Health Act of 2018
 - 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82). (text: CR H1243)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82).(text: CR H1243)
+- 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
