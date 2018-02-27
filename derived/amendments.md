@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,3 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 2603` | insert | by inserting after “or both.” the following new sentence: “Charges for any title insurance premium disclosed on such forms shall be equal to the amount charged for each individual title insurance policy, subject to any discounts as requi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | add-at-end | Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | strike | in paragraph (2), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1681s-2` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
