@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1222
@@ -47,9 +47,10 @@ Congenital Heart Futures Reauthorization Act of 2017
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Congenital Heart Futures Reauthorization Act of 2017
 - 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81). (text: CR H1238-1239)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81).(text: CR H1238-1239)
+- 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
