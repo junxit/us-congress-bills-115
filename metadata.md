@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 767
@@ -30,9 +30,10 @@ SOAR to Health and Wellness Act of 2018
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ SOAR to Health and Wellness Act of 2018
 - 2018-02-26 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1234-1235)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1234-1235)
+- 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
