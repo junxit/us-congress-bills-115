@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1865
@@ -214,3 +214,45 @@ Allow States and Victims to Fight Online Sex Trafficking Act of 2017
 - 2018-02-20 — Placed on the Union Calendar, Calendar No. 432.
 - 2018-02-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-572, Part I.
 - 2018-02-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-572, Part I.
+- 2018-02-26 — Rules Committee Resolution H. Res. 748 Reported to House. Rule provides for consideration of H.R. 1865. Rule provides for consideration of H.R. 1865 under a structured rule with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on the Judiciary. The rule makes in order an amendment in the nature of a substitute recommended by the Committee on the Judiciary printed in the bill. The rule also provides one motion to recommit with or without instructions.
+- 2018-02-27 — Amendment (A001) offered by Mr. Goodlatte. (consideration: CR H1301-1302; text: CR H1301-1302)
+- 2018-02-27 — Amendment (A002) offered by Mrs. Walters, Mimi. (consideration: CR H1302-1304, H1317-1318; text: CR H1302)
+- 2018-02-27 — Amendment (A003) offered by Ms. Jackson Lee. (consideration: CR H1304-1305; text: CR H1304)
+- 2018-02-27 — Amendment agreed to Committee of the Whole
+- 2018-02-27 — Amendment agreed to Committee of the Whole
+- 2018-02-27 — Amendment agreed to Committee of the Whole
+- 2018-02-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 1865 as unfinished business.
+- 2018-02-27 — Considered as unfinished business. (consideration: CR H1317-1319)
+- 2018-02-27 — Considered under the provisions of rule H. Res. 748. (consideration: CR H1290-1305; text of amendment in the nature of a substitute: CR H1301)
+- 2018-02-27 — DEBATE - Pursuant to the provisions of H.Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 1.
+- 2018-02-27 — DEBATE - Pursuant to the provisions of H.Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 3.
+- 2018-02-27 — DEBATE - Pursuant to the provisions of H.Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Mrs. Mimi Walters (CA) amendment No. 2.
+- 2018-02-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1865.
+- 2018-02-27 — House amendment agreed to: On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2018-02-27 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A003) Agreed to by voice vote.
+- 2018-02-27 — House amendment agreed to: On agreeing to the Walters, Mimi amendment (A002) Agreed to by recorded vote: 308 - 107 (Roll no. 90).
+- 2018-02-27 — House amendment offered
+- 2018-02-27 — House amendment offered
+- 2018-02-27 — House amendment offered
+- 2018-02-27 — House amendment offered/reported by: Amendment (A001) offered by Mr. Goodlatte.(consideration: CR H1301-1302; text: CR H1301-1302)
+- 2018-02-27 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Walters, Mimi.(consideration: CR H1302-1304, H1317-1318; text: CR H1302)
+- 2018-02-27 — House amendment offered/reported by: Amendment (A003) offered by Ms. Jackson Lee.(consideration: CR H1304-1305; text: CR H1304)
+- 2018-02-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 748 and Rule XVIII.
+- 2018-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-02-27 — Mrs. Roby moved that the Committee rise.
+- 2018-02-27 — On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2018-02-27 — On agreeing to the Jackson Lee amendment (A003) Agreed to by voice vote.
+- 2018-02-27 — On agreeing to the Walters, Mimi amendment (A002) Agreed to by recorded vote: 308 - 107 (Roll no. 90).
+- 2018-02-27 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-02-27 — On passage Passed by recorded vote: 388 - 25 (Roll no. 91).
+- 2018-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mimi Walters amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Lofgren demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-02-27 — Passed/agreed to in House: On passage Passed by recorded vote: 388 - 25 (Roll no. 91).
+- 2018-02-27 — Roll call votes on amendments in House
+- 2018-02-27 — Rule H. Res. 748 passed House.
+- 2018-02-27 — Rule provides for consideration of H.R. 1865. Rule provides for consideration of H.R. 1865 under a structured rule with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on the Judiciary. The rule makes in order an amendment in the nature of a substitute recommended by the Committee on the Judiciary printed in the bill. The rule also provides one motion to recommit with or without instructions.
+- 2018-02-27 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-02-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-02-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1865.
+- 2018-02-27 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
+- 2018-02-27 — The previous question was ordered pursuant to the rule.
+- 2018-02-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
