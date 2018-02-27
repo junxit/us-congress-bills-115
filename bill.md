@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5122
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5122
+
+> To amend the Food and Agriculture Act of 1977 to provide mandatory funding for grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University.
+
+## § 1. Short title
+
+This Act may be cited as the “HBCU Parity Act of 2018”.
+
+## § 2. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University
+
+Section 1447(b) of the Food and Agriculture Act of 1977 (7 U.S.C. 3222b(b)) is amended to read as follows:
+
+> - **(b)** *Funding*
+>   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $50,000,000, to remain available until expended, for fiscal year 2018 and each fiscal year thereafter.
+>   - **(2)** *Mandatory funding* Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out this section $50,000,000, to remain available until expended, for fiscal year 2018 and each fiscal year thereafter.
