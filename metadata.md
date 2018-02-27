@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 35
 congress: 115
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 35
