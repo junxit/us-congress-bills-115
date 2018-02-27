@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 146
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,34 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Eastern Band Cherokee Historic Lands Reacquisition Act”.
+This Act may be cited as the “Eastern Band of Cherokee Historic Lands Reacquisition Act”.
 
 ## § 2. Land taken into trust for the Eastern Band of Cherokee Indians
 
-- **(a)** *Lands into trust* Subject to such rights of record as may be vested in third parties to rights-of-way or other easements or rights-of-record for roads, utilities, or other purposes, the following Federal lands on or above the 820-foot (MSL) contour elevation in Monroe County, Tennessee, on the shores of Tellico Reservoir, are taken into trust by the United States for the benefit of the Eastern Band of Cherokee Indians:
+- **(a)** *Lands into trust* Subject to such rights of record as may be vested in third parties to rights-of-way or other easements or rights-of-record for roads, utilities, or other purposes, the following Federal lands managed by the Tennessee Valley Authority and located on or above the 820-foot (MSL) contour elevation in Monroe County, Tennessee, on the shores of Tellico Reservoir, are declared to be held in trust by the United States for the use and benefit of the Eastern Band of Cherokee Indians:
   - **(1)** *Sequoyah Museum Property* Approximately 46.0 acres of land generally depicted as “Sequoyah Museum”, “Parcel 1”, and “Parcel 2” on the map titled “Eastern Band of Cherokee Historic Lands Reacquisition Map 1” and dated April 30, 2015.
   - **(2)** *Support Property* Approximately 11.9 acres of land generally depicted as “Support Parcel” on the map titled “Eastern Band of Cherokee Historic Lands Reacquisition Map 2” and dated April 30, 2015.
   - **(3)** *Chota Memorial Property and Tanasi Memorial Property* Approximately 18.2 acres of land generally depicted as “Chota Memorial 1” and “Tanasi Memorial” on the map titled “Eastern Band of Cherokee Historic Lands Reacquisition Map 3” and dated April 30, 2015, and including the Chota Memorial and all land within a circle with a radius of 86 feet measured from the center of the Chota Memorial without regard to the elevation of the land within the circle.
 - **(b)** *Property on lands* In addition to the land taken into trust by subsection (a), the improvements on and appurtenances thereto, including memorials, are and shall remain the property of the Eastern Band of Cherokee Indians.
-- **(c)** *Revised Maps* Not later than one year after the date of a land transaction made pursuant to this section, the Secretary of the Interior, after consultation with the Eastern Band of Cherokee Indians and the Tennessee Valley Authority, shall submit revised maps that depict the land taken into trust under this section, including any corrections made to the maps described in this section to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
+- **(c)** *Revised Maps* Not later than one year after the date of a land transaction made pursuant to this section, the Tennessee Valley Authority, after consultation with the Eastern Band of Cherokee Indians and the Secretary of the Interior, shall submit revised maps that depict the land taken into trust under this section, including any corrections made to the maps described in this section to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
 - **(d)** *Contour elevation clarification* The contour elevations referred to in this Act are based on MSL Datum as established by the NGS Southeastern Supplementary Adjustment of 1936 (NGVD29).
 - **(e)** *Conditions* The lands taken into trust under this section shall be subject to the conditions described in section 5.
 
 ## § 3. Permanent easements taken into trust for the Eastern Band of Cherokee Indians
 
-- **(a)** *Permanent easements* The following permanent easements for land below the 820-foot (MSL) contour elevation for the following Federal lands in Monroe County, Tennessee, on the shores of Tellico Reservoir, are hereby taken into trust by the United States for the benefit of the Eastern Band of Cherokee Indians:
+- **(a)** *Permanent easements* The following permanent easements for land below the 820-foot (MSL) contour elevation for the following Federal lands in Monroe County, Tennessee, on the shores of Tellico Reservoir, are declared to be held in trust by the United States for the benefit of the Eastern Band of Cherokee Indians:
   - **(1)** *Chota Peninsula* Approximately 8.5 acres of land generally depicted as “Chota Memorial 2” on the map titled “Eastern Band of Cherokee Historic Lands Reacquisition Map 3” and dated April 30, 2015.
   - **(2)** *Chota-Tanasi Trail* Approximately 11.4 acres of land generally depicted as “Chota-Tanasi Trail” on the map titled “Eastern Band of Cherokee Historic Lands Reacquisition Map 3” and dated April 30, 2015.
-- **(b)** *Revised Maps* Not later than one year after the date of a land transaction made pursuant to this section, the Secretary of the Interior, after consultation with the Eastern Band of Cherokee Indians and the Tennessee Valley Authority, shall submit to the Subcommittee on Indian, Insular and Alaska Native Affairs of the House of Representatives and the Committee on Indian Affairs of the Senate revised maps that depict the lands subject to easements taken into trust under this section, including any corrections necessary to the maps described in this section.
+- **(b)** *Revised Maps* Not later than one year after the date of a land transaction made pursuant to this section, the Tennessee Valley Authority, after consultation with the Eastern Band of Cherokee Indians and the Secretary of the Interior, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate revised maps that depict the lands subject to easements taken into trust under this section, including any corrections necessary to the maps described in this section.
 - **(c)** *Conditions* The lands subject to easements taken into trust under this section shall be subject to the use rights and conditions described in section 5.
 
 ## § 4. Trust administration and purposes
 
-- **(a)** *Applicable laws* Except as described in section 5, the lands subject to this Act shall be administered under the laws and regulations generally applicable to lands and interests in lands held in trust on behalf of Indian Tribes.
+- **(a)** *Applicable laws* Except as described in section 5, the lands subject to this Act shall be administered under the laws and regulations generally applicable to lands and interests in lands held in trust on behalf of Indian tribes.
 - **(b)** *Use of land* Except the lands described in section 2(a)(2), the lands subject to this Act shall be used principally for memorializing and interpreting the history and culture of Indians and recreational activities, including management, operation, and conduct of programs of and for—
   - **(1)** the Sequoyah birthplace memorial and museum;
   - **(2)** the memorials to Chota and Tanasi as former capitals of the Cherokees;
-  - **(3)** the memorial and place of reinterment for remains of the Eastern Band of Cherokee Indians and other Cherokee tribes, including those human remains and cultural items that are repatriated by the Tennessee Valley Authority to those Cherokee tribes under the National Graves Protection and Repatriation Act; and
+  - **(3)** the memorial and place of reinterment for remains of the Eastern Band of Cherokee Indians and other Cherokee tribes, including those transferred to the Eastern Band of Cherokee Indians and other Cherokee tribes and those human remains and cultural items transferred by the Tennessee Valley Authority to those Cherokee tribes under the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.); and
   - **(4)** interpreting the Trail of Tears National Historic Trail.
 - **(c)** *Use of support property* The land described in section 2(a)(2) shall be used principally for the support of lands subject to this Act and the programs offered by the Tribe relating to such lands and their purposes including—
   - **(1)** classrooms and conference rooms;
@@ -64,11 +64,21 @@ This Act may be cited as the “Eastern Band Cherokee Historic Lands Reacquisiti
 - **(f)** *Right of entry* The lands subject to this Act shall be subject to a reasonable right of entry by the personnel of the Tennessee Valley Authority and agents of the Tennessee Valley Authority operating in their official capacities as necessary for purposes of carrying out the Tennessee Valley Authority’s statutory program for river control and development.
 - **(g)** *Entry onto land* To the extent that the Tennessee Valley Authority’s operations on the lands subject to this Act do not unreasonably interfere with the Eastern Band of Cherokee Indians’ maintenance of an appropriate setting for the memorialization of Cherokee history or culture on the lands and its operations on the lands, the Eastern Band of Cherokee Indians shall allow the Tennessee Valley Authority to enter the lands to clear, ditch, dredge, and drain said lands and apply larvicides and chemicals thereon or to conduct bank protection work and erect structures necessary in the promotion and furtherance of public health, flood control, and navigation.
 - **(h)** *Loss of hydropower capacity* All future development of the lands subject to this Act shall be subject to compensation to the Tennessee Valley Authority for loss of hydropower capacity as provided in the Tennessee Valley Authority Flood Control Storage Loss Guideline, unless agreed to otherwise by the Tennessee Valley Authority.
-- **(i)** *Protection from liability* The Tennessee Valley Authority shall not be liable for any loss or damage resulting from—
+- **(i)** *Protection from liability* The United States shall not be liable for any loss or damage resulting from—
   - **(1)** the temporary and intermittent flooding of lands subject to this Act;
   - **(2)** the permanent flooding of adjacent lands as provided in this section;
   - **(3)** wave action in Tellico Reservoir; or
   - **(4)** fluctuation of water levels for purposes of managing Tellico Reservoir.
+- **(j)** *Continuing responsibilities* The Tennessee Valley Authority shall—
+  - **(1)** retain sole and exclusive Federal responsibility and liability to fund and implement any environmental remediation requirements that are required under applicable Federal or State law for any land or interest in land to be taken into trust under this Act, as well as the assessments under paragraph (2) to identify the type and quantity of any potential hazardous substances on the lands;
+  - **(2)** prior to the acquisition in trust, carry out an assessment and notify the Secretary of the Interior and the Eastern Band of Cherokee Indians whether any hazardous substances were stored on the lands and, if so, whether those substances—
+    - **(A)** were stored for 1 year or more on the lands;
+    - **(B)** were known to have been released on the lands; or
+    - **(C)** were known to have been disposed of on the lands; and
+  - **(3)** if the assessment under paragraph (2) shows that hazardous substances were stored, released, or disposed of on the lands, include in its notice under paragraph (2) to the Secretary of the Interior and the Eastern Band of Cherokee Indians—
+    - **(A)** the type and quantity of such hazardous substances;
+    - **(B)** the time at which such storage, release, or disposal took place on the lands; and
+    - **(C)** a description of any remedial actions, if any, taken on the lands.
 
 ## § 6. Lands Subject to the Act
 
