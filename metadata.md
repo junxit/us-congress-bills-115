@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4296
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4296
@@ -21,9 +21,10 @@ To place requirements on operational risk capital requirements for banking organ
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To place requirements on operational risk capital requirements for banking organ
 - 2018-02-27 — Rule provides for consideration of H.R. 4296 and H.R. 4607. Rule provides for consideration of H.R. 4296 and H.R. 4607 under closed rules with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Financial Services for each measure.
 - 2018-02-27 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-02-27 — The previous question was ordered pursuant to the rule.
+- 2018-02-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
