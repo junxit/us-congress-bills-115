@@ -21,10 +21,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Reverend Graham provided spiritual counsel for every President since Harry Truman;
 - Whereas Reverend Graham prayed with members of the Armed Forces in combat zones in South Korea and Vietnam;
 - Whereas Reverend Graham spoke against the communist Soviet Union, saying, “Communism has decided against God, against Christ, against the Bible, and against all religion.”;
-- Whereas Reverend Graham— (1)fought for racial integration; (2)invited Dr. Martin Luther King, Jr., to preach with him in New York City in 1957; and (3)bailed Dr. Martin Luther King, Jr., out of jail when Dr. King was arrested for protesting segregation;
+- Whereas Reverend Graham—(1)fought for racial integration;(2)invited Dr. Martin Luther King, Jr., to preach with him in New York City in 1957; and(3)bailed Dr. Martin Luther King, Jr., out of jail when Dr. King was arrested for protesting segregation;
 - Whereas, following the terrorist attacks on September 11, 2001, Reverend Graham spoke words of hope and comfort to the people of the United States at the Washington National Cathedral;
 - Whereas Reverend Graham authored 34 books, including the bestselling autobiography, “Just as I Am”, which began by discussing his early days on a dairy farm in North Carolina and continued through his career as a preacher and evangelist; and
-- Whereas Reverend Graham received numerous honors, including— (1)the North Carolina Award for Public Service; (2)the Presidential Medal of Freedom; (3)the Ronald Reagan Freedom Award; and (4)the Congressional Gold Medal: Now, therefore, be it
+- Whereas Reverend Graham received numerous honors, including—(1)the North Carolina Award for Public Service;(2)the Presidential Medal of Freedom;(3)the Ronald Reagan Freedom Award; and(4)the Congressional Gold Medal: Now, therefore, be it
 
 That Congress—
 
