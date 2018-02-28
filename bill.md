@@ -1,37 +1,37 @@
 ---
 legis-num: H.R. 1625
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1625
 
-That the bill from the House of Representatives (H.R. 1625) entitled “An Act to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.”, do pass with the following
+> To amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short Title
 
-## § 1. Short titles
+This Act may be cited as the “Consolidated Appropriations Act, 2018”.
 
-This Act may be cited as the “Targeted Rewards for the Global Eradication of Human Trafficking” or the “TARGET Act”.
+## § 2. Table of Contents
 
-## § 2. Findings; sense of Congress
+## § 3. References
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** Trafficking in persons is a major transnational crime, as recognized by the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.; division A of Public Law 106–386).
-  - **(2)** Trafficking in persons is increasingly perpetrated by organized, sophisticated criminal enterprises.
-  - **(3)** Combating trafficking in persons requires a global approach to identifying and apprehending the world’s worst human trafficking rings.
-- **(b)** *Sense of Congress* It is the sense of Congress that the Department of State’s rewards program is a powerful tool in combating sophisticated international crime and that the Department of State and Federal law enforcement should work in concert to offer rewards that target human traffickers who prey on the most vulnerable people around the world.
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
 
-## § 3. Rewards for Justice
+## § 4. Explanatory Statement
 
-Section 36(k)(5) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(k)(5)) is amended—
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about March 22, 2018, and submitted by the Chairman of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of divisions A through L of this Act as if it were a joint explanatory statement of a committee of conference.
 
-- **(1)** in the matter preceding subparagraph (A), by striking “means”;
-- **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving such clauses, as redesignated, 2 ems to the right;
-- **(3)** by inserting before clause (i), as redesignated, the following:
-  > - **(A)** means—
+## § 5. Statement of appropriations
 
-- **(4)** in clause (ii), as redesignated, by striking the period at the end and inserting “; and”; and
-- **(5)** by adding at the end following:
-  > - **(B)** includes severe forms of trafficking in persons (as defined in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)) involving at least 1 jurisdiction outside of the United States.
+The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2018.
+
+## § 6. Availability of funds
+
+Each amount designated in this Act by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available (or rescinded, if applicable) only if the President subsequently so designates all such amounts and transmits such designations to the Congress.
+
+## § 7. Adjustments to compensation
+
+- **(a)** Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2018.
+- **(b)** There is appropriated for payment to Emily Robin Minerva, heir of Louise McIntosh Slaughter, late a Representative from the State of New York, $174,000.
