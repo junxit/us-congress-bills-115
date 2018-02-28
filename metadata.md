@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 409
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 409
@@ -16,7 +16,7 @@ A resolution honoring the dedication and courage of the Buffalo Soldiers.
 
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
@@ -43,6 +43,7 @@ A resolution honoring the dedication and courage of the Buffalo Soldiers.
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
 
 ## Committees (1)
 
@@ -52,3 +53,7 @@ A resolution honoring the dedication and courage of the Buffalo Soldiers.
 
 - 2018-02-15 — Introduced in Senate
 - 2018-02-15 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S1168)
+- 2018-02-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1292-1293; text: CR 2/15/2018 S1168)
+- 2018-02-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1292-1293; text: CR 2/15/2018 S1168)
+- 2018-02-28 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2018-02-28 — Senate Committee on Armed Services discharged by Unanimous Consent.
