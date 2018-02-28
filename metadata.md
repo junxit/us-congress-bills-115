@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 106
@@ -38,3 +38,4 @@ Authorizing the use of Emancipation Hall for a ceremony to present the Congressi
 - 2018-02-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1290)
 - 2018-02-28 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1291)
 - 2018-02-28 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1291)
+- 2018-03-01 — Message on Senate action sent to the House.
