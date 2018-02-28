@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5078
@@ -16,9 +16,10 @@ TRID Improvement Act of 2018
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ TRID Improvement Act of 2018
 - 2018-02-27 — Mr. Hill moved to suspend the rules and pass the bill, as amended.
 - 2018-02-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1306)
 - 2018-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1306)
+- 2018-02-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
