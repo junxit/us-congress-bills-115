@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1625
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,11 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2708` | strike | in the matter preceding subparagraph (A), by striking “means”; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2708` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving such clauses, as so redesignated, two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2708` | redesignate | by inserting before clause (i), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2708` | redesignate | in clause (ii), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7102` | add-at-end | by adding at the end following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2708` | strike | in the matter preceding subparagraph (A), by striking “means”; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2708` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving such clauses, as redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2708` | redesignate | by inserting before clause (i), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

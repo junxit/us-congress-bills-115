@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1625
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1625
@@ -82,3 +82,5 @@ Consolidated Appropriations Act, 2018
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
+- 2018-02-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1291)
+- 2018-02-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR H1291)
