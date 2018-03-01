@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 53
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 53
@@ -64,8 +64,15 @@ A joint resolution honoring the life of William "Billy" F. Graham, Jr.
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Sasse, Ben [R-NE] (S001197)
 
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
 ## Actions
 
 - 2018-02-28 — Introduced in Senate
 - 2018-02-28 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S1258-1260; text: CR S1259)
 - 2018-02-28 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR S1258-1260; text: CR S1259)
+- 2018-03-01 — Message on Senate action sent to the House.
+- 2018-03-01 — Received in the House.
+- 2018-03-01 — Referred to the House Committee on Oversight and Government Reform.
