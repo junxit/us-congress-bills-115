@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2248
@@ -29,3 +29,7 @@ Veterans Benefits and Transition Act of 2018
 
 - 2017-12-19 — Introduced in Senate
 - 2017-12-19 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-03-01 — Passed Senate without amendment by Unanimous Consent. (text: CR S1321)
+- 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1321)
+- 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1321)
+- 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1321)
