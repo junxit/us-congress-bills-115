@@ -1,7 +1,7 @@
 ---
 measure: S. 2372
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
