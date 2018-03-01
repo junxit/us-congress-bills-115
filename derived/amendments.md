@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
