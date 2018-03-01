@@ -1,7 +1,7 @@
 ---
 measure: S. 1621
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1621
@@ -41,3 +41,5 @@ Rural Wireless Access Act of 2017
 - 2018-02-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.
 - 2018-02-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.
 - 2018-02-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.
+- 2018-03-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1320; text: CR S1320)
+- 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1320; text: CR S1320)
