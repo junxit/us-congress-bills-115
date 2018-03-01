@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1865
@@ -16,7 +16,7 @@ Allow States and Victims to Fight Online Sex Trafficking Act of 2017
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Cosponsors (175)
+## Cosponsors (176)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
@@ -193,6 +193,7 @@ Allow States and Victims to Fight Online Sex Trafficking Act of 2017
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (2)
 
@@ -258,3 +259,31 @@ Allow States and Victims to Fight Online Sex Trafficking Act of 2017
 - 2018-02-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
 - 2018-02-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2018-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2018-03-14 — Cloture motion on the motion to proceed to the measure presented in Senate.
+- 2018-03-14 — Motion to proceed to consideration of measure made in Senate. (CR S1731)
+- 2018-03-15 — Motion to proceed to measure considered in Senate. (CR S1742)
+- 2018-03-19 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 94 - 2. Record Vote Number: 57. (CR S1780)
+- 2018-03-19 — Motion to proceed to measure considered in Senate. (CR S1773)
+- 2018-03-19 — Senate amendment submitted
+- 2018-03-19 — Senate amendment submitted
+- 2018-03-19 — Senate vitiated previous cloture on the motion to proceed to the measure by Unanimous Consent. (consideration: CR S1780-1784)
+- 2018-03-20 — Motion to proceed to measure considered in Senate. (CR S1801)
+- 2018-03-21 — Amendment SA 2212 proposed by Senator Wyden. (consideration: CR S1865-1871; text: CR S1865) To clarify that efforts of a provider or user of an interactive computer service to identify, restrict access to, or remove objectionable material shall not be considered in determining the criminal or civil liability of the provider or user for other material.
+- 2018-03-21 — Amendment SA 2213 proposed by Senator Wyden. (consideration: CR S1865-1871; text: CR S1865) To provide additional funding to the Department of Justice to combat the online facilitation of sex trafficking.
+- 2018-03-21 — Amendment SA 2213 ruled out of order by the chair.
+- 2018-03-21 — Measure laid before Senate by unanimous consent. (consideration: CR S1849-1872)
+- 2018-03-21 — Message on Senate action sent to the House.
+- 2018-03-21 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2213 rejected in Senate by Yea-Nay Vote. 21 - 78. Record Vote Number: 59.
+- 2018-03-21 — Passed Senate without amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 60.
+- 2018-03-21 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 60.
+- 2018-03-21 — Point of order that the amendement violates section 4106(a) of H.Con.Res. 71, 115th Congress, raised in Senate with respect to amendment SA 2213.
+- 2018-03-21 — Proposed amendment SA 2212 withdrawn in Senate. (consideration: CR S1871)
+- 2018-03-21 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2213 rejected in Senate by Yea-Nay Vote. 21 - 78. Record Vote Number: 59.
+- 2018-03-21 — Senate amendment proposed (on the floor): Amendment SA 2212 proposed by Senator Wyden.(consideration: CR S1865-1871; text: CR S1865)
+- 2018-03-21 — Senate amendment proposed (on the floor): Amendment SA 2213 proposed by Senator Wyden.(consideration: CR S1865-1871; text: CR S1865)
+- 2018-04-03 — Presented to President.
+- 2018-04-03 — Presented to President.
+- 2018-04-11 — Became Public Law No: 115-164.
+- 2018-04-11 — Became Public Law No: 115-164.
+- 2018-04-11 — Signed by President.
+- 2018-04-11 — Signed by President.
