@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1865
@@ -256,3 +256,5 @@ Allow States and Victims to Fight Online Sex Trafficking Act of 2017
 - 2018-02-27 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
 - 2018-02-27 — The previous question was ordered pursuant to the rule.
 - 2018-02-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2018-02-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
