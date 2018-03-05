@@ -1,7 +1,7 @@
 ---
 measure: S. 1621
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1621
@@ -29,9 +29,10 @@ Rural Wireless Access Act of 2017
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ Rural Wireless Access Act of 2017
 - 2018-02-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.
 - 2018-03-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1320; text: CR S1320)
 - 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1320; text: CR S1320)
+- 2018-03-05 — Message on Senate action sent to the House.
+- 2018-03-05 — Received in the House.
+- 2018-03-05 — Referred to the House Committee on Energy and Commerce.
