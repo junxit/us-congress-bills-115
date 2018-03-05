@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4685
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4685
@@ -29,3 +29,11 @@ To designate the facility of the United States Postal Service located at 515 Hop
 - 2017-12-19 — Introduced in House
 - 2017-12-19 — Introduced in House
 - 2017-12-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-02-06 — Committee Consideration and Mark-up Session Held.
+- 2018-02-06 — Ordered to be Reported by Unanimous Consent.
+- 2018-03-05 — Considered under suspension of the rules. (consideration: CR H1350-1351)
+- 2018-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4685.
+- 2018-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-05 — Mr. Palmer moved to suspend the rules and pass the bill.
+- 2018-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1350)
+- 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1350)
