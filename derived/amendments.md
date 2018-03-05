@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2823
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -55,5 +55,5 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1002` | add-at-end | Section 3(21) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(21)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | add-at-end | Section 408(b) of the Employee Retirement Income Security Act of 1974 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 4975(e) of such Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4975` | replace | by striking “(5) CORRECTION- The terms” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4975` | replace | by striking “(5) Correction.—The terms” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 4975` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
