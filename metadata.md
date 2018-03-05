@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4406
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4406
@@ -54,3 +54,14 @@ To designate the facility of the United States Postal Service located at 99 Maco
 - 2017-11-15 — Introduced in House
 - 2017-11-15 — Introduced in House
 - 2017-11-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-02-06 — Committee Consideration and Mark-up Session Held.
+- 2018-02-06 — Ordered to be Reported by Unanimous Consent.
+- 2018-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-03-05 — Considered as unfinished business. (consideration: CR H1354)
+- 2018-03-05 — Considered under suspension of the rules. (consideration: CR H1348-1349)
+- 2018-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4406.
+- 2018-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-05 — Mr. Palmer moved to suspend the rules and pass the bill, as amended.
+- 2018-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 93). (text: CR H1348)
+- 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 93).(text: CR H1348)
+- 2018-03-05 — The title of the measure was amended. Agreed to without objection.
