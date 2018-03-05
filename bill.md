@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5169
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5169
+
+> To amend the Competitive, Special, and Facilities Research Grant Act to prioritize research on sensor and imager technology in agriculture, and for other purposes.
+
+## § 1. Sensor and imager technology in agriculture
+
+- **(a)** *Agriculture and Food Research Initiative* Section 2(b)(2)(E) of the Competitive, Special, and Facilities Research Grant Act (7 U.S.C. 3157(b)(2)(E)) is amended—
+  - **(1)** by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and
+  - **(2)** by inserting after clause (ii) the following new clause:
+    > - **(iii)** sensor and imager technology;
+
+- **(b)** *Specialty crop research initiative* Paragraph (4) of section 412(b) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7632(b)) is amended to read as follows:
+  > - **(4)** new innovations and technology, including—
+  >   - **(A)** improved mechanization and technologies that delay or inhibit ripening; and
+  >   - **(B)** sensor and imager technology.
