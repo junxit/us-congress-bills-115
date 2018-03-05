@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2823
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,7 +40,7 @@ This Act may be cited as the “Affordable Retirement Advice for Savers Act”.
     >       - **(bb)** a mutual agreement, arrangement, or understanding, which may include limitations on scope, timing, and responsibility to provide ongoing monitoring or advice services, between the person making such recommendation and the plan that such recommendation is individualized to the plan and such plan intends to materially rely on such recommendation in making investment or management decisions with respect to any moneys or other property of such plan.
     >   - **(ii)** For purposes of clause (i)(II)(bb), any disclaimer of a mutual agreement, arrangement, or understanding shall state only the following: “This communication is not individualized to you, and you are not intended to rely materially on this communication in making investment or management decisions.”. Such disclaimer shall not be effective unless such disclaimer is in writing and is communicated in a clear and prominent manner and an objective person would reasonably conclude that, based on all the facts and circumstances, there was not a mutual agreement, arrangement, or understanding.
     >   - **(iii)** For purposes of clause (i)(II)(bb), a communication shall not be considered to be a recommendation made pursuant to a mutual agreement, arrangement, or understanding, if such communication contains the disclaimer required by clause (ii), and—
-    >     - **(I)** it is provided in conjunction with clear and prominent disclosure in writing to a plan, plan participant, or beneficiary that the person providing the communication is doing so in its marketing or sales capacity, including any communication regarding the terms and conditions of the engagement of the person providing the communication, and that the person is not intending to provide investment advice within the meaning of this subparagraph or to otherwise act within and under the obligations of the best interest standard as described in this subparagraph;
+    >     - **(I)** it is provided in conjunction with clear and prominent disclosure in writing to a plan, plan participant, or beneficiary that the person providing the communication is doing so in its marketing or sales capacity, including any communication regarding the terms and conditions of the engagement of the person providing the communication, and that the person is not intending to provide investment advice within the meaning of this subparagraph or to otherwise act as a fiduciary to the plan;
     >     - **(II)** the person providing the communication is a current or potential counterparty or service provider to the plan in connection with any transaction based on the communication, but only if—
     >       - **(aa)** the plan is represented, in connection with such transaction, by a plan fiduciary that is independent of the person providing the communication, and, except in the case of a swap (as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a) or security-based swap (as defined in section 3(a) of the Securities Exchange Act (15 U.S.C. 78c(a)))), independent of the plan sponsor; and
     >       - **(bb)** prior to such transaction, the independent plan fiduciary represents in writing to the person providing the communication that it is aware that the person has a financial interest in the transaction and that it has determined that the person is not intending to provide investment advice within the meaning of this subparagraph or to otherwise act as a fiduciary to the plan subject to section 404;
@@ -124,7 +124,7 @@ This Act may be cited as the “Affordable Retirement Advice for Savers Act”.
 
   - **(3)** *Failures relating to best interest recommendation*
     - **(A)** *Correction* Section 4975(f)(5) of such Code is amended—
-      - **(i)** by striking “(5) CORRECTION- The terms” and inserting:
+      - **(i)** by striking “(5) Correction.—The terms” and inserting:
         > - **(5)** *Correction*
         >   - **(A)** *In general* Except as provided in subparagraph (B), the terms
 
