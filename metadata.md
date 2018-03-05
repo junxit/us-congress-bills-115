@@ -1,7 +1,7 @@
 ---
 measure: S. 2372
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2372
@@ -26,9 +26,11 @@ VA MISSION Act of 2018
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Veterans' Affairs Committee
+- House — Natural Resources Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +40,8 @@ VA MISSION Act of 2018
 - 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1321)
 - 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1321)
 - 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1321)
+- 2018-03-05 — Message on Senate action sent to the House.
+- 2018-03-05 — Received in the House.
+- 2018-03-05 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-05 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-05 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
