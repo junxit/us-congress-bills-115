@@ -49,3 +49,8 @@ Section 2222 of the Economic Growth and Regulatory Paperwork Reduction Act of 19
 > - **(f)** *Reviews conducted by the Bureau* The Bureau of Consumer Financial Protection shall—
 >   - **(1)** use any relevant information from an assessment conducted under section 1022(d) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512(d)) in conducting the review required under subsection (a); and
 >   - **(2)** conduct such review in accordance with the purposes and objectives described in subsections (a) and (b) of section 1021 of such Act (12 U.S.C. 5511).
+
+## § 6. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,495,714,285”.
+- **(b)** *Effective date* Subsection (a) shall take effect on May 1, 2018.
