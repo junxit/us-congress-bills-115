@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4768
@@ -37,3 +37,9 @@ National Strategy for Combating the Financing of Transnational Criminal Organiza
 - 2018-02-13 — Placed on the Union Calendar, Calendar No. 415.
 - 2018-02-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-553.
 - 2018-02-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-553.
+- 2018-03-06 — Considered under suspension of the rules. (consideration: CR H1395-1398)
+- 2018-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4768.
+- 2018-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-06 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
+- 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1395)
+- 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1395)
