@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4607
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 6 executed, 6 stated and not applied.
+13 amendatory instructions. 7 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -77,6 +77,15 @@ to guess them.
 |---|---|
 | Removed | `10 years` |
 | Inserted | `7 years` |
+
+### 12 U.S.C. § 289
+
+> Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,495,714,285”.
+
+| | |
+|---|---|
+| Removed | `$7,500,000,000` |
+| Inserted | `$7,495,714,285` |
 
 ## Stated, not applied
 
