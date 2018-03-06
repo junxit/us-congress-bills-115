@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4406
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4406
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 99 Maco
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ To designate the facility of the United States Postal Service located at 99 Maco
 - 2018-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 93). (text: CR H1348)
 - 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 93).(text: CR H1348)
 - 2018-03-05 — The title of the measure was amended. Agreed to without objection.
+- 2018-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
