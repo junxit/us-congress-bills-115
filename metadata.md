@@ -1,7 +1,7 @@
 ---
 measure: S. 188
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 188
@@ -16,7 +16,7 @@ EGO Act
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. McCaskill, Claire [D-MO] (M001170)
@@ -24,6 +24,7 @@ EGO Act
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -49,3 +50,13 @@ EGO Act
 - 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1418)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1418)
 - 2018-03-06 — The title of the measure was amended. Agreed to without objection.
+- 2018-03-07 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2018-03-14 — Resolving differences -- Senate actions: Senate agreed to the House amendments to the Senate bill by Unanimous Consent.(consideration: CR S1738-1739)
+- 2018-03-14 — Senate agreed to the House amendments to the Senate bill by Unanimous Consent. (consideration: CR S1738-1739)
+- 2018-03-15 — Message on Senate action sent to the House.
+- 2018-03-19 — Presented to President.
+- 2018-03-19 — Presented to President.
+- 2018-03-27 — Became Public Law No: 115-158.
+- 2018-03-27 — Became Public Law No: 115-158.
+- 2018-03-27 — Signed by President.
+- 2018-03-27 — Signed by President.
