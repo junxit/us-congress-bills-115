@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4986
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-62 amendatory instructions. 13 executed, 49 stated and not applied.
+68 amendatory instructions. 14 executed, 54 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,15 @@ to guess them.
 | Removed | `; and` |
 | Inserted | `, and payments representing the return of such deposits shall not be subject to administrative offset under section 3716(c) of title 31, United States Code.` |
 
+### 47 U.S.C. § 151
+
+> in section 309(j)(6)(H), by striking “charges imposed pursuant to section 8 of this Act” and inserting “application fees assessed under section 9”.
+
+| | |
+|---|---|
+| Removed | `charges imposed pursuant to section 8 of this Act` |
+| Inserted | `application fees assessed under section 9` |
+
 ### 42 U.S.C. § 5189e
 
 > in subparagraph (A), by striking “telecommunications service” and inserting “wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service”;
@@ -69,23 +78,23 @@ to guess them.
 | Removed | `(1) provides` |
 | Inserted | `(1)(A) provides` |
 
-### 47 U.S.C. § 1303
+### 47 U.S.C. § 533
 
-> Section 103(b)(1) of the Broadband Data Improvement Act (47 U.S.C. 1303(b)(1)) is amended by striking “the assessment and report” and all that follows through “Federal Communications Commission” and inserting “its report under section 13 of the Communications Act of 1934, the Federal Communications Commission”.
-
-| | |
-|---|---|
-| Removed | `the assessment and report” and all that follows through “Federal Communications Commission` |
-| Inserted | `its report under section 13 of the Communications Act of 1934, the Federal Communications Commission` |
-
-### 47 U.S.C. § 543
-
-> in paragraph (1), by striking “annually publish” and inserting “publish with its report under section 13”; and
+> Section 613(a)(3) of the Communications Act of 1934 (47 U.S.C. 533(a)(3)) is amended by striking “623(l)” and inserting “623(k)”.
 
 | | |
 |---|---|
-| Removed | `annually publish` |
-| Inserted | `publish with its report under section 13` |
+| Removed | `623(l)` |
+| Inserted | `623(k)` |
+
+### 47 U.S.C. § 1302
+
+> in subsection (d), by striking “this subsection” and inserting “this section”; and
+
+| | |
+|---|---|
+| Removed | `this subsection` |
+| Inserted | `this section` |
 
 ### 47 U.S.C. § 765e
 
@@ -155,22 +164,31 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 309` | strike | by striking clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 156` | repeal | Section 710 of the Telecommunications Act of 1996 (Public Law 104–104) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 156` | strike | The table of contents in section 2 of such Act is amended by striking the item relating to section 710. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 158` | amend | Section 8 of the Communications Act of 1934 (47 U.S.C. 158) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 159` | amend | Section 9 of the Communications Act of 1934 (47 U.S.C. 159) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | insert | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by inserting after section 9 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2018” each place it appears and inserting “December 31, 2019”. | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 5189e` | replace | in subparagraph (E), by striking the semicolon and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5189e` | redesignate | by redesignating subparagraphs (A) through (E) as clauses (i) through (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 151` | repeal | by repealing section 8; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 302 of Public Law 108–494 (118 Stat. 3998) is amended by striking “December 31, 2018” each place it appears and inserting “December 31, 2021”. | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 154` | add-at-end | Section 4 of the Communications Act of 1934 (47 U.S.C. 154) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5189e` | replace | in subparagraph (E), by striking the semicolon and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5189e` | redesignate | by redesignating subparagraphs (A) through (E) as clauses (i) through (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5189e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | add-at-end | Title I of the Communications Act of 1934, as amended by section 201(a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 765e` | repeal | Section 646 of the Communications Satellite Act of 1962 (47 U.S.C. 765e; 114 Stat. 57) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 703` | repeal | Section 4 of Public Law 109–34 (47 U.S.C. 703) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1303` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1303` | redesignate | by redesignating subsections (c) through (e) as subsections (b) through (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | strike | by striking subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 548` | redesignate | by redesignating subsection (j) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 543` | strike | in the heading of paragraph (2), by striking “annual”. | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 543` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 543` | redesignate | by redesignating subsections (l) through (o) as subsections (k) through (n), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 257` | strike | Section 257 of the Communications Act of 1934 (47 U.S.C. 257) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1302` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | strike | Section 332(c)(1)(C) of the Communications Act of 1934 (47 U.S.C. 332(c)(1)(C)) is amended by striking the first and second sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 154` | strike | by striking subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 154` | redesignate | by redesignating subsections (l) through (o) as subsections (k) through (n), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 154` | strike | by striking subsection (k); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 154` | redesignate | by redesignating subsections (l) through (n) as subsections (k) through (m), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 154` | redesignate | by redesignating the first subsection (o) (relating to use of radio and wire communications in connection with safety of life and property) as subsection (n). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 309` | strike | Section 309(j)(8)(B) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(B)) is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 765e` | strike | in subsection (b)(2)(B)(ii), by striking “and shall furnish notice of such action” and all that follows through “subject of the waiver”; and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 765e` | strike | in subsection (g), by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -195,7 +213,3 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (2), by inserting “the Federal Communications Commission,” after “the Environmental Protection Agency,”. | the bill names no machine-readable US Code section |
 | `47 U.S.C. § 227` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | insert | Section 227(e) of the Communications Act of 1934 (47 U.S.C. 227(e)) is amended in the heading by inserting “Misleading or” before “Inaccurate”. | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 154` | amend | Section 4(c) of the Communications Act of 1934 (47 U.S.C. 154(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 4 of the Communications Act of 1934, as amended by section 402(h), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `47 U.S.C. § 309` | add-at-end | Section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 1008 of the Spectrum Pipeline Act of 2015 (Public Law 114–74; 129 Stat. 584) is amended in the matter preceding paragraph (1) by inserting “, after notice and an opportunity for public comment,” after “the Commission”. | the bill names no machine-readable US Code section |
