@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2673
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2673
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 514 Bro
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 514 Bro
 - 2018-03-05 — Mr. Palmer moved to suspend the rules and pass the bill.
 - 2018-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1348)
 - 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1348)
+- 2018-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
