@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4043
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,5 +44,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (3)(D), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
-| — | repeal | Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed. | the bill names no machine-readable US Code section |
