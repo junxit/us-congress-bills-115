@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3737
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3737
@@ -34,3 +34,9 @@ Social Media Use in Clearance Investigations Act of 2017
 - 2018-01-11 — Placed on the Union Calendar, Calendar No. 382.
 - 2018-01-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-512.
 - 2018-01-11 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-512.
+- 2018-03-06 — Considered under suspension of the rules. (consideration: CR H1416-1417)
+- 2018-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3737.
+- 2018-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-06 — Mr. Blum moved to suspend the rules and pass the bill.
+- 2018-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1416)
+- 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1416)
