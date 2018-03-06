@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1132
@@ -36,3 +36,9 @@ Political Appointee Burrowing Prevention Act
 - 2017-12-05 — Placed on the Union Calendar, Calendar No. 325.
 - 2017-12-05 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-439.
 - 2017-12-05 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-439.
+- 2018-03-06 — Considered under suspension of the rules. (consideration: CR H1414-1416)
+- 2018-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1132.
+- 2018-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-06 — Mr. Blum moved to suspend the rules and pass the bill, as amended.
+- 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1414-1415)
+- 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1414-1415)
