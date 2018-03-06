@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2226
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2226
@@ -74,3 +74,9 @@ Portfolio Lending and Mortgage Access Act
 - 2018-02-23 — Placed on the Union Calendar, Calendar No. 438.
 - 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.
 - 2018-02-23 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.
+- 2018-03-06 — Considered under suspension of the rules. (consideration: CR H1389-1393)
+- 2018-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2226.
+- 2018-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-06 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
+- 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1389-1390)
+- 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1389-1390)
