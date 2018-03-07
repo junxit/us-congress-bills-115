@@ -1,7 +1,7 @@
 ---
 measure: S. 35
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 35
@@ -21,9 +21,11 @@ Black Hills National Cemetery Boundary Expansion Act
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Energy and Natural Resources Committee
+- House — Veterans' Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +37,9 @@ Black Hills National Cemetery Boundary Expansion Act
 - 2017-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
 - 2017-12-21 — Passed Senate with an amendment by Voice Vote. (consideration: CR S8267-8269; text: CR S8267-8268)
 - 2017-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S8267-8269; text: CR S8267-8268)
+- 2017-12-22 — Held at the desk.
+- 2017-12-22 — Message on Senate action sent to the House.
+- 2017-12-22 — Received in the House.
+- 2018-03-07 — Referred to the Committee on Natural Resources, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-07 — Referred to the Committee on Natural Resources, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-07 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
