@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4043
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4043
@@ -40,3 +40,4 @@ Whistleblower Protection Extension Act of 2017
 - 2018-03-06 — Mr. Blum moved to suspend the rules and pass the bill, as amended.
 - 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1417-1418)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1417-1418)
+- 2018-03-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
