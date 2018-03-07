@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1207
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1207
@@ -77,3 +77,5 @@ To designate the facility of the United States Postal Service located at 306 Riv
 - 2018-02-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. Without written report.
 - 2018-02-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. Without written report.
 - 2018-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
+- 2018-03-07 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1525-1527; text: CR S1527)
+- 2018-03-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S1525-1527; text: CR S1527)

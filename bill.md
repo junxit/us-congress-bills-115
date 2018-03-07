@@ -2,14 +2,11 @@
 legis-num: H.R. 1207
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1207
 
-> To designate the facility of the United States Postal Service located at 306 River Street in Tilden, Texas, as the “Tilden Veterans Post Office”.
+That the bill from the House of Representatives (H.R. 1207) entitled “An Act to designate the facility of the United States Postal Service located at 306 River Street in Tilden, Texas, as the “Tilden Veterans Post Office”.”, do pass with the following
 
-## § 1. Specialist Tilden Veterans Post Office
-
-- **(a)** *Designation* The facility of the United States Postal Service located at 306 River Street in Tilden, Texas, shall be known and designated as the “Tilden Veterans Post Office”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Tilden Veterans Post Office”.
+*On page 2, line 1, strike SPECIALIST.*
