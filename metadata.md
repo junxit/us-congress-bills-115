@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 762
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 762
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1119) to establish the bases by wh
 - 2018-03-05 — Rule provides for consideration of H.R. 1119 and H.R. 1917 under closed rules. Each measure shall be debatable for one hour equally divided and controlled by the Chair and Ranking Member of the Committee on Energy and Commerce. The rule provides for one motion to recommit with or without instructions on each measure.
 - 2018-03-05 — The House Committee on Rules reported an original measure, H. Rept. 115-586, by Ms. Cheney.
 - 2018-03-05 — The House Committee on Rules reported an original measure, H. Rept. 115-586, by Ms. Cheney.
+- 2018-03-07 — Considered as privileged matter. (consideration: CR H1451-1458)
+- 2018-03-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 762.
+- 2018-03-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-07 — On agreeing to the resolution Agreed to by recorded vote: 227 - 185 (Roll no. 97). (text: CR H1451-1452)
+- 2018-03-07 — On ordering the previous question Agreed to by the Yeas and Nays: 229 - 183 (Roll no. 96). (consideration: CR H1457-1458)
+- 2018-03-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 185 (Roll no. 97).(text: CR H1451-1452)
