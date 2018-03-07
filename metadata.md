@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1207
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1207
@@ -79,3 +79,18 @@ To designate the facility of the United States Postal Service located at 306 Riv
 - 2018-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
 - 2018-03-07 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1525-1527; text: CR S1527)
 - 2018-03-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S1525-1527; text: CR S1527)
+- 2018-03-08 — Message on Senate action sent to the House.
+- 2018-03-12 — Senate requests return of papers with respect to H.R. 1207 by Unanimous Consent.
+- 2018-03-13 — Message on Senate action sent to the House.
+- 2018-03-13 — UNANIMOUS CONSENT REQUEST - The Chair directed the Clerk to return the papers on H.R. 1207 to the Senate. Agreed to without objection.
+- 2018-03-14 — Message on Senate action sent to the House.
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9725-9726)
+- 2018-11-29 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H9726)
+- 2018-11-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H9726)
+- 2018-12-06 — Presented to President.
+- 2018-12-06 — Presented to President.
+- 2018-12-13 — Became Public Law No: 115-311.
+- 2018-12-13 — Became Public Law No: 115-311.
+- 2018-12-13 — Signed by President.
+- 2018-12-13 — Signed by President.
