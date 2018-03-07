@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2226
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2226
@@ -59,9 +59,10 @@ Portfolio Lending and Mortgage Access Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Boyle, Brendan F. [D-PA-13] (B001296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Portfolio Lending and Mortgage Access Act
 - 2018-03-06 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1389-1390)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1389-1390)
+- 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
