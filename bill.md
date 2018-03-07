@@ -2,12 +2,12 @@
 legis-num: H.R. 4986
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4986
 
-> To amend the Communications Act of 1934 to reauthorize appropriations for the Federal Communications Commission, to provide for certain procedural changes to the rules of the Commission to maximize opportunities for public participation and efficient decisionmaking, and for other purposes.
+> To amend the Communications Act of 1934 to reauthorize appropriations for the Federal Communications Commission, and for other purposes.
 
 ## § 1. Short title; table of contents
 

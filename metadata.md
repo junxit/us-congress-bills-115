@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4986
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4986
@@ -20,11 +20,12 @@ RAY BAUM'S Act of 2018
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ RAY BAUM'S Act of 2018
 - 2018-03-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-587, Part I.
 - 2018-03-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-587, Part I.
 - 2018-03-06 — The title of the measure was amended. Agreed to without objection.
+- 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
