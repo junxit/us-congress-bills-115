@@ -1,7 +1,7 @@
 ---
 measure: S. 97
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 97
@@ -38,3 +38,11 @@ Nuclear Energy Innovation Capabilities Act of 2017
 - 2017-06-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-115.
 - 2017-06-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-115.
 - 2017-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
+- 2018-03-07 — Amendment SA 2104 agreed to in Senate by Unanimous Consent.
+- 2018-03-07 — Amendment SA 2104 proposed by Senator Crapo. (consideration: CR S1419; text: CR S1419) To modify provisions relating to the advanced nuclear energy licensing cost-share grant program.
+- 2018-03-07 — Measure laid before Senate by unanimous consent. (consideration: CR S1419-1423)
+- 2018-03-07 — Passed Senate with amendments by Voice Vote. (text: CR S1419-1421)
+- 2018-03-07 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S1419-1421)
+- 2018-03-07 — Senate amendment agreed to: Amendment SA 2104 agreed to in Senate by Unanimous Consent.
+- 2018-03-07 — Senate amendment proposed (on the floor): Amendment SA 2104 proposed by Senator Crapo.(consideration: CR S1419; text: CR S1419)
+- 2018-03-07 — Senate amendment submitted

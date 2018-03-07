@@ -1,7 +1,7 @@
 ---
 legis-num: S. 97
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -158,7 +158,7 @@ This Act may be cited as the “Nuclear Energy Innovation Capabilities Act of 20
   - **(3)** *Secretary* The term Secretary means the Secretary of Energy.
 - **(b)** *Establishment* The Secretary shall establish a grant program, to be known as the “Advanced Nuclear Energy Cost-Share Grant Program”, under which the Secretary shall make cost-share grants to applicants for the purpose of funding a portion of the Commission fees of the applicant for pre-application review activities and application review activities.
 - **(c)** *Requirement* The Secretary shall seek out technology diversity in making grants under the program.
-- **(d)** *Cost-Share amount* The Secretary shall determine the cost-share amount for each grant under the program.
+- **(d)** *Cost-Share amount* The Secretary shall determine the cost-share amount for each grant under the program in accordance with section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352).
 - **(e)** *Use of funds* A recipient of a grant under the program may use the grant funds to cover Commission fees, including those fees associated with—
   - **(1)** developing a licensing project plan;
   - **(2)** obtaining a statement of licensing feasibility;
@@ -167,4 +167,3 @@ This Act may be cited as the “Nuclear Energy Innovation Capabilities Act of 20
     - **(A)** pre-application review activities;
     - **(B)** application review activities; and
     - **(C)** interactions with the Commission.
-- **(f)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out this section such sums as are necessary.
