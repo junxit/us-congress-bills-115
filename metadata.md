@@ -1,7 +1,7 @@
 ---
 measure: S. 97
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 97
@@ -46,3 +46,18 @@ Nuclear Energy Innovation Capabilities Act of 2017
 - 2018-03-07 — Senate amendment agreed to: Amendment SA 2104 agreed to in Senate by Unanimous Consent.
 - 2018-03-07 — Senate amendment proposed (on the floor): Amendment SA 2104 proposed by Senator Crapo.(consideration: CR S1419; text: CR S1419)
 - 2018-03-07 — Senate amendment submitted
+- 2018-03-08 — Held at the desk.
+- 2018-03-08 — Message on Senate action sent to the House.
+- 2018-03-08 — Received in the House.
+- 2018-09-13 — Considered under suspension of the rules. (consideration: CR H8235-8239)
+- 2018-09-13 — DEBATE - The House proceeded with forty minutes of debate on S. 97.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Weber (TX) moved to suspend the rules and pass the bill.
+- 2018-09-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8235-8237)
+- 2018-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8235-8237)
+- 2018-09-24 — Presented to President.
+- 2018-09-24 — Presented to President.
+- 2018-09-28 — Became Public Law No: 115-248.
+- 2018-09-28 — Became Public Law No: 115-248.
+- 2018-09-28 — Signed by President.
+- 2018-09-28 — Signed by President.
