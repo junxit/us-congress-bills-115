@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4725
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4725
@@ -22,9 +22,10 @@ Community Bank Reporting Relief Act
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Community Bank Reporting Relief Act
 - 2018-03-06 — Mr. Barr moved to suspend the rules and pass the bill.
 - 2018-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1393)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1393)
+- 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
