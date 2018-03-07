@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3737
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3737
@@ -20,9 +20,10 @@ Social Media Use in Clearance Investigations Act of 2017
 
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Social Media Use in Clearance Investigations Act of 2017
 - 2018-03-06 — Mr. Blum moved to suspend the rules and pass the bill.
 - 2018-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1416)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1416)
+- 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
