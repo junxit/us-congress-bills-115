@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4607
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4607
@@ -28,9 +28,10 @@ Comprehensive Regulatory Review Act
 - Rep. Pittenger, Robert [R-NC-9] (P000606)
 - Rep. Ross, Dennis A. [R-FL-15] (R000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -64,3 +65,4 @@ Comprehensive Regulatory Review Act
 - 2018-03-06 — Rule provides for consideration of H.R. 4296 and H.R. 4607. Rule provides for consideration of H.R. 4296 and H.R. 4607 under closed rules with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Financial Services for each measure.
 - 2018-03-06 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-03-06 — The previous question was ordered pursuant to the rule.
+- 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
