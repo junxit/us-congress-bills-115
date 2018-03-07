@@ -27,3 +27,8 @@ This Act may be cited as the “Blocking Regulatory Interference from Closing Ki
   - **(2)** ends on the date on which judgment becomes final, and no longer subject to further appeal or review, in all actions (including actions that are filed pursuant to section 307 of the Clean Air Act (42 U.S.C. 7607))—
     - **(A)** that are filed during the 60 days described in paragraph (1); and
     - **(B)** that seek review of any aspect of such rule.
+
+## § 3. Step 2 compliance date for standards of performance for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces
+
+- **(a)** *In general* The Step 2 compliance date (as such term is used in the final rule entitled “Standards of Performance for New Residential Wood Heaters, New Residential Hydronic Heaters and Forced-Air Furnaces” published at 80 Fed. Reg. 13672 (March 16, 2015)) is deemed to be May 15, 2023.
+- **(b)** *Conforming changes* Not later than 60 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall make such technical and conforming changes to rules and guidance documents as may be necessary to implement subsection (a).
