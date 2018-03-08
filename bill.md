@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1119
 
-> To establish the bases by which the Administrator of the Environmental Protection Agency shall issue, implement, and enforce certain emission limitations and allocations for existing electric utility steam generating units that convert coal refuse into energy.
+> To establish the bases by which the Administrator of the Environmental Protection Agency shall issue, implement, and enforce certain emission limitations for existing electric utility steam generating units that convert coal refuse into energy.
 
 ## § 1. Short title
 
