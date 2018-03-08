@@ -1,7 +1,7 @@
 ---
 measure: S. 931
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 931
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2018-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
 - 2018-03-07 — Passed Senate without amendment by Voice Vote. (consideration: CR S1525-1527; text: CR S1527)
 - 2018-03-07 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1525-1527; text: CR S1527)
+- 2018-03-08 — Message on Senate action sent to the House.
+- 2018-03-08 — Received in the House.
+- 2018-03-08 — Referred to the House Committee on Oversight and Government Reform.
