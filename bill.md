@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5219
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5219
+
+> To require sellers of opioids at retail to verify the identity of the prospective purchaser and enter certain information about the purchase into the respective State’s prescription drug monitoring system, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Opioid Prescription Verification Act of 2018”.
+
+## § 2. Requirements for retail sale of opioids
+
+- **(a)** *In general* In any State that maintains a prescription drug monitoring system, each regulated seller (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) shall ensure that sales by such seller of an opioid at retail are made in accordance with the following:
+  - **(1)** The seller verifies the identity of the prospective purchaser by requiring the prospective purchaser to present—
+    - **(A)** an identification card that provides a photograph and is issued by a State or the Federal Government; or
+    - **(B)** a document that, with respect to identification, is considered acceptable for purposes of sections 274a.2(b)(1)(v)(A) and 274a.2(b)(1)(v)(B) of title 8, Code of Federal Regulations (as in effect on or after March 9, 2006).
+  - **(2)** The seller enters into the State’s prescription drug monitoring system, at a minimum, the following information:
+    - **(A)** The name of the opioid.
+    - **(B)** The quantity sold.
+    - **(C)** The name and address of the purchaser.
+    - **(D)** The name and address of the patient for whom the opioid is prescribed.
+    - **(E)** The date and approximate time of the sale.
+- **(b)** *Delayed applicability* Subsection (a) applies to the sale of opioids at retail beginning on the date that is 6 months after the date of enactment of this Act.
