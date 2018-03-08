@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1917
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1917
@@ -27,9 +27,10 @@ Blocking Regulatory Interference from Closing Kilns Act of 2017
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -65,3 +66,4 @@ Blocking Regulatory Interference from Closing Kilns Act of 2017
 - 2018-03-07 — Rule provides for consideration of H.R. 1119 and H.R. 1917 under closed rules. Each measure shall be debatable for one hour equally divided and controlled by the Chair and Ranking Member of the Committee on Energy and Commerce. The rule provides for one motion to recommit with or without instructions on each measure.
 - 2018-03-07 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-03-07 — The previous question was ordered pursuant to the rule.
+- 2018-03-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
