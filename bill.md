@@ -1,0 +1,25 @@
+---
+legis-num: S. 2536
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2536
+
+> To make daylight savings time permanent for the State of Florida, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Sunshine State Act”.
+
+## § 2. Marking daylight savings time permanent for the State of Florida
+
+- **(a)** *In general* Section 1 of the Act of March 19, 1918, (commonly known as the “Calder Act”) (15 U.S.C. 261) is amended—
+  - **(1)** in subsection (a), in the second sentence, by inserting “in subsection (c) of this section and”;
+  - **(2)** by redesignating subsection (b) as subsection (c); and
+  - **(3)** by inserting after subsection (a) the following:
+    > - **(b)** *Exception* The standard time of the State of Florida shall be Coordinated Universal Time retarded by 4 hours.
+
+- **(b)** *Conforming amendment* Section 3 of the Uniform Time Act of 1966 (15 U.S.C. 260a) is amended by adding at the end the following:
+  > - **(d)** *Exemption* This section shall not apply to the State of Florida.
