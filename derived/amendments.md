@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 5 executed, 7 stated and not applied.
+28 amendatory instructions. 10 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,6 +69,51 @@ to guess them.
 | Removed | `research and awareness` |
 | Inserted | `research, awareness, and survivorship` |
 
+### 42 U.S.C. § 285a-11
+
+> in the section heading, by striking “research and awareness” and inserting “research, awareness, and survivorship”;
+
+| | |
+|---|---|
+| Removed | `research and awareness` |
+| Inserted | `research, awareness, and survivorship` |
+
+### 42 U.S.C. § 280e-3a
+
+> by striking “shall award a grant” and inserting “may make awards to State cancer registries”; and
+
+| | |
+|---|---|
+| Removed | `shall award a grant` |
+| Inserted | `may make awards to State cancer registries` |
+
+### 42 U.S.C. § 280e-3a
+
+> by striking “track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer” and inserting “collect information to better understand the epidemiology of cancer in children, adolescents, and young adults”; and
+
+| | |
+|---|---|
+| Removed | `track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer` |
+| Inserted | `collect information to better understand the epidemiology of cancer in children, adolescents, and young adults` |
+
+### 42 U.S.C. § 280e-3a
+
+> in subsection (d), as so redesignated, by striking “registry established pursuant to subsection (a)” and inserting “activities described in this section”.
+
+| | |
+|---|---|
+| Removed | `registry established pursuant to subsection (a)` |
+| Inserted | `activities described in this section` |
+
+### 42 U.S.C. § 285a-11
+
+> by striking “2009 through 2013” and inserting “2019 through 2023”; and
+
+| | |
+|---|---|
+| Removed | `2009 through 2013` |
+| Inserted | `2019 through 2023` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -85,3 +130,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280g-2` | insert | The Public Health Service Act is amended by inserting after section 399N of such Act (42 U.S.C. 280g–2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 285a-11` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 243` | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 317T the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 285a-11` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 202` | strike | in subsection (c), by striking “(42 U.S.C. 202 note)”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280e-3a` | replace | by striking the second sentence and inserting “Such registries may be updated to include each occurrence of such cancers within a period of time designated by the Secretary.”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280e-3a` | redesignate | by redesignating subsection (b) as subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280e-3a` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 285a-11` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284a` | replace | by striking “Board not less than five” and inserting “Board— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 284a` | insert | by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 284a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 285a-11` | replace | Section 417E of the Public Health Service Act (42 U.S.C. 285a–11), as amended by section 101, is further amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) is amended by striking “section 419C” and inserting “section 417C”. | the bill names no machine-readable US Code section |
