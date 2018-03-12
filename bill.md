@@ -1,0 +1,21 @@
+---
+legis-num: S. 2534
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2534
+
+> To amend title 10, United States Code, to permit individuals who are eligible for assistance under a Department of Defense educational assistance program or authority to use such tuition assistance for licensing and certification programs offered by entities other than an institution of higher education.
+
+## § 1. Short title
+
+This Act may be cited as the “Credentialing, Educating, and Relevant Training Initiative For Your Heroes Act” or the “CERTIFY Heroes Act”.
+
+## § 2. Clarification regarding use of Department of Defense tuition assistance for licensing and certification programs
+
+Section 2006a(a) of title 10, United States Code, is amended in the matter preceding paragraph (1)—
+
+- **(1)** by striking “Effective as of August 1, 2014, an” and inserting “An”; and
+- **(2)** by striking “as follows” and inserting “that satisfies one or more of the following requirements”.
