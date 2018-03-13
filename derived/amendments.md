@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4293
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+5 amendatory instructions. 3 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,30 @@ to guess them.
 
 ### 12 U.S.C. § 5365
 
-> in paragraph (2)(A), by striking “semiannual” and inserting “annual”.
+> by striking “3 different” and inserting “2 different”; and
+
+| | |
+|---|---|
+| Removed | `3 different` |
+| Inserted | `2 different` |
+
+### 12 U.S.C. § 5365
+
+> in subparagraph (A), by striking “semiannual” and inserting “annual”; and
 
 | | |
 |---|---|
 | Removed | `semiannual` |
 | Inserted | `annual` |
+
+### 12 U.S.C. § 5365
+
+> in subparagraph (C)(ii), by striking “3 different sets of conditions, including baseline, adverse,” and inserting “2 different sets of conditions, including baseline”.
+
+| | |
+|---|---|
+| Removed | `3 different sets of conditions, including baseline, adverse,` |
+| Inserted | `2 different sets of conditions, including baseline` |
 
 ## Stated, not applied
 
@@ -42,8 +60,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5365` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5365` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 5365` | replace | in clause (v), by striking the period and inserting the following: “, including any results of a resubmitted test;”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5365` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5365` | strike | by striking “, adverse,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
