@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1800
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1800
@@ -33,3 +33,9 @@ To direct the Secretary of Agriculture to transfer certain Federal land to facil
 - 2017-12-06 — Placed on the Union Calendar, Calendar No. 327.
 - 2017-12-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-442.
 - 2017-12-06 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-442.
+- 2018-03-13 — Considered under suspension of the rules. (consideration: CR H1516-1517)
+- 2018-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1800.
+- 2018-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill, as amended.
+- 2018-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1516)
+- 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1516)
