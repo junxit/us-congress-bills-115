@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4293
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,27 +18,21 @@ This Act may be cited as the “Stress Test Improvement Act of 2017”.
 Section 165(i) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365(i)) is amended—
 
 - **(1)** in paragraph (1)—
-  - **(A)** in subparagraph (B)—
-    - **(i)** by amending clause (i) to read as follows:
-      > - **(i)** shall—
-      >   - **(I)** issue regulations, after providing for public notice and comment, that provide for at least 3 different sets of conditions under which the evaluation required by this subsection shall be conducted, including baseline, adverse, and severely adverse, and methodologies, including models used to estimate losses on certain assets, and the Board of Governors shall not carry out any such evaluation until 60 days after such regulations are issued; and
-      >   - **(II)** provide copies of such regulations to the Comptroller General of the United States and the Panel of Economic Advisors of the Congressional Budget Office before publishing such regulations;
-
-    - **(ii)** in clause (iv), by striking “and” at the end;
-    - **(iii)** in clause (v), by striking the period and inserting the following: “, including any results of a resubmitted test;”; and
-    - **(iv)** by adding at the end the following:
-      > - **(vi)** shall, in establishing the severely adverse condition under clause (i), provide detailed consideration of the model’s effects on financial stability and the cost and availability of credit;
-      > - **(vii)** shall, in developing the models and methodologies and providing them for notice and comment under this subparagraph, publish a process to test the models and methodologies for their potential to magnify systemic and institutional risks instead of facilitating increased resiliency;
-      > - **(viii)** shall design and publish a process to test and document the sensitivity and uncertainty associated with the model system’s data quality, specifications, and assumptions; and
-      > - **(ix)** shall communicate the range and sources of uncertainty surrounding the models and methodologies.
-
+  - **(A)** in subparagraph (B)(i)—
+    - **(i)** by striking “3 different” and inserting “2 different”; and
+    - **(ii)** by striking “, adverse,”; and
   - **(B)** by adding at the end the following:
     > - **(C)** *CCAR requirements*
-    >   - **(i)** *Parameters and consequences applicable to CCAR* The requirements of subparagraph (B) shall apply to CCAR.
-    >   - **(ii)** *Two-year limitation* The Board of Governors may not subject a company to CCAR more than once every two years.
-    >   - **(iii)** *Mid-cycle resubmission* If a company receives a quantitative objection to, or otherwise desires to amend the company’s capital plan, the company may file a new streamlined plan at any time after a capital planning exercise has been completed and before a subsequent capital planning exercise.
-    >   - **(iv)** *Limitation on qualitative capital planning objections* In carrying out CCAR, the Board of Governors may not object to a company’s capital plan on the basis of qualitative deficiencies in the company’s capital planning process.
-    >   - **(v)** *Company inquiries* The Board of Governors shall establish and publish procedures for responding to inquiries from companies subject to CCAR, including establishing the time frame in which such responses will be made, and make such procedures publicly available.
-    >   - **(vi)** *CCAR defined* For purposes of this subparagraph and subparagraph (E), the term CCAR means the Comprehensive Capital Analysis and Review established by the Board of Governors.
+    >   - **(i)** *Limitation on qualitative capital planning objections* In carrying out CCAR, the Board of Governors may not object to a company’s capital plan on the basis of qualitative deficiencies in the company’s capital planning process.
+    >   - **(ii)** *CCAR defined* For purposes of this subparagraph and subparagraph (E), the term CCAR means the Comprehensive Capital Analysis and Review established by the Board of Governors.
 
-- **(2)** in paragraph (2)(A), by striking “semiannual” and inserting “annual”.
+- **(2)** in paragraph (2)—
+  - **(A)** in subparagraph (A), by striking “semiannual” and inserting “annual”; and
+  - **(B)** in subparagraph (C)(ii), by striking “3 different sets of conditions, including baseline, adverse,” and inserting “2 different sets of conditions, including baseline”.
+
+## § 3. Rule of construction
+
+The amendments made by this Act may not be construed to prohibit an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) from—
+
+- **(1)** ensuring the safety and soundness of an entity regulated by such an appropriate Federal banking agency; and
+- **(2)** ensuring compliance with applicable laws, regulations, and supervisory policies, and the following of appropriate guidance, by an entity regulated by such an appropriate Federal banking agency.
