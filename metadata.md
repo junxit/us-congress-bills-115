@@ -1,7 +1,7 @@
 ---
 measure: S. 2286
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2286
@@ -16,7 +16,7 @@ Nick Castle Peace Corps Reform Act of 2018
 
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -24,6 +24,7 @@ Nick Castle Peace Corps Reform Act of 2018
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -37,3 +38,11 @@ Nick Castle Peace Corps Reform Act of 2018
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report.
 - 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 308.
+- 2018-03-13 — Amendment SA 2209 agreed to in Senate by Unanimous Consent.
+- 2018-03-13 — Amendment SA 2209 proposed by Senator Rounds for Senator Corker. (consideration: CR S1691; text: CR S1691) To require the Director of the Peace Corps to notify and consult with the Committees on Appropriations before opening, closing, significantly reducing, or suspending a domestic or overseas office or country program.
+- 2018-03-13 — Measure laid before Senate by unanimous consent. (consideration: CR S1688-1693)
+- 2018-03-13 — Passed Senate with amendments by Voice Vote. (text as passed: CR S1691-1693)
+- 2018-03-13 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text as passed: CR S1691-1693)
+- 2018-03-13 — Senate amendment agreed to: Amendment SA 2209 agreed to in Senate by Unanimous Consent.
+- 2018-03-13 — Senate amendment proposed (on the floor): Amendment SA 2209 proposed by Senator Rounds for Senator Corker.(consideration: CR S1691; text: CR S1691)
+- 2018-03-13 — Senate amendment submitted

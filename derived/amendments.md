@@ -1,7 +1,7 @@
 ---
 measure: S. 2286
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 7 executed, 17 stated and not applied.
+23 amendatory instructions. 6 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,15 +59,6 @@ to guess them.
 |---|---|
 | Removed | `Victims` |
 | Inserted | `Victim` |
-
-### 22 U.S.C. § 2507c
-
-> in subsection (e), by striking “2018” and inserting “2023”.
-
-| | |
-|---|---|
-| Removed | `2018` |
-| Inserted | `2023` |
 
 ### 22 U.S.C. § 2507d
 
