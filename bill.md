@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 773
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 773
+
+> Providing for consideration of the bill (H.R. 4545) to amend the Federal Financial Institutions Examination Council Act of 1978 to improve the examination of depository institutions, and for other purposes; providing for consideration of the bill (H.R. 1116) to require the Federal financial institutions regulatory agencies to take risk profiles and business models of institutions into account when taking regulatory actions, and for other purposes; and providing for consideration of the bill (H.R. 4263) to amend the Securities Act of 1933 with respect to small company capital formation, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4545) to amend the Federal Financial Institutions Examination Council Act of 1978 to improve the examination of depository institutions, and for other purposes. All points of order against consideration of the bill are waived. The amendment printed in part A of the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; (2) the further amendment printed in part B of the report of the Committee on Rules, if offered by the Member designated in the report, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, and shall not be subject to a demand for division of the question; and (3) one motion to recommit with or without instructions.
+
+## § 2.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1116) to require the Federal financial institutions regulatory agencies to take risk profiles and business models of institutions into account when taking regulatory actions, and for other purposes. All points of order against consideration of the bill are waived. The amendment printed in part C of the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
+
+## § 3.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4263) to amend the Securities Act of 1933 with respect to small company capital formation, and for other purposes. All points of order against consideration of the bill are waived. The amendment printed in part D of the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
