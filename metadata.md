@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1350
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1350
@@ -33,3 +33,9 @@ To modify the boundary of Voyageurs National Park in the State of Minnesota, and
 - 2017-12-18 — Placed on the Union Calendar, Calendar No. 349.
 - 2017-12-18 — Reported by the Committee on Natural Resources. H. Rept. 115-470.
 - 2017-12-18 — Reported by the Committee on Natural Resources. H. Rept. 115-470.
+- 2018-03-13 — Considered under suspension of the rules. (consideration: CR H1520-1521)
+- 2018-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1350.
+- 2018-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill.
+- 2018-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1520)
+- 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1520)
