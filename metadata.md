@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4266
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4266
@@ -38,3 +38,9 @@ Acadia National Park Boundary Clarification Act
 - 2018-01-25 — Placed on the Union Calendar, Calendar No. 391.
 - 2018-01-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-526.
 - 2018-01-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-526.
+- 2018-03-13 — Considered under suspension of the rules. (consideration: CR H1518-1520)
+- 2018-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4266.
+- 2018-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill, as amended.
+- 2018-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1518)
+- 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1518)

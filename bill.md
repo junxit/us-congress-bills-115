@@ -90,7 +90,7 @@ Title I of Public Law 99–420 (16 U.S.C. 341 note) is amended by adding at the 
 
 > ## § 109. Continuation of certain traditional uses
 >
-> In accordance with this section, the Secretary shall allow for the traditional harvesting of marine worms, clams, other shellfish, and other marine species (as defined in chapter 601 of title 12 of the Maine Revised Statutes (as in effect on the date of enactment of this section)), in accordance with the laws (including regulations and applicable judicial interpretations) of the State of Maine—
+> In accordance with this section, the Secretary shall allow for the traditional, non-motorized harvesting of marine worms, clams, other shellfish, and other marine species (as defined in chapter 601 of title 12 of the Maine Revised Statutes (as in effect on the date of enactment of this section)), in accordance with the laws (including regulations and applicable judicial interpretations) of the State of Maine—
 >
 > - **(1)** within the boundaries of the Park; and
 > - **(2)** on any land located outside of the boundaries of the Park with respect to which the Secretary has or obtains a property interest of any type pursuant to this title.
