@@ -1,7 +1,7 @@
 ---
 measure: S. 2286
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2286
@@ -46,3 +46,7 @@ Nick Castle Peace Corps Reform Act of 2018
 - 2018-03-13 — Senate amendment agreed to: Amendment SA 2209 agreed to in Senate by Unanimous Consent.
 - 2018-03-13 — Senate amendment proposed (on the floor): Amendment SA 2209 proposed by Senator Rounds for Senator Corker.(consideration: CR S1691; text: CR S1691)
 - 2018-03-13 — Senate amendment submitted
+- 2018-03-14 — Message on Senate action sent to the House.
+- 2018-03-14 — Received in the House.
+- 2018-03-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
