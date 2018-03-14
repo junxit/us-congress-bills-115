@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5288
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5288
+
+> To delay the effective date of the rule issued by the National Credit Union Administration titled “Risk-Based Capital”.
+
+## § 1. Short Title
+
+This Act may be cited as the “Common Sense Credit Union Capital Relief Act of 2018”.
+
+## § 2. Delay in effective date
+
+Notwithstanding any effective date set forth in the rule issued by the National Credit Union Administration titled “Risk-Based Capital” (published at 80 Fed. Reg. 66626 (October 29, 2015)), such final rule shall take effect on January 1, 2021.
