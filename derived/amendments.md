@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4909
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 10 executed, 5 stated and not applied.
+12 amendatory instructions. 8 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,12 @@ to guess them.
 
 ### 34 U.S.C. § 10551
 
-> by striking “including the placement and use of metal detectors and other deterrent measures” and inserting “through evidence-based training and technical assistance to prevent violence”;
+> by striking “including the placement and use of metal detectors and other deterrent measures” and inserting “through evidence-based strategies and programs to prevent violence, which may include the use of appropriate technologies, including the placement and use of metal detectors and other deterrent measure and emergency notification and response technologies”;
 
 | | |
 |---|---|
 | Removed | `including the placement and use of metal detectors and other deterrent measures` |
-| Inserted | `through evidence-based training and technical assistance to prevent violence` |
-
-### 34 U.S.C. § 10551
-
-> by striking “crisis” and inserting “school threat assessment and”; and
-
-| | |
-|---|---|
-| Removed | `crisis` |
-| Inserted | `school threat assessment and` |
+| Inserted | `through evidence-based strategies and programs to prevent violence, which may include the use of appropriate technologies, including the placement and use of metal detectors and other deterrent measure and emergency notification and response technologies` |
 
 ### 34 U.S.C. § 10551
 
@@ -89,7 +80,7 @@ to guess them.
 
 ### 34 U.S.C. § 10554
 
-> in section 2704(1) (34 U.S.C. 10554(1)), by striking “a public” and inserting “an”; and
+> in section 2704(1) (34 U.S.C. 10554(1)), by striking “a public” and inserting “an”;
 
 | | |
 |---|---|
@@ -98,21 +89,12 @@ to guess them.
 
 ### 34 U.S.C. § 10551
 
-> by striking “$30,000,000” and inserting “$50,000,000”; and
+> in section 2705, by striking “$30,000,000 for each of fiscal years 2001 through 2009” and inserting “$75,000,000 for each of fiscal years 2019 through 2028, of which not less than $50,000,000 shall be available in each such fiscal year for grants for the activities described in paragraphs (1) and (4) of section 2701(b)”; and
 
 | | |
 |---|---|
-| Removed | `$30,000,000` |
-| Inserted | `$50,000,000` |
-
-### 34 U.S.C. § 10551
-
-> by striking “2001 through 2009” and inserting “2019 through 2028”.
-
-| | |
-|---|---|
-| Removed | `2001 through 2009` |
-| Inserted | `2019 through 2028` |
+| Removed | `$30,000,000 for each of fiscal years 2001 through 2009` |
+| Inserted | `$75,000,000 for each of fiscal years 2019 through 2028, of which not less than $50,000,000 shall be available in each such fiscal year for grants for the activities described in paragraphs (1) and (4) of section 2701(b)` |
 
 ## Stated, not applied
 
@@ -123,8 +105,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `34 U.S.C. § 10551` | replace | by striking paragraphs (1), (2), and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10551` | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10551` | insert | by inserting “and school personnel,” after “law enforcement agencies”; and | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 10551` | redesignate | by inserting after paragraph (5), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10551` | insert | in the matter preceding paragraph (1), by inserting after “through” the following: “evidence-based school safety programs that may include”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10551` | replace | by striking paragraphs (1) through (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10551` | insert | by inserting before the period at the end the following: “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10551` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
