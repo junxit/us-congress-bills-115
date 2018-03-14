@@ -39,3 +39,8 @@ This Act may be cited as the “Taking Account of Institutions with Low Operatio
 - **(f)** *Definitions* In this Act, the following definitions shall apply:
   - **(1)** *Federal financial institutions regulatory agencies* The term Federal financial institutions regulatory agencies means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the National Credit Union Administration, and the Bureau of Consumer Financial Protection.
   - **(2)** *Regulatory action* The term regulatory action means any proposed, interim, or final rule or regulation, guidance, or published interpretation.
+
+## § 3. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,385,714,000”.
+- **(b)** *Effective date* Subsection (a) shall take effect on June 1, 2018.
