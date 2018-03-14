@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3249
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,14 +29,22 @@ The Attorney General of the United States is authorized to establish and carry o
 
 ## § 4. Purpose
 
-The purpose of the Project Safe Neighborhoods Block Grant Program shall be to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, to create safer neighborhoods through sustained reductions in crimes, including violent crimes and homicides, committed by criminal street gangs and transnational organized crime groups.
+The purpose of the Project Safe Neighborhoods Block Grant Program is to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, to create safer neighborhoods through sustained reductions in violent crimes by—
+
+- **(1)** developing and executing strategic plans to assist law enforcement agencies in combating gang crimes, including the enforcement of gun laws and drug interdiction; and
+- **(2)** developing intervention and prevention initiatives, including juvenile justice projects and activities which may include street-level outreach, conflict mediation, and the changing of community norms, in order to reduce violence.
 
 ## § 5. Rules and regulations
 
 - **(a)** *In general* The Attorney General shall, not later than 60 days after the date of enactment of this Act, make rules to create, carry out, and administer the Program in accordance with this section.
-- **(b)** *Funds To be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally
-- **(c)** *Regional Gang Task Forces* 20 percent of the amounts made available as grants under the Program each fiscal year shall be granted to established Regional Gang Task Forces in regions experiencing a significant or increased presence of, or high levels of activity from, transnational organized crime groups posing threats to community safety in terms of violent crime, firearms offenses, human trafficking, trafficking and distribution of illegal opioids and heroin, and other crimes.
+- **(b)** *Funds To be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally.
+- **(c)** *Regional Gang Task Forces* 30 percent of the amounts made available as grants under the Program each fiscal year shall be granted to established Regional Gang Task Forces in regions experiencing a significant or increased presence of, or high levels of activity from, transnational organized crime groups posing threats to community safety in terms of violent crime, firearms offenses, human trafficking, trafficking and distribution of illegal opioids and heroin, and other crimes.
 
-## § 6. Authorization of appropriations
+## § 6. Authorization of appropriations; consolidation of programs
 
-There is authorized to be appropriated for the Program under this Act $70,000,000 annually for fiscal years 2018 through 2022.
+- **(a)** *Authorization of appropriations* There is authorized to be appropriated for the Program under this Act $50,000,000 for each of fiscal years 2019 through 2021.
+- **(b)** *Consolidation of programs* For each of fiscal years 2019 through 2023, no funds are authorized to be separately appropriated to the Department of Justice Office of Justice Programs for—
+  - **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
+  - **(2)** an Edward Byrne Memorial criminal justice innovation program;
+  - **(3)** community-based violence prevention initiatives; or
+  - **(4)** gang and youth violence education, prevention and intervention, and related activities.
