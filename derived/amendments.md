@@ -1,7 +1,7 @@
 ---
 measure: S. 2155
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-169 amendatory instructions. 59 executed, 110 stated and not applied.
+185 amendatory instructions. 60 executed, 125 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 303(2)(A)` |
 | Inserted | `section 303(3)(A)` |
 
-### 12 U.S.C. § 1752
+### 15 U.S.C. § 1639d
 
 > in paragraph (1), as so redesignated, by striking “the Board” each place that term appears and inserting “the Bureau”; and
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 12 U.S.C. § 1820
 
-> in paragraph (4)(A), by striking “$1,000,000,000” and inserting “$3,000,000,000”.; and
+> in paragraph (4)(A), by striking “$1,000,000,000” and inserting “$3,000,000,000”; and
 
 | | |
 |---|---|
@@ -60,14 +60,14 @@ to guess them.
 | Removed | `$1,000,000,000` |
 | Inserted | `$3,000,000,000` |
 
-### 15 U.S.C. § 1681c-1
+### 12 U.S.C. § 289
 
-> in subsection (a)(1)(A), by striking “90 days” and inserting “1 year”; and
+> Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$6,825,000,000”.
 
 | | |
 |---|---|
-| Removed | `90 days` |
-| Inserted | `1 year` |
+| Removed | `$7,500,000,000` |
+| Inserted | `$6,825,000,000` |
 
 ### 15 U.S.C. § 1681c-1
 
@@ -510,9 +510,9 @@ to guess them.
 | Removed | `$50,000,000,000` |
 | Inserted | `$250,000,000,000` |
 
-### 12 U.S.C. § 5311
+### 12 U.S.C. § 5331
 
-> in section 121(a) (12 U.S.C. 5311(a)5331(a)), in the matter preceding paragraph (1), by striking “$50,000,000,000” and inserting “$250,000,000,000”;
+> in section 121(a) (12 U.S.C. 5331(a)), in the matter preceding paragraph (1), by striking “$50,000,000,000” and inserting “$250,000,000,000”;
 
 | | |
 |---|---|
@@ -548,12 +548,21 @@ to guess them.
 
 ### 12 U.S.C. § 248
 
-> by striking “$50,000,000,000” and inserting “$250,000,000,000”; and
+> in subparagraph (A), by striking “$50,000,000,000” and inserting “$100,000,000,000”; and
 
 | | |
 |---|---|
 | Removed | `$50,000,000,000` |
-| Inserted | `$250,000,000,000` |
+| Inserted | `$100,000,000,000` |
+
+### 12 U.S.C. § 248
+
+> in subparagraph (B), by striking “$50,000,000,000” and inserting “$100,000,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$50,000,000,000` |
+| Inserted | `$100,000,000,000` |
 
 ## Stated, not applied
 
@@ -570,17 +579,17 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1639e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3331` | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 2803` | redesignate | by redesignating subsection (i) as paragraph (3) and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 2803` | redesignate | by inserting before paragraph (3), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2906` | redesignate | by inserting before paragraph (3), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1757a` | strike | Section 107A(c)(1)(B)(i) of the Federal Credit Union Act (12 U.S.C. 1757a(c)(1)(B)(i)) is amended by striking “that is the primary residence of a member”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5101` | add-at-end | The S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4501` | insert | Section 1(b) of the Housing and Economic Recovery Act of 2008 (42 U.S.C. 4501 note) is amended by inserting after the item relating to section 1517 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5112` | replace | Section 1513 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5112) is amended by striking “persons who are loan originators or are applying for licensing or registration as loan originators.” and inserting “persons who— | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1602` | redesignate | by redesignating the second subsection (cc) (relating to definitions relating to mortgage origination and residential mortgage loans) and subsection (dd) as subsections (dd) and (ee), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1602` | redesignate | in paragraph (2) of subsection (dd), as so redesignated, by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1639c` | add-at-end | Section 129C(b)(3) of the Truth in Lending Act (15 U.S.C. 1639c(b)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1752` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1752` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “The Board” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1752` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1639d` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1639d` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “The Board” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1639d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1752` | add-at-end | in subsection (i), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1639` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -597,30 +606,25 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1461` | insert | The Home Owners’ Loan Act (12 U.S.C. 1461 et seq.) is amended by inserting after section 5 (12 U.S.C. 1464) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5371` | replace | Section 171(b)(5) of the Financial Stability Act of 2010 (12 U.S.C. 5371(b)(5)) is amended by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4001` | insert | in paragraph (20), by inserting “, located in the United States,” after “ATM”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4001` | insert | in paragraph (21), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4001` | insert | in paragraph (23), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 4002` | insert | in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,”. | the bill quotes the text inserted but describes where it goes |
-| — | replace | Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall amend section 239.8(d)(2)(iv) of title 12, Code of Federal Regulations, by striking “12 months” each place that t… | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 4001` | insert | in paragraph (21), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4001` | insert | in paragraph (23), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4002` | insert | in section 603(d)(2)(A) (12 U.S.C. 4002(d)(2)(A)), by inserting “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437` | add-at-end | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437g` | add-at-end | Section 9(e)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437g(e)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 77r` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78k-1` | insert | by inserting “a security designated as qualified for trading in the national market system pursuant to section 11A(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(a)(2)) that is” before “listed”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78k-1` | strike | by striking “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 77r` | strike | in subparagraph (C), by striking “or (B)”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 77r` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1789` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1789` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1789` | insert | by inserting “detailed” after “submit a”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1789` | insert | by inserting “, which shall address any comment submitted by the public under paragraph (1)(B)” after “Control Act”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1681c-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1811` | add-at-end | The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 651` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681t` | strike | in subparagraph (H), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1681t` | amend | in subparagraph (I), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681t` | strike | in subparagraph (H), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681t` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681i` | insert | in subsection (a)(1)(A), by inserting “and except as provided in subsection (g)” after “subsection (f)”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681c-1` | add-at-end | Section 605A of the Fair Credit Reporting Act (15 U.S.C. 1681c–1), as amended by section 301(a), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681t` | add-at-end | Section 625(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681t(b)(1)), as amended by section 301(b), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5201` | repeal | Section 704 of the Protecting Tenants at Foreclosure Act of 2009 (12 U.S.C. 5201 note; 12 U.S.C. 5220 note; 42 U.S.C. 1437f note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5219` | insert | Section 109(a)(1) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5219(a)(1)) is amended, in the second sentence, by inserting “and to remediate lead and asbestos hazards in residential properties” before the period at the… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437u` | strike | by striking “public housing and”; and | the bill quotes the text struck but describes what replaces it |
@@ -664,13 +668,33 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1437u` | strike | by striking “local”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1437u` | insert | in paragraph (2), by inserting “and describing any additional research needs of the Secretary to evaluate the effectiveness of the program” after “under paragraph (1)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437u` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681s-2` | add-at-end | Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1639c` | add-at-end | Section 129C(b)(3) of the Truth in Lending Act (15 U.S.C. 1639c(b)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3709` | add-at-end | Subchapter I of chapter 37 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3709` | insert | The table of sections at the beginning of chapter 37 of title 38, United States Code, is amended by inserting after the item relating to section 3709 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1721` | insert | Section 306(g)(1) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by inserting “The Association may not guarantee the timely payment of principal and interest on a security that is backed by a mortgage insured or guaranteed… | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1717` | add-at-end | Section 302(b) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | add-at-end | Section 305 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4541` | add-at-end | Subpart A of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3953` | strike | Section 710(d) of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 (Public Law 112–154; 50 U.S.C. 3953 note) is amended by striking paragraphs (1) and (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | strike | in subparagraph (A)(iv), by striking “and credit exposure report”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | insert | in subparagraph (B)(ii), by inserting “, including credit exposure reports” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 5365` | strike | by striking “, adverse,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | strike | by striking “, adverse,”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 248` | insert | by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 248` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 248` | redesignate | by redesignating subparagraph (C) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 248` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1828` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78k-1` | insert | by inserting “a security designated as qualified for trading in the national market system pursuant to section 11A(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(a)(2)) that is” before “listed”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78k-1` | strike | by striking “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77r` | strike | in subparagraph (C), by striking “or (B)”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77r` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80c-1` | add-at-end | Section 503 of the Small Business Investment Incentive Act of 1980 (15 U.S.C. 80c–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-3` | insert | in the matter preceding subparagraph (A), by inserting “(or, in the case of a qualifying venture capital fund, 250 persons)” after “one hundred persons”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 80a-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-6` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-6` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1650` | redesignate | by redesignating paragraphs (1) through (8) as paragraphs (2) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1650` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1650` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | add-at-end | Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9703` | add-at-end | Section 514(a) of the Financial Literacy and Education Improvement Act (20 U.S.C. 9703(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
