@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2155
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
