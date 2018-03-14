@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3469
@@ -39,3 +39,4 @@ To designate the bridge located in Blount County, Tennessee, on the Foothills Pa
 - 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill.
 - 2018-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1517)
 - 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1517)
+- 2018-03-14 — Received in the Senate.
