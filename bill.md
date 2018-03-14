@@ -37,13 +37,13 @@ The purpose of the Project Safe Neighborhoods Block Grant Program is to foster a
 ## § 5. Rules and regulations
 
 - **(a)** *In general* The Attorney General shall, not later than 60 days after the date of enactment of this Act, make rules to create, carry out, and administer the Program in accordance with this section.
-- **(b)** *Funds To be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally.
+- **(b)** *Funds To be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally
 - **(c)** *Regional Gang Task Forces* 30 percent of the amounts made available as grants under the Program each fiscal year shall be granted to established Regional Gang Task Forces in regions experiencing a significant or increased presence of, or high levels of activity from, transnational organized crime groups posing threats to community safety in terms of violent crime, firearms offenses, human trafficking, trafficking and distribution of illegal opioids and heroin, and other crimes.
 
 ## § 6. Authorization of appropriations; consolidation of programs
 
-- **(a)** *Authorization of appropriations* There is authorized to be appropriated for the Program under this Act $50,000,000 for each of fiscal years 2019 through 2021.
-- **(b)** *Consolidation of programs* For each of fiscal years 2019 through 2023, no funds are authorized to be separately appropriated to the Department of Justice Office of Justice Programs for—
+- **(a)** *Authorization of appropriations* There is authorized to be appropriated for the Program under this Act $50,000,000 for each of fiscal years 2018 through 2020.
+- **(b)** *Consolidation of programs* For each of fiscal years 2018 through 2022, no funds are authorized to be separately appropriated to the Department of Justice Office of Justice Programs for—
   - **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
   - **(2)** an Edward Byrne Memorial criminal justice innovation program;
   - **(3)** community-based violence prevention initiatives; or
