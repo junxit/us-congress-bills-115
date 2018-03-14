@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 780
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 780
+
+> Providing for consideration of the bill (H.R. 4061) to amend the Financial Stability Act of 2010 to improve the transparency of the Financial Stability Oversight Council, to improve the SIFI designation process, and for other purposes, and providing for consideration of the bill (H.R. 4293) to reform the Comprehensive Capital Analysis and Review process, the Dodd-Frank Act Stress Test process, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4061) to amend the Financial Stability Act of 2010 to improve the transparency of the Financial Stability Oversight Council, to improve the SIFI designation process, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-64, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
+
+## § 2.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4293) to reform the Comprehensive Capital Analysis and Review process, the Dodd-Frank Act Stress Test process, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-63, modified by the amendment printed in part B of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
