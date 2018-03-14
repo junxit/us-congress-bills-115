@@ -1,7 +1,7 @@
 ---
 measure: H.R. 506
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
