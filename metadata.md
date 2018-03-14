@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1116
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1116
@@ -108,6 +108,11 @@ Taking Account of Institutions with Low Operation Risk Act of 2017
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2018-03-14 — [House 115-2-107](votes/house-115-2-0107.md) — On Motion to Recommit with Instructions — **Failed** (182–232)
+- 2018-03-14 — [House 115-2-108](votes/house-115-2-0108.md) — On Passage — **Passed** (247–169)
+
 ## Actions
 
 - 2017-02-16 — Introduced in House
@@ -119,3 +124,16 @@ Taking Account of Institutions with Low Operation Risk Act of 2017
 - 2018-03-06 — Placed on the Union Calendar, Calendar No. 446.
 - 2018-03-06 — Reported by the Committee on Financial Services. H. Rept. 115-588.
 - 2018-03-06 — Reported by the Committee on Financial Services. H. Rept. 115-588.
+- 2018-03-13 — Rules Committee Resolution H. Res. 773 Reported to House. Rule provides for consideration of H.R. 4545, H.R. 1116 and H.R. 4263. Rule provides for consideration of H.R. 4545 under a structured rule, and makes in order amendments printed in the report, with one motion to recommit with or without instructions. Rule also provides for consideration of H.R. 1116 and H.R. 4263 under closed rules. The rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Minority Member of the Committee on Financial Services for each measure, and one motion to recommit with or without instructions for each measure.
+- 2018-03-14 — Considered under the provisions of rule H. Res. 773. (consideration: CR H1576-1585)
+- 2018-03-14 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert on page 3, line 22 ", unless such tailoring is done at the request of and for the personal gain of the President, his or her immediate family members, or senior Executive Branch officials who are required to file annual financial disclosure forms, or is otherwise determined inappropriate by the appropriate Federal financial regulator" before the period at the end.
+- 2018-03-14 — DEBATE - The House proceeded with one hour of debate on H.R. 1116.
+- 2018-03-14 — House amendment offered
+- 2018-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-14 — Mr. Connolly moved to recommit with instructions to the Committee on Financial Services. (text: CR H1583)
+- 2018-03-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 182 - 232 (Roll no. 107).
+- 2018-03-14 — On passage Passed by the Yeas and Nays: 247 - 169 (Roll no. 108). (text: CR H1576)
+- 2018-03-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 169 (Roll no. 108).(text: CR H1576)
+- 2018-03-14 — Rule provides for consideration of H.R. 4545, H.R. 1116 and H.R. 4263. Rule provides for consideration of H.R. 4545 under a structured rule, and makes in order amendments printed in the report, with one motion to recommit with or without instructions. Rule also provides for consideration of H.R. 1116 and H.R. 4263 under closed rules. The rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Minority Member of the Committee on Financial Services for each measure, and one motion to recommit with or without instructions for each measure.
+- 2018-03-14 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-03-14 — The previous question was ordered pursuant to the rule.
