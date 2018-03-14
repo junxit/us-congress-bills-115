@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4465
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4465
@@ -33,9 +33,10 @@ Endangered Fish Recovery Programs Extension Act of 2017
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Endangered Fish Recovery Programs Extension Act of 2017
 - 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill.
 - 2018-03-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 6 (Roll no. 103). (text: CR H1515)
 - 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 6 (Roll no. 103).(text: CR H1515)
+- 2018-03-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

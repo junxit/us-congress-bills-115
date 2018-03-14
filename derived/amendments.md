@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4465
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “2019” and inserting “2023”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “; except that” and all that follows through “capital projects and monitoring”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the fifth, sixth, and seventh sentences. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3 of Public Law 106–392 (114 Stat. 1603; 126 Stat. 2444) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1531` | add-at-end | Section 3 of Public Law 106–392 (114 Stat. 1603; 126 Stat. 2444) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
