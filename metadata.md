@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4266
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4266
@@ -20,9 +20,10 @@ Acadia National Park Boundary Clarification Act
 
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Acadia National Park Boundary Clarification Act
 - 2018-03-13 — Mr. Curtis moved to suspend the rules and pass the bill, as amended.
 - 2018-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1518)
 - 2018-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1518)
+- 2018-03-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
