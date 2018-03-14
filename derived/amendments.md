@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3996
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
