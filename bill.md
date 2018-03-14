@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5278
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5278
+
+> To make daylight savings time permanent for the State of Florida, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Sunshine State Act”.
+
+## § 2. Making daylight savings time permanent for the State of Florida
+
+Section 3 of the Uniform Time Act of 1966 (15 U.S.C. 260a) is amended by adding at the end the following:
+
+> - **(d)** *Permanent advancement of time for the State of Florida*
+>   - **(1)** *In general* The standard time of the State of Florida shall be Coordinated Universal Time (as defined in section 1 of the Act of March 19, 1918 (commonly known as the “Calder Act”) (15 U.S.C. 261)) retarded by 4 hours.
+>   - **(2)** *Inapplicability of temporary advancement* Subsection (a) shall not apply to the State of Florida.
