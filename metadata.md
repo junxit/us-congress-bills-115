@@ -1,7 +1,7 @@
 ---
 measure: S. 2155
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2155
@@ -16,7 +16,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (23)
+## Cosponsors (248)
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
@@ -41,6 +41,231 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -54,3 +279,206 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - 2017-12-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
 - 2017-12-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with amendments. Without written report.
 - 2017-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.
+- 2018-01-30 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-161.
+- 2018-03-01 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1307)
+- 2018-03-01 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
+- 2018-03-01 — Motion to proceed to consideration of measure made in Senate. (CR S1307)
+- 2018-03-06 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 48. (CR S1343)
+- 2018-03-06 — Motion to proceed to measure considered in Senate. (consideration: CR S1343)
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-06 — Senate amendment submitted
+- 2018-03-07 — Amendment SA 2151 proposed by Senator McConnell for Senator Crapo. (consideration: CR S1446) In the nature of a substitute.
+- 2018-03-07 — Amendment SA 2152 proposed by Senator Crapo to Amendment SA 2151. (consideration: CR S1446; text: CR S1446) To improve the bill.
+- 2018-03-07 — Measure laid before Senate by motion.
+- 2018-03-07 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2018-03-07 — Motion to proceed to measure considered in Senate. (CR S1405)
+- 2018-03-07 — Senate amendment proposed (on the floor): Amendment SA 2151 proposed by Senator McConnell for Senator Crapo.(consideration: CR S1446)
+- 2018-03-07 — Senate amendment proposed (on the floor): Amendment SA 2152 proposed by Senator Crapo to Amendment SA 2151.(consideration: CR S1446; text: CR S1446)
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — Senate amendment submitted
+- 2018-03-07 — The committee amendments withdrawn by Unanimous Consent. (CR S1446)
+- 2018-03-08 — Cloture motion on amendment SA 2151 as modified presented in Senate. (text as modified: CR S1545-1565)
+- 2018-03-08 — Cloture motion on the measure presented in Senate. (text: CR S1565)
+- 2018-03-08 — Considered by Senate. (CR S1529)
+- 2018-03-08 — Considered by Senate. (CR S1529)
+- 2018-03-08 — Considered by Senate. (consideration: CR S1529-1565)
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-08 — Senate amendment submitted
+- 2018-03-12 — Cloture on amendment SA 2151 as modified invoked in Senate by Yea-Nay Vote. 66 - 30. Record Vote Number: 50.
+- 2018-03-12 — Considered by Senate. (CR S1619)
+- 2018-03-12 — Considered by Senate. (CR S1619)
+- 2018-03-12 — Considered by Senate. (consideration: CR S1619-1626)
+- 2018-03-12 — Roll call votes on amendments in Senate: Cloture on amendment SA 2151 as modified invoked in Senate by Yea-Nay Vote. 66 - 30. Record Vote Number: 50.
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-12 — Senate amendment submitted
+- 2018-03-13 — Considered by Senate. (CR S1646)
+- 2018-03-13 — Considered by Senate. (CR S1646)
+- 2018-03-13 — Considered by Senate. (consideration: CR S1646-1684)
+- 2018-03-14 — Amendment SA 2151 as modified agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 51.
+- 2018-03-14 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 52.
+- 2018-03-14 — Considered by Senate. (CR S1696)
+- 2018-03-14 — Considered by Senate. (CR S1696)
+- 2018-03-14 — Considered by Senate. (consideration: CR S1696-1730)
+- 2018-03-14 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 53.
+- 2018-03-14 — Motion to waive all applicable budgetary discipline with respect to the measure made in Senate.
+- 2018-03-14 — Passed Senate with an amendment by Yea-Nay Vote. 67 - 31. Record Vote Number: 54.
+- 2018-03-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 67 - 31. Record Vote Number: 54.
+- 2018-03-14 — Point of order against the measure raised in Senate.
+- 2018-03-14 — Proposed amendment SA 2152 withdrawn in Senate. (CR S1729)
+- 2018-03-14 — Roll call votes on amendments in Senate: Amendment SA 2151 as modified agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 51.
+- 2018-03-14 — Senate amendment agreed to: Amendment SA 2151 as modified agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 51.
