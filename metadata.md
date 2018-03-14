@@ -1,7 +1,7 @@
 ---
 measure: S. 2155
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2155
@@ -16,7 +16,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (248)
+## Cosponsors (249)
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
@@ -43,6 +43,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Sasse, Ben [R-NE] (S001197)
 - Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -271,7 +272,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2018-03-06 — [Senate 115-2-48](votes/senate-115-2-0048.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–32)
 - 2018-03-12 — [Senate 115-2-50](votes/senate-115-2-0050.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–30)
@@ -279,6 +280,7 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - 2018-03-14 — [Senate 115-2-52](votes/senate-115-2-0052.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–31)
 - 2018-03-14 — [Senate 115-2-53](votes/senate-115-2-0053.md) — On the Motion — **Motion Agreed to** (67–31)
 - 2018-03-14 — [Senate 115-2-54](votes/senate-115-2-0054.md) — On Passage of the Bill — **Bill Passed** (67–31)
+- 2018-05-22 — [House 115-2-216](votes/house-115-2-0216.md) — On Passage — **Passed** (258–159)
 
 ## Actions
 
@@ -491,3 +493,25 @@ Economic Growth, Regulatory Relief, and Consumer Protection Act
 - 2018-03-14 — Proposed amendment SA 2152 withdrawn in Senate. (CR S1729)
 - 2018-03-14 — Roll call votes on amendments in Senate: Amendment SA 2151 as modified agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 51.
 - 2018-03-14 — Senate amendment agreed to: Amendment SA 2151 as modified agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 51.
+- 2018-03-15 — Held at the desk.
+- 2018-03-15 — Message on Senate action sent to the House.
+- 2018-03-15 — Received in the House.
+- 2018-03-22 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-197.
+- 2018-04-19 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-251.
+- 2018-05-21 — Rules Committee Resolution H. Res. 905 Reported to House. Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-22 — Considered as unfinished business. (consideration: CR H4367)
+- 2018-05-22 — Considered under the provisions of rule H. Res. 905. (consideration: CR H4320-4349)
+- 2018-05-22 — DEBATE - The House proceeded with one hour of debate on S. 2155.
+- 2018-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-22 — On passage Passed by the Yeas and Nays: 258 - 159 (Roll no. 216). (text: CR H4320-4340)
+- 2018-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 2155, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Hensarling demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until later in the legislative day.
+- 2018-05-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 258 - 159 (Roll no. 216).(text: CR H4320-4340)
+- 2018-05-22 — Rule H. Res. 905 passed House.
+- 2018-05-22 — Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-22 — The previous question was ordered pursuant to the rule.
+- 2018-05-24 — Became Public Law No: 115-174.
+- 2018-05-24 — Became Public Law No: 115-174.
+- 2018-05-24 — Presented to President.
+- 2018-05-24 — Presented to President.
+- 2018-05-24 — Signed by President.
+- 2018-05-24 — Signed by President.
