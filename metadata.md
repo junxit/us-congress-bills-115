@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3996
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3996
@@ -21,9 +21,10 @@ Protecting Access to the Courts for Taxpayers Act
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Protecting Access to the Courts for Taxpayers Act
 - 2018-03-14 — Placed on the Union Calendar, Calendar No. 455.
 - 2018-03-14 — Reported by the Committee on Judiciary. H. Rept. 115-598.
 - 2018-03-14 — Reported by the Committee on Judiciary. H. Rept. 115-598.
+- 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
