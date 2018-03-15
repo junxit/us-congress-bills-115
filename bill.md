@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1869
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Whistleblower Protection Coordination Act”.
 
     - **(E)** by adding at the end the following:
       > - **(ii)** assist the Inspector General in promoting the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal, to the extent practicable, by the Inspector General; and
-      > - **(iii)** assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the agency establishment, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
+      > - **(iii)** assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the establishment, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
 
   - **(2)** in paragraph (2), by striking “Ombudsman” and inserting “Coordinator”;
   - **(3)** by redesignating paragraph (3) as paragraph (4); and
@@ -54,4 +54,6 @@ This Act may be cited as the “Whistleblower Protection Coordination Act”.
     - **(C)** by inserting after paragraph (3) the following:
       > - **(4)** whether the establishment entered into a settlement agreement with the official described in subsection (a)(20)(A), which shall be reported regardless of any confidentiality agreement relating to the settlement agreement; and
 
-- **(d)** *Repeal of sunset* Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed.
+- **(d)** *Repeal of sunset*
+  - **(1)** *In general* Subsection (c) of section 117 of the Whistleblower Protection Enhancement Act of 2012 (Public Law 112–199; 126 Stat. 1475) is repealed.
+  - **(2)** *Retroactive effective date* The amendment made by paragraph (1) shall take effect on November 26, 2017.
