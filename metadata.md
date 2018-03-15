@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1869
@@ -46,3 +46,14 @@ Whistleblower Protection Coordination Act
 - 2018-03-15 — Senate amendment agreed to: Amendment SA 2211 agreed to in Senate by Unanimous Consent.
 - 2018-03-15 — Senate amendment proposed (on the floor): Amendment SA 2211 proposed by Senator McConnell for Senator Grassley.(consideration: CR S1771; text: CR S1771)
 - 2018-03-15 — Senate amendment submitted
+- 2018-06-07 — Considered by unanimous consent. (consideration: CR H4870-4871)
+- 2018-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-07 — Mr. Blum asked unanimous consent to take from the Speaker's table and consider.
+- 2018-06-07 — On passage Passed without objection. (text: CR H4870-4871)
+- 2018-06-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4870-4871)
+- 2018-06-14 — Presented to President.
+- 2018-06-14 — Presented to President.
+- 2018-06-25 — Became Public Law No: 115-192.
+- 2018-06-25 — Became Public Law No: 115-192.
+- 2018-06-25 — Signed by President.
+- 2018-06-25 — Signed by President.
