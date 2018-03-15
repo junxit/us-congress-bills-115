@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3210
@@ -16,9 +16,10 @@ Securely Expediting Clearances Through Reporting Transparency Act of 2018
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (2)
 
@@ -46,3 +47,13 @@ Securely Expediting Clearances Through Reporting Transparency Act of 2018
 - 2017-11-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-185.
 - 2017-11-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-185.
 - 2017-11-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
+- 2018-03-15 — Amendment SA 2210 agreed to in Senate by Unanimous Consent.
+- 2018-03-15 — Amendment SA 2210 proposed by Senator McConnell for Senator Johnson. (consideration: CR S1769-1770; text: CR S1769-1770) In the nature of a substitute.
+- 2018-03-15 — Measure laid before Senate by unanimous consent. (consideration: CR S1768-1770)
+- 2018-03-15 — Message on Senate action sent to the House.
+- 2018-03-15 — Passed Senate with an amendment by Unanimous Consent. (text: CR S1768-1769)
+- 2018-03-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S1768-1769)
+- 2018-03-15 — Senate amendment agreed to: Amendment SA 2210 agreed to in Senate by Unanimous Consent.
+- 2018-03-15 — Senate amendment proposed (on the floor): Amendment SA 2210 proposed by Senator McConnell for Senator Johnson.(consideration: CR S1769-1770; text: CR S1769-1770)
+- 2018-03-15 — Senate amendment submitted
+- 2018-03-15 — The committee substitute withdrawn by Unanimous Consent.
