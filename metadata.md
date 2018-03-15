@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3996
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3996
@@ -44,3 +44,14 @@ Protecting Access to the Courts for Taxpayers Act
 - 2018-03-14 — Reported by the Committee on Judiciary. H. Rept. 115-598.
 - 2018-03-14 — Reported by the Committee on Judiciary. H. Rept. 115-598.
 - 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7453)
+- 2018-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7453)
+- 2018-12-12 — Message on Senate action sent to the House.
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-19 — Became Public Law No: 115-332.
+- 2018-12-19 — Became Public Law No: 115-332.
+- 2018-12-19 — Signed by President.
+- 2018-12-19 — Signed by President.
