@@ -1,7 +1,7 @@
 ---
 measure: H.R. 506
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 506
@@ -45,9 +45,10 @@ Preventing Crimes Against Veterans Act of 2017
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Preventing Crimes Against Veterans Act of 2017
 - 2018-03-14 — Placed on the Union Calendar, Calendar No. 456.
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-599.
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-599.
+- 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
