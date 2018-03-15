@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3249
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3249
@@ -21,9 +21,10 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 - 2018-03-14 — Placed on the Union Calendar, Calendar No. 454.
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-597.
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-597.
+- 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
