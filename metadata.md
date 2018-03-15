@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4566
@@ -25,3 +25,9 @@ Alleviating Stress Test Burdens to Help Investors Act
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Referred to the House Committee on Financial Services.
+- 2018-01-17 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Committee Consideration and Mark-up Session Held.
+- 2018-01-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 8.
+- 2018-03-15 — Placed on the Union Calendar, Calendar No. 457.
+- 2018-03-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-601.
+- 2018-03-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-601.
