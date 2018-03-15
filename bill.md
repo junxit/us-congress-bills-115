@@ -115,3 +115,8 @@ The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 33
     >   - **(B)** for purposes of sections 1012, 1013, and 1014, includes the Bureau of Consumer Financial Protection;
 
   - **(2)** in section 1005, by striking “One-fifth” and inserting “One-fourth”.
+
+## § 7. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,324,285,000”.
+- **(b)** *Effective date* Subsection (a) shall take effect on June 1, 2018.
