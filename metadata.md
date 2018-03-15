@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4909
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4909
@@ -119,9 +119,10 @@ STOP School Violence Act of 2018
 - Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -141,3 +142,4 @@ STOP School Violence Act of 2018
 - 2018-03-14 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2018-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 10 (Roll no. 106). (text: CR H1559)
 - 2018-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 10 (Roll no. 106).(text: CR H1559)
+- 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
