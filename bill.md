@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Regulation At Improvement Act of 2017”.
+This Act may be cited as the “Regulation A+ Improvement Act of 2017”.
 
 ## § 2. Jobs act-related exemption
 
