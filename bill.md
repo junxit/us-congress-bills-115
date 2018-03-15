@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 5321
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5321
+
+> To improve communication from Federal agencies to individuals by requiring clear instructions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Too Long; Didn’t Read Act of 2018” or the “TL; DR Act of 2018”.
+
+## § 2. Responsibilities of Federal agencies
+
+Not later than 6 months after the date of the enactment of this Act, the Director of the Office of Management and Budget shall develop and issue regulations that direct the head of each agency to provide a clearly marked section at the top of a communication (both hard copy and electronic) that the agency sends to an individual if such communication requires or authorizes such individual to take action. To the extent practicable as determined by the head of the relevant agency, the clearly marked section at the top of the first page shall include—
+
+- **(1)** the action item;
+- **(2)** if a response is required, optional, or not required;
+- **(3)** the deadline, if applicable;
+- **(4)** how to complete the action item; and
+- **(5)** the agency’s contact information.
+
+## § 3. Reports to Congress
+
+- **(a)** *Initial report* Not later than 9 months after the date of the enactment of this Act, the head of each agency shall publish on the plain writing section of the agency’s website, maintained pursuant to section 4(a) of the Plain Writing Act of 2010 (5 U.S.C. 301 note), a report that describes the agency plan for compliance with the requirements of this Act.
+- **(b)** *Annual compliance report* Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website, maintained pursuant to section 4(a) of the Plain Writing Act of 2010 (5 U.S.C. 301 note), a report on agency compliance with the requirements of this Act.
+
+## § 4. Agency defined
+
+In this Act, the term agency means an Executive agency as defined in section 105 of title 5, United States Code.
