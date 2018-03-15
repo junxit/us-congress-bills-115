@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 5299
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5299
+
+> To direct the Secretary of Agriculture to transfer to Scenic Rivers Development Alliance certain National Forest System land in the State of Mississippi.
+
+## § 1. Short title
+
+This Act may be cited as the “Okhissa Lake Rural Economic Development Land Conveyance Act”.
+
+## § 2. Okhissa Lake rural economic development land conveyance
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Alliance* The term Alliance means the Scenic Rivers Development Alliance.
+  - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.
+- **(b)** *Request* Subject to the requirements of this section, if the Alliance submits a written request for conveyance by not later than 180 days after the date of enactment of this Act, the Secretary shall convey to the Alliance all right, title, and interest of the United States in and to the National Forest System land described in subsection (c).
+- **(c)** *Description of National Forest System land*
+  - **(1)** *In general* Subject to paragraph (2), the National Forest System land referred to in subsection (b) is the approximately 150 acres of real property located in sec. 6, T. 5 N. R. 4 E., Franklin County, Mississippi, and further described as—
+    - **(A)** the portion of the NW1/4 NW1/4 lying south of the south boundary of Berrytown Road;
+    - **(B)** the portion of the W1/2 NE1/4 NW1/4 lying south of the south boundary of Berrytown Road;
+    - **(C)** the portion of the SW1/4 NW1/4 lying east of the east boundary of U.S. Highway 98;
+    - **(D)** the W1/2 SE1/4 NW1/4;
+    - **(E)** the portion of the NW1/4 SW1/4 lying east of the east boundary of U.S. Highway 98;
+    - **(F)** the portion of the NE1/4 SW1/4 commencing at the southwest corner of the NE1/4 SW1/4, said point being the point of beginning, thence running east 330 feet along the south boundary of the NE1/4 SW1/4 to a point in Lake Okhissa, thence running northeasterly to a point in Lake Okhissa on the east boundary of the NE1/4 SW1/4 330 feet south of the northeast corner thereof, thence running north 330 feet along the east boundary of the NE1/4 SW1/4 to the northeast corner thereof, thence running west along the north boundary of the NE1/4 SW1/4 to the NW corner thereof; thence running south along the west boundary of the NE1/4 SW1/4 to the point of beginning; and
+    - **(G)** the portion of the SE1/4 SE1/4 NW1/4 commencing at the southeast corner of the SE1/4 NW1/4, said point being the point of beginning, and running northwesterly to the northwest corner of the SE1/4 SE1/4 NW1/4, thence running south along the west boundary of the SE1/4 SE1/4 NW1/4 to the southwest corner thereof, thence running east along the south boundary of the SE1/4 SE1/4 NW1/4 to the point of beginning.
+  - **(2)** *Survey* The exact acreage and legal description of the National Forest System land to be conveyed under this section shall be determined by a survey satisfactory to the Secretary.
+- **(d)** *Terms and conditions* The conveyance under this section shall be—
+  - **(1)** made—
+    - **(A)** without consideration; and
+    - **(B)** by quitclaim deed; and
+  - **(2)** subject to—
+    - **(A)** valid existing rights; and
+    - **(B)** such other terms and conditions as the Secretary considers to be appropriate to protect the interests of the United States.
+- **(e)** *Costs* As a condition for the conveyance under this section, the Alliance shall pay for all costs associated with the conveyance, including for any survey under subsection (c)(2).
