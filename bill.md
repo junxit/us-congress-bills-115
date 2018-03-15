@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4566
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,11 +17,13 @@ This Act may be cited as the “Alleviating Stress Test Burdens to Help Investor
 
 Section 165(i) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365(i)) is amended—
 
-- **(1)** in paragraph (1)(B)(ii), by striking “and nonbank financial companies”;
+- **(1)** in paragraph (1)(B)(ii), by striking “and nonbank financial companies”; and
 - **(2)** in paragraph (2)—
-  - **(A)** in subparagraph (A)—
-    - **(i)** by striking “other financial companies” and inserting “other bank holding companies”; and
-    - **(ii)** by striking “and are regulated by a primary Federal financial regulatory agency”; and
-  - **(B)** in subparagraph (C), by striking “Each Federal primary financial regulatory agency, in coordination with the Board of Governors and the Federal Insurance Office, shall issue consistent and comparable” and inserting “The Board of Governors, in coordination with the Federal primary financial regulatory agencies and the Federal Insurance Office shall issue”; and
-- **(3)** by adding at the end the following:
-  > - **(3)** *Limitation* The Board of Governors may limit the requirements of this subsection with respect to a nonbank financial company supervised by the Board of Governors, if the Board of Governors determines such limitation is appropriate.
+  - **(A)** in subparagraph (A), by striking “are regulated by a primary Federal financial regulatory agency” and inserting: “whose primary financial regulatory agency is a Federal banking agency or the Federal Housing Finance Agency”;
+  - **(B)** in subparagraph (C), by striking “Each Federal primary financial regulatory agency” and inserting “Each Federal banking agency and the Federal Housing Finance Agency”; and
+  - **(C)** by adding at the end the following:
+    > - **(D)** *SEC and CFTC* The Securities and Exchange Commission and the Commodity Futures Trading Commission may each issue regulations requiring financial companies with respect to which they are the primary financial regulatory agency and that have total consolidated assets of more than $10,000,000,000 to conduct periodic analyses of the financial condition, including available liquidity, of such companies under adverse economic conditions.
+
+## § 3. Rule of construction
+
+Nothing in this Act shall be construed to limit the authority of the Financial Stability Oversight Council under section 120 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5330).
