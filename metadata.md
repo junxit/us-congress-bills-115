@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3210
@@ -57,3 +57,13 @@ Securely Expediting Clearances Through Reporting Transparency Act of 2018
 - 2018-03-15 — Senate amendment proposed (on the floor): Amendment SA 2210 proposed by Senator McConnell for Senator Johnson.(consideration: CR S1769-1770; text: CR S1769-1770)
 - 2018-03-15 — Senate amendment submitted
 - 2018-03-15 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-07 — Mr. Russell asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H3760-3761)
+- 2018-05-07 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment)
+- 2018-05-07 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment)
+- 2018-05-10 — Presented to President.
+- 2018-05-10 — Presented to President.
+- 2018-05-22 — Became Public Law No: 115-173.
+- 2018-05-22 — Became Public Law No: 115-173.
+- 2018-05-22 — Signed by President.
+- 2018-05-22 — Signed by President.
