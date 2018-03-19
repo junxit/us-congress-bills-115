@@ -1,7 +1,7 @@
 ---
 measure: S. 2527
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2527
@@ -29,3 +29,7 @@ Small Business Investment Opportunity Act of 2018
 
 - 2018-03-08 — Introduced in Senate
 - 2018-03-08 — Read twice and referred to the Committee on Small Business and Entrepreneurship. (Sponsor introductory remarks on measure: CR S1580-1581)
+- 2018-03-14 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
+- 2018-03-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.
