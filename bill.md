@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4227
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,17 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Vehicular Terrorism Prevention Act of 2017”.
+This Act may be cited as the “Vehicular Terrorism Prevention Act of 2018”.
 
-## § 2. Report on vehicular terrorism
+## § 2. Strategy on vehicular terrorism
 
 - **(a)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Homeland Security shall—
-  - **(1)** examine what actions the Department of Homeland Security is undertaking to combat the threat of vehicular terrorism; and
-  - **(2)** submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains information relating to the findings and recommendations resulting from such examination.
-- **(b)** *Contents* The report required under subsection (a) should outline the following:
-  - **(1)** An examination of the current threat level for vehicular terrorism.
-  - **(2)** An examination of what the Department of Homeland Security is currently doing to guard against vehicular terrorism.
-  - **(3)** An examination of how the threat of vehicular terrorism may be mitigated.
-  - **(4)** An examination of the extent to which the Department of Homeland Security is doing any outreach or training with private sector partners in response to these threats of vehicular terrorism.
-  - **(5)** An examination of any actions that Congress can take to help the Department of Homeland Security mitigate the threat of vehicular terrorism.
-- **(c)** *Vehicular terrorism defined* In this section, the term “vehicular terrorism” means any action that utilizes automotive transportation to inflict violence and intimidation on individuals for a political purpose.
+  - **(1)** assess the activities the Department of Homeland Security is undertaking to support emergency response providers and the private sector to prevent, mitigate, and respond to the threat of vehicular terrorism; and
+  - **(2)** based on such assessment, develop and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a strategy to improve the Department’s efforts to support the efforts of emergency response providers and the private sector to prevent, mitigate, and respond to such threat.
+- **(b)** *Contents* The strategy required under subsection (a) shall include the following:
+  - **(1)** An examination of the current threat of vehicular terrorism.
+  - **(2)** Methods to improve Department of Homeland Security information sharing activities with emergency response providers and the private sector regarding best practices to prevent, mitigate, and respond to the increasing threat of vehicular terrorism.
+  - **(3)** Training activities the Department can provide, including possible exercises, for emergency response providers to prevent and respond to the threat of vehicular terrorism.
+  - **(4)** Any additional activities the Secretary of Homeland Security recommends to prevent, mitigate, and respond to the threat of vehicular terrorism.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Emergency response providers* The term “emergency response providers” has the meaning given such term in section 2(6) of the Homeland Security Act of 2002 (6 U.S.C. 101(6)).
+  - **(2)** *Vehicular terrorism* The term “vehicular terrorism” means any action that utilizes automotive transportation to inflict violence and intimidation on individuals for a political purpose.
