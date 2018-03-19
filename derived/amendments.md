@@ -1,7 +1,7 @@
 ---
 measure: S. 526
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+5 amendatory instructions. 3 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,24 @@ to guess them.
 |---|---|
 | Removed | `$5,000,000` |
 | Inserted | `$6,000,000` |
+
+### 15 U.S.C. § 636
+
+> Section 7(m)(3)(C) of the Small Business Act (15 U.S.C. 636(m)(3)(C)) is amended by striking “$5,000,000” and inserting “$6,000,000”.
+
+| | |
+|---|---|
+| Removed | `$5,000,000` |
+| Inserted | `$6,000,000` |
+
+### 15 U.S.C. § 636
+
+> Section 7(m)(4)(E) of the Small Business Act (15 U.S.C. 636(m)(4)(E)) is amended by striking “25 percent” each place that term appears and inserting “50 percent”.
+
+| | |
+|---|---|
+| Removed | `25 percent` |
+| Inserted | `50 percent` |
 
 ## Stated, not applied
 
