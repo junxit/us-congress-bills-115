@@ -1,7 +1,7 @@
 ---
 measure: S. 2283
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,6 +34,15 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 631` | redesignate | by redesignating section 47 as section 49; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | insert | by inserting after section 46 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | strike | in this paragraph heading, by striking “SBA”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 632` | strike | in the matter preceding subparagraph (A), by striking “SBA”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 647` | replace | in section 18 (15 U.S.C. 647), by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | replace | in section 3 (15 U.S.C. 632), by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | insert | in section 7(a)(1)(A)(i) (15 U.S.C. 636(a)(1)(A)(i)), by inserting “The Administrator has the authority to direct, and conduct oversight for, the methods by which lenders determine whether a borrower is able to obtain credit elsewhere.” … | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 631` | redesignate | by redesignating subsection (j) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | redesignate | by redesignating section 47 as section 49; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | insert | by inserting after section 46 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | strike | in the paragraph heading, by striking “SBA”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 632` | strike | in the matter preceding subparagraph (A), by striking “SBA”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 647` | replace | in section 18 (15 U.S.C. 647), by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | replace | in section 3 (15 U.S.C. 632), by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

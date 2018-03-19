@@ -1,7 +1,7 @@
 ---
 measure: S. 2283
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2283
@@ -16,9 +16,11 @@ Small Business 7(a) Lending Oversight Reform Act of 2018
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Small Business 7(a) Lending Oversight Reform Act of 2018
 
 - 2018-01-09 — Introduced in Senate
 - 2018-01-09 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-03-14 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2018-03-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
