@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4545
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4545
@@ -26,9 +26,10 @@ Financial Institutions Examination Fairness and Reform Act
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Financial Institutions Examination Fairness and Reform Act
 - 2018-03-15 — Roll call votes on amendments in House
 - 2018-03-15 — Rule provides for consideration of H.R. 4545, H.R. 1116 and H.R. 4263. Rule provides for consideration of H.R. 4545 under a structured rule, and makes in order amendments printed in the report, with one motion to recommit with or without instructions. Rule also provides for consideration of H.R. 1116 and H.R. 4263 under closed rules. The rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Minority Member of the Committee on Financial Services for each measure, and one motion to recommit with or without instructions for each measure.
 - 2018-03-15 — The previous question was ordered on the amendment and the bill without objection.
+- 2018-03-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
