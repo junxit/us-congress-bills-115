@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4176
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,23 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Air Cargo Security Improvement Act of 2017”.
+This Act may be cited as the “Air Cargo Security Improvement Act of 2018”.
 
-## § 2. Establishment of air cargo security office
+## § 2. Establishment of air cargo security division
 
 - **(a)** *In general* Subchapter II of chapter 449 of title 49, United States Code, is amended by adding at the end the following new section:
-  > ## § 44947. Air cargo security office
+  > ## § 44947. Air cargo security division
   >
-  > - **(a)** *Establishment* Not later than 90 days after the date of the enactment of this section, the Administrator of the Transportation Security Administration shall establish an air cargo security office to carry out all policy and engagement with air cargo security stakeholders.
-  > - **(b)** *Leadership; Staffing* The air cargo security office established pursuant to subsection (a) shall be headed by an individual in the Senior Executive Service and be staffed by not fewer than four full-time equivalents, including the head of the office.
+  > - **(a)** *Establishment* Not later than 90 days after the date of the enactment of this section, the Administrator of the Transportation Security Administration shall establish an air cargo security division to carry out all policy and engagement with air cargo security stakeholders.
+  > - **(b)** *Leadership; Staffing* The air cargo security division established pursuant to subsection (a) shall be headed by an individual in the executive service within the Transportation Security Administration and be staffed by not fewer than four full-time equivalents, including the head of the division.
+  > - **(c)** *Staffing* The Administrator of the Transportation Security Administration shall staff the air cargo security division with existing Transportation Security Administration personnel.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 449 of title 49, United States Code, is amended by inserting after the item related to section 44946 the following new item:
 
-## § 3. Pilot program for air cargo computed tomography
+## § 3. Feasibility study and pilot program for emerging technologies
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration, in coordination with the Under Secretary for Science and Technology of the Department of Homeland Security, shall conduct a pilot program to test the expanded use of screening equipment using computed tomography technology to screen air cargo on passenger-carrying aircraft. Such program shall conclude not later than two years after such program is commenced.
-- **(b)** *Briefings* Not later than six months after the beginning of the pilot program under subsection (a) and every six months thereafter until the completion of such program, the Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the progress of such program.
-- **(c)** *Report* Not later than 90 days after completion of the pilot program under subsection (a), the Administrator of the Transportation Security Administration shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of such pilot program with, as appropriate, a plan to integrate computed tomography technology into domestic and international air cargo screening operations, including at overseas last point of departure airports.
+- **(a)** *Study* Not later than 120 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration, in coordination with the Under Secretary for Science and Technology of the Department of Homeland Security, shall submit to Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a feasibility study regarding expanding the use of computed tomography technology for the screening of air cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation, interstate air transportation, or interstate air commerce. Such study shall consider the following:
+  - **(1)** Opportunities to leverage computed tomography systems used for screening passengers and baggage.
+  - **(2)** Costs and benefits of using computed tomography technology for screening air cargo.
+  - **(3)** An analysis of emerging computed tomography systems that may have potential to enhance the screening of air cargo, including systems that may address aperture challenges associated with screening certain categories of air cargo.
+  - **(4)** An analysis of emerging screening technologies, in addition to computed tomography, that may be used to enhance the screening of air cargo.
+- **(b)** *Pilot program* Not later than 120 days after submission of the feasibility study required under subsection (a), the Administrator of the Transportation Security Administration shall initiate a 2-year pilot program to achieve enhanced air cargo security screening outcomes through the use of new or emerging screening technologies, such as computed tomography technology, as identified through such study.
+- **(c)** *Updates* Not later than 60 days after the initiation of the pilot program under subsection (b) and every 6 months thereafter for 2 years, the Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the progress of implementation of such pilot program.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Air carrier* The term “air carrier” has the meaning given such term in section 40102 of title 49, United States Code.
+  - **(2)** *Air transportation* The term “air transportation” has the meaning given such term in section 40102 of title 49, United States Code.
+  - **(3)** *Foreign air carrier* The term “foreign air carrier” has the meaning given such term in section 40102 of title 49, United States Code.
+  - **(4)** *Interstate air commerce* The term “interstate air commerce” has the meaning given such term in section 40102 of title 49, United States Code.
+  - **(5)** *Interstate air transportation* The term “interstate air transportation” has the meaning given such term in section 40102 of title 49, United States Code.
 
 ## § 4. Air cargo regulation review
 
@@ -38,66 +49,16 @@ This Act may be cited as the “Air Cargo Security Improvement Act of 2017”.
 
 ## § 5. Comptroller general review
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall—
-  - **(1)** review the Department of Homeland Security’s analysis and intelligence pre-screening processes and procedures for the examination of air cargo entering the United States;
-  - **(2)** review the computed tomography technology pilot program for air cargo screening on passenger-carrying aircraft, conducted pursuant to section 3;
+- **(a)** *In general* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall—
+  - **(1)** review the Department of Homeland Security’s analysis and intelligence pre-screening processes and procedures for air cargo entering the United States;
+  - **(2)** review the pilot program conducted pursuant to section 3;
   - **(3)** assess the effectiveness of the Department’s risk-based strategy for examining air cargo and ensuring compliance with air cargo security rules and regulations; and
   - **(4)** review the Department’s information sharing procedures and practices for disseminating information to relevant stakeholders on preventing, mitigating, and responding to air cargo related threats.
 
-## § 6. Air cargo advance screening program
-
-- **(a)** *In general* Subtitle B of title IV of the Homeland Security Act of 2002 (6 U.S.C. 211 et seq.) is amended by adding at the end the following new section:
-  > ## § 420. Air cargo advance screening program
-  >
-  > - **(a)** *In general* The Secretary, consistent with the requirements of the Trade Act of 2002 (Public Law 107–210), shall—
-  >   - **(1)** establish an air cargo advance screening program (in this section referred to as the “ACAS Program”) for the collection by U.S. Customs and Border Protection of advance electronic information from air carriers and other persons within the supply chain regarding cargo being transported to the United States by air;
-  >   - **(2)** under such program, require that such information be transmitted by such air carriers and other persons at the earliest point practicable prior to loading of such cargo onto an aircraft destined to or transiting through the United States;
-  >   - **(3)** establish appropriate communications systems with freight forwarders, shippers, and air carriers;
-  >   - **(4)** establish a system that will allow freight forwarders, shippers, and air carriers to provide shipment level data for air cargo, departing from any location that is inbound to the United States; and
-  >   - **(5)** coordinate with the Administrator of the Transportation Security Administration to identify opportunities in which the information furnished in compliance with the ACAS Program could be used by the Administrator.
-  > - **(b)** *Inspection of high-Risk cargo* Under the ACAS Program, the Secretary shall ensure that all cargo that has been identified as high risk is inspected—
-  >   - **(1)** prior to the loading of such cargo onto aircraft at the last point of departure; or
-  >   - **(2)** at an earlier point in the supply chain, before departing for the United States.
-  > - **(c)** *Consultation* In carrying out the ACAS Program, the Secretary shall consult with relevant stakeholders, as appropriate, to ensure the implementation of an operationally feasible and practical approach to the collection of advance information with respect to cargo on aircraft departing for the United States, and that the inspection of high-risk cargo recognizes the significant differences among air cargo business models and modes of transportation.
-  > - **(d)** *Analysis* The Secretary may analyze the information referred to in subsection (a) in the Department’s automated targeting system and integrate such information with other intelligence to enhance the accuracy of the risk assessment process under the ACAS Program.
-  > - **(e)** *No duplication* The Secretary shall carry out this section in a manner that, after the ACAS Program is fully in effect, ensures, to the greatest extent practicable, that the ACAS Program does not duplicate other Department programs or requirements relating to the submission of air cargo data or the inspection of high-risk cargo.
-  > - **(f)** *Consideration of industry* In carrying out the ACAS Program, the Secretary shall—
-  >   - **(1)** take into consideration that the content and timeliness of the available data may vary among entities in the air cargo industry and among countries, and shall explore procedures to accommodate such variations while maximizing the contribution of such data to the risk assessment process under the ACAS Program;
-  >   - **(2)** test the business processes, technologies, and operational procedures required to provide advance information with respect to cargo on aircraft departing for the United States and carry out related inspection of high-risk cargo, while ensuring minimization of delays and other negative impacts on vital supply chains; and
-  >   - **(3)** consider the cost, benefit, and feasibility before establishing any set time period for submission of certain elements of the data for air cargo under this section in line with the regulatory guidelines specified in Executive Order No. 13563, and any successor Executive order or regulation.
-  > - **(g)** *Guidance* The Secretary shall provide guidance for participants in the ACAS Program regarding the requirements for participation, including requirements for transmitting shipment level data.
-  > - **(h)** *Use of data* The Secretary shall use the data provided under the ACAS Program for targeting shipments for screening and aviation security purposes only.
-
-- **(b)** *Final rule* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall issue a final regulation to implement the ACAS Program under section 420 of the Homeland Security Act of 2002 (as added by subsection (a) of this section) to include the electronic transmission to U.S. Customs and Border Protection of data elements for targeting cargo, including appropriate security elements of shipment level data, as determined by the Secretary.
-- **(c)** *Report* Not later than 180 days after the date of the commencement of the ACAS Program under section 420 of the Homeland Security Act of 2002 (as added by subsection (a) of this section), the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the operational implementation of providing advance information under the ACAS Program and the value of such information in targeting cargo.
-- **(d)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 419 the following new item:
-
-## § 7. Third party canine cargo screening
-
-Section 1307 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1116) is amended—
-
-- **(1)** by striking subsections (f) and (g); and
-- **(2)** by adding after subsection (e) the following new subsection:
-  > - **(f)** *Third party canine teams for air cargo security*
-  >   - **(1)** *In general* In order to enhance the screening of air cargo and ensure that third party explosives detection canine assets are leveraged for such purpose, the Secretary of Homeland Security, acting through the Administrator of the Transportation Security Administration, shall, not later than 180 days after the date of the enactment of this subsection—
-  >     - **(A)** develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
-  >     - **(B)** develop a process to identify qualified non-Federal entities that will certify such canine assets that meet the standards established by the Administrator under subparagraph (A);
-  >     - **(C)** ensure that such entities qualified to certify such canine assets shall be independent from entities that will train and provide canines to end users of such canine assets;
-  >     - **(D)** establish a system of Transportation Security Administration audits of the process developed under subparagraph (B); and
-  >     - **(E)** provide that canines certified for the primary screening of air cargo can be used by air carriers, foreign air carriers, freight forwarders, and shippers.
-  >   - **(2)** *Implementation* Beginning on the date that the development of the process under paragraph (1)(B) is complete, the Secretary, acting through the Administrator, shall—
-  >     - **(A)** facilitate the deployment of third party explosives detection canine assets under paragraph (1) that meet the certification standards of the Administration, as determined by the Administrator;
-  >     - **(B)** make such standards available to vendors seeking to train and deploy such canine assets; and
-  >     - **(C)** ensure that all costs for the training and certification of canines, and for the use of supplied canines, are borne by private industry and not the Federal Government.
-  >   - **(3)** *Definitions* In this subsection:
-  >     - **(A)** *Air carrier* The term “air carrier” has the meaning given such term in section 40102 of title 49, United States Code.
-  >     - **(B)** *Foreign air carrier* The term “foreign air carrier” has the meaning given the term in section 40102 of title 49, United States Code.
-  >     - **(C)** *Third party explosives detection canine asset* The term “third party explosives detection canine asset” means any explosives detection canine or handler not owned or employed, respectively, by the Transportation Security Administration.
-
-## § 8. Known shipper program review
+## § 6. Known shipper program review
 
 The Administrator shall request the Air Cargo Subcommittee of Aviation Security Advisory Committee (established under section 44946 of title 49, United States Code) to—
 
-- **(1)** conduct a comprehensive review and security assessment of the known shipper program under 1548.17 of title 49, Code of Federal Regulations;
+- **(1)** conduct a comprehensive review and security assessment of the known shipper program under sections 1546.215 and 1548.17 of title 49, Code of Federal Regulations;
 - **(2)** recommend whether the Known Shipper Program should be modified or eliminated considering the full implementation of 100 percent screening under section 44901(g) of title 49, United States Code; and
 - **(3)** report its findings and recommendations to the Administrator of the Transportation Security Administration.
