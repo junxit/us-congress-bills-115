@@ -1,7 +1,7 @@
 ---
 measure: S. 1995
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1995
@@ -16,6 +16,11 @@ Spurring Business in Communities Act of 2018
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
+## Cosponsors (2)
+
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kennedy, John [R-LA] (K000393)
+
 ## Committees (1)
 
 - Senate — Small Business and Entrepreneurship Committee
@@ -24,3 +29,7 @@ Spurring Business in Communities Act of 2018
 
 - 2017-10-24 — Introduced in Senate
 - 2017-10-24 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-03-14 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment. Without written report.
+- 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment. Without written report.
+- 2018-03-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.

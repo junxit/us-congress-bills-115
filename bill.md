@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1995
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Spurring Business in Communities Act of 2017”.
+This Act may be cited as the “Spurring Business in Communities Act of 20172018”.
 
 ## § 2. Improving the number of small business investment companies in underlicensed States
 
