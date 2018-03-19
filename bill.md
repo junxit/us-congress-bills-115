@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4467
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Strengthening Aviation Security Act of 2017”.
+This Act may be cited as the “Strengthening Aviation Security Act of 2018”.
 
 ## § 2. Use of risk-based strategies by Federal Air Marshal Service
 
@@ -20,8 +20,9 @@ This Act may be cited as the “Strengthening Aviation Security Act of 2017”.
   - **(2)** in paragraph (8), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following new paragraphs:
     > - **(9)** shall require the Federal Air Marshal Service to utilize a risk-based strategy when allocating resources between international and domestic flight coverage, including when initially setting its annual target numbers of average daily international and domestic flights to cover;
-    > - **(10)** shall require the Federal Air Marshal Service to utilize a risk-based strategy to support domestic allocation decisions; and
-    > - **(11)** shall require the Federal Air Marshal Service to utilize a risk-based strategy to support international allocation decisions.
+    > - **(10)** shall require the Federal Air Marshal Service to utilize a risk-based strategy to support domestic allocation decisions;
+    > - **(11)** shall require the Federal Air Marshal Service to utilize a risk-based strategy to support international allocation decisions; and
+    > - **(12)** shall ensure that the seating arrangements of Federal air marshals on aircraft are determined in a manner that is risk-based and most capable of responding to current threats to aviation security.
 
-- **(b)** *Report* Not later than 270 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration shall submit to the Committee on Homeland Security and the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that describes the compliance of the Federal Air Marshal Service with the requirements specified in paragraphs (9) through (11) of subsection (a) of section 44917 of title 49, United States Code, as added by this Act, and the documented methodology used by the Federal Air Marshal Service to conduct risk assessments in accordance with such paragraphs.
-- **(c)** *Effective date* The Transportation Security Administration shall begin carrying out the requirements specified in paragraphs (9) through (11) of subsection (a) of section 44917, United States Code, added by this Act, by not later than the date that is 180 days after the date of the enactment of this Act.
+- **(b)** *Report* Not later than 270 days after the date of the enactment of this Act, the Administrator of the Transportation Security Administration shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report that describes the compliance of the Federal Air Marshal Service with the requirements specified in paragraphs (9) through (12) of subsection (a) of section 44917 of title 49, United States Code, as added by this Act, and the documented methodology used by the Federal Air Marshal Service to conduct risk assessments in accordance with such paragraphs.
+- **(c)** *Effective date* The Transportation Security Administration shall begin carrying out the requirements specified in paragraphs (9) through (12) of subsection (a) of section 44917, United States Code, added by this Act, by not later than the date that is 180 days after the date of the enactment of this Act.
