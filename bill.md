@@ -15,7 +15,7 @@ This Act may be cited as the “Enhancing Suspicious Activity Reporting Initiati
 
 ## § 2. Enhancing Department of Homeland Security suspicious activity reporting operations
 
-- **(a)** *Strategy required* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with other appropriate Federal officials, shall develop a strategy to improve the operations and activities of the Department of Homeland Security related to training, outreach, and information sharing for suspicious activity reporting to prevent acts of terrorism.
+- **(a)** *Strategy required* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with other appropriate Federal officials, shall develop a strategy to improve the operations and activities of the Department of Homeland Security related to training, outreach, and information sharing for suspicious activity reporting to prevent acts of terrorism.
 - **(b)** *Contents of strategy* The strategy required under subsection (a) shall include the following:
   - **(1)** A description and examples of the types of information that would meet the definition of critical information for the purpose of suspicious activity reporting as well as information, including information associated with racial, religious or national origin, that would not meet the definition of critical information.
   - **(2)** Training for appropriate personnel of State and major urban area fusion centers, emergency response providers, and, as appropriate, the private sector on—
