@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3731
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3731
@@ -74,3 +74,14 @@ Secret Service Recruitment and Retention Act of 2018
 - 2018-03-19 — Senate amendment agreed to: Amendment SA 2214 agreed to in Senate by Unanimous Consent.
 - 2018-03-19 — Senate amendment proposed (on the floor): Amendment SA 2214 proposed by Senator McConnell for Senator Grassley.
 - 2018-03-19 — Senate amendment submitted
+- 2018-03-20 — Message on Senate action sent to the House.
+- 2018-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-21 — Mr. Gowdy asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H1751)
+- 2018-03-21 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H1751)
+- 2018-03-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H1751)
+- 2018-03-22 — Presented to President.
+- 2018-03-22 — Presented to President.
+- 2018-04-03 — Became Public Law No: 115-160.
+- 2018-04-03 — Became Public Law No: 115-160.
+- 2018-04-03 — Signed by President.
+- 2018-04-03 — Signed by President.
