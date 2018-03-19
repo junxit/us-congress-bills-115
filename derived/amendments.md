@@ -1,7 +1,7 @@
 ---
 measure: S. 1961
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 4 executed, 5 stated and not applied.
+18 amendatory instructions. 8 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,6 +60,42 @@ to guess them.
 | Removed | `2017` |
 | Inserted | `2018` |
 
+### 15 U.S.C. § 638
+
+> in subsection (cc), by striking “2017” and inserting “2019”;
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2019` |
+
+### 15 U.S.C. § 638
+
+> in subsection (gg)(7), by striking “2017” and inserting “2019”;
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2019` |
+
+### 15 U.S.C. § 638
+
+> in subsection (jj)(7), by striking “2017” and inserting “2019”;
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2019` |
+
+### 15 U.S.C. § 638
+
+> in the matter preceding subparagraph (A), by striking “2017” and inserting “2019”;
+
+| | |
+|---|---|
+| Removed | `2017` |
+| Inserted | `2019` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -69,6 +105,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 638` | strike | in subparagraph (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 638` | replace | in subparagraph (J), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 638` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 638` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 638` | strike | in subparagraph (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 638` | replace | in subparagraph (J), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 638` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
