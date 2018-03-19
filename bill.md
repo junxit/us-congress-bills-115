@@ -1,23 +1,30 @@
 ---
 legis-num: H.R. 3731
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3731
 
-> To provide overtime pay for employees of the United States Secret Service, and for other purposes.
+That the bill from the House of Representatives (H.R. 3731) entitled “An Act to provide overtime pay for employees of the United States Secret Service, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Secret Service Recruitment and Retention Act of 2017”.
+This Act may be cited as the “Secret Service Recruitment and Retention Act of 2018”.
 
 ## § 2. Extension of overtime pay exception through 2018 for protective services
 
-- **(a)** *In general* The Overtime Pay for Protective Services Act of 2016 (5 U.S.C. 5547 note) is amended—
-  - **(1)** in the section heading for section 2, by striking “2016” and inserting “2016 through 2018”; and
-  - **(2)** by striking “during 2016” each place it appears and inserting “during 2016 through 2018”.
+- **(a)** *Amendments*
+  - **(1)** *In general* Section 2 of the Overtime Pay for Protective Services Act of 2016 (5 U.S.C. 5547 note) is amended—
+    - **(A)** in the section heading, by striking “in 2016” and inserting “during 2016 through 2018”;
+    - **(B)** in subsection (a), by striking “2016” and inserting “2016, 2017, or 2018”; and
+    - **(C)** in subsection (b), by striking paragraph (1) and inserting the following:
+      > - **(1)** *In general* Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during 2016, 2017, and 2018, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
+
+  - **(2)** *Clarifying provision* Section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note) is amended, in the first sentence, by inserting “or 3056A” after “section 3056(a)”.
 - **(b)** *Effective date* The amendments made by subsection (a) shall take effect as if enacted on December 31, 2016.
 - **(c)** *Report on extensions* Not later than January 30, 2018, and January 30, 2019, the Director of the Secret Service shall submit to the Committee on Homeland Security and the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effects of the amendment made by subsection (a)(2). The report shall include, with respect to the previous calendar year—
   - **(1)** the total number of United States Secret Service personnel receiving premium pay above the premium pay limitation in subsection (a) of section 5547 of title 5, United States Code;
@@ -31,8 +38,3 @@ This Act may be cited as the “Secret Service Recruitment and Retention Act of 
 ## § 3. Report of the Comptroller General of the United States
 
 Not later than 1 year after the effective date of this section, the Comptroller General of the United States shall complete a study and submit to the Committee on the Judiciary of the House of Representatives, the Committee on the Judiciary of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the extent of the progress made by the United States Secret Service in implementing the recommendations of the United States Secret Service Protective Mission Panel, including in particular those items pertaining to training and personnel enumerated in the Executive Summary to Report from the United States Secret Service Protective Mission Panel to the Secretary of Homeland Security dated December 15, 2014.
-
-## § 4. Rescissions
-
-- **(a)** *Rescission of unobligated balances in the Department of Justice Assets Forfeiture Fund* Of the unobligated balances available under the Department of Justice Assets Forfeiture Fund, $10,000,000 is hereby permanently rescinded.
-- **(b)** *Authorization To rescind future unobligated balances in the Department of Justice Assets Forfeiture Fund* There is authorized to be rescinded from the unobligated balances available under the Department of Justice Assets Forfeiture Fund $7,000,000 in fiscal year 2018 and $3,000,000 in fiscal year 2019.
