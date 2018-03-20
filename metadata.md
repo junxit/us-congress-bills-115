@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 835
@@ -21,9 +21,10 @@ To update the map of, and modify the maximum acreage available for inclusion in,
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To update the map of, and modify the maximum acreage available for inclusion in,
 - 2018-03-19 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2018-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 3 (Roll no. 115). (text: CR H1677)
 - 2018-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 3 (Roll no. 115).(text: CR H1677)
+- 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
