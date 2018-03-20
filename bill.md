@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 5343
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5343
+
+> To amend the Public Health Service Act to nullify certain contractual provisions prohibiting or penalizing a pharmacist’s disclosure of the availability of therapeutically equivalent alternative drugs, or alternative methods of purchasing the prescription drug, that are less expensive, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Prescription Transparency Act of 2018”.
+
+## § 2. Prohibited gag provisions
+
+Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by adding at the end the following:
+
+> ## § 320B. Prohibited gag provisions
+>
+> - **(a)** *In general* No contract that is between—
+>   - **(1)** a health insurer or any entity that provides pharmacy benefits management services on behalf of a health insurer (commonly referred to as a “pharmacy benefit manager”); and
+>   - **(2)** a pharmacy, pharmacist, or a pharmacy's contracting agent, such as a pharmacy services administrative organization,
+> - **(b)** *Null and void* Any provision described in subsection (a) in a contract described in subsection (a) is null and void.
+> - **(c)** *Applicability* Subsection (a) applies only with respect to contracts, and contract addenda, entered into or renewed on or after the date of enactment of the Prescription Transparency Act of 2018.
+> - **(d)** *Regulations and guidance* The Secretary may issue such regulations and guidance as may be necessary for implementation of this section.
+> - **(e)** *Definitions* In this section:
+>   - **(1)** The term drug has the meaning given to such term in section 201 of the Federal Food, Drug, and Cosmetic Act.
+>   - **(2)** The term health insurer means a health insurance issuer (as defined in section 2791) offering health insurance coverage (as defined in such section) in the individual or group market or a sponsor of a group health plan (as defined in such section).
+>   - **(3)** The term prescription drug means a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act.
