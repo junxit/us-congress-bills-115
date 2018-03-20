@@ -28,4 +28,6 @@ That the Senate—
 - **(3)** applauds the productive partnership the United States enjoys with the Baltic states in many spheres, including NATO;
 - **(4)** recognizes the determination of the Governments of Estonia, Latvia, and Lithuania to strengthen transatlantic security through defense spending and host nation support for NATO deployments;
 - **(5)** recognizes the commitment among the Baltic states to further respect for the values of democracy and human rights within their own countries and abroad; and
-- **(6)** reiterates the continued support of Congress for the European Deterrence Initiative as a means for enhancing deterrence and increasing military capabilities on NATO’s eastern flank.
+- **(6)** reiterates the continued support of Congress
+- **(5)** commends the Baltic states for their commitment to democracy and respect for human rights and for their leadership in furthering these values abroad; and
+- **(6)** reiterates the continued support of the Senate for the European Deterrence Initiative as a means for enhancing deterrence and increasing military capabilities on NATO’s eastern flank.
