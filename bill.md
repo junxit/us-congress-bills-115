@@ -2,7 +2,7 @@
 legis-num: H.R. 5074
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5074
@@ -18,7 +18,7 @@ This Act may be cited as the “DHS Cyber Incident Response Teams Act of 2018”
 - **(a)** *In general* Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148) is amended—
   - **(1)** in subsection (d)(1)(B)(iv), by inserting “, including cybersecurity specialists” after “entities”;
   - **(2)** by redesignating subsections (f) through (m) as subsections (g) through (n), respectively; and
-  - **(3)** by inserting after subsection (d) the following new subsection (f):
+  - **(3)** by inserting after subsection (e) the following new subsection (f):
     > - **(f)** *Cyber incident response teams*
     >   - **(1)** *In general* The Center shall maintain cyber hunt and incident response teams for the purpose of providing, as appropriate and upon request, assistance, including the following:
     >     - **(A)** Assistance to asset owners and operators in restoring services following a cyber incident.
