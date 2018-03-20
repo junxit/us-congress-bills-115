@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5074
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5074
@@ -26,9 +26,10 @@ DHS Cyber Incident Response Teams Act of 2018
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ DHS Cyber Incident Response Teams Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 463.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-607.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-607.
+- 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
