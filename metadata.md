@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 434
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 434
@@ -16,7 +16,7 @@ A resolution recognizing the contributions of AmeriCorps members and alumni to t
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (32)
+## Cosponsors (33)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -50,6 +50,7 @@ A resolution recognizing the contributions of AmeriCorps members and alumni to t
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
@@ -59,3 +60,7 @@ A resolution recognizing the contributions of AmeriCorps members and alumni to t
 
 - 2018-03-14 — Introduced in Senate
 - 2018-03-14 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S1736-1737)
+- 2018-03-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-03-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-03-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1847)
+- 2018-03-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S1847)
