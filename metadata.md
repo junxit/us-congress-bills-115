@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4851
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4851
@@ -73,3 +73,4 @@ Kennedy-King National Commemorative Site Act
 - 2018-03-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-612.
 - 2018-03-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-612.
 - 2018-03-19 — The title of the measure was amended. Agreed to without objection.
+- 2018-03-20 — Received in the Senate, read twice.
