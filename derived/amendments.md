@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 787
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 3(a) of House Resolution 5 is amended by striking "the first session of". | the bill names no machine-readable US Code section |
+| — | strike | Section 3(a) of House Resolution 5 is amended by striking “the first session of”. | the bill names no machine-readable US Code section |
