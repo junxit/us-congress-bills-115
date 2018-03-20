@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4176
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4176
@@ -22,9 +22,10 @@ Air Cargo Security Improvement Act of 2018
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Air Cargo Security Improvement Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 461.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-605.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-605.
+- 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
