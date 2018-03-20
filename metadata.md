@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5099
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5099
@@ -22,9 +22,10 @@ Enhancing DHS' Fusion Center Technical Assistance Program Act
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 - Rep. Rosen, Jacky [D-NV-3] (R000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Enhancing DHS' Fusion Center Technical Assistance Program Act
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 459.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-603.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-603.
+- 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
