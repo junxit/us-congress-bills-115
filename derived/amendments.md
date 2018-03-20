@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 12 U.S.C. § 5365
+
+> in clause (vi), as so redesignated, by striking “clause (ii)” and inserting “clause (iii)”; and
+
+| | |
+|---|---|
+| Removed | `clause (ii)` |
+| Inserted | `clause (iii)` |
 
 ### 12 U.S.C. § 5365
 
@@ -42,6 +51,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5365` | strike | in paragraph (1)(B)(ii), by striking “and nonbank financial companies”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 5365` | redesignate | by redesignating clauses (ii) through (v) as clauses (iii) through (vi), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5365` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5365` | redesignate | in clause (iii), as so redesignated, by inserting before the semicolon the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5365` | replace | in subparagraph (A), by striking “are regulated by a primary Federal financial regulatory agency” and inserting: “whose primary financial regulatory agency is a Federal banking agency or the Federal Housing Finance Agency”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5365` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
