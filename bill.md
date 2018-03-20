@@ -2,7 +2,7 @@
 legis-num: H.R. 5079
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5079
@@ -19,13 +19,13 @@ Section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h) is amended byâ
 
 - **(1)** redesigning subsections (j) and (k) as subsections (k) and (l), respectively; and
 - **(2)** inserting after subsection (i) the following new subsection:
-  > - **(j)** *Fusion center information sharing strategy* Not later than one year after the date of the enactment of this subsection, the Secretary shall develop and update at least once every five years a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer of the Department, the Officer for Civil Rights and Civil Liberties of the Department, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
+  > - **(j)** *Fusion center information sharing strategy* Not later than 1 year after the date of the enactment of this subsection, the Secretary shall develop and update at least once every 5 years a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer of the Department, the Officer for Civil Rights and Civil Liberties of the Department, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
   >   - **(1)** Specific goals and objectives for sharing information and engaging with fusion centersâ€”
   >     - **(A)** through the direct deployment of personnel from intelligence components of the Department;
   >     - **(B)** through the use of Department unclassified and classified information sharing systems, including the Homeland Security Information Sharing Network and the Homeland Secure Data Network, or any successor systems; and
   >     - **(C)** through any additional means.
   >   - **(2)** The performance metrics to be used to measure success in achieving the goals and objectives referred to in paragraph (1).
-  >   - **(3)** A five-year plan for continued engagement with fusion centers.
+  >   - **(3)** A 5-year plan for continued engagement with fusion centers.
 
 ## Â§ 3. Office of Intelligence and Analysis field personnel support to fusion centers
 
@@ -47,7 +47,7 @@ Section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h) is amended byâ
 
 ## Â§ 5. Report
 
-Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of the following:
+Not later than 18 months after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report on the implementation of the following:
 
 - **(1)** The fusion center information sharing strategy required under subsection (j) of section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h), as added by section 2 of this Act, based on performance metrics developed pursuant to such strategy.
 - **(2)** Field personnel deployed to fusion centers (as such term is defined in section 210A of the Homeland Security Act of 2002 (6 U.S.C. 124h)) in accordance with section 3, based on performance metrics developed pursuant to such section.

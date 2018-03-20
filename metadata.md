@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5079
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5079
@@ -26,9 +26,10 @@ DHS Field Engagement Accountability Act
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ DHS Field Engagement Accountability Act
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 462.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-606.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-606.
+- 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
