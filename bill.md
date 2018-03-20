@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5338
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5338
+
+> To amend the Food and Nutrition Act of 2008 to repeal authority to make bonus payments to States based on performance.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Needless Award Payments Act of 2018”.
+
+## § 2. Amendment
+
+Section 16 of the Food and Nutrition Act of 2008 (7 U.S.C. 2025) is amended by striking subsection (d).
+
+## § 3. Effective date
+
+The amendment made by this Act shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act.
