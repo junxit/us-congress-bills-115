@@ -1,0 +1,31 @@
+---
+legis-num: S. 2577
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2577
+
+> To reauthorize programs authorized under the Debbie Smith Act of 2004.
+
+## § 1. Short title
+
+This Act may be cited as the “Debbie Smith Reauthorization Act of 2018”.
+
+## § 2. Reauthorization
+
+Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (34 U.S.C. 40701) is amended—
+
+- **(1)** in subsection (c)(3)—
+  - **(A)** in subparagraph (B), by striking “2014 through 2019” and inserting “2019 through 2024”; and
+  - **(B)** in subparagraph (C), by striking “2014 through 2019” and inserting “2019 through 2024”; and
+- **(2)** in subsection (j), by striking “2015 through 2019” and inserting “2019 through 2024”.
+
+## § 3. Training and education
+
+Section 303(b) of the DNA Sexual Assault Justice Act of 2004 (34 U.S.C. 40722(b)) is amended by striking “2015 through 2019” and inserting “2019 through 2024”.
+
+## § 4. Sexual assault forensic exam grants
+
+Section 304(d) of the DNA Sexual Assault Justice Act of 2004 (34 U.S.C. 40723(d)) is amended by striking “2015 through 2019” and inserting “2019 through 2024”.
