@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5247
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5247
@@ -16,7 +16,7 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
-## Cosponsors (40)
+## Cosponsors (44)
 
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
@@ -58,6 +58,10 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
 
 ## Committees (1)
 
@@ -75,3 +79,19 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - 2018-03-13 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-03-13 — On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 259 - 140 (Roll no. 102).
 - 2018-03-13 — Referred to the House Committee on Energy and Commerce.
+- 2018-03-16 — Referred to the Subcommittee on Health.
+- 2018-03-19 — Rules Committee Resolution H. Res. 787 Reported to House. The resolution provides for one hour of debate on each bill. The resolution makes in order only the further amendment to H.R. 4566 printed in the report. No further amendments on either bill are made in order. Section 3 of the resolution makes it in order to consider any resolution reported from the Rules Committee on the day it is reported through the legislative day of March 23, 2018. Section 4 grants suspension authority on the legislative days of March 22, 2018 and March 23, 2018. Section 5 of the resolution amends section 3(a) of H. Res. 5.
+- 2018-03-20 — Rule H. Res. 787 passed House.
+- 2018-03-21 — Considered as unfinished business. (consideration: CR H1748-1750)
+- 2018-03-21 — Considered under the provisions of rule H. Res. 787. (consideration: CR H1738-1748)
+- 2018-03-21 — DEBATE - The House proceeded with 10 minutes of debate on the Pallone motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to require the Food and Drug Administration (FDA) to issue guidance describing how the agency will use expanded access outcomes when considering and evaluating investigational products for full approval. Additionally, the motion seeks to provide liability protection to manufacturers, physicians, and hospitals offering a product under expanded access, as long as the entity is in compliance with current federal law, and it also increases transparency in the FDAs expanded access program.
+- 2018-03-21 — DEBATE - The House proceeded with one hour of debate on H.R. 5247.
+- 2018-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-21 — Mr. Pallone moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H1746-1747)
+- 2018-03-21 — On motion to recommit with instructions Failed by the Yeas and Nays: 182 - 233 (Roll no. 120).
+- 2018-03-21 — On passage Passed by recorded vote: 267 - 149 (Roll no. 121). (text: CR H1738-1739)
+- 2018-03-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone motion to recommit with instructions, the Chair put the question on the motion and by voice vote announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays, and the Chair postponed further proceedings on the motion to recommit until later in the legislative day.
+- 2018-03-21 — Passed/agreed to in House: On passage Passed by recorded vote: 267 - 149 (Roll no. 121).(text: CR H1738-1739)
+- 2018-03-21 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-03-21 — The previous question was ordered pursuant to the rule.
+- 2018-03-21 — The resolution provides for one hour of debate on each bill. The resolution makes in order only the further amendment to H.R. 4566 printed in the report. No further amendments on either bill are made in order. Section 3 of the resolution makes it in order to consider any resolution reported from the Rules Committee on the day it is reported through the legislative day of March 23, 2018. Section 4 grants suspension authority on the legislative days of March 22, 2018 and March 23, 2018. Section 5 of the resolution amends section 3(a) of H. Res. 5.
