@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 438
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 438
@@ -28,3 +28,7 @@ A resolution commemorating the 150th anniversary of the University of California
 
 - 2018-03-19 — Introduced in Senate
 - 2018-03-19 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1794; text of measure as introduced: CR S1793-1794)
+- 2018-03-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1880)
+- 2018-03-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1880)
+- 2018-03-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-03-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
