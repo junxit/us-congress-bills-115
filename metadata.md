@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4566
@@ -16,9 +16,10 @@ Alleviating Stress Test Burdens to Help Investors Act
 
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Alleviating Stress Test Burdens to Help Investors Act
 - 2018-03-20 — The previous question was ordered pursuant to the rule.
 - 2018-03-20 — The resolution provides for one hour of debate on each bill. The resolution makes in order only the further amendment to H.R. 4566 printed in the report. No further amendments on either bill are made in order. Section 3 of the resolution makes it in order to consider any resolution reported from the Rules Committee on the day it is reported through the legislative day of March 23, 2018. Section 4 grants suspension authority on the legislative days of March 22, 2018 and March 23, 2018. Section 5 of the resolution amends section 3(a) of H.Res. 5 by striking "the first session of".
 - 2018-03-20 — Waters, Maxine amendment (A002) modified by unanimous consent. (text as modified: CR H1717)
+- 2018-03-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
