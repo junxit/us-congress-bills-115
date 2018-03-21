@@ -1,7 +1,7 @@
 ---
 measure: S. 899
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 899
@@ -22,9 +22,11 @@ Veterans Providing Healthcare Transition Improvement Act
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Veterans' Affairs Committee
+- House — Oversight and Accountability Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -35,3 +37,8 @@ Veterans Providing Healthcare Transition Improvement Act
 - 2018-03-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1848)
 - 2018-03-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1848)
 - 2018-03-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1848)
+- 2018-03-21 — Message on Senate action sent to the House.
+- 2018-03-21 — Received in the House.
+- 2018-03-21 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-21 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-21 — Referred to the Subcommittee on Economic Opportunity.
