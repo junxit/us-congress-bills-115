@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 376
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 376
@@ -16,7 +16,7 @@ A resolution urging the Governments of Burma and Bangladesh to ensure the safe, 
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (14)
+## Cosponsors (18)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Kaine, Tim [D-VA] (K000384)
@@ -32,6 +32,10 @@ A resolution urging the Governments of Burma and Bangladesh to ensure the safe, 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -41,3 +45,7 @@ A resolution urging the Governments of Burma and Bangladesh to ensure the safe, 
 
 - 2018-01-23 — Introduced in Senate
 - 2018-01-23 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S468-469)
+- 2018-03-20 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-03-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2018-03-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2018-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.

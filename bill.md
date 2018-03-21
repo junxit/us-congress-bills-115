@@ -33,6 +33,29 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas UNHCR, as of December 17, 2017, reports that conditions in Burma’s Rakhine State are not yet conducive to enable safe and sustainable return, as refugees continue to flee Rakhine State into neighboring Bangladesh;
 - Whereas UNHCR reports that those who arrive have suffered immense violence and trauma in Burma, with some having witnessed the deaths of family members and friends and most having little or nothing to return to, with their homes and villages destroyed; and
 - Whereas there is concern that deep divisions between communities remain unaddressed and humanitarian access is inadequate: Now, therefore, be it
+- Whereas, on August 25, 2017, attacks on security posts in Burma by the military group Arakan Rohingya Salvation Army resulted in a brutal, systematic, and disproportionate reprisal by the Burmese military and security forces on Rohingya villages in Rakhine State;
+- Whereas more than 680,000 Rohingya refugees have fled to Bangladesh since the Burmese military commenced its scorched-earth campaign, with the burning of villages and local monuments, and reports of widespread gang rape, starvation, killing, and forcible deportation;
+- Whereas the Government of Burma has consistently denied access to the United Nations Fact-Finding Mission on Myanmar established to investigate human rights violations around the country;
+- Whereas Bangladesh Prime Minister Sheikh Hasina proposed that “safe zones” be created inside Burma to protect all civilians irrespective of religion and ethnicity under United Nations (UN) supervision;
+- Whereas the United Nations High Commissioner for Refugees (UNHCR)’s mandate is to provide, in collaboration with other actors, international protection to refugees and to assist them in finding durable solutions through voluntary repatriation, local integration, or resettlement;
+- Whereas the UN General Assembly has repeatedly affirmed UNHCR’s function of facilitating the voluntary repatriation of refugees and, in recognition of the importance of sustainable return, has widened its mandate to include providing assistance for their rehabilitation and dealing with the consequences of their return;
+- Whereas the fundamental operational principles of voluntary repatriation are safety, to include legal and physical safety, and dignity, to include treatment with respect and full acceptance by their national authorities, including the full restoration of refugees’ rights;
+- Whereas, on November 23, 2017, the Government of Burma and the Government of Bangladesh signed an agreement, known as the “Arrangement”, on the return of displaced persons from Rakhine State, which is modeled after the 1992 repatriation agreement between Burma and Bangladesh;
+- Whereas the Arrangement includes references to restoring normalcy and human rights in Rakhine State, for refugee returns to comply with international standards of safety, dignity, and voluntariness, and to commencing a process to address root causes in line with the Rakhine Advisory Commission recommendations;
+- Whereas approximately 236,000 Rohingya refugees returned to Burma under the terms of the 1992 agreement, only to continue to be denied citizenship, face prejudice, violence, and persecution, and in many instances be forced to live in internally displaced persons (IDP) camps with their freedom of movement restricted;
+- Whereas Burma’s 1982 citizenship law stripped Rohingya of their Burmese citizenship, rendering them stateless;
+- Whereas the Government of Burma continues to systematically discriminate against the Rohingya people, including by continuing to restrict registration of Rohingya births and to deny them freedom of movement, access to healthcare, land, education, marriage, voting rights, and political participation;
+- Whereas the Government of Burma has repeatedly abused land use laws to unjustly seize land from Rohingya refugees;
+- Whereas UNHCR is working closely with the Government of Bangladesh and partners to provide protection and assistance to the Rohingya refugees and to support the host populations affected by the influx;
+- Whereas the Government of Burma has not reached an agreement with UNHCR on its role in the safe, dignified, and voluntary return of Rakhine State refugees;
+- Whereas Myanmar Minister of Social Welfare, Relief and Resettlement Dr. Win Myat Aye, on December 28, 2017, announced that the repatriation process will begin on January 22, 2018, but this process has not yet begun;
+- Whereas there is concern that up to 100,000 Rohingya could be at risk of forced return into two “model villages” or into 1,200 tents provided by the Government of Burma, without assurances of their safety or details regarding long term solutions to address root causes of Rohingya disenfranchisement;
+- Whereas “model villages” and similar tactics in Burma dating back to colonial rule have been used to strategically shift population groups and deepen religious and cultural divides;
+- Whereas on December 12, 2017, Wa Lone and Kyaw Soe Oo, two journalists reporting and documenting atrocities against the Rohingya, were arrested and on January 10, 2018, formally prosecuted with violating the “Official Secrets Act,” further risking Burma’s democratic transition;
+- Whereas UNHCR, as of December 17, 2017, reports that conditions in Burma’s Rakhine State are not yet conducive to enable safe and sustainable return, as refugees continue to flee Rakhine State into neighboring Bangladesh;
+- Whereas UNHCR reports that those who arrive have suffered immense violence and trauma in Burma, with some having witnessed the deaths of family members and friends and most having little or nothing to return to, with their homes and villages destroyed; and
+- Whereas there is concern that deep divisions between communities remain unaddressed and humanitarian access is inadequate: Now, therefore, be it
+- Now, therefore, be it
 
 That the Senate—
 
