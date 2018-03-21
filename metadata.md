@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4300
@@ -136,3 +136,12 @@ Admiral Lloyd R. "Joe" Vasey Pacific War Commemorative Display Establishment Act
 - 2018-03-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-216.
 - 2018-03-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-216.
 - 2018-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.
+- 2018-04-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2354)
+- 2018-04-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2354)
+- 2018-04-24 — Message on Senate action sent to the House.
+- 2018-04-25 — Presented to President.
+- 2018-04-25 — Presented to President.
+- 2018-05-07 — Became Public Law No: 115-170.
+- 2018-05-07 — Became Public Law No: 115-170.
+- 2018-05-07 — Signed by President.
+- 2018-05-07 — Signed by President.
