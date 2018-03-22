@@ -1,7 +1,7 @@
 ---
 measure: S. 466
 congress: 115
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
