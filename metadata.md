@@ -1,7 +1,7 @@
 ---
 measure: S. 269
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 269
@@ -32,3 +32,5 @@ A bill to provide for the conveyance of certain property to the Tanana Tribal Co
 - 2017-03-27 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-11.
 - 2017-03-27 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-11.
 - 2017-03-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
+- 2018-03-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1968-1969; text: CR S1969)
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1968-1969; text: CR S1969)

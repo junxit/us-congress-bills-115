@@ -1,7 +1,7 @@
 ---
 legis-num: S. 269
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -39,7 +39,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(i)** require any consideration from the Corporation for the property;
       - **(ii)** impose any obligation, term, or condition on the Corporation; or
       - **(iii)** allow for any reversionary interest of the United States in the property.
-- **(b)** *Property described* The property, including all land, improvements, and appurtenances, described in this subsection is the property included in Dental Annex Subdivision, creating tract 1, a subdivision of Lot 2 of U.S. Survey No. 2013, located in Section 36, Township 13 South, Range 56 West, Seward Meridian, Bristol Bay Recording District, Dillingham, Alaska, according to Plat No. 2015-8, recorded on May 28, 2015, in the Bristol Bay Recording District, Dillingham, Alaska, containing 1.474 acres more or less.
+- **(b)** *Property described* The property, including all land, improvements, and appurtenances, described in this subsection is the property included in Dental Annex Subdivision, creating tract 1, a subdivision of Lot 2 of U.S. Survey No. 2013, located in Section 36, Township 13 South, Range 56 West, Seward Meridian, Bristol Bay Recording District, Dillingham, Alaska, according to Plat No. 2015–8, recorded on May 28, 2015, in the Bristol Bay Recording District, Dillingham, Alaska, containing 1.474 acres more or less.
 - **(c)** *Environmental liability*
   - **(1)** *Liability*
     - **(A)** *In general* Notwithstanding any other provision of law, the Corporation shall not be liable for any soil, surface water, groundwater, or other contamination resulting from the disposal, release, or presence of any environmental contamination on any portion of the property described in subsection (b) on or before the date on which the property is conveyed to the Corporation.
