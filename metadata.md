@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1660
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1660
@@ -59,3 +59,7 @@ Global Health Innovation Act of 2017
 - 2018-01-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 34). (text: CR 1/17/2018 H439)
 - 2018-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 3 (Roll no. 34).(text: CR 1/17/2018 H439)
 - 2018-01-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-03-20 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
