@@ -13,21 +13,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Supporting Grandparents Raising Grandchildren Act”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** More than 80 percent of Americans over the age of 65 are grandparents and more than 2,500,000 grandparents in the United States are the primary caretaker of their grandchildren. Experts report that such numbers are increasing as the opioid epidemic expands.
-- **(2)** Grandparents' lives are enhanced by caring for their grandchildren; the overwhelming majority of grandparents report experiencing significant benefits in serving as their grandchildren’s primary caregivers.
-- **(3)** Providing full-time care to their grandchildren may increase grandparents’ likelihood of experiencing physical illness and mental health problems and decrease their ability to save for retirement.
-- **(4)** Grandparents raising grandchildren may face difficulty enrolling their grandchildren in school, medical care, and Federal assistance services.
-- **(5)** The Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) includes services that support grandfamilies, including the National Family Caregiver Support Program.
-- **(6)** Grandparents would benefit from better coordination and information about resources available to support them in their caregiving responsibilities.
-
-## § 3. Federal Task Force to Support Grandparents Raising Grandchildren
+## § 2. Federal Task Force to Support Grandparents Raising Grandchildren
 
 - **(a)** *Establishment* There is established a Federal Task Force to Support Grandparents Raising Grandchildren (referred to in this section as the “Task Force”).
-- **(b)** *Membership*
+- **(b)** *Older relative caregiver* In this section, the term older relative caregiver has the meaning given the term under section 372(a)(3) of the National Family Caregiver Support (42 U.S.C. 3030s(a)(3)).
+- **(c)** *Membership*
   - **(1)** *In general* The Task Force shall be composed of the following members, or their designee:
     - **(A)** The Secretary of Health and Human Services.
     - **(B)** The Attorney General.
@@ -35,17 +25,21 @@ Congress finds the following:
     - **(D)** The Director of the Centers for Disease Control and Prevention.
     - **(E)** The Assistant Secretary for Mental Health and Substance Use.
     - **(F)** The Assistant Secretary for the Administration for Children and Families.
-    - **(G)** The head of each Federal department, agency, or other governmental entity identified by the Secretary of Health and Human Services as having responsibilities, or administering programs, relating to current issues affecting grandparents or other relatives raising children in their care.
+    - **(G)** The Director of the Indian Health Service.
+    - **(H)** The Administrator of the Centers for Medicare & Medicaid Services.
+    - **(I)** The head of each Federal department, agency, or other governmental entity identified by the Secretary of Health and Human Services as having responsibilities, or administering programs, relating to the current health, educational, nutritional, and other needs and current issues affecting older relative caregivers, including grandparents, raising children in their care.
+    - **(J)** A grandparent raising a grandchild or grandchildren as well as another older relative caregiver of children.
   - **(2)** *Lead agency* The Department of Health and Human Services shall be the lead agency for the Task Force.
-  - **(3)** *Requirement* Each member of the Task Force shall be an officer or employee of the Federal Government.
-- **(c)** *Duties*
+- **(d)** *Duties*
   - **(1)** *In general*
-    - **(A)** *Information* The Task Force shall identify, promote, coordinate, and disseminate information publicly about Federal information, resources, and best practices available, on the date of the determination, to help grandparents or other relatives raising children in their care meet the health, educational, nutritional, and other needs of the children in their care as well as maintain their own physical and mental health and emotional well-being, including those raising children in their care as a result of the opioid epidemic.
-    - **(B)** *Native Americans* In carrying out the duties described in subparagraph (A), the Task Force shall ensure that the needs of members of Native American tribes are addressed.
+    - **(A)** *Information* The Task Force shall identify, coordinate, and disseminate information publicly about Federal information, resources, and best practices available, on the date of the determination, to help older relative caregivers, including grandparents, raising children in their care, including those raising children in their care as a result of the opioid crisis, meet the health, educational, nutritional, and other needs of the children in their care as well as maintain their own physical and mental health and emotional well-being.
+    - **(B)** *Native Americans* In carrying out the duties described in subparagraph (A), the Task Force shall ensure that the needs of Native Americans (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)) are considered.
   - **(2)** *Report*
-    - **(A)** *In general* Not later than 180 days after the date of enactment of this Act, the Task Force shall submit a report to the Special Committee on Aging and the Committee on Health, Education, Labor, and Pensions of the Senate that includes—
-      - **(i)** best practices, resources, and other useful information for grandparents and other relatives raising children in their care; and
-      - **(ii)** an identification of the gaps in needs of grandparents and other relatives raising children in their care.
-    - **(B)** *Follow-up report* Not later than the date that is 2 years after the date the report under subparagraph (A) is submitted, the Task Force shall submit a follow-up report to the Special Committee on Aging and the Committee on Health, Education, Labor, and Pensions of the Senate that includes the information described in subparagraph (A).
-  - **(3)** *Process for public input* The Task Force shall establish a process for public input to inform the development of, and updates to, the best practices, resources, and other useful information and the gaps in needs described in paragraph (2), including a process for the public to submit recommendations to the Task Force and an opportunity for public comment.
-- **(d)** *Sunset* The Task Force shall terminate on the date that is 5 years after the date of enactment of this Act.
+    - **(A)** *In general* Not later than 360 days after the date of enactment of this Act, the Task Force shall submit a report to the Special Committee on Aging, the Committee on Health, Education, Labor, and Pensions, and the Committee on Finance of the Senate and the Committee on Education and the Workforce, the Committee on Energy and Commerce, and the Committee on Ways and Means of the House of Representatives that includes—
+      - **(i)** best practices, resources, and other useful information for older relative caregivers, including grandparents, raising children in their care; and
+      - **(ii)** an identification of the gaps in needs of older relative caregivers, including grandparents, raising children in their care.
+    - **(B)** *Final report* Not later than 4 years after the date of enactment of this Act, the Task Force shall submit a final report to the Special Committee on Aging, the Committee on Health, Education, Labor, and Pensions, and the Committee on Finance of the Senate and the Committee on Education and the Workforce, the Committee on Energy and Commerce, and the Committee on Ways and Means of the House of Representatives that includes the final findings of the Task Force, recommendations for future actions to address issues faced by older relative caregivers, including grandparents, raising children in their care, and any other useful information.
+  - **(3)** *Process for public input* The Task Force shall establish a process for public input to inform the identification of, and updates to, the best practices, resources, and other useful information and the gaps in needs described in paragraph (2), including a process for the public to submit recommendations to the Task Force and an opportunity for public comment.
+- **(e)** *Sunset* The Task Force shall terminate on the date that is 5 years after the date of enactment of this Act.
+- **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Task Force.
+- **(g)** *Funding* No additional funds are authorized to be appropriated to carry out this section. The Task Force shall be carried out with funds otherwise appropriated.
