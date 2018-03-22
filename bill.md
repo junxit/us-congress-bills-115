@@ -1,12 +1,12 @@
 ---
-legis-num: H. Con. Res. 116
+legis-num: H. CON. RES. 116
 congress: 115th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
-# H. Con. Res. 116
+# H. CON. RES. 116
 
-That the resolution from the House of Representatives (H. Con. Res. 116) entitled “Concurrent Resolution providing for a correction in the enrollment of H.R. 1625.”, do pass with the following,
+> Providing for a correction in the enrollment of H.R. 1625.
 
-*At the end add the following:*
+That in the enrollment of the bill H.R. 1625, the Clerk of the House of Representatives shall make the following correction: Amend the long title so as to read: “Making appropriations for the fiscal year ending September 30, 2018, and for other purposes.”.

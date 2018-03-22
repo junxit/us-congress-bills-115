@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 116
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed in House
 ---
 
 # H.Con.Res. 116
