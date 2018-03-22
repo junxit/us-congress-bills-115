@@ -1,7 +1,7 @@
 ---
 measure: S. 1223
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1223
@@ -33,3 +33,5 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2017-12-05 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment. With written report No. 115-190.
 - 2017-12-05 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment. With written report No. 115-190.
 - 2017-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
+- 2018-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1972)
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1972)
