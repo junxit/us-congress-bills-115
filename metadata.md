@@ -1,7 +1,7 @@
 ---
 measure: H.R. 70
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 70
@@ -43,3 +43,7 @@ Federal Advisory Committee Act Amendments of 2017
 - 2017-01-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H67-69)
 - 2017-01-04 — Referred to the Subcommittee on Trade.
 - 2017-01-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2017-10-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-03-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-217.
+- 2018-03-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-217.
+- 2018-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
