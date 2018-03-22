@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4467
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4467
@@ -22,9 +22,14 @@ Strengthening Aviation Security Act of 2018
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (1)
+
+- 2018-03-22 — [House 115-2-128](votes/house-115-2-0128.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–0)
 
 ## Actions
 
@@ -42,3 +47,8 @@ Strengthening Aviation Security Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 464.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-608.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-608.
+- 2018-03-22 — Considered as unfinished business. (consideration: CR H2027-2028)
+- 2018-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 128).
+- 2018-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 128).
+- 2018-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
