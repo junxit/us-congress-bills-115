@@ -2,18 +2,18 @@
 legis-num: H. RES. 796
 congress: 115th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 796
 
 > Providing for consideration of the Senate amendment to the bill (H.R. 1625) to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes; and providing for proceedings during the period from March 23, 2018, through April 9, 2018.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 1625) to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 115–66. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 1625) to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 115-66. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
 
 ## § 2.
 
-On any legislative day during the period from March 23, 2018, through April 9, 2018—
+On any legislative day during the period from March 23, 2018, through April 9, 2018 —
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
