@@ -15,7 +15,7 @@ This Act may be cited as the “Vehicular Terrorism Prevention Act of 2018”.
 
 ## § 2. Strategy on vehicular terrorism
 
-- **(a)** *In general* Not later than six months after the date of the enactment of this Act, the Secretary of Homeland Security shall—
+- **(a)** *In general* Not later than 6 months after the date of the enactment of this Act, the Secretary of Homeland Security shall—
   - **(1)** assess the activities the Department of Homeland Security is undertaking to support emergency response providers and the private sector to prevent, mitigate, and respond to the threat of vehicular terrorism; and
   - **(2)** based on such assessment, develop and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a strategy to improve the Department’s efforts to support the efforts of emergency response providers and the private sector to prevent, mitigate, and respond to such threat.
 - **(b)** *Contents* The strategy required under subsection (a) shall include the following:
