@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4227
@@ -31,9 +31,10 @@ Vehicular Terrorism Prevention Act of 2018
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,8 @@ Vehicular Terrorism Prevention Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 465.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-609.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-609.
+- 2018-03-22 — Considered as unfinished business. (consideration: CR H1767-1768)
+- 2018-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 125).
+- 2018-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 125).
+- 2018-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
