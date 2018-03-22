@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1660
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1660
@@ -63,3 +63,12 @@ Global Health Innovation Act of 2017
 - 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
+- 2018-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8002)
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8002)
+- 2018-12-21 — Message on Senate action sent to the House.
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-411.
+- 2019-01-03 — Became Public Law No: 115-411.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
