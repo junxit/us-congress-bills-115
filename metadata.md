@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4851
 congress: 115
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4851
@@ -16,7 +16,7 @@ Kennedy-King National Commemorative Site Act
 
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Cosponsors (27)
+## Cosponsors (28)
 
 - Rep. Banks, Jim [R-IN-3] (B001299)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
@@ -45,6 +45,7 @@ Kennedy-King National Commemorative Site Act
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
+- Sen. Donnelly, Joe [D-IN] (D000607)
 
 ## Committees (1)
 
@@ -74,3 +75,16 @@ Kennedy-King National Commemorative Site Act
 - 2018-03-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-612.
 - 2018-03-19 — The title of the measure was amended. Agreed to without objection.
 - 2018-03-20 — Received in the Senate, read twice.
+- 2018-03-22 — Amendment SA 2215 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Amendment SA 2215 proposed by Senator Cornyn for Senator Young. (consideration: CR S1892; text: CR S1892) To strike a provision relating to a special resource study.
+- 2018-03-22 — Measure laid before Senate by unanimous consent. (consideration: CR S1892)
+- 2018-03-22 — Message on Senate action sent to the House.
+- 2018-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-22 — Mr. Curtis asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H2037)
+- 2018-03-22 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H2037)
+- 2018-03-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-03-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H2037)
+- 2018-03-22 — Senate amendment agreed to: Amendment SA 2215 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Senate amendment proposed (on the floor): Amendment SA 2215 proposed by Senator Cornyn for Senator Young.(consideration: CR S1892; text: CR S1892)
+- 2018-03-22 — Senate amendment submitted
