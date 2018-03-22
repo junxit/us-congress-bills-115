@@ -1,7 +1,7 @@
 ---
 measure: S. 943
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 943
@@ -16,10 +16,12 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
 
 ## Committees (1)
 
@@ -34,3 +36,12 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 - 2018-01-24 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-201.
 - 2018-01-24 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-201.
 - 2018-01-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
+- 2018-03-22 — Amendment SA 2225 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Amendment SA 2225 proposed by Senator McConnell for Senator Lankford. (consideration: CR S1973; text: CR S1973) To include Alaska Native organizations in consultations.
+- 2018-03-22 — Measure laid before Senate by unanimous consent. (consideration: CR S1972-1975)
+- 2018-03-22 — Passed Senate with an amendment by Voice Vote. (text: CR S1974-1975)
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S1974-1975)
+- 2018-03-22 — Senate amendment agreed to: Amendment SA 2225 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Senate amendment proposed (on the floor): Amendment SA 2225 proposed by Senator McConnell for Senator Lankford.(consideration: CR S1973; text: CR S1973)
+- 2018-03-22 — Senate amendment submitted
+- 2018-03-22 — The committee substitute as amended agreed to by Unanimous Consent.
