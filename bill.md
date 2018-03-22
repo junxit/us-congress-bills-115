@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1116
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Indian Community Economic Enhancement Act of 2017”.
+This Act may be cited as the “Indian Community Economic Enhancement Act of 2018”.
 
 ## § 2. Findings
 
@@ -94,16 +94,19 @@ Congress finds that—
     >       - **(iii)** other capital development programs;
     >     - **(B)** examine and develop alternatives that would qualify as collateral for financing in Indian communities; and
     >     - **(C)** provide entrepreneur and other training relating to economic development through tribally controlled colleges and universities and other Indian organizations with experience in providing such training;
-    >   - **(2)** to consult with Indian tribes and with the Securities and Exchange Commission to determine, and collaborate to establish, statutory or regulatory to study, and collaborate to establish, regulatory changes necessary to qualify an Indian tribe as an accredited investor for the purposes of sections 230.500 through 230.508 of title 17, Code of Federal Regulations (or successor regulations), consistent with the goals of promoting capital formation and ensuring qualifying Indian tribes have the ability to withstand investment loss, on a basis comparable to other legal entities that qualify as accredited investors who are not natural persons;
+    >   - **(2)** to consult with Indian tribes and with the Securities and Exchange Commission to study, and collaborate to establish, regulatory changes necessary to qualify an Indian tribe as an accredited investor for the purposes of sections 230.500 through 230.508 of title 17, Code of Federal Regulations (or successor regulations), consistent with the goals of promoting capital formation and ensuring qualifying Indian tribes have the ability to withstand investment loss, on a basis comparable to other legal entities that qualify as accredited investors who are not natural persons;
     >   - **(3)** to identify regulatory, legal, or other barriers to increasing investment, business, and economic development, including qualifying or approving collateral structures, measurements of economic strength, and contributions of Indian economies in Indian communities through the Authority established under section 4 of the Indian Tribal Regulatory Reform and Business Development Act of 2000 (25 U.S.C. 4301 note);
     >   - **(4)** to ensure consultation with Indian tribes regarding increasing investment in Indian communities and the development of the report required in paragraph (5); and
-    >   - **(5)** not less than once every 3 years, to provide a report to Congress regarding improvements to Indian communities resulting from such initiatives and recommendations for promoting sustained growth of the tribal economies.
+    >   - **(5)** not less than once every 2 years, to provide a report to Congress regarding—
+    >     - **(A)** improvements to Indian communities resulting from such initiatives and recommendations for promoting sustained growth of the tribal economies;
+    >     - **(B)** results of the study and collaboration regarding the necessary changes referenced in paragraph (2) and the impact of allowing Indian tribes to qualify as an accredited investor; and
+    >     - **(C)** the identified regulatory, legal, and other barriers referenced in paragraph (3).
     > - **(b)** *Waiver* For assistance provided pursuant to section 108 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4707) to benefit Native Community Development Financial Institutions, as defined by the Secretary of the Treasury, section 108(e) of such Act shall not apply.
     > - **(c)** *Indian economic development feasibility study*
     >   - **(1)** *In general* The Government Accountability Office shall conduct a study and, not later than 18 months after the date of enactment of this subsection, submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report on the findings of the study and recommendations.
     >   - **(2)** *Contents* The study shall include an assessment of each of the following:
     >     - **(A)** *In general* The study shall assess current Federal capitalization and related programs and services that are available to assist Indian communities with business and economic development, including manufacturing, physical infrastructure (such as telecommunications and broadband), community development, and facilities construction for such purposes. For each of the Federal programs and services identified, the study shall assess the current use and demand by Indian tribes, individuals, businesses, and communities of the programs, the capital needs of Indian tribes, businesses, and communities related to economic development, and the extent that similar programs have been used to assist non-Indian communities compared to the extent used for Indian communities.
-    >     - **(B)** *Financing assistance* The study shall assess and quantify the extent of assistance provided to non-Indian borrowers and to Indian (both tribal and individual) borrowers through the loan programs, the loan guarantee programs, or bond guarantee programs of the—
+    >     - **(B)** *Financing assistance* The study shall assess and quantify the extent of assistance provided to non-Indian borrowers and to Indian (both tribal and individual) borrowers (including information about such assistance as a percentage of need for Indian borrowers and for non-Indian borrowers, assistance to Indian borrowers and to non-Indian borrowers as a percentage of total applicants, and such assistance to Indian borrowers as individuals as compared to such assistance to Indian tribes) through the loan programs, the loan guarantee programs, or bond guarantee programs of the—
     >       - **(i)** Department of the Interior;
     >       - **(ii)** Department of Agriculture;
     >       - **(iii)** Department of Housing and Urban Development;
@@ -159,8 +162,11 @@ Section 23 of the Act of June 25, 1910 (commonly known as the “Buy Indian Act�
 >     - **(F)** a summary of all determinations made to provide awards to Indian economic enterprises, including a description of the dollar value of the awards;
 >     - **(G)** a description or summary of the total number and value of all purchases of, and contracts awarded for, supplies, services, and construction (including the percentage increase or decrease, as compared to the preceding fiscal year) from—
 >       - **(i)** Indian economic enterprises; and
->       - **(ii)** non-Indian economic enterprises; and
->     - **(H)** any administrative, procedural, legal, or other barriers to achieving the purposes of this section, together with recommendations for legislative or administrative actions to address those barriers.
+>       - **(ii)** non-Indian economic enterprises;
+>     - **(H)** any administrative, procedural, legal, or other barriers to achieving the purposes of this section, together with recommendations for legislative or administrative actions to address those barriers; and
+>     - **(I)** for each agency region—
+>       - **(i)** the total amount spent on purchases made from, and contracts awarded to, Indian economic enterprises; and
+>       - **(ii)** a comparison of the amount described in clause (i) to the total amount that the agency region would likely have spent on the same purchases made from a non-Indian economic enterprise or contracts awarded to a non-Indian economic enterprise.
 > - **(e)** *Goals* Each agency shall establish an annual minimum percentage goal for procurement in compliance with this section.
 
 ## § 5. Native American Programs Act of 1974
@@ -184,4 +190,6 @@ Section 23 of the Act of June 25, 1910 (commonly known as the “Buy Indian Act�
 
 - **(c)** *Authorization of appropriations* Section 816 of the Native American Programs Act of 1974 (42 U.S.C. 2992d) is amended—
   - **(1)** by striking “803(d)” each place it appears and inserting “803(e)”; and
-  - **(2)** in subsection (a), by striking “1999, 2000, 2001, and 2002” and inserting “2018 through 2022”.
+  - **(2)** in subsection (a)—
+    - **(A)** by striking “such sums as may be necessary” and inserting “$34,000,000”; and
+    - **(B)** by striking “1999, 2000, 2001, and 2002” and inserting “2019 through 2023”.
