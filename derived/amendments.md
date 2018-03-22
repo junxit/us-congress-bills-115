@@ -1,7 +1,7 @@
 ---
 measure: S. 1116
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 3 executed, 14 stated and not applied.
+18 amendatory instructions. 4 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,21 @@ to guess them.
 
 ### 42 U.S.C. § 2992d
 
-> in subsection (a), by striking “1999, 2000, 2001, and 2002” and inserting “2018 through 2022”.
+> by striking “such sums as may be necessary” and inserting “$34,000,000”; and
+
+| | |
+|---|---|
+| Removed | `such sums as may be necessary` |
+| Inserted | `$34,000,000` |
+
+### 42 U.S.C. § 2992d
+
+> by striking “1999, 2000, 2001, and 2002” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `1999, 2000, 2001, and 2002` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
 
 ## Stated, not applied
 
