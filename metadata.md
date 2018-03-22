@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 292
@@ -16,7 +16,7 @@ Childhood Cancer STAR Act
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (48)
+## Cosponsors (55)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
@@ -66,6 +66,13 @@ Childhood Cancer STAR Act
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -79,3 +86,5 @@ Childhood Cancer STAR Act
 - 2018-03-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-03-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
+- 2018-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1975-1977; text of measure as reported in Senate: CR S1975-1977)
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1975-1977; text of measure as reported in Senate: CR S1975-1977)
