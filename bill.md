@@ -29,7 +29,7 @@ In this Act:
 
 ## § 3. National strategy for transportation security review
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall evaluate the degree to which the 2016 Biennial National Strategy for Transportation Security, as required pursuant to section 114(s) of title 49, United States Code, that was issued on August 11, 2016, by the Administrator of the Transportation Security Administration, is reflected in Federal transportation security programs, budgets, research, staffing levels, and related efforts and, in carrying out such evaluation, shall consider the degree to which—
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall evaluate the degree to which the 2016 Biennial National Strategy for Transportation Security, as required pursuant to section 114(s) of title 49, United States Code, that was issued on August 11, 2016, by the Administrator of the Transportation Security Administration, is reflected in Federal transportation security programs, budgets, research, staffing levels, and related efforts and, in carrying out such evaluation, shall consider the degree to which—
 
 - **(1)** such strategy is sufficiently forward-looking to guide future Federal efforts relating to transportation security;
 - **(2)** Federal transportation security programs, budgets, research, staffing levels, and related efforts for fiscal year 2018 and beyond are guided by such strategy; and
