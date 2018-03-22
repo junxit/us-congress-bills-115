@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 607
@@ -16,10 +16,11 @@ Native American Business Incubators Program Act
 
 - Sen. Udall, Tom [D-NM] (U000039)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -33,3 +34,11 @@ Native American Business Incubators Program Act
 - 2017-09-26 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-163.
 - 2017-09-26 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-163.
 - 2017-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.
+- 2018-03-22 — Amendment SA 2223 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Amendment SA 2223 proposed by Senator McConnell for Senator Hoeven. (consideration: CR S1969) In the nature of a substitute.
+- 2018-03-22 — Measure laid before Senate by unanimous consent. (consideration: CR S1969)
+- 2018-03-22 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: S1963-1966)
+- 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: S1963-1966)
+- 2018-03-22 — Senate amendment agreed to: Amendment SA 2223 agreed to in Senate by Unanimous Consent.
+- 2018-03-22 — Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator McConnell for Senator Hoeven.(consideration: CR S1969)
+- 2018-03-22 — Senate amendment submitted

@@ -1,7 +1,7 @@
 ---
 legis-num: S. 607
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -131,12 +131,8 @@ In this Act:
       - **(ii)** the performance of the business incubator of the eligible applicant, as compared to the performance of other business incubators receiving assistance under the program;
       - **(iii)** whether the eligible applicant continues to be eligible for the program; and
       - **(iv)** the evaluation considerations for initial awards under subsection (c)(2).
-    - **(C)** *Non-Federal contributions for renewals*
-      - **(i)** *In general* Except as provided in clause (ii), an eligible applicant that receives a grant renewal under subparagraph (A) shall provide non-Federal contributions in an amount equal to not less than 33 percent of the total amount of the grant.
-      - **(ii)** *Waiver* The Secretary may waive, in whole or in part, the requirements of clause (i) with respect to an eligible applicant if, after considering the ability of the eligible applicant to provide non-Federal contributions, the Secretary determines that—
-        - **(I)** the business incubator has provided and will continue to provide quality business incubation services to the 1 or more reservation communities served by the business incubator;
-        - **(II)** the 1 or more reservation communities served by the business incubator have benefited and will continue to benefit from the services of the business incubator; and
-        - **(III)** the 1 or more reservation communities to be served are unlikely to receive similar services because of remoteness or other reasons that inhibit the provision of business and entrepreneurial development services.
+    - **(C)** *Non-Federal contributions for renewals* An eligible applicant that receives a grant renewal under subparagraph (A) shall provide non-Federal contributions in an amount equal to not less than 33 percent of the total amount of the grant.
+  - **(5)** *No duplicative grants* An eligible applicant shall not be awarded a grant under the program that is duplicative of existing Federal funding from another source.
 - **(e)** *Program requirements*
   - **(1)** *Use of funds* An eligible applicant receiving a grant under the program may use grant amounts—
     - **(A)** to provide physical workspace and facilities for Native businesses and Native entrepreneurs participating in the business incubator;
@@ -200,7 +196,4 @@ The Secretary shall coordinate with the Secretary of Agriculture, the Secretary 
 
 ## § 8. Authorizations of appropriations
 
-There are authorized to be appropriated to carry out the program—
-
-- **(1)** for each of fiscal years 2018 through 2023, $5,000,000; and
-- **(2)** for fiscal year 2024 and each fiscal year thereafter, such sums as may be necessary.
+There are authorized to be appropriated to carry out the program $5,000,000 for each of fiscal years 2019 through 2023.
