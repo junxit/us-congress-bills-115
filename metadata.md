@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4851
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4851
@@ -88,3 +88,9 @@ Kennedy-King National Commemorative Site Act
 - 2018-03-22 — Senate amendment agreed to: Amendment SA 2215 agreed to in Senate by Unanimous Consent.
 - 2018-03-22 — Senate amendment proposed (on the floor): Amendment SA 2215 proposed by Senator Cornyn for Senator Young.(consideration: CR S1892; text: CR S1892)
 - 2018-03-22 — Senate amendment submitted
+- 2018-03-23 — Presented to President.
+- 2018-03-23 — Presented to President.
+- 2018-04-04 — Became Public Law No: 115-163.
+- 2018-04-04 — Became Public Law No: 115-163.
+- 2018-04-04 — Signed by President.
+- 2018-04-04 — Signed by President.
