@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 429
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 429
@@ -30,3 +30,7 @@ A resolution commemorating the 59th anniversary of Tibet's 1959 uprising as "Tib
 
 - 2018-03-08 — Introduced in Senate
 - 2018-03-08 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1583-1584)
+- 2018-03-20 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
+- 2018-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 363.
