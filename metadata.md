@@ -1,7 +1,7 @@
 ---
 measure: S. 466
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 466
@@ -38,3 +38,10 @@ A bill to clarify the description of certain Federal land under the Northern Ari
 - 2017-12-22 — Message on Senate action sent to the House.
 - 2017-12-22 — Received in the House.
 - 2017-12-22 — Referred to the House Committee on Natural Resources.
+- 2018-01-02 — Referred to the Subcommittee on Federal Lands.
+- 2018-03-14 — Committee Consideration and Mark-up Session Held.
+- 2018-03-14 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-03-14 — Subcommittee on Federal Lands Discharged.
+- 2018-03-22 — Placed on the Union Calendar, Calendar No. 469.
+- 2018-03-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-615.
+- 2018-03-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-615.
