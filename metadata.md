@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5089
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5089
@@ -21,9 +21,14 @@ Strengthening Local Transportation Security Capabilities Act of 2018
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (1)
+
+- 2018-03-22 — [House 115-2-129](votes/house-115-2-0129.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (397–1)
 
 ## Actions
 
@@ -41,3 +46,8 @@ Strengthening Local Transportation Security Capabilities Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 460.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-604.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-604.
+- 2018-03-22 — Considered as unfinished business. (consideration: CR H2028-2029)
+- 2018-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 129).
+- 2018-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 129).
+- 2018-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
