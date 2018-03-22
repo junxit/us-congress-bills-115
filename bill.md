@@ -15,87 +15,79 @@ This Act may be cited as the “Johnson-O'Malley Supplemental Indian Education P
 
 ## § 2. Indian education program student count update
 
-The Act of April 16, 1934 (25 U.S.C. 5342 et seq.) (commonly referred to as the Johnson-O’Malley Act), is amended by adding at the end the following:
+The Act of April 16, 1934 (25 U.S.C. 5342 et seq.) (commonly referred to as the Johnson-O’Malley Act) is amended by adding at the end the following:
 
 > ## § 7. Computation of student count
 >
 > - **(a)** *Definitions* For the purposes of this Act, the following definitions apply:
 >   - **(1)** *Contracting party* The term contracting party means an entity that has a contract through a program authorized under this Act.
->   - **(2)** *Existing contracting party* The term existing contracting party means a contracting party that has a contract under this Act that is in effect on the date of enactment of the JOM Modernization Act.
->   - **(3)** *JOM Modernization Act* The term JOM Modernization Act means the Johnson-O’Malley Supplemental Indian Education Program Modernization Act.
->   - **(4)** *New applicant* The term new applicant means an entity that applies to participate in a contract under this Act after the date of enactment of the JOM Modernization Act but not later than 240 days after such date of enactment.
+>   - **(2)** *Eligible entity* The term eligible entity means an entity that is eligible to apply for a contract for a supplemental or operational support program under this Act, as outlined in section 1.
+>   - **(3)** *Existing contracting party* The term existing contracting party means a contracting party that has a contract under this Act that is in effect on the date of enactment of the JOM Modernization Act.
+>   - **(4)** *JOM Modernization Act* The term JOM Modernization Act means the Johnson-O’Malley Supplemental Indian Education Program Modernization Act.
 >   - **(5)** *New contracting party* The term new contracting party means an entity that enters into a contract under this Act after the date of enactment of the JOM Modernization Act.
 >   - **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
-> - **(b)** *In general* Except as provided in subsection (f) and pursuant to subsection (g), the Secretary shall determine the amount that a contracting party receives under such contract for any fiscal year in accordance with—
->   - **(1)** the distribution formula described in section 273.31 of title 25, Code of Federal Regulations (as in effect on the day before the date of enactment of the JOM Modernization Act) and future it­er­a­tions of the formula as determined by the Bureau of Indian Education in consultation with Indian tribes and contracting parties; and
->   - **(2)** the number of eligible Indian students served or potentially served by the contracting party, as determined by the Secretary in accordance with subsection (c).
-> - **(c)** *Determination of the number of eligible Indian students*
->   - **(1)** *Initial determinations for existing contracting parties*
->     - **(A)** *In general* The Secretary shall make an initial determination of the number of eligible Indian students served by each existing contracting party in accordance with subparagraph (B).
+> - **(b)** *Determination of the number of eligible Indian students*
+>   - **(1)** *Initial determinations*
+>     - **(A)** *In general* The Secretary shall make an initial determination of the number of eligible Indian students served or potentially served by each eligible entity in accordance with subparagraph (B).
 >     - **(B)** *Process for making the initial determination*
->       - **(i)** *Preliminary report* Not later than 180 days after the date of enactment of the JOM Modernization Act, the Secretary shall publish a preliminary report describing the number of eligible Indian students served by each existing contracting party, using the most applicable and accurate data (as determined by the Secretary in consultation with existing contracting parties) from the fiscal year preceding the fiscal year for which the initial determination is to be made from—
+>       - **(i)** *Preliminary report* Not later than 180 days after the date of enactment of the JOM Modernization Act, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscal year preceding the fiscal year for which the initial determination is to be made from—
 >         - **(I)** the Bureau of the Census;
 >         - **(II)** the National Center for Education Statistics; or
 >         - **(III)** the Office of Indian Education of the Department of Education.
->       - **(ii)** *Data evaluation*
->         - **(I)** *In general* After publishing the preliminary report under clause (i), the Secretary shall evaluate the accuracy of the findings contained in such report.
->         - **(II)** *Consultation* To inform the evaluation described in subclause (I), the Secretary shall establish a 60-day comment period to gain feedback about the preliminary report from existing contracting parties.
->         - **(III)** *Data reconciliation* To evaluate the accuracy of the preliminary report and through the consultation process required under subclause (II), the Secretary shall reconcile the data described in the preliminary report with—
->           - **(aa)** the existing contracting party’s data regarding the number of eligible Indian students served by that existing contracting party for the fiscal year preceding the fiscal year for which the initial determination is made; and
->           - **(bb)** identifiable tribal enrollment information.
->       - **(iii)** *Final report* Not later than 120 days after concluding the consultation described in clause (ii)(II), the Secretary shall publish a final report on the initial determination of the number of eligible Indian students served by each existing contracting party.
->     - **(C)** *Technical assistance* The Secretary, acting through the Director of the Bureau of Indian Education, shall provide existing contracting parties with technical assistance relating to the receipt and provision of information on the number of eligible Indian students served by the existing contracting party.
->   - **(2)** *Initial determinations for new applicants*
->     - **(A)** *In general* For the purposes of making an initial determination of the number of potentially eligible Indian students to be served by each new applicant, the Secretary shall publish a report in accordance with subparagraph (B).
->     - **(B)** *Process for making the initial determination* To determine the number of potentially eligible Indian students to be served by new applicants, the Secretary shall—
->       - **(i)** include in the report the respective total eligible Indian student counts for each new applicant, as reported by the applicant during the application process, and other pertinent information, as determined by the Secretary; and
->       - **(ii)** publish the report described in clause (i) on the same date the final report described in paragraph (1)(B)(iii) is published.
->   - **(3)** *Subsequent academic years* For each academic year following the fiscal year for which an initial determination is made under paragraphs (1) and (2), the Secretary shall determine the number of eligible Indian students served by the contracting party based on the reported eligible Indian student count numbers identified through the reporting process described in subsection (d).
-> - **(d)** *Contracting party student count reporting compliance*
->   - **(1)** *In general* For each academic year following the fiscal year for which an initial determination is made under subsection (c), each contracting party shall submit to the Secretary a report describing the number of eligible Indian students who were served using amounts allocated to such party under this Act during the previous fiscal year.
+>       - **(ii)** *Data reconciliation* To improve the accuracy of the preliminary report described in clause (i) prior to publishing, the Secretary shall reconcile the data described in the preliminary report with—
+>         - **(I)** each existing contracting party's data regarding the number of eligible Indian students served by the existing contracting party for the fiscal year preceding the fiscal year for which the initial determination is made; and
+>         - **(II)** identifiable tribal enrollment information.
+>       - **(iii)** *Comment period* After publishing the preliminary report under clause (i) in accordance with clause (ii), the Secretary shall establish a 60-day comment period to gain feedback about the preliminary report from eligible entities, which the Secretary shall take into consideration in preparing the final report described in clause (iv).
+>       - **(iv)** *Final report* Not later than 120 days after concluding the consultation described in clause (iii), the Secretary shall publish a final report on the initial determination of the number of eligible Indian students served or potentially served by each eligible entity, including justification for not including any feedback gained during such consultation, if applicable.
+>   - **(2)** *Subsequent academic years* For each academic year following the fiscal year for which an initial determination is made under paragraph (1) to determine the number of eligible Indian students served or potentially served by a contracting party, the Secretary shall determine the number of eligible Indian students served by the contracting party based on the reported eligible Indian student count numbers identified through the reporting process described in subsection (c).
+> - **(c)** *Contracting party student count reporting compliance*
+>   - **(1)** *In general* For each academic year following the fiscal year for which an initial determination is made under subsection (b) to determine the number of eligible Indian students served or potentially served by a contracting party, the contracting party shall submit to the Secretary a report describing the number of eligible Indian students who were served using amounts allocated to such party under this Act during the previous fiscal year.
 >   - **(2)** *Failure to comply* A contracting party that fails to submit a report under paragraph (1) shall receive no amounts under this Act for the fiscal year following the academic year for which the report should have been submitted.
 >   - **(3)** *Notice* The Secretary shall provide contracting parties with timely information relating to—
 >     - **(A)** initial and final reporting deadlines; and
 >     - **(B)** the consequences of failure to comply outlined in paragraph (2).
 >   - **(4)** *Technical assistance* The Secretary, acting through the Director of the Bureau of Indian Education, shall provide technical assistance and training on compliance with the reporting requirements of this subsection to contracting parties.
-> - **(e)** *Annual report*
->   - **(1)** *In general* The Secretary shall prepare an annual report, including the most recent determination of the number of eligible Indian students served by each contracting party, and an assessment of the contracts under this Act that the Secretary—
+> - **(d)** *Annual report*
+>   - **(1)** *In general* The Secretary shall prepare an annual report, including the most recent determination of the number of eligible Indian students served by each contracting party, recommendations on appropriate funding levels for the program based on such determination, and an assessment of the contracts under this Act that the Secretary—
 >     - **(A)** may include in the budget request of the Department of the Interior for each fiscal year; and
 >     - **(B)** shall submit to—
 >       - **(i)** the Committee on Indian Affairs of the Senate;
 >       - **(ii)** the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the Senate;
->       - **(iii)** the Committee on Natural Resources of the House of Representatives; and
+>       - **(iii)** the Committee on Education and the Workforce of the House of Representatives; and
 >       - **(iv)** the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the House of Representatives.
 >   - **(2)** *Manner of preparation* The Secretary shall prepare the report under paragraph (1) in a manner so as to prevent or minimize new administrative burdens on contracting parties receiving funds under this Act.
-> - **(f)** *Hold harmless*
->   - **(1)** *In general* Except as provided under paragraph (2) and subject to paragraph (3), for a fiscal year, an existing contracting party shall not receive an amount under this Act that is less than the amount that such existing contracting party received under this Act for the fiscal year preceding the date of enactment of the JOM Modernization Act.
->   - **(2)** *Exceptions*
->     - **(A)** *In general* An existing contracting party shall receive an amount under this Act for a fiscal year that is less than the amount that the existing contracting party received under this Act for the fiscal year preceding the date of enactment of the JOM Modernization Act, if one or more of the following conditions is met:
->       - **(i)** *Failure to report* The existing contracting party failed to submit the report described in subsection (d) that was most recently due from the date of the determination.
->       - **(ii)** *Violations of contract or law* The Secretary has found that the existing contracting party has violated the terms of a contract entered into under this Act or has otherwise violated Federal law.
->       - **(iii)** *Student count decrease* The number of eligible Indian students reported by such existing contracting party under subsection (d) has decreased below the number of eligible Indian students identified in the initial determination with respect to the existing contracting party under subsection (c)(1).
->     - **(B)** *Amount of funding reduction for existing contracting parties reporting decreased student counts* A reduction in an amount pursuant to subparagraph (A)(iii) shall not be done in such a manner that the existing contracting party receives an amount of funding per eligible Indian student that is less than the amount of funding per eligible Indian student such party received for the fiscal year preceding the date of enactment of the JOM Modernization Act.
->   - **(3)** *Sunset* This subsection shall cease to be effective at the beginning of the fiscal year after the first fiscal year for which new contracting parties receive an amount of funding per eligible Indian student that is equal to or greater than the amount of funding per eligible Indian student received by existing contracting parties for the fiscal year preceding the date of enactment of the JOM Modernization Act.
-> - **(g)** *Funding allocation and reform*
->   - **(1)** *Present day per student funding allocation* Not later than 60 days after an initial determination is made under subsection (c), the Secretary shall establish, in consultation with contracting parties, a present day per student funding allocation that shall serve as a funding baseline under this Act.
->   - **(2)** *Funding reform* The Secretary may make recommendations for legislation to increase the amount of funds available per eligible Indian student through contracts under this Act to equal to or greater than the amount of funds that were available per eligible Indian student through contracts under this Act for fiscal year 1995, and attempt to identify additional sources of funding that do not reallocate existing funds otherwise utilized by Indian students served—
+> - **(e)** *Hold harmless*
+>   - **(1)** *Initial hold harmless*
+>     - **(A)** *In general* Except as provided under subparagraph (B) and subject to subparagraphs (C) and (D), for a fiscal year, an existing contracting party shall not receive an amount under this Act that is less than the amount that such existing contracting party received under this Act for the fiscal year preceding the date of enactment of the JOM Modernization Act.
+>     - **(B)** *Exceptions*
+>       - **(i)** *In general* An existing contracting party shall receive an amount under this Act for a fiscal year that is less than the amount that the existing contracting party received under this Act for the fiscal year preceding the date of enactment of the JOM Modernization Act, if 1 or more of the following conditions is met:
+>         - **(I)** *Failure to report* The existing contracting party failed to submit the report described in subsection (c) that was most recently due from the date of the determination.
+>         - **(II)** *Violations of contract or law* The Secretary has found that the existing contracting party has violated the terms of a contract entered into under this Act or has otherwise violated Federal law.
+>         - **(III)** *Student count decrease* The number of eligible Indian students reported by such existing contracting party under subsection (c) has decreased below the number of eligible Indian students served by the existing contracting party in the fiscal year preceding the date of enactment of the JOM Modernization Act.
+>       - **(ii)** *Amount of funding reduction for existing contracting parties reporting decreased student counts* A reduction in an amount pursuant to clause (i)(III) shall not be done in such a manner that the existing contracting party receives an amount of funding per eligible Indian student that is less than the amount of funding per eligible Indian student such party received for the fiscal year preceding the date of enactment of the JOM Modernization Act.
+>     - **(C)** *Ratable reductions in appropriations* If the funds available under this Act for a fiscal year are insufficient to pay the full amounts that all existing contracting parties are eligible to receive under subparagraph (A) for the fiscal year, the Secretary shall ratably reduce those amounts for the fiscal year.
+>     - **(D)** *Sunset* This paragraph shall cease to be effective 4 years after the date of enactment of the JOM Modernization Act.
+>   - **(2)** *Maximum decrease after 4 years* Beginning 4 years after the date of enactment of the JOM Modernization Act, no contracting party shall receive for a fiscal year more than a 10 percent decrease in funding per eligible Indian student from the previous fiscal year.
+> - **(f)** *Funding allocation and reform*
+>   - **(1)** *Funding reform* The Secretary may make recommendations for legislation to increase the amount of funds available per eligible Indian student through contracts under this Act to equal to or greater than the amount of funds that were available per eligible Indian student through contracts under this Act for fiscal year 1995, and attempt to identify additional sources of funding that do not reallocate existing funds otherwise utilized by Indian students served—
 >     - **(A)** by the Bureau of Indian Education; or
 >     - **(B)** under title VI of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7401 et seq.).
->   - **(3)** *Increases in program funding*
->     - **(A)** *In general* Subject to subsection (f) and subparagraphs (B) and (C), for any fiscal year for which the amount appropriated to carry out this Act exceeds the amount appropriated to carry out this Act for the preceding fiscal year, the excess amounts shall—
->       - **(i)** be allocated only to those contracting parties that have not received their full per student funding allocation as determined pursuant to paragraph (1); and
->       - **(ii)** be allocated first to new contracting parties that have not received their full per student funding allocation as determined pursuant to paragraph (1).
->     - **(B)** *Parity in funding* Subparagraph (A) shall have no effect after the first fiscal year for which each contracting party receives their full per student funding allocation as determined pursuant to paragraph (1).
->     - **(C)** *Future allocations* Allocations of appropriations for fiscal years after the first fiscal year for which each contracting party receives their full per student funding allocation as determined pursuant to paragraph (1) shall be made at the discretion of the Secretary, in consultation with Indian tribes and contracting parties.
-> - **(h)** *Increased geographical and tribal participation in the Johnson-O’Malley Supplementary Education Program* To the maximum extent practicable, the Secretary shall consult with Indian tribes and contact State educational agencies and local educational agencies that have not previously entered into a contract under this Act—
->   - **(1)** to determine the interest of the Indian tribes and State educational agencies and local educational agencies in entering into such contracts; and
+>   - **(2)** *Increases in program funding*
+>     - **(A)** *In general* Subject to subsection (e) and subparagraph (B), for any fiscal year for which the amount appropriated to carry out this Act exceeds the amount appropriated to carry out this Act for the preceding fiscal year, the excess amounts shall—
+>       - **(i)** be allocated only to those contracting parties that did not receive their full per student funding allocation for the previous fiscal year; and
+>       - **(ii)** be allocated first to new contracting parties that did not receive their full per student funding allocation for the previous fiscal year.
+>     - **(B)** *Parity in funding* Subparagraph (A) shall have no effect after the first fiscal year for which each contracting party receives their full per student funding allocation.
+> - **(g)** *Increased geographical and tribal participation in the Johnson-O’Malley Supplementary Education Program* To the maximum extent practicable, the Secretary shall consult with Indian tribes and contact State educational agencies, local educational agencies, and Alaska Native organizations that have not previously entered into a contract under this Act—
+>   - **(1)** to determine the interest of the Indian tribes, State educational agencies, local educational agencies, and Alaska Native organizations, in entering into such contracts; and
 >   - **(2)** to share information relating to the process for entering into a contract under this Act.
-> - **(i)** *Rulemaking* Not later than one year after the date of enactment of the JOM Modernization Act, the Secretary, acting through the Director of the Bureau of Indian Education, shall undertake and complete a rulemaking process, following the provisions of subchapter II of chapter 5 of title 5, United States Code, to—
->   - **(1)** determine how the regulatory definition of eligible Indian student may be revised to clarify eligibility requirements for contracting parties under this Act;
->   - **(2)** determine, as necessary, how the funding formula described in section 273.31 of title 25, Code of Federal Regulations (as in effect on the day before the date of enactment of the JOM Modernization Act) may be clarified and revised to ensure full participation of contracting parties and provide clarity on the funding process under this Act; and
->   - **(3)** otherwise reconcile and modernize the rules to comport with the activities of the contracting parties under this Act as of the date of enactment of the JOM Modernization Act.
-> - **(j)** *Student privacy* The Secretary shall ensure that data is collected and each report is prepared under this section in a manner that protects the rights of eligible Indian students in accordance with section 444 of the General Education Provisions Act (commonly referred to as the Family Educational Rights and Privacy Act of 1974) (20 U.S.C. 1232g).
-> - **(k)** *GAO report* Not later than 2 years after the date of enactment of the JOM Modernization Act, the Comptroller General shall—
+> - **(h)** *Rulemaking*
+>   - **(1)** *In general* Not later than one year after the date of enactment of the JOM Modernization Act, the Secretary, acting through the Director of the Bureau of Indian Education, shall undertake and complete a rulemaking process, following the provisions of subchapter II of chapter 5 of title 5, United States Code, to—
+>     - **(A)** determine how the regulatory definition of eligible Indian student may be revised to clarify eligibility requirements for contracting parties under this Act;
+>     - **(B)** determine, as necessary, how the funding formula described in section 273.31 of title 25, Code of Federal Regulations (as in effect on the day before the date of enactment of the JOM Modernization Act) may be clarified and revised to ensure full participation of contracting parties and provide clarity on the funding process under this Act; and
+>     - **(C)** otherwise reconcile and modernize the rules to comport with the activities of the contracting parties under this Act as of the date of enactment of the JOM Modernization Act.
+>   - **(2)** *Report* Not later than 30 days after the date the rulemaking under paragraph (1) is complete, the Secretary shall submit a report to Congress describing the results of such rulemaking and necessary recommendations to ensure the full implementation of such rulemaking.
+> - **(i)** *Student privacy* The Secretary shall ensure that data is collected and each report is prepared under this section in a manner that protects the rights of eligible Indian students in accordance with section 444 of the General Education Provisions Act (commonly referred to as the Family Educational Rights and Privacy Act of 1974) (20 U.S.C. 1232g).
+> - **(j)** *GAO report* Not later than 18 months after the final report described in subsection (b)(1)(B)(iv) is published, the Comptroller General shall—
 >   - **(1)** conduct a review of the implementation of this section during the preceding two-year period, including any factors impacting—
 >     - **(A)** the accuracy of the determinations of the number of eligible Indian students under this section;
 >     - **(B)** the communication between the Bureau of Indian Education and contracting parties; and
@@ -106,6 +98,6 @@ The Act of April 16, 1934 (25 U.S.C. 5342 et seq.) (commonly referred to as the 
 >     - **(C)** the Subcommittee on Indian, Insular and Alaska Native Affairs of the Committee on Natural Resources of the House of Representatives; and
 >     - **(D)** the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the House of Representatives; and
 >   - **(3)** make such report publicly available.
-> - **(l)** *Effect* Nothing in this section—
+> - **(k)** *Effect* Nothing in this section—
 >   - **(1)** creates a new program or duplicates program activities under this Act; or
 >   - **(2)** replaces or diminishes the effect of regulations to carry out this Act existing on the day before the date of enactment of the JOM Modernization Act, unless expressly provided in this section.
