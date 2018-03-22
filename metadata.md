@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 405
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 405
@@ -28,3 +28,7 @@ A resolution designating the third week of March 2018 as "National CACFP Week".
 
 - 2018-02-13 — Introduced in Senate
 - 2018-02-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S909-910)
+- 2018-03-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-03-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-03-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1978)
+- 2018-03-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1978)
