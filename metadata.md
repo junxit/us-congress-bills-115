@@ -1,7 +1,7 @@
 ---
 measure: S. 1223
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1223
@@ -20,9 +20,10 @@ Klamath Tribe Judgment Fund Repeal Act
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2017-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
 - 2018-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1972)
 - 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1972)
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-03-26 — Received in the House.
+- 2018-03-26 — Referred to the House Committee on Natural Resources.
