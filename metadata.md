@@ -1,7 +1,7 @@
 ---
 measure: S. 1091
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1091
@@ -34,9 +34,11 @@ Supporting Grandparents Raising Grandchildren Act
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -48,3 +50,7 @@ Supporting Grandparents Raising Grandchildren Act
 - 2018-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
 - 2018-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1977-1978; text of measure as reported in Senate: CR S1977-1978)
 - 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1977-1978; text of measure as reported in Senate: CR S1977-1978)
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-03-26 — Received in the House.
+- 2018-03-26 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-03-26 — Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
