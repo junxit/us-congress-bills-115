@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 292
@@ -92,3 +92,16 @@ Childhood Cancer STAR Act
 - 2018-03-23 — Message on Senate action sent to the House.
 - 2018-03-26 — Received in the House.
 - 2018-03-26 — Referred to the House Committee on Energy and Commerce.
+- 2018-03-30 — Referred to the Subcommittee on Health.
+- 2018-05-22 — Considered under suspension of the rules. (consideration: CR H4349-4355)
+- 2018-05-22 — DEBATE - The House proceeded with forty minutes of debate on S. 292.
+- 2018-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-22 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2018-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4350-4352)
+- 2018-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4350-4352)
+- 2018-05-24 — Presented to President.
+- 2018-05-24 — Presented to President.
+- 2018-06-05 — Became Public Law No: 115-180.
+- 2018-06-05 — Became Public Law No: 115-180.
+- 2018-06-05 — Signed by President.
+- 2018-06-05 — Signed by President.
