@@ -1,7 +1,7 @@
 ---
 measure: S. 943
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 943
@@ -23,9 +23,10 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 - 2018-03-22 — Senate amendment proposed (on the floor): Amendment SA 2225 proposed by Senator McConnell for Senator Lankford.(consideration: CR S1973; text: CR S1973)
 - 2018-03-22 — Senate amendment submitted
 - 2018-03-22 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-03-26 — Received in the House.
+- 2018-03-26 — Referred to the House Committee on Education and the Workforce.
