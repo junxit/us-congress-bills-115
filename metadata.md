@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 292
@@ -74,9 +74,10 @@ Childhood Cancer STAR Act
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -88,3 +89,6 @@ Childhood Cancer STAR Act
 - 2018-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
 - 2018-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1975-1977; text of measure as reported in Senate: CR S1975-1977)
 - 2018-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1975-1977; text of measure as reported in Senate: CR S1975-1977)
+- 2018-03-23 — Message on Senate action sent to the House.
+- 2018-03-26 — Received in the House.
+- 2018-03-26 — Referred to the House Committee on Energy and Commerce.
