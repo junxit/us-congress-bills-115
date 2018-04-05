@@ -17,10 +17,11 @@ This Act may be cited as the “STB Information Security Improvement Act”.
 
 - **(a)** *In general* The Surface Transportation Board (in this section referred to as the “STB”) shall develop a timeline and plan to implement the recommendations of the Inspector General of the Department of Transportation in Report No. FI2018002, including improvements—
   - **(1)** to identify controls, including risk management, weakness remediation, and security authorization;
-  - **(2)** to protect controls, including configuration management, user identity management, and security training;
-  - **(3)** to respond controls, including incident handling and reporting;
-  - **(4)** to recover controls for contingency planning; and
-  - **(5)** any additional tools that will improve the implementation of the recommendations.
+  - **(2)** to protect controls, including configuration management, user identity and access management, and security training;
+  - **(3)** to detect controls, including continuous monitoring;
+  - **(4)** to respond controls, including incident handling and reporting;
+  - **(5)** to recover controls for contingency planning; and
+  - **(6)** any additional tools that will improve the implementation of the recommendations.
 - **(b)** *Implementation*
   - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the STB shall submit the plan and timeline developed under subsection (a) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce of the Senate.
   - **(2)** *Report* The STB shall report annually to such Committees on the progress on implementation of the recommendations until the implementation is complete.
