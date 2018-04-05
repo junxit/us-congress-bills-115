@@ -1,7 +1,7 @@
 ---
 measure: S. 825
 congress: 115
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 825
@@ -49,3 +49,17 @@ Southeast Alaska Regional Health Consortium Land Transfer Act of 2017
 - 2018-04-05 — Placed on the Union Calendar, Calendar No. 472.
 - 2018-04-05 — Reported by the Committee on Natural Resources. H. Rept. 115-619, Part I.
 - 2018-04-05 — Reported by the Committee on Natural Resources. H. Rept. 115-619, Part I.
+- 2018-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9789-9790; text: CR H9789)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 825.
+- 2018-12-10 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2018-12-11 — Considered as unfinished business. (consideration: CR H10084-10085)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 430).
+- 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 430).
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-18 — Became Public Law No: 115-326.
+- 2018-12-18 — Became Public Law No: 115-326.
+- 2018-12-18 — Signed by President.
+- 2018-12-18 — Signed by President.
