@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 85
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 85
@@ -32,3 +32,5 @@ A resolution calling on the Government of Iran to fulfill repeated promises of a
 - 2018-03-20 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with an amended preamble. Without written report.
 - 2018-03-20 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with an amended preamble. Without written report.
 - 2018-03-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.
+- 2018-04-09 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S2015-2016; text: CR S2015-2016)
+- 2018-04-09 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S2015-2016; text: CR S2015-2016)
