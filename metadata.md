@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5247
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5247
@@ -95,3 +95,6 @@ Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to T
 - 2018-03-21 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-03-21 — The previous question was ordered pursuant to the rule.
 - 2018-03-21 — The resolution provides for one hour of debate on each bill. The resolution makes in order only the further amendment to H.R. 4566 printed in the report. No further amendments on either bill are made in order. Section 3 of the resolution makes it in order to consider any resolution reported from the Rules Committee on the day it is reported through the legislative day of March 23, 2018. Section 4 grants suspension authority on the legislative days of March 22, 2018 and March 23, 2018. Section 5 of the resolution amends section 3(a) of H. Res. 5.
+- 2018-03-22 — Received in the Senate.
+- 2018-03-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-04-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.
