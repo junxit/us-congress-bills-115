@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 128
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 128
@@ -11,54 +11,37 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas the Federal Democratic Republic of Ethiopia has been an ally of the United States and a partner in the War on Terrorism, as well as a contributor to international peacekeeping;
-- Whereas the first pillar of the United States Strategy Toward Sub-Saharan Africa, announced in 2012, is to strengthen democratic institutions, and the Democracy, Human Rights, and Governance Strategy of the United States Agency for International Development states that “strong democratic institutions, respect for human rights, and participatory, accountable governance are crucial elements for improving people’s lives in a sustainable way”;
-- Whereas the third pillar of the United States Strategy Toward Sub-Saharan Africa is to advance peace and security, including supporting security sector reform;
-- Whereas democratic space in Ethiopia has steadily diminished since the general elections of 2005;
-- Whereas elections were held in 2015 in which the ruling Ethiopian People’s Revolutionary Democratic Front party claimed 100 percent of parliamentary seats;
-- Whereas the 2016 Department of State Country Report on Human Rights Practices for Ethiopia cited serious human rights violations, including arbitrary arrests, killings, and torture committed by security forces, restrictions on freedom of expression and freedom of association, politically motivated trials, harassment, and intimidation of opposition members and journalists;
-- Whereas the Ethiopian Human Rights Council reported 102 deaths by April 2016 and Human Rights Watch subsequently reported that the Ethiopian security forces had killed between 500 and 800 peaceful protestors in the Oromia and Amhara regions by November 2016, and the number is likely higher;
-- Whereas state-sponsored violence against those exercising their rights to peaceful assembly, in Oromia and elsewhere in the country, and the abuse of laws to stifle journalistic freedoms stand in direct contrast to democratic principles and violate the constitution of Ethiopia;
-- Whereas since protests started in Oromia in 2015, the Ethiopian government has charged more than 150 students, opposition leaders, and activists at the Federal High Court under the 2009 Anti-Terrorism Proclamation (ATP) and repeatedly has abused such law to limit the freedom of the press, silence independent journalists, and persecute members of the political opposition, including by— (1)charging 20 university students in March 2016 under the criminal code for protesting in front of the United States Embassy in Addis Ababa, based only on a video of their protest and a list of demands; (2)arresting Merera Gudina, Chairman of the Oromo Federalist Congress in December 2016 to be investigated under the ATP after he held meetings with European Union officials in Brussels; (3)charging Yonatan Tesfaye Regassa, the former head of public relations for the opposition Semayawi Party (the Blue Party), with “planning, preparation, conspiracy, incitement and attempt” of a terrorist act, citing Facebook posts by Regassa about the protests as evidence; and (4)arresting Getachew Shiferaw (the editor-in-chief of the online newspaper “Negere Ethiopia”), Fikadu Mirkana, (a news editor and reporter with the public “Oromia Radio and TV”), and blogger Zelalem Workagenehu (with an independent diaspora blog) under charges of conspiring to overthrow the government and supporting terrorism under the ATP;
-- Whereas, on April 25, 2016, the Federal High Court sentenced the former governor of the Gambella region, Okello Akway Ochalla, to nine years imprisonment, and the trial of Ochalla and his co-defendants was marred by violations of fair trial guarantees and included the use of witness testimonies in exchange for non-prosecution under the ATP;
-- Whereas in August 2015, eighteen Ethiopian Muslim leaders received prison sentences ranging from seven to 22 years in prison for peacefully protesting against government interference in the religious affairs of the Islamic community, some of whom were later pardoned;
-- Whereas criminal courts in Ethiopia are weak, overburdened, subject to political influence, accept the use of forced confessions, and allow detainees to be held for months without charge;
-- Whereas serious concerns have been raised regarding prison conditions in Ethiopia, including overcrowding, poor sanitation, lack of access to potable water, excessive use of solitary confinement, the use of rape and torture, withholding access to medical treatment, and denial of access to proper legal counsel or to visitors;
-- Whereas laws such as the 2009 Charities and Societies Proclamation have been used to restrict the operation of civil society organizations in Ethiopia, especially those investigating alleged violations of human rights by governmental authorities;
-- Whereas in June 2016, the Government of Ethiopia announced that it closed down more than 200 nongovernmental organizations within a nine-month period from 2015 to 2016 for failing to comply with the restrictive provisions of the 2009 Charities and Societies Proclamation;
-- Whereas the development strategy of the Government of Ethiopia has targeted the relocation of more than 1,500,000 people, including indigenous Anuaks in the Gambella region, from their ancestral lands for large-scale land development under the “villagization” program;
-- Whereas the case of the “Zone 9 Bloggers”, whose arrest, detention, and trials on terrorism charges brought international attention to the restrictions on the freedom of the press in Ethiopia, is indicative of the coercive environment in which Ethiopian journalists operate;
-- Whereas, on October 9, 2016, the Government of Ethiopia imposed a far-reaching, six-month state of emergency that restricts a broad range of actions, including blocking mobile Internet access and social media communication, undermining freedoms of association, expression, and peaceful assembly, which led to the arrest of over 22,000 persons according to Ethiopian Government accounts, and codifying such tactics as arbitrary detention;
-- Whereas serious abuses have been and continue to be committed in the Somali regional state by federal and regional security forces, some of which may constitute war crimes and crimes against humanity;
-- Whereas there has been no credible independent investigation into any of the abuses mentioned herein and no indication that anyone has been held to account for these abuses; and
-- Whereas during President Barack Obama’s historic visit to Addis Ababa in July 2015, Prime Minister Hailemariam Desalegn expressed the commitment of his government to deepen the democratic process and work towards improving governance and respect for human rights, and noted the need to step up efforts to strengthen institutions: Now, therefore, be it
+- Whereas the Federal Democratic Republic of Ethiopia has been an important partner of the United States and a regional leader in promoting economic growth, global health, and peace and security;
+- Whereas Ethiopia has helped advance the national interests of the United States and regional partners, including through contributions to international peacekeeping, combating radical Islamist extremism and other forms of terrorism, and regional cooperation through the African Union;
+- Whereas Ethiopia has made great strides in addressing significant challenges in global health, child survival, and food security;
+- Whereas Ethiopia’s transition from authoritarian rule to participatory democracy has not kept pace with other reforms;
+- Whereas the ruling Ethiopian Peoples’ Revolutionary Democratic Front (EPRDF) claimed to win 99.6 percent of the vote in elections that were deemed neither free nor fair in 2010 and all 546 parliamentary seats in 2015, thereby further consolidating the EPRDF’s single party rule;
+- Whereas the Charities and Societies Proclamation and Anti-Terrorism Proclamation, both enacted in 2009, have accelerated the contraction of democratic space, severely limited the practice of fundamental human rights, enabled abuses by security forces, and impeded efforts to promote accountability for such abuses in Ethiopia;
+- Whereas government forces launched a violent crackdown on protests by ethnic Oromo and Amhara over their perceived marginalization in 2015, resulting in hundreds of deaths and tens of thousands of arrests;
+- Whereas the Government of Ethiopia has recently released hundreds of political prisoners, but has continued to periodically detain government critics and opposition figures;
+- Whereas the Government of Ethiopia has periodically imposed a state of emergency that even further restricts freedoms of assembly, association, and expression, including through blockage of mobile internet access and social media communication;
+- Whereas the 2017 Department of State Country Report on Human Rights Practices for Ethiopia cited serious human rights violations, including arbitrary arrests, killings, and torture committed by security forces, restrictions on freedom of expression and freedom of association, politically motivated trials, harassment, and intimidation of opposition members and journalists; and
+- Whereas these persistent human right abuses, including state-sponsored violence against civilians in the Oromia, Amhara, and Somali regions of Ethiopia, as well as the abuse of laws to stifle journalistic freedoms, stand in direct contrast to democratic principles, violate the Constitution of Ethiopia, and undermine Ethiopia’s position as a regional leader for economic growth, peace, and security: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** condemns—
-  - **(A)** the killing of peaceful protesters and excessive use of force by Ethiopian security forces;
-  - **(B)** the arrest and detention of journalists, students, activists, and political leaders who exercise their constitutional rights to freedom of assembly and expression through peaceful protests; and
-  - **(C)** the abuse of the Anti-Terrorism Proclamation to stifle political and civil dissent and journalistic freedoms;
-- **(2)** urges protesters in Ethiopia to refrain from violence and to refrain from encouragement or acceptance of violence in demonstrations;
-- **(3)** urges all armed factions to cease their conflict with the Government of Ethiopia and engage in peaceful negotiations directly and through international intermediaries;
-- **(4)** calls on the Government of Ethiopia to—
+- **(1)** recognizes and commends Ethiopia’s efforts to promote regional peace and security, including through the contribution of peacekeeping forces to regional and United Nations peacekeeping operations;
+- **(2)** recognizes the importance of continued United States and Ethiopian partnership in combating terrorism, promoting economic growth and opportunity, and addressing global health challenges;
+- **(3)** notes with deep concern persistent reports of widespread human rights abuses and the contraction of democratic space in Ethiopia, which may threaten stability and reverse economic progress over the long term;
+- **(4)** condemns the use of excessive force by Ethiopian security forces, including the killing of unarmed protesters, and the wrongful arrest and detention of journalists, students, activists, and political leaders exercising their constitutional rights to freedom of assembly, association, and expression;
+- **(5)** recognizes and commends the recent peaceful and voluntary transfer of authority from Prime Minister Hailemariam to new Prime Minister Abiy and welcomes Prime Minister Abiy’s inaugural speech calling for open political competition and the defense of fundamental human rights;
+- **(6)** calls on the Government of Ethiopia to—
   - **(A)** lift the state of emergency;
-  - **(B)** end the use of excessive force by security forces;
-  - **(C)** conduct a full, credible, and transparent investigation into the killings and instances of excessive use of force that took place as a result of protests in the Oromia and Amhara regions and hold security forces accountable for wrongdoing through public proceedings;
-  - **(D)** release dissidents, activists, and journalists who have been imprisoned, including those arrested for reporting about the protests, for exercising constitutional rights;
-  - **(E)** respect the right to freedom of peaceful assembly and guarantee the freedom of the press and mass media, in keeping with Articles 30 and 29 of the Ethiopian constitution;
-  - **(F)** engage in open and transparent consultations with citizens regarding its development strategy, especially those strategies that could result in the displacement of people from their land;
-  - **(G)** allow a rapporteur appointed by the United Nations to conduct an independent examination of the state of human rights in Ethiopia;
-  - **(H)** address the grievances brought forward by representatives of registered opposition parties;
-  - **(I)** hold accountable those responsible for killing, torturing, and detaining innocent civilians who exercised their constitutional rights;
-  - **(J)** repeal proclamations that—
-    - **(i)** can be used as a political tool to harass or prohibit funding for civil society organizations that investigate human rights violations, engage in peaceful political dissent, or advocate for greater political freedoms;
-    - **(ii)** prohibit or otherwise limit those displaced from their land from seeking remedy or redress in courts, or do not provide a transparent, accessible means to access justice for those so displaced;
-    - **(iii)** allow for the arrest and detention of peaceful protesters and political opponents who legally exercise their rights to freedom of expression and association; and
-    - **(iv)** prohibit or otherwise limit peaceful nonprofit operations in Ethiopia; and
-  - **(K)** investigate the circumstances surrounding the September 3, 2016, shootings and fire at Qilinto Prison, the deaths of persons in attendance at the annual Irreecha festivities at Lake Hora near Bishoftu on October 2, 2016, and the ongoing killings of civilians over several years in the Somali Regional State by federal and regional police, and publically release a report on such investigations in an expedient manner;
-- **(5)** calls on the Secretary of State to conduct a review of security assistance to Ethiopia in light of recent developments and to improve transparency with respect to the purposes of such assistance to the people of Ethiopia;
-- **(6)** calls on the Administrator of the United States Agency for International Development to immediately lead efforts to develop a comprehensive strategy to support improved democracy and governance in Ethiopia;
-- **(7)** calls on the Secretary of State, in conjunction with the Administrator of the United States Agency for International Development, to improve oversight and accountability of United States assistance to Ethiopia, pursuant to the expectations established in the United States Strategy Toward Sub-Saharan Africa;
-- **(8)** calls on the Secretary of State, in cooperation with the Secretary of the Treasury, to apply appropriate sanctions on foreign persons or entities responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against any nationals in Ethiopia as provided for in the Global Magnitsky Human Rights Accountability Act; and
-- **(9)** stands by the people of Ethiopia and supports their peaceful efforts to increase democratic space and to exercise the rights guaranteed by the Ethiopian constitution.
+  - **(B)** repeal or amend proclamations used as a tool to suppress human rights in Ethiopia, including the Charities and Societies Proclamation and Anti-Terrorism Proclamation of 2009, and respect the rights of Ethiopian citizens to freedom of assembly and expression, in keeping with Articles 30 and 29 of the Ethiopian Constitution;
+  - **(C)** end the use of excessive force by Ethiopian security forces and hold accountable those responsible for killing, torturing, or otherwise abusing the human rights of civilians exercising their constitutional rights through fair and public trials;
+  - **(D)** release all activists, journalists, and opposition figures who have been wrongfully imprisoned for exercising their constitutional rights, including those arrested for reporting about public protests;
+  - **(E)** improve transparency around development policies and activities that may infringe upon the human rights of local communities; and
+  - **(F)** allow for an independent examination of the state of human rights in Ethiopia by a rapporteur appointed by the United Nations;
+- **(7)** urges protesters in Ethiopia to refrain from the use or incitement of violence in demonstrations;
+- **(8)** urges opposition groups and the Government of Ethiopia to directly engage in peaceful discussions to air grievances and broaden political discourse;
+- **(9)** calls on the Department of State and the United States Agency for International Development—
+  - **(A)** to engage in a cooperative effort with the Government of Ethiopia in the formulation of a comprehensive strategy, in coordination with other donors, to help advance democracy, rule of law, human rights, economic growth, and peace and security in Ethiopia;
+  - **(B)** continue to strengthen ties with Ethiopia, including through the provision of appropriate levels and forms of security assistance, in correlation to the Ethiopian Government’s own demonstrated commitment to democracy, rule of law, human rights, economic growth, and peace and security in the region;
+  - **(C)** condemn human rights abuses and the excessive use of force by Ethiopian security forces while pressing for the release of individuals wrongfully detained; and
+  - **(D)** hold accountable individuals responsible for gross human rights violations in Ethiopia through appropriate mechanisms, which may include the imposition of targeted sanctions pursuant to the Global Magnitsky Human Rights Accountability Act (Public Law 114–328); and
+- **(10)** stands by the people of Ethiopia and supports their peaceful efforts to increase democratic space and to exercise the rights guaranteed by the Ethiopian Constitution.
