@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1500
@@ -54,3 +54,8 @@ Robert Emmet Park Act of 2017
 - 2017-06-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338). (text: CR 6/27/2017 H5205)
 - 2017-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338).(text: CR 6/27/2017 H5205)
 - 2017-06-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-04-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-223.
+- 2018-04-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-223.
+- 2018-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.
