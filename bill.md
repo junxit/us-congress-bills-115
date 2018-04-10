@@ -1,0 +1,19 @@
+---
+legis-num: S. 2638
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2638
+
+> To require the Secretary of State to seek to negotiate the elimination of all foreign subsidies for international postal shipments to the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending Needless Delivery Subsidies Act of 2018”.
+
+## § 2. Negotiations with the Universal Postal Union
+
+- **(a)** *Elimination of all foreign subsidies for international postal shipments* Not later than January 1, 2021, the Secretary of State shall seek to negotiate before the Universal Postal Union (in this section referred to as the “UPU”) the elimination of all foreign subsidies for international postal shipments to the United States.
+- **(b)** *Future agreements* The Secretary may not conclude any international agreement relating to postal shipments after the date of the enactment of this Act unless the postal rates granted to United States exporters under the agreement are similar to the postal rates granted to exporters in other countries that are parties to the agreement.
