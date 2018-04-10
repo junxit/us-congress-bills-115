@@ -1,7 +1,7 @@
 ---
 measure: S. 35
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 35
@@ -43,3 +43,10 @@ Black Hills National Cemetery Boundary Expansion Act
 - 2018-03-07 — Referred to the Committee on Natural Resources, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-03-07 — Referred to the Committee on Natural Resources, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-03-07 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2018-03-14 — Committee Consideration and Mark-up Session Held.
+- 2018-03-14 — Ordered to be Reported by Unanimous Consent.
+- 2018-04-10 — Committee on Veterans' Affairs discharged.
+- 2018-04-10 — Committee on Veterans' Affairs discharged.
+- 2018-04-10 — Placed on the Union Calendar, Calendar No. 479.
+- 2018-04-10 — Reported by the Committee on Natural Resources. H. Rept. 115-626, Part I.
+- 2018-04-10 — Reported by the Committee on Natural Resources. H. Rept. 115-626, Part I.
