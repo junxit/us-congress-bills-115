@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4203
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,11 +21,11 @@ This Act may be cited as the “Combat Online Predators Act”.
   > If the victim of an offense under section 2261A is under the age of 18 years, the maximum imprisonment for the offense is 5 years greater than the maximum term of imprisonment otherwise provided for that offense in section 2261.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 110A of title 18, United States Code, is amended by inserting after the item relating to section 2261A the following new item:
-- **(c)** *Conforming amendment* Section 2261(a) of title 18, United States Code, is amended by inserting “or section 2262B, as the case may be” after “provided in subsection (b)”.
+- **(c)** *Conforming amendment* Section 2261A of title 18, United States Code, is amended by striking “section 2261(b) of this title” and inserting “section 2261(b) or section 2262B, as the case may be”.
 
-## § 3. Best practices regarding enforcement of anti-stalking laws to be included in annual report of the Attorney General
+## § 3. Report on best practices regarding enforcement of anti-stalking laws
 
-In the annual report under section 529 of title 28, United States Code, the Attorney General shall—
+Not later than 1 year after the date of the enactment of this Act, the Attorney General shall submit a report to Congress, which shall—
 
 - **(1)** include an evaluation of Federal, tribal, State, and local efforts to enforce laws relating to stalking; and
 - **(2)** identify and describe those elements of such efforts that constitute the best practices for the enforcement of such laws.
