@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4925
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4925
@@ -37,3 +37,9 @@ FRA Safety Data Improvement Act
 - 2018-04-05 — Placed on the Union Calendar, Calendar No. 476.
 - 2018-04-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-623.
 - 2018-04-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-623.
+- 2018-04-10 — Considered under suspension of the rules. (consideration: CR H3068-3069)
+- 2018-04-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4925.
+- 2018-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-10 — Mr. Mitchell moved to suspend the rules and pass the bill.
+- 2018-04-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3068-3069)
+- 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3068-3069)
