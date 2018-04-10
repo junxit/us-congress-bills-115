@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2219
@@ -58,3 +58,11 @@ End Banking for Human Traffickers Act of 2018
 - 2018-02-23 — Placed on the Union Calendar, Calendar No. 439.
 - 2018-02-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-569, Part II.
 - 2018-02-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-569, Part II.
+- 2018-04-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-04-10 — Considered as unfinished business. (consideration: CR H3081)
+- 2018-04-10 — Considered under suspension of the rules. (consideration: CR H3075-3078)
+- 2018-04-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2219.
+- 2018-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-10 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2018-04-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 130). (text: CR H3075-3076)
+- 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 130).(text: CR H3075-3076)
