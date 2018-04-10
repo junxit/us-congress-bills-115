@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4921
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4921
@@ -37,3 +37,12 @@ STB Information Security Improvement Act
 - 2018-04-05 — Placed on the Union Calendar, Calendar No. 475.
 - 2018-04-05 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-622.
 - 2018-04-05 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-622.
+- 2018-04-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Mitchell objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-04-10 — Considered as unfinished business. (consideration: CR H3083)
+- 2018-04-10 — Considered under suspension of the rules. (consideration: CR H3068)
+- 2018-04-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4921.
+- 2018-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-10 — Mr. Mitchell moved to suspend the rules and pass the bill, as amended.
+- 2018-04-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3068)
+- 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3068)
+- 2018-04-10 — The title of the measure was amended. Agreed to without objection.

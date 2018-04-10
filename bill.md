@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4921
 
-> To require the Surface Board of Transportation to implement certain recommendations of the Inspector General of the Department of Transportation.
+> To require the Surface Transportation Board to implement certain recommendations of the Inspector General of the Department of Transportation.
 
 ## § 1. Short title
 
