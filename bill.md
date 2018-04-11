@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 520
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ Congress finds that—
 - **(1)** the industrialization of developing nations has driven demand for nonfuel minerals necessary for telecommunications, military technologies, healthcare technologies, and conventional and renewable energy technologies;
 - **(2)** the availability of minerals and mineral materials are essential for economic growth, national security, technological innovation, and the manufacturing and agricultural supply chain;
 - **(3)** minerals and mineral materials are critical components of every transportation, water, telecommunications, and energy infrastructure project necessary to modernize the crumbling infrastructure of the United States;
-- **(4)** the exploration, production, processing, use, and recycling of minerals contribute significantly to the economic well-being, security, and general welfare of the United States;
+- **(4)** the exploration, production, processing, use, and recycling of minerals contribute significantly to the economic well-being, security, and general welfare of the United States; and
 - **(5)** the United States has vast mineral resources but is becoming increasingly dependent on foreign sources of mineral resources, as demonstrated by the fact that—
   - **(A)** 25 years ago, the United States was dependent on foreign sources for 45 nonfuel mineral materials, of which—
     - **(i)** 8 were imported by the United States to fulfill 100 percent of the requirements of the United States for those nonfuel mineral materials; and
@@ -65,9 +65,10 @@ In this Act:
     - **(B)** refining capacity;
     - **(C)** electrical power generation and transmission; and
     - **(D)** renewable energy production;
-  - **(3)** to support domestic manufacturing, agriculture, housing, telecommunications, healthcare, and transportation infrastructure; or
-  - **(4)** for the economic security of, and balance of trade in, the United States.
-- **(b)** *Consideration of certain domestic mines as infrastructure projects* A domestic mine that, as determined by the lead agency, will provide strategic and critical minerals shall be considered to be an infrastructure project, as described in Executive Order 13604 (5 U.S.C. 601 note; relating to improving performance of Federal permitting and review of infrastructure projects).
+  - **(3)** for community resiliency, coastal restoration, and ecological sustainability for the coastal United States;
+  - **(4)** to support domestic manufacturing, agriculture, housing, telecommunications, healthcare, and transportation infrastructure; or
+  - **(5)** for the economic security of, and balance of trade in, the United States.
+- **(b)** *Consideration of certain domestic mines as infrastructure projects* A domestic mine that, as determined by the lead agency, will provide strategic and critical minerals shall be considered to be an infrastructure project, as described in Executive Order 13807.
 
 ## § 5. Responsibilities of the lead agency
 
@@ -83,7 +84,7 @@ In this Act:
     - **(C)** Possible alternatives to issuance of the permit.
     - **(D)** The relationship between long- and short-term uses of the local environment and the maintenance and enhancement of long-term productivity.
     - **(E)** Any irreversible and irretrievable commitment of resources that would be involved in the proposed action.
-    - **(F)** Whether public participation will occur during the decisionmaking process for authorizing actions under the permit.
+    - **(F)** That public participation will occur during the decisionmaking process for authorizing actions under the permit.
   - **(2)** *Written requirement* In making a determination under paragraph (1), not later than 90 days after receipt of an application for the permit, the lead agency, in a written record of decision, shall—
     - **(A)** explain the rationale used in reaching the determination;
     - **(B)** state the facts in the record that are the basis for the determination; and
