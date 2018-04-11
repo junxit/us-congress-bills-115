@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2219
@@ -34,10 +34,11 @@ End Banking for Human Traffickers Act of 2018
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ End Banking for Human Traffickers Act of 2018
 - 2018-04-10 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-04-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 130). (text: CR H3075-3076)
 - 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 2 (Roll no. 130).(text: CR H3075-3076)
+- 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
