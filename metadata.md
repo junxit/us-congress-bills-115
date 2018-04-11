@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4921
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4921
@@ -48,3 +48,14 @@ STB Information Security Improvement Act
 - 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3068)
 - 2018-04-10 — The title of the measure was amended. Agreed to without objection.
 - 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-10-01 — Passed Senate without amendment by Unanimous Consent.
+- 2018-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-10-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6415)
+- 2018-10-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6415)
+- 2018-10-02 — Message on Senate action sent to the House.
+- 2018-10-04 — Presented to President.
+- 2018-10-04 — Presented to President.
+- 2018-10-16 — Became Public Law No: 115-269.
+- 2018-10-16 — Became Public Law No: 115-269.
+- 2018-10-16 — Signed by President.
+- 2018-10-16 — Signed by President.
