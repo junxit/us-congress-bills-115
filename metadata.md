@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2615
@@ -39,3 +39,8 @@ Gulf Islands National Seashore Land Exchange Act
 - 2017-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9442)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9442)
 - 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-228.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-228.
+- 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
