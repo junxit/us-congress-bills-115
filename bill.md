@@ -36,3 +36,8 @@ The amendments made by this Act may not be construed to prohibit an appropriate 
 
 - **(1)** ensuring the safety and soundness of an entity regulated by such an appropriate Federal banking agency; and
 - **(2)** ensuring compliance with applicable laws, regulations, and supervisory policies, and the following of appropriate guidance, by an entity regulated by such an appropriate Federal banking agency.
+
+## § 4. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,480,000,000”.
+- **(b)** *Effective date* Subsection (a) shall take effect on June 1, 2018.
