@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 224
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 224
@@ -37,3 +37,5 @@ A resolution recognizing the 6th anniversary of the death of Oswaldo Paya Sardin
 - 2018-03-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2018-03-21 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2018-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.
+- 2018-04-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S2078-2079; text: CR S2078-2079)
+- 2018-04-11 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S2078-2079; text: CR S2078-2079)
