@@ -1,7 +1,7 @@
 ---
 measure: S. 1160
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1160
@@ -28,3 +28,8 @@ Abraham Lincoln National Heritage Area Amendment Act
 
 - 2017-05-17 — Introduced in Senate
 - 2017-05-17 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-224.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-224.
+- 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.
