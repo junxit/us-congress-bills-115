@@ -123,3 +123,8 @@ Section 113 of the Financial Stability Act of 2010 (12 U.S.C. 5323) is amended�
 ## § 3. Rule of construction
 
 None of the amendments made by this Act may be construed as limiting the Financial Stability Oversight Council’s emergency powers under section 113(f) of the Financial Stability Act of 2010 (12 U.S.C. 5323(f)).
+
+## § 4. Reduction of surplus funds of Federal reserve banks
+
+- **(a)** *In general* Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,451,428,571”.
+- **(b)** *Effective date* Subsection (a) shall take effect on June 1, 2018.
