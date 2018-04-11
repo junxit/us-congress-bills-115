@@ -1,7 +1,7 @@
 ---
 measure: S. 1260
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1260
@@ -28,3 +28,8 @@ Gulf Islands National Seashore Land Exchange Act
 
 - 2017-05-25 — Introduced in Senate
 - 2017-05-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-226.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-226.
+- 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
