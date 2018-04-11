@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4921
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4921
@@ -21,9 +21,10 @@ STB Information Security Improvement Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ STB Information Security Improvement Act
 - 2018-04-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3068)
 - 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3068)
 - 2018-04-10 — The title of the measure was amended. Agreed to without objection.
+- 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
