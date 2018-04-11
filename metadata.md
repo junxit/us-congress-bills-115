@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4203
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4203
@@ -24,9 +24,10 @@ Combat Online Predators Act
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Smucker, Lloyd [R-PA-16] (S001199)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Combat Online Predators Act
 - 2018-04-10 — Placed on the Union Calendar, Calendar No. 480.
 - 2018-04-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-627.
 - 2018-04-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-627.
+- 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

@@ -2,7 +2,7 @@
 legis-num: H.R. 4203
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4203
@@ -25,7 +25,7 @@ This Act may be cited as the “Combat Online Predators Act”.
 
 ## § 3. Report on best practices regarding enforcement of anti-stalking laws
 
-Not later than one year after the date of the enactment of this Act, the Attorney General shall submit a report to Congress, which shall—
+Not later than 1 year after the date of the enactment of this Act, the Attorney General shall submit a report to Congress, which shall—
 
 - **(1)** include an evaluation of Federal, tribal, State, and local efforts to enforce laws relating to stalking; and
 - **(2)** identify and describe those elements of such efforts that constitute the best practices for the enforcement of such laws.
