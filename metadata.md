@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4925
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4925
@@ -21,9 +21,10 @@ FRA Safety Data Improvement Act
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ FRA Safety Data Improvement Act
 - 2018-04-10 — Mr. Mitchell moved to suspend the rules and pass the bill.
 - 2018-04-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3068-3069)
 - 2018-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3068-3069)
+- 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
