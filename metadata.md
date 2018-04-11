@@ -1,7 +1,7 @@
 ---
 measure: S. 1181
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1181
@@ -28,3 +28,7 @@ Good Samaritan Search and Recovery Act
 
 - 2017-05-18 — Introduced in Senate
 - 2017-05-18 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-225.
+- 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-225.
+- 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.
