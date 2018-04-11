@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4293
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,15 @@ to guess them.
 |---|---|
 | Removed | `3 different sets of conditions, including baseline, adverse,` |
 | Inserted | `2 different sets of conditions, including baseline` |
+
+### 12 U.S.C. § 289
+
+> Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$7,500,000,000” and inserting “$7,480,000,000”.
+
+| | |
+|---|---|
+| Removed | `$7,500,000,000` |
+| Inserted | `$7,480,000,000` |
 
 ## Stated, not applied
 
