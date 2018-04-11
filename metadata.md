@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4061
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4061
@@ -91,3 +91,12 @@ Financial Stability Oversight Council Improvement Act of 2017
 - 2018-03-09 — Placed on the Union Calendar, Calendar No. 450.
 - 2018-03-09 — Reported by the Committee on Financial Services. H. Rept. 115-592.
 - 2018-03-09 — Reported by the Committee on Financial Services. H. Rept. 115-592.
+- 2018-03-14 — Rules Committee Resolution H. Res. 780 Reported to House. The resolution provides for one hour of debate on each measure. The rule provides for H.R. 4061 and H.R. 4293 to be considered under closed rules.
+- 2018-04-11 — Considered under the provisions of rule H. Res. 780. (consideration: CR H3119-3128)
+- 2018-04-11 — DEBATE - The House proceeded with one hour of debate on H.R. 4061.
+- 2018-04-11 — House amendment offered
+- 2018-04-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-11 — On passage Passed by the Yeas and Nays: 297 - 121 (Roll no. 135). (text: CR H3119-3121)
+- 2018-04-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 297 - 121 (Roll no. 135).(text: CR H3119-3121)
+- 2018-04-11 — The previous question was ordered pursuant to the rule.
+- 2018-04-11 — The resolution provides for one hour of debate on each measure. The rule provides for H.R. 4061 and H.R. 4293 to be considered under closed rules.
