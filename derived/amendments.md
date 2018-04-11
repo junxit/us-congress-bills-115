@@ -1,7 +1,7 @@
 ---
 measure: S. 1160
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
