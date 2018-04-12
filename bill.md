@@ -1,0 +1,27 @@
+---
+legis-num: S. 2665
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2665
+
+> To require guidance on how the Food and Drug Administration will consider claims of opioid sparing and on the conditions under which the Food and Drug Administration will consider misuse and abuse of drugs in making certain determinations of safety.
+
+## § 1. Opioid sparing claims and indications
+
+- **(a)** *Opioid sparing*
+  - **(1)** *Draft guidance* Not later than 1 year after the date of enactment of this Act, the Secretary, acting through the Commissioner of Food and Drugs, shall issue draft guidance to clarify how the Food and Drug Administration will assess evidence to support claims of opioid sparing for non-opioid or other non-addictive medical products intended to treat pain. Such guidance shall include—
+    - **(A)** data collection methodologies, including the use of innovative clinical trial designs (consistent with section 3021 of the 21st Century Cures Act (Public Law 114–255)), and real world evidence (as defined in section 505F(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355g(b))), as appropriate, to support product labeling;
+    - **(B)** ethical implications of exposure to controlled substances in clinical trials to support opioid sparing claims and considerations on methods to reduce harm;
+    - **(C)** endpoints, including primary, secondary, and surrogate endpoints, to evaluate the reduction in opioid use;
+    - **(D)** best practices for communication between sponsors and the agency on the development of such data collection methods, including the initiation of data collection; and
+    - **(E)** the appropriate format to submit such data results to the Secretary.
+  - **(2)** *Final guidance* Not later than 6 months after the close of the period for public comment on the draft guidance under paragraph (1), the Secretary shall finalize such guidance.
+- **(b)** *Risk of abuse and misuse*
+  - **(1)** *Draft guidance* Not later than 1 year after the date of enactment of this Act, the Secretary, acting through the Commissioner of Food and Drugs, shall issue draft guidance to clarify the circumstances under which the Food and Drug Administration considers misuse and abuse of drugs in making determinations of safety under paragraphs (2) and (4) of subsection (d) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) and in finding that a drug is unsafe under paragraph (1) or (2) of subsection (e) of such section.
+  - **(2)** *Final guidance* Not later than 6 months after the close of the period for public comment on the draft guidance under paragraph (1), the Secretary shall finalize such guidance.
+- **(c)** *Definitions* In this section—
+  - **(1)** the term medical product means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 351(i) of this Act (42 U.S.C. 262(i))), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))); and
+  - **(2)** the term opioid sparing means reducing the use of opioids or other controlled substances.
