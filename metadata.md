@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4293
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4293
@@ -21,9 +21,10 @@ Stress Test Improvement Act of 2017
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Stress Test Improvement Act of 2017
 - 2018-04-11 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-04-11 — The previous question was ordered pursuant to the rule.
 - 2018-04-11 — The resolution provides for one hour of debate on each measure. The rule provides for H.R. 4061 and H.R. 4293 to be considered under closed rules.
+- 2018-04-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
