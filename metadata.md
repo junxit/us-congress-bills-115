@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4061
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4061
@@ -76,9 +76,10 @@ Financial Stability Oversight Council Improvement Act of 2017
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -100,3 +101,4 @@ Financial Stability Oversight Council Improvement Act of 2017
 - 2018-04-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 297 - 121 (Roll no. 135).(text: CR H3119-3121)
 - 2018-04-11 — The previous question was ordered pursuant to the rule.
 - 2018-04-11 — The resolution provides for one hour of debate on each measure. The rule provides for H.R. 4061 and H.R. 4293 to be considered under closed rules.
+- 2018-04-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
