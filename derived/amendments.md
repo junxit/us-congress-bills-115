@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 

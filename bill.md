@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2229
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,3 +17,4 @@ This Act may be cited as the “All Circuit Review Act”.
 
 - **(a)** *In general* Section 7703(b)(1)(B) of title 5, United States Code, is amended by striking “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, a petition” and inserting “A petition”.
 - **(b)** *Director review* Section 7703(d)(2) of such title is amended by striking “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, this paragraph” and inserting “This paragraph”.
+- **(c)** *Retroactive effective date* The amendments made by this section shall take effect as if enacted on November 26, 2017.
