@@ -1,0 +1,59 @@
+---
+legis-num: S. 2659
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2659
+
+> To amend the Controlled Substances Act to authorize employees of hospice programs to handle controlled substances in the residences of certain hospice patients to assist in disposal of those controlled substances.
+
+## § 1. Short title
+
+This Act may be cited as the “Safe Disposal of Unused Medication Act”.
+
+## § 2. Disposal of controlled substances of certain hospice patients by employees of qualified hospice programs
+
+- **(a)** *In general* Section 302(g) of the Controlled Substances Act (21 U.S.C. 822(g)) is amended by adding at the end the following:
+  > - **(5)**
+  >   - **(A)**
+  >     - **(i)** An employee of a qualified hospice program or an emergency medical services professional, acting within the scope of employment and for the purpose of assisting in the disposal of a controlled substance in a case described in clause (ii), may handle, in the place of residence of a hospice patient, any controlled substance that was lawfully dispensed to the hospice patient.
+  >     - **(ii)** A case described in this clause is a case in which—
+  >       - **(I)** the hospice patient has died; or
+  >       - **(II)** the controlled substance is expired.
+  >     - **(iii)**
+  >       - **(I)** For purposes of clause (i), if a State has in place requirements to allow an employee of a hospice program, acting within the scope of employment and for the purpose of assisting in the disposal of a controlled substance in a case described in clause (ii), to handle, in the place of residence of a hospice patient, any controlled substance that was lawfully dispensed to the hospice patient, and the Attorney General determines that those requirements provide safeguards equivalent to the safeguards provided under subparagraph (C)(vi), the employee of the hospice program shall not be required to be an employee of a qualified hospice program.
+  >       - **(II)** If the Attorney General determines that the requirements of a State described in subclause (I) do not provide safeguards equivalent to the safeguards provided under subparagraph (C)(vi), the State may file a petition for judicial review of the determination with an appropriate district court of the United States.
+  >   - **(B)** The Attorney General, in consultation with the Secretary, may promulgate regulations to authorize an employee of a hospice program, acting within the scope of employment and for the purpose of assisting in the disposal of a controlled substance, to handle, in the place of residence of a hospice patient, any controlled substance that was lawfully dispensed to the hospice patient if—
+  >     - **(i)** with respect to the controlled substance, the plan of care of the hospice patient has been modified; and
+  >     - **(ii)** pursuant to the modification of the plan of care, the hospice patient no longer requires the controlled substance.
+  >   - **(C)** In this paragraph—
+  >     - **(i)** the term emergency medical services professional has the meaning given the term in section 303;
+  >     - **(ii)** the term employee of a hospice program—
+  >       - **(I)** means a person who is—
+  >         - **(aa)** employed by, or pursuant to arrangements made by, a hospice program; and
+  >         - **(bb)** licensed or certified to perform such employment in accordance with applicable State law; and
+  >       - **(II)** includes—
+  >         - **(aa)** a physician; and
+  >         - **(bb)** a registered nurse;
+  >     - **(iii)** the term employee of a qualified hospice program—
+  >       - **(I)** means a person who is—
+  >         - **(aa)** employed by, or pursuant to arrangements made by, a qualified hospice program; and
+  >         - **(bb)** licensed or certified to perform such employment in accordance with applicable State law; and
+  >       - **(II)** includes—
+  >         - **(aa)** a physician; and
+  >         - **(bb)** a registered nurse;
+  >     - **(iv)** the terms hospice care and hospice program have the meanings given those terms in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd));
+  >     - **(v)** the term hospice patient means an individual receiving hospice care; and
+  >     - **(vi)** the term qualified hospice program means a hospice program that—
+  >       - **(I)** has written policies and procedures for assisting in the disposal of a controlled substance of a hospice patient in each of the cases described in subparagraph (A)(ii);
+  >       - **(II)** at the time when the controlled substance of a hospice patient is first ordered—
+  >         - **(aa)** provides a copy of the written policies and procedures described in subclause (I) to the hospice patient, or the representative of the hospice patient, and the family of the hospice patient; and
+  >         - **(bb)** discusses the policies and procedures described in subclause (I) with the hospice patient, or the representative of the hospice patient, and the family of the hospice patient in a language and manner that those individuals understand to ensure that those individuals are educated regarding the safe disposal of controlled substances;
+  >       - **(III)** documents in the clinical record of the hospice patient that the written policies and procedures described in subclause (I) were provided and discussed; and
+  >       - **(IV)** at the time when an employee of the hospice program disposes of a controlled substance of a hospice patient in a case described in subparagraph (A)(ii), documents the disposal in the clinical record of the hospice patient.
+
+- **(b)** *No registration required* Section 302(c) of the Controlled Substances Act (21 U.S.C. 822(c)) is amended by adding at the end the following:
+  > - **(4)** An employee of a qualified hospice program or an emergency medical services professional, as those terms are defined in subsection (g)(5), who possesses the controlled substance for the purpose of assisting in the disposal of the controlled substance in accordance with subparagraph (A) of that subsection.
+  > - **(5)** An employee of a hospice program, as defined in subsection (g)(5), who possesses the controlled substance for the purpose of assisting in the disposal of the controlled substance in accordance with a regulation issued under subparagraph (B) of that subsection.
