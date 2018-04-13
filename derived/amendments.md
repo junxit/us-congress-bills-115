@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5444
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -134,7 +134,7 @@ to guess them.
 
 ### 26 U.S.C. § 6707A
 
-> in paragraph (1), by striking “Commissioner of Internal Revenue” and inserting “Administrator of the Internal Revenue Service”; and
+> in paragraph (1), by striking “Commissioner of Internal Revenue” and inserting “Administrator of the Internal Revenue Service”, and
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 26 U.S.C. § 7345
 
-> by striking “Deputy Commissioner for Services and Enforcement” and inserting “Deputy Administrator for Services and Enforcement”; and
+> by striking “Deputy Commissioner for Services and Enforcement” and inserting “Deputy Administrator for Services and Enforcement”, and
 
 | | |
 |---|---|
@@ -206,7 +206,7 @@ to guess them.
 
 ### 26 U.S.C. § 7608
 
-> in paragraph (1), by striking “the Commissioner of Internal Revenue (or, if designated by the Commissioner, the Deputy Commissioner or an Assistant Commissioner of Internal Revenue)” and inserting “the Administrator of the Internal Revenue Service (or, if designated by the Administrator, the Deputy Administrator or an Assistant Administrator of the Internal Revenue Service)”; and
+> in paragraph (1), by striking “the Commissioner of Internal Revenue (or, if designated by the Commissioner, the Deputy Commissioner or an Assistant Commissioner of Internal Revenue)” and inserting “the Administrator of the Internal Revenue Service (or, if designated by the Administrator, the Deputy Administrator or an Assistant Administrator of the Internal Revenue Service)”, and
 
 | | |
 |---|---|
@@ -341,7 +341,7 @@ to guess them.
 
 ### 26 U.S.C. § 7461
 
-> by striking “reports” and inserting “opinions”; and
+> by striking “reports” and inserting “opinions”, and
 
 | | |
 |---|---|
@@ -449,7 +449,7 @@ to guess them.
 
 ### 26 U.S.C. § 7443A
 
-> by striking “special trial judges” in subsections (a) and (e) and inserting “magistrate judges of the Tax Court”;
+> by striking “special trial judges” in subsections (a) and (e) and inserting “magistrate judges of the Tax Court”,
 
 | | |
 |---|---|
@@ -458,7 +458,7 @@ to guess them.
 
 ### 26 U.S.C. § 7443A
 
-> by striking “special trial judges of the court” in subsection (b) and inserting “magistrate judges of the Tax Court”; and
+> by striking “special trial judges of the court” in subsection (b) and inserting “magistrate judges of the Tax Court”, and
 
 | | |
 |---|---|
@@ -494,7 +494,7 @@ to guess them.
 
 ### 26 U.S.C. § 7448
 
-> by striking “special trial judge's” each place it appears in subsections (a)(6), (c)(1), (d), and (m)(1) and inserting “magistrate judge of the Tax Court's”; and
+> by striking “special trial judge's” each place it appears in subsections (a)(6), (c)(1), (d), and (m)(1) and inserting “magistrate judge of the Tax Court's”, and
 
 | | |
 |---|---|
@@ -512,7 +512,7 @@ to guess them.
 
 ### 26 U.S.C. § 7448
 
-> by striking “special trial judge which are allowable” and inserting “magistrate judge of the Tax Court which are allowable”; and
+> by striking “special trial judge which are allowable” and inserting “magistrate judge of the Tax Court which are allowable”, and
 
 | | |
 |---|---|
@@ -539,7 +539,7 @@ to guess them.
 
 ### 26 U.S.C. § 7456
 
-> by striking “special trial judge” each place it appears and inserting “magistrate judge”; and
+> by striking “special trial judge” each place it appears and inserting “magistrate judge”, and
 
 | | |
 |---|---|
@@ -584,7 +584,7 @@ to guess them.
 
 ### 26 U.S.C. § 7471
 
-> by striking “Special trial judges” in the heading and inserting “Magistrate judges of the Tax Court”; and
+> by striking “Special trial judges” in the heading and inserting “Magistrate judges of the Tax Court”, and
 
 | | |
 |---|---|
@@ -628,7 +628,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 7701` | amend | Section 7701(a)(13) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7803` | add-at-end | Section 7803(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7803` | redesignate | Section 7803(c)(2)(B)(ii) is amended by redesignating subclauses (VIII) through (XI) as subclauses (IX) through (XII), respectively, and by inserting after subclause (VII) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7803` | add-at-end | Section 7803(c)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7803` | add-at-end | Section 7803(c)(2) is amended by adding at the end the following new subparagraph: . | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6108` | add-at-end | Section 6108 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6108` | redesignate | Section 7803(c)(2)(B)(ii), as amended by subsection (a), is amended by redesignating subclause (XII) as subclause (XIII) and by inserting after subclause (XI) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7803` | add-at-end | Section 7803(c)(2)(B)(iii) is amended by adding at the end the following: “The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -639,8 +639,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 7803` | strike | Section 7803(a) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7803` | strike | Section 7803(c)(1)(B)(ii) is amended by striking “and the Oversight Board”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 7803` | strike | Section 7803(c)(2)(B)(iii) is amended by striking “the Oversight Board,”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4946` | strike | in subsections (g)(2) and (h), by striking “the Internal Revenue Service Oversight Board and”; | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4946` | strike | in subsection (l)(1), by striking “or the Internal Revenue Service Oversight Board”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4946` | strike | in subsections (g)(2) and (h), by striking “the Internal Revenue Service Oversight Board and”, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4946` | strike | in subsection (l)(1), by striking “or the Internal Revenue Service Oversight Board”, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 4946` | strike | in subsection (l)(2), by striking “and the Internal Revenue Service Oversight Board”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Part II of subchapter C of chapter 76 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for such part is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
