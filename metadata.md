@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2825
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2825
@@ -30,10 +30,11 @@ DHS Authorization Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,8 @@ DHS Authorization Act
 - 2017-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403). (text: CR H6047-6109)
 - 2017-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403).(text: CR H6047-6109)
 - 2017-07-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-07 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2018-03-07 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-04-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2018-04-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. Without written report.
+- 2018-04-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.
