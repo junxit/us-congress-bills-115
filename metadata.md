@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4790
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4790
@@ -22,9 +22,10 @@ Volcker Rule Regulatory Harmonization Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Volcker Rule Regulatory Harmonization Act
 - 2018-04-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 300 - 104 (Roll no. 139).(text: CR H3214-3215)
 - 2018-04-13 — Rule provides for consideration of H.R. 4790 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. Also, the rule provides for motions to suspend the rules relating to H.J. Res. 2 on the legislative day of April 12, 2018.
 - 2018-04-13 — The previous question was ordered pursuant to the rule.
+- 2018-04-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
