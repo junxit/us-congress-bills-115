@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3961
@@ -33,3 +33,9 @@ Kissimmee River Wild and Scenic River Study Act of 2018
 - 2018-04-13 — Placed on the Union Calendar, Calendar No. 485.
 - 2018-04-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-634.
 - 2018-04-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-634.
+- 2018-04-16 — Considered under suspension of the rules. (consideration: CR H3322-3323)
+- 2018-04-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3961.
+- 2018-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3322-3323)
+- 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3322-3323)

@@ -45,3 +45,4 @@ Congress finds the following:
   >   - **(C)** *Noninterference* This study shall not interfere with the Kissimmee River Restoration Project authorized under section 101(8) of the Water Resources Development Act of 1992 (Public Law 102–580).
 
 - **(c)** *No negative impact* Nothing authorized by this Act may negatively impact agricultural production in the Kissimmee River basin.
+- **(d)** *No effect on management* This Act and the amendments made by this Act shall not interfere with the current management of the area of the Kissimmee River described in section 5(a)(__) of the Wild and Scenic Rivers Act, nor shall the fact that such area is listed for study under the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.) be used as justification for more restrictive management, such as wilderness or as a category of wild and scenic river, until Congress acts on the study recommendations.
