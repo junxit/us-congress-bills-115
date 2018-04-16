@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4403
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,11 @@ This Act may be cited as the “Moving Americans Privacy Protection Act”.
 
 ## § 2. Protection of personally identifiable information
 
-Paragraph (2) of section 431(c) of the Tariff Act of 1930 (19 U.S.C. 1431(c)(2)) is amended to read as follows:
+- **(a)** *In general* Section 431(c)(2) of the Tariff Act of 1930 (19 U.S.C. 1431(c)(2)) is amended to read as follows:
+  > - **(2)**
+  >   - **(A)** The information listed in paragraph (1) shall not be available for public disclosure if—
+  >     - **(i)** the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+  >     - **(ii)** the information is exempt under the provisions of section 552(b)(1) of title 5, United States Code.
+  >   - **(B)** The Secretary shall ensure that any personally identifiable information, including Social Security account numbers and passport numbers, is removed from any manifest signed, produced, delivered, or electronically transmitted under this section before access to the manifest is provided to the public.
 
-> - **(2)**
->   - **(A)** The information listed in paragraph (1) shall not be available for public disclosure if—
->     - **(i)** the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
->     - **(ii)** the information is exempt under the provisions of section 552(b)(1) of title 5, United States Code.
->   - **(B)** The Commissioner of U.S. Customs and Border Protection shall ensure that any personally identifiable information, including social security numbers, passport numbers, and residential addresses, are removed from any manifest signed, produced, delivered, or transmitted under this section before the manifest is disclosed to the public.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date that is 30 days after the date of the enactment of this Act.
