@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 443
@@ -42,3 +42,4 @@ James K. Polk Presidential Home Study Act
 - 2018-04-16 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2018-04-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3326)
 - 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3326)
+- 2018-04-17 — Received in the Senate.
