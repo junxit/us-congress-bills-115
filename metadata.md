@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5192
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5192
@@ -37,6 +37,10 @@ Protecting Children from Identity Theft Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2018-04-17 — [House 115-2-142](votes/house-115-2-0142.md) — On Passage — **Passed** (420–1)
+
 ## Actions
 
 - 2018-03-07 — Introduced in House
@@ -48,3 +52,13 @@ Protecting Children from Identity Theft Act
 - 2018-04-13 — Placed on the Union Calendar, Calendar No. 487.
 - 2018-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-636.
 - 2018-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-636.
+- 2018-04-16 — Rules Committee Resolution H. Res. 830 Reported to House. Rule provides for consideration of H.R. 5192. Rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Ways and Means, and provides for one motion to recommit with or without instructions.
+- 2018-04-17 — Considered under the provisions of rule H. Res. 830. (consideration: CR H3377-3381)
+- 2018-04-17 — DEBATE - The House proceeded with one hour of debate on H.R. 5192.
+- 2018-04-17 — House amendment offered
+- 2018-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-17 — On passage Passed by the Yeas and Nays: 420 - 1 (Roll no. 142). (text: CR H3377-3378)
+- 2018-04-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 420 - 1 (Roll no. 142).(text: CR H3377-3378)
+- 2018-04-17 — Rule H. Res. 830 passed House.
+- 2018-04-17 — Rule provides for consideration of H.R. 5192. Rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Ways and Means, and provides for one motion to recommit with or without instructions.
+- 2018-04-17 — The previous question was ordered pursuant to the rule.
