@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4609
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4609
@@ -16,9 +16,10 @@ West Fork Fire Station Act of 2017
 
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ West Fork Fire Station Act of 2017
 - 2018-04-16 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2018-04-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3321)
 - 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3321)
+- 2018-04-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
