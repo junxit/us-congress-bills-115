@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4403
@@ -48,3 +48,9 @@ Moving Americans Privacy Protection Act
 - 2018-04-16 — Placed on the Union Calendar, Calendar No. 490.
 - 2018-04-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-639.
 - 2018-04-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-639.
+- 2018-04-17 — Considered under suspension of the rules. (consideration: CR H3359-3364)
+- 2018-04-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4403.
+- 2018-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-17 — Mr. Reichert moved to suspend the rules and pass the bill, as amended.
+- 2018-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3359)
+- 2018-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3359)
