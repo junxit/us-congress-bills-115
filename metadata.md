@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1512
@@ -45,3 +45,9 @@ Social Security Child Protection Act of 2018
 - 2018-04-13 — Placed on the Union Calendar, Calendar No. 486.
 - 2018-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-635.
 - 2018-04-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-635.
+- 2018-04-17 — Considered under suspension of the rules. (consideration: CR H3375-3377)
+- 2018-04-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1512.
+- 2018-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-17 — Mr. Marchant moved to suspend the rules and pass the bill, as amended.
+- 2018-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3375)
+- 2018-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3375)
