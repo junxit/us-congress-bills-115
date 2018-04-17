@@ -1,7 +1,7 @@
 ---
 measure: H.R. 146
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 146
@@ -26,9 +26,10 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 - 2018-04-16 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2018-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 2 (Roll no. 140). (text: CR H3323-3324)
 - 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 2 (Roll no. 140).(text: CR H3323-3324)
+- 2018-04-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
