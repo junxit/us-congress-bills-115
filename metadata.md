@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1512
@@ -30,9 +30,10 @@ Social Security Child Protection Act of 2018
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Curbelo, Carlos [R-FL-26] (C001107)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Social Security Child Protection Act of 2018
 - 2018-04-17 — Mr. Marchant moved to suspend the rules and pass the bill, as amended.
 - 2018-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3375)
 - 2018-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3375)
+- 2018-04-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
