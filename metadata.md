@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5192
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5192
@@ -33,9 +33,10 @@ Protecting Children from Identity Theft Act
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Protecting Children from Identity Theft Act
 - 2018-04-17 — Rule H. Res. 830 passed House.
 - 2018-04-17 — Rule provides for consideration of H.R. 5192. Rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Ways and Means, and provides for one motion to recommit with or without instructions.
 - 2018-04-17 — The previous question was ordered pursuant to the rule.
+- 2018-04-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
