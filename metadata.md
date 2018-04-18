@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 115
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 115
@@ -41,3 +41,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2018-04-17 — On agreeing to the resolution Agreed to without objection. (text: CR H3381)
 - 2018-04-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3381)
 - 2018-04-18 — Received in the Senate.
+- 2018-04-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2330)
+- 2018-04-19 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2330)
+- 2018-04-23 — Message on Senate action sent to the House.
