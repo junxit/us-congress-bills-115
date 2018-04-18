@@ -22,25 +22,27 @@ This Act may be cited as the “Iran Human Rights and Hostage-Taking Accountabil
   - **(4)** Following voting irregularities that resulted in the 2009 election of President Mahmoud Ahmadinejad, the Iranian regime brutally suppressed peaceful political dissent from wide segments of civil society during the Green Revolution in a cynical attempt to retain its undemocratic grip on power.
   - **(5)** Since February 2011 the leaders of Iran’s Green Movement, former Prime Minister Mir Hossein Mousavi, his wife Dr. Zahra Rahnavard, and former Speaker of the Majles (parliament) Mehdi Karroubi, have lived under strict house arrest, ordered by Iran’s Supreme National Security Council.
   - **(6)** In 1999 the Iranian regime brutally suppressed a student revolt that was one of the largest mass uprisings up until that point in the country since 1979.
-  - **(7)** Over a 4-month period in 1988, the Iranian regime carried out the barbaric mass executions of thousands of political prisoners.
+  - **(7)** Over a 4-month period in 1988, the Iranian regime carried out the barbaric mass executions of thousands of political prisoners by hanging and firing squad for refusing to renounce their political affiliations and in some cases for possessing political reading material, including prisoners of conscience, teenagers, and pregnant women. In a recently disclosed audiotape, the late Hussein Ali Montazeri, a grand ayatollah who served as former Supreme leader Khomeini’s chief deputy, said that the 1988 mass killings were “the greatest crime committed during the Islamic Republic, for which history will condemn us”.
   - **(8)** Senior governmental, military, and public security officials in Iran have continued ordering, controlling, and committing egregious human rights violations that, in many cases, represent official policies of the Iranian regime.
 - **(b)** *Sense of Congress* It is the sense of the Congress that the United States should—
   - **(1)** deny the Government of Iran the ability to continue to oppress the people of Iran and to use violence and executions to silence pro-democracy protestors;
-  - **(2)** support efforts made by the people of Iran to promote the establishment of basic freedoms that build the foundation for the emergence of a freely elected, open, non-corrupt and democratic political system; and
-  - **(3)** help the people of Iran produce, access, and share information freely and safely via the internet and other media.
+  - **(2)** work with international partners to investigate human rights violations by senior officials of the Government of Iran, regardless of where or when such violations took place;
+  - **(3)** support efforts made by the people of Iran to promote the establishment of basic freedoms that build the foundation for the emergence of a freely elected, open, non-corrupt and democratic political system;
+  - **(4)** condemn Iranian human rights abuses against dissidents, including the massacre in 1988 and the suppression of political demonstrations in 1999, 2009, and 2017, and pressure the Government of Iran to provide family members detailed information that they were denied about the final resting places of any missing victims of such abuses; and
+  - **(5)** help the people of Iran produce, access, and share information freely and safely via the internet and other media.
 - **(c)** *Statement of policy* It shall be the policy of the United States to stand with the people of Iran who seek the opportunity to freely elect a government of their choosing, and increase the utilization of all available authorities to impose sanctions on officials of the Government of Iran and other individuals responsible for serious human rights abuses.
 
 ## § 3. Determinations with respect to imposition of sanctions on certain persons responsible for or complicit in human rights abuses, engaging in censorship, engaging in the diversion of goods intended for the people of Iran, or engaging in corruption
 
-- **(a)** *In general* Not later than 270 days after the date of the enactment of this Act, and annually thereafter (or more frequently if the President determines it appropriate based on new information received by the President) for the following 4 years, the President shall submit to the appropriate congressional committees a report containing a determination of whether any senior officials of the Government of Iran or other Iranian persons meet the criteria described in—
-  - **(1)** section 105(b), 105A(b), 105B(b), or 105C(b) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8514(b), 8514a(b), 8514b(b), or 8514c(b)), or subsection (b) of section 105D of such Act (as added by section 5 of this Act); or
+- **(a)** *In general* Not later than 270 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report containing a determination of whether any senior officials of the Government of Iran or other Iranian persons meet the criteria described in—
+  - **(1)** subsection (b) of section 105D of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 5 of this Act; or
   - **(2)** paragraph (3) or (4) of section 1263(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note).
-- **(b)** *Form of report; public availability*
+- **(b)** *Review of certain entities* The report required under subsection (a) shall contain a review of any activities of cooperative foundations or bonyads in Iran with a capitalization that exceeds $200,000,000 and that meet the criteria in paragraph (3) or (4) of section 1263(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note) for purposes of corruption.
+- **(c)** *Form of report; public availability*
   - **(1)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.
   - **(2)** *Public availability* The unclassified portion of such report shall be made available to the public and posted on the internet website of the Department of the Treasury—
     - **(A)** in English, Farsi, Arabic, and Azeri; and
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
-- **(c)** *Sources of information* In preparing the report required under subsection (a), the President may utilize any credible publication, database, web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity provided to or made available to the President.
 - **(d)** *Definition* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives; and
   - **(2)** the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate.
@@ -59,20 +61,20 @@ This Act may be cited as the “Iran Human Rights and Hostage-Taking Accountabil
     - **(A)** the use of extradition to try and convict those individuals responsible for ordering or controlling the hostage-taking or arbitrary detention of United States citizens; and
     - **(B)** the use of the Department of Homeland Security’s Human Rights Violators and War Crimes Center to target such individuals; and
   - **(2)** the United States should encourage its allies and other affected countries to pursue the criminal prosecution and extradition of state and non-state actors in Iran that assist in or benefit from such hostage-taking to prevent such state and non-state actors from engaging in this practice in the future.
-- **(c)** *Statement of policy* It shall be the policy of the United States Government not to pay ransom or release prisoners for the purpose of securing the release of United States citizens or legal permanent resident aliens taken hostage abroad.
+- **(c)** *Statement of policy* It is the policy of the United States Government not to pay ransom for the purpose of securing the release of United States citizens or legal permanent resident aliens taken hostage abroad.
 - **(d)** *Strategy* Not later than 120 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that contains a strategy to prevent elements of the Iranian regime from engaging in hostage-taking or the prolonged arbitrary detention of United States citizens or legal permanent resident aliens.
 
-## § 5. Imposition of sanctions with respect to persons who engage in certain actions against United States citizens or Iranian persons
+## § 5. Imposition of sanctions with respect to Iranian persons who engage in certain actions against United States citizens or Iranian persons
 
-- **(a)** *Sense of Congress* It is the sense of Congress that the United States should coordinate with United States allies and other allies and partners whose citizens may be subject to politically-motivated detention or trial in Iran, to apply sanctions against persons that are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, such detention or trial.
+- **(a)** *Sense of Congress* It is the sense of Congress that the United States should coordinate with United States allies and other allies and partners whose citizens may be subject to politically-motivated detention or trial in Iran, to apply sanctions against Iranian persons that are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, such detention or trial.
 - **(b)** *In general* Title I of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 is amended by inserting after section 105C (22 U.S.C. 8514c) the following:
-  > ## § 105D. Imposition of sanctions with respect to persons who engage in certain actions against United States citizens or Iranian persons
+  > ## § 105D. Imposition of sanctions with respect to Iranian persons who engage in certain actions against United States citizens or Iranian persons
   >
   > - **(a)** *In general* The President shall impose sanctions described in section 105(c) with respect to each person on the list required by subsection (b).
-  > - **(b)** *List of persons who engage in certain actions against United States citizens or Iranian persons*
-  >   - **(1)** *In general* Not later than 90 days after the date of the enactment of this section, the President shall submit to the appropriate congressional committees a list of persons that the President determines, based on credible evidence—
-  >     - **(A)** are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the politically-motivated intimidation, abuse, extortion, or detention or trial of citizens of the United States or United States legal permanent resident aliens, in Iran; or
-  >     - **(B)** are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the politically-motivated intimidation, abuse, extortion, or detention or trial of Iranians, Iranian residents, or persons of Iranian origin outside of Iran.
+  > - **(b)** *List of Iranian persons who engage in certain actions against United States citizens or Iranian persons*
+  >   - **(1)** *In general* Not later than 180 days after the date of the enactment of this section, the President shall submit to the appropriate congressional committees a list of Iranian persons that the President determines, are knowingly—
+  >     - **(A)** responsible for or complicit in, or responsible for ordering or otherwise directing, the politically-motivated harassment, abuse, extortion, or extended detention or trial of citizens of the United States or United States legal permanent resident aliens, regardless of whether such actions occurred in Iran; or
+  >     - **(B)** responsible for or complicit in, or responsible for ordering or otherwise directing, the politically-motivated harassment, abuse, extortion, or extended detention or trial of Iranians, Iranian residents, or persons of Iranian origin outside of Iran.
   >   - **(2)** *Updates of list* The President shall submit to the appropriate congressional committees an updated list under paragraph (1)—
   >     - **(A)** each time the President is required to submit an updated list to those committees under section 105(b)(2)(A); and
   >     - **(B)** as new information becomes available.
@@ -80,7 +82,7 @@ This Act may be cited as the “Iran Human Rights and Hostage-Taking Accountabil
   >     - **(A)** *Form* The list required by paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
   >     - **(B)** *Public availability* The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
   > - **(c)** *Application of sanctions to immediate family members*
-  >   - **(1)** *In general* The President shall impose sanctions described in paragraph (2) with respect to each person that is a family member of any person on the list required by subsection (b).
+  >   - **(1)** *In general* The President is authorized to impose sanctions described in paragraph (2) with respect to each person that is a family member of any person on the list required by subsection (b).
   >   - **(2)** *Aliens ineligible for visas, admission, or parole*
   >     - **(A)** *Visas, admission, or parole* An alien who the Secretary of State or the Secretary of Homeland Security (or a designee of one of such Secretaries) knows, or has reason to believe, is a family member of any person on the list required by subsection (b) is—
   >       - **(i)** inadmissible to the United States;
@@ -103,7 +105,7 @@ This Act may be cited as the “Iran Human Rights and Hostage-Taking Accountabil
 - **(d)** *Amendments to general provisions* Section 401 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8551) is amended—
   - **(1)** in subsection (a), by striking “and 305” and inserting “, 105D, and 305”; and
   - **(2)** in subsection (b)(1)—
-    - **(A)** by striking “or 105C(a)” and inserting “, 105C(a), or 105D(a)”; and
+    - **(A)** by striking “or 105C(a)” and inserting “105C(a), or 105D(a)”; and
     - **(B)** by striking “or 105C(b)” and inserting “105C(b), or 105D(b)”.
 
 ## § 6. Consolidation of certain reports

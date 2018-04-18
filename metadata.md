@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4744
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4744
@@ -16,11 +16,54 @@ Iran Human Rights and Hostage-Taking Accountability Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (3)
+## Cosponsors (46)
 
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Ros-Lehtinen, Ileana [R-FL-27] (R000435)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
 
 ## Committees (4)
 
@@ -37,3 +80,16 @@ Iran Human Rights and Hostage-Taking Accountability Act
 - 2018-01-09 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-01-09 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-01-09 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-01-11 — Referred to the Subcommittee on Trade.
+- 2018-03-15 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2018-03-15 — Committee Consideration and Mark-up Session Held.
+- 2018-03-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-04-18 — Committee on Financial Services discharged.
+- 2018-04-18 — Committee on Financial Services discharged.
+- 2018-04-18 — Committee on Ways and Means discharged.
+- 2018-04-18 — Committee on Ways and Means discharged.
+- 2018-04-18 — Committee on the Judiciary discharged.
+- 2018-04-18 — Committee on the Judiciary discharged.
+- 2018-04-18 — Placed on the Union Calendar, Calendar No. 491.
+- 2018-04-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-642, Part I.
+- 2018-04-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-642, Part I.
