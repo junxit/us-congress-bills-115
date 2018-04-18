@@ -31,12 +31,13 @@ This Act may be cited as the “Bridge Contract Transparency and Accountability 
   - **(1)** *In general* Not later than September 30, 2019, and by September 30 of each subsequent year thereafter until 2025, the head of each executive agency shall submit to the Administrator for Federal Procurement Policy a report on the use by the agency of bridge contracts.
   - **(2)** *Elements* The report required under paragraph (1) shall include the following elements:
     - **(A)** The common definition for bridge contracts used by contracting offices of the executive agency.
-    - **(B)** The total number of bridge contracts entered into during the previous 5 fiscal years.
+    - **(B)** The total number of bridge contracts entered into during the previous 5 fiscal years previous fiscal year.
     - **(C)** The estimated value of each contract that required the use of a bridge contract and the cost of the bridge contract or contracts.
     - **(D)** The reasons for and cost of each bridge contract.
     - **(E)** The types of services or goods being acquired under each bridge contract.
     - **(F)** The length of the initial contract that required the use of a bridge contract, including the base and any exercised option years, and the cumulative length of any bridge contract or contracts related to the initial contract.
     - **(G)** A description of how many of the contracts that required bridge contracts were subsequently recompeted and how many of those recompeted contracts were the subject of a bid protest.
+    - **(G)** A description of how many bridge contracts were entered into as the result of a bid protest.
     - **(H)** A description of existing statutory, regulatory, or agency guidance that the agency followed to execute the bridge contracts.
     - **(I)** Any other matters determined to be relevant by the Office of Federal Procurement Policy or the General Services Administration.
   - **(3)** *Publication* The report required under paragraph (1) shall be posted on a publicly available website of the executive agency.
