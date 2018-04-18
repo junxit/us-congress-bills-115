@@ -1,7 +1,7 @@
 ---
 measure: S. 2113
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2113
@@ -28,3 +28,7 @@ Construction Consensus Procurement Improvement Act of 2017
 
 - 2017-11-09 — Introduced in Senate
 - 2017-11-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-04-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-231.
+- 2018-04-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-231.
+- 2018-04-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 382.
