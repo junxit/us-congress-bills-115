@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 57
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 57
@@ -62,3 +62,18 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2018-04-18 — Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 76. (text: CR S2240)
 - 2018-04-18 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 76.(text: CR S2240)
 - 2018-04-18 — Received in the House.
+- 2018-05-07 — Rules Committee Resolution H. Res. 872 Reported to House. Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
+- 2018-05-08 — Considered under the provisions of rule H. Res. 872. (consideration: CR H3815-3823)
+- 2018-05-08 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 57.
+- 2018-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-08 — On passage Passed by the Yeas and Nays: 234 - 175, 1 Present (Roll no. 171). (text: CR H3815)
+- 2018-05-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 175, 1 Present (Roll no. 171).(text: CR H3815)
+- 2018-05-08 — Rule H. Res. 872 passed House.
+- 2018-05-08 — Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
+- 2018-05-08 — The previous question was ordered pursuant to the rule.
+- 2018-05-10 — Presented to President.
+- 2018-05-10 — Presented to President.
+- 2018-05-21 — Became Public Law No: 115-172.
+- 2018-05-21 — Became Public Law No: 115-172.
+- 2018-05-21 — Signed by President.
+- 2018-05-21 — Signed by President.
