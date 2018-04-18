@@ -1,7 +1,7 @@
 ---
 measure: S. 1281
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1281
@@ -23,9 +23,10 @@ Hack the Department of Homeland Security Act of 2018
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Hack the Department of Homeland Security Act of 2018
 - 2018-04-17 — Senate amendment proposed (on the floor): Amendment SA 2238 proposed by Senator McConnell for Senator Hassan.(consideration: CR S2224; text: CR S2224)
 - 2018-04-17 — Senate amendment submitted
 - 2018-04-17 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S2224)
+- 2018-04-18 — Message on Senate action sent to the House.
+- 2018-04-18 — Received in the House.
+- 2018-04-18 — Referred to the House Committee on Homeland Security.
