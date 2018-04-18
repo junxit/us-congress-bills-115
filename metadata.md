@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 57
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 57
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (20)
+## Cosponsors (24)
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
@@ -38,10 +38,19 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Thune, John [R-SD] (T000250)
 
 ## Committees (1)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+
+## Recorded votes (2)
+
+- 2018-04-17 — [Senate 115-2-75](votes/senate-115-2-0075.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–47)
+- 2018-04-18 — [Senate 115-2-76](votes/senate-115-2-0076.md) — On the Joint Resolution — **Joint Resolution Passed** (51–47)
 
 ## Actions
 
@@ -50,3 +59,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2018-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
 - 2018-04-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2018-04-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2018-04-17 — Measure laid before Senate by motion. (consideration: CR S2200-2215)
+- 2018-04-17 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 75. (CR S2200)
+- 2018-04-18 — Considered by Senate. (consideration: CR S2227-2240)
+- 2018-04-18 — Held at the desk.
+- 2018-04-18 — Message on Senate action sent to the House.
+- 2018-04-18 — Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 76. (text: CR S2240)
+- 2018-04-18 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 76.(text: CR S2240)
+- 2018-04-18 — Received in the House.
