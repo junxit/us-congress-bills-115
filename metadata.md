@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4403
@@ -34,9 +34,10 @@ Moving Americans Privacy Protection Act
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Moving Americans Privacy Protection Act
 - 2018-04-17 — Mr. Reichert moved to suspend the rules and pass the bill, as amended.
 - 2018-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3359)
 - 2018-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3359)
+- 2018-04-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
