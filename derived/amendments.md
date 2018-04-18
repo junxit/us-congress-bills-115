@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4744
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 22 U.S.C. § 8551
 
-> by striking “or 105C(a)” and inserting “, 105C(a), or 105D(a)”; and
+> by striking “or 105C(a)” and inserting “105C(a), or 105D(a)”; and
 
 | | |
 |---|---|
 | Removed | `or 105C(a)` |
-| Inserted | `, 105C(a), or 105D(a)` |
+| Inserted | `105C(a), or 105D(a)` |
 
 ### 22 U.S.C. § 8551
 
