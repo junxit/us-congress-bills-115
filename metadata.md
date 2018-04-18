@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 426
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 426
@@ -39,3 +39,5 @@ A resolution supporting the goals of International Women's Day.
 - 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-03-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
+- 2018-04-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2280-2283; text: CR S2281-2283)
+- 2018-04-18 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2280-2283; text: CR S2281-2283)
