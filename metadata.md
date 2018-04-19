@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2905
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2905
@@ -20,10 +20,11 @@ Justice for Victims of IRS Scams and Identity Theft Act of 2018
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Justice for Victims of IRS Scams and Identity Theft Act of 2018
 - 2018-04-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 147).
 - 2018-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 147).
 - 2018-04-18 — The title of the measure was amended. Agreed to without objection.
+- 2018-04-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
