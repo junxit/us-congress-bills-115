@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 431
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 431
@@ -16,11 +16,12 @@ A resolution supporting the goals and ideals of "International Parental Child Ab
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ A resolution supporting the goals and ideals of "International Parental Child Ab
 
 - 2018-03-12 — Introduced in Senate
 - 2018-03-12 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1633-1634)
+- 2018-04-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-04-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-04-19 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2330)
+- 2018-04-19 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2330)
