@@ -1,0 +1,22 @@
+---
+legis-num: S. 2720
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2720
+
+> To codify the outer Continental Shelf blowout preventer systems and well control rule and the Arctic drilling rule.
+
+## § 1. Short title
+
+This Act may be cited as the “Clean Coasts Act”.
+
+## § 2. Codification of the outer Continental Shelf blowout preventer systems and well control rule and the Arctic drilling rule
+
+The following are enacted into law:
+
+- **(1)** Subparts A, B, C, D, E, F, G, P, Q, and S of part 250 of title 30, Code of Federal Regulations (as in effect on February 1, 2017).
+- **(2)** Subparts A, D, and E of part 254 of title 30, Code of Federal Regulations (as in effect on February 1, 2017).
+- **(3)** Subparts A and B of part 550 of title 30, Code of Federal Regulations (as in effect on February 1, 2017).
