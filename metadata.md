@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5444
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5444
@@ -23,10 +23,11 @@ Taxpayer First Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Taxpayer First Act
 - 2018-04-18 — Pursuant to the provisions of H. Res. 831, the text of H.R. 2901, H.R. 5437, H.R. 5438, H.R. 5439, H.R. 5440, H.R. 5443, H.R. 5445, and H.R. 5446, all as passed by the House, were appended to the end of the engrossment of H.R. 5444 as new matter.
 - 2018-04-18 — Rule provides for consideration of both H.R. 5444 and H.R. 5445 under closed rules with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Ways and Means for each measure. Rule also provides for one motion to recommit with or without instructions for each measure.
 - 2018-04-18 — The previous question was ordered pursuant to the rule.
+- 2018-04-19 — Received in the Senate and Read twice and referred to the Committee on Finance.
