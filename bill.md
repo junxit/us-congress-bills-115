@@ -1,0 +1,32 @@
+---
+legis-num: H. RES. 837
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 837
+
+> Honoring Captain Tammie Jo Shults and the crew of Southwest Flight 1380 for their bravery, knowledge, and dedication to the safety of passengers on board.
+
+## Preamble
+
+- Whereas, on April 17, 2018, Captain Tammie Jo Bonnell Shults piloted Southwest Flight 1380, destined for Dallas, Texas, from New York’s LaGuardia Airport;
+- Whereas 149 people were on board Flight 1380, 144 passengers and five crew members;
+- Whereas Flight 1380 suffered an in-flight failure of its left engine approximately twenty minutes after takeoff, sending shrapnel into the fuselage;
+- Whereas seven passengers were injured and the life of Jennifer Riordan, of Albuquerque, New Mexico, was tragically lost during the accident;
+- Whereas Riordan is survived by two children and her husband, Michael Riordan;
+- Whereas, on April 17, 2018, Albuquerque Mayor Tim Keller said in a statement that Riordan’s death is a “tremendous and tragic loss” and “her leadership and philanthropic efforts made [Albuquerque] a better place every day and she will be terribly missed”;
+- Whereas, the co-pilot of Flight 1380, Darren Ellisor, was an Air Force pilot for more than 10 years before joining Southwest Airlines;
+- Whereas Captain Shults’s experience and quick thinking allowed her to successfully complete an emergency landing at the Philadelphia International Airport, saving the lives of every passenger except for Riordan and avoiding any casualties on the ground;
+- Whereas, after making a safe emergency landing, Captain Shults entered the cabin to speak to each of the passengers personally;
+- Whereas Captain Shults was one of the first female fighter pilots in the Navy’s history and one of the first women to fly F/A–18 Hornets;
+- Whereas, although she was never allowed to fly in combat, she became an aggressor pilot and an instructor;
+- Whereas a friend of Captain Shults said that her military training prepared her for this moment, “those are the kinds of people you want as pilots,” and “that’s what she does, and she’s good at it”; and
+- Whereas, thanks to the calmness, courage, heroism, and experience demonstrated by Captain Shults and the crew of Southwest Flight 1380, 148 lives were saved and countless others were spared: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** commends Captain Tammie Jo Shults and the crew of Flight 1380 for their courage and heroism;
+- **(2)** praises Captain Tammie Jo Shults not only for her commitment to the safety of the passengers on her plane, but for her determination to further women’s role in military and commercial aviation; and
+- **(3)** mourns the loss of Jennifer Riordan and expresses its condolences to her family.
