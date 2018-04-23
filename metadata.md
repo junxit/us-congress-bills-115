@@ -1,7 +1,7 @@
 ---
 measure: S. 2325
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2325
@@ -29,3 +29,12 @@ Northern Mariana Islands U.S. Workforce Act
 - 2018-03-20 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-214.
 - 2018-03-20 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-214.
 - 2018-03-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
+- 2018-04-23 — Amendment SA 2239 agreed to in Senate by Unanimous Consent.
+- 2018-04-23 — Amendment SA 2239 proposed by Senator McConnell for Senator Murkowski. (consideration: CR S2351; text: CR S2351) To make technical amendments to the bill.
+- 2018-04-23 — Measure laid before Senate by unanimous consent. (consideration: CR S2349-2354)
+- 2018-04-23 — Passed Senate with an amendment by Voice Vote. (text: CR S2351-2354)
+- 2018-04-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S2351-2354)
+- 2018-04-23 — Senate amendment agreed to: Amendment SA 2239 agreed to in Senate by Unanimous Consent.
+- 2018-04-23 — Senate amendment proposed (on the floor): Amendment SA 2239 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S2351; text: CR S2351)
+- 2018-04-23 — Senate amendment submitted
+- 2018-04-23 — The committee substitute as amended agreed to by Unanimous Consent.
