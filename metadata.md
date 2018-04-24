@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2061
@@ -56,3 +56,13 @@ North Korean Human Rights Reauthorization Act of 2017
 - 2017-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 531). (text: CR H7441-7442)
 - 2017-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 531).(text: CR H7441-7442)
 - 2017-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-04-24 — Amendment SA 2240 agreed to in Senate by Unanimous Consent.
+- 2018-04-24 — Amendment SA 2240 proposed by Senator McConnell for Senator Rubio. (consideration: CR S2396) In the nature of a substitute.
+- 2018-04-24 — Measure laid before Senate by unanimous consent. (consideration: CR S2396)
+- 2018-04-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-04-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-04-24 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-04-24 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-04-24 — Senate amendment agreed to: Amendment SA 2240 agreed to in Senate by Unanimous Consent.
+- 2018-04-24 — Senate amendment proposed (on the floor): Amendment SA 2240 proposed by Senator McConnell for Senator Rubio.(consideration: CR S2396)
+- 2018-04-24 — Senate amendment submitted
