@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “American Space Commerce Free Enterprise Act”.
+- **(a)** *Short title* This Act may be cited as the “American Space Commerce Free Enterprise Act of 2017”.
 - **(b)** *Table of Contents* The table of contents is as follows:
 
 ## § 2. Findings; policy; purposes
@@ -113,15 +113,3 @@ Not later than 180 days after the date of enactment of this Act, the Comptroller
 - **(1)** the identification of key practices for successful organizational transitions;
 - **(2)** the advantages and disadvantages of the removal and reestablishment with respect to the ability of the Office to continue to coordinate and communicate with Federal Aviation Administration on airspace issues; and
 - **(3)** the identification of any issues that are preventing the Office from fully carrying out its statutory mandate, and if such issues would persist regardless of organizational location of the Office within the Department of Transportation.
-
-## § 11. Radiofrequency mapping report
-
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Secretary of Defense and the Director of National Intelligence, shall complete and submit to the Advisory Committee on Commercial Remote Sensing a report on space-based radiofrequency mapping.
-- **(b)** *Contents* The report required under subsection (a) shall include—
-  - **(1)** whether there is a need to regulate space-based radiofrequency mapping;
-  - **(2)** any immitigable impacts of space-based radiofrequency mapping on national security, U.S. competitiveness and space leadership, and constitutional freedoms; and
-  - **(3)** findings, conclusions, and recommendations regarding the costs and benefits of additional regulatory authority over space-based radiofrequency mapping; and
-  - **(4)** an evaluation of—
-    - **(A)** whether the development of voluntary consensus industry standards in coordination with the Department of Defense is more appropriate than issuing regulations with respect to space-based radiofrequency mapping; and
-    - **(B)** how existing authorities, regulations, and laws could be applied in a manner that prevents the need for additional regulation of such mapping.
-- **(c)** *Advisory Committee on Commercial Remote Sensing review* Not later than 90 days after the date of receipt of the report required under subsection (a), the Advisory Committee on Commercial Remote Sensing shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the report submitted under subsection (a) and the opinion of the Advisory Committee with respect to such report, including any critiques, concerns, recommendations, and endorsements. Such opinion shall be submitted directly from the Chair of the Advisory Committee to those Committees of Congress without any review or change by the Administration.
