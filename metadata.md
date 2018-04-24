@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5005
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5005
@@ -16,7 +16,7 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
@@ -37,6 +37,9 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Lewis, John [D-GA-5] (L000287)
 
 ## Committees (1)
 
@@ -47,3 +50,11 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 - 2018-02-13 — Introduced in House
 - 2018-02-13 — Introduced in House
 - 2018-02-13 — Referred to the House Committee on Natural Resources.
+- 2018-02-16 — Referred to the Subcommittee on Federal Lands.
+- 2018-02-28 — Subcommittee Hearings Held.
+- 2018-04-11 — Committee Consideration and Mark-up Session Held.
+- 2018-04-11 — Ordered to be Reported by Unanimous Consent.
+- 2018-04-11 — Subcommittee on Federal Lands Discharged.
+- 2018-04-24 — Placed on the Union Calendar, Calendar No. 493.
+- 2018-04-24 — Reported by the Committee on Natural Resources. H. Rept. 115-644.
+- 2018-04-24 — Reported by the Committee on Natural Resources. H. Rept. 115-644.
