@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2809
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-This Act may be cited as the “American Space Commerce Free Enterprise Act of 2017”.
+- **(a)** *Short title* This Act may be cited as the “American Space Commerce Free Enterprise Act”.
+- **(b)** *Table of Contents* The table of contents is as follows:
 
 ## § 2. Findings; policy; purposes
 
@@ -41,7 +42,7 @@ This Act may be cited as the “American Space Commerce Free Enterprise Act of 2
   - **(4)** the term “Liability Convention” means the Convention on the International Liability for Damage Caused by Space Objects (signed at Washington, Moscow, and London on March 29, 1972, ratified by the United States on October 9, 1973; 24 UST 2389); and
   - **(5)** the term “Outer Space Treaty” means the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies (signed at Washington, Moscow, and London on January 27, 1967, ratified by the United States on October 10, 1967; 18 UST 2410).
 
-## § 3. Certificates to operate space objects
+## § 3. Certification to operate space objects
 
 Title 51, United States Code, is amended by adding at the end the following:
 
@@ -63,7 +64,7 @@ Title 51, United States Code, is further amended by adding at the end the follow
 
 ## § 6. Technical and conforming amendments
 
-- **(a)** *Table of chapters* The table of chapters of title 51, United State Code, is amended by adding at the end the following:
+- **(a)** *Table of chapters* The table of chapters of title 51, United States Code, is amended by adding at the end the following:
 - **(b)** *Repeals*
   - **(1)** *In general* Title 51, United States Code, is amended as follows:
     - **(A)** Subchapter III of chapter 601 is repealed.
@@ -76,18 +77,18 @@ Title 51, United States Code, is further amended by adding at the end the follow
     - **(A)** in section 20302(c)(2), by striking “means has the meaning” and inserting “has the meaning”;
     - **(B)** in section 50702(c)(5), by striking “Space-Based Position” and inserting “Space-Based Positioning”; and
     - **(C)** in section 71102(1), by striking “tracking device” and inserting “tracking device to”.
-  - **(2)** *Chapter 513* The table of chapters of title 51, United State Code, is amended by striking the item related to chapter 513 and inserting the following:
-  - **(3)** *Chapter 701* The table of chapters of title 51, United State Code, is amended by striking the item related to chapter 701 and inserting the following:
+  - **(2)** *Chapter 513* The table of chapters of title 51, United States Code, is amended by striking the item related to chapter 513 and inserting the following:
+  - **(3)** *Chapter 701* The table of chapters of title 51, United States Code, is amended by striking the item related to chapter 701 and inserting the following:
 
 ## § 7. Office of Space Commerce
 
 Section 50702 of title 51, United States Code, is amended—
 
 - **(1)** in subsection (a), by adding at the end before the period “, which shall be located in the principal physical location of the Office of the Secretary of Commerce”;
-- **(2)** in subsection (b), by striking “a senior executive and shall be compensated at a level in the Senior Executive Service under section 5382 of title 5 as determined by the Secretary of Commerce” and inserting “appointed by the President and confirmed by the Senate. The Director shall be the Assistant Secretary of Commerce for Space Commerce and shall report directly to the Secretary of Commerce.”; and
+- **(2)** in subsection (b), by striking “a senior executive and shall be compensated at a level in the Senior Executive Service under section 5382 of title 5 as determined by the Secretary of Commerce” and inserting “appointed by the President and confirmed by the Senate. The Director shall be the Assistant Secretary of Commerce for Space Commerce and shall report directly to the Secretary of Commerce”; and
 - **(3)** in subsection (c)—
   - **(A)** in paragraph (4), by striking “and” at the end;
-  - **(B)** in paragraph (5), by striking the period at the end; and
+  - **(B)** in paragraph (5), by striking the period at the end and inserting a semicolon; and
   - **(C)** by adding at the end the following:
     > - **(6)** to authorize and supervise the operations of United States nongovernmental entities in outer space, pursuant to chapter 801 of this title;
     > - **(7)** to authorize and supervise the operations of space-based remote sensing systems pursuant to chapter 802 of this title; and
@@ -104,3 +105,23 @@ Section 50904(c) of title 51, United States Code, is amended by adding at the en
   - **(1)** an identification of the practices and procedures among countries that are members of the Outer Space Treaty and the Convention on Registration of Space Objects in implementing and complying with the registration obligations contained in the treaties;
   - **(2)** a description of any existing practices and procedures of the Federal Government for the registration of nongovernmental space objects; and
   - **(3)** recommendations on how the registration of space objects in the United States could be improved to benefit the United States, including enabling United States leadership in commercial space activities.
+
+## § 10. Comptroller General report
+
+Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on removing the Office of Commercial Space Transportation from under the jurisdiction of the Federal Aviation Administration and reestablishing the Office under the jurisdiction of the Secretary of Transportation. Such report shall include—
+
+- **(1)** the identification of key practices for successful organizational transitions;
+- **(2)** the advantages and disadvantages of the removal and reestablishment with respect to the ability of the Office to continue to coordinate and communicate with Federal Aviation Administration on airspace issues; and
+- **(3)** the identification of any issues that are preventing the Office from fully carrying out its statutory mandate, and if such issues would persist regardless of organizational location of the Office within the Department of Transportation.
+
+## § 11. Radiofrequency mapping report
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Secretary of Defense and the Director of National Intelligence, shall complete and submit to the Advisory Committee on Commercial Remote Sensing a report on space-based radiofrequency mapping.
+- **(b)** *Contents* The report required under subsection (a) shall include—
+  - **(1)** whether there is a need to regulate space-based radiofrequency mapping;
+  - **(2)** any immitigable impacts of space-based radiofrequency mapping on national security, U.S. competitiveness and space leadership, and constitutional freedoms; and
+  - **(3)** findings, conclusions, and recommendations regarding the costs and benefits of additional regulatory authority over space-based radiofrequency mapping; and
+  - **(4)** an evaluation of—
+    - **(A)** whether the development of voluntary consensus industry standards in coordination with the Department of Defense is more appropriate than issuing regulations with respect to space-based radiofrequency mapping; and
+    - **(B)** how existing authorities, regulations, and laws could be applied in a manner that prevents the need for additional regulation of such mapping.
+- **(c)** *Advisory Committee on Commercial Remote Sensing review* Not later than 90 days after the date of receipt of the report required under subsection (a), the Advisory Committee on Commercial Remote Sensing shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the report submitted under subsection (a) and the opinion of the Advisory Committee with respect to such report, including any critiques, concerns, recommendations, and endorsements. Such opinion shall be submitted directly from the Chair of the Advisory Committee to those Committees of Congress without any review or change by the Administration.
