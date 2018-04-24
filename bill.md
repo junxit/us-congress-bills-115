@@ -18,7 +18,7 @@ This Act may be cited as the “Main Street Employee Ownership Act of 2018”.
 In this Act—
 
 - **(1)** the terms Administration and Administrator means the Small Business Administration and the Administrator thereof, respectively;
-- **(2)** the term cooperative means an entity that is determined to be a cooperative by the Administrator;
+- **(2)** the term cooperative means an entity that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulations;
 - **(3)** the term employee-owned business concern means—
   - **(A)** a cooperative in which employees are eligible for membership; and
   - **(B)** a qualified employee trust;
@@ -47,30 +47,26 @@ In this Act—
       - **(iv)** by adding at the end the following:
         > - **(iv)** with respect to a loan made to a trust, or to a cooperative in accordance with paragraph (35)—
         >   - **(I)** a seller of the small business concern may remain involved as an officer, director, or key employee of the small business concern when a qualified employee trust or cooperative has acquired 100 percent of ownership of the small business concern; and
-        >   - **(II)** any seller of the small business concern who remains as an owner of the small business concern, regardless of the percentage of ownership interest, may be required to provide a personal guarantee by the Administration.
+        >   - **(II)** any seller of the small business concern who remains as an owner of the small business concern, regardless of the percentage of ownership interest, shall be required to provide a personal guarantee by the Administration.
 
     - **(C)** by adding at the end the following:
       > - **(F)** A small business concern that makes a loan to a qualified employee trust under subparagraph (A)(ii) is not required to contain the same terms and conditions as the loan made to the small business concern that is guaranteed by the Administration under such subparagraph.
-      > - **(G)** The Administration shall not require a qualified employee trust or any member of the trust to provide a personal guarantee on a loan guaranteed under this paragraph unless any single member of the trust has more than a 20 percent ownership share in the trust.
-      > - **(H)** With respect to a loan made to a qualified employee trust under this paragraph, or to a cooperative in accordance with paragraph (35), the Administrator may, as deemed appropriate, elect to not require any mandatory equity to be provided by the qualified employee trust or cooperative to make the loan.
+      > - **(G)** With respect to a loan made to a qualified employee trust under this paragraph, or to a cooperative in accordance with paragraph (35), the Administrator may, as deemed appropriate, elect to not require any mandatory equity to be provided by the qualified employee trust or cooperative to make the loan.
 
   - **(2)** by adding at the end the following:
     > - **(35)** *Loans to cooperatives*
-    >   - **(A)** *Definition* In this paragraph, the term cooperative means a corporation—
-    >     - **(i)** that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulations; and
-    >     - **(ii)** in which employees are eligible for membership.
+    >   - **(A)** *Definition* In this paragraph, the term cooperative means an entity that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulation.
     >   - **(B)** *Authority* The Administration shall guarantee loans made to a cooperative for the purpose described in paragraph (15).
-    >   - **(C)** *No guarantee* With respect to a cooperative that is formed through a transfer of ownership, the Administrator may, as deemed appropriate, waive the requirement for a guarantee on a loan guaranteed under this paragraph unless any single member of the cooperative has more than a 20 percent ownership share in the cooperative.
 
 - **(b)** *Delegation of authority to preferred lenders* Section 5(b)(7) of the Small Business Act (15 U.S.C. 634(b)(7)) is amended by inserting “, including loans guaranteed under paragraph (15) or (35) of section 7(a)” after “deferred participation loans”.
 
 ## § 4. Small business investment company program outreach
 
-The Administrator shall establish an outreach program with companies licensed under section 301(c) of the Small Business Investment Act of 1958 (15 U.S.C. 681(c)) to increase the use of funds to make investments in company transitions to employee-owned business concerns.
+The Administrator shall provide outreach and educational materials to companies licensed under section 301(c) of the Small Business Investment Act of 1958 (15 U.S.C. 681(c)) to increase the use of funds to make investments in company transitions to employee-owned business concerns.
 
 ## § 5. Small business microloan program outreach
 
-The Administrator shall establish an outreach program with intermediaries under section 7(m) of the Small Business Act (15 U.S.C. 636(m)) to increase the use of funds to make loans to employee-owned business concerns, including transitions to employee-owned business concerns.
+The Administrator shall provide outreach and educational materials to intermediaries under section 7(m) of the Small Business Act (15 U.S.C. 636(m)) to increase the use of funds to make loans to employee-owned business concerns, including transitions to employee-owned business concerns.
 
 ## § 6. Small business development center outreach and assistance
 
@@ -96,7 +92,7 @@ The Administrator shall establish an outreach program with intermediaries under 
 - **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator (or a designee of the Administrator) shall coordinate and chair an interagency working group, which shall—
   - **(1)** develop recommendations on how Federal programs can promote, support, and increase the number of employee-owned business concerns;
   - **(2)** ensure coordination with Federal agencies and national and local employee ownership, cooperative, and small business organizations; and
-  - **(3)** submit an annual report to Congress on the activities of the interagency working group.
+  - **(3)** publish a report on the activities of the interagency working group that is indexed and maintained for public review.
 - **(b)** *Meetings* The interagency working group shall meet at such times as determined necessary by the, but not less than biannually. Such meetings may occur in person or via electronic resources.
 
 ## § 8. Amendment to report to Congress on status of employee-owned firms
@@ -106,8 +102,21 @@ Section 7(a)(15)(E) of the Small Business Act (15 U.S.C. 636(a)(15)(E)) is amend
 > Administration, which shall include—
 > - **(i)** the total number of loans made to employee-owned business concerns that were guaranteed by the Administrator under section 7(a) of the Small Business Act (15 U.S.C. 636(a)) or section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696), including the number of loans made—
 >   - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
->   - **(II)** to cooperatives in which employees are eligible for membership; and
+>   - **(II)** to cooperatives in which employees are eligible for membership;
 > - **(ii)** the total number of financings made to employee-owned business concerns by companies licensed under section 301(c) of the Small Business Investment Act of 1958 (15 U.S.C. 696(c)), including the number of financings made—
 >   - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
 >   - **(II)** to cooperatives in which employees are eligible for membership; and
 > - **(iii)** any outreach and educational activities conducted by the Administration with respect to employee-owned business concerns.
+
+## § 9. Report on cooperative lending
+
+- **(a)** *Sense of Congress* It is the sense of Congress that cooperatives have a unique business structure and are unable to access the lending programs of the Administration effectively due to loan guarantee requirements that are incompatible with the business structure of cooperatives.
+- **(b)** *Study and report*
+  - **(1)** *Study* The Administrator, in coordination with lenders, stakeholders, and Federal agencies, shall study and recommend practical alternatives for cooperatives that will satisfy the loan guarantee requirements of the Administration.
+  - **(2)** *Report* Not later than 120 days after the date of enactment of this Act, the Administrator shall submit to Congress the recommendations developed under paragraph (1) and a plan to implement such recommendations.
+
+## § 10. Amendment to definition of qualified employee trust
+
+Section 3(c)(2)(A)(ii) of the Small Business Act (15 U.S.C. 632(c)(2)(A)(ii)) is amended to read as follows:
+
+> - **(ii)** which provides that each participant is entitled to direct the plan trustee as to the manner of how to vote the qualified employer securities (as defined in section 4975(e)(8) of the Internal Revenue Code of 1986), which are allocated to the account of such participant with respect to a corporate matter which (by law or charter) must be decided by a vote conducted in accordance with section 409(e) of the Internal Revenue Code of 1986; and
