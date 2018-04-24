@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4560
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4560
@@ -25,3 +25,9 @@ GSE Jumpstart Reauthorization Act of 2017
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Referred to the House Committee on Financial Services.
+- 2017-12-12 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Committee Consideration and Mark-up Session Held.
+- 2017-12-13 — Ordered to be Reported by the Yeas and Nays: 33 - 27.
+- 2018-04-24 — Placed on the Union Calendar, Calendar No. 497.
+- 2018-04-24 — Reported by the Committee on Financial Services. H. Rept. 115-648.
+- 2018-04-24 — Reported by the Committee on Financial Services. H. Rept. 115-648.
