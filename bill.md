@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 2061
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2061
 
-> To reauthorize the North Korean Human Rights Act of 2004, and for other purposes.
+That the bill from the House of Representatives (H.R. 2061) entitled “An Act to reauthorize the North Korean Human Rights Act of 2004, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,81 +17,112 @@ This Act may be cited as the “North Korean Human Rights Reauthorization Act of
 
 ## § 2. Findings
 
-Congress finds the following:
+Congress makes the following findings:
 
-- **(1)** The North Korean Human Rights Act of 2004 (22 U.S.C. 7801 et seq.), the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346), and the Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012 (Public Law 112–172) were the products of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
-- **(2)** Fundamental human rights and humanitarian conditions inside North Korea remain deplorable, North Korean refugees remain acutely vulnerable, and the congressional findings included in the Acts listed in paragraph (1) remain substantially accurate today.
-- **(3)** The United States, which has the largest international refugee resettlement program in the world, has resettled 212 North Koreans since the enactment of the North Korean Human Rights Act of 2004.
-- **(4)** In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many people in the Korean-American community have family ties to North Korea.
-- **(5)** Notwithstanding high-level advocacy by the United States, South Korea, and the United Nations High Commissioner for Refugees, China has forcibly repatriated tens of thousands of North Koreans.
-- **(6)** Congressman Eni F.H. Faleomavaega served 25 years in the House of Representatives, including as the Chairman and the Ranking Member of the Foreign Affairs Subcommittee on Asia and the Pacific, was a leader in strengthening the relationship between the American and Korean peoples, authored multiple resolutions regarding issues on the Korean Peninsula, was a champion of human rights, and stated, in support of the Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012, that “just as Ambassador Lilley and Congressman Solarz worked hard to protect the human rights of the North Korean people, we must remain vigilant in helping the people of North Korea who struggle daily to escape the oppression and tyranny of the North Korean regime”.
+- **(1)** In 2014, the United Nations Commission of Inquiry (COI) on Human Rights in the Democratic People’s Republic of Korea (DPRK) found that the grave human rights violations still being perpetrated against the people of North Korea, due to policies established at the highest level of the state, amount to crimes against humanity. Crimes include forced starvation, sexual violence against women and children, restrictions on freedom of movement, arbitrary detention, torture, executions, and enforced disappearances, among other hardships.
+- **(2)** The COI also noted that the Government of the People's Republic of China is aiding and abetting in crimes against humanity by forcibly repatriating North Korean refugees back to the DPRK. Upon repatriation, North Koreans are sent to prison camps, tortured, or even executed. The Government of the People's Republic of China’s forcible repatriation of North Korean refugees violates its obligation to uphold the principle of non-refoulement, under the United Nations Convention Relating to the Status of Refugees, done at Geneva July 28, 1951 (as made applicable by the Protocol Relating to the Status of Refugees, done at New York January 31, 1967 (19 UST 6223)).
+- **(3)** Estimates from the COI suggest that between 80,000 and 120,000 people are believed to be imprisoned in political prison camps in North Korea. Another 70,000 are believed to be held at other detention facilities. Prisoners in both situations are subject to harsh conditions, limited food, sexual abuse, and in most cases hard labor.
+- **(4)** One of the findings of the COI report was the persecution of religious minorities, especially Christians. There is effectively no freedom of religion in North Korea, only worship of the Kim family. Christians are subjected to particularly acute persecution. It has been reported that Christians in North Korea have been tortured, forcibly detained, and even executed for possessing a Bible or professing Christianity.
+- **(5)** North Korea profits from its human rights abuses. A 2014 report from the Asian Institute for Policy Studies suggests that there are nearly 50,000 North Korean workers forced to labor overseas, sometimes without compensation, and for as much as 20 hours at a time. Workers that received compensation were not to be paid more than $150 per month, which is between 10 to 20 percent of the value of the labor they performed. Based on this report, the regime may profit as much as $360,000,000 annually from just 50,000 laborers.
+- **(6)** On July 6, 2016, the United States imposed sanctions on North Korean leader Kim Jong Un and other senior North Korean officials for human rights violations as required by the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122). This was the first time that the United States had designated North Korean officials for human rights abuses.
+- **(7)** The North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122) requires the President to impose mandatory penalties under United States law on any person that “knowingly engages in, is responsible for, or facilitates serious human rights abuses by the Government of North Korea”.
+- **(8)** Although the United States Refugee Admissions Program remains the largest in the world by far, the United States has only resettled 212 refugees from North Korea since the date of the enactment of the North Korea Human Rights Act of 2004 (Public Law 108–333).
 
 ## § 3. Sense of Congress
 
-- **(a)** *In general* It is the sense of Congress that—
-  - **(1)** the United States should continue to seek cooperation from all foreign governments to allow the United Nations High Commissioner for Refugees access to process North Korean refugees overseas for resettlement and to allow United States officials access to process refugees for resettlement in the United States (if that is the destination country of the refugees’ choosing);
-  - **(2)** the Secretary of State, through persistent diplomacy by senior officials, including United States ambassadors to Asia-Pacific countries, and in close cooperation with United States ally South Korea, should make every effort to promote the protection of North Korean refugees and defectors; and
-  - **(3)** because North Koreans fleeing into China face a well-founded fear of persecution upon their forcible repatriation, the United States should urge China to—
-    - **(A)** immediately halt the forcible repatriation of North Koreans;
-    - **(B)** allow the United Nations High Commissioner for Refugees unimpeded access to North Koreans inside China to determine whether such North Koreans require protection as refugees; and
-    - **(C)** fulfill its obligations under the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the Agreement on the Upgrading of the UNHCR Mission in the People's Republic of China to UNHCR Branch Office in the People's Republic of China (signed December 1, 1995).
-- **(b)** *Continuing sense of Congress* It remains the sense of Congress, as specified in section 3(3) of the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346; 22 U.S.C. 7801 note), that “the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.)”.
+It is the sense of Congress that—
 
-## § 4. Reauthorization of the North Korean Human Rights Act of 2004
+- **(1)** the United States Government should continue to make it a priority to improve information access in North Korea by exploring the use of new and emerging technologies and expanding nongovernmental radio broadcasting to North Korea, including news and information;
+- **(2)** the United Nations has a significant role to play in promoting and improving human rights in North Korea and should press for access for the Special Rapporteur on the situation of human rights in North Korea as well as the United Nations High Commissioner for Human Rights;
+- **(3)** because North Koreans fleeing into China face a well-founded fear of persecution upon their forcible repatriation, the United States should urge China to—
+  - **(A)** immediately halt the forcible repatriation of North Koreans;
+  - **(B)** allow the United Nations High Commissioner for Refugees unimpeded access to North Koreans inside China to determine whether such North Koreans require protection as refugees;
+  - **(C)** fulfill its obligations under the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the Agreement on the Upgrading of the UNHCR Mission in the People's Republic of China to UNHCR Branch Office in the People's Republic of China (signed December 1, 1995);
+  - **(D)** address the concerns of the United Nations Committee against Torture by incorporating the principle of non-refoulement into Chinese domestic legislation; and
+  - **(E)** recognize the legal status of North Korean women who marry or have children with Chinese citizens, and ensure that all such children are granted resident status and access to education and other public services in accordance with Chinese law and international standards;
+- **(4)** the President should continue to designate all individuals found to have committed violations described in section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 2914(a)), regarding complicity in censorship and human right abuses;
+- **(5)** the United States currently blocks United States passports from being used to travel to North Korea without a special validation from the Department of State, and the Department of State should continue to take steps to increase public awareness about the risks and dangers of travel by United States citizens to North Korea;
+- **(6)** the United States should continue to seek cooperation from all foreign governments to allow the United Nations High Commissioner for Refugees (UNHCR) access to process North Korean refugees overseas for resettlement and to allow United States officials access to process refugees for resettlement in the United States (if that is the destination country of the refugees' choosing); and
+- **(7)** the Secretary of State, through diplomacy by senior officials, including United States ambassadors to Asia-Pacific countries, and in close cooperation with South Korea, should make every effort to promote the protection of North Korean refugees and defectors.
 
-- **(a)** *Human rights and democracy programs* Paragraph (1) of section 102(b) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)) is amended by striking “2017” and inserting “2022”.
-- **(b)** *Promoting freedom of information* Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended—
+## § 4. Radio broadcasting to North Korea
+
+Section 103(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7813(a)) is amended—
+
+- **(1)** by striking “that the United States should facilitate” and inserting the following: “that the United States should—
+  > - **(1)** facilitate
+
+- **(2)** in paragraph (1), as redesignated by paragraph (1) of this section—
+  - **(A)** by striking “radio broadcasting” and inserting “broadcasting, including news rebroadcasting,”; and
+  - **(B)** by striking “increase broadcasts” and inserting “increase such broadcasts, including news rebroadcasts,”; and
+  - **(C)** by striking “Voice of America.” and inserting the following: “Voice of America; and”; and
+- **(3)** by adding at the end the following:
+  > - **(2)** expand funding for nongovernmental organization broadcasting efforts, prioritizing organizations that engage North Korean defectors in programming and broadcast services.
+
+## § 5. Actions to promote freedom of information
+
+Section 104(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814(a)) is amended—
+
+- **(1)** by striking “The President” and inserting the following:
+  > - **(1)** *In general* The President
+
+- **(2)** by inserting “, USB drives, micro SD cards, audio players, video players, cell phones, wi-fi, wireless internet, web pages, internet, wireless telecommunications, and other electronic media that shares information” before the period at the end; and
+- **(3)** by adding at the end the following:
+  > - **(2)** *Distribution* In accordance with the sense of Congress described in section 103, the President, acting through the Secretary of State, is authorized to distribute or provide grants to distribute information receiving devices, electronically readable devices, and other informational sources into North Korea, including devices and informational sources specified in paragraph (1). To carry out this paragraph, the President is authorized to issue regulations to facilitate the free-flow of information into North Korea.
+  > - **(3)** *Research and development grant program* In accordance with the authorization described in paragraphs (1) and (2) to increase the availability and distribution of sources of information inside North Korea, the President, acting through the Secretary of State, is authorized to establish a grant program to make grants to eligible entities to develop or distribute (or both) new products or methods to allow North Koreans easier access to outside information. Such program may involve public-private partnerships.
+  > - **(4)** *Culture* In accordance with the sense of Congress described in section 103, the Broadcasting Board of Governors may broadcast American, Korean, Chinese, and other popular music, television, movies, and popular cultural references as part of its programming.
+  > - **(5)** *Rights and laws* In accordance with the sense of Congress described in section 103, the Broadcasting Board of Governors should broadcast to North Korea in the Korean language information on rights, laws, and freedoms afforded through the North Korean Constitution, the Universal Declaration of Human Rights, the United Nations Commission of Inquiry on Human Rights in the Democratic People’s Republic of Korea, and any other applicable treaties or international agreements to which North Korea is bound.
+  > - **(6)** *Religious minorities* Efforts to improve information access under this subsection should include religious communities and should be coordinated with the Office of International Religious Freedom to ensure maximum impact in improving the rights of religious persons in North Korea.
+  > - **(7)** *Broadcasting report* Not later than—
+  >   - **(A)** 180 days after the date of the enactment of this paragraph, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report that sets forth a detailed plan for improving broadcasting content for the purpose of targeting new audiences and increasing listenership; and
+  >   - **(B)** 1 year after the date of the enactment of this paragraph, and annually thereafter for each of the next 5 years, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report including—
+  >     - **(i)** a description of the effectiveness of actions taken pursuant to this section, including data reflecting audience and listenership, device distribution and usage, and technological development and advancement usage;
+  >     - **(ii)** the amount of funds expended by the United States Government pursuant to section 403; and
+  >     - **(iii)** other appropriate information necessary to fully inform Congress of efforts related to this section.
+
+## § 6. Sense of Congress on humanitarian coordination related to the Korean Peninsula
+
+Title III of the North Korean Human Rights Act of 2004 (22 U.S.C. 7841 et seq.) is amended by adding at the end the following:
+
+> ## § 306. Sense of Congress on humanitarian coordination related to the Korean Peninsula
+>
+> It is the sense of Congress that—
+>
+> - **(1)** any instability on the Korean Peninsula could have significant humanitarian and strategic impact on the region and for United States national interests; and
+> - **(2)** as such, the United States Government should work with countries sharing a land or maritime border with North Korea to develop long-term whole-of-government plans to coordinate efforts related to humanitarian assistance and human rights promotion and to effectively assimilate North Korean defectors.
+
+## § 7. Reauthorization provisions
+
+- **(a)** *Support for human rights and democracy programs* Section 102 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended—
+  - **(1)** in subsection (a), by adding at the end the following: “The President is also authorized to provide grants to entities to undertake research on North Korea’s denial of human rights, including on the political and military chains of command responsible for authorizing and implementing systemic human rights abuses, including at prison camps and detention facilities where political prisoners are held.”; and
+  - **(2)** in subsection (b)(1), by striking “2017” and inserting “2022”.
+- **(b)** *Actions To promote freedom of information* Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended—
   - **(1)** in subsection (b)(1)—
     - **(A)** by striking “$2,000,000” and inserting “$3,000,000”; and
     - **(B)** by striking “2017” and inserting “2022”; and
   - **(2)** in subsection (c), by striking “2017” and inserting “2022”.
-- **(c)** *Report by special envoy on North Korean human rights* Subsection (d) of section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is amended by striking “2017” and inserting “2022”.
-- **(d)** *Report on humanitarian assistance* Section 201 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831) is amended in the matter preceding paragraph (1) by striking “2017” and inserting “2022”.
-- **(e)** *Assistance provided outside of North Korea* Paragraph (1) of section 203(c) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)) is amended by striking “2017” and inserting “2022”.
-- **(f)** *Annual reporting* Section 305 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845) is amended in the matter preceding paragraph (1) by striking “2017” and inserting “2022”.
+- **(c)** *Report by Special Envoy on North Korean human rights issues* Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) is amended by striking “2017” and inserting “2022”.
+- **(d)** *Report on United States humanitarian assistance* Section 201 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831 is amended—
+  - **(1)** in subsection (a), in the matter preceding paragraph (1), by striking “2017” and inserting “2022”;
+  - **(2)** by redesignating subsection (b) as subsection (c); and
+  - **(3)** by inserting after subsection (a) the following new subsection:
+    > - **(b)** *Needs assessment* The report shall include a needs assessment to inform the distribution of humanitarian assistance inside North Korea.
 
-## § 5. Actions to promote freedom of information and democracy in North Korea
+- **(e)** *Assistance provided outside of North Korea* Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2013 through 2017” and inserting “2018 through 2022”.
+- **(f)** *Annual reports* Section 305(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845(a)) is amended, in the matter preceding paragraph (1) by striking “2017” and inserting “2022”.
 
-The North Korean Human Rights Act of 2004, as amended by this Act, is further amended—
-
-- **(1)** in subsection (a) of section 103 (22 U.S.C. 7813)—
-  - **(A)** by striking “radio broadcasting” and inserting “broadcasting, including news rebroadcasting,”; and
-  - **(B)** by striking “increase broadcasts” and inserting “increase such broadcasts, including news rebroadcasts,”; and
-- **(2)** in subsection (a) of section 104 (22 U.S.C. 7814)—
-  - **(A)** by striking “The President” and inserting the following:
-    > - **(1)** *In general* The President
-
-  - **(B)** by inserting “, USB drives, micro SD cards, audio players, video players, cell phones, wi-fi, wireless internet, webpages, internet, wireless telecommunications, and other electronic media that share information” before the period at the end; and
-  - **(C)** by adding at the end the following new paragraphs:
-    > - **(2)** *Distribution* In accordance with the sense of Congress described in section 103, the President, acting through the Secretary of State, is authorized to distribute or provide grants to distribute information receiving devices, electronically readable devices, and other informational sources into North Korea, including devices and informational sources specified in paragraph (1). To carry out this paragraph, the President is authorized to issue directions to facilitate the free-flow of information into North Korea.
-    > - **(3)** *Research and development grant program* In accordance with the authorization described in paragraphs (1) and (2) to increase the availability and distribution of sources of information inside North Korea, the President, acting through the Secretary of State, is authorized to establish a grant program to make grants to eligible entities to develop or distribute (or both) new products or methods to allow North Koreans easier access to outside information. Such program may involve public-private partnerships.
-    > - **(4)** *Culture* In accordance with the sense of Congress described in section 103, the Broadcasting Board of Governors may broadcast American, Korean, and other popular music, television, movies, and popular cultural references as part of its programming.
-    > - **(5)** *Rights and laws* In accordance with the sense of Congress described in section 103, the Broadcasting Board of Governors shall broadcast to North Korea in the Korean language information on rights, laws, and freedoms afforded through the North Korean Constitution, the Universal Declaration of Human Rights, the United Nations Commission of Inquiry on Human Rights in the Democratic People’s Republic of Korea, and any other applicable treaties or international agreements to which North Korea is bound.
-    > - **(6)** *Broadcasting report* Not later than—
-    >   - **(A)** 180 days after the date of the enactment of this paragraph, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report that sets forth a detailed plan for improving broadcasting content for the purpose of reaching additional audiences and increasing consumption of uncensored news and information using all available and reasonable means; and
-    >   - **(B)** 1 year after the date of the enactment of this paragraph and annually thereafter for each of the next 5 years, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report on the effectiveness of actions taken pursuant to this section, including data reflecting audience and listenership, device distribution and usage, technological development and advancement usage, and other information as requested by such committees.
-
-## § 6. Repeal of duplicate authorizations
-
-Section 403 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122; 22 U.S.C. 9253) is hereby repealed.
-
-## § 7. Report by the Broadcasting Board of Governors
+## § 8. Report by Broadcasting Board of Governors
 
 - **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Broadcasting Board of Governors shall submit to the appropriate congressional committees a report that—
   - **(1)** describes the status of current United States broadcasting to North Korea and the extent to which the Board has achieved the goal of 12-hour-per-day broadcasting to North Korea, in accordance with section 103(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7813(a)); and
   - **(2)** includes a strategy to overcome obstacles to such communication with the North Korean people, including through unrestricted, unmonitored, and inexpensive electronic means.
-- **(b)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+- **(b)** *Form* The report required under subsection (a) shall be submitted in unclassified form but may include a classified annex.
 - **(c)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
-  - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
-  - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+  - **(1)** the Committee on Foreign Relations of the Senate;
+  - **(2)** the Committee on Appropriations of the Senate;
+  - **(3)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(4)** the Committee on Appropriations of the House of Representatives.
 
-## § 8. Report by the Department of State
+## § 9. Repeal of duplicative authorizations
 
-- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of State, in consultation with the heads of other relevant Federal departments and agencies, shall submit to the appropriate congressional committees a report that includes a description of any ongoing or planned efforts of the Department of State with respect to each of the following:
-  - **(1)** Resuming the repatriation from North Korea of members of the United States Armed Forces missing or unaccounted for during the Korean War.
-  - **(2)** Reuniting Korean Americans with their relatives in North Korea.
-  - **(3)** Assessing the security risks posed by travel to North Korea for United States citizens.
-- **(b)** *Form* The report required under subsection (a) shall be submitted in unclassified form.
-- **(c)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
-  - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
-  - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+Section 403 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122; 22 U.S.C. 9253) is hereby repealed.
