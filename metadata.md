@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2061
@@ -70,3 +70,14 @@ North Korean Human Rights Reauthorization Act of 2017
 - 2018-04-24 — Senate amendment agreed to: Amendment SA 2240 agreed to in Senate by Unanimous Consent.
 - 2018-04-24 — Senate amendment proposed (on the floor): Amendment SA 2240 proposed by Senator McConnell for Senator Rubio.(consideration: CR S2396)
 - 2018-04-24 — Senate amendment submitted
+- 2018-04-25 — Message on Senate action sent to the House.
+- 2018-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-27 — Ms. Ros-Lehtinen asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5787-5788)
+- 2018-06-27 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5787-5788)
+- 2018-06-27 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5787-5788)
+- 2018-07-10 — Presented to President.
+- 2018-07-10 — Presented to President.
+- 2018-07-20 — Became Public Law No: 115-198.
+- 2018-07-20 — Became Public Law No: 115-198.
+- 2018-07-20 — Signed by President.
+- 2018-07-20 — Signed by President.
