@@ -58,4 +58,5 @@ Not later than 2 years after the date of enactment of this Act, the Comptroller 
 
 ## § 6. Funding
 
-From funds otherwise provided to the National Science Foundation, a total of $5,000,000 shall be made available for fiscal years 2019 and 2020 to carry out the activities described in section 4 and the amendment made by section 3.
+- **(a)** *Fiscal years 2019 and 2020* Out of amounts otherwise authorized for the National Science Foundation, there is authorized to be appropriated a total of $5,000,000 for fiscal years 2019 and 2020 to carry out the activities described in section 4 and the amendment made by section 3.
+- **(b)** *Limitation* No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
