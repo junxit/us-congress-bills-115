@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4681
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,55 +17,59 @@ This Act may be cited as the “No Assistance for Assad Act”.
 
 Congress makes the following findings:
 
-- **(1)** Six years into the conflict in Syria, over 11 million Syrians have been displaced from their homes and over 400,000 civilians have been killed.
-- **(2)** Since the conflict in Syria began, the United States has provided more than $7.4 billion to meet humanitarian needs of the Syrian people, making the United States the world’s single largest donor to the Syrian humanitarian response.
-- **(3)** As the Syrian regime continues the use cluster munitions to carry out indiscriminate attacks against civilians, the United States has played an essential role in clearing unexploded ordnance in Syria, as civilians seek to return home to areas liberated from Islamic State of Iraq and Syria (ISIS).
-- **(4)** It is estimated that the reconstruction of Syria could cost between $200 and $350 billion.
-- **(5)** According to the 2016 Transparency International Corruption Index, Syria is among the most corrupt countries in the world.
-- **(6)** Reconstruction funds can be expected to be siphoned off to the regime of Syrian President Bashar al-Assad, given the rampant corruption.
-- **(7)** In October 2015, a visiting Russian delegation to Syria announced that Russian firms would lead in the effort to rebuild Syria, and Syrian President Bashar al-Assad reportedly said, “Syria is ready to provide Russian companies with all the contracts worth hundreds of billions of dollars.”.
-- **(8)** In August 2017, the Government of the People’s Republic of China hosted a trade fair in Syria, and a Chinese-Arab business group announced a $2,000,000,000 commitment from the Chinese government to fund the construction of industrial parks in Syria.
+- **(1)** Seven years into the conflict in Syria, over 11 million Syrians have been displaced from their homes and more than 400,000 have been killed.
+- **(2)** Since the conflict in Syria began, the United States has provided more than $7.6 billion to meet humanitarian needs of the Syrian people, making the United States the world’s single largest donor to the Syrian humanitarian response.
+- **(3)** It is estimated that the reconstruction of Syria could cost between $200 and $350 billion.
+- **(4)** According to the 2016 Transparency International Corruption Index, Syria is among the most corrupt countries in the world.
+- **(5)** In October 2015, a visiting Russian delegation to Syria announced that Russian firms would lead in the effort to rebuild Syria, and Syrian President Bashar al-Assad reportedly said, “Syria is ready to provide Russian companies with all the contracts worth hundreds of billions of dollars.”.
+- **(6)** In August 2017, the Government of the People’s Republic of China hosted a trade fair in Syria, and a Chinese-Arab business group announced a $2 billion commitment from the Chinese government to fund the construction of industrial parks in Syria.
 
 ## § 3. Statement of policy
 
-It shall be the policy of the United States that United States assistance made available for early recovery, reconstruction, or stabilization in Syria should be used in a democratic Syria or in areas of Syria not controlled by the Government of Syria led by Bashar al-Assad or associated forces.
+It is the policy of the United States that United States foreign assistance made available for early recovery, reconstruction, or stabilization in Syria should be used only in a democratic Syria or in areas of Syria not controlled by a government led by Bashar al-Assad or associated forces.
 
 ## § 4. Limitation on assistance for areas of Syria controlled by the Government of Syria or associated forces
 
 - **(a)** *Limitation*
-  - **(1)** *In general* Except as provided in subsection (d), amounts authorized to be appropriated for each of the fiscal years 2018 through 2022 for assistance described in paragraph (2) may be provided under any other provision of law, directly or indirectly, for any area of Syria controlled by the Government of Syria or associated forces only during a period for which a certification described in subsection (b) is in effect.
+  - **(1)** *In general* Except as provided in subsection (c), for each of the fiscal years 2019 through 2023, amounts authorized to be appropriated or otherwise made available for assistance described in paragraph (2) may not be provided, directly or indirectly, for any area of Syria controlled by the Government of Syria or associated forces, as determined by the Secretary of State, unless a certification described in subsection (b) is in effect.
   - **(2)** *Assistance described* Assistance referred to in paragraph (1) is the following:
-    - **(A)** Assistance to enable disaster-affected populations to transition from dependence upon emergency assistance to early recovery and self-reliance, including the restoration of basic services, livelihoods, shelter, and security, and the reintegration of displaced populations.
-    - **(B)** Assistance to carry out stabilization activities for the relevant area.
-    - **(C)** Assistance to carry out reconstruction activities for the relevant area.
-- **(b)** *Certification* A certification described in this subsection is a certification submitted by the President to the appropriate congressional committees that contains a determination of the President that the Government of Syria—
-  - **(1)** has ceased any attacks against civilians and civilian infrastructure as such, including attacks against medical facilities and personnel, and any indiscriminate use of weapons, including through shelling and aerial bombardment, as demanded in United Nations Security Council Resolution 2254 (2015);
-  - **(2)** is taking verifiable steps to release all political prisoners and is providing full access to Syrian prisons for investigations by appropriate international human rights organizations;
-  - **(3)** is taking verifiable steps to remove senior officials of the Government of Syria who are complicit in the planning, implementation, or coverup of war crimes, crimes against humanity, or human rights abuses and any person subject to sanctions under any provision of law from government positions;
-  - **(4)** is in the process of organizing free and fair elections for a new government to be held in a timely manner and to be conducted under the supervision of United Nations observers with all Syrians, including members of the diaspora, eligible to participate, as supported in United Nations Security Council Resolution 2254 (2015);
-  - **(5)** is making tangible progress toward establishing an independent judiciary;
-  - **(6)** is demonstrating respect for and compliance with internationally recognized human rights and basic freedoms as specified in the Universal Declaration of Human Rights;
-  - **(7)** is taking steps to verifiably fulfill its commitments under the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction and the Treaty on the Non-Proliferation of Nuclear Weapons, is making tangible progress toward becoming a signatory to the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction, and adhering to the Missile Technology Control Regime and other control lists, as necessary;
-  - **(8)** has halted the development and deployment of ballistic and cruise missiles;
-  - **(9)** is taking verifiable steps to remove from positions of authority within the intelligence and security services as well as the military those individuals who were in a position of authority or responsibility during the conflict or who are in a position of authority or responsibility during a transition and who under the authority of their position are implicated in or complicit in the torture, extrajudicial killing, or execution of civilians, to include those who were involved in decision making or execution of plans to use chemical weapons;
-  - **(10)** is making verifiable progress of reforming the Syrian military and security services so as to minimize the Government of Syria’s reliance on Iran and Iranian proxy forces to act on behalf or in support of Syria; and
-  - **(11)** is in the process of organizing the safe, unfettered and voluntary return of Syrian refugees and internally displaced persons to their homes so that Syrians may return without fear of retribution by the Government of Syria or associated forces.
-- **(c)** *Recertifications* Not later than 90 days after the date on which the President submits to the appropriate congressional committees an initial certification under subsection (b), and every 90 days thereafter through September 30, 2022—
-  - **(1)** the President shall submit to the appropriate congressional committees a recertification that the conditions described in subsection (b) are continuing to be met; or
-  - **(2)** if the President is unable to make such a recertification, the President shall submit to the appropriate congressional committees a report that contains—
-    - **(A)** the reasons for which the President is unable to make such a recertification; and
-    - **(B)** a certification that no funds will be obligated or expended to provide assistance described in subsection (a) in contravention of subsection (a).
-- **(d)** *Exception*
+    - **(A)** Assistance to carry out stabilization activities for the relevant area.
+    - **(B)** Assistance to carry out reconstruction activities for the relevant area.
+- **(b)** *Certification*
+  - **(1)** *In general* A certification described in this subsection is a certification submitted by the President to the appropriate congressional committees that contains a determination that the Government of Syria—
+    - **(A)** has ceased attacks against civilians and civilian infrastructure as such, including attacks against medical facilities and personnel, and the indiscriminate use of weapons, including through shelling and aerial bombardment, as demanded in United Nations Security Council Resolution 2254 (2015);
+    - **(B)** is taking verifiable steps to release all political prisoners and is providing full access to Syrian prisons for investigations by appropriate international human rights organizations;
+    - **(C)** is taking verifiable steps to remove from government positions senior officials of the Government of Syria who are complicit in the planning or commission of war crimes, crimes against humanity, or human rights abuses, as well as any government official subject to sanctions under any provision of law;
+    - **(D)** is organizing free and fair elections for a new government to be held in a timely manner and under the supervision of United Nations observers, with all Syrians, including members of the diaspora, eligible to participate, as supported in United Nations Security Council Resolution 2254 (2015);
+    - **(E)** is making tangible progress toward establishing an independent judiciary;
+    - **(F)** is demonstrating respect for and compliance with internationally recognized human rights and basic freedoms as specified in the Universal Declaration of Human Rights;
+    - **(G)** is taking steps to verifiably fulfill its commitments under the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction and the Treaty on the Non-Proliferation of Nuclear Weapons, is making tangible progress toward becoming a signatory to the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction, and adhering to the Missile Technology Control Regime and other control lists, as necessary;
+    - **(H)** has halted the development and deployment of ballistic and cruise missiles;
+    - **(I)** is taking verifiable steps to remove from positions of authority within the military, intelligence, and security services those individuals who were in a position of authority or responsibility during the conflict, or who are in a position of authority or responsibility during a transition, who are determined to be responsible for or complicit in the torture, extrajudicial killing, or execution of civilians, to include those who were involved the planning or execution of plans to use chemical weapons;
+    - **(J)** is making verifiable progress in reforming the Syrian military and security services so as to minimize the Government of Syria’s reliance on Iran and Iranian proxy forces to act on behalf or in support of Syria; and
+    - **(K)** is in the process of organizing the safe and voluntary return of Syrian refugees and internally displaced persons to their homes so that Syrians may return without fear of retribution by the Government of Syria or associated forces.
+  - **(2)** *Effective period* A certification shall be in effect under this subsection for a period of 90 days beginning on the date on which the President submits the certification to the appropriate congressional committees.
+  - **(3)** *Renewal or report* Not later than 90 days after the date on which the President submits to the appropriate congressional committees a certification under this subsection the President shall submit to the appropriate congressional committees either—
+    - **(A)** a new certification under this subsection indicating that the conditions described in paragraph (1) are continuing to be met; or
+    - **(B)** a report that—
+      - **(i)** describes why the President is unable to make a new certification under this subsection; and
+      - **(ii)** contains a certification that no funds will be obligated or expended to provide assistance described in subsection (a) in contravention of subsection (a).
+- **(c)** *Exception*
   - **(1)** *In general* The limitation on assistance under subsection (a) shall not apply with respect to—
-    - **(A)** assistance for projects to be administered by local organizations that reflect the aims, needs, and priorities of local communities in Syria; and
-    - **(B)** assistance for projects to meet humanitarian needs, including demining and needs for food, medicine, medical supplies and equipment, education, and clothing.
-  - **(2)** *Report* The President shall submit to the appropriate congressional committees an annual report on each project with respect to which this subsection applies during the preceding calendar year, including—
+    - **(A)** assistance for projects to be administered by local organizations that reflect the aims, needs, and priorities of local communities in Syria;
+    - **(B)** assistance for projects to meet basic human needs in Syria, including—
+      - **(i)** drought relief;
+      - **(ii)** assistance to refugees, internally displaced persons, and conflict victims;
+      - **(iii)** the distribution of food and medicine; and
+      - **(iv)** the provision of health services; and
+    - **(C)** assistance to carry out the activities described in subsection (b)(1)(G).
+  - **(2)** *Report and determination* The President shall submit to the appropriate congressional committees a report and determination for each of the fiscal years 2019 through 2023 on each project with respect to which this subsection applies during the preceding fiscal year, including—
     - **(A)** a description of the project;
     - **(B)** a description of how United States funds with respect to the project were used;
     - **(C)** the geographic location or locations of the project; and
-    - **(D)** an identification of the implementing partner and a list of senior officials of the implementing partner.
-  - **(3)** *Sense of Congress* It is the sense of Congress that, to the extent practicable, the United States should only fund projects described in this subsection with respect to which the Government of Syria, any official of the Government of Syria, and any immediate family member of an official of the Government of Syria do not have a financial or material interest and are not affiliated with the implementing partner of the project.
-- **(e)** *Definitions* In this section:
+    - **(D)** a determination with respect to whether the project benefited an official of the Assad regime.
+  - **(3)** *Sense of Congress* It is the sense of Congress that, to the greatest extent practicable, the United States should not fund projects described in this subsection with respect to which the Government of Syria, any official of the Government of Syria, and any immediate family member of an official of the Government of Syria have a financial or material interest or are affiliated with the implementing partner of the project.
+- **(d)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
     - **(A)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
     - **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
