@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4668
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -57,10 +57,18 @@ Section 21(a) of the Small Business Act (15 U.S.C. 648(a)) is amended by adding 
 >       - **(I)** any activity authorized under this paragraph or the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501 et seq.); or
 >       - **(II)** any action or inaction in response to any cyber threat indicator, defensive measure, or other information shared or received pursuant to this paragraph or the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501 et seq.).
 >     - **(ii)** *Application* The exception provided in section 105(d)(5)(D)(ii)(I) of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1504(d)(5)(D)(ii)(I)) shall not apply to any cyber threat indicator or defensive measure shared or received by small business concerns pursuant to this paragraph or the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501 et seq.).
+>     - **(iii)** *Rule of construction* Nothing in this subparagraph shall be construed to affect the applicability or merits of any defense, motion, or argument in any cause of action in a court brought against an entity that is not a small business concern.
 >   - **(F)** *Definitions* In this paragraph:
 >     - **(i)** *CISA definitions* The terms cyber threat indicator and defensive measure have the meanings given such terms in section 102 of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501).
 >     - **(ii)** *National cybersecurity and communications integration center* The term national cybersecurity and communications integration center means the national cybersecurity and communications integration center established under section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148).
 
 ## § 4. Prohibition on new appropriations
 
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise made available for such purposes.
+- **(a)** *In general* No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act.
+- **(b)** *Existing funding* This Act and the amendments made by this Act shall be carried out using amounts made available under section 21(a)(4)(C)(viii) of the Small Business Act (15 U.S.C. 648(a)(4)(viii)).
+- **(c)** *Technical and conforming amendment* Section 21(a)(4)(C)(viii) of the Small Business Act (15 U.S.C.648(a)(4)(C)(viii)) is amended to read as follows:
+  > - **(viii)** *Limitation*
+  >   - **(I)** *Cybersecurity assistance* From the funds appropriated pursuant to clause (vii), the Administration shall reserve not less than $1,000,000 in each fiscal year to develop cybersecurity assistance units at small business development centers under paragraph (9).
+  >   - **(II)** *Portable assistance*
+  >     - **(aa)** *In general* Any funds appropriated pursuant to clause (vii) that are remaining after reserving amounts under subclause (I) may be used for portable assistance for startup and sustainability non-matching grant programs to be conducted by eligible small business development centers in communities that are economically challenged as a result of a business or government facility down sizing or closing, which has resulted in the loss of jobs or small business instability.
+  >     - **(bb)** *Grant amount and use* A non-matching grant under this subclause shall not exceed $100,000, and shall be used for small business development center personnel expenses and related small business programs and services.
