@@ -1,7 +1,7 @@
 ---
 measure: S. 1446
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
