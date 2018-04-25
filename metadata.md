@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2809
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2809
@@ -34,9 +34,10 @@ American Space Commerce Free Enterprise Act
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Bera, Ami [D-CA-7] (B001287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ American Space Commerce Free Enterprise Act
 - 2018-04-24 — Placed on the Union Calendar, Calendar No. 498.
 - 2018-04-24 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-649.
 - 2018-04-24 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-649.
+- 2018-04-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
