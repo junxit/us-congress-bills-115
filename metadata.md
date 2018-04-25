@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4681
@@ -44,10 +44,11 @@ No Assistance for Assad Act
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Rosen, Jacky [D-NV-3] (R000608)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ No Assistance for Assad Act
 - 2018-04-24 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-04-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3470-3472)
 - 2018-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3470-3472)
+- 2018-04-25 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
