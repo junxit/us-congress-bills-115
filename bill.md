@@ -2,7 +2,7 @@
 legis-num: H. RES. 839
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 839
@@ -23,7 +23,7 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 
 ## § 3.
 
-On any legislative day during the period from April 30, 2018, through May 4, 2018 —
+On any legislative day during the period from April 30, 2018, through May 4, 2018—
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
