@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 For the purposes of this Act:
 
-- **(1)** *FCRPS* The term FCRPS means the Federal Columbia River Power System.
+- **(1)** *FCRPS* The term FCRPS means those portions of the Federal Columbia River Power System that are the subject of the Supplemental Opinion.
 - **(2)** *Secretaries* The term Secretaries means—
   - **(A)** the Secretary of the Interior, acting through the Bureau of Reclamation;
   - **(B)** the Secretary of Energy, acting through the Bonneville Power Administration; and
@@ -38,4 +38,4 @@ The Secretaries shall operate the FCRPS in a manner consistent with the reasonab
 
 ## § 4. Limitation on restricting FCRPS electrical generation or navigation on the Snake River
 
-No structural modification, action, study, or engineering plan that restricts electrical generation at any Federal Columbia Power System hydroelectric dam, or that limits navigation on the Snake River in the State of Washington, Oregon, or Idaho, shall proceed unless such proposal is specifically and expressly authorized by an Act of Congress enacted after the date of submission to Congress of a proposal for such modification, action, study, or engineering plan, respectively.
+No structural modification, action, study, or engineering plan that restricts electrical generation at any FCRPS hydroelectric dam, or that limits navigation on the Snake River in the State of Washington, Oregon, or Idaho, shall proceed unless such proposal is specifically and expressly authorized by an Act of Congress enacted after the date of the enactment of this Act. Nothing in this section affects or interferes with the authority of the Secretaries to conduct operation and maintenance activities or make capital improvements necessary to meet authorized project purposes of FCRPS facilities.
