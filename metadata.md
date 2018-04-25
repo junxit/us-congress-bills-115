@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5447
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5447
@@ -16,7 +16,7 @@ Music Modernization Act
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (30)
+## Cosponsors (49)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Collins, Doug [R-GA-9] (C001093)
@@ -48,6 +48,25 @@ Music Modernization Act
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. McCarthy, Kevin [R-CA-23] (M001165)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Handel, Karen C. [R-GA-6] (H001078)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 
 ## Committees (1)
 
@@ -58,3 +77,16 @@ Music Modernization Act
 - 2018-04-10 — Introduced in House
 - 2018-04-10 — Introduced in House
 - 2018-04-10 — Referred to the House Committee on the Judiciary.
+- 2018-04-11 — Committee Consideration and Mark-up Session Held.
+- 2018-04-11 — Ordered to be Reported by the Yeas and Nays: 32 - 0.
+- 2018-04-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-04-25 — Considered as unfinished business. (consideration: CR H3560-3561)
+- 2018-04-25 — Considered under suspension of the rules. (consideration: CR H3522-3542)
+- 2018-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5447.
+- 2018-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-25 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2018-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 154). (text: CR H3522-3536)
+- 2018-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 154).(text: CR H3522-3536)
+- 2018-04-25 — Placed on the Union Calendar, Calendar No. 499.
+- 2018-04-25 — Reported by the Committee on Judiciary. H. Rept. 115-651.
+- 2018-04-25 — Reported by the Committee on Judiciary. H. Rept. 115-651.
