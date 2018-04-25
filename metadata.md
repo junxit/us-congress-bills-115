@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5086
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5086
@@ -22,10 +22,11 @@ Innovators to Entrepreneurs Act of 2018
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Innovators to Entrepreneurs Act of 2018
 - 2018-04-24 — Mr. Webster (FL) moved to suspend the rules and pass the bill, as amended.
 - 2018-04-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 16 (Roll no. 149). (text: CR H3489)
 - 2018-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 16 (Roll no. 149).(text: CR H3489)
+- 2018-04-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
