@@ -1,7 +1,7 @@
 ---
 measure: H.R. 648
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 648
@@ -40,3 +40,7 @@ To authorize the Secretary of the Interior to amend the Definite Plan Report for
 - 2017-03-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 160). (text: CR H2064)
 - 2017-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 160).(text: CR H2064)
 - 2017-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-04-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-235.
+- 2018-04-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-235.
+- 2018-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.
