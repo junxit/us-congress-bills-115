@@ -1,7 +1,7 @@
 ---
 measure: S. 2758
 congress: 115
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 2758
