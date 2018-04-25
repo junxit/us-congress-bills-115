@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 401
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 401
@@ -16,7 +16,7 @@ A resolution designating May 5, 2018 as the "National Day of Awareness for Missi
 
 - Sen. Daines, Steve [R-MT] (D000618)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Hoeven, John [R-ND] (H001061)
@@ -25,6 +25,10 @@ A resolution designating May 5, 2018 as the "National Day of Awareness for Missi
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -34,3 +38,7 @@ A resolution designating May 5, 2018 as the "National Day of Awareness for Missi
 
 - 2018-02-12 — Introduced in Senate
 - 2018-02-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S876)
+- 2018-04-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2443)
+- 2018-04-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2443)
+- 2018-04-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-04-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
