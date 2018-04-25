@@ -13,3 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Short title* This Act may be cited as the “Music Modernization Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Rescission Of Unobligated Balances In The Department Of Justice Assets Forfeiture Fund
+
+Of the unobligated balances available under the Department of Justice Assets Forfeiture Fund, $47,000,000 is hereby permanently rescinded.
