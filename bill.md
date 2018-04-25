@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5618
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5618
+
+> To exempt properties located in flood hazard areas that are participating in an approved buy-out program from the mandatory purchase requirement under the National Flood Insurance Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Flooded Homeowner Financial Relief Act of 2018”.
+
+## § 2. Exemption of buy-out properties from mandatory purchase requirement
+
+Subsection (c) of section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(c)) is amended by adding at the end the following new paragraph:
+
+> - **(4)** *Buy-out properties* Notwithstanding any other provision of this section, flood insurance shall not be required for any residential property—
+>   - **(A)** that is located in an area having special flood hazards; and
+>   - **(B)** for which a binding commitment has been made to acquire the property, demolish the residential structure located on the property, and designate the property for open-space use, under a Federal, State, local, or other program for such buy-outs that meets such requirements as the Administrator shall require to ensure that such open-space use is accomplished.
