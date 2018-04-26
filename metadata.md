@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 464
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 464
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of Take Our Daughters And Sons To W
 
 - 2018-04-16 — Introduced in Senate
 - 2018-04-16 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2142-2143)
+- 2018-04-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-04-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-04-26 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2498)
+- 2018-04-26 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2498)
