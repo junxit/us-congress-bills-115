@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3144
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3144
@@ -27,10 +27,11 @@ To provide for operations of the Federal Columbia River Power System pursuant to
 - Rep. Gianforte, Greg [R-MT-At Large] (G000584)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -67,3 +68,4 @@ To provide for operations of the Federal Columbia River Power System pursuant to
 - 2018-04-25 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-04-25 — The previous question was ordered pursuant to the rule.
 - 2018-04-25 — The rule provides for consideration of H.R. 4, under a structured rule, and H.R. 3144, under a closed rule. The rule makes in order only those amendments printed in Part A of the committee report for H.R. 4. The rule provides for 1 hour of general debate for both H.R. 4 and H.R. 3144. The rule provides for one motion to recommit for both bills. And, the rule provides that on any legislative day during the period from April 30, 2018 through May 4, 2018, the Journal of the proceedings of the previous day shall be considered as approved.
+- 2018-04-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
