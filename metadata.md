@@ -1,7 +1,7 @@
 ---
 measure: S. 2644
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2644
@@ -30,3 +30,7 @@ Special Counsel Independence and Integrity Act
 
 - 2018-04-11 — Introduced in Senate
 - 2018-04-11 — Read twice and referred to the Committee on the Judiciary.
+- 2018-04-26 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-04-26 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-04-26 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
