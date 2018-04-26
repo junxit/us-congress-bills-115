@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4009
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4009
@@ -21,10 +21,11 @@ Smithsonian National Zoological Park Central Parking Facility Authorization Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Smithsonian National Zoological Park Central Parking Facility Authorization Act
 - 2018-04-25 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2018-04-25 — On passage Passed without objection. (text: CR H3520-3521)
 - 2018-04-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3520-3521)
+- 2018-04-26 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
