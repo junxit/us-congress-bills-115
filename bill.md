@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4009
-congress: 115th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4009
@@ -15,6 +15,6 @@ This Act may be cited as the “Smithsonian National Zoological Park Central Par
 
 ## § 2. Facility for improved visitor experience and access at the National Zoological Park
 
-- **(a)** *In general* In order to improve visitor experience and multi-modal access to the Smithsonian National Zoological Park, the Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct a central parking facility on National Zoological Park property in the District of Columbia.
+- **(a)** *In General* In order to improve visitor experience and multi-modal access to the Smithsonian National Zoological Park, the Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct a central parking facility on National Zoological Park property in the District of Columbia.
 - **(b)** *Central parking facility* The facility authorized under this section may include parking, transportation improvements, visitor amenities including restrooms, a pedestrian bridge to a midpoint entry of the National Zoological Park, and ancillary works to accommodate alternative uses of the facility.
 - **(c)** *Funding* Construction of the facility described in this section shall be conducted with funds from nonappropriated sources.

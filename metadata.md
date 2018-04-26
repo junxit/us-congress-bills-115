@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4009
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4009
@@ -46,3 +46,14 @@ Smithsonian National Zoological Park Central Parking Facility Authorization Act
 - 2018-04-25 — On passage Passed without objection. (text: CR H3520-3521)
 - 2018-04-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3520-3521)
 - 2018-04-26 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2018-05-16 — Passed Senate without amendment by Unanimous Consent.
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-05-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2732-2733)
+- 2018-05-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S2732-2733)
+- 2018-05-17 — Message on Senate action sent to the House.
+- 2018-05-21 — Presented to President.
+- 2018-05-21 — Presented to President.
+- 2018-06-01 — Became Public Law No: 115-178.
+- 2018-06-01 — Became Public Law No: 115-178.
+- 2018-06-01 — Signed by President.
+- 2018-06-01 — Signed by President.
