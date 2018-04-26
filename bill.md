@@ -27,28 +27,22 @@ In this Act, the terms Administration and Administrator mean the Small Business 
     > - **(a)** *Establishment* There is established within the Administration the Office of Credit Risk Management (in this section referred to as the “Office”).
     > - **(b)** *Duties* The Office shall be responsible for supervising—
     >   - **(1)** any lender making loans under section 7(a) (in this section referred to as a “7(a) lender”);
-    >   - **(2)** any participant in a lending program of the Office of Capital Access of the Administration; and
+    >   - **(2)** any Lending Partner or Intermediary participant of the Administration in a lending program of the Office of Capital Access of the Administration; and
     >   - **(3)** any small business lending company or a non-Federally regulated lender without regard to the requirements of section 23.
     > - **(c)** *Director*
     >   - **(1)** *In general* The Office shall be headed by the Director of the Office of Credit Risk Management (in this section referred to as the “Director”), who shall be a career appointee in the Senior Executive Service (as defined in section 3132 of title 5, United States Code).
     >   - **(2)** *Duties* The Director shall be responsible for oversight of the lenders and participants described in subsection (b), including by conducting periodic reviews of the compliance and performance of such lenders and participants.
-    > - **(d)** *Supervision duties for 7(a) lenders*
-    >   - **(1)** *Reviews* With respect to 7(a) lenders, an employee of the Office shall—
-    >     - **(A)** be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
-    >     - **(B)** supervise any such review that is not conducted on the premise of the 7(a) lender.
-    >   - **(2)** *Review report timeline* Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall—
-    >     - **(A)** require the Administrator to—
-    >       - **(i)** deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is conducted; or
-    >       - **(ii)** if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
-    >     - **(B)** if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
+    > - **(d)** *Supervision duties for 7(a) lenders* With respect to 7(a) lenders, an employee of the Office shall—
+    >   - **(1)** be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
+    >   - **(2)** supervise any such review that is not conducted on the premise of the 7(a) lender.
     > - **(e)** *Enforcement authority against 7(a) lenders*
-    >   - **(1)** *Informal enforcement authority* The Director may take an informal enforcement action against a 7(a) lender if the Director finds that the 7(a) lender has violated a requirement under section 7(a) or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access.
+    >   - **(1)** *Informal enforcement authority* The Director may take an informal enforcement action against a 7(a) lender if the Director finds that the 7(a) lender has violated a statutory or regulatory requirement under section 7(a) or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access.
     >   - **(2)** *Formal enforcement authority*
     >     - **(A)** *In general* With the approval of the Lender Oversight Committee established under section 48, the Director may take a formal enforcement action against any 7(a) lender if the Director finds that the 7(a) lender has violated—
-    >       - **(i)** a requirement under section 7(a), including a requirement relating to credit elsewhere, or any regulation implementing such section; or
+    >       - **(i)** a statutory or regulatory requirement under section 7(a), including a requirement relating to credit elsewhere; or
     >       - **(ii)** any requirement described in a Standard Operating Procedures Manual or Policy Notice, related to a program or function of the Office of Capital Access.
     >     - **(B)** *Enforcement actions* An enforcement action imposed on a 7(a) lender by the Director under subparagraph (A) shall be based on the severity or frequency of the violation and may include assessing a civil monetary penalty against the 7(a) lender in an amount that is not greater than $250,000.
-    >   - **(3)** *Appeal by lender* A 7(a) lender may appeal an enforcement action imposed by the Director described in paragraph (2) to the Office of Hearings and Appeals established under section 5(i) or to an appropriate district court of the United States.
+    >   - **(3)** *Appeal by lender* A 7(a) lender may appeal an enforcement action imposed by the Director described in this subsection to the Office of Hearings and Appeals established under section 5(i) or to an appropriate district court of the United States.
     > - **(f)** *Regulations* Not later than 1 year after the date of the enactment of this section, the Administrator shall issue regulations, after opportunity for notice and comment, to carry out subsection (e).
     > - **(g)** *Servicing and liquidation responsibilities* During any period during which a 7(a) lender is suspended or otherwise prohibited from making loans under section 7(a), the 7(a) lender shall remain obligated to maintain all servicing and liquidation activities delegated to the lender by the Administrator, unless otherwise specified by the Director.
     > - **(h)** *Portfolio risk analysis of 7(a) loans*
@@ -61,7 +55,7 @@ In this Act, the terms Administration and Administrator mean the Small Business 
     >       - **(ii)** the number of loans made by such 7(a) lenders;
     >     - **(D)** steps taken by the Administrator to mitigate the risks identified in subparagraphs (A), (B), and (C);
     >     - **(E)** the number of 7(a) lenders, the number of loans made, and the gross and net dollar amount of loans made;
-    >     - **(F)** the number and dollar amount of total defaults, the number and dollar amount of total repurchases, and the percentage and dollar amount of recoveries;
+    >     - **(F)** the number and dollar amount of total losses, the number and dollar amount of total purchases, and the percentage and dollar amount of recoveries at the Administration;
     >     - **(G)** the number and type of enforcement actions recommended by the Director;
     >     - **(H)** the number and type of enforcement actions approved by the Lender Oversight Committee established under section 48;
     >     - **(I)** the number and type of enforcement actions disapproved by the Lender Oversight Committee; and
@@ -74,27 +68,40 @@ In this Act, the terms Administration and Administrator mean the Small Business 
     > ## § 48. Lender Oversight Committee
     >
     > - **(a)** *Establishment* There is established within the Administration the Lender Oversight Committee (in this section referred to as the “Committee”).
-    > - **(b)** *Membership* The Committee shall consist of 11 members selected by the Administrator, of which—
+    > - **(b)** *Membership* The Committee shall consist of at least 8 members selected by the Administrator, of which—
     >   - **(1)** 3 members shall be voting members, 2 of whom shall be career appointees in the Senior Executive Service (as defined in section 3132 of title 5, United States Code); and
-    >   - **(2)** 8 members shall be nonvoting members who shall serve in an advisory capacity on the Committee.
+    >   - **(2)** the remaining members shall be nonvoting members who shall serve in an advisory capacity on the Committee.
     > - **(c)** *Duties* The Committee shall—
     >   - **(1)** review reports on lender oversight activities;
-    >   - **(2)** review formal enforcement action recommendations of the Director of the Office of Credit Risk Management with respect to any lender making loans under section 7(a) and any participant in a lending program of the Office of Capital Access of the Administration;
+    >   - **(2)** review formal enforcement action recommendations of the Director of the Office of Credit Risk Management with respect to any lender making loans under section 7(a) and any Lending Partner or Intermediary participant of the Administration in a lending program of the Office of Capital Access of the Administration;
     >   - **(3)** in carrying out paragraph (2) with respect to formal enforcement actions taken under subsection (d) or (e) of section 23, vote to recommend or not recommend action to the Administrator or a designee of the Administrator;
     >   - **(4)** in carrying out paragraph (2) with respect to any formal enforcement action not specified under subsection (d) or (e) of section 23, vote to approve, disapprove, or modify the action;
     >   - **(5)** review, in an advisory capacity, any lender oversight, portfolio risk management, or program integrity matters brought by the Director; and
     >   - **(6)** take such other actions and perform such other functions as may be delegated to the Committee by the Administrator.
     > - **(d)** *Meetings*
     >   - **(1)** *In general* The Committee shall meet as necessary, but not less frequently than on a quarterly basis.
-    >   - **(2)** *Reports* The Committee shall submit to the Administrator a report detailing each meeting of the Committee, including if the Committee does or does not vote to recommend a formal enforcement action of the Director of the Office of Credit Risk Management with respect to a lender.
+    >   - **(2)** *Reports* The Committee shall submit to the Administrator a report detailing each meeting of the Committee, including if the Committee does or does not vote to approve a formal enforcement action of the Director of the Office of Credit Risk Management with respect to a lender.
 
-- **(b)** *Transfer of functions*
+- **(b)** *Supervision duties for 7(a) lenders* Effective January 1, 2019, subsection (d) of section 47 (as added by subsection (a)) is amended to read as follows:
+  > - **(d)** *Supervision duties for 7(a) lenders*
+  >   - **(1)** *Reviews* With respect to 7(a) lenders, an employee of the Office shall—
+  >     - **(A)** be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
+  >     - **(B)** supervise any such review that is not conducted on the premise of the 7(a) lender.
+  >   - **(2)** *Review report timeline*
+  >     - **(A)** *In general* Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall—
+  >       - **(i)** require the Administrator to—
+  >         - **(I)** deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is concluded; or
+  >         - **(II)** if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
+  >       - **(ii)** if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
+  >     - **(B)** *Extension* The Administrator may extend the time frame described in subparagraph (A)(i)(II) with respect to a 7(a) lender as the Administrator determines necessary.
+
+- **(c)** *Transfer of functions*
   - **(1)** *Office of Credit Risk Management* All functions of the Office of Credit Risk Management of the Small Business Administration, including the personnel, assets, and obligation of the Office of Credit Risk Management, as in existence on the day before the date of the enactment of this Act, shall be transferred to the Office of Credit Risk Management established under section 47 of the Small Business Act, as added by subsection (a).
   - **(2)** *Lender Oversight Committee* All functions of the Lender Oversight Committee of the Small Business Administration, including the personnel, assets, and obligations of the Lender Oversight Committee, as in existence on the day before the date of the enactment of this Act, shall be transferred to the Lender Oversight Committee established under section 48 of the Small Business Act, as added by subsection (a).
-- **(c)** *Deeming of name*
+- **(d)** *Deeming of name*
   - **(1)** *Office of Credit Risk Management* Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Office of Credit Risk Management of the Small Business Administration shall be deemed a reference to the Office of Credit Risk Management, established under section 47 of the Small Business Act, as added by subsection (a).
   - **(2)** *Lender Oversight Committee* Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Lender Oversight Committee of the Small Business Administration shall be deemed a reference to the Lender Oversight Committee, established under section 48 of the Small Business Act, as added by subsection (a).
-- **(d)** *Technical amendment* Section 3(r)(2) of the Small Business Act (15 U.S.C. 632(r)(2)) is amended by striking “regulated SBA lender” each place it appears in heading and text and inserting “regulated lender”.
+- **(e)** *Technical amendment* Section 3(r)(2) of the Small Business Act (15 U.S.C. 632(r)(2)) is amended by striking “regulated SBA lender” each place it appears in heading and text and inserting “regulated lender”.
 
 ## § 4. Definition of credit elsewhere
 
@@ -107,7 +114,7 @@ In this Act, the terms Administration and Administrator mean the Small Business 
     >     - **(C)** the adequacy of the collateral available to secure the requested loan;
     >     - **(D)** the loan term necessary to reasonably assure the ability of the loan applicant to repay the debt from the actual or projected cash flow of the business; and
     >     - **(E)** any other factor relating to the particular credit application, as documented in detail by the lender, that cannot be overcome except through obtaining a Federal loan guarantee under prudent lending standards; and
-    >   - **(2)** for the purposes of section 7(b), the availability of credit on reasonable terms and conditions from non-Federal sources taking into consideration the prevailing rates and terms in the community in or near where the applicant small business concern transacts business, or the applicant homeowner resides, for similar purposes and periods of time.
+    >   - **(2)** for the purposes of section 7(b), the availability of credit on reasonable terms and conditions from non-Federal sources taking into consideration the prevailing rates and terms in the community in or near where the applicant business concern transacts business, or the applicant homeowner resides, for similar purposes and periods of time.
 
   - **(2)** in section 7(a)(1)(A)(i) (15 U.S.C. 636(a)(1)(A)(i)), by inserting “The Administrator has the authority to direct, and conduct oversight for, the methods by which lenders determine whether a borrower is able to obtain credit elsewhere.” before “No financial assistance”.
 - **(b)** *Technical amendment* Section 18(b) of the Small Business Act (15 U.S.C. 647(b)) is amended to read as follows:
@@ -122,23 +129,13 @@ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended—
   > - **(g)** *Authority To increase amount of general business loans*
   >   - **(1)** *In general* With respect to fiscal year 2018 and each fiscal year thereafter, if the Administrator determines that the amount of commitments by the Administrator for general business loans authorized under section 7(a) for a fiscal year could exceed the limit on the total amount of commitments the Administrator may make for those loans under this Act, an appropriations Act, or any other provision of law, the Administrator may make commitments for those loans for that fiscal year in an aggregate amount equal to not more than 115 percent of that limit.
   >   - **(2)** *Approval required before exercising authority*
-  >     - **(A)** *In general* Not later than 30 days before the date on which the Administrator intends to exercise the authority under paragraph (1), the Administrator shall submit notice of intent to exercise the authority to—
+  >     - **(A)** *In general* Not later than 15 days before the date on which the Administrator intends to exercise the authority under paragraph (1), the Administrator shall submit notice of intent to exercise the authority to—
   >       - **(i)** the Committee on Small Business and Entrepreneurship and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the Senate; and
   >       - **(ii)** the Committee on Small Business and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the House of Representatives.
   >     - **(B)** *Approval* The Administrator may not exercise the authority under paragraph (1) unless such exercise of authority has been approved, in writing, by the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
   >   - **(3)** *Limitation* The Administrator shall not exercise the authority under paragraph (1) more than once during any fiscal year.
 
-## § 6. Disclosure of waivers
+## § 6. Establishing a process for waivers
 
-- **(a)** *In general* If the Administrator exercises statutory or regulatory authority to waive a regulation related to a program or function of the Office of Capital Access of the Administration—
-  - **(1)** the waiver shall be in writing and shall specify the grounds for approving the waiver; and
-  - **(2)** the Administrator shall notify the public of all waivers of regulations approved by the Administration, which notice shall—
-    - **(A)** be published in the Federal Register not less than annually;
-    - **(B)** cover the period beginning on the date after the last day covered by the previous notice;
-    - **(C)** describe the nature of the requirement that has been waived and specify the regulation involved;
-    - **(D)** include a brief description of the grounds for approval of the waiver; and
-    - **(E)** state how more information about the waiver and a copy of the request and the approval may be obtained.
+- **(a)** *In general* If the Administrator exercises statutory or regulatory authority to waive a regulation or a requirement in the Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access of the Administration, the waiver shall be in writing and be maintained in an indexed form.
 - **(b)** *No new waiver authority* Nothing in subsection (a) shall be construed as creating new authority for the Administrator to waive regulations of the Administration.
-- **(c)** *GAO study on Standard Operating Procedures Manual or Policy Notice waiver process* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report evaluating—
-  - **(1)** the methods and specific processes used by the Small Business Administration to waive requirements in Standard Operating Procedures Manual or Policy Notices relating to loans made under section 7(a) of the Small Business Act (15 U.S.C. 636(a)); and
-  - **(2)** the number of such waivers granted during the period of 5 fiscal years preceding the date of the enactment of this Act.
