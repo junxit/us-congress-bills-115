@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5447
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5447
@@ -90,3 +90,4 @@ Music Modernization Act
 - 2018-04-25 — Placed on the Union Calendar, Calendar No. 499.
 - 2018-04-25 — Reported by the Committee on Judiciary. H. Rept. 115-651.
 - 2018-04-25 — Reported by the Committee on Judiciary. H. Rept. 115-651.
+- 2018-04-26 — Received in the Senate.
