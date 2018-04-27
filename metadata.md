@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ FAA Reauthorization Act of 2018
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -32,6 +32,7 @@ FAA Reauthorization Act of 2018
 - Rep. Capuano, Michael E. [D-MA-7] (C001037)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Knight, Stephen [R-CA-25] (K000387)
 
 ## Committees (5)
 
@@ -40,6 +41,19 @@ FAA Reauthorization Act of 2018
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+
+## Recorded votes (10)
+
+- 2018-04-26 — [House 115-2-155](votes/house-115-2-0155.md) — On Agreeing to the Amendment — **Failed** (192–223)
+- 2018-04-26 — [House 115-2-156](votes/house-115-2-0156.md) — On Agreeing to the Amendment — **Failed** (37–375)
+- 2018-04-26 — [House 115-2-157](votes/house-115-2-0157.md) — On Agreeing to the Amendment — **Failed** (172–243)
+- 2018-04-26 — [House 115-2-158](votes/house-115-2-0158.md) — On Agreeing to the Amendment — **Failed** (92–323)
+- 2018-04-26 — [House 115-2-159](votes/house-115-2-0159.md) — On Agreeing to the Amendment — **Agreed to** (222–193)
+- 2018-04-26 — [House 115-2-160](votes/house-115-2-0160.md) — On Agreeing to the Amendment — **Failed** (187–227)
+- 2018-04-27 — [House 115-2-162](votes/house-115-2-0162.md) — On Agreeing to the Amendment — **Failed** (113–293)
+- 2018-04-27 — [House 115-2-163](votes/house-115-2-0163.md) — On Agreeing to the Amendment — **Agreed to** (212–191)
+- 2018-04-27 — [House 115-2-164](votes/house-115-2-0164.md) — On Motion to Recommit with Instructions — **Failed** (182–223)
+- 2018-04-27 — [House 115-2-165](votes/house-115-2-0165.md) — On Passage — **Passed** (393–13)
 
 ## Actions
 
@@ -50,3 +64,270 @@ FAA Reauthorization Act of 2018
 - 2018-04-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, Ways and Means, Science, Space, and Technology, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-04-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, Ways and Means, Science, Space, and Technology, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-04-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, Ways and Means, Science, Space, and Technology, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-04-16 — Referred to the Subcommittee on Federal Lands.
+- 2018-04-26 — Amendment (A001) offered by Mr. Shuster. (consideration: CR H3636-3643; text: CR H3636-3642)
+- 2018-04-26 — Amendment (A003) offered by Mr. Roskam. (consideration: CR H3651; text: CR H3651)
+- 2018-04-26 — Amendment (A004) offered by Mr. Denham. (consideration: CR H3651-3652; text: CR H3651-3652)
+- 2018-04-26 — Amendment (A006) offered by Mr. Higgins (LA). (consideration: CR H3658; text: CR H3658)
+- 2018-04-26 — Amendment (A007) offered by Mr. DeFazio. (consideration: CR H3658-3660, H3684; text: CR H3658)
+- 2018-04-26 — Amendment (A008) offered by Mr. Cohen. (consideration: CR H3660; text: CR H3660)
+- 2018-04-26 — Amendment (A009) offered by Mr. Burgess. (consideration: CR H3660-3661; text: CR H3660)
+- 2018-04-26 — Amendment (A010) offered by Mr. Perlmutter. (consideration: CR H3661-3663; text: CR H3661)
+- 2018-04-26 — Amendment (A011) offered by Mr. Rohrabacher. (consideration: CR H3663-3664, H3684-3685; text: CR H3663)
+- 2018-04-26 — Amendment (A012) offered by Mr. King (IA). (consideration: CR H3664-3666, H3685-3686; text: CR H3664)
+- 2018-04-26 — Amendment (A014) offered by Mr. Beyer. (consideration: CR H3670-3677; text: CR H3670)
+- 2018-04-26 — Amendment (A015) offered by Mr. Smith (NE). (consideration: CR H3670-3671; text: CR H3670)
+- 2018-04-26 — Amendment (A016) offered by Mr. Lewis (MN). (consideration: CR H3671-3672; text: CR H3671)
+- 2018-04-26 — Amendment (A017) offered by Mr. Lipinski. (consideration: CR H3672-3673, H3686; text: CR H3672)
+- 2018-04-26 — Amendment (A018) offered by Mr. Denham. (consideration: CR H3673-3677, H3686-3687; text: CR H3673)
+- 2018-04-26 — Amendment (A019) offered by Miss Gonzalez-Colon (PR). (consideration: CR H3677-3678; text: CR H3677)
+- 2018-04-26 — Amendment (A020) offered by Mrs. Comstock. (consideration: CR H3677-3680; text: CR H3678-3679)
+- 2018-04-26 — Amendment (A021) offered by Mr. Lynch. (consideration: CR H3680-3681, H3687; text: CR H3680)
+- 2018-04-26 — Amendment (A022) offered by Ms. Meng. (consideration: CR H3681-3682; text: CR H3681)
+- 2018-04-26 — Amendment (A023) offered by Mr. Zeldin. (consideration: CR H3682-3683; text: CR H3682)
+- 2018-04-26 — Amendment (A024) offered by Mrs. Lawrence. (consideration: CR H3683; text: CR H3683)
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment agreed to Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendment failed in Committee of the Whole
+- 2018-04-26 — Amendments en bloc (A002) offered by Mr. Shuster. (consideration: CR H3652-3658; text: CR H3643-3647)
+- 2018-04-26 — Amendments en bloc (A005) offered by Mr. Shuster. (consideration: CR H3652-3658; text: CR H3652-3656)
+- 2018-04-26 — Amendments en bloc (A013) offered by Mr. Shuster. (consideration: CR H3666-3670; text: CR H3666-3668)
+- 2018-04-26 — Cohen amendment (A008) modified by unanimous consent. (text as modified: CR H3660)
+- 2018-04-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 4 as unfinished business.
+- 2018-04-26 — Comstock amendment (A020) modified by unanimous consent. (text as modified: CR H3678-3679)
+- 2018-04-26 — Considered under the provisions of rule H. Res. 839. (consideration: CR H3590-3688; text: CR H3598-3636)
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 67.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 47.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment No. 46, as modified.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Comstock amendment No. 84, as modified.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment No. 42.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment No. 17.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment No. 79.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon amendment No. 81.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Higgins (LA) amendment No. 41.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 63.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 97.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis (MN) amendment No. 75.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 78.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment No. 87.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 88.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Perlmutter amendment No. 49.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrbacher amendment No. 60.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 13.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster amendment No. 1.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NE) amendment No. 68.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 96.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 20 minutes of debate on the Shuster En bloc amendment No. 2.
+- 2018-04-26 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 20 minutes of debate on the Shuster En bloc amendment No. 3.
+- 2018-04-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Burgess amendment (A009) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Cohen amendment (A008) as modified Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Comstock amendment (A020) as modified Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Denham amendment (A004) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Denham amendment (A018) Agreed to by recorded vote: 222 - 193 (Roll no. 159).
+- 2018-04-26 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A019) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Higgins (LA) amendment (A006) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Lawrence amendment (A024) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Lewis (MN) amendment (A016) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Perlmutter amendment (A010) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Roskam amendment (A003) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Shuster amendments (A002) as modified Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Shuster amendments (A005) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Shuster amendments (A013) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Smith (NE) amendment (A015) Agreed to by voice vote.
+- 2018-04-26 — House amendment agreed to: On agreeing to the Zeldin amendment (A023) Agreed to by voice vote.
+- 2018-04-26 — House amendment not agreed to: On agreeing to the Beyer amendment (A014) Failed by voice vote.
+- 2018-04-26 — House amendment not agreed to: On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 192 - 223 (Roll no. 155).
+- 2018-04-26 — House amendment not agreed to: On agreeing to the King (IA) amendment (A012) Failed by recorded vote: 172 - 243 (Roll no. 157).
+- 2018-04-26 — House amendment not agreed to: On agreeing to the Lipinski amendment (A017) Failed by recorded vote: 92 - 323 (Roll no. 158).
+- 2018-04-26 — House amendment not agreed to: On agreeing to the Lynch amendment (A021) Failed by recorded vote: 187 - 227 (Roll no. 160).
+- 2018-04-26 — House amendment not agreed to: On agreeing to the Meng amendment (A022) Failed by voice vote.
+- 2018-04-26 — House amendment not agreed to: On agreeing to the Rohrabacher amendment (A011) Failed by recorded vote: 37 - 375 (Roll no. 156).
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered
+- 2018-04-26 — House amendment offered/reported by: Amendment (A001) offered by Mr. Shuster.(consideration: CR H3636-3643; text: CR H3636-3642)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A003) offered by Mr. Roskam.(consideration: CR H3651; text: CR H3651)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A004) offered by Mr. Denham.(consideration: CR H3651-3652; text: CR H3651-3652)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A006) offered by Mr. Higgins (LA).(consideration: CR H3658; text: CR H3658)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A007) offered by Mr. DeFazio.(consideration: CR H3658-3660, H3684; text: CR H3658)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A008) offered by Mr. Cohen.(consideration: CR H3660; text: CR H3660)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A009) offered by Mr. Burgess.(consideration: CR H3660-3661; text: CR H3660)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A010) offered by Mr. Perlmutter.(consideration: CR H3661-3663; text: CR H3661)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A011) offered by Mr. Rohrabacher.(consideration: CR H3663-3664, H3684-3685; text: CR H3663)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A012) offered by Mr. King (IA).(consideration: CR H3664-3666, H3685-3686; text: CR H3664)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A014) offered by Mr. Beyer.(consideration: CR H3670-3677; text: CR H3670)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A015) offered by Mr. Smith (NE).(consideration: CR H3670-3671; text: CR H3670)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A016) offered by Mr. Lewis (MN).(consideration: CR H3671-3672; text: CR H3671)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A017) offered by Mr. Lipinski.(consideration: CR H3672-3673, H3686; text: CR H3672)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A018) offered by Mr. Denham.(consideration: CR H3673-3677, H3686-3687; text: CR H3673)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A019) offered by Miss Gonzalez-Colon (PR).(consideration: CR H3677-3678; text: CR H3677)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A020) offered by Mrs. Comstock.(consideration: CR H3677-3680; text: CR H3678-3679)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A021) offered by Mr. Lynch.(consideration: CR H3680-3681, H3687; text: CR H3680)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A022) offered by Ms. Meng.(consideration: CR H3681-3682; text: CR H3681)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A023) offered by Mr. Zeldin.(consideration: CR H3682-3683; text: CR H3682)
+- 2018-04-26 — House amendment offered/reported by: Amendment (A024) offered by Mrs. Lawrence.(consideration: CR H3683; text: CR H3683)
+- 2018-04-26 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Shuster.(consideration: CR H3652-3658; text: CR H3643-3647)
+- 2018-04-26 — House amendment offered/reported by: Amendments en bloc (A005) offered by Mr. Shuster.(consideration: CR H3652-3658; text: CR H3652-3656)
+- 2018-04-26 — House amendment offered/reported by: Amendments en bloc (A013) offered by Mr. Shuster.(consideration: CR H3666-3670; text: CR H3666-3668)
+- 2018-04-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 839 and Rule XVIII.
+- 2018-04-26 — Mr. Shuster moved that the committee rise.
+- 2018-04-26 — On agreeing to the Beyer amendment (A014) Failed by voice vote.
+- 2018-04-26 — On agreeing to the Burgess amendment (A009) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Cohen amendment (A008) as modified Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Comstock amendment (A020) as modified Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 192 - 223 (Roll no. 155).
+- 2018-04-26 — On agreeing to the Denham amendment (A004) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Denham amendment (A018) Agreed to by recorded vote: 222 - 193 (Roll no. 159).
+- 2018-04-26 — On agreeing to the Gonzalez-Colon (PR) amendment (A019) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Higgins (LA) amendment (A006) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the King (IA) amendment (A012) Failed by recorded vote: 172 - 243 (Roll no. 157).
+- 2018-04-26 — On agreeing to the Lawrence amendment (A024) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Lewis (MN) amendment (A016) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Lipinski amendment (A017) Failed by recorded vote: 92 - 323 (Roll no. 158).
+- 2018-04-26 — On agreeing to the Lynch amendment (A021) Failed by recorded vote: 187 - 227 (Roll no. 160).
+- 2018-04-26 — On agreeing to the Meng amendment (A022) Failed by voice vote.
+- 2018-04-26 — On agreeing to the Perlmutter amendment (A010) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Rohrabacher amendment (A011) Failed by recorded vote: 37 - 375 (Roll no. 156).
+- 2018-04-26 — On agreeing to the Roskam amendment (A003) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Shuster amendments (A002) as modified Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Shuster amendments (A005) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Shuster amendments (A013) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Smith (NE) amendment (A015) Agreed to by voice vote.
+- 2018-04-26 — On agreeing to the Zeldin amendment (A023) Agreed to by voice vote.
+- 2018-04-26 — On motion that the committee rise Agreed to by voice vote.
+- 2018-04-26 — POSTPONED PROCEEDING - At the conclusion of debate on the Denham amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lipinski amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Lipinski demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lynch amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Lynch demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrbacher amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Rohrbacher demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-26 — Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 20 minutes of debate on the Shuster En bloc amendment No. 1, as modified.
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Roll call votes on amendments in House
+- 2018-04-26 — Shuster amendment (A002) modified by unanimous consent. (text as modified: CR H3648)
+- 2018-04-26 — The Committee resumed its sitting.
+- 2018-04-26 — The Committee rose informally to receive a message from the Senate.
+- 2018-04-26 — The Speaker designated the Honorable Daniel M. Donovan, Jr. to act as Chairman of the Committee.
+- 2018-04-26 — The rule provides for consideration of H.R. 4, under a structured rule, and H.R. 3144, under a closed rule. The rule makes in order only those amendments printed in Part A of the committee report for H.R. 4. The rule provides for 1 hour of general debate for both H.R. 4 and H.R. 3144. The rule provides for one motion to recommit for both bills. And, the rule provides that on any legislative day during the period from April 30, 2018 through May 4, 2018, the Journal of the proceedings of the previous day shall be considered as approved.
+- 2018-04-26 — VACATED PROCEEDINGS - Mr. Shuster asked unanimous consent to vacate the proceedings on Beyer amendment No. 67 of House Report 115-650, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2018-04-27 — Amendment (A026) offered by Mr. Graves (LA). (consideration: CR H3715-3716; text: CR H3715)
+- 2018-04-27 — Amendment (A027) offered by Mr. Graves (LA). (consideration: CR H3716-3717; text: CR H3716)
+- 2018-04-27 — Amendment (A028) offered by Mr. Graves (LA). (consideration: CR H3717-3718; text: CR H3717)
+- 2018-04-27 — Amendment (A029) offered by Mr. Babin. (consideration: CR H3718-3719; text: CR H3718)
+- 2018-04-27 — Amendment (A030) offered by Mr. McClintock. (consideration: CR H3719-3720, H3722-3723; text: CR H3719)
+- 2018-04-27 — Amendment (A031) offered by Mr. Duncan (TN). (consideration: CR H3720-3723; text: CR H3720)
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment agreed to Committee of the Whole
+- 2018-04-27 — Amendment failed in Committee of the Whole
+- 2018-04-27 — Amendments en bloc (A025) offered by Mr. Shuster. (consideration: CR H3710-3715; text: CR H3710-3714)
+- 2018-04-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 4 as unfinished business.
+- 2018-04-27 — Considered as unfinished business. (consideration: CR H3710-3722)
+- 2018-04-27 — Considered as unfinished business. (consideration: CR H3722-3726)
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 110.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (TN) amendment No. 114.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 104.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 107.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 108.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 112.
+- 2018-04-27 — DEBATE - Pursuant to the provisions of H. Res. 839, the Committee of the Whole proceeded with 20 minutes of debate on the Shuster En bloc amendment No. 4.
+- 2018-04-27 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Velazquez motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to require the federal government to cover 100% of the costs for natural disasters in connection with Hurricanes Harvey, Irma, and Maria, and the California Wildfires under the Stafford Act.
+- 2018-04-27 — House amendment agreed to: On agreeing to the Babin amendment (A029) Agreed to by voice vote.
+- 2018-04-27 — House amendment agreed to: On agreeing to the Duncan (TN) amendment (A031) Agreed to by recorded vote: 212 - 191 (Roll no. 163).
+- 2018-04-27 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A026) Agreed to by voice vote.
+- 2018-04-27 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A027) Agreed to by voice vote.
+- 2018-04-27 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A028) Agreed to by voice vote.
+- 2018-04-27 — House amendment agreed to: On agreeing to the Shuster amendments (A025) Agreed to by voice vote.
+- 2018-04-27 — House amendment not agreed to: On agreeing to the McClintock amendment (A030) Failed by recorded vote: 113 - 293 (Roll no. 162).
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered
+- 2018-04-27 — House amendment offered/reported by: Amendment (A026) offered by Mr. Graves (LA).(consideration: CR H3715-3716; text: CR H3715)
+- 2018-04-27 — House amendment offered/reported by: Amendment (A027) offered by Mr. Graves (LA).(consideration: CR H3716-3717; text: CR H3716)
+- 2018-04-27 — House amendment offered/reported by: Amendment (A028) offered by Mr. Graves (LA).(consideration: CR H3717-3718; text: CR H3717)
+- 2018-04-27 — House amendment offered/reported by: Amendment (A029) offered by Mr. Babin.(consideration: CR H3718-3719; text: CR H3718)
+- 2018-04-27 — House amendment offered/reported by: Amendment (A030) offered by Mr. McClintock.(consideration: CR H3719-3720, H3722-3723; text: CR H3719)
+- 2018-04-27 — House amendment offered/reported by: Amendment (A031) offered by Mr. Duncan (TN).(consideration: CR H3720-3723; text: CR H3720)
+- 2018-04-27 — House amendment offered/reported by: Amendments en bloc (A025) offered by Mr. Shuster.(consideration: CR H3710-3715; text: CR H3710-3714)
+- 2018-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-04-27 — Mr. Shuster moved that the committee rise.
+- 2018-04-27 — Ms. Velazquez moved to recommit with instructions to the Committee on Transportation and Infrastructure. (text: CR H3723-3724)
+- 2018-04-27 — On agreeing to the Babin amendment (A029) Agreed to by voice vote.
+- 2018-04-27 — On agreeing to the Duncan (TN) amendment (A031) Agreed to by recorded vote: 212 - 191 (Roll no. 163).
+- 2018-04-27 — On agreeing to the Graves (LA) amendment (A026) Agreed to by voice vote.
+- 2018-04-27 — On agreeing to the Graves (LA) amendment (A027) Agreed to by voice vote.
+- 2018-04-27 — On agreeing to the Graves (LA) amendment (A028) Agreed to by voice vote.
+- 2018-04-27 — On agreeing to the McClintock amendment (A030) Failed by recorded vote: 113 - 293 (Roll no. 162).
+- 2018-04-27 — On agreeing to the Shuster amendments (A025) Agreed to by voice vote.
+- 2018-04-27 — On motion that the committee rise Agreed to by voice vote.
+- 2018-04-27 — On motion to recommit with instructions Failed by recorded vote: 182 - 223 (Roll no. 164).
+- 2018-04-27 — On passage Passed by the Yeas and Nays: 393 - 13 (Roll no. 165).
+- 2018-04-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duncan (TN) amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-04-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 393 - 13 (Roll no. 165).
+- 2018-04-27 — Roll call votes on amendments in House
+- 2018-04-27 — Roll call votes on amendments in House
+- 2018-04-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4.
+- 2018-04-27 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-04-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-04-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-04-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4.
+- 2018-04-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-04-27 — The previous question was ordered pursuant to the rule.
