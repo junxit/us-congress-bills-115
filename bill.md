@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 5659
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5659
+
+> To amend the Bank Holding Company Act of 1956 to provide relief from the Volcker Rule for community banks.
+
+## § 1. Short title
+
+This Act may be cited as the “Volcker Rule Relief Act of 2018”.
+
+## § 2. Community bank relief
+
+Section 13(h)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(h)(1)) is amended—
+
+- **(1)** in subparagraph (D), by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and adjusting the margins accordingly;
+- **(2)** by redesignating subparagraphs (A) through (D) as clauses (i) through (iv), respectively, and adjusting the margins accordingly;
+- **(3)** in the matter preceding clause (i), as so redesignated, in the second sentence, by striking “institution that functions solely in a trust or fiduciary capacity, if—” and inserting the following:
+  > institution—
+  > - **(A)** that functions solely in a trust or fiduciary capacity, if—
+
+- **(4)** in clause (iv)(II), as so redesignated, by striking the period at the end and inserting “; or”; and
+- **(5)** by adding at the end the following:
+  > - **(B)** that does not have, and is not controlled by a covered fund or a bank holding company that has—
+  >   - **(i)** more than $10,000,000,000 in total consolidated assets; and
+  >   - **(ii)** total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets.
