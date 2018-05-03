@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2
@@ -26,3 +26,8 @@ Agriculture Improvement Act of 2018
 - 2018-04-12 — Introduced in House
 - 2018-04-12 — Referred to the House Committee on Agriculture.
 - 2018-04-12 — Sponsor introductory remarks on measure. (CR H3196-3204)
+- 2018-04-18 — Committee Consideration and Mark-up Session Held.
+- 2018-04-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 20.
+- 2018-05-03 — Placed on the Union Calendar, Calendar No. 508.
+- 2018-05-03 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-661.
+- 2018-05-03 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-661.
