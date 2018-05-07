@@ -23,10 +23,10 @@ Section 2306(e) of title 38, United States Code, is amended—
     > - **(B)** The Secretary of the Army
 
   - **(C)** by adding at the end the following new subparagraph:
-    > - **(C)** The Secretary of the Interior shall provide an outer burial receptacle for each such a grave in an open cemetery under the control of the National Park Service.
+    > - **(C)** The Secretary of the Interior shall provide an outer burial receptacle for each such a grave in an open national cemetery administered by the National Park Service.
 
 - **(2)** in paragraph (2)—
-  - **(A)** by striking “or in the Arlington National Cemetery” and inserting “, in the Arlington National Cemetery, or in a cemetery under the control of the National Park Service”; and
+  - **(A)** by striking “or in the Arlington National Cemetery” and inserting “, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service”; and
   - **(B)** by striking “or Secretary of the Army” and inserting “, the Secretary of the Army, or the Secretary of the Interior”;
-- **(3)** in paragraph (3)(B)(ii), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a cemetery under the control of the National Park Service”; and
-- **(4)** in paragraph (4), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a cemetery under the control of the National Park Service”.
+- **(3)** in paragraph (3)(B)(ii), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service”; and
+- **(4)** in paragraph (4), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service”.
