@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4910
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “(A)” before “The Secretary of Veterans”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), as designated by subparagraph (A) of this paragraph, by striking “The Secretary of the Army” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “or in the Arlington National Cemetery” and inserting “, in the Arlington National Cemetery, or in a cemetery under the control of the National Park Service”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or in the Arlington National Cemetery” and inserting “, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or Secretary of the Army” and inserting “, the Secretary of the Army, or the Secretary of the Interior”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(B)(ii), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior wi… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “or, with respect to Arlington National Cemetery, the Secretary of the Army” and inserting “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with resp… | the bill names no machine-readable US Code section |
