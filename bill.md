@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 873
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 873
+
+> Providing for consideration of the joint resolution (H.J. Res. 129) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Restoring Internet Freedom”.
+
+That immediately upon adoption of this resolution the House shall resolve into the Committee of the Whole House on the State of the Union for consideration of the joint resolution (H.J. Res. 129) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Restoring Internet Freedom”. The first reading of the joint resolution shall be dispensed with. All points of order against consideration of the joint resolution are waived. General debate shall be confined to the joint resolution and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce. After general debate the joint resolution shall be considered for amendment under the five-minute rule. All points of order against provisions in the joint resolution are waived. At the conclusion of consideration of the joint resolution for amendment the Committee shall rise and report the joint resolution to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the joint resolution and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the joint resolution, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of rule XIV, resolve into the Committee of the Whole for further consideration of the joint resolution.
+
+## § 2.
+
+Clause 1(c) of rule XIX shall not apply to the consideration of House Joint Resolution 129.
