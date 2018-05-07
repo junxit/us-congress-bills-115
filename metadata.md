@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4744
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4744
@@ -65,12 +65,13 @@ Iran Human Rights and Hostage-Taking Accountability Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (4)
+## Committees (5)
 
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -105,3 +106,4 @@ Iran Human Rights and Hostage-Taking Accountability Act
 - 2018-04-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 161).
 - 2018-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 161).
+- 2018-05-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
