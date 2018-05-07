@@ -1,7 +1,7 @@
 ---
 measure: S. 995
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 995
@@ -28,3 +28,7 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 
 - 2017-05-01 — Introduced in Senate
 - 2017-05-01 — Read twice and referred to the Committee on Indian Affairs.
+- 2018-02-14 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2018-05-07 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments. With written report No. 115-240.
+- 2018-05-07 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments. With written report No. 115-240.
+- 2018-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
