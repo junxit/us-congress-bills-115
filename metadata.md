@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 118
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 118
@@ -20,9 +20,10 @@ Authorizing the printing of "United States Capitol Grounds: Landscape Architect 
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Authorizing the printing of "United States Capitol Grounds: Landscape Architect 
 - 2018-04-26 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2018-04-26 — On agreeing to the resolution Agreed to without objection. (text: CR H3688-3689)
 - 2018-04-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3688-3689)
+- 2018-05-07 — Received in the Senate and referred to the Committee on Rules and Administration.
