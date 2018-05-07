@@ -1,7 +1,7 @@
 ---
 measure: S. 2400
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2400
@@ -28,3 +28,7 @@ GAO Audit Mandates Revision Act of 2018
 
 - 2018-02-07 — Introduced in Senate
 - 2018-02-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-239.
+- 2018-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-239.
+- 2018-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.
