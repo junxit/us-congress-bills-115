@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4574
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4574
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 108 Wes
 
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 
-## Cosponsors (16)
+## Cosponsors (17)
 
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
@@ -34,6 +34,7 @@ To designate the facility of the United States Postal Service located at 108 Wes
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Shimkus, John [R-IL-15] (S000364)
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
 
 ## Committees (1)
 
@@ -44,3 +45,11 @@ To designate the facility of the United States Postal Service located at 108 Wes
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Introduced in House
 - 2017-12-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-03-15 — Committee Consideration and Mark-up Session Held.
+- 2018-03-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-05-07 — Considered under suspension of the rules. (consideration: CR H3757)
+- 2018-05-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4574.
+- 2018-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-07 — Mr. Russell moved to suspend the rules and pass the bill.
+- 2018-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
+- 2018-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3757)
