@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5236
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5236
@@ -30,3 +30,9 @@ Main Street Employee Ownership Act of 2018
 - 2018-04-24 — Placed on the Union Calendar, Calendar No. 494.
 - 2018-04-24 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-645.
 - 2018-04-24 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-645.
+- 2018-05-08 — Considered under suspension of the rules. (consideration: CR H3810-3812)
+- 2018-05-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5236.
+- 2018-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
+- 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text CR H3810-3811)
+- 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text CR H3810-3811)
