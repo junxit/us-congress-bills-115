@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5703
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5703
+
+> To provide for the conveyance by the Secretary of the Army of certain property located in Cheatham County, Tennessee.
+
+## § 1. Conveyance
+
+- **(a)** *Conveyance authorized* The Secretary of the Army may convey to the Cheatham County, Tennessee (in this section referred to as the “Grantee”), all right, title, and interest of the United States in and to real property in Cheatham County, Tennessee, consisting of approximately 9.19 acres identified as portions of tracts E–514–1, E–514–2, E–518–1, E–518–2, E–519–1, E–537–1 and E–538, all being part of the Cheatham Lock and Dam project at CRM 158.5, including any improvements thereon (in this section referred to as the “Project”).
+- **(b)** *Deed* The conveyance of property under this section shall be accomplished using a quitclaim deed and upon such terms and conditions as the Secretary determines appropriate to protect the interests of the United States, to include retaining the right to inundate with water any land transferred under this section.
+- **(c)** *Administrative expenses* The Grantee shall be responsible for the payment of administrative expenses associated with the conveyance of property under this section in accordance with section 2695 of title 10, United States Code.
+- **(d)** *Consideration* The Grantee shall pay to the Secretary an amount that is not less than the fair market value of the land conveyed under this section, as determined by the Secretary.
+- **(e)** *Subject to existing easements and other interests* The conveyance of property under this section shall be subject to all existing easements, rights-of-way, and leases that are in effect as of the date of the transfer.
+- **(f)** *Liability* The Grantee shall hold the United States harmless from any and all liability with respect to activities carried out on the property on or after the date of the conveyance, to include any damage to property or improvements thereon caused by operation of the Project.
+- **(g)** *Applicability of real property screening provisions* Section 2696 of title 10, United States Code, shall not apply to the conveyance of property under this section.
+- **(h)** *Survey To obtain legal description* The exact acreage and legal description of the property shall be determined by a survey that is satisfactory to the Secretary.
