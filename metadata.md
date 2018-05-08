@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1496
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1496
@@ -91,9 +91,10 @@ To designate the facility of the United States Postal Service located at 3585 So
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -109,3 +110,4 @@ To designate the facility of the United States Postal Service located at 3585 So
 - 2018-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3756)
 - 2018-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3756)
 - 2018-05-07 — The title of the measure was amended. Agreed to without objection.
+- 2018-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
