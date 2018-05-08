@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4743
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 1 executed, 8 stated and not applied.
+10 amendatory instructions. 1 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,3 +50,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 647` | amend | Section 18(b) of the Small Business Act (15 U.S.C. 647(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | redesignate | by redesignating subsection (j) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 631` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 639` | repeal | Subsection (b) of section 10 of the Small Business Act (15 U.S.C. 639(b)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
