@@ -127,15 +127,17 @@ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended—
 - **(1)** by redesignating subsection (j) as subsection (f); and
 - **(2)** by adding at the end the following new subsection:
   > - **(g)** *Authority To increase amount of general business loans*
-  >   - **(1)** *In general* With respect to fiscal year 2018 and each fiscal year thereafter, if the Administrator determines that the amount of commitments by the Administrator for general business loans authorized under section 7(a) for a fiscal year could exceed the limit on the total amount of commitments the Administrator may make for those loans under this Act, an appropriations Act, or any other provision of law, the Administrator may make commitments for those loans for that fiscal year in an aggregate amount equal to not more than 115 percent of that limit.
-  >   - **(2)** *Approval required before exercising authority*
-  >     - **(A)** *In general* Not later than 15 days before the date on which the Administrator intends to exercise the authority under paragraph (1), the Administrator shall submit notice of intent to exercise the authority to—
-  >       - **(i)** the Committee on Small Business and Entrepreneurship and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the Senate; and
-  >       - **(ii)** the Committee on Small Business and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the House of Representatives.
-  >     - **(B)** *Approval* The Administrator may not exercise the authority under paragraph (1) unless such exercise of authority has been approved, in writing, by the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
+  >   - **(1)** *In general* Subject to paragraphs (2) and (3) and with respect to fiscal year 2019 and each fiscal year thereafter, if the Administrator determines that the amount of commitments by the Administrator for general business loans authorized under section 7(a) for a fiscal year could exceed the limit on the total amount of commitments the Administrator may make for those loans under this Act, an appropriations Act, or any other provision of law, the Administrator may make commitments for those loans for that fiscal year in an aggregate amount equal to not more than 115 percent of that limit.
+  >   - **(2)** *Notice required before exercising authority* Not later than 30 days before the date on which the Administrator intends to exercise the authority under paragraph (1), the Administrator shall submit notice of intent to exercise the authority to—
+  >     - **(A)** the Committee on Small Business and Entrepreneurship and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the Senate; and
+  >     - **(B)** the Committee on Small Business and the Subcommittee on Financial Services and General Government of the Committee on Appropriations of the House of Representatives.
   >   - **(3)** *Limitation* The Administrator shall not exercise the authority under paragraph (1) more than once during any fiscal year.
 
 ## § 6. Establishing a process for waivers
 
 - **(a)** *In general* If the Administrator exercises statutory or regulatory authority to waive a regulation or a requirement in the Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access of the Administration, the waiver shall be in writing and be maintained in an indexed form.
 - **(b)** *No new waiver authority* Nothing in subsection (a) shall be construed as creating new authority for the Administrator to waive regulations of the Administration.
+
+## § 7. Repeal of Small Business Loan Loss Report
+
+Subsection (b) of section 10 of the Small Business Act (15 U.S.C. 639(b)) is repealed.
