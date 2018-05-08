@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 872
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 872
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 5645) to amend the Clayton Act and
 - 2018-05-07 — Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
 - 2018-05-07 — The House Committee on Rules reported an original measure, H. Rept. 115-664, by Mr. Buck.
 - 2018-05-07 — The House Committee on Rules reported an original measure, H. Rept. 115-664, by Mr. Buck.
+- 2018-05-08 — Considered as privileged matter. (consideration: CR H3790)
+- 2018-05-08 — Considered as unfinished business. (consideration: CR H3796-3797)
+- 2018-05-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 872.
+- 2018-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-08 — On agreeing to the resolution Agreed to by recorded vote: 227 - 181 (Roll no. 170). (text: CR H3790)
+- 2018-05-08 — On ordering the previous question Agreed to by the Yeas and Nays: 226 - 177 (Roll no. 169). (consideration: CR H3796)
+- 2018-05-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 872, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Ms. Torres demanded the yeas and nays, and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.
+- 2018-05-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 181 (Roll no. 170).(text: CR H3790)
