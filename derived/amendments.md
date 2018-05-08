@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1702
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -49,6 +49,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 648` | add-at-end | Section 21 of the Small Business Act (15 U.S.C. 648), as amended by section 3 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | add-at-end | Section 21(a)(3) of the Small Business Act (15 U.S.C. 648(a)(3)(C)), as amended by section 4, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | amend | Subclause (I) of section 21(a)(4)(C)(v) of the Small Business Act (15 U.S.C. 648(a)(4)(C)(v)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 648` | insert | Section 21(a)(7)(A) of the Small Business Act (15 U.S.C. 648(a)(7)(A)) is amended by inserting after “under this section” the following: “to any State, local or Federal agency, or third party”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | insert | Section 21(a)(7)(A) of the Small Business Act (15 U.S.C. 648(a)(7)(A)) is amended by inserting after “under this section” the following: “to any State, local, or Federal agency, or to any third party”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 648` | strike | in subsection (a)(1), by striking “any women's business center operating pursuant to section 29,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 648` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
