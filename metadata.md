@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4301
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4301
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 201 Tom
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 201 Tom
 - 2018-05-07 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2018-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3756)
 - 2018-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3756)
+- 2018-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
