@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4910
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4910
@@ -55,3 +55,4 @@ Veterans Cemetery Benefit Correction Act
 - 2018-05-07 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 167). (text: CR H3753)
 - 2018-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 167).(text: CR H3753)
+- 2018-05-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
