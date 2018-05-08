@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3170
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3170
@@ -36,3 +36,9 @@ Small Business Development Center Cyber Training Act of 2017
 - 2018-04-25 — Placed on the Union Calendar, Calendar No. 501.
 - 2018-04-25 — Reported by the Committee on Small Business. H. Rept. 115-653.
 - 2018-04-25 — Reported by the Committee on Small Business. H. Rept. 115-653.
+- 2018-05-08 — Considered under suspension of the rules. (consideration: CR H3797-3800)
+- 2018-05-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3170.
+- 2018-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2018-05-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3797)
+- 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3797)
