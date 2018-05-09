@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2152
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2152
@@ -65,3 +65,14 @@ Citizens' Right to Know Act of 2018
 - 2018-04-27 — Placed on the Union Calendar, Calendar No. 507.
 - 2018-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-659.
 - 2018-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-659.
+- 2018-05-07 — Rules Committee Resolution H. Res. 872 Reported to House. Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
+- 2018-05-09 — Considered as unfinished business. (consideration: CR H3864-3865)
+- 2018-05-09 — Considered under the provisions of rule H. Res. 872. (consideration:  CR H3857-3864; text of amendment in the nature of a substitute: CR H3857-3858)
+- 2018-05-09 — DEBATE - The House proceeded with one hour of debate on H.R. 2152.
+- 2018-05-09 — House amendment offered
+- 2018-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-09 — On passage Passed by the Yeas and Nays: 221 - 197 (Roll no. 175).
+- 2018-05-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2152, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Goodlatte demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage until later in the legislative day.
+- 2018-05-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 197 (Roll no. 175).
+- 2018-05-09 — Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
+- 2018-05-09 — The previous question was ordered pursuant to the rule.
