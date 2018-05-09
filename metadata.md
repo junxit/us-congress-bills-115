@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1702
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1702
@@ -21,9 +21,10 @@ Small Business Development Centers Improvement Act of 2018
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Blum, Rod [R-IA-1] (B001294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Small Business Development Centers Improvement Act of 2018
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3806-3807)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3806-3807)
+- 2018-05-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
