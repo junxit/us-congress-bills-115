@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 589
@@ -56,3 +56,7 @@ Department of Energy Research and Innovation Act
 - 2017-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text of measure as passed: CR H646-654)
 - 2017-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text of measure as passed: CR H646-654)
 - 2017-01-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-242.
+- 2018-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-242.
+- 2018-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.
