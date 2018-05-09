@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4754
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4754
@@ -24,9 +24,10 @@ Change Order Transparency for Federal Contractors Act
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Change Order Transparency for Federal Contractors Act
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-05-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3800)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3800)
+- 2018-05-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
