@@ -1,7 +1,7 @@
 ---
 measure: S. 1405
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1405
@@ -30,3 +30,7 @@ Federal Aviation Administration Reauthorization Act of 2017
 
 - 2017-06-22 — Introduced in Senate
 - 2017-06-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-06-29 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-05-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-243. Supplemental views filed.
+- 2018-05-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-243. Supplemental views filed.
+- 2018-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
