@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4111
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4111
@@ -35,3 +35,4 @@ Spurring Business in Communities Act of 2017
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-05-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3808-3809)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3808-3809)
+- 2018-05-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.
