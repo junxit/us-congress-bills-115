@@ -1,7 +1,7 @@
 ---
 measure: S. 1732
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1732
@@ -23,9 +23,11 @@ Improving Access to Behavioral Health Information Technology Act
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -41,3 +43,7 @@ Improving Access to Behavioral Health Information Technology Act
 - 2018-05-07 — Senate amendment agreed to: Amendment SA 2241 agreed to in Senate by Unanimous Consent.
 - 2018-05-07 — Senate amendment proposed (on the floor): Amendment SA 2241 proposed by Senator McConnell for Senator Whitehouse.(consideration: CR S2528; text: CR S2528)
 - 2018-05-07 — Senate amendment submitted
+- 2018-05-09 — Message on Senate action sent to the House.
+- 2018-05-09 — Received in the House.
+- 2018-05-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-05-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
