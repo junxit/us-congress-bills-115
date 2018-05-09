@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1680
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1680
@@ -23,9 +23,10 @@ Women's Business Centers Improvements Act of 2018
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Women's Business Centers Improvements Act of 2018
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3802-3805)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3802-3805)
+- 2018-05-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
