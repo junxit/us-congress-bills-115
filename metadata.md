@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 52
 congress: 115
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 52
@@ -75,3 +75,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2018-02-27 — Introduced in Senate
 - 2018-02-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2018-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2018-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
