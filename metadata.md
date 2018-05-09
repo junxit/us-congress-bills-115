@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5236
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5236
@@ -16,9 +16,10 @@ Main Street Employee Ownership Act of 2018
 
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Main Street Employee Ownership Act of 2018
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text CR H3810-3811)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text CR H3810-3811)
+- 2018-05-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
