@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4645
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4645
@@ -25,3 +25,10 @@ East Rosebud Wild and Scenic Rivers Act
 - 2017-12-14 — Introduced in House
 - 2017-12-14 — Introduced in House
 - 2017-12-14 — Referred to the House Committee on Natural Resources.
+- 2017-12-20 — Referred to the Subcommittee on Federal Lands.
+- 2018-04-18 — Committee Consideration and Mark-up Session Held.
+- 2018-04-18 — Ordered to be Reported by Unanimous Consent.
+- 2018-04-18 — Subcommittee on Federal Lands Discharged.
+- 2018-05-09 — Placed on the Union Calendar, Calendar No. 511.
+- 2018-05-09 — Reported by the Committee on Natural Resources. H. Rept. 115-666.
+- 2018-05-09 — Reported by the Committee on Natural Resources. H. Rept. 115-666.
