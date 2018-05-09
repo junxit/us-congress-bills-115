@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 5720
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5720
+
+> To deauthorize a portion of a project in California, and for other purposes.
+
+## § 1. Lytle and Cajon Creeks, California
+
+That portion of the channel improvement project, Lytle and Cajon Creeks, California, authorized to be carried out as a part of the Santa Ana River, California Project, that consists of five earth-filled groins commonly referred to as “the Riverside Avenue groins” shall no longer be authorized as a Federal project as of the date of enactment of this Act.
