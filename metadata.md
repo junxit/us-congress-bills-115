@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4743
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4743
@@ -50,3 +50,4 @@ Small Business 7(a) Lending Oversight Reform Act of 2018
 - 2018-05-08 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3812-3814)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3812-3814)
+- 2018-05-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
