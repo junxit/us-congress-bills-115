@@ -2,12 +2,10 @@
 legis-num: H. RES. 835
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 835
-
-> Supporting robust relations with the State of Israel bilaterally and in multilateral fora upon seventy years of statehood, and for other purposes.
 
 ## Preamble
 
@@ -22,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas robust bilateral ties with Israel maximizes security, economic, and cultural benefits in the region, increases regional stability and builds confidence with respect to peace negotiations;
 - Whereas Israel maintains diplomatic relations with 158 nations and retains 79 resident embassies, 22 consulates general, and 6 special missions globally;
 - Whereas Israel maintains free trade agreements with the United States, members of the European Union, members of the European Free Trade Association, Canada, Turkey, the Czech Republic, the Republic of Slovakia, Poland, Hungary, Mexico, Romania, Bulgaria, and Jordan;
-- Whereas in 1989, the United States Government designated Israel as a major non-NATO ally;
+- Whereas Israel has been designated by the United States Government as a major non-NATO ally;
 - Whereas in 2014, the United States Government designated Israel as a “major strategic partner”;
 - Whereas the United States and Israel have signed three 10-year memoranda of understanding, in which the United States committed to provide $26,700,000,000 between fiscal year 1999 and fiscal year 2008, $30,000,000,000 between fiscal year 2009 and fiscal year 2018, and $38,000,000,000 between fiscal year 2019 and fiscal year 2028;
 - Whereas Congress has appropriated amounts in accordance with such memoranda of understanding, reflecting the two countries’ shared priorities in the region and the strength of United States support for maintaining Israel’s qualitative military edge; and
@@ -30,8 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** celebrates the 70th anniversary of the establishment of the State of Israel;
-- **(2)** encourages equitable treatment of Israel in international fora;
-- **(3)** urges United Nations member states to support Israel’s candidacy for the United Nations Security Council;
-- **(4)** encourages the diplomatic recognition of the state of Israel and robust engagement with Israel from all United States allies and from governments across the globe; and
-- **(5)** reiterates its support for a negotiated settlement leading to a sustainable two-state solution with the democratic, Jewish state of Israel and a demilitarized, democratic Palestinian state living side-by-side in peace and security.
+- **(1)** encourages equitable treatment of Israel in international fora;
+- **(2)** urges United Nations member states to support Israel’s future candidacy for the United Nations Security Council;
+- **(3)** encourages the diplomatic recognition of the state of Israel and robust engagement with Israel from all United States allies and from governments across the globe; and
+- **(4)** reiterates its support for a negotiated settlement leading to a sustainable two-state solution with the democratic, Jewish state of Israel and a demilitarized, democratic Palestinian state living side-by-side in peace and security.
