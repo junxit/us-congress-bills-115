@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3053
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Nuclear Waste Policy Amendments Act of 2017”.
+- **(a)** *Short title* This Act may be cited as the “Nuclear Waste Policy Amendments Act of 2018”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
