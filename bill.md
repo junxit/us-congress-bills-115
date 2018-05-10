@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1026
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,3 +19,11 @@ Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amen
 
 - **(1)** by striking “thirty-two hundred miles, extending from eastern New York State” and inserting “4,600 miles, extending from the Appalachian Trail in Vermont”; and
 - **(2)** by striking “Proposed North Country Trail” and all that follows through “June 1975.” and inserting ““North Country National Scenic Trail, Authorized Route”, dated February 2014, and numbered 649/116870.”.
+
+## § 3. Land acquisition
+
+Neither the Secretary of Agriculture nor the Secretary of the Interior may acquire for the North Country National Scenic Trail land in Minnesota or Vermont that was obtained through condemnation by a State or local government.
+
+## § 4. Energy
+
+Nothing in the amendments made by this Act that change the authorized route of the North Country National Scenic Trail in Minnesota or Vermont shall prohibit the development, production, conveyance, or transmission of energy in those States, with reasonable efforts made to preserve the nature and purpose of the North Country National Scenic Trail, and to mitigate any damage to that trail and its associated resources caused by such activities.
