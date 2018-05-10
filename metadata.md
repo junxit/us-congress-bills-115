@@ -1,7 +1,7 @@
 ---
 measure: S. 1059
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1059
@@ -24,3 +24,8 @@ Responsible Disposal Reauthorization Act of 2017
 
 - 2017-05-04 — Introduced in Senate
 - 2017-05-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-10-03 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 115-318.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-05-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-247.
+- 2018-05-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-247.
+- 2018-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
