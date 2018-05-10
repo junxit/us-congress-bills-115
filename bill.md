@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5756
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5756
+
+> To require the Securities and Exchange Commission to adjust certain resubmission thresholds for shareholder proposals.
+
+## § 1. Resubmission thresholds for shareholder proposals
+
+The Securities and Exchange Commission shall revise section 240.14a–8(i)(12) of title 17, Code of Federal Regulations to—
+
+- **(1)** in paragraph (i), adjust the 3 percent threshold to 6 percent;
+- **(2)** in paragraph (ii), adjust the 6 percent threshold to 15 percent; and
+- **(3)** in paragraph (iii), adjust the 10 percent threshold to 30 percent.
