@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5645
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5645
@@ -26,9 +26,10 @@ Standard Merger and Acquisition Reviews Through Equal Rules Act of 2018
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -63,3 +64,4 @@ Standard Merger and Acquisition Reviews Through Equal Rules Act of 2018
 - 2018-05-09 — Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
 - 2018-05-09 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-05-09 — The previous question was ordered on the amendment (A001) without objection.
+- 2018-05-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
