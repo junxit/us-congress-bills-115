@@ -1,7 +1,7 @@
 ---
 measure: H.R. 931
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 931
@@ -232,3 +232,13 @@ Firefighter Cancer Registry Act of 2018
 - 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7248-7249)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7248-7249)
 - 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-05-10 — Amendment SA 2242 agreed to in Senate by Unanimous Consent.
+- 2018-05-10 — Amendment SA 2242 proposed by Senator Portman for Senator Alexander. (consideration: CR S2631-2632; text: CR S2631-2632) To require the Secretary of Health and Human Services to develop a voluntary registry to collect data on cancer incidence among firefighters.
+- 2018-05-10 — Measure laid before Senate by unanimous consent. (consideration: CR S2631-2632)
+- 2018-05-10 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-05-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-05-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-05-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-05-10 — Senate amendment agreed to: Amendment SA 2242 agreed to in Senate by Unanimous Consent.
+- 2018-05-10 — Senate amendment proposed (on the floor): Amendment SA 2242 proposed by Senator Portman for Senator Alexander.(consideration: CR S2631-2632; text: CR S2631-2632)
+- 2018-05-10 — Senate amendment submitted
