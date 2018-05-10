@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2152
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2152
@@ -50,9 +50,10 @@ Citizens' Right to Know Act of 2018
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Citizens' Right to Know Act of 2018
 - 2018-05-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 197 (Roll no. 175).
 - 2018-05-09 — Rule provides for consideration of H.R. 5645, H.R. 2152 and S.J. Res. 57. Rule provides for consideration of H.R. 5645 under a structured rule, with one motion to recommit with or without instructions. Rule provides for consideration of H.R. 2152 under a closed rule, with one motion to recommit with or without instructions. Rule also provides for consideration of S.J. Res. 57 under a closed rule with one motion to commit.
 - 2018-05-09 — The previous question was ordered pursuant to the rule.
+- 2018-05-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
