@@ -1,7 +1,7 @@
 ---
 measure: S. 2178
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2178
@@ -16,9 +16,10 @@ Inspector General Recommendation Transparency Act of 2018
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Inspector General Recommendation Transparency Act of 2018
 
 - 2017-11-30 — Introduced in Senate
 - 2017-11-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-05-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-245.
+- 2018-05-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-245.
+- 2018-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
