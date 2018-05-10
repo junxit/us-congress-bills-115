@@ -1,7 +1,7 @@
 ---
 measure: H.R. 931
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 931
@@ -242,3 +242,15 @@ Firefighter Cancer Registry Act of 2018
 - 2018-05-10 — Senate amendment agreed to: Amendment SA 2242 agreed to in Senate by Unanimous Consent.
 - 2018-05-10 — Senate amendment proposed (on the floor): Amendment SA 2242 proposed by Senator Portman for Senator Alexander.(consideration: CR S2631-2632; text: CR S2631-2632)
 - 2018-05-10 — Senate amendment submitted
+- 2018-05-14 — Message on Senate action sent to the House.
+- 2018-05-14 — Message on Senate action sent to the House.
+- 2018-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-22 — Mr. Collins (NY) asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5572-5573)
+- 2018-06-22 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H5572)
+- 2018-06-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H5572)
+- 2018-06-27 — Presented to President.
+- 2018-06-27 — Presented to President.
+- 2018-07-07 — Became Public Law No: 115-194.
+- 2018-07-07 — Became Public Law No: 115-194.
+- 2018-07-07 — Signed by President.
+- 2018-07-07 — Signed by President.

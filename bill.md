@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 931
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 931
 
-That the bill from the House of Representatives (H.R. 931) entitled “An Act to require the Secretary of Health and Human Services to develop a voluntary registry to collect data on cancer incidence among firefighters.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Secretary of Health and Human Services to develop a voluntary registry to collect data on cancer incidence among firefighters.
 
 ## § 1. Short title
 
