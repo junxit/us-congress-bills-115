@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3053
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3053
@@ -134,6 +134,11 @@ Nuclear Waste Policy Amendments Act of 2018
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (2)
+
+- 2018-05-10 — [House 115-2-178](votes/house-115-2-0178.md) — On Agreeing to the Amendment — **Failed** (80–332)
+- 2018-05-10 — [House 115-2-179](votes/house-115-2-0179.md) — On Passage — **Passed** (340–72)
+
 ## Actions
 
 - 2017-06-26 — Introduced in House
@@ -153,3 +158,38 @@ Nuclear Waste Policy Amendments Act of 2018
 - 2017-10-19 — Placed on the Union Calendar, Calendar No. 259.
 - 2017-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-355, Part I.
 - 2017-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-355, Part I.
+- 2018-05-08 — Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of H.R. 3053. Motion to recommit with or without instructions allowed. Rule provides for consideration of H.R. 3053 under a structured rule with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Energy and Commerce.
+- 2018-05-09 — Rule H. Res. 879 passed House.
+- 2018-05-10 — Amendment (A001) offered by Mr. Keating. (consideration: CR H3906-3907; text: CR H3906)
+- 2018-05-10 — Amendment (A002) offered by Mr. Schneider. (consideration: CR H3907-3908; text: CR H3907)
+- 2018-05-10 — Amendment (A003) offered by Ms. Titus. (consideration: CR H3908-3910; text: CR H3908-3909)
+- 2018-05-10 — Amendment agreed to Committee of the Whole
+- 2018-05-10 — Amendment agreed to Committee of the Whole
+- 2018-05-10 — Amendment failed in Committee of the Whole
+- 2018-05-10 — Considered under the provisions of rule H. Res. 879. (consideration: CR H3890-3911)
+- 2018-05-10 — DEBATE - Pursuant to the provisions of H. Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 1.
+- 2018-05-10 — DEBATE - Pursuant to the provisions of H. Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Schneider amendment No. 2.
+- 2018-05-10 — DEBATE - Pursuant to the provisions of H. Res. 879, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment No. 3.
+- 2018-05-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3053.
+- 2018-05-10 — House amendment agreed to: On agreeing to the Keating amendment (A001) Agreed to by voice vote.
+- 2018-05-10 — House amendment agreed to: On agreeing to the Schneider amendment (A002) Agreed to by voice vote.
+- 2018-05-10 — House amendment not agreed to: On agreeing to the Titus amendment (A003) Failed by recorded vote: 80 - 332 (Roll no. 178).
+- 2018-05-10 — House amendment offered
+- 2018-05-10 — House amendment offered
+- 2018-05-10 — House amendment offered
+- 2018-05-10 — House amendment offered/reported by: Amendment (A001) offered by Mr. Keating.(consideration: CR H3906-3907; text: CR H3906)
+- 2018-05-10 — House amendment offered/reported by: Amendment (A002) offered by Mr. Schneider.(consideration: CR H3907-3908; text: CR H3907)
+- 2018-05-10 — House amendment offered/reported by: Amendment (A003) offered by Ms. Titus.(consideration: CR H3908-3910; text: CR H3908-3909)
+- 2018-05-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 879 and Rule XVIII.
+- 2018-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-10 — On agreeing to the Keating amendment (A001) Agreed to by voice vote.
+- 2018-05-10 — On agreeing to the Schneider amendment (A002) Agreed to by voice vote.
+- 2018-05-10 — On agreeing to the Titus amendment (A003) Failed by recorded vote: 80 - 332 (Roll no. 178).
+- 2018-05-10 — On passage Passed by recorded vote: 340 - 72 (Roll no. 179).
+- 2018-05-10 — Passed/agreed to in House: On passage Passed by recorded vote: 340 - 72 (Roll no. 179).
+- 2018-05-10 — Roll call votes on amendments in House
+- 2018-05-10 — Rule provides for consideration of H.R. 3053. Motion to recommit with or without instructions allowed. Rule provides for consideration of H.R. 3053 under a structured rule with one hour of debate equally divided and controlled by the Chair and Ranking Member of the Committee on Energy and Commerce.
+- 2018-05-10 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H3091-3096)
+- 2018-05-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3053.
+- 2018-05-10 — The Speaker designated the Honorable Keith J. Rothfus to act as Chairman of the Committee.
+- 2018-05-10 — The previous question was ordered pursuant to the rule.

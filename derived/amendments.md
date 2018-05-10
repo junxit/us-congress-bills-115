@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3053
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-92 amendatory instructions. 37 executed, 55 stated and not applied.
+91 amendatory instructions. 36 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -143,12 +143,12 @@ to guess them.
 
 ### 42 U.S.C. § 10134
 
-> by striking “the expiration of 3 years after the date of the submission of such application” and inserting “30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017”;
+> by striking “the expiration of 3 years after the date of the submission of such application” and inserting “30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2018”;
 
 | | |
 |---|---|
 | Removed | `the expiration of 3 years after the date of the submission of such application` |
-| Inserted | `30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2017` |
+| Inserted | `30 months after the date of enactment of the Nuclear Waste Policy Amendments Act of 2018` |
 
 ### 42 U.S.C. § 10134
 
@@ -213,15 +213,6 @@ to guess them.
 | Removed | `paragraph (7)` |
 | Inserted | `paragraphs (7) and (8)` |
 
-### 42 U.S.C. § 10173
-
-> by striking “with a benefits agreement under this section” and inserting “with such benefits agreement”.
-
-| | |
-|---|---|
-| Removed | `with a benefits agreement under this section` |
-| Inserted | `with such benefits agreement` |
-
 ### 42 U.S.C. § 10173c
 
 > by striking “under this title if” and inserting “under this title”;
@@ -242,21 +233,21 @@ to guess them.
 
 ### 42 U.S.C. § 10174a
 
-> Section 175(a) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10174a(a)) is amended by striking “Nuclear Waste Policy Amendments Act of 1987” and inserting “Nuclear Waste Policy Amendments Act of 2017”.
+> Section 175(a) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10174a(a)) is amended by striking “Nuclear Waste Policy Amendments Act of 1987” and inserting “Nuclear Waste Policy Amendments Act of 2018”.
 
 | | |
 |---|---|
 | Removed | `Nuclear Waste Policy Amendments Act of 1987` |
-| Inserted | `Nuclear Waste Policy Amendments Act of 2017` |
+| Inserted | `Nuclear Waste Policy Amendments Act of 2018` |
 
 ### 42 U.S.C. § 10222
 
-> by striking “the date of enactment of this Act” and inserting “the date of enactment of the Nuclear Waste Policy Amendments Act of 2017”; and
+> by striking “the date of enactment of this Act” and inserting “the date of enactment of the Nuclear Waste Policy Amendments Act of 2018”; and
 
 | | |
 |---|---|
 | Removed | `the date of enactment of this Act` |
-| Inserted | `the date of enactment of the Nuclear Waste Policy Amendments Act of 2017` |
+| Inserted | `the date of enactment of the Nuclear Waste Policy Amendments Act of 2018` |
 
 ### 42 U.S.C. § 10222
 
@@ -396,9 +387,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10173a` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173a` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173a` | redesignate | in paragraph (3) (as redesignated by paragraph (2) of this subsection), by striking “in the design of the repository or monitored retrievable storage facility and”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10173a` | replace | Section 171(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173a(c)) is amended by striking the first sentence and inserting the following: “The Secretary shall make payments to the State of Nevada under a benefits agreement conc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10173a` | amend | Section 171(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173a(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10101` | insert | The Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) is amended by inserting after section 172 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10173` | insert | by inserting “made available pursuant to a benefits agreement under this section” after “under this subtitle”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10173` | amend | Section 170(a)(4) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173` | insert | Section 170(e) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173(e)) is further amended by inserting “under this section” after “may be in effect”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10101` | amend | The table of contents for the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 note) is amended by adding after the item relating to section 172, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10173c` | insert | in paragraph (1), by inserting “concerning a repository or a monitored retrievable storage facility, if” before “the site under consideration”; and | the bill quotes the text inserted but describes where it goes |
