@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1037
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,17 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.
 
-## § 1. Findings
-
-Congress finds as follows:
-
-- **(1)** Each year, in every corner of the Nation, the 850,000 first responders of Emergency Medical Services answer more than 30,000,000 calls to serve 22,000,000 patients in need of life-saving care and comfort at a moment’s notice and without reservation. With little regard for their own safety and in the face of all hazards the men and women of Emergency Medical Services respond across the spectrum of incidents from a single person’s medical emergency to the naturally occurring or man-made disasters, including terrorist attacks that threaten the entire Nation. This commitment to others, at a moment’s notice and despite risk, exemplifies the finest traditions of American spirit.
-- **(2)** As an element of the Nation’s homeland defense strategy, Emergency Medical Services stands on the “Nation’s first line of defense in the prevention and mitigation of risk from terrorist attacks, man-made incidents, and natural disasters”. The men and women of Emergency Medical Services, alongside those in Law Enforcement and the Fire Service, serving in both the public and private sectors as career and volunteer emergency medical service providers, are a critical element of the Nation’s homeland and national security efforts and provide for the domestic tranquility of its citizens.
-- **(3)** All too often the risks associated with the critical role of Emergency Medical Services results in an unacceptable rate of injury and fatality to these responders. Statistics compiled by the United States Department of Labor and the National Highway Safety Administration indicate that emergency medical services providers die in the line of duty at a rate more than twice the national average for all occupational fatalities and during their careers experience an injury rate of virtually 100 percent.
-- **(4)** We as a Nation have historically and continually rely on the selfless and ultimate sacrifices made by the men and women of this great country, their families, and loved ones in order to maintain the domestic tranquility, safety, and security of this Nation. The men and women of Emergency Medical Services continue to serve in this finest tradition, in the face of unacceptable sacrifice, risk and danger in service to the Nation and its citizens.
-- **(5)** The scope of responsibility assumed by the men and women of the Emergency Medical Services is broad and unique and their sacrifice and commitment in service to our Nation are deserving of a commemorative work that recognizes such.
-
-## § 2. Authorization to Establish Commemorative Work
+## § 1. Authorization to Establish Commemorative Work
 
 - **(a)** *In general* The National Emergency Medical Services Memorial Foundation may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the commitment and service represented by emergency medical services.
 - **(b)** *Compliance With Standards for Commemorative Works* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
