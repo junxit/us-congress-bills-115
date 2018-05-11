@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2991
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,12 +31,12 @@ In this Act:
 ## § 4. Designation of local coordinating entity
 
 - **(a)** *Local coordinating entity* The Susquehanna Heritage Corporation, a nonprofit organization established under the laws of the State, shall be the local coordinating entity for the Heritage Area.
-- **(b)** *Authorities of local coordinating entity* The local coordinating entity may, for purposes of preparing and implementing the management plan, use Federal funds made available under this Act—
-  - **(1)** to prepare reports, studies, interpretive exhibits and programs, historic preservation projects, and other activities recommended in the management plan for the Heritage Area;
-  - **(2)** to make grants to the State, political subdivisions of the State, nonprofit organizations, and other persons;
-  - **(3)** to enter into cooperative agreements with the State, political subdivisions of the State, nonprofit organizations, and other organizations;
-  - **(4)** to hire and compensate staff;
-  - **(5)** to obtain funds or services from any source, including funds and services provided under any other Federal program or law; and
+- **(b)** *Authorities of local coordinating entity* The local coordinating entity may, for purposes of preparing and implementing the management plan—
+  - **(1)** prepare reports, studies, interpretive exhibits and programs, historic preservation projects, and other activities recommended in the management plan for the Heritage Area;
+  - **(2)** make grants to the State, political subdivisions of the State, nonprofit organizations, and other persons;
+  - **(3)** enter into cooperative agreements with the State, political subdivisions of the State, nonprofit organizations, and other organizations;
+  - **(4)** hire and compensate staff;
+  - **(5)** obtain funds or services from any source, including funds and services provided under any Federal program or law, in which case the Federal share of the cost of any activity carried out using Federal funds shall not be more than 50 percent; and
   - **(6)** to contract for goods and services.
 - **(c)** *Duties of local coordinating entity* To further the purposes of the Heritage Area, the local coordinating entity shall—
   - **(1)** prepare a management plan for the Heritage Area in accordance with section 5;
@@ -52,7 +52,7 @@ In this Act:
     - **(G)** installing throughout the Heritage Area clear, consistent, and appropriate signs identifying public access points and sites of interest;
   - **(3)** consider the interests of diverse units of government, businesses, tourism officials, private property owners, and nonprofit groups within the Heritage Area in developing and implementing the management plan;
   - **(4)** conduct public meetings at least semiannually regarding the development and implementation of the management plan; and
-  - **(5)** for any fiscal year for which Federal funds are received under this Act—
+  - **(5)** for any fiscal year for which Federal funds are expended for the Heritage Area—
     - **(A)** submit to the Secretary an annual report that describes—
       - **(i)** the accomplishments of the local coordinating entity;
       - **(ii)** the expenses and income of the local coordinating entity; and
@@ -60,20 +60,25 @@ In this Act:
     - **(B)** make available for audit all records relating to the expenditure of the Federal funds and any matching funds; and
     - **(C)** require, with respect to all agreements authorizing the expenditure of Federal funds by other organizations, that the receiving organizations make available for audit all records relating to the expenditure of the Federal funds.
 - **(d)** *Prohibition on acquisition of real property*
-  - **(1)** *In general* The local coordinating entity shall not use Federal funds received under this Act to acquire real property or any interest in real property.
-  - **(2)** *Other sources* Nothing in this Act precludes the local coordinating entity from using Federal funds from other sources for authorized purposes, including the acquisition of real property or any interest in real property.
+  - **(1)** *In general* The local coordinating entity shall not use Federal funds to acquire real property or any interest in real property.
+  - **(2)** *Other sources* Nothing in this Act precludes the local coordinating entity from using funds from other sources for authorized purposes, including the acquisition of real property or any interest in real property.
 
 ## § 5. Management plan
 
 - **(a)** *In general* Not later than 3 years after the date on which funds are first made available to carry out this Act, the local coordinating entity shall prepare and submit to the Secretary a management plan for the Heritage Area.
 - **(b)** *Contents* The management plan for the Heritage Area shall—
   - **(1)** include comprehensive policies, strategies, and recommendations for the conservation, funding, management, and development of the Heritage Area;
-  - **(2)** take into consideration existing State, county, and local plans;
-  - **(3)** specify the existing and potential sources of funding to protect, manage, and develop the Heritage Area;
-  - **(4)** include an inventory of the natural, historic, cultural, educational, scenic, and recreational resources of the Heritage Area relating to the themes of the Heritage Area that should be preserved, restored, managed, developed, or maintained; and
-  - **(5)** include an analysis of, and recommendations for, ways in which Federal, State, and local programs, may best be coordinated to further the purposes of this Act, including recommendations for the role of the National Park Service in the Heritage Area.
-- **(c)** *Disqualification from funding* If a proposed management plan is not submitted to the Secretary by the date that is 3 years after the date on which funds are first made available to carry out this Act, the local coordinating entity may not receive additional funding under this Act until the date on which the Secretary receives the proposed management plan.
-- **(d)** *Approval and disapproval of management plan*
+  - **(2)** include a description of actions and commitments that governments, private organizations, and citizens will take to protect, enhance, and interpret the natural, historic, scenic, and cultural resources of the Heritage Area;
+  - **(3)** describe a program of implementation for the management plan that includes—
+    - **(A)** performance goals and ongoing performance evaluation;
+    - **(B)** plans for resource protection, enhancement and interpretation; and
+    - **(C)** specific commitments for implementation that have been made by the local coordinating entity or any government, organization, business or individual;
+  - **(4)** include an interpretative plan for the Heritage Area;
+  - **(5)** take into consideration existing State, county, and local plans;
+  - **(6)** specify the existing and potential sources of funding to protect, manage, and develop the Heritage Area;
+  - **(7)** include an inventory of the natural, historic, cultural, educational, scenic, and recreational resources of the Heritage Area relating to the themes of the Heritage Area that should be preserved, restored, managed, developed, or maintained; and
+  - **(8)** include an analysis of, and recommendations for, ways in which Federal, State, and local programs, may best be coordinated to further the purposes of this Act, including recommendations for the role of the National Park Service in the Heritage Area.
+- **(c)** *Approval and disapproval of management plan*
   - **(1)** *In general* Not later than 180 days after the date on which the local coordinating entity submits the management plan to the Secretary, the Secretary shall approve or disapprove the proposed management plan.
   - **(2)** *Considerations* In determining whether to approve or disapprove the management plan, the Secretary shall consider whether—
     - **(A)** the local coordinating entity is representative of the diverse interests of the Heritage Area, including governments, natural and historic resource protection organizations, educational institutions, businesses, and recreational organizations;
@@ -85,9 +90,7 @@ In this Act:
       - **(i)** advise the local coordinating entity, in writing, of the reasons for the disapproval; and
       - **(ii)** make recommendations for revision of the proposed management plan.
     - **(B)** *Approval or disapproval* The Secretary shall approve or disapprove a revised management plan not later than 180 days after the date on which the revised management plan is submitted.
-- **(e)** *Approval of amendments*
-  - **(1)** *In general* The Secretary shall review and approve or disapprove substantial amendments to the management plan in accordance with subsection (d).
-  - **(2)** *Funding* Funds appropriated under this Act may not be expended to implement any changes made by an amendment to the management plan until the Secretary approves the amendment.
+- **(d)** *Approval of amendments* The Secretary shall review and approve or disapprove substantial amendments to the management plan in accordance with subsection (c).
 
 ## § 6. Relationship to other Federal agencies
 
@@ -106,12 +109,13 @@ Nothing in this Act—
 - **(2)** requires any property owner to permit public access (including access by Federal, State, or local agencies) to the property of the property owner, or to modify public access or use of property of the property owner under any other Federal, State, or local law;
 - **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, or local agency, or conveys any land use or other regulatory authority to the local coordinating entity;
 - **(4)** authorizes or implies the reservation or appropriation of water or water rights;
-- **(5)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area; or
-- **(6)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
+- **(5)** affects the licensing or relicensing of facilities by the Federal Energy Regulatory Commission within the proposed Heritage Area or upstream or downstream from the proposed Heritage Area on the Susquehanna River, including FERC Project No. 405-104;
+- **(6)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area; or
+- **(7)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
 ## § 8. Evaluation; report
 
-- **(a)** *In General* Not later than 3 years before the date on which authority for Federal funding terminates for the Heritage Area, the Secretary shall—
+- **(a)** *In General* Not later than 3 years after the approval of the management plan under section 5(c), the Secretary shall—
   - **(1)** conduct an evaluation of the accomplishments of the Heritage Area; and
   - **(2)** prepare a report in accordance with subsection (c).
 - **(b)** *Evaluation* An evaluation conducted under subsection (a)(1) shall—
@@ -122,18 +126,10 @@ Nothing in this Act—
   - **(3)** review the management structure, partnership relationships, and funding of the Heritage Area for purposes of identifying the critical components for sustainability of the Heritage Area.
 - **(c)** *Report*
   - **(1)** *In general* Based on the evaluation conducted under subsection (a)(1), the Secretary shall prepare a report that includes recommendations for the future role of the National Park Service, if any, with respect to the Heritage Area.
-  - **(2)** *Required analysis* If the report prepared under paragraph (1) recommends that Federal funding for the Heritage Area be reauthorized, the report shall include an analysis of—
-    - **(A)** ways in which Federal funding for the Heritage Area may be reduced or eliminated; and
-    - **(B)** the appropriate time period necessary to achieve the recommended reduction or elimination.
-  - **(3)** *Submission to congress* On completion of the report, the Secretary shall submit the report to—
+  - **(2)** *Submission to congress* On completion of the report, the Secretary shall submit the report to—
     - **(A)** the Committee on Energy and Natural Resources of the Senate; and
     - **(B)** the Committee on Natural Resources of the House of Representatives.
 
-## § 9. Authorization of appropriations
+## § 9. Termination of authority
 
-- **(a)** *In general* There is authorized to be appropriated to carry out this Act $10,000,000, of which not more than $1,000,000 may be authorized to be appropriated for any fiscal year.
-- **(b)** *Cost-Sharing requirement* The Federal share of the cost of any activity carried out using funds made available under this Act shall be not more than 50 percent.
-
-## § 10. Termination of authority
-
-The authority of the Secretary to provide financial assistance under this Act terminates on the date that is 15 years after the date of enactment of this Act.
+The authority of the Secretary to provide assistance under this Act terminates on the date that is 15 years after the date of enactment of this Act.
