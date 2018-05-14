@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3053
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3053
@@ -128,11 +128,12 @@ Nuclear Waste Policy Amendments Act of 2018
 - Rep. Franks, Trent [R-AZ-8] (F000448)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Committees (3)
+## Committees (4)
 
 - House — Armed Services Committee
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -193,3 +194,4 @@ Nuclear Waste Policy Amendments Act of 2018
 - 2018-05-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3053.
 - 2018-05-10 — The Speaker designated the Honorable Keith J. Rothfus to act as Chairman of the Committee.
 - 2018-05-10 — The previous question was ordered pursuant to the rule.
+- 2018-05-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
