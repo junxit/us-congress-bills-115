@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5515
@@ -35,3 +35,21 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-04-13 — Referred to the Subcommittee on Seapower and Projection Forces.
 - 2018-04-13 — Referred to the Subcommittee on Strategic Forces.
 - 2018-04-13 — Referred to the Subcommittee on Tactical Air and Land Forces.
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-05-09 — Committee Consideration and Mark-up Session Held.
+- 2018-05-10 — Committee Consideration and Mark-up Session Held.
+- 2018-05-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 1.
+- 2018-05-15 — Placed on the Union Calendar, Calendar No. 521.
+- 2018-05-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-676.
+- 2018-05-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-676.
