@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 443
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 443
@@ -16,7 +16,7 @@ A resolution recognizing the 197th anniversary of the independence of Greece and
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -40,6 +40,9 @@ A resolution recognizing the 197th anniversary of the independence of Greece and
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Perdue, David [R-GA] (P000612)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -49,3 +52,7 @@ A resolution recognizing the 197th anniversary of the independence of Greece and
 
 - 2018-03-22 — Introduced in Senate
 - 2018-03-22 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1952)
+- 2018-05-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-05-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-05-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2683)
+- 2018-05-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2683)
