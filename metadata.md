@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4069
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4069
@@ -25,3 +25,10 @@ To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Ala
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Referred to the House Committee on Natural Resources.
+- 2017-10-18 — Referred to the Subcommittee on Federal Lands.
+- 2018-04-18 — Committee Consideration and Mark-up Session Held.
+- 2018-04-18 — Ordered to be Reported by Unanimous Consent.
+- 2018-04-18 — Subcommittee on Federal Lands Discharged.
+- 2018-05-15 — Placed on the Union Calendar, Calendar No. 520.
+- 2018-05-15 — Reported by the Committee on Natural Resources. H. Rept. 115-675.
+- 2018-05-15 — Reported by the Committee on Natural Resources. H. Rept. 115-675.
