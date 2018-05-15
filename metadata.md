@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4895
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4895
@@ -37,3 +37,10 @@ Medgar and Myrlie Evers Home National Monument Act
 - 2018-04-11 — Placed on the Union Calendar, Calendar No. 483.
 - 2018-04-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-632.
 - 2018-04-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-632.
+- 2018-05-15 — Considered under suspension of the rules. (consideration: CR H3949-3951)
+- 2018-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4895.
+- 2018-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3949)
+- 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3949)
+- 2018-05-15 — The title of the measure was amended. Agreed to without objection.

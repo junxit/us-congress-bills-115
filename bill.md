@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4895
 
-> To establish the Medgar Evers National Monument in the State of Mississippi, and for other purposes.
+> To establish the Medgar Evers Home National Monument in the State of Mississippi, and for other purposes.
 
 ## § 1. Short title
 
@@ -30,16 +30,18 @@ In this Act:
   - **(2)** *Conditions* The Monument shall not be established until the date on which the Secretary—
     - **(A)** has entered into a written agreement with the College providing that all parcels within the Medgar Evers Home National Monument boundary as depicted on the Map shall be donated to the United States for inclusion in the Monument to be managed consistently with the purposes of the Monument; and
     - **(B)** has otherwise acquired sufficient land or interests in land within the boundaries of the Monument to constitute a manageable unit.
-- **(b)** *Boundaries* The boundaries of Monument shall be the boundaries generally depicted on the Map.
+- **(b)** *Boundaries* The boundaries of the Monument shall be the boundaries as generally depicted on the Map.
 - **(c)** *Availability of map* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-- **(d)** *Acquisition of authority* The Secretary may only acquire any land or interest in land located within the boundary of the Monument by—
+- **(d)** *Acquisition authority* The Secretary may only acquire any land or interest in land located within the boundary of the Monument by—
   - **(1)** donation;
   - **(2)** purchase with donated funds; or
   - **(3)** exchange.
 - **(e)** *Administration*
   - **(1)** *In general* The Secretary shall administer the Monument in accordance with—
     - **(A)** this Act; and
-    - **(B)** the laws generally applicable to units of the National Park System.
+    - **(B)** the laws generally applicable to units of the National Park System, including—
+      - **(i)** section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; and
+      - **(ii)** chapter 3201 of title 54, United States Code.
   - **(2)** *Management plan*
     - **(A)** Not later than 3 years after the date on which funds are first made available to the Secretary for this purpose, the Secretary shall prepare a general management plan for the Monument in accordance with section 100502 of title 54, United States Code.
     - **(B)** On completion of the general management plan under subparagraph (A), the Secretary shall submit it to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
