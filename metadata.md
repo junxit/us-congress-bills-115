@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1417
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1417
@@ -36,3 +36,9 @@ National Law Enforcement Museum Exhibits Act
 - 2018-02-08 — Placed on the Union Calendar, Calendar No. 411.
 - 2018-02-08 — Reported by the Committee on Natural Resources. H. Rept. 115-548.
 - 2018-02-08 — Reported by the Committee on Natural Resources. H. Rept. 115-548.
+- 2018-05-15 — Considered under suspension of the rules. (consideration: CR H3954-3955)
+- 2018-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1417.
+- 2018-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2018-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3954)
+- 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3954)
