@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “School Resource Officer Assessment Act of 2018”.
 
-## § 2. Mandatory survey of public schools
+## § 2. Survey of public schools
 
-Not later than 1 year after the date of enactment of this Act, the Attorney General and the Secretary of Education shall jointly conduct and submit to Congress, a survey of the assignment of school resource officers at public elementary schools and secondary schools, which shall include a determination of whether each such school—
+Not later than 1 year after the date of enactment of this Act, the Attorney General and the Secretary of Education shall jointly conduct and submit to Congress, a survey of the assignment of school resource officers at public elementary schools and secondary schools, which shall include, with respect to each such school that chose to respond to such survey, a determination of whether—
 
-- **(1)** on or after January 1, 2018, has been assigned a school resource officer; and
+- **(1)** on or after January 1, 2018, such a school has been assigned a school resource officer; and
 - **(2)** in the case of a school that has been assigned such an officer—
   - **(A)** the number of such assignments; and
   - **(B)** whether each such assignment is on a full-time or part-time basis.
