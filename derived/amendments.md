@@ -1,0 +1,50 @@
+---
+measure: H.R. 5788
+congress: 115
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 5788 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+7 amendatory instructions. 1 executed, 6 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 19 U.S.C. § 2071
+
+> Section 343 of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended in the section heading by striking “advanced” and inserting “advance”.
+
+| | |
+|---|---|
+| Removed | `advanced` |
+| Inserted | `advance` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `19 U.S.C. § 58c` | add-at-end | Section 13031(b)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)(9)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | insert | in paragraph (6), by inserting “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 58c` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 58c` | insert | in the flush at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2071` | amend | Section 343(a)(3)(K) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2071` | add-at-end | Section 343(a) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
