@@ -1,7 +1,7 @@
 ---
 measure: S. 2349
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2349
@@ -32,3 +32,5 @@ Improve Data on Sexual Violence Act
 - 2018-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-238.
 - 2018-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-238.
 - 2018-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
+- 2018-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2731; text: CR S2731)
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2731; text: CR S2731)
