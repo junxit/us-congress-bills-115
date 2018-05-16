@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 52
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 52
@@ -67,9 +67,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Jones, Doug [D-AL] (J000300)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -78,3 +79,12 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2018-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
 - 2018-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2018-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2018-05-15 — Committee on Small Business and Entrepreneurship. Hearings held. Hearings printed: S.Hrg. 115-322.
+- 2018-05-16 — Held at the desk.
+- 2018-05-16 — Measure laid before Senate by motion. (consideration: CR S2698-2709)
+- 2018-05-16 — Message on Senate action sent to the House.
+- 2018-05-16 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 96.
+- 2018-05-16 — Motion to proceed to consideration of measure made in Senate. (CR S2698)
+- 2018-05-16 — Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97. (text: CR S2709)
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97.(text: CR S2709)
+- 2018-05-16 — Received in the House.
