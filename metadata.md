@@ -1,7 +1,7 @@
 ---
 measure: H.R. 613
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 613
@@ -73,9 +73,10 @@ Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2017
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -96,3 +97,4 @@ Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2017
 - 2018-05-15 — Placed on the Union Calendar, Calendar No. 519.
 - 2018-05-15 — Reported by the Committee on Judiciary. H. Rept. 115-674.
 - 2018-05-15 — Reported by the Committee on Judiciary. H. Rept. 115-674.
+- 2018-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
