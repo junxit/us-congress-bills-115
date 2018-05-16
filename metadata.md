@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3249
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3249
@@ -26,6 +26,10 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 
 - House — Judiciary Committee
 - Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2018-06-06 — [House 115-2-239](votes/house-115-2-0239.md) — On Motion to Concur in the Senate Amendment — **Passed** (394–13)
 
 ## Actions
 
@@ -55,3 +59,18 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 - 2018-05-16 — Senate amendment agreed to: Amendment SA 2245 agreed to in Senate by Unanimous Consent.
 - 2018-05-16 — Senate amendment proposed (on the floor): Amendment SA 2245 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S2731-2732; text: CR S2731-2732)
 - 2018-05-16 — Senate amendment submitted
+- 2018-05-17 — Message on Senate action sent to the House.
+- 2018-06-06 — DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment to H.R. 3249.
+- 2018-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-06 — Mr. Goodlatte moved that the House agree to the Senate amendment.
+- 2018-06-06 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 394 - 13, 2 Present (Roll no. 239).
+- 2018-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to concur in the Senate amendment to H.R. 3249, the Chair put the question on adoption of the motion and by voice vote announced the ayes had prevailed. Mr. Goodlatte demanded the yeas and nays and the Chair postponed further proceedings on the motion until later in the legislative day.
+- 2018-06-06 — Pursuant to the provisions of H.Res. 918, Mr. Goodlatte brought up H.R. 3249 and offered a motion.
+- 2018-06-06 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 394 - 13, 2 Present (Roll no. 239).
+- 2018-06-06 — The previous question was ordered pursuant to the rule.
+- 2018-06-07 — Presented to President.
+- 2018-06-07 — Presented to President.
+- 2018-06-18 — Became Public Law No: 115-185.
+- 2018-06-18 — Became Public Law No: 115-185.
+- 2018-06-18 — Signed by President.
+- 2018-06-18 — Signed by President.
