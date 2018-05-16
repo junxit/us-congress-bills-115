@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2772
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2772
@@ -57,3 +57,14 @@ SEA Act of 2018
 - 2018-05-16 — Senate amendment agreed to: Amendment SA 2244 agreed to in Senate by Unanimous Consent.
 - 2018-05-16 — Senate amendment proposed (on the floor): Amendment SA 2244 proposed by Senator McConnell for Senator Tillis.(consideration: CR S2732; text: CR S2732)
 - 2018-05-16 — Senate amendment submitted
+- 2018-05-17 — Message on Senate action sent to the House.
+- 2018-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-07 — Mr. Roe (TN) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H4781)
+- 2018-06-07 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H4871)
+- 2018-06-07 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H4871)
+- 2018-06-11 — Presented to President.
+- 2018-06-11 — Presented to President.
+- 2018-06-21 — Became Public Law No: 115-188.
+- 2018-06-21 — Became Public Law No: 115-188.
+- 2018-06-21 — Signed by President.
+- 2018-06-21 — Signed by President.
