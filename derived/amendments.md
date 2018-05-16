@@ -1,7 +1,7 @@
 ---
 measure: S. 2372
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -329,7 +329,7 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1720G` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1720G` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Subsection (g) of section 8103 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `38 U.S.C. § 8162` | amend | Section 8162(b)(6) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 8162(b)(6) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7612(b) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraph (4): | the bill names no machine-readable US Code section |
