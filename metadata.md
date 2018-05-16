@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4895
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4895
@@ -20,9 +20,10 @@ Medgar and Myrlie Evers Home National Monument Act
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Medgar and Myrlie Evers Home National Monument Act
 - 2018-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3949)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3949)
 - 2018-05-15 — The title of the measure was amended. Agreed to without objection.
+- 2018-05-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
