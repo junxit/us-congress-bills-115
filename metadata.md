@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2772
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2772
@@ -47,3 +47,13 @@ SEA Act of 2018
 - 2017-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540)
 - 2017-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6540)
 - 2017-07-31 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-05-16 — Amendment SA 2244 agreed to in Senate by Unanimous Consent.
+- 2018-05-16 — Amendment SA 2244 proposed by Senator McConnell for Senator Tillis. (consideration: CR S2732; text: CR S2732) In the nature of a substitute.
+- 2018-05-16 — Measure laid before Senate by unanimous consent. (consideration: CR S2732)
+- 2018-05-16 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-05-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-05-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-05-16 — Senate amendment agreed to: Amendment SA 2244 agreed to in Senate by Unanimous Consent.
+- 2018-05-16 — Senate amendment proposed (on the floor): Amendment SA 2244 proposed by Senator McConnell for Senator Tillis.(consideration: CR S2732; text: CR S2732)
+- 2018-05-16 — Senate amendment submitted
