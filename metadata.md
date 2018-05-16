@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1417
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1417
@@ -44,3 +44,14 @@ National Law Enforcement Museum Exhibits Act
 - 2018-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3954)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3954)
 - 2018-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7332)
+- 2018-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7332)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-17 — Became Public Law No: 115-321.
+- 2018-12-17 — Became Public Law No: 115-321.
+- 2018-12-17 — Signed by President.
+- 2018-12-17 — Signed by President.
