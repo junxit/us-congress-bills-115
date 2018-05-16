@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1417
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1417
@@ -20,9 +20,10 @@ National Law Enforcement Museum Exhibits Act
 
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ National Law Enforcement Museum Exhibits Act
 - 2018-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-05-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3954)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3954)
+- 2018-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
