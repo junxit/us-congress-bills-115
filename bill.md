@@ -18,7 +18,7 @@ This Act may be cited as the “Protect and Serve Act of 2018”.
 - **(a)** *In general* Chapter 7 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 120. Crimes targeting law enforcement officers
   >
-  > - **(a)** *In general* Whoever, in any circumstance described in subsection (b), knowingly causes serious bodily injury to a law enforcement officer, or attempts to do so—
+  > - **(a)** *In general* Whoever, in any circumstance described in subsection (b), knowingly assaults a law enforcement officer causing serious bodily injury, or attempts to do so—
   >   - **(1)** shall be imprisoned not more than 10 years, fined in accordance with this title, or both; and
   >   - **(2)** shall be imprisoned for any term of years or for life, fined in accordance with this title, or both, if—
   >     - **(A)** death results from the offense; or
@@ -42,8 +42,8 @@ This Act may be cited as the “Protect and Serve Act of 2018”.
   >   - **(2)** *Rule of construction* Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
   > - **(d)** *Definitions* In this section:
   >   - **(1)** *Law enforcement officer* The term “law enforcement officer” means an employee of a governmental or public agency who is authorized by law—
-  >     - **(A)** to engage in or supervise the prevention, detention, investigation, or the incarceration of any person for any criminal violation of law; and
-  >     - **(B)** to apprehend or arrest a person for any criminal violation of law.
+  >     - **(A)** to engage in or supervise the prevention, detection, or the investigation of any criminal violation of law; or
+  >     - **(B)** to engage in or supervise the detention or the incarceration of any person for any criminal violation of law.
   >   - **(2)** *State* The term “State” means a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
