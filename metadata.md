@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4854
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4854
@@ -53,3 +53,12 @@ Justice Served Act of 2018
 - 2018-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 182). (text: CR H3945)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 182).(text: CR H3945)
 - 2018-05-16 — Received in the Senate, read twice.
+- 2018-09-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S6348-6349)
+- 2018-09-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6348-6349)
+- 2018-09-27 — Message on Senate action sent to the House.
+- 2018-09-28 — Presented to President.
+- 2018-09-28 — Presented to President.
+- 2018-10-09 — Became Public Law No: 115-257.
+- 2018-10-09 — Became Public Law No: 115-257.
+- 2018-10-09 — Signed by President.
+- 2018-10-09 — Signed by President.
