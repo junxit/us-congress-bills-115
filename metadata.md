@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5242
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5242
@@ -29,10 +29,11 @@ School Resource Officer Assessment Act of 2018
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ School Resource Officer Assessment Act of 2018
 - 2018-05-15 — Mr. Rokita moved to suspend the rules and pass the bill, as amended.
 - 2018-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3948)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3948)
+- 2018-05-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
