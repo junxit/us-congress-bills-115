@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 112
@@ -37,3 +37,5 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2018-05-09 — On agreeing to the resolution Agreed to without objection. (text: CR H3866)
 - 2018-05-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3866)
 - 2018-05-10 — Received in the Senate.
+- 2018-05-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2733)
+- 2018-05-16 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2733)
