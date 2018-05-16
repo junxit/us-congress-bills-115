@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4854
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4854
@@ -52,3 +52,4 @@ Justice Served Act of 2018
 - 2018-05-15 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2018-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 182). (text: CR H3945)
 - 2018-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 182).(text: CR H3945)
+- 2018-05-16 — Received in the Senate, read twice.
