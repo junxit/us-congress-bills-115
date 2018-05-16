@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3249
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3249
@@ -16,10 +16,11 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (2)
 
@@ -44,3 +45,13 @@ Project Safe Neighborhoods Grant Program Authorization Act of 2018
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-597.
 - 2018-03-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-597.
 - 2018-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-05-16 — Amendment SA 2245 agreed to in Senate by Unanimous Consent.
+- 2018-05-16 — Amendment SA 2245 proposed by Senator McConnell for Senator Cornyn. (consideration: CR S2731-2732; text: CR S2731-2732) In the nature of a substitute.
+- 2018-05-16 — Measure laid before Senate by unanimous consent. (consideration: CR S2731-2732)
+- 2018-05-16 — Passed Senate with an amendment by Voice Vote.
+- 2018-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-05-16 — Senate amendment agreed to: Amendment SA 2245 agreed to in Senate by Unanimous Consent.
+- 2018-05-16 — Senate amendment proposed (on the floor): Amendment SA 2245 proposed by Senator McConnell for Senator Cornyn.(consideration: CR S2731-2732; text: CR S2731-2732)
+- 2018-05-16 — Senate amendment submitted

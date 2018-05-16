@@ -2,49 +2,50 @@
 legis-num: H.R. 3249
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3249
 
-> To authorize the Project Safe Neighborhoods Grant Program, and for other purposes.
+That the bill from the House of Representatives (H.R. 3249) entitled “An Act to authorize the Project Safe Neighborhoods Grant Program, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Project Safe Neighborhoods Grant Program Authorization Act of 2017”.
+This Act may be cited as the “Project Safe Neighborhoods Grant Program Authorization Act of 2018”.
 
 ## § 2. Definitions
 
 For the purposes of this Act—
 
-- **(1)** the term criminal street gangs has the meaning given such term in section 521 of title 18, United States Code;
-- **(2)** the term gang crime means a felony or misdemeanor crime, under State or Federal law, committed by one or more persons who are a member of, or directly affiliated with, a criminal street gang;
-- **(3)** the term transnational organized crime group has the meaning given such term in section 36(k)(6) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(k)(6));
-- **(4)** the term transnational organized crime has the meaning given such term in section 36(k)(5) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(k)(5)); and
-- **(5)** the term firearms offenses means an offense under section 922 or 924 of title 18, United States Code.
+- **(1)** the term firearms offenses means an offense under section 922 or 924 of title 18, United States Code;
+- **(2)** the term Program means the Project Safe Neighborhoods Block Grant Program established under section 3; and
+- **(3)** the term transnational organized crime group has the meaning given such term in section 36(k)(6) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(k)(6)).
 
 ## § 3. Establishment
 
-The Attorney General of the United States is authorized to establish and carry out a program, to be known as the “Project Safe Neighborhoods Block Grant Program” or, in this Act, as the “Program”, within the Office of Justice Programs at the Department of Justice.
+The Attorney General of the United States is authorized to establish and carry out a program, to be known as the “Project Safe Neighborhoods Block Grant Program” within the Office of Justice Programs at the Department of Justice.
 
 ## § 4. Purpose
 
-The purpose of the Project Safe Neighborhoods Block Grant Program is to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, to create safer neighborhoods through sustained reductions in violent crimes by—
-
-- **(1)** developing and executing strategic plans to assist law enforcement agencies in combating gang crimes, including the enforcement of gun laws and drug interdiction; and
-- **(2)** developing intervention and prevention initiatives, including juvenile justice projects and activities which may include street-level outreach, conflict mediation, and the changing of community norms, in order to reduce violence.
+- **(a)** *Project Safe Neighborhoods Block Grant Program* The purpose of the Program is to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, entities representing members of the community affected by increased violence, victims' advocates, and researchers to create safer neighborhoods through sustained reductions in violent crimes by—
+  - **(1)** developing and executing comprehensive strategic plans to reduce violent crimes, including the enforcement of gun laws, and prioritizing efforts focused on identified subsets of individuals or organizations responsible for increasing violence in a particular geographic area;
+  - **(2)** developing evidence-based and data-driven intervention and prevention initiatives, including juvenile justice projects and activities which may include street-level outreach, conflict mediation, provision of treatment and social services, and the changing of community norms, in order to reduce violence; and
+  - **(3)** collecting data on outcomes achieved through the Program, including the effect on the violent crime rate, incarceration rate, and recidivism rate of the jurisdiction.
+- **(b)** *Additional purpose areas* In addition to the purpose described in subsection (a), the Attorney General may use funds authorized under this Act for any of the following purposes—
+  - **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
+  - **(2)** the Edward Byrne criminal justice innovation program;
+  - **(3)** community-based violence prevention initiatives; or
+  - **(4)** gang and youth violence education, prevention and intervention, and related activities.
 
 ## § 5. Rules and regulations
 
-- **(a)** *In general* The Attorney General shall, not later than 60 days after the date of enactment of this Act, make rules to create, carry out, and administer the Program in accordance with this section.
-- **(b)** *Funds To be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally.
-- **(c)** *Regional Gang Task Forces* 30 percent of the amounts made available as grants under the Program each fiscal year shall be granted to established Regional Gang Task Forces in regions experiencing a significant or increased presence of, or high levels of activity from, transnational organized crime groups posing threats to community safety in terms of violent crime, firearms offenses, human trafficking, trafficking and distribution of illegal opioids and heroin, and other crimes.
+- **(a)** *In general* The Attorney General shall issue guidance to create, carry out, and administer the Program in accordance with this section.
+- **(b)** *Funds to be directed to local control* Amounts made available as grants under the Program shall be, to the greatest extent practicable, locally controlled to address problems that are identified locally.
+- **(c)** *Task forces* Thirty percent of the amounts made available as grants under the Program each fiscal year shall be granted to Gang Task Forces in regions experiencing a significant or increased presence of criminal or transnational organizations engaging in high levels of violent crime, firearms offenses, human trafficking, and drug trafficking.
+- **(d)** *Priority* Amounts made available as grants under the Program shall be used to prioritize the investigation and prosecution of individuals who have an aggravating or leadership role in a criminal or transnational organization described in subsection (c).
 
-## § 6. Authorization of appropriations; consolidation of programs
+## § 6. Authorization of appropriations
 
-- **(a)** *Authorization of appropriations* There is authorized to be appropriated for the Program under this Act $50,000,000 for each of fiscal years 2019 through 2021.
-- **(b)** *Consolidation of programs* For each of fiscal years 2019 through 2023, no funds are authorized to be separately appropriated to the Department of Justice Office of Justice Programs for—
-  - **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
-  - **(2)** an Edward Byrne Memorial criminal justice innovation program;
-  - **(3)** community-based violence prevention initiatives; or
-  - **(4)** gang and youth violence education, prevention and intervention, and related activities.
+There are authorized to be appropriated to the Attorney General to carry out the Program $50,000,000 for each of fiscal years 2019 through 2021.
