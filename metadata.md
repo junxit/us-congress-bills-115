@@ -1,7 +1,7 @@
 ---
 measure: S. 2372
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2372
@@ -16,7 +16,7 @@ VA MISSION Act of 2018
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (7)
+## Cosponsors (12)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -25,6 +25,11 @@ VA MISSION Act of 2018
 - Sen. Heller, Dean [R-NV] (H001041)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (3)
 
@@ -57,3 +62,65 @@ VA MISSION Act of 2018
 - 2018-05-16 — Passed/agreed to in House: On passage Passed by recorded vote: 347 - 70 (Roll no. 189).
 - 2018-05-16 — The previous question was ordered pursuant to the rule.
 - 2018-05-16 — The resolution provides for 1 hour of general on all three bills. For H.R. 5698 and H.R. 2, the resolution provides for consideration under a structured rule. For S. 2372, the resolution provides for consideration under a closed rule. Finally, the resolution provides for one motion to recommit with or without instructions on all three bills.
+- 2018-05-17 — Amendment SA 2246 proposed by Senator McConnell. (consideration: CR S2761-2762; text: CR S2761) To change the enactment date.
+- 2018-05-17 — Amendment SA 2247 proposed by Senator McConnell to Amendment SA 2246. (consideration: CR S2761-2762; text: CR S2761) Of a perfecting nature.
+- 2018-05-17 — Amendment SA 2248 proposed by Senator McConnell. (consideration: CR S2761-2762; text: CR S2761-2762) To change the enactment date.
+- 2018-05-17 — Amendment SA 2249 proposed by Senator McConnell to Amendment SA 2248 (the instructions of the motion to refer). (consideration: CR S2762; text: CR S2762) Of a perfecting nature.
+- 2018-05-17 — Amendment SA 2250 proposed by Senator McConnell to Amendment SA 2249. (consideration: CR S2762-2763; text: CR S2762) Of a perfecting nature.
+- 2018-05-17 — Cloture motion on the motion to concur in the House amendment to S. 2372 presented in Senate. (CR S2761)
+- 2018-05-17 — Measure laid before Senate by motion. (consideration: CR S2761-2762, S2762-2768)
+- 2018-05-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-05-17 — Motion by Senator McConnell to concur in the House amendment to S. 2372 made in Senate. (CR S2761)
+- 2018-05-17 — Motion by Senator McConnell to concur in the House amendment to S. 2372 with an amendment (SA 2246) made in Senate.
+- 2018-05-17 — Motion by Senator McConnell to refer to Senate Committee on Veterans' Affairs the House message to accompany S. 2372 with instructions to report back forthwith with the following amendment (SA 2248) made in Senate.
+- 2018-05-17 — Motion to proceed to consideration of the House message to accompany S. 2372 agreed to in Senate by Voice Vote.
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2246 proposed by Senator McConnell.(consideration: CR S2761-2762; text: CR S2761)
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2247 proposed by Senator McConnell to Amendment SA 2246.(consideration: CR S2761-2762; text: CR S2761)
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2248 proposed by Senator McConnell.(consideration: CR S2761-2762; text: CR S2761-2762)
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2249 proposed by Senator McConnell to Amendment SA 2248 (the instructions of the motion to refer).(consideration: CR S2762; text: CR S2762)
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2250 proposed by Senator McConnell to Amendment SA 2249.(consideration: CR S2762-2763; text: CR S2762)
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-18 — Pursuant to the provisions of H. Con. Res. 121, enrollment corrections on S. 2372 have been made.
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-21 — Senate amendment submitted
+- 2018-05-22 — Cloture on the motion to concur in the House amendment to S. 2372 invoked in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 104. (CR S2815)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2815)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2815)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2815)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2815)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2815-2827)
+- 2018-05-22 — Considered by Senate (Message from the House considered). (consideration: CR S2816)
+- 2018-05-22 — Motion by Senator McConnell to refer to Senate Committee on Veterans' Affairs the House message to accompany S. 2372 with instructions to report back forthwith with the following amendment (SA 2248) fell when cloture invoked on the motion to concur in the House amendment to S. 2372 in Senate.
+- 2018-05-22 — SA 2248 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to S. 2372.
+- 2018-05-22 — SA 2249 fell when SA 2248 fell.
+- 2018-05-22 — SA 2250 fell when SA 2249 fell.
+- 2018-05-22 — Senate amendment submitted
+- 2018-05-22 — Senate amendment submitted
+- 2018-05-22 — Senate amendment submitted
+- 2018-05-23 — Considered by Senate (Message from the House considered). (consideration: CR S2865)
+- 2018-05-23 — Considered by Senate (Message from the House considered). (consideration: CR S2865)
+- 2018-05-23 — Considered by Senate (Message from the House considered). (consideration: CR S2865-2866)
+- 2018-05-23 — Motion to table the motion to concur in the House amendment to S. 2372 with an amendment (SA 2246) agreed to in Senate by Voice Vote.
+- 2018-05-23 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2372 by Yea-Nay Vote. 92 - 5. Record Vote Number: 106.
+- 2018-05-23 — SA 2247 fell when the motion to concur in the House amendment to S. 2372 with an amendment (SA 2246) tabled.
+- 2018-05-23 — Senate agreed to the House amendment to S. 2372 by Yea-Nay Vote. 92 - 5. Record Vote Number: 106.
+- 2018-05-24 — Message on Senate action sent to the House.
+- 2018-06-05 — Presented to President.
+- 2018-06-05 — Presented to President.
+- 2018-06-06 — Became Public Law No: 115-182.
+- 2018-06-06 — Became Public Law No: 115-182.
+- 2018-06-06 — Signed by President.
+- 2018-06-06 — Signed by President.
