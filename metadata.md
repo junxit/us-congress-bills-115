@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 891
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 891
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 5698) to amend title 18, United St
 
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2018-05-15 — Introduced in House
@@ -23,3 +27,12 @@ Providing for consideration of the bill (H.R. 5698) to amend title 18, United St
 - 2018-05-15 — The House Committee on Rules reported an original measure, H. Rept. 115-677, by Mr. Woodall.
 - 2018-05-15 — The House Committee on Rules reported an original measure, H. Rept. 115-677, by Mr. Woodall.
 - 2018-05-15 — The resolution provides for 1 hour of general on all three bills. For H.R. 5698 and H.R. 2, the resolution provides for consideration under a structured rule. For S. 2372, the resolution provides for consideration under a closed rule. Finally, the resolution provides for one motion to recommit with or without instructions on all three bills.
+- 2018-05-16 — By direction of the Committee on Rules, Mr. Woodall called up H.Res. 891, and asked for its immediate consideration.
+- 2018-05-16 — Considered as privileged matter. (consideration: CR H3991-4007)
+- 2018-05-16 — DEBATE - The House proceeded with one hour of debate on H. Res. 891.
+- 2018-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-16 — On agreeing to the resolution Agreed to by recorded vote: 229 - 185 (Roll no. 186). (text: CR H3991)
+- 2018-05-16 — On consideration of the resolution Agreed to by the Yeas and Nays: 223 - 181 (Roll No. 184).
+- 2018-05-16 — On ordering the previous question Agreed to by the Yeas and Nays: 230 - 184 (Roll no. 185). (CR H4007)
+- 2018-05-16 — POINT OF ORDER - Mr. McGovern raised a point of order against the provisions of H. Res. 891 because it violates the Congressional Budget Act. The Chair announced that the disposition of the point of order would be resolved by the question of consideration of H. Res. 891. The House proceeded with 20 minutes of debate on the point of order, at the end of which the Chair will put the question on consideration.
+- 2018-05-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 185 (Roll no. 186).(text: CR H3991)
