@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5698
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5698
@@ -24,9 +24,10 @@ Protect and Serve Act of 2018
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Protect and Serve Act of 2018
 - 2018-05-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 382 - 35 (Roll no. 188).
 - 2018-05-16 — The previous question was ordered on the amendment and bill without objection.
 - 2018-05-16 — The resolution provides for 1 hour of general on all three bills. For H.R. 5698 and H.R. 2, the resolution provides for consideration under a structured rule. For S. 2372, the resolution provides for consideration under a closed rule. Finally, the resolution provides for one motion to recommit with or without instructions on all three bills.
+- 2018-05-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
