@@ -1,7 +1,7 @@
 ---
 measure: S. 346
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 346
@@ -33,3 +33,12 @@ National Volcano Early Warning and Monitoring System Act
 - 2017-06-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-113.
 - 2017-06-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-113.
 - 2017-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 150.
+- 2018-05-17 — Amendment SA 2252 agreed to in Senate by Unanimous Consent.
+- 2018-05-17 — Amendment SA 2252 proposed by Senator McConnell for Senator Murkowski. (consideration: CR S2777; text: CR S2777) To modify the authorization of appropriations.
+- 2018-05-17 — Measure laid before Senate by unanimous consent. (consideration: CR S3776-3778)
+- 2018-05-17 — Passed Senate with amendments by Voice Vote. (text as passed Senate: CR S3777-3778)
+- 2018-05-17 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text as passed Senate: CR S3777-3778)
+- 2018-05-17 — Senate amendment agreed to: Amendment SA 2252 agreed to in Senate by Unanimous Consent.
+- 2018-05-17 — Senate amendment proposed (on the floor): Amendment SA 2252 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S2777; text: CR S2777)
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-17 — The committee amendments agreed to by Unanimous Consent. (text of measure as reported to Senate: CR S3776-3777)

@@ -1,7 +1,7 @@
 ---
 legis-num: S. 346
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,38 +13,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “National Volcano Early Warning and Monitoring System Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** the United States and the territories of the United States contain 169 hazardous volcanoes;
-- **(2)** since 1980, eruptions have claimed many lives and cost billions of dollars in property damage in the United States;
-- **(3)** ash eruptions pose a hazard to high-flying jet aircraft, including the more than 50,000 passengers who travel on jets over Alaska and the North Pacific every day;
-- **(4)** in 1989, an eruption of Redoubt Volcano, Alaska, caused in-flight failure of all 4 engines of a passenger Boeing 747 aircraft;
-- **(5)** international flights over the Commonwealth of the Northern Mariana Islands and the intense domestic air traffic of the Pacific Northwest also face potential engine failure in the event of an eruption;
-- **(6)** mudflows from ice-clad Cascade volcanoes of the States of Washington, Oregon, and California pose a serious hazard to cities and transportation arteries in the Pacific Northwest;
-- **(7)** lava flows, toxic gas emissions, and explosions impact residents and visitors to the State of Hawaii and have the potential to cause catastrophic property damage;
-- **(8)** frequent seismic unrest requires careful monitoring in the Mammoth Lakes area of the State of California and Yellowstone National Park in the States of Wyoming, Montana, and Idaho;
-- **(9)** modern technology, in the form of geophysical monitoring networks on the ground and the use of near real-time satellite data, makes possible early warnings typically weeks or months before eruptions, giving emergency response agencies and the public time to prepare, which minimizes potential damage to property and loss of life;
-- **(10)** the efficacy of monitoring is being demonstrated by—
-  - **(A)** the successful forecasts and warnings of Augustine Volcano in 1986 and 2006, Redoubt Volcano in 1989 through 1990 and 2009, and Mt. Spurr in 1992; and
-  - **(B)** warnings and forecasts of lava flow advancement in Hawaii during the ongoing eruption of Kilauea;
-- **(11)** the United States Geological Survey and university and State partners of the United States Geological Survey operate—
-  - **(A)** the Alaska Volcano Observatory located in Anchorage and Fairbanks, Alaska;
-  - **(B)** the Cascades Volcano Observatory located in Vancouver, Washington;
-  - **(C)** the Hawaiian Volcano Observatory located in Hawai’i Volcanoes National Park, Hawaii;
-  - **(D)** the Yellowstone Volcano Observatory located in Yellowstone National Park in the States of Wyoming, Montana, and Idaho; and
-  - **(E)** the California Volcano Observatory, located in Menlo Park, California; and
-- **(12)** a detailed survey of the volcanoes in the United States and the monitoring status of those volcanoes has revealed numerous serious monitoring gaps, leaving the United States exposed to preventable damage from large volcanic eruptions.
-
-## § 32. Definitions
+## § 2. Definitions
 
 In this Act:
 
 - **(1)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
-- **(2)** *System* The term System means the National Volcano Early Warning and Monitoring System established under section 43(a)(1).
+- **(2)** *System* The term System means the National Volcano Early Warning and Monitoring System established under section 3(a)(1).
 
-## § 43. National volcano early warning and monitoring system
+## § 3. National volcano early warning and monitoring system
 
 - **(a)** *Establishment*
   - **(1)** *In general* The Secretary shall establish within the United States Geological Survey a system, to be known as the “National Volcano Early Warning and Monitoring System”, to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
@@ -77,7 +53,7 @@ In this Act:
     - **(D)** the Director of the Federal Emergency Management Administration.
 - **(d)** *Annual report* Annually, the Secretary shall submit to Congress a report that describes the activities carried out under this Act.
 
-## § 54. Funding
+## § 4. Funding
 
-- **(a)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act for each of fiscal years 2017 through 2027.
+- **(a)** *Authorization of appropriations* There is authorized to be appropriated to carry out this Act $55,000,000 for the period of fiscal years 2019 through 2023.
 - **(b)** *Effect on other sources of Federal funding* Amounts made available under this section shall supplement, and not supplant, Federal funds made available for other United States Geological Survey hazards activities and programs.
