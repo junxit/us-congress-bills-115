@@ -1,7 +1,7 @@
 ---
 measure: S. 2349
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2349
@@ -20,9 +20,10 @@ Improve Data on Sexual Violence Act
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Improve Data on Sexual Violence Act
 - 2018-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
 - 2018-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2731; text: CR S2731)
 - 2018-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2731; text: CR S2731)
+- 2018-05-17 — Message on Senate action sent to the House.
+- 2018-05-17 — Received in the House.
+- 2018-05-17 — Referred to the House Committee on the Judiciary.
