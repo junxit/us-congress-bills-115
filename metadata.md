@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 121
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 121
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2018-05-16 — Mr. Roe (TN) asked unanimous consent to consider as introduced.
 - 2018-05-16 — On agreeing to the resolution Agreed to without objection. (text: CR H4058)
 - 2018-05-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4058)
+- 2018-05-17 — Received in the Senate.
