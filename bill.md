@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 5864
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5864
+
+> To direct the Secretary of Veterans Affairs to establish qualifications for the human resources positions within the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “VA Hospitals Establishing Leadership Performance Act”.
+
+## § 2. Qualifications for human resources positions within the Veterans Health Administration of the Department of Veterans Affairs
+
+- **(a)** *Establishment of qualifications* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
+  - **(1)** establish qualifications for each human resources position within the Veterans Health Administration of the Department of Veterans Affairs;
+  - **(2)** establish standardized performance metrics for each such position; and
+  - **(3)** submit to Congress a report containing the qualifications and standardized performance metrics established under paragraphs (1) and (2).
+- **(b)** *Report* Not later than 180 days after the establishment of the qualifications and performance metrics under subsection (a), the Comptroller General of the United States shall submit to the Committee on Veterans’ Affairs of the House of Representatives and the Committee on Veterans’ Affairs of the Senate a report containing—
+  - **(1)** a description of the implementation of such qualifications and performance metrics; and
+  - **(2)** an assessment of the quality of such qualifications and performance metrics.
