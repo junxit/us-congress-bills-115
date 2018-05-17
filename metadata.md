@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 900
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 900
@@ -16,6 +16,15 @@ Providing for further consideration of the bill (H.R. 2) to provide for the refo
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2018-05-17 — [House 115-2-190](votes/house-115-2-0190.md) — On Ordering the Previous Question — **Passed** (228–189)
+- 2018-05-17 — [House 115-2-191](votes/house-115-2-0191.md) — On Agreeing to the Resolution — **Passed** (228–188)
+
 ## Actions
 
 - 2018-05-16 — Introduced in House
@@ -23,3 +32,10 @@ Providing for further consideration of the bill (H.R. 2) to provide for the refo
 - 2018-05-16 — Provides for further amendments to H.R. 2.
 - 2018-05-16 — The House Committee on Rules reported an original measure, H. Rept. 115-679, by Mr. Newhouse.
 - 2018-05-16 — The House Committee on Rules reported an original measure, H. Rept. 115-679, by Mr. Newhouse.
+- 2018-05-17 — Considered as privileged matter. (consideration: CR H4150-4163)
+- 2018-05-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 900.
+- 2018-05-17 — DEBATE - The House resumed debate on H. Res. 900.
+- 2018-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-17 — On agreeing to the resolution Agreed to by recorded vote: 228 - 188 (Roll no. 191). (text: CR H4150-4151)
+- 2018-05-17 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 189 (Roll no. 190). (CR H4162)
+- 2018-05-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 228 - 188 (Roll no. 191).(text: CR H4150-4151)
