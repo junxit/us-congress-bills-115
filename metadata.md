@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 60
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 60
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of Barbara M. Barrett as a ci
 
 - 2018-04-24 — Introduced in Senate
 - 2018-04-24 — Read twice and referred to the Committee on Rules and Administration.
+- 2018-05-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S3778)
+- 2018-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3778)
+- 2018-05-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S3778)
+- 2018-05-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S3778)
