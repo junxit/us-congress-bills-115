@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5044
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5044
@@ -30,3 +30,11 @@ Service-Disabled Veterans Small Business Continuation Act
 - 2018-02-15 — Introduced in House
 - 2018-02-15 — Referred to the House Committee on Veterans' Affairs.
 - 2018-02-15 — Referred to the Subcommittee on Economic Opportunity.
+- 2018-03-20 — Subcommittee Hearings Held.
+- 2018-04-11 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-04-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-05-08 — Committee Consideration and Mark-up Session Held.
+- 2018-05-08 — Ordered to be Reported by Voice Vote.
+- 2018-05-18 — Placed on the Union Calendar, Calendar No. 532.
+- 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-689.
+- 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-689.
