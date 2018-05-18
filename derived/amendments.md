@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4451
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,20 +26,20 @@ to guess them.
 
 ### 42 U.S.C. § 1437f
 
-> Section 2021(e)(F) of title 38, United States Code, is amended by striking “2017” and inserting “2022”.
+> Section 2021(e)(1)(F) of title 38, United States Code, is amended by striking “2018” and inserting “2022”.
 
 | | |
 |---|---|
-| Removed | `2017` |
+| Removed | `2018` |
 | Inserted | `2022` |
 
 ### 42 U.S.C. § 1437f
 
-> Section 2021A(f)(1) of such title is amended by striking “2017” and inserting “2022”.
+> Section 2021A(f)(1) of such title is amended by striking “2018” and inserting “2022”.
 
 | | |
 |---|---|
-| Removed | `2017` |
+| Removed | `2018` |
 | Inserted | `2022` |
 
 ## Stated, not applied
