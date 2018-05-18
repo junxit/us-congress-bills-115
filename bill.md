@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1972
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,21 +18,21 @@ This Act may be cited as the “VA Billing Accountability Act”.
 - **(a)** *Hospital care, nursing home care, and medical services* Section 1710(f)(3) of title 38, United States Code, is amended by adding at the end the following new subparagraph:
   > - **(G)** The Secretary may waive the requirement of a veteran to make a payment under this subsection or subsection (g) if—
   >   - **(i)** an error committed by the Department or an employee of the Department was the cause of delaying notification sent to the veteran of the requirement to make the payment; and
-  >   - **(ii)** the veteran received such notification later than 120 days after the date on which the veteran received the care or services for which the payment was required.
+  >   - **(ii)** the veteran received such notification later than 180 days after the date on which the veteran received the care or services for which the payment was required.
 
 - **(b)** *Medications* Section 1722A of such title is amended—
   - **(1)** by redesignating subsection (c) as subsection (d); and
   - **(2)** by inserting after subsection (b) the following new subsection (c):
     > - **(c)** The Secretary may waive the requirement of a veteran to make a payment under this section if—
     >   - **(1)** an error committed by the Department or an employee of the Department was the cause of delaying notification sent to the veteran of the requirement to make the payment; and
-    >   - **(2)** the veteran received such notification later than 120 days after the date on which the veteran received the medication for which the payment was required.
+    >   - **(2)** the veteran received such notification later than 180 days after the date on which the veteran received the medication for which the payment was required.
 
 - **(c)** *Billing procedures*
   - **(1)** *In general* Subchapter I of chapter 17 of such title is amended by adding at the end the following new section:
     > ## § 1709C. Procedures for copayments
     >
     > - **(a)** *Care at Department facility*
-    >   - **(1)** In requiring a veteran to make a payment for care or services provided at a medical facility of the Department pursuant to this chapter, including sections 1710 and 1722A, the Secretary shall provide to such veteran a notification of such required payment by not later than 120 days after the date on which the veteran receives the care or services for which payment is required.
+    >   - **(1)** In requiring a veteran to make a payment for care or services provided at a medical facility of the Department pursuant to this chapter, including sections 1710 and 1722A, the Secretary shall provide to such veteran a notification of such required payment by not later than 180 days after the date on which the veteran receives the care or services for which payment is required.
     >   - **(2)** If the Secretary does not provide to a veteran a notification of the required payment by the date required under paragraph (1), the Secretary may not collect such payment, including through a third-party entity, unless the Secretary provides the veteran the following:
     >     - **(A)** Information regarding how to apply for a waiver described in section 1710(f)(3)(G) or section 1722A(c) of this title, as appropriate.
     >     - **(B)** Information regarding how to establish a payment plan with the Secretary.
