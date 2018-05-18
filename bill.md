@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3832
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,15 +13,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Veterans Opioid Abuse Prevention Act”.
 
-## § 2. Department of Veterans Affairs participation in national network of State-based prescription drug monitoring programs
+## § 2. Department of VETERANS AFFAIRS participation in national network of State-based prescription drug monitoring programs
 
-- **(a)** *Memorandum of understanding* The Secretary of Veterans Affairs shall enter into a memorandum of understanding with the executive director of a national network of State-based prescription drug monitoring programs under which Department of Veterans Affairs health care providers shall query such network to support the safe and effective prescribing of controlled substances to covered patients. Under such memorandum of understanding—
-  - **(1)** Department health care providers practicing in a State that participates in such network shall query such network in accordance with the agreement between that State’s prescription drug monitoring program and such network in accordance with applicable Veterans Health Administration policies; and
-  - **(2)** Department health care providers practicing in States that do not participate in such network shall query such network through the drug monitoring program of the participating State that is in closest proximity to the State where the provider is practicing.
-- **(b)** *Covered patients* For purposes of this section, a covered patient is a patient who—
-  - **(1)** receives a prescription for a controlled substance for a period of 90 days or longer; and
-  - **(2)** is not receiving palliative care or enrolled in hospice care.
-- **(c)** *Exception* The memorandum of understanding under subsection (a) shall provide for an exception to ensure that Department health care providers are not obligated to comply with the provisions of the memorandum of understanding if such provisions are in violations of applicable State law.
-- **(d)** *Definitions* In this section:
-  - **(1)** The term “controlled substance” has the meaning given such term in paragraph (6) of section 102 of the Controlled Substances Act (21 U.S.C. 802(6)).
-  - **(2)** The term “national network of State-based prescription monitoring programs” means an interconnected nationwide system that facilitates the transfer of State prescription drug monitoring program data across State lines.
+- **(a)** *In general* Chapter 17 of title 38, United States Code, is amended by inserting after section 1730A the following new section:
+  > ## § 1730B. Access to State prescription drug monitoring programs
+  >
+  > - **(a)** *Access to programs*
+  >   - **(1)** Any licensed health care provider or delegate of such a provider shall be considered an authorized recipient or user for the purpose of querying and receiving data from the national network of State-based prescription drug monitoring programs to support the safe and effective prescribing of controlled substances to covered patients.
+  >   - **(2)** Under the authority granted by paragraph (1)—
+  >     - **(A)** licensed health care providers or delegates of such providers shall query such network in accordance with applicable regulations and policies of the Veterans Health Administration; and
+  >     - **(B)** notwithstanding any general or specific provision of law, rule, or regulation of a State, no State may restrict the access of licensed health care providers or delegates of such providers from accessing that State’s prescription drug monitoring programs.
+  >   - **(3)** No State shall deny or revoke the license, registration, or certification of a licensed health care provider or delegate who otherwise meets that State’s qualifications for holding the license, registration, or certification on the basis that the licensed health care provider or delegate has queried or received data, or attempt to query or receive data, from the national network of State-based prescription drug monitoring programs under this section.
+  > - **(b)** *Covered patients* For purposes of this section, a covered patient is a patient who—
+  >   - **(1)** receives a prescription for a controlled substance; and
+  >   - **(2)** is not receiving palliative care or enrolled in hospice care.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** The term “controlled substance” has the meaning given such term in section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)).
+  >   - **(2)** The term “delegate” means a person or automated system accessing the national network of State-based prescription monitoring programs at the direction or under the supervision of a licensed health care provider.
+  >   - **(3)** The term “licensed health care provider” means a health care provider employed by the Department who is licensed, certified, or registered within any State to fill or prescribe medications within the scope of his or her practice as a Department employee.
+  >   - **(4)** The term “national network of State-based prescription monitoring programs” means an interconnected nation-wide system that facilitates the transfer to State prescription drug monitoring program data across State lines.
+  >   - **(5)** The term “State” means a State, as defined in section 101(20) of this title, or a political subdivision of a State.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1730A the following new item:
