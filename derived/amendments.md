@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+16 amendatory instructions. 2 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 12 U.S.C. § 1454
+
+> in subparagraph (C), by striking “Freddie Mac” and all that follows through the period at the end and inserting “amount of the loan.”.
+
+| | |
+|---|---|
+| Removed | `Freddie Mac` |
+| Inserted | `amount of the loan.` |
+
+### 12 U.S.C. § 1454
+
+> in paragraph (1), by striking “A fee” and inserting “Subject to paragraph (3), a fee”; and
+
+| | |
+|---|---|
+| Removed | `A fee` |
+| Inserted | `Subject to paragraph (3), a fee` |
 
 ## Stated, not applied
 
@@ -31,5 +51,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subsections (a)(1) and (f) of section 1116 of title 38, United States Code, are amended by inserting “(including the territorial seas of such Republic)” after “served in the Republic of Vietnam” each place it appears. | the bill names no machine-readable US Code section |
-| — | insert | Section 1710(e)(4) of such title is amended by inserting “(including the territorial seas of such Republic)” after “served on active duty in the Republic of Vietnam”. | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1116` | insert | Chapter 11 of title 38, United States Code, is amended by inserting after section 1116 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1116` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1116 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1116` | insert | Section 1710(e)(4) of such title is amended by inserting “(including the territorial seas of such Republic)” after “served on active duty in the Republic of Vietnam”. | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1116A` | insert | Chapter 11 of title 38, United States Code, is amended by inserting after section 1116A, as added by section 1, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1116A` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1116A, as added by section 1, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter III of chapter 18 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The heading for subchapter III of chapter 18 of such title is amended by inserting “and Thailand” after “Korea”. | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to subchapter III and inserting the following new item: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the item relating to section 1821 the following new item: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 1454` | strike | by striking “the lesser of”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1454` | strike | by striking “or 25 percent of the loan”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1454` | replace | Section 3729(b)(2) of such title is amended by striking the loan fee table and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 3731(b) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
