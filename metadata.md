@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4334
@@ -16,7 +16,7 @@ Improving Oversight of Women Veterans' Care Act of 2018
 
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 
-## Cosponsors (28)
+## Cosponsors (35)
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Ryan, Tim [D-OH-13] (R000577)
@@ -46,6 +46,13 @@ Improving Oversight of Women Veterans' Care Act of 2018
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Evans, Dwight [D-PA-2] (E000296)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
 
 ## Committees (1)
 
@@ -58,3 +65,10 @@ Improving Oversight of Women Veterans' Care Act of 2018
 - 2017-11-09 — Referred to the House Committee on Veterans' Affairs.
 - 2017-11-09 — Referred to the Subcommittee on Health.
 - 2017-11-09 — Sponsor introductory remarks on measure. (CR E1544)
+- 2018-04-17 — Subcommittee Hearings Held.
+- 2018-05-08 — Committee Consideration and Mark-up Session Held.
+- 2018-05-08 — Ordered to be Reported by Voice Vote.
+- 2018-05-08 — Subcommittee on Health Discharged.
+- 2018-05-18 — Placed on the Union Calendar, Calendar No. 528.
+- 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-685.
+- 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-685.
