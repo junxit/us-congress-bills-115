@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Oversight of Women Veterans’ Care Act of 2017”.
+This Act may be cited as the “Improving Oversight of Women Veterans’ Care Act of 2018”.
 
 ## § 2. Annual report on veteran access to covered sex-specific services under community care contracts
 
@@ -19,7 +19,8 @@ This Act may be cited as the “Improving Oversight of Women Veterans’ Care Ac
   - **(1)** the average wait time between the veteran’s preferred appointment date and the date on which the appointment is completed;
   - **(2)** driving time required for veterans to attend appointments; and
   - **(3)** reasons why appointments could not be scheduled with non-Department medical providers.
-- **(b)** *Covered sex-Specific medical care* In this section, the term “covered sex-specific medical care” means mammography, maternity care, and gynecological care.
+- **(b)** *Sunset* The requirement to submit a report under this section shall terminate on the date that is 7 years after the date of the enactment of this Act.
+- **(c)** *Covered sex-Specific medical care* In this section, the term “covered sex-specific medical care” means mammography, maternity care, and gynecological care.
 
 ## § 3. Reporting on Veterans Health Administration environment of care standards for women veterans
 
@@ -29,4 +30,5 @@ This Act may be cited as the “Improving Oversight of Women Veterans’ Care Ac
   - **(2)** a description of the method by which the Secretary will—
     - **(A)** ensure that all patient care areas of each Department medical facility are inspected as required; and
     - **(B)** expand the list of items that facility staff inspect for compliance to align with the women’s health handbook of the Veterans Health Administration.
-- **(c)** *Environment of care standards for women veterans* In this section, the term “environment of care standards for women veterans” has the meaning given that term in Veterans Health Administration Directive 1330.01(1).
+- **(c)** *Sunset* The requirement to submit a report under this section shall terminate on the date that is 7 years after the date of the enactment of this Act.
+- **(d)** *Environment of care standards for women veterans* In this section, the term “environment of care standards for women veterans” has the meaning given that term in Veterans Health Administration Directive 1330.01(1).

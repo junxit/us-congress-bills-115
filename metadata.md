@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4334
@@ -72,3 +72,9 @@ Improving Oversight of Women Veterans' Care Act of 2018
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 528.
 - 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-685.
 - 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-685.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4265-4267)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4334.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 4265)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 4265)
