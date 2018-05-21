@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3832
 
-> To direct the Secretary of Veterans Affairs to enter into a memorandum of understanding with the executive director of a national network of State-based prescription monitoring programs under which Department of Veterans Affairs health care providers shall query such network, and for other purposes.
+> To amend title 38, United States Code, to provide for access by Department of Veterans Affairs health care providers to State prescription drug monitoring programs.
 
 ## § 1. Short title
 
