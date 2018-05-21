@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 60
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 60
@@ -21,9 +21,10 @@ A joint resolution providing for the reappointment of Barbara M. Barrett as a ci
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the reappointment of Barbara M. Barrett as a ci
 - 2018-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3778)
 - 2018-05-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S3778)
 - 2018-05-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S3778)
+- 2018-05-21 — Message on Senate action sent to the House.
+- 2018-05-21 — Received in the House.
+- 2018-05-21 — Referred to the House Committee on House Administration.
