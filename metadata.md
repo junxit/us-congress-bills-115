@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5044
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5044
@@ -38,3 +38,9 @@ Service-Disabled Veterans Small Business Continuation Act
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 532.
 - 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-689.
 - 2018-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-689.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4259-4260)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5044.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4259)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4259)
