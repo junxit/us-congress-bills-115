@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1457
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,6 +38,25 @@ This Act may be cited as the “Advanced Nuclear Energy Technologies Act”.
   > - **(b)** *Purpose* The purpose of this section is to direct the Secretary, as soon as practicable after the date of enactment of this section, to advance the research and development of domestic advanced, affordable, and clean nuclear energy by—
   >   - **(1)** demonstrating different advanced nuclear reactor technologies that could be used by the private sector to produce—
   >     - **(A)** emission-free power at a cost of $65–$70 per mWh or less;
+  >   - **(1)** *Advanced Nuclear Reactor* The term advanced nuclear reactor means a nuclear fission or fusion reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (or successor regulations)), with significant improvements compared to the most recent generation of fission reactors, including improvements such as—
+  >     - **(A)** additional inherent safety features;
+  >     - **(B)** a significantly lower levelized cost of electricity;
+  >     - **(C)** lower waste yields;
+  >     - **(D)** improved fuel performance;
+  >     - **(E)** increased tolerance to loss of fuel cooling;
+  >     - **(F)** enhanced reliability;
+  >     - **(G)** increased proliferation resistance;
+  >     - **(H)** increased thermal efficiency;
+  >     - **(I)** reduced consumption of cooling water;
+  >     - **(J)** the ability to integrate into electric applications and nonelectric applications;
+  >     - **(K)** modular sizes to allow for deployment that corresponds with the demand for electricity; or
+  >     - **(L)** operational flexibility to respond to changes in demand for electricity and to complement integration with intermittent renewable energy.
+  >   - **(2)** *Demonstration project* The term “demonstration project” means an advanced nuclear reactor operated—
+  >     - **(A)** as part of the power generation facilities of an electric utility system; or
+  >     - **(B)** in any other manner for the purpose of demonstrating the suitability for commercial application of the advanced nuclear reactor.
+  > - **(b)** *Purpose* The purpose of this section is to direct the Secretary, as soon as practicable after the date of enactment of this section, to advance the research and development of domestic advanced, affordable, and clean nuclear energy by—
+  >   - **(1)** demonstrating different advanced nuclear reactor technologies that could be used by the private sector to produce—
+  >     - **(A)** emission-free power at a levelized cost of electricity of $60 per mWh or less;
   >     - **(B)** heat for industrial purposes or synthetic fuel production;
   >     - **(C)** remote or off-grid energy supply; or
   >     - **(D)** backup or mission-critical power supplies;
