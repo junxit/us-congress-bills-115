@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 60
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 60
@@ -37,3 +37,16 @@ A joint resolution providing for the reappointment of Barbara M. Barrett as a ci
 - 2018-05-21 — Message on Senate action sent to the House.
 - 2018-05-21 — Received in the House.
 - 2018-05-21 — Referred to the House Committee on House Administration.
+- 2018-06-28 — Committee on House Administration discharged.
+- 2018-06-28 — Committee on House Administration discharged.
+- 2018-06-28 — Considered by unanimous consent. (consideration: CR H5853)
+- 2018-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-28 — Mr. Harper asked unanimous consent to discharge from committee and consider.
+- 2018-06-28 — On passage Passed without objection. (text: CR H5853)
+- 2018-06-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5853)
+- 2018-07-10 — Presented to President.
+- 2018-07-10 — Presented to President.
+- 2018-07-20 — Became Public Law No: 115-199.
+- 2018-07-20 — Became Public Law No: 115-199.
+- 2018-07-20 — Signed by President.
+- 2018-07-20 — Signed by President.
