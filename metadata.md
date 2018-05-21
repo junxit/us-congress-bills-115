@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4451
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4451
@@ -42,3 +42,11 @@ Homeless Veterans' Reintegration Programs Reauthorization Act of 2018
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 529.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-686.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-686.
+- 2018-05-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-05-21 — Considered as unfinished business. (consideration: CR H4268)
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4263-4265)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4451.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 208). (text: CR H4263)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 1 (Roll no. 208).(text: CR H4263)
