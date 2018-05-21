@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5655
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5655
@@ -25,3 +25,8 @@ Camp Nelson National Monument Act
 - 2018-04-27 — Introduced in House
 - 2018-04-27 — Introduced in House
 - 2018-04-27 — Referred to the House Committee on Natural Resources.
+- 2018-05-08 — Committee Consideration and Mark-up Session Held.
+- 2018-05-08 — Ordered to be Reported by Unanimous Consent.
+- 2018-05-21 — Placed on the Union Calendar, Calendar No. 538.
+- 2018-05-21 — Reported by the Committee on Natural Resources. H. Rept. 115-695.
+- 2018-05-21 — Reported by the Committee on Natural Resources. H. Rept. 115-695.
