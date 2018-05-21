@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3946
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3946
@@ -42,3 +42,9 @@ An Act to name the Department of Veterans Affairs community-based outpatient cli
 - 2017-10-04 — Introduced in House
 - 2017-10-04 — Referred to the House Committee on Veterans' Affairs.
 - 2017-10-04 — Referred to the Subcommittee on Health.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4251-4253)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3946.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill.
+- 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4252)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4252)
