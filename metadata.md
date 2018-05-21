@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3642
@@ -110,3 +110,9 @@ Military SAVE Act
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 526.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-683.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-683.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4248-4250)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3642.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill, as amended.
+- 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4248-4249)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4248-4249)
