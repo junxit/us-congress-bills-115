@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3832
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3832
@@ -76,3 +76,12 @@ Veterans Opioid Abuse Prevention Act
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 527.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-684.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-684.
+- 2018-05-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-05-21 — Considered as unfinished business. (consideration: CR H4268-4269)
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4250-4251)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3832.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill, as amended.
+- 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 209). (text: CR H4250-4251)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 209).(text: CR H4250-4251)
+- 2018-05-21 — The title of the measure was amended. Agreed to without objection.
