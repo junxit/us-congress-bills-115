@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1972
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1972
@@ -84,3 +84,9 @@ VA Billing Accountability Act
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 524.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-681.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-681.
+- 2018-05-21 — Considered under suspension of the rules. (consideration: CR H4247-4248)
+- 2018-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1972.
+- 2018-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill, as amended.
+- 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4247)
+- 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4247)

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1972
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
