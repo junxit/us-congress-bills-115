@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4245
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -43,7 +43,7 @@ This Act may be cited as the “Veterans’ Electronic Health Record Modernizati
   - **(4)** Performance Baseline Report for the fiscal quarter covered by the submission or for the fiscal quarter ending the fiscal year prior to the submission.
   - **(5)** Budget Reconciliation Report.
   - **(6)** Risk Management Plan and Risk Register.
-- **(c)** *Contracts* Not later than five days after awarding a contract, order, or agreement, including any modifications thereto, under the Electronic Health Record Modernization Program, the Secretary shall submit to the appropriate congressional committees a copy of the entire such contract, order, agreement, or modification.
+- **(c)** *Contracts* Not later than 5 days after awarding a contract, order, or agreement, including any modifications thereto, under the Electronic Health Record Modernization Program, the Secretary shall submit to the appropriate congressional committees a copy of the entire such contract, order, agreement, or modification.
 - **(d)** *Notification*
   - **(1)** *Requirement* Not later than 10 days after an event described in paragraph (2) occurs, the Secretary shall notify the appropriate congressional committees of such occurrence, including a description of the event and an explanation for why such event occurred.
   - **(2)** *Event described* An event described in this paragraph is any of the following events regarding the Electronic Health Record Modernization Program:
