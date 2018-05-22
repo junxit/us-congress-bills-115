@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4830
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4830
@@ -26,9 +26,10 @@ SIT-REP Act
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ SIT-REP Act
 - 2018-05-21 — Placed on the Union Calendar, Calendar No. 537.
 - 2018-05-21 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-694.
 - 2018-05-21 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-694.
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
