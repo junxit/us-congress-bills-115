@@ -1,7 +1,7 @@
 ---
 measure: S. 2098
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2098
@@ -16,7 +16,7 @@ Foreign Investment Risk Review Modernization Act of 2018
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (9)
+## Cosponsors (12)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Burr, Richard [R-NC] (B001135)
@@ -27,6 +27,9 @@ Foreign Investment Risk Review Modernization Act of 2018
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -36,3 +39,10 @@ Foreign Investment Risk Review Modernization Act of 2018
 
 - 2017-11-08 — Introduced in Senate
 - 2017-11-08 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S7111-7118)
+- 2018-01-18 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
+- 2018-01-25 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-160.
+- 2018-01-30 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-161.
+- 2018-05-22 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-05-22 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-05-22 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.
