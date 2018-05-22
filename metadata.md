@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1972
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1972
@@ -67,9 +67,10 @@ VA Billing Accountability Act
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ VA Billing Accountability Act
 - 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill, as amended.
 - 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4247)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4247)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
