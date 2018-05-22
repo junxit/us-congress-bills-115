@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3832
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3832
@@ -59,9 +59,10 @@ Veterans Opioid Abuse Prevention Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ Veterans Opioid Abuse Prevention Act
 - 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 209). (text: CR H4250-4251)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 2 (Roll no. 209).(text: CR H4250-4251)
 - 2018-05-21 — The title of the measure was amended. Agreed to without objection.
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
