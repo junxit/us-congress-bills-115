@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3663
@@ -39,3 +39,14 @@ To designate the medical center of the Department of Veterans Affairs in Hunting
 - 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4261)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4261)
 - 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-05-24 — Passed Senate without amendment by Unanimous Consent.
+- 2018-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-05-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2942)
+- 2018-05-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2942)
+- 2018-05-25 — Message on Senate action sent to the House.
+- 2018-06-05 — Presented to President.
+- 2018-06-05 — Presented to President.
+- 2018-06-15 — Became Public Law No: 115-183.
+- 2018-06-15 — Became Public Law No: 115-183.
+- 2018-06-15 — Signed by President.
+- 2018-06-15 — Signed by President.
