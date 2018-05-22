@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5215
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5215
@@ -23,9 +23,10 @@ Veterans Affairs Purchase Card Misuse Mitigation Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Veterans Affairs Purchase Card Misuse Mitigation Act
 - 2018-05-21 — Placed on the Union Calendar, Calendar No. 535.
 - 2018-05-21 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-692.
 - 2018-05-21 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-692.
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
