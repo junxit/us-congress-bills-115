@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3946
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3946
@@ -32,9 +32,10 @@ An Act to name the Department of Veterans Affairs community-based outpatient cli
 - Rep. Handel, Karen C. [R-GA-6] (H001078)
 - Rep. Woodall, Rob [R-GA-7] (W000810)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ An Act to name the Department of Veterans Affairs community-based outpatient cli
 - 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill.
 - 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4252)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4252)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
