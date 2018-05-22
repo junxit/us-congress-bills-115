@@ -1,0 +1,22 @@
+---
+legis-num: S. 2925
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2925
+
+> To limit the transfer of F–35 aircraft to foreign countries.
+
+## § 1. Limitation on transfer of F–35 aircraft to foreign countries
+
+- **(a)** *In general* Except as provided under subsection (b), no funds may be obligated or expended—
+  - **(1)** to transfer, facilitate the transfer, or authorize the transfer of, an F–35 aircraft to a foreign country; or
+  - **(2)** to transfer intellectual property or technical data necessary for, or related to, any maintenance or support of the F–35 aircraft.
+- **(b)** *Exception* The Secretary of Defense may waive the limitation under subsection (a) after submitting a written certification to Congress that the receiving country is not—
+  - **(1)** taking steps to degrade NATO interoperability;
+  - **(2)** exposing NATO assets to hostile actors;
+  - **(3)** degrading the general security of NATO member countries;
+  - **(4)** seeking to import or purchase defense articles from a foreign country with respect to which sanctions are imposed by the United States; or
+  - **(5)** wrongfully or unlawfully detaining 1 or more United States citizens.
