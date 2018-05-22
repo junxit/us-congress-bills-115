@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4958
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4958
@@ -24,9 +24,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2018
 - Rep. Lamb, Conor [D-PA-18] (L000588)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2018
 - 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
 - 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4258)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4258)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
