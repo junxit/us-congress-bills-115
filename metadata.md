@@ -1,7 +1,7 @@
 ---
 measure: S. 1563
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1563
@@ -24,3 +24,8 @@ Rare Earth Element Advanced Coal Technologies Act
 
 - 2017-07-13 — Introduced in Senate
 - 2017-07-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-12-05 — Committee on Energy and Natural Resources Senate Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 115-493.
+- 2018-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-05-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-255.
+- 2018-05-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-255.
+- 2018-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
