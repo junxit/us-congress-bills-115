@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 113
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 113
@@ -36,3 +36,16 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2018-03-08 — Introduced in House
 - 2018-03-08 — Introduced in House
 - 2018-03-08 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-03-09 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2018-04-12 — Committee Consideration and Mark-up Session Held.
+- 2018-04-12 — Ordered to be Reported by Voice Vote.
+- 2018-04-12 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2018-05-22 — Considered under suspension of the rules. (consideration: CR H4319-4320)
+- 2018-05-22 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 113.
+- 2018-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-22 — Mr. Barletta moved to suspend the rules and agree to the resolution.
+- 2018-05-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4319-4320)
+- 2018-05-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4319-4320)
+- 2018-05-22 — Placed on the House Calendar, Calendar No. 147.
+- 2018-05-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-701.
+- 2018-05-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-701.
