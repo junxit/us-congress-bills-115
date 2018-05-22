@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Formerly Incarcerated Reenter Society Transformed Safely Transitioning Every Person Act” or the “FIRST STEP Act”.
+- **(a)** *Short Title* This Act may be cited as the “Formerly Incarcerated Reenter Society Transformed Safely Transitioning Every Person Act” or the “FIRST STEP Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
