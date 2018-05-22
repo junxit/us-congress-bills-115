@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3663
@@ -21,9 +21,10 @@ To designate the medical center of the Department of Veterans Affairs in Hunting
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To designate the medical center of the Department of Veterans Affairs in Hunting
 - 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
 - 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4261)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4261)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
