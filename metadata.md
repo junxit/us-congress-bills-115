@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3642
@@ -93,9 +93,10 @@ Military SAVE Act
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -116,3 +117,4 @@ Military SAVE Act
 - 2018-05-21 — Mr. Dunn moved to suspend the rules and pass the bill, as amended.
 - 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4248-4249)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4248-4249)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
