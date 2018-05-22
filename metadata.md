@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 58
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 58
@@ -30,3 +30,7 @@ A joint resolution to require certifications regarding actions by Saudi Arabia i
 
 - 2018-04-11 — Introduced in Senate
 - 2018-04-11 — Read twice and referred to the Committee on Foreign Relations.
+- 2018-05-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-05-22 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-05-22 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.
