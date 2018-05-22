@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4334
@@ -54,9 +54,10 @@ Improving Oversight of Women Veterans' Care Act of 2018
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Improving Oversight of Women Veterans' Care Act of 2018
 - 2018-05-21 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 4265)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 4265)
+- 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
