@@ -1,7 +1,7 @@
 ---
 measure: S. 1333
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1333
@@ -16,7 +16,7 @@ Tribal HUD-VASH Act of 2017
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Udall, Tom [D-NM] (U000039)
@@ -25,6 +25,8 @@ Tribal HUD-VASH Act of 2017
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Franken, Al [D-MN] (F000457)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Smith, Tina [D-MN] (S001203)
 
 ## Committees (1)
 
@@ -40,3 +42,5 @@ Tribal HUD-VASH Act of 2017
 - 2017-12-20 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-198.
 - 2017-12-20 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-198.
 - 2017-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
+- 2018-05-23 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2884-2885; text: CR S2884-2885)
+- 2018-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S2884-2885; text: CR S2884-2885)
