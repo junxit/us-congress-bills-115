@@ -51,3 +51,8 @@ Small Business 7(a) Lending Oversight Reform Act of 2018
 - 2018-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3812-3814)
 - 2018-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3812-3814)
 - 2018-05-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
+- 2018-05-16 — House requested return of papers pursuant to H.Res. 899. (consideration: CR H4008)
+- 2018-05-22 — Senate returned papers to the House by Unanimous Consent.
+- 2018-05-22 — Senate vitiated previous actions by Unanimous Consent. (consideration: CR S2838)
+- 2018-05-23 — Message on Senate action sent to the House.
+- 2018-05-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
