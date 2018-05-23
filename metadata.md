@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4743
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4743
@@ -56,3 +56,12 @@ Small Business 7(a) Lending Oversight Reform Act of 2018
 - 2018-05-22 — Senate vitiated previous actions by Unanimous Consent. (consideration: CR S2838)
 - 2018-05-23 — Message on Senate action sent to the House.
 - 2018-05-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
+- 2018-06-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2998)
+- 2018-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2998)
+- 2018-06-06 — Message on Senate action sent to the House.
+- 2018-06-13 — Presented to President.
+- 2018-06-13 — Presented to President.
+- 2018-06-21 — Became Public Law No: 115-189.
+- 2018-06-21 — Became Public Law No: 115-189.
+- 2018-06-21 — Signed by President.
+- 2018-06-21 — Signed by President.
