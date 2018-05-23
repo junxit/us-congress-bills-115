@@ -38,4 +38,4 @@ Congress finds that—
 - **(a)** *Designation* The Nordic Museum located at 2655 N.W. Market Street, Seattle, Washington, is designated as the “National Nordic Museum”.
 - **(b)** *Effect of designation*
   - **(1)** *In general* The museum designated by subsection (a) is not a unit of the National Park System.
-  - **(2)** *Use of Federal funds* The designation of the museum by subsection (a) shall not require Federal funds to be expended for any purpose related to the museum.
+  - **(2)** *Use of federal funds* The designation of the museum by subsection (a) shall not require Federal funds to be expended for any purpose related to the museum.
