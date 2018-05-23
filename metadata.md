@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5682
@@ -61,3 +61,4 @@ Formerly Incarcerated Reenter Society Transformed Safely Transitioning Every Per
 - 2018-05-22 — Placed on the Union Calendar, Calendar No. 541.
 - 2018-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-699.
 - 2018-05-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-699.
+- 2018-05-23 — Received in the Senate.
