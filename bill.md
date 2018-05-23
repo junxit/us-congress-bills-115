@@ -2,7 +2,7 @@
 legis-num: H. RES. 908
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 908
@@ -25,7 +25,7 @@ At the conclusion of consideration of the bill for amendment pursuant to this re
 
 ## § 5.
 
-On any legislative day during the period from May 25, 2018, through June 4, 2018 -- (a) the Journal of the proceedings of the previous day shall be considered as approved; and (b) the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
+On any legislative day during the period from May 25, 2018, through June 4, 2018—(a) the Journal of the proceedings of the previous day shall be considered as approved; and (b) the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
 
 ## § 6.
 
