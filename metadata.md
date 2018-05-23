@@ -1,7 +1,7 @@
 ---
 measure: S. 2377
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2377
@@ -28,3 +28,7 @@ A bill to designate the Federal building and United States courthouse located at
 
 - 2018-02-06 — Introduced in Senate
 - 2018-02-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2018-05-22 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2018-05-23 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-05-23 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 429.
