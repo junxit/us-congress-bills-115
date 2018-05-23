@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1900
@@ -71,3 +71,14 @@ National Veterans Memorial and Museum Act
 - 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2018-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
+- 2018-06-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3264)
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3264)
+- 2018-06-07 — Message on Senate action sent to the House.
+- 2018-06-11 — Presented to President.
+- 2018-06-11 — Presented to President.
+- 2018-06-21 — Became Public Law No: 115-186.
+- 2018-06-21 — Became Public Law No: 115-186.
+- 2018-06-21 — Signed by President.
+- 2018-06-21 — Signed by President.
+- 2018-07-17 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-304.
+- 2018-07-17 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-304.
