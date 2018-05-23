@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1900
@@ -67,3 +67,7 @@ National Veterans Memorial and Museum Act
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-399, Part I.
 - 2017-11-07 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-399, Part I.
 - 2017-11-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
