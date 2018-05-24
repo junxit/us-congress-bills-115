@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1397
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1397
@@ -56,3 +56,12 @@ To authorize, direct, facilitate, and expedite the transfer of administrative ju
 - 2018-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-257.
 - 2018-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-257.
 - 2018-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
+- 2018-06-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3264)
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3264)
+- 2018-06-07 — Message on Senate action sent to the House.
+- 2018-06-11 — Presented to President.
+- 2018-06-11 — Presented to President.
+- 2018-06-22 — Became Public Law No: 115-190.
+- 2018-06-22 — Became Public Law No: 115-190.
+- 2018-06-22 — Signed by President.
+- 2018-06-22 — Signed by President.
