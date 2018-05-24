@@ -1,7 +1,7 @@
 ---
 measure: S. 2602
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+28 amendatory instructions. 2 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 7403
+
+> in subsection (c)(3), in the first sentence of the matter preceding subparagraph (A), by striking “percursors” and inserting “precursors”; and
+
+| | |
+|---|---|
+| Removed | `percursors` |
+| Inserted | `precursors` |
 
 ### 42 U.S.C. § 7403
 
@@ -50,6 +59,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7403` | replace | by striking “Such strategies and technologies shall be developed” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7403` | replace | in the first sentence, by striking “In carrying out” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7403` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | insert | in the matter preceding clause (i), by inserting “carbon capture,” before “renewable or conventional”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4370m` | strike | in clause (i)(III), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4370m` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | replace | in the second sentence, by striking “The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 45Q` | replace | in the first sentence, by striking “Nothing” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 45Q` | replace | in the third sentence, by striking “Such program” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 45Q` | insert | by inserting “States, institutions of higher education,” after “scientists,”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 45Q` | replace | by striking “Such strategies and technologies shall be developed” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 45Q` | replace | in the first sentence, by striking “In carrying out” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 45Q` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4370m` | insert | in the matter preceding clause (i), by inserting “carbon capture,” before “renewable or conventional”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4370m` | strike | in clause (i)(III), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4370m` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
