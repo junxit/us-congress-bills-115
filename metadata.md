@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 877
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 877
@@ -16,7 +16,7 @@ Of inquiry directing the Secretary of Commerce to provide certain documents in t
 
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 
-## Cosponsors (70)
+## Cosponsors (79)
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -88,6 +88,15 @@ Of inquiry directing the Secretary of Commerce to provide certain documents in t
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Capuano, Michael E. [D-MA-7] (C001037)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
 ## Committees (1)
 
@@ -98,3 +107,8 @@ Of inquiry directing the Secretary of Commerce to provide certain documents in t
 - 2018-05-08 — Introduced in House
 - 2018-05-08 — Introduced in House
 - 2018-05-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-05-23 — Committee Consideration and Mark-up Session Held.
+- 2018-05-23 — Ordered to be Reported Adversely by the Yeas and Nays: 20 - 16.
+- 2018-05-24 — Placed on the House Calendar, Calendar No. 149.
+- 2018-05-24 — Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 115-705.
+- 2018-05-24 — Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 115-705.
