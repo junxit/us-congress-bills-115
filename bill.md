@@ -1,0 +1,39 @@
+---
+legis-num: S. 2972
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2972
+
+> To prioritize the allocation of H–2B visas for States with low unemployment rates.
+
+## § 1. Short title
+
+This Act may be cited as the “Prioritizing Help to Businesses Act”.
+
+## § 2. Prioritizing the allocation of H–2B visas for States with low unemployment rates
+
+Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)) is amended by adding at the end the following:
+
+> - **(12)**
+>   - **(A)** Except as provided in subparagraphs (B) through (E), the numerical limitation under paragraph (1)(B) shall not apply to H–2B visas issued to aliens for positions that are certified for employment pursuant to subpart A of part 655 of title 20, Code of Federal Regulations, to perform service or labor in a State that had a seasonally adjusted unemployment rate of 3.5 percent or lower in 3 of the 5 most recent monthly reports issued by the Bureau of Labor Statistics in the previous fiscal year.
+>   - **(B)** The number of aliens exempted from the numerical limitation pursuant to subparagraph (A) in any State during any fiscal year may not exceed the lesser of—
+>     - **(i)** 125 percent of the number of visas issued to aliens working in such State during the most recently concluded fiscal year; or
+>     - **(ii)** 1,500.
+>   - **(C)** The number of aliens exempted from the numerical limitation pursuant to subparagraph (A) in any State during the first 6 months of any fiscal year may not exceed the lesser of—
+>     - **(i)** 125 percent of the number of visas issued to aliens working in such State during the corresponding period in the most recently concluded fiscal year; or
+>     - **(ii)** 1,000.
+>   - **(D)** If more than 1,000 H–2B visa applications are received during the first 6 months of a fiscal year on behalf of aliens desiring to work in a State described in subparagraph (A)—
+>     - **(i)** 1,000 eligible applicants shall be selected, by lottery, from such applications for the exemption under subparagraph (A); and
+>     - **(ii)** the remaining applicants shall be subject to the numerical limitation under paragraph (1)(B).
+>   - **(E)**
+>     - **(i)** If more H–2B visa applications are received during the last 6 months of a fiscal year on behalf of aliens desiring to work in a State described in subparagraph (A) than the number computed under clause (ii)—
+>       - **(I)** eligible applicants equal to such computed number shall be selected, by lottery, from such applications for the exemption under subparagraph (A); and
+>       - **(II)** the remaining applicants shall be subject to the numerical limitation under paragraph (1)(B).
+>     - **(ii)** The number computed under this clause is the sum of—
+>       - **(I)** the difference between—
+>         - **(aa)** 1,000; and
+>         - **(bb)** the number of visas that were issued to aliens desiring to work in the State during the first 6 months of a fiscal year that were not subject to the numerical limitation under paragraph (1)(B) pursuant to subparagraph (A); and
+>       - **(II)** 500.
