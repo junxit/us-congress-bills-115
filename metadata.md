@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5515
@@ -23,6 +23,21 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (12)
+
+- 2018-05-23 — [House 115-2-219](votes/house-115-2-0219.md) — On Agreeing to the Amendment — **Failed** (62–351)
+- 2018-05-23 — [House 115-2-220](votes/house-115-2-0220.md) — On Agreeing to the Amendment — **Failed** (60–355)
+- 2018-05-23 — [House 115-2-221](votes/house-115-2-0221.md) — On Agreeing to the Amendment — **Failed** (198–217)
+- 2018-05-23 — [House 115-2-222](votes/house-115-2-0222.md) — On Agreeing to the Amendment — **Failed** (188–226)
+- 2018-05-23 — [House 115-2-223](votes/house-115-2-0223.md) — On Agreeing to the Amendment — **Agreed to** (229–183)
+- 2018-05-23 — [House 115-2-224](votes/house-115-2-0224.md) — On Agreeing to the Amendment — **Agreed to** (408–1)
+- 2018-05-23 — [House 115-2-225](votes/house-115-2-0225.md) — On Agreeing to the Amendment — **Failed** (160–252)
+- 2018-05-23 — [House 115-2-226](votes/house-115-2-0226.md) — On Agreeing to the Amendment — **Failed** (174–239)
+- 2018-05-23 — [House 115-2-227](votes/house-115-2-0227.md) — On Agreeing to the Amendment — **Agreed to** (382–30)
+- 2018-05-23 — [House 115-2-228](votes/house-115-2-0228.md) — On Agreeing to the Amendment — **Failed** (174–239)
+- 2018-05-24 — [House 115-2-229](votes/house-115-2-0229.md) — Table the Appeal of the Ruling of the Chair — **Passed** (224–191)
+- 2018-05-24 — [House 115-2-230](votes/house-115-2-0230.md) — On Passage — **Passed** (351–66)
 
 ## Actions
 
@@ -53,3 +68,263 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-05-15 — Placed on the Union Calendar, Calendar No. 521.
 - 2018-05-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-676.
 - 2018-05-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 115-676.
+- 2018-05-21 — Rules Committee Resolution H. Res. 905 Reported to House. Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-21 — SUPPLEMENTAL FILING AUTHORITY - Mr. Mitchell asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on the bill H.R. 5515. Agreed to without objection.
+- 2018-05-21 — Supplemental report filed by the Committee on Armed Services, H. Rept. 115-676, Part II.
+- 2018-05-21 — Supplemental report filed by the Committee on Armed Services, H. Rept. 115-676, Part II.
+- 2018-05-22 — Amendment (A001) offered by Mr. Thornberry. (consideration: CR H4556-4557; text: CR H4556)
+- 2018-05-22 — Amendment (A002) offered by Mr. Nolan. (consideration: CR H4557-4558; text: CR H4557)
+- 2018-05-22 — Amendment (A003) offered by Ms. Gabbard. (consideration: CR H4558-4559; text: CR H4558)
+- 2018-05-22 — Amendment (A004) offered by Mr. Aguilar. (consideration: CR H4559-4560; text: CR H4559)
+- 2018-05-22 — Amendment (A005) offered by Mr. Garamendi. (consideration: CR H4560-4562; text: CR H4560)
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendment agreed to Committee of the Whole
+- 2018-05-22 — Amendments en bloc (A006) offered by Mr. Thornberry. (consideration: CR H4562-4566; text: CR H4562-4565)
+- 2018-05-22 — Amendments en bloc (A007) offered by Mr. Thornberry. (consideration: CR H4566-4568; text: CR H4566-4568)
+- 2018-05-22 — Amendments en bloc (A008) offered by Mr. Thornberry. (consideration: CR H4568-4572; text: CR H4568-4572)
+- 2018-05-22 — Amendments en bloc (A009) offered by Mr. Thornberry. (consideration: CR H4572-4575; text: CR H4572-4574)
+- 2018-05-22 — Amendments en bloc (A010) offered by Mr. Thornberry. (consideration: CR H4575-4577; text: CR H4575-4577)
+- 2018-05-22 — Amendments en bloc (A011) offered by Mr. Thornberry. (consideration: CR H4577-4580; text: CR H4577-4580)
+- 2018-05-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 5515 as unfinished business.
+- 2018-05-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 5515 as unfinished business.
+- 2018-05-22 — Considered as unfinished business. (consideration: CR H4562-4580)
+- 2018-05-22 — Considered under the provisions of rule H. Res. 905. (consideration: CR H4367-4562; text of amendment in nature of a substitute: CR H4378-4556)
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 1.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 2.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeed with 10 minutes of debate on the Aguilar amendment No. 4.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeed with 10 minutes of debate on the Gabbard amendment No. 3.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeed with 10 minutes of debate on the Garamendi amendment No. 5.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeed with 10 minutes of debate on the Nolan amendment No. 2.
+- 2018-05-22 — DEBATE - Pursuant to the provisions of H.Res. 905, the Committee of the Whole proceeed with 10 minutes of debate on the Thornberry amendment No. 1.
+- 2018-05-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5515.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A006) Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A007) Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A008) Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A009) as modified Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A010) Agreed to by voice vote.
+- 2018-05-22 — House amendment agreed to: On agreeing to the Thornberry amendments (A011) Agreed to by voice vote.
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered
+- 2018-05-22 — House amendment offered/reported by: Amendment (A001) offered by Mr. Thornberry.(consideration: CR H4556-4557; text: CR H4556)
+- 2018-05-22 — House amendment offered/reported by: Amendment (A002) offered by Mr. Nolan.(consideration: CR H4557-4558; text: CR H4557)
+- 2018-05-22 — House amendment offered/reported by: Amendment (A003) offered by Ms. Gabbard.(consideration: CR H4558-4559; text: CR H4558)
+- 2018-05-22 — House amendment offered/reported by: Amendment (A004) offered by Mr. Aguilar.(consideration: CR H4559-4560; text: CR H4559)
+- 2018-05-22 — House amendment offered/reported by: Amendment (A005) offered by Mr. Garamendi.(consideration: CR H4560-4562; text: CR H4560)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A006) offered by Mr. Thornberry.(consideration: CR H4562-4566; text: CR H4562-4565)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A007) offered by Mr. Thornberry.(consideration: CR H4566-4568; text: CR H4566-4568)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A008) offered by Mr. Thornberry.(consideration: CR H4568-4572; text: CR H4568-4572)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A009) offered by Mr. Thornberry.(consideration: CR H4572-4575; text: CR H4572-4574)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A010) offered by Mr. Thornberry.(consideration: CR H4575-4577; text: CR H4575-4577)
+- 2018-05-22 — House amendment offered/reported by: Amendments en bloc (A011) offered by Mr. Thornberry.(consideration: CR H4577-4580; text: CR H4577-4580)
+- 2018-05-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 905 and Rule XVIII.
+- 2018-05-22 — Mr. Thornberry moved that the committee rise.
+- 2018-05-22 — Mr. Thornberry moved that the committee rise.
+- 2018-05-22 — On agreeing to the Thornberry amendment (A001) Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A006) Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A007) Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A008) Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A009) as modified Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A010) Agreed to by voice vote.
+- 2018-05-22 — On agreeing to the Thornberry amendments (A011) Agreed to by voice vote.
+- 2018-05-22 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-22 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Aguilar amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Aguilar demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gabbard amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Gabbard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nolan amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nolan demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-22 — Rule provides for consideration of H.R. 5515, S. 204 and S. 2155. The resolution provides for one hour of general debate on H.R. 5515, S. 204 and S. 2155. The resolution provides for consideration of S. 2155 and S. 204 under a closed rule. Also, the resolution provides for consideration of H.R. 5515 under a structured rule and makes an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-70 considered as adopted.
+- 2018-05-22 — Rules Committee Resolution H. Res. 908 Reported to House. Rule provides for consideration of H.R. 5515. The resolution makes in order only those further amendments printed in the Rules Committee report. The rule provides that on any legislative day during the period from May 25, 2018 through June 4, 2018: the Journal of the proceedings of the previous day shall be considered as approved; and the Chair may at any time declare the House adjourned to meet at a date and time to be announced by the Chair in declaring the adjournment.
+- 2018-05-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-22 — The Speaker designated the Honorable Gregg Harper to act as Chairman of the Committee.
+- 2018-05-22 — Thornberry amendment (A009) modified by unanimous consent. Modification to amendment No. 55 printed in House Report 115-698. (text as modified: CR H4575)
+- 2018-05-23 — Amendment (A013) offered by Mr. Guthrie. (consideration: CR H4656-4657; text: CR H4656-4657)
+- 2018-05-23 — Amendment (A014) offered by Mr. Amodei. (consideration: CR H4657-4660, H4668-4669; text: CR H4657-4659)
+- 2018-05-23 — Amendment (A015) offered by Mr. McGovern. (consideration: CR H4660-4661, H4669-4670; text: CR H4660)
+- 2018-05-23 — Amendment (A016) offered by Mr. McKinley. (consideration: CR H4661-4662, H4670; text: CR H4661)
+- 2018-05-23 — Amendment (A017) offered by Ms. Tenney. (consideration: CR H4662-4663; H4670-4671; text: CR H4662)
+- 2018-05-23 — Amendment (A018) offered by Mr. Engel. (consideration: CR H4663-4666, H4671-4672; text: CR H4663-4666)
+- 2018-05-23 — Amendment (A019) offered by Mr. Polis. (consideration: CR H4666-4667, H4672; text: CR H4666)
+- 2018-05-23 — Amendment (A020) offered by Mr. Gallagher. (consideration: CR H4667-4668; text: CR H4667)
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment agreed to Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendment failed in Committee of the Whole
+- 2018-05-23 — Amendments en bloc (A012) offered by Mr. Thornberry. (consideration: CR H4607-4656; text: CR H4607-4654)
+- 2018-05-23 — Amendments en bloc (A021) offered by Mr. Thornberry. (consideration: CR H4673-4678; text: CR H4673-4675)
+- 2018-05-23 — Amendments en bloc (A022) offered by Mr. Thornberry. (consideration: CR H4678-4682; text: CR H4678-4682)
+- 2018-05-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 5515 as unfinished business.
+- 2018-05-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 5515 as unfinished business.
+- 2018-05-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 5515 as unfinished business.
+- 2018-05-23 — Considered as unfinished business. (Consideration: CR H4606-4672)
+- 2018-05-23 — Considered as unfinished business. (consideration: CR H4603-4606)
+- 2018-05-23 — Considered as unfinished business. (consideration: CR H4673-4682)
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 1, as modified.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Amodei amendment No. 8.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Engel amendment No. 43.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Gallagher amendment No. 55.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Guthrie amendment No. 3.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the McGovern amendment No. 10.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the McKinley amendment No. 13.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Polis amendment No. 50.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeed with 10 minutes of debate on the Tenney amendment No. 19.
+- 2018-05-23 — DEBATE - Pursuant to the provisions of H.Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 2.
+- 2018-05-23 — House amendment agreed to: On agreeing to the Amodei amendment (A014) Agreed to by recorded vote: 229 - 183 (Roll no. 223).
+- 2018-05-23 — House amendment agreed to: On agreeing to the Engel amendment (A018) Agreed to by recorded vote: 382 - 30 (Roll no. 227).
+- 2018-05-23 — House amendment agreed to: On agreeing to the Gallagher amendment (A020) Agreed to by voice vote.
+- 2018-05-23 — House amendment agreed to: On agreeing to the Guthrie amendment (A013) Agreed to by voice vote.
+- 2018-05-23 — House amendment agreed to: On agreeing to the McGovern amendment (A015) Agreed to by recorded vote: 408 - 1 (Roll no. 224).
+- 2018-05-23 — House amendment agreed to: On agreeing to the Thornberry amendments (A012) as modified Agreed to by voice vote.
+- 2018-05-23 — House amendment agreed to: On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2018-05-23 — House amendment agreed to: On agreeing to the Thornberry amendments (A022) Agreed to by voice vote.
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Aguilar amendment (A004) Failed by recorded vote: 198 - 217 (Roll no. 221).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Gabbard amendment (A003) Failed by recorded vote: 60 - 355 (Roll no. 220).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Garamendi amendment (A005) Failed by recorded vote: 188 - 226 (Roll no. 222).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the McKinley amendment (A016) Failed by recorded vote: 160 - 252 (Roll no. 225).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Nolan amendment (A002) Failed by recorded vote: 62 - 351 (Roll no. 219).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Polis amendment (A019) Failed by recorded vote: 174 - 239 (Roll no. 228).
+- 2018-05-23 — House amendment not agreed to: On agreeing to the Tenney amendment (A017) Failed by recorded vote: 174 - 239 (Roll no. 226).
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered
+- 2018-05-23 — House amendment offered/reported by: Amendment (A013) offered by Mr. Guthrie.(consideration: CR H4656-4657; text: CR H4656-4657)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A014) offered by Mr. Amodei.(consideration: CR H4657-4660, H4668-4669; text: CR H4657-4659)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A015) offered by Mr. McGovern.(consideration: CR H4660-4661, H4669-4670; text: CR H4660)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A016) offered by Mr. McKinley.(consideration: CR H4661-4662, H4670; text: CR H4661)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A017) offered by Ms. Tenney.(consideration: CR H4662-4663; H4670-4671; text: CR H4662)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A018) offered by Mr. Engel.(consideration: CR H4663-4666, H4671-4672; text: CR H4663-4666)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A019) offered by Mr. Polis.(consideration: CR H4666-4667, H4672; text: CR H4666)
+- 2018-05-23 — House amendment offered/reported by: Amendment (A020) offered by Mr. Gallagher.(consideration: CR H4667-4668; text: CR H4667)
+- 2018-05-23 — House amendment offered/reported by: Amendments en bloc (A012) offered by Mr. Thornberry.(consideration: CR H4607-4656; text: CR H4607-4654)
+- 2018-05-23 — House amendment offered/reported by: Amendments en bloc (A021) offered by Mr. Thornberry.(consideration: CR H4673-4678; text: CR H4673-4675)
+- 2018-05-23 — House amendment offered/reported by: Amendments en bloc (A022) offered by Mr. Thornberry.(consideration: CR H4678-4682; text: CR H4678-4682)
+- 2018-05-23 — Mr. Thornberry moved that the committee rise.
+- 2018-05-23 — Mr. Thornberry moved that the committee rise.
+- 2018-05-23 — On agreeing to the Aguilar amendment (A004) Failed by recorded vote: 198 - 217 (Roll no. 221).
+- 2018-05-23 — On agreeing to the Amodei amendment (A014) Agreed to by recorded vote: 229 - 183 (Roll no. 223).
+- 2018-05-23 — On agreeing to the Engel amendment (A018) Agreed to by recorded vote: 382 - 30 (Roll no. 227).
+- 2018-05-23 — On agreeing to the Gabbard amendment (A003) Failed by recorded vote: 60 - 355 (Roll no. 220).
+- 2018-05-23 — On agreeing to the Gallagher amendment (A020) Agreed to by voice vote.
+- 2018-05-23 — On agreeing to the Garamendi amendment (A005) Failed by recorded vote: 188 - 226 (Roll no. 222).
+- 2018-05-23 — On agreeing to the Guthrie amendment (A013) Agreed to by voice vote.
+- 2018-05-23 — On agreeing to the McGovern amendment (A015) Agreed to by recorded vote: 408 - 1 (Roll no. 224).
+- 2018-05-23 — On agreeing to the McKinley amendment (A016) Failed by recorded vote: 160 - 252 (Roll no. 225).
+- 2018-05-23 — On agreeing to the Nolan amendment (A002) Failed by recorded vote: 62 - 351 (Roll no. 219).
+- 2018-05-23 — On agreeing to the Polis amendment (A019) Failed by recorded vote: 174 - 239 (Roll no. 228).
+- 2018-05-23 — On agreeing to the Tenney amendment (A017) Failed by recorded vote: 174 - 239 (Roll no. 226).
+- 2018-05-23 — On agreeing to the Thornberry amendments (A012) as modified Agreed to by voice vote.
+- 2018-05-23 — On agreeing to the Thornberry amendments (A021) Agreed to by voice vote.
+- 2018-05-23 — On agreeing to the Thornberry amendments (A022) Agreed to by voice vote.
+- 2018-05-23 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-23 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amodei amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Lowenthal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Engel demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McKinley demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tenney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Tenney demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Roll call votes on amendments in House
+- 2018-05-23 — Rule H. Res. 908 passed House.
+- 2018-05-23 — THORNBERRY EN BLOC NO. 4, AS MODIFIED - Amendments en bloc offered by Mr. Thornberry, comprised of the following amendments printed in House Report 115-698 as En Bloc No. 4: Nos. 55, as modified, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, and 70.
+- 2018-05-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-23 — Thornberry amendment (A012) modified by unanimous consent. Modification to amendment No. 53 printed in House Report 115-702 and modification striking amendment No. 55 from the En Bloc. (consideration: CR H4654-4656; text as modified: CR H4654-4656)
+- 2018-05-23 — Thornberry amendment en bloc No. 4; modified by unanimous consent. Modification strikes amendment No. 69 printed in House Report 115-698.
+- 2018-05-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2018-05-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated and on which further proceedings had been postponed.
+- 2018-05-24 — Amendment (A027) offered by Mr. Ferguson. (consideration: CR H4716-4717; text: CR H4717)
+- 2018-05-24 — Amendment agreed to Committee of the Whole
+- 2018-05-24 — Amendment agreed to Committee of the Whole
+- 2018-05-24 — Amendment agreed to Committee of the Whole
+- 2018-05-24 — Amendment agreed to Committee of the Whole
+- 2018-05-24 — Amendment agreed to Committee of the Whole
+- 2018-05-24 — Amendments en bloc (A023) offered by Mr. Thornberry. (consideration: CR H4699-4705; text: CR H4699-4672)
+- 2018-05-24 — Amendments en bloc (A024) offered by Mr. Thornberry. (consideration: CR H4705-4708; text: CR H4705-4707)
+- 2018-05-24 — Amendments en bloc (A025) offered by Mr. Thornberry. (consideration: CR H4708-4711; text: CR H4708-4711)
+- 2018-05-24 — Amendments en bloc (A026) offered by Mr. Thornberry. (consideration: CR H4711-4716; text: CR H4711-4715)
+- 2018-05-24 — Considered as unfinished business. (consideration: CR H4699-4722)
+- 2018-05-24 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 10 minutes of debate on the Ferguson amendment No. 168.
+- 2018-05-24 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 4.
+- 2018-05-24 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 5.
+- 2018-05-24 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 6.
+- 2018-05-24 — DEBATE - Pursuant to the provisions of H. Res. 908, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry En Bloc amendment No. 7.
+- 2018-05-24 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add, at the end of the bill a new section consisting of the bill titled "Public Safety and Second Amendment Rights Protection Act of 2018".
+- 2018-05-24 — House amendment agreed to: On agreeing to the Ferguson amendment (A027) Agreed to by voice vote.
+- 2018-05-24 — House amendment agreed to: On agreeing to the Thornberry amendments (A023) Agreed to by voice vote.
+- 2018-05-24 — House amendment agreed to: On agreeing to the Thornberry amendments (A024) Agreed to by voice vote.
+- 2018-05-24 — House amendment agreed to: On agreeing to the Thornberry amendments (A025) Agreed to by voice vote.
+- 2018-05-24 — House amendment agreed to: On agreeing to the Thornberry amendments (A026) Agreed to by voice vote.
+- 2018-05-24 — House amendment offered
+- 2018-05-24 — House amendment offered
+- 2018-05-24 — House amendment offered
+- 2018-05-24 — House amendment offered
+- 2018-05-24 — House amendment offered
+- 2018-05-24 — House amendment offered/reported by: Amendment (A027) offered by Mr. Ferguson.(consideration: CR H4716-4717; text: CR H4717)
+- 2018-05-24 — House amendment offered/reported by: Amendments en bloc (A023) offered by Mr. Thornberry.(consideration: CR H4699-4705; text: CR H4699-4672)
+- 2018-05-24 — House amendment offered/reported by: Amendments en bloc (A024) offered by Mr. Thornberry.(consideration: CR H4705-4708; text: CR H4705-4707)
+- 2018-05-24 — House amendment offered/reported by: Amendments en bloc (A025) offered by Mr. Thornberry.(consideration: CR H4708-4711; text: CR H4708-4711)
+- 2018-05-24 — House amendment offered/reported by: Amendments en bloc (A026) offered by Mr. Thornberry.(consideration: CR H4711-4716; text: CR H4711-4715)
+- 2018-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-05-24 — Mr. Thompson (CA) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2018-05-24 — Mr. Thompson (CA) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H4717-4720)
+- 2018-05-24 — Mr. Thornberry moved to table the motion to appeal the ruling of the chair
+- 2018-05-24 — Mr. Thornberry raised a point of order against the motion to recommit with instructions. Mr. Thornberry made a point of order that the amendment violates clause 10 of rule 21 by proposing an increase in mandatory spending over a relevant period of time. Sustained by the Chair.
+- 2018-05-24 — On agreeing to the Ferguson amendment (A027) Agreed to by voice vote.
+- 2018-05-24 — On agreeing to the Thornberry amendments (A023) Agreed to by voice vote.
+- 2018-05-24 — On agreeing to the Thornberry amendments (A024) Agreed to by voice vote.
+- 2018-05-24 — On agreeing to the Thornberry amendments (A025) Agreed to by voice vote.
+- 2018-05-24 — On agreeing to the Thornberry amendments (A026) Agreed to by voice vote.
+- 2018-05-24 — On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 224 - 191 (Roll no. 229).
+- 2018-05-24 — On passage Passed by recorded vote: 351 - 66 (Roll no. 230).
+- 2018-05-24 — Passed/agreed to in House: On passage Passed by recorded vote: 351 - 66 (Roll no. 230).
+- 2018-05-24 — Point of order sustained against the motion to recommit with instructions.
+- 2018-05-24 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5515.
+- 2018-05-24 — The Committee resumed its sitting.
+- 2018-05-24 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H4717)
+- 2018-05-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5515.
+- 2018-05-24 — The previous question was ordered pursuant to the rule.
+- 2018-05-24 — The title of the measure was amended. Agreed to without objection.
