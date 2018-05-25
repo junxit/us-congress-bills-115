@@ -1,7 +1,7 @@
 ---
 measure: S. 1333
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1333
@@ -28,9 +28,10 @@ Tribal HUD-VASH Act of 2017
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Smith, Tina [D-MN] (S001203)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Tribal HUD-VASH Act of 2017
 - 2017-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
 - 2018-05-23 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2884-2885; text: CR S2884-2885)
 - 2018-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S2884-2885; text: CR S2884-2885)
+- 2018-05-24 — Message on Senate action sent to the House.
+- 2018-05-25 — Received in the House.
+- 2018-05-25 — Referred to the House Committee on Financial Services.
