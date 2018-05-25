@@ -1,0 +1,140 @@
+---
+measure: H.Res. 914
+congress: 115
+version: Introduced in House
+---
+
+# H.Res. 914
+
+Recognizing National Foster Care Month as an opportunity to raise awareness about the challenges of children in the foster care system, and encouraging Congress to implement policy to improve the lives of children in the foster care system.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Bass, Karen [D-CA-37] (B001270)
+
+## Cosponsors (110)
+
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Lujan Grisham, Michelle [D-NM-1] (L000580)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Cramer, Kevin [R-ND-At Large] (C001096)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2018-05-25 — Introduced in House
+- 2018-05-25 — Introduced in House
+- 2018-05-25 — Referred to the House Committee on Ways and Means.
