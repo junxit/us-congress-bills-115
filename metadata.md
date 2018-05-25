@@ -1,7 +1,7 @@
 ---
 measure: S. 2178
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2178
@@ -21,9 +21,10 @@ Inspector General Recommendation Transparency Act of 2018
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Inspector General Recommendation Transparency Act of 2018
 - 2018-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
 - 2018-05-23 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S2885; text: CR S2885)
 - 2018-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S2885; text: CR S2885)
+- 2018-05-24 — Message on Senate action sent to the House.
+- 2018-05-25 — Received in the House.
+- 2018-05-25 — Referred to the House Committee on Oversight and Government Reform.
