@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2655
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2655
@@ -16,6 +16,10 @@ Small Business Innovation Protection Act of 2017
 
 - Rep. Evans, Dwight [D-PA-2] (E000296)
 
+## Cosponsors (1)
+
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
+
 ## Committees (2)
 
 - House — Judiciary Committee
@@ -28,3 +32,12 @@ Small Business Innovation Protection Act of 2017
 - 2017-05-25 — Referred to the Committee on Small Business, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-25 — Referred to the Committee on Small Business, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-25 — Referred to the Committee on Small Business, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-06-26 — Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.
+- 2018-03-14 — Committee Consideration and Mark-up Session Held.
+- 2018-03-14 — Ordered to be Reported by Voice Vote.
+- 2018-05-01 — House Committee on the Judiciary Granted an extension for further consideration ending not later than May 31, 2018.
+- 2018-05-01 — Reported by the Committee on Small Business. H. Rept. 115-660, Part I.
+- 2018-05-01 — Reported by the Committee on Small Business. H. Rept. 115-660, Part I.
+- 2018-05-29 — Committee on the Judiciary discharged.
+- 2018-05-29 — Committee on the Judiciary discharged.
+- 2018-05-29 — Placed on the Union Calendar, Calendar No. 547.
