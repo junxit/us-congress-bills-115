@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1791
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Mountains to Sound Greenway National Heritage Ac
 
 The purposes of this Act include—
 
-- **(1)** to recognize the national importance of the natural and cultural legacies of the area, as demonstrated in the study entitled “Mountains to Sound Greenway National Heritage Area Feasibility Study” dated April 2012;
+- **(1)** to recognize the national importance of the natural and cultural legacies of the area, as demonstrated in the study entitled “Mountains to Sound Greenway National Heritage Area Feasibility Study” dated April 2012 and its addendum dated May 2014;
 - **(2)** to recognize the heritage of natural resource conservation in the Pacific Northwest and in the Mountains to Sound Greenway;
 - **(3)** to preserve, support, conserve, and interpret the legacies of natural resource conservation, community stewardship, and Indian tribes and nations from time immemorial, within the Mountains to Sound National Heritage Area;
 - **(4)** to promote heritage, cultural, and recreational tourism and to develop educational and cultural programs for visitors and the general public;
@@ -36,14 +36,14 @@ In this Act:
 - **(4)** *Map* The term “Map” means the map entitled “Mountains to Sound Greenway National Heritage Area Proposed Boundary”, numbered 584/125,484, and dated August 2014.
 - **(5)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(6)** *State* The term “State” means the State of Washington.
-- **(7)** *Tribe or tribal* The terms “Tribe” or “Tribal” mean any federally recognized Indian tribe with cultural heritage and historic interests within the proposed Mountains to Sound Greenway National Heritage Area.
+- **(7)** *Tribe or tribal* The terms “Tribe” or “Tribal” mean any federally recognized Indian tribe with cultural heritage and historic interests within the proposed Mountains to Sound Greenway National Heritage Area, including the Snoqualmie, Yakama, Tulalip, Muckleshoot and Colville Indian tribes.
 
 ## § 4. Designation of the Mountains to Sound Greenway National Heritage Area
 
 - **(a)** *Establishment* There is established in the State the Mountains to Sound Greenway National Heritage Area.
 - **(b)** *Boundaries* The Heritage Area shall consist of land located in King and Kittitas Counties in the State, as generally depicted on the map.
 - **(c)** *Map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service, the United States Forest Service, and the local coordinating entity.
-- **(d)** *Local coordinating entity* The Secretary shall designate a willing local unit of government, Indian tribe, or a nonprofit organization to serve as the coordinating entity for the Heritage Area within 120 days of the date of the enactment of this Act.
+- **(d)** *Local coordinating entity* The Secretary shall designate a willing local unit of government, a consortium of affected counties, Indian tribe, or a nonprofit organization to serve as the coordinating entity for the Heritage Area within 120 days of the date of the enactment of this Act.
 
 ## § 5. Management plan
 
@@ -54,9 +54,9 @@ In this Act:
   - **(3)** include—
     - **(A)** an inventory of the natural, historical, cultural, educational, scenic, and recreational resources of the Heritage Area, including an acknowledgment of the exercise of Tribal treaty rights, that relate to the national importance and themes of the Heritage Area that should be conserved and enhanced;
     - **(B)** a description of strategies and recommendations for conservation, funding, management, and development of the Heritage Area;
-    - **(C)** a description of the actions that Federal, State, local, and Tribal governments, private organizations, and individuals have agreed to take to protect the natural, cultural, historical, scenic, and recreational resources of the Heritage Area;
+    - **(C)** a description of the actions that Federal, State, local, and Tribal governments, private organizations, and individuals have agreed to take to protect and interpret the natural, cultural, historical, scenic, and recreational resources of the Heritage Area;
     - **(D)** a program of implementation for the management plan by the local coordinating entity, including—
-      - **(i)** performance goals; and
+      - **(i)** performance goals and ongoing performance evaluation; and
       - **(ii)** commitments for implementation made by partners;
     - **(E)** the identification of sources of funding for carrying out the management plan;
     - **(F)** analysis and recommendations for means by which Federal, State, local, and Tribal programs may best be coordinated to carry out this section;
@@ -65,11 +65,12 @@ In this Act:
     - **(I)** a definition of the roles of the National Park Service, the Forest Service, other Federal agencies, and Tribes in the coordination of the Heritage Area and in otherwise furthering the purposes of this Act.
 - **(c)** *Deadline* If a proposed management plan is not submitted to the Secretary by the date that is 3 years after the date of the enactment of this Act, the local coordinating entity shall be ineligible to receive additional funding under this Act until the date on which the Secretary receives and approves the management plan.
 - **(d)** *Approval or disapproval of management plan*
-  - **(1)** *In general* Not later than 180 days after the date of receipt of the proposed management plan, the Secretary, in consultation with the State and Tribal governments, shall approve or disapprove the management plan.
+  - **(1)** *In general* Not later than 180 days after the date of receipt of the proposed management plan, the Secretary, in consultation with the State, affected counties, and Tribal governments, shall approve or disapprove the management plan.
   - **(2)** *Criteria for approval* In determining whether to approve the management plan, the Secretary shall consider whether—
     - **(A)** the local coordinating entity has afforded adequate opportunity, including public hearings, for public and governmental involvement in the preparation of the management plan;
-    - **(B)** the resource protection and interpretation strategies contained in the management plan, if implemented, would adequately protect the natural, cultural, historical, scenic, and recreational resources of the Heritage Area; and
-    - **(C)** the management plan is consistent with the Secretary’s trust responsibilities to Indian tribes and Tribal treaty rights within the National Heritage Area.
+    - **(B)** the resource protection and interpretation strategies contained in the management plan, if implemented, would adequately protect the natural, cultural, historical, scenic, and recreational resources of the Heritage Area;
+    - **(C)** the management plan is consistent with the Secretary’s trust responsibilities to Indian tribes and Tribal treaty rights within the National Heritage Area; and
+    - **(D)** the management plan is supported by the appropriate State, Kittitas County, King County, and local officials, the cooperation of which is needed to ensure the effective implementation of State and local aspects of the management plan.
   - **(3)** *Action following disapproval* If the Secretary disapproves the management plan, the Secretary shall—
     - **(A)** advise the local coordinating entity in writing of the reasons for the disapproval;
     - **(B)** make recommendations to the local coordinating entity for revisions to the management plan; and
@@ -87,7 +88,7 @@ In this Act:
   - **(1)** make grants to the State or a political subdivision of the State, Tribes, nonprofit organizations, and other persons;
   - **(2)** enter into cooperative agreements with, or provide technical assistance to, Federal agencies, the State or political subdivisions of the State, Tribes, nonprofit organizations, and other interested parties;
   - **(3)** hire and compensate staff, including individuals with expertise in natural, cultural, historical, scenic, and recreational resource protection and heritage programming;
-  - **(4)** obtain money or services from any source, including any money or services that are provided under any other Federal law or program;
+  - **(4)** obtain money or services from any source, including any money or services that are provided under any other Federal law or program, in which case the Federal share of the cost of any activity assisted using Federal funds provided for National Heritage Areas shall not be more than 50 percent;
   - **(5)** contract for goods or services; and
   - **(6)** undertake to be a catalyst for other activities that—
     - **(A)** further the purposes of the Heritage Area; and
@@ -123,19 +124,20 @@ Nothing in this Act shall construe, define, waive, limit, affect any rights of a
 
 ## § 9. Private property and regulatory protections
 
-Nothing in this Act, the proposed Mountains to Sound Greenway National Heritage Area, or resulting Plan shall—
+Nothing in this Act, the proposed Mountains to Sound Greenway National Heritage Area, or resulting management plan (or any revisions to that plan) shall—
 
 - **(1)** abridge the rights of any owner of public or private property, including the right to refrain from participating in any plan, project, program, or activity conducted within the Heritage Area;
 - **(2)** require any property owner—
   - **(A)** to allow public access (including access by Federal, State, or local agencies) to the property of the property owner; or
   - **(B)** to modify public access or use of property of the property owner under any other Federal, State, or local law;
 - **(3)** alter any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, Tribal, or local agency;
-- **(4)** convey any land use or other regulatory authority to the local coordinating entity, including but not necessarily limited to development and management of energy or water or water-related infrastructure;
+- **(4)** convey any land use or other regulatory authority to the local coordinating entity or any subsidiary organization, including but not necessarily limited to development and management of energy or water or water-related infrastructure;
 - **(5)** authorize or imply the reservation or appropriation of water or water rights;
 - **(6)** diminish the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area or the authority of Tribes to regulate their members with respect to such matters in the exercise of Tribal treaty rights;
 - **(7)** create any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property;
-- **(8)** affect current or future grazing permits, leases, or allotment on Federal lands; or
-- **(9)** affect the construction, operation, maintenance or expansion of current or future water projects, including water storage, hydroelectric facilities, or delivery systems.
+- **(8)** affect current or future grazing permits, leases, or allotment on Federal lands;
+- **(9)** affect the construction, operation, maintenance or expansion of current or future water projects, including water storage, hydroelectric facilities, or delivery systems; or
+- **(10)** alter the authority of State, county, or local governments in land use planning or obligate those governments to comply with any recommendations in the management plan.
 
 ## § 10. Evaluation and report
 
