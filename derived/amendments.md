@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 30 executed, 20 stated and not applied.
+68 amendatory instructions. 33 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,7 +98,16 @@ to guess them.
 
 ### 33 U.S.C. § 467f-2
 
-> Section 1177(e) of the Water Resources Development Act of 2016 (33 U.S.C. 467f–2 note) is amended by striking “$10,000,000” and inserting “$40,000,000”.
+> in subsection (e), by striking “$10,000,000” and inserting “$40,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$10,000,000` |
+| Inserted | `$40,000,000` |
+
+### 33 U.S.C. § 467f-2
+
+> in subsection (f), by striking “$10,000,000” and inserting “$40,000,000”.
 
 | | |
 |---|---|
@@ -143,12 +152,12 @@ to guess them.
 
 ### 43 U.S.C. § 1602
 
-> Section 221(b)(1) of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b(b)(1)) is amended by striking “federally recognized Indian tribe and, as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602), a Native village, Regional Corporation, and Village Corporation” and inserting “Indian tribe, as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))”.
+> Section 221(b)(1) of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b(b)(1)) is amended by striking “a federally recognized Indian tribe and, as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602), a Native village, Regional Corporation, and Village Corporation” and inserting “an Indian tribe, as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))”.
 
 | | |
 |---|---|
-| Removed | `federally recognized Indian tribe and, as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602), a Native village, Regional Corporation, and Village Corporation` |
-| Inserted | `Indian tribe, as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))` |
+| Removed | `a federally recognized Indian tribe and, as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602), a Native village, Regional Corporation, and Village Corporation` |
+| Inserted | `an Indian tribe, as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))` |
 
 ### 33 U.S.C. § 579a
 
@@ -233,12 +242,12 @@ to guess them.
 
 ### 33 U.S.C. § 701h-1
 
-> by striking “flood-control work” and inserting “such project”; and
+> by striking “from appropriations which may be provided by Congress for flood-control work” and inserting “if appropriations are provided by Congress for such purpose”; and
 
 | | |
 |---|---|
-| Removed | `flood-control work` |
-| Inserted | `such project` |
+| Removed | `from appropriations which may be provided by Congress for flood-control work` |
+| Inserted | `if appropriations are provided by Congress for such purpose` |
 
 ### 33 U.S.C. § 2352
 
@@ -260,21 +269,39 @@ to guess them.
 
 ### 33 U.S.C. § 2352
 
-> by striking “carry out a study” and inserting “carry out a follow-up study”.
+> by striking “carry out a study” and inserting “carry out a followup study”.
 
 | | |
 |---|---|
 | Removed | `carry out a study` |
-| Inserted | `carry out a follow-up study` |
+| Inserted | `carry out a followup study` |
 
-### 33 U.S.C. § 579c
+### 33 U.S.C. § 577
 
-> Section 6003(a) of the Water Resources Reform Development Act of 2014 (33 U.S.C. 579c(a)) is amended by striking “7” each place it appears and inserting “10”.
+> in subsection (a), by striking “$50,000,000” and inserting “$62,500,000”; and
 
 | | |
 |---|---|
-| Removed | `7` |
-| Inserted | `10` |
+| Removed | `$50,000,000` |
+| Inserted | `$62,500,000` |
+
+### 33 U.S.C. § 577
+
+> in subsection (b), by striking “$10,000,000” and inserting “$12,500,000”.
+
+| | |
+|---|---|
+| Removed | `$10,000,000` |
+| Inserted | `$12,500,000` |
+
+### 33 U.S.C. § 579c
+
+> Section 6003(a) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 579c(a)) is amended by striking “7-year” each place it appears and inserting “10-year”.
+
+| | |
+|---|---|
+| Removed | `7-year` |
+| Inserted | `10-year` |
 
 ### 33 U.S.C. § 2282d
 
@@ -320,6 +347,21 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2232` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “federally authorized” before “water resources development project”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2232` | insert | in paragraph (2)(A), by inserting “, except as provided in paragraph (3)” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2232` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2232` | replace | in subparagraph (B)(ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2232` | insert | in subparagraph (D), in the matter preceding clause (i), by inserting “to be carried out” after “project”. | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: “For purposes of this Act, the term State means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Indian tribes (as defined in sect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 561` | repeal | Section 11 of the Act of March 3, 1925 (33 U.S.C. 561) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 561` | repeal | Section 11 of the Act of March 3, 1925 (Chapter 467; 33 U.S.C. 561) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 701r` | insert | Section 14 of the Flood Control Act of 1946 (33 U.S.C. 701r) is amended by inserting “, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Fed… | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2225` | amend | Section 1022 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2225) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2321` | insert | in the heading by inserting “navigation and” before “hydroelectric facilities”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2321` | replace | in the first sentence, by striking “Activities currently performed” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2321` | insert | in subsection (a) (as designated by paragraph (2)), by inserting “navigation or” before “hydroelectric”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2321` | replace | in the second sentence, by striking “This section” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2321` | replace | The table of contents contained in section 1(b) of the Water Resources Development Act of 1990 (104 Stat. 4604) is amended by striking the item relating to section 314 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1962d-5f` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1962d-5f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2267b` | add-at-end | Section 3025 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2267b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 549a` | add-at-end | Section 2010 of the Water Resources Reform and Development Act of 2014 (128 Stat. 1270) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
