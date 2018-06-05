@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1026
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1026
@@ -71,3 +71,9 @@ North Country National Scenic Trail Route Adjustment Act
 - 2018-05-10 — Placed on the Union Calendar, Calendar No. 512.
 - 2018-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-667.
 - 2018-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-667.
+- 2018-06-05 — Considered under suspension of the rules. (consideration: CR H4748-4750)
+- 2018-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1026.
+- 2018-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4748)
+- 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4748)
