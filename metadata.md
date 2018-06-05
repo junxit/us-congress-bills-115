@@ -1,7 +1,7 @@
 ---
 measure: H.R. 801
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 801
@@ -57,3 +57,9 @@ Route 66 National Historic Trail Designation Act
 - 2018-04-13 — Placed on the Union Calendar, Calendar No. 484.
 - 2018-04-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-633.
 - 2018-04-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-633.
+- 2018-06-05 — Considered under suspension of the rules. (consideration: CR H4754-4758)
+- 2018-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 801.
+- 2018-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4754-4755)
+- 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4754-4755)
