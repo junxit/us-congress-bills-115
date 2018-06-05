@@ -36,8 +36,8 @@ In this Act:
   - **(2)** make grants to the State, political subdivisions of the State, nonprofit organizations, and other persons;
   - **(3)** enter into cooperative agreements with the State, political subdivisions of the State, nonprofit organizations, and other organizations;
   - **(4)** hire and compensate staff;
-  - **(5)** obtain funds or services from any source, including funds and services provided under any Federal program or law, in which case the Federal share of the cost of any activity carried out using Federal funds shall not be more than 50 percent; and
-  - **(6)** to contract for goods and services.
+  - **(5)** obtain funds or services from any source, including funds and services provided under any Federal program or law, in which case the Federal share of the cost of any activity assisted using Federal funds provided for National Heritage Areas shall not be more than 50 percent; and
+  - **(6)** contract for goods and services.
 - **(c)** *Duties of local coordinating entity* To further the purposes of the Heritage Area, the local coordinating entity shall—
   - **(1)** prepare a management plan for the Heritage Area in accordance with section 5;
   - **(2)** give priority to the implementation of actions, goals, and strategies set forth in the management plan, including assisting units of government and other persons in—
@@ -52,7 +52,7 @@ In this Act:
     - **(G)** installing throughout the Heritage Area clear, consistent, and appropriate signs identifying public access points and sites of interest;
   - **(3)** consider the interests of diverse units of government, businesses, tourism officials, private property owners, and nonprofit groups within the Heritage Area in developing and implementing the management plan;
   - **(4)** conduct public meetings at least semiannually regarding the development and implementation of the management plan; and
-  - **(5)** for any fiscal year for which Federal funds are expended for the Heritage Area—
+  - **(5)** for any fiscal year for which Federal funds provided for National Heritage Areas are expended for the Heritage Area—
     - **(A)** submit to the Secretary an annual report that describes—
       - **(i)** the accomplishments of the local coordinating entity;
       - **(ii)** the expenses and income of the local coordinating entity; and
@@ -60,7 +60,7 @@ In this Act:
     - **(B)** make available for audit all records relating to the expenditure of the Federal funds and any matching funds; and
     - **(C)** require, with respect to all agreements authorizing the expenditure of Federal funds by other organizations, that the receiving organizations make available for audit all records relating to the expenditure of the Federal funds.
 - **(d)** *Prohibition on acquisition of real property*
-  - **(1)** *In general* The local coordinating entity shall not use Federal funds to acquire real property or any interest in real property.
+  - **(1)** *In general* The local coordinating entity shall not use Federal funds provided for National Heritage Areas to acquire real property or any interest in real property.
   - **(2)** *Other sources* Nothing in this Act precludes the local coordinating entity from using funds from other sources for authorized purposes, including the acquisition of real property or any interest in real property.
 
 ## § 5. Management plan
@@ -109,13 +109,13 @@ Nothing in this Act—
 - **(2)** requires any property owner to permit public access (including access by Federal, State, or local agencies) to the property of the property owner, or to modify public access or use of property of the property owner under any other Federal, State, or local law;
 - **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, or local agency, or conveys any land use or other regulatory authority to the local coordinating entity;
 - **(4)** authorizes or implies the reservation or appropriation of water or water rights;
-- **(5)** affects the licensing or relicensing of facilities by the Federal Energy Regulatory Commission within the proposed Heritage Area or upstream or downstream from the proposed Heritage Area on the Susquehanna River, including FERC Project No. 405-104;
+- **(5)** affects the licensing or relicensing of facilities by the Federal Energy Regulatory Commission within the proposed Heritage Area or upstream or downstream from the proposed Heritage Area on the Susquehanna River, including FERC Project No. 405–104;
 - **(6)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area; or
 - **(7)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
 ## § 8. Evaluation; report
 
-- **(a)** *In General* Not later than 3 years after the approval of the management plan under section 5(c), the Secretary shall—
+- **(a)** *In General* Not later than 3 years before the date specified under section 9, the Secretary shall—
   - **(1)** conduct an evaluation of the accomplishments of the Heritage Area; and
   - **(2)** prepare a report in accordance with subsection (c).
 - **(b)** *Evaluation* An evaluation conducted under subsection (a)(1) shall—
