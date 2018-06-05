@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2991
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2991
@@ -40,6 +40,10 @@ Susquehanna National Heritage Area Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-06-05 — [House 115-2-232](votes/house-115-2-0232.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (373–9)
+
 ## Actions
 
 - 2017-06-21 — Introduced in House
@@ -53,3 +57,11 @@ Susquehanna National Heritage Area Act
 - 2018-05-11 — Placed on the Union Calendar, Calendar No. 515.
 - 2018-05-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-670.
 - 2018-05-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-670.
+- 2018-06-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-06-05 — Considered as unfinished business. (consideration: CR H4760)
+- 2018-06-05 — Considered under suspension of the rules. (consideration: CR H4750-4752)
+- 2018-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2991.
+- 2018-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 9 (Roll no. 232). (text: CR H4750-4751)
+- 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 9 (Roll no. 232).(text: CR H4750-4751)
