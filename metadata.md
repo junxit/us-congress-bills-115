@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5005
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5005
@@ -58,3 +58,11 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 - 2018-04-24 — Placed on the Union Calendar, Calendar No. 493.
 - 2018-04-24 — Reported by the Committee on Natural Resources. H. Rept. 115-644.
 - 2018-04-24 — Reported by the Committee on Natural Resources. H. Rept. 115-644.
+- 2018-06-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-06-05 — Considered as unfinished business. (consideration: CR H4759-4760)
+- 2018-06-05 — Considered under suspension of the rules. (consideration: CR H4752-4753)
+- 2018-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5005.
+- 2018-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2018-06-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 5 (Roll no. 231). (text: CR H4752)
+- 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 5 (Roll no. 231).(text: CR H4752)
