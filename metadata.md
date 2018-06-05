@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5956
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5956
@@ -29,3 +29,9 @@ Northern Mariana Islands U.S. Workforce Act of 2018
 - 2018-05-24 — Introduced in House
 - 2018-05-24 — Introduced in House
 - 2018-05-24 — Referred to the House Committee on Natural Resources.
+- 2018-06-05 — Considered under suspension of the rules. (consideration: CR H4745-4748)
+- 2018-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5956.
+- 2018-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2018-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4745-4747)
+- 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4745-4747)
