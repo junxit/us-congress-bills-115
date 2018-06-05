@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5515
@@ -16,9 +16,13 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -313,3 +317,11 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-05-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5515.
 - 2018-05-24 — The previous question was ordered pursuant to the rule.
 - 2018-05-24 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-04 — Received in the Senate.
+- 2018-06-04 — Senate amendment submitted
+- 2018-06-04 — Senate amendment submitted
+- 2018-06-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.
+- 2018-06-05 — Senate amendment submitted
+- 2018-06-05 — Senate amendment submitted
+- 2018-06-05 — Senate amendment submitted
+- 2018-06-05 — Senate amendment submitted
