@@ -35,7 +35,7 @@ The purposes of this Act are—
       >     - **(ii)** *Inflation adjustment* Beginning in fiscal year 2020, the Secretary, through notice in the Federal Register, may annually adjust the supplemental fee imposed under clause (i) by a percentage equal to the annual change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
       >     - **(iii)** *Use of funds* Amounts collected pursuant to clause (i) shall be deposited into the Treasury of the Commonwealth Government for the sole and exclusive purpose of funding vocational education, apprenticeships, or other training programs for United States workers.
       >     - **(iv)** *Fraud prevention and detection fee* In addition to the fees described in clause (i), the Secretary—
-      >       - **(I)** shall impose, on each prospective employer filing a petition under this subsection for 1 or more nonimmigrant workers, a $50 fraud prevention and detection fee; and
+      >       - **(I)** shall impose, on each prospective employer filing a petition under this subsection for one or more nonimmigrant workers, a $50 fraud prevention and detection fee; and
       >       - **(II)** shall deposit and use the fees collected under subclause (I) for the sole purpose of preventing and detecting immigration benefit fraud in the Northern Mariana Islands, in accordance with section 286(v)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1356(v)(2)(B)).
       >   - **(B)** *Plan for the expenditure of funds* Not later than 120 days before the first day of fiscal year 2020, and annually thereafter, the Governor of the Commonwealth Government shall submit to the Secretary of Labor—
       >     - **(i)** a plan for the expenditures of amounts deposited under subparagraph (A)(iii);
@@ -104,7 +104,7 @@ The purposes of this Act are—
       >         - **(aa)** produces services or goods for profit, or is a governmental, charitable, or other validly recognized nonprofit entity;
       >         - **(bb)** meets applicable legal requirements for doing business in the Commonwealth;
       >         - **(cc)** has substantially complied with wage and hour laws, occupational safety and health requirements, and all other Federal, Commonwealth, and local requirements related to employment during the preceding 5 years;
-      >         - **(dd)** does not directly or indirectly engage in, or knowingly benefit from, prostitution, human trafficking, or any other activity that is illegal under Federal, Commonwealth, or local law; and
+      >         - **(dd)** does not directly or indirectly engage in, or knowingly benefit from, prostitution, human trafficking, or any other activity that is illegal under Federal, Commonwealth, or local law;
       >         - **(ee)** is a participant in good standing in the E-Verify program;
       >         - **(ff)** does not have, as an owner, investor, manager, operator, or person meaningfully involved with the undertaking, any individual who has been the owner, investor, manager, operator, or otherwise meaningfully involved with an undertaking that does not comply with item (cc) or (dd), or is the agent of such an individual; and
       >         - **(gg)** is not a successor in interest to an undertaking that does not comply with item (cc) or (dd).
@@ -117,7 +117,7 @@ The purposes of this Act are—
       >   - **(A)** *In general* Except as provided in subparagraph (B)—
       >     - **(i)** a permit for a Commonwealth Only Transitional Worker—
       >       - **(I)** shall remain valid for a period that may not exceed 1 year; and
-      >       - **(II)** may be renewed for not more than 2 consecutive, 1-year periods; and
+      >       - **(II)** may be renewed for not more than two consecutive, 1-year periods; and
       >     - **(ii)** at the expiration of the second renewal period, an alien may not again be eligible for such a permit until after the alien has remained outside of the United States for a continuous period of at least 30 days prior to the submission of a renewal petition on their behalf.
       >   - **(B)** *Long-term workers* An alien who was admitted to the Commonwealth as a Commonwealth Only Transitional Worker during fiscal year 2015, and during every subsequent fiscal year beginning before the date of the enactment of the Northern Mariana Islands U.S. Workforce Act of 2018, may receive a permit for a Commonwealth Only Transitional Worker that is valid for a period that may not exceed 3 years and may be renewed for additional 3-year periods during the transition period. A permit issued under this subparagraph shall be counted toward the numerical cap for each fiscal year within the period of petition validity.
 
