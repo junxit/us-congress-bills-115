@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 113
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 113
@@ -50,3 +50,5 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2018-05-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-701.
 - 2018-05-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-701.
 - 2018-05-23 — Received in the Senate.
+- 2018-06-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2997)
+- 2018-06-05 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2997)
