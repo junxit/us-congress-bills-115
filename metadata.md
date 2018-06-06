@@ -1,7 +1,7 @@
 ---
 measure: S. 2857
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2857
@@ -32,3 +32,5 @@ National Nordic Museum Act
 - 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2018-05-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
 - 2018-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2018-06-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3264; text: CR S3264)
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3264; text: CR S3264)
