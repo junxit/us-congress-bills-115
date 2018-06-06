@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-68 amendatory instructions. 33 executed, 35 stated and not applied.
+81 amendatory instructions. 31 executed, 50 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,42 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 33 U.S.C. § 2238
-
-> in the section heading by striking “Authorization of appropriations” and inserting “Funding for harbor navigation”;
-
-| | |
-|---|---|
-| Removed | `Authorization of appropriations` |
-| Inserted | `Funding for harbor navigation` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (d)(2)(A)(i) (as redesignated by subsection (a)(2) of this section) by striking “subsection (e)” and inserting “subsection (f)”;
-
-| | |
-|---|---|
-| Removed | `subsection (e)` |
-| Inserted | `subsection (f)` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (e)(3)(B)(i) (as redesignated by subsection (a)(2) of this section) by striking “subsection (c)(2)(A)” and inserting “subsection (d)(2)(A)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (c)(2)(A)` |
-| Inserted | `subsection (d)(2)(A)` |
-
-### 33 U.S.C. § 2238
-
-> in subsection (f)(2)(A)(ii) (as redesignated by subsection (a)(2) of this section) by striking “subsection (d)(2)” and inserting “subsection (e)(2)”.
-
-| | |
-|---|---|
-| Removed | `subsection (d)(2)` |
-| Inserted | `subsection (e)(2)` |
 
 ### 33 U.S.C. § 2238
 
@@ -197,7 +161,16 @@ to guess them.
 
 ### 33 U.S.C. § 2201
 
-> Section 1043(b)(8) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2201 note(b)(8)) is amended by striking “2015 through 2019” and inserting “2019 through 2023”.
+> by striking “15” and inserting “20”; and
+
+| | |
+|---|---|
+| Removed | `15` |
+| Inserted | `20` |
+
+### 33 U.S.C. § 2201
+
+> in subsection (b)(8) by striking “2015 through 2019” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
@@ -251,15 +224,6 @@ to guess them.
 
 ### 33 U.S.C. § 2352
 
-> in paragraph (3), by striking “10 years” and inserting “12 years”; and
-
-| | |
-|---|---|
-| Removed | `10 years` |
-| Inserted | `12 years` |
-
-### 33 U.S.C. § 2352
-
 > by striking “4 years after the date of enactment of this paragraph” and inserting “December 31, 2022”; and
 
 | | |
@@ -293,6 +257,24 @@ to guess them.
 |---|---|
 | Removed | `$10,000,000` |
 | Inserted | `$12,500,000` |
+
+### 33 U.S.C. § 426g
+
+> in paragraph (1), by striking “$30,000,000” and inserting “$45,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$30,000,000` |
+| Inserted | `$45,000,000` |
+
+### 33 U.S.C. § 426g
+
+> in paragraph (2)(B), by striking “$10,000,000” and inserting “$15,000,000”.
+
+| | |
+|---|---|
+| Removed | `$10,000,000` |
+| Inserted | `$15,000,000` |
 
 ### 33 U.S.C. § 579c
 
@@ -330,8 +312,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 2238` | redesignate | by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2238` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2326` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1178(c)(1)(A) of the Water Resources Development Act of 2016 (130 Stat. 1675) is amended by striking “may provide assistance” and inserting “may provide assistance, which may include housing and related improvements,”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1178(c)(2) of the Water Resources Development Act of 2016 (130 Stat. 1675) is repealed. | the bill names no machine-readable US Code section |
@@ -341,18 +321,27 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 579a` | redesignate | by redesignating subparagraph (C) as subparagraph (D) and inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 408` | add-at-end | Section 14 of the Act of March 3, 1899 (33 U.S.C. 408) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 7007(a) of the Water Resources Development Act of 2007 (121 Stat. 1277; 128 Stat. 1226) is amended by adding at the end the following: “Notwithstanding section 221(a)(4)(C)(i) of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b(… | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2201` | strike | by striking “prior to the date of enactment of this Act”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2201` | insert | in the matter preceding item (aa), by inserting “that have been authorized for construction prior to the date of enactment of this Act and” after “not more than 12 projects”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2201` | replace | in item (bb), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2201` | insert | by inserting “that have been authorized for construction prior to the date of enactment of this Act and” after “not more than 3 projects”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2201` | replace | by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2231` | insert | in subsection (a)(1), by inserting “federally authorized” before “feasibility study”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2231` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2231` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2232` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “federally authorized” before “water resources development project”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2232` | insert | in paragraph (2)(A), by inserting “, except as provided in paragraph (3)” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2232` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2232` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2232` | replace | in subparagraph (B)(ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2232` | insert | in subparagraph (D), in the matter preceding clause (i), by inserting “to be carried out” after “project”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1962d-16` | amend | Section 22(a)(1) of the Water Resources Development Act of 1974 (42 U.S.C. 1962d-16(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: “For purposes of this Act, the term State means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Indian tribes (as defined in sect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 561` | repeal | Section 11 of the Act of March 3, 1925 (Chapter 467; 33 U.S.C. 561) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2352` | redesignate | by striking paragraph (3) and redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 701r` | insert | Section 14 of the Flood Control Act of 1946 (33 U.S.C. 701r) is amended by inserting “, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Fed… | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2225` | amend | Section 1022 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2225) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2321` | insert | in the heading by inserting “navigation and” before “hydroelectric facilities”; | the bill quotes the text inserted but describes where it goes |
@@ -364,4 +353,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1962d-5f` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1962d-5f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2267b` | add-at-end | Section 3025 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2267b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 601(e)(5)(B) of the Water Resources Development Act of 2000 (Public Law 106–541) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 601(e)(5) of the Act referred to in subsection (a) is further amended by inserting after subparagraph (B) the following (and redesignating any subparagraphs accordingly): | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 701n` | replace | Section 5(a) of the Act of August 18, 1941 (55 Stat. 650, chapter 377; 33 U.S.C. 701n(a)), as amended by this Act, is further amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 701h` | insert | Section 5 of the Act of June 22, 1936 (49 Stat. 1572, chapter 688; 33 U.S.C. 701h), is amended by inserting after “authorized purposes of the project:” the following: “Provided further, That the Secretary is authorized to receive and exp… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 549a` | add-at-end | Section 2010 of the Water Resources Reform and Development Act of 2014 (128 Stat. 1270) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “$40,000,000” and inserting “$60,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$5,000,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
