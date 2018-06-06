@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8
@@ -67,3 +67,386 @@ Water Resources Development Act of 2018
 - 2018-06-01 — Placed on the Union Calendar, Calendar No. 548.
 - 2018-06-01 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-708.
 - 2018-06-01 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-708.
+- 2018-06-06 — Amendment (A001) offered by Mr. Shuster. (consideration: CR H4813; text: CR H4813-4814)
+- 2018-06-06 — Amendment (A002) offered by Mr. Shuster. (consideration: CR H4814-4815; text: CR H4815)
+- 2018-06-06 — Amendment (A003) offered by Mr. Gibbs. (consideration: CR H4815-4816; text: CR H4815)
+- 2018-06-06 — Amendment (A004) offered by Mr. Soto. (consideration: CR H4816; text: CR H4816)
+- 2018-06-06 — Amendment (A005) offered by Mr. Royce (CA). (consideration: CR H4816; text: CR H4816)
+- 2018-06-06 — Amendment (A006) offered by Mr. Royce (CA). (consideration: CR H4816-4817; text: CR H4816-4817)
+- 2018-06-06 — Amendment (A007) offered by Mr. Denham. (consideration: CR H4817; text: CR H4817)
+- 2018-06-06 — Amendment (A008) offered by Ms. Esty (CT). (consideration: CR H4817-4818; text: CR H4817)
+- 2018-06-06 — Amendment (A009) offered by Mr. Soto. (consideration: CR H4818; text: CR H4818)
+- 2018-06-06 — Amendment (A010) offered by Mr. Krishnamoorthi. (consideration: CR H4818-4819; text: CR H4818)
+- 2018-06-06 — Amendment (A011) offered by Ms. Jayapal. (consideration: CR H4819; text: CR H4819)
+- 2018-06-06 — Amendment (A012) offered by Mr. Soto. (consideration: CR H4819-4820; text: CR H4819)
+- 2018-06-06 — Amendment (A013) offered by Mr. Sanford. (consideration: CR H4820; text: CR H4820)
+- 2018-06-06 — Amendment (A014) offered by Mr. Nolan. (consideration: CR H4820-4821; text: CR H4820)
+- 2018-06-06 — Amendment (A015) offered by Ms. Moore. (consideration: CR H4821; text: CR H4821)
+- 2018-06-06 — Amendment (A016) offered by Mr. Meadows. (consideration: CR H4821-4822; text: CR H4821)
+- 2018-06-06 — Amendment (A017) offered by Mr. Mast. (consideration: CR H4822; text: CR H4822)
+- 2018-06-06 — Amendment (A018) offered by Mr. Pearce. (consideration: CR H4822-4823; text: CR H4822)
+- 2018-06-06 — Amendment (A019) offered by Mr. Kelly (PA). (consideration: CR H4823; text: CR H4823)
+- 2018-06-06 — Amendment (A020) offered by Mr. Schrader. (consideration: CR H4823; text: CR H4823)
+- 2018-06-06 — Amendment (A021) offered by Ms. Jayapal. (consideration: CR H4823-4824; text: CR H4823)
+- 2018-06-06 — Amendment (A022) offered by Mr. Higgins (LA). (consideration: CR H4824; text: CR H4824)
+- 2018-06-06 — Amendment (A023) offered by Mr. Babin. (consideration: CR H4824-4825; text: CR H4824)
+- 2018-06-06 — Amendment (A024) offered by Mr. Bost. (consideration: CR H4825-4826; text: CR H4825)
+- 2018-06-06 — Amendment (A025) offered by Mr. Heck. (consideration: CR H4826-4827; text: CR H4826)
+- 2018-06-06 — Amendment (A026) offered by Miss Gonzalez-Colon (PR). (consideration: CR H4827; text: CR H4827)
+- 2018-06-06 — Amendment (A027) offered by Mr. Gibbs. (consideration: CR H4827-4828; text: CR H4827)
+- 2018-06-06 — Amendment (A028) offered by Mr. Davis, Rodney. (consideration: CR H4828-4829; text: CR H4828)
+- 2018-06-06 — Amendment (A029) offered by Miss Gonzalez-Colon (PR). (consideration: CR H4829; text: CR H4829)
+- 2018-06-06 — Amendment (A030) offered by Mr. Lance. (consideration: CR H4829-4830; text: CR H4829)
+- 2018-06-06 — Amendment (A031) offered by Mr. Lujan, Ben Ray. (consideration: CR H4830; text: CR H4830)
+- 2018-06-06 — Amendment (A032) offered by Mr. Larsen (WA). (consideration: CR H4830-4831; text: CR H4830)
+- 2018-06-06 — Amendment (A033) offered by Mr. Keating. (consideration: CR H4831; text: CR H4831)
+- 2018-06-06 — Amendment (A034) offered by Mr. Joyce (OH). (consideration: CR H4831-4832; text: CR H4831)
+- 2018-06-06 — Amendment (A035) offered by Mr. Bishop (GA). (consideration: CR H4832-4833; text: CR H4832)
+- 2018-06-06 — Amendment (A036) offered by Mr. Blum. (consideration: CR H4833; text: CR H4833)
+- 2018-06-06 — Amendment (A037) offered by Mr. Keating. (consideration: CR H4833-4834; text: CR H4833)
+- 2018-06-06 — Amendment (A038) offered by Mrs. McMorris Rodgers. (consideration: CR H4834; text: CR H4834)
+- 2018-06-06 — Amendment (A039) offered by Ms. Shea-Porter. (consideration: CR H4834-4835; text: CR H4834)
+- 2018-06-06 — Amendment (A040) offered by Ms. Shea-Porter. (consideration: CR H4835; text: CR H4835)
+- 2018-06-06 — Amendment (A041) offered by Mr. Lewis (MN). (consideration: CR H4835-4836; text: CR H4835)
+- 2018-06-06 — Amendment (A042) offered by Mr. Olson. (consideration: CR H4836; text: CR H4836)
+- 2018-06-06 — Amendment (A043) offered by Mr. Culberson. (consideration: CR H4836-4837; text: CR H4836)
+- 2018-06-06 — Amendment (A044) offered by Mr. Weber (TX). (consideration: CR H4837-4838; text: CR H4837)
+- 2018-06-06 — Amendment (A045) offered by Mr. Meeks. (consideration: CR H4838; text: CR H4838)
+- 2018-06-06 — Amendment (A046) offered by Mr. Schrader. (consideration: CR H4838-4839; text: CR H4838-4839)
+- 2018-06-06 — Amendment (A047) offered by Mr. Smith (MO). (consideration: CR H4839; text: CR H4839)
+- 2018-06-06 — Amendment (A048) offered by Mr. Young (AK). (consideration: CR H4839-4840; text: CR H4839)
+- 2018-06-06 — Amendment (A049) offered by Mr. Costa. (consideration: CR H4840-4841; text: CR H4840)
+- 2018-06-06 — Amendment (A050) offered by Mr. Soto. (consideration: CR H4841; text: CR H4841)
+- 2018-06-06 — Amendment (A051) offered by Mr. Paulsen. (consideration: CR H4841-4842; text: CR H4841)
+- 2018-06-06 — Amendment (A052) offered by Mr. Moulton. (consideration: CR H4842; text: CR H4842)
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — Amendment agreed to Committee of the Whole
+- 2018-06-06 — By unanimous consent, the Gibbs amendment was withdrawn.
+- 2018-06-06 — By unanimous consent, the Weber (TX) amendment was withdrawn.
+- 2018-06-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 8 as unfinished business.
+- 2018-06-06 — Considered as unfinished business. (consideration: CR H4815-4844)
+- 2018-06-06 — Considered as unfinished business. (consideration: CR H4844-4846)
+- 2018-06-06 — Considered under the provisions of rule H. Res. 918. (consideration: CR H4798-4815; text: CR H4804-4813)
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Denham Amendment No. 7.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Esty Amendment No. 8.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Gibbs Amendment No. 3.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Moulton Amendment No. 53.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Royce Amendment No. 4.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Royce Amendment No. 5.
+- 2018-06-06 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Soto Amendment No. 2.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Babin Amendment No. 23.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan Amendment No. 32.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (GA) Amendment No. 36.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Blum Amendment No. 37.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Bost Amendment No. 24.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Costa Amendment No. 50.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Culberson Amendment No. 44.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Gibbs Amendment No. 27.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon (PR) Amendment No. 26.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon Amendment No. 30.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Heck Amendment No. 25.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Higgins (LA) Amendment No. 22.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal Amendment No. 21.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Joyce (OH) Amendment No. 35.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Keating Amendment No. 34.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Keating Amendment No. 38.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Lance Amendment No. 31.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Larsen (WA) Amendment No. 33.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis (MN) Amendment No. 42.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rodgers Amendment No. 39.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Olson Amendment No. 43.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Paulsen Amendment No. 52.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Daivs Amendment No. 29.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter Amendment No. 40.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter Amendment No. 41.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster Part A Amendment No. 6.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) Amendment No. 48.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Soto Amendment No. 51.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H. Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Weber Amendment No. 45.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded 10 with minutes of debate on the Shuster Part A Amendment No. 1.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal Amendment No. 11.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (PA) Amendment No. 19.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Krishnamoorthi Amendment No. 10.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Mast Amendment No. 17.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Meadows Amendment No. 16.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Meeks Amendment No. 46.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Moore Amendment No. 15.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan Amendment No. 14.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce Amendment No. 18.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford Amendment No. 13.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader Amendment No. 20.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader Amendment No. 47.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Soto Amendment No. 12.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Soto Amendment No. 9.
+- 2018-06-06 — DEBATE - Pursuant to the provisions of H.Res. 918, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) Amendment No. 49.
+- 2018-06-06 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add the end of title I, a section entitled: Post-Hurricane Recovery and Resiliency.
+- 2018-06-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Babin amendment (A023) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Bishop (GA) amendment (A035) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Blum amendment (A036) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Bost amendment (A024) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Costa amendment (A049) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Culberson amendment Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A028) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Denham amendment (A007) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Esty (CT) amendment (A008) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Gibbs amendment (A027) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A026) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A029) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Heck amendment (A025) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Higgins (LA) amendment (A022) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Jayapal amendment (A011) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Jayapal amendment (A021) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Joyce (OH) amendment (A034) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Keating amendment (A033) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Keating amendment (A037) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Kelly (PA) amendment (A019) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Krishnamoorthi amendment (A010) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Lance amendment (A030) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Larsen (WA) amendment Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Lewis (MN) amendment (A041) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Lujan, Ben Ray amendment (A031) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Mast amendment (A017) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the McMorris Rodgers amendment (A038) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Meadows amendment (A016) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Meeks amendment (A045) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Moore amendment (A015) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Moulton amendment (A052) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Nolan amendment (A014) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Olson amendment (A042) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Paulsen amendment (A051) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Pearce amendment (A018) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Royce (CA) amendment (A005) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Royce (CA) amendment (A006) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Sanford amendment (A013) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Schrader amendment (A020) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Schrader amendment (A046) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Shea-Porter amendment (A039) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Shea-Porter amendment (A040) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Shuster amendment (A002) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A047) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Soto amendment (A004) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Soto amendment (A009) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Soto amendment (A012) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Soto amendment (A050) Agreed to by voice vote.
+- 2018-06-06 — House amendment agreed to: On agreeing to the Young (AK) amendment (A048) Agreed to by voice vote.
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered
+- 2018-06-06 — House amendment offered/reported by: Amendment (A001) offered by Mr. Shuster.(consideration: CR H4813; text: CR H4813-4814)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A002) offered by Mr. Shuster.(consideration: CR H4814-4815; text: CR H4815)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A003) offered by Mr. Gibbs.(consideration: CR H4815-4816; text: CR H4815)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A004) offered by Mr. Soto.(consideration: CR H4816; text: CR H4816)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A005) offered by Mr. Royce (CA).(consideration: CR H4816; text: CR H4816)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A006) offered by Mr. Royce (CA).(consideration: CR H4816-4817; text: CR H4816-4817)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A007) offered by Mr. Denham.(consideration: CR H4817; text: CR H4817)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A008) offered by Ms. Esty (CT).(consideration: CR H4817-4818; text: CR H4817)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A009) offered by Mr. Soto.(consideration: CR H4818; text: CR H4818)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A010) offered by Mr. Krishnamoorthi.(consideration: CR H4818-4819; text: CR H4818)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A011) offered by Ms. Jayapal.(consideration: CR H4819; text: CR H4819)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A012) offered by Mr. Soto.(consideration: CR H4819-4820; text: CR H4819)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A013) offered by Mr. Sanford.(consideration: CR H4820; text: CR H4820)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A014) offered by Mr. Nolan.(consideration: CR H4820-4821; text: CR H4820)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A015) offered by Ms. Moore.(consideration: CR H4821; text: CR H4821)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A016) offered by Mr. Meadows.(consideration: CR H4821-4822; text: CR H4821)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A017) offered by Mr. Mast.(consideration: CR H4822; text: CR H4822)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A018) offered by Mr. Pearce.(consideration: CR H4822-4823; text: CR H4822)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A019) offered by Mr. Kelly (PA).(consideration: CR H4823; text: CR H4823)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A020) offered by Mr. Schrader.(consideration: CR H4823; text: CR H4823)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A021) offered by Ms. Jayapal.(consideration: CR H4823-4824; text: CR H4823)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A022) offered by Mr. Higgins (LA).(consideration: CR H4824; text: CR H4824)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A023) offered by Mr. Babin.(consideration: CR H4824-4825; text: CR H4824)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A024) offered by Mr. Bost.(consideration: CR H4825-4826; text: CR H4825)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A025) offered by Mr. Heck.(consideration: CR H4826-4827; text: CR H4826)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A026) offered by Miss Gonzalez-Colon (PR).(consideration: CR H4827; text: CR H4827)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A027) offered by Mr. Gibbs.(consideration: CR H4827-4828; text: CR H4827)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A028) offered by Mr. Davis, Rodney.(consideration: CR H4828-4829; text: CR H4828)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A029) offered by Miss Gonzalez-Colon (PR).(consideration: CR H4829; text: CR H4829)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A030) offered by Mr. Lance.(consideration: CR H4829-4830; text: CR H4829)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A031) offered by Mr. Lujan, Ben Ray.(consideration: CR H4830; text: CR H4830)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A032) offered by Mr. Larsen (WA).(consideration: CR H4830-4831; text: CR H4830)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A033) offered by Mr. Keating.(consideration: CR H4831; text: CR H4831)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A034) offered by Mr. Joyce (OH).(consideration: CR H4831-4832; text: CR H4831)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A035) offered by Mr. Bishop (GA).(consideration: CR H4832-4833; text: CR H4832)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A036) offered by Mr. Blum.(consideration: CR H4833; text: CR H4833)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A037) offered by Mr. Keating.(consideration: CR H4833-4834; text: CR H4833)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A038) offered by Mrs. McMorris Rodgers.(consideration: CR H4834; text: CR H4834)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A039) offered by Ms. Shea-Porter.(consideration: CR H4834-4835; text: CR H4834)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A040) offered by Ms. Shea-Porter.(consideration: CR H4835; text: CR H4835)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A041) offered by Mr. Lewis (MN).(consideration: CR H4835-4836; text: CR H4835)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A042) offered by Mr. Olson.(consideration: CR H4836; text: CR H4836)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A043) offered by Mr. Culberson.(consideration: CR H4836-4837; text: CR H4836)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A044) offered by Mr. Weber (TX).(consideration: CR H4837-4838; text: CR H4837)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A045) offered by Mr. Meeks.(consideration: CR H4838; text: CR H4838)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A046) offered by Mr. Schrader.(consideration: CR H4838-4839; text: CR H4838-4839)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A047) offered by Mr. Smith (MO).(consideration: CR H4839; text: CR H4839)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A048) offered by Mr. Young (AK).(consideration: CR H4839-4840; text: CR H4839)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A049) offered by Mr. Costa.(consideration: CR H4840-4841; text: CR H4840)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A050) offered by Mr. Soto.(consideration: CR H4841; text: CR H4841)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A051) offered by Mr. Paulsen.(consideration: CR H4841-4842; text: CR H4841)
+- 2018-06-06 — House amendment offered/reported by: Amendment (A052) offered by Mr. Moulton.(consideration: CR H4842; text: CR H4842)
+- 2018-06-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 918 and Rule XVIII.
+- 2018-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-06 — Mr. Shuster moved that the Committee rise.
+- 2018-06-06 — Ms. Velazquez moved to recommit with instructions to the Committee on Transportation and Infrastructure. (text: CR H4843-4844)
+- 2018-06-06 — On agreeing to the Babin amendment (A023) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Bishop (GA) amendment (A035) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Blum amendment (A036) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Bost amendment (A024) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Costa amendment (A049) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Culberson amendment Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Davis, Rodney amendment (A028) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Denham amendment (A007) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Esty (CT) amendment (A008) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Gibbs amendment (A027) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Gonzalez-Colon (PR) amendment (A026) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Gonzalez-Colon (PR) amendment (A029) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Heck amendment (A025) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Higgins (LA) amendment (A022) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Jayapal amendment (A011) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Jayapal amendment (A021) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Joyce (OH) amendment (A034) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Keating amendment (A033) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Keating amendment (A037) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Kelly (PA) amendment (A019) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Krishnamoorthi amendment (A010) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Lance amendment (A030) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Larsen (WA) amendment Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Lewis (MN) amendment (A041) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Lujan, Ben Ray amendment (A031) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Mast amendment (A017) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the McMorris Rodgers amendment (A038) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Meadows amendment (A016) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Meeks amendment (A045) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Moore amendment (A015) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Moulton amendment (A052) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Nolan amendment (A014) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Olson amendment (A042) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Paulsen amendment (A051) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Pearce amendment (A018) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Royce (CA) amendment (A005) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Royce (CA) amendment (A006) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Sanford amendment (A013) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Schrader amendment (A020) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Schrader amendment (A046) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Shea-Porter amendment (A039) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Shea-Porter amendment (A040) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Shuster amendment (A001) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Shuster amendment (A002) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Smith (MO) amendment (A047) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Soto amendment (A004) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Soto amendment (A009) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Soto amendment (A012) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Soto amendment (A050) Agreed to by voice vote.
+- 2018-06-06 — On agreeing to the Young (AK) amendment (A048) Agreed to by voice vote.
+- 2018-06-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-06-06 — On motion to recommit with instructions Failed by the Yeas and Nays: 180 - 227 (Roll no. 237).
+- 2018-06-06 — On passage Passed by recorded vote: 408 - 2 (Roll no. 238).
+- 2018-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez motion to recommit with instructions, the Chair put the question on the motiont and by voice vote, announced the noes had prevailed. Ms. Velazquez demanded a the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-06 — Passed/agreed to in House: On passage Passed by recorded vote: 408 - 2 (Roll no. 238).
+- 2018-06-06 — Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution provides for consideration of the Senate amendment to H.R. 3249 in addition to providing for consideration of H.R. 8 and H.R. 5895. Each measure will be debatable for 1 hour. For H.R. 8, the resolution makes in order only those amendments printed in part A of the report. For H.R. 5895, the resolution makes in order only those amendments printed in part B of the report.
+- 2018-06-06 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8.
+- 2018-06-06 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-06-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8.
+- 2018-06-06 — The Speaker designated the Honorable Gary J. Palmer to act as Chairman of the Committee.
+- 2018-06-06 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-06-06 — The previous question was ordered pursuant to the rule.
