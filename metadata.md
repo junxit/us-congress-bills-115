@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5005
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5005
@@ -41,9 +41,10 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ To direct the Secretary of the Interior to conduct a special resource study to d
 - 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-06-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 5 (Roll no. 231). (text: CR H4752)
 - 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 5 (Roll no. 231).(text: CR H4752)
+- 2018-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
