@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5655
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5655
@@ -16,9 +16,10 @@ Camp Nelson National Monument Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Camp Nelson National Monument Act
 - 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-06-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 4 (Roll no. 233). (text: CR H4753)
 - 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 4 (Roll no. 233).(text: CR H4753)
+- 2018-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
