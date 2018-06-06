@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1872
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -9,7 +9,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To authorize the programs of the Transportation Security Administration relating to transportation security, and for other purposes.
 
-## § 1. Short title; table of contents; ref­er­ences
+## § 1. Short title; table of contents; references
 
 - **(a)** *Short title* This Act may be cited as the “TSA Modernization Act”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:

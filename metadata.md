@@ -1,7 +1,7 @@
 ---
 measure: S. 1872
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1872
@@ -22,11 +22,16 @@ TSA Modernization Act
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Homeland Security Committee
 
 ## Actions
 
 - 2017-09-27 — Introduced in Senate
 - 2017-09-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2017-10-04 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-266.
+- 2018-06-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-266.
+- 2018-06-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
