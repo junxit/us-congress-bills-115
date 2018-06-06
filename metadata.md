@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3997
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3997
@@ -23,9 +23,10 @@ Free Veterans from Fees Act
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Free Veterans from Fees Act
 - 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4758)
 - 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4758)
+- 2018-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
