@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2991
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2991
@@ -36,9 +36,10 @@ Susquehanna National Heritage Area Act
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Susquehanna National Heritage Area Act
 - 2018-06-05 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 9 (Roll no. 232). (text: CR H4750-4751)
 - 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 9 (Roll no. 232).(text: CR H4750-4751)
+- 2018-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
