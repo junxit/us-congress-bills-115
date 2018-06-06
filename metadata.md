@@ -1,7 +1,7 @@
 ---
 measure: H.R. 88
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 88
@@ -38,3 +38,12 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 - 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-48.
 - 2017-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-48.
 - 2017-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
+- 2018-06-06 — Amendment SA 2349 agreed to in Senate by Unanimous Consent.
+- 2018-06-06 — Amendment SA 2349 proposed by Senator McConnell for Senator Murkowski. (consideration: CR S3263; text: CR S3263) To modify the authorized methods for the acquisition of land to be added to the Shiloh National Military Park.
+- 2018-06-06 — Measure laid before Senate by unanimous consent. (consideration: CR S3263, S3265; text of amendment in the nature of a substitute: CR S3263)
+- 2018-06-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-06-06 — Senate amendment agreed to: Amendment SA 2349 agreed to in Senate by Unanimous Consent.
+- 2018-06-06 — Senate amendment proposed (on the floor): Amendment SA 2349 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S3263; text: CR S3263)
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — The committee substitute as amended agreed to by Unanimous Consent.

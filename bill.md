@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 88
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 88
 
-> To modify the boundary of the Shiloh National Military Park located in Tennessee and Mississippi, to establish Parker’s Crossroads Battlefield as an affiliated area of the National Park System, and for other purposes.
+That the bill from the House of Representatives (H.R. 88) entitled “An Act to modify the boundary of the Shiloh National Military Park located in Tennessee and Mississippi, to establish Parker’s Crossroads Battlefield as an affiliated area of the National Park System, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -15,35 +17,31 @@ This Act may be cited as the “Shiloh National Military Park Boundary Adjustmen
 
 ## § 2. Definitions
 
-In this Act, the following definitions apply:
+In this Act:
 
-- **(1)** *Affiliated area* The term affiliated area means the Parker’s Crossroads Battlefield established as an affiliated area of the National Park System under section 4.
+- **(1)** *Affiliated area* The term affiliated area means the Parker’s Crossroads Battlefield established as an affiliated area of the National Park System by section 4(a).
 - **(2)** *Park* The term Park means Shiloh National Military Park, a unit of the National Park System.
-- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
-## § 3. Areas to be added to Shiloh National Military Park
+## § 3. Areas to be added to shiloh national military park
 
-- **(a)** *Additional areas* The boundary of Shiloh National Military Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated July 2014, as follows:
+- **(a)** *Additional areas* The boundary of the Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated July 2014, and which are comprised of the following:
   - **(1)** Fallen Timbers Battlefield.
   - **(2)** Russell House Battlefield.
   - **(3)** Davis Bridge Battlefield.
-- **(b)** *Acquisition authority* The Secretary may acquire lands described in subsection (a) by donation, purchase from willing sellers with donated or appropriated funds, or exchange.
-- **(c)** *Administration* Any lands acquired under this section shall be administered as part of the Park.
+- **(b)** *Acquisition authority* The Secretary may acquire the land described in subsection (a) by donation or exchange.
+- **(c)** *Administration* Any land acquired under this section shall be administered as part of the Park.
 
 ## § 4. Establishment of affiliated area
 
-- **(a)** *In general* Parker’s Crossroads Battlefield in the State of Tennessee is hereby established as an affiliated area of the National Park System.
-- **(b)** *Description* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated July 2014.
-- **(c)** *Administration* The affiliated area shall be managed in accordance with this Act and all laws generally applicable to units of the National Park System.
+- **(a)** *In general* Parker’s Crossroads Battlefield in the State of Tennessee is established as an affiliated area of the National Park System.
+- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted within the Proposed Boundary on the map entitled Parker’s Crossroads Battlefield, Proposed Boundary, numbered 903/80,073, and dated July 2014.
+- **(c)** *Administration* The affiliated area shall be managed in accordance with—
+  - **(1)** this Act; and
+  - **(2)** any law generally applicable to units of the National Park System.
 - **(d)** *Management entity* The City of Parkers Crossroads and the Tennessee Historical Commission shall jointly be the management entity for the affiliated area.
-- **(e)** *Cooperative agreements* The Secretary may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance with marketing, marking, interpretation, and preservation of the affiliated area.
+- **(e)** *Cooperative agreements* The Secretary may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area.
 - **(f)** *Limited role of the secretary* Nothing in this Act authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
 - **(g)** *General management plan*
-  - **(1)** *In general* The Secretary, in consultation with the management entity, shall develop a general management plan for the affiliated area. The plan shall be prepared in accordance with section 100502 of title 54, United States Code.
-  - **(2)** *Transmittal* Not later than 3 years after the date that funds are made available for this Act, the Secretary shall provide a copy of the completed general management to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
-
-## § 5. Private Property Protection
-
-- **(a)** *No use of condemnation* The Secretary of the Interior may not acquire by condemnation any land or interests in land under this Act or for the purposes of this Act.
-- **(b)** *Written consent of owner* No non-Federal property may be included in the Shiloh National Military Park without the written consent of the owner.
-- **(c)** *No buffer zone created* Nothing in this Act, the establishment of the Shiloh National Military Park, or the management plan for the Shiloh National Military Park shall be construed to create buffer zones outside of the Park. That activities or uses can be seen, heard, or detected from areas within the Shiloh National Military shall not preclude, limit, control, regulate, or determine the conduct or management of activities or uses outside of the Park.
+  - **(1)** *In general* The Secretary, in consultation with the management entity, shall develop a general management plan for the affiliated area in accordance with section 100502 of title 54, United States Code.
+  - **(2)** *Transmittal* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan developed under paragraph (1).
