@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5956
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

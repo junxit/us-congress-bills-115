@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5956
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5956
@@ -36,3 +36,12 @@ Northern Mariana Islands U.S. Workforce Act of 2018
 - 2018-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4745-4747)
 - 2018-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4745-4747)
 - 2018-06-06 — Received in the Senate, read twice.
+- 2018-06-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S4810; text: CR S4810-4811)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4810; text: CR S4810-4811)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-12 — Presented to President.
+- 2018-07-12 — Presented to President.
+- 2018-07-24 — Became Public Law No: 115-218.
+- 2018-07-24 — Became Public Law No: 115-218.
+- 2018-07-24 — Signed by President.
+- 2018-07-24 — Signed by President.
