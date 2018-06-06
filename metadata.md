@@ -1,7 +1,7 @@
 ---
 measure: S. 1692
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1692
@@ -38,3 +38,5 @@ National Emergency Medical Services Commemorative Work Act
 - 2018-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-249.
 - 2018-05-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-249.
 - 2018-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.
+- 2018-06-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3264-3265; text: CR S3264-3265)
+- 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3264-3265; text: CR S3264-3265)
