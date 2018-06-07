@@ -1,7 +1,7 @@
 ---
 measure: S. 2734
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2734
