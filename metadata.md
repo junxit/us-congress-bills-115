@@ -1,7 +1,7 @@
 ---
 measure: S. 2377
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2377
