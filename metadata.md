@@ -1,7 +1,7 @@
 ---
 measure: S. 2377
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2377
@@ -38,3 +38,17 @@ A bill to designate the Federal building and United States courthouse located at
 - 2018-06-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3390; text: CR S3390)
 - 2018-06-07 — Received in the House.
 - 2018-06-07 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-06-08 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2018-11-30 — Committee on Transportation discharged.
+- 2018-11-30 — Committee on Transportation discharged.
+- 2018-11-30 — Considered by unanimous consent. (consideration: CR H9748)
+- 2018-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-30 — Mr. Shuster asked unanimous consent to discharge from committee and consider.
+- 2018-11-30 — On passage Passed without objection. (text: CR H9748)
+- 2018-11-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9748)
+- 2018-12-06 — Presented to President.
+- 2018-12-06 — Presented to President.
+- 2018-12-13 — Became Public Law No: 115-312.
+- 2018-12-13 — Became Public Law No: 115-312.
+- 2018-12-13 — Signed by President.
+- 2018-12-13 — Signed by President.
