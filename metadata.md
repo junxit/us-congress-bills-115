@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 923
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 923
@@ -20,6 +20,11 @@ Providing for further consideration of the bill (H.R. 5895) making appropriation
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2018-06-07 — [House 115-2-240](votes/house-115-2-0240.md) — On Ordering the Previous Question — **Passed** (227–185)
+- 2018-06-07 — [House 115-2-241](votes/house-115-2-0241.md) — On Agreeing to the Resolution — **Passed** (225–187)
+
 ## Actions
 
 - 2018-06-06 — Introduced in House
@@ -27,3 +32,9 @@ Providing for further consideration of the bill (H.R. 5895) making appropriation
 - 2018-06-06 — The House Committee on Rules reported an original measure, H. Rept. 115-712, by Mr. Burgess.
 - 2018-06-06 — The House Committee on Rules reported an original measure, H. Rept. 115-712, by Mr. Burgess.
 - 2018-06-06 — The resolution provides for further consideration of H.R. 5895 under a structured rule. Also, the rule provides for consideration of H.R. 3 under a closed rule with one hour of debate. The resolution provides for one motion
+- 2018-06-07 — Considered as privileged matter. (consideration: CR H4862-4869)
+- 2018-06-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 923.
+- 2018-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-07 — On agreeing to the resolution Agreed to by recorded vote: 225 - 187 (Roll no. 241). (text: CR H4862)
+- 2018-06-07 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 185 (Roll no. 240).
+- 2018-06-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 225 - 187 (Roll no. 241).(text: CR H4862)
