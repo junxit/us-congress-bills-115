@@ -1,7 +1,7 @@
 ---
 measure: S. 2734
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2734
@@ -37,3 +37,16 @@ A bill to designate the Federal building and United States courthouse located at
 - 2018-06-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3390; text: CR S3390)
 - 2018-06-07 — Received in the House.
 - 2018-06-07 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-06-08 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6223-6224)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2734.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Barletta moved to suspend the rules and pass the bill.
+- 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6223)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6223)
+- 2018-07-19 — Presented to President.
+- 2018-07-19 — Presented to President.
+- 2018-07-27 — Became Public Law No: 115-221.
+- 2018-07-27 — Became Public Law No: 115-221.
+- 2018-07-27 — Signed by President.
+- 2018-07-27 — Signed by President.
