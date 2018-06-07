@@ -1,7 +1,7 @@
 ---
 measure: S. 2857
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2857
@@ -20,9 +20,10 @@ National Nordic Museum Act
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ National Nordic Museum Act
 - 2018-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
 - 2018-06-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3264; text: CR S3264)
 - 2018-06-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3264; text: CR S3264)
+- 2018-06-07 — Message on Senate action sent to the House.
+- 2018-06-07 — Received in the House.
+- 2018-06-07 — Referred to the House Committee on Natural Resources.
