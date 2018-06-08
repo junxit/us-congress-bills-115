@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5480
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -179,12 +179,12 @@ to guess them.
 
 ### 22 U.S.C. § 2211a
 
-> by striking “use of central funding mechanisms.—” and all that follows through “In order to ensure” and inserting “use of central funding mechanisms.—In order to ensure”;
+> by striking “Use of central funding mechanisms.—” and all that follows through “In order to ensure” and inserting “Use of central funding mechanisms.—In order to ensure”;
 
 | | |
 |---|---|
-| Removed | `use of central funding mechanisms.—” and all that follows through “In order to ensure` |
-| Inserted | `use of central funding mechanisms.—In order to ensure` |
+| Removed | `Use of central funding mechanisms.—” and all that follows through “In order to ensure` |
+| Inserted | `Use of central funding mechanisms.—In order to ensure` |
 
 ### 22 U.S.C. § 2211a
 
@@ -206,11 +206,11 @@ to guess them.
 
 ### 22 U.S.C. § 2211a
 
-> by striking “clients who are” and all that follows and inserting “activities that reach the very poor, and 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.”.
+> by striking “clients who are very poor.” and all that follows and inserting “activities that reach the very poor, and 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.”.
 
 | | |
 |---|---|
-| Removed | `clients who are` |
+| Removed | `clients who are very poor.` |
 | Inserted | `activities that reach the very poor, and 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.` |
 
 ### 22 U.S.C. § 2211b
@@ -305,7 +305,7 @@ to guess them.
 
 ### 22 U.S.C. § 2213
 
-> in subsection (b), by striking “United States-supported microfinance institutions” each place it appears and inserting “United States-supported financial intermediaries”;
+> by striking “United States-supported microfinance institutions” each place it appears and inserting “United States-supported financial intermediaries”; and
 
 | | |
 |---|---|
@@ -341,11 +341,11 @@ to guess them.
 
 ### 22 U.S.C. § 2214a
 
-> in subparagraph (F), by striking “microenterprise institution” and inserting “financial intermediary”;
+> in subparagraph (F), by striking “microfinance institution” and inserting “financial intermediary”;
 
 | | |
 |---|---|
-| Removed | `microenterprise institution` |
+| Removed | `microfinance institution` |
 | Inserted | `financial intermediary` |
 
 ### 22 U.S.C. § 2214a
@@ -408,7 +408,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2211c` | amend | Section 254 of the Foreign Assistance Act of 1961 (22 U.S.C. 2211c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2211d` | replace | by striking “and, to the extent applicable” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2212` | insert | in subsection (b), in the matter preceding paragraph (1), by inserting “and other financial services” after “credit”; | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2213` | replace | by striking “microfinance institutions” each place it appears and inserting “financial intermediaries”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2213` | replace | in paragraph (2), by striking “microfinance institutions” and inserting “financial intermediaries”. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2214` | amend | Subsection (b) of section 258 of the Foreign Assistance Act of 1961 (22 U.S.C. 2214) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2214a` | strike | by striking paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2214a` | redesignate | by redesignating paragraphs (10) through (14) as paragraphs (9) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
