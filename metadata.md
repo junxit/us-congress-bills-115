@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5800
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5800
@@ -16,9 +16,11 @@ Medicaid IMD ADDITIONAL INFO Act
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Walters, Mimi [R-CA-45] (W000820)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Walden, Greg [R-OR-2] (W000791)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Medicaid IMD ADDITIONAL INFO Act
 - 2018-05-15 — Introduced in House
 - 2018-05-15 — Introduced in House
 - 2018-05-15 — Referred to the House Committee on Energy and Commerce.
+- 2018-05-17 — Committee Consideration and Mark-up Session Held.
+- 2018-05-17 — Ordered to be Reported by Voice Vote.
+- 2018-06-08 — Placed on the Union Calendar, Calendar No. 552.
+- 2018-06-08 — Reported by the Committee on Energy and Commerce. H. Rept. 115-717.
+- 2018-06-08 — Reported by the Committee on Energy and Commerce. H. Rept. 115-717.
