@@ -23,7 +23,7 @@ Congress finds the following:
 - **(4)** Women’s economic empowerment is inextricably linked to a myriad of other women’s human rights that are essential to their ability to thrive as economic actors across the lifecycle. This includes, but is not limited to, living lives free of violence and exploitation, achieving the highest possible standard of health and well-being, enjoying full legal and human rights such as access to registration, identification, and citizenship documents, benefitting from formal and informal education, and equal protection of and access to land and property rights, access to fundamental labor rights, policies to address disproportionate care burdens, and business and management skills and leadership opportunities.
 - **(5)** Discriminatory legal and regulatory systems and banking practices are hurdles to women’s access to capital and assets, including land, machinery, production facilities, technology, and human resources. Often, these barriers are connected to a woman’s marital status, which can determine whether she is able to inherit land or own property in her name. These constraints contribute to women frequently running smaller businesses, with fewer employees and lower asset values.
 - **(6)** Savings groups primarily comprised of women are recognized as a vital entry point, especially for poor and very poor women, to formal financial services and there is a high demand for such groups to protect and grow their savings with formal financial institutions. Evidence shows that, once linked to a bank, the average savings per member increases between 40 to 100 percent and the average profit per member doubles. Key to these outcomes is investing in financial literacy, business leadership training, and mentorship.
-- **(7)** United States support for microenterprise and microfinance development programs, which seek to reduce poverty in low-income countries by giving small loans to small-scale entrepreneurs without collateral, have been a useful mechanism to help families weather economic shocks, but many microcredit borrowers largely remain in poverty. The vast majority of microcredit borrowers are women who would like to move up the economic ladder but are held back by binding constraints that create a “missing middle”—large numbers of microenterprises, a handful of large firms or conglomerates, and very few SMEs in between, which are critical to driving economic growth in developing countries.
+- **(7)** United States support for microenterprise and microfinance development programs, which seek to reduce poverty in low-income countries by giving small loans to small-scale entrepreneurs without collateral, have been a useful mechanism to help families weather economic shocks, but many microcredit borrowers largely remain in poverty. The vast majority of microcredit borrowers are women who would like to move up the economic ladder but are held back by binding constraints that create a “missing middle”–large numbers of microenterprises, a handful of large firms or conglomerates, and very few SMEs in between, which are critical to driving economic growth in developing countries.
 - **(8)** According to the World Bank, SMEs create 4 out of 5 new positions in emerging markets but about half of formal SMEs don’t have access to formal credit. The financing gap is even larger when micro and informal enterprises are taken into account. Overall, approximately 70 percent of all micro, small and medium-sized enterprises (MSMEs) in emerging markets lack access to credit.
 
 ## § 3. Actions to improve gender policies of the United States Agency for International Development
@@ -32,7 +32,7 @@ Congress finds the following:
   - **(1)** to reduce gender disparities in access to, control over, and benefit from economic, social, political, and cultural resources, wealth, opportunities, and services;
   - **(2)** to strive to eliminate gender-based violence and mitigate its harmful effects on individuals and communities through efforts to develop standards and capacity to reduce gender-based violence in the workplace and other places where women conduct work;
   - **(3)** to support activities that secure private property rights and land tenure for women in developing countries, including legal frameworks to give women equal rights to own, register, use, profit from, and inherit land and property, legal literacy to exercise these rights, and capacity of law enforcement and community leaders to enforce such rights; and
-  - **(4)** to increase the capability of women and girls to realize their rights, determine their life outcomes, assume leadership roles, and influence decisionmaking in households, communities, and societies.
+  - **(4)** to increase the capability of women and girls to realize their rights, determine their life outcomes, assume leadership roles, and influence decision-making in households, communities, and societies.
 - **(b)** *Actions* In order to advance the policy described in subsection (a), the Administrator of the United States Agency for International Development shall ensure that—
   - **(1)** strategies, projects, and activities of the Agency are shaped by a gender analysis and, when applicable, use standard indicators to provide one measure of success of such strategies, projects, and activities; and
   - **(2)** gender equality and female empowerment is integrated throughout the Agency’s Program Cycle and related processes for purposes of strategic planning, project design and implementation, and monitoring and evaluation.
@@ -40,7 +40,7 @@ Congress finds the following:
   - **(1)** means a socio-economic analysis of available or gathered quantitative and qualitative information to identify, understand, and explain gaps between men and women which typically involves examining—
     - **(A)** differences in the status of women and men and their differential access to and control over assets, resources, opportunities, and services;
     - **(B)** the influence of gender roles, structural barriers, and norms on the division of time between paid employment, unpaid work (including subsistence production and care for family members), and volunteer activities;
-    - **(C)** the influence of gender roles, structural barriers, and norms on leadership roles and decisionmaking; constraints, opportunities, and entry points for narrowing gender gaps and empowering women; and
+    - **(C)** the influence of gender roles, structural barriers, and norms on leadership roles and decision making; constraints, opportunities, and entry points for narrowing gender gaps and empowering women; and
     - **(D)** potential differential impacts of development policies and programs on men and women, including unintended or negative consequences; and
   - **(2)** includes conclusions and recommendations to enable development policies and programs to narrow gender gaps and improve the lives of women and girls.
 
@@ -89,7 +89,7 @@ Congress finds the following:
 
     - **(B)** in paragraph (2)—
       - **(i)** in subparagraph (B)—
-        - **(I)** by striking “use of central funding mechanisms.—” and all that follows through “In order to ensure” and inserting “use of central funding mechanisms.—In order to ensure”;
+        - **(I)** by striking “Use of central funding mechanisms.—” and all that follows through “In order to ensure” and inserting “Use of central funding mechanisms.—In order to ensure”;
         - **(II)** by striking “the office shall” and all that follows through “and other practitioners” and inserting “the office shall provide coordination and support for field-implemented programs, including through targeted core support for micro, small and medium-sized enterprises and local financial markets”; and
         - **(III)** by striking clause (ii);
       - **(ii)** in subparagraph (C)—
@@ -98,7 +98,7 @@ Congress finds the following:
     - **(C)** by striking paragraph (3).
   - **(3)** In subsection (c)—
     - **(A)** by striking “all microenterprise resources” and inserting “all micro, small and medium-sized enterprise resources”; and
-    - **(B)** by striking “clients who are” and all that follows and inserting “activities that reach the very poor, and 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.”.
+    - **(B)** by striking “clients who are very poor.” and all that follows and inserting “activities that reach the very poor, and 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.”.
 - **(c)** *Monitoring system* Section 253(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2211b(b)) is amended—
   - **(1)** in paragraph (1), by inserting “, including goals on a gender disaggregated basis, such as improvements in employment, access to financial services, enterprise development, earnings and control over income, and property and land rights,” after “performance goals”;
   - **(2)** in paragraph (2), by striking “include performance indicators” and all that follows through “the achievement” and inserting “incorporate Agency planning and reporting processes and indicators to measure or assess the achievement”; and
@@ -124,13 +124,14 @@ Congress finds the following:
   - **(2)** in subsection (a)—
     - **(A)** by striking “United States Microfinance Loan Facility” and inserting “United States Micro, Small and Medium-Sized Enterprise Loan Facility”; and
     - **(B)** by striking “United States-supported microfinance institutions” and inserting “United States-supported financial intermediaries”;
-  - **(3)** in subsection (b), by striking “United States-supported microfinance institutions” each place it appears and inserting “United States-supported financial intermediaries”;
-  - **(4)** by striking “microfinance institutions” each place it appears and inserting “financial intermediaries”.
+  - **(3)** in subsection (b)—
+    - **(A)** by striking “United States-supported microfinance institutions” each place it appears and inserting “United States-supported financial intermediaries”; and
+    - **(B)** in paragraph (2), by striking “microfinance institutions” and inserting “financial intermediaries”.
 - **(h)** *Contents of report* Subsection (b) of section 258 of the Foreign Assistance Act of 1961 (22 U.S.C. 2214) is amended to read as follows:
   > - **(b)** *Contents* To the extent practicable, the report should contain the following:
   >   - **(1)** Information about assistance provided under section 252, including—
   >     - **(A)** the amount of each grant or other form of assistance;
-  >     - **(B)** the name of each intermediary and implementing institution receiving assistance;
+  >     - **(B)** the name and type of each intermediary and implementing partner organization receiving assistance;
   >     - **(C)** the name of each country receiving assistance; and
   >     - **(D)** the methodology used to ensure compliance with the targeted assistance requirements in subsection (c) of such section.
   >   - **(2)** The percentage of assistance provided under section 252 disaggregated by income level, including for the very poor, and gender.
@@ -143,7 +144,7 @@ Congress finds the following:
   - **(2)** in paragraph (4), by striking “microenterprises” and inserting “micro, small and medium-sized enterprises”;
   - **(3)** in paragraph (6)—
     - **(A)** in subparagraph (E), by striking “microenterprise institution” and inserting “micro, small and medium-sized enterprise institution”; and
-    - **(B)** in subparagraph (F), by striking “microenterprise institution” and inserting “financial intermediary”;
+    - **(B)** in subparagraph (F), by striking “microfinance institution” and inserting “financial intermediary”;
   - **(4)** in paragraph (7) to read as follows:
     > - **(7)** *Micro, small and medium-sized enterprise institution* The term micro, small and medium-sized enterprise institution means an entity that provides services, including finance, training, or business development services, for micro, small and medium-sized enterprises in foreign countries.
 
@@ -154,7 +155,7 @@ Congress finds the following:
   - **(7)** by redesignating paragraphs (10) through (14) as paragraphs (9) through (13), respectively;
   - **(8)** in paragraph (9) (as redesignated), by striking “of microenterprise development”;
   - **(9)** in paragraph (10) to read as follows:
-    > - **(10)** *Practitioner institution* The term practitioner institution means a not-for-profit entity, financial intermediary, telecommunications firm with a mobile money platform, a village and savings loan group, or any other entity that provides services authorized under section 252 that benefits micro, small and medium-sized enterprise clients.
+    > - **(10)** *Practitioner institution* The term practitioner institution means a not-for-profit entity, financial intermediary, information and communications technology firm with a mobile money platform, a village and savings loan group, or any other entity that provides financial or business development services authorized under section 252 that benefits micro, small and medium-sized enterprise clients.
 
   - **(10)** in paragraph (12) (as redesignated)—
     - **(A)** in the heading, by striking “united states-supported microfinance institution” and inserting “united states-supported financial intermediary”; and
@@ -169,13 +170,13 @@ Congress finds the following:
 ## § 5. Report and briefing by United States Agency for International Development
 
 - **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Administrator of the United States Agency for International Development shall provide a briefing and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this Act and the amendments made by this Act, including actions to improve the gender policies of the United States Agency for International Development pursuant to section 3.
-- **(b)** *Public availability* The report required under paragraph (1) shall be posted and made available on a text-based, searchable, and publicly available internet website.
+- **(b)** *Public availability* The report required under paragraph (1) shall be posted and made available on a text-based, searchable, and publicly-available internet website.
 
 ## § 6. Report by Comptroller General of the United States
 
 - **(a)** *In general* Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on development assistance for micro, small and medium-sized enterprises administered by the United States Agency for International Development.
-- **(b)** *Matters To be included* The report required under subsection (a) shall include an assessment of the following:
+- **(b)** *Matters to be included* The report required under subsection (a) shall include an assessment of the following:
   - **(1)** What is known about the impact of such development assistance on the economies of developing countries.
   - **(2)** The extent to which such development assistance is targeting women and the very poor, including what is known about how such development assistance benefits women.
-  - **(3)** The extent to which the United States Agency for International Development has developed a methodology used to ensure compliance with the targeted assistance requirement in section 252(c) of the Foreign Assistance Act of 1961, as amended by section 4 of this Act.
-  - **(4)** The monitoring system requirements in section 253(b) of the Foreign Assistance Act of 1961, as amended by section 4 of this Act, including the quality of such monitoring system.
+  - **(3)** The extent to which the United States Agency for International Development has developed a methodology used to ensure compliance with the targeted assistance requirement in section 252(c) of the Foreign Assistance Act of 1961, as amended by section 4 of this Act, and the quality of such methodology.
+  - **(4)** The monitoring system required in section 253(b) of the Foreign Assistance Act of 1961, as amended by section 4 of this Act, including the quality of such monitoring system.
