@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3
@@ -35,9 +35,11 @@ Spending Cuts to Expired and Unnecessary Programs Act
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (3)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
+- Senate — Budget Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +62,4 @@ Spending Cuts to Expired and Unnecessary Programs Act
 - 2018-06-07 — Rule H. Res. 923 passed House.
 - 2018-06-07 — Rule provides for consideration of H.R. 5895 and H.R. 3. The resolution provides for further consideration of H.R. 5895 under a structured rule. Also, the rule provides for consideration of H.R. 3 under a closed rule with one hour of debate. The resolution provides for one motion to recommit with or without instructions for both bills.
 - 2018-06-07 — The previous question was ordered pursuant to the rule.
+- 2018-06-11 — Received in the Senate and Read twice and referred concurrently to the Committee on Appropriations; the Budget pursuant to the order of January 30, 1975, as modified by the order of April 11, 1986, with instructions that the Budget Committee be authorized to report its views to the Appropriations Committee, and that the latter alone be authorized to report the bill.
