@@ -1,0 +1,28 @@
+---
+legis-num: S. 3042
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3042
+
+> To provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.
+
+## § 1. Extension service
+
+Section 1464 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3312) is amended by striking “2018” and inserting “2023”.
+
+## § 2. Extension at 1890 land-grant colleges, including Tuskegee University; report
+
+Section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3221) is amended—
+
+- **(1)** in subsection (a), by striking paragraph (4); and
+- **(2)** by adding at the end the following:
+  > - **(g)** *Report* The Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, eligible institutions under this section.
+
+## § 3. Report on agricultural research at 1890 land-grant colleges, including Tuskegee University
+
+Section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222) is amended by adding at the end the following:
+
+> - **(i)** *Report* The Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, eligible institutions under this section.
