@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide for the processing by U.S. Customs and Border Protection of certain international mail shipments and to require the provision of advance electronic information on international mail shipments of mail, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Securing the International Mail Against Opioids Act of 2018”.
+- **(a)** *Short title* This Act may be cited as the “Securing the International Mail Against Opioids Act of 2018”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Customs fees
 
