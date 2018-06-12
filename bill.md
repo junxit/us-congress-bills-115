@@ -17,11 +17,11 @@ This Act may be cited as the “Standardizing Electronic Prior Authorization for
 
 - **(a)** *Inclusion in electronic prescription program* Section 1860D–4(e)(2) of the Social Security Act (42 U.S.C. 1395w–104(e)(2)) is amended by adding at the end the following new subparagraph:
   > - **(E)** *Electronic prior authorization*
-  >   - **(i)** *In general* Effective on and after January 1, 2020, the program shall provide for the secure electronic transmittal of—
+  >   - **(i)** *In general* Not later than January 1, 2021, the program shall provide for the secure electronic transmittal of—
   >     - **(I)** a prior authorization request from the prescribing health care professional for coverage of a covered part D drug for a part D eligible individual enrolled in a part D plan (as defined in section 1860D–23(a)(5)) to the PDP sponsor or Medicare Advantage organization offering such plan; and
   >     - **(II)** a response, in accordance with this subparagraph, from such PDP sponsor or Medicare Advantage organization, respectively, to such professional.
   >   - **(ii)** *Electronic transmission*
-  >     - **(I)** *Exclusions* For purposes of this subparagraph, a facsimile, proprietary payer portal, or electronic form shall not be treated as an electronic transmission described in clause (i).
+  >     - **(I)** *Exclusions* For purposes of this subparagraph, a facsimile, proprietary payer portal that meets such standards as specified by the Secretary, or electronic form shall not be treated as an electronic transmission described in clause (i).
   >     - **(II)** *Standards* In order to be treated, for purposes of this subparagraph, as an electronic transmission described in clause (i), such transmission shall comply with technical standards adopted by the Secretary in consultation with the National Council for Prescription Drug Programs, other standard setting organizations determined appropriate by the Secretary, and stakeholders including PDP sponsors, Medicare Advantage organizations, health care professionals, and health information technology software vendors.
 
 - **(b)** *Sense of Congress regarding electronic prior authorization* It is the sense of the Congress that—
