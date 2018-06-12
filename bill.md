@@ -1,0 +1,16 @@
+---
+legis-num: S. RES. 541
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 541
+
+> Expressing the sense of the Senate that any United States-Saudi Arabia civilian nuclear cooperation agreement must prohibit the Kingdom of Saudi Arabia from enriching uranium or separating plutonium on its own territory, in keeping with the strongest possible nonproliferation “gold standard”.
+
+## Preamble
+
+- Whereas the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968 (NPT), which is nearing its fiftieth anniversary, obligates non-nuclear weapon states, in Article II, “not to receive the transfer from any transferor whatsoever of nuclear weapons or other nuclear explosive devices or of control over such weapons or explosive devices directly, or indirectly; not to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and not to seek or receive any assistance in the manufacture of nuclear weapons or other nuclear explosive devices”: Now, therefore, be it
+
+That it is the sense of the Senate that any United States-Saudi Arabia civilian nuclear cooperation agreement under section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153), commonly known as a “123 Agreement”, concluded in the future, must prohibit the Kingdom of Saudi Arabia from enriching uranium or separating plutonium on its own territory, in keeping with the strongest possible nonproliferation “gold standard”.
