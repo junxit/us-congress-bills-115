@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,48 +26,48 @@ to guess them.
 
 ### 33 U.S.C. § 892d
 
-> in paragraph (1), by striking “surveys—” and all that follows through the end of the paragraph and inserting “surveys, $70,814,000 for each of fiscal years 2018 through 2022.”;
+> in paragraph (1), by striking “surveys—” and all that follows through the end of the paragraph and inserting “surveys, $70,814,000 for each of fiscal years 2019 through 2023.”;
 
 | | |
 |---|---|
 | Removed | `surveys—` |
-| Inserted | `surveys, $70,814,000 for each of fiscal years 2018 through 2022.` |
+| Inserted | `surveys, $70,814,000 for each of fiscal years 2019 through 2023.` |
 
 ### 33 U.S.C. § 892d
 
-> in paragraph (2), by striking “vessels—” and all that follows through the end of the paragraph and inserting “vessels, $25,000,000 for each of fiscal years 2018 through 2022.”;
+> in paragraph (2), by striking “vessels—” and all that follows through the end of the paragraph and inserting “vessels, $25,000,000 for each of fiscal years 2019 through 2023.”;
 
 | | |
 |---|---|
 | Removed | `vessels—` |
-| Inserted | `vessels, $25,000,000 for each of fiscal years 2018 through 2022.` |
+| Inserted | `vessels, $25,000,000 for each of fiscal years 2019 through 2023.` |
 
 ### 33 U.S.C. § 892d
 
-> in paragraph (3), by striking “Administration—” and all that follows through the end of the paragraph and inserting “Administration, $29,932,000 for each of fiscal years 2018 through 2022.”;
+> in paragraph (3), by striking “Administration—” and all that follows through the end of the paragraph and inserting “Administration, $29,932,000 for each of fiscal years 2019 through 2023.”;
 
 | | |
 |---|---|
 | Removed | `Administration—` |
-| Inserted | `Administration, $29,932,000 for each of fiscal years 2018 through 2022.` |
+| Inserted | `Administration, $29,932,000 for each of fiscal years 2019 through 2023.` |
 
 ### 33 U.S.C. § 892d
 
-> in paragraph (4), by striking “title—” and all that follows through the end of the paragraph and inserting “title, $26,800,000 for each of fiscal years 2018 through 2022.”; and
+> in paragraph (4), by striking “title—” and all that follows through the end of the paragraph and inserting “title, $26,800,000 for each of fiscal years 2019 through 2023.”; and
 
 | | |
 |---|---|
 | Removed | `title—` |
-| Inserted | `title, $26,800,000 for each of fiscal years 2018 through 2022.` |
+| Inserted | `title, $26,800,000 for each of fiscal years 2019 through 2023.` |
 
 ### 33 U.S.C. § 892d
 
-> in paragraph (5), by striking “title—” and all that follows through the end of the paragraph and inserting “title, $30,564,000 for each of fiscal years 2018 through 2022.”; and
+> in paragraph (5), by striking “title—” and all that follows through the end of the paragraph and inserting “title, $30,564,000 for each of fiscal years 2019 through 2023.”; and
 
 | | |
 |---|---|
 | Removed | `title—` |
-| Inserted | `title, $30,564,000 for each of fiscal years 2018 through 2022.` |
+| Inserted | `title, $30,564,000 for each of fiscal years 2019 through 2023.` |
 
 ## Stated, not applied
 
@@ -78,6 +78,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 892d` | insert | by inserting before the text the following: “(a) In general.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 892d` | insert | by inserting before “There are authorized” the following: “(a) In general.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892d` | add-at-end | Section 306 of such Act (33 U.S.C. 892d) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

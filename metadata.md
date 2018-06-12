@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 221
@@ -25,3 +25,11 @@ Hydrographic Services Improvement Amendments Act
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Natural Resources.
+- 2017-02-10 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2017-11-02 — Subcommittee Hearings Held.
+- 2018-05-08 — Committee Consideration and Mark-up Session Held.
+- 2018-05-08 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-05-08 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-06-12 — Placed on the Union Calendar, Calendar No. 571.
+- 2018-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-736.
+- 2018-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-736.
