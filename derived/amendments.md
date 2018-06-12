@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5477
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
