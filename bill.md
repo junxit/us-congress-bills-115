@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3192
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,26 +13,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “CHIP Mental Health Parity Act”.
 
-## § 2. Ensuring access to mental health services for children under the Children’s Health Insurance Program
+## § 2. Ensuring access to mental health and substance use disorder services for children and pregnant women under the Children’s Health Insurance Program
 
 - **(a)** *In general* Section 2103(c)(1) of the Social Security Act (42 U.S.C. 1397cc(c)(1)) is amended by adding at the end the following new subparagraph:
-  > - **(E)** Mental health services and substance use disorder services (including behavioral health treatment).
+  > - **(E)** Mental health and substance use disorder services (as defined in paragraph (5)).
 
-- **(b)** *Mental health services*
+- **(b)** *Mental health and substance use disorder services*
   - **(1)** *In general* Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended—
     - **(A)** by redesignating paragraphs (5), (6), (7), and (8) as paragraphs (6), (7), (8), and (9), respectively; and
     - **(B)** by inserting after paragraph (4) the following new paragraph:
-      > - **(5)** *Mental health services* The child health assistance provided to a targeted low-income child or pregnant woman shall—
-      >   - **(A)** include coverage of mental health services necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and
+      > - **(5)** *Mental health and substance use disorder services* In the case of a State that provides child health assistance for targeted low-income children or targeted low-income pregnant women (as defined in section 2112(d)) in the form of providing any health benefits coverage described in subsection (a), such child health assistance shall—
+      >   - **(A)** include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and
       >   - **(B)** be delivered in a culturally and linguistically appropriate manner.
 
   - **(2)** *Conforming amendments*
     - **(A)** Section 2103(a) of the Social Security Act (42 U.S.C. 1397cc(a)) is amended, in the matter before paragraph (1), by striking “paragraphs (5), (6), and (7)” and inserting “paragraphs (5), (6), (7), and (8)”.
-    - **(B)** Section 2110(b)(5)(A)(i) of the Social Security Act (42 U.S.C. 1397ee(b)(5)(A)(i)) is amended by striking “subsection (c)(5)” and inserting “subsection (c)(6)”.
+    - **(B)** Section 2110(a) of the Social Security Act (42 U.S.C. 1397jj(a)) is amended—
+      - **(i)** in paragraph (18), by striking “substance abuse” each place it appears and inserting “substance use”; and
+      - **(ii)** in paragraph (19), by striking “substance abuse” and inserting “substance use”.
+    - **(C)** Section 2110(b)(5)(A)(i) of the Social Security Act (42 U.S.C. 1397jj(b)(5)(A)(i)) is amended by striking “subsection (c)(5)” and inserting “subsection (c)(6)”.
 - **(c)** *Assuring access to care* Section 2102(a)(7)(B) of the Social Security Act (42 U.S.C. 1397bb(c)(2)) is amended by striking “section 2103(c)(5)” and inserting “paragraphs (5) and (6) of section 2103(c)”.
 - **(d)** *Mental health services parity* Subparagraph (A) of paragraph (7) of section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) (as redesignated by subsection (b)(1)) is amended to read as follows:
-  > - **(A)** *In general* A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health or substance use disorder benefits provided under such plan comply with the requirements of section 2705(a) of the Public Health Service Act in the same manner as such requirements or limitations apply to a group health plan under such section.
+  > - **(A)** *In general* A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act in the same manner as such requirements or limitations apply to a group health plan under such section.
 
 - **(e)** *Effective date*
-  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall take effect on October 1, 2017.
+  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall take effect with respect to child health assistance provided on or after the date that is one year after the date of the enactment of this Act.
   - **(2)** *Exception for State legislation* In the case of a State child health plan under title XXI of the Social Security Act (or a waiver of such plan), which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan (or waiver) to meet any requirement imposed by the amendments made by this section, the respective plan (or waiver) shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this section. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
