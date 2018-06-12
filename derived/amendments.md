@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5587
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 8 executed, 11 stated and not applied.
+18 amendatory instructions. 4 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,57 +44,21 @@ to guess them.
 
 ### 42 U.S.C. § 290ee-2
 
-> by striking “services.” and inserting “services and, at the option of each such organization, carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and”; and
+> by striking “services.” and inserting “services and allow such organizations to use such grant funds to carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and”; and
 
 | | |
 |---|---|
 | Removed | `services.` |
-| Inserted | `services and, at the option of each such organization, carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and` |
+| Inserted | `services and allow such organizations to use such grant funds to carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and` |
 
 ### 42 U.S.C. § 290ee-2
 
-> in paragraph (1), by striking “shall be used” and inserting “to a recovery community organization shall be used”; and
+> in paragraph (1), by striking “shall be used” and inserting “to a recovery community organization shall be used”;
 
 | | |
 |---|---|
 | Removed | `shall be used` |
 | Inserted | `to a recovery community organization shall be used` |
-
-### 42 U.S.C. § 290ee-2
-
-> in the matter preceding subparagraph (A), by striking “may be used to—” and inserting “may be used to carry out the activities described in subparagraphs (A) through (C) in the case of a grant awarded to a recovery community organization and to carry out subparagraph (D) in the case of a grant awarded to an eligible entity.”;
-
-| | |
-|---|---|
-| Removed | `may be used to—` |
-| Inserted | `may be used to carry out the activities described in subparagraphs (A) through (C) in the case of a grant awarded to a recovery community organization and to carry out subparagraph (D) in the case of a grant awarded to an eligible entity.` |
-
-### 42 U.S.C. § 290ee-2
-
-> in the matter preceding clause (i), by striking “build” and inserting “Build”; and
-
-| | |
-|---|---|
-| Removed | `build` |
-| Inserted | `Build` |
-
-### 42 U.S.C. § 290ee-2
-
-> by striking “reduce” and inserting “Reduce”; and
-
-| | |
-|---|---|
-| Removed | `reduce` |
-| Inserted | `Reduce` |
-
-### 42 U.S.C. § 290ee-2
-
-> in subparagraph (C), by striking “conduct” and inserting “Conduct”; and
-
-| | |
-|---|---|
-| Removed | `conduct` |
-| Inserted | `Conduct` |
 
 ## Stated, not applied
 
@@ -112,7 +76,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 290ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290ee-2` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290ee-2` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | replace | in clause (vii), by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | replace | by striking “; and” and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290ee-2` | insert | in subparagraph (A), in the matter preceding clause (i), by inserting before “build” the following: “in the case of a grant awarded to a recovery community organization,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee-2` | insert | by inserting before “reduce” the following: “in the case of a grant awarded to a recovery community organization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee-2` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290ee-2` | insert | by inserting before “conduct” the following: “in the case of a grant awarded to a recovery community organization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee-2` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 290ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290ee-2` | redesignate | in subsection (d) (as so redesignated), by inserting before the period the following: “, and $15,000,000 for each of fiscal years 2019 through 2023”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
