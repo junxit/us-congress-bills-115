@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1925
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “At-Risk Youth Medicaid Protection Act of 2017”.
+This Act may be cited as the “At-Risk Youth Medicaid Protection Act of 2018”.
 
 ## § 2. At-risk youth Medicaid protection
 
@@ -21,16 +21,18 @@ This Act may be cited as the “At-Risk Youth Medicaid Protection Act of 2017”
     - **(B)** by striking the period at the end of paragraph (83) and inserting “; and”; and
     - **(C)** by inserting after paragraph (83) the following new paragraph:
       > - **(84)** provide that—
-      >   - **(A)** the State shall not terminate eligibility for medical assistance under a State plan for an individual who is an eligible juvenile (as defined in subsection (nn)(2)) because the juvenile is an inmate of a public institution (as defined in subsection (nn)(3)), but may suspend coverage during the period the juvenile is such an inmate;
-      >   - **(B)** the State shall restore coverage for such medical assistance to such an individual upon the individual’s release from any such public institution, without requiring a new application from the individual, unless (and until such date as) there is a determination that the individual no longer meets the eligibility requirements for such medical assistance; and
-      >   - **(C)** the State shall process any application for medical assistance submitted by, or on behalf of, a juvenile who is an inmate of a public institution notwithstanding that the juvenile is such an inmate.
+      >   - **(A)** the State shall not terminate eligibility for medical assistance under the State plan for an individual who is an eligible juvenile (as defined in subsection (nn)(2)) because the juvenile is an inmate of a public institution (as defined in subsection (nn)(3)), but may suspend coverage during the period the juvenile is such an inmate;
+      >   - **(B)** in the case of an individual who is an eligible juvenile described in paragraph (2)(A) of subsection (nn), the State shall, prior to the individual’s release from such a public institution, conduct a redetermination of eligibility for such individual with respect to such medical assistance (without requiring a new application from the individual) and, if the State determines pursuant to such redetermination that the individual continues to meet the eligibility requirements for such medical assistance, the State shall restore coverage for such medical assistance to such an individual upon the individual’s release from such public institution; and
+      >   - **(C)** in the case of an individual who is an eligible juvenile described in paragraph (2)(B) of subsection (nn), the State shall process any application for medical assistance submitted by, or on behalf of, such individual such that the State makes a determination of eligibility for such individual with respect to such medical assistance upon release of such individual from such public institution.
 
   - **(2)** by adding at the end the following new subsection:
     > - **(nn)** *Juvenile; eligible juvenile; public institution* For purposes of subsection (a)(84) and this subsection:
     >   - **(1)** *Juvenile* The term juvenile means an individual who is—
     >     - **(A)** under 21 years of age; or
-    >     - **(B)** is described in subsection (a)(10)(A)(i)(IX).
-    >   - **(2)** *Eligible juvenile* The term eligible juvenile means a juvenile who is an inmate of a public institution and was eligible for medical assistance under the State plan immediately before becoming an inmate of such a public institution or who becomes eligible for such medical assistance while an inmate of a public institution.
+    >     - **(B)** described in subsection (a)(10)(A)(i)(IX).
+    >   - **(2)** *Eligible juvenile* The term “eligible juvenile” means a juvenile who is an inmate of a public institution and who—
+    >     - **(A)** was determined eligible for medical assistance under the State plan immediately before becoming an inmate of such a public institution; or
+    >     - **(B)** is determined eligible for such medical assistance while an inmate of a public institution.
     >   - **(3)** *Inmate of a public institution* The term inmate of a public institution has the meaning given such term for purposes of applying the subdivision (A) following paragraph (29) of section 1905(a), taking into account the exception in such subdivision for a patient of a medical institution.
 
 - **(b)** *No change in exclusion from medical assistance for inmates of public institutions* Nothing in this section shall be construed as changing the exclusion from medical assistance under the subdivision (A) following paragraph (29) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)), including any applicable restrictions on a State submitting claims for Federal financial participation under title XIX of such Act for such assistance.
