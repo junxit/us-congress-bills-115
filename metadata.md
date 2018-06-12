@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2229
@@ -53,3 +53,14 @@ All Circuit Review Act
 - 2018-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
 - 2018-06-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3861-3862; text of measure as reported: CR S3862)
 - 2018-06-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3861-3862; text of measure as reported: CR S3862)
+- 2018-06-13 — Message on Senate action sent to the House.
+- 2018-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-22 — Mr. Ross asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5573)
+- 2018-06-22 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H5573)
+- 2018-06-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H5573)
+- 2018-06-27 — Presented to President.
+- 2018-06-27 — Presented to President.
+- 2018-07-07 — Became Public Law No: 115-195.
+- 2018-07-07 — Became Public Law No: 115-195.
+- 2018-07-07 — Signed by President.
+- 2018-07-07 — Signed by President.
