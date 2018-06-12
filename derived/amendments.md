@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3192
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+9 amendatory instructions. 5 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,27 @@ to guess them.
 | Removed | `paragraphs (5), (6), and (7)` |
 | Inserted | `paragraphs (5), (6), (7), and (8)` |
 
-### 42 U.S.C. § 1397ee
+### 42 U.S.C. § 1397jj
 
-> Section 2110(b)(5)(A)(i) of the Social Security Act (42 U.S.C. 1397ee(b)(5)(A)(i)) is amended by striking “subsection (c)(5)” and inserting “subsection (c)(6)”.
+> in paragraph (18), by striking “substance abuse” each place it appears and inserting “substance use”; and
+
+| | |
+|---|---|
+| Removed | `substance abuse` |
+| Inserted | `substance use` |
+
+### 42 U.S.C. § 1397jj
+
+> in paragraph (19), by striking “substance abuse” and inserting “substance use”.
+
+| | |
+|---|---|
+| Removed | `substance abuse` |
+| Inserted | `substance use` |
+
+### 42 U.S.C. § 1397jj
+
+> Section 2110(b)(5)(A)(i) of the Social Security Act (42 U.S.C. 1397jj(b)(5)(A)(i)) is amended by striking “subsection (c)(5)” and inserting “subsection (c)(6)”.
 
 | | |
 |---|---|
