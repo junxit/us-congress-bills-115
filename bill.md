@@ -1,27 +1,30 @@
 ---
 legis-num: H.R. 4684
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4684
 
-> To direct the Secretary of Health and Human Services, acting through the Director of the Center for Substance Abuse Treatment of the Substance Abuse and Mental Health Services Administration, to publish and disseminate best practices for operating a recovery housing, and for other purposes.
+> To direct the Secretary of Health and Human Services to identify or facilitate the development of best practices for operating recovery housing, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Access to Quality Sober Living Act of 2017”.
+This Act may be cited as the “Ensuring Access to Quality Sober Living Act of 2018”.
 
-## § 2. Best practices for operating recovery housing
+## § 2. National recovery housing best practices
 
-- **(a)** *In general* The Secretary of Health and Human Services, acting through the Director of the Center for Substance Abuse Treatment of the Substance Abuse and Mental Health Services Administration—
-  - **(1)** shall publish best practices for operating recovery housing, based on—
-    - **(A)** the applicable domains, core principles, and standards of the National Alliance for Recovery Residences; and
-    - **(B)** input from other nationally accredited recovery housing entities and from stakeholders;
-  - **(2)** shall disseminate such best practices to the government of each State; and
-  - **(3)** may provide technical assistance to States seeking to adopt or implement such best practices.
-- **(b)** *Definitions* In this section:
-  - **(1)** The term recovery housing means a family-like, shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
-  - **(2)** The term State includes any of the several States, the District of Columbia, and any territory or possession of the United States.
-- **(c)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $3,000,000 for the period of fiscal years 2018 through 2020.
+Part P of title III of the Public Health Service Act is amended by adding at the end the following new section:
+
+> ## § 399V–7. National recovery housing best practices
+>
+> - **(a)** *Best practices* The Secretary of Health and Human Services, in consultation with the Secretary for Housing and Urban Development, patients with a history of opioid use disorder, and other stakeholders, which may include State accrediting entities and reputable providers, analysts, and stakeholders of recovery housing services, such as the National Alliance for Recovery Residences, shall identify or facilitate the development of best practices, which may include model laws for implementing suggested minimum standards, for operating recovery housing.
+> - **(b)** *Dissemination* The Secretary shall disseminate the best practices identified or developed under subsection (a) to—
+>   - **(1)** State agencies, which may include the provision of technical assistance to State agencies seeking to adopt or implement such best practices;
+>   - **(2)** recovery housing entities; and
+>   - **(3)** the public, as appropriate.
+> - **(c)** *Definitions* In this section:
+>   - **(1)** The term recovery housing means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services, including medication-assisted treatment services, that promote sustained recovery from substance use disorders.
+>   - **(2)** The term “State” includes any of the several States, the District of Columbia, each Indian tribe or tribal organization (as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act), and any territory or possession of the United States.
+> - **(d)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $3,000,000 for the period of fiscal years 2019 through 2021.
