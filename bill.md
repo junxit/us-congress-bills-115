@@ -16,38 +16,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Detention, refusal, and destruction of drugs offered for importation
 
-- **(a)** *Certain imported products deemed To be drugs* Section 201(g) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)) is amended by adding at the end the following:
-  > - **(3)** An article being imported or offered for import is deemed to be a drug if it—
-  >   - **(A)** is or contains an active ingredient that is contained within—
-  >     - **(i)** a drug for which an approval is in effect under section 505 of this Act; or
-  >     - **(ii)** biological product for which a license is in effect under section 351 of the Public Health Service Act;
-  >   - **(B)** is or contains an active ingredient that is contained within a drug or biological product for which an investigational use exemption is in effect under section 505(i) of this Act or section 351(a) of the Public Health Service Act, for which substantial clinical investigations have been instituted, and for which the existence of such investigations has been made public; or
-  >   - **(C)** is a chemical analog of a drug or biological product described in clause (A) or (B).
-
-- **(b)** *Articles of concern*
-  - **(1)** *Delivery by Treasury to HHS* The first sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “and cosmetics” and inserting “cosmetics, and potential articles of concern (as defined in subsection (t)), and controlled substances described paragraph (6) in the third sentence of this subsection”.
-  - **(2)** *Repeal of antiquated review process*
-    - **(A)** *Repeal* The second sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is repealed.
-    - **(B)** *Technical change to keep numbering of sentences the same* The first sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “the owner or consignee, who may appear” and inserting “the owner or consignee. The owner or consignee may appear”.
-  - **(3)** *Refused admission*
-    - **(A)** *In general* The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended—
-      - **(i)** by striking “If it appears from the examination” and inserting “Subject to subsection (b), if it appears from the examination”; and
-      - **(ii)** by striking “then such article shall be refused admission, except as provided in subsection (b) of this section” and inserting “or (5) such article is an article of concern (as defined in subsection (t)), or (6) such article is a controlled substance (as defined in section 102 of the Controlled Substances Act) for which a listing in any schedule is in effect (on a temporary or permanent basis) under section 201 of the Controlled Substances Act, or (7) such article is being imported or offered for import in violation of section 301(cc), then such article may be refused admission, and if it appears such article may not be imported into the United States pursuant to subsection (d) or it appears that the article is a counterfeit drug, then such article shall be refused admission”.
-    - **(B)** *Definition of article of concern* Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by adding at the end the following:
-      > - **(t)** *Article of concern defined* For purposes of subsection (a), the term article of concern means an article that is or contains a drug or other substance—
-      >   - **(1)** for which, during the 24-month period prior to the article being imported or offered for import, the Secretary of Health and Human Services—
-      >     - **(A)** has requested that, based on a determination that the drug or other substance appears to meet the requirements for temporary or permanent scheduling pursuant to section 201 of the Controlled Substances Act, the Attorney General initiate the process to control the drug or other substance in accordance with such Act; or
-      >     - **(B)** has made a determination, following the publication by the Attorney General of a notice in the Federal Register of the intention to issue an order temporarily or permanently scheduling such drug or substance in schedule I of section 202 of the Controlled Substances Act, that such article presents an imminent risk to the public health; and
-      >   - **(2)** with respect to which the Attorney General has not—
-      >     - **(A)** scheduled the drug or other substance under section 201 of such Act; or
-      >     - **(B)** notified the Secretary of Health and Human Services that the Attorney General has made a determination not to schedule the drug or other substance under such section.
-
-- **(c)** *Increasing the maximum dollar amount of drugs subject to destruction* The sixth sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “except that the Secretary” and all that follows through the two periods at the end and inserting “except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 498(a)(1) of the Tariff Act of 1930 or such higher amount as the Commissioner of Food and Drugs may set based on a finding by the Commissioner that the higher amount is in the interest of public health) and was not brought into compliance as described under subsection (b).”.
-- **(d)** *Destruction of articles of concern* The sixth sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)), as amended by subsection (c), is further amended by inserting before the period at the end the following: “; and the Secretary of Health and Human Services may destroy, without the opportunity for export, any article refused admission under clause (6) of the third sentence of this subsection.”.
-- **(e)** *Technical amendments* The seventh, eighth, and ninth sentences of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) are amended—
+- **(a)** *Increasing the maximum dollar amount of drugs subject to destruction* The sixth sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “except that the Secretary” and all that follows through the two periods at the end and inserting “except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is declared to be valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 498(a)(1) of the Tariff Act of 1930 or such higher amount as the Commissioner of Food and Drugs may set based on a finding by the Commissioner that the higher amount is in the interest of public health), or if such drug is entering the United States by mail, and was not brought into compliance as described under subsection (b).”.
+- **(b)** *Destruction of articles of concern* The sixth sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)), as amended by subsection (a), is further amended by inserting before the period at the end the following: “; and the Secretary of Health and Human Services may destroy, without the opportunity for export, any article refused admission under clause (6) of the third sentence of this subsection”.
+- **(c)** *Technical amendments* The seventh, eighth, and ninth sentences of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) are amended—
   - **(1)** by striking “a drug” each place it appears and inserting “an article”; and
   - **(2)** by striking “the drug” each place it appears and inserting “the article”.
-- **(f)** *Rule of construction* The last sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended to read as follows: “Clauses (2), (5), and (6) of the third sentence of this subsection shall not be construed to prohibit the admission of narcotic or nonnarcotic drugs or other substances, the importation of which is permitted under the Controlled Substances Import and Export Act.”.
+- **(d)** *Rule of construction* The last sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended to read as follows: “Clauses (2), (5), and (6) of the third sentence of this subsection shall not be construed to prohibit the admission of narcotic or nonnarcotic drugs or other substances, the importation of which is permitted under the Controlled Substances Import and Export Act.”.
 
 ## § 3. Notification, nondistribution, and recall of adulterated or misbranded drug products
 
@@ -57,106 +31,93 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Notification, nondistribution, and recall of adulterated or misbranded drugs* Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended by adding at the end the following:
   > ## § 569D. Notification, Nondistribution, And Recall Of Adulterated Or Misbranded Drugs
   >
-  > - **(a)** *Order To cease distribution*
-  >   - **(1)** *In general* If the Secretary has reason to believe that the use or consumption of, or exposure to, a drug may cause serious adverse health consequences or death to humans, the Secretary may issue an order requiring any person who distributes such drug to immediately cease distribution of such drug.
-  >   - **(2)** *Action following order* Any person who is subject to an order under paragraph (1) shall immediately cease distribution of such drug and provide notification as required by such order, and may appeal to the Secretary within 24 hours of the issuance of such order. Such appeal may include a request for an informal hearing and a description of any efforts to recall such drug undertaken voluntarily by the person, including after a request under subsection (b). Except as provided in subsection (c), an informal hearing shall be held as soon as practicable, but not later than 5 calendar days, or less as determined by the Secretary, after such an appeal is filed, unless the parties jointly agree to an extension. After affording an opportunity for an informal hearing, the Secretary shall determine whether the order should be amended to require a recall of such drug. If, after providing an opportunity for such a hearing, the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
-  > - **(b)** *Emergency recall order*
-  >   - **(1)** *In general* If the Secretary has credible evidence or information that a drug subject to an order under subsection (a) presents an imminent threat of serious adverse health consequences or death to humans, the Secretary may issue an order requiring any person who distributes such drug—
-  >     - **(A)** to immediately recall such drug; and
-  >     - **(B)** to provide for notice, including to individuals as appropriate, to persons who may be affected by the recall.
-  >   - **(2)** *Action following order* Any person who is subject to an emergency recall order under this subsection shall immediately recall such drug and provide notification as required by such order, and may appeal to the Secretary within 24 hours after issuance of such order. The person subject to an emergency recall order shall conduct the recall notwithstanding the pendency of any such appeal. An informal hearing shall be held as soon as practicable but not later than 5 calendar days, or less as determined by the Secretary, after such an appeal is filed, unless the parties jointly agree to an extension. After affording an opportunity for an informal hearing, the Secretary shall determine whether the order should be amended pursuant to subsection (d)(1). If, after providing an opportunity for such a hearing, the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
-  > - **(c)** *Notice to consumers and health officials* The Secretary shall, as the Secretary determines to be necessary, provide notice of a recall order under this section to—
+  > - **(a)** *Order To cease distribution and recall*
+  >   - **(1)** *In general* Upon a determination that the use or consumption of, or exposure to, a drug may present an imminent or substantial hazard to the public health, the Secretary shall issue an order requiring any person who distributes the drug to immediately cease distribution of the drug.
+  >   - **(2)** *Hearing* An order under paragraph (1) shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of issuance of the order, on—
+  >     - **(A)** the actions required by the order; and
+  >     - **(B)** whether the order should be amended to require a recall of the drug.
+  >   - **(3)** *Inadequate grounds* If, after providing an opportunity for a hearing under paragraph (2), the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
+  >   - **(4)** *Amendment to order to require recall* If, after providing an opportunity for an informal hearing under paragraph (2), the Secretary determines that the order should be amended to include a recall of the drug with respect to which the order was issued, the Secretary shall—
+  >     - **(A)** amend the order to require a recall; and
+  >     - **(B)** after consultation with the drug sponsor, specify a timetable in which the recall will occur.
+  >   - **(5)** *Notice to persons affected* An order under this subsection shall require any person who distributes the drug to provide for notice, including to individuals as appropriate, to persons who may be affected by the order to cease distribution of or recall the drug, as applicable.
+  >   - **(6)** *Action following order* Any person who is subject to an order under paragraph (1) or (4) shall immediately cease distribution of or recall, as applicable, the drug and provide notification as required by such order.
+  > - **(b)** *Notice to consumers and health officials* The Secretary shall, as the Secretary determines to be necessary, provide notice of a recall order under this section to—
   >   - **(1)** consumers to whom the drug was, or may have been, distributed; and
   >   - **(2)** appropriate State and local health officials.
-  > - **(d)** *Order To recall*
-  >   - **(1)** *Amendment* Except as provided under subsection (e), if after providing an opportunity for an informal hearing under subsection (a) or (b), the Secretary determines that an order issued under subsection (a) or (b) should be amended to include a recall of the drug with respect to which the order was issued, the Secretary shall amend the order to require a recall.
-  >   - **(2)** *Contents* An amended order under paragraph (1) shall—
-  >     - **(A)** specify a timetable in which the recall will occur;
-  >     - **(B)** require periodic reports to the Secretary describing the progress of the recall; and
-  >     - **(C)** provide for notice, including to individuals as appropriate, to persons who may be affected by the recall.
-  >   - **(3)** *Assistance allowed* In providing for notice under paragraph (2)(C), the Secretary may allow for the assistance of health professionals, State or local officials, or other individuals designated by the Secretary.
-  >   - **(4)** *Nondelegation* An amended order under this subsection shall be ordered by the Secretary or an official designated by the Secretary. An official may not be so designated under this section unless the official is the director of the district in which the drug involved is located, or is an official senior to such director.
-  > - **(e)** *Savings clause* Nothing contained in this section shall be construed as limiting—
+  > - **(c)** *Order To recall*
+  >   - **(1)** *Contents* An order to recall a drug under subsection (a) shall—
+  >     - **(A)** require periodic reports to the Secretary describing the progress of the recall; and
+  >     - **(B)** provide for notice, including to individuals as appropriate, to persons who may be affected by the recall.
+  >   - **(2)** *Assistance allowed* In providing for notice under paragraph (1)(B), the Secretary may allow for the assistance of health professionals, State or local officials, or other individuals designated by the Secretary.
+  >   - **(3)** *Nondelegation* An order under this section shall be ordered by the Secretary or an official designated by the Secretary. An official may not be so designated under this section unless the official is the Director of the Center for Drug Evaluation and Research, is an official senior to such Director, or is so designated by such Director.
+  > - **(d)** *Savings clause* Nothing contained in this section shall be construed as limiting—
   >   - **(1)** the authority of the Secretary to issue an order to cease distribution of, or to recall, an drug under any other provision of this Act or the Public Health Service Act; or
   >   - **(2)** the ability of the Secretary to request any person to perform a voluntary activity related to any drug subject to this Act or the Public Health Service Act.
 
-- **(c)** *Drugs subject to refusal* The third sentence of subsection (a) of section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381), as amended by section 2(b)(C), is further amended by inserting “or (8) in the case of a drug, such drug is subject to an order under section 568 to cease distribution of or recall the drug,” before “then such article shall be refused admission”.
+- **(c)** *Drugs subject to refusal* The third sentence of subsection (a) of section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by inserting “or (5) in the case of a drug, such drug is subject to an order under section 568 to cease distribution of or recall the drug,” before “then such article shall be refused admission”.
 - **(d)** *Application* Sections 301(eee) and 569D of the Federal Food, Drug, and Cosmetic Act, as added by subsections (a) and (b), shall apply with respect to a drug as of such date, not later than 1 year after the date of the enactment of this Act, as the Secretary of Health and Human Services shall specify.
 
-## § 4. Seizure
-
-Section 304(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 334(b)) is amended by striking the first sentence and inserting the following: “The article, equipment, or other thing proceeded against shall be liable to seizure by process pursuant to the libel, and the procedure in cases under this section shall conform, as nearly as may be, to the procedure in admiralty rather than the procedure used for civil asset forfeiture proceedings set forth in section 983 of title 18, United States Code. On demand of either party any issue of fact joined in any such a case brought under this section shall be tried by jury. A seizure brought under this section is not governed by Rule G of the Supplemental Rules of Admiralty or Maritime Claims and Asset Forfeiture Actions. Exigent circumstances shall be deemed to exist for all seizures brought under this section, and in such cases, the summons and arrest warrant shall be issued by the clerk of the court without court review. ”.
-
-## § 5. Single source pattern of shipments of adulterated or misbranded drugs
+## § 4. Single source pattern of shipments of adulterated or misbranded drugs
 
 Section 801 of the Federal Food, Drug, and Cosmetic Act is amended by adding at the end the following:
 
-> - **(u)** *Single source pattern of shipments of adulterated or misbranded drugs* If the Secretary identifies a pattern of adulterated or misbranded drugs being offered for import from the same manufacturer, distributor, or importer, the Secretary may by order choose to treat all drugs being offered for import from such manufacturer, distributor, or importer as adulterated or misbranded unless otherwise demonstrated.
+> - **(t)** *Single source pattern of shipments of adulterated or misbranded drugs* If the Secretary identifies a pattern of adulterated or misbranded drugs being offered for import from the same manufacturer, distributor, or importer, the Secretary may by order choose to treat all drugs being offered for import from such manufacturer, distributor, or importer as adulterated or misbranded unless otherwise demonstrated.
 
-## § 6. Debarring violative individuals or companies
+## § 5. Fund to strengthen efforts of FDA to combat the opioid and substance use epidemic
 
-- **(a)** *Prohibited Act* Section 301(cc) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(cc)) is amended to read as follows:
-  > - **(cc)** The importing or offering for import into the United States of an article by, with the assistance of, or at the direction of, a person debarred from such activity under section 306(b)(3).
+Chapter X of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 391 et seq.) is amended by adding at the end the following:
 
-- **(b)** *Debarment* Section 306(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 335a(b)) is amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** in the matter preceding subparagraph (A), by striking “paragraph (2)” and inserting “paragraph (2) or (3)”;
-    - **(B)** in subparagraph (B), by striking “or” at the end;
-    - **(C)** in subparagraph (C), by striking the period at the end and inserting “, or”; and
-    - **(D)** by adding at the end the following:
-      > - **(D)** a person from importing or offering to import into the United States—
-      >   - **(i)** a controlled substance as defined in section 102(6) of the Controlled Substances Act; or
-      >   - **(ii)** any article that is regulated by the Food and Drug Administration that is valued at $2500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 498(a)(1) of the Tariff Act of 1930).
+> ## § 1015. Fund to strengthen efforts of FDA to combat the opioid and substance use epidemic
+>
+> - **(a)** *In general* The Commissioner of Food and Drugs shall use any funds appropriated pursuant to the authorization of appropriations under subsection (c) to carry out the programs and activities described in subsection (d) to strengthen and facilitate the Food and Drug Administration’s efforts to address the opioid and substance use epidemic. Such funds shall be in addition to any funds which are otherwise available to carry out such programs and activities.
+> - **(b)** *FDA Opioid and Substance Use Epidemic Response Fund*
+>   - **(1)** *Establishment of fund* There is established in the Treasury a fund, to be known as the FDA Opioid and Substance Use Epidemic Response Fund (referred to in this subsection as the “Fund”), for purposes of funding the programs and activities described in subsection (d).
+>   - **(2)** *Transfer* For the period of fiscal years 2019 through 2023, $110,000,000 shall be transferred to the Fund from the general fund of the Treasury.
+>   - **(3)** *Amounts deposited* Any amounts transferred under paragraph (2) shall remain unavailable in the Fund until such amounts are appropriated pursuant to subsection (c).
+> - **(c)** *Appropriations*
+>   - **(1)** *Authorization of appropriations* For the period of fiscal years 2019 through 2023, there is authorized to be appropriated from the Fund to the Food and Drug Administration, for the purpose of carrying out the programs and activities described in subsection (d), an amount not to exceed the total amount transferred to the Fund under subsection (b)(2). Notwithstanding subsection (g), such funds shall remain available until expended.
+>   - **(2)** *Offsetting future appropriations* For any of fiscal years 2019 through 2023, for any discretionary appropriation out of the Fund to the Food and Drug Administration pursuant to the authorization of appropriations under paragraph (1) for the purpose of carrying out the programs and activities described in subsection (d), the total amount of such appropriations for the applicable fiscal year (not to exceed the total amount remaining in the Fund) shall be subtracted from the estimate of discretionary budget authority and the resulting outlays for any estimate under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985, and the amount transferred to the Fund shall be reduced by the same amount.
+> - **(d)** *Food and Drug Administration* The entirety of the funds made available pursuant to subsection (c)(1) shall be for the Commissioner of Food and Drugs, pursuant to applicable authorities in the Public Health Service Act (42 U.S.C. 201 et seq.) or this Act and other applicable Federal law, to support widespread innovation in non-opioid and non-addictive medical products for pain treatment, access to opioid addiction treatments, appropriate use of approved opioids, and efforts to reduce illicit importation of opioids. Such support may include the following programs and activities:
+>   - **(1)** Obligating contract funds beginning in fiscal year 2019 for an educational campaign that will—
+>     - **(A)** educate patients and their families to differentiate opioid medications;
+>     - **(B)** raise awareness about preferred storage and disposal methods; and
+>     - **(C)** inform patients, families, and communities about medication-assisted treatment options.
+>   - **(2)** Building the Food and Drug Administration’s presence in international mail facilities, including through—
+>     - **(A)** improvements in equipment and information technology enhancements to identify unapproved, counterfeit, or other unlawful pharmaceuticals for destruction;
+>     - **(B)** increased and improved surveillance;
+>     - **(C)** renovations at international mail facility locations; and
+>     - **(D)** the purchase of laboratory equipment.
+>   - **(3)** Enhancing the identification and targeting of entities offering products and products being offered by such entities for import into the United States through review and analysis of Internet websites, import data, and other sources of intelligence for purposes of making the best use of the Food and Drug Administration’s inspection and analytical resources.
+>   - **(4)** Increasing the number of staff of the Food and Drug Administration to increase the number of packages being examined, ensuring the safety of the staff undertaking such examinations, and ensuring that packages identified as illegal, counterfeit, misbranded, or adulterated are removed from commerce through available authorities, including administrative destruction.
+>   - **(5)** Enhancing the Food and Drug Administration’s criminal investigations resources (including full-time equivalent employees and equipment), imports surveillance, and international work.
+>   - **(6)** Obtaining for the Food and Drug Administration equipment and full-time equivalent employees needed to efficiently screen and analyze products offered for import, including by building data libraries of new substances and analogues to facilitate identification and evaluation of pharmaceutical-based agents and by purchasing screening technologies for use at international mail facilities.
+>   - **(7)** Operating the Food and Drug Administration’s forensic laboratory facility to ensure adequate laboratory space and functionality for additional work and full-time equivalent employees.
+> - **(e)** *Accountability and oversight*
+>   - **(1)** *Work plan*
+>     - **(A)** *In general* Not later than 180 days after the date of enactment of this Act, the Commissioner of Food and Drugs shall submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a work plan including the proposed allocation of funds appropriated pursuant to the authorization of appropriations under subsection (c) for each of fiscal years 2019 through 2023 and the contents described in subparagraph (B).
+>     - **(B)** *Contents* The work plan submitted under subparagraph (A) shall include—
+>       - **(i)** the amount of money to be obligated or expended out of the Fund in each fiscal year for each program and activity described in subsection (d); and
+>       - **(ii)** a description and justification of each such program and activity.
+>   - **(2)** *Reports*
+>     - **(A)** *Annual reports* Not later than October 1 of each of fiscal years 2020 through 2024, the Secretary of Health and Human Services shall submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—
+>       - **(i)** the amount of money obligated or expended out of the Fund in the prior fiscal year for each program and activity described in subsection (d);
+>       - **(ii)** a description of all programs and activities using funds provided pursuant to the authorization of appropriations under subsection (c); and
+>       - **(iii)** how the programs and activities are advancing public health.
+>     - **(B)** *Additional reports* At the request of the Committee on Health, Education, Labor and Pensions of the Senate or the Committee on Energy and Commerce of the House of Representatives, the Commissioner shall provide an update in the form of testimony and any additional reports to the respective congressional committee regarding the allocation of funding under this section or the description of the programs and activities undertaken with such funding.
+> - **(f)** *Limitations* Notwithstanding any transfer authority authorized by this section or any appropriations Act, any funds made available pursuant to the authorization of appropriations under subsection (c) may not be used for any purpose other than the programs and activities described in subsection (d) to strengthen and facilitate the Food and Drug Administration’s efforts to address the opioid and substance use epidemic.
+> - **(g)** *Sunset* This section shall expire on September 30, 2022, except that—
+>   - **(1)** this subsection does not apply to reporting under subsection (e)(2); and
+>   - **(2)** this section shall remain in effect until such time, and to such extent, as may be necessary for the funds transferred by subsection (b)(2) to be fully expended.
 
-  - **(2)** by striking paragraph (3) and inserting the following:
-    > - **(3)** *Persons subject to permissive debarment; importation*
-    >   - **(A)** *Food* A person is subject to debarment under paragraph (1)(C) if—
-    >     - **(i)** the person has been convicted of a felony for conduct relating to the importation into the United States of any food; or
-    >     - **(ii)** the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals.
-    >   - **(B)** *Importation of drugs* A person is subject to debarment under paragraph (1)(D) if—
-    >     - **(i)** the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in section 102 of the Controlled Substances Act); or
-    >     - **(ii)** the person has engaged in a pattern of importing or offering for import drugs that are—
-    >       - **(I)** adulterated, misbranded, or in violation of section 505; or
-    >       - **(II)** controlled substances whose importation is prohibited pursuant to section 401(m) of the Tariff Act of 1930.
+## § 6. Consideration of potential for misuse and abuse required for drug approval
 
-## § 7. Account to strengthen efforts of FDA to combat the opioid and substance use epidemic
-
-- **(a)** *In general* The Commissioner of Food and Drugs (referred to in this section as the “Commissioner”) shall use any funds appropriated pursuant to the authorization of appropriations under subsection (c) to carry out the programs and activities described in subsection (d) to strengthen and facilitate the Food and Drug Administration’s efforts to address the opioid and substance use epidemic. Such funds shall be in addition to any funds which are otherwise available to carry out such programs and activities.
-- **(b)** *FDA Opioid and Substance Use Epidemic Response Fund*
-  - **(1)** *Establishment of fund* There is established in the Treasury an account, to be known as the FDA Opioid and Substance Use Epidemic Response Fund (referred to in this subsection as the “Fund”), for purposes of funding the programs and activities described in subsection (d).
-  - **(2)** *Transfer* For the period of fiscal years 2019 through 2023, $110,000,000 shall be transferred to the Fund from the general fund of the Treasury.
-  - **(3)** *Amounts deposited* Any amounts transferred under paragraph (2) shall remain unavailable in the Fund until such amounts are appropriated pursuant to subsection (c).
-- **(c)** *Appropriations*
-  - **(1)** *Authorization of appropriations* For the period of fiscal years 2019 through 2023, there is authorized to be appropriated from the Account to the Food and Drug Administration, for the purpose of carrying out the programs and activities described in subsection (d), an amount not to exceed the total amount transferred to the Account under subsection (b)(2). Notwithstanding subsection (g), such funds shall remain available until expended.
-  - **(2)** *Offsetting future appropriations* For any of fiscal years 2019 through 2023, for any discretionary appropriation out of the Account to the Food and Drug Administration pursuant to the authorization of appropriations under paragraph (1) for the purpose of carrying out the programs and activities described in subsection (d), the total amount of such appropriations for the applicable fiscal year (not to exceed the total amount remaining in the Account) shall be subtracted from the estimate of discretionary budget authority and the resulting outlays for any estimate under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985, and the amount transferred to the Account shall be reduced by the same amount.
-- **(d)** *Food and Drug Administration* The entirety of the funds made available pursuant to subsection (c)(1) shall be for the Commissioner of Food and Drugs, pursuant to applicable authorities in the Public Health Service Act (42 U.S.C. 201 et seq.) or the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) and other applicable law, to support widespread innovation in non-opioid and non-addictive medical products for pain treatment, access to opioid addiction treatments, appropriate use of approved opioids, and efforts to reduce illicit importation of opioids. Such support may include the following programs and activities:
-  - **(1)** Obligating contract funds beginning in fiscal year 2019 for an educational campaign that will—
-    - **(A)** educate patients and their families to differentiate opioid medications;
-    - **(B)** raise awareness about preferred storage and disposal methods; and
-    - **(C)** inform patients, families, and communities about medication-assisted treatment options.
-  - **(2)** Building the Food and Drug Administration’s presence in international mail facilities, including through—
-    - **(A)** improvements in equipment and information technology enhancements to identify unapproved, counterfeit, or other unlawful phar­ma­ceu­ti­cals for destruction;
-    - **(B)** increased and improved surveillance;
-    - **(C)** renovations at international mail facility locations; and
-    - **(D)** the purchase of laboratory equipment.
-  - **(3)** Enhancing the identification and targeting of firms and products being offered for import into the United States through review and analysis of websites, imports data, and other sources of intelligence thereby making best use of the Food and Drug Administration’s inspectional and analytical resources.
-  - **(4)** Increasing the number of staff to increase the number of packages being examined, ensuring the safety of the staff undertaking this work, and ensuring that packages identified as illegal, counterfeit, misbranded, or adulterated are removed from commerce through available authorities, including administrative destruction.
-  - **(5)** Enhancing criminal investigations resources (including full-time equivalent employees and equipment), imports surveillance, and international work.
-  - **(6)** Obtaining equipment and full-time equivalent employees needed to efficiently screen and analyze products offered for import, including by building data libraries of new substances and analogues to facilitate identification and evaluation of pharmaceutical-based agents and by purchasing screening technologies for use at international mail facilities.
-  - **(7)** Operating the Food and Drug Administration’s forensic laboratory facility to ensure adequate laboratory space and functionality for additional work and full-time equivalent employees.
-- **(e)** *Accountability and oversight*
-  - **(1)** *Work plan*
-    - **(A)** *In general* Not later than 180 days after the date of enactment of this Act, the Commissioner of Food and Drugs shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a work plan including the proposed allocation of funds appropriated pursuant to the authorization of appropriations under subsection (c) for each of fiscal years 2019 through 2023 and the contents described in subparagraph (B).
-    - **(B)** *Contents* The work plan submitted under subparagraph (A) shall include—
-      - **(i)** the amount of money to be obligated or expended out of the Account in each fiscal year for each program and activity described in subsection (d); and
-      - **(ii)** a description and justification of each such program and activity.
-  - **(2)** *Reports*
-    - **(A)** *Annual reports* Not later than October 1 of each of fiscal years 2020 through 2024, the Secretary of Health and Human Services shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report including—
-      - **(i)** the amount of money obligated or expended out of the Account in the prior fiscal year for each program and activity described in subsection (d);
-      - **(ii)** a description of all programs and activities using funds provided pursuant to the authorization of appropriations under subsection (c); and
-      - **(iii)** how the programs and activities are advancing public health.
-    - **(B)** *Additional reports* At the request of the Committee on Health, Education, Labor, and Pensions of the Senate, or the Committee on Energy and Commerce of the House of Representatives, the Commissioner shall provide an update in the form of testimony and any additional reports to the respective congressional committee regarding the allocation of funding under this section or the description of the programs and activities undertaken with such funding.
-- **(f)** *Limitations* Notwithstanding any transfer authority authorized by this Act or any appropriations Act, any funds made available pursuant to the authorization of appropriations under subsection (c) may not be used for any purpose other than the programs and activities described in subsection (d) strengthen and facilitate the Food and Drug Administration’s efforts to address the opioid and substance use epidemic.
-- **(g)** *Sunset* This section shall expire on September 30, 2022, except that—
-  - **(1)** this subsection does not apply to reporting under subsection (e)(2); and
-  - **(2)** this section shall remain in effect until such time, and to such extent, as may be necessary for the funds transferred by subsection (b)(2) to be fully expended.
+- **(a)** *In general* Section 505(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(d)) is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “or (7)” and inserting “(7)”; and
+    - **(B)** by inserting “or (8) if the drug is or contains a controlled substance for which a listing in any schedule is in effect under the Controlled Substances Act or that is permanently scheduled pursuant to section 201 of such Act, on the basis of information submitted to him as part of the application, or upon the basis of any other information before him with respect to such drug, the drug is unsafe for use due to the risks of abuse or misuse or there is insufficient information to show that the drug is safe for use considering such risks;” before “he shall issue an order refusing to approve the application”; and
+  - **(2)** in the second sentence, by striking “(6)” and inserting “(8)”.
+- **(b)** *Withdrawal authority* Section 505(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(e)) is amended in the first sentence—
+  - **(1)** by striking “or (5)” and inserting “(5)”; and
+  - **(2)** by inserting the following: “; or (6) that, in the case of a drug that is or contains a controlled substance for which a listing in any schedule is in effect under the Controlled Substances Act or that is permanently scheduled pursuant to section 201 of such Act, on the basis of new information before him with respect to such drug, evaluated together with the information available to him when the application was approved, that the drug is unsafe for use due to the risks of abuse or misuse” after “of a material fact”.
+- **(c)** *Rule of construction* Nothing in the amendments made by this section shall be construed to limit or narrow, in any manner, the meaning or application of the provisions of paragraphs (1), (2), (3), (4), (5), and (7) of section 505(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(d)) or paragraphs (1) and (2) of section 505(e) of such Act (21 U.S.C. 355(e)).
