@@ -1,19 +1,19 @@
 ---
 legis-num: H.R. 449
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 449
 
-> To require the Surgeon General of the Public Health Service to submit to Congress a report on the effects on public health of the increased rate of use of synthetic drugs.
+> To require the Surgeon General of the Public Health Service to submit to Congress a report on the health effects of new psychoactive substances (including synthetic drugs) use.
 
 ## § 1. Short title
 
-This Act may be cited as the “Synthetic Drug Awareness Act of 2017”.
+This Act may be cited as the “Synthetic Drug Awareness Act of 2018”.
 
 ## § 2. Report on effects on public health of synthetic drug use
 
-- **(a)** *In general* Not later than three years after the date of the enactment of this Act, the Surgeon General of the Public Health Service shall submit to Congress a report on the effects on public health of the increase since January 2010 in the rate of use of synthetic drugs in the United States by individuals who are at least 12 years of age but not more than 18 years of age.
-- **(b)** *Synthetic drug defined* For purposes of subsection (a), the term synthetic drug means a drug which is developed and manufactured to avoid control under the Controlled Substances Act (21 U.S.C. 801 et seq.).
+- **(a)** *In general* Not later than 3 years after the date of the enactment of this Act, the Surgeon General of the Public Health Service shall submit to Congress a report on the health effects of new psychoactive substances (including synthetic drugs) used since January 2010 by persons who are at least 12 years of age but no more than 18 years of age.
+- **(b)** *New psychoactive substance defined* For purposes of subsection (a), the term “new psychoactive substance” means a controlled substance analogue (as defined in section 102(32) of the Controlled Substances Act (21 U.S.C. 802(32)).
