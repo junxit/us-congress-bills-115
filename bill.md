@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as “Jessie's Law”.
+This Act may be cited as “Jessie’s Law”.
 
 ## § 2. Inclusion of opioid addiction history in patient records
 
@@ -28,3 +28,8 @@ This Act may be cited as “Jessie's Law”.
   - **(4)** The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, to have access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations.
   - **(5)** The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations.
   - **(6)** All applicable Federal and State laws and regulations.
+
+## § 3. Communication with families during emergencies
+
+- **(a)** *Promoting awareness of authorized disclosures during emergencies* The Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare & Medicaid Services and the Administrator of the Health Resources and Services Administration, shall annually develop and disseminate written materials (electronically or by other means) to health care providers regarding permitted disclosures under Federal health care privacy law during emergencies, including overdoses, of certain health information to families, caregivers, and health care providers.
+- **(b)** *Use of material* For the purposes of carrying out subsection (a), the Secretary of Health and Human Services may use material produced under section 11004 of the 21st Century Cures Act (42 U.S.C. 1320d–2 note).
