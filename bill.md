@@ -16,18 +16,17 @@ This Act may be cited as the “Health Insurance for Former Foster Youth Act”.
 ## § 2. Coverage continuity for former foster care children up to age 26
 
 - **(a)** *In general* Section 1902(a)(10)(A)(i)(IX) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)(i)(IX)) is amended—
-  - **(1)** in item (bb)—
-    - **(A)** by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”; and
-    - **(B)** by striking the semicolon at the end and inserting “; and”;
-  - **(2)** in item (cc), by striking “responsibility of the State” and all that follows through “475(8)(B)(iii); and” and inserting “responsibility of a State on the date of attaining 18 years of age (or such higher age as such State has elected under section 475(8)(B)(iii)), or who were in such care on the date of attaining 14 years of age but subsequently left such care to enter into a legal guardianship with a kinship caregiver (without regard to whether kinship guardianship payments are being made on behalf of the child under this part)”; and
-  - **(3)** by striking item (dd).
-- **(b)** *Effective date* The amendments made by this section shall take effect on the date of enactment of this Act.
+  - **(1)** in item (bb), by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”;
+  - **(2)** in item (cc), by striking “responsibility of the State” and inserting “responsibility of a State”; and
+  - **(3)** in item (dd), by striking “the State plan under this title or under a waiver of the” and inserting “a State plan under this title or under a waiver of such a”.
+- **(b)** *Effective date* The amendments made by this section shall take effect with respect to foster youth who attain 18 years of age on or after January 1, 2023.
 
-## § 3. Outreach efforts for enrollment of former foster children
+## § 3. Guidance
 
-Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended—
+Not later than one year after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue guidance to States, with respect to the State Medicaid programs of such States—
 
-- **(1)** in paragraph (82), by striking “; and” and inserting a semicolon;
-- **(2)** in paragraph (83), by striking the period at the end and inserting “; and”; and
-- **(3)** by inserting after paragraph (83) the following new paragraph:
-  > - **(84)** not later than January 1, 2019, establish an outreach and enrollment program, in coordination with the State agency responsible for administering the State plan under part E of title IV and any other appropriate or interested agencies, designed to increase the enrollment of individuals who are eligible for medical assistance under the State plan under paragraph (10)(A)(i)(IX) in accordance with best practices established by the Secretary.
+- **(1)** on best practices for—
+  - **(A)** removing barriers and ensuring streamlined, timely access to Medicaid coverage for former foster youth up to age 26;
+  - **(B)** tracking the Medicaid coverage status and verifying Medicaid eligibility for such youth; and
+  - **(C)** conducting outreach and raising awareness among such youth regarding Medicaid coverage options for such youth; and
+- **(2)** which shall include examples of States that have successfully extended Medicaid coverage to former foster youth up to age 26.

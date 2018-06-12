@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4998
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 2 executed, 5 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 1396a
 
-> by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”; and
+> in item (bb), by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”;
 
 | | |
 |---|---|
@@ -35,24 +35,18 @@ to guess them.
 
 ### 42 U.S.C. § 1396a
 
-> in item (cc), by striking “responsibility of the State” and all that follows through “475(8)(B)(iii); and” and inserting “responsibility of a State on the date of attaining 18 years of age (or such higher age as such State has elected under section 475(8)(B)(iii)), or who were in such care on the date of attaining 14 years of age but subsequently left such care to enter into a legal guardianship with a kinship caregiver (without regard to whether kinship guardianship payments are being made on behalf of the child under this part)”; and
+> in item (cc), by striking “responsibility of the State” and inserting “responsibility of a State”; and
 
 | | |
 |---|---|
-| Removed | `responsibility of the State” and all that follows through “475(8)(B)(iii); and` |
-| Inserted | `responsibility of a State on the date of attaining 18 years of age (or such higher age as such State has elected under section 475(8)(B)(iii)), or who were in such care on the date of attaining 14 years of age but subsequently left such care to enter into a legal guardianship with a kinship caregiver (without regard to whether kinship guardianship payments are being made on behalf of the child under this part)` |
+| Removed | `responsibility of the State` |
+| Inserted | `responsibility of a State` |
 
-## Stated, not applied
+### 42 U.S.C. § 1396a
 
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
+> in item (dd), by striking “the State plan under this title or under a waiver of the” and inserting “a State plan under this title or under a waiver of such a”.
 
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `42 U.S.C. § 1396a` | replace | by striking the semicolon at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396a` | strike | by striking item (dd). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | replace | in paragraph (82), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396a` | replace | in paragraph (83), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (83) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| | |
+|---|---|
+| Removed | `the State plan under this title or under a waiver of the` |
+| Inserted | `a State plan under this title or under a waiver of such a` |
