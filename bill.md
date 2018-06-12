@@ -15,4 +15,4 @@ This Act may be cited as the “Special Registration for Telemedicine Clarificat
 
 ## § 2. Deadline for interim final regulations for a special registration To engage in the practice of telemedicine
 
-Section 311(h)(2) of the Controlled Substances Act (21 U.S.C. 831(h)(2)) is amended by striking “The Attorney General shall, with the concurrence of the Secretary, promulgate regulations” and inserting “Not later than 90 days after the date of enactment of the Special Registration for Telemedicine Clarification Act of 2018, the Attorney General shall, with the concurrence of the Secretary, promulgate interim final regulations”.
+Section 311(h)(2) of the Controlled Substances Act (21 U.S.C. 831(h)(2)) is amended by striking “The Attorney General shall, with the concurrence of the Secretary, promulgate regulations” and inserting “Not later than 1 year after the date of enactment of the Special Registration for Telemedicine Clarification Act of 2018, the Attorney General shall, with the concurrence of the Secretary, promulgate interim final regulations”.
