@@ -11,43 +11,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Access to Telehealth Services for Opioid Use Disorders Act”.
+This Act may be cited as the “Access to Telehealth Services for Substance Use Disorders Act”.
 
-## § 2. Authority to waive certain Medicare telehealth requirements in the case of certain treatment of an opioid use disorder or co-occurring mental health disorder
+## § 2. Authority not to apply certain Medicare telehealth requirements in the case of certain treatment of a substance use disorder or co-occurring mental health disorder
 
 Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
 
-- **(1)** in paragraph (2)(B)(i), by inserting “and paragraph (7)(E)” after “subject to clause (ii)”; and
-- **(2)** by adding at the end the following new paragraph:
-  > - **(7)** *Authority to waive certain requirements in the case of certain treatment of opioid use disorder or co-occurring mental health disorder*
-  >   - **(A)** *In general* For purposes of payment under this subsection, in the case of telehealth services furnished on or after January 1, 2019, to an eligible beneficiary (as defined in subparagraph (F)(i)) for the treatment of an opioid use disorder or a mental health disorder that is co-occurring with an opioid use disorder, the Secretary may waive any of the requirements described in subparagraph (B) if the conditions described in clauses (i), (ii), and (iii) of subparagraph (D) are met with respect to such waiver.
-  >   - **(B)** *Requirements described* For purposes of this paragraph, the requirements described in this subparagraph include—
-  >     - **(i)** requirements relating to qualifications for an originating site under paragraph (4)(C)(ii);
-  >     - **(ii)** geographic limitations under paragraph (4)(C)(i) (other than applicable State law requirements, including State licensure requirements); and
-  >     - **(iii)** any limitation on the use of store-and-forward technologies described in paragraph (1).
-  >   - **(C)** *Identification of part B codes for application of waivers*
-  >     - **(i)** *In general* Not later than 6 months after the date of the enactment of this paragraph, the Secretary shall review evidence related to codes under this part for telehealth services for the treatment of substance abuse and behavioral health that have been approved by the Centers for Medicare & Medicaid Services as part of the process established under paragraph (4)(F)(ii) for purposes of determining the codes for which a waiver applied under this paragraph would meet one or more of the conditions described in subparagraph (B). In carrying out this clause, particular priority should be given to reviewing evidence related to codes for behavioral health services that would be appropriate to provide to individuals receiving treatment from an opioid agonist treatment practitioner.
-  >     - **(ii)** *Annual review process* The Secretary shall review evidence pertaining to substance abuse and behavioral health codes as part of the annual process under paragraph (4)(F)(ii) to determine if a waiver may be granted.
-  >   - **(D)** *Conditions for waiver* For purposes of subparagraph (A), the conditions described in this subparagraph, with respect to a waiver of any requirement described in subparagraph (B), are each of the following:
-  >     - **(i)** The Secretary determines that the application of the waiver is expected to—
-  >       - **(I)** reduce spending under this title without reducing the quality of care;
-  >       - **(II)** improve the quality of care without increasing spending; or
-  >       - **(III)** increase access to behavioral health and substance use services for individuals with opioid use disorders.
-  >     - **(ii)** The Chief Actuary of the Centers for Medicare & Medicaid Services certifies that the condition described in clause (i) or (iii) is met.
-  >     - **(iii)** The Secretary determines that such waiver would not deny or limit the coverage or provision of benefits under this title for individuals.
-  >   - **(E)** *Treatment of originating site facility fee* No facility fee shall be paid under paragraph (2)(B) to an originating site with respect to a telehealth service for which payment is made under this subsection by reason of a waiver under this paragraph if payment for such service would not be permitted under this subsection without such waiver.
-  >   - **(F)** *Definitions* For purposes of this paragraph:
-  >     - **(i)** *Eligible beneficiary* The term “eligible beneficiary” means an individual who—
-  >       - **(I)** is entitled to benefits under part A and enrolled for benefits under this part;
-  >       - **(II)** is not enrolled in a Medicare Advantage plan under part C;
-  >       - **(III)** has a diagnosis for an opioid use disorder; and
-  >       - **(IV)** meets such other criteria as the Secretary determines appropriate.
-  >     - **(ii)** *Opioid agonist treatment practitioner* The term “opioid agonist treatment practitioner” means a practitioner who—
-  >       - **(I)** is enrolled under section 1866(j); and
-  >       - **(II)** is authorized to prescribe or dispense opioid agonist treatment medication for maintenance or detoxification treatment pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act.
-  >   - **(G)** *Report* Not later than 5 years after the date of the enactment of this paragraph, the Secretary shall submit to Congress a report on the impact of any waivers granted under this paragraph on—
-  >     - **(i)** any change in utilization rates for behavioral health services for opioid use disorders;
-  >     - **(ii)** any change in rates or average length of time of retention in treatment for opioid use disorders;
-  >     - **(iii)** any change in emergency department visits related to opioid overdoses; and
-  >     - **(iv)** any change in overdose deaths related to opioids abuse.
-  >   - **(H)** *Funding* For purposes of carrying out this paragraph, in addition to funds otherwise appropriated, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1841, of $2,000,000 to the Centers for Medicare & Medicaid Services Program Management Account.
+- **(1)** in paragraph (2)(B)(i), by inserting “and paragraph (7)(E)” after “Subject to clause (ii)”; and
+- **(2)** by adding at the end the following new paragraphs:
+  > - **(7)** *Authority not to apply certain requirements in the case of certain treatment of substance use disorder or co-occurring mental health disorder*
+  >   - **(A)** *In general* For purposes of payment under this subsection, in the case of telehealth services described in subparagraph (C) furnished on or after January 1, 2020, to an eligible beneficiary (as defined in subparagraph (F)) for the treatment of a substance use disorder or a mental health disorder that is co-occurring with a substance use disorder, the Secretary is authorized to, through rulemaking, not apply any of the requirements described in subparagraph (B).
+  >   - **(B)** *Requirements described* For purposes of this paragraph, the requirements described in this subparagraph are any of the following:
+  >     - **(i)** Qualifications for an originating site under paragraph (4)(C)(ii).
+  >     - **(ii)** Geographic limitations under paragraph (4)(C)(i).
+  >   - **(C)** *Telehealth services described* For purposes of this paragraph, the telehealth services described in this subparagraph are services that are both telehealth services and identified by the Secretary, through rulemaking, as services that are the most commonly furnished (as defined by the Secretary) under this part to individuals diagnosed with a substance use disorder or a mental health disorder that is co-occurring with a substance use disorder.
+  >   - **(D)** *Clarification* Nothing in this paragraph shall be construed as limiting or otherwise affecting the authority of the Secretary to limit or eliminate the non-application pursuant to this paragraph of any of the requirements under subparagraph (B).
+  >   - **(E)** *Treatment of originating site facility fee* No facility fee shall be paid under paragraph (2)(B) to an originating site with respect to a telehealth service described in subparagraph (B) for which payment is made under this subsection by reason of the non-application of a requirement described in subparagraph (B) pursuant to this paragraph if payment for such service would not otherwise be permitted under this subsection if such requirement were applied.
+  >   - **(F)** *Eligible beneficiary defined* For purposes of this paragraph, the term “eligible beneficiary” means an individual who—
+  >     - **(i)** is entitled to, or enrolled for, benefits under part A and enrolled for benefits under this part;
+  >     - **(ii)** has a diagnosis for a substance use disorder; and
+  >     - **(iii)** meets such other criteria as the Secretary determines appropriate.
+  >   - **(G)** *Report* Not later than 5 years after the date of the enactment of this paragraph, the Secretary shall submit to Congress a report on the impact of any non-application under this paragraph of any of the requirements described in subparagraph (B) on
+  >     - **(i)** the utilization of health care services related to substance use disorder, such as behavioral health services and emergency department visits; and
+  >     - **(ii)** health outcomes related to substance use disorder, such as substance use overdose deaths.
+  >   - **(H)** *Funding* For purposes of carrying out this paragraph, in addition to funds otherwise available, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1841, of $3,000,000 to the Centers for Medicare & Medicaid Services Program Management Account to remain available until expended.
+  > - **(8)** *Rule of construction* Nothing in this subsection may be construed as waiving requirements under this title to comply with applicable State law, including State licensure requirements.
