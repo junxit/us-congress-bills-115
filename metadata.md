@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3331
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3331
@@ -53,3 +53,9 @@ To amend title XI of the Social Security Act to promote testing of incentive pay
 - 2018-06-08 — Placed on the Union Calendar, Calendar No. 555.
 - 2018-06-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-720, Part I.
 - 2018-06-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-720, Part I.
+- 2018-06-12 — Considered under suspension of the rules. (consideration: CR H5032-5034)
+- 2018-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3331.
+- 2018-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5033)
+- 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5033)
