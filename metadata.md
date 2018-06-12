@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5583
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5583
@@ -35,3 +35,9 @@ To amend title XI of the Social Security Act to require States to annually repor
 - 2018-06-08 — Placed on the Union Calendar, Calendar No. 551.
 - 2018-06-08 — Reported by the Committee on Energy and Commerce. H. Rept. 115-716.
 - 2018-06-08 — Reported by the Committee on Energy and Commerce. H. Rept. 115-716.
+- 2018-06-12 — Considered under suspension of the rules. (consideration: CR H5063-5064)
+- 2018-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5583.
+- 2018-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
+- 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5063)
+- 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5063)
