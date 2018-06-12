@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 111
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 111
@@ -92,3 +92,7 @@ Recognizing and supporting the efforts of the United Bid Committee to bring the 
 - 2018-04-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 3 (Roll no. 148). (text: CR H3474)
 - 2018-04-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 3 (Roll no. 148).(text: CR H3474)
 - 2018-04-25 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-06-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-06-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-06-12 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3862)
+- 2018-06-12 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3862)
