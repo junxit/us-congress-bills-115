@@ -33,3 +33,23 @@ Section 1945 of the Social Security Act (42 U.S.C. 1396w–4) is amended—
     >       - **(II)** The individual is an individual with a substance use disorder.
     >       - **(III)** The individual has not previously received health home services under any other State plan amendment approved for the State under this section by the Secretary.
     >     - **(ii)** *SUD-focused State plan amendment* The term “SUD-focused State plan amendment” means a State plan amendment under this section that is designed to provide health home services primarily to SUD-eligible individuals.
+
+## § 3. Requirement for State Medicaid plans to provide coverage for medication-assisted treatment
+
+- **(a)** *Requirement for State Medicaid plans to provide coverage for medication-assisted treatment* Section 1902(a)(10)(A) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)) is amended, in the matter preceding clause (i), by striking “and (28)” and inserting “(28), and (29)”.
+- **(b)** *Inclusion of medication-assisted treatment as medical assistance* Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended—
+  - **(1)** in paragraph (28), by striking “and” at the end;
+  - **(2)** by redesignating paragraph (29) as paragraph (30); and
+  - **(3)** by inserting after paragraph (28) the following new paragraph:
+    > - **(29)** subject to paragraph (2) of subsection (ee), for the period beginning October 1, 2020, and ending September 30, 2025, medication-assisted treatment (as defined in paragraph (1) of such subsection); and
+
+- **(c)** *Medication-assisted treatment defined; Waivers* Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended by adding at the end the following new subsection:
+  > - **(ee)** *Medication-assisted treatment*
+  >   - **(1)** *Definition* For purposes of subsection (a)(29), the term “medication-assisted treatment”—
+  >     - **(A)** means all drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), including methadone, and all biological products licensed under section 351 of the Public Health Service Act (42 U.S.C. 262) to treat opioid use disorders; and
+  >     - **(B)** includes, with respect to the provision of such drugs and biological products, counseling services and behavioral therapy.
+  >   - **(2)** *Exception* The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1903(m) or under section 1905(t)(3).
+
+- **(d)** *Effective date*
+  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall apply with respect to medical assistance provided on or after October 1, 2020, and before October 1, 2025.
+  - **(2)** *Exception for State legislation* In the case of a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) that the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet any requirement imposed by the amendments made by this section, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
