@@ -18,9 +18,9 @@ This Act may be cited as the “Comprehensive Opioid Recovery Centers Act of 201
 - **(a)** *In general* Part D of title V of the Public Health Service Act is amended by adding at the end the following new section:
   > ## § 550. Comprehensive opioid recovery centers
   >
-  > - **(a)** *In general* The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants on a competitive basis to eligible entities to establish or operate a comprehensive opioid recovery center (referred to in this section as a “Center”).
+  > - **(a)** *In general* The Secretary shall award grants on a competitive basis to eligible entities to establish or operate a comprehensive opioid recovery center (referred to in this section as a “Center”).
   > - **(b)** *Grant period*
-  >   - **(1)** *In general* A grant awarded under subsection (a) shall be for a period not less than three years and not more than five years.
+  >   - **(1)** *In general* A grant awarded under subsection (a) shall be for a period not less than 3 years and not more than 5 years.
   >   - **(2)** *Renewal* A grant awarded under subsection (a) may be renewed, on a competitive basis, for additional periods of time, as determined by the Secretary. In determining whether to renew a grant under this paragraph, the Secretary shall consider the data submitted under subsection (h).
   > - **(c)** *Minimum number of Centers* The Secretary shall allocate the amounts made available under subsection (i) in such amounts that not fewer than 10 Centers will be established across the United States.
   > - **(d)** *Application* In order to be eligible for a grant under subsection (a), an entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
@@ -30,17 +30,17 @@ This Act may be cited as the “Comprehensive Opioid Recovery Centers Act of 201
   >   - **(1)** with a high per capita drug overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention; or
   >   - **(2)** based on any other criteria or need, as determined by the Secretary.
   > - **(f)** *Use of grant funds* An eligible entity awarded a grant under subsection (a) shall use the grant funds to establish or operate a Center to carry out the activities described in subsection (g).
-  > - **(g)** *Center activities* Each Center shall, at a minimum, carry out the activities described in this subsection. In the case of a Center that determines that a service described in paragraph (2) cannot reasonably be carried out by the Center, such Center shall contract with such other entities as may be necessary to ensure that patients have access to the full range of services described in such paragraph.
-  >   - **(1)** *Community engagement* Each Center shall carry out the following outreach activities:
+  > - **(g)** *Center activities and services* Each Center shall, at a minimum, carry out the activities described in this subsection. In the case of a Center that determines that a service described in paragraph (2) cannot reasonably be carried out by the Center, such Center shall contract with such other entities as may be necessary to ensure that patients have access to the full range of services described in such paragraph.
+  >   - **(1)** *Community outreach* Each Center shall carry out the following outreach activities:
   >     - **(A)** Train and supervise outreach staff to work with schools, workplaces, faith-based organizations, State and local health departments, law enforcement, and first responders to ensure that such institutions are aware of the services of the Center.
   >     - **(B)** Disseminate and make available online evidence-based resources that educate professionals and the public on opioid use disorder and other substance use disorders.
   >   - **(2)** *Treatment and recovery services* Each Center shall provide the following treatment and recovery services:
   >     - **(A)** Ensure that intake evaluations meet the clinical needs of patients.
   >     - **(B)** Periodically conduct patient assessments to ensure continued and meaningful recovery, as defined by the Assistant Secretary for Mental Health and Substance Use.
   >     - **(C)** Provide the full continuum of treatment services, including—
-  >       - **(i)** all drugs approved by the Food and Drug Administration to treat substance use disorders, including opioid use disorder and alcohol use disorder;
+  >       - **(i)** all drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act and all biological products licensed under section 351 of this Act, including methadone, to treat substance use disorders, including opioid use disorder and alcohol use disorder;
   >       - **(ii)** withdrawal management, which shall include medically supervised detoxification that includes patient evaluation, stabilization, and readiness for and entry into treatment;
-  >       - **(iii)** counseling and case management;
+  >       - **(iii)** counseling and case management, including counseling and recovery services for any possible co-occurring mental illness;
   >       - **(iv)** residential rehabilitation;
   >       - **(v)** recovery housing;
   >       - **(vi)** community-based and peer recovery support services;
@@ -48,6 +48,7 @@ This Act may be cited as the “Comprehensive Opioid Recovery Centers Act of 201
   >       - **(viii)** other best practices, as determined by the Secretary.
   >     - **(D)** Administer an onsite pharmacy and provide toxicology services.
   >     - **(E)** Establish and operate a secure and confidential electronic health information system.
+  >     - **(F)** Offer family support services such as child care, family counseling, and parenting interventions to help stabilize families impacted by substance use disorder.
   > - **(h)** *Data reporting and program oversight* With respect to a grant awarded under subsection (a) to an eligible entity for a Center, not later than 90 days after the end of the first year of the grant period, and annually thereafter for the duration of the grant period (including the duration of any renewal period for such grant), the entity shall submit data, as appropriate, to the Secretary regarding—
   >   - **(1)** the programs and activities funded by the grant;
   >   - **(2)** health outcomes of individuals with a substance use disorder who received services from the Center;
@@ -58,8 +59,8 @@ This Act may be cited as the “Comprehensive Opioid Recovery Centers Act of 201
   > - **(i)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023 for purposes of carrying out this section.
 
 - **(b)** *Reports to Congress*
-  - **(1)** *Preliminary report* Not later than three years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to Congress a preliminary report that analyzes data submitted under section 550(h) of the Public Health Service Act, as added by subsection (a).
-  - **(2)** *Final report* Not later than one year after submitting the preliminary report required under paragraph (1), the Secretary of Health and Human Services shall submit to Congress a final report that includes—
+  - **(1)** *Preliminary report* Not later than 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to Congress a preliminary report that analyzes data submitted under section 550(h) of the Public Health Service Act, as added by subsection (a).
+  - **(2)** *Final report* Not later than 1 year after submitting the preliminary report required under paragraph (1), the Secretary of Health and Human Services shall submit to Congress a final report that includes—
     - **(A)** an evaluation of the effectiveness of comprehensive opioid recovery centers established or operated pursuant to section 550 of the Public Health Service Act, as added by subsection (a);
     - **(B)** recommendations on whether the grant program established under such section 550 should be reauthorized and expanded; and
-    - **(C)** standards and best practices for the treatment of substance use disorders.
+    - **(C)** standards and best practices for the treatment of substance use disorders, as identified through such grant program.
