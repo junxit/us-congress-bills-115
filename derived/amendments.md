@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5810
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1396a
+
+> Section 1902(a)(10)(A) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)) is amended, in the matter preceding clause (i), by striking “and (28)” and inserting “(28), and (29)”.
+
+| | |
+|---|---|
+| Removed | `and (28)` |
+| Inserted | `(28), and (29)` |
 
 ## Stated, not applied
 
@@ -33,3 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1396w-4` | insert | in paragraph (1), by inserting “subject to paragraph (4),” after “except that,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396w-4` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | strike | in paragraph (28), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396d` | redesignate | by redesignating paragraph (29) as paragraph (30); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | by inserting after paragraph (28) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | add-at-end | Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
