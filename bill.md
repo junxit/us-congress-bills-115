@@ -47,4 +47,18 @@ This Act may be cited as the “Medicaid Drug Review, Utilization, Good Governan
   >     - **(B)** *Exception relating to ensuring access* In order to ensure reasonable access to health care, the Secretary may waive the drug review and utilization requirements under this subsection, with respect to a State, in the case of natural disasters and similar situations, and in the case of the provision of emergency services (as defined for purposes of section 1860D–4(c)(5)(D)(ii)(II)).
 
 - **(c)** *Managed care entities* Section 1932 of the Social Security Act (42 U.S.C. 1396u–2) is amended by adding at the end the following new subsection:
-  > - **(i)** *Drug utilization review activities and requirements* Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1903(m) shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42 of the Code of Federal Regulations, section 483.3(s)(4) of such title, and section 483.3(s)(5) of such title, as such provisions were in effect on March 31, 2018.
+  > - **(i)** *Drug utilization review activities and requirements* Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1903(m) shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42 of the Code of Federal Regulations, section 483.3(s)(4)) of such title, and section 483.3(s)(5) of such title, as such provisions were in effect on March 31, 2018.
+
+## § 3. Identifying and addressing inappropriate prescribing and billing practices under Medicaid
+
+- **(a)** *In general* Section 1927(g) of the Social Security Act (42 U.S.C. 1396r–8(g)) is amended—
+  - **(1)** in paragraph (1)(A)—
+    - **(A)** by striking “of section 1903(i)(10)(B)” and inserting “of section 1902(a)(54)”;
+    - **(B)** by striking “, by not later than January 1, 1993,”;
+    - **(C)** by inserting after “gross overuse,” the following: “excessive utilization,”; and
+    - **(D)** by striking “or inappropriate or medically unnecessary care” and inserting “inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization”; and
+  - **(2)** in paragraph (2)(B)—
+    - **(A)** by inserting after “gross overuse,” the following: “excessive utilization,”;
+    - **(B)** by striking “or inappropriate or medically unnecessary care” and inserting “inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization”; and
+    - **(C)** by adding at the end the following new sentence: “In the case that the program identifies a pattern described in the previous sentence, the State shall take such remedial actions as determined necessary to address such pattern.”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect with respect to retrospective drug use reviews conducted on or after October 1, 2020.
