@@ -29,7 +29,7 @@ Section 547 of the Public Health Service Act (42 U.S.C. 290ee–2) is amended—
     >   - **(A)** a national nonprofit entity focused on substance use disorder with a network of local affiliates and partners that are geographically and organizationally diverse; or
     >   - **(B)** a nonprofit organization—
     >     - **(i)** focused on substance use disorder;
-    >     - **(ii)** established by individuals in personal and family recovery; and
+    >     - **(ii)** established by individuals in personal or family recovery; and
     >     - **(iii)** serving prevention, treatment, recovery, payor, faith-based, and criminal justice stakeholders in the implementation of local addiction and recovery initiatives.
 
 - **(2)** in subsection (b)—
@@ -37,28 +37,26 @@ Section 547 of the Public Health Service Act (42 U.S.C. 290ee–2) is amended—
     > The Secretary—
     > - **(1)** shall award grants to recovery community organizations
 
-  - **(B)** by striking “services.” and inserting “services and, at the option of each such organization, carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and”; and
+  - **(B)** by striking “services.” and inserting “services and allow such organizations to use such grant funds to carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and”; and
   - **(C)** by adding at the end the following:
     > - **(2)** may award grants to eligible entities for purposes of establishing regional technical assistance centers, in accordance with subsection (c)(2)(D).
 
 - **(3)** by striking subsection (c);
 - **(4)** by redesignating subsections (d) and (e) as subsections (c) and (d), respectively;
 - **(5)** in subsection (c) (as so redesignated)—
-  - **(A)** in paragraph (1), by striking “shall be used” and inserting “to a recovery community organization shall be used”; and
+  - **(A)** in paragraph (1), by striking “shall be used” and inserting “to a recovery community organization shall be used”;
   - **(B)** in paragraph (2)—
-    - **(i)** in the matter preceding subparagraph (A), by striking “may be used to—” and inserting “may be used to carry out the activities described in subparagraphs (A) through (C) in the case of a grant awarded to a recovery community organization and to carry out subparagraph (D) in the case of a grant awarded to an eligible entity.”;
-    - **(ii)** in subparagraph (A)—
-      - **(I)** in the matter preceding clause (i), by striking “build” and inserting “Build”; and
-      - **(II)** in clause (vii), by striking the semicolon at the end and inserting a period;
-    - **(iii)** in subparagraph (B)—
-      - **(I)** by striking “reduce” and inserting “Reduce”; and
-      - **(II)** by striking “; and” and inserting a period;
-    - **(iv)** in subparagraph (C), by striking “conduct” and inserting “Conduct”; and
-    - **(v)** by adding at the end the following:
-      > - **(D)** Provide for the establishment of regional technical assistance centers to provide regional technical assistance for the following:
-      >   - **(i)** Implementation of regionally driven, peer-delivered addiction recovery support services before, during, after, or in lieu of addiction treatment.
+    - **(i)** in subparagraph (A), in the matter preceding clause (i), by inserting before “build” the following: “in the case of a grant awarded to a recovery community organization,”;
+    - **(ii)** in subparagraph (B)—
+      - **(I)** by inserting before “reduce” the following: “in the case of a grant awarded to a recovery community organization,”; and
+      - **(II)** by striking “and” at the end;
+    - **(iii)** in subparagraph (C)—
+      - **(I)** by inserting before “conduct” the following: “in the case of a grant awarded to a recovery community organization,”; and
+      - **(II)** by striking the period at the end and inserting “; and”; and
+    - **(iv)** by adding at the end the following:
+      > - **(D)** in the case of a grant awarded to an eligible entity, provide for the establishment of regional technical assistance centers to provide regional technical assistance for the following:
+      >   - **(i)** Implementation of regionally driven, peer-delivered addiction recovery support services before, during, after, or in conjunction with addiction treatment.
       >   - **(ii)** Establishment of recovery community organizations.
       >   - **(iii)** Establishment of recovery community centers.
-      >   - **(iv)** Overdose reversal medication training and dissemination.
 
 - **(6)** in subsection (d) (as so redesignated), by inserting before the period the following: “, and $15,000,000 for each of fiscal years 2019 through 2023”.
