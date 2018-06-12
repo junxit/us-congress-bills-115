@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1925
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1925
@@ -16,9 +16,10 @@ At-Risk Youth Medicaid Protection Act of 2018
 
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Walden, Greg [R-OR-2] (W000791)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ At-Risk Youth Medicaid Protection Act of 2018
 - 2017-04-05 — Introduced in House
 - 2017-04-05 — Introduced in House
 - 2017-04-05 — Referred to the House Committee on Energy and Commerce.
+- 2017-04-07 — Referred to the Subcommittee on Health.
+- 2018-04-25 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-04-25 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-05-17 — Committee Consideration and Mark-up Session Held.
+- 2018-05-17 — Ordered to be Reported by Voice Vote.
+- 2018-06-12 — Placed on the Union Calendar, Calendar No. 572.
+- 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-738.
+- 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-738.
