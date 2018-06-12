@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2229
@@ -51,3 +51,5 @@ All Circuit Review Act
 - 2018-04-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-229.
 - 2018-04-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-229.
 - 2018-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
+- 2018-06-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3861-3862; text of measure as reported: CR S3862)
+- 2018-06-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3861-3862; text of measure as reported: CR S3862)
