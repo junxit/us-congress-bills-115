@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5041
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5041
@@ -46,10 +46,11 @@ Safe Disposal of Unused Medication Act
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 - Rep. Hanabusa, Colleen [D-HI-1] (H001050)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ Safe Disposal of Unused Medication Act
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 259).
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 259).
 - 2018-06-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
