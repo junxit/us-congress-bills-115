@@ -1,7 +1,7 @@
 ---
 measure: H.R. 449
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 449
@@ -66,9 +66,10 @@ Synthetic Drug Awareness Act of 2018
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ Synthetic Drug Awareness Act of 2018
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2018-06-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
