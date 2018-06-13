@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1091
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1091
 
-That the bill from the Senate (S. 1091) entitled “An Act to establish a Federal Task Force to Support Grandparents Raising Grandchildren.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To establish a Federal Advisory Council to Support Grandparents Raising Grandchildren.
 
 ## § 1. Short title
 
@@ -70,9 +68,9 @@ Congress finds the following:
       - **(i)** information, resources, and best practices available, including identification of any gaps and unmet needs; and
       - **(ii)** recommendations that would help grandparents and other older relatives better meet the health, educational, nutritional, and other needs of the children in their care, as well as maintain their own physical and mental health and emotional well-being.
 - **(d)** *FACA* The Advisory Council shall be exempt from the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
-
 - **(e)** *Funding* No additional funds are authorized to be appropriated to carry out this Act.
 - **(f)** *Sunset* The Advisory Council shall terminate on the date that is 3 years after the date of enactment of this Act.
+
 ## § 4. Definitions
 
 In this Act:

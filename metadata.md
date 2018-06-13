@@ -1,7 +1,7 @@
 ---
 measure: S. 1091
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1091
@@ -16,7 +16,7 @@ Supporting Grandparents Raising Grandchildren Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -33,6 +33,7 @@ Supporting Grandparents Raising Grandchildren Act
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (3)
 
@@ -62,3 +63,13 @@ Supporting Grandparents Raising Grandchildren Act
 - 2018-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5131-5132)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5131-5132)
 - 2018-06-13 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-14 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2018-06-21 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 1091 by Unanimous Consent.(consideration: CR S4351)
+- 2018-06-21 — Senate agreed to the House amendments to S. 1091 by Unanimous Consent. (consideration: CR S4351)
+- 2018-06-22 — Message on Senate action sent to the House.
+- 2018-06-27 — Presented to President.
+- 2018-06-27 — Presented to President.
+- 2018-07-07 — Became Public Law No: 115-196.
+- 2018-07-07 — Became Public Law No: 115-196.
+- 2018-07-07 — Signed by President.
+- 2018-07-07 — Signed by President.
