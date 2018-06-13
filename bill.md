@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6086
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6086
+
+> To amend section 249 of title 18, United States Code, to specify lynching as a hate crime act.
+
+## § 1. Specifying lynching as a hate crime act
+
+Section 249 of title 18, United States Code, is amended by inserting after paragraph 3 the following:
+
+> - **(4)** *Offenses involving lynching* Whoever, whether or not acting under color of law, willfully, acting as part of any collection of people, assembled for the purpose and with the intention of committing an act of violence upon any person, causes death to any person, shall be imprisoned for any term of years or for life, fined under this title, or both.
