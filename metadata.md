@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5294
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5294
@@ -42,3 +42,9 @@ Treating Barriers to Prosperity Act of 2018
 - 2018-06-12 — Placed on the Union Calendar, Calendar No. 583.
 - 2018-06-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-749.
 - 2018-06-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-749.
+- 2018-06-13 — Considered under suspension of the rules. (consideration: CR H5115-5117)
+- 2018-06-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5294.
+- 2018-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-13 — Mr. Barletta moved to suspend the rules and pass the bill.
+- 2018-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5115-5116)
+- 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5115-5116)
