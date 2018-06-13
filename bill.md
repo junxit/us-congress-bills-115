@@ -14,12 +14,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Establishment* Not later than 90 days after enactment of this Act, the Secretary of Labor shall establish an Advisory Committee on Opioids and the Workplace (referred to in this Act as the “Advisory Committee”) to advise the Secretary on actions the Department of Labor can take to provide informational resources and best practices on how to appropriately address the impact of opioid abuse on the workplace and support workers abusing opioids.
 - **(b)** *Membership*
   - **(1)** *Composition* The Secretary of Labor shall appoint as members of the Advisory Committee 19 individuals with expertise in employment, workplace health programs, human resources, substance use disorder, and other relevant fields. The Advisory Committee shall be composed as follows:
-    - **(A)** 4 of the members shall be individuals representative of employers or other organizations representing employers.
-    - **(B)** 4 of the members shall be individuals representative of workers or other organizations representing workers, of which at least 2 must be representatives designated by labor organizations.
-    - **(C)** 3 of the members shall be individuals representative of health benefit plans, employee assistance plan providers, workers’ compensation program administrators, and workplace safety and health professionals.
-    - **(D)** 8 of the members shall be individuals representative of substance abuse treatment and recovery experts, including medical doctors, licensed addiction therapists, and scientific and academic researchers, of which 1 individual may be a representative of a local or State government agency that oversees or coordinates programs that address substance use disorder.
+    - **(A)** Four of the members shall be individuals representative of employers or other organizations representing employers.
+    - **(B)** Four of the members shall be individuals representative of workers or other organizations representing workers, of which at least two must be representatives designated by labor organizations.
+    - **(C)** Three of the members shall be individuals representative of health benefit plans, employee assistance plan providers, workers’ compensation program administrators, and workplace safety and health professionals.
+    - **(D)** Eight of the members shall be individuals representative of substance abuse treatment and recovery experts, including medical doctors, licensed addiction therapists, and scientific and academic researchers, of which one individual may be a representative of a local or State government agency that oversees or coordinates programs that address substance use disorder.
   - **(2)** *Chair* From the members appointed under paragraph (1), the Secretary of Labor shall appoint a chairperson.
-  - **(3)** *Terms* Each member of the Advisory Committee shall serve for a term of three years. A member appointed to fill a vacancy shall be appointed only for the remainder of such term.
+  - **(3)** *Terms* Each member of the Advisory Committee shall serve for a term of 3 years. A member appointed to fill a vacancy shall be appointed only for the remainder of such term.
   - **(4)** *Quorum* A majority of members of the Advisory Committee shall constitute a quorum and action shall be taken only by a majority vote of the members.
   - **(5)** *Voting* The Advisory Committee shall establish voting procedures.
   - **(6)** *No compensation* Members of the Advisory Committee shall serve without compensation.
@@ -45,4 +45,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(g)** *No appropriated funds* No additional funds are authorized to be appropriated to carry out this Act. Expenses of the Advisory Committee shall be paid with funds otherwise appropriated to Departmental Management within the Department of Labor.
 - **(h)** *Ex officio* Three nonvoting representatives from agencies within the Department of Health and Human Services whose responsibilities include opioid prescribing guidelines, workplace safety, and monitoring of substance abuse and prevention programs shall be appointed by the Secretary of Labor and designated as ex officio members.
 - **(i)** *Agenda* The Secretary of Labor or a representative of the Secretary shall consult with the Chair in establishing the agenda for Committee meetings.
-- **(j)** *Termination* The Advisory Committee established under this Act shall terminate three years after the date of enactment of this Act.
+- **(j)** *Termination* The Advisory Committee established under this Act shall terminate 3 years after the date of enactment of this Act.
