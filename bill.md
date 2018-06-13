@@ -2,44 +2,84 @@
 legis-num: S. 1091
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1091
 
-> To establish a Federal Task Force to Support Grandparents Raising Grandchildren.
+That the bill from the Senate (S. 1091) entitled “An Act to establish a Federal Task Force to Support Grandparents Raising Grandchildren.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Supporting Grandparents Raising Grandchildren Act”.
 
-## § 2. Federal Task Force to Support Grandparents Raising Grandchildren
+## § 2. Findings
 
-- **(a)** *Establishment* There is established a Federal Task Force to Support Grandparents Raising Grandchildren (referred to in this section as the “Task Force”).
-- **(b)** *Older relative caregiver* In this section, the term older relative caregiver has the meaning given the term under section 372(a)(3) of the National Family Caregiver Support (42 U.S.C. 3030s(a)(3)).
-- **(c)** *Membership*
-  - **(1)** *In general* The Task Force shall be composed of the following members, or their designee:
+Congress finds the following:
+
+- **(1)** More than 2,500,000 grandparents in the United States are the primary caretaker of their grandchildren, and experts report that such numbers are increasing as the opioid epidemic expands.
+- **(2)** Between 2009 and 2016, the incidence of parental alcohol or other drug use as a contributing factor for children’s out-of-home placement rose from 25.4 to 37.4 percent.
+- **(3)** When children cannot remain safely with their parents, placement with relatives is preferred over placement in foster care with nonrelatives because placement with relatives provides stability for children and helps them maintain family connections.
+- **(4)** The number of foster children placed with a grandparent or other relative increased from 24 percent in 2006 to 32 percent in 2016, according to data from the Department of Health and Human Services.
+- **(5)** Grandparents' lives are enhanced by caring for their grandchildren; the overwhelming majority of grandparents report experiencing significant benefits in serving as their grandchildren’s primary caregivers.
+- **(6)** Providing full-time care to their grandchildren may decrease grandparents’ ability to address their own physical and mental health needs and personal well-being.
+- **(7)** Grandparents would benefit from better coordination and dissemination of information and resources available to support them in their caregiving responsibilities.
+
+## § 3. Advisory Council To Support Grandparents Raising Grandchildren
+
+- **(a)** *Establishment* There is established an Advisory Council to Support Grandparents Raising Grandchildren.
+- **(b)** *Membership*
+  - **(1)** *In general* The Advisory Council shall be composed of the following members, or their designee:
     - **(A)** The Secretary of Health and Human Services.
-    - **(B)** The Attorney General.
+    - **(B)** The Secretary of Education.
     - **(C)** The Administrator of the Administration for Community Living.
     - **(D)** The Director of the Centers for Disease Control and Prevention.
     - **(E)** The Assistant Secretary for Mental Health and Substance Use.
     - **(F)** The Assistant Secretary for the Administration for Children and Families.
-    - **(G)** The Director of the Indian Health Service.
-    - **(H)** The Administrator of the Centers for Medicare & Medicaid Services.
-    - **(I)** The head of each Federal department, agency, or other governmental entity identified by the Secretary of Health and Human Services as having responsibilities, or administering programs, relating to the current health, educational, nutritional, and other needs and current issues affecting older relative caregivers, including grandparents, raising children in their care.
-    - **(J)** A grandparent raising a grandchild or grandchildren as well as another older relative caregiver of children.
-  - **(2)** *Lead agency* The Department of Health and Human Services shall be the lead agency for the Task Force.
-- **(d)** *Duties*
+    - **(G)** A grandparent raising a grandchild.
+    - **(H)** An older relative caregiver of children.
+    - **(I)** As appropriate, the head of other Federal departments, or agencies, identified by the Secretary of Health and Human Services as having responsibilities, or administering programs, relating to current issues affecting grandparents or other older relatives raising children.
+  - **(2)** *Lead agency* The Department of Health and Human Services shall be the lead agency for the Advisory Council.
+- **(c)** *Duties*
   - **(1)** *In general*
-    - **(A)** *Information* The Task Force shall identify, coordinate, and disseminate information publicly about Federal information, resources, and best practices available, on the date of the determination, to help older relative caregivers, including grandparents, raising children in their care, including those raising children in their care as a result of the opioid crisis, meet the health, educational, nutritional, and other needs of the children in their care as well as maintain their own physical and mental health and emotional well-being.
-    - **(B)** *Native Americans* In carrying out the duties described in subparagraph (A), the Task Force shall ensure that the needs of Native Americans (as defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)) are considered.
+    - **(A)** *Information* The Advisory Council shall identify, promote, coordinate, and disseminate to the public information, resources, and the best practices available to help grandparents and other older relatives—
+      - **(i)** meet the health, educational, nutritional, and other needs of the children in their care; and
+      - **(ii)** maintain their own physical and mental health and emotional well-being.
+    - **(B)** *Opioids* In carrying out the duties described in subparagraph (A), the Advisory Council shall consider the needs of those affected by the opioid crisis.
+    - **(C)** *Native Americans* In carrying out the duties described in subparagraph (A), the Advisory Council shall consider the needs of members of Native American tribes.
   - **(2)** *Report*
-    - **(A)** *In general* Not later than 360 days after the date of enactment of this Act, the Task Force shall submit a report to the Special Committee on Aging, the Committee on Health, Education, Labor, and Pensions, and the Committee on Finance of the Senate and the Committee on Education and the Workforce, the Committee on Energy and Commerce, and the Committee on Ways and Means of the House of Representatives that includes—
-      - **(i)** best practices, resources, and other useful information for older relative caregivers, including grandparents, raising children in their care; and
-      - **(ii)** an identification of the gaps in needs of older relative caregivers, including grandparents, raising children in their care.
-    - **(B)** *Final report* Not later than 4 years after the date of enactment of this Act, the Task Force shall submit a final report to the Special Committee on Aging, the Committee on Health, Education, Labor, and Pensions, and the Committee on Finance of the Senate and the Committee on Education and the Workforce, the Committee on Energy and Commerce, and the Committee on Ways and Means of the House of Representatives that includes the final findings of the Task Force, recommendations for future actions to address issues faced by older relative caregivers, including grandparents, raising children in their care, and any other useful information.
-  - **(3)** *Process for public input* The Task Force shall establish a process for public input to inform the identification of, and updates to, the best practices, resources, and other useful information and the gaps in needs described in paragraph (2), including a process for the public to submit recommendations to the Task Force and an opportunity for public comment.
-- **(e)** *Sunset* The Task Force shall terminate on the date that is 5 years after the date of enactment of this Act.
-- **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Task Force.
-- **(g)** *Funding* No additional funds are authorized to be appropriated to carry out this section. The Task Force shall be carried out with funds otherwise appropriated.
+    - **(A)** *In general* Not later than 180 days after the date of enactment of this Act, the Advisory Council shall submit a report to—
+      - **(i)** the appropriate committees;
+      - **(ii)** the State agencies that are responsible for carrying out family caregiver programs; and
+      - **(iii)** the public online in an accessible format.
+    - **(B)** *Report format* The report shall include—
+      - **(i)** best practices, resources, and other useful information for grandparents and other older relatives raising children identified under paragraph (1)(A) including, if applicable, any information related to the needs of children who have been impacted by the opioid epidemic;
+      - **(ii)** an identification of any gaps in items under clause (i); and
+      - **(iii)** where applicable, identification of any additional Federal legislative authority necessary to implement the activities described in clause (i) and (ii).
+  - **(3)** *Follow-up report* Not later than 2 years after the date on which the report required under paragraph (2)(A) is submitted, the Advisory Council shall submit a follow-up report that includes the information identified in paragraph (2)(B) to—
+    - **(A)** the appropriate committees;
+    - **(B)** the State agencies that are responsible for carrying out family caregiver programs; and
+    - **(C)** the public online in an accessible format.
+  - **(4)** *Public input*
+    - **(A)** *In general* The Advisory Council shall establish a process for public input to inform the development of, and provide updates to, the best practices, resources, and other information described in paragraph (1) that shall include—
+      - **(i)** outreach to States, local entities, and organizations that provide information to, or support for, grandparents or other older relatives raising children; and
+      - **(ii)** outreach to grandparents and other older relatives with experience raising children.
+    - **(B)** *Nature of outreach* Such outreach shall ask individuals to provide input on—
+      - **(i)** information, resources, and best practices available, including identification of any gaps and unmet needs; and
+      - **(ii)** recommendations that would help grandparents and other older relatives better meet the health, educational, nutritional, and other needs of the children in their care, as well as maintain their own physical and mental health and emotional well-being.
+- **(d)** *FACA* The Advisory Council shall be exempt from the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+- **(e)** *Funding* No additional funds are authorized to be appropriated to carry out this Act.
+- **(f)** *Sunset* The Advisory Council shall terminate on the date that is 3 years after the date of enactment of this Act.
+## § 4. Definitions
+
+In this Act:
+
+- **(1)** *Advisory Council* In this Act, the term “Advisory Council” means the Advisory Council to Support Grandparents Raising Grandchildren that is established under section 3.
+- **(2)** *Appropriate committees* In this Act, the term appropriate committees means the following:
+  - **(A)** The Special Committee on Aging of the Senate.
+  - **(B)** The Committee on Health, Education, Labor, and Pensions of the Senate.
+  - **(C)** The Committee on Education and the Workforce of the House of Representatives.
+  - **(D)** The Committee on Energy and Commerce of the House of Representatives.
