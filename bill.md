@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(E)** In carrying out this paragraph, the Secretary shall provide adequate training for peer support counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
 - **(b)** *Funding* The Secretary of Veterans Affairs shall carry out paragraph (4) of section 1720F(j) of title 38, United States Code, as added by subsection (a), using funds otherwise made available to the Secretary. No additional funds are authorized to be appropriated by reason of such paragraph.
-- **(c)** *Report to Congress* Not later than two years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the peer support counseling program under section 1720F(j) of title 38, United States Code, as amended by this section. Such report shall include—
+- **(c)** *Report to Congress* Not later than 2 years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the peer support counseling program under section 1720F(j) of title 38, United States Code, as amended by this section. Such report shall include—
   - **(1)** the number of peer support counselors in the program;
   - **(2)** an assessment of the effectiveness of the program; and
   - **(3)** a description of the oversight of the program.
