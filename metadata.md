@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5102
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5102
@@ -46,9 +46,10 @@ Substance Use Disorder Workforce Loan Repayment Act of 2018
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Substance Use Disorder Workforce Loan Repayment Act of 2018
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5045-5046)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5045-5046)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
