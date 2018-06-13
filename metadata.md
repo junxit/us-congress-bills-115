@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5009
@@ -38,9 +38,10 @@ Jessie's Law
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Jessie's Law
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5042)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5042)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
