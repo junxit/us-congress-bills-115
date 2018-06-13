@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5861
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-105 amendatory instructions. 22 executed, 83 stated and not applied.
+106 amendatory instructions. 23 executed, 83 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -125,11 +125,11 @@ to guess them.
 
 ### 42 U.S.C. § 607
 
-> in paragraph (8), by striking “(not to exceed 12 months with respect to any individual” and inserting “, including career technical education”;
+> in paragraph (8), by striking “(not to exceed 12 months with respect to any individual)” and inserting “, including career technical education”;
 
 | | |
 |---|---|
-| Removed | `(not to exceed 12 months with respect to any individual` |
+| Removed | `(not to exceed 12 months with respect to any individual)` |
 | Inserted | `, including career technical education` |
 
 ### 42 U.S.C. § 602
@@ -140,6 +140,15 @@ to guess them.
 |---|---|
 | Removed | `found` |
 | Inserted | `approved that` |
+
+### 42 U.S.C. § 603
+
+> Section 403(a)(1)(B) (42 U.S.C. 603(a)(1)(B)) is amended by striking “percentage specified in section 413(h)(1)” and inserting “the sum of the percentages specified in sections 406(b) and 413(h)”.
+
+| | |
+|---|---|
+| Removed | `percentage specified in section 413(h)(1)` |
+| Inserted | `the sum of the percentages specified in sections 406(b) and 413(h)` |
 
 ### 42 U.S.C. § 603
 
@@ -215,7 +224,7 @@ to guess them.
 
 ### 42 U.S.C. § 609
 
-> in item (ee) (as so redesignated by clause (ii) of this subparagraph), by striking “and (ee)” and inserting “(dd), and (ff)”;
+> in item (ee) (as so redesignated), by striking “and (ee)” and inserting “(dd), and (ff)”;
 
 | | |
 |---|---|
@@ -264,10 +273,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 602` | redesignate | by redesignating clauses (iv) through (viii) as clauses (iii) through (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 602` | strike | in subparagraph (B), by striking clauses (iv) and (v); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 602` | insert | in subsection (c), by inserting “, on the website established pursuant to section 407(b),” before “a summary”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 602` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 616` | insert | by inserting “(a) In general.—” before “The programs”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 616` | amend | by adding after and below the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 616` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 606` | amend | Section 406 (42 U.S.C. 606) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 611` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 611` | strike | by striking “(1) General reporting requirement.—”; and | the bill quotes the text struck but describes what replaces it |
@@ -301,16 +310,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 612` | strike | Section 412 (42 U.S.C. 612) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1308` | strike | Section 1108(a)(2) (42 U.S.C. 1308(a)(2)) is amended by striking “406,”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 607` | strike | The following provisions are each amended by striking “or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 613` | strike | Section 413(a)(1) (42 U.S.C. 613(a)(1)) is amended by striking “and any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 613` | strike | Section 413(a) (42 U.S.C. 613(a)) is amended by striking “and any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 609` | insert | in the paragraph heading, by inserting “quarterly” before “report”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 609` | strike | by striking “(A) Quarterly reports.—”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 609` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 609` | redesignate | by redesignating clauses (i) and (ii) of subparagraph (A) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 609` | redesignate | by redesignating clauses (i) and (ii) of subparagraph (A) as subparagraphs (A) and (B), respectively (and adjusting the margins accordingly). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 609` | replace | Section 409(b)(2) (42 U.S.C. 609(b)(2)) is amended by striking “and,” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 609` | strike | Section 409(c)(4) (42 U.S.C. 609(c)(4)) is amended by striking “(2)(B),”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 616` | replace | Section 416 (42 U.S.C. 616) is amended by striking “, and the Secretary” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 616` | replace | Section 416(a) (42 U.S.C. 616(a)), as so designated by section 14(b)(1)(A) of this Act, is amended by striking “, and the Secretary” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 609` | redesignate | in subsection (a) (as amended by subsections (c)(2)(D), (d)(2)(B), and (e)(1)(A) of this section), by redesignating paragraphs (7), (8), (9), (11), (12), (14), (15), and (16) as paragraphs (6) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 609` | redesignate | by redesignating items (dd) and (ee) as items (ee) and (ff), respectively, and inserting after item (cc) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 609` | insert | in subclause (II)(aa), by inserting “(as in effect just before the effective date of the Jobs and Opportunity with Benefits and Services for Success Act)” after “this section”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 609` | redesignate | by striking subclause (V) and redesignating subclause (IV) as subclause (V); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | redesignate | in subclause (V) (as so redesignated by subparagraph (C) of this paragraph), by inserting “, except any of such families whose monthly income exceeds twice the poverty line (as defined by the Office of Management and Budget, and revised … | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 609` | strike | by striking subclause (V); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9902` | insert | in subclause (IV), by inserting “, except any of such families whose monthly income exceeds twice the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus … | the bill quotes the text inserted but describes where it goes |

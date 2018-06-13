@@ -36,7 +36,7 @@ Except as otherwise expressly provided, wherever in this Act an amendment or rep
   - **(1)** by striking “2017 and 2018” and inserting “2019 through 2023”; and
   - **(2)** by striking “for fiscal year 2017 or 2018”.
 - **(c)** *Tribal family assistance grants* Section 412(a)(1)(A) (42 U.S.C. 612(a)(1)(A)) is amended by striking “2017 and 2018” and inserting “2019 through 2023”.
-- **(d)** *Improving access to child care To support work* Section 418(a)(3) (42 U.S.C. 618(a)(3)) is amended by striking “$2,917,000,000 for each of fiscal years 2017 and 2018” and inserting “$3,525,000,000 for each of fiscal years 2019 through 2023”.
+- **(d)** *Improving access to child care to support work* Section 418(a)(3) (42 U.S.C. 618(a)(3)) is amended by striking “$2,917,000,000 for each of fiscal years 2017 and 2018” and inserting “$3,525,000,000 for each of fiscal years 2019 through 2023”.
 - **(e)** *Grants to the territories* Section 1108(b)(2) (42 U.S.C. 1308(b)(2)) is amended by striking “2017 and 2018” and inserting “2019 through 2023”.
 
 ## § 6. Expecting universal engagement and case management
@@ -48,13 +48,13 @@ Section 408(b) (42 U.S.C. 608(b)) is amended to read as follows:
 >     - **(A)** The education obtained, skills, prior work experience, work readiness, and barriers to work of the individual.
 >     - **(B)** The well-being of the children in the family of the individual and, where appropriate, activities or services (such as services offered by a program funded under section 511) to improve the well-being of the children.
 >   - **(2)** *Contents of plans* On the basis of the assessment required by paragraph (1) of this subsection, the State agency, in consultation with the individual, shall develop an individual opportunity plan that—
->     - **(A)** includes a personal responsibility agreement in which the individual acknowledges receipt of publicly funded benefits and responsibility to comply with program requirements in order to receive the benefits;
+>     - **(A)** includes a personal responsibility agreement in which the individual acknowledges receipt of publicly-funded benefits and responsibility to comply with program requirements in order to receive the benefits;
 >     - **(B)** sets forth the obligations of the individual to participate in work activities (as defined in section 407(d)), and the number of hours per month for which the individual will so participate pursuant to section 407;
 >     - **(C)** sets forth an employment goal and planned short-, intermediate-, and long-term actions to achieve the goal, and, in the case of an individual who has not attained 24 years of age and is in secondary school or the equivalent, the intermediate action may be completion of secondary school or the equivalent;
 >     - **(D)** describes the job counseling and other services the State will provide to the individual to enable the individual to obtain and keep employment in the private sector;
 >     - **(E)** may include referral to appropriate substance abuse or mental health treatment; and
 >     - **(F)** is signed by the individual.
->   - **(3)** *Timing* The State agency shall comply with paragraphs (1) and (2) with respect to a work-eligible individual—
+>   - **(3)** *Timing* The State agency shall comply with paragraph (1) and (2) with respect to a work-eligible individual—
 >     - **(A)** within 180 days after the effective date of this subsection, in the case of an individual who, as of such effective date, is a recipient of assistance under the State program funded under this part (as in effect immediately before such effective date); or
 >     - **(B)** within 60 days after the individual is determined to be eligible for the assistance, in the case of any other individual.
 >   - **(4)** *Penalty for noncompliance by individual* In addition to any other penalties required under the State program funded under this part, the State may reduce, by such amount as the State considers appropriate, the amount of assistance otherwise payable under the State program to a family that includes an individual who fails without good cause to comply with an individual opportunity plan developed pursuant to this subsection, that is signed by the individual.
@@ -72,9 +72,9 @@ Section 408(b) (42 U.S.C. 608(b)) is amended to read as follows:
   >   - **(3)** *Measuring state performance*
   >     - **(A)** *In general* Each State, in consultation with the Secretary, shall collect and submit to the Secretary the information necessary to measure the level of performance of the State for each indicator described in subparagraph (B), for fiscal year 2020 and each fiscal year thereafter, and the Secretary shall use the information collected for fiscal year 2020 to establish the baseline level of performance for each State for each such indicator.
   >     - **(B)** *Indicators of performance* The indicators described in this subparagraph, for a fiscal year, are the following:
-  >       - **(i)** The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
-  >       - **(ii)** The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the second quarter after the exit, who are also in unsubsidized employment during the fourth quarter after the exit.
-  >       - **(iii)** The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
+  >       - **(i)** The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the 2nd quarter after the exit.
+  >       - **(ii)** The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the 2nd quarter after the exit, who are also in unsubsidized employment during the 4th quarter after the exit.
+  >       - **(iii)** The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the 2nd quarter after the exit.
   >       - **(iv)** The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.
   >     - **(C)** *Levels of performance*
   >       - **(i)** *In general* For each State submitting a State plan pursuant to section 402(a), there shall be established, in accordance with this subparagraph, levels of performance for each of the indicators described in subparagraph (B).
@@ -124,7 +124,7 @@ Section 408(b) (42 U.S.C. 608(b)) is amended to read as follows:
     - **(C)** by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively.
 - **(d)** *Modifications to allowable work activities* Section 407(d) (42 U.S.C. 607(d)) is amended—
   - **(1)** in paragraph (5), by inserting “, including apprenticeship” before the semicolon;
-  - **(2)** in paragraph (8), by striking “(not to exceed 12 months with respect to any individual” and inserting “, including career technical education”;
+  - **(2)** in paragraph (8), by striking “(not to exceed 12 months with respect to any individual)” and inserting “, including career technical education”;
   - **(3)** in paragraph (11), by striking “and” at the end;
   - **(4)** in paragraph (12), by striking the period and inserting “; and”; and
   - **(5)** by adding at the end the following:
@@ -144,7 +144,7 @@ Section 408(b) (42 U.S.C. 608(b)) is amended to read as follows:
 - **(c)** *Prohibition on use of funds for direct spending on child care or child welfare services or activities* Section 404(k) (42 U.S.C. 604(k)), as amended by subsection (a) of this section, is amended by adding at the end the following:
   > - **(2)** *Direct spending on child care services or activities or child welfare services or activities* A State to which a grant is made under this part shall not use the grant for direct spending on child care services or activities or direct spending on child welfare services or activities.
 
-- **(d)** *Expansion of authority To transfer funds to other programs* Section 404(d) (42 U.S.C. 604(d)) is amended by striking paragraphs (1) through (3) and inserting the following:
+- **(d)** *Expansion of authority to transfer funds to other programs* Section 404(d) (42 U.S.C. 604(d)) is amended by striking paragraphs (1) through (3) and inserting the following:
   > - **(1)** *In general* A State may use not more than 50 percent of the grant made to the State under section 403(a)(1) to carry out a State program pursuant to any or all of the following provisions of law:
   >   - **(A)** The Child Care and Development Block Grant Act of 1990.
   >   - **(B)** Title I of the Workforce Innovation and Opportunity Act.
@@ -167,10 +167,10 @@ Section 408(b) (42 U.S.C. 608(b)) is amended to read as follows:
 - **(b)** *Requirement that at least 25 percent of qualified State expenditures be for core activities* Section 408(a) (42 U.S.C. 608(a)), as amended by subsection (a) of this section, is amended by adding at the end the following:
   > - **(14)** *Requirement that at least 25 percent of qualified State expenditures be for core activities* Not less than 25 percent of the qualified State expenditures (as defined in section 409(a)(7)(B)(i)) of a State during the fiscal year shall be for assistance, case management, work supports and supportive services, work, wage subsidies, work activities (as defined in section 407(d)), and non-recurring short-term benefits.
 
-- **(c)** *Phase-Out of counting of third-Party contributions as qualified State expenditures* Section 408(a) (42 U.S.C. 608(a)), as amended by subsections (a) and (b) of this section, is amended by adding at the end the following:
+- **(c)** *Phase-out of counting of third-party contributions as qualified State expenditures* Section 408(a) (42 U.S.C. 608(a)), as amended by subsections (a) and (b) of this section, is amended by adding at the end the following:
   > - **(15)** *Phase-out of counting of third-party contributions as qualified State expenditures*
   >   - **(A)** *In general* The qualified State expenditures (as defined in section 409(a)(7)(B)(i)) of a State for a fiscal year that are attributable to the value of goods and services provided by a source other than a State or local government shall not exceed the applicable percentage of the expenditures for the fiscal year.
-  >   - **(B)** *Applicable percentage* In subparagraph (A), the term applicable percentage means, with respect to a fiscal year—
+  >   - **(B)** *Applicable percentage* In subparagraph (A), the term “applicable percentage” means, with respect to a fiscal year—
   >     - **(i)** 75 percent, in the case of fiscal year 2020;
   >     - **(ii)** 50 percent, in the case of fiscal year 2021;
   >     - **(iii)** 25 percent, in the case of fiscal year 2022; and
@@ -227,30 +227,36 @@ Section 401(a) (42 U.S.C. 601(a)) is amended—
           > - **(xi)** Describe how the State will comply with improper payments provisions in section 404(l).
           > - **(xii)** Describe coordination with other programs, including whether the State intends to exercise authority provided by section 404(d) of this Act to transfer any funds paid to the State under this part, provide assurance that, in the case of a transfer to carry out a program under title I of the Workforce Innovation and Opportunity Act, the State will comply with section 404(d)(3)(B) of this Act and coordinate with the one-stop delivery system under the Workforce Innovation and Opportunity Act, and describe how the State will coordinate with the programs involved to provide services to families receiving assistance under the program referred to in paragraph (1) of this subsection.
           > - **(xiii)** Describe how the State will promote marriage, such as through temporary disregard of the income of a new spouse when an individual receiving assistance under the State program marries so that the couple doesn’t automatically lose benefits due to marriage.
+          > - **(xiv)** Describe how the State will allow for a transitional period of benefits, such as through temporary earned income disregards or a gradual reduction in the monthly benefit amount, for an individual receiving assistance who obtains employment and becomes ineligible due to an increase in income obtained through employment or through an increase in wages.
 
       - **(ii)** in subparagraph (B), by striking clauses (iv) and (v);
-  - **(2)** in subsection (c), by inserting “, on the website established pursuant to section 407(b),” before “a summary”; and
+  - **(2)** by striking subsection (c) and inserting the following:
+    > - **(c)** *Public availability of State plans* The Secretary shall make available to the public a link to any plan or plan amendment submitted by a State under this subsection.
+
   - **(3)** by adding at the end the following:
-    > - **(d)** *2-Year plan* A plan submitted pursuant to this section shall be designed to be implemented during a 2-year period.
+    > - **(d)** *2-year plan* A plan submitted pursuant to this section shall be designed to be implemented during a 2-year period.
     > - **(e)** *Combined plan allowed* A State may submit to the Secretary and the Secretary of Labor a combined State plan that meets the requirements of subsections (a) and (d) and that is for programs and activities under the Workforce Innovation and Opportunity Act.
     > - **(f)** *Approval of plans* The Secretary shall approve any plan submitted pursuant to this section that meets the requirements of subsections (a) through (d).
 
 - **(b)** *Duties of the Secretary*
   - **(1)** *Coordination of activities; dissemination of information* Section 416 (42 U.S.C. 616) is amended—
     - **(A)** by inserting “(a) In general.—” before “The programs”; and
-    - **(B)** by adding after and below the end the following:
+    - **(B)** by adding at the end the following:
       > - **(b)** *Coordination of activities* The Secretary shall coordinate all activities of the Department of Health and Human Services relating to work activities (as defined in section 407(d)) and requirements and measurement of employment outcomes, and, to the maximum extent practicable, coordinate the activities of the Department in this regard with similar activities of other Federal entities.
       > - **(c)** *Dissemination of information* The Secretary shall disseminate, for voluntary informational purposes, information on practices that scientifically valid research indicates are most successful in improving the quality of State and tribal programs funded under this part.
 
-- **(c)** *Technical assistance* Section 406 (42 U.S.C. 606) is amended to read as follows:
-  > ## § 406. Technical assistance
-  >
-  > - **(a)** *In general* The Secretary shall provide technical assistance to States and Indian tribes (which may include providing technical assistance on a reimbursable basis), which shall be provided by qualified experts on practices grounded in scientifically valid research, where appropriate, to support activities related publication of State performance under section 407(b) and to carry out State and tribal programs funded under this part.
-  > - **(b)** *Reservation of funds* The Secretary shall reserve not more than 0.25 percent of the amount appropriated by section 403(a)(1)(C) for a fiscal year to carry out subsection (a) of this section.
+- **(c)** *Technical assistance*
+  - **(1)** *In general* Section 406 (42 U.S.C. 606) is amended to read as follows:
+    > ## § 406. Technical assistance
+    >
+    > - **(a)** *In general* The Secretary shall provide technical assistance to States and Indian tribes (which may include providing technical assistance on a reimbursable basis), which shall be provided by qualified experts on practices grounded in scientifically valid research, where appropriate, to support activities related publication of State performance under section 407(b) and to carry out State and tribal programs funded under this part.
+    > - **(b)** *Reservation of funds* The Secretary shall reserve not more than 0.25 percent of the amount appropriated by section 403(a)(1)(C) for a fiscal year to carry out subsection (a) of this section.
+
+  - **(2)** *Conforming amendment* Section 403(a)(1)(B) (42 U.S.C. 603(a)(1)(B)) is amended by striking “percentage specified in section 413(h)(1)” and inserting “the sum of the percentages specified in sections 406(b) and 413(h)”.
 
 ## § 15. Aligning and improving data reporting
 
-- **(a)** *Requirement that States report full-Population data* Section 411(a)(1) (42 U.S.C. 611(a)(1)) is amended—
+- **(a)** *Requirement that States report full-population data* Section 411(a)(1) (42 U.S.C. 611(a)(1)) is amended—
   - **(1)** by striking subparagraph (B);
   - **(2)** by striking “(1) General reporting requirement.—”; and
   - **(3)** by—
@@ -317,10 +323,10 @@ Section 419 (42 U.S.C. 619) is amended by adding at the end the following:
 ## § 19. Elimination of obsolete provisions
 
 - **(a)** *Elimination of supplemental grants to States* Section 403(a) (42 U.S.C. 603(a)) is amended by striking paragraph (3).
-- **(b)** *Elimination of bonus To reward high performance States*
+- **(b)** *Elimination of bonus to reward high performance States*
   - **(1)** *In general* Section 403(a) (42 U.S.C. 603(a)) is amended by striking paragraph (4).
   - **(2)** *Conforming amendment* Section 1108(a)(2) (42 U.S.C. 1308(a)(2)) is amended by striking “403(a)(4),”.
-- **(c)** *Elimination of welfare-To-Work grants*
+- **(c)** *Elimination of welfare-to-work grants*
   - **(1)** *In general* Section 403(a) (42 U.S.C. 603(a)) is amended by striking paragraph (5).
   - **(2)** *Conforming amendments*
     - **(A)** *Elimination of exclusion from time limit* Section 408(a)(7) (42 U.S.C. 608(a)(7)) is amended by striking subparagraph (G).
@@ -329,7 +335,7 @@ Section 419 (42 U.S.C. 619) is amended by adding at the end the following:
       - **(i)** by adding “or” at the end of subclause (II); and
       - **(ii)** by striking subclause (III) and redesignating subclause (IV) as subclause (III).
     - **(D)** *Elimination of penalty for failure of state to maintain historic effort during year in which welfare-to-work grant is received* Section 409(a) (42 U.S.C. 609(a)) is amended by striking paragraph (13).
-    - **(E)** *Elimination of requirements relating to welfare-to-work grants in quarterly state reports* Section 411(a) (42 U.S.C. 611(a)) is amended—
+    - **(E)** *Elimination of requirements relating to welfare-to-work grants in quarterly state reports* Section 411(a) (42 U.S.C. 611(a)), as amended by section 15(a) of this Act, is amended—
       - **(i)** in paragraph (1), by striking “(except for information relating to activities carried out under section 403(a)(5))”; and
       - **(ii)** in each of paragraphs (2) through (4), by striking the comma and all that follows and inserting a period.
     - **(F)** *Indian tribal programs* Section 412(a) (42 U.S.C. 612(a)) is amended by striking paragraph (3).
@@ -345,7 +351,7 @@ Section 419 (42 U.S.C. 619) is amended by adding at the end the following:
           - **(bb)** in each of subparagraphs (A) and (B), by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively;
           - **(cc)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
           - **(dd)** by redesignating such paragraph as subparagraph (D); and
-          - **(ee)** by moving each provision 2 ems to the left; and
+          - **(ee)** by moving each provision 2 ems to the right; and
         - **(II)** as so amended, hereby transferred into section 409(a)(3) (42 U.S.C. 609(a)(3)) and added to the end of such section.
       - **(ii)** *Conforming amendment* Section 409(a)(3)(C) (42 U.S.C. 609(a)(3)(C)) is amended by striking “(as defined in section 403(b)(5))”.
     - **(B)** *Elimination of penalty for failure of state receiving amounts from contingency fund to maintain 100 percent of historic effort* Section 409(a) (42 U.S.C. 609(a)) is amended by striking paragraph (10).
@@ -358,39 +364,39 @@ Section 419 (42 U.S.C. 619) is amended by adding at the end the following:
 - **(f)** *Elimination of limitations on other State programs funded with qualified State expenditures*
   - **(1)** The following provisions are each amended by striking “or any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”:
     - **(A)** Paragraphs (1) and (2) of section 407(e) (42 U.S.C. 607(e)(1) and (2)).
-    - **(B)** Section 411(a)(1)(A) (42 U.S.C. 611(a)(1)(A)).
-    - **(C)** Subsections (a)(1), (d), and (e)(1) of section 413 (42 U.S.C. 613(a)(1), (d), and (e)(1)).
-  - **(2)** Section 413(a)(1) (42 U.S.C. 613(a)(1)) is amended by striking “and any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”.
+    - **(B)** Section 411(a)(1) (42 U.S.C. 611(a)(1)), as amended by section 15(a)(3)(A)(i) of this Act.
+    - **(C)** Subsections (d) and (e)(1) of section 413 (42 U.S.C. 613(d) and (e)(1)).
+  - **(2)** Section 413(a) (42 U.S.C. 613(a)) is amended by striking “and any other State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i))”.
 - **(g)** *Conforming amendments related to elimination of report*
   - **(1)** *In general* Section 409(a)(2) (42 U.S.C. 609(a)(2)) is amended—
     - **(A)** in the paragraph heading, by inserting “quarterly” before “report”;
     - **(B)** in subparagraph (A)(ii), by striking “clause (i)” and inserting “subparagraph (A)”;
     - **(C)** by striking “(A) Quarterly reports.—”;
     - **(D)** by striking subparagraph (B); and
-    - **(E)** by redesignating clauses (i) and (ii) of subparagraph (A) as subparagraphs (A) and (B), respectively.
+    - **(E)** by redesignating clauses (i) and (ii) of subparagraph (A) as subparagraphs (A) and (B), respectively (and adjusting the margins accordingly).
   - **(2)** *Conforming amendments*
     - **(A)** Section 409(b)(2) (42 U.S.C. 609(b)(2)) is amended by striking “and,” and all that follows and inserting a period.
     - **(B)** Section 409(c)(4) (42 U.S.C. 609(c)(4)) is amended by striking “(2)(B),”.
 - **(h)** *Annual reports to Congress* Section 411(b)(1)(A) (42 U.S.C. 611(b)(1)(A)) is amended by striking “participation rates” and inserting “outcome measures”.
-- **(i)** *Reduction in force provisions* Section 416 (42 U.S.C. 616) is amended by striking “, and the Secretary” and all that follows and inserting a period.
-- **(j)** *Conforming cross-References*
+- **(i)** *Reduction in force provisions* Section 416(a) (42 U.S.C. 616(a)), as so designated by section 14(b)(1)(A) of this Act, is amended by striking “, and the Secretary” and all that follows and inserting a period.
+- **(j)** *Conforming cross-references*
   - **(1)** Section 409 (42 U.S.C. 609) is amended—
     - **(A)** in subsection (a)(7)(B)(i)(III), by striking “(12)” and inserting “(10)”;
     - **(B)** in subsection (a) (as amended by subsections (c)(2)(D), (d)(2)(B), and (e)(1)(A) of this section), by redesignating paragraphs (7), (8), (9), (11), (12), (14), (15), and (16) as paragraphs (6) through (13), respectively;
     - **(C)** in subsection (b)(2), by striking “(8), (10), (12), or (13)” and inserting “or (10)”; and
     - **(D)** in subsection (c)(4), by striking “(8), (10), (12), (13), or (16)” and inserting “(10), or (13)”.
   - **(2)** Section 452 (42 U.S.C. 652) is amended in each of subsections (d)(3)(A)(i) and (g)(1) by striking “409(a)(8)” and inserting “409(a)(7)”.
-- **(k)** *Modifications to maintenance-of-Effort requirement* Section 409(a)(7)(B)(i) (42 U.S.C. 609(a)(7)(B)(i)) is amended—
+- **(k)** *Modifications to maintenance-of-effort requirement* Section 409(a)(6)(B)(i) (42 U.S.C. 609(a)(6)(B)(i)), as redesignated by subsection (j)(1)(B) of this section, is amended—
   - **(1)** in subclause (I)—
     - **(A)** in the matter preceding item (aa), by striking “all State programs” and inserting “the State program funded under this part”;
     - **(B)** by redesignating items (dd) and (ee) as items (ee) and (ff), respectively, and inserting after item (cc) the following:
       > - **(dd)** Expenditures for a purpose described in paragraph (3) or (4) of section 401(a).
 
-    - **(C)** in item (ee) (as so redesignated by clause (ii) of this subparagraph), by striking “and (ee)” and inserting “(dd), and (ff)”;
+    - **(C)** in item (ee) (as so redesignated), by striking “and (ee)” and inserting “(dd), and (ff)”;
   - **(2)** in subclause (II)(aa), by inserting “(as in effect just before the effective date of the Jobs and Opportunity with Benefits and Services for Success Act)” after “this section”;
-  - **(3)** by striking subclause (V) and redesignating subclause (IV) as subclause (V); and
-  - **(4)** in subclause (V) (as so redesignated by subparagraph (C) of this paragraph), by inserting “, except any of such families whose monthly income exceeds twice the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902(2)))” before the period.
+  - **(3)** by striking subclause (V); and
+  - **(4)** in subclause (IV), by inserting “, except any of such families whose monthly income exceeds twice the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902(2)))” before the period.
 
 ## § 20. Effective date
 
-Except as provided in section 12(b), the amendments made by this Act shall take effect on October 1, 2018.
+Except as provided in section 13(b), the amendments made by this Act shall take effect on October 1, 2018.
