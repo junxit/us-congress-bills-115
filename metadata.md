@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5587
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5587
@@ -24,9 +24,10 @@ Peer Support Communities of Recovery Act
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 - Rep. Hanabusa, Colleen [D-HI-1] (H001050)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Peer Support Communities of Recovery Act
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5069-5070)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5069-5070)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
