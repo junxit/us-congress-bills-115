@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6029
@@ -26,3 +26,9 @@ REGROUP Act of 2018
 - 2018-06-07 — Introduced in House
 - 2018-06-07 — Referred to the House Committee on the Judiciary.
 - 2018-06-07 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2018-06-13 — Considered under suspension of the rules. (consideration: CR H5121-5123)
+- 2018-06-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6029.
+- 2018-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-13 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2018-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5121)
+- 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5121)
