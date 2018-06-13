@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5228
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5228
@@ -26,10 +26,11 @@ SCREEN Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Budget Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ SCREEN Act
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5049-5051)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5049-5051)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
