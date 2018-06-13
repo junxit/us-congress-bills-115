@@ -18,21 +18,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Articles treated as drugs for purposes of importation* Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by adding at the end the following:
   > - **(t)** *Articles treated as drugs for purposes of this section*
-  >   - **(1)** *In general* For purposes of this section, an article described in paragraph (2) may be treated by the Secretary as a drug.
-  >   - **(2)** *Articles covered* An article is described in this section if it—
+  >   - **(1)** *Labeled articles* An article shall not be treated as a drug pursuant to this subsection if—
+  >     - **(A)** an electronic import entry for such article is submitted using an authorized electronic data interchange system; and
+  >     - **(B)** such article is designated in such system as a drug, device, dietary supplement, or other product that is regulated under this Act.
+  >   - **(2)** *Articles covered* Subject to paragraph (1), for purposes of this section, an article described in this paragraph may be treated by the Secretary as a drug if it—
   >     - **(A)** is or contains an ingredient that is an active ingredient that is contained within—
   >       - **(i)** a drug that has been approved under section 505 of this Act; or
   >       - **(ii)** a biological product that has been approved under section 351 of the Public Health Service Act;
   >     - **(B)** is or contains an ingredient that is an active ingredient in a drug or biological product if—
-  >       - **(i)** an investigational use exemption is in effect for such drug or biological product under section 505(i) of this Act or section 351(a) of the Public Health Service Act;
+  >       - **(i)** an investigational use exemption has been authorized for such drug or biological product under section 505(i) of this Act or section 351(a) of the Public Health Service Act;
   >       - **(ii)** substantial clinical investigation has been instituted for such drug or biological product; and
   >       - **(iii)** the existence of such clinical investigation has been made public; or
-  >     - **(C)** is or contains a chemical analog of an active ingredient in a drug or biological product described in paragraph (A) or (B).
-  >   - **(3)** *Effect* Except to the extent that an article may be treated as a drug pursuant to paragraph (1), this subsection shall not be construed as bearing on or being relevant to the question of whether any article is a drug as defined in section 201(g).
+  >     - **(C)** is or contains a substance that has a chemical structure that is substantially similar to the chemical structure of an active ingredient in a drug or biological product described in subparagraph (A) or (B).
+  >   - **(3)** *Effect* Except to the extent that an article may be treated as a drug pursuant to paragraph (2), this subsection shall not be construed as bearing on or being relevant to the question of whether any article is a drug as defined in section 201(g).
 
 - **(b)** *Articles of concern*
   - **(1)** *Delivery by Treasury to HHS* The first sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “and cosmetics” and inserting “cosmetics, and potential articles of concern (as defined in subsection (u))”.
-  - **(2)** *Refused admission* The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “then such article shall be refused admission” and inserting “or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article may (in the case of drugs) and shall (in the case of other products) be refused admission”.
+  - **(2)** *Refused admission* The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “then such article shall be refused admission” and inserting “or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article shall be refused admission”.
   - **(3)** *Definition of article of concern* Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381), as amended, is further amended by adding at the end the following:
     > - **(u)** *Article of concern defined* For purposes of subsection (a), the term article of concern means an article that is or contains a drug or other substance—
     >   - **(1)** for which, during the 24-month period prior to the article being imported or offered for import, the Secretary of Health and Human Services—
@@ -63,7 +65,7 @@ Section 304(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 334(b)) is
 
   - **(2)** in paragraph (3)—
     - **(A)** in the paragraph heading after “food” by inserting “or drug”;
-    - **(B)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the indentation of each such clause 2 ems to the right;
+    - **(B)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the indentation of each such clause two ems to the right;
     - **(C)** after making the amendments required by subparagraph (B), by striking “A person is subject” and inserting the following:
       > - **(A)** *Food* A person is subject
 
@@ -71,5 +73,8 @@ Section 304(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 334(b)) is
       > - **(B)** *Importation of drugs* A person is subject to debarment under paragraph (1)(D) if—
       >   - **(i)** the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in section 102 of the Controlled Substances Act); or
       >   - **(ii)** the person has engaged in a pattern of importing or offering for import articles of drug that are—
-      >     - **(I)** adulterated, misbranded, or in violation of section 505; or
+      >     - **(I)**
+      >       - **(aa)** adulterated, misbranded, or in violation of section 505; and
+      >       - **(bb)** present a threat of serious adverse health consequences or death to humans or animals; or
       >     - **(II)** controlled substances whose importation is prohibited pursuant to section 401(m) of the Tariff Act of 1930.
+      > - **(C)** *Definition* For purposes of subparagraph (B), the term “pattern of importing or offering for import articles of drug” means importing or offering for import articles of drug described in subclause (I) or (II) of subparagraph (B)(ii) in an amount, frequency, or dosage that is inconsistent with personal or household use by the importer.
