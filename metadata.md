@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5895
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5895
@@ -558,3 +558,5 @@ Energy and Water, Legislative Branch, and Military Construction and Veterans Aff
 - 2018-06-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5895.
 - 2018-06-08 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-06-08 — The previous question was ordered pursuant to the rule.
+- 2018-06-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-06-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
