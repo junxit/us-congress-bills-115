@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5685
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5685
@@ -25,10 +25,11 @@ Medicare Opioid Safety Education Act of 2018
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Posey, Bill [R-FL-8] (P000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Medicare Opioid Safety Education Act of 2018
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5064)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5064)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
