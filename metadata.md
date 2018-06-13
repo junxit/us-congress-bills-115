@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5483
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5483
@@ -30,10 +30,11 @@ Special Registration for Telemedicine Clarification Act of 2018
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Special Registration for Telemedicine Clarification Act of 2018
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5060)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5060)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
