@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5752
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 21 U.S.C. § 381
 
-> The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “then such article shall be refused admission” and inserting “or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article may (in the case of drugs) and shall (in the case of other products) be refused admission”.
+> The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “then such article shall be refused admission” and inserting “or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article shall be refused admission”.
 
 | | |
 |---|---|
 | Removed | `then such article shall be refused admission` |
-| Inserted | `or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article may (in the case of drugs) and shall (in the case of other products) be refused admission` |
+| Inserted | `or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article shall be refused admission` |
 
 ### 21 U.S.C. § 335a
 
@@ -69,6 +69,6 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 335a` | replace | in subparagraph (C), by striking the period at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 335a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 335a` | insert | in the paragraph heading after “food” by inserting “or drug”; | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 335a` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the indentation of each such clause 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 335a` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the indentation of each such clause two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 335a` | replace | after making the amendments required by subparagraph (B), by striking “A person is subject” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 335a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
