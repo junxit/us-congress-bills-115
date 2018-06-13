@@ -16,7 +16,7 @@ This Act may be cited as the “Veterans Treatment Court Improvement Act of 2018
 ## § 2. Hiring by Department of Veterans Affairs of additional Veterans Justice Outreach Specialists
 
 - **(a)** *Hiring of additional Veterans Justice Outreach Specialists*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall hire not fewer than 50 Veterans Justice Outreach Specialists and place each such Veterans Justice Outreach Specialist at an eligible Department of Veterans Affairs medical center in accordance with this section.
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall hire not fewer than 50 Veterans Justice Outreach Specialists and place each such Veterans Justice Outreach Specialist at an eligible Department of Veterans Affairs medical center in accordance with this section.
   - **(2)** *Requirements* The Secretary shall ensure that each Veterans Justice Outreach Specialist employed under paragraph (1)—
     - **(A)** serves, either exclusively or in addition to other duties, as part of a justice team in a veterans treatment court or other veteran-focused court; and
     - **(B)** otherwise meets Department hiring guidelines for Veterans Justice Outreach Specialists.
@@ -34,7 +34,7 @@ This Act may be cited as the “Veterans Treatment Court Improvement Act of 2018
     - **(B)** is not fully staffed with Veterans Justice Outreach Specialists.
 - **(d)** *Reports*
   - **(1)** *Report by Secretary of Veterans Affairs*
-    - **(A)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of this section and its effect on the Veterans Justice Outreach Program.
+    - **(A)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of this section and its effect on the Veterans Justice Outreach Program.
     - **(B)** *Contents* The report submitted under paragraph (1) shall include the following:
       - **(i)** The status of the efforts of the Secretary to hire Veterans Justice Outreach Specialists pursuant to subsection (a)(1), including the total number of Veterans Justice Outreach Specialists hired by the Secretary pursuant to such subsection and the number that the Secretary expects to hire pursuant to such subsection.
       - **(ii)** The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice Outreach Specialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
@@ -43,7 +43,7 @@ This Act may be cited as the “Veterans Treatment Court Improvement Act of 2018
         - **(I)** the number of justice-involved veterans who were served or are expected to be served by a Veterans Justice Outreach Specialist hired under subsection (a)(1); and
         - **(II)** the number of justice-involved veterans who do not have access to a Veterans Justice Outreach Specialist.
   - **(2)** *Report by Comptroller General of the United States*
-    - **(A)** *In general* Not later than three years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the implementation of this section and the effectiveness of the Veterans Justice Outreach Program.
+    - **(A)** *In general* Not later than 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the implementation of this section and the effectiveness of the Veterans Justice Outreach Program.
     - **(B)** *Contents* The report required by subparagraph (A) shall include the following:
       - **(i)** An assessment of whether the Secretary has fulfilled the Secretary's obligations under this section.
       - **(ii)** The number of veterans who are served by Veterans Justice Outreach Specialists hired under subsection (a)(1), disaggregated by demographics (including discharge status).

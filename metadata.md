@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2147
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2147
@@ -91,3 +91,9 @@ Veterans Treatment Court Improvement Act of 2018
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 525.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-682.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-682.
+- 2018-06-13 — Considered under suspension of the rules. (consideration: CR H5133-5135)
+- 2018-06-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2147.
+- 2018-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5133-5134)
+- 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5133-5134)
