@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5582
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5582
@@ -25,10 +25,11 @@ Abuse Deterrent Access Act of 2018
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Abuse Deterrent Access Act of 2018
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5061)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5061)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
