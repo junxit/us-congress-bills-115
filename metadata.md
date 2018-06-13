@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5800
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5800
@@ -22,9 +22,10 @@ Medicaid IMD ADDITIONAL INFO Act
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Medicaid IMD ADDITIONAL INFO Act
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5040-5041)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5040-5041)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
