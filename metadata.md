@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 934
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 934
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 2851) to amend the Controlled Subs
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2018-06-13 — [House 115-2-261](votes/house-115-2-0261.md) — On Ordering the Previous Question — **Passed** (230–183)
+- 2018-06-13 — [House 115-2-262](votes/house-115-2-0262.md) — On Agreeing to the Resolution — **Passed** (233–175)
+
 ## Actions
 
 - 2018-06-12 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the bill (H.R. 2851) to amend the Controlled Subs
 - 2018-06-12 — Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2018-06-12 — The House Committee on Rules reported an original measure, H. Rept. 115-751, by Mr. Buck.
 - 2018-06-12 — The House Committee on Rules reported an original measure, H. Rept. 115-751, by Mr. Buck.
+- 2018-06-13 — Considered as privileged matter. (consideration: CR H5107-5115)
+- 2018-06-13 — DEBATE - The House proceeded with one hour of debate on H. Res. 934.
+- 2018-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-13 — On agreeing to the resolution Agreed to by recorded vote: 233 - 175 (Roll no. 262). (text: CR H5107)
+- 2018-06-13 — On ordering the previous question Agreed to by the Yeas and Nays: 230 - 183 (Roll no. 261). (CR H5115)
+- 2018-06-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 175 (Roll no. 262).(text: CR H5107)
