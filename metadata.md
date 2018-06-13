@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5327
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5327
@@ -29,9 +29,10 @@ Comprehensive Opioid Recovery Centers Act of 2018
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Comprehensive Opioid Recovery Centers Act of 2018
 - 2018-06-12 — Mr. Carter (GA) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 13 (Roll no. 258). (text: CR H5055-5056)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 13 (Roll no. 258).(text: CR H5055-5056)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
