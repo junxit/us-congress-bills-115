@@ -42,7 +42,7 @@ This Act may be cited as the “Improving the Federal Response to Families Impac
     - **(B)** whole-family and multi-generational approaches;
     - **(C)** community-based initiatives;
     - **(D)** referral to, and implementation of, trauma-informed practices and supports; and
-    - **(E)** multi-generational practices that assist parents, foster parents, and kinship and other caregivers
+    - **(E)** multi-generational practices that assist parents, foster parents, and kinship and other caregivers.
 - **(e)** *FACA* The Federal Advisory Committee Act (5 U.S.C. App. 2) shall not apply to the Task Force.
 - **(f)** *Action plan; reports* The Task Force—
   - **(1)** shall prepare a detailed action plan to be implemented by participating Federal agencies to create a collaborative, coordinated response to the opioid crisis, which shall include—
