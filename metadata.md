@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5002
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5002
@@ -38,9 +38,10 @@ Advancing Cutting Edge Research Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Advancing Cutting Edge Research Act
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5038-5039)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5038-5039)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
