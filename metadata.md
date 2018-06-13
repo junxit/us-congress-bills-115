@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5812
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5812
@@ -29,9 +29,10 @@ Creating Opportunities that Necessitate New and Enhanced Connections That Improv
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Creating Opportunities that Necessitate New and Enhanced Connections That Improv
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill.
 - 2018-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5071-5073)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5071-5073)
+- 2018-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
