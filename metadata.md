@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5735
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5735
@@ -43,3 +43,45 @@ THRIVE Act
 - 2018-06-08 — Placed on the Union Calendar, Calendar No. 554.
 - 2018-06-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-719.
 - 2018-06-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-719.
+- 2018-06-12 — Rules Committee Resolution H. Res. 934 Reported to House. Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2018-06-14 — Amendment (A001) offered by Mr. Barr. (consideration: CR H5180-5181; text: CR H5180)
+- 2018-06-14 — Amendment (A002) offered by Mr. Rohrabacher. (consideration: CR H5181-5182; text: CR H5181-5182)
+- 2018-06-14 — Amendment (A003) offered by Ms. Moore. (consideration: CR H5182-5183; text: CR H5182)
+- 2018-06-14 — Amendment (A004) offered by Mr. Biggs. (consideration: CR H5183; text: CR H5183)
+- 2018-06-14 — Amendment agreed to Committee of the Whole
+- 2018-06-14 — Amendment agreed to Committee of the Whole
+- 2018-06-14 — Amendment agreed to Committee of the Whole
+- 2018-06-14 — Amendment agreed to Committee of the Whole
+- 2018-06-14 — Considered as unfinished business. (consideration: CR H5184-5185)
+- 2018-06-14 — Considered under the provisions of rule H. Res. 934. (consideration: CR H5172-5183; text of amendment in the nature of a substitute: CR H5179-5180)
+- 2018-06-14 — DEBATE - Pursuant to the provisions of H.Res. 934, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 1.
+- 2018-06-14 — DEBATE - Pursuant to the provisions of H.Res. 934, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 4.
+- 2018-06-14 — DEBATE - Pursuant to the provisions of H.Res. 934, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 3.
+- 2018-06-14 — DEBATE - Pursuant to the provisions of H.Res. 934, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment No. 2.
+- 2018-06-14 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5735.
+- 2018-06-14 — House amendment agreed to: On agreeing to the Barr amendment (A001) Agreed to by voice vote.
+- 2018-06-14 — House amendment agreed to: On agreeing to the Biggs amendment (A004) Agreed to by voice vote.
+- 2018-06-14 — House amendment agreed to: On agreeing to the Moore amendment (A003) Agreed to by voice vote.
+- 2018-06-14 — House amendment agreed to: On agreeing to the Rohrabacher amendment (A002) Agreed to by voice vote.
+- 2018-06-14 — House amendment offered
+- 2018-06-14 — House amendment offered
+- 2018-06-14 — House amendment offered
+- 2018-06-14 — House amendment offered
+- 2018-06-14 — House amendment offered/reported by: Amendment (A001) offered by Mr. Barr.(consideration: CR H5180-5181; text: CR H5180)
+- 2018-06-14 — House amendment offered/reported by: Amendment (A002) offered by Mr. Rohrabacher.(consideration: CR H5181-5182; text: CR H5181-5182)
+- 2018-06-14 — House amendment offered/reported by: Amendment (A003) offered by Ms. Moore.(consideration: CR H5182-5183; text: CR H5182)
+- 2018-06-14 — House amendment offered/reported by: Amendment (A004) offered by Mr. Biggs.(consideration: CR H5183; text: CR H5183)
+- 2018-06-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 934 and Rule XVIII.
+- 2018-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-14 — On agreeing to the Barr amendment (A001) Agreed to by voice vote.
+- 2018-06-14 — On agreeing to the Biggs amendment (A004) Agreed to by voice vote.
+- 2018-06-14 — On agreeing to the Moore amendment (A003) Agreed to by voice vote.
+- 2018-06-14 — On agreeing to the Rohrabacher amendment (A002) Agreed to by voice vote.
+- 2018-06-14 — On passage Passed by the Yeas and Nays: 230 - 173 (Roll no. 266).
+- 2018-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5735, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Hensarling demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2018-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 173 (Roll no. 266).
+- 2018-06-14 — Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2018-06-14 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5735.
+- 2018-06-14 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2018-06-14 — The previous question was ordered pursuant to the rule.
