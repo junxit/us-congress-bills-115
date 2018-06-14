@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5892
@@ -30,9 +30,10 @@ To establish an Advisory Committee on Opioids and the Workplace to advise the Se
 - Rep. Rosen, Jacky [D-NV-3] (R000608)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To establish an Advisory Committee on Opioids and the Workplace to advise the Se
 - 2018-06-13 — Mr. Lewis (MN) moved to suspend the rules and pass the bill.
 - 2018-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5129-5130)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5129-5130)
+- 2018-06-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
