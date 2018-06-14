@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Securing the International Mail Against Opioids Act of 2018”.
+- **(a)** *Short title* This Act may be cited as the “Synthetics Trafficking and Overdose Prevention Act of 2018” or “STOP Act of 2018”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Customs fees
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(II)** If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.
   >   - **(ii)** Notwithstanding section 451 of the Tariff Act of 1930 (19 U.S.C. 1451), the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.
   >   - **(iii)**
-  >     - **(I)** The payments required by clause (i) shall be allocated as follows:
+  >     - **(I)** The payments required by clause (i)(I) shall be allocated as follows:
   >       - **(aa)** 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.
   >       - **(bb)** 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.
   >     - **(II)** Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with section 524 of the Tariff Act of 1930 (19 U.S.C. 1524), be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.
@@ -42,7 +42,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Mandatory advance electronic information*
   - **(1)** *In general* Section 343(a)(3)(K) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended to read as follows:
     > - **(K)**
-    >   - **(i)** The Secretary, with the concurrence of the Secretary of State, shall prescribe regulations requiring the United States Postal Service to transmit the information described in paragraphs (1) and (2) to the Commissioner of U.S. Customs and Border Protection for international mail shipments by the Postal Service (including shipments to the Postal Service from foreign postal operators that are transported by private carrier) consistent with the requirements of this subparagraph.
+    >   - **(i)** The Secretary shall prescribe regulations requiring the United States Postal Service to transmit the information described in paragraphs (1) and (2) to the Commissioner of U.S. Customs and Border Protection for international mail shipments by the Postal Service (including shipments to the Postal Service from foreign postal operators that are transported by private carrier) consistent with the requirements of this subparagraph.
     >   - **(ii)** In prescribing regulations under clause (i), the Secretary shall impose requirements for the transmission to the Commissioner of information described in paragraphs (1) and (2) for mail shipments described in clause (i) that are comparable to the requirements for the transmission of such information imposed on similar non-mail shipments of cargo, taking into account the parameters set forth in subparagraphs (A) through (J).
     >   - **(iii)** The regulations prescribed under clause (i) shall require the transmission of the information described in paragraphs (1) and (2) with respect to a shipment as soon as practicable in relation to the transportation of the shipment, consistent with subparagraph (H).
     >   - **(iv)** Regulations prescribed under clause (i) shall allow for the requirements for the transmission to the Commissioner of information described in paragraphs (1) and (2) for mail shipments described in clause (i) to be implemented in phases, as appropriate, by—
@@ -52,36 +52,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(bb)** the volume of mail shipped to the United States by or through a particular country; and
     >       - **(cc)** the capacities of foreign postal operators to provide that information to the Postal Service.
     >   - **(v)**
-    >     - **(I)** Notwithstanding clause (iv) and except as provided in subclause (II), the Postal Service shall, not later than December 31, 2018, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for not less than 70 percent of the aggregate number of mail shipments described in clause (i).
-    >     - **(II)**
-    >       - **(aa)** The requirements of subclause (I) may be waived for a period of not more than 180 days if, not later than December 31, 2018—
-    >         - **(AA)** the Secretary and the Postmaster General, with the concurrence of the Secretary of State, determine that meeting those requirements is not feasible because of the lack of capacity of foreign postal operators to provide the Postal Service with the information described in paragraphs (1) and (2);
-    >         - **(BB)** the Secretary and the Postmaster General, with the concurrence of the Secretary of State, determine that meeting those requirements is not feasible because of extraordinary reasons other than lack of capacity of foreign postal operators that are outside the control of the Postal Service; or
-    >         - **(CC)** the Secretary of State determines that such a waiver is in the national security interests of the United States.
-    >       - **(bb)** A waiver under item (aa) may be renewed for one additional period of not more than 180 days if a determination described in item (aa) is made for that period.
-    >     - **(III)** If the requirements of subclause (I) are not met, the Comptroller General of the United States shall submit to the appropriate congressional committees, not later than January 31, 2020, a report—
+    >     - **(I)** Notwithstanding clause (iv), the Postal Service shall, not later than December 31, 2018, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for not less than 70 percent of the aggregate number of mail shipments, including 100 percent of mail shipments from the People’s Republic of China, described in clause (i).
+    >     - **(II)** If the requirements of subclause (I) are not met, the Comptroller General of the United States shall submit to the appropriate congressional committees, not later than June 30, 2019, a report—
     >       - **(aa)** assessing the reasons for the failure to meet those requirements; and
     >       - **(bb)** identifying recommendations to improve the collection by the Postal Service of the information described in paragraphs (1) and (2).
-    >   - **(vi)**
-    >     - **(I)** Notwithstanding clause (iv) and except as provided in subclause (II), the Postal Service shall, not later than December 31, 2022, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for not less than 95 percent of the aggregate number of mail shipments described in clause (i).
-    >     - **(II)** The requirements of subclause (I) may be waived for a period of not more than one year if, not later than December 31, 2022—
-    >       - **(aa)** the Secretary and the Postmaster General, with the concurrence of the Secretary of State, determine that meeting those requirements is not feasible because of—
-    >         - **(AA)** the lack of capacity of foreign postal operators to provide the Postal Service with the information described in paragraphs (1) and (2); or
-    >         - **(BB)** extraordinary reasons other than lack of capacity of foreign postal operators that are outside the control of the Postal Service; or
-    >       - **(bb)** the Secretary of State determines that such a waiver is in the national security interests of the United States.
-    >   - **(vii)** Not later than 15 days before making a determination under clause (v) or (vi) that meeting the requirements of that clause is not feasible, the Secretary and the Postmaster General shall submit to the appropriate congressional committees a notification of the determination. The notification shall include—
-    >     - **(I)** in the case of a determination under clause (v)(II)(aa)(AA) or (vi)(II)(aa)(AA)—
-    >       - **(aa)** a list of which foreign postal operators lack the capacity to provide the information described in paragraphs (1) and (2) to the Postal Service;
-    >       - **(bb)** a description of the efforts by the Postal Service made to obtain that information from those operators; and
-    >       - **(cc)** a plan for obtaining that information from those operators; and
-    >     - **(II)** in the case of a determination under clause (v)(II)(aa)(BB) or (vi)(II)(aa)(BB)—
-    >       - **(aa)** a description of the extraordinary reasons outside the control of the Postal Service; and
-    >       - **(bb)** a plan for obtaining the transmission of information described in paragraphs (1) and (2) as required by clause (v) or (vi), as applicable.
-    >   - **(viii)** The Secretary and the Postmaster General may, in consultation with the Secretary of State, as necessary, take all appropriate remedial measures necessary to ensure compliance with regulations prescribed under clause (i) and consistent with the obligations of the United States under international agreements, including refusal of shipments for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph.
-    >   - **(ix)** Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
-    >   - **(x)** In this subparagraph, the term appropriate congressional committees means—
+    >   - **(vi)(I)** Notwithstanding clause (iv), the Postal Service shall, not later than December 31, 2020, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for 100 percent of the aggregate number of mail shipments described in clause (i).
+    >     - **(II)** The Commissioner, in consultation with the Postmaster General, may determine to exclude a country from the requirement described in subclause (I) to transmit information for mail shipments described in clause (i) from the country if the Commissioner determines that the country—
+    >       - **(aa)** does not have the capacity to collect and transmit such information;
+    >       - **(bb)** represents a low risk for mail shipments that violate relevant United States laws and regulations; and
+    >       - **(cc)** accounts for low volumes of mail shipments that can be effectively screened for compliance with relevant United States laws and regulations through an alternate means.
+    >     - **(III)** The Commissioner shall, at a minimum on an annual basis, re-evaluate any determination made under subclause (II) to exclude a country from the requirement described in subclause (I). If, at any time, the Commissioner determines that a country no longer meets the requirements under subclause (II), the Commissioner may not further exclude the country from the requirement described in subclause (I).
+    >     - **(IV)** The Commissioner shall, on an annual basis, submit to the appropriate congressional committees—
+    >       - **(aa)** a list of countries with respect to which the Commissioner has made a determination under subclause (II) to exclude the countries from the requirement described in subclause (I); and
+    >       - **(bb)** information used to support such determination with respect to such countries.
+    >   - **(vii)**
+    >     - **(I)** The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+    >     - **(II)** If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+    >   - **(viii)** Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
+    >   - **(ix)** In this subparagraph, the term appropriate congressional committees means—
     >     - **(I)** the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
-    >     - **(II)** the Committee on Ways and Means and the Committee on Oversight and Government Reform of the House of Representatives.
+    >     - **(II)** the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
 
   - **(2)** *Joint strategic plan on mandatory advance information* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Postmaster General shall develop and submit to the appropriate congressional committees a joint strategic plan detailing specific performance measures for achieving—
     - **(A)** the transmission of information as required by section 343(a)(3)(K) of the Trade Act of 2002, as amended by paragraph (1); and
@@ -111,8 +101,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(F)** A summary of policies established by the Universal Postal Union that may affect the ability of the Postmaster General to obtain the transmission of that information.
     - **(G)** A summary of the use of technology to detect illicit synthetic opioids and other illegal substances in international mail parcels and planned acquisitions and advancements in such technology.
     - **(H)** Such other information as the Secretary of Homeland Security and the Postmaster General consider appropriate with respect to obtaining the transmission of information required by that subparagraph.
-  - **(2)** *Consultations* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter until the Postmaster General has met the requirement under clause (vi) of section 343(a)(3)(K) of the Trade Act of 2002, as amended by subsection (a)(1), to arrange for the transmission of information with respect to not less than 95 percent of the aggregate number of mail shipments described in clause (i) of that section, the Secretary of Homeland Security and the Postmaster General shall provide briefings to the appropriate congressional committees on the progress made in achieving the transmission of that information for that percentage of shipments.
-- **(d)** *Government Accountability Office report* Not later than December 31, 2020, the Comptroller General of the United States shall submit to the appropriate congressional committees a report—
+  - **(2)** *Consultations* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter until the Postmaster General has met the requirement under clause (vi) of section 343(a)(3)(K) of the Trade Act of 2002, as amended by subsection (a)(1), to arrange for the transmission of information with respect to 100 percent of the aggregate number of mail shipments described in clause (i) of that section, the Secretary of Homeland Security and the Postmaster General shall provide briefings to the appropriate congressional committees on the progress made in achieving the transmission of that information for that percentage of shipments.
+- **(d)** *Government Accountability Office report* Not later than June 30, 2019, the Comptroller General of the United States shall submit to the appropriate congressional committees a report—
   - **(1)** assessing the progress of the United States Postal Service in achieving the transmission of the information required by subparagraph (K) of section 343(a)(3) of the Trade Act of 2002, as amended by subsection (a)(1), for the percentage of shipments required by that subparagraph;
   - **(2)** assessing the quality of the information received from foreign postal operators for targeting purposes;
   - **(3)** assessing the specific percentage of targeted mail presented by the Postal Service to U.S. Customs and Border Protection for inspection;
@@ -125,14 +115,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(e)** *Technical correction* Section 343 of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended in the section heading by striking “advanced” and inserting “advance”.
 - **(f)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
-  - **(2)** the Committee on Ways and Means and the Committee on Oversight and Government Reform of the House of Representatives.
+  - **(2)** the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
 
 ## § 4. International postal agreements
 
-- **(a)** *Existing agreements* Any regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002, as amended by section 3(a)(1), shall be consistent with the obligations of the United States under international agreements.
+- **(a)** *Existing agreements*
+  - **(1)** *In general* In the event that any provision of this Act, or any amendment made by this Act, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement.
+  - **(2)** *Rule of construction* Nothing in this subsection shall be construed to permit delay in the implementation of this Act or any amendment made by this Act.
 - **(b)** *Future agreements*
-  - **(1)** *Consultations* Before entering into, on or after the date of the enactment of this Act, any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that could restrict the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 3(f)).
-  - **(2)** *Expedited negotiation of new agreement* To the extent that any new postal treaty, convention, or other international agreement related to international postal services is necessary to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002, as amended by section 3(a)(1), the Secretary of State should expeditiously conclude such an agreement.
+  - **(1)** *Consultations* Before entering into, on or after the date of the enactment of this Act, any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 3(f)).
+  - **(2)** *Expedited negotiation of new agreement* To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002, as amended by section 3(a)(1), the Secretary of State should expeditiously conclude such an agreement.
 
 ## § 5. Cost recoupment
 
@@ -144,7 +136,41 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *In general* The Postmaster General and the Commissioner of U.S. Customs and Border Protection, in coordination with the heads of other agencies as appropriate, shall collaborate to identify and develop technology for the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States by mail.
 - **(b)** *Outreach to private sector* The Postmaster General and the Commissioner shall conduct outreach to private sector entities to gather information regarding the current state of technology to identify areas for innovation relating to the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States.
 
-## § 7. Effective date; regulations
+## § 7. Civil penalties for postal shipments
+
+Section 436 of the Tariff Act of 1930 (19 U.S.C. 1436) is amended by adding at the end the following new subsection:
+
+> - **(e)** *Civil penalties for postal shipments*
+>   - **(1)** *Civil penalty* A civil penalty shall be imposed against the United States Postal Service if the Postal Service accepts a shipment in violation of section 343(a)(3)(K)(vii)(I) of the Trade Act of 2002.
+>   - **(2)** *Modification of civil penalty*
+>     - **(A)** *In general* U.S. Customs and Border Protection shall reduce or dismiss a civil penalty imposed pursuant to paragraph (1) if U.S. Customs and Border Protection determines that the United States Postal Service—
+>       - **(i)** has a low error rate in compliance with section 343(a)(3)(K) of the Trade Act of 2002;
+>       - **(ii)** is cooperating with U.S. Customs and Border Protection with respect to the violation of section 343(a)(3)(K)(vii)(I) of the Trade Act of 2002; or
+>       - **(iii)** has taken remedial action to prevent future violations of section 343(a)(3)(K)(vii)(I) of the Trade Act of 2002.
+>     - **(B)** *Written notification* U.S. Customs and Border Protection shall issue a written notification to the Postal Service with respect to each exercise of the authority of subparagraph (A) to reduce or dismiss a civil penalty imposed pursuant to paragraph (1).
+>   - **(3)** *Ongoing lack of compliance* If U.S. Customs and Border Protection determines that the United States Postal Service—
+>     - **(A)** has repeatedly committed violations of section 343(a)(3)(K)(vii)(I) of the Trade Act of 2002,
+>     - **(B)** has failed to cooperate with U.S. Customs and Border Protection with respect to violations of section 343(a)(3)(K)(vii)(I) of the Trade Act of 2002, and
+>     - **(C)** has an increasing error rate in compliance with section 343(a)(3)(K) of the Trade Act of 2002,
+
+## § 8. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest
+
+- **(a)** *In general* The Commissioner of U.S. Customs and Border Protection shall submit to the appropriate congressional committees an annual report that contains the information described in subsection (b) with respect to each violation of section 436 of the Tariff Act of 1930 (19 U.S.C. 1436), as amended by section 7, and section 584 of such Act (19 U.S.C. 1584) that occurred during the previous year.
+- **(b)** *Information described* The information described in this subsection is the following:
+  - **(1)** The name and address of the violator.
+  - **(2)** The specific violation that was committed.
+  - **(3)** The location or port of entry through which the items were transported.
+  - **(4)** An inventory of the items seized, including a description of the items and the quantity seized.
+  - **(5)** The location from which the items originated.
+  - **(6)** The entity responsible for the apprehension or seizure, organized by location or port of entry.
+  - **(7)** The amount of penalties assessed by U.S. Customs and Border Protection, organized by name of the violator and location or port of entry.
+  - **(8)** The amount of penalties that U.S. Customs and Border Protection could have levied, organized by name of the violator and location or port of entry.
+  - **(9)** The rationale for negotiating lower penalties, organized by name of the violator and location or port of entry.
+- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+  - **(1)** the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+  - **(2)** the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
+
+## § 9. Effective date; regulations
 
 - **(a)** *Effective date* This Act and the amendments made by this Act (other than the amendments made by section 2) shall take effect on the date of the enactment of this Act.
 - **(b)** *Regulations* Not later than one year after the date of the enactment of this Act, such regulations as are necessary to carry out this Act and the amendments made by this Act shall be prescribed.

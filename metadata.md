@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5788
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5788
@@ -31,6 +31,10 @@ STOP Act of 2018
 - House — Homeland Security Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2018-06-14 — [House 115-2-265](votes/house-115-2-0265.md) — On Passage — **Passed** (353–52)
+
 ## Actions
 
 - 2018-05-15 — Introduced in House
@@ -50,3 +54,15 @@ STOP Act of 2018
 - 2018-06-11 — Committee on Oversight and Government discharged.
 - 2018-06-11 — Committee on Oversight and Government discharged.
 - 2018-06-11 — Placed on the Union Calendar, Calendar No. 557.
+- 2018-06-12 — Rules Committee Resolution H. Res. 934 Reported to House. Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2018-06-13 — Rule H. Res. 934 passed House.
+- 2018-06-14 — Considered as unfinished business. (consideration: CR H5184)
+- 2018-06-14 — Considered under the provisions of rule H. Res. 934. (consideration: CR H5163-5172)
+- 2018-06-14 — DEBATE - The House proceeded with one hour of debate on H.R. 5788.
+- 2018-06-14 — House amendment offered
+- 2018-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-14 — On passage Passed by the Yeas and Nays: 353 - 52 (Roll no. 265). (text: CR H5163-5166)
+- 2018-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5788, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Bishop (MI) demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2018-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 353 - 52 (Roll no. 265).(text: CR H5163-5166)
+- 2018-06-14 — Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2018-06-14 — The previous question was ordered pursuant to the rule.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5788
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,4 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 58c` | insert | in the flush at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2071` | amend | Section 343(a)(3)(K) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2071` | add-at-end | Section 343(a) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1436` | add-at-end | Section 436 of the Tariff Act of 1930 (19 U.S.C. 1436) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
