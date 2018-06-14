@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3331
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3331
@@ -32,10 +32,11 @@ To amend title XI of the Social Security Act to promote testing of incentive pay
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -59,3 +60,5 @@ To amend title XI of the Social Security Act to promote testing of incentive pay
 - 2018-06-12 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5033)
 - 2018-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5033)
+- 2018-06-13 — Received in the Senate.
+- 2018-06-14 — Read twice and referred to the Committee on Finance.
