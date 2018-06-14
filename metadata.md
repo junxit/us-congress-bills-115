@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4635
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4635
@@ -46,9 +46,10 @@ To direct the Secretary of Veterans Affairs to increase the number of peer-to-pe
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To direct the Secretary of Veterans Affairs to increase the number of peer-to-pe
 - 2018-06-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H5137)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(consideration: CR H5137)
+- 2018-06-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
