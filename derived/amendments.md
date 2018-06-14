@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4627
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 2 executed, 5 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 6 U.S.C. § 609
 
-> in subparagraph (B) of subsection (b)(3), by striking “(a)(10)” and inserting “(a)(12)”.
+> in paragraph (3)(B), by striking “(a)(10)” and inserting “(a)(12)”; and
 
 | | |
 |---|---|
@@ -54,5 +54,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 182` | insert | in paragraph (11) of section 302 (6 U.S.C. 182), by inserting “research and development to combat emerging terrorist threats, such as vehicular attacks, and” before “the long-term”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 188` | redesignate | by redesignating clause (xiv) as clause (xv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 188` | insert | by inserting after clause (xiii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 609` | redesignate | by redesignating paragraphs (11) through (13) as (12) through (14), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | redesignate | by redesignating paragraphs (11) through (14) as paragraphs (12) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609` | insert | by inserting after paragraph (10) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | add-at-end | by adding at the end the folllowing new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4627
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4627
@@ -31,3 +31,10 @@ Shielding Public Spaces from Vehicular Terrorism Act
 - 2017-12-12 — Introduced in House
 - 2017-12-12 — Introduced in House
 - 2017-12-12 — Referred to the House Committee on Homeland Security.
+- 2018-01-03 — Referred to the Subcommittee on Emergency Preparedness, Response and Communications.
+- 2018-06-06 — Committee Consideration and Mark-up Session Held.
+- 2018-06-06 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-06-06 — Subcommittee on Emergency Preparedness, Response and Communications Discharged.
+- 2018-06-14 — Placed on the Union Calendar, Calendar No. 590.
+- 2018-06-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-757.
+- 2018-06-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-757.
