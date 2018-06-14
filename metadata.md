@@ -1,7 +1,7 @@
 ---
 measure: S. 2549
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2549
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2018-03-14 — Introduced in Senate
 - 2018-03-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
