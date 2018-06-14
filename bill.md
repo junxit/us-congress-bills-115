@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4627
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,8 +29,17 @@ The Homeland Security Act of 2002 is amended—
 Section 2008 of the Homeland Security Act of 2002 (6 U.S.C. 609) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by redesignating paragraphs (11) through (13) as (12) through (14), respectively; and
+  - **(A)** by redesignating paragraphs (11) through (14) as paragraphs (12) through (15), respectively; and
   - **(B)** by inserting after paragraph (10) the following new paragraph:
     > - **(11)** addressing security vulnerabilities of public spaces, including through the installation of bollards and other target hardening activities;
 
-- **(2)** in subparagraph (B) of subsection (b)(3), by striking “(a)(10)” and inserting “(a)(12)”.
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (3)(B), by striking “(a)(10)” and inserting “(a)(12)”; and
+  - **(B)** by adding at the end the folllowing new paragraph:
+    > - **(6)** *Firearms*
+    >   - **(A)** *In general* A grant awarded under section 2003 or 2004 may not be used for the provision to any person of a firearm or training in the use of a firearm.
+    >   - **(B)** *No effect on other laws* Nothing in this paragraph may be construed to preclude or contradict any other provision of law authorizing the provision of firearms or training in the use of firearms.
+
+## § 4. Report
+
+The Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on emerging automotive technologies that support driverless vehicles and the threat such vehicles may pose to people in public spaces. Such report shall also address risks associated with cyber terrorism and computer-dependent automotive vehicles.
