@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4840
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4840
@@ -68,3 +68,12 @@ To designate the facility of the United States Postal Service located at 567 Eas
 - 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4808)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4808)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-12 — Presented to President.
+- 2018-07-12 — Presented to President.
+- 2018-07-24 — Became Public Law No: 115-217.
+- 2018-07-24 — Became Public Law No: 115-217.
+- 2018-07-24 — Signed by President.
+- 2018-07-24 — Signed by President.
