@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4722
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4722
@@ -65,3 +65,7 @@ To designate the facility of the United States Postal Service located at 111 Mar
 - 2018-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3758)
 - 2018-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3758)
 - 2018-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
