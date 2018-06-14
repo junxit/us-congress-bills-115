@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4463
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4463
@@ -67,3 +67,7 @@ To designate the facility of the United States Postal Service located at 6 Doyer
 - 2018-03-20 — On passage Passed without objection. (consideration: CR H1718; text: CR H1718)
 - 2018-03-20 — Passed/agreed to in House: On passage Passed without objection.(consideration: CR H1718; text: CR H1718)
 - 2018-03-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
