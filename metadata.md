@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6029
@@ -16,9 +16,10 @@ REGROUP Act of 2018
 
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ REGROUP Act of 2018
 - 2018-06-13 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2018-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5121)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5121)
+- 2018-06-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
