@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3183
@@ -50,3 +50,7 @@ To designate the facility of the United States Postal Service located at 13683 J
 - 2018-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 92). (text: CR H1352)
 - 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 92).(text: CR H1352)
 - 2018-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
