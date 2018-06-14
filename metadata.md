@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4406
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4406
@@ -67,3 +67,7 @@ To designate the facility of the United States Postal Service located at 99 Maco
 - 2018-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 93).(text: CR H1348)
 - 2018-03-05 — The title of the measure was amended. Agreed to without objection.
 - 2018-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
