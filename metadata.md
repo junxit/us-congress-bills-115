@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5889
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5889
@@ -38,9 +38,10 @@ Recognizing Early Childhood Trauma Related to Substance Abuse Act of 2018
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Jenkins, Evan H. [R-WV-3] (J000297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Recognizing Early Childhood Trauma Related to Substance Abuse Act of 2018
 - 2018-06-13 — Mr. Brat moved to suspend the rules and pass the bill.
 - 2018-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5124)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5124)
+- 2018-06-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
