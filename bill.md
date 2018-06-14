@@ -30,7 +30,7 @@ Section 708 of the Homeland Security Act of 2002 (6 U.S.C. 348) is amended—
     >     - **(ii)** *Agreement* The Secretary shall provide for a written agreement between the Department, the private sector organization concerned, and the employee concerned regarding the terms and conditions of the assignment of such employee under this paragraph.
     >   - **(C)** *No financial liability* Any agreement under this paragraph shall require the private sector organization concerned to be responsible for all costs associated with the assignment of an employee under this paragraph.
     >   - **(D)** *Duration* An assignment under this paragraph may, at any time and for any reason, be terminated by the Secretary or the private sector organization concerned and shall be for a total period of not more than two years.
-    > - **(10)** *Collaboration with task forces outside DHS* The Secretary may enter into a memorandum of understanding by which a Joint Task Force established under this section to carry out any purpose specified in subsection (b)(2)(A) and any other Federal, State, local, tribal, territorial, or international task force established for a similar purpose may collaborate for the purpose of carrying out the mission of such Joint Task Force.
+    > - **(10)** *Collaboration with task forces outside DHS* The Secretary may enter into a memorandum of understanding by which a Joint Task Force established under this section to carry out any purpose specified in subsection (b)(2)(A) and any other Federal, State, local, tribal, territorial, or international entity or task force established for a similar purpose may collaborate for the purpose of carrying out the mission of such Joint Task Force.
 
 ## § 3. Notification; reporting
 
