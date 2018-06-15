@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2851
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,32 +28,15 @@ Section 202 of the Controlled Substances Act (21 U.S.C. 812) is amended—
   >       - **(I)** listed or otherwise included in any other schedule in this section or by regulation of the Attorney General; and
   >       - **(II)** with respect to a particular person, subject to an exemption that is in effect for investigational use, for that person, under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) to the extent conduct with respect to such substance is pursuant to such exemption.
   >   - **(B)** *Predicted stimulant, depressant, or hallucinogenic effect* For purpose of this paragraph, a predicted stimulant, depressant, or hallucinogenic effect on the central nervous system may be based on—
-  >     - **(i)** the chemical structure, structure activity relationships, binding receptor assays, or other relevant scientific information about the substance;
+  >     - **(i)** the chemical structure and—
+  >       - **(I)** the structure activity relationships; or
+  >       - **(II)** binding receptor assays and other relevant scientific information about the substance;
   >     - **(ii)**
   >       - **(I)** the current or relative potential for abuse of the substance; and
   >       - **(II)** the clandestine importation, manufacture, or distribution, or diversion from legitimate channels, of the substance; or
   >     - **(iii)** the capacity of the substance to cause a state of dependence, including physical or psychological dependence that is similar to or greater than that of a controlled substance in schedule I, II, III, IV, or V.
 
-- **(3)** in subsection (c)—
-  - **(A)** in the matter preceding schedule I, by striking “IV, and V” and inserting “IV, V, and A”; and
-  - **(B)** by adding at the end the following:
-    > ## Schedule A
-    >
-    > (a) Unless specifically excepted or unless listed in another schedule, any of the following substances, as scheduled in accordance with section 201(k)(5):
-    >
-    > - **(1)** 4-fluoroisobutyryl fentanyl.
-    > - **(2)** Valeryl fentanyl.
-    > - **(3)** 4-methoxybutyryl fentanyl.
-    > - **(4)** 4-methylphenethyl acetyl fentanyl.
-    > - **(5)** 3-furanyl fentanyl.
-    > - **(6)** Ortho-fluorofentanyl.
-    > - **(7)** Tetrahydrofuranyl fentanyl.
-    > - **(8)** Ocfentanil.
-    > - **(9)** 4-fluorobutyryl fentanyl.
-    > - **(10)** Methoxyacetyl fentanyl.
-    > - **(11)** Meta-fluorofentanyl.
-    > - **(12)** Isobutyryl fentanyl.
-    > - **(13)** Acryl fentanyl.
+- **(3)** in subsection (c), in the matter preceding schedule I, by striking “IV, and V” and inserting “IV, V, and A”.
 
 ## § 3. Temporary and permanent scheduling of schedule A substances
 
@@ -62,20 +45,23 @@ Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by addin
 > - **(k)** *Temporary and permanent scheduling of schedule A substances*
 >   - **(1)** The Attorney General may issue a temporary order adding a drug or substance to schedule A if the Attorney General finds that—
 >     - **(A)** the drug or other substance satisfies the criteria for being considered a schedule A substance; and
->     - **(B)** adding such drug or substance to schedule A will assist in preventing abuse or misuse of the drug or other substance.
+>     - **(B)** adding such drug or substance to schedule A will assist in preventing abuse of the drug or other substance.
 >   - **(2)** A temporary scheduling order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The temporary scheduling order shall expire not later than 5 years after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (5), extend the temporary scheduling order for up to 180 days.
 >   - **(3)** A temporary scheduling order issued under paragraph (1) shall be vacated upon the issuance of a permanent order issued under paragraph (5) with regard to the same substance, or upon the subsequent issuance of any scheduling order under this section.
 >   - **(4)** A temporary scheduling order issued under paragraph (1) shall not be subject to judicial review.
->   - **(5)** The Attorney General may, by rule, issue a permanent order adding a drug or other substance to schedule A if such drug or substance satisfies the criteria for being considered a schedule A substance. Such rulemaking may be commenced simultaneously with the issuance of the temporary scheduling order issued under paragraph (1) with regard to the same substance.
->   - **(6)** Before initiating proceedings under paragraph (1) or (5), the Attorney General shall transmit notice of an order proposed to be issued to the Secretary of Health and Human Services. In issuing an order under paragraph (1) or (5), the Attorney General shall take into consideration any comments submitted by the Secretary of Health and Human Services in response to a notice transmitted pursuant to this paragraph.
+>   - **(5)**
+>     - **(A)** Beginning no earlier than 3 years after issuing an order temporarily scheduling a drug or other substance under this subsection, the Attorney General may, by rule, issue a permanent order adding a drug or other substance to schedule A if such drug or substance satisfies the criteria for being considered a controlled substance in schedule A under this subsection, except as provided in subparagraph (B).
+>     - **(B)** If the Secretary has determined, based on relevant scientific studies and necessary data requested by the Secretary and gathered by the Attorney General, that a drug or other substance that has been temporarily placed in schedule A does not have sufficient potential for abuse to warrant control in any schedule, and so advises the Attorney General in writing, the Attorney General may not issue a permanent scheduling order under subparagraph (A) and shall, within 30 days of receiving the Secretary’s advice issue an order immediately terminating the temporary scheduling order.
+>   - **(6)** Before initiating proceedings under paragraph (1), the Attorney General shall transmit notice of a temporary order proposed to be issued to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary of Health and Human Services in response to a notice transmitted pursuant to this paragraph.
+>   - **(7)** On the date of the publication of a notice in the Federal Register pursuant to paragraph (2), the Attorney General shall transmit the same notice to Congress. The temporary scheduling order shall take effect according to paragraph (2), except that the temporary scheduling order may be disapproved by an Act of Congress within 180 days from the date of publication of the notice in the Federal Register.
 
 ## § 4. Penalties
 
 - **(a)** *Controlled Substances Act* The Controlled Substances Act (21 U.S.C. 801 et seq.) is amended—
   - **(1)** in section 401(b)(1) (21 U.S.C. 841(b)(1)), by adding at the end the following:
     > - **(F)**
-    >   - **(i)** In the case of any controlled substance in schedule A, such person shall be sentenced to a term of imprisonment of not more than 10 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 15 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2,500,000 if the defendant is other than an individual, or both.
-    >   - **(ii)** If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 30 years, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18, United States Code, or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both.
+    >   - **(i)** In the case of any controlled substance in schedule A, such person shall be sentenced to a term of imprisonment of not more than 10 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 15 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2.5 million if the defendant is other than an individual, or both.
+    >   - **(ii)** If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 30 years, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18, United States Code, or $1 million if the defendant is an individual or $5 million if the defendant is other than an individual, or both.
     >   - **(iii)** Any sentence imposing a term of imprisonment under this subparagraph shall, in the absence of such a prior conviction, impose a term of supervised release of not less than 2 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of not less than 4 years in addition to such term of imprisonment.
 
   - **(2)** in section 403(a) (21 U.S.C. 843(a))—
@@ -88,7 +74,7 @@ Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by addin
     > - **(b)** A person shall not be subject to a criminal or civil penalty under this title or under any other Federal law solely for possession of a schedule A controlled substance.
 
 - **(b)** *Controlled Substances Import and Export Act* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended by adding at the end the following:
-  > - **(8)** In the case of a violation under subsection (a) involving a controlled substance in schedule A, the person committing such violation shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18, United States Code, or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, United States Code, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of not less than 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of not less than 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
+  > - **(8)** In the case of a violation under subsection (a) involving a controlled substance in schedule A, the person committing such violation shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $1 million if the defendant is an individual or $5 million if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to not more than life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18, United States Code, or $2 million if the defendant is an individual or $10 million if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, United States Code, any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of not less than 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of not less than 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
 
 ## § 5. False labeling of schedule A controlled substances
 
@@ -109,41 +95,56 @@ Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by addin
 
 ## § 6. Registration requirements for handlers of schedule A substances
 
-- **(a)** *Controlled Substances Act* Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended—
-  - **(1)** in subsection (f), in the undesignated matter following paragraph (5)—
-    - **(A)** by inserting “or A” after “schedule I” each place it appears; and
-    - **(B)** by adding at the end the following: “A separate registration for engaging in research with a controlled substance in schedule A for practitioners already registered under this part to engage in research with controlled substances in schedule I shall not be required. The Secretary shall determine the merits of the research protocol submitted by the practitioner registering to engage in research with a controlled substance in schedule A, and the Attorney General may deny or revoke the registration only on a ground specified in section 304.”; and
-  - **(2)** by adding at the end the following:
-    > - **(k)**
-    >   - **(1)** The Attorney General shall register an applicant to manufacture schedule A substances if—
-    >     - **(A)** the applicant demonstrates that the schedule A substances will be used for research, analytical, or industrial purposes approved by the Attorney General; and
-    >     - **(B)** the Attorney General determines that such registration is consistent with the public interest and with the United States obligations under international treaties, conventions, or protocols in effect on the date of enactment of this subsection.
-    >   - **(2)** In determining the public interest under paragraph (1)(B), the Attorney General shall consider—
-    >     - **(A)** maintenance of effective controls against diversion of particular controlled substances and any controlled substance in schedule A compounded therefrom into other than legitimate medical, scientific, research, or industrial channels, by limiting the importation and bulk manufacture of such controlled substances to a number of establishments which can produce an adequate and uninterrupted supply of these substances under adequately competitive conditions for legitimate medical, scientific, research, and industrial purposes;
-    >     - **(B)** compliance with applicable State and local law;
-    >     - **(C)** promotion of technical advances in the art of manufacturing substances described in subparagraph (A) and the development of new substances;
-    >     - **(D)** prior conviction record of applicant under Federal and State laws relating to the manufacture, distribution, or dispensing of substances described in paragraph (A);
-    >     - **(E)** past experience in the manufacture of controlled substances, and the existence in the establishment of effective control against diversion; and
-    >     - **(F)** such other factors as may be relevant to and consistent with the public health and safety.
-    >   - **(3)** If an applicant is registered to manufacture controlled substances in schedule I or II under subsection (a), the applicant shall not be required to apply for a separate registration under this subsection.
-    > - **(l)**
-    >   - **(1)** The Attorney General shall register an applicant to distribute schedule A substances—
-    >     - **(A)** if the applicant demonstrates that the schedule A substances will be used for research, analytical, or industrial purposes approved by the Attorney General; and
-    >     - **(B)** unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest.
-    >   - **(2)** In determining the public interest under paragraph (1)(B), the Attorney General shall consider—
-    >     - **(A)** maintenance of effective control against diversion of particular controlled substances into other than legitimate medical, scientific, and industrial channels;
-    >     - **(B)** compliance with applicable State and local law;
-    >     - **(C)** prior conviction record of applicant under Federal or State laws relating to the manufacture, distribution, or dispensing of substances described in subparagraph (A);
-    >     - **(D)** past experience in the distribution of controlled substances; and
-    >     - **(E)** such other factors as may be relevant to and consistent with the public health and safety.
-    >   - **(3)** If an applicant is registered to distribute a controlled substance in schedule I or II under subsection (b), the applicant shall not be required to apply for a separate registration under this subsection.
-    > - **(m)**
-    >   - **(1)** Not later than 90 days after the date on which a substance is placed in schedule A, any practitioner who was engaged in research on the substance before the placement of the substance in schedule A and any manufacturer or distributor who was handling the substance before the placement of the substance in schedule A shall register with the Attorney General.
-    >   - **(2)**
-    >     - **(A)** Not later than 60 days after the date on which the Attorney General receives an application for registration to conduct research on a schedule A substance, the Attorney General shall—
-    >       - **(i)** grant, or initiate proceedings under section 304(c) to deny, the application; or
-    >       - **(ii)** request supplemental information from the applicant.
-    >     - **(B)** Not later than 30 days after the date on which the Attorney General receives supplemental information requested under subparagraph (A)(ii) in connection with an application described in subparagraph (A), the Attorney General shall grant or deny the application.
+- **(a)** *Controlled Substances Act* Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following:
+  > - **(k)**
+  >   - **(1)** The Attorney General shall register an applicant to manufacture schedule A substances if—
+  >     - **(A)** the applicant demonstrates that the schedule A substances will be used for research, analytical, or industrial purposes approved by the Attorney General; and
+  >     - **(B)** the Attorney General determines that such registration is consistent with the public interest and with the United States obligations under international treaties, conventions, or protocols in effect on the date of enactment of this subsection.
+  >   - **(2)** In determining the public interest under paragraph (1)(B), the Attorney General shall consider—
+  >     - **(A)** maintenance of effective controls against diversion of particular controlled substances and any controlled substance in schedule A compounded therefrom into other than legitimate medical, scientific, research, or industrial channels, by limiting the importation and bulk manufacture of such controlled substances to a number of establishments which can produce an adequate and uninterrupted supply of these substances under adequately competitive conditions for legitimate medical, scientific, research, and industrial purposes;
+  >     - **(B)** compliance with applicable State and local law;
+  >     - **(C)** promotion of technical advances in the art of manufacturing substances described in subparagraph (A) and the development of new substances;
+  >     - **(D)** prior conviction record of applicant under Federal and State laws relating to the manufacture, distribution, or dispensing of substances described in paragraph (A);
+  >     - **(E)** past experience in the manufacture of controlled substances, and the existence in the establishment of effective control against diversion; and
+  >     - **(F)** such other factors as may be relevant to and consistent with the public health and safety.
+  >   - **(3)** If an applicant is registered to manufacture controlled substances in schedule I or II under subsection (a), the applicant shall not be required to apply for a separate registration under this subsection.
+  > - **(l)**
+  >   - **(1)** The Attorney General shall register an applicant to distribute schedule A substances—
+  >     - **(A)** if the applicant demonstrates that the schedule A substances will be used for research, analytical, or industrial purposes approved by the Attorney General; and
+  >     - **(B)** unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest.
+  >   - **(2)** In determining the public interest under paragraph (1)(B), the Attorney General shall consider—
+  >     - **(A)** maintenance of effective control against diversion of particular controlled substances into other than legitimate medical, scientific, and industrial channels;
+  >     - **(B)** compliance with applicable State and local law;
+  >     - **(C)** prior conviction record of applicant under Federal or State laws relating to the manufacture, distribution, or dispensing of substances described in subparagraph (A);
+  >     - **(D)** past experience in the distribution of controlled substances; and
+  >     - **(E)** such other factors as may be relevant to and consistent with the public health and safety.
+  >   - **(3)** If an applicant is registered to distribute a controlled substance in schedule I or II under subsection (b), the applicant shall not be required to apply for a separate registration under this subsection.
+  > - **(m)**
+  >   - **(1)**
+  >     - **(A)** Not later than 90 days after the date on which a substance is placed in schedule A, any practitioner who was engaged in research on the substance before the placement of the substance in schedule A and any manufacturer or distributor who was handling the substance before the placement of the substance in schedule A shall register with the Attorney General.
+  > - **(B)**
+  >   - **(i)** If an applicant described in subparagraph (A) is registered pursuant to subsection (f) to conduct research with a controlled substance in schedule I or II on the date on which another substance is placed in schedule A, the applicant may, subject to clause (iii), conduct research with that other controlled substance in schedule A while the application for registration pursuant to subparagraph (A) is pending.
+  >   - **(ii)** If an applicant described in subparagraph (A) is registered pursuant to subsection (f) as described in clause (i) to conduct research with a controlled substance in schedule III, IV, or V on the date on which another substance is placed in schedule A, the applicant may, subject to clause (iii), conduct research with that other controlled substance in schedule A while the application for registration pursuant to subparagraph (A) is pending, provided the substance for which the applicant is registered to conduct research is in the same schedule as, or a less-restricted schedule than, the controlled substance whose similarity in chemical structure and actual or predicted effect to the controlled substance in schedule A formed the basis for placement of the substance in schedule A, as set forth in the order published in the Federal Register placing the substance in schedule A.
+  >   - **(iii)** The permission to conduct research pursuant to clause (i) or clause (ii) is conditional on the applicant's complying with the registration and other requirements for controlled substances in schedule A.
+  >   - **(iv)** This subparagraph does not apply to applicants registered pursuant to subsection (f) whose authorization to conduct research with any controlled substances is limited to doing so as a coincident activity pursuant to applicable regulations of the Attorney General.
+  >   - **(2)**
+  >     - **(A)** Not later than 60 days after the date on which the Attorney General receives an application for registration to conduct research on a schedule A substance, the Attorney General shall—
+  >       - **(i)** grant, or initiate proceedings under section 304(c) to deny, the application; or
+  >       - **(ii)** request supplemental information from the applicant.
+  >     - **(B)** Not later than 30 days after the date on which the Attorney General receives supplemental information requested under subparagraph (A)(ii) in connection with an application described in subparagraph (A), the Attorney General shall grant or deny the application.
+  > - **(n)**
+  >   - **(1)** The Attorney General shall register a scientific investigator or a qualified research institution to conduct research with controlled substances in schedule A in accordance with this subsection. In evaluating applications for such registration, the Attorney General shall apply the criteria set forth in subsection (f) of this section that apply to practitioners seeking a registration to conduct research with a schedule I controlled substance, except that the applicant shall not be required to submit a research protocol.
+  >   - **(2)** If the applicant is not currently registered under subsection (f) to conduct research with a schedule I controlled substance, the Attorney General shall refer the application to the Secretary, who shall determine whether the applicant will be engaged in bona fide research and is qualified to conduct such research. The 60-day period under subsection (m)(2)(A) shall be tolled during the period beginning on the date on which the Attorney General refers an application to the Secretary under this paragraph, and ending on the date on which the Secretary submits a determination related to such referral to the Attorney General.
+  >   - **(3)** An applicant who meets the criteria under subsection (m)(1)(B) with respect to a particular schedule A controlled substance shall be considered qualified to conduct research with that substance. The Attorney General shall modify such applicant’s registration to include such schedule A controlled substance in accordance with this paragraph. The applicant shall notify the Attorney General of his intent to conduct research with a controlled substance in schedule A. Upon receiving such notification, the Attorney General shall modify the practitioner’s existing registration to authorize research with schedule A controlled substances, unless the Attorney General determines that the registration modification would be inconsistent with the public interest based on the criteria of subsection (f).
+  >   - **(4)** Registrations issued under this subsection to a qualified research institution will apply to all agents and employees of that institution acting within the scope of their professional practice.
+  >   - **(5)** At least 30 days prior to conducting any research with a controlled substance in schedule A, the registrant shall provide the Attorney General with written notification of the following:
+  >     - **(A)** The name of and drug code for each substance.
+  >     - **(B)** The name of each individual with access to each substance.
+  >     - **(C)** The amount of each substance.
+  >     - **(D)** Other similar information the Attorney General may require.
+  >   - **(6)** The quantity of a schedule A controlled substance possessed by a person registered under this subsection shall be appropriate for the research being conducted, subject to the additional limitations set forth in this paragraph. To reduce the risk of diversion, the Attorney General may establish limitations on the quantity of schedule A controlled substances that may be manufactured or possessed for purposes of research under this subsection and shall publish such limitations on the website of the Drug Enforcement Administration. A person registered under this subsection may, based on legitimate research needs, apply to the Attorney General to manufacture or possess an amount greater than that so specified by the Attorney General. The Attorney General shall specify the manner in which such applications shall be submitted. The Attorney General shall act on an application filed under this subparagraph within 30 days of receipt of such application. If the Attorney General fails to act within 30 days, the registrant shall be allowed to manufacture and possess up to the amount requested. The Attorney General shall have the authority to reverse the increase for cause.
+  >   - **(7)** The Attorney General shall by regulation specify the manner in which applications for registration under this subsection shall be submitted.
+  >   - **(8)** Registrants authorized under this subsection may manufacture and possess schedule A controlled substances up to the approved amounts only for use in their own research setting or institution. Manufacturing for use in any other setting or institution shall require a manufacturer’s registration under section 303(a).
 
 - **(b)** *Controlled Substances Import and Export Act* Section 1008 of the Controlled Substances Import and Export Act (21 U.S.C. 958) is amended by adding at the end the following:
   > - **(j)**
@@ -195,17 +196,40 @@ Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended—
   >     - **(i)** which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
   >     - **(ii)** with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
 
-## § 9. Amendment to the sentencing guidelines
-
-Section 2D1.1 of the Federal Sentencing Guidelines is amended, in Application Note 6 (Analogues and Controlled Substances Not Referenced in this Guideline) of the Commentary, by striking “In determining the most closely related controlled substance, the court shall, to the extent practicable, consider the following:” and inserting the following:
-
-> In determining the most closely related controlled substance and the applicable guideline or drug equivalence, the court shall—
-> - **(A)** if Attorney General has provided guidance on the appropriate sentencing equivalency or ratio to a controlled substance that is referenced in the guidelines through publication in the Federal Register (whether such guidance is included in or separate from any notice of proposed temporary or permanent scheduling of such substance under section 201 of the Controlled Substances Act (21 U.S.C. 811)), apply any such sentencing equivalency or ratio; and
-> - **(B)** in the absence of guidance with respect to a substance or group of substances as described in paragraph (A), use equivalencies for the following structural classes of substances as if they were included on the Drug Equivalency Tables:
-
-## § 10. Rules of construction
+## § 9. Rules of construction
 
 Nothing in this Act, or the amendments made by this Act, may be construed to limit—
 
 - **(1)** the prosecution of offenses involving controlled substance analogues under the Controlled Substances Act (21 U.S.C. 801 et seq.); or
 - **(2)** the authority of the Attorney General to temporarily or permanently schedule, reschedule, or decontrol controlled substances under provisions of section 201 of the Controlled Substances Act (21 U.S.C. 811) that are in effect on the day before the date of enactment of this Act.
+
+## § 10. Study by Comptroller General
+
+Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall complete a study and submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the costs associated with the amendments made by section 4, including—
+
+- **(1)** the annual amounts expended by Federal agencies in carrying out the amendments;
+- **(2)** the costs associated with arrests, trials, convictions, imprisonment, or imposition of other sanctions in accordance with the amendments; and
+- **(3)** the impact (including the fiscal impact) of the amendments on existing correctional facilities and the likelihood that those amendments will create a need for additional capacity for housing prisoners.
+
+## § 11. Report on controlled substance analogues sold by means of the Internet
+
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Administrator of the Drug Enforcement Administration shall make publicly available on the website of the Drug Enforcement Administration a report on, for the previous year, the lawful and unlawful sale of controlled substance analogues (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) by means of the Internet, including the following information:
+
+- **(1)** The types of controlled substance analogues that were sold, and the number of sales for each such substance.
+- **(2)** The name of each person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses, or offers or attempts to deliver, distribute, or dispense, a controlled substance analogue by means of the Internet, whether lawfully or unlawfully.
+- **(3)** An estimate of the total revenue for all of the vendors described in paragraph (2) for all of the sales described in paragraph (1).
+
+## § 12. Controlled substance analogues
+
+Section 203 of the Controlled Substances Act (21 U.S.C. 813) is amended—
+
+- **(1)** by striking “A controlled” and inserting “(a) In general.—A controlled”; and
+- **(2)** by adding at the end the following:
+  > - **(b)** *Determination* In determining whether a controlled substance analogue was intended for human consumption under subsection (a), the following factors may be considered, along with any other relevant factors:
+  >   - **(1)** The marketing, advertising, and labeling of the substance.
+  >   - **(2)** The known efficacy or usefulness of the substance for the marketed, advertised or labeled purpose.
+  >   - **(3)** The difference between the price at which the substance is sold and the price at which the substance it is purported to be or advertised as is normally sold.
+  >   - **(4)** The diversion of the substance from legitimate channels and the clandestine importation, manufacture, or distribution of the substance.
+  >   - **(5)** Whether the defendant knew or should have known the substance was intended to be consumed by injection, inhalation, ingestion, or any other immediate means.
+  >   - **(6)** Any controlled substance analogue that is manufactured, formulated, sold, distributed, or marketed with the intent to avoid the provisions of existing drug laws.
+  > - **(c)** *Limitation* For purposes of this section, evidence that a substance was not marketed, advertised, or labeled for human consumption, by itself, shall not be sufficient to establish that the substance was not intended for human consumption.
