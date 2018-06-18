@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5515
@@ -16,10 +16,590 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (5)
+## Cosponsors (585)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -28,7 +608,7 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 
 - House — Armed Services Committee
 
-## Recorded votes (12)
+## Recorded votes (22)
 
 - 2018-05-23 — [House 115-2-219](votes/house-115-2-0219.md) — On Agreeing to the Amendment — **Failed** (62–351)
 - 2018-05-23 — [House 115-2-220](votes/house-115-2-0220.md) — On Agreeing to the Amendment — **Failed** (60–355)
@@ -42,6 +622,16 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-05-23 — [House 115-2-228](votes/house-115-2-0228.md) — On Agreeing to the Amendment — **Failed** (174–239)
 - 2018-05-24 — [House 115-2-229](votes/house-115-2-0229.md) — Table the Appeal of the Ruling of the Chair — **Passed** (224–191)
 - 2018-05-24 — [House 115-2-230](votes/house-115-2-0230.md) — On Passage — **Passed** (351–66)
+- 2018-06-07 — [Senate 115-2-119](votes/senate-115-2-0119.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (92–4)
+- 2018-06-11 — [Senate 115-2-120](votes/senate-115-2-0120.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (91–4)
+- 2018-06-13 — [Senate 115-2-121](votes/senate-115-2-0121.md) — On the Motion to Table — **Motion to Table Failed** (47–51)
+- 2018-06-13 — [Senate 115-2-122](votes/senate-115-2-0122.md) — On the Motion to Table — **Motion to Table Failed** (30–68)
+- 2018-06-14 — [Senate 115-2-123](votes/senate-115-2-0123.md) — On the Cloture Motion — **Cloture Motion Rejected** (35–62)
+- 2018-06-14 — [Senate 115-2-124](votes/senate-115-2-0124.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–14)
+- 2018-06-14 — [Senate 115-2-125](votes/senate-115-2-0125.md) — On the Amendment — **Amendment Agreed to** (97–0)
+- 2018-06-14 — [Senate 115-2-126](votes/senate-115-2-0126.md) — On the Cloture Motion — **Cloture Motion Agreed to** (81–15)
+- 2018-06-18 — [Senate 115-2-127](votes/senate-115-2-0127.md) — On the Motion — **Motion Agreed to** (81–14)
+- 2018-06-18 — [Senate 115-2-128](votes/senate-115-2-0128.md) — On Passage of the Bill — **Bill Passed** (85–10)
 
 ## Actions
 
@@ -340,3 +930,708 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-06-05 — Senate amendment submitted
 - 2018-06-05 — Senate amendment submitted
 - 2018-06-05 — Senate amendment submitted
+- 2018-06-06 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3005)
+- 2018-06-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3005-3023)
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-06 — Senate amendment submitted
+- 2018-06-07 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 92 - 4. Record Vote Number: 119. (CR S3282)
+- 2018-06-07 — Motion to proceed to measure considered in Senate. (consideration: CR S3281-3289)
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-07 — Senate amendment submitted
+- 2018-06-11 — Amendment SA 2282 proposed by Senator Inhofe. (consideration: CR S3403-3595; text as modified: CR S3403-3595) In the nature of a substitute.
+- 2018-06-11 — Amendment SA 2366 proposed by Senator Lee to language proposed to be stricken by amendment no. 2282. (consideration: CR S3595; text: CR S3595) To clarify that an authorization to use military force, a declaration of war, or any similar authority does not authorize the detention without charge or trial of a citizen or lawful permanent resident of the United States.
+- 2018-06-11 — Amendment SA 2700 proposed by Senator McConnell for Senator Toomey to Amendment SA 2282. (consideration: CR S3595) To require congressional review of certain regulations issued by the Committee on Foreign Investment in the United States.
+- 2018-06-11 — Amendment SA 2756 proposed by Senator Reed to Amendment SA 2700. (consideration: CR S3595; text: CR S3595) To require the authorization of appropriation of amounts for the development of new or modified nuclear weapons.
+- 2018-06-11 — Measure laid before Senate by motion. (consideration: CR S3403-3596)
+- 2018-06-11 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 120.
+- 2018-06-11 — Motion to proceed to measure considered in Senate. (CR S3395)
+- 2018-06-11 — Senate amendment proposed (on the floor): Amendment SA 2282 proposed by Senator Inhofe.(consideration: CR S3403-3595; text as modified: CR S3403-3595)
+- 2018-06-11 — Senate amendment proposed (on the floor): Amendment SA 2366 proposed by Senator Lee to language proposed to be stricken by amendment no. 2282.(consideration: CR S3595; text: CR S3595)
+- 2018-06-11 — Senate amendment proposed (on the floor): Amendment SA 2700 proposed by Senator McConnell for Senator Toomey to Amendment SA 2282.(consideration: CR S3595)
+- 2018-06-11 — Senate amendment proposed (on the floor): Amendment SA 2756 proposed by Senator Reed to Amendment SA 2700.(consideration: CR S3595; text: CR S3595)
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-11 — Senate amendment submitted
+- 2018-06-12 — Amendment SA 2842 proposed by Senator Reed to Amendment SA 2366. (consideration: CR S3748; text: CR S3748) To require the authorization of appropriation of amounts for the development of new or modified nuclear weapons.
+- 2018-06-12 — Cloture motion on amendment SA 2282 as modified presented in Senate. (CR S3757)
+- 2018-06-12 — Cloture motion on amendment SA 2700 presented in Senate. (CR S3756)
+- 2018-06-12 — Cloture motion on the measure presented in Senate. (consideration: CR S3757)
+- 2018-06-12 — Considered by Senate. (consideration: CR S3730)
+- 2018-06-12 — Considered by Senate. (consideration: CR S3730)
+- 2018-06-12 — Considered by Senate. (consideration: CR S3730)
+- 2018-06-12 — Considered by Senate. (consideration: CR S3730, S3750)
+- 2018-06-12 — Considered by Senate. (consideration: CR S3730-3754, S3756-3757)
+- 2018-06-12 — Senate amendment proposed (on the floor): Amendment SA 2842 proposed by Senator Reed to Amendment SA 2366.(consideration: CR S3748; text: CR S3748)
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-12 — Senate amendment submitted
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866)
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866)
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866, S3878-3881, S3886-3887)
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866, S3881-3886, S3887)
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866, S3892-3895)
+- 2018-06-13 — Considered by Senate. (consideration: CR S3866-3899)
+- 2018-06-13 — Motion to table amendment SA 2366 rejected in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 122.
+- 2018-06-13 — Motion to table amendment SA 2842 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 121.
+- 2018-06-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 2366 rejected in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 122.
+- 2018-06-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 2842 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 121.
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-13 — Senate amendment submitted
+- 2018-06-14 — Amendment SA 2273 proposed by Senator Inhofe for Senator Rounds to language proposed to be stricken by amendment no. 2282. (consideration: CR S3936; text: CR S3936) To require a report on participation in the Transition Assistance Program.
+- 2018-06-14 — Amendment SA 2276 agreed to in Senate by Voice Vote.
+- 2018-06-14 — Amendment SA 2276 proposed by Senator Inhofe for Senator Boozman to Amendment SA 2282. (consideration: CR S3934, S3939-3940, S3943; text as modified: CR S3934-3935) To require a report on the permanent stationing of the United States forces in the Republic of Poland.
+- 2018-06-14 — Amendment SA 2282 as modified, as amended, agreed to in Senate by Voice Vote.
+- 2018-06-14 — Amendment SA 2366 ruled non-germane by the chair.
+- 2018-06-14 — Amendment SA 2700 ruled non-germane by the chair.
+- 2018-06-14 — Amendment SA 2885 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 125.
+- 2018-06-14 — Amendment SA 2885 proposed by Senator Reed to Amendment SA 2276. (consideration: CR S3932, S3935-3936, S3943; text: CR S3935-3936) To improve the amendment.
+- 2018-06-14 — Cloture on amendment SA 2282 as modified invoked in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 124.
+- 2018-06-14 — Cloture on amendment SA 2700 not invoked in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 123.
+- 2018-06-14 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 126. (consideration: CR S3943)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932, S3933-3934)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932, S3934)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932, S3934, S3943)
+- 2018-06-14 — Considered by Senate. (consideration: CR S3932-3943)
+- 2018-06-14 — Point of order raised in Senate with respect to amendment SA 2366.
+- 2018-06-14 — Point of order raised in Senate with respect to amendment SA 2700.
+- 2018-06-14 — Proposed amendment SA 2273 withdrawn in Senate. (consideration: CR S3943)
+- 2018-06-14 — Roll call votes on amendments in Senate: Amendment SA 2885 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 125.
+- 2018-06-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 2282 as modified invoked in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 124.
+- 2018-06-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 2700 not invoked in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 123.
+- 2018-06-14 — SA 2756 fell when SA 2700 ruled non-germane by the chair.
+- 2018-06-14 — SA 2842 fell when SA 2366 ruled non-germane by the chair.
+- 2018-06-14 — Senate amendment agreed to: Amendment SA 2276 agreed to in Senate by Voice Vote.
+- 2018-06-14 — Senate amendment agreed to: Amendment SA 2282 as modified, as amended, agreed to in Senate by Voice Vote.
+- 2018-06-14 — Senate amendment agreed to: Amendment SA 2885 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 125.
+- 2018-06-14 — Senate amendment proposed (on the floor): Amendment SA 2273 proposed by Senator Inhofe for Senator Rounds to language proposed to be stricken by amendment no. 2282.(consideration: CR S3936; text: CR S3936)
+- 2018-06-14 — Senate amendment proposed (on the floor): Amendment SA 2276 proposed by Senator Inhofe for Senator Boozman to Amendment SA 2282.(consideration: CR S3934, S3939-3940, S3943; text as modified: CR S3934-3935)
+- 2018-06-14 — Senate amendment proposed (on the floor): Amendment SA 2885 proposed by Senator Reed to Amendment SA 2276.(consideration: CR S3932, S3935-3936, S3943; text: CR S3935-3936)
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-14 — Senate amendment submitted
+- 2018-06-18 — Considered by Senate. (consideration: CR S3961-3973)
+- 2018-06-18 — Motion to waive section 4106(b)(1) of H. Con. Res. 71, 115th Congress, with respect to amendment SA 2282, as modified, as amended, agreed to in Senate by Yea-Nay Vote. 81 - 14. Record Vote Number: 127.
+- 2018-06-18 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 10. Record Vote Number: 128.
+- 2018-06-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 10. Record Vote Number: 128.
+- 2018-06-18 — Point of order that the amendment violates section 4106(b)(1) of H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 2282, as modified, as amended.
+- 2018-06-18 — Roll call votes on amendments in Senate: Motion to waive section 4106(b)(1) of H. Con. Res. 71, 115th Congress, with respect to amendment SA 2282, as modified, as amended, agreed to in Senate by Yea-Nay Vote. 81 - 14. Record Vote Number: 127.
+- 2018-06-18 — Senate amendment submitted
