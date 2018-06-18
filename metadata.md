@@ -1,7 +1,7 @@
 ---
 measure: S. 2852
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2852
@@ -30,3 +30,7 @@ Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2018
 
 - 2018-05-15 — Introduced in Senate
 - 2018-05-15 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-05-23 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.
