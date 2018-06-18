@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5788
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5788
@@ -25,11 +25,12 @@ STOP Act of 2018
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Homeland Security Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ STOP Act of 2018
 - 2018-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 353 - 52 (Roll no. 265).(text: CR H5163-5166)
 - 2018-06-14 — Rule provides for consideration of H.R. 2851, H.R. 5735 and H.R. 5788 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2018-06-14 — The previous question was ordered pursuant to the rule.
+- 2018-06-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
