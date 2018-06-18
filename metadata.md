@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2147
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2147
@@ -97,3 +97,5 @@ Veterans Treatment Court Improvement Act of 2018
 - 2018-06-13 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5133-5134)
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5133-5134)
+- 2018-06-14 — Received in the Senate.
+- 2018-06-18 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
