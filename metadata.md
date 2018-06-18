@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5735
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5735
@@ -29,9 +29,10 @@ THRIVE Act
 - Rep. Handel, Karen C. [R-GA-6] (H001078)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -89,3 +90,4 @@ THRIVE Act
 - 2018-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5735.
 - 2018-06-14 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
 - 2018-06-14 — The previous question was ordered pursuant to the rule.
+- 2018-06-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
