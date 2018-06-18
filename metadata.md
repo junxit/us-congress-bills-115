@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2147
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2147
@@ -99,3 +99,12 @@ Veterans Treatment Court Improvement Act of 2018
 - 2018-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5133-5134)
 - 2018-06-14 — Received in the Senate.
 - 2018-06-18 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
+- 2018-08-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5869)
+- 2018-08-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5869)
+- 2018-08-23 — Message on Senate action sent to the House.
+- 2018-09-05 — Presented to President.
+- 2018-09-05 — Presented to President.
+- 2018-09-17 — Became Public Law No: 115-240.
+- 2018-09-17 — Became Public Law No: 115-240.
+- 2018-09-17 — Signed by President.
+- 2018-09-17 — Signed by President.
