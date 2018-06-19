@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Engrossed Amendment Senate
+version: Printed as Passed
 ---
 
 # H.R. 5515
@@ -1635,3 +1635,5 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-06-18 — Point of order that the amendment violates section 4106(b)(1) of H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 2282, as modified, as amended.
 - 2018-06-18 — Roll call votes on amendments in Senate: Motion to waive section 4106(b)(1) of H. Con. Res. 71, 115th Congress, with respect to amendment SA 2282, as modified, as amended, agreed to in Senate by Yea-Nay Vote. 81 - 14. Record Vote Number: 127.
 - 2018-06-18 — Senate amendment submitted
+- 2018-06-19 — Message on Senate action sent to the House.
+- 2018-06-19 — Senate ordered measure printed as passed.
