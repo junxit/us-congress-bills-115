@@ -26,7 +26,7 @@ This Act may be cited as the “Supporting Research and Development for First Re
     >   - **(2)** previously known as the Environmental Measurements Laboratory; and
     >   - **(3)** transferred to the Department pursuant to section 303(1)(E).
     > - **(c)** *Laboratory activities* The laboratory designated pursuant to subsection (a), shall—
-    >   - **(1)** conduct tests, evaluations, and assessments of current and emerging technologies for emergency response providers;
+    >   - **(1)** conduct tests, evaluations, and assessments of current and emerging technologies, including, as appropriate, cybersecurity of such technologies that can connect to the internet, for emergency response providers;
     >   - **(2)** conduct research and development on radiological and nuclear response and recovery;
     >   - **(3)** act as a technical advisor to emergency response providers; and
     >   - **(4)** carry out other such activities as the Secretary determines appropriate.
