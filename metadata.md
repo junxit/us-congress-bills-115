@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3192
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3192
@@ -58,3 +58,9 @@ CHIP Mental Health Parity Act
 - 2018-06-12 — Placed on the Union Calendar, Calendar No. 569.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-734.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-734.
+- 2018-06-19 — Considered under suspension of the rules. (consideration: CR H5231-5233)
+- 2018-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3192.
+- 2018-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-19 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5232)
+- 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5232)
