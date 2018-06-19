@@ -1,7 +1,7 @@
 ---
 measure: S. 207
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 207
@@ -16,7 +16,7 @@ SALTS Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (8)
+## Cosponsors (15)
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -26,6 +26,13 @@ SALTS Act
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -35,3 +42,8 @@ SALTS Act
 
 - 2017-01-24 — Introduced in Senate
 - 2017-01-24 — Read twice and referred to the Committee on the Judiciary.
+- 2018-04-11 — Committee on the Judiciary Subcommittee on Crime and Terrorism. Hearings held.
+- 2018-05-24 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2018-06-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2018-06-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2018-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
