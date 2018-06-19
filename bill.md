@@ -22,7 +22,7 @@ The Homeland Security Act of 2002 is amended—
   - **(A)** in the matter preceding clause (i), by striking “expertise in—” and inserting “expertise in the following:”;
   - **(B)** by redesignating clause (xiv) as clause (xv); and
   - **(C)** by inserting after clause (xiii) the following new clause:
-    > - **(xiv)** Combatting emerging terrorist threats, including vehicular attacks.
+    > - **(xiv)** Combating emerging terrorist threats, including vehicular attacks.
 
 ## § 3. Allowable uses
 
@@ -35,11 +35,11 @@ Section 2008 of the Homeland Security Act of 2002 (6 U.S.C. 609) is amended—
 
 - **(2)** in subsection (b)—
   - **(A)** in paragraph (3)(B), by striking “(a)(10)” and inserting “(a)(12)”; and
-  - **(B)** by adding at the end the folllowing new paragraph:
+  - **(B)** by adding at the end the following new paragraph:
     > - **(6)** *Firearms*
     >   - **(A)** *In general* A grant awarded under section 2003 or 2004 may not be used for the provision to any person of a firearm or training in the use of a firearm.
     >   - **(B)** *No effect on other laws* Nothing in this paragraph may be construed to preclude or contradict any other provision of law authorizing the provision of firearms or training in the use of firearms.
 
 ## § 4. Report
 
-The Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on emerging automotive technologies that support driverless vehicles and the threat such vehicles may pose to people in public spaces. Such report shall also address risks associated with cyber terrorism and computer-dependent automotive vehicles.
+The Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on potential terrorism vulnerabilities relating to emerging automotive technologies that support driverless vehicles and the associated threat such vehicles may pose to people in public spaces. Such report shall also compare any public benefit of such vehicles against any such vulnerabilities and threats.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4627
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -56,4 +56,4 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 188` | insert | by inserting after clause (xiii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609` | redesignate | by redesignating paragraphs (11) through (14) as paragraphs (12) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609` | insert | by inserting after paragraph (10) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 609` | add-at-end | by adding at the end the folllowing new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
