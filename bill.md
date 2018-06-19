@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 6155
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6155
+
+> To amend the Investment Advisers Act of 1940 to require investment advisers who advise a private fund that owns an emergency services company to disclose to the Securities and Exchange Commission the average response times of emergency vehicles deployed by such company in response to 9–1–1 calls, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “9–1–1 Emergency Service Protection Act”.
+
+## § 2. Report on emergency vehicle response times of companies owned by private funds
+
+- **(a)** *In general* Section 204(b) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4(b)) is amended by adding at the end the following:
+  > - **(12)** *Report on emergency vehicle response times of companies owned by private funds*
+  >   - **(A)** *In general* Each investment adviser required to file annual or other reports under this section and who advises a private fund that owns a controlling interest in an emergency services company shall, not less often than annually, disclose to the Commission—
+  >     - **(i)** the change in the average response time of emergency vehicles since the private fund acquired a controlling interest in the emergency services company, dis­ag­gre­gat­ed by the response times of emergency vehicles deployed to—
+  >       - **(I)** rural areas; and
+  >       - **(II)** urban areas;
+  >     - **(ii)** if a required response time is established by a contract for emergency services between the emergency services company and a unit of local government or by an ordinance of a unit of local government, the percentage of response times of emergency vehicles deployed by the emergency services company to that unit of local government that do not meet such requirement; and
+  >     - **(iii)** if the response times failed to meet the required response time described under clause (ii), a description of the impact of such failure on the value of the emergency services company to the private fund.
+  >   - **(B)** *Definitions* For purposes of this paragraph:
+  >     - **(i)** *Emergency services company* The term “emergency services company” means a company that provides ambulance, firefighter, or other emergency services in response to 9–1–1 calls.
+  >     - **(ii)** *Emergency vehicle* The term “emergency vehicle” means an ambulance, fire engine, or other vehicle deployed in response to a 9–1–1 call.
+
+- **(b)** *Rulemaking* Not later than 270 days after the date of the enactment of this section, the Commission shall issue regulations to carry out paragraph (12) of section 204(b) of the Investment Advisers Act of 1940, as added by subsection (a).
