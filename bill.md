@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5605
 
-> To amend title XVIII of the Social Security Act to provide for an opioid use disorder treatment demonstration program.
+> To amend title XVIII of the Social Security Act to provide for an opioid use disorder treatment demonstration program, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,8 +19,8 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 
 > ## § 1866F. Opioid use disorder treatment demonstration program
 >
-> - **(a)** *Implementation of 5-year demonstration program*
->   - **(1)** *In general* Not later than January 1, 2021, the Secretary shall implement a 5-year demonstration program under this title (in this section referred to as the “Program”) to increase access of applicable beneficiaries to opioid use disorder treatment services, improve physical and mental health outcomes for such beneficiaries, and to the extent possible, reduce expenditures under this title. Under the Program, the Secretary shall make payments under subsection (e) to participants (as defined in subsection (c)(1)(A)) for furnishing opioid use disorder treatment services delivered through opioid use disorder care teams, or arranging for such service to be furnished, to applicable beneficiaries participating in the Program.
+> - **(a)** *Implementation of 4-Year demonstration program*
+>   - **(1)** *In general* Not later than January 1, 2021, the Secretary shall implement a 4-year demonstration program under this title (in this section referred to as the “Program”) to increase access of applicable beneficiaries to opioid use disorder treatment services, improve physical and mental health outcomes for such beneficiaries, and to the extent possible, reduce expenditures under this title. Under the Program, the Secretary shall make payments under subsection (e) to participants (as defined in subsection (c)(1)(A)) for furnishing opioid use disorder treatment services delivered through opioid use disorder care teams, or arranging for such service to be furnished, to applicable beneficiaries participating in the Program.
 >   - **(2)** *Opioid use disorder treatment services* For purposes of this section, the term opioid use disorder treatment services—
 >     - **(A)** means, with respect to an applicable beneficiary, services that are furnished for the treatment of opioid use disorders and that utilize drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act for the treatment of opioid use disorders in an outpatient setting; and
 >     - **(B)** includes—
@@ -42,8 +42,8 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >   - **(1)** *Participants*
 >     - **(A)** *Definition* In this section, the term participant means an entity or individual—
 >       - **(i)** that is otherwise enrolled under this title and that is—
->         - **(I)** a physician (as defined in section 1861(r)(1);
->         - **(II)** a group practice comprised of physicians described in subclause (I);
+>         - **(I)** a physician (as defined in section 1861(r)(1));
+>         - **(II)** a group practice comprised of at least one physician described in subclause (I);
 >         - **(III)** a hospital outpatient department;
 >         - **(IV)** a federally qualified health center (as defined in section 1861(aa)(4));
 >         - **(V)** a rural health clinic (as defined in section 1861(aa)(2));
@@ -51,7 +51,7 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >         - **(VII)** a clinic certified as a certified community behavioral health clinic pursuant to section 223 of the Protecting Access to Medicare Act of 2014; or
 >         - **(VIII)** any other individual or entity specified by the Secretary;
 >       - **(ii)** that applied for and was selected to participate in the Program pursuant to an application and selection process established by the Secretary; and
->       - **(iii)** that establishes an opioid use disorder care team (as defined in paragraph (2)) through employing or contracting with health care practitioners described in paragraph (2)(A), and uses such team to furnish or arrange for opioid use disorder treatment services in the outpatient setting under the Program
+>       - **(iii)** that establishes an opioid use disorder care team (as defined in paragraph (2)) through employing or contracting with health care practitioners described in paragraph (2)(A), and uses such team to furnish or arrange for opioid use disorder treatment services in the outpatient setting under the Program.
 >     - **(B)** *Preference* In selecting participants for the Program, the Secretary shall give preference to individuals and entities that are located in areas with a prevalence of opioid use disorders that is higher than the national average prevalence.
 >   - **(2)** *Opioid use disorder care teams*
 >     - **(A)** *In general* For purposes of this section, the term opioid use disorder care team means a team of health care practitioners established by a participant described in paragraph (1)(A) that—
@@ -61,13 +61,16 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >       - **(ii)** may include other practitioners licensed under State law to furnish psychiatric, psychological, counseling, and social services to applicable beneficiaries.
 >     - **(B)** *Requirements for receipt of payment under Program* In order to receive payments under subsection (e), each participant in the Program shall—
 >       - **(i)** furnish opioid use disorder treatment services through opioid use disorder care teams to applicable beneficiaries who agree to receive the services;
->       - **(ii)** meet minimum criteria, as established by the Secretary, for participation through the submission of data and information described in clause (iii); and
->       - **(iii)** submit to the Secretary, with respect to each applicable beneficiary for whom opioid use disorder treatment services are furnished by the opioid use disorder care team, data with respect to the criteria established under subsection (e)(2)(A) and such other information as the Secretary determines appropriate to monitor and evaluate the Program, to determine if minimum criteria are met under clause (ii), and to determine the incentive payment under subsection (e), in such form, manner, and frequency as specified by the Secretary.
+>       - **(ii)** meet minimum criteria, as established by the Secretary; and
+>       - **(iii)** submit to the Secretary, in such form, manner, and frequency as specified by the Secretary, with respect to each applicable beneficiary for whom opioid use disorder treatment services are furnished by the opioid use disorder care team, data and such other information as the Secretary determines appropriate to—
+>         - **(I)** monitor and evaluate the Program;
+>         - **(II)** determine if minimum criteria are met under clause (ii); and
+>         - **(III)** determine the incentive payment under subsection (e).
 >   - **(3)** *Eligible practitioners; Other provider-related definitions and application provisions*
->     - **(A)** *Eligible practitioners* For purposes of this section, the term eligible practitioner means a physician or other health care practitioner, such as a nurse practitioner or advanced practice nurse, that—
->       - **(i)** is enrolled under section 1861(j);
+>     - **(A)** *Eligible practitioners* For purposes of this section, the term eligible practitioner means a physician or other health care practitioner, such as a nurse practitioner, that—
+>       - **(i)** is enrolled under section 1866(j)(1);
 >       - **(ii)** is authorized to prescribe or dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment; and
->       - **(iii)** has in effect a registration or waiver in accordance with section 303(g) of the Controlled Substances Act for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section.
+>       - **(iii)** has in effect a waiver in accordance with section 303(g) of the Controlled Substances Act for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section.
 >     - **(B)** *Addiction specialists* For purposes of subsection (e)(1)(B)(iv), the term addiction specialist means a physician that possesses expert knowledge and skills in addiction medicine, as evidenced by appropriate certification from a specialty body, a certificate of advanced qualification in addiction medicine, or completion of an accredited residency or fellowship in addiction medicine or addiction psychiatry, as determined by the Secretary.
 > - **(d)** *Participation of applicable beneficiaries*
 >   - **(1)** *Applicable beneficiary defined* In this section, the term applicable beneficiary means an individual who—
@@ -75,7 +78,7 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >     - **(B)** is not enrolled in a Medicare Advantage plan under part C;
 >     - **(C)** has a current diagnosis for an opioid use disorder; and
 >     - **(D)** meets such other criteria as the Secretary determines appropriate.
->   - **(2)** *Voluntary participation; limitation on number of participants* An applicable beneficiary may participate in the Program on a voluntary basis and may terminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program.
+>   - **(2)** *Voluntary participation; limitation on number of participants* An applicable beneficiary may participate in the Program on a voluntary basis and may terminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program at any time.
 >   - **(3)** *Services* In order to participate in the Program, an applicable beneficiary shall agree to receive opioid use disorder treatment services from a participant. Participation under the Program shall not affect coverage of or payment for any other item or service under this title for the applicable beneficiary.
 >   - **(4)** *Beneficiary access to services* Nothing in this section shall be construed as encouraging providers to limit applicable beneficiary access to services covered under this title and applicable beneficiaries shall not be required to relinquish access to any benefit under this title as a condition of receiving services from a participant in the Program.
 > - **(e)** *Payments*
@@ -87,6 +90,7 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >       - **(iii)** pay a higher per applicable beneficiary per month care management fee for the month in which the applicable beneficiary begins treatment with a participant than in subsequent months, to reflect the greater time and costs required for the planning and initiation of treatment, as compared to maintenance of treatment;
 >       - **(iv)** pay higher per applicable beneficiary per month care management fees for participants that have established opioid use disorder care teams that include an addiction specialist (as defined in subsection (c)(3)(B)); and
 >       - **(v)** take into account whether a participant’s opioid use disorder care team refers applicable beneficiaries to other suppliers or providers for any opioid use disorder treatment services.
+>     - **(C)** *No duplicate payment* The Secretary shall make payments under this paragraph to only one participant for services furnished to an applicable beneficiary during a calendar month.
 >   - **(2)** *Incentive payments*
 >     - **(A)** *In general* Under the Program, the Secretary shall establish a performance-based incentive payment, which shall be paid (using a methodology established and at a time determined appropriate by the Secretary) to participants based on the performance of participants with respect to criteria, as determined appropriate by the Secretary, in accordance with subparagraph (B).
 >     - **(B)** *Criteria*
@@ -97,8 +101,7 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >       - **(ii)** *Required consultation and consideration* In determining criteria described in subparagraph (A), the Secretary shall—
 >         - **(I)** consult with stakeholders, including clinicians in the primary care community and in the field of addiction medicine; and
 >         - **(II)** consider existing clinical guidelines for the treatment of opioid use disorders.
->     - **(C)** *Submission of data* Each participant shall submit to the Secretary, in such form, manner, and frequency specified by the Secretary, data with respect to such criteria described in subparagraph (A) and such other information as the Secretary determines appropriate to evaluate and monitor the effectiveness of the Program, to determine the performance of the participants for purposes of the incentive payment under subparagraph (A), and to ensure the participants meet minimum criteria for program participation described in subsection (c)(2)(B)(ii).
->   - **(3)** *Non-duplication of payments* In the case if an applicable beneficiary receiving services supported by the Program from more than one participant during any one calendar month, or from a participant and a provider who is not a participant during any one calendar month, the Secretary shall adjust (such as pro-rate) payment under paragraph (1) and any payment under paragraph (2) to each such participant, with respect to such applicable beneficiary and month to avoid any duplication of payment.
+>     - **(C)** *No duplicate payment* The Secretary shall ensure that no duplicate payments under this paragraph are made with respect to an applicable beneficiary.
 > - **(f)** *Multipayer strategy* In carrying out the Program, the Secretary shall encourage other payers to provide similar payments and to use similar criteria as applied under the Program under subsection (e)(2)(C). The Secretary may enter into a memorandum of understanding with other payers to align the methodology for payment provided by such a payer related to opioid use disorder treatment services with such methodology for payment under the Program.
 > - **(g)** *Evaluation*
 >   - **(1)** *In general* The Secretary shall conduct an intermediate and final evaluation of the program. Each such evaluation shall determine the extent to which each of the purposes described in subsection (b) have been accomplished under the Program.
@@ -106,7 +109,28 @@ Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by in
 >     - **(A)** a report with respect to the intermediate evaluation under paragraph (1) not later than 3 years after the date of the implementation of the Program; and
 >     - **(B)** a report with respect to the final evaluation under paragraph (1) not later than 6 years after such date.
 > - **(h)** *Funding*
->   - **(1)** *Administrative funding* For the purposes of implementing, administering, and carrying out the Program (other than for purposes described in paragraph (2)), the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account.
->   - **(2)** *Care management fees and incentives* For the purposes of making payments under subsection (e), the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of $10,000,000 for each of fiscal years 2021 through 2025.
+>   - **(1)** *Administrative funding* For the purposes of implementing, administering, and carrying out the Program (other than for purposes described in paragraph (2)), $5 million shall be available from the Federal Supplementary Medical Insurance Trust Fund under section 1841.
+>   - **(2)** *Care management fees and incentives* For the purposes of making payments under subsection (e), $10 million shall be available from the Federal Supplementary Medical Insurance Trust Fund under section 1841 for each of fiscal years 2021 through 2024.
 >   - **(3)** *Availability* Amounts transferred under this subsection for a fiscal year shall be available until expended.
 > - **(i)** *Waivers* The Secretary may waive any provision of this title as may be necessary to carry out the Program under this section.
+
+## § 3. Requiring e-prescribing for coverage of covered part D controlled substances
+
+- **(a)** *In general* Section 1860D–4(e) of the Social Security Act (42 U.S.C. 1395w–104(e)) is amended by adding at the end the following:
+  > - **(7)** *Requirement of e-prescribing for controlled substances*
+  >   - **(A)** *In general* Subject to subparagraph (B), a prescription for a covered part D drug under a prescription drug plan (or under an MA–PD plan) for a schedule II, III, IV, or V controlled substance shall be transmitted by a health care practitioner electronically in accordance with an electronic prescription drug program that meets the requirements of paragraph (2).
+  >   - **(B)** *Exception for certain circumstances* The Secretary shall, pursuant to rulemaking, specify circumstances with respect to which the Secretary may waive the requirement under subparagraph (A), with respect to a covered part D drug, including in the case of—
+  >     - **(i)** a prescription issued when the practitioner and dispenser are the same entity;
+  >     - **(ii)** a prescription issued that cannot be transmitted electronically under the most recently implemented version of the National Council for Prescription Drug Programs SCRIPT Standard;
+  >     - **(iii)** a prescription issued by a practitioner who has received a waiver or a renewal thereof for a specified period determined by the Secretary, not to exceed 1 year, from the requirement to use electronic prescribing, pursuant to a process established by regulation by the Secretary, due to demonstrated economic hardship, technological limitations that are not reasonably within the control of the practitioner, or other exceptional circumstance demonstrated by the practitioner;
+  >     - **(iv)** a prescription issued by a practitioner under circumstances in which, notwithstanding the practitioner’s ability to submit a prescription electronically as required by this subsection, such practitioner reasonably determines that it would be impractical for the individual involved to obtain substances prescribed by electronic prescription in a timely manner, and such delay would adversely impact the individual’s medical condition involved;
+  >     - **(v)** a prescription issued by a practitioner allowing for the dispensing of a non-patient specific prescription pursuant to a standing order, approved protocol for drug therapy, collaborative drug management, or comprehensive medication management, in response to a public health emergency, or other circumstances where the practitioner may issue a non-patient specific prescription;
+  >     - **(vi)** a prescription issued by a practitioner prescribing a drug under a research protocol;
+  >     - **(vii)** a prescription issued by a practitioner for a drug for which the Food and Drug Administration requires a prescription to contain elements that are not able to be included in electronic prescribing, such as a drug with risk evaluation and mitigation strategies that include elements to assure safe use; and
+  >     - **(viii)** a prescription issued by a practitioner for an individual who—
+  >       - **(I)** receives hospice care under this title; or
+  >       - **(II)** is a resident of a skilled nursing facility (as defined in section 1819(a)), or a medical institution or nursing facility for which payment is made for an institutionalized individual under section 1902(q)(1)(B), for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy, as determined by the Secretary in accordance with this paragraph.
+  >   - **(C)** *Dispensing* Nothing in this paragraph shall be construed as requiring a sponsor of a prescription drug plan under this part, MA organization offering an MA–PD plan under part C, or a pharmacist to verify that a practitioner, with respect to a prescription for a covered part D drug, has a waiver (or is otherwise exempt) under subparagraph (B) from the requirement under subparagraph (A). Nothing in this paragraph shall be construed as affecting the ability of the plan to cover or the pharmacists’ ability to continue to dispense covered part D drugs from otherwise valid written, oral or fax prescriptions that are consistent with laws and regulations. Nothing in this paragraph shall be construed as affecting the ability of the beneficiary involved to designate a particular pharmacy to dispense a prescribed drug to the extent consistent with the requirements under subsection (b)(1) and under this paragraph.
+  >   - **(D)** *Enforcement* The Secretary shall, pursuant to rulemaking, have authority to enforce and specify appropriate penalties for non-compliance with the requirement under subparagraph (A).
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to coverage of drugs prescribed on or after January 1, 2021.
