@@ -1,7 +1,7 @@
 ---
 measure: S. 2269
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
