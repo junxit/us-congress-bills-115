@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stop Excessive Narcotics in our Retirement Communities Protection Act” or the “SENIOR Communities Protection Act”.
+This Act may be cited as the “Stop Excessive Narcotics in our Retirement Communities Protection Act of 2018” or the “SENIOR Communities Protection Act of 2018”.
 
 ## § 2. Suspension of payments by Medicare prescription drug plans and MA–PD plans pending investigations of credible allegations of fraud by pharmacies
 
