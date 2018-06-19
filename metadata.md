@@ -1,7 +1,7 @@
 ---
 measure: S. 2652
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2652
@@ -92,9 +92,10 @@ Stephen Michael Gleason Congressional Gold Medal Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -104,3 +105,6 @@ Stephen Michael Gleason Congressional Gold Medal Act
 - 2018-06-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3945)
 - 2018-06-14 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S3945-3947)
 - 2018-06-14 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S3945-3947)
+- 2018-06-15 — Message on Senate action sent to the House.
+- 2018-06-19 — Received in the House.
+- 2018-06-19 — Referred to the House Committee on Financial Services.
