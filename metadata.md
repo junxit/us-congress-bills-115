@@ -1,7 +1,7 @@
 ---
 measure: S. 2652
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2652
@@ -108,3 +108,17 @@ Stephen Michael Gleason Congressional Gold Medal Act
 - 2018-06-15 — Message on Senate action sent to the House.
 - 2018-06-19 — Received in the House.
 - 2018-06-19 — Referred to the House Committee on Financial Services.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — Considered as unfinished business. (consideration: CR H10436-10437)
+- 2018-12-20 — Considered under suspension of the rules. (consideration: CR H10415-10416)
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on S. 2652.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Huizenga moved to suspend the rules and pass the bill.
+- 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 457). (text: CR H10415)
+- 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 457).(text: CR H10415)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-415.
+- 2019-01-03 — Became Public Law No: 115-415.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
