@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5801
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5801
@@ -36,3 +36,9 @@ Medicaid PARTNERSHIP Act
 - 2018-06-12 — Placed on the Union Calendar, Calendar No. 560.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-725.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-725.
+- 2018-06-19 — Considered under suspension of the rules. (consideration: CR H5245-5247)
+- 2018-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5801.
+- 2018-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-19 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5245-5247)
+- 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5245-5247)
