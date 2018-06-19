@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6149
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6149
+
+> To amend the Internal Revenue Code of 1986 to exclude from gross income certain Federally-subsidized loan repayments for dental school faculty.
+
+## § 1. Exclusion of certain Federally-subsidized loan repayments for dental school faculty
+
+- **(a)** *In general* Section 108(f)(4) of the Internal Revenue Code of 1986 is amended by inserting “under a loan repayment program receiving a grant or contract under section 748(a)(2) of such Act,” after “section 338I of such Act,”.
+- **(b)** *Conforming amendment* Section 108(f)(4) of such Code is amended by striking “National Health Service Corps loan repayment program and certain State loan repayment programs” in the heading thereof and inserting “certain Federal and State loan repayment programs”.
+- **(c)** *Effective date* The amendments made by this section shall apply to amounts received in taxable years beginning after the date of the enactment of this Act.
