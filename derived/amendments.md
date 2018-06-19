@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5775
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -41,4 +41,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-104` | redesignate | in subclause (III), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | add-at-end | Section 1886(b)(3)(B)(viii) of the Social Security Act (42 U.S.C. 1395ww(b)(3)(B)(viii)) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(o)(2)(B) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(o)(2)(B) of the Social Security Act (42 U.S.C. 1395ww(o)(2)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
