@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6110
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,7 +36,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834(o) of the Social Security Act (42 U.S.C. 1395m(o)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | redesignate | by redesignating the subsection (z) relating to medical review of spinal subluxation services as subsection (aa); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1315a` | add-at-end | Section 1115A(b)(2)(B) of the Social Security Act (42 U.S.C. 1315a(b)(2)(B)) is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1315a` | add-at-end | Section 1115A(b)(2)(B) of the Social Security Act (42 U.S.C. 1315a(b)(2)(B) is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(f)(3) of the Social Security Act (42 U.S.C. 1395w–27(f)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395y` | insert | Section 1862(o)(3) of the Social Security Act (42 U.S.C. 1395y(o)(3)) is amended by inserting “, section 1860D–12(b)(7) (including as applied pursuant to section 1857(f)(3)(D)),” after “this subsection”. | the bill quotes the text inserted but describes where it goes |

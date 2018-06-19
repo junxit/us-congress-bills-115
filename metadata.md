@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6110
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6110
@@ -39,3 +39,9 @@ Dr. Todd Graham Pain Management, Treatment, and Recovery Act of 2018
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-06-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-06-19 — Considered under suspension of the rules. (consideration: CR H5249-5254)
+- 2018-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6110.
+- 2018-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-19 — Mrs. Walorski moved to suspend the rules and pass the bill.
+- 2018-06-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5250-5252)
+- 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5250-5252)
