@@ -1,7 +1,7 @@
 ---
 measure: S. 2269
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
