@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5515
 congress: 115
-version: Printed as Passed
+version: Enrolled Bill
 ---
 
 # H.R. 5515
@@ -16,7 +16,7 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Cosponsors (585)
+## Cosponsors (590)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -297,6 +297,11 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -1612,3 +1617,76 @@ John S. McCain National Defense Authorization Act for Fiscal Year 2019
 - 2018-06-18 — Senate amendment submitted
 - 2018-06-19 — Message on Senate action sent to the House.
 - 2018-06-19 — Senate ordered measure printed as passed.
+- 2018-06-27 — DEBATE - The House proceeded with one hour of debate on the Carbajal motion to instruct conferees on H.R. 5515. The instructions contained in the motion seek to require the managers on the part of the House to agree to section 703 of the Senate bill.
+- 2018-06-27 — Message on House action received in Senate and at desk: House requests a conference.
+- 2018-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-27 — Mr. Carbajal moved that the House instruct conferees.
+- 2018-06-27 — Mr. Thornberry asked unanimous consent that the House disagree to the Senate amendment, and request a conference. (consideration: CR H5782-5783; text: CR H5782)
+- 2018-06-27 — Mr. Thornberry moved to close portions of the conference.
+- 2018-06-27 — On Closing Portions of the Conference Agreed to by the Yeas and Nays: 403 - 15 (Roll no. 301).
+- 2018-06-27 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.
+- 2018-06-27 — On motion that the House instruct conferees Failed by the Yeas and Nays: 188 - 231 (Roll No. 300).
+- 2018-06-27 — Resolving differences -- House actions: On Closing Portions of the Conference Agreed to by the Yeas and Nays: 403 - 15 (Roll no. 301).
+- 2018-06-27 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Thornberry, Wilson of South Carolina, LoBiondo, Bishop of Utah, Turner, Rogers of Alabama, Shuster, Conaway, Lamborn, Wittman, Coffman, Hartzler, Austin Scott of Georgia, Cook, Byrne, Stefanik, Bacon, Banks of Indiana, Smith of Washington, Davis of California, Langevin, Cooper, Bordallo, Courtney, Tsongas, Garamendi, Speier, Veasey, Gabbard, O'Rourke, and Murphy of Florida.
+- 2018-06-27 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of title XVII of the Senate amendment, and modifications committed to conference: Latta, Johnson (OH), and Pallone.
+- 2018-06-27 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of title XVII of the Senate amendment, and modifications committed to conference: Hensarling, Barr, and Waters, Maxine.
+- 2018-06-27 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of title XVII of the Senate amendment, and modifications committed to conference: Royce (CA), Kinzinger, and Engel.
+- 2018-06-27 — The previous question was ordered without objection.
+- 2018-07-03 — The Speaker appointed a conferee for consideration of secs. 228, 518, 554, 563, 564, 883, 1044, 1049, 1050B, 1075, 1094, 1095, 1111, 2848, 3120C, 3501, 3504, 3522-25, 3528, 3529, and division D of the House bill and secs. 153, 556, 561-63, 601, 1604, 3501, 3502, 7501, 7502, 7507-09, 7515, and 7517 of the Senate amendment, and modifications committed to conference: Lewis (MN).
+- 2018-07-03 — The Speaker appointed a conferee for consideration of secs. 313, 314, 316, 342, 1043, 1076, 1079, 1252, 1523, 2822, 2830, 2830A, 2831, 2832, 2845-47, 3402, 3549, 4810, 4837, division E, and sec. 6101 of the House bill and secs. 4, 601, 1002, 1032, 1721, 2833, 2836, and 7518 of the Senate amendment, and modifications committed to conference: Bergman.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Education and the Workforce for consideration of secs. 228, 563, 564, 1094, and 3120C of the House bill, and secs. 561-63 of the Senate amendment, and modifications committed to conference: Foxx and Scott (VA).
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Energy and Commerce for consideration of secs. 701, 712, 1083, 1096, 3111-13, 3118, 3119, 3132, and 4305 of the House bill, and secs. 315, 601, 714, 3111-15, 5802, and 7509 of the Senate amendment, and modifications committed to conference: Walden, Hudson, and Pallone.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Financial Services for consideration of 1299O-2 and 1236 of the House bill, and modifications committed to conference: Hensarling, Barr, and Waters, Maxine.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Foreign Affairs for consideration of secs. 346, 1042, 1202-06, 1210, 1211, 1221-23, 1230A, 1230D, 1230F, 1231, 1234, 1236, 1237, 1239, 1240, 1254-56, 1264, 1267, 1268, 1271, 1274, 1276, 1278, 1280, 1282, 1288, 1299O-1, 1299O-2, 1299O-3, 1299O-4, 1301, 1302, 1521, 1522, and 3116 of the House bill, and secs. 331, 1061, 1063, 1201-04, 1207, 1211, 1213, 1221-23, 1231-33, 1241, 1244, 1245, 1261, 1262, 1264-66, 1269, 1301, 1302, 1531, 1622, 1623, 1654, 3113, 3116, 6002, 6202-04, 6701, and 6702 of the Senate amendment, and modifications committed to conference: Royce (CA), Mast, and Engel.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Homeland Security for consideration of sec. 1634 of the House bill, and modifications committed to conference: McCaul, Ratcliffe, and Thompson (MS).
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Natural Resources for consideration of secs. 313, 314, 316, 342, 1043, 1076, 1079, 2822, 2830, 2830A, 2831, 2832, 2845-47, 3402, 3549, 4810, 4837, division E, and sec. 6101 of the House bill, and secs. 601, 2833, 2836, and 7518 of the Senate amendment, and modifications committed to conference: Westerman and Grijalva.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Oversight and Government Reform for consideration of secs. 506, 511, 569, 822, 831, 832, 834, 835, 860, 875, 880-84, 886, 917, 1101-11, 4711, and 4829 of the House bill, and secs. 568, 595, 607, 632, 702, 813, 902, 937, 1101-05, 1122-25, 1254B, 1628, 1639, 1640, 1716, 1726, 2835, and 6702 of the Senate amendment, and modifications committed to conference: Sanford, Ross, and Lynch.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Science, Space, and Technology for consideration of secs. 854, 858, and 1603 of the House bill, and secs. 893 and 1604 of the Senate amendment, and modifications committed to conference: Smith (TX), Lucas, and Johnson, E. B..
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Small Business for consideration of secs. 811, 851-58, 861, 863-68, and 2803 of the House bill, and secs. 893, 1626, and 6006 of the Senate amendment, and modifications committed to conference: Chabot, Knight, and Velazquez.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 518, 554, 883, 1044, 1049, 1050B, 1075, 1095, 1111, 2848, 3501, 3504, 3522-25, 3528, 3529, and division D of the House bill, and secs. 153, 556, 601, 1604, 3501, 3502, 7501, 7502, 7507-09, 7515, and 7517 of the Senate amendment, and modifications committed to conference: Comstock and Brownley (CA).
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Veterans' Affairs for consideration of secs. 547, 552, 582, 1411, and 2844 of the House bill, and secs. 721, 726, and 1431 of the Senate amendment, and modifications committed to conference: Roe (TN), Poliquin, and Walz.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on Ways and Means for consideration of sec. 701 of the House bill, and sec. 6201 of the Senate amendment, and modifications committed to conference: Reichert, Roskam, and Neal.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on the Budget for consideration of secs. 1252 and 1523 of the House bill, and secs. 4, 1002, 1032, and 1721 of the Senate amendment, and modifications committed to conference: Womack and Yarmuth.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Committee on the Judiciary for consideration of secs. 826, 1043, 1050B, 1073, 1074, 1079, 1085, 1087, 1090, 1299O-2, 4319, and 4710 of the House bill, and secs. 1025, 1035 and 1715 of the Senate amendment, and modifications committed to conference: Goodlatte, Sensenbrenner, and Nadler.
+- 2018-07-03 — The Speaker appointed additional conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Nunes, Stewart, and Schiff.
+- 2018-07-10 — Measure laid before Senate by unanimous consent.
+- 2018-07-10 — Motion by Senator Cornyn to instruct Senate conferees (Committee on Foreign Investment) agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 148.
+- 2018-07-10 — Motion by Senator Cornyn to instruct Senate conferees made in Senate.
+- 2018-07-10 — Motion by Senator Reed to instruct Senate conferees (NATO) agreed to in Senate by Yea-Nay Vote. 97 - 2. Record Vote Number: 149.
+- 2018-07-10 — Motion by Senator Reed to instruct Senate conferees made in Senate.
+- 2018-07-10 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Yea-Nay Vote. 91 - 8. Record Vote Number: 147.
+- 2018-07-10 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate.
+- 2018-07-10 — Senate appointed conferees. McCain; Inhofe; Wicker; Fischer; Cotton; Rounds; Ernst; Tillis; Sullivan; Perdue; Cruz; Graham; Sasse; Scott; Crapo; Reed; Nelson; McCaskill; Shaheen; Gillibrand; Blumenthal; Donnelly; Hirono; Kaine; King; Heinrich; Warren; Peters; Brown.
+- 2018-07-10 — Senate insists on its amendment, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2018-07-11 — Message on Senate action sent to the House.
+- 2018-07-23 — Conference report H. Rept. 115-863 filed. (text of conference report: CR H6653-7088)
+- 2018-07-23 — Conference report filed: Conference report H. Rept. 115-863 filed.(text of conference report: CR H6653-7088)
+- 2018-07-24 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2018-07-24 — House recommitted the conference report pursuant to H. Res. 1019.
+- 2018-07-24 — House recommitted the conference report pursuant to H.Res. 1019
+- 2018-07-25 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2018-07-25 — Conference report H. Rept. 115-874 filed. (text of conference report: CR H7202-7637)
+- 2018-07-25 — Conference report filed: Conference report H. Rept. 115-874 filed.(text of conference report: CR H7202-7637)
+- 2018-07-25 — Rules Committee Resolution H. Res. 1027 Reported to House. Rule provides for consideration of the conference report to H.R. 5515.
+- 2018-07-26 — Cloture motion on the conference report to accompany H.R. 5515 presented in Senate. (CR S5412)
+- 2018-07-26 — Conference papers: message on House action held at the desk in Senate.
+- 2018-07-26 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 54 (Roll no. 379).(consideration: CR H7708-7709)
+- 2018-07-26 — Conference report considered in Senate. (consideration: CR S5412-5417)
+- 2018-07-26 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 5515.
+- 2018-07-26 — DEBATE - The House resumed debate on the conference report to accompany H.R. 5515.
+- 2018-07-26 — Motions to reconsider laid on the table Agreed to without objection.
+- 2018-07-26 — Mr. Thornberry brought up conference report H. Rept. 115-874 for consideration under the provisions of H. Res. 1027. (consideration: CR H7699-7709)
+- 2018-07-26 — On agreeing to the conference report Agreed to by the Yeas and Nays: 359 - 54 (Roll no. 379). (consideration: CR H7708-7709)
+- 2018-07-26 — Rule H. Res. 1027 passed House.
+- 2018-07-26 — The previous question was ordered pursuant to the rule.
+- 2018-08-01 — Cloture motion on the conference report to accompany H.R. 5515 withdrawn by unanimous consent in Senate.
+- 2018-08-01 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 87 - 10. Record Vote Number: 181.
+- 2018-08-01 — Conference report considered in Senate. (consideration: CR S5538-5543)
+- 2018-08-01 — Message on Senate action sent to the House.
+- 2018-08-01 — Senate agreed to conference report by Yea-Nay Vote. 87 - 10. Record Vote Number: 181.
+- 2018-08-03 — Presented to President.
+- 2018-08-03 — Presented to President.
+- 2018-08-13 — Became Public Law No: 115-232.
+- 2018-08-13 — Became Public Law No: 115-232.
+- 2018-08-13 — Signed by President.
+- 2018-08-13 — Signed by President.
