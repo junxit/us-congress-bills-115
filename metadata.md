@@ -1,7 +1,7 @@
 ---
 measure: S. 2535
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2535
@@ -30,3 +30,7 @@ Opioid Quota Reform Act
 
 - 2018-03-12 — Introduced in Senate
 - 2018-03-12 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S1632)
+- 2018-05-24 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-06-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
