@@ -1,7 +1,7 @@
 ---
 measure: S. 2269
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2269
@@ -16,7 +16,7 @@ Global Food Security Reauthorization Act of 2017
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (10)
+## Cosponsors (13)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -28,6 +28,9 @@ Global Food Security Reauthorization Act of 2017
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -41,3 +44,5 @@ Global Food Security Reauthorization Act of 2017
 - 2018-05-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-05-22 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
+- 2018-06-19 — Passed Senate without amendment by Voice Vote. (consideration: CR S4248-4249; text: CR S4249)
+- 2018-06-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4248-4249; text: CR S4249)
