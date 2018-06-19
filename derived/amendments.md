@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6042
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,6 +52,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1396b` | strike | in subparagraph (A)(i), by striking “2019 and”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396b` | replace | by striking “The term personal care services means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396b` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

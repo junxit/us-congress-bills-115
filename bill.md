@@ -9,20 +9,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title XIX of the Social Security Act to delay the reduction in Federal medical assistance percentage for Medicaid personal care services furnished without an electronic visit verification system, and for other purposes.
 
-## § 1. Delay in reduction of FMAP for Medicaid personal care services furnished without an electronic visit ver­i­fi­ca­tion system
+## § 1. Delay in reduction of FMAP for Medicaid personal care services furnished without an electronic visit verification system
 
 - **(a)** *In general* Section 1903(l) of the Social Security Act (42 U.S.C. 1396b(l)) is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by striking “January 1, 2019” and inserting “January 1, 2020”; and
     - **(B)** in subparagraph (A)(i), by striking “2019 and”; and
   - **(2)** in paragraph (4)(A)(i), by striking “calendar quarters in 2019” and inserting “calendar quarters in 2020”.
-- **(b)** *Definition of personal care services* Section 1903(l)(5)(C) of the Social Security Act (42 U.S.C. 1396b(l)(5)(C)) is amended—
-  - **(1)** by striking “The term “personal care services” means” and inserting the following:
-    > The term “personal care services”—
-    > - **(i)** means
-
-  - **(2)** by striking the period and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(ii)** does not include personal care services—
-    >   - **(I)** provided to individuals who are inpatients or residents of a hospital, a nursing facility, an intermediate care facility for individuals with intellectual disabilities, or an institution for mental diseases; or
-    >   - **(II)** provided in congregate residential programs such as group homes, assisted living facilities, or other congregate residential settings in which 24-hour service is available.
+- **(b)** *Sense of Congress on stakeholder input regarding electronic visit verification systems* It is the sense of Congress that—
+  - **(1)** the Centers for Medicare & Medicaid Services should—
+    - **(A)** convene at least one public meeting in 2018 for the purpose of soliciting ongoing feedback from Medicaid stakeholders on guidance issued by the Centers for Medicare & Medicaid Services on May 16, 2018, regarding electronic visit verification; and
+    - **(B)** communicate with such stakeholders regularly and throughout the implementation process in a clear and transparent manner to monitor beneficiary protections;
+  - **(2)** such stakeholders should include State Medicaid directors, beneficiaries, family caregivers, individuals and entities who provide personal care services or home health care services, Medicaid managed care organizations, electronic visit verification vendors, and other stakeholders, as determined by the Centers for Medicare & Medicaid Services; and
+  - **(3)** taking into account stakeholder input on the implementation of the electronic visit verification requirement under the Medicaid program is vital in order to ensure that the Centers for Medicare & Medicaid Services is aware and able to mitigate any adverse outcomes with the implementation of this policy.
