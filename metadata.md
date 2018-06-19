@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5762
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5762
@@ -35,3 +35,9 @@ Joint Task Force to Combat Opioid Trafficking Act of 2018
 - 2018-06-14 — Placed on the Union Calendar, Calendar No. 588.
 - 2018-06-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-755.
 - 2018-06-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-755.
+- 2018-06-19 — Considered under suspension of the rules. (consideration: CR H5267-5269)
+- 2018-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5762.
+- 2018-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-19 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
+- 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5267-5268)
+- 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5267-5268)
