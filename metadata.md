@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4005
@@ -38,3 +38,10 @@ Medicaid Reentry Act
 - 2018-06-12 — Placed on the Union Calendar, Calendar No. 568.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-733.
 - 2018-06-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-733.
+- 2018-06-19 — Considered under suspension of the rules. (consideration: CR H5233-5234)
+- 2018-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4005.
+- 2018-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-19 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5233)
+- 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5233)
+- 2018-06-19 — The title of the measure was amended. Agreed to without objection.
