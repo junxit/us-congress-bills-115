@@ -20,7 +20,3 @@ Not later than March 15, 2019, the Medicare Payment Advisory Commission shall su
 - **(1)** A description of how the Medicare program pays for pain management treatments (both opioid and non-opioid pain management alternatives) in both inpatient and outpatient hospital settings.
 - **(2)** The identification of incentives under the hospital inpatient prospective payment system under section 1886 of the Social Security Act (42 U.S.C. 1395ww) and incentives under the hospital outpatient prospective payment system under section 1833(t) of such Act (42 U.S.C. 1395l(t)) for prescribing opioids and incentives under each such system for prescribing non-opioid treatments, and recommendations as the Commission deems appropriate for addressing any of such incentives that are adverse incentives.
 - **(3)** A description of how opioid use is tracked and monitored through Medicare claims data and other mechanisms and the identification of any areas in which further data and methods are needed for improving data and understanding of opioid use.
-
-## § 3. No additional funds authorized
-
-No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
