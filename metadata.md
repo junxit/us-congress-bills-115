@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5796
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5796
@@ -24,10 +24,11 @@ REACH OUT Act of 2018
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ REACH OUT Act of 2018
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5237)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5237)
 - 2018-06-19 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
