@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6171
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6171
+
+> To authorize the Coast Guard to issue a certificate of documentation with a coastwise endorsement for the vessel Oliver Hazard Perry, and for other purposes.
+
+## § 1. Jones Act waiver for the “Oliver Hazard Perry”
+
+Notwithstanding sections 12112 and 12132 and chapter 551 of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation with a coastwise endorsement for the vessel Oliver Hazard Perry (International Maritime Organization number 8775560; United States official number 1257224).
