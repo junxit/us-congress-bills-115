@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3392
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,27 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Lake Bistineau Land Title Stability Act”.
 
-## § 2. Findings and purpose
+## § 2. Purpose
 
-- **(a)** *Findings* Congress finds that—
-  - **(1)** on December 8, 1842, the Surveyor General approved an original survey of land in northern Louisiana, which included the land surrounding Lake Bistineau;
-  - **(2)** under the equal footing doctrine, the State of Louisiana was entitled to the land underlying the navigable waters in place within the boundaries of the State as of the date on which the State joined the Union;
-  - **(3)** the State of Louisiana delineated the ownership of the land in the State based on the Original Survey;
-  - **(4)** in 1901, the State of Louisiana—
-    - **(A)** transferred more than 7,000 acres of land to the commissioners of the Bossier Levee District through Louisiana Act Number 89 of 1892; and
-    - **(B)** conducted a survey that followed the same path around Lake Bistineau as the path included in the Original Survey;
-  - **(5)** in 1904, the Bossier Levee District subsequently conveyed the land described in paragraph (4)(A) to private ownership;
-  - **(6)** parcels of the land described in paragraph (4)(A) were bought and sold in good faith based on the stability of the title to the land;
-  - **(7)** on September 16, 1967, the Bureau of Land Management submitted a resurvey of the land described in paragraph (4)(A) for S30–T16N–R10W and 2 adjacent islands, which presented a new line to represent what the Bureau of Land Management surveyors believed to be the contour of Lake Bistineau as of the date on which the State of Louisiana joined the Union;
-  - **(8)** on January 15, 1969, the Bureau of Land Management approved the Resurvey;
-  - **(9)** on February 27, 1969, notice of the filing of the Resurvey was filed in the Federal Register (34 Fed. Reg. 2677), but the Bureau of Land Management has presented no records of further notice provided to the affected landowners regarding—
-    - **(A)** the effects of the Resurvey; or
-    - **(B)** the right of affected landowners to contest the Resurvey;
-  - **(10)** on September 27, 2013, the Bureau of Land Management responded to an inquiry by certain owners of land subject to the Resurvey to inform the landowners that title to the land of the landowners would “appear to be still vested in the United States”; and
-  - **(11)** there are estimated to be more than 200 acres of, and more than 50 residential homes located on, the land subject to the Resurvey.
-- **(b)** *Purpose* The purpose of this Act is to direct the Secretary of the Interior to issue a recordable disclaimer of interest of the United States in and to—
-  - **(1)** any land described in paragraphs (1) and (2) of subsection (b) of section 4 that is located outside the record meander lines described in that subsection; and
-  - **(2)** any omitted land.
+The purpose of this Act is to direct the Secretary of the Interior to issue a recordable disclaimer of interest of the United States in and to—
+
+- **(1)** any land described in paragraphs (1) and (2) of subsection (a) of section 4 that is located outside the record meander lines of the Original Survey described in that subsection; and
+- **(2)** any omitted land.
 
 ## § 3. Definitions
 
@@ -44,17 +29,14 @@ In this Act:
 - **(3)** *Resurvey* The term “Resurvey” means the document entitled “Dependent Re-Survey, Extension Survey and Survey of Two Islands, Sections 17, 29, and 30”, which was completed on November 24, 1967, approved on January 15, 1969, and published in the Federal Register on February 27, 1969 (34 Fed. Reg. 2677).
 - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
-## § 4. Legal status of Resurvey
+## § 4. Meander lines; recordable disclaimer of interest
 
-- **(a)** *In general* The Resurvey—
-  - **(1)** shall not be considered to be, or serve as, a gross error determination; and
-  - **(2)** shall have no legal force or effect on the ownership of the land described in paragraphs (1) and (2) of subsection (b).
-- **(b)** *Meander lines* The meander lines in the Original Survey are definitive for purposes of determining title to—
+- **(a)** *Meander lines* The meander lines in the Original Survey are definitive for purposes of determining title to—
   - **(1)** the land in S30–T16N–R10W; and
   - **(2)** the 2 islands adjacent to the land described in paragraph (1).
-- **(c)** *Disclaimer of interest*
-  - **(1)** *In general* The Secretary shall prepare a disclaimer of interest in which the United States disclaims any right, title, or interest of the United States in and to—
-    - **(A)** any land described in paragraphs (1) and (2) of subsection (b) that is located outside the recorded meander lines described in that subsection; and
+- **(b)** *Recordable disclaimer of interest*
+  - **(1)** *In general* The Secretary shall prepare a recordable disclaimer of interest in which the United States conveys and disclaims any right, title, or interest of the United States in and to—
+    - **(A)** any land described in paragraphs (1) and (2) of subsection (a) that is located outside the recorded meander lines described in that subsection; and
     - **(B)** any omitted land.
   - **(2)** *Filing* The Secretary shall record the disclaimer of interest prepared under paragraph (1) in the appropriate local office in the State of Louisiana in which real property documents are recorded.
   - **(3)** *Inclusions* The disclaimer of interest filed under paragraph (2) shall include legal descriptions of the land subject to the disclaimer of interest using the lot or tract numbers included in the Resurvey.
