@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6042
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6042
@@ -39,3 +39,14 @@ To amend title XIX of the Social Security Act to delay the reduction in Federal 
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5244)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5244)
 - 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2018-07-17 — Passed Senate without amendment by Unanimous Consent.
+- 2018-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-07-17 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S5006)
+- 2018-07-17 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S5006)
+- 2018-07-18 — Message on Senate action sent to the House.
+- 2018-07-19 — Presented to President.
+- 2018-07-19 — Presented to President.
+- 2018-07-30 — Became Public Law No: 115-222.
+- 2018-07-30 — Became Public Law No: 115-222.
+- 2018-07-30 — Signed by President.
+- 2018-07-30 — Signed by President.
