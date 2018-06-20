@@ -2,7 +2,7 @@
 legis-num: H.R. 5775
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5775
@@ -26,7 +26,7 @@ Section 1860D–4(a)(1) of the Social Security Act (42 U.S.C. 1395w–104(a)(1))
   >     - **(bb)** in the case of a prescription drug plan, under such plan and under parts A and B.
 
 - **(3)** by adding at the end the following new subparagraph:
-  > - **(C)** *Targeted provision of information* A PDP sponsor of a prescription drug plan may, in lieu of disclosing the information described in subparagraph (B)(vi) to each enrollee under the plan, disclose such information through mail or electronic communications to a subset of enrollees under the plan, such as enrollees who have been prescribed an opioid in the previous two-year period.
+  > - **(C)** *Targeted provision of information* A PDP sponsor of a prescription drug plan may, in lieu of disclosing the information described in subparagraph (B)(vi) to each enrollee under the plan, disclose such information through mail or electronic communications to a subset of enrollees under the plan, such as enrollees who have been prescribed an opioid in the previous 2-year period.
 
 ## § 3. Requiring Medicare Advantage plans and prescription drug plans to provide information on the safe disposal of prescription drugs
 
