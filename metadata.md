@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5774
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5774
@@ -28,10 +28,11 @@ COACH Act of 2018
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ COACH Act of 2018
 - 2018-06-19 — Placed on the Union Calendar, Calendar No. 593.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-762, Part I.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-762, Part I.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
