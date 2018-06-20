@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5605
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5605
@@ -21,10 +21,11 @@ Advancing High Quality Treatment for Opioid Use Disorders in Medicare Act
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Advancing High Quality Treatment for Opioid Use Disorders in Medicare Act
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5239-5241)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5239-5241)
 - 2018-06-19 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
