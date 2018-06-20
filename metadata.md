@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6042
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6042
@@ -22,9 +22,10 @@ To amend title XIX of the Social Security Act to delay the reduction in Federal 
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend title XIX of the Social Security Act to delay the reduction in Federal 
 - 2018-06-19 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5244)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5244)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
