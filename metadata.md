@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4991
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4991
@@ -22,9 +22,10 @@ Supporting Research and Development for First Responders Act
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Supporting Research and Development for First Responders Act
 - 2018-06-19 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5266)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5266)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
