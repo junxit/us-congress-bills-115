@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5723
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5723
@@ -23,10 +23,11 @@ Expanding Oversight of Opioid Prescribing and Payment Act of 2018
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Sanford, Mark [R-SC-1] (S000051)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Expanding Oversight of Opioid Prescribing and Payment Act of 2018
 - 2018-06-19 — Placed on the Union Calendar, Calendar No. 592.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-760, Part I.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-760, Part I.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
