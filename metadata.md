@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6110
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6110
@@ -28,10 +28,11 @@ Dr. Todd Graham Pain Management, Treatment, and Recovery Act of 2018
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Dr. Todd Graham Pain Management, Treatment, and Recovery Act of 2018
 - 2018-06-19 — Mrs. Walorski moved to suspend the rules and pass the bill.
 - 2018-06-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5250-5252)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5250-5252)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
