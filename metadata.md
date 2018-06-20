@@ -1,7 +1,7 @@
 ---
 measure: H.R. 770
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 770
@@ -78,3 +78,14 @@ American Innovation $1 Coin Act
 - 2018-06-20 — Senate amendment agreed to: Amendment SA 3041 agreed to in Senate by Unanimous Consent.
 - 2018-06-20 — Senate amendment proposed (on the floor): Amendment SA 3041 proposed by Senator McConnell for Senator Murphy.(consideration: CR S4293; text: CR S4293)
 - 2018-06-20 — Senate amendment submitted
+- 2018-06-21 — Message on Senate action sent to the House.
+- 2018-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-27 — Mr. Hensarling asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H5786-5787)
+- 2018-06-27 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5786-5787)
+- 2018-06-27 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5786-5787)
+- 2018-07-10 — Presented to President.
+- 2018-07-10 — Presented to President.
+- 2018-07-20 — Became Public Law No: 115-197.
+- 2018-07-20 — Became Public Law No: 115-197.
+- 2018-07-20 — Signed by President.
+- 2018-07-20 — Signed by President.
