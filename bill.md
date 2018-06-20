@@ -2,7 +2,7 @@
 legis-num: H.R. 5774
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5774
@@ -54,10 +54,10 @@ This Act may be cited as the “Combating Opioid Abuse for Care in Hospitals Act
   >   - **(2)** *Review and assessment* Not later than 1 year after the date the technical expert panel described in paragraph (1) is established (and periodically thereafter as the Secretary determines appropriate), the technical expert panel shall—
   >     - **(A)** review quality measures that relate to opioids and opioid use disorders, including existing measures and those under development;
   >     - **(B)** identify gaps in areas of quality measurement that relate to opioids and opioid use disorders, and identify measure development priorities for such measure gaps; and
-  >     - **(C)** make recommendations to the Secretary on quality measures with respect to opioids and opioid use disorders for purposes of improving care, prevention, diagnosis, health outcomes, and treatment, including recommendations for revisions of such measures, need for development of new measures, and recommendations for including such measures in the Merit-Based Incentive Payment System under section 1848(q), the alternative payment models under section 1833(z)(3)(C), the shared savings program under section 1899, the quality reporting requirements for inpatient hospitals under section 1886(b)(3)(B)(viii), the hospital value-based purchasing program under section 1886(o), and under other value-based purchasing programs under this title.
+  >     - **(C)** make recommendations to the Secretary on quality measures with respect to opioids and opioid use disorders for purposes of improving care, prevention, diagnosis, health outcomes, and treatment, including recommendations for revisions of such measures, need for development of new measures, and recommendations for including such measures in the Merit-Based Incentive Payment System under section 1848(q), the alternative payment models under section 1833(z)(3)(C), the shared savings program under section 1899, the quality reporting requirements for inpatient hospitals under section 1886(b)(3)(B)(viii), and the hospital value-based purchasing program under section 1886(o).
   >   - **(3)** *Consideration of measures by secretary* The Secretary shall consider—
   >     - **(A)** using opioid and opioid use disorder measures (including measures used under the Merit-Based Incentive Payment System under section 1848(q), measures recommended under paragraph (2)(C), and other such measures identified by the Secretary) in alternative payment models under section 1833(z)(3)(C) and in the shared savings program under section 1899; and
-  >     - **(B)** using opioid measures described in subparagraph (A), as applicable, in the quality reporting requirements for inpatient hospitals under section 1886(b)(3)(B)(viii), in the hospital value-based purchasing program under section 1886(o), and under other value-based purchasing programs under this title.
+  >     - **(B)** using opioid measures described in subparagraph (A), as applicable, in the quality reporting requirements for inpatient hospitals under section 1886(b)(3)(B)(viii),and in the hospital value-based purchasing program under section 1886(o).
   >   - **(4)** *Prioritization of measure development* The Secretary shall prioritize for measure development the gaps in quality measures identified under paragraph (2)(B).
 
 - **(b)** *Expedited endorsement process for opioid measures* Section 1890(b)(2) of the Social Security Act (42 U.S.C. 1395aaa(b)(2)) is amended by adding at the end the following new flush sentence:
@@ -70,8 +70,8 @@ This Act may be cited as the “Combating Opioid Abuse for Care in Hospitals Act
     - **(B)** Shared decision making with patients and families on pain management, including recommendations for the development of an evaluation and management code for purposes of payment under the Medicare program under title XVIII of the Social Security Act that would account for time spent on shared decision making.
     - **(C)** Education on the safe use, storage, and disposal of opioids.
     - **(D)** Prevention of opioid misuse and abuse after discharge.
-    - **(E)** Development of a clinical algorithm to identify and treat at-risk, opiate-tolerant patients and reduce reliance on opiodes for acute pain during the perioperative period.
-  - **(2)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to Congress and make public a report containing the recommendations developed under paragraph (1) and recommendations for broader implementation of pain management protocols that limit the use of opioids in the perioperative setting and upon discharge from such setting.
+    - **(E)** Development of a clinical algorithm to identify and treat at-risk, opiate-tolerant patients and reduce reliance on opioids for acute pain during the perioperative period.
+  - **(2)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to Congress and make public a report containing the recommendations developed under paragraph (1) and an action plan for broader implementation of pain management protocols that limit the use of opioids in the perioperative setting and upon discharge from such setting.
 - **(b)** *Data collection on perioperative opioid use* Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to Congress a report that contains the following:
   - **(1)** The diagnosis-related group codes identified by the Secretary as having the highest volume of surgeries.
   - **(2)** With respect to each of such diagnosis-related group codes so identified, a determination by the Secretary of the data that is both available and reported on opioid use following such surgeries, such as with respect to—
@@ -87,7 +87,7 @@ This Act may be cited as the “Combating Opioid Abuse for Care in Hospitals Act
     - **(E)** post-operative respiratory failure;
     - **(F)** information about storage and disposal; and
     - **(G)** such other information as the Secretary may specify.
-  - **(3)** Recommendations for improving data collection on perioperative opioid use, including an analysis to identify barriers to collecting, reporting, and analyzing the data described in paragraph (2), including barriers related to technological availability.
+  - **(3)** Recommendations for improving data collection on perioperative opioid use, including an analysis to identify and reduce barriers to collecting, reporting, and analyzing the data described in paragraph (2), including barriers related to technological availability.
 
 ## § 5. Requiring the posting and periodic update of opioid prescribing guidance for Medicare beneficiaries
 
