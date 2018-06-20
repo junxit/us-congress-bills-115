@@ -19,7 +19,7 @@ This Act may be cited as the “Overdose Prevention and Patient Safety Act”.
 - **(b)** *Disclosures to covered entities consistent with HIPAA* Paragraph (2) of section 543(b) of the Public Health Service Act (42 U.S.C. 290dd–2(b)) is amended by adding at the end the following:
   > - **(D)** To a covered entity or to a program or activity described in subsection (a), for the purposes of treatment, payment, and health care operations, so long as such disclosure is made in accordance with HIPAA privacy regulation. Any redisclosure of information so disclosed may only be made in accordance with this section.
 
-- **(c)** *Disclosures of de-Identified health information to public health authorities* Paragraph (2) of section 543(b) of the Public Health Service Act (42 U.S.C. 290dd–2(b)), as amended by subsection (b), is further amended by adding at the end the following:
+- **(c)** *Disclosures of de-identified health information to public health authorities* Paragraph (2) of section 543(b) of the Public Health Service Act (42 U.S.C. 290dd–2(b)), as amended by subsection (b), is further amended by adding at the end the following:
   > - **(E)** To a public health authority, so long as such content meets the standards established in section 164.514(b) of title 45, Code of Federal Regulations (or successor regulations) for creating de-identified information.
 
 - **(d)** *Definitions* Subsection (b) of section 543 of the Public Health Service Act (42 U.S.C. 290dd–2) is amended by adding at the end the following:
