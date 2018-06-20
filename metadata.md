@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3192
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3192
@@ -41,9 +41,10 @@ CHIP Mental Health Parity Act
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ CHIP Mental Health Parity Act
 - 2018-06-19 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5232)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5232)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
