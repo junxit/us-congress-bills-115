@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5590
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5590
@@ -25,10 +25,11 @@ Opioid Addiction Action Plan Act
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Opioid Addiction Action Plan Act
 - 2018-06-19 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5247-5248)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5247-5248)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
