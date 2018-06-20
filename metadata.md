@@ -1,7 +1,7 @@
 ---
 measure: H.R. 770
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 770
@@ -16,7 +16,7 @@ American Innovation $1 Coin Act
 
 - Rep. Himes, James A. [D-CT-4] (H001047)
 
-## Cosponsors (31)
+## Cosponsors (32)
 
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -49,6 +49,7 @@ American Innovation $1 Coin Act
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (2)
 
@@ -67,3 +68,13 @@ American Innovation $1 Coin Act
 - 2018-01-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H181-182)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H181-182)
 - 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-06-20 — Amendment SA 3041 agreed to in Senate by Unanimous Consent.
+- 2018-06-20 — Amendment SA 3041 proposed by Senator McConnell for Senator Murphy. (consideration: CR S4293; text: CR S4293) To improve the bill.
+- 2018-06-20 — Measure laid before Senate by unanimous consent. (consideration: CR S4293)
+- 2018-06-20 — Passed Senate with an amendment by Voice Vote. (text: CR S4293)
+- 2018-06-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S4293)
+- 2018-06-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2018-06-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2018-06-20 — Senate amendment agreed to: Amendment SA 3041 agreed to in Senate by Unanimous Consent.
+- 2018-06-20 — Senate amendment proposed (on the floor): Amendment SA 3041 proposed by Senator McConnell for Senator Murphy.(consideration: CR S4293; text: CR S4293)
+- 2018-06-20 — Senate amendment submitted
