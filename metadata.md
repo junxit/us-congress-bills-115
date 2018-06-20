@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5676
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5676
@@ -24,10 +24,11 @@ Stop Excessive Narcotics in our Retirement Communities Protection Act of 2018
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Stop Excessive Narcotics in our Retirement Communities Protection Act of 2018
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 3 (Roll no. 270).(text: CR H5261-5262)
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-759, Part I.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-759, Part I.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
