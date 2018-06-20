@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5762
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5762
@@ -21,9 +21,10 @@ Joint Task Force to Combat Opioid Trafficking Act of 2018
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Joint Task Force to Combat Opioid Trafficking Act of 2018
 - 2018-06-19 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2018-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5267-5268)
 - 2018-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5267-5268)
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
