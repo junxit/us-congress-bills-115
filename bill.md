@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 952
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 952
+
+> Providing for consideration of the bill (H.R. 4760) to amend the immigration laws and the homeland security laws, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4760) to amend the immigration laws and the homeland security laws, and for other purposes. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate, with 40 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary and 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Homeland Security; and (2) one motion to recommit with or without instructions.
