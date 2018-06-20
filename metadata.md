@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5773
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5773
@@ -26,10 +26,11 @@ Preventing Addiction for Susceptible Seniors Act of 2018
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Preventing Addiction for Susceptible Seniors Act of 2018
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-761, Part I.
 - 2018-06-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-761, Part I.
 - 2018-06-19 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
