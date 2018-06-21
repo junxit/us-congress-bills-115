@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5925
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5925
@@ -22,7 +22,7 @@ Coordinated Response through Interagency Strategy and Information Sharing Act
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (6)
+## Committees (7)
 
 - House — Appropriations Committee
 - House — Intelligence (Permanent Select) Committee
@@ -30,6 +30,7 @@ Coordinated Response through Interagency Strategy and Information Sharing Act
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Coordinated Response through Interagency Strategy and Information Sharing Act
 - 2018-06-20 — Placed on the Union Calendar, Calendar No. 596.
 - 2018-06-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-767, Part I.
 - 2018-06-20 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-767, Part I.
+- 2018-06-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
