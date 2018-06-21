@@ -1,7 +1,7 @@
 ---
 measure: S. 974
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355-1` | replace | in clause (ii) by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 355-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355-1` | replace | in subsection (i)(1), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355-1` | strike | in clause (i) by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355-1` | replace | in clause (ii) by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355-1` | replace | in subsection (i)(1), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
