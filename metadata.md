@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 551
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 551
@@ -32,3 +32,7 @@ A resolution expressing support for the designation of the week of June 18 throu
 
 - 2018-06-19 — Introduced in Senate
 - 2018-06-19 — Referred to the Committee on Veterans' Affairs.
+- 2018-06-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 6/19/2018 CR S4037)
+- 2018-06-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 6/19/2018 CR S4037)
+- 2018-06-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4351)
+- 2018-06-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4351)
