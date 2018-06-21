@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6082
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6082
@@ -21,9 +21,10 @@ Overdose Prevention and Patient Safety Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Overdose Prevention and Patient Safety Act
 - 2018-06-20 — Rule provides for consideration of H.R. 6, H.R. 5797 and H.R. 6082. Rule provides for consideration of H.R. 6 and H.R.5797 under structured rules; and provides for consideration of H.R. 6082 under a closed rule. Additionally, the rule directs the Clerk to, in the engrossment of H.R. 6, add the text of H.R. 2851, H.R. 5735, and H.R. 5797 as passed by the House as a new matter at the end of H.R. 6.
 - 2018-06-20 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-06-20 — The previous question was ordered pursuant to the rule.
+- 2018-06-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
