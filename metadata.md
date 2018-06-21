@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2
@@ -31,3 +31,422 @@ Agriculture Improvement Act of 2018
 - 2018-05-03 — Placed on the Union Calendar, Calendar No. 508.
 - 2018-05-03 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-661.
 - 2018-05-03 — Reported (Amended) by the Committee on Agriculture. H. Rept. 115-661.
+- 2018-05-15 — Rules Committee Resolution H. Res. 891 Reported to House. The resolution provides for 1 hour of general on all three bills. For H.R. 5698 and H.R. 2, the resolution provides for consideration under a structured rule. For S. 2372, the resolution provides for consideration under a closed rule. Finally, the resolution provides for one motion to recommit with or without instructions on all three bills.
+- 2018-05-16 — Amendment (A001) offered by Mr. King (IA). (consideration: CR H4123-4124; text: CR H4123)
+- 2018-05-16 — Amendment (A002) offered by Mr. Gibbs. (consideration: CR H4124; text: CR H4124)
+- 2018-05-16 — Amendment (A003) offered by Mr. Rogers (AL). (consideration: CR H4124-4125; text: CR H4124)
+- 2018-05-16 — Amendment (A004) offered by Mr. Bergman. (consideration: CR H4125; text: CR H4125)
+- 2018-05-16 — Amendment (A005) offered by Mr. Arrington. (consideration: CR H4125-4126; text: CR H4125)
+- 2018-05-16 — Amendment (A006) offered by Mr. Jones. (consideration: CR H4126-4127; text: CR H4126-4127)
+- 2018-05-16 — Amendment (A007) offered by Mr. Latta. (consideration: CR H4127-4128; text: CR H4127-4128)
+- 2018-05-16 — Amendment (A008) offered by Mr. Thompson (PA). (consideration: CR H4128-4129; text: CR H4128)
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Amendment agreed to Committee of the Whole
+- 2018-05-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-16 — Considered as unfinished business. (consideration: CR H4046-4050, H4050-4057; text of amendment in the nature of a substitute: CR H4059-4123)
+- 2018-05-16 — Considered under the provisions of rule H. Res. 891. (consideration: CR H4058-4129; text of amendment in the nature of a substitute: CR H4059-4123)
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Arrington amendment No. 6.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Bergman amendment No. 5.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Gibbs amendment No. 2.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Jones amendment No. 7.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 1.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Latta amendment No. 8.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 4.
+- 2018-05-16 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment No. 9.
+- 2018-05-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Arrington amendment (A005) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Bergman amendment (A004) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Gibbs amendment (A002) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Jones amendment (A006) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the King (IA) amendment (A001) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Latta amendment (A007) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A003) Agreed to by voice vote.
+- 2018-05-16 — House amendment agreed to: On agreeing to the Thompson (PA) amendment (A008) Agreed to by voice vote.
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered
+- 2018-05-16 — House amendment offered/reported by: Amendment (A001) offered by Mr. King (IA).(consideration: CR H4123-4124; text: CR H4123)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gibbs.(consideration: CR H4124; text: CR H4124)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A003) offered by Mr. Rogers (AL).(consideration: CR H4124-4125; text: CR H4124)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A004) offered by Mr. Bergman.(consideration: CR H4125; text: CR H4125)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A005) offered by Mr. Arrington.(consideration: CR H4125-4126; text: CR H4125)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A006) offered by Mr. Jones.(consideration: CR H4126-4127; text: CR H4126-4127)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A007) offered by Mr. Latta.(consideration: CR H4127-4128; text: CR H4127-4128)
+- 2018-05-16 — House amendment offered/reported by: Amendment (A008) offered by Mr. Thompson (PA).(consideration: CR H4128-4129; text: CR H4128)
+- 2018-05-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 891 and Rule XVIII.
+- 2018-05-16 — Mr. Conaway moved that the Committee now rise.
+- 2018-05-16 — Mr. Conaway moved that the Committee rise.
+- 2018-05-16 — On agreeing to the Arrington amendment (A005) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Bergman amendment (A004) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Gibbs amendment (A002) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Jones amendment (A006) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the King (IA) amendment (A001) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Latta amendment (A007) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Rogers (AL) amendment (A003) Agreed to by voice vote.
+- 2018-05-16 — On agreeing to the Thompson (PA) amendment (A008) Agreed to by voice vote.
+- 2018-05-16 — On motion that the Committee now rise Agreed to by voice vote.
+- 2018-05-16 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-05-16 — Rule H. Res. 891 passed House.
+- 2018-05-16 — Subsequently, the Committee resumed it's sitting.
+- 2018-05-16 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2018-05-16 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-16 — The Speaker designated the Honorable Paul Mitchell to act as Chairman of the Committee.
+- 2018-05-16 — The resolution provides for 1 hour of general on all three bills. For H.R. 5698 and H.R. 2, the resolution provides for consideration under a structured rule. For S. 2372, the resolution provides for consideration under a closed rule. Finally, the resolution provides for one motion to recommit with or without instructions on all three bills.
+- 2018-05-17 — Amendment (A009) offered by Ms. Herrera Beutler. (consideration: CR H4164-4165; text: CR H4164)
+- 2018-05-17 — Amendment (A010) offered by Mr. Gosar. (consideration: CR H4165-4166; text: CR H4165)
+- 2018-05-17 — Amendment (A011) offered by Mr. Gianforte. (consideration: CR H4166-4167; text: CR H4166)
+- 2018-05-17 — Amendment (A012) offered by Mr. Westerman. (consideration: CR H4167-4168; text: CR H4167)
+- 2018-05-17 — Amendment (A013) offered by Mr. Young (AK). (consideration: CR H4168-4170; text: CR H4168)
+- 2018-05-17 — Amendment (A014) offered by Mr. Pearce. (consideration: CR H4170; text: CR H4170)
+- 2018-05-17 — Amendment (A015) offered by Mr. LaMalfa. (consideration: CR H4170-4172; text: CR H4170-4171)
+- 2018-05-17 — Amendment (A016) offered by Mr. Westerman. (consideration: CR H4172; text: CR H4172)
+- 2018-05-17 — Amendment (A017) offered by Mr. Pearce. (consideration: CR H4172; text: CR H4172)
+- 2018-05-17 — Amendment (A018) offered by Mr. Tipton. (consideration: CR H4172-4173; text: CR H4173)
+- 2018-05-17 — Amendment (A019) offered by Mr. Thornberry. (consideration: CR H4173; text: CR H4173)
+- 2018-05-17 — Amendment (A020) offered by Ms. Foxx. (consideration: CR H4174-4177, H4196; text: CR H4174)
+- 2018-05-17 — Amendment (A021) offered by Mr. Conaway. (consideration: CR H4177-4181; text: CR H4177-4180)
+- 2018-05-17 — Amendment (A022) offered by Mr. McClintock. (consideration: CR H4181-4184, H4196-4197; text: CR H4181-4182)
+- 2018-05-17 — Amendment (A023) offered by Mr. LaHood. (consideration: CR H4184; text: CR H4184)
+- 2018-05-17 — Amendment (A024) offered by Mr. Rogers (AL). (consideration: CR H4185; text: CR H4185)
+- 2018-05-17 — Amendment (A025) offered by Mr. Faso. (consideration: CR H4185-4186, H4198; text: CR H4185-4186)
+- 2018-05-17 — Amendment (A026) offered by Mr. McClintock. (consideration: CR H4186-4188, H4197-4198; text: CR H4186)
+- 2018-05-17 — Amendment (A027) offered by Mr. Fortenberry. (consideration: CR H4188-4189 text: CR H4188-4189)
+- 2018-05-17 — Amendment (A028) offered by Mr. MacArthur. (consideration: CR H4189-4191; text: CR H4189)
+- 2018-05-17 — Amendment (A029) offered by Mr. Holding. (consideration: CR H4191 text: CR H4191)
+- 2018-05-17 — Amendment (A030) offered by Miss Gonzalez-Colon (PR). (consideration: CR H4191-4192; text: CR H4191)
+- 2018-05-17 — Amendment (A031) offered by Mr. Faso. (consideration: CR H4192-4194, H4198; text: CR H4192)
+- 2018-05-17 — Amendment (A032) offered by Mr. Young (AK). (consideration: CR H4194; text: CR H4194)
+- 2018-05-17 — Amendment (A033) offered by Miss Gonzalez-Colon (PR). (consideration: CR H4194-4195; text: CR H4194-4195)
+- 2018-05-17 — Amendment (A034) offered by Mr. Biggs. (consideration: CR H4195-4196, H4198-4199; text: CR H4195)
+- 2018-05-17 — Amendment (A035) offered by Mr. Russell. (consideration: CR H4201-4203; text: CR H4201)
+- 2018-05-17 — Amendment (A036) offered by Mr. Turner. (consideration: CR H4203-4204; text: CR H4203-4204)
+- 2018-05-17 — Amendment (A037) offered by Ms. Stefanik. (consideration: CR H4204; text: CR H4204)
+- 2018-05-17 — Amendment (A038) offered by Ms. Cheney. (consideration: CR H4204-4205; text: CR H4204)
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment agreed to Committee of the Whole
+- 2018-05-17 — Amendment failed in Committee of the Whole
+- 2018-05-17 — Amendment failed in Committee of the Whole
+- 2018-05-17 — Amendment failed in Committee of the Whole
+- 2018-05-17 — Amendment failed in Committee of the Whole
+- 2018-05-17 — By unanimous consent, the Rogers (AL) amendment was withdrawn.
+- 2018-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2 as unfinished business.
+- 2018-05-17 — Considered as unfinished business. (consideration: CR H4164-4173)
+- 2018-05-17 — Considered as unfinished business. (consideration: CR H4173-4188)
+- 2018-05-17 — Considered as unfinished business. (consideration: CR H4188-4189)
+- 2018-05-17 — Considered as unfinished business. (consideration: CR H4199-4201)
+- 2018-05-17 — Considered as unfinished business. (consideration: CR H4201-4205)
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Gianforte amendment No. 12.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 11.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera Beutler amendment No. 10.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 16.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 15.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 18.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment No. 19.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 13.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 17.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 14.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 16.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Cheney amendment No. 20.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Conaway amendment No. 2.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Faso amendment No. 13.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Faso amendment No. 6.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment No. 7.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon amendment No. 12.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon amendment No. 15.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Holding amendment No. 11.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the LaHood amendment No. 4.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the MacArthur amendment No. 9.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 3.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 8.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 5.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Russell amendment No. 17.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Turner amendment No. 18.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 14.
+- 2018-05-17 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 20 minutes of debate on the Foxx amendment No. 1.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Cheney amendment (A038) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Conaway amendment (A021) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Faso amendment (A025) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Faso amendment (A031) Agreed to by recorded vote: 222 - 192 (Roll no. 196).
+- 2018-05-17 — House amendment agreed to: On agreeing to the Fortenberry amendment (A027) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Gianforte amendment (A011) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A030) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A033) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Gosar amendment (A010) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Herrera Beutler amendment (A009) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Holding amendment (A029) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the LaHood amendment (A023) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the LaMalfa amendment (A015) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the MacArthur amendment (A028) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Pearce amendment (A014) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Pearce amendment (A017) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Stefanik amendment (A037) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Thornberry amendment (A019) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Tipton amendment (A018) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Turner amendment (A036) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Westerman amendment (A012) Agreed to by recorded vote: 224 - 191 (Roll no. 198).
+- 2018-05-17 — House amendment agreed to: On agreeing to the Westerman amendment (A016) Agreed to by voice vote.
+- 2018-05-17 — House amendment agreed to: On agreeing to the Young (AK) amendment (A013) Agreed to by recorded vote: 208 - 207 (Roll no. 199).
+- 2018-05-17 — House amendment agreed to: On agreeing to the Young (AK) amendment (A032) Agreed to by voice vote.
+- 2018-05-17 — House amendment not agreed to: On agreeing to the Biggs amendment (A034) Failed by recorded vote: 75 - 340 (Roll no. 197).
+- 2018-05-17 — House amendment not agreed to: On agreeing to the Foxx amendment (A020) Failed by recorded vote: 137 - 278 (Roll no. 193).
+- 2018-05-17 — House amendment not agreed to: On agreeing to the McClintock amendment (A022) Failed by recorded vote: 34 - 380 (Roll no. 194).
+- 2018-05-17 — House amendment not agreed to: On agreeing to the McClintock amendment (A026) Failed by recorded vote: 83 - 330 (Roll no. 195).
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered
+- 2018-05-17 — House amendment offered/reported by: Amendment (A009) offered by Ms. Herrera Beutler.(consideration: CR H4164-4165; text: CR H4164)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A010) offered by Mr. Gosar.(consideration: CR H4165-4166; text: CR H4165)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A011) offered by Mr. Gianforte.(consideration: CR H4166-4167; text: CR H4166)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A012) offered by Mr. Westerman.(consideration: CR H4167-4168; text: CR H4167)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A013) offered by Mr. Young (AK).(consideration: CR H4168-4170; text: CR H4168)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A014) offered by Mr. Pearce.(consideration: CR H4170; text: CR H4170)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A015) offered by Mr. LaMalfa.(consideration: CR H4170-4172; text: CR H4170-4171)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A016) offered by Mr. Westerman.(consideration: CR H4172; text: CR H4172)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A017) offered by Mr. Pearce.(consideration: CR H4172; text: CR H4172)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A018) offered by Mr. Tipton.(consideration: CR H4172-4173; text: CR H4173)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A019) offered by Mr. Thornberry.(consideration: CR H4173; text: CR H4173)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A020) offered by Ms. Foxx.(consideration: CR H4174-4177, H4196; text: CR H4174)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A021) offered by Mr. Conaway.(consideration: CR H4177-4181; text: CR H4177-4180)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A022) offered by Mr. McClintock.(consideration: CR H4181-4184, H4196-4197; text: CR H4181-4182)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A023) offered by Mr. LaHood.(consideration: CR H4184; text: CR H4184)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A024) offered by Mr. Rogers (AL).(consideration: CR H4185; text: CR H4185)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A025) offered by Mr. Faso.(consideration: CR H4185-4186, H4198; text: CR H4185-4186)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A026) offered by Mr. McClintock.(consideration: CR H4186-4188, H4197-4198; text: CR H4186)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A027) offered by Mr. Fortenberry.(consideration: CR H4188-4189 text: CR H4188-4189)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A028) offered by Mr. MacArthur.(consideration: CR H4189-4191; text: CR H4189)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A029) offered by Mr. Holding.(consideration: CR H4191 text: CR H4191)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A030) offered by Miss Gonzalez-Colon (PR).(consideration: CR H4191-4192; text: CR H4191)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A031) offered by Mr. Faso.(consideration: CR H4192-4194, H4198; text: CR H4192)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A032) offered by Mr. Young (AK).(consideration: CR H4194; text: CR H4194)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A033) offered by Miss Gonzalez-Colon (PR).(consideration: CR H4194-4195; text: CR H4194-4195)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A034) offered by Mr. Biggs.(consideration: CR H4195-4196, H4198-4199; text: CR H4195)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A035) offered by Mr. Russell.(consideration: CR H4201-4203; text: CR H4201)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A036) offered by Mr. Turner.(consideration: CR H4203-4204; text: CR H4203-4204)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A037) offered by Ms. Stefanik.(consideration: CR H4204; text: CR H4204)
+- 2018-05-17 — House amendment offered/reported by: Amendment (A038) offered by Ms. Cheney.(consideration: CR H4204-4205; text: CR H4204)
+- 2018-05-17 — Mr. Conaway moved that the Committee now rise.
+- 2018-05-17 — Mr. Conaway moved that the Committee now rise.
+- 2018-05-17 — Mr. Conaway moved that the committee rise.
+- 2018-05-17 — Mr. Conaway moved that the committee rise.
+- 2018-05-17 — On agreeing to the Biggs amendment (A034) Failed by recorded vote: 75 - 340 (Roll no. 197).
+- 2018-05-17 — On agreeing to the Cheney amendment (A038) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Conaway amendment (A021) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Faso amendment (A025) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Faso amendment (A031) Agreed to by recorded vote: 222 - 192 (Roll no. 196).
+- 2018-05-17 — On agreeing to the Fortenberry amendment (A027) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Foxx amendment (A020) Failed by recorded vote: 137 - 278 (Roll no. 193).
+- 2018-05-17 — On agreeing to the Gianforte amendment (A011) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Gonzalez-Colon (PR) amendment (A030) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Gonzalez-Colon (PR) amendment (A033) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Gosar amendment (A010) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Herrera Beutler amendment (A009) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Holding amendment (A029) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the LaHood amendment (A023) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the LaMalfa amendment (A015) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the MacArthur amendment (A028) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the McClintock amendment (A022) Failed by recorded vote: 34 - 380 (Roll no. 194).
+- 2018-05-17 — On agreeing to the McClintock amendment (A026) Failed by recorded vote: 83 - 330 (Roll no. 195).
+- 2018-05-17 — On agreeing to the Pearce amendment (A014) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Pearce amendment (A017) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Stefanik amendment (A037) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Thornberry amendment (A019) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Tipton amendment (A018) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Turner amendment (A036) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Westerman amendment (A012) Agreed to by recorded vote: 224 - 191 (Roll no. 198).
+- 2018-05-17 — On agreeing to the Westerman amendment (A016) Agreed to by voice vote.
+- 2018-05-17 — On agreeing to the Young (AK) amendment (A013) Agreed to by recorded vote: 208 - 207 (Roll no. 199).
+- 2018-05-17 — On agreeing to the Young (AK) amendment (A032) Agreed to by voice vote.
+- 2018-05-17 — On motion that the Committee now rise Agreed to by voice vote.
+- 2018-05-17 — On motion that the Committee now rise Agreed to by voice vote.
+- 2018-05-17 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-17 — On motion that the committee rise Agreed to by voice vote.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Biggs demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Faso amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Russell amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Conaway demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Westerman amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (AK) amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-17 — Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry amendment No. 20.
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — Roll call votes on amendments in House
+- 2018-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2018-05-18 — Amendment (A039) offered by Mr. Pearce. (consideration: CR H4213-4215; text: CR H4213-4214)
+- 2018-05-18 — Amendment (A040) offered by Ms. Stefanik. (consideration: CR H4215-4216; text: CR H4215)
+- 2018-05-18 — Amendment (A041) offered by Mr. Faso. (consideration: CR H4216-4217; text: CR H4216)
+- 2018-05-18 — Amendment (A042) offered by Mr. Massie. (consideration: CR H4217-4219, H4228; text: CR H4217-4218)
+- 2018-05-18 — Amendment (A043) offered by Mr. Costello (PA). (consideration: CR H4219-4220; text: CR H4219-4220)
+- 2018-05-18 — Amendment (A044) offered by Mrs. Noem. (consideration: CR H4220-4221; text: CR H4220)
+- 2018-05-18 — Amendment (A045) offered by Mr. Roskam. (consideration: CR H4221-4223, H4228-4229; text: CR H4221)
+- 2018-05-18 — Amendment (A046) offered by Mr. Johnson (LA). (consideration: CR H4223-4224; text: CR H4223)
+- 2018-05-18 — Amendment (A047) offered by Mr. Hollingsworth. (consideration: CR H4224-4225; text: CR H4224)
+- 2018-05-18 — Amendment (A048) offered by Mr. Banks (IN). (consideration: CR H4225-4227, H4229-4230; text: CR H4225)
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment agreed to Committee of the Whole
+- 2018-05-18 — Amendment failed in Committee of the Whole
+- 2018-05-18 — Amendment failed in Committee of the Whole
+- 2018-05-18 — Considered as unfinished business. (consideration: CR H4213-4233)
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Banks (IN) amendment No. 31.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Costello (PA) amendment No. 26.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Faso amendment No. 23.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Hollingsworth amendment No. 30.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (LA) amendment No. 29.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment No. 25.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment No. 27.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 21.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment No. 28.
+- 2018-05-18 — DEBATE - Pursuant to the provisions of H. Res. 900, the Committee of the Whole proceeded with 10 minutes of debate on the Stefanik amendment No. 22.
+- 2018-05-18 — DEBATE - The Committee resumed debated on the Banks (IN) amendment.
+- 2018-05-18 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to redistribute funding throughout the bill for specified programs.
+- 2018-05-18 — Failed of passage/not agreed to in House: On passage Failed by the Yeas and Nays: 198 - 213 (Roll no. 205).
+- 2018-05-18 — House amendment agreed to: On agreeing to the Banks (IN) amendment (A048) Agreed to by recorded vote: 238 - 173 (Roll no. 203).
+- 2018-05-18 — House amendment agreed to: On agreeing to the Costello (PA) amendment (A043) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Faso amendment (A041) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Hollingsworth amendment (A047) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Johnson (LA) amendment (A046) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Noem amendment (A044) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Pearce amendment (A039) Agreed to by voice vote.
+- 2018-05-18 — House amendment agreed to: On agreeing to the Roskam amendment (A045) Agreed to by recorded vote: 359 - 51 (Roll no. 202).
+- 2018-05-18 — House amendment agreed to: On agreeing to the Stefanik amendment (A040) Agreed to by voice vote.
+- 2018-05-18 — House amendment not agreed to: On agreeing to the Massie amendment (A042) Failed by recorded vote: 79 - 331 (Roll no. 201).
+- 2018-05-18 — House amendment not agreed to: On agreeing to the Russell amendment (A035) Failed by recorded vote: 54 - 356 (Roll no. 200).(consideration: CR H4227-4228)
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered
+- 2018-05-18 — House amendment offered/reported by: Amendment (A039) offered by Mr. Pearce.(consideration: CR H4213-4215; text: CR H4213-4214)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A040) offered by Ms. Stefanik.(consideration: CR H4215-4216; text: CR H4215)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A041) offered by Mr. Faso.(consideration: CR H4216-4217; text: CR H4216)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A042) offered by Mr. Massie.(consideration: CR H4217-4219, H4228; text: CR H4217-4218)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A043) offered by Mr. Costello (PA).(consideration: CR H4219-4220; text: CR H4219-4220)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A044) offered by Mrs. Noem.(consideration: CR H4220-4221; text: CR H4220)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A045) offered by Mr. Roskam.(consideration: CR H4221-4223, H4228-4229; text: CR H4221)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A046) offered by Mr. Johnson (LA).(consideration: CR H4223-4224; text: CR H4223)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A047) offered by Mr. Hollingsworth.(consideration: CR H4224-4225; text: CR H4224)
+- 2018-05-18 — House amendment offered/reported by: Amendment (A048) offered by Mr. Banks (IN).(consideration: CR H4225-4227, H4229-4230; text: CR H4225)
+- 2018-05-18 — Mr. Maloney, Sean moved to recommit with instructions to the Committee on Agriculture. (CR H4230)
+- 2018-05-18 — Mr. Ryan (WI) moved to reconsider the vote.
+- 2018-05-18 — On agreeing to the Banks (IN) amendment (A048) Agreed to by recorded vote: 238 - 173 (Roll no. 203).
+- 2018-05-18 — On agreeing to the Costello (PA) amendment (A043) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Faso amendment (A041) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Hollingsworth amendment (A047) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Johnson (LA) amendment (A046) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Massie amendment (A042) Failed by recorded vote: 79 - 331 (Roll no. 201).
+- 2018-05-18 — On agreeing to the Noem amendment (A044) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Pearce amendment (A039) Agreed to by voice vote.
+- 2018-05-18 — On agreeing to the Roskam amendment (A045) Agreed to by recorded vote: 359 - 51 (Roll no. 202).
+- 2018-05-18 — On agreeing to the Russell amendment (A035) Failed by recorded vote: 54 - 356 (Roll no. 200). (consideration: CR H4227-4228)
+- 2018-05-18 — On agreeing to the Stefanik amendment (A040) Agreed to by voice vote.
+- 2018-05-18 — On motion to recommit with instructions Failed by recorded vote: 183 - 226 (Roll no. 204).
+- 2018-05-18 — On passage Failed by the Yeas and Nays: 198 - 213 (Roll no. 205).
+- 2018-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Banks amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Banks demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roskam amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. Plaskett demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-18 — POSTPONED PROCEEDINGS - The Chair put the question on the motion to reconsider and by voice vote, announced the ayes had prevailed. Mr. Hoyer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-05-18 — Roll call votes on amendments in House
+- 2018-05-18 — Roll call votes on amendments in House
+- 2018-05-18 — Roll call votes on amendments in House
+- 2018-05-18 — Roll call votes on amendments in House
+- 2018-05-18 — The Committee resumed its sitting.
+- 2018-05-18 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-05-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-05-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2.
+- 2018-05-18 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-05-18 — The previous question was ordered pursuant to the rule.
+- 2018-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2018-06-21 — Cloture motion on the motion to proceed to the measure presented in Senate.
+- 2018-06-21 — Considered as unfinished business. (consideration: CR H5447-5449)
+- 2018-06-21 — Motion to proceed to consideration of measure made in Senate. (CR S4336-4337)
+- 2018-06-21 — On passage Passed by the Yeas and Nays: 213 - 211 (Roll no. 284).
+- 2018-06-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 213 - 211 (Roll no. 284).
+- 2018-06-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
+- 2018-06-21 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2.
