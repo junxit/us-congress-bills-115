@@ -1,0 +1,25 @@
+---
+legis-num: S. 3104
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3104
+
+> To amend the Rural Electrification Act of 1936 to expand substantially underserved trust area authority to all rural development programs of the Department of Agriculture.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanded SUTA Act of 2018”.
+
+## § 2. Expansion and clarification of existing authority
+
+Section 306F of the Rural Electrification Act of 1936 (7 U.S.C. 936f) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (1), by striking “Rural Utilities Service” in the matter preceding subparagraph (A) and all that follows through the period at the end of subparagraph (B) and inserting “rural development mission area.”; and
+  - **(B)** in paragraph (2), by inserting “, including a community within any former Indian reservation,” before “with respect to which”; and
+- **(2)** in subsection (c)—
+  - **(A)** in paragraph (1), by striking “Rural Utilities Service to qualified utilities or applicants” and inserting “rural development mission area to qualified applicants”; and
+  - **(B)** in paragraph (2), by striking “Rural Utilities Service to facilitate the construction, acquisition, or improvement of infrastructure” and inserting “rural development mission area”.
