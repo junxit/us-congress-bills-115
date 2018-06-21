@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5207
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5207
@@ -16,11 +16,12 @@ IAP Authorization Act of 2018
 
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Katko, John [R-NY-24] (K000386)
 
 ## Committees (1)
 
@@ -31,3 +32,10 @@ IAP Authorization Act of 2018
 - 2018-03-07 — Introduced in House
 - 2018-03-07 — Introduced in House
 - 2018-03-07 — Referred to the House Committee on Homeland Security.
+- 2018-03-19 — Referred to the Subcommittee on Border and Maritime Security.
+- 2018-06-06 — Committee Consideration and Mark-up Session Held.
+- 2018-06-06 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-06-06 — Subcommittee on Border and Maritime Security Discharged.
+- 2018-06-21 — Placed on the Union Calendar, Calendar No. 600.
+- 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-774.
+- 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-774.
