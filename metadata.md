@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5797
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5797
@@ -24,9 +24,10 @@ Individuals in Medicaid Deserve Care that is Appropriate and Responsible in its 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Individuals in Medicaid Deserve Care that is Appropriate and Responsible in its 
 - 2018-06-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5797.
 - 2018-06-20 — The Speaker designated the Honorable Mike Bost to act as Chairman of the Committee.
 - 2018-06-20 — The previous question was ordered pursuant to the rule.
+- 2018-06-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
