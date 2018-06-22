@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5766
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5766
@@ -29,3 +29,8 @@ Securing Public Areas of Transportation Facilities Act of 2018
 - 2018-05-10 — Introduced in House
 - 2018-05-10 — Introduced in House
 - 2018-05-10 — Referred to the House Committee on Homeland Security.
+- 2018-06-06 — Committee Consideration and Mark-up Session Held.
+- 2018-06-06 — Ordered to be Reported by Unanimous Consent.
+- 2018-06-22 — Placed on the Union Calendar, Calendar No. 604.
+- 2018-06-22 — Reported by the Committee on Homeland Security. H. Rept. 115-778.
+- 2018-06-22 — Reported by the Committee on Homeland Security. H. Rept. 115-778.
