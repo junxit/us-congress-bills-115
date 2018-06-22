@@ -28,8 +28,9 @@ In this Act:
   - **(1)** evaluate such technologies to enhance the security of transportation systems through screening and threat mitigation and detection;
   - **(2)** conduct testing of such technologies to support identified mission needs of the Administration and to meet requirements for acquisitions and procurement;
   - **(3)** to the extent practicable, provide original equipment manufacturers with test plans to minimize requirement interpretation disputes and adhere to provided test plans;
-  - **(4)** collaborate with other technical laboratories and facilities for purposes of augmenting TSIF’s capabilities; and
-  - **(5)** deliver advanced transportation security screening technologies that enhance the overall security of domestic transportation systems.
+  - **(4)** collaborate with other technical laboratories and facilities for purposes of augmenting TSIF’s capabilities;
+  - **(5)** deliver advanced transportation security screening technologies that enhance the overall security of domestic transportation systems; and
+  - **(6)** to the extent practicable, provide funding and promote efforts to enable participation by a small business concern (as such term is described under section 3 of the Small Business Act (15 U.S.C. 632)) that has an advanced technology or capability but does not have adequate resources to participate in testing and evaluation processes.
 - **(b)** *Staffing and resource allocation* The Administrator shall ensure adequate staffing and resource allocations for the TSIF in a manner which—
   - **(1)** prevents unnecessary delays in testing and evaluating advanced transportation security screening technologies for acquisitions and procurement determinations;
   - **(2)** ensures the issuance of final paperwork certification does not exceed 45 days after the conclusion of such testing and evaluation; and
@@ -47,13 +48,19 @@ In this Act:
 - **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Administrator shall, in coordination with relevant officials of the Department, conduct a review of existing advanced transportation security screening technology development, acquisitions, and procurement practices within the Administration. Such review shall include—
   - **(1)** identifying process delays and bottlenecks within the Department and the Administration regarding how such technology is identified, developed, acquired, and deployed;
   - **(2)** assessing whether the Administration can better leverage existing resources or processes of the Department for the purposes of technology innovation and development;
-  - **(3)** identifying best practices of other Department components or United States Government entities; and
-  - **(4)** a plan to address problems and challenges identified by such review.
+  - **(3)** assessing whether the Administration can further encourage innovation and competition among technology stakeholders, including through increased participation of and funding for small business concerns (as such term is described under section 3 of the Small Business Act (15 U.S.C. 632));
+  - **(4)** identifying best practices of other Department components or United States Government entities; and
+  - **(5)** a plan to address problems and challenges identified by such review.
 - **(b)** *Briefing* The Administrator shall provide to the appropriate congressional committees a briefing on the findings of the review required under this section and a plan to address problems and challenges identified by such review.
 
 ## § 5. Administration acquisitions and procurement enhancement
 
-- **(a)** *In general* The Administrator shall—
-  - **(1)** engage in outreach, coordination, and collaboration with transportation stakeholders to identify and foster innovation of new advanced transportation security screening technologies;
-  - **(2)** streamline the overall technology development, testing, evaluation, acquisitions, procurement, and deployment processes of the Administration; and
-  - **(3)** ensure the effectiveness and efficiency of such processes.
+The Administrator shall—
+
+- **(1)** engage in outreach, coordination, and collaboration with transportation stakeholders to identify and foster innovation of new advanced transportation security screening technologies;
+- **(2)** streamline the overall technology development, testing, evaluation, acquisitions, procurement, and deployment processes of the Administration; and
+- **(3)** ensure the effectiveness and efficiency of such processes.
+
+## § 6. Assessment
+
+The Secretary of Homeland Security, in consultation with the Chief Privacy Officer of the Department of Homeland Security, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a compliance assessment of the Transportation Security Administration’s acquisition process relating to the health and safety risks associated with implementation of screening technologies.
