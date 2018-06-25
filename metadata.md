@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3392
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3392
@@ -33,3 +33,9 @@ Lake Bistineau Land Title Stability Act
 - 2018-06-20 — Placed on the Union Calendar, Calendar No. 597.
 - 2018-06-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-768.
 - 2018-06-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-768.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5603-5604)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3392.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5603)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5603)
