@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5207
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5207
@@ -39,3 +39,9 @@ IAP Authorization Act of 2018
 - 2018-06-21 — Placed on the Union Calendar, Calendar No. 600.
 - 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-774.
 - 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-774.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5633-5634)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5207.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
+- 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5633-5634)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5633-5634)

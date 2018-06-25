@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5207
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 211` | strike | in paragraph (18), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 211` | redesignate | by redesignating paragraph (19) as paragraph (20); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | insert | by inserting after paragraph (18) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 211` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 419 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 211` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 418 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
