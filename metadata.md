@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 299
@@ -353,6 +353,10 @@ Blue Water Navy Vietnam Veterans Act of 2018
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2018-06-25 — [House 115-2-289](votes/house-115-2-0289.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (382–0)
+
 ## Actions
 
 - 2017-01-05 — Introduced in House
@@ -367,3 +371,11 @@ Blue Water Navy Vietnam Veterans Act of 2018
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 523.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-680.
 - 2018-05-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-680.
+- 2018-06-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-06-25 — Considered as unfinished business. (consideration: CR H5620-5621)
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5611-5620)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 299.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 289). (text: CR H5611-5614)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 289).(text: CR H5611-5614)
