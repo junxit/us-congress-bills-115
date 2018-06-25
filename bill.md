@@ -15,7 +15,7 @@ This Act may be cited as the “Enhancing Suspicious Activity Reporting Initiati
 
 ## § 2. Enhancing Department of Homeland Security suspicious activity reporting operations
 
-- **(a)** *Strategy required* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with other appropriate Federal officials, shall develop a strategy to improve the operations and activities of the Department of Homeland Security related to training, outreach, and information sharing for suspicious activity reporting to prevent acts of terrorism.
+- **(a)** *Strategy required* Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with other appropriate Federal officials, shall develop a strategy to improve the operations and activities of the Department of Homeland Security related to training, outreach, and information sharing for suspicious activity reporting to prevent acts of terrorism.
 - **(b)** *Contents of strategy* The strategy required under subsection (a) shall include the following:
   - **(1)** A description and examples of the types of information that would meet the definition of critical information for the purpose of suspicious activity reporting as well as information, including information associated with racial, religious or national origin, that would not meet the definition of critical information.
   - **(2)** Training for appropriate personnel of State and major urban area fusion centers, emergency response providers, and, as appropriate, the private sector on—
@@ -48,12 +48,12 @@ This Act may be cited as the “Enhancing Suspicious Activity Reporting Initiati
     - **(G)** other matters, as determined by the Secretary.
 - **(c)** *Working group membership* Not later than 180 days after the date of the enactment of this Act, the Secretary shall seek the voluntary participation of not more than 20 individuals representing at least 12 diverse regions of the United States to serve as members of the working group. Members of the working group shall serve without pay. The Secretary shall seek to ensure that the working group includes members who are representatives from each of the following:
   - **(1)** State and major urban area fusion centers.
-  - **(2)** State, local, tribal and territorial law enforcement agencies.
+  - **(2)** State, local, tribal, and territorial law enforcement agencies.
   - **(3)** Firefighters.
   - **(4)** Emergency medical services.
   - **(5)** Private sector security professionals.
   - **(6)** Nongovernmental privacy and civil liberty organizations.
   - **(7)** Any other group the Secretary determines appropriate.
 - **(d)** *Congressional briefing* Upon request, the Secretary shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a briefing on the operations and activities of the Department of Homeland Security related to training, outreach, and information sharing for suspicious activity reporting to prevent acts of terrorism, including copies of materials developed under this section.
-- **(e)** *Termination* The working group under this section shall terminate on the date that is two years after the date of the enactment of this Act, except that the Secretary may extend such working group if the Secretary determines necessary.
+- **(e)** *Termination* The working group under this section shall terminate on the date that is 2 years after the date of the enactment of this Act, except that the Secretary may extend such working group if the Secretary determines necessary.
 - **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this section.
