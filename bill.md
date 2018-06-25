@@ -19,7 +19,7 @@ The purposes of this Act include—
 
 - **(1)** to recognize the national importance of the natural and cultural legacies of the area, as demonstrated in the study entitled “Mountains to Sound Greenway National Heritage Area Feasibility Study” dated April 2012 and its addendum dated May 2014;
 - **(2)** to recognize the heritage of natural resource conservation in the Pacific Northwest and in the Mountains to Sound Greenway;
-- **(3)** to preserve, support, conserve, and interpret the legacies of natural resource conservation, community stewardship, and Indian tribes and nations from time immemorial, within the Mountains to Sound National Heritage Area;
+- **(3)** to preserve, support, conserve, and interpret the legacies of natural resource conservation, community stewardship, and Indian tribes and nations from time immemorial, and reserved rights of Indian Tribes within the Mountains to Sound National Heritage Area;
 - **(4)** to promote heritage, cultural, and recreational tourism and to develop educational and cultural programs for visitors and the general public;
 - **(5)** to recognize and interpret important events and geographic locations representing key developments in the creation of America, particularly the settlement of the American West and the stories of diverse ethnic groups, Indian tribes, and others;
 - **(6)** to enhance a cooperative management framework to assist Federal, State, local, and Tribal governments, the private sector, and citizens residing in the Heritage Area in conserving, supporting, managing, and enhancing natural and recreational sites in the Heritage Area;
@@ -49,8 +49,8 @@ In this Act:
 
 - **(a)** *In general* Not later than 3 years after the date of the enactment of this Act, the local coordinating entity shall submit to the Secretary for approval a proposed management plan for the Heritage Area.
 - **(b)** *Requirements* The management plan shall—
-  - **(1)** incorporate an integrated and cooperative approach for the protection, enhancement, and interpretation of the natural, cultural, historic, scenic, and recreational resources of the Heritage Area;
-  - **(2)** take into consideration Federal, State, Tribal, and local plans; and
+  - **(1)** incorporate an integrated and cooperative approach for the protection, enhancement, and interpretation of the natural, cultural, historic, scenic, Tribal, and recreational resources of the Heritage Area;
+  - **(2)** take into consideration Federal, State, Tribal, and local plans, and treaty rights; and
   - **(3)** include—
     - **(A)** an inventory of the natural, historical, cultural, educational, scenic, and recreational resources of the Heritage Area, including an acknowledgment of the exercise of Tribal treaty rights, that relate to the national importance and themes of the Heritage Area that should be conserved and enhanced;
     - **(B)** a description of strategies and recommendations for conservation, funding, management, and development of the Heritage Area;
@@ -103,15 +103,15 @@ In this Act:
   - **(3)** consider the interests of diverse units of government, Tribes, business, organizations, and individuals in the Heritage Area in the preparation and implementation of the management plan;
   - **(4)** conduct meetings open to the public at least semiannually regarding the development and implementation of the management plan;
   - **(5)** encourage, by appropriate means, economic viability that is consistent with the Heritage Area; and
-  - **(6)** submit a report to the Secretary every five years after the Secretary has approved the management plan, specifying—
+  - **(6)** submit a report to the Secretary every 5 years after the Secretary has approved the management plan, specifying—
     - **(A)** the expenses and income of the local coordinating entity; and
     - **(B)** significant grants or contracts made by the local coordinating entity to any other entity over the 5-year period that describes the activities, expenses, and income of the local coordinating entity (including grants from the local coordinating entity to any other entity during the year that the report is made).
-- **(d)** *Prohibition on acquisition of real property* The local coordinating entity may not acquire real property or interest in real property through condemnation.
+- **(d)** *Prohibition on acquisition of real property* The local coordinating entity may not acquire real property or interest in real property through condemnation or with Federal funds provided for National Heritage Areas.
 - **(e)** *Use of federal funds* Nothing in this Act shall preclude the local coordinating entity from using Federal funds available under other laws for the purposes for which those funds were authorized.
 
 ## § 7. Relationship to Tribal governments
 
-Nothing in this Act shall construe, define, waive, limit, affect any rights of any federally recognized Indian tribe and the Federal trust responsibility.
+Nothing in this Act shall construe, define, waive, limit, or affect any rights of any federally recognized Indian tribe and the Federal trust responsibility.
 
 ## § 8. Relationship to other Federal agencies
 
@@ -133,7 +133,7 @@ Nothing in this Act, the proposed Mountains to Sound Greenway National Heritage 
 - **(3)** alter any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, Tribal, or local agency;
 - **(4)** convey any land use or other regulatory authority to the local coordinating entity or any subsidiary organization, including but not necessarily limited to development and management of energy or water or water-related infrastructure;
 - **(5)** authorize or imply the reservation or appropriation of water or water rights;
-- **(6)** diminish the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area or the authority of Tribes to regulate their members with respect to such matters in the exercise of Tribal treaty rights;
+- **(6)** diminish the authority of the State or Tribe to manage fish and wildlife, including the regulation of fishing, hunting, or gathering within the Heritage Area or the authority of Tribes to regulate their members with respect to such matters in the exercise of Tribal treaty rights;
 - **(7)** create any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property;
 - **(8)** affect current or future grazing permits, leases, or allotment on Federal lands;
 - **(9)** affect the construction, operation, maintenance or expansion of current or future water projects, including water storage, hydroelectric facilities, or delivery systems; or
