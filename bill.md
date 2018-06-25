@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4257
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,7 +34,9 @@ In this Act:
   - **(B)** a component of the National Wilderness Preservation System;
   - **(C)** a unit of the National Wildlife Refuge System;
   - **(D)** a unit of the National Landscape Conservation System;
-  - **(E)** an area identified by the Bureau of Land Management as having wilderness characteristics in a land use plan finalized under FLPMA;
+  - **(E)** an area determined by the Bureau of Land Management, through an inventory carried out in accordance with FLPMA, to have wilderness characteristics—
+    - **(i)** as of the date of enactment of this Act; or
+    - **(ii)** in a land use plan finalized under FLPMA;
   - **(F)** National Forest System land and public land administered by the Bureau of Land Management that has been designated as a national monument, national volcanic monument, national recreation area, national scenic area, inventoried roadless area, unit of the Wild and Scenic Rivers System, wilderness study area, or Land Use Designation II (as described by section 508 of the Alaska National Interest Lands Conservation Act (Public Law 101–626; 104 Stat. 4428)); or
   - **(G)** a sentinel landscape designated by the Secretary of Agriculture, the Secretary of Defense, and the Secretary of the Interior.
 - **(3)** *FLPMA* The term FLPMA means the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
@@ -49,21 +51,22 @@ In this Act:
     - **(i)** is within an eligible area;
     - **(ii)** is within an area of critical environmental concern established pursuant to section 202(c)(3) of FLPMA (43 U.S.C. 1712(c)(3));
     - **(iii)** is within an area withdrawn or reserved by an Act of Congress, the President, or public land order for a particular public purpose or program, including for the conservation of natural resources;
-    - **(iv)** has been acquired using funds from the Land and Water Conservation Fund established under section 200302 of title 54, United States Code; or
-    - **(v)** is within the boundary of an Indian reservation, pueblo, or rancheria.
+    - **(iv)** has been acquired using funds from the Land and Water Conservation Fund established under section 200302 of title 54, United States Code;
+    - **(v)** is within the boundary of an Indian reservation, pueblo, or rancheria; or
+    - **(vi)** is within a special recreation management area.
 - **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(7)** *State land grant parcel* The term State land grant parcel means—
   - **(A)** any land granted to a western State by Congress through a statehood or territorial land grant for the support of public education or other public institutions, or subsequently acquired by the western State for that purpose; or
   - **(B)** land granted to the State of Alaska under subsections (a), (b), and (k) of section 6 of the Act of July 7, 1958 (commonly known as the “Alaska Statehood Act”) (48 U.S.C. note prec. 21; Public Law 85–508).
 - **(8)** *Traditional cultural property* The term traditional cultural property has the meaning given the term—
   - **(A)** historic property in section 800.16 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act); or
-  - **(B)** sacred site in section 1(b) of Executive Order 13007 (42 U.S.C. 1996 note; relating to Indian sacred sites).
+  - **(B)** sacred site in section 1(b) of Executive Order No. 13007 (42 U.S.C. 1996 note; relating to Indian sacred sites).
 - **(9)** *Water right* The term water right means any right in or to groundwater, surface water, or effluent under Federal, State, or other law.
 - **(10)** *Western State* The term western State means any of the States of Alaska, Arizona, California, Colorado, Idaho, Montana, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, and Wyoming.
 
 ## § 4. Relinquishment of State land grant parcels and selection of replacement land
 
-- **(a)** *Authority To select* In accordance with this Act and in order to facilitate the fulfillment of the mandates of State land grant parcels and Federal land described in subparagraphs (A) through (G) of section 3(2), on approval by the Secretary of an application under section 5, a western State may relinquish to the United States State land grant parcels wholly or primarily within eligible areas and select in exchange public land within the western State.
+- **(a)** *Authority to select* In accordance with this Act and in order to facilitate the fulfillment of the mandates of State land grant parcels and Federal land described in subparagraphs (A) through (G) of section 3(2), on approval by the Secretary of an application under section 5, a western State may relinquish to the United States State land grant parcels wholly or primarily within eligible areas and select in exchange public land within the western State.
 - **(b)** *Valid existing rights* Land conveyed under this Act shall be subject to valid existing rights.
 - **(c)** *Management after relinquishment* Any portion of a State land grant parcel acquired by the United States under this Act that is located within an eligible area shall—
   - **(1)** be incorporated in, and be managed as part of, the applicable unit described in subparagraphs (A) through (G) of section 3(2) in which the land is located without further action by the Secretary with jurisdiction over the unit; and
@@ -93,7 +96,7 @@ In this Act:
     - **(B)** the alternative of no action.
 - **(d)** *Agreements with States*
   - **(1)** *In general* The Secretary is authorized to enter into agreements with any of the western States to facilitate processing of applications and conveyance of selected land.
-  - **(2)** *Agreement* On completion of a pre­ap­pli­ca­tion process that includes identification of land to be conveyed, the Secretary and the western State may enter into a nonbinding agreement that includes—
+  - **(2)** *Agreement* On completion of a pre­application process that includes identification of land to be conveyed, the Secretary and the western State may enter into a nonbinding agreement that includes—
     - **(A)** a time schedule for completing the conveyances;
     - **(B)** an assignment of responsibility for performance of required functions and for costs associated with processing the conveyances; and
     - **(C)** a statement specifying whether assumption of costs will be allowed pursuant to section 8(d).
@@ -103,8 +106,9 @@ In this Act:
   - **(3)** shall not accept an application under this Act for selection of any parcel of public land that in the judgment of the Secretary—
     - **(A)** is not reasonably compact and consolidated;
     - **(B)** will create significant management conflicts with respect to the management of adjacent Federal land;
-    - **(C)** will significantly adversely affect public use of a recreation site or recreation area eligible for the collection of recreation fees under the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801 et seq.) or other authority; or
-    - **(D)** is not in the public interest;
+    - **(C)** will significantly adversely affect public use of a recreation site or recreation area eligible for the collection of recreation fees under the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801 et seq.) or other authority;
+    - **(D)** will significantly adversely affect public access, hunting, fishing, recreational shooting, outdoor recreation, or result in adverse impacts to critical fish and wildlife habitat; or
+    - **(E)** is not in the public interest, as determined under 43 Code of Federal Regulations 2200.0-6(b), as in effect on the date of enactment of this Act;
   - **(4)** shall not accept any State land grant parcels that, in the judgment of the Secretary, are not suitable for inclusion in the applicable unit described in subparagraphs (A) through (G) of section 3(2) in which the land is located;
   - **(5)** shall, prior to approving an application, consult with the head of any Federal agency with jurisdiction over Federal land—
     - **(A)** within which a western State proposes to relinquish a State land grant parcel; or
