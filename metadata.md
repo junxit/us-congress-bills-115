@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 221
@@ -33,3 +33,9 @@ Hydrographic Services Improvement Amendments Act
 - 2018-06-12 — Placed on the Union Calendar, Calendar No. 571.
 - 2018-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-736.
 - 2018-06-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-736.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5590-5591)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 221.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5590-5591)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5590-5591)
