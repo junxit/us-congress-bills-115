@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *Administration* The term “Administration” means the Transportation Security Administration.
 - **(2)** *Administrator* The term “Administrator” means the Administrator of the Administration.
-- **(3)** *Appropriate congressional committee* The term “appropriate congressional committees” means the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+- **(3)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 - **(4)** *Department* The term “Department” means the Department of Homeland Security.
 
 ## § 3. Transportation Systems Integration Facility
@@ -55,11 +55,10 @@ In this Act:
 
 ## § 5. Administration acquisitions and procurement enhancement
 
-The Administrator shall—
-
-- **(1)** engage in outreach, coordination, and collaboration with transportation stakeholders to identify and foster innovation of new advanced transportation security screening technologies;
-- **(2)** streamline the overall technology development, testing, evaluation, acquisitions, procurement, and deployment processes of the Administration; and
-- **(3)** ensure the effectiveness and efficiency of such processes.
+- **(a)** *In general* The Administrator shall—
+  - **(1)** engage in outreach, coordination, and collaboration with transportation stakeholders to identify and foster innovation of new advanced transportation security screening technologies;
+  - **(2)** streamline the overall technology development, testing, evaluation, acquisitions, procurement, and deployment processes of the Administration; and
+  - **(3)** ensure the effectiveness and efficiency of such processes.
 
 ## § 6. Assessment
 
