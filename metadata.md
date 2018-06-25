@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5081
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5081
@@ -37,3 +37,9 @@ Surface Transportation Security and Technology Accountability Act of 2018
 - 2018-03-19 — Placed on the Union Calendar, Calendar No. 467.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-611.
 - 2018-03-19 — Reported by the Committee on Homeland Security. H. Rept. 115-611.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5625-5627)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5081.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Mr. Katko moved to suspend the rules and pass the bill.
+- 2018-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5625-5626)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5625-5626)
