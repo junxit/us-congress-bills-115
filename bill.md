@@ -18,55 +18,52 @@ This Act may be cited as the “Golden Spike 150th Anniversary Act”.
 In this Act:
 
 - **(1)** *Adjacent landowner* The term adjacent landowner means the non-Federal owner of property that directly abuts the Park boundaries.
-- **(2)** *Historical crossing* The term historical crossing means a corridor across historical railroad rights-of-way within the Park—
-  - **(A)** that have been used by adjacent landowners in an open manner in the past 10 years for vehicle, farm machinery or livestock travel; or
+- **(2)** *Historical crossing* The term historical crossing means a corridor with a maximum width of 30 feet across former railroad rights-of-way within the Park—
+  - **(A)** that has been used by adjacent landowners in an open manner multiple times in more than 1 of the past 10 years for vehicle, farm machinery, or livestock travel; or
   - **(B)** where existing utility or pipelines have been placed.
 - **(3)** *Network* The term Network means the Transcontinental Railroad Network established under section 4.
 - **(4)** *Park* The term Park means the Golden Spike National Historical Park designated under section 3.
 - **(5)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
-- **(6)** *Superintendent* The term Superintendent means the Superintendent of the Park.
-- **(7)** *Transcontinental Railroad* The term Transcontinental Railroad means the approximately 1,912-mile continuous railroad constructed between 1863 and 1869 from Council Bluffs, Iowa, to San Francisco, California.
+- **(6)** *Transcontinental Railroad* The term Transcontinental Railroad means the approximately 1,912-mile continuous railroad constructed between 1863 and 1869 from Council Bluffs, Iowa, to San Francisco, California.
 
 ## § 3. Redesignation
 
-- **(a)** *Redesignation* The Golden Spike National Historic Site established under the Act of July 10, 1965 (79 Stat. 426), shall be known and designated as the “Golden Spike National Historical Park”.
+- **(a)** *Redesignation* The Golden Spike National Historic Site designated April 2, 1957, and placed under the administration of the National Park Service under the Act of July 10, 1965 (79 Stat. 426), shall be known and designated as the “Golden Spike National Historical Park”.
 - **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Golden Spike National Historic Site shall be considered a reference to the “Golden Spike National Historical Park”.
 - **(c)** *Network* The Park shall be part of the Network.
 
 ## § 4. Transcontinental Railroad Network
 
-- **(a)** *In general* The Secretary shall establish, within the National Park Service, a program to be known as the Transcontinental Railroad Network. The Network shall not include properties used in active freight railroad operations (or other ancillary purposes) or reasonably anticipated to be used for freight railroad operations in the future.
-- **(b)** *Duties of the Secretary* In carrying out the Network, the Secretary shall—
+- **(a)** *In general* The Secretary shall establish, within the National Park Service, the Transcontinental Railroad Network. The Network shall not include properties used in active freight railroad operations (or other ancillary purposes) or reasonably anticipated to be used for freight railroad operations in the future.
+- **(b)** *Study* The Secretary shall—
+  - **(1)** inventory National Park Service sites, facilities, and programs; and
+  - **(2)** identify other sites, facilities, and programs,
+- **(c)** *Duties of the Secretary* In carrying out the Network, the Secretary shall—
   - **(1)** produce and disseminate appropriate education materials relating to the history, construction, and legacy of the Transcontinental Railroad, such as handbooks, maps, interpretive guides, or electronic information;
-  - **(2)** enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (d); and
-  - **(3)** create and adopt an official, uniform symbol or device for the Network and issue guidance for the use of such symbol or device.
-- **(c)** *Elements* The Network shall encompass the following elements:
+  - **(2)** identify opportunities to enhance the recognition of immigrant laborers’ contributions to the history, construction, and legacy of the Transcontinental Railroad;
+  - **(3)** enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (d); and
+  - **(4)** create and adopt an official, uniform symbol or device for the Network and issue guidance for the use of such symbol or device.
+- **(d)** *Elements* The Network shall encompass the following elements:
   - **(1)** All units and programs of the National Park Service that are determined by the Secretary to relate to the history, construction, and legacy of the Transcontinental Railroad.
-  - **(2)** With the consent of each person owning any legal interest in the property, other Federal, State, local, and privately-owned properties that—
-    - **(A)** have a verifiable connection to the history, construction, and legacy of the Transcontinental Railroad and are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places; or
-    - **(B)** are otherwise determined by the Secretary to be connected to the history, construction, and legacy of the Transcontinental Railroad.
+  - **(2)** With the consent of each person owning any legal interest in the property, other Federal, State, local, and privately owned properties that have a verifiable connection to the history, construction, and legacy of the Transcontinental Railroad and are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
   - **(3)** Other governmental and nongovernmental programs of an educational, research, or interpretive nature that are directly related to the history, construction, and legacy of the Transcontinental Railroad.
-- **(d)** *Cooperative agreements and memoranda of understanding* To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network described in subsection (c) with National Park System units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
+- **(e)** *Cooperative agreements and memoranda of understanding* To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network described in subsection (d) with National Park System units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
 
 ## § 5. Agreements affecting certain historical crossings
 
-- **(a)** *Agreements* At the request of an adjacent landowner, the Superintendent shall enter into an agreement with the adjacent landowner regarding an existing historical crossing within the Park.
-- **(b)** *Terms of agreement* The agreement shall provide that—
-  - **(1)** the adjacent landowner shall give notice to the Superintendent of a proposed activity that will affect the surface or subsurface of the historical crossing;
-  - **(2)** the Superintendent shall review and approve or disapprove the proposed activity within 30 days of the date that the adjacent landowner gives notice of a proposed activity under paragraph (1);
-  - **(3)** the Superintendent shall approve a proposed activity if—
-    - **(A)** the adjacent landowner will restore the surface of the historical crossing within a reasonable time following the completion of the proposed activity;
-    - **(B)** the proposed activity will last less than one month and will have limited physical impact on the surface of the historical crossing;
-    - **(C)** the proposed activity has been implemented by the adjacent landowner or other adjacent landowners in the past; or
-    - **(D)** the proposed activity is the subject of a categorical exclusion under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
-  - **(4)** if the Superintendent disapproves the activity, the adjacent landowner may modify the proposed activity and resubmit it for review under paragraph (1).
+- **(a)** *Programmatic agreement* No later than 6 months after the date of enactment of this Act, the Secretary shall enter into a Programmatic Agreement with the Utah State Historic Preservation Office and other consulting parties to add certain undertakings in the Park to the list of those eligible for streamlined review under section 106 of the Historic Preservation Act of 1966 (54 U.S.C. 306108). In the development of the Programmatic Agreement, the Secretary shall collaborate with adjacent landowners, Tribes, and other consulting parties.
+- **(b)** *Process for approval* After the completion of the Programmatic Agreement under subsection (a), an adjacent landowner shall give the Secretary notice of proposed certain undertakings. Within 30 days of the receipt of the notice, the Secretary shall review and approve the proposed certain undertakings if consistent with the Programmatic Agreement.
+- **(c)** *Definition of certain undertakings* As used in this section, the term “certain undertakings” means those activities that take place on, within, or under a historical crossing and—
+  - **(1)** will last less than 1 month and will have limited physical impact on the surface of the historical crossing;
+  - **(2)** have been implemented by an adjacent landowner or other adjacent landowners in the past; or
+  - **(3)** is the subject of a categorical exclusion under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-## § 6. Exotic or invasive species control
+## § 6. Invasive species control
 
-At the request of an adjacent landowner, within 30 days of such a request, the Superintendent shall authorize the adjacent landowner to participate in the eradication of exotic or invasive species in the Park for a period of up to 10 years, subject to renewal. Such an authorization shall provide—
+At the request of an adjacent landowner, within 30 days of such a request, the Secretary shall authorize the adjacent landowner to participate in the eradication of invasive species in the Park for a period of up to 10 years, subject to renewal. Such an authorization shall provide—
 
-- **(1)** that the exotic or invasive species proposed for eradication is identified as such by the National Park Service;
-- **(2)** that the method, timing and location of the eradication must be approved by the Superintendent; and
+- **(1)** that the invasive species proposed for eradication is identified as such by the National Park Service;
+- **(2)** that the method, timing, and location of the eradication must be approved by the Secretary; and
 - **(3)** appropriate indemnification of the adjacent landowner.
 
 ## § 7. Funding clarification
