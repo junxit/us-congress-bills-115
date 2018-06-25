@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5733
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 148` | insert | in subparagraph (H), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 148` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 148` | redesignate | by redesignating subsections (f) through (m) as subsections (g) through (n), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 148` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 148` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
