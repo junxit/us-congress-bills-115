@@ -15,7 +15,7 @@ This Act may be cited as the “Office of Biometric Identity Management Authoriz
 
 ## § 2. Establishment of the Office of Biometric Identity Management
 
-- **(a)** *In general* Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et. seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section:
   > ## § 710. Office of Biometric Identity Management
   >
   > - **(a)** *Establishment* The Office of Biometric Identity Management is established within the Management Directorate of the Department.
