@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5895
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5895
@@ -1081,3 +1081,47 @@ Energy and Water, Legislative Branch, and Military Construction and Veterans Aff
 - 2018-06-25 — Considered by Senate. (consideration: CR S4353-4364)
 - 2018-06-25 — Passed Senate with an amendment by Yea-Nay Vote. 86 - 5. Record Vote Number: 139.
 - 2018-06-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 86 - 5. Record Vote Number: 139.
+- 2018-06-26 — Notwithstanding the passage of H.R. 5895 and the adoption of amendment SA 2910 to H.R. 5895, previously agreed to amendment SA 2920 and amendment SA 2999 are considered as having been agreed to following the adoption of amendment SA 3066 by Unanimous Consent.
+- 2018-06-26 — Notwithstanding the passage of H.R. 5895 and the adoption of amendment SA 2910 to H.R. 5895, the instruction line for amendment SA 2920 is modified by Unanimous Consent.
+- 2018-06-27 — Message on Senate action sent to the House.
+- 2018-06-28 — Message on House action received in Senate and at desk: House requests a conference.
+- 2018-06-28 — Mr. Frelinghuysen asked unanimous consent that the House disagree to the Senate amendment, and request a conference. (consideration: CR H5826)
+- 2018-06-28 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.
+- 2018-06-28 — Resolving differences -- House actions: The Speaker appointed conferees - from the Committee on Appropriations: Frelinghuysen, Simpson, Carter of Texas, Calvert, Fortenberry, Fleischmann, Herrera Beutler, Taylor, Lowey, Kaptur, Visclosky, Ryan of Ohio, and Wasserman Schultz.
+- 2018-06-28 — The Speaker appointed conferees - from the Committee on Appropriations: Frelinghuysen, Simpson, Carter of Texas, Calvert, Fortenberry, Fleischmann, Herrera Beutler, Taylor, Lowey, Kaptur, Visclosky, Ryan of Ohio, and Wasserman Schultz.
+- 2018-07-11 — Measure laid before Senate by unanimous consent.
+- 2018-07-11 — Message on Senate action sent to the House.
+- 2018-07-11 — Motion by Senator Cassidy to instruct Senate conferees (National Flood Insurance Program) agreed to in Senate by Yea-Nay Vote. 94 - 5. Record Vote Number: 150.
+- 2018-07-11 — Motion by Senator Cassidy to instruct Senate conferees made in Senate.
+- 2018-07-11 — Motion by Senator Corker to instruct Senate conferees (Trade Expansion Act of 1962) agreed to in Senate by Yea-Nay Vote. 88 - 11. Record Vote Number: 151.
+- 2018-07-11 — Motion by Senator Corker to instruct Senate conferees made in Senate.
+- 2018-07-11 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees agreed to in Senate by Voice Vote.
+- 2018-07-11 — Motion to insist on Senate amendment to House bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate.
+- 2018-07-11 — Senate appointed conferees. Shelby; Alexander; Boozman; Daines; Lankford; Leahy; Feinstein; Schatz; Murphy.
+- 2018-07-11 — Senate insists on its amendment, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2018-09-05 — Conference committee actions: Conference held.
+- 2018-09-05 — Conference held.
+- 2018-09-10 — Conferees agreed to file conference report.
+- 2018-09-10 — Conference committee actions: Conferees agreed to file conference report.
+- 2018-09-10 — Conference report H. Rept. 115-929 filed. (text of conference report: CR H7946--8106)
+- 2018-09-10 — Conference report filed: Conference report H. Rept. 115-929 filed.(text of conference report: CR H7946--8106)
+- 2018-09-12 — Cloture motion on the conference report to accompany H.R. 5895 presented in Senate. (CR S6116-6117)
+- 2018-09-12 — Cloture motion on the conference report to accompany H.R. 5895 withdrawn by unanimous consent in Senate.
+- 2018-09-12 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2018-09-12 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 92 - 5. Record Vote Number: 207.
+- 2018-09-12 — Conference report considered in Senate. (consideration: CR S6133-6135)
+- 2018-09-12 — Message on Senate action sent to the House.
+- 2018-09-12 — Senate agreed to conference report by Yea-Nay Vote. 92 - 5. Record Vote Number: 207.
+- 2018-09-13 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 377 - 20 (Roll No. 399).
+- 2018-09-13 — DEBATE - Pursuant to the provisions of H.Res. 1059, the House proceeded with one hour of debate on the conference report to accompany H.R. 5895.
+- 2018-09-13 — Motions to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Frelinghuysen brought up conference report H. Rept. 115-929 for consideration under the provisions of H. Res. 1059. (consideration: CR H8239-8245)
+- 2018-09-13 — On agreeing to the conference report Agreed to by the Yeas and Nays: 377 - 20 (Roll No. 399).
+- 2018-09-13 — Pursuant to the provisions of S. Con. Res. 46, enrollment corrections on H.R. 5895 have been made.
+- 2018-09-13 — The previous question was ordered pursuant to the rule.
+- 2018-09-18 — Presented to President.
+- 2018-09-18 — Presented to President.
+- 2018-09-21 — Became Public Law No: 115-244.
+- 2018-09-21 — Became Public Law No: 115-244.
+- 2018-09-21 — Signed by President.
+- 2018-09-21 — Signed by President.

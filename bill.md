@@ -1,26 +1,26 @@
 ---
 legis-num: H.R. 5895
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5895
 
-That the bill from the House of Representatives (H.R. 5895) entitled “An Act making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes.”, do pass with the following
+> Making consolidated appropriations for Energy and Water Development, the Legislative Branch, Military Construction, Veterans Affairs, and Related Agencies for the fiscal year ending September 30, 2019, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
-
-## § 1. Short Title
+## § 1. Short title
 
 This Act may be cited as the “Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019”.
 
-## § 2. References to act
+## § 2. Table of contents
 
-Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
+-  The table of contents of this Act is as follows:
 
-## § 3. References to report
+## § 3. References
 
-- **(a)** Any reference to a “report accompanying this Act” contained in division A shall be treated as a reference to Senate Report 115–258. The effect of such Report shall be limited to division A and shall apply for purposes of determining the allocation of funds provided by, and the implementation of, division A.
-- **(b)** Any reference to a “report accompanying this Act” contained in division B shall be treated as a reference to Senate Report 115–274. The effect of such Report shall be limited to division B and shall apply for purposes of determining the allocation of funds provided by, and the implementation of, division B.
-- **(c)** Any reference to a “report accompanying this Act” contained in division C shall be treated as a reference to Senate Report 115–269. The effect of such Report shall be limited to division C and shall apply for purposes of determining the allocation of funds provided by, and the implementation of, division C.
+-  Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
+
+## § 4. Statement of appropriations
+
+-  The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2019.
