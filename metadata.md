@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5206
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5206
@@ -40,3 +40,9 @@ Office of Biometric Identity Management Authorization Act of 2018
 - 2018-06-21 — Placed on the Union Calendar, Calendar No. 599.
 - 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-773.
 - 2018-06-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-773.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5632-5633)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5206.
+- 2018-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-25 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
+- 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5632)
+- 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5632)
