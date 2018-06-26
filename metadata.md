@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3392
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3392
@@ -16,9 +16,10 @@ Lake Bistineau Land Title Stability Act
 
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Lake Bistineau Land Title Stability Act
 - 2018-06-25 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5603)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5603)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
