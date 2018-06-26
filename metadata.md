@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1791
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1791
@@ -22,9 +22,10 @@ Mountains to Sound Greenway National Heritage Act
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Mountains to Sound Greenway National Heritage Act
 - 2018-06-25 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5604-5606)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5604-5606)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
