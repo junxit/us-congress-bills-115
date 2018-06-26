@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5094
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5094
@@ -25,9 +25,10 @@ Enhancing Suspicious Activity Reporting Initiative Act
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Enhancing Suspicious Activity Reporting Initiative Act
 - 2018-06-25 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5623-5624)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5623-5624)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
