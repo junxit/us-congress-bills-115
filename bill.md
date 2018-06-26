@@ -75,8 +75,11 @@ The Administrator shall—
 ## § 7. Missile alert and warning authorities
 
 - **(a)** *In general*
-  - **(1)** *Authority* The authority to originate an alert warning the public of a missile launch directed against a State using the public alert and warning system shall reside solely with the Federal Government.
-  - **(2)** *Activation of system* Upon verification of a missile threat, the President, utilizing established authorities, protocols and procedures, may activate the public alert and warning system.
+  - **(1)** *Authority* Beginning on the date that is 120 days after the date of enactment of this Act, the authority to originate an alert warning the public of a missile launch directed against a State using the public alert and warning system shall reside primarily with the Federal Government.
+  - **(2)** *Delegation of authority* The Secretary of Homeland Security may delegate to a State, tribal, or local entity the authority described in paragraph (1), if, not later than 60 days after the end of the 120-day period described in paragraph (1), the Secretary of Homeland Security submits a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives that—
+    - **(A)** it is not feasible for the Federal Government to alert the public of a missile threat against a State; or
+    - **(B)** it is not in the national security interest of the United States for the Federal Government to alert the public of missile threat against a State.
+  - **(3)** *Activation of system* Upon verification of a missile threat, the President, utilizing established authorities, protocols and procedures, may activate the public alert and warning system.
 - **(b)** *Required processes* The Secretary of Homeland Security, acting through the Administrator, shall establish a process to promptly notify a State warning point, and any State entities that the Administrator determines appropriate, of follow-up actions to a missile launch alert so the State may take appropriate action to protect the health, safety, and welfare of the residents of the State following the issuance of an alert described in subsection (a)(1) for that State.
 - **(c)** *Guidance* The Secretary of Homeland Security, acting through the Administrator, shall work with the Governor of a State warning point to develop and implement appropriate protective action plans to respond to an alert described in subsection (a)(1) for that State.
 - **(d)** *Study and report* Not later than 1 year after the date of enactment of this Act, the Secretary of Homeland Security shall—
