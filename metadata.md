@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5783
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5783
@@ -22,9 +22,10 @@ Cooperate with Law Enforcement Agencies and Watch Act of 2018
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Cooperate with Law Enforcement Agencies and Watch Act of 2018
 - 2018-06-25 — Placed on the Union Calendar, Calendar No. 606.
 - 2018-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-780.
 - 2018-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-780.
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
