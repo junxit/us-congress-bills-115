@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4528
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4528
@@ -39,3 +39,4 @@ To make technical amendments to certain marine fish conservation statutes, and f
 - 2018-06-25 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5622)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5622)
+- 2018-06-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
