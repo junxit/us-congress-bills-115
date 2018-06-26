@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6
@@ -113,3 +113,5 @@ SUPPORT for Patients and Communities Act
 - 2018-06-22 — The Speaker designated the Honorable Don Bacon to act as Chairman of the Committee.
 - 2018-06-22 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-06-22 — The previous question was ordered pursuant to the rule.
+- 2018-06-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-06-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
