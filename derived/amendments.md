@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5841
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 4 executed, 40 stated and not applied.
+55 amendatory instructions. 6 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 50 U.S.C. § 4565
+
+> in paragraph (1)(E), by striking “30-day” and inserting “45-day”;
+
+| | |
+|---|---|
+| Removed | `30-day` |
+| Inserted | `45-day` |
+
+### 50 U.S.C. § 4565
+
+> in subparagraph (C), as so redesignated, by striking “20 days” and inserting “30 days”; and
+
+| | |
+|---|---|
+| Removed | `20 days` |
+| Inserted | `30 days` |
 
 ### 50 U.S.C. § 4565
 
@@ -86,11 +104,13 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4565` | replace | by striking “Any information” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4565` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | replace | Section 721(d)(2) of the Defense Production Act of 1950 (50 U.S.C. 4565(d)(2)) is amended by striking “not later than 15 days” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4565` | replace | in paragraph (3), by striking the comma at the end and inserting the following: “, including the availability of human resources, products, technology, materials, and other supplies and services;”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | strike | in paragraph (4), by striking “proposed or pending”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4565` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | redesignate | by redesignating paragraphs (6), (7), (8), (9), (10), and (11) as paragraphs (5), (6), (7), (8), (9), and (16), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4565` | redesignate | in paragraph (9), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4565` | redesignate | in paragraph (9), as so redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4565` | redesignate | by inserting after paragraph (9), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4565` | add-at-end | by adding at the end the following flush-left text: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | replace | by striking “The Committee” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4565` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -99,13 +119,20 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4565` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | replace | by striking “Each notice” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4565` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4565` | strike | in subparagraph (B)(ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4565` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4565` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | amend | in paragraph (2), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by section 503, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by section 501, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by subsection (d), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by section 603, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by section 502, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4565` | add-at-end | Section 721 of the Defense Production Act of 1950 (50 U.S.C. 4565), as amended by section 602, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | The effective administration of export controls requires a clear understanding both inside and outside the United States Government of which items are controlled and an efficient process should be created to update the controls, such as … | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 1701` | repeal | The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) (as continued in effect pursuant to the International Emergency Economic Powers Act) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
