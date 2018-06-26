@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6069
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6069
@@ -21,10 +21,11 @@ FIND Trafficking Act
 - Rep. Rothfus, Keith J. [R-PA-12] (R000598)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ FIND Trafficking Act
 - 2018-06-25 — Placed on the Union Calendar, Calendar No. 607.
 - 2018-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-781, Part I.
 - 2018-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-781, Part I.
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

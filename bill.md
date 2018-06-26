@@ -2,7 +2,7 @@
 legis-num: H.R. 6069
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6069
@@ -18,18 +18,18 @@ This Act may be cited as the “Fight Illicit Networks and Detect Trafficking Ac
 The Congress finds the following:
 
 - **(1)** According to the Drug Enforcement Administration (DEA) 2017 National Drug Threat Assessment, transnational criminal organizations are increasingly using virtual currencies.
-- **(2)** The Treasury Department has recognized that: “The development of virtual currencies is an attempt to meet a legitimate market demand. According to a Federal Reserve Bank of Chicago economist, U.S. consumers want payment options that are versatile and that provide immediate finality. No U.S. payment method meets that description, although cash may come closest. Virtual currencies can mimic cash’s immediate finality and anonymity and are more versatile than cash for online and cross-border transactions, making virtual currencies vulnerable for illicit transactions.”.
+- **(2)** The Treasury Department has recognized that: “The development of virtual currencies is an attempt to meet a legitimate market demand. According to a Federal Reserve Bank of Chicago economist, United States consumers want payment options that are versatile and that provide immediate finality. No United States payment method meets that description, although cash may come closest. Virtual currencies can mimic cash’s immediate finality and anonymity and are more versatile than cash for online and cross-border transactions, making virtual currencies vulnerable for illicit transactions.”.
 - **(3)** Virtual currencies have become a prominent method to pay for goods and services associated with illegal sex trafficking and drug trafficking, which are two of the most detrimental and troubling illegal activities facilitated by online marketplaces.
-- **(4)** Online marketplaces, including the darkweb, have become a prominent platform to buy, sell, and advertise for illicit goods and services associated with sex trafficking and drug trafficking.
+- **(4)** Online marketplaces, including the dark web, have become a prominent platform to buy, sell, and advertise for illicit goods and services associated with sex trafficking and drug trafficking.
 - **(5)** According to the International Labour Organization, in 2016, 4.8 million people in the world were victims of forced sexual exploitation, and in 2014, the global profit from commercial sexual exploitation was $99 billion.
 - **(6)** In 2016, within the United States, the Center for Disease Control estimated that there were 64,000 deaths related to drug overdose, and the most severe increase in drug overdoses were those associated with fentanyl and fentanyl analogs (synthetic opioids), which amounted to over 20,000 overdose deaths.
-- **(7)** According to the U.S. Department of the Treasury 2015 National Money Laundering Risk Assessment, an estimated $64 billion is generated annually from U.S. drug trafficking sales.
+- **(7)** According to the United States Department of the Treasury 2015 National Money Laundering Risk Assessment, an estimated $64 billion is generated annually from United States drug trafficking sales.
 - **(8)** Illegal fentanyl in the United States originates primarily from China, and it is readily available to purchase through online marketplaces.
 
 ## § 3. GAO Study
 
 - **(a)** *Study required* The Comptroller General of the United States shall conduct a study on how virtual currencies and online marketplaces are used to facilitate sex and drug trafficking. The study shall consider—
-  - **(1)** how online marketplaces, including the darkweb, are being used as platforms to buy, sell, or facilitate the financing of goods or services associated with sex trafficking or drug trafficking (specifically, opioids and synthetic opioids, including fentanyl, fentanyl analogs, and any precursor chemicals associated with manufacturing fentanyl or fentanyl analogs) destined for, originating from, or within the United States;
+  - **(1)** how online marketplaces, including the dark web, are being used as platforms to buy, sell, or facilitate the financing of goods or services associated with sex trafficking or drug trafficking (specifically, opioids and synthetic opioids, including fentanyl, fentanyl analogs, and any precursor chemicals associated with manufacturing fentanyl or fentanyl analogs) destined for, originating from, or within the United States;
   - **(2)** how financial payment methods, including virtual currencies and peer-to-peer mobile payment services, are being utilized by online marketplaces to facilitate the buying, selling, or financing of goods and services associated with sex or drug trafficking destined for, originating from, or within the United States;
   - **(3)** how virtual currencies are being used to facilitate the buying, selling, or financing of goods and services associated with sex or drug trafficking, destined for, originating from, or within the United States, when an online platform is not otherwise involved;
   - **(4)** how illicit funds that have been transmitted online and through virtual currencies are repatriated into the formal banking system of the United States through money laundering or other means;
