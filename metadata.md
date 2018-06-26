@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8
@@ -455,3 +455,5 @@ Water Resources Development Act of 2018
 - 2018-06-06 — The Speaker designated the Honorable Gary J. Palmer to act as Chairman of the Committee.
 - 2018-06-06 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-06-06 — The previous question was ordered pursuant to the rule.
+- 2018-06-11 — Received in the Senate.
+- 2018-06-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.
