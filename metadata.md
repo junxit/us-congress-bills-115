@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5766
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5766
@@ -20,9 +20,10 @@ Securing Public Areas of Transportation Facilities Act of 2018
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Securing Public Areas of Transportation Facilities Act of 2018
 - 2018-06-25 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2018-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5629-5630)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5629-5630)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
