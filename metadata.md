@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4294
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4294
@@ -36,3 +36,12 @@ Prevention of Private Information Dissemination Act of 2017
 - 2018-05-18 — Committee on the Judiciary discharged.
 - 2018-05-18 — Committee on the Judiciary discharged.
 - 2018-05-18 — Placed on the Union Calendar, Calendar No. 522.
+- 2018-06-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-06-25 — Considered under suspension of the rules. (consideration: CR H5587-5589)
+- 2018-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4294.
+- 2018-06-25 — Mr. Hill moved to suspend the rules and pass the bill, as amended.
+- 2018-06-26 — Considered as unfinished business. (consideration: CR H5673-5674)
+- 2018-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 293). (text: CR 6/25/18 H5588)
+- 2018-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 293).(text: CR 6/25/18 H5588)
+- 2018-06-26 — The title of the measure was amended. Agreed to without objection.
