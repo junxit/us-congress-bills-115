@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5081
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5081
@@ -21,9 +21,10 @@ Surface Transportation Security and Technology Accountability Act of 2018
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Surface Transportation Security and Technology Accountability Act of 2018
 - 2018-06-25 — Mr. Katko moved to suspend the rules and pass the bill.
 - 2018-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5625-5626)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5625-5626)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
