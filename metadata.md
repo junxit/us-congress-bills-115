@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 961
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 961
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 6157) making appropriations for th
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2018-06-26 — [House 115-2-291](votes/house-115-2-0291.md) — On Ordering the Previous Question — **Passed** (219–172)
+- 2018-06-26 — [House 115-2-292](votes/house-115-2-0292.md) — On Agreeing to the Resolution — **Passed** (222–172)
+
 ## Actions
 
 - 2018-06-25 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 6157) making appropriations for th
 - 2018-06-25 — Provides for consideration of H.R. 6157 and H.R. 2083 both under structured rules.
 - 2018-06-25 — The House Committee on Rules reported an original measure, H. Rept. 115-783, by Ms. Cheney.
 - 2018-06-25 — The House Committee on Rules reported an original measure, H. Rept. 115-783, by Ms. Cheney.
+- 2018-06-26 — Considered as privileged matter. (consideration: CR H5668-5673)
+- 2018-06-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 961.
+- 2018-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-26 — On agreeing to the resolution Agreed to by recorded vote: 222 - 172 (Roll no. 292). (text: CR H5668-5669)
+- 2018-06-26 — On ordering the previous question Agreed to by the Yeas and Nays: 219 - 172 (Roll no. 291). (consideration: CR H5668)
+- 2018-06-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 222 - 172 (Roll no. 292).(text: CR H5668-5669)
