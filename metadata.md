@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5730
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5730
@@ -21,9 +21,10 @@ Transportation Security Technology Innovation Reform Act of 2018
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Transportation Security Technology Innovation Reform Act of 2018
 - 2018-06-25 — Mr. Katko moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5627-5628)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5627-5628)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
