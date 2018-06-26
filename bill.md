@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4294
 
-> To amend the Financial Stability Act of 2010 to provide a criminal penalty for unauthorized disclosures of certain individually identifiable information by officers or employees of a Federal department or agency.
+> To amend the Financial Stability Act of 2010 to provide a criminal penalty for unauthorized disclosures by officers or employees of a Federal agency of certain living will and stress test determinations.
 
 ## § 1. Short title
 
@@ -17,7 +17,4 @@ This Act may be cited as the “Prevention of Private Information Dissemination 
 
 Section 165 of the Financial Stability Act of 2010 (12 U.S.C. 5365) is amended by adding at the end the following:
 
-> - **(l)** *Criminal penalty for unauthorized disclosures*
->   - **(1)** *In general* Any officer or employee of a Federal department or agency, who by virtue of such officer or employee’s employment or official position, has possession of, or access to, agency records which contain individually identifiable information submitted pursuant to the requirements of this section, the disclosure of which is prohibited by Federal statute, rule, or regulation, and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000.
->   - **(2)** *Obtaining records under false pretenses* Any person who knowingly and willfully requests or obtains information described under paragraph (1) from a Federal department or agency under false pretenses shall be guilty of a misdemeanor and fined not more than $5,000.
->   - **(3)** *Treatment of determinations* For purposes of this subsection, a determination made under subsection (d) or (i) based on individually identifiable information submitted pursuant to the requirements of this section shall be deemed individually identifiable information, the disclosure of which is prohibited by Federal statute.
+> - **(l)** *Criminal penalty for unauthorized disclosures* Section 552a(i)(1) of title 5, United States Code, shall apply to a determination made under subsection (d) or (i) based on individually identifiable information submitted pursuant to the requirements of this section to the same extent as such section 552a(i)(1) applies to agency records which contain individually identifiable information the disclosure of which is prohibited by such section 552a or by rules or regulations established thereunder.
