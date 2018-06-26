@@ -1,7 +1,7 @@
 ---
 measure: H.R. 805
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 805
@@ -20,9 +20,10 @@ Tulare Youth Recreation and Women's History Enhancement Act
 
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Tulare Youth Recreation and Women's History Enhancement Act
 - 2018-06-25 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5593)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5593)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
