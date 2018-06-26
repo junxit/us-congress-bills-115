@@ -1,7 +1,7 @@
 ---
 measure: H.R. 435
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 435
@@ -49,9 +49,10 @@ The Credit Access and Inclusion Act of 2017
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Messer, Luke [R-IN-6] (M001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ The Credit Access and Inclusion Act of 2017
 - 2018-06-25 — Mr. Hill moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5586-5587)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5586-5587)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
