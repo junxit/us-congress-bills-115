@@ -2,7 +2,7 @@
 legis-num: H.R. 5751
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5751
@@ -40,8 +40,9 @@ In this Act:
   - **(2)** identify other sites, facilities, and programs,
 - **(c)** *Duties of the Secretary* In carrying out the Network, the Secretary shall—
   - **(1)** produce and disseminate appropriate education materials relating to the history, construction, and legacy of the Transcontinental Railroad, such as handbooks, maps, interpretive guides, or electronic information;
-  - **(2)** enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (d); and
-  - **(3)** create and adopt an official, uniform symbol or device for the Network and issue guidance for the use of such symbol or device.
+  - **(2)** identify opportunities to enhance the recognition of immigrant laborers’ contributions to the history, construction, and legacy of the Transcontinental Railroad;
+  - **(3)** enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (d); and
+  - **(4)** create and adopt an official, uniform symbol or device for the Network and issue guidance for the use of such symbol or device.
 - **(d)** *Elements* The Network shall encompass the following elements:
   - **(1)** All units and programs of the National Park Service that are determined by the Secretary to relate to the history, construction, and legacy of the Transcontinental Railroad.
   - **(2)** With the consent of each person owning any legal interest in the property, other Federal, State, local, and privately owned properties that have a verifiable connection to the history, construction, and legacy of the Transcontinental Railroad and are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
@@ -51,7 +52,7 @@ In this Act:
 ## § 5. Agreements affecting certain historical crossings
 
 - **(a)** *Programmatic agreement* No later than 6 months after the date of enactment of this Act, the Secretary shall enter into a Programmatic Agreement with the Utah State Historic Preservation Office and other consulting parties to add certain undertakings in the Park to the list of those eligible for streamlined review under section 106 of the Historic Preservation Act of 1966 (54 U.S.C. 306108). In the development of the Programmatic Agreement, the Secretary shall collaborate with adjacent landowners, Tribes, and other consulting parties.
-- **(b)** *Adjacent landowners* After the completion of the Programmatic Agreement under subsection (a), an adjacent landowner shall give the Secretary notice of proposed certain undertakings. The Programmatic Agreement shall include provision for a 30-day approval or disapproval process for the proposed certain undertaking.
+- **(b)** *Process for approval* After the completion of the Programmatic Agreement under subsection (a), an adjacent landowner shall give the Secretary notice of proposed certain undertakings. Within 30 days of the receipt of the notice, the Secretary shall review and approve the proposed certain undertakings if consistent with the Programmatic Agreement.
 - **(c)** *Definition of certain undertakings* As used in this section, the term “certain undertakings” means those activities that take place on, within, or under a historical crossing and—
   - **(1)** will last less than 1 month and will have limited physical impact on the surface of the historical crossing;
   - **(2)** have been implemented by an adjacent landowner or other adjacent landowners in the past; or

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5751
@@ -22,9 +22,10 @@ Golden Spike 150th Anniversary Act
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Golden Spike 150th Anniversary Act
 - 2018-06-25 — Placed on the Union Calendar, Calendar No. 608.
 - 2018-06-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-782.
 - 2018-06-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-782.
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
