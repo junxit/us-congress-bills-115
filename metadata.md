@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5207
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5207
@@ -23,9 +23,10 @@ IAP Authorization Act of 2018
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ IAP Authorization Act of 2018
 - 2018-06-25 — Ms. McSally moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5633-5634)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5633-5634)
+- 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
