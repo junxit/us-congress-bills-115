@@ -1,7 +1,7 @@
 ---
 measure: S. 2848
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2848
@@ -24,3 +24,7 @@ Fighting Opioid Abuse in Transportation Act
 
 - 2018-05-15 — Introduced in Senate
 - 2018-05-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-05-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-286.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-286.
+- 2018-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.
