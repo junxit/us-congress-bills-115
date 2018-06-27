@@ -1,7 +1,7 @@
 ---
 measure: S. 2842
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2842
@@ -16,9 +16,12 @@ Opioid Addiction Recovery Fraud Prevention Act of 2018
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
@@ -28,3 +31,9 @@ Opioid Addiction Recovery Fraud Prevention Act of 2018
 
 - 2018-05-15 — Introduced in Senate
 - 2018-05-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-05-17 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2018-05-17 — Senate amendment submitted
+- 2018-05-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-285.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-285.
+- 2018-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.
