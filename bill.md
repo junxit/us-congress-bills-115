@@ -2,7 +2,7 @@
 legis-num: H. RES. 964
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 964
@@ -13,7 +13,7 @@ That at any time after adoption of this resolution the Speaker may, pursuant to 
 
 ## § 2.
 
-On any legislative day during the period from June 29, 2018, through July 9, 2018 —
+On any legislative day during the period from June 29, 2018, through July 9, 2018—
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
