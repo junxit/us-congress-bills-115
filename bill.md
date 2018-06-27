@@ -38,7 +38,7 @@ In this Act:
 
 ## § 3. Public-private partnerships for commercialization
 
-- **(a)** *In general* Subject to subsections (b) and (c), the Secretary shall delegate to directors of the National Laboratories signature authority with respect to any agreement described in subsection (b) the total cost of which (including the National Laboratory contributions and project recipient cost share) is less than $1 million, if such an agreement falls within the scope of—
+- **(a)** *In general* Subject to subsections (b) and (c), the Secretary shall delegate to directors of the National Laboratories signature authority with respect to any agreement described in subsection (b) the total cost of which (including the National Laboratory contributions and project recipient cost share) is less than $1,000,000, if such an agreement falls within the scope of—
   - **(1)** a strategic plan for the National Laboratory that has been approved by the Department; or
   - **(2)** the most recent congressionally approved budget for Department activities to be carried out by the National Laboratory.
 - **(b)** *Agreements* Subsection (a) applies to—
@@ -58,7 +58,7 @@ In this Act:
       > - **(1)** *In general* Except as provided in paragraph (2), each Federal agency
 
     - **(C)** by adding at the end the following:
-      > - **(2)** *Exception* Notwithstanding paragraph (1), in accordance with section 3(a) of the NIMBLE Act, approval by the Secretary of Energy shall not be required for any technology transfer agreement proposed to be entered into by a National Laboratory of the Department of Energy, the total cost of which (including the National Laboratory contributions and project recipient cost share) is less than $1 million.
+      > - **(2)** *Exception* Notwithstanding paragraph (1), in accordance with section 3(a) of the NIMBLE Act, approval by the Secretary of Energy shall not be required for any technology transfer agreement proposed to be entered into by a National Laboratory of the Department of Energy, the total cost of which (including the National Laboratory contributions and project recipient cost share) is less than $1,000,000.
 
   - **(2)** in subsection (b), by striking “subsection (a)(1)” each place it appears and inserting “subsection (a)(1)(A)”.
 
