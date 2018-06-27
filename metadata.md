@@ -1,7 +1,7 @@
 ---
 measure: S. 1158
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1158
@@ -16,7 +16,7 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (21)
+## Cosponsors (32)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -39,6 +39,17 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -48,3 +59,7 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 
 - 2017-05-17 — Introduced in Senate
 - 2017-05-17 — Read twice and referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S3014-3015)
+- 2018-06-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-27 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-06-27 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
