@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4294
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4294
@@ -16,10 +16,11 @@ Prevention of Private Information Dissemination Act of 2017
 
 - Rep. Kustoff, David [R-TN-8] (K000392)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Prevention of Private Information Dissemination Act of 2017
 - 2018-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 293). (text: CR 6/25/18 H5588)
 - 2018-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 293).(text: CR 6/25/18 H5588)
 - 2018-06-26 — The title of the measure was amended. Agreed to without objection.
+- 2018-06-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
