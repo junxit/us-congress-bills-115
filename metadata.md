@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5346
@@ -31,3 +31,14 @@ Commercial Space Support Vehicle Act
 - 2018-03-20 — Introduced in House
 - 2018-03-20 — Introduced in House
 - 2018-03-20 — Referred to the House Committee on Science, Space, and Technology.
+- 2018-03-22 — Committee Consideration and Mark-up Session Held.
+- 2018-03-22 — Ordered to be Reported by Voice Vote.
+- 2018-06-27 — Considered under suspension of the rules. (consideration: CR H5770-5771)
+- 2018-06-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5346.
+- 2018-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-27 — Mr. Posey moved to suspend the rules and pass the bill.
+- 2018-06-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (CR H5770)
+- 2018-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(CR H5770)
+- 2018-06-27 — Placed on the Union Calendar, Calendar No. 611.
+- 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-789.
+- 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-789.
