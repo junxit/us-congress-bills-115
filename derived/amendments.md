@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5906
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 16538
 
-> by striking “shall” and inserting “may”; and
+> by striking “shall” and inserting “is authorized to”; and
 
 | | |
 |---|---|
 | Removed | `shall` |
-| Inserted | `may` |
+| Inserted | `is authorized to` |
 
 ### 42 U.S.C. § 16538
 
@@ -71,7 +71,7 @@ to guess them.
 
 ### 42 U.S.C. § 16538
 
-> Section 5012(o)(2) of such Act (42 U.S.C. 16538(o)(2)), as redesignated by subsection (f)(1), is amended by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”.
+> Section 5012(o)(2) of such Act (42 U.S.C. 16538(o)(2)), as redesignated by subsection (g)(1), is amended by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”.
 
 | | |
 |---|---|
@@ -94,4 +94,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16538` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | redesignate | by redesignating subsection (n) as subsection (o); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | insert | by inserting after subsection (m) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16538` | redesignate | Section 5012(o)(4) of such Act (42 U.S.C. 16538(o)(4)), as redesignated by subsection (f)(1), is amended by striking “during the 5-year period beginning on the date of enactment of this Act”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16538` | redesignate | Section 5012(o)(4) of such Act (42 U.S.C. 16538(o)(4)), as redesignated by subsection (g)(1), is amended by striking “during the 5-year period beginning on the date of enactment of this Act”. | the bill quotes the text struck but describes what replaces it |

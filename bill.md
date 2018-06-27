@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “ARPA–E Act of 2018”.
+This Act may be cited as the “ARPA-E Act of 2018”.
 
 ## § 2. Advanced Research Projects Agency–Energy
 
@@ -33,27 +33,25 @@ This Act may be cited as the “ARPA–E Act of 2018”.
   - **(2)** in paragraph (2) by striking “energy technology projects” and inserting “advanced technology projects”.
 - **(c)** *Responsibilities* Section 5012(e)(3)(A) of such Act (42 U.S.C. 16538(e)(3)(A)) is amended by striking “energy”.
 - **(d)** *Strategic vision roadmap* Section 5012(h)(2) of such Act (42 U.S.C. 16538(h)(2)) is amended to read as follows:
-  > - **(2)** *Strategic vision roadmap* In the report required under paragraph (1), the Director shall include a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 2 fiscal years.
+  > - **(2)** *Strategic vision roadmap* In the report required under paragraph (1), the Director shall include a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 2 fiscal years.
 
 - **(e)** *Coordination and nonduplication* Section 5012(i)(1) of such Act (42 U.S.C. 16538(i)(1)) is amended to read as follows:
   > - **(1)** *In general* To the maximum extent practicable, the Director shall ensure that—
   >   - **(A)** the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
-  >   - **(B)** ARPA–E does not provide funding for a project unless the prospective grantee demonstrates—
-  >     - **(i)** sufficient attempts to secure private financing; or
-  >     - **(ii)** that the project is not independently commercially viable.
+  >   - **(B)** ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
 
 - **(f)** *Evaluation* Section 5012(l) of such Act (42 U.S.C. 16538(l)) is amended—
   - **(1)** by striking paragraph (1) and inserting the following:
-    > - **(1)** *In general* Not later than 3 years after the date of enactment of the ARPA–E Act of 2018, the Secretary may offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
+    > - **(1)** *In general* Not later than 3 years after the date of enactment of the ARPA-E Act of 2018, the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
 
   - **(2)** in paragraph (2)—
-    - **(A)** by striking “shall” and inserting “may”; and
+    - **(A)** by striking “shall” and inserting “is authorized to”; and
     - **(B)** by striking “the recommendation of the National Academy of Sciences” and inserting “a recommendation”.
 - **(g)** *Protection of proprietary information* Section 5012 of such Act (42 U.S.C. 16538) is amended—
   - **(1)** by redesignating subsection (n) as subsection (o); and
   - **(2)** by inserting after subsection (m) the following new subsection:
     > - **(n)** *Protection of proprietary information*
-    >   - **(1)** *In general* The following categories of information collected by ARPA–E from recipients of awards under this section shall be considered privileged and confidential and not subject to disclosure pursuant to section 552 of title 5, United States Code:
+    >   - **(1)** *In general* The following categories of information collected by ARPA-E from recipients of awards under this section shall be considered privileged and confidential and not subject to disclosure pursuant to section 552 of title 5, United States Code:
     >     - **(A)** Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
     >     - **(B)** Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
     >     - **(C)** Additional financial support that the awardee—
@@ -64,7 +62,7 @@ This Act may be cited as the “ARPA–E Act of 2018”.
     >     - **(A)** the authority of the Secretary to use information without publicly disclosing such information; or
     >     - **(B)** the responsibility of the Secretary to transmit information to Congress as required by law.
 
-- **(h)** *Funding* Section 5012(o)(4) of such Act (42 U.S.C. 16538(o)(4)), as redesignated by subsection (f)(1), is amended by striking “during the 5-year period beginning on the date of enactment of this Act”.
+- **(h)** *Funding* Section 5012(o)(4) of such Act (42 U.S.C. 16538(o)(4)), as redesignated by subsection (g)(1), is amended by striking “during the 5-year period beginning on the date of enactment of this Act”.
 - **(i)** *Technical amendments*
   - **(1)** Section 5012(g)(3)(A)(iii) of such Act (42 U.S.C. 16538(g)(3)(A)(iii)) is amended by striking “subpart” each place it appears and inserting “subparagraph”.
-  - **(2)** Section 5012(o)(2) of such Act (42 U.S.C. 16538(o)(2)), as redesignated by subsection (f)(1), is amended by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”.
+  - **(2)** Section 5012(o)(2) of such Act (42 U.S.C. 16538(o)(2)), as redesignated by subsection (g)(1), is amended by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”.
