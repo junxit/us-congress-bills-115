@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5905
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -90,5 +90,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5542` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16311` | insert | Subtitle G of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16311 et seq.) is amended by inserting after section 977 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16311` | insert | The table of contents for subtitle G of title IX of the Energy Policy Act of 2005 is amended by inserting after the item relating to section 977 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16312` | amend | Section 972 of the Energy Policy Act of 2005 (42 U.S.C. 16312) is amended by adding section the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16312` | add-at-end | Section 972 of the Energy Policy Act of 2005 (42 U.S.C. 16312) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2053` | insert | Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) is amended by inserting before the first sentence the following: “In this section, with respect to international research projects, the term private facilities or laboratories … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

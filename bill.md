@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Department* The term Department means the Department of Energy.
-- **(2)** *Director* The term Director means the Director of the Office of Science of the Department.
+- **(2)** *Director* The term “Director” means the Director of the Office of Science of the Department.
 - **(3)** *National laboratory* The term National Laboratory has the meaning given that term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
 - **(4)** *Secretary* The term Secretary means the Secretary of Energy.
 
@@ -83,9 +83,9 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(5)** *Linac coherent light source ii high energy upgrade*
     - **(A)** *In general* The Secretary shall provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries. The Secretary shall ensure the upgrade under this paragraph enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
     - **(B)** *Definitions* In this paragraph:
-      - **(i)** *High energy x-ray* The term a high energy x-ray means a photon with an energy at or exceeding 12 kiloelectron volts.
-      - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to one million pulses per second.
-      - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than one hundred femtoseconds.
+      - **(i)** *High energy x-ray* The term a “high energy x-ray” means a photon with an energy at or exceeding 12 kiloelectron volts.
+      - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to 1 million pulses per second.
+      - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than 100 femtoseconds.
     - **(C)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2025.
     - **(D)** *Funding* Out of funds authorized to be appropriated under section 11 for Basic Energy Sciences, there shall be made available to the Secretary to carry out the upgrade under this paragraph—
       - **(i)** $20,000,000 for fiscal year 2018; and
@@ -233,7 +233,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >       - **(i)** carry out the Program through an integration of applications, computer science, applied mathematics, and computer hardware architecture using the partnerships established pursuant to paragraph (2) to ensure that, to the maximum extent practicable, two or more exascale computing machine architectures are capable of solving Department target applications and broader scientific problems, including predictive modeling and simulation, large scale data analytics and management, and artificial intelligence; and
       >       - **(ii)** conduct outreach programs to increase the readiness for the use of such platforms by domestic industries, including manufacturers.
       >     - **(B)** *Report*
-      >       - **(i)** The Secretary shall submit to Congress a report describing how the integration under subparagraph (A) is furthering application science data and computational workloads across application interests, including national security, material science, phy­si­cal science, cybersecurity, biological science, the Materials Genome and BRAIN Initiatives of the President, advanced manufacturing, and the national electric grid.
+      >       - **(i)** The Secretary shall submit to Congress a report describing how the integration under subparagraph (A) is furthering application science data and computational workloads across application interests, including national security, material science, physical science, cybersecurity, biological science, the Materials Genome and BRAIN Initiatives of the President, advanced manufacturing, and the national electric grid.
       >       - **(ii)** The roles and responsibilities of National Laboratories and industry, including the definition of the roles and responsibilities within the Department to ensure an integrated program across the Department.
       >   - **(4)** *Project review*
       >     - **(A)** *In general* The exascale architectures developed pursuant to partnerships established pursuant to paragraph (2) shall be reviewed through a project review process.
@@ -265,7 +265,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(1)** *In general* The Secretary shall provide for a Long-Baseline Neutrino Facility to facilitate the international Deep Underground Neutrino Experiment to enable a program in neutrino physics to measure the fundamental properties of neutrinos, explore physics beyond the Standard Model, and better clarify the nature of matter and antimatter.
   - **(2)** *Facility capabilities* The Secretary shall ensure that the facility described in paragraph (1) will provide, at a minimum, the following capabilities:
     - **(A)** A broad-band neutrino beam capable of 1.2 megawatts (MW) of beam power and upgradable to 2.4 MW of beam power.
-    - **(B)** Four caverns excavated for a forty kiloton fiducial detector mass and supporting surface buildings and utilities.
+    - **(B)** Four caverns excavated for a 40 kiloton fiducial detector mass and supporting surface buildings and utilities.
     - **(C)** Neutrino detector facilities at both the Far Site in South Dakota and the Near Site in Illinois to categorize and study neutrinos on their 800-mile journey between the two sites.
     - **(D)** Cryogenic systems to support neutrino detectors.
   - **(3)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the facility under this subsection occurs before December 31, 2026.
@@ -286,13 +286,13 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(2)** to improve understanding of the global carbon cycle, including processes for removing carbon dioxide from the atmosphere, through photosynthesis and other biological processes, for sequestration and storage; and
   - **(3)** to understand the biological mechanisms used to transform, immobilize, or remove contaminants from subsurface environments.
 - **(c)** *Bioenergy research centers*
-  - **(1)** *In general* In carrying out activities under subsection (a), the Director shall select and establish up to 4 bioenergy research centers to conduct basic and fundamental research in plant and microbial systems biology, bio imaging and analysis, and genomics to inform the production of fuels, chemicals from sustainable biomass resources, and to facilitate the translation of basic research results to industry.
+  - **(1)** *In general* In carrying out activities under subsection (a), the Director shall select and establish up to four bioenergy research centers to conduct basic and fundamental research in plant and microbial systems biology, bio imaging and analysis, and genomics to inform the production of fuels, chemicals from sustainable biomass resources, and to facilitate the translation of basic research results to industry.
   - **(2)** *Selection* The Director shall select centers under paragraph (1) on a competitive, merit-reviewed basis. The Director shall consider applications from National Laboratories, multi-institutional collaborations, and other appropriate entities.
   - **(3)** *Duration* A center established under this subsection shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
   - **(4)** *Existing centers* The Director may select a center for participation under this subsection that is in existence, or undergoing a renewal process, on the date of enactment of this Act. Such center shall be eligible to receive support for the duration the 5-year period beginning on the date of establishment of such center.
   - **(5)** *Renewal* Upon the expiration of any period of support of a center under this subsection, the Director may renew support for the center, on a merit-reviewed basis, for a period of not more than 5 years.
   - **(6)** *Termination* Consistent with the existing authorities of the Department, the Director may terminate an underperforming center for cause during the performance period.
-- **(d)** *Low-Dose radiation research program*
+- **(d)** *Low dose radiation research program*
   - **(1)** *In general* Subtitle G of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16311 et seq.) is amended by inserting after section 977 the following new section:
     > ## § 977A. Low-dose radiation research program
     >
@@ -302,7 +302,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     > - **(b)** *Program components* In carrying out the program required under subsection (a), the Secretary shall—
     >   - **(1)** formulate scientific goals for low-dose radiation basic research in the United States;
     >   - **(2)** identify ongoing scientific challenges for understanding the long-term effects of ionizing radiation on biological systems;
-    >   - **(3)** develop a long-term strategic and pri­or­i­tized basic research agenda to address such scientific challenges in coordination with other research efforts;
+    >   - **(3)** develop a long-term strategic and prioritized basic research agenda to address such scientific challenges in coordination with other research efforts;
     >   - **(4)** leverage the collective body of knowledge from existing low-dose radiation research; and
     >   - **(5)** engage with other Federal agencies, research communities, and potential users of information produced under this section, including institutions concerning radiation research, medical physics, radiology, health physics, and emergency response.
     > - **(c)** *Coordination* In carrying out the program, the Secretary, in coordination with the Physical Science Subcommittee of the National Science and Technology Council, shall—
@@ -318,7 +318,8 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >   - **(2)** $20,000,000 for fiscal year 2019.
 
   - **(2)** *Conforming amendment* The table of contents for subtitle G of title IX of the Energy Policy Act of 2005 is amended by inserting after the item relating to section 977 the following:
-- **(e)** *Limitation for research funds* The Director shall not approve new climate science-related initiatives without making a determination that such work is well-coordinated with any relevant work carried out by other Federal agencies.
+- **(e)** *Modeling Research* As part of the activities described in subsection (a), the Director is authorized to carry out research to develop multiscale computational models that incorporate and examine interactions among human and earth systems.
+- **(f)** *Limitation for research funds* The Director shall not approve new climate science-related initiatives without making a determination that such work is well-coordinated with any relevant work carried out by other Federal agencies.
 
 ## § 8. Fusion energy
 
@@ -326,21 +327,20 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
 - **(b)** *Inertial fusion energy research and development program* The Secretary shall carry out a program of research and technology development in inertial fusion for energy applications, including ion beam, laser, and pulsed power fusion systems.
 - **(c)** *Tokamak research and development*
   - **(1)** *In general* The Director shall support research and development activities and facility operations to optimize the tokamak approach to fusion energy.
-  - **(2)** *International thermonuclear experimental reactor construction* Section 972 of the Energy Policy Act of 2005 (42 U.S.C. 16312) is amended by adding section the following new paragraph:
-    > - **(6)** *ITER construction*
+  - **(2)** *International thermonuclear experimental reactor construction* Section 972 of the Energy Policy Act of 2005 (42 U.S.C. 16312) is amended by adding at the end the following new paragraph:
+    > - **(7)** *ITER construction*
     >   - **(A)** *In general* There is authorized United States participation in the construction and operations of the ITER project, as agreed to under the April 25, 2007 “Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project.”.
     >   - **(B)** *Facility requirements* The Secretary shall ensure that the mission-oriented user facility will enable the study of a burning plasma, and shall be built to have the following characteristics in its full configuration:
     >     - **(i)** A tokamak device with a plasma radius of 6.2 meters and a magnetic field of 5.3 T.
     >     - **(ii)** Capable of creating and sustaining a 15-million-Ampere plasma current for greater than 300 seconds.
-    > - **(c)** *Authorization of appropriations* From within funds authorized to be appropriated under section 11 of the Department of Energy Science and Innovation Act of 2018, for Fusion Energy Sciences, there is authorized for in-kind contributions under this section—
-    >   - **(1)** $122,000,000 for fiscal year 2018; and
-    >   - **(2)** $163,000,000 for fiscal year 2019.
-    > - **(d)** *Authorization of appropriations* From within funds authorized to be appropriated under section 11 of the Department of Energy Science and Innovation Act of 2018, for Fusion Energy Sciences, there is authorized for cash contributions under this section—
-    >   - **(1)** $50,000,000 for fiscal year 2018; and
-    >   - **(2)** $50,000,000 for fiscal year 2019.
+    >   - **(C)** *Authorization of appropriations* From within funds authorized to be appropriated under section 11 of the Department of Energy Science and Innovation Act of 2018, for Fusion Energy Sciences, there is authorized for in-kind contributions under this paragraph—
+    >     - **(i)** $122,000,000 for fiscal year 2018; and
+    >     - **(ii)** $163,000,000 for fiscal year 2019.
+    >   - **(D)** *Authorization of appropriations* From within funds authorized to be appropriated under section 11 of the Department of Energy Science and Innovation Act of 2018, for Fusion Energy Sciences, there is authorized for cash contributions under this paragraph—
+    >     - **(i)** $50,000,000 for fiscal year 2018; and
+    >     - **(ii)** $50,000,000 for fiscal year 2019.
 
-- **(d)** *Inertial fusion energy research and development* The Director shall support research and development activities for inertial fusion for energy applications.
-- **(e)** *Alternative and enabling concepts*
+- **(d)** *Alternative and enabling concepts*
   - **(1)** *In general* As part of the program described in subsection (a), the Director shall support research and development activities and facility operations at United States universities, national laboratories, and private facilities for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community. Fusion energy concepts and activities explored under this paragraph may include—
     - **(A)** high magnetic field approaches facilitated by high temperature superconductors;
     - **(B)** advanced stellarator concepts;
@@ -354,14 +354,10 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     - **(A)** assess the potential for any fusion energy project supported by ARPA–E to represent a promising approach to a commercially viable fusion power plant;
     - **(B)** determine whether the results of any fusion energy project supported by ARPA–E merit the support of follow-on research activities carried out by the Office of Science; and
     - **(C)** avoid unintentional duplication of activities.
-- **(f)** *Coordination with ARPA–E* The Director shall coordinate with the Director of the Advanced Research Projects Agency–Energy (referred to in this subsection as “ARPA–E”) to—
-  - **(1)** assess the potential for any fusion energy project supported by ARPA–E to represent a promising approach to a commercially viable fusion power plant;
-  - **(2)** determine whether the results of any fusion energy project supported by ARPA–E merit the support of follow-on research activities carried out by the Office of Science; and
-  - **(3)** avoid the unintentional duplication of activities.
-- **(g)** *Fairness in competition for solicitations for international project activities* Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) is amended by inserting before the first sentence the following: “In this section, with respect to international research projects, the term private facilities or laboratories means facilities or laboratories located in the United States.”.
-- **(h)** *Identification of priorities*
+- **(e)** *Fairness in competition for solicitations for international project activities* Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) is amended by inserting before the first sentence the following: “In this section, with respect to international research projects, the term private facilities or laboratories means facilities or laboratories located in the United States.”.
+- **(f)** *Identification of priorities*
   - **(1)** *Report*
-    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report on the fusion energy research and development activities that the Department proposes to carry out over the 10-year period following the date of the report under not fewer than 3 realistic budget scenarios, including a scenario based on 3-percent annual growth in the non-ITER portion of the budget for fusion energy research and development activities.
+    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report on the fusion energy research and development activities that the Department proposes to carry out over the 10-year period following the date of the report under not fewer than three realistic budget scenarios, including a scenario based on 3-percent annual growth in the non-ITER portion of the budget for fusion energy research and development activities.
     - **(B)** *Inclusions* The report required under subparagraph (A) shall—
       - **(i)** identify specific areas of fusion energy research and enabling technology development, including activities to advance inertial and alternative fusion energy concepts, in which the United States can and should establish or solidify a lead in the global fusion energy development effort;
       - **(ii)** identify priorities for initiation of facility construction and facility decommissioning under each of the three budget scenarios described in subparagraph (A); and
