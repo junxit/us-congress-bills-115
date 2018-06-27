@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2083
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2083
@@ -23,9 +23,10 @@ Endangered Salmon and Fisheries Predation Prevention Act
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Endangered Salmon and Fisheries Predation Prevention Act
 - 2018-06-26 — The previous question was ordered pursuant to the rule.
 - 2018-06-26 — The title of the measure was amended. Agreed to without objection.
 - 2018-06-26 — Vargas amendment (A002) modified by unanimous consent. (text as modified: CR H5704)
+- 2018-06-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
