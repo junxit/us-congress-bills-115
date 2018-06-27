@@ -2,7 +2,7 @@
 legis-num: S. 2385
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 2385
@@ -24,32 +24,33 @@ In this Act—
 
 ## § 3. Integrated public alert and warning system subcommittee
 
--  Section 2 of the Integrated Public Alert and Warning System Modernization Act of 2015 (Public Law 114–143; 130 Stat. 327) is amended—
-  - **(1)** in subsection (b)—
-    - **(A)** in paragraph (6)(B)—
-      - **(i)** in clause (i), by striking “and” at the end;
-      - **(ii)** in clause (ii)(VII), by striking the period at the end and inserting “; and”; and
-      - **(iii)** by adding at the end the following:
-        > - **(iii)** recommendations for best practices of State, tribal, and local governments to follow to maintain the integrity of the public alert and warning system, including—
-        >   - **(I)** the procedures for State, tribal, and local government officials to authenticate civil emergencies and initiate, modify, and cancel alerts transmitted through the public alert and warning system, including protocols and technology capabilities for—
-        >     - **(aa)** the initiation, or prohibition on the initiation, of alerts by a single authorized or unauthorized individual; and
-        >     - **(bb)** testing a State, tribal, or local government incident management and warning tool without accidentally initiating an alert through the public alert and warning system;
-        >   - **(II)** the standardization, functionality, and interoperability of incident management and warning tools used by State, tribal, and local governments to notify the public of an emergency through the public alert and warning system;
-        >   - **(III)** the training and recertification of emergency management personnel on best practices for originating and transmitting an alert through the public alert and warning system; and
-        >   - **(IV)** the procedures, protocols, and guidance concerning the protective action plans that State, tribal, and local governments should issue to the public following an alert issued under the public alert and warning system.
+Section 2 of the Integrated Public Alert and Warning System Modernization Act of 2015 (Public Law 114–143; 130 Stat. 327) is amended—
 
-    - **(B)** in paragraph (7)—
-      - **(i)** in subparagraph (A)—
-        - **(I)** by striking “Not later than” and inserting the following:
-          > - **(i)** *Initial report* Not later than
+- **(1)** in subsection (b)—
+  - **(A)** in paragraph (6)(B)—
+    - **(i)** in clause (i), by striking “and” at the end;
+    - **(ii)** in clause (ii)(VII), by striking the period at the end and inserting “; and”; and
+    - **(iii)** by adding at the end the following:
+      > - **(iii)** recommendations for best practices of State, tribal, and local governments to follow to maintain the integrity of the public alert and warning system, including—
+      >   - **(I)** the procedures for State, tribal, and local government officials to authenticate civil emergencies and initiate, modify, and cancel alerts transmitted through the public alert and warning system, including protocols and technology capabilities for—
+      >     - **(aa)** the initiation, or prohibition on the initiation, of alerts by a single authorized or unauthorized individual; and
+      >     - **(bb)** testing a State, tribal, or local government incident management and warning tool without accidentally initiating an alert through the public alert and warning system;
+      >   - **(II)** the standardization, functionality, and interoperability of incident management and warning tools used by State, tribal, and local governments to notify the public of an emergency through the public alert and warning system;
+      >   - **(III)** the training and recertification of emergency management personnel on best practices for originating and transmitting an alert through the public alert and warning system; and
+      >   - **(IV)** the procedures, protocols, and guidance concerning the protective action plans that State, tribal, and local governments should issue to the public following an alert issued under the public alert and warning system.
 
-        - **(II)** in clause (i), as so designated, by striking “paragraph (6)” and inserting “clauses (i) and (ii) of paragraph (6)(B)”; and
-        - **(III)** by adding at the end the following:
-          > - **(ii)** *Second report* Not later than 18 months after the date of enactment of the Authenticating Local Emergencies and Real Threats Act of 2018, the Subcommittee shall submit to the National Advisory Council a report containing any recommendations required to be developed under paragraph (6)(B)(iii) for approval by the National Advisory Council.
+  - **(B)** in paragraph (7)—
+    - **(i)** in subparagraph (A)—
+      - **(I)** by striking “Not later than” and inserting the following:
+        > - **(i)** *Initial report* Not later than
 
-      - **(ii)** in subparagraph (B), by striking “report” each place that term appears and inserting “reports”; and
-    - **(C)** in paragraph (8), by striking “3” and inserting “5”; and
-  - **(2)** in subsection (c), by striking “and 2018” and inserting “2018, 2019, 2020, and 2021”.
+      - **(II)** in clause (i), as so designated, by striking “paragraph (6)” and inserting “clauses (i) and (ii) of paragraph (6)(B)”; and
+      - **(III)** by adding at the end the following:
+        > - **(ii)** *Second report* Not later than 18 months after the date of enactment of the Authenticating Local Emergencies and Real Threats Act of 2018, the Subcommittee shall submit to the National Advisory Council a report containing any recommendations required to be developed under paragraph (6)(B)(iii) for approval by the National Advisory Council.
+
+    - **(ii)** in subparagraph (B), by striking “report” each place that term appears and inserting “reports”; and
+  - **(C)** in paragraph (8), by striking “3” and inserting “5”; and
+- **(2)** in subsection (c), by striking “and 2018” and inserting “2018, 2019, 2020, and 2021”.
 
 ## § 4. Integrated public alert and warning system participatory requirements
 
