@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
