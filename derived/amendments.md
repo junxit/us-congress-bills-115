@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3776
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,10 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2151n` | add-at-end | Section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2304` | redesignate | by redesignating the second subsection (i) (relating to child marriage status) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 231` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2651a` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2651a` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a) by striking “International Relations” and inserting “Foreign Affairs”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (e)(2)(B), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2151n` | add-at-end | Section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
