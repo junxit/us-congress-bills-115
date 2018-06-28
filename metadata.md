@@ -1,7 +1,7 @@
 ---
 measure: S. 2779
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2779
@@ -28,3 +28,7 @@ Zimbabwe Democracy and Economic Recovery Amendment Act of 2018
 
 - 2018-04-26 — Introduced in Senate
 - 2018-04-26 — Read twice and referred to the Committee on Foreign Relations.
+- 2018-06-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-06-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-06-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 499.
