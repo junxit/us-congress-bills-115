@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6157
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6157
@@ -34,3 +34,317 @@ Department of Defense and Labor, Health and Human Services, and Education Approp
 - 2018-06-20 — Placed on the Union Calendar, Calendar No. 598.
 - 2018-06-20 — The House Committee on Appropriations reported an original measure, H. Rept. 115-769, by Ms. Granger.
 - 2018-06-20 — The House Committee on Appropriations reported an original measure, H. Rept. 115-769, by Ms. Granger.
+- 2018-06-25 — Rules Committee Resolution H. Res. 961 Reported to House. Rule provides for consideration of H.R. 6157 and H.R. 2083. Provides for consideration of H.R. 6157 and H.R. 2083 both under structured rules.
+- 2018-06-26 — Amendment (A001) offered by Ms. Jackson Lee. (consideration: CR H5738-5739; text: CR H5738)
+- 2018-06-26 — Amendment (A002) offered by Mr. Lowenthal. (consideration: CR H5739; text: CR H5739)
+- 2018-06-26 — Amendment (A003) offered by Mrs. Napolitano. (consideration: CR H5739-5740; text: CR H5740)
+- 2018-06-26 — Amendment (A004) offered by Mr. McGovern. (consideration: CR H5740-5741; text: CR H5740)
+- 2018-06-26 — Amendment (A005) offered by Mr. Allen. (consideration: CR H5741-5742; text: CR H5741)
+- 2018-06-26 — Amendment (A006) offered by Ms. McSally. (consideration: CR H5742; text: CR H5742)
+- 2018-06-26 — Amendment (A007) offered by Mr. Soto. (consideration: CR H5742-5743; text: CR H5742)
+- 2018-06-26 — Amendment (A008) offered by Mr. Langevin. (consideration: CR H5743-5744; text: CR H5743)
+- 2018-06-26 — Amendment (A009) offered by Mr. Lipinski. (consideration: CR H5744-5757; text: CR H5744)
+- 2018-06-26 — Amendment (A010) offered by Mr. Soto. (consideration: CR H5744-5745; text: CR H5744)
+- 2018-06-26 — Amendment (A011) offered by Mr. Visclosky. (consideration: CR H5745; text: CR H5745)
+- 2018-06-26 — Amendment (A012) offered by Mr. Poe (TX). (consideration: CR H5745-5746; text: CR H5745)
+- 2018-06-26 — Amendment (A013) offered by Mr. Visclosky. (consideration: CR H5746-5747; text: CR H5746)
+- 2018-06-26 — Amendment (A014) offered by Mr. Brown (MD). (consideration: CR H5747; text: CR H5747)
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Amendment agreed to Committee of the Whole
+- 2018-06-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 6157 as unfinished business.
+- 2018-06-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 6157 as unfinished business.
+- 2018-06-26 — Considered as unfinished business.
+- 2018-06-26 — Considered under the provisions of rule H. Res. 961. (consideration: CR H5706-5747; text: CR H5721-5738)
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Allen amendment No. 6.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 24.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 1.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 9.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 10.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 2.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 5.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the McSally amendment No. 7.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Napolitano amendment No. 4.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Poe (TX) amendment No. 20.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 14.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 8.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Visclosky amendment No. 16.
+- 2018-06-26 — DEBATE - Pursuant to the provisions of H. Res. 961, the Committee of the Whole proceeded with 10 minutes of debate on the Visclosky amendment No. 22.
+- 2018-06-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 6157.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Allen amendment (A005) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A014) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A001) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Lipinski amendment (A009) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Lowenthal amendment (A002) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the McGovern amendment (A004) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the McSally amendment (A006) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Napolitano amendment (A003) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Soto amendment (A007) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Soto amendment (A010) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Visclosky amendment (A011) Agreed to by voice vote.
+- 2018-06-26 — House amendment agreed to: On agreeing to the Visclosky amendment (A013) Agreed to by voice vote.
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered
+- 2018-06-26 — House amendment offered/reported by: Amendment (A001) offered by Ms. Jackson Lee.(consideration: CR H5738-5739; text: CR H5738)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A002) offered by Mr. Lowenthal.(consideration: CR H5739; text: CR H5739)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Napolitano.(consideration: CR H5739-5740; text: CR H5740)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A004) offered by Mr. McGovern.(consideration: CR H5740-5741; text: CR H5740)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A005) offered by Mr. Allen.(consideration: CR H5741-5742; text: CR H5741)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A006) offered by Ms. McSally.(consideration: CR H5742; text: CR H5742)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A007) offered by Mr. Soto.(consideration: CR H5742-5743; text: CR H5742)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A008) offered by Mr. Langevin.(consideration: CR H5743-5744; text: CR H5743)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A009) offered by Mr. Lipinski.(consideration: CR H5744-5757; text: CR H5744)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A010) offered by Mr. Soto.(consideration: CR H5744-5745; text: CR H5744)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A011) offered by Mr. Visclosky.(consideration: CR H5745; text: CR H5745)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A012) offered by Mr. Poe (TX).(consideration: CR H5745-5746; text: CR H5745)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A013) offered by Mr. Visclosky.(consideration: CR H5746-5747; text: CR H5746)
+- 2018-06-26 — House amendment offered/reported by: Amendment (A014) offered by Mr. Brown (MD).(consideration: CR H5747; text: CR H5747)
+- 2018-06-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 961 and Rule XVIII.
+- 2018-06-26 — Ms. Granger moved that the Committee rise.
+- 2018-06-26 — Ms. Granger moved that the committee rise.
+- 2018-06-26 — On agreeing to the Allen amendment (A005) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Brown (MD) amendment (A014) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Jackson Lee amendment (A001) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Lipinski amendment (A009) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Lowenthal amendment (A002) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the McGovern amendment (A004) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the McSally amendment (A006) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Napolitano amendment (A003) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Soto amendment (A007) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Soto amendment (A010) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Visclosky amendment (A011) Agreed to by voice vote.
+- 2018-06-26 — On agreeing to the Visclosky amendment (A013) Agreed to by voice vote.
+- 2018-06-26 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-06-26 — On motion that the committee rise Agreed to by voice vote.
+- 2018-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2018-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Poe(TX) amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Poe(TX) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-26 — Rule provides for consideration of H.R. 6157 and H.R. 2083. Provides for consideration of H.R. 6157 and H.R. 2083 both under structured rules.
+- 2018-06-26 — Rules Committee Resolution H. Res. 964 Reported to House. Rule provides for consideration of H.R. 6157. Motion to recommit with or without instructions allowed. Pursuant to the resolution no further amendment to the bill, as amended, shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. The resolution provides for proceedings during the period from June 29, 2018 through July 9, 2018.
+- 2018-06-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-26 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
+- 2018-06-27 — Amendment (A015) offered by Ms. Jackson Lee. (consideration: CR H5789-5791; text: CR H5789)
+- 2018-06-27 — Amendment (A016) offered by Ms. Frankel (FL). (consideration: CR H5791-5792; text: CR H5791)
+- 2018-06-27 — Amendment (A017) offered by Ms. Rosen. (consideration: CR H5792-5793; text: CR H5792)
+- 2018-06-27 — Amendment (A018) offered by Mr. Lynch. (consideration: CR H5793; text: CR H5793)
+- 2018-06-27 — Amendment (A019) offered by Ms. Kuster (NH). (consideration: CR H5793-5794; text: CR H5793)
+- 2018-06-27 — Amendment (A020) offered by Mr. Gallagher. (consideration: CR H5794-5795; text: CR H5794)
+- 2018-06-27 — Amendment (A021) offered by Mr. Gallagher. (consideration: CR H5795-5796; text: CR H5795)
+- 2018-06-27 — Amendment (A022) offered by Mr. Hudson. (consideration: CR H5796; text: CR H5796)
+- 2018-06-27 — Amendment (A023) offered by Mr. Welch. (consideration: CR H5796-5797; text: CR H5796)
+- 2018-06-27 — Amendment (A024) offered by Mr. Nolan. (consideration: CR H5797; text: CR H5797)
+- 2018-06-27 — Amendment (A025) offered by Ms. Gabbard. (consideration: CR H5797-5798; text: CR H5797)
+- 2018-06-27 — Amendment (A026) offered by Mr. Delaney. (consideration: CR H5798-5799; text: CR H5797)
+- 2018-06-27 — Amendment (A027) offered by Ms. Jackson Lee. (consideration: CR H5799-5800; text: CR H5799)
+- 2018-06-27 — Amendment (A028) offered by Ms. Clark (MA). (consideration: CR H5800-5801; text: CR H5800)
+- 2018-06-27 — Amendment (A029) offered by Mr. Crawford. (consideration: CR H5801-5802; text: CR H5801)
+- 2018-06-27 — Amendment (A030) offered by Mr. Langevin. (consideration: CR H5802; text: CR H5802)
+- 2018-06-27 — Amendment (A031) offered by Mr. Langevin. (consideration: CR H5802; text: CR H5802)
+- 2018-06-27 — Amendment (A032) offered by Ms. Esty (CT). (consideration: CR H5803; text: CR H5803)
+- 2018-06-27 — Amendment (A033) offered by Mr. Foster. (consideration: CR H5803-5805; text: CR H5803)
+- 2018-06-27 — Amendment (A034) offered by Mr. Gallego. (consideration: CR H5805; text: CR H5805)
+- 2018-06-27 — Amendment (A035) offered by Mr. Wittman. (consideration: CR H5805-5806; text: CR H5805)
+- 2018-06-27 — Amendment (A036) offered by Mrs. Murphy (FL). (consideration: CR H5806-5807; text: CR H5806)
+- 2018-06-27 — Amendment (A037) offered by Mr. Courtney. (consideration: CR H5807-5812; text: CR H5807)
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment agreed to Committee of the Whole
+- 2018-06-27 — Amendment failed in Committee of the Whole
+- 2018-06-27 — Amendment failed in Committee of the Whole
+- 2018-06-27 — By unanimous consent, the Langevin amendment was withdrawn.
+- 2018-06-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 6157 as unfinished business.
+- 2018-06-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 6157 as unfinished business.
+- 2018-06-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 6157 as unfinished business.
+- 2018-06-27 — Considered as unfinished business. (consideration: CR H5785-5886)
+- 2018-06-27 — Considered as unfinished business. (consideration: CR H5789-5803)
+- 2018-06-27 — Considered as unfinished business. (consideration: CR H5803-5812)
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H. Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Gallagher Amendment No. 8.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Clark (MA) amendment No. 15.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 29.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment No. 16.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Delaney amendment No. 13.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Esty (CT) amendment No. 22.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 24.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel (FL) Amendment No. 2.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Gabbard amendment No. 12.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Gallagher Amendment No. 7.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment No. 25.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 9.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Amendment No. 1.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 14.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster (NH) Amendment No. 6.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 18.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 21.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch Amendment No. 5.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy amendment No. 27.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Nolan amendment No. 11.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Rosen Amendment No. 4.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment No. 10.
+- 2018-06-27 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment No. 26.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Crawford amendment (A029) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Delaney amendment (A026) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Esty (CT) amendment (A032) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Frankel (FL) amendment (A016) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Gabbard amendment (A025) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Gallego amendment (A034) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Hudson amendment (A022) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A015) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A027) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Kuster (NH) amendment (A019) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Lynch amendment (A018) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Murphy (FL) amendment (A036) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Nolan amendment (A024) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Rosen amendment (A017) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Welch amendment (A023) Agreed to by voice vote.
+- 2018-06-27 — House amendment agreed to: On agreeing to the Wittman amendment (A035) Agreed to by voice vote.
+- 2018-06-27 — House amendment not agreed to: On agreeing to the Langevin amendment Failed by recorded vote: 188 - 228 (Roll no. 302).
+- 2018-06-27 — House amendment not agreed to: On agreeing to the Poe (TX) amendment (A012) Failed by recorded vote: 175 - 241 (Roll no. 303).
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered
+- 2018-06-27 — House amendment offered/reported by: Amendment (A015) offered by Ms. Jackson Lee.(consideration: CR H5789-5791; text: CR H5789)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A016) offered by Ms. Frankel (FL).(consideration: CR H5791-5792; text: CR H5791)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A017) offered by Ms. Rosen.(consideration: CR H5792-5793; text: CR H5792)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A018) offered by Mr. Lynch.(consideration: CR H5793; text: CR H5793)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A019) offered by Ms. Kuster (NH).(consideration: CR H5793-5794; text: CR H5793)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A020) offered by Mr. Gallagher.(consideration: CR H5794-5795; text: CR H5794)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A021) offered by Mr. Gallagher.(consideration: CR H5795-5796; text: CR H5795)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A022) offered by Mr. Hudson.(consideration: CR H5796; text: CR H5796)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A023) offered by Mr. Welch.(consideration: CR H5796-5797; text: CR H5796)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A024) offered by Mr. Nolan.(consideration: CR H5797; text: CR H5797)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A025) offered by Ms. Gabbard.(consideration: CR H5797-5798; text: CR H5797)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A026) offered by Mr. Delaney.(consideration: CR H5798-5799; text: CR H5797)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A027) offered by Ms. Jackson Lee.(consideration: CR H5799-5800; text: CR H5799)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A028) offered by Ms. Clark (MA).(consideration: CR H5800-5801; text: CR H5800)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A029) offered by Mr. Crawford.(consideration: CR H5801-5802; text: CR H5801)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A030) offered by Mr. Langevin.(consideration: CR H5802; text: CR H5802)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A031) offered by Mr. Langevin.(consideration: CR H5802; text: CR H5802)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A032) offered by Ms. Esty (CT).(consideration: CR H5803; text: CR H5803)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A033) offered by Mr. Foster.(consideration: CR H5803-5805; text: CR H5803)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A034) offered by Mr. Gallego.(consideration: CR H5805; text: CR H5805)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A035) offered by Mr. Wittman.(consideration: CR H5805-5806; text: CR H5805)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A036) offered by Mrs. Murphy (FL).(consideration: CR H5806-5807; text: CR H5806)
+- 2018-06-27 — House amendment offered/reported by: Amendment (A037) offered by Mr. Courtney.(consideration: CR H5807-5812; text: CR H5807)
+- 2018-06-27 — Ms. Granger moved that the committee rise.
+- 2018-06-27 — Ms. Granger moved that the committee rise.
+- 2018-06-27 — On agreeing to the Crawford amendment (A029) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Delaney amendment (A026) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Esty (CT) amendment (A032) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Frankel (FL) amendment (A016) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Gabbard amendment (A025) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Gallego amendment (A034) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Hudson amendment (A022) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Jackson Lee amendment (A015) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Jackson Lee amendment (A027) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Kuster (NH) amendment (A019) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Langevin amendment Failed by recorded vote: 188 - 228 (Roll no. 302).
+- 2018-06-27 — On agreeing to the Lynch amendment (A018) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Murphy (FL) amendment (A036) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Nolan amendment (A024) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Poe (TX) amendment (A012) Failed by recorded vote: 175 - 241 (Roll no. 303).
+- 2018-06-27 — On agreeing to the Rosen amendment (A017) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Welch amendment (A023) Agreed to by voice vote.
+- 2018-06-27 — On agreeing to the Wittman amendment (A035) Agreed to by voice vote.
+- 2018-06-27 — On motion that the committee rise Agreed to by voice vote.
+- 2018-06-27 — On motion that the committee rise Agreed to by voice vote.
+- 2018-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clark (MA) amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Ms. Clark (MA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Courtney amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Courtney demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Foster demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallagher amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Gallagher demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallagher amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Gallagher demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-06-27 — Roll call votes on amendments in House
+- 2018-06-27 — Roll call votes on amendments in House
+- 2018-06-27 — Rule H. Res. 964 passed House.
+- 2018-06-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-28 — Amendment agreed to Committee of the Whole
+- 2018-06-28 — Amendment failed in Committee of the Whole
+- 2018-06-28 — Amendment failed in Committee of the Whole
+- 2018-06-28 — Amendment failed in Committee of the Whole
+- 2018-06-28 — Amendment failed in Committee of the Whole
+- 2018-06-28 — Considered as unfinished business. (consideration: CR H5851-5852)
+- 2018-06-28 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase the Defense Health Program by $25 million and reduce the Defense-Wide Operation and Maintenance Account by the same amount.
+- 2018-06-28 — House amendment agreed to: On agreeing to the Clark (MA) amendment (A028) Agreed to by recorded vote: 252 - 157 (Roll no. 309).(consideration: CR H5848-5849)
+- 2018-06-28 — House amendment not agreed to: On agreeing to the Courtney amendment (A037) Failed by recorded vote: 144 - 267 (Roll no. 311).(consideration: CR H5849-5850)
+- 2018-06-28 — House amendment not agreed to: On agreeing to the Foster amendment (A033) Failed by recorded vote: 160 - 251 (Roll no. 310).(consideration: CR H5849)
+- 2018-06-28 — House amendment not agreed to: On agreeing to the Gallagher amendment (A020) Failed by recorded vote: 116 - 296 (Roll no. 307).(consideration: CR H5846)
+- 2018-06-28 — House amendment not agreed to: On agreeing to the Gallagher amendment (A021) Failed by recorded vote: 115 - 296 (Roll no. 308).(consideration: CR H5847-5848)
+- 2018-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-06-28 — Mr. Lieu, Ted moved to recommit with instructions to the Committee on Appropriations. (text: CR H5851-5852)
+- 2018-06-28 — On agreeing to the Clark (MA) amendment (A028) Agreed to by recorded vote: 252 - 157 (Roll no. 309). (consideration: CR H5848-5849)
+- 2018-06-28 — On agreeing to the Courtney amendment (A037) Failed by recorded vote: 144 - 267 (Roll no. 311). (consideration: CR H5849-5850)
+- 2018-06-28 — On agreeing to the Foster amendment (A033) Failed by recorded vote: 160 - 251 (Roll no. 310). (consideration: CR H5849)
+- 2018-06-28 — On agreeing to the Gallagher amendment (A020) Failed by recorded vote: 116 - 296 (Roll no. 307). (consideration: CR H5846)
+- 2018-06-28 — On agreeing to the Gallagher amendment (A021) Failed by recorded vote: 115 - 296 (Roll no. 308). (consideration: CR H5847-5848)
+- 2018-06-28 — On motion to recommit with instructions Failed by recorded vote: 186 - 224 (Roll no. 312).
+- 2018-06-28 — On passage Passed by the Yeas and Nays: 359 - 49 (Roll no. 313).
+- 2018-06-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 359 - 49 (Roll no. 313).
+- 2018-06-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 500.
+- 2018-06-28 — Roll call votes on amendments in House
+- 2018-06-28 — Roll call votes on amendments in House
+- 2018-06-28 — Roll call votes on amendments in House
+- 2018-06-28 — Roll call votes on amendments in House
+- 2018-06-28 — Roll call votes on amendments in House
+- 2018-06-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 6157.
+- 2018-06-28 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2018-06-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-06-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6157.
+- 2018-06-28 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-06-28 — The previous question was ordered pursuant to the rule.
