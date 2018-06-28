@@ -1,7 +1,7 @@
 ---
 measure: S. 2559
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2559
@@ -16,7 +16,7 @@ Marrakesh Treaty Implementation Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Corker, Bob [R-TN] (C001071)
@@ -27,6 +27,10 @@ Marrakesh Treaty Implementation Act
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -41,3 +45,9 @@ Marrakesh Treaty Implementation Act
 - 2018-05-15 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2018-05-15 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2018-05-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
+- 2018-06-04 — An errata sheet on written report No. 115-261 was printed.
+- 2018-06-04 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 115-261.
+- 2018-06-04 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 115-261.
+- 2018-06-06 — Star Print ordered on report 115-261.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4810-4811; text: CR S4810-4811)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4810-4811; text: CR S4810-4811)
