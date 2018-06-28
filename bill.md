@@ -2,7 +2,7 @@
 legis-num: H.R. 5905
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5905
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Department* The term Department means the Department of Energy.
-- **(2)** *Director* The term ¥ means the Director of the Office of Science of the Department.
+- **(2)** *Director* The term “Director” means the Director of the Office of Science of the Department.
 - **(3)** *National laboratory* The term National Laboratory has the meaning given that term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
 - **(4)** *Secretary* The term Secretary means the Secretary of Energy.
 
@@ -84,8 +84,8 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     - **(A)** *In general* The Secretary shall provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries. The Secretary shall ensure the upgrade under this paragraph enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
     - **(B)** *Definitions* In this paragraph:
       - **(i)** *High energy x-ray* The term a “high energy x-ray” means a photon with an energy at or exceeding 12 kiloelectron volts.
-      - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to one million pulses per second.
-      - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than one hundred femtoseconds.
+      - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to 1 million pulses per second.
+      - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than 100 femtoseconds.
     - **(C)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2025.
     - **(D)** *Funding* Out of funds authorized to be appropriated under section 11 for Basic Energy Sciences, there shall be made available to the Secretary to carry out the upgrade under this paragraph—
       - **(i)** $20,000,000 for fiscal year 2018; and
@@ -242,8 +242,8 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >       - **(ii)** the coordination and management of the Program to ensure an integrated research program across the Department.
       >   - **(5)** *Annual reports* At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.
 
-- **(c)** *High-performance computing and networking research* The Director shall support research in high-performance computing and networking relevant to energy applications, including modeling, simulation, machine learning, and advanced data analytics for basic and applied energy research programs carried out by the Secretary.
-- **(d)** *Applied mathematics and software development for high-end computing systems, computational, and computer sciences research*
+- **(c)** *High-Performance computing and networking research* The Director shall support research in high-performance computing and networking relevant to energy applications, including modeling, simulation, machine learning, and advanced data analytics for basic and applied energy research programs carried out by the Secretary.
+- **(d)** *Applied mathematics and software development for high-End computing systems, computational, and computer sciences research*
   - **(1)** *In general* The Director shall carry out activities to develop, test, and support—
     - **(A)** mathematics, models, statistics, and algorithms for complex systems and programming environments; and
     - **(B)** tools, languages, and operations for high-end computing systems (as defined in section 2 of the American Super Computing Leadership Act (15 U.S.C. 5541), as renamed by this section).
@@ -265,7 +265,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(1)** *In general* The Secretary shall provide for a Long-Baseline Neutrino Facility to facilitate the international Deep Underground Neutrino Experiment to enable a program in neutrino physics to measure the fundamental properties of neutrinos, explore physics beyond the Standard Model, and better clarify the nature of matter and antimatter.
   - **(2)** *Facility capabilities* The Secretary shall ensure that the facility described in paragraph (1) will provide, at a minimum, the following capabilities:
     - **(A)** A broad-band neutrino beam capable of 1.2 megawatts (MW) of beam power and upgradable to 2.4 MW of beam power.
-    - **(B)** Four caverns excavated for a forty kiloton fiducial detector mass and supporting surface buildings and utilities.
+    - **(B)** Four caverns excavated for a 40 kiloton fiducial detector mass and supporting surface buildings and utilities.
     - **(C)** Neutrino detector facilities at both the Far Site in South Dakota and the Near Site in Illinois to categorize and study neutrinos on their 800-mile journey between the two sites.
     - **(D)** Cryogenic systems to support neutrino detectors.
   - **(3)** *Start of operations* The Secretary shall, to the maximum extent practicable, ensure that the start of full operations of the facility under this subsection occurs before December 31, 2026.
@@ -286,7 +286,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(2)** to improve understanding of the global carbon cycle, including processes for removing carbon dioxide from the atmosphere, through photosynthesis and other biological processes, for sequestration and storage; and
   - **(3)** to understand the biological mechanisms used to transform, immobilize, or remove contaminants from subsurface environments.
 - **(c)** *Bioenergy research centers*
-  - **(1)** *In general* In carrying out activities under subsection (a), the Director shall select and establish up to 4 bioenergy research centers to conduct basic and fundamental research in plant and microbial systems biology, bio imaging and analysis, and genomics to inform the production of fuels, chemicals from sustainable biomass resources, and to facilitate the translation of basic research results to industry.
+  - **(1)** *In general* In carrying out activities under subsection (a), the Director shall select and establish up to four bioenergy research centers to conduct basic and fundamental research in plant and microbial systems biology, bio imaging and analysis, and genomics to inform the production of fuels, chemicals from sustainable biomass resources, and to facilitate the translation of basic research results to industry.
   - **(2)** *Selection* The Director shall select centers under paragraph (1) on a competitive, merit-reviewed basis. The Director shall consider applications from National Laboratories, multi-institutional collaborations, and other appropriate entities.
   - **(3)** *Duration* A center established under this subsection shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
   - **(4)** *Existing centers* The Director may select a center for participation under this subsection that is in existence, or undergoing a renewal process, on the date of enactment of this Act. Such center shall be eligible to receive support for the duration the 5-year period beginning on the date of establishment of such center.
@@ -311,7 +311,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >   - **(3)** advise and assist the National Science and Technology Council on policies and initiatives in radiation biology, including enhancing scientific knowledge of the effects of low-dose radiation on biological systems to improve radiation risk-assessment and risk-management methods; and
     >   - **(4)** identify opportunities to stimulate international cooperation relating to low-dose radiation and leverage research and knowledge from sources outside of the United States.
     > - **(d)** *Research plan* Not later than 180 days after the date of enactment of this Act, the Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 4-year research plan that identifies and prioritizes basic research needs relating to low-dose radiation. In developing such plan, the Secretary shall incorporate the components described in subsection (b).
-    > - **(e)** *Definition of low-dose radiation* In this section, the term low-dose radiation means a radiation dose of less than 100 millisieverts.
+    > - **(e)** *Definition of low-Dose radiation* In this section, the term low-dose radiation means a radiation dose of less than 100 millisieverts.
     > - **(f)** *Rule of construction* Nothing in this section shall be construed to subject any research carried out by the Secretary for the program under this section to any limitations described in 977(e) of the Energy Policy Act of 2005 (42 U.S.C. 16317(e)).
     > - **(g)** *Funding* From within funds authorized to be appropriated under section 11 of the Department of Energy Science and Innovation Act of 2018, for Biological and Environmental Research, the Secretary make available to carry out this section—
     >   - **(1)** $20,000,000 for fiscal year 2018; and
@@ -357,7 +357,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
 - **(e)** *Fairness in competition for solicitations for international project activities* Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) is amended by inserting before the first sentence the following: “In this section, with respect to international research projects, the term private facilities or laboratories means facilities or laboratories located in the United States.”.
 - **(f)** *Identification of priorities*
   - **(1)** *Report*
-    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report on the fusion energy research and development activities that the Department proposes to carry out over the 10-year period following the date of the report under not fewer than 3 realistic budget scenarios, including a scenario based on 3-percent annual growth in the non-ITER portion of the budget for fusion energy research and development activities.
+    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report on the fusion energy research and development activities that the Department proposes to carry out over the 10-year period following the date of the report under not fewer than three realistic budget scenarios, including a scenario based on 3-percent annual growth in the non-ITER portion of the budget for fusion energy research and development activities.
     - **(B)** *Inclusions* The report required under subparagraph (A) shall—
       - **(i)** identify specific areas of fusion energy research and enabling technology development, including activities to advance inertial and alternative fusion energy concepts, in which the United States can and should establish or solidify a lead in the global fusion energy development effort;
       - **(ii)** identify priorities for initiation of facility construction and facility decommissioning under each of the three budget scenarios described in subparagraph (A); and
