@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5906
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5906
@@ -30,9 +30,10 @@ ARPA-E Act of 2018
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ ARPA-E Act of 2018
 - 2018-06-27 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2018-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5779)
 - 2018-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5779)
+- 2018-06-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
