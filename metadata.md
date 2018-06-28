@@ -1,7 +1,7 @@
 ---
 measure: S. 2692
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2692
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4807-4808; text: CR S4807-4808)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4807-4808; text: CR S4807-4808)
