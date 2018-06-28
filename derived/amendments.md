@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5905
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

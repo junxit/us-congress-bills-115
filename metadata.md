@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5905
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5905
@@ -51,3 +51,4 @@ Department of Energy Science and Innovation Act of 2018
 - 2018-06-27 — Placed on the Union Calendar, Calendar No. 609.
 - 2018-06-27 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-787.
 - 2018-06-27 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-787.
+- 2018-06-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.
