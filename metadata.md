@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5346
@@ -22,9 +22,10 @@ Commercial Space Support Vehicle Act
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Commercial Space Support Vehicle Act
 - 2018-06-27 — Placed on the Union Calendar, Calendar No. 611.
 - 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-789.
 - 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-789.
+- 2018-06-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
