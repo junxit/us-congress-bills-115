@@ -1,7 +1,7 @@
 ---
 legis-num: S. 724
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,3 +23,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
       > - **(2)** after the end of an extension period granted under paragraph (1), issue an additional permit to the permittee if the Commission determines that there are extraordinary circumstances that warrant the issuance of the additional permit.
 
 - **(b)** *Time limit for construction of project works* Section 13 of the Federal Power Act (16 U.S.C. 806) is amended in the second sentence by striking “once but not longer than two additional years” and inserting “for not more than 8 additional years,”.
+- **(c)** *Obligation for Payment of Annual Charges* Any obligation of a licensee or exemptee for the payment of annual charges under section 10(e) of the Federal Power Act (16 U.S.C. 803(e)) for a project that has not commenced construction as of the date of enactment of this Act shall commence not earlier than the latest of—
+  - **(1)** the date by which the licensee or exemptee is required to commence construction; or
+  - **(2)** the date of any extension of the deadline under paragraph (1).
