@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 299
@@ -349,9 +349,10 @@ Blue Water Navy Vietnam Veterans Act of 2018
 - Rep. Black, Diane [R-TN-6] (B001273)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -375,3 +376,5 @@ Blue Water Navy Vietnam Veterans Act of 2018
 - 2018-06-25 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 289). (text: CR H5611-5614)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 289).(text: CR H5611-5614)
+- 2018-06-26 — Received in the Senate.
+- 2018-06-28 — Read twice and referred to the Committee on Veterans' Affairs.
