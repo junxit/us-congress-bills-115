@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5907
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5907
@@ -31,9 +31,10 @@ NIMBLE Act
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ NIMBLE Act
 - 2018-06-27 — Placed on the Union Calendar, Calendar No. 610.
 - 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-788.
 - 2018-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-788.
+- 2018-06-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
