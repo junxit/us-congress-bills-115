@@ -1,7 +1,7 @@
 ---
 measure: S. 2245
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2245
@@ -16,7 +16,7 @@ KIWI Act
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Kaine, Tim [D-VA] (K000384)
@@ -24,6 +24,7 @@ KIWI Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ KIWI Act
 
 - 2017-12-18 — Introduced in Senate
 - 2017-12-18 — Read twice and referred to the Committee on the Judiciary.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4700-4701; text: CR S4700)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4700-4701; text: CR S4700)
+- 2018-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
