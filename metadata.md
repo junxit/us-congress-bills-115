@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6160
@@ -42,3 +42,14 @@ To amend title 5, United States Code, to clarify the sources of the authority to
 - 2018-06-28 — On passage Passed without objection. (text: CR H5852)
 - 2018-06-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5852)
 - 2018-06-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-13 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7622)
+- 2018-12-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7622)
+- 2018-12-17 — Message on Senate action sent to the House.
+- 2018-12-19 — Presented to President.
+- 2018-12-19 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-364.
+- 2018-12-21 — Became Public Law No: 115-364.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
