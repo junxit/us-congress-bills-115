@@ -15,7 +15,7 @@ This Act may be cited as the “Enhancing Grid Security through Public-Private P
 
 ## § 2. Program to promote and advance physical security and cybersecurity of electric utilities
 
-- **(a)** *Establishment* The Secretary of Energy, in consultation with State regulatory authorities, industry stakeholders, and other Federal agencies the Secretary determines appropriate, shall carry out a program to—
+- **(a)** *Establishment* The Secretary of Energy, in consultation with State regulatory authorities, industry stakeholders, the Electric Reliability Organization, and other Federal agencies the Secretary determines appropriate, shall carry out a program to—
   - **(1)** develop, and provide for voluntary implementation of, maturity models, self-assessments, and auditing methods for assessing the physical security and cybersecurity of electric utilities;
   - **(2)** provide training to electric utilities to address and mitigate cybersecurity supply chain management risks;
   - **(3)** increase opportunities for sharing best practices and data collection within the electric sector;
@@ -52,5 +52,6 @@ This Act may be cited as the “Enhancing Grid Security through Public-Private P
 
 In the Act, the following definitions apply:
 
-- **(1)** *Electric utility* The term electric utility has the meaning given such term in section 3 of the Federal Power Act (16 U.S.C. 796).
-- **(2)** *State regulatory authority* The term State regulatory authority has the meaning given such term in section 3 of the Federal Power Act (16 U.S.C. 796).
+- **(1)** *Electric reliability organization* The term Electric Reliability Organization has the meaning given such term in section 215(a)(2) of the Federal Power Act (16 U.S.C. 824o(a)(2)).
+- **(2)** *Electric utility* The term electric utility has the meaning given such term in section 3 of the Federal Power Act (16 U.S.C. 796).
+- **(3)** *State regulatory authority* The term State regulatory authority has the meaning given such term in section 3 of the Federal Power Act (16 U.S.C. 796).
