@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1029
@@ -47,3 +47,11 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2017-06-29 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with amendments. Without written report.
 - 2017-06-29 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Roberts with amendments. Without written report.
 - 2017-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
+- 2018-06-28 — Amendment SA 3392 agreed to in Senate by Unanimous Consent.
+- 2018-06-28 — Amendment SA 3392 proposed by Senator McConnell for Senator Udall. (consideration: CR S4807; text: CR S4807) To improve the bill.
+- 2018-06-28 — Measure laid before Senate by unanimous consent. (consideration: CR S4771-4807; text of amendment in the nature on a substitute: CR S4771-4807)
+- 2018-06-28 — Passed Senate with amendments by Voice Vote.
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.
+- 2018-06-28 — Senate amendment agreed to: Amendment SA 3392 agreed to in Senate by Unanimous Consent.
+- 2018-06-28 — Senate amendment proposed (on the floor): Amendment SA 3392 proposed by Senator McConnell for Senator Udall.(consideration: CR S4807; text: CR S4807)
+- 2018-06-28 — Senate amendment submitted
