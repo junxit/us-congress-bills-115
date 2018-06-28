@@ -1,7 +1,7 @@
 ---
 measure: S. 215
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 215
@@ -32,3 +32,5 @@ A bill to authorize the Federal Energy Regulatory Commission to issue an order c
 - 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-77.
 - 2017-05-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-77.
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
+- 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4809; text: CR S4809)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4809; text: CR S4809)
