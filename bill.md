@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2
 
-That the bill from the House of Representatives (H.R. 2) entitled “An Act to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.
 
 ## § 1. Short title; table of contents
 
