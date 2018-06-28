@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5239
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5239
@@ -29,3 +29,11 @@ Cyber Sense Act of 2018
 - 2018-03-09 — Introduced in House
 - 2018-03-09 — Introduced in House
 - 2018-03-09 — Referred to the House Committee on Energy and Commerce.
+- 2018-03-16 — Referred to the Subcommittee on Energy.
+- 2018-04-18 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-04-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-05-09 — Committee Consideration and Mark-up Session Held.
+- 2018-05-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-06-28 — Placed on the Union Calendar, Calendar No. 614.
+- 2018-06-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-794.
+- 2018-06-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-794.
