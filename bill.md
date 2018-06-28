@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3500
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Integrity in the IRS Workforce Act of 2017”.
+This Act may be cited as the “Ensuring Integrity in the IRS Workforce Act of 2018”.
 
 ## § 2. Prohibition on rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct
 
