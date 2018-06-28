@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6291
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6291
+
+> To exempt from certain requirements of the Clean Air Act incinerator units owned and operated by a Federal, State, or local law enforcement agency when used for the sole purpose of destroying contraband or household pharmaceuticals, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Efficient Drug Disposal Act of 2018”.
+
+## § 2. Incineration of contraband and household pharmaceuticals by law enforcement agencies
+
+Section 129(g)(1) of the Clean Air Act (42 U.S.C. 7429(g)(1)) is amended—
+
+- **(1)** by striking “or (C)” and inserting “(C)”; and
+- **(2)** by striking the period at the end and inserting “or (D) other categories of solid waste incinerator units referred to in section (a)(1)(E) owned and operated by a Federal, State, or local law enforcement agency when used for the sole purpose of destroying contraband or household pharmaceuticals collected by a Federal, State, or local law enforcement agency.”.
