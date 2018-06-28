@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2
@@ -1349,3 +1349,52 @@ Agriculture Improvement Act of 2018
 - 2018-06-28 — Senate amendment submitted
 - 2018-06-28 — Senate amendment submitted
 - 2018-06-28 — Senate amendment submitted
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-18 — DEBATE - The House proceeded with one hour of debate on the Peterson motion to instruct conferees on H.R. 2. The instructions contained in the motion seek to require the managers on the part of the House at the conference on the disagreeing votes of the two Houses on the Senate amendment be instructed to insist on section 1101 of the House bill (relating to animal disease preparedness and response) with an amendment to section 10417(d)(1)(B) of the Animal Health Protection Act (7 U.S.C. 8316(d)(1)B)), as proposed to be added to such Act by such section 11101, to strike "2023" and insert "thereafter".
+- 2018-07-18 — Message on House action received in Senate and at desk: House requests a conference.
+- 2018-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-18 — Mr. Conaway asked unanimous consent that the House disagree to the Senate amendment, and request a conference. (consideration: CR H6493-6495)
+- 2018-07-18 — Mr. Peterson moved that the House instruct conferees. (consideration: CR H6493-6495; text: CR H6493)
+- 2018-07-18 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection. (consideration: CR H6493-6495)
+- 2018-07-18 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 392 - 20 (Roll no. 336).
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Agriculture for consideration of the House bill and the Senate amendment, and modifications committed to conference: Conaway, Thompson (PA), Goodlatte, Lucas, Rogers (AL), Scott, Austin, Crawford, Hartzler, Davis, Rodney, Yoho, Rouzer, Marshall, Arrington, Peterson, Scott, David, Costa, Walz, Fudge, McGovern, Vela, Lujan Grisham, M., Kuster (NH), and O'Halleran.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 4204, 4205, and 9131 of the House bill, and modifications committed to conference: Foxx, Allen, and Adams.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of subtitles A and B of title VI, secs. 6202, 6203, 6401, 6406, 6407, 6409, 6603, 7301, 7605, 8106, 8507, 9119, 9121, and 11101 of the House bill, and secs. 6116, 6117, 6202, 6206-09, 6301, 6303, 7412, 9102, 9104, 9106, 9111-13, 12408, 12627, and 12628 of the Senate amendment, and modifications committed to conference: Shimkus, Cramer, and Tonko.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of sec. 12609 of the Senate amendment, and modifications committed to conference: Hensarling, Duffy, and Waters, Maxine.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of title III of the House bill, and modifications committed to conference: Royce (CA), Chabot, and Engel.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 2802, 6408, 8104, 8107, 8109, subtitles B and C of title VIII, 8402, 8502, 8503, 8506, 8507, 8509, 8510, 9111, 11614, and 11615 of the House bill, and sec. 2425, subtitle D of title VIII, secs. 8601, 8611, 8621-28, 8631, 8632, 12515, 12601, and 12602 of the Senate amendment, and modifications committed to conference: Bishop (UT), Westerman, and Grijalva.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 1601, 4022, 4026, 8502, and 11609 of the House bill, and secs. 3113, 7128, 8623, 8630, 8632, 12301, and 12407 of the Senate amendment, and modifications committed to conference: Walker, Comer, and Plaskett.
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of sec. 7509 of the House bill, and sec. 7409 of the Senate amendment, and modifications committed to conference: Abraham, Dunn, and Johnson, E. B..
+- 2018-07-18 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 2404, 6223, 6224, 6503, 9117, and 9118 of the House bill, and secs. 2415, 2416, 6124, 6304, and 7412 of the Senate amendment, and modifications committed to conference: Denham, Gibbs, and Bustos.
+- 2018-07-18 — The previous question was ordered without objection.
+- 2018-07-31 — Senate insists on its amendment, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees by Voice Vote. (consideration: CR S5503)
+- 2018-08-01 — Senate appointed conferees. Roberts; McConnell; Boozman; Hoeven; Ernst; Stabenow; Leahy; Brown; Heitkamp.
+- 2018-08-02 — Message on Senate action sent to the House.
+- 2018-09-05 — Conference committee actions: Conference held.
+- 2018-09-05 — Conference held.
+- 2018-12-10 — Conferees agreed to file conference report.
+- 2018-12-10 — Conference committee actions: Conferees agreed to file conference report.
+- 2018-12-10 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2018-12-10 — Conference report H. Rept. 115-1072 filed. (text of conference report: CR H9823-9955)
+- 2018-12-10 — Conference report filed: Conference report H. Rept. 115-1072 filed.(text of conference report: CR H9823-9955)
+- 2018-12-11 — Conference papers: official papers held at the desk in Senate.
+- 2018-12-11 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 87 - 13. Record Vote Number: 259.
+- 2018-12-11 — Conference report considered in Senate. (consideration: CR S7406-7412)
+- 2018-12-11 — Message on Senate action sent to the House.
+- 2018-12-11 — Rules Committee Resolution H. Res. 1176 Reported to House. The resolution provides for consideration of the Conference Report to accompany H.R. 2. The resolution provides for one hour of debate and one motion to recommit.
+- 2018-12-11 — Senate agreed to conference report by Yea-Nay Vote. 87 - 13. Record Vote Number: 259.
+- 2018-12-12 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 369 - 47 (Roll no. 434).
+- 2018-12-12 — DEBATE - Pursuant to the provisions of H. Res. 1176, the House proceeded with one hour of debate on the conference report to accompany H.R. 2.
+- 2018-12-12 — Motions to reconsider laid on the table Agreed to without objection.
+- 2018-12-12 — Mr. Conaway brought up conference report H. Rept. 115-1072 for consideration under the provisions of H. Res. 1176. (consideration: CR H10142-10151)
+- 2018-12-12 — On agreeing to the conference report Agreed to by the Yeas and Nays: 369 - 47 (Roll no. 434).
+- 2018-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany H.R. 2, the Chair put the question on agreeing to the conference report, and announced that the ayes had prevailed by voice vote. Mr. Conaway demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the conference report until a time to be announced.
+- 2018-12-12 — Rule H. Res. 1176 passed House.
+- 2018-12-12 — The House proceeded to consider the conference report H.Rept. 115-1072 as unfinished business. (consideration: CR H10151-10152)
+- 2018-12-12 — The previous question was ordered pursuant to the rule.
+- 2018-12-19 — Presented to President.
+- 2018-12-19 — Presented to President.
+- 2018-12-20 — Became Public Law No: 115-334.
+- 2018-12-20 — Became Public Law No: 115-334.
+- 2018-12-20 — Signed by President.
+- 2018-12-20 — Signed by President.
