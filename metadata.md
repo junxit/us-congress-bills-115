@@ -1,7 +1,7 @@
 ---
 measure: S. 490
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 490
@@ -33,3 +33,5 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-100.
 - 2017-06-08 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-100.
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
+- 2018-06-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4809; text: CR S4809)
+- 2018-06-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4809; text: CR S4809)
