@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 8 executed, 17 stated and not applied.
+26 amendatory instructions. 8 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -122,3 +122,4 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1571` | strike | by striking “only” each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1571` | replace | in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a) (1) and (2), or comply with section 205 (a) and (b… | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1571` | replace | in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a) (1) and (2), or complia… | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1516` | amend | Section 109 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1516) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
