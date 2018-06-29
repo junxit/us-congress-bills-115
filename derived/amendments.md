@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6124
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,8 +34,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 401` | insert | Title II of the Social Security Act (42 U.S.C. 401 et seq.) is amended by inserting after section 218 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 410` | strike | in paragraph (20), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 410` | replace | in paragraph (21), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 410` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 410` | insert | by inserting after paragraph (21) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 410` | strike | in paragraph (20), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 410` | replace | in paragraph (21), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 410` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 410` | insert | by inserting after paragraph (21) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 410` | insert | in section 3121(d)(4), by inserting “or 218A” after “section 218”. | the bill quotes the text inserted but describes where it goes |
