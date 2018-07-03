@@ -1,7 +1,7 @@
 ---
 measure: S. 2245
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2245
@@ -43,3 +43,15 @@ KIWI Act
 - 2018-07-03 — Received in the House.
 - 2018-07-03 — Referred to the House Committee on the Judiciary.
 - 2018-07-03 — Referred to the Subcommittee on Immigration and Border Security.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6620-6621)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on S. 2245.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2018-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6620)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6620)
+- 2018-07-26 — Presented to President.
+- 2018-07-26 — Presented to President.
+- 2018-08-01 — Became Public Law No: 115-226.
+- 2018-08-01 — Became Public Law No: 115-226.
+- 2018-08-01 — Signed by President.
+- 2018-08-01 — Signed by President.
