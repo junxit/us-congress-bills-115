@@ -1,7 +1,7 @@
 ---
 measure: S. 490
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 490
@@ -21,9 +21,10 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2017-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
 - 2018-06-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4809; text: CR S4809)
 - 2018-06-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4809; text: CR S4809)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-03 — Received in the House.
+- 2018-07-03 — Referred to the House Committee on Energy and Commerce.
