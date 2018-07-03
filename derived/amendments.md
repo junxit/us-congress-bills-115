@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-87 amendatory instructions. 24 executed, 63 stated and not applied.
+89 amendatory instructions. 24 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -277,6 +277,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3049a` | redesignate | in subsection (d), as redesignated by paragraph (2), by inserting “or (b)” after “by subsection (a)”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3049a` | insert | in paragraph (2)(A), by inserting “or (b)” after “subsection (a)”. | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3022` | strike | The table of contents at the beginning of such Act is amended by striking the item relating to section 101A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3024` | strike | Section 102A(c)(1)(B) of such Act (50 U.S.C. 3024) is amended by striking “and, after obtaining the advice of the Joint Intelligence Community Council”. | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3329` | strike | Section 309 of the Intelligence Authorization Act for Fiscal Year 2012 (Public Law 112–87; 125 Stat. 1875; 50 U.S.C. 3329 note) is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3034` | add-at-end | Section 103I(a) of the National Security Act of 1947 (50 U.S.C. 3034(a)) is amended by adding at the end the following new sentence: “The Chief Financial Officer shall report directly to the Director of National Intelligence.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3032` | add-at-end | Section 103G(a) of the National Security Act of 1947 (50 U.S.C. 3032(a)) is amended by adding at the end the following new sentence: “The Chief Information Officer shall report directly to the Director of National Intelligence.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -299,7 +300,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 124k` | redesignate | by redesignating subsections (d) through (i) as subsections (c) through (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 124k` | replace | in paragraph (8), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 124k` | strike | by striking paragraph (9). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3051` | strike | Section 8G of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3051` | strike | by striking subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3051` | redesignate | by redesignating subsections (h) and (i) as subsections (g) and (h), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3001` | insert | by inserting after the item relating to section 2 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3001` | strike | by striking the item relating to section 107; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3001` | replace | by striking the item relating to section 113B and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

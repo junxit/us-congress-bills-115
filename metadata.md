@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6237
@@ -27,3 +27,9 @@ Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2
 - 2018-06-27 — Introduced in House
 - 2018-06-27 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-06-27 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-06-28 — Referred to the Subcommittee on Trade.
+- 2018-07-03 — Committee on Ways and Means discharged.
+- 2018-07-03 — Committee on Ways and Means discharged.
+- 2018-07-03 — Placed on the Union Calendar, Calendar No. 624.
+- 2018-07-03 — Reported (Amended) by the Committee on Intelligence. H. Rept. 115-805, Part I.
+- 2018-07-03 — Reported (Amended) by the Committee on Intelligence. H. Rept. 115-805, Part I.
