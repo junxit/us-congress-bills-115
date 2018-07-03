@@ -1,7 +1,7 @@
 ---
 measure: S. 2559
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2559
@@ -32,9 +32,10 @@ Marrakesh Treaty Implementation Act
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -51,3 +52,6 @@ Marrakesh Treaty Implementation Act
 - 2018-06-06 — Star Print ordered on report 115-261.
 - 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4810-4811; text: CR S4810-4811)
 - 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4810-4811; text: CR S4810-4811)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-03 — Received in the House.
+- 2018-07-03 — Referred to the House Committee on the Judiciary.
