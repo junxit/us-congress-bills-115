@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5875
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5875
@@ -34,3 +34,10 @@ To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson 
 - 2018-05-18 — Introduced in House
 - 2018-05-18 — Referred to the House Committee on Natural Resources.
 - 2018-05-18 — Referred to the Subcommittee on Federal Lands.
+- 2018-05-22 — Subcommittee Hearings Held.
+- 2018-06-06 — Committee Consideration and Mark-up Session Held.
+- 2018-06-06 — Ordered to be Reported by Unanimous Consent.
+- 2018-06-06 — Subcommittee on Federal Lands Discharged.
+- 2018-07-03 — Placed on the Union Calendar, Calendar No. 621.
+- 2018-07-03 — Reported by the Committee on Natural Resources. H. Rept. 115-802.
+- 2018-07-03 — Reported by the Committee on Natural Resources. H. Rept. 115-802.
