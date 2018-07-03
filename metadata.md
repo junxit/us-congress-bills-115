@@ -1,7 +1,7 @@
 ---
 measure: S. 490
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 490
@@ -39,3 +39,15 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2018-06-29 — Message on Senate action sent to the House.
 - 2018-07-03 — Received in the House.
 - 2018-07-03 — Referred to the House Committee on Energy and Commerce.
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6226-6227)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on S. 490.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Upton moved to suspend the rules and pass the bill.
+- 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6226)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6226)
+- 2018-07-19 — Presented to President.
+- 2018-07-19 — Presented to President.
+- 2018-07-27 — Became Public Law No: 115-219.
+- 2018-07-27 — Became Public Law No: 115-219.
+- 2018-07-27 — Signed by President.
+- 2018-07-27 — Signed by President.
