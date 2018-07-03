@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3777
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3777
@@ -25,3 +25,11 @@ Juab County Conveyance Act of 2018
 - 2017-09-14 — Introduced in House
 - 2017-09-14 — Introduced in House
 - 2017-09-14 — Referred to the House Committee on Natural Resources.
+- 2017-09-25 — Referred to the Subcommittee on Federal Lands.
+- 2018-05-17 — Subcommittee Hearings Held.
+- 2018-06-06 — Committee Consideration and Mark-up Session Held.
+- 2018-06-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 13.
+- 2018-06-06 — Subcommittee on Federal Lands Discharged.
+- 2018-07-03 — Placed on the Union Calendar, Calendar No. 622.
+- 2018-07-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-803.
+- 2018-07-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-803.
