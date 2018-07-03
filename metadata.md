@@ -1,7 +1,7 @@
 ---
 measure: S. 2245
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2245
@@ -26,9 +26,10 @@ KIWI Act
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,7 @@ KIWI Act
 - 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4700-4701; text: CR S4700)
 - 2018-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
 - 2018-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-03 — Received in the House.
+- 2018-07-03 — Referred to the House Committee on the Judiciary.
+- 2018-07-03 — Referred to the Subcommittee on Immigration and Border Security.
