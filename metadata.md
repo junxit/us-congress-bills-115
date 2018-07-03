@@ -1,7 +1,7 @@
 ---
 measure: S. 215
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 215
@@ -20,9 +20,10 @@ A bill to authorize the Federal Energy Regulatory Commission to issue an order c
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to authorize the Federal Energy Regulatory Commission to issue an order c
 - 2017-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
 - 2018-06-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4809; text: CR S4809)
 - 2018-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4809; text: CR S4809)
+- 2018-06-29 — Message on Senate action sent to the House.
+- 2018-07-03 — Received in the House.
+- 2018-07-03 — Referred to the House Committee on Energy and Commerce.
