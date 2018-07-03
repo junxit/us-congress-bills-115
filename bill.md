@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4537
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “International Insurance Standards Act of 2017”.
+This Act may be cited as the “International Insurance Standards Act of 2018”.
 
 ## § 2. Congressional findings
 
@@ -24,39 +24,40 @@ The Congress finds the following:
 ## § 3. Requirement that insurance standards reflect United States policy
 
 - **(a)** *Requirement* Parties representing the Federal Government in any international regulatory, standard-setting, or supervisory forum or in any negotiations of any international agreements relating to the prudential aspects of insurance shall not agree to, accede to, accept, or establish, and shall use their voice and shall vote to oppose, any proposed agreement or standard, including proposals developed by the International Association of Insurance Supervisors (or a successor entity), unless such proposed agreement or standard—
-  - **(1)** is consistent with and reflective of existing Federal and State laws, regulations, and policies on regulation of insurance, including the primacy of policyholder protection in solvency regulation; and
-  - **(2)** recognizes existing Federal and State laws, regulations, and policies on the regulation of insurance as satisfying such proposals.
+  - **(1)** is consistent with and reflective of the existing United States system of insurance regulation, including the primacy of policyholder protection in solvency regulation; and
+  - **(2)** recognizes the existing United States system of insurance regulation as satisfying such proposals.
 - **(b)** *Federal Insurance Office functions* Subparagraph (E) of section 313(c)(1) of title 31, United States Code, is amended by inserting “Department of the Treasury of the” before “United States”.
 - **(c)** *Negotiations* Nothing in this section shall be construed to prevent participation in negotiations of any proposed agreement or standard.
 
 ## § 4. State insurance regulator involvement in international standard setting
 
-In developing international insurance standards pursuant to section 3, and throughout the negotiations of such standards, parties representing the Federal Government shall, on matters related to insurance, closely consult, coordinate with and include in such meetings, State insurance commissioners or, at the option of the State insurance commissioners, designees of the insurance commissioners acting at their direction.
+In developing international insurance standards pursuant to section 3, and throughout the negotiations of such standards, parties representing the Federal Government shall, on matters related to insurance, closely consult, coordinate with, and include in such meetings, State insurance commissioners or, at the option of the State insurance commissioners, designees of the insurance commissioners acting at their direction.
 
-## § 5. Consultation with Congress
+## § 5. Consultations
 
-- **(a)** *Consultation* Before initiating negotiations to enter into an agreement under section 3, during such negotiations, and before entering into any such agreement, parties representing the Federal Government shall provide written notice to and consult with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any other relevant committees of jurisdiction, regarding—
-  - **(1)** the intention of the United States to participate or enter into such negotiations;
+- **(a)** *Consultation with Congress* Before initiating negotiations to enter into an agreement under section 3, during such negotiations, and before entering into any such agreement, parties representing the Federal Government shall provide written notice to and consult with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any other relevant committees of jurisdiction, regarding—
+  - **(1)** the intention of the United States to participate in or enter into such negotiations;
   - **(2)** the nature and objectives of the negotiations;
   - **(3)** the implementation of the agreement, including how it is consistent with and does not materially differ from or otherwise affect Federal or State laws or regulations;
   - **(4)** the impact on the competitiveness of United States insurers; and
   - **(5)** the impact on United States consumers.
-- **(b)** *Submission and layover provisions* Parties representing the Federal Government may not sign the final text or otherwise agree to, accept, or establish an agreement under section 3 that would not have the force and effect of law before—
+- **(b)** *Consultation with Federal Advisory Committee on Insurance* Before entering into an agreement under section 3, the Secretary of the Treasury shall consult with the Federal Advisory Committee on Insurance formed pursuant to section 313(h) of title 31, United States Code.
+- **(c)** *Submission and layover provisions* Parties representing the Federal Government may not sign the final text or otherwise agree to, accept, or establish an agreement under section 3 that would not have the force and effect of law before—
   - **(1)** such parties submit to the committees specified in subsection (a), on a day in which both Houses of Congress are in session, a copy of the final legal text of the agreement; and
   - **(2)** the later of—
     - **(A)** the expiration of 90-day period beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1); or
     - **(B)** if the President has vetoed a joint resolution described in section 6(b) relating to the agreement, the expiration of the 15-day period described in section 6(a)(2).
-- **(c)** *Delivery of documents to both Houses* Whenever, pursuant to this section, written notice or a document is required to be transmitted to the Congress, copies of such notice or document shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
+- **(d)** *Delivery of documents to both Houses* Whenever, pursuant to this section, written notice or a document is required to be transmitted to the Congress, copies of such notice or document shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
 
 ## § 6. Congressional review
 
 - **(a)** *Disapproval*
-  - **(1)** *In general* In the case of any agreement under section 3 that would not have the force and effect of law, the United States shall not be considered a party to such agreement if, before the expiration of the 90-day period beginning on the day that the final legal text of the agreement is submitted to the Congress pursuant to section 5(b)(1), a joint resolution described in subsection (b) is enacted into law.
+  - **(1)** *In general* In the case of any agreement under section 3 that would not have the force and effect of law, the United States shall not be considered a party to such agreement if, before the expiration of the 90-day period beginning on the day that the final legal text of the agreement is submitted to the Congress pursuant to section 5(c)(1), a joint resolution described in subsection (b) is enacted into law.
   - **(2)** *Veto* If the President vetoes the joint resolution, the joint resolution shall be treated as enacted into law before the end of the 90-day period under paragraph (1) if both Houses of Congress vote to override such veto on or before the later of—
     - **(A)** the last day of such 90-day period; or
     - **(B)** the last day of the 15-day period (excluding any day described in subsection (h)) beginning on the date the Congress receives the veto message from the President.
-- **(b)** *Contents of resolution* For purposes of this section, the term “resolution” means only a joint resolution of the two Houses of the Congress, that is introduced during the 60-day period beginning upon the submission to the Congress pursuant to section 5(b)(1) of the agreement to which such resolution relates, and the matter after the resolving clause of which is as follows: “That the Congress does not approve the agreement transmitted to the Congress pursuant to section 5(b)(1) of the International Insurance Standards Act of 2017, on ______.”, the blank space being filled with the appropriate date.
-- **(c)** *Reference to committees* All resolutions introduced in the House of Representatives shall be referred to the Committee on Financial Services and all resolutions introduced in the Senate shall be referred to the Committee on Banking Housing and Urban Affairs.
+- **(b)** *Contents of resolution* For purposes of this section, the term “resolution” means only a joint resolution of the two Houses of the Congress, that is introduced during the 60-day period beginning upon the submission to the Congress pursuant to section 5(c)(1) of the agreement to which such resolution relates, and the matter after the resolving clause of which is as follows: “That the Congress does not approve the agreement transmitted to the Congress pursuant to section 5(c)(1) of the International Insurance Standards Act of 2017, on ______.”, the blank space being filled with the appropriate date.
+- **(c)** *Reference to committees* All resolutions introduced in the House of Representatives shall be referred to the Committee on Financial Services and all resolutions introduced in the Senate shall be referred to the Committee on Banking, Housing, and Urban Affairs.
 - **(d)** *Discharge of committees*
   - **(1)** *In general* If the committee of either House to which a resolution has been referred has not reported it at the end of 30 days after its introduction, not counting any day which is excluded under subsection (h), it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution introduced with respect to the same matter, except that a motion to discharge—
     - **(A)** may only be made on the second legislative day after the calendar day on which the Member making the motion announces to the House his intention to do so; and
@@ -83,7 +84,7 @@ In developing international insurance standards pursuant to section 3, and throu
     - **(A)** the Senate shall vote passage on the resolution introduced in the Senate; and
     - **(B)** the text of the joint resolution passed by the Senate shall, immediately upon its passage (or, if later, upon receipt of the joint resolution passed by the House), be substituted for the text of the joint resolution passed by the House of Representatives, and such resolution, as amended, shall be returned with a request for a conference between the two Houses.
   - **(3)** *Consideration of veto message* Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (b), including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
-- **(h)** *Computation of period* For purposes of subsection (a)(1) of this section and subsection (b)(2) of section 5, the 90-day period referred to in such subsections shall be computed by excluding—
+- **(h)** *Computation of period* For purposes of subsection (a)(1) of this section and subsection (c)(2) of section 5, the 90-day period referred to in such subsections shall be computed by excluding—
   - **(1)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain or an adjournment of the Congress sine die; and
   - **(2)** any Saturday and Sunday, not excluded under paragraph (1), when either House is not in session.
 - **(i)** *Exercise of rulemaking power* This section is enacted by the Congress—
@@ -104,7 +105,7 @@ In developing international insurance standards pursuant to section 3, and throu
   - **(1)** in subsection (b)—
     - **(A)** in paragraph (2)(C), by striking “laws” and inserting the following: “and Federal law, and the nature of any changes in the laws of the United States or the administration of such laws that would be required to carry out a covered agreement”; and
     - **(B)** by adding at the end the following new paragraph:
-      > - **(3)** *Access to negotiating texts and other documents* Congressional Committees and staff with proper security clearances shall be given access to United States negotiating proposals, consolidated draft texts, and other pertinent documents related to the negotiations, including classified materials.
+      > - **(3)** *Access to negotiating texts and other documents* Congressional committees and staff with proper security clearances shall be given access to United States negotiating proposals, consolidated draft texts, and other pertinent documents related to the negotiations, including classified materials.
 
   - **(2)** in subsection (c)—
     - **(A)** in the matter preceding paragraph (1), by striking “only if—” and inserting the following: “only if, before signing the final legal text or otherwise entering into the agreement—”;
@@ -122,7 +123,7 @@ In developing international insurance standards pursuant to section 3, and throu
     >       - **(i)** the last day of such 90-day period; or
     >       - **(ii)** the last day of the 15-day period (excluding any day described in paragraph (8)) beginning on the date the Congress receives the veto message from the President.
     >   - **(2)** *Contents of resolutions* For purposes of this subsection, the term “resolution” means only a joint resolution of the two Houses of the Congress, that is introduced during the 60-day period beginning upon the submission to the Congress pursuant to subsection (c) of the covered agreement to which such resolution relates, and the matter after the resolving clause of which is as follows: “That the Congress does not approve the covered agreement transmitted to the Congress pursuant to section 314(c) of title 31, United States Code, on ______.”, the blank space being filled with the appropriate date.
-    >   - **(3)** *Reference to committees* All resolutions introduced in the House of Representatives shall be referred to the Committee on Financial Services and all resolutions introduced in the Senate shall be referred to the Committee on Banking Housing and Urban Affairs.
+    >   - **(3)** *Reference to committees* All resolutions introduced in the House of Representatives shall be referred to the Committee on Financial Services and all resolutions introduced in the Senate shall be referred to the Committee on Banking, Housing, and Urban Affairs.
     >   - **(4)** *Discharge of committees*
     >     - **(A)** *In general* If the committee of either House to which a resolution has been referred has not reported it at the end of 30 days after its introduction, not counting any day which is excluded under paragraph (8), it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution introduced with respect to the same matter, except that a motion to discharge—
     >       - **(i)** may only be made on the second legislative day after the calendar day on which the Member making the motion announces to the House his intention to do so; and
@@ -155,6 +156,4 @@ In developing international insurance standards pursuant to section 3, and throu
     >   - **(9)** *Exercise of rulemaking power* This subsection is enacted by the Congress—
     >     - **(A)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (2); and they supersede other rules only to the extent that they are inconsistent therewith; and
     >     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
-    > - **(e)** *Requirements for consultations* Throughout the negotiations of a covered agreement, parties representing the Federal Government shall—
-    >   - **(1)** closely consult and coordinate with, and include in such meetings, State insurance commissioners or, at the option of the State insurance commissioners, designees of the insurance commissioners acting at their direction; and
-    >   - **(2)** closely consult with State and local governments, consumer organizations, and representatives of the insurance industry and policyholders
+    > - **(e)** *Requirements for consultations* Throughout the negotiations of a covered agreement, parties representing the Federal Government shall closely consult and coordinate with, and include in such meetings, State insurance commissioners or, at the option of the State insurance commissioners, designees of the insurance commissioners acting at their direction.
