@@ -1,7 +1,7 @@
 ---
 measure: S. 2559
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2559
@@ -55,3 +55,16 @@ Marrakesh Treaty Implementation Act
 - 2018-06-29 — Message on Senate action sent to the House.
 - 2018-07-03 — Received in the House.
 - 2018-07-03 — Referred to the House Committee on the Judiciary.
+- 2018-09-25 — Committee on the Judiciary discharged.
+- 2018-09-25 — Committee on the Judiciary discharged.
+- 2018-09-25 — Considered by unanimous consent. (consideration: CR H8838)
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Goodlatte asked unanimous consent to discharge from committee and consider.
+- 2018-09-25 — On passage Passed without objection. (text: CR H8838)
+- 2018-09-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8838)
+- 2018-09-28 — Presented to President.
+- 2018-09-28 — Presented to President.
+- 2018-10-09 — Became Public Law No: 115-261.
+- 2018-10-09 — Became Public Law No: 115-261.
+- 2018-10-09 — Signed by President.
+- 2018-10-09 — Signed by President.
