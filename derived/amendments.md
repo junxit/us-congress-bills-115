@@ -1,7 +1,7 @@
 ---
 measure: S. 2717
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 0 executed, 27 stated and not applied.
+55 amendatory instructions. 0 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -58,3 +58,31 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 51318` | amend | Section 51322(c) of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 883a` | add-at-end | Section 3134 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 51318` | amend | Section 51505(b) of title 46 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subparagraph (A), by inserting “and prevention” after “awareness”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C), and subparagraphs (C) through (F) as subparagraphs (E) through (H), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subparagraph (C), as redesignated by subparagraph (B), the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(2)(A), by inserting “and other Academy personnel” after “cadets at the Academy”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(A) by inserting “, including sexual harassment,” after “sexual assaults, rapes, and other sexual offenses”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4)(B), by striking “The Secretary” and inserting “Not later than January 15 of each year, the Secretary”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), as redesignated by paragraph (1), by striking “paragraph (2)” and inserting “paragraph (3)”. | the bill names no machine-readable US Code section |
+| `54 U.S.C. § 308704` | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2605` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “owned or subsidized by” and inserting “owned, subsidized by, or contracted with”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including in accordance with subsections (b), (c), and (d)” after “Government”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 51504(g) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | repeal | Section 53912 of title 46, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections at the beginning of chapter 539 of title 46, United States Code, is amended by striking the item relating to section 53912. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (c) of section 54101 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 51318` | replace | by striking “Not later than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `46 U.S.C. § 51318` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 51318` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 51318` | amend | Section 51322(c) of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 883a` | add-at-end | Section 3134 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 51318` | amend | Section 51505(b)(2) of title 46 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
