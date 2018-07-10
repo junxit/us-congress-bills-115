@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 644
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 644
@@ -16,7 +16,7 @@ Strongly condemning slave auctions and the exploitation of migrants and refugees
 
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Cosponsors (40)
+## Cosponsors (51)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -58,6 +58,17 @@ Strongly condemning slave auctions and the exploitation of migrants and refugees
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
 ## Committees (1)
 
@@ -68,3 +79,13 @@ Strongly condemning slave auctions and the exploitation of migrants and refugees
 - 2017-12-04 — Introduced in House
 - 2017-12-04 — Introduced in House
 - 2017-12-04 — Referred to the House Committee on Foreign Affairs.
+- 2018-03-15 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2018-03-15 — Committee Consideration and Mark-up Session Held.
+- 2018-03-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-07-10 — Considered under suspension of the rules. (consideration: CR H6017-6019)
+- 2018-07-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 644.
+- 2018-07-10 — Motion to reconsider laid on the table Agreed to without objection. (text: CR H6017)
+- 2018-07-10 — Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended.
+- 2018-07-10 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.
+- 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.
+- 2018-07-10 — The title of the measure was amended. Agreed to without objection.
