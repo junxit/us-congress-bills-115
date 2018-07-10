@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1861
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,13 +17,13 @@ This Act may be cited as the “The Larry Doby Congressional Gold Medal Act”.
 
 Congress finds that—
 
-- **(1)** Larry Doby was born in Camden, South Carolina, on December 13, 1923, and moved to Paterson, New Jersey, in 1938, where he became a standout 4 sport athlete at Paterson Eastside High School;
+- **(1)** Larry Doby was born in Camden, South Carolina, on December 13, 1923, and moved to Paterson, New Jersey, in 1938, where he became a standout four-sport athlete at Paterson Eastside High School;
 - **(2)** Larry Doby attended Long Island University on a basketball scholarship before enlisting in the United States Navy during World War II;
 - **(3)** upon his honorable discharge from the Navy in 1946, Larry Doby played baseball in the Negro National League for the Newark Eagles;
 - **(4)** after playing the 1946 season, Larry Doby’s contract was purchased by the Cleveland Indians of the American League on July 3, 1947;
 - **(5)** on July 5, 1947, Larry Doby became the first African-American to play in the American League;
 - **(6)** Larry Doby played in the American League for 13 years, appearing in 1,533 games and batting .283, with 253 home runs and 970 runs batted in;
-- **(7)** Larry Doby was voted to 7 All-Star teams, led the American League in home runs twice, and played in 2 World Series;
+- **(7)** Larry Doby was voted to seven All-Star teams, led the American League in home runs twice, and played in two World Series;
 - **(8)** in 1948, Larry Doby helped lead the Cleveland Indians to a World Series Championship over the Boston Braves and became the first African-American player to hit a home run in a World Series game;
 - **(9)** after his stellar playing career ended, Larry Doby continued to make a significant contribution to his community;
 - **(10)** Larry Doby was a pioneer in the cause of civil rights and received honorary doctorate degrees from Long Island University, Princeton University, and Fairfield University;
