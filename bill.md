@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1700
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “SCORE for Small Business Act of 2017”.
+This title may be cited as the “SCORE for Small Business Act of 2018”.
 
 ## § 2. SCORE Reauthorization
 
@@ -19,17 +19,19 @@ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended—
 
 - **(1)** by redesignating subsection (j) as subsection (f); and
 - **(2)** by adding at the end the following:
-  > - **(g)** *SCORE program* There are authorized to be appropriated to the Administrator to carry out the SCORE program authorized by section 8(b)(1) such sums as are necessary for the Administrator to make grants or enter into cooperative agreements in a total amount that does not exceed $10,500,000 in each of fiscal years 2018 and 2019.
+  > - **(g)** *SCORE program* There are authorized to be appropriated to the Administrator to carry out the SCORE program authorized by section 8(b)(1) such sums as are necessary for the Administrator to make grants or enter into cooperative agreements in a total amount that does not exceed $10,500,000 in each of fiscal years 2019 and 2020.
 
 ## § 3. SCORE program
 
 Section 8 of the Small Business Act (15 U.S.C. 637) is amended—
 
-- **(1)** in subsection (b)(1)(B), by striking “a Service Corps of Retired Executives (SCORE)” and inserting “the SCORE program described in subsection (c)”; and
+- **(1)** in subsection (b)(1)(B)—
+  - **(A)** by striking “a Service Corps of Retired Executives (SCORE)” and inserting “the SCORE program described in subsection (c)”; and
+  - **(B)** by striking “SCORE may” and inserting “the SCORE program may”; and
 - **(2)** by striking subsection (c) and inserting the following:
   > - **(c)** *SCORE program*
   >   - **(1)** *Definition* In this subsection:
-  >     - **(A)** *SCORE Association* The term SCORE Association means the Service Corps of Retired Executives Association or any successor or other organization who receives a grant from the Administrator to operate the SCORE program under paragraph (2)(A).
+  >     - **(A)** *SCORE Association* The term SCORE Association means the Service Corps of Retired Executives Association or any successor or other organization that receives a grant from the Administrator to operate the SCORE program under paragraph (2)(A).
   >     - **(B)** *SCORE program* The term SCORE program means the SCORE program authorized by subsection (b)(1)(B).
   >   - **(2)** *Management and volunteers*
   >     - **(A)** *In general* The Administrator shall provide a grant to the SCORE Association to manage the SCORE program.
@@ -65,34 +67,41 @@ Section 8 of the Small Business Act (15 U.S.C. 637) is amended—
   > - **(6)** *Online component* In carrying out this subsection, the SCORE Association shall make use of online counseling, including by developing and implementing webinars and an electronic mentoring platform to expand access to services provided under this subsection and to further support entrepreneurs.
 
 - **(b)** *Online component report*
-  - **(1)** *In general* At the end of fiscal year 2018, the SCORE Association shall issue a report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate on the effectiveness of the online counseling and webinars required as part of the SCORE program, including—
+  - **(1)** *In general* At the end of fiscal year 2019, the SCORE Association shall issue a report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate on the effectiveness of the online counseling and webinars required as part of the SCORE program, including a description of—
     - **(A)** how the SCORE Association determines electronic mentoring and webinar needs, develops training for electronic mentoring, establishes webinar criteria curricula, and evaluates webinar and electronic mentoring results;
-    - **(B)** describing the internal controls that are used and a summary of the topics covered by the webinars; and
+    - **(B)** the internal controls that are used and a summary of the topics covered by the webinars; and
     - **(C)** performance metrics, including the number of small business concerns counseled by, the number of small business concerns created by, the number of jobs created and retained by, and the funding amounts directed towards such online counseling and webinars.
-  - **(2)** *Definitions* For purposes of this subsection, the terms “SCORE Association” and “SCORE program” have the meaning given those terms, respectively, under section 8(c)(1) of the Small Business Act (15 U.S.C. 637(c)(1)).
+  - **(2)** *Definitions* For purposes of this subsection, the terms SCORE Association and SCORE program have the meaning given those terms, respectively, under section 8(c)(1) of the Small Business Act, as added by section 3 of this Act.
 
-## § 5. Study and report on the future role of the score program
+## § 5. Study and report on the future role of the SCORE program
 
-- **(a)** *Study* The SCORE Association shall carry out a study on the future role of the SCORE program and develop a strategic plan for how the SCORE program will evolve to meet the needs of small business concerns and potential future small business concerns over the course of the 5 years following the date of enactment of this Act, with markers and specific objectives for year 1, year 3, and year 5.
+- **(a)** *Study* The SCORE Association shall carry out a study on the future role of the SCORE program and develop a strategic plan for how the SCORE program will meet the needs of small business concerns during the 5-year period beginning on the date of the enactment of this Act, with specific objectives for the first, third, and fifth years of the 5-year period.
 - **(b)** *Report* Not later than the end of the 6-month period beginning on the date of the enactment of this Act, the SCORE Association shall issue a report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate containing—
   - **(1)** all findings and determination made in carrying out the study required under subsection (a);
   - **(2)** the strategic plan developed under subsection (a);
   - **(3)** an explanation of how the SCORE Association plans to achieve the strategic plan, assuming both stagnant and increased funding levels.
-- **(c)** *Definitions* For purposes of this section, the terms “SCORE Association” and “SCORE program” have the meaning given those terms, respectively, under section 8(c)(1) of the Small Business Act (15 U.S.C. 637(c)(1)).
+- **(c)** *Definitions* For purposes of this section, the terms SCORE Association and SCORE program have the meaning given those terms, respectively, under section 8(c)(1) of the Small Business Act, as added by section 3 of this Act.
 
 ## § 6. Technical and conforming amendments
 
 - **(a)** *Small business act* The Small Business Act (15 U.S.C. 631 et seq.) is amended—
-  - **(1)** in section 7(m)(3)(A)(i)(VIII) (15 U.S.C. 636(m)(3)(A)(i)(VIII)), by striking “Service Corps of Retired Executives” and inserting “SCORE program”; and
+  - **(1)** in section 7 (15 U.S.C. 636)—
+    - **(A)** in subsection (b)(12)—
+      - **(i)** in the paragraph heading, by inserting “program” after “SCORE”; and
+      - **(ii)** in subparagraph (A), by striking “Service Corps of Retired Executives” and inserting “SCORE program”; and
+    - **(B)** in subsection (m)(3)(A)(i)(VIII), by striking “Service Corps of Retired Executives” and inserting “SCORE program”; and
   - **(2)** in section 22 (15 U.S.C. 649)—
     - **(A)** in subsection (b)—
       - **(i)** in paragraph (1), by striking “Service Corps of Retired Executives” and inserting “SCORE program”; and
       - **(ii)** in paragraph (3), by striking “Service Corps of Retired Executives” and inserting “SCORE program”; and
     - **(B)** in subsection (c)(12), by striking “Service Corps of Retired Executives” and inserting “SCORE program”.
 - **(b)** *Other laws*
-  - **(1)** *Children’s Health Insurance Program Reauthorization Act of 2009* Section 621 of the Children’s Health Insurance Program Reauthorization Act of 2009 (15 U.S.C. 657p) is amended—
+  - **(1)** *Small Business Reauthorization Act of 1997* Section 707 of the Small Business Reauthorization Act of 1997 (15 U.S.C. 631 note) is amended by striking “Service Corps of Retired Executives (SCORE) program” and inserting “SCORE program (as defined in section 8(c)(1) of the Small Business Act)”.
+  - **(2)** *Veterans Entrepreneurship and Small Business Development Act of 1999* Section 301 of the Veterans Entrepreneurship and Small Business Development Act of 1999 (15 U.S.C. 657b note) is amended by striking “Service Core of Retired Executives” and inserting “SCORE program”.
+  - **(3)** *Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008* Section 3(5) of the Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 (15 U.S.C. 636 note) is amended by striking “means the SCORE program”.
+  - **(4)** *Children’s Health Insurance Program Reauthorization Act of 2009* Section 621 of the Children’s Health Insurance Program Reauthorization Act of 2009 (15 U.S.C. 657p) is amended—
     - **(A)** in subsection (a), by striking paragraph (4) and inserting the following:
-      > - **(4)** the term “SCORE program” means the SCORE program authorized by section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B));
+      > - **(4)** the term SCORE program means the SCORE program authorized by section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B));
 
     - **(B)** in subsection (b)(4)(A)(iv), by striking “Service Corps of Retired Executives” and inserting “SCORE program”.
-  - **(2)** *Energy Policy and Conservation Act* Section 337(d)(2)(A) of the Energy Policy and Conservation Act (42 U.S.C. 6307(d)(2)(A)) is amended by striking “Service Corps of Retired Executives (SCORE)” and inserting “SCORE program”.
+  - **(5)** *Energy Policy and Conservation Act* Section 337(d)(2)(A) of the Energy Policy and Conservation Act (42 U.S.C. 6307(d)(2)(A)) is amended by striking “Service Corps of Retired Executives (SCORE)” and inserting “SCORE program”.
