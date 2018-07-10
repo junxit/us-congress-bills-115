@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 938
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 938
@@ -31,3 +31,8 @@ Of inquiry directing the Attorney General to provide certain documents in the At
 - 2018-06-13 — Introduced in House
 - 2018-06-13 — Introduced in House
 - 2018-06-13 — Referred to the House Committee on the Judiciary.
+- 2018-06-26 — Committee Consideration and Mark-up Session Held.
+- 2018-06-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 11.
+- 2018-07-10 — Placed on the House Calendar, Calendar No. 164.
+- 2018-07-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-813.
+- 2018-07-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-813.
