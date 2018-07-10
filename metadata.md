@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2655
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2655
@@ -41,3 +41,9 @@ Small Business Innovation Protection Act of 2017
 - 2018-05-29 — Committee on the Judiciary discharged.
 - 2018-05-29 — Committee on the Judiciary discharged.
 - 2018-05-29 — Placed on the Union Calendar, Calendar No. 547.
+- 2018-07-10 — Considered under suspension of the rules. (consideration: CR H6030-6032)
+- 2018-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2655.
+- 2018-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-10 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2018-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6030-6031)
+- 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6030-6031)
