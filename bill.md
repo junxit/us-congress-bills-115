@@ -24,7 +24,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United States and Australia work closely in a number of international fora, including the Group of Twenty (G–20);
 - Whereas the Australia–United States Free Trade Agreement, done at Washington May 18, 2004, came into effect on January 1, 2005;
 - Whereas the United States and Australia conduct $65,000,000,000 in 2-way trade and have an investment relationship valued at $1,100,000,000,000,
-- Whereas July 4, 2018, marks the 100-year anniversary of the Battle of Hamel and serves as the date on which the United States and Australia celebrate the first 100 years of Mateship: Now, therefore, be it
+- Whereas, July 4, 2018, marks the 100-year anniversary of the Battle of Hamel and serves as the date on which the United States and Australia celebrate the first 100 years of Mateship: Now, therefore, be it
 
 That Congress—
 
