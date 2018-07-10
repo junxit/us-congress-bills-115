@@ -7,19 +7,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5970
 
-> To require the Securities and Exchange Commission to implement rules simplifying the quarterly financial reporting regime.
+> To require the Securities and Exchange Commission to carry out a cost benefit analysis of the use of Form 10-Q and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Simplifying Disclosures for Investors Act”.
+This Act may be cited as the “Modernizing Disclosures for Investors Act”.
 
-## § 2. Issuer option for simplified quarterly financial reporting
+## § 2. Form 10–Q analysis
 
-- **(a)** *In general* Not later than one year after the date of enactment of this Act, the Securities and Exchange Commission shall issue such rules as the Commission determines may be necessary or appropriate in the public interest or for the protection of investors to allow issuers of securities traded on a national securities exchange to elect to disclose quarterly financial information in a simplified manner, such as through a press release or by a shortened form. In issuing such disclosure rules, the Commission shall—
-  - **(1)** amend rules issued pursuant to sections 13(a) and 15(d) of the Securities Exchange Act of 1934 to permit issuers of securities traded on a national securities exchange to disclose quarterly financial information in a manner other than through filing a Form 10–Q;
-  - **(2)** require financial statements disclosed pursuant to such rules to include a quarterly income statement, a balance sheet as of the last day of the quarter, and a statement of operations, all prepared in accordance with such rules as the Commission may adopt consistent with this Act;
-  - **(3)** not provide any exemption with respect to the requirements of section 302 of the Sarbanes-Oxley Act of 2002 and section 1350 of title 18, United States Code; and
-  - **(4)** require that such disclosures include a statement of any material changes in financial condition or results of operations since the end of the issuer’s most recent financial statements disclosed pursuant to the Commission’s rules.
-- **(b)** *Definitions* For purposes of this section:
-  - **(1)** *National securities exchange* The term “national securities exchange” means an exchange registered as a national securities exchange pursuant to section 6 of the Securities Exchange Act of 1934.
-  - **(2)** *Other terms* The terms “Commission”, “issuer”, and “security” have the meaning given those terms, respectively, under section 3 of the Securities Exchange Act of 1934.
+- **(a)** *In general* The Securities and Exchange Commission shall conduct an analysis of the costs and benefits of requiring reporting companies to use Form 10–Q for submitting quarterly financial reports. Such analysis shall consider—
+  - **(1)** the costs and benefits of Form 10–Q to emerging growth companies;
+  - **(2)** the costs and benefits of Form 10–Q to the Commission in terms of its ability to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation;
+  - **(3)** the costs and benefits of Form 10–Q to other reporting companies, investors, market researchers, and other market participants, including the costs and benefits associated with—
+    - **(A)** the public availability of the information required to be filed on Form 10–Q;
+    - **(B)** the use of a standardized reporting format across all classes of reporting companies; and
+    - **(C)** the quarterly disclosure by some companies of financial information in formats other than Form 10–Q, such as a quarterly earnings press release;
+  - **(4)** the costs and benefits of alternative formats for quarterly reporting for emerging growth companies to emerging growth companies, the Commission, other reporting companies, investors, market researchers, and other market participants; and
+  - **(5)** the expected impact of the use of alternative formats of quarterly reporting by emerging growth companies on overall market transparency and efficiency.
+- **(b)** *Report required* Not later than 180 days after the date of enactment of this Act, the Commission shall issue a report to Congress that includes—
+  - **(1)** the results of the analysis required by subsection (a); and
+  - **(2)** recommendations for decreasing costs, increasing transparency, and increasing efficiency of quarterly financial reporting by emerging growth companies.
