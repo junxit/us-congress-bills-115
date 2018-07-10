@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Building Up Independent Lives and Dreams Act” or the “BUILD Act”.
+This Act may be cited as the “Building Up Independent Lives and Dreams Act” or the “BUILD Act”.
 
 ## § 2. Mortgage loan transaction disclosure requirements
 
