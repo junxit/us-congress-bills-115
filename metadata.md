@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5793
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5793
@@ -30,3 +30,16 @@ Housing Choice Voucher Mobility Demonstration Act of 2018
 - 2018-05-15 — Introduced in House
 - 2018-05-15 — Introduced in House
 - 2018-05-15 — Referred to the House Committee on Financial Services.
+- 2018-05-22 — Committee Consideration and Mark-up Session Held.
+- 2018-05-22 — Ordered to be Reported by the Yeas and Nays: 53 - 0.
+- 2018-07-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-10 — Considered as unfinished business. (consideration: CR H6025-6026)
+- 2018-07-10 — Considered under suspension of the rules. (consideration: CR H6010-6013)
+- 2018-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5793.
+- 2018-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-10 — Mr. Huizenga moved to suspend the rules and pass the bill.
+- 2018-07-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 19 (Roll no. 314). (text: CR H6010-6011)
+- 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 19 (Roll no. 314).(text: CR H6010-6011)
+- 2018-07-10 — Placed on the Union Calendar, Calendar No. 628.
+- 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-809.
+- 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-809.
