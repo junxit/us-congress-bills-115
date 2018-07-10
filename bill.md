@@ -18,21 +18,31 @@ This Act may be cited as the “Main Street Growth Act”.
 - **(a)** *Securities Exchange Act of 1934* Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following:
   > - **(m)** *Venture exchange*
   >   - **(1)** *Registration*
-  >     - **(A)** *In general* A national securities exchange may elect to be treated (or for a listing tier of such exchange to be treated) as a venture exchange—
-  >       - **(i)** by notifying the Commission of such election at the time the exchange applies to be registered as a national securities exchange; or
-  >       - **(ii)** after registering as a national securities exchange, by submitting such election as a proposed rule change, as described under section 19(b).
-  >     - **(B)** *Determination time period* With respect to a securities exchange electing to be treated (or for a listing tier of such exchange to be treated) as a venture exchange—
-  >       - **(i)** at the time the exchange applies to be registered as a national securities exchange, such application and election shall be deemed to have been approved by the Commission unless the Commission denies such application before the end of the 6-month period beginning on the date the Commission received such application; and
-  >       - **(ii)** after registering as a national securities exchange, such election shall be deemed to have been approved by the Commission unless the Commission denies such approval before the end of the 6-month period beginning on the date the Commission received notification of such election.
-  >   - **(2)** *Powers and restrictions* A venture exchange—
+  >     - **(A)** *In general* A person may register themself (and a national securities exchange may register a listing tier of such exchange) as a national securities exchange solely for the purposes of trading venture securities by filing an application with the Commission pursuant to subsection (a) and the rules and regulations thereunder.
+  >     - **(B)** *Publication of notice* The Commission shall, upon the filing of an application under subparagraph (A), publish notice of such filing and afford interested persons an opportunity to submit written data, views, and arguments concerning such application.
+  >     - **(C)** *Approval or denial*
+  >       - **(i)** *In general* Within 90 days of the date of publication of a notice under subparagraph (B) (or within such longer period as to which the applicant consents), the Commission shall—
+  >         - **(I)** by order grant such registration; or
+  >         - **(II)** institute a denial proceeding under clause (ii) to determine whether registration should be denied.
+  >       - **(ii)** *Denial proceeding* A proceeding under clause (i)(II) shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within 180 days of the date of the publication of a notice under subparagraph (B). At the conclusion of such proceeding the Commission, by order, shall grant or deny such registration. The Commission may extend the time for conclusion of such proceeding for up to 90 days if the Commission finds good cause for such extension and publishes the Commission’s reasons for so finding or for such longer period as to which the applicant consents.
+  >       - **(iii)** *Criteria for approval or denial* The Commission shall grant a registration under this paragraph if the Commission finds that the requirements of this title and the rules and regulations thereunder with respect to the applicant are satisfied. The Commission shall deny such registration if it does not make such finding.
+  >   - **(2)** *Powers and restrictions* In addition to the powers and restrictions otherwise applicable to a national securities exchange, a venture exchange—
   >     - **(A)** may only constitute, maintain, or provide a market place or facilities for bringing together purchasers and sellers of venture securities;
-  >     - **(B)** may determine the increment to be used for quoting and trading venture securities on the exchange;
-  >     - **(C)** may choose to carry out periodic auctions for the sale of a venture security instead of providing continuous trading of the venture security; and
-  >     - **(D)** may not extend unlisted trading privileges to any venture security.
-  >   - **(3)** *Treatment of certain exempted securities* A security that is exempt from registration pursuant to section 3(b) of the Securities Act of 1933 shall be exempt from section 12(a) of this title to the extent such securities are traded on a venture exchange, if the issuer of such security is in compliance with all disclosure obligations of such section 3(b) and the regulations issued under such section.
+  >     - **(B)** may not extend unlisted trading privileges to any venture security;
+  >     - **(C)** may only, if the venture exchange is a listing tier of another national securities exchange, allow trading in securities that are registered under section 12(b) on a national securities exchange other than a venture exchange; and
+  >     - **(D)** may, subject to the rule filing process under section 19(b)—
+  >       - **(i)** determine the increment to be used for quoting and trading venture securities on the exchange; and
+  >       - **(ii)** choose to carry out periodic auctions for the sale of a venture security instead of providing continuous trading of the venture security.
+  >   - **(3)** *Treatment of certain exempted securities* A security that is exempt from registration pursuant to section 3(b) of the Securities Act of 1933 shall be exempt from section 12(a) of this title to the extent such securities are traded on a venture exchange, if the issuer of such security is in compliance with—
+  >     - **(A)** all disclosure obligations of such section 3(b) and the regulations issued under such section; and
+  >     - **(B)** ongoing disclosure obligations of the applicable venture exchange that are similar to those provided by an issuer under tier 2 of Regulation A (17 CFR 230.251 et seq.).
   >   - **(4)** *Venture securities traded on venture exchanges may not trade on non-venture exchanges* A venture security may not be traded on a national securities exchange that is not a venture exchange during any period in which the venture security is being traded on a venture exchange.
   >   - **(5)** *Rule of construction* Nothing in this subsection may be construed as requiring transactions in venture securities to be effected on a national securities exchange.
-  >   - **(6)** *Definitions* For purposes of this subsection:
+  >   - **(6)** *Commission authority to limit certain trading* The Commission may limit transactions in venture securities that are not effected on a national securities exchange as appropriate to promote efficiency, competition, capital formation, and to protect investors.
+  >   - **(7)** *Disclosures to investors* The Commission shall issue regulations to ensure that persons selling or purchasing venture securities on a venture exchange are provided disclosures sufficient to understand—
+  >     - **(A)** the characteristics unique to venture securities; and
+  >     - **(B)** in the case of a venture exchange that is a listing tier of another national securities exchange, that the venture exchange is distinct from the other national securities exchange.
+  >   - **(8)** *Definitions* For purposes of this subsection:
   >     - **(A)** *Early-stage, growth company*
   >       - **(i)** *In general* The term early-stage, growth company means an issuer—
   >         - **(I)** that has not made any registered initial public offering of any securities of the issuer; and
@@ -54,11 +64,10 @@ This Act may be cited as the “Main Street Growth Act”.
   >           - **(bb)** the average daily trade volume of such securities is 100,000 shares or more during a continuous 60-day period.
   >         - **(II)** The end of the 1-year period following the end of the 24-month period described under subclause (I), if the issuer of such securities requests such 1-year extension from a venture exchange and the venture exchange elects to provide such extension.
 
-- **(b)** *Securities Act of 1933* Section 18(b)(1) of the Securities Act of 1933 (15 U.S.C. 77r(b)(1)) is amended—
-  - **(1)** in subparagraph (B), by striking “or” at the end;
-  - **(2)** in subparagraph (C), by striking the period and inserting “; or”; and
-  - **(3)** by adding at the end the following:
-    > - **(D)** a venture security listed on a venture exchange, other than those of an early-stage growth company (as such terms are defined, respectively, under section 6(m) of the Securities Exchange Act of 1934).
+- **(b)** *Securities Act of 1933* Section 18 of the Securities Act of 1933 (15 U.S.C. 77r) is amended—
+  - **(1)** by redesignating subsection (d) as subsection (e); and
+  - **(2)** by inserting after subsection (c) the following:
+    > - **(d)** *Treatment of securities listed on a venture exchange* Notwithstanding subsection (b), a security is not a covered security pursuant to subsection (b)(1)(A) if the security is only listed, or authorized for listing, on a venture exchange (as defined under section 6(m) of the Securities Exchange Act of 1934).
 
 - **(c)** *Sense of Congress* It is the sense of the Congress that the Securities and Exchange Commission should—
   - **(1)** when necessary or appropriate in the public interest and consistent with the protection of investors, make use of the Commission’s general exemptive authority under section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm) with respect to the provisions added by this section; and
