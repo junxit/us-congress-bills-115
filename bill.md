@@ -7,14 +7,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5749
 
-> To require the appropriate Federal banking agencies to increase the risk-sensitivity of the capital treatment of certain centrally cleared options, and for other purposes.
+> To require the appropriate Federal banking agencies to increase the risk-sensitivity of the capital treatment of certain centrally cleared exchange-listed options and derivatives, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Options Markets Stability Act”.
 
-## § 2. Credit exposure for guarantees of centrally cleared options
+## § 2. Rulemaking
 
-- **(a)** *Definitions* In this section, the terms “affiliate”, “appropriate Federal banking agency”, “depository institution”, and “depository institution holding company” have the meanings given those terms, respectively, in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
-- **(b)** *Treatment of certain centrally cleared option derivatives exposures* For purposes of calculating the counterparty credit risk exposure of a depository institution, depository institution holding company, or affiliate thereof, to a client arising from a guarantee provided by the depository institution, depository institution holding company, or affiliate thereof to a central counterparty in respect of the client’s performance under a derivative contract cleared through that central counterparty pursuant to the risk-based and leverage-based capital rules applicable to depository institutions and depository institution holding companies under parts 3, 217, and 324 of title 12, Code of Federal Regulations, the term “effective notional principal amount” with respect to such centrally cleared derivative contract means the hypothetical on-balance sheet position in the underlying asset that would evidence the same change in fair value (measured in dollars) given a small change in the price of the underlying asset.
-- **(c)** *Calculation of exposure for centrally cleared derivatives* For purposes of calculating the counterparty credit risk exposure of a depository institution, depository institution holding company, or affiliate thereof to a client arising from a guarantee provided by the depository institution, depository institution holding company, or affiliate thereof to a central counterparty in respect of the client’s performance under a derivative contract cleared through that central counterparty pursuant to the risk-based and leverage-based capital rules applicable to depository institutions and depository institution holding companies under parts 3, 217 and 324 of title 12, Code of Federal Regulations, the offsetting nature of significantly and reliably correlated positions within a netting set must be reflected in a manner consistent with the risk offsets provided by the central counterparty.
+Within 180 days of the date of enactment of this Act, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency shall, jointly, issue a proposed rule, and finalize such rule within 360 days of the date of enactment of this Act, to adopt a methodology for calculating the counterparty credit risk exposure, at default, of a depository institution, depository institution holding company, or affiliate thereof to a client arising from a guarantee provided by the depository institution, depository institution holding company, or affiliate thereof to a central counterparty in respect of the client's performance under an exchange-listed derivative contract cleared through that central counterparty pursuant to the risk-based and leverage-based capital rules applicable to depository institutions and depository institution holding companies under parts 3, 217, and 324 of title 12, Code of Federal Regulations. In issuing such rule, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency shall consider—
+
+- **(1)** the availability of liquidity provided by market makers during times of high volatility in the capital markets;
+- **(2)** the spread between the bid and the quote offered by market makers;
+- **(3)** the preference for clearing through central counterparties;
+- **(4)** the safety and soundness of the financial system and financial stability, including the benefits of central clearing;
+- **(5)** the safety and soundness of individual institutions that may centrally clear exchange-listed derivatives or options on behalf of a client, including concentration of market share;
+- **(6)** the economic value of delta weighting a counterparty’s position and netting of a counterparty’s position;
+- **(7)** the inherent risk of the positions;
+- **(8)** barriers to entry for depository institutions, depository institution holding companies, affiliates thereof, and entities not affiliated with a depository institution or depository institution holding company to centrally clear exchange-listed derivatives or options on behalf of market makers;
+- **(9)** the impact any changes may have on the broader capital regime and aggregate capital in the system; and
+- **(10)** consideration of other potential factors that impact market making in the exchange-listed options market, including changes in market structure.
+
+## § 3. Report to Congress
+
+At the end of the 5-year period beginning on the date the final rule is issued under section 2, the Board of Governors of the Federal Reserve System shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report detailing the impact of the final rule during such period on the factors described under paragraphs (1) through (10) of section 2.
