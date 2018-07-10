@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4537
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4537
@@ -50,3 +50,9 @@ International Insurance Standards Act of 2018
 - 2018-07-03 — Placed on the Union Calendar, Calendar No. 623.
 - 2018-07-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-804, Part I.
 - 2018-07-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-804, Part I.
+- 2018-07-10 — Considered under suspension of the rules. (consideration: CR H6007-6010)
+- 2018-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4537.
+- 2018-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-10 — Mr. Huizenga moved to suspend the rules and pass the bill, as amended.
+- 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6007-6008)
+- 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6007-6008)
