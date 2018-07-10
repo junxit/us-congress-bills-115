@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2259
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 13 executed, 16 stated and not applied.
+35 amendatory instructions. 13 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,97 +26,43 @@ to guess them.
 
 ### 22 U.S.C. § 2504
 
-> in paragraph (1), by striking “GS–7” and inserting “GS–11”; and
-
-| | |
-|---|---|
-| Removed | `GS–7` |
-| Inserted | `GS–11` |
-
-### 22 U.S.C. § 2504
-
-> in subsection (e), by striking “receive such immunization and dental care preparatory to their service” and inserting “receive, preparatory to their service, such immunization and dental care, and (in accordance with subsection (o)) such trial prescriptions”;
+> in subsection (e), in the first sentence, by striking “receive such immunization and dental care preparatory to their service” and inserting “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)”;
 
 | | |
 |---|---|
 | Removed | `receive such immunization and dental care preparatory to their service` |
-| Inserted | `receive, preparatory to their service, such immunization and dental care, and (in accordance with subsection (o)) such trial prescriptions` |
+| Inserted | `receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)` |
 
 ### 22 U.S.C. § 2504
 
-> in subsection (h), by striking “section, and” and inserting “section), and”; and
+> in subsection (i), as so redesignated, by striking “section, and” and inserting “section), and”; and
 
 | | |
 |---|---|
 | Removed | `section, and` |
 | Inserted | `section), and` |
 
-### 22 U.S.C. § 2507a
+### 22 U.S.C. § 2507
 
-> in subsection (f)(2)(B), in clause (iii), by striking “victim advocates” and inserting “Victim’s Advocates,”.
-
-| | |
-|---|---|
-| Removed | `victim advocates` |
-| Inserted | `Victim’s Advocates,` |
-
-### 22 U.S.C. § 2507b
-
-> by striking “SARLs” and inserting “any employee of the Peace Corps”; and
+> by striking “he” and inserting “the President”; and
 
 | | |
 |---|---|
-| Removed | `SARLs` |
-| Inserted | `any employee of the Peace Corps` |
-
-### 22 U.S.C. § 2507b
-
-> by striking “Victim Advocate” and inserting “Victim’s Advocate”.
-
-| | |
-|---|---|
-| Removed | `Victim Advocate` |
-| Inserted | `Victim’s Advocate` |
-
-### 22 U.S.C. § 2507c
-
-> by striking “victim advocate” in each place it appears and inserting “Victim’s Advocate”;
-
-| | |
-|---|---|
-| Removed | `victim advocate` |
-| Inserted | `Victim’s Advocate` |
-
-### 22 U.S.C. § 2507c
-
-> by striking “victim advocates” in each place it appears and inserting “Victim’s Advocates”; and
-
-| | |
-|---|---|
-| Removed | `victim advocates` |
-| Inserted | `Victim’s Advocates` |
-
-### 22 U.S.C. § 2507d
-
-> by striking “not less than 8 individuals” and inserting “not fewer than 8 and not more than 14 individuals”;
-
-| | |
-|---|---|
-| Removed | `not less than 8 individuals` |
-| Inserted | `not fewer than 8 and not more than 14 individuals` |
-
-### 22 U.S.C. § 2507d
-
-> in subsection (g), by striking “2018” and inserting “2023”.
-
-| | |
-|---|---|
-| Removed | `2018` |
-| Inserted | `2023` |
+| Removed | `he` |
+| Inserted | `the President` |
 
 ### 22 U.S.C. § 2507e
 
-> in the first sentence, by striking “2018” and inserting “2023”;
+> by striking “and shall review” and inserting “, and review”; and
+
+| | |
+|---|---|
+| Removed | `and shall review` |
+| Inserted | `, and review` |
+
+### 22 U.S.C. § 2507e
+
+> in the first sentence, by striking “2018” and inserting “2023”; and
 
 | | |
 |---|---|
@@ -132,14 +78,68 @@ to guess them.
 | Removed | `subsection (a)` |
 | Inserted | `subsection (b)` |
 
-### 22 U.S.C. § 2512
+### 22 U.S.C. § 2507a
 
-> in subsection (a), by striking “Section” and inserting “section”; and
+> in subsection (f)(2)(B)(iii), by striking “victim advocates” and inserting “Victim’s Advocates,”.
 
 | | |
 |---|---|
-| Removed | `Section` |
-| Inserted | `section` |
+| Removed | `victim advocates` |
+| Inserted | `Victim’s Advocates,` |
+
+### 22 U.S.C. § 2507b
+
+> by striking “SARLs” and inserting “any employee of the Peace Corps”;
+
+| | |
+|---|---|
+| Removed | `SARLs` |
+| Inserted | `any employee of the Peace Corps` |
+
+### 22 U.S.C. § 2507b
+
+> by striking “Victim Advocate” and inserting “Victim’s Advocate”; and
+
+| | |
+|---|---|
+| Removed | `Victim Advocate` |
+| Inserted | `Victim’s Advocate` |
+
+### 22 U.S.C. § 2507c
+
+> by striking “victim advocate” each place it appears and inserting “Victim’s Advocate”;
+
+| | |
+|---|---|
+| Removed | `victim advocate` |
+| Inserted | `Victim’s Advocate` |
+
+### 22 U.S.C. § 2507c
+
+> by striking “victim advocates” each place it occurs and inserting “Victim’s Advocates”; and
+
+| | |
+|---|---|
+| Removed | `victim advocates` |
+| Inserted | `Victim’s Advocates` |
+
+### 22 U.S.C. § 2507d
+
+> by striking “not less than 8 individuals selected by the President, not later than 180 days after the date of the enactment of this section,” and inserting “not fewer than 8 and not more than 14 individuals selected by the President”; and
+
+| | |
+|---|---|
+| Removed | `not less than 8 individuals selected by the President, not later than 180 days after the date of the enactment of this section,` |
+| Inserted | `not fewer than 8 and not more than 14 individuals selected by the President` |
+
+### 22 U.S.C. § 2507d
+
+> in subsection (g), by striking “2018” and inserting “2023”.
+
+| | |
+|---|---|
+| Removed | `2018` |
+| Inserted | `2023` |
 
 ## Stated, not applied
 
@@ -150,19 +150,25 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2504` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2504` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2504` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2506` | insert | in paragraph (5), by inserting “or paragraph (8)” after “paragraph (6)”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2506` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2506` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507` | add-at-end | in subsection (a), by adding at the end the following new sentences: “As a part of such training, the President, in coordination with the Inspector General of the Peace Corps, shall provide each volunteer with information regarding the m… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2504` | insert | by inserting after subsection (e) the following new subsection— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2504` | insert | by inserting after section 5 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 8142 of title 5, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2506` | add-at-end | Section 7(a) of the Peace Corps Act (22 U.S.C. 2506(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507` | add-at-end | by adding at the end the following new sentences: “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers wit… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2507` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507e` | insert | by inserting “, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),” after “s… | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2507e` | add-at-end | by adding at the end the following new sentences: “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in whic… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2509` | add-at-end | Section 10 of the Peace Corps Act (22 U.S.C. 2509) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2504` | add-at-end | Section 5 of the Peace Corps Act (22 U.S.C. 2504), as amended by section 101 of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2507a` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507c` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507d` | insert | by inserting after the first sentence the following new sentence: “At least one member shall also be licensed in the field of mental health.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507d` | add-at-end | by adding at the end the following new sentence: “There shall be no limit to the number of terms an individual may serve as a member of the Council.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507d` | insert | by inserting “and the implementation of such policy” after “section 8B”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2507d` | add-at-end | by adding at the end the following new sentence: “To carry out the functions in this subsection, the Council shall conduct case reviews and shall have access, including through interviews or visits, to volunteers and staff in the field, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2507e` | add-at-end | by adding at the end the following new sentences: “The President shall publish on a publicly available website of the Peace Corps the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2512` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507b` | insert | by inserting “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2507b` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2507b` | replace | in paragraph (6), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507b` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507c` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507d` | insert | by inserting after the first sentence the following new sentence: “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2507d` | insert | by inserting “and implemented” after “sexual assault policy developed”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2507d` | add-at-end | by adding at the end the following new sentence: “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2522` | redesignate | by redesignating subsections (a), (b), (c), (d), (e), (f), and (g) as paragraphs (1), (6), (2), (3), (8), (7), and (5), respectively, by arranging such redesignated paragraphs in numerical order, and by moving such paragraphs 2 ems to th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2522` | redesignate | in paragraph (1), as redesignated, by striking “(1)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2522` | redesignate | by inserting after paragraph (3), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
