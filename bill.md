@@ -16,10 +16,10 @@ This Act may be cited as the “Intercountry Adoption Information Act of 2018”
 ## § 2. Additional information to be included in annual report on intercountry adoptions
 
 - **(a)** *Report elements* Section 104(b) of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914(b)) is amended by adding at the end the following new paragraphs:
-  > - **(9)** A list of countries that established and carried out a policy or law that, with respect to adoptions involving immigration to the United States, regardless of whether the adoptions occurred under the Convention—
-  >   - **(A)** reduced the number of such adoptions; or
-  >   - **(B)** prevented or prohibited such adoptions.
-  > - **(10)** Information on efforts taken with respect to a country listed under paragraph (9) to encourage the resumption of halted or stalled adoption proceedings involving immigration to the United States, regardless of whether the adoptions would have occurred under the Convention.
+  > - **(9)** A list of countries that established or maintained a law or policy that prevented or prohibited adoptions involving immigration to the United States, regardless of whether such adoptions occurred under the Convention.
+  > - **(10)** For each country listed under paragraph (9), the date on which the law or policy was initially implemented.
+  > - **(11)** Information on efforts taken with respect to a country listed under paragraph (9) to encourage the resumption of halted or stalled adoption proceedings involving immigration to the United States, regardless of whether the adoptions would have occurred under the Convention.
+  > - **(12)** Information on any action the Secretary carried out that prevented, prohibited, or halted any adoptions involving immigration to the United States, regardless of whether the adoptions occurred under the Convention.
 
 - **(b)** *Public availability of report* Section 104 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914) is amended by adding at the end the following new subsection:
   > - **(c)** *Public availability of report* The Secretary shall make the information contained in the report required under subsection (a) available to the public on the website of the Department of State.
