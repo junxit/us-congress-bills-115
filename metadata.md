@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2655
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2655
@@ -47,3 +47,4 @@ Small Business Innovation Protection Act of 2017
 - 2018-07-10 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6030-6031)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6030-6031)
+- 2018-07-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
