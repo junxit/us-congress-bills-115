@@ -24,5 +24,5 @@ In this Act:
 - **(2)** *Less developed country* The term less developed country means a country with a low-income economy, lower-middle-income economy, or upper-middle-income economy, as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the “World Bank”).
 - **(3)** *Predecessor authority* The term predecessor authority means authorities repealed by title VI.
 - **(4)** *Qualifying sovereign entity* The term qualifying sovereign entity means—
-  - **(A)** any agency or instrumentality of a foreign state (as defined in section 1603 of title 28, United States Code); and
+  - **(A)** any agency or instrumentality of a foreign state (as defined in section 1603 of title 28, United States Code) that has a purpose that is similar to the purpose of the Corporation as described in section 102(b); and
   - **(B)** any international financial institution (as defined in section 1701(c) of the International Financial Institutions Act (22 U.S.C. 262r(c))).
