@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4537
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4537
@@ -31,10 +31,11 @@ International Insurance Standards Act of 2018
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Young, David [R-IA-3] (Y000066)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ International Insurance Standards Act of 2018
 - 2018-07-10 — Mr. Huizenga moved to suspend the rules and pass the bill, as amended.
 - 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6007-6008)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6007-6008)
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
