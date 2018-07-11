@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5953
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5953
@@ -23,9 +23,10 @@ BUILD Act
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Budd, Ted [R-NC-13] (B001305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ BUILD Act
 - 2018-07-10 — Placed on the Union Calendar, Calendar No. 625.
 - 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-806.
 - 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-806.
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
