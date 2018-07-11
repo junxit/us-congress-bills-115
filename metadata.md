@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1861
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1861
@@ -328,3 +328,4 @@ Larry Doby Congressional Gold Medal Act
 - 2018-07-10 — Mr. Huizenga moved to suspend the rules and pass the bill.
 - 2018-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5998-5999)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5998-5999)
+- 2018-07-11 — Received in the Senate, read twice.
