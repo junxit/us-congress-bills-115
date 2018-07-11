@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `45 days` |
 | Inserted | `30 days` |
+
+### 16 U.S.C. § 823a
+
+> in paragraph (3)(C)(ii), by striking “5” and inserting “40”.
+
+| | |
+|---|---|
+| Removed | `5` |
+| Inserted | `40` |
 
 ## Stated, not applied
 
