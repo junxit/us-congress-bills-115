@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6139
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6139
@@ -20,9 +20,10 @@ Improving Investment Research for Small and Emerging Issuers Act
 
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Improving Investment Research for Small and Emerging Issuers Act
 - 2018-07-10 — Placed on the Union Calendar, Calendar No. 627.
 - 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-808.
 - 2018-07-10 — Reported by the Committee on Financial Services. H. Rept. 115-808.
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
