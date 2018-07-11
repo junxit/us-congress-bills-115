@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5970
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5970
@@ -16,9 +16,10 @@ Modernizing Disclosures for Investors Act
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Modernizing Disclosures for Investors Act
 - 2018-07-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-811.
 - 2018-07-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-811.
 - 2018-07-10 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
