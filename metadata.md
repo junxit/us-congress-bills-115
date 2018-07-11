@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5729
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5729
@@ -45,3 +45,12 @@ Transportation Worker Identification Credential Accountability Act of 2018
 - 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5729)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5729)
 - 2018-07-11 — Received in the Senate, read twice.
+- 2018-07-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5437)
+- 2018-07-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5437)
+- 2018-07-30 — Message on Senate action sent to the House.
+- 2018-08-01 — Presented to President.
+- 2018-08-01 — Presented to President.
+- 2018-08-02 — Became Public Law No: 115-230.
+- 2018-08-02 — Became Public Law No: 115-230.
+- 2018-08-02 — Signed by President.
+- 2018-08-02 — Signed by President.
