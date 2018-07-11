@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5877
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5877
@@ -16,9 +16,10 @@ Main Street Growth Act
 
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Main Street Growth Act
 - 2018-07-10 — Placed on the Union Calendar, Calendar No. 626.
 - 2018-07-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-807.
 - 2018-07-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-807.
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

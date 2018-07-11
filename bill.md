@@ -2,7 +2,7 @@
 legis-num: H.R. 5877
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5877
@@ -35,7 +35,7 @@ This Act may be cited as the “Main Street Growth Act”.
   >       - **(ii)** choose to carry out periodic auctions for the sale of a venture security instead of providing continuous trading of the venture security.
   >   - **(3)** *Treatment of certain exempted securities* A security that is exempt from registration pursuant to section 3(b) of the Securities Act of 1933 shall be exempt from section 12(a) of this title to the extent such securities are traded on a venture exchange, if the issuer of such security is in compliance with—
   >     - **(A)** all disclosure obligations of such section 3(b) and the regulations issued under such section; and
-  >     - **(B)** ongoing disclosure obligations of the applicable venture exchange that are similar to those provided by an issuer under tier 2 of Regulation A (17 C.F.R. 230.251 et seq).
+  >     - **(B)** ongoing disclosure obligations of the applicable venture exchange that are similar to those provided by an issuer under tier 2 of Regulation A (17 CFR 230.251 et seq.).
   >   - **(4)** *Venture securities traded on venture exchanges may not trade on non-venture exchanges* A venture security may not be traded on a national securities exchange that is not a venture exchange during any period in which the venture security is being traded on a venture exchange.
   >   - **(5)** *Rule of construction* Nothing in this subsection may be construed as requiring transactions in venture securities to be effected on a national securities exchange.
   >   - **(6)** *Commission authority to limit certain trading* The Commission may limit transactions in venture securities that are not effected on a national securities exchange as appropriate to promote efficiency, competition, capital formation, and to protect investors.
