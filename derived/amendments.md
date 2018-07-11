@@ -1,7 +1,7 @@
 ---
 measure: H.R. 200
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-62 amendatory instructions. 14 executed, 48 stated and not applied.
+61 amendatory instructions. 15 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -150,6 +150,15 @@ to guess them.
 | Removed | `was no` |
 | Inserted | `is no` |
 
+### 16 U.S.C. § 1861
+
+> Section 311(f)(4) (16 U.S.C. 1861(f)(4)) is amended by striking “pursuant to this section” and all that follows through the end of the sentence and inserting “to enforce and monitor (including electronic monitoring) implementation of that Plan.”.
+
+| | |
+|---|---|
+| Removed | `pursuant to this section` |
+| Inserted | `to enforce and monitor (including electronic monitoring) implementation of that Plan.` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -182,21 +191,14 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1881c` | add-at-end | Section 404 (16 U.S.C. 1881c), as amended by section 207(a) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1852` | add-at-end | Section 302(g)(1)(B) (16 U.S.C. 1852(g)(1)(B)) is amended by adding at the end the following: “Each scientific and statistical committee shall develop such advice in a transparent manner and allow for public involvement in the process.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1852` | add-at-end | Section 302(i)(2) (16 U.S.C. 1852(i)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1853` | redesignate | in subsection (a), by striking paragraph (9) and redesignating paragraphs (10) through (15) as paragraphs (9) through (14), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1853` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | add-at-end | Section 304(a)(2) (16 U.S.C. 1854(a)(2)) is amended by striking “and” after the semicolon at the end of subparagraph (B), striking the period at the end of subparagraph (C) and inserting “; and”, and by adding at the end the following: | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `16 U.S.C. § 1854` | replace | Section 304(b) (16 U.S.C. 1854(b)) is amended by striking so much as precedes subparagraph (A) of paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1855` | insert | Section 305(e) (16 U.S.C. 1855(e)) is amended by inserting “the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.),” after “the Regulatory Flexibility Act (5 U.S.C. 601 et seq.),”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1854` | amend | by amending subparagraph (A)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1854` | redesignate | by striking “and” after the semicolon at the end of subparagraph (B), by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), and by inserting after subparagraph (A) the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1854` | redesignate | by striking the period at the end of subparagraph (D) (as so redesignated) and inserting “; and”, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1854` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1867` | add-at-end | in subsection (a), by inserting “(1)” before the first sentence, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1867` | replace | in paragraph (1), by striking “including” and all that follows and inserting the following: “including— | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1883` | replace | Section 407 (16 U.S.C. 1883) is amended by striking all after the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1856` | add-at-end | Section 306(b) (16 U.S.C. 1856(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1431` | insert | The Act is amended by inserting after section 4 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1431` | insert | The table of contents in the first section is amended by inserting after the item relating to section 3 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1883` | amend | Section 407 (16 U.S.C. 1883) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1883` | replace | The table of contents in the first section is amended by striking the item relating to section 407 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1861a` | insert | by inserting “(A)” after “(1)”; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1861a` | redesignate | by redesignating existing subparagraphs (A) through (C) as clauses (i) through (iii), respectively, of subparagraph (A) (as designated by the amendment made by paragraph (1)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1861a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -204,6 +206,11 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1856` | strike | by striking “on August 1, 1996”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1851` | amend | Section 210(e)(1) of the American Fisheries Act (title II of division C of Public Law 105–277; 16 U.S.C. 1851 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1862` | add-at-end | Section 313 (16 U.S.C. 1862) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1851` | strike | Subsection (c) of section 803 of division B of the Consolidated Appropriations Act, 2004 (Public Law 108–199, 16 U.S.C. 1851 note) is amended by striking “during the years 2004 through 2008”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1855` | amend | Section 305(i)(1)(G)(iv) (16 U.S.C. 1855(i)(1)(G)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1857` | replace | by striking “It is unlawful—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1857` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | insert | Section 3(10) (16 U.S.C. 1802) is amended by inserting “, except that such term shall not include any area previously covered by land or a fresh water environment in a State where the average annual land loss of such State during the 20 … | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | insert | by inserting a comma after “feeding”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | insert | by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1851` | add-at-end | Title III of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1851` | add-at-end | The table of contents in the first section of such Act is amended by adding at the end of the items relating to title III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
