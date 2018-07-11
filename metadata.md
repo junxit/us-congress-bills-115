@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5626
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5626
@@ -27,9 +27,10 @@ Intercountry Adoption Information Act of 2018
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Intercountry Adoption Information Act of 2018
 - 2018-07-10 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6015)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6015)
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
