@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1861
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1861
@@ -329,3 +329,12 @@ Larry Doby Congressional Gold Medal Act
 - 2018-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5998-5999)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5998-5999)
 - 2018-07-11 — Received in the Senate, read twice.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S7332)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7332)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-17 — Became Public Law No: 115-322.
+- 2018-12-17 — Became Public Law No: 115-322.
+- 2018-12-17 — Signed by President.
+- 2018-12-17 — Signed by President.
