@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2786
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,3 +18,4 @@ Section 30(a) of the Federal Power Act (16 U.S.C. 823a(a)) is amended—
   - **(A)** in clause (i), by adding “and” after the semicolon;
   - **(B)** by striking clause (ii); and
   - **(C)** by redesignating clause (iii) as clause (ii).
+- **(2)** in paragraph (3)(C)(ii), by striking “5” and inserting “40”.
