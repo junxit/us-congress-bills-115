@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2075
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2075
 
-> To adjust the eastern boundary of the Deschutes Canyon-Steelhead Falls Wilderness Study Area in the State of Oregon to facilitate fire prevention and response activities in order to protect adjacent private property, and for other purposes.
+> To adjust the eastern boundary of the Deschutes Canyon-Steelhead Falls and Deschutes Canyon Wilderness Study Areas in the State of Oregon to facilitate fire prevention and response activities to protect private property, and for other purposes.
 
 ## § 1. Short title
 

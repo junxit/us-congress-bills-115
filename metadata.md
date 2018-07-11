@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2075
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2075
@@ -31,3 +31,10 @@ Crooked River Ranch Fire Protection Act
 - 2017-08-29 — Placed on the Union Calendar, Calendar No. 201.
 - 2017-08-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-281.
 - 2017-08-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-281.
+- 2018-07-11 — Considered under suspension of the rules. (consideration: CR H6067-6069)
+- 2018-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2075.
+- 2018-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-11 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6067-6068)
+- 2018-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6067-6068)
+- 2018-07-11 — The title of the measure was amended. Agreed to without objection.
