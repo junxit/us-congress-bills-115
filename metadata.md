@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2259
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2259
@@ -105,3 +105,12 @@ Sam Farr and Nick Castle Peace Corps Reform Act of 2018
 - 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6019-6022)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6019-6022)
 - 2018-07-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
+- 2018-09-24 — Passed Senate without amendment by Voice Vote. (consideration: CR S6280)
+- 2018-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6280)
+- 2018-09-25 — Message on Senate action sent to the House.
+- 2018-09-28 — Presented to President.
+- 2018-09-28 — Presented to President.
+- 2018-10-09 — Became Public Law No: 115-256.
+- 2018-10-09 — Became Public Law No: 115-256.
+- 2018-10-09 — Signed by President.
+- 2018-10-09 — Signed by President.
