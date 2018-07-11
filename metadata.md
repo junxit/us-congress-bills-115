@@ -1,7 +1,7 @@
 ---
 measure: S. 1646
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1646
@@ -28,3 +28,8 @@ President Street Station Study Act
 
 - 2017-07-27 — Introduced in Senate
 - 2017-07-27 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2018-07-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment and an amendment to the title. With written report No. 115-296.
+- 2018-07-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment and an amendment to the title. With written report No. 115-296.
+- 2018-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
