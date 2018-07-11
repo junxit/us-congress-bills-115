@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 41
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 41
@@ -33,8 +33,15 @@ A concurrent resolution recognizing 100 years of the United States-Australia rel
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2018-07-10 — Introduced in Senate
 - 2018-07-10 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4880; text: CR S4879)
 - 2018-07-10 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4880; text: CR S4879)
+- 2018-07-11 — Message on Senate action sent to the House.
+- 2018-07-11 — Received in the House.
+- 2018-07-11 — Referred to the House Committee on Foreign Affairs.

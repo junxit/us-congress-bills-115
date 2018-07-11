@@ -2,12 +2,12 @@
 legis-num: S. CON. RES. 41
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. CON. RES. 41
 
-> Recognizing 100 years of the United States-Australia relationship — 100 years of Mateship.
+> Recognizing 100 years of the United States-Australia relationship—100 years of Mateship.
 
 ## Preamble
 
