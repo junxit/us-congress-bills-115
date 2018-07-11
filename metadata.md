@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1700
@@ -20,9 +20,10 @@ SCORE for Small Business Act of 2018
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ SCORE for Small Business Act of 2018
 - 2018-07-10 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6028-6029)
 - 2018-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6028-6029)
+- 2018-07-11 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
