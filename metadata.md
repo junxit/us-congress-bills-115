@@ -1,7 +1,7 @@
 ---
 measure: H.R. 995
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 995
@@ -55,3 +55,8 @@ version: Referred in Senate
 - 2017-11-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-427, Part I.
 - 2017-11-28 — The title of the measure was amended. Agreed to without objection.
 - 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-07 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-502.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2018-07-12 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments and an amendment to the title. With written report No. 115-300.
+- 2018-07-12 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments and an amendment to the title. With written report No. 115-300.
+- 2018-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.
