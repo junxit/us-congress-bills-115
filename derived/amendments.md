@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-89 amendatory instructions. 24 executed, 65 stated and not applied.
+90 amendatory instructions. 24 executed, 66 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -314,3 +314,4 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3001` | strike | in section 206, by striking “(a)”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3001` | strike | in section 207, by striking “(c)”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3001` | redesignate | by redesignating section 411 as section 312; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881f` | insert | Section 707(b)(1)(G)(ii) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881f(b)(1)(G)(ii)) is amended by inserting before the semicolon the following: “, including whether disciplinary actions were taken as a result of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
