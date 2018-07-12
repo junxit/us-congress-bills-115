@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 558
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 558
@@ -38,3 +38,7 @@ A resolution designating July 30, 2018, as "National Whistleblower Appreciation 
 
 - 2018-06-28 — Introduced in Senate
 - 2018-06-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4741-4742)
+- 2018-07-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-07-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4955)
+- 2018-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4955)
