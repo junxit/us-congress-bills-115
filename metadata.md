@@ -1,7 +1,7 @@
 ---
 measure: H.R. 200
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 200
@@ -30,9 +30,10 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - Rep. Scott, Austin [R-GA-8] (S001189)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (2)
 
@@ -150,3 +151,4 @@ Strengthening Fishing Communities and Increasing Flexibility in Fisheries Manage
 - 2018-07-11 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-07-11 — The previous question was ordered pursuant to the rule.
 - 2018-07-11 — UNANIMOUS CONSENT REQUEST - Mr. Young (AK) asked unanimous consent that the engrossment of the bill, H.R. 200, the Clerk be authorized to make technical corrections and conforming changes to the bill. The technical corrections was place at the desk and reads as follows: Page 14, line 15, strike '''including'''. Agreed to without objection.
+- 2018-07-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
