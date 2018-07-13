@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 2 U.S.C. § 1571
 
-> by striking “sections 202 and 203(a)(1) and (2)” each place it appears and inserting “sections 201, 202, 203(a) (1) and (2), and 205 (a) and (b)”; and
+> by striking “sections 202 and 203(a)(1) and (2)” each place it appears and inserting “sections 201, 202, 203(a)(1) and (2), and 205(a) and (b)”; and
 
 | | |
 |---|---|
 | Removed | `sections 202 and 203(a)(1) and (2)` |
-| Inserted | `sections 201, 202, 203(a) (1) and (2), and 205 (a) and (b)` |
+| Inserted | `sections 201, 202, 203(a)(1) and (2), and 205(a) and (b)` |
 
 ## Stated, not applied
 
@@ -120,6 +120,6 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1511` | redesignate | by redesignating section 209 as section 210; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1511` | insert | by inserting after section 208 the following new section 209: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1571` | strike | by striking “only” each place it appears; | the bill quotes the text struck but describes what replaces it |
-| `2 U.S.C. § 1571` | replace | in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a) (1) and (2), or comply with section 205 (a) and (b… | the bill quotes the text struck but describes what replaces it |
-| `2 U.S.C. § 1571` | replace | in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a) (1) and (2), or complia… | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1571` | replace | in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a)(1) and (2), or comply with section 205(a) and (b),… | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1571` | replace | in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a)(1) and (2), or complian… | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1516` | amend | Section 109 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1516) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

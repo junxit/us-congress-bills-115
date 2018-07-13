@@ -110,11 +110,12 @@ Section 204 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1534) is amend
   >   - **(1)** Consultations shall take place as early as possible, before issuance of a notice of proposed rulemaking, continue through the final rule stage, and be integrated explicitly into the rulemaking process.
   >   - **(2)** Agencies shall consult with a wide variety of State, local, and tribal officials and impacted parties within the private sector (including small businesses). Geographic, political, and other factors that may differentiate varying points of view should be considered.
   >   - **(3)** Agencies should estimate benefits and costs to assist with these consultations. The scope of the consultation should reflect the cost and significance of the Federal mandate being considered.
-  >   - **(4)** Agencies shall, to the extent practicable—
+  >   - **(4)** A record of any consultation with any non-Federal party during the development of regulatory proposals containing a significant Federal mandate shall be posted on the website of the agency within five days after the consultation. Any comments submitted by a non-Federal party shall be posted on the website of the agency within five days after the date of submission to the agency.
+  >   - **(5)** Agencies shall, to the extent practicable—
   >     - **(A)** seek out the views of State, local, and tribal governments, and impacted parties within the private sector (including small business), on costs, benefits, and risks; and
   >     - **(B)** solicit ideas about alternative methods of compliance and potential flexibilities, and input on whether the Federal regulation will harmonize with and not duplicate similar laws in other levels of government.
-  >   - **(5)** Consultations shall address the cumulative impact of regulations on the affected entities.
-  >   - **(6)** Agencies may accept electronic submissions of comments by relevant parties but may not use those comments as the sole method of satisfying the guidelines in this subsection.
+  >   - **(6)** Consultations shall address the cumulative impact of regulations on the affected entities.
+  >   - **(7)** Agencies may accept electronic submissions of comments by relevant parties but may not use those comments as the sole method of satisfying the guidelines in this subsection.
 
 ## § 11. New authorities and responsibilities for Office of Information and Regulatory Affairs
 
@@ -148,7 +149,15 @@ The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 1511 et s
 Section 401(a) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1571(a)) is amended—
 
 - **(1)** in paragraphs (1) and (2)(A)—
-  - **(A)** by striking “sections 202 and 203(a)(1) and (2)” each place it appears and inserting “sections 201, 202, 203(a) (1) and (2), and 205 (a) and (b)”; and
+  - **(A)** by striking “sections 202 and 203(a)(1) and (2)” each place it appears and inserting “sections 201, 202, 203(a)(1) and (2), and 205(a) and (b)”; and
   - **(B)** by striking “only” each place it appears;
-- **(2)** in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a) (1) and (2), or comply with section 205 (a) and (b), a court may compel the agency to prepare such written statement, prepare such written plan, or comply with such section.”; and
-- **(3)** in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a) (1) and (2), or compliance with sections 201 and 205 (a) and (b) is required, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepare any estimate, analysis, statement, or description), to prepare such written plan, or to comply with such section may”.
+- **(2)** in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a)(1) and (2), or comply with section 205(a) and (b), a court may compel the agency to prepare such written statement, prepare such written plan, or comply with such section.”; and
+- **(3)** in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a)(1) and (2), or compliance with sections 201 and 205(a) and (b) is required, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepare any estimate, analysis, statement, or description), to prepare such written plan, or to comply with such section may”.
+
+## § 14. Reauthorization
+
+Section 109 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1516) is amended to read as follows:
+
+> ## § 109. Authorization of appropriations
+>
+> There are authorized to be appropriated to the Congressional Budget Office $1,500,000 for each of fiscal years 2018 through 2024 to carry out the provisions of this title.
