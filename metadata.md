@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4032
@@ -33,3 +33,12 @@ Gila River Indian Community Federal Rights-of-Way, Easements and Boundary Clarif
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Introduced in House
 - 2017-10-12 — Referred to the House Committee on Natural Resources.
+- 2017-10-16 — Referred to the Subcommittee on Federal Lands.
+- 2017-10-16 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2018-02-06 — Subcommittee Hearings Held.
+- 2018-05-08 — Committee Consideration and Mark-up Session Held.
+- 2018-05-08 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-05-08 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2018-07-13 — Placed on the Union Calendar, Calendar No. 633.
+- 2018-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-817.
+- 2018-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-817.

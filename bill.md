@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4032
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,19 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Gila River Indian Community Federal Rights-of-Way, Easements and Boundary Clarification Act”.
 
-## § 2. Findings
-
-Congress finds as follows:
-
-- **(1)** The Community has filed suit against the United States for an accounting of its Tribal trust resources and Tribal trust funds in Gila River Indian Community v. Jewell, No. 06–2249 (D.D.C. filed Dec. 29, 2006).
-- **(2)** The United States and the Community entered into a settlement for certain of the claims encompassed in this suit.
-- **(3)** The Bureau of Indian Affairs has indicated its support for this Act providing non-monetary relief regarding certain allegedly undocumented Federal rights-of-way on the Reservation, confirming the northern boundary of the Reservation, providing trust status for certain identified lands, and any other matters that the Community and the United States deem to be appropriate.
-- **(4)** Lands to be taken into trust pursuant to this Act are of historic and cultural significance to the Community, its members, and allottees.
-- **(5)** The uncertainty created by the inability to locate legal documentation to substantiate numerous Federal rights-of-way or easements on the Reservation is creating obstacles to the Community’s ability to fulfill its obligations under the Arizona Water Settlements Act and to plan for and undertake economic development on the Reservation.
-- **(6)** There is benefit to the Community, its members, and allottees by establishing legal documentation to substantiate numerous Federal rights-of-way on the Reservation.
-- **(7)** There is benefit to both the Community and non-Indian owners of land adjacent to the Reservation by providing a fixed boundary for the northern boundary of the Reservation.
-
-## § 3. Purposes
+## § 2. Purposes
 
 The purposes of this Act are to—
 
@@ -35,7 +23,7 @@ The purposes of this Act are to—
 - **(4)** substitute the benefits provided under this Act to the Community, its members and allottees for any claims that the Community, its members and allottees may have had in connection with alleged failures relating to the northern boundary of the Reservation and the documentation and management of Federal rights-of-way on the Reservation; and
 - **(5)** authorize the funds necessary for the United States to meet the obligations under this Act.
 
-## § 4. Definitions
+## § 3. Definitions
 
 In this Act:
 
@@ -58,7 +46,7 @@ In this Act:
 - **(9)** *Row, easements, and Federal and Tribal facilities map* The term ROW, Easements, and Federal and Tribal Facilities Map means the map depicting the Federal rights-of-way, easements, and Federal and Tribal facilities that exist within the exterior boundaries of the Reservation on the date of enactment of this Act, which map is submitted to Congress as part of the Congressional record accompanying this Act.
 - **(10)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 5. Land into trust for benefit of the community
+## § 4. Land into trust for benefit of the community
 
 - **(a)** *In general* The Secretary shall take the Lower Sonoran Lands into trust for the benefit of the Community, after the Community—
   - **(1)** conveys to the Secretary all right, title, and interest of the Community in and to the Lower Sonoran Lands;
@@ -70,7 +58,7 @@ In this Act:
 - **(d)** *Gaming* Class II and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be allowed at any time on the land taken into trust under subsection (a).
 - **(e)** *Description* Not later than 180 days after the date of enactment of this Act, the Secretary shall cause the full metes-and-bounds description of the Lower Sonoran Lands to be published in the Federal Register. The description shall, on publication, constitute the official description of the Lower Sonoran Lands.
 
-## § 6. Establishment of fixed northern boundary
+## § 5. Establishment of fixed northern boundary
 
 - **(a)** *In general* The Northern boundary of the Reservation created by the Executive Order is hereby modified in accordance with this section and shall be fixed, permanent, and not ambulatory.
 - **(b)** *Modification of north boundary* That portion of the Reservation boundary created by the Executive Order as along the middle of the Salt River shall be modified to be a fixed and permanent boundary as established by the Harrington Survey of the north boundary of the Reservation, as shown on the plat and described in the field notes.
@@ -78,9 +66,9 @@ In this Act:
 - **(d)** *Effect* The Reservation boundary as modified and resurveyed by subsections (b) and (c) shall become the north boundary of the Reservation in all respects and upon all the same terms as if such lands had been included in the Executive Order. No other portion of the Reservation boundary shall be affected by this Act except as specifically set forth in this Act.
 - **(e)** *Publication* The Secretary shall publish in the Federal Register this modification and the resurvey of the Community’s reservation boundary, as set forth in subsections (b) and (c), which shall constitute the fixed northern boundary of the Reservation.
 
-## § 7. Satisfaction and substitution of claims
+## § 6. Satisfaction and substitution of claims
 
-- **(a)** *Intent of congress* It is the intent of Congress to provide to the Community, its members, and allottees benefits that are equivalent to or exceed the benefits the Community, its members, and allottees may possess as of the date of the enactment of this Act, taking into consideration—
+- **(a)** *Intent of congress* It is the intent of Congress to provide to the Community, its members, and allottees benefits that are equivalent to or exceed the claims the Community, its members, and allottees may possess as of the date of the enactment of this Act, taking into consideration—
   - **(1)** the potential risks, cost, and time delay associated with litigation;
   - **(2)** the cultural and historic significance of the Lower Sonoran Lands to the Community, its members, and allottees;
   - **(3)** the benefit to the Community, its members, and allottees associated with having a fixed northern boundary of the Reservation;
@@ -90,30 +78,24 @@ In this Act:
   - **(1)** relating to the United States alleged failure to legally establish and document Federal rights-of-way on the Reservation through the date of enactment of this Act; and
   - **(2)** for the United States alleged failure to establish, maintain and defend the Community’s northern boundary of the Reservation through the date of the enactment of this Act.
 - **(c)** *Effective date* This section shall become effective on the later of the date on which the Secretary—
-  - **(1)** publishes in the Federal Register the notice required under section 5(a)(4);
-  - **(2)** publishes in the Federal Register the notice required under section 6(e); and
+  - **(1)** publishes in the Federal Register the notice required under section 4(e);
+  - **(2)** publishes in the Federal Register the notice required under section 5(e); and
   - **(3)** completes the surveys for the Federal rights-of-way required under this Act.
 
-## § 8. Federal Rights-of-way
+## § 7. Federal Rights-of-way
 
-- **(a)** *Established, ratified, and confirmed* All of the rights-of-way depicted in the ROW, Easements, and Federal and Tribal Facilities Map accompanying this Act are hereby established, ratified, and confirmed. The specific position and dimensions of such rights-of-way are to be determined following a survey conducted in accordance with section 9.
-- **(b)** *Grantee or applicant* The Federal Government shall be considered the grantee or applicant for any and all rights-of-way established pursuant to this Act.
-- **(c)** *Termination* Any rights-of-way established by this Act may be terminated pursuant to section 169.20 of title 25, Federal Code of Regulations, or upon written request by the Community to the Secretary to remove the rights-of-way from the ROW, Easements, and Federal and Tribal Facilities Map subject to otherwise applicable law regarding rights-of-way on the Reservation.
-- **(d)** *Other interests in land* Notwithstanding any law, the granting of any rights-of-way or easement other than those depicted in the ROW, Easements, and Federal and Tribal Facilities Map accompanying this Act, or any future additions, expansions or modifications of any of the rights-of-way or easement established, ratified, and confirmed in subsection (a), may only be done in accordance with all applicable laws and regulations. All other rights-of-ways or easements on the Reservation shall be valid only to the extent that they have been established in accordance with applicable Federal statute and regulation specifically governing rights-of-ways or easements on Indian lands.
+- **(a)** *Established, ratified, and confirmed* All of the rights-of-way depicted in the ROW, Easements, and Federal and Tribal Facilities Map accompanying this Act are hereby established, ratified, and confirmed. The specific position and dimensions of such rights-of-way are to be determined following a survey conducted in accordance with section 8.
+- **(b)** *Recordation* All of the rights-of-way established, ratified, and confirmed in subsection (a) shall be recorded with the Land Titles and Records Office following each survey conducted in accordance with section 8.
+- **(c)** *Grantee or applicant* The Federal Government shall be considered the grantee or applicant for any and all rights-of-way established pursuant to this Act.
+- **(d)** *Cancellation* Any rights-of-way established by this Act may be cancelled pursuant to sections 404–409 of title 25, Federal Code of Regulations, or upon written request by the Community to the Secretary to remove the rights-of-way from the ROW, Easements, and Federal and Tribal Facilities Map subject to otherwise applicable law regarding rights-of-way on the Reservation. Any request for cancellation action by the Community shall be formally documented by tribal resolution.
+- **(e)** *Other interests in land* Notwithstanding any law, the granting of any rights-of-way or easement other than those depicted in the ROW, Easements, and Federal and Tribal Facilities Map accompanying this Act, or any future additions, expansions or modifications of any of the rights-of-way or easement established, ratified, and confirmed in subsection (a), may only be done in accordance with all applicable laws and regulations. All other rights-of-ways or easements on the Reservation shall be valid only to the extent that they have been established in accordance with applicable Federal statute and regulation specifically governing rights-of-ways or easements on Indian lands.
 
-## § 9. Survey
+## § 8. Survey
 
-- **(a)** *Completion and publication* Not later than 6 years after the date of the enactment of this Act, the Bureau of Indian Affairs shall undertake and complete a survey of each of the Federal rights-of-way established under this Act. The Bureau of Indian Affairs shall cause the surveys undertaken pursuant to this Act to be published in the Federal Register.
+- **(a)** *Completion and publication* Not later than 6 years after the date of the enactment of this Act, the Bureau of Indian Affairs shall undertake and complete a survey of each of the Federal rights-of-way established under this Act. A retroactive grant of easement shall be required upon completion of each survey of each of the Federal rights-of-way established under this Act. The Bureau of Indian Affairs shall cause the surveys undertaken pursuant to this Act to be published in the Federal Register.
 - **(b)** *Contract* The Bureau of Indian Affairs is authorized, subject to appropriations, to contract for the survey of all Federal rights-of-way established pursuant to this Act to the Community or a third party.
 - **(c)** *Deletions* Upon completion of the surveys authorized and undertaken pursuant to subsection (a), the Community and the Bureau of Indian Affairs may determine that anomalies exist with respect to certain Federal rights-of-way such that deletion of such Federal right-of-way from the ROW, Easements, and Federal and Tribal Facilities Map is appropriate and such Federal right-of-way may be removed from the ROW, Easements, and Federal Tribal Facilities Map.
 
-## § 10. Authorization of appropriations
-
-Subject to available appropriations, there are authorized to be appropriated such sums as are necessary for the Secretary to—
-
-- **(1)** take actions required or authorized by this Act; and
-- **(2)** undertake the surveys authorized herein of all Federal electrical, road, and irrigation rights-of-ways and easements depicted on the ROW, Easements, and Federal and Tribal Facilities Map accompanying this Act.
-
-## § 11. Hunt highway
+## § 9. Hunt highway
 
 Nothing in this Act shall establish, terminate, or otherwise impact any right-of-way or easement associated with Hunt Highway in Pinal County, Arizona, including the portion of Hunt Highway that traverses the Reservation.
