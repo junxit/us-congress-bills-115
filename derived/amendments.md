@@ -1,7 +1,7 @@
 ---
 measure: S. 899
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 7423` | insert | Subchapter II of chapter 74 of title 38, United States Code, is amended by inserting after section 7423 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 7423` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 7423` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 7423` | insert | The table of sections at the beginning of chapter 74 of such title is amended by inserting after the item relating to section 7423 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 6329(d)(1) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: S. 899
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 899
@@ -42,3 +42,10 @@ Veterans Providing Healthcare Transition Improvement Act
 - 2018-03-21 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-03-21 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-03-21 — Referred to the Subcommittee on Economic Opportunity.
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6213-6215)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on S. 899.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill, as amended.
+- 2018-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6213-6214)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6213-6214)
+- 2018-07-16 — The title of the measure was amended. Agreed to without objection.
