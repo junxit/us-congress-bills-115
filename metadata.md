@@ -1,7 +1,7 @@
 ---
 measure: S. 899
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 899
@@ -49,3 +49,13 @@ Veterans Providing Healthcare Transition Improvement Act
 - 2018-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6213-6214)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6213-6214)
 - 2018-07-16 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-17 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2018-08-22 — Resolving differences -- Senate actions: Senate agreed to the House amendments to the Senate bill by Unanimous Consent.(consideration: CR S5869)
+- 2018-08-22 — Senate agreed to the House amendments to the Senate bill by Unanimous Consent. (consideration: CR S5869)
+- 2018-08-23 — Message on Senate action sent to the House.
+- 2018-08-28 — Presented to President.
+- 2018-08-28 — Presented to President.
+- 2018-09-07 — Became Public Law No: 115-238.
+- 2018-09-07 — Became Public Law No: 115-238.
+- 2018-09-07 — Signed by President.
+- 2018-09-07 — Signed by President.
