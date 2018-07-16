@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4960
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4960
@@ -30,8 +30,22 @@ To designate the facility of the United States Postal Service located at 511 Eas
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2018-07-16 — [House 115-2-330](votes/house-115-2-0330.md) — On Motion to Suspend the Rules and Pass — **Passed** (368–0)
+
 ## Actions
 
 - 2018-02-07 — Introduced in House
 - 2018-02-07 — Introduced in House
 - 2018-02-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-03-15 — Committee Consideration and Mark-up Session Held.
+- 2018-03-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-07-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-16 — Considered as unfinished business. (consideration: CR H6243-6244)
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6211-6212)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4960.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 330). (text: CR H6211)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 330).(text: CR H6211)
