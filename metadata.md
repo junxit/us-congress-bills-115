@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4407
@@ -45,3 +45,11 @@ An act to designate the facility of the United States Postal Service located at 
 - 2017-11-15 — Introduced in House
 - 2017-11-15 — Introduced in House
 - 2017-11-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-05-23 — Committee Consideration and Mark-up Session Held.
+- 2018-05-23 — Ordered to be Reported by Unanimous Consent.
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6205-6206)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4407.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6205)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6205)
