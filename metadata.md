@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3281
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3281
@@ -20,9 +20,10 @@ Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act
 
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act
 - 2018-07-12 — Rule provides for consideration of H.R. 50 and H.R. 3281. Rule provides for consideration of H.R. 50 under a structured rule and H.R.3281 under a closed rule. Each measure is allowed one motion to recommit with or without instructions.
 - 2018-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-07-12 — The previous question was ordered pursuant to the rule.
+- 2018-07-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
