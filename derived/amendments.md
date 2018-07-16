@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4446
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in section 4, by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in section 7(b), by striking “January 31, 2018” and inserting “January 31, 2019”; | the bill names no machine-readable US Code section |
-| — | replace | in section 10, by striking “September 30, 2018” and inserting “September 30, 2019”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking section 11. | the bill names no machine-readable US Code section |
+| — | replace | in section 7(b), by striking “January 31, 2018” and inserting “January 31, 2019”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 10, by striking “September 30, 2018” and inserting “September 30, 2019”. | the bill names no machine-readable US Code section |
