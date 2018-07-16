@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 386
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 386
@@ -38,3 +38,5 @@ A resolution urging the Government of the Democratic Republic of the Congo to fu
 - 2018-05-24 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2018-05-24 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2018-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
+- 2018-07-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S4967-4968; text: CR S4968)
+- 2018-07-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S4967-4968; text: CR S4968)
