@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4890
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4890
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 9801 Ap
 - 2018-01-29 — Introduced in House
 - 2018-01-29 — Introduced in House
 - 2018-01-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-03-15 — Committee Consideration and Mark-up Session Held.
+- 2018-03-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-07-16 — Considered under suspension of the rules. (consideration: CR H6202-6203)
+- 2018-07-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4890.
+- 2018-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6202)
+- 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6202)
