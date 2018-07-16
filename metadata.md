@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 50
@@ -24,12 +24,13 @@ Unfunded Mandates Information and Transparency Act of 2018
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Rules Committee
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Unfunded Mandates Information and Transparency Act of 2018
 - 2018-07-13 — The Speaker designated the Honorable Brian J. Mast to act as Chairman of the Committee.
 - 2018-07-13 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-07-13 — The previous question was ordered pursuant to the rule.
+- 2018-07-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
