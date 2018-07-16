@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6237
@@ -136,3 +136,4 @@ Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2
 - 2018-07-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6237.
 - 2018-07-12 — The Speaker designated the Honorable Randy K. Weber, Sr. to act as Chairman of the Committee.
 - 2018-07-12 — The previous question was ordered pursuant to the rule.
+- 2018-07-16 — Received in the Senate.
