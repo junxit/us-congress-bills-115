@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5554
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 20 executed, 24 stated and not applied.
+60 amendatory instructions. 26 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -204,6 +204,60 @@ to guess them.
 | Removed | `; or` |
 | Inserted | `;` |
 
+### 21 U.S.C. § 360ccc
+
+> in the section heading, by striking “species” and inserting “species and certain new animal drugs”;
+
+| | |
+|---|---|
+| Removed | `species` |
+| Inserted | `species and certain new animal drugs` |
+
+### 21 U.S.C. § 360ccc
+
+> in subparagraph (B), by striking “, or” and inserting “; or”;
+
+| | |
+|---|---|
+| Removed | `, or` |
+| Inserted | `; or` |
+
+### 21 U.S.C. § 360ccc
+
+> by striking “A person may not file” and inserting “(A) A person may not file”; and
+
+| | |
+|---|---|
+| Removed | `A person may not file` |
+| Inserted | `(A) A person may not file` |
+
+### 21 U.S.C. § 360ccc
+
+> by striking “An intended use” and inserting “The Secretary shall, through regulation or guidance, determine under what conditions an intended use”; and
+
+| | |
+|---|---|
+| Removed | `An intended use` |
+| Inserted | `The Secretary shall, through regulation or guidance, determine under what conditions an intended use` |
+
+### 21 U.S.C. § 360ccc
+
+> by striking “shall not” and inserting “may”; and
+
+| | |
+|---|---|
+| Removed | `shall not` |
+| Inserted | `may` |
+
+### 21 U.S.C. § 379j-12
+
+> in the caption by striking “Exception” and inserting “Exceptions”;
+
+| | |
+|---|---|
+| Removed | `Exception` |
+| Inserted | `Exceptions` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -237,3 +291,13 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360ccc-1` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 352` | replace | in subparagraph (2), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 352` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360ccc` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360ccc` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360ccc` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360ccc` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “for the conditionally approved use” after “shall”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 360ccc` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-12` | replace | by striking “If an animal drug” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 379j-12` | insert | by inserting after clause (i), as so designated, the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 348` | add-at-end | Section 409 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 348) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 2102` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 2102` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
