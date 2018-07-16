@@ -42,7 +42,3 @@ This Act may be cited as the “Good Accounting Obligation in Government Act” 
     - **(C)** The Securities and the Security and Exchange Commission.
     - **(D)** Any additional agency determined by the Comptroller General.
   - **(3)** *Semiannual report* The term “semiannual report” means the semiannual report submitted to Congress by each Inspector General under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).
-
-## § 3. No additional funds authorized
-
-No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
