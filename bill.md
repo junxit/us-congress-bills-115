@@ -22,7 +22,7 @@ This Act may be cited as the “Promoting Flood Risk Mitigation Act”.
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate;
     - **(C)** the Committee on Financial Services of the House of Representatives; and
     - **(D)** the Committee on Transportation and Infrastructure of the House of Representatives;
-  - **(3)** the terms buyout practice and buyout program mean a practice or program, as applicable, under which the Administrator provides assistance to State and local governments so that those entities may acquire flood-damaged properties;
+  - **(3)** the terms buyout practice and buyout program mean a practice or program, as applicable, under which the Administrator provides assistance to State and local governments so that those entities may acquire flood-damaged properties committed to open space use in perpetuity in accordance with section 404(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(b)(2));
   - **(4)** the term eligible property owner means a policyholder under the National Flood Insurance Program with a household income that is not more than 120 percent of the mean household income for the community in which the primary residence of the policyholder is located;
   - **(5)** the term National Flood Insurance Program means the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
   - **(6)** the term repetitive loss structure has the meaning given the term in section 1370(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4121(a)); and
@@ -52,7 +52,7 @@ This Act may be cited as the “Promoting Flood Risk Mitigation Act”.
         - **(I)** financial assistance to State and local governments that are willing to participate in the program to purchase and acquire the properties of owners that have incurred substantial damage from a flood event; and
         - **(II)** a premium credit as an incentive to eligible property owners to agree to participate in the program;
       - **(iii)** properties that are acquired—
-        - **(I)** shall be maintained as open space in accordance with buyout practices that are in effect as of the date on which the property is acquired; and
+        - **(I)** shall be maintained as open space in accordance with section 404(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(b)(2)); and
         - **(II)** may be used for non-structural mitigation, conservation, and recreational purposes; and
       - **(iv)** not fewer than 5 and not more than 10 State and local governments shall participate; and
     - **(B)** the role that nonprofit organizations could play in making buyouts more readily available or more efficient, similar to the role that those organizations play in the acquisition of properties for conservation purposes.
@@ -62,6 +62,7 @@ This Act may be cited as the “Promoting Flood Risk Mitigation Act”.
       - **(i)** examples in which ecosystem restoration and other nature-based approaches have enhanced the reduction of flood risk; and
       - **(ii)** recommendations for best practices.
   - **(6)** To the extent possible, an assessment of how the Administrator may use buyout programs to reduce future flood disaster recovery costs that are attributable to future projections of flood risk as a result of sea level rise, population changes, subsidence, and other factors.
+  - **(7)** A cost-benefit analysis of mitigation and buy-out projects and programs, including an assessment of opportunities and challenges for leveraging different Federal resources and funding to maximize the value of Federal investment in disaster mitigation.
 - **(d)** *Report*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to the appropriate committees of Congress and the Administrator a report that sets forth the analysis, conclusions, and recommendations resulting from the study conducted under subsection (b).
   - **(2)** *Contents* The report submitted under paragraph (1) shall detail the feasibility of the Administrator establishing, and the processes required for the Administrator to establish, an alternative buyout program, such as the pilot program described in subsection (c)(4)(A).
