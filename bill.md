@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3906
 
-> To direct the Administrator of the Environmental Protection Agency to establish a stormwater infrastructure funding task force, and for other purposes.
+> To establish centers of excellence for innovative stormwater control infrastructure, and for other purposes.
 
 ## § 1. Short title
 
