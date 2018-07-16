@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 66
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -101,14 +101,10 @@ The Commission shall have the following duties:
 - **(a)** *In general* The Secretary of Transportation, in consultation with the Governors referred to in section 5(a), shall prepare a plan on the preservation needs of Route 66.
 - **(b)** *Report to Congress* Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the President a report containing the plan prepared under subsection (a).
 
-## § 10. Budget act compliance
-
-Any spending authority provided under this Act shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
-
-## § 11. Termination
+## § 10. Termination
 
 The Commission shall terminate not later than June 30, 2027.
 
-## § 12. Authorization of appropriations
+## § 11. Clarification regarding funding
 
-There are authorized to be appropriated such sums as may be necessary to carry out this Act.
+No additional funds are authorized to carry out the requirements of this Act. Such requirements may be carried out using amounts otherwise authorized or made available for the Department of Transportation, except for amounts authorized from the Highway Trust Fund.
