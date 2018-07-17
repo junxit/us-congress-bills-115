@@ -2,12 +2,12 @@
 legis-num: H.R. 3076
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3076
 
-> To amend section 552a of title 5, United States Code (commonly referred to as the Privacy Act) to require agencies to accept electronic release forms, and for other purposes.
+> To require the Director of the Office of Management and Budget to issue guidance on electronic consent forms, and for other purposes.
 
 ## § 1. Short title
 
@@ -44,3 +44,7 @@ It is the sense of Congress that—
   - **(1)** *Agency; individual; record* The terms agency, individual, and record have the meanings given those terms in section 552a(a) of title 5, United States Code.
   - **(2)** *Consent identifier* The term consent identifier means a nonproprietary, unique identification number.
   - **(3)** *Director* The term Director means the Director of the Office of Management and Budget.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
