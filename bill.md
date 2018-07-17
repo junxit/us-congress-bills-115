@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 6412
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6412
+
+> To amend the National Labor Relations Act to permit employers to unilaterally cease to deduct from the employee’s paycheck dues owed by the employee to a labor organization when the agreement establishing such a deduction expires and to allow employees to cancel such deductions at any time.
+
+## § 1. Short title
+
+This Act may be cited as the “Employee Freedom Act”.
+
+## § 2. Union dues checkoff arrangements
+
+Section 8(a)(5) of the National Labor Relations Act is amended by inserting before the period the following: “, except that it shall not be a violation of this paragraph or of paragraph (1) where an employer unilaterally ceases to deduct from the employee’s paycheck dues owed by the employee to a labor organization when the agreement establishing such a deduction expires”.
+
+## § 3. Right of employees to cancel dues checkoff at any time
+
+Section 302(c) of the Labor Management Relations Act, 1947, is amended in paragraph (4) by striking the proviso and inserting the following: “Provided, That the employer has received from each employee, on whose account such deductions are made, a written assignment that is revocable at will by the employee, at any time, upon written notice to the employer;”.
