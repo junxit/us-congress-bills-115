@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5105
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5105
@@ -78,3 +78,9 @@ Better Utilization of Investments Leading to Development Act of 2018
 - 2018-07-11 — Placed on the Union Calendar, Calendar No. 631.
 - 2018-07-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-814.
 - 2018-07-11 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-814.
+- 2018-07-17 — Considered under suspension of the rules. (consideration: CR H6320-6333)
+- 2018-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5105.
+- 2018-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6320-6330)
+- 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6320-6330)

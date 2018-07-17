@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5105
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 25 executed, 11 stated and not applied.
+36 amendatory instructions. 26 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 2 U.S.C. § 905
 
-> Section 255(g)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(2)) is amended by striking “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).” and inserting “United States International Development Finance Corporation.”.
+> Section 255(g) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)) is amended by striking “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).” and inserting “United States International Development Finance Corporation.”.
 
 | | |
 |---|---|
@@ -98,7 +98,7 @@ to guess them.
 
 ### 20 U.S.C. § 1131c
 
-> Section 625(a) of the Higher Education Act of 1965 (20 U.S.C. 1131c(a)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
+> Section 625 of the Higher Education Act of 1965 (20 U.S.C. 1131c(a)) is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”.
 
 | | |
 |---|---|
@@ -107,7 +107,7 @@ to guess them.
 
 ### 22 U.S.C. § 2296b
 
-> in section 499B(b)(2) (22 U.S.C. 2296b(b)(2)), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+> in section 449B(b)(2) (22 U.S.C. 2296b(b)(2)), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
 
 | | |
 |---|---|
@@ -134,7 +134,7 @@ to guess them.
 
 ### 22 U.S.C. § 2394c
 
-> in subparagraph (A), by striking “except for” and all that follows through “chapter 3” and inserting “except for chapter 3”;
+> in subparagraph (A), by striking “except for” and all that follows through “chapter 3” and insert “except for chapter 3”;
 
 | | |
 |---|---|
@@ -176,6 +176,15 @@ to guess them.
 |---|---|
 | Removed | `Overseas Private Investment Corporation` |
 | Inserted | `United States International Development Finance Corporation` |
+
+### 22 U.S.C. § 8926
+
+> in the paragraph heading, by striking “Overseas private investment corporation” and inserting “United states international development finance corporation”;
+
+| | |
+|---|---|
+| Removed | `Overseas private investment corporation` |
+| Inserted | `United states international development finance corporation` |
 
 ### 22 U.S.C. § 8926
 
@@ -259,13 +268,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 5313 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 2191` | repeal | title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.) (other tan subsections (g), (l), and (n) of section 237 of that Act) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | repeal | title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2191 et seq.) (other than subsections (g), (l), and (n) of section 237 of that Act) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 905` | strike | in section 5314, by striking “President, Overseas Private Investment Corporation.”; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 905` | strike | in section 5315, by striking “Executive Vice President, Overseas Private Investment Corporation.”; and | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 905` | strike | in section 5316, by striking “Vice Presidents, Overseas Private Investment Corporation (3).”. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2394c` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2394c` | replace | in subparagraph (D), by striking the period at the end and insert “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2394c` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2394c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 5401` | replace | in section 2(c) (22 U.S.C. 5401(c)), by striking paragraph (12) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7102` | amend | Section 103(8)(A) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(8)(A)) is amended by amending clause (viii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2198` | strike | in subparagraph (B), by striking “by eligible investors (as defined in section 238 of the Foreign Assistance Act of 1961 (22 U.S.C. 2198))”. | the bill quotes the text struck but describes what replaces it |
