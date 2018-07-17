@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4446
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4446
@@ -31,9 +31,10 @@ To amend the Virgin Islands of the United States Centennial Commission Act to ex
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To amend the Virgin Islands of the United States Centennial Commission Act to ex
 - 2018-07-16 — Placed on the Union Calendar, Calendar No. 636.
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-822.
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-822.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
