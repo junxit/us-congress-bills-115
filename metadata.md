@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1376
@@ -16,9 +16,10 @@ Electronic Message Preservation Act of 2017
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Electronic Message Preservation Act of 2017
 - 2018-07-16 — Placed on the Union Calendar, Calendar No. 638.
 - 2018-07-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-824.
 - 2018-07-16 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-824.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
