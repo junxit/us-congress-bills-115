@@ -1,18 +1,12 @@
 ---
 legis-num: S. 488
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 488
 
-> To increase the threshold for disclosures required by the Securities and Exchange Commission relating to compensatory benefit plans, and for other purposes.
+That the bill from the Senate (S. 488) entitled “An Act to increase the threshold for disclosures required by the Securities and Exchange Commission relating to compensatory benefit plans, and for other purposes.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Encouraging Employee Ownership Act”.
-
-## § 2. Increased threshold for disclosures relating to compensatory benefit plans
-
-Not later than 60 days after the date of the enactment of this Act, the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000.
+*Strike out all after the enacting clause and insert:*
