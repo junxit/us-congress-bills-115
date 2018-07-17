@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3076
@@ -37,9 +37,10 @@ CASES Act
 - Rep. Gianforte, Greg [R-MT-At Large] (G000584)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ CASES Act
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-826.
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-826.
 - 2018-07-16 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
