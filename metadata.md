@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1482
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1482
@@ -25,3 +25,10 @@ To authorize the Secretary of Agriculture to maintain or replace certain facilit
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Introduced in House
 - 2017-03-09 — Referred to the House Committee on Natural Resources.
+- 2017-03-20 — Referred to the Subcommittee on Federal Lands.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported by Unanimous Consent.
+- 2018-07-11 — Subcommittee on Federal Lands Discharged.
+- 2018-07-17 — Placed on the Union Calendar, Calendar No. 645.
+- 2018-07-17 — Reported by the Committee on Natural Resources. H. Rept. 115-833.
+- 2018-07-17 — Reported by the Committee on Natural Resources. H. Rept. 115-833.
