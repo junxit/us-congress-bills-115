@@ -1,7 +1,7 @@
 ---
 measure: S. 717
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 717
@@ -53,3 +53,13 @@ Pro bono Work to Empower and Represent Act of 2018
 - 2018-07-17 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2018-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6282-6283)
 - 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6282-6283)
+- 2018-07-18 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-08-15 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S5669)
+- 2018-08-15 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S5669)
+- 2018-08-16 — Message on Senate action sent to the House.
+- 2018-08-23 — Presented to President.
+- 2018-08-23 — Presented to President.
+- 2018-09-04 — Became Public Law No: 115-237.
+- 2018-09-04 — Became Public Law No: 115-237.
+- 2018-09-04 — Signed by President.
+- 2018-09-04 — Signed by President.
