@@ -1,7 +1,7 @@
 ---
 measure: H.R. 66
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 66
@@ -62,9 +62,10 @@ Route 66 Centennial Commission Act
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ Route 66 Centennial Commission Act
 - 2018-07-16 — Placed on the Union Calendar, Calendar No. 635.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-821.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-821.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
