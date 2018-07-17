@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 996
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 996
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 6147) making appropriations for th
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2018-07-16 — Introduced in House
@@ -23,3 +27,9 @@ Providing for consideration of the bill (H.R. 6147) making appropriations for th
 - 2018-07-16 — Rule provides for consideration of H.R. 6147 under a structured rule. Rule makes in order only those further amendments printed in the Rules Committee report.
 - 2018-07-16 — The House Committee on Rules reported an original measure, H. Rept. 115-830, by Mr. Cole.
 - 2018-07-16 — The House Committee on Rules reported an original measure, H. Rept. 115-830, by Mr. Cole.
+- 2018-07-17 — Considered as privileged matter. (consideration: CR H6274-6282)
+- 2018-07-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 996.
+- 2018-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-17 — On agreeing to the resolution Agreed to by recorded vote: 229 - 184 (Roll no. 332). (text: CR H6274-6275)
+- 2018-07-17 — On ordering the previous question Agreed to by the Yeas and Nays: 230 - 183 (Roll no. 331).
+- 2018-07-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 184 (Roll no. 332).(text: CR H6274-6275)
