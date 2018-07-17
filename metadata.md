@@ -1,7 +1,7 @@
 ---
 measure: S. 488
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 488
@@ -35,3 +35,15 @@ JOBS and Investor Confidence Act of 2018
 - 2017-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
 - 2017-09-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5169; text: CR S5169)
 - 2017-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5169; text: CR S5169)
+- 2017-09-12 — Held at the desk.
+- 2017-09-12 — Message on Senate action sent to the House.
+- 2017-09-12 — Received in the House.
+- 2018-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-17 — Considered as unfinished business. (consideration: CR H6342-6343)
+- 2018-07-17 — Considered under suspension of the rules. (consideration: CR H6295-6312)
+- 2018-07-17 — DEBATE - The House proceeded with forty minutes of debate on S. 488.
+- 2018-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-17 — Mr. Hensarling moved to suspend the rules and pass the bill, as amended.
+- 2018-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 333). (text: CR H6295-6306)
+- 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 333).(text: CR H6295-6306)
+- 2018-07-17 — The title of the measure was amended. Agreed to without objection.
