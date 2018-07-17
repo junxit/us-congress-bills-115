@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5504
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5504
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 4801 We
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Heck, Denny [D-WA-10] (H001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 4801 We
 - 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6209)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6209)
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
