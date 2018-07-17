@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5333
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5333
@@ -48,3 +48,4 @@ Over-the-Counter Monograph Safety, Innovation, and Reform Act of 2018
 - 2018-07-16 — Placed on the Union Calendar, Calendar No. 640.
 - 2018-07-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-827.
 - 2018-07-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-827.
+- 2018-07-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
