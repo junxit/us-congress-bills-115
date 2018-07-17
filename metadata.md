@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5772
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5772
@@ -16,9 +16,10 @@ To designate the J. Marvin Jones Federal Building and Courthouse in Amarillo, Te
 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the J. Marvin Jones Federal Building and Courthouse in Amarillo, Te
 - 2018-07-16 — Placed on the House Calendar, Calendar No. 167.
 - 2018-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-819.
 - 2018-07-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-819.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
