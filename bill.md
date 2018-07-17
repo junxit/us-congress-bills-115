@@ -2,12 +2,12 @@
 legis-num: H.R. 3906
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3906
 
-> To establish centers of excellence for innovative stormwater control infrastructure, and for other purposes.
+> To direct the Administrator of the Environmental Protection Agency to establish a stormwater infrastructure funding task force, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3906
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3906
@@ -38,10 +38,11 @@ Innovative Stormwater Infrastructure Act of 2018
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Innovative Stormwater Infrastructure Act of 2018
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-828, Part I.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-828, Part I.
 - 2018-07-16 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
