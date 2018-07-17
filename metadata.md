@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 998
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 998
@@ -34,3 +34,9 @@ Expressing the sense of the House of Representatives that the United States Navy
 - 2018-07-16 — Introduced in House
 - 2018-07-16 — Introduced in House
 - 2018-07-16 — Referred to the House Committee on Armed Services.
+- 2018-07-17 — Considered under suspension of the rules. (consideration: CR H6289-6293)
+- 2018-07-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 998.
+- 2018-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-17 — Ms. Cheney moved to suspend the rules and agree to the resolution.
+- 2018-07-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6289-6290)
+- 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6289-6290)
