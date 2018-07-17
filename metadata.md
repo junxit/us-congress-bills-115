@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5238
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5238
@@ -96,3 +96,14 @@ To designate the facility of the United States Postal Service located at 1234 Sa
 - 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6203)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6203)
 - 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7332)
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7332)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-14 — Became Public Law No: 115-317.
+- 2018-12-14 — Became Public Law No: 115-317.
+- 2018-12-14 — Signed by President.
+- 2018-12-14 — Signed by President.
