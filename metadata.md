@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5846
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5846
@@ -22,9 +22,10 @@ Promoting Flood Risk Mitigation Act
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Promoting Flood Risk Mitigation Act
 - 2018-07-16 — Placed on the Union Calendar, Calendar No. 634.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-820.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-820.
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
