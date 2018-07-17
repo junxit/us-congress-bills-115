@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5554
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5554
@@ -45,3 +45,12 @@ Animal Drug and Animal Generic Drug User Fee Amendments of 2018
 - 2018-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6237-6241)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6237-6241)
 - 2018-07-17 — Received in the Senate, read twice.
+- 2018-07-31 — Passed Senate without amendment by Voice Vote. (consideration: CR S5474)
+- 2018-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5474)
+- 2018-08-01 — Message on Senate action sent to the House.
+- 2018-08-03 — Presented to President.
+- 2018-08-03 — Presented to President.
+- 2018-08-14 — Became Public Law No: 115-234.
+- 2018-08-14 — Became Public Law No: 115-234.
+- 2018-08-14 — Signed by President.
+- 2018-08-14 — Signed by President.
