@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5480
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-60 amendatory instructions. 40 executed, 20 stated and not applied.
+57 amendatory instructions. 37 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -278,25 +278,7 @@ to guess them.
 
 ### 22 U.S.C. § 2213
 
-> in the section heading, by striking “united states microfinance loan facility” and inserting “united states micro, small and medium-sized enterprise loan facility”;
-
-| | |
-|---|---|
-| Removed | `united states microfinance loan facility` |
-| Inserted | `united states micro, small and medium-sized enterprise loan facility` |
-
-### 22 U.S.C. § 2213
-
-> by striking “United States Microfinance Loan Facility” and inserting “United States Micro, Small and Medium-Sized Enterprise Loan Facility”; and
-
-| | |
-|---|---|
-| Removed | `United States Microfinance Loan Facility` |
-| Inserted | `United States Micro, Small and Medium-Sized Enterprise Loan Facility` |
-
-### 22 U.S.C. § 2213
-
-> by striking “United States-supported microfinance institutions” and inserting “United States-supported financial intermediaries”;
+> in subsection (a), by striking “United States-supported microfinance institutions” and inserting “United States-supported financial intermediaries”; and
 
 | | |
 |---|---|
@@ -368,21 +350,12 @@ to guess them.
 
 ### 22 U.S.C. § 2211
 
-> In the title heading, by striking “MICROENTERPRISE DEVELOPMENT ASSISTANCE” and inserting “DEVELOPMENT ASSISTANCE FOR MICRO, SMALL AND MEDIUM–SIZED ENTERPRISES”.
+> Title VI of chapter 2 of part I of the Foreign Assistance Act of 1961 is amended in the title heading by striking “MICROENTERPRISE DEVELOPMENT ASSISTANCE” and inserting “DEVELOPMENT ASSISTANCE FOR MICRO, SMALL AND MEDIUM–SIZED ENTERPRISES”.
 
 | | |
 |---|---|
 | Removed | `MICROENTERPRISE DEVELOPMENT ASSISTANCE` |
 | Inserted | `DEVELOPMENT ASSISTANCE FOR MICRO, SMALL AND MEDIUM–SIZED ENTERPRISES` |
-
-### 22 U.S.C. § 2211
-
-> In the heading for subtitle C, by striking “United States Microfinance Loan Facility” and inserting “United States Micro, Small and Medium-Sized Microfinance Loan Facility”.
-
-| | |
-|---|---|
-| Removed | `United States Microfinance Loan Facility` |
-| Inserted | `United States Micro, Small and Medium-Sized Microfinance Loan Facility` |
 
 ## Stated, not applied
 
