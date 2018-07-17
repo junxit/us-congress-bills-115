@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4890
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4890
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 9801 Ap
 - Rep. Delaney, John K. [D-MD-6] (D000620)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 9801 Ap
 - 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6202)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6202)
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
