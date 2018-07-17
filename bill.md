@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Secretary of Health and Human Services to conduct a study and submit a report on the effects of the inclusion of quality increases in the determination of blended benchmark amounts under part C of the Medicare program.
 
-## § 1. Determination of blended benchmark amount study
+## § 1. Short title
+
+This Act may be cited as the “Improving Seniors Access to Quality Benefits Act”.
+
+## § 2. Determination of blended benchmark amount study
 
 - **(a)** *Sense of Congress* It is the sense of Congress that the inclusion of quality increases in the determination of blended benchmark amounts under section 1853(n)(4) of the Social Security Act (42 U.S.C. 1395w–23(n)(4)) undermines the goal of delivering high-quality care under the Medicare program under title XVIII of such Act.
 - **(b)** *Study and report* Not later than one year after the date of enactment of this section, the Secretary of Health and Human Services, in consultation with relevant stakeholders, shall conduct a study and submit to Congress a report on the effects of the inclusion of quality percentage increases under section 1853(n)(5) of such Act in the determination of blended benchmark amounts under section 1853(n)(4) of such Act. Such study and report shall include an analysis of the following:

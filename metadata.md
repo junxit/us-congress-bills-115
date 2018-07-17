@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4952
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4952
@@ -16,9 +16,11 @@ Improving Seniors Access to Quality Benefits Act
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
 
 ## Committees (2)
 
@@ -31,3 +33,12 @@ Improving Seniors Access to Quality Benefits Act
 - 2018-02-06 — Introduced in House
 - 2018-02-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-02-06 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-02-09 — Referred to the Subcommittee on Health.
+- 2018-02-13 — Referred to the Subcommittee on Health.
+- 2018-06-21 — Committee Consideration and Mark-up Session Held.
+- 2018-06-21 — Ordered to be Reported by Voice Vote.
+- 2018-07-17 — Committee on Energy and Commerce discharged.
+- 2018-07-17 — Committee on Energy and Commerce discharged.
+- 2018-07-17 — Placed on the Union Calendar, Calendar No. 644.
+- 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-832, Part I.
+- 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-832, Part I.
