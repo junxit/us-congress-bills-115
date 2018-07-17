@@ -1,7 +1,7 @@
 ---
 measure: S. 717
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 717
@@ -46,3 +46,10 @@ Pro bono Work to Empower and Represent Act of 2018
 - 2017-08-02 — Message on Senate action sent to the House.
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the House Committee on the Judiciary.
+- 2017-08-23 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2018-07-17 — Considered under suspension of the rules. (consideration: CR H6282-6285)
+- 2018-07-17 — DEBATE - The House proceeded with forty minutes of debate on S. 717.
+- 2018-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-17 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2018-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6282-6283)
+- 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6282-6283)
