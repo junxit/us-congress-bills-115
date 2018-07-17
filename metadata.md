@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5554
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5554
@@ -44,3 +44,4 @@ Animal Drug and Animal Generic Drug User Fee Amendments of 2018
 - 2018-07-16 — Mr. Mullin moved to suspend the rules and pass the bill, as amended.
 - 2018-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6237-6241)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6237-6241)
+- 2018-07-17 — Received in the Senate, read twice.
