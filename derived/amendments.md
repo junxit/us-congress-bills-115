@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6138
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1395l` | insert | The second sentence of section 1833(t)(9)(A) of the Social Security Act (42 U.S.C. 1395l(t)(9)(A)) is amended by inserting “and at least one ambulatory surgical center representative” after “an appropriate selection of representatives of… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | add-at-end | Section 1833(i)(1) of the Social Security Act (42 U.S.C. 1395l(i)(1)) is amended by adding at the end the following: “In updating such lists for application in years beginning after the date of the enactment of this sentence, for each pr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | add-at-end | Section 1833(i)(1) of the Social Security Act (42 U.S.C. 1395l(i)(1)) is amended by adding at the end the following: “In updating such lists for application in years beginning with the second year beginning after the date of the enactmen… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
