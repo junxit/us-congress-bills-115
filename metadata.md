@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4946
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4946
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 1075 No
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ To designate the facility of the United States Postal Service located at 1075 No
 - 2018-07-16 — Mr. Walker moved to suspend the rules and pass the bill.
 - 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 329). (text: CR H6208)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 329).(text: CR H6208)
+- 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
