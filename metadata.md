@@ -1,7 +1,7 @@
 ---
 measure: S. 791
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 791
@@ -32,3 +32,5 @@ Small Business Innovation Protection Act of 2017
 - 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
 - 2018-03-19 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
 - 2018-03-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.
+- 2018-07-18 — Passed Senate without amendment by Voice Vote. (consideration: CR S5073-5074; text: CR S5073-5074)
+- 2018-07-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5073-5074; text: CR S5073-5074)
