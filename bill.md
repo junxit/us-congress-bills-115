@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2345
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,58 +11,58 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Suicide Hotline Improvement Act of 2017”.
+This Act may be cited as the “National Suicide Hotline Improvement Act of 2018”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** According to the National Center for Health Statistics, suicide rates in the United States have surged to their highest levels in nearly 30 years.
-- **(2)** The overall suicide rate rose by 24 percent from 1999 to 2014.
-- **(3)** The National Suicide Prevention Lifeline (1–800–273–TALK [8255]), created under the leadership of the Center for Mental Health Services of the Substance Abuse and Mental Health Services Administration (commonly known as “SAMHSA”), is a network of 161 crisis centers that provide a toll-free hotline 24 hours a day, 7 days a week to anyone experiencing a mental health or suicidal emergency or crisis.
-- **(4)** In 1967, the President’s Commission on Law Enforcement and Administration of Justice recommended the creation of a single telephone number that could be used nationwide for reporting emergencies.
-- **(5)** In 1968, the Federal Communications Commission agreed upon the number 9–1–1, one of eight N11 dialing codes, as a simple, easy-to-remember telephone number to be the dedicated number for reporting emergencies, and 9–1–1 became the national emergency number for individuals in the United States to access police, fire, and ambulance services.
-- **(6)** Based on the success of the 9–1–1 nationwide emergency number, a study by the Federal Communications Commission regarding the use of a simple, easy-to-remember dedicated 3-digit dialing code for a suicide prevention and mental health crisis hotline system would be beneficial in the prevention of suicide nationwide.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act—
 
-- **(1)** the term Assistant Secretary means the Assistant Secretary for Mental Health and Substance Use;
-- **(2)** the term Commission means the Federal Communications Commission;
-- **(3)** the term covered dialing code means a simple, easy-to-remember, 3-digit dialing code; and
-- **(4)** the term N11 dialing code means an abbreviated dialing code consisting of 3 digits, of which—
+- **(1)** the term Commission means the Federal Communications Commission;
+- **(2)** the term covered dialing code means a simple, easy-to-remember, 3-digit dialing code; and
+- **(3)** the term N11 dialing code means an abbreviated dialing code consisting of 3 digits, of which—
   - **(A)** the first digit may be any digit other than “1” or “0”; and
   - **(B)** each of the last 2 digits is “1”.
 
-## § 4. FCC study and report
+## § 3. Studies and reports
 
-- **(a)** *Study*
-  - **(1)** *In general* The Commission, in coordination with the Assistant Secretary, shall conduct a study that—
+- **(a)** *Primary study*
+  - **(1)** *In general* The Commission, in coordination with the Assistant Secretary for Mental Health and Substance Use and the Secretary of Veterans Affairs, shall conduct a study that—
     - **(A)** examines the feasibility of designating an N11 dialing code or other covered dialing code to be used for a national suicide prevention and mental health crisis hotline system; and
-    - **(B)** analyzes the effectiveness of the current National Suicide Prevention Lifeline, including how well the lifeline is working to address the needs of veterans.
-  - **(2)** *Requirements* In conducting the study under paragraph (1), the Commission shall—
-    - **(A)** request that the Assistant Secretary study and report to the Commission on the potential impact of the designation of an N11 dialing code, or other covered dialing code, for a suicide prevention and mental health crisis hotline system on—
-      - **(i)** suicide prevention;
-      - **(ii)** crisis services;
-      - **(iii)** the National Suicide Prevention Lifeline; and
-      - **(iv)** the Veterans Crisis Line;
-    - **(B)** consider—
-      - **(i)** each of the N11 dialing codes, including the codes that are used for other purposes; and
-      - **(ii)** other covered dialing codes;
-    - **(C)** consult with the North American Numbering Council; and
-    - **(D)** consult with the Secretary of Veterans Affairs with respect to how well the current National Suicide Prevention Lifeline is working to address the needs of veterans.
-- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Commission shall submit to Congress a report on the study conducted under subsection (a) that—
-  - **(1)** recommends a particular N11 dialing code or other covered dialing code to be used for a national suicide prevention and mental health crisis hotline system;
-  - **(2)** outlines the logistics of designating such a dialing code;
-  - **(3)** estimates the costs associated with designating such a dialing code, including—
-    - **(A)** the costs incurred by service providers, including—
-      - **(i)** translation changes in the network; and
-      - **(ii)** cell site analysis and reprogramming by wireless carriers; and
-    - **(B)** the costs incurred by States and localities;
-  - **(4)** provides legislative recommendations for designating such a dialing code;
-  - **(5)** provides a cost-benefit analysis comparing the recommended dialing code with the current National Suicide Prevention Lifeline; and
-  - **(6)** makes other recommendations for improving the national suicide prevention lifeline system generally, which may include—
-    - **(A)** increased funding;
-    - **(B)** increased public education and awareness; and
-    - **(C)** improved infrastructure and operations.
+    - **(B)** analyzes the effectiveness of the National Suicide Prevention Lifeline as of the date on which the study is initiated, including how well the lifeline is working to address the needs of veterans.
+  - **(2)** *Requirements*
+    - **(A)** *Commission* In conducting the study under paragraph (1), the Commission shall—
+      - **(i)** consider—
+        - **(I)** each of the N11 dialing codes, including the codes that are used for other purposes; and
+        - **(II)** other covered dialing codes;
+      - **(ii)** consult with the North American Numbering Council; and
+      - **(iii)** review the information provided by the Assistant Secretary for Mental Health and Substance Use and the Secretary of Veterans Affairs under subparagraphs (B) and (C), respectively, of this paragraph.
+    - **(B)** *SAMHSA study and report to assist Commission* To assist the Commission in conducting the study under paragraph (1), the Assistant Secretary for Mental Health and Substance Use shall analyze and, not later than 180 days after the date of enactment of this Act, report to the Commission on—
+      - **(i)** the potential impact of the designation of an N11 dialing code, or other covered dialing code, for a suicide prevention and mental health crisis hotline system on—
+        - **(I)** suicide prevention;
+        - **(II)** crisis services; and
+        - **(III)** other suicide prevention and mental health crisis hotlines, including—
+          - **(aa)** the National Suicide Prevention Lifeline; and
+          - **(bb)** the Veterans Crisis Line; and
+      - **(ii)** possible recommendations for improving the National Suicide Prevention Lifeline generally, which may include—
+        - **(I)** increased public education and awareness; and
+        - **(II)** improved infrastructure and operations.
+    - **(C)** *VA study and report to assist Commission* To assist the Commission in conducting the study under paragraph (1), the Secretary of Veterans Affairs shall study and, not later than 180 days after the date of enactment of this Act, report to the Commission on how well the National Suicide Prevention Lifeline and the Veterans Crisis Line, as in effect on the date on which the study is initiated, is working to address the needs of veterans.
+- **(b)** *Primary Commission report*
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Commission, in coordination with the Assistant Secretary for Mental Health and Substance Use and the Secretary of Veterans Affairs, shall submit a report on the study conducted under subsection (a) that recommends whether a particular N11 dialing code or other covered dialing code should be used for a national suicide prevention and mental health crisis hotline system to—
+    - **(A)** the Committee on Commerce, Science, and Transportation of the Senate;
+    - **(B)** the Committee on Health, Education, Labor, and Pensions of the Senate;
+    - **(C)** the Committee on Veterans’ Affairs of the Senate;
+    - **(D)** the Committee on Energy and Commerce of the House of Representatives; and
+    - **(E)** the Committee on Veterans’ Affairs of the House of Representatives.
+  - **(2)** *Additional contents* If the report submitted by the Commission under paragraph (1) recommends that a dialing code should be used, the report shall also—
+    - **(A)** outline the logistics of designating such a dialing code;
+    - **(B)** estimate the costs associated with designating such a dialing code, including—
+      - **(i)** the costs incurred by service providers, including—
+        - **(I)** translation changes in the network; and
+        - **(II)** cell site analysis and reprogramming by wireless carriers; and
+      - **(ii)** the costs incurred by States and localities;
+    - **(C)** provide recommendations for designating such a dialing code;
+    - **(D)** provide a cost-benefit analysis comparing the recommended dialing code with the National Suicide Prevention Lifeline, as in effect on the date on which the report is submitted; and
+    - **(E)** make other recommendations, as appropriate, for improving the National Suicide Prevention Lifeline generally, which may include—
+      - **(i)** increased public education and awareness; and
+      - **(ii)** improved infrastructure and operations.
