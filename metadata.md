@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 990
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 990
@@ -16,7 +16,7 @@ Supporting the officers and personnel who carry out the important mission of the
 
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Cosponsors (51)
+## Cosponsors (74)
 
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
@@ -69,6 +69,29 @@ Supporting the officers and personnel who carry out the important mission of the
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Russell, Steve [R-OK-5] (R000604)
 - Rep. Smucker, Lloyd [R-PA-16] (S001199)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Marshall, Roger [R-KS-1] (M001198)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
 ## Committees (4)
 
@@ -76,6 +99,10 @@ Supporting the officers and personnel who carry out the important mission of the
 - House — Armed Services Committee
 - House — Judiciary Committee
 - House — Homeland Security Committee
+
+## Recorded votes (1)
+
+- 2018-07-18 — [House 115-2-337](votes/house-115-2-0337.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (244–35)
 
 ## Actions
 
@@ -86,3 +113,13 @@ Supporting the officers and personnel who carry out the important mission of the
 - 2018-07-11 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-07-11 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-07-11 — Referred to the Subcommittee on Immigration and Border Security.
+- 2018-07-12 — Referred to the Subcommittee on Military Personnel.
+- 2018-07-12 — Referred to the Subcommittee on Trade.
+- 2018-07-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-18 — Considered as unfinished business. (consideration: CR H6495)
+- 2018-07-18 — Considered under suspension of the rules. (consideration: CR H6486-6493)
+- 2018-07-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 990.
+- 2018-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-18 — Mr. Goodlatte moved to suspend the rules and agree to the resolution, as amended.
+- 2018-07-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 244 - 35, 133 Present (Roll no. 337). (text: CR H6486-6487)
+- 2018-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 244 - 35, 133 Present (Roll no. 337).(text: CR H6486-6487)
