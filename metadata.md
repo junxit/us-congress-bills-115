@@ -1,7 +1,7 @@
 ---
 measure: S. 2850
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2850
@@ -33,3 +33,18 @@ A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act 
 - 2018-07-18 — Senate amendment agreed to: Amendment SA 3398 agreed to in Senate by Unanimous Consent.
 - 2018-07-18 — Senate amendment proposed (on the floor): Amendment SA 3398 proposed by Senator Rounds for Senator Flake.(consideration: CR S5074; text: CR S5074)
 - 2018-07-18 — Senate amendment submitted
+- 2018-07-19 — Held at the desk.
+- 2018-07-19 — Message on Senate action sent to the House.
+- 2018-07-19 — Received in the House.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6629-6630)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on S. 2850.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2018-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6629)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6629)
+- 2018-07-26 — Presented to President.
+- 2018-07-26 — Presented to President.
+- 2018-08-01 — Became Public Law No: 115-227.
+- 2018-08-01 — Became Public Law No: 115-227.
+- 2018-08-01 — Signed by President.
+- 2018-08-01 — Signed by President.
