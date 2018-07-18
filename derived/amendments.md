@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4606
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 717b
 
-> by striking “subsection (b), or ” and inserting “subsection (b),”; and
+> by striking “For purposes” and inserting “(1) For purposes”; and
 
 | | |
 |---|---|
-| Removed | `subsection (b), or` |
-| Inserted | `subsection (b),` |
+| Removed | `For purposes` |
+| Inserted | `(1) For purposes` |
 
 ## Stated, not applied
 
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 717b` | insert | by inserting “, or the importation or exportation of a volume of natural gas that does not exceed 0.14 billion cubic feet per day” after “national treatment for trade in natural gas” . | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 717b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
