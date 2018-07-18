@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1037
@@ -39,6 +39,10 @@ To authorize the National Emergency Medical Services Memorial Foundation to esta
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-07-18 — [House 115-2-338](votes/house-115-2-0338.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–0)
+
 ## Actions
 
 - 2017-02-14 — Introduced in House
@@ -52,3 +56,11 @@ To authorize the National Emergency Medical Services Memorial Foundation to esta
 - 2018-05-11 — Placed on the Union Calendar, Calendar No. 514.
 - 2018-05-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-669.
 - 2018-05-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-669.
+- 2018-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-17 — Considered under suspension of the rules. (consideration: CR H6338-6339; text: CR H6338)
+- 2018-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1037.
+- 2018-07-17 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-07-18 — Considered as unfinished business. (consideration: CR H6495-6496)
+- 2018-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 338).
+- 2018-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 338).
