@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4989
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4989
@@ -24,9 +24,10 @@ Protecting Diplomats from Surveillance Through Consumer Devices Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Protecting Diplomats from Surveillance Through Consumer Devices Act
 - 2018-07-17 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2018-07-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 335). (text: CR H6319)
 - 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 335).(text: CR H6319)
+- 2018-07-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
