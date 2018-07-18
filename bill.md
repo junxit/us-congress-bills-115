@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3916
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -48,6 +48,6 @@ This Act may be cited as the “Federally Integrated Species Health Act” or th
 
 For purposes of this Act:
 
-- **(1)** *Anadromous species and catadromous species* Each of the terms “anadromous species” and “catadromous species” has the meaning that term has under section 3 of the Endangered Species Act of 1973, as amended by section 3 of this Act.
+- **(1)** *Anadromous species and catadromous species* Each of the terms “anadromous species” and “catadromous species” has the meaning that term has under section 3 of the Endangered Species Act of 1973, as amended by section 2 of this Act.
 - **(2)** *Function* The term “function” includes any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
 - **(3)** *Office* The term “office” includes any office, administration, agency, bureau, institute, council, unit, organizational entity, or component thereof.
