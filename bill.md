@@ -13,3 +13,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Authorization of WMAT rural water system* Section 307(a) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3080) is amended in the matter preceding paragraph (1) by inserting “, (b)(2),” after “subsections (a)”.
 - **(b)** *Funding* Section 312(b)(2)(C)(i)(III) of the White Mountain Apache Tribe Water Rights Quantification Act of 2010 (Public Law 111–291; 124 Stat. 3093) is amended by striking the period at the end and inserting the following: “, including the planning, design, and construction of the WMAT rural water system, in accordance with section 307(a).”.
+
+## § 2. Expansion of pueblo of Santa Clara land eligible for 99-year lease
+
+Subsection (a) of the first section of the Act of August 9, 1955 (commonly known as the “Long-Term Leasing Act”) (25 U.S.C. 415(a)), is amended—
+
+- **(1)** by striking “Indians,,” and inserting “Indians,”;
+- **(2)** by inserting “Ohkay Owingeh pueblo,” after “Cochiti,”;
+- **(3)** by inserting “the pueblo of Santa Clara,” after “Pojoaque,”;
+- **(4)** by striking “the the lands” and inserting “the land”;
+- **(5)** by striking “lands held in trust for the Pueblo of Santa Clara,”; and
+- **(6)** by striking “lands held in trust for Ohkay Owingeh Pueblo”.
