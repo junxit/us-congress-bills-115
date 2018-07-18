@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5709
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5709
@@ -16,7 +16,7 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Collins, Chris [R-NY-27] (C001092)
@@ -31,6 +31,7 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 - Rep. Faso, John J. [R-NY-19] (F000464)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
 ## Committees (1)
 
@@ -41,3 +42,11 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 - 2018-05-08 — Introduced in House
 - 2018-05-08 — Introduced in House
 - 2018-05-08 — Referred to the House Committee on Energy and Commerce.
+- 2018-05-11 — Referred to the Subcommittee on Communications and Technology.
+- 2018-06-13 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-06-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-07-12 — Committee Consideration and Mark-up Session Held.
+- 2018-07-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-07-18 — Placed on the Union Calendar, Calendar No. 652.
+- 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-843.
+- 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-843.
