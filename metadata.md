@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4645
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4645
@@ -38,3 +38,4 @@ East Rosebud Wild and Scenic Rivers Act
 - 2018-07-17 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2018-07-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6337)
 - 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6337)
+- 2018-07-18 — Received in the Senate, read twice.
