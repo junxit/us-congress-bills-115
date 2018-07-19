@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to provide that direct primary care service arrangements do not disqualify deductible health savings account contributions, and for other purposes.
 
-## § 1. Treatment of direct primary care service arrangements
+## § 1. Short title
+
+This Act may be cited as the “Primary Care Enhancement Act of 2018”.
+
+## § 2. Treatment of direct primary care service arrangements
 
 - **(a)** *In general* Section 223(c)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
   > - **(D)** *Treatment of direct primary care service arrangements*
@@ -26,11 +30,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(v)** any direct primary care service arrangement.
 
 - **(c)** *Inflation adjustment* Section 223(g)(1) of such Code is amended—
-  - **(1)** by striking “and (c)(2)(A)” and inserting “, (c)(1)(D)(ii)(II), and (c)(2)(A)”, and
+  - **(1)** by striking “and (c)(2)(A)” each place it appears and inserting “, (c)(1)(D)(ii)(II), and (c)(2)(A)”, and
   - **(2)** in subparagraph (B), by striking “clause (ii)” and inserting “clauses (ii) and (iii)” in clause (i), by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by inserting after clause (ii) the following new clause:
     > - **(iii)** in the case of the dollar amount in subsection (c)(1)(D)(ii)(II) for taxable years beginning in calendar years after 2019, “calendar year 2018”.
 
 - **(d)** *Reporting of direct primary care service arrangement fees on W–2* Section 6051(a) of such Code is amended by striking “and” at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting “, and”, and by inserting after paragraph (17) the following new paragraph: .
   > - **(18)** in the case of a direct primary care service arrangement (as defined in section 223(c)(1)(D)(ii)) which is provided in connection with employment, the aggregate fees for such arrangement for such employee.
 
-- **(e)** *Effective date* The amendments made by this subsection shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
+- **(e)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
