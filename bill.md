@@ -28,7 +28,7 @@ This Act may be cited as the “Personal Health Investment Today Act” or the �
   >     - **(i)** *Overall limitation* The aggregate amount treated as qualified sports and fitness expenses with respect to any taxpayer for any taxable year shall not exceed $500 (twice such amount in the case of a joint return or a head of household (as defined in section 2(b))).
   >     - **(ii)** *Safety equipment* The amount treated as qualified sports and fitness expenses with respect to any item of safety equipment described in subparagraph (A)(iii) shall not exceed $250.
   >   - **(C)** *Certain exclusions*
-  >     - **(i)** *In general* Golf, hunting, sailing, and riding shall not be treated as a physical exercise or physical activity.
+  >     - **(i)** *In general* Golf, hunting, sailing, and horseback riding shall not be treated as a physical exercise or physical activity.
   >     - **(ii)** *Exercise videos, etc* Qualified sports and fitness expenses shall not include videos, books, or similar materials.
   >   - **(D)** *Fitness facility defined* For purposes of subparagraph (A)(i), the term fitness facility means a facility—
   >     - **(i)** providing instruction in a program of physical exercise or physical activity, offering facilities for the preservation, maintenance, encouragement, or development of physical fitness, or serving as the site of such a program of a State or local government,
@@ -41,4 +41,4 @@ This Act may be cited as the “Personal Health Investment Today Act” or the �
   >     - **(i)** such dollar amount, multiplied by
   >     - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins, determined by substituting “calendar year 2018” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to taxable years beginning after December 31, 2018.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2018.
