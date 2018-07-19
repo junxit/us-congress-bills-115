@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6314
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6314
@@ -16,9 +16,10 @@ Health Savings Act of 2018
 
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Health Savings Act of 2018
 - 2018-07-06 — Introduced in House
 - 2018-07-06 — Introduced in House
 - 2018-07-06 — Referred to the House Committee on Ways and Means.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 13.
+- 2018-07-19 — Placed on the Union Calendar, Calendar No. 657.
+- 2018-07-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-848.
+- 2018-07-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-848.
