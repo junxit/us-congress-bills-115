@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6147
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6147
@@ -26,3 +26,630 @@ Interior, Environment, Financial Services and General Government, Agriculture, R
 - 2018-06-19 — Placed on the Union Calendar, Calendar No. 595.
 - 2018-06-19 — The House Committee on Appropriations reported an original measure, H. Rept. 115-765, by Mr. Calvert.
 - 2018-06-19 — The House Committee on Appropriations reported an original measure, H. Rept. 115-765, by Mr. Calvert.
+- 2018-07-16 — Rules Committee Resolution H. Res. 996 Reported to House. Rule provides for consideration of H.R. 6147 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Rule provides for consideration of H.R. 6147 under a structured rule. Rule makes in order only those further amendments printed in the Rules Committee report.
+- 2018-07-17 — Amendment (A001) offered by Mr. Biggs. (consideration: CR H6434; text: CR H6434)
+- 2018-07-17 — Amendment (A002) offered by Mr. Soto. (consideration: CR H6434-6435; text: CR H6434)
+- 2018-07-17 — Amendment (A003) offered by Mr. Lance. (consideration: CR H6435-6436; text: CR H6435)
+- 2018-07-17 — Amendment (A004) offered by Mr. Courtney. (consideration: CR H6436; text: CR H6436)
+- 2018-07-17 — Amendment (A005) offered by Mr. Courtney. (consideration: CR H6436-6437; text: CR H6436)
+- 2018-07-17 — Amendment (A006) offered by Ms. Sewell (AL). (consideration: CR H6437; text: CR H6437)
+- 2018-07-17 — Amendment (A007) offered by Ms. Jackson Lee. (consideration: CR H6437-6438; text: CR H6437)
+- 2018-07-17 — Amendment (A008) offered by Mr. Clyburn. (consideration: CR H6438-6439; text: CR H6438)
+- 2018-07-17 — Amendment (A009) offered by Ms. Jackson Lee. (consideration: CR H6439-6440; text: CR H6439)
+- 2018-07-17 — Amendment (A010) offered by Mr. Olson. (consideration: CR H6440; text: CR H6440)
+- 2018-07-17 — Amendment (A011) offered by Mrs. Dingell. (consideration: CR H6440-6441; text: CR H6440)
+- 2018-07-17 — Amendment (A012) offered by Mr. Courtney. (consideration: CR H6441; text: CR H6441)
+- 2018-07-17 — Amendment (A013) offered by Ms. Gabbard. (consideration: CR H6441-6442; text: CR H6442)
+- 2018-07-17 — Amendment (A014) offered by Mr. Kildee. (consideration: CR H6442-6443; text: CR H6442)
+- 2018-07-17 — Amendment (A015) offered by Mr. Johnson (OH). (consideration: CR H6443; text en bloc: CR H6444)
+- 2018-07-17 — Amendment (A016) offered by Mr. O'Halleran. (consideration: CR H6444; text: CR H6444)
+- 2018-07-17 — Amendment (A017) offered by Mr. O'Halleran. (consideration: CR H6444-6445; text: CR H6445)
+- 2018-07-17 — Amendment (A018) offered by Ms. Plaskett. (consideration: CR H6445-6446; text: CR H6445)
+- 2018-07-17 — Amendment (A019) offered by Ms. Moore. (consideration: CR H6446-6447; text: CR H6446)
+- 2018-07-17 — Amendment (A020) offered by Mr. Welch. (consideration: CR H6447; text: CR H6447)
+- 2018-07-17 — Amendment (A021) offered by Mr. Vargas. (consideration: CR H6447-6448; text: CR H6447)
+- 2018-07-17 — Amendment (A022) offered by Ms. Esty (CT). (consideration: CR H6448; text: CR H6448)
+- 2018-07-17 — Amendment (A023) offered by Mr. Grijalva. (consideration: CR H6449; text: CR H6449)
+- 2018-07-17 — Amendment (A024) offered by Mr. Denham. (consideration: CR H6449-6450; text: CR H6449)
+- 2018-07-17 — Amendment (A025) offered by Mr. O'Halleran. (consideration: CR H6450-6451; text: CR H6450)
+- 2018-07-17 — Amendment (A026) offered by Mr. Heck. (consideration: CR H6451; text: CR H6451)
+- 2018-07-17 — Amendment (A027) offered by Ms. Adams. (consideration: CR H6451-6452; text: CR H6451)
+- 2018-07-17 — Amendment (A028) offered by Mr. Soto. (consideration: CR H6452-6453; text: CR H6452)
+- 2018-07-17 — Amendment (A029) offered by Mr. Langevin. (consideration: CR H6453; text: CR H6453)
+- 2018-07-17 — Amendment (A030) offered by Ms. Jayapal. (consideration: CR H6453-6454; text: CR H6453)
+- 2018-07-17 — Amendment (A031) offered by Mr. LaMalfa. (consideration: CR H6454-6455; text: CR H6454)
+- 2018-07-17 — Amendment (A032) offered by Mr. Welch. (consideration: CR H6455; text: CR H6455)
+- 2018-07-17 — Amendment (A033) offered by Mr. Ruiz. (consideration: CR H6455-6456; text: CR H6455)
+- 2018-07-17 — Amendment (A034) offered by Mr. Carbajal. (consideration: CR H6456-6457; text: CR H6456)
+- 2018-07-17 — Amendment (A035) offered by Mr. Grothman. (consideration: CR H6457-6458; text: CR H6457)
+- 2018-07-17 — Amendment (A036) offered by Mr. Beyer. (consideration: CR H6458-6460; text: CR H6459)
+- 2018-07-17 — Amendment (A037) offered by Mr. Beyer. (consideration: CR H6460-6461; text: CR H6460)
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment agreed to Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — Amendment failed in Committee of the Whole
+- 2018-07-17 — By unanimous consent, the Langevin amendment was withdrawn. (consideration: CR H6453)
+- 2018-07-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 6147 as unfinished business.
+- 2018-07-17 — Considered under the provisions of rule H. Res. 996. (consideration: CR H6344-6461; text of amendment in the nature of a substitute: CR H6383-6434)
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 6.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 10.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 19.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 27.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 3.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 30.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment No. 35.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole procedded with 10 minutes of debate on the Denham amendment No. 26.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Adams amendment No. 29.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 40.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 41.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 1.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 37.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Clyburn amendment No. 9.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 13.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 5.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Dingell amendment No. 12.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Esty (CT) amendment No. 24.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Gabbard amendment No. 14.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 25.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 39, as modified.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Heck amendment No. 28.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 8.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 32.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson(OH) amendments No. 16 and No. 17.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 15.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 34.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Lance amendment No. 4.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 31.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 21.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 18.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Olson amendment No. 11.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Plaskett amendment No. 20.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment No. 36.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell (AL) amendment No. 7.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Vargas amendment No. 23.
+- 2018-07-17 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment No. 22.
+- 2018-07-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 6147.
+- 2018-07-17 — Grothman amendment (A035) modified by unanimous consent. (text as modified: CR H6457)
+- 2018-07-17 — House amendment agreed to: On agreeing to the Clyburn amendment (A008) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Courtney amendment (A004) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Courtney amendment (A005) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Courtney amendment (A012) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Denham amendment (A024) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Dingell amendment (A011) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Esty (CT) amendment (A022) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Gabbard amendment (A013) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Heck amendment (A026) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A007) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A009) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Johnson (OH) amendments (A015) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Kildee amendment (A014) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the LaMalfa amendment (A031) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Lance amendment (A003) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Moore amendment (A019) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the O'Halleran amendment (A016) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Olson amendment (A010) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Plaskett amendment (A018) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Ruiz amendment (A033) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Sewell (AL) amendment (A006) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Soto amendment (A002) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Soto amendment (A028) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Welch amendment (A020) Agreed to by voice vote.
+- 2018-07-17 — House amendment agreed to: On agreeing to the Welch amendment (A032) Agreed to by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the Beyer amendment (A036) Failed by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the Beyer amendment (A037) Failed by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the Carbajal amendment (A034) Failed by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the Jayapal amendment (A030) Failed by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the O'Halleran amendment (A017) Failed by voice vote.
+- 2018-07-17 — House amendment not agreed to: On agreeing to the Vargas amendment (A021) Failed by voice vote.
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered
+- 2018-07-17 — House amendment offered/reported by: Amendment (A001) offered by Mr. Biggs.(consideration: CR H6434; text: CR H6434)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A002) offered by Mr. Soto.(consideration: CR H6434-6435; text: CR H6434)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A003) offered by Mr. Lance.(consideration: CR H6435-6436; text: CR H6435)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A004) offered by Mr. Courtney.(consideration: CR H6436; text: CR H6436)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A005) offered by Mr. Courtney.(consideration: CR H6436-6437; text: CR H6436)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A006) offered by Ms. Sewell (AL).(consideration: CR H6437; text: CR H6437)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A007) offered by Ms. Jackson Lee.(consideration: CR H6437-6438; text: CR H6437)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A008) offered by Mr. Clyburn.(consideration: CR H6438-6439; text: CR H6438)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A009) offered by Ms. Jackson Lee.(consideration: CR H6439-6440; text: CR H6439)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A010) offered by Mr. Olson.(consideration: CR H6440; text: CR H6440)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A011) offered by Mrs. Dingell.(consideration: CR H6440-6441; text: CR H6440)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A012) offered by Mr. Courtney.(consideration: CR H6441; text: CR H6441)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A013) offered by Ms. Gabbard.(consideration: CR H6441-6442; text: CR H6442)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A014) offered by Mr. Kildee.(consideration: CR H6442-6443; text: CR H6442)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A015) offered by Mr. Johnson (OH).(consideration: CR H6443; text en bloc: CR H6444)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A016) offered by Mr. O'Halleran.(consideration: CR H6444; text: CR H6444)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A017) offered by Mr. O'Halleran.(consideration: CR H6444-6445; text: CR H6445)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A018) offered by Ms. Plaskett.(consideration: CR H6445-6446; text: CR H6445)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A019) offered by Ms. Moore.(consideration: CR H6446-6447; text: CR H6446)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A020) offered by Mr. Welch.(consideration: CR H6447; text: CR H6447)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A021) offered by Mr. Vargas.(consideration: CR H6447-6448; text: CR H6447)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A022) offered by Ms. Esty (CT).(consideration: CR H6448; text: CR H6448)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A023) offered by Mr. Grijalva.(consideration: CR H6449; text: CR H6449)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A024) offered by Mr. Denham.(consideration: CR H6449-6450; text: CR H6449)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A025) offered by Mr. O'Halleran.(consideration: CR H6450-6451; text: CR H6450)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A026) offered by Mr. Heck.(consideration: CR H6451; text: CR H6451)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A027) offered by Ms. Adams.(consideration: CR H6451-6452; text: CR H6451)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A028) offered by Mr. Soto.(consideration: CR H6452-6453; text: CR H6452)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A029) offered by Mr. Langevin.(consideration: CR H6453; text: CR H6453)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A030) offered by Ms. Jayapal.(consideration: CR H6453-6454; text: CR H6453)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A031) offered by Mr. LaMalfa.(consideration: CR H6454-6455; text: CR H6454)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A032) offered by Mr. Welch.(consideration: CR H6455; text: CR H6455)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A033) offered by Mr. Ruiz.(consideration: CR H6455-6456; text: CR H6455)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A034) offered by Mr. Carbajal.(consideration: CR H6456-6457; text: CR H6456)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A035) offered by Mr. Grothman.(consideration: CR H6457-6458; text: CR H6457)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A036) offered by Mr. Beyer.(consideration: CR H6458-6460; text: CR H6459)
+- 2018-07-17 — House amendment offered/reported by: Amendment (A037) offered by Mr. Beyer.(consideration: CR H6460-6461; text: CR H6460)
+- 2018-07-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 996 and Rule XVIII.
+- 2018-07-17 — Mr. Calvert moved that the Committee rise.
+- 2018-07-17 — On agreeing to the Beyer amendment (A036) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Beyer amendment (A037) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Carbajal amendment (A034) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Clyburn amendment (A008) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Courtney amendment (A004) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Courtney amendment (A005) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Courtney amendment (A012) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Denham amendment (A024) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Dingell amendment (A011) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Esty (CT) amendment (A022) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Gabbard amendment (A013) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Heck amendment (A026) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Jackson Lee amendment (A007) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Jackson Lee amendment (A009) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Jayapal amendment (A030) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Johnson (OH) amendments (A015) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Kildee amendment (A014) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the LaMalfa amendment (A031) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Lance amendment (A003) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Moore amendment (A019) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the O'Halleran amendment (A016) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the O'Halleran amendment (A017) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Olson amendment (A010) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Plaskett amendment (A018) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Ruiz amendment (A033) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Sewell (AL) amendment (A006) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Soto amendment (A002) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Soto amendment (A028) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Vargas amendment (A021) Failed by voice vote.
+- 2018-07-17 — On agreeing to the Welch amendment (A020) Agreed to by voice vote.
+- 2018-07-17 — On agreeing to the Welch amendment (A032) Agreed to by voice vote.
+- 2018-07-17 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Adams amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Ms. Adams demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, as modified, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Grothman demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the O'Halleran amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. O'Halleran demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-17 — Rule H. Res. 996 passed House.
+- 2018-07-17 — Rule provides for consideration of H.R. 6147 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Rule provides for consideration of H.R. 6147 under a structured rule. Rule makes in order only those further amendments printed in the Rules Committee report.
+- 2018-07-17 — The Speaker designated the Honorable Liz Cheney to act as Chairwoman of the Committee.
+- 2018-07-18 — Amendment (A038) offered by Ms. Moore. (consideration: CR H6502; text: CR H6502)
+- 2018-07-18 — Amendment (A039) offered by Mr. Mullin. (consideration: CR H6502-6503; text: CR H6502)
+- 2018-07-18 — Amendment (A040) offered by Mr. Mullin. (consideration: CR H6503-6504, H6543-6544; text: CR H6503)
+- 2018-07-18 — Amendment (A041) offered by Ms. Moore. (consideration: CR H6504-6505; text: CR H6504)
+- 2018-07-18 — Amendment (A042) offered by Mrs. McMorris Rodgers. (consideration: CR H6505-6506, H6544-6545; text: CR H6505)
+- 2018-07-18 — Amendment (A043) offered by Mr. Loudermilk. (consideration: CR H6506-6507; text: CR H6506)
+- 2018-07-18 — Amendment (A044) offered by Mr. Lamborn. (consideration: CR H6507-6508, H6545; text: CR H6507)
+- 2018-07-18 — Amendment (A045) offered by Mr. Lamborn. (consideration: CR H6508-6509, H6545-6546; text: CR H6508)
+- 2018-07-18 — Amendment (A046) offered by Mr. Goodlatte. (consideration: CR H6509, H6546-6547; text: CR H6509)
+- 2018-07-18 — Amendment (A047) offered by Mr. Gallego. (consideration: CR H6510-6511, H6547; text: CR H6510)
+- 2018-07-18 — Amendment (A048) offered by Mr. Byrne. (consideration: CR H6511; text: CR H6511)
+- 2018-07-18 — Amendment (A049) offered by Mr. Burgess. (consideration: CR H6511-6512; text: CR H6511-6512)
+- 2018-07-18 — Amendment (A050) offered by Mr. Emmer. (consideration: CR H6512-6515; text: CR H6513)
+- 2018-07-18 — Amendment (A051) offered by Mr. Grothman. (consideration: CR H6514-6515; text: CR H6514)
+- 2018-07-18 — Amendment (A052) offered by Mr. Connolly. (consideration: CR H6515; text: CR H6515)
+- 2018-07-18 — Amendment (A053) offered by Mr. Young (AK). (consideration: CR H6515-6516; text: CR H6515)
+- 2018-07-18 — Amendment (A054) offered by Mr. Perry. (consideration: CR H6516-6517; text: CR H6516)
+- 2018-07-18 — Amendment (A055) offered by Mr. Pearce. (consideration: CR H6517-6518, H6547-6548; text: CR H6517)
+- 2018-07-18 — Amendment (A056) offered by Mr. Pearce. (consideration: CR H6518-6519, H6548-6549; text: CR H6518)
+- 2018-07-18 — Amendment (A057) offered by Mr. Gosar. (consideration: CR H6519-6521, H6549; text: CR H6519)
+- 2018-07-18 — Amendment (A058) offered by Mr. Posey. (consideration: CR H6521; text: CR H6521)
+- 2018-07-18 — Amendment (A059) offered by Mr. Denham. (consideration: CR H6521-6523; text: CR H6521)
+- 2018-07-18 — Amendment (A060) offered by Mr. Abraham. (consideration: CR H6523; text: CR H6523)
+- 2018-07-18 — Amendment (A061) offered by Ms. Jackson Lee. (consideration: CR H6523-6525; text: CR H6523)
+- 2018-07-18 — Amendment (A062) offered by Ms. Jackson Lee. (consideration: CR H6525-6528; text: CR H6525)
+- 2018-07-18 — Amendment (A063) offered by Mr. Hice, Jody B.. (consideration: CR H6528-6529, H6549-6550; text: CR H6528)
+- 2018-07-18 — Amendment (A064) offered by Mr. Smith (MO). (consideration: CR H6529-6530, H6550-6551; text: CR H6529)
+- 2018-07-18 — Amendment (A065) offered by Mr. Larson (CT). (consideration: CR H6530-6531; text: CR H6530)
+- 2018-07-18 — Amendment (A066) offered by Mr. Young (AK). (consideration: CR H6531; text: CR H6531)
+- 2018-07-18 — Amendment (A067) offered by Ms. Lujan Grisham, M.. (consideration: CR H6531-6532; text: CR H6532)
+- 2018-07-18 — Amendment (A068) offered by Mr. Palazzo. (consideration: CR H6532; text: CR H6532)
+- 2018-07-18 — Amendment (A069) offered by Mr. Soto. (consideration: CR H6532-6533; text: CR H6532)
+- 2018-07-18 — Amendment (A070) offered by Mr. Soto. (consideration: CR H6533; text: CR H6533)
+- 2018-07-18 — Amendment (A071) offered by Mr. Carbajal. (consideration: CR H6533-6534; text: CR H6533)
+- 2018-07-18 — Amendment (A072) offered by Mr. Kustoff (TN). (consideration: CR H6534; text: CR H6534)
+- 2018-07-18 — Amendment (A073) offered by Mrs. Murphy (FL). (consideration: CR H6534-6535; text: CR H6534)
+- 2018-07-18 — Amendment (A074) offered by Mr. Polis. (consideration: CR H6535; text: CR H6535)
+- 2018-07-18 — Amendment (A075) offered by Mr. Carbajal. (consideration: CR H6535-6536, H6551; text: CR H6535)
+- 2018-07-18 — Amendment (A076) offered by Mr. Zeldin. (consideration: CR H6536-6537; text: CR H6536)
+- 2018-07-18 — Amendment (A077) offered by Mr. Palmer. (consideration: CR H6537-6538, H6551-6552; text: CR H6538)
+- 2018-07-18 — Amendment (A078) offered by Mr. Meadows. (consideration: CR H6538-6539, H6552; text: CR H6538)
+- 2018-07-18 — Amendment (A079) offered by Mr. Rothfus. (consideration: CR H6539-6540, H6552-6553; text: CR H6539)
+- 2018-07-18 — Amendment (A080) offered by Mr. McHenry. (consideration: CR H6540-6542, H6553-6554; text: CR H6540)
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment agreed to Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — Amendment failed in Committee of the Whole
+- 2018-07-18 — By unanimous consent, the Connolly amendment was withdrawn. (consideration: CR H6515)
+- 2018-07-18 — By unanimous consent, the Emmer amendment was withdrawn. (consideration: CR H6515)
+- 2018-07-18 — By unanimous consent, the Grothman amendment was withdrawn. (consideration: CR H6514)
+- 2018-07-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 6147 as unfinished business.
+- 2018-07-18 — Considered as unfinished business. (consideration: CR H6497-6501)
+- 2018-07-18 — Considered as unfinished business. (consideration: CR H6501-6554)
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Abraham amendment No. 66.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 53.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 52.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 77.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 81.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment No. 65.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Emmer amendment No. 55.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment No. 51.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 50.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 63.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 67.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 68.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Jody B. Hice amendment No. 69.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Kustoff amendment No. 78.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 48.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 49.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Larson (CT) amendment No. 71.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Loudermilk amendment No. 47.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the McHenry amendment No. 87.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rodgers amendment No. 46.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Meadows amendment No. 84.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Michelle Lujan Grisham amendment No. 73.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 42.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 45.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 43.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 44.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment No. 79.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Palazzo amendment No. 74.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 83.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 62.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 80.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Posey amendment No. 64.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment No. 85.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 70.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 75.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 76.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 72.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H. Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 82.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 57.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 60.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 59.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 58.
+- 2018-07-18 — DEBATE - Pursuant to the provisions of H.Res. 996, the Committee of the Whole proceeded with 10 minutes of debte on the Grothman amendment No. 56.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Abraham amendment (A060) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Burgess amendment (A049) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Byrne amendment (A048) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Denham amendment (A059) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Goodlatte amendment (A046) Agreed to by recorded vote: 213 - 202 (Roll no. 351).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A061) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A062) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Kustoff (TN) amendment (A072) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Lamborn amendment (A044) Agreed to by recorded vote: 213 - 202 (Roll no. 349).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Lamborn amendment (A045) Agreed to by recorded vote: 213 - 201 (Roll no. 350).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Larson (CT) amendment (A065) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Loudermilk amendment (A043) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Lujan Grisham, M. amendment (A067) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the McMorris Rodgers amendment (A042) Agreed to by recorded vote: 227 - 185 (Roll no. 348).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Meadows amendment (A078) Agreed to by recorded vote: 223 - 192 (Roll no. 360).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Moore amendment (A038) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Moore amendment (A041) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Mullin amendment (A039) Agreed to by recorded vote: 215 - 194 (Roll no. 346).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Mullin amendment (A040) Agreed to by recorded vote: 215 - 199 (Roll no. 347).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Murphy (FL) amendment (A073) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the O'Halleran amendment (A025) Agreed to by recorded vote: 217 - 196 (Roll no. 343).(consideration: CR H6499-6500)
+- 2018-07-18 — House amendment agreed to: On agreeing to the Palazzo amendment (A068) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Palmer amendment (A077) Agreed to by recorded vote: 226 - 189 (Roll no. 359).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Pearce amendment (A056) Agreed to by recorded vote: 216 - 199 (Roll no. 354).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Perry amendment (A054) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Polis amendment (A074) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Posey amendment (A058) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Rothfus amendment (A079) Agreed to by recorded vote: 231 - 184 (Roll no. 361).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Smith (MO) amendment (A064) Agreed to by recorded vote: 215 - 199 (Roll no. 357).
+- 2018-07-18 — House amendment agreed to: On agreeing to the Soto amendment (A069) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Soto amendment (A070) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Young (AK) amendment (A053) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Young (AK) amendment (A066) Agreed to by voice vote.
+- 2018-07-18 — House amendment agreed to: On agreeing to the Zeldin amendment (A076) Agreed to by voice vote.
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Adams amendment (A027) Failed by recorded vote: 194 - 218 (Roll no. 344).(consideration: CR H6500)
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Biggs amendment (A001) Failed by recorded vote: 172 - 237, 1 Present (Roll no. 341).(consideration: CR H6498)
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Carbajal amendment (A071) Failed by voice vote.
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Carbajal amendment (A075) Failed by recorded vote: 190 - 224 (Roll no. 358).
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Gallego amendment (A047) Failed by recorded vote: 203 - 212 (Roll no. 352).
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Gosar amendment (A057) Failed by recorded vote: 193 - 220 (Roll no. 355).
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Grijalva amendment (A023) Failed by recorded vote: 190 - 223 (Roll no. 342).(consideration: CR H6498-6499)
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Grothman amendment (A035) as modified Failed by recorded vote: 114 - 297 (Roll no. 345).(consideration: CR H6500-6501)
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Hice, Jody B. amendment (A063) Failed by recorded vote: 174 - 240 (Roll no. 356).
+- 2018-07-18 — House amendment not agreed to: On agreeing to the McHenry amendment (A080) Failed by recorded vote: 201 - 212 (Roll no. 362).
+- 2018-07-18 — House amendment not agreed to: On agreeing to the Pearce amendment (A055) Failed by recorded vote: 206 - 209 (Roll no. 353).
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered
+- 2018-07-18 — House amendment offered/reported by: Amendment (A038) offered by Ms. Moore.(consideration: CR H6502; text: CR H6502)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A039) offered by Mr. Mullin.(consideration: CR H6502-6503; text: CR H6502)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A040) offered by Mr. Mullin.(consideration: CR H6503-6504, H6543-6544; text: CR H6503)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A041) offered by Ms. Moore.(consideration: CR H6504-6505; text: CR H6504)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A042) offered by Mrs. McMorris Rodgers.(consideration: CR H6505-6506, H6544-6545; text: CR H6505)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A043) offered by Mr. Loudermilk.(consideration: CR H6506-6507; text: CR H6506)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A044) offered by Mr. Lamborn.(consideration: CR H6507-6508, H6545; text: CR H6507)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A045) offered by Mr. Lamborn.(consideration: CR H6508-6509, H6545-6546; text: CR H6508)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A046) offered by Mr. Goodlatte.(consideration: CR H6509, H6546-6547; text: CR H6509)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A047) offered by Mr. Gallego.(consideration: CR H6510-6511, H6547; text: CR H6510)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A048) offered by Mr. Byrne.(consideration: CR H6511; text: CR H6511)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A049) offered by Mr. Burgess.(consideration: CR H6511-6512; text: CR H6511-6512)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A050) offered by Mr. Emmer.(consideration: CR H6512-6515; text: CR H6513)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A051) offered by Mr. Grothman.(consideration: CR H6514-6515; text: CR H6514)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A052) offered by Mr. Connolly.(consideration: CR H6515; text: CR H6515)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A053) offered by Mr. Young (AK).(consideration: CR H6515-6516; text: CR H6515)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A054) offered by Mr. Perry.(consideration: CR H6516-6517; text: CR H6516)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A055) offered by Mr. Pearce.(consideration: CR H6517-6518, H6547-6548; text: CR H6517)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A056) offered by Mr. Pearce.(consideration: CR H6518-6519, H6548-6549; text: CR H6518)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A057) offered by Mr. Gosar.(consideration: CR H6519-6521, H6549; text: CR H6519)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A058) offered by Mr. Posey.(consideration: CR H6521; text: CR H6521)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A059) offered by Mr. Denham.(consideration: CR H6521-6523; text: CR H6521)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A060) offered by Mr. Abraham.(consideration: CR H6523; text: CR H6523)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A061) offered by Ms. Jackson Lee.(consideration: CR H6523-6525; text: CR H6523)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A062) offered by Ms. Jackson Lee.(consideration: CR H6525-6528; text: CR H6525)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A063) offered by Mr. Hice, Jody B..(consideration: CR H6528-6529, H6549-6550; text: CR H6528)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A064) offered by Mr. Smith (MO).(consideration: CR H6529-6530, H6550-6551; text: CR H6529)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A065) offered by Mr. Larson (CT).(consideration: CR H6530-6531; text: CR H6530)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A066) offered by Mr. Young (AK).(consideration: CR H6531; text: CR H6531)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A067) offered by Ms. Lujan Grisham, M..(consideration: CR H6531-6532; text: CR H6532)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A068) offered by Mr. Palazzo.(consideration: CR H6532; text: CR H6532)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A069) offered by Mr. Soto.(consideration: CR H6532-6533; text: CR H6532)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A070) offered by Mr. Soto.(consideration: CR H6533; text: CR H6533)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A071) offered by Mr. Carbajal.(consideration: CR H6533-6534; text: CR H6533)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A072) offered by Mr. Kustoff (TN).(consideration: CR H6534; text: CR H6534)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A073) offered by Mrs. Murphy (FL).(consideration: CR H6534-6535; text: CR H6534)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A074) offered by Mr. Polis.(consideration: CR H6535; text: CR H6535)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A075) offered by Mr. Carbajal.(consideration: CR H6535-6536, H6551; text: CR H6535)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A076) offered by Mr. Zeldin.(consideration: CR H6536-6537; text: CR H6536)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A077) offered by Mr. Palmer.(consideration: CR H6537-6538, H6551-6552; text: CR H6538)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A078) offered by Mr. Meadows.(consideration: CR H6538-6539, H6552; text: CR H6538)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A079) offered by Mr. Rothfus.(consideration: CR H6539-6540, H6552-6553; text: CR H6539)
+- 2018-07-18 — House amendment offered/reported by: Amendment (A080) offered by Mr. McHenry.(consideration: CR H6540-6542, H6553-6554; text: CR H6540)
+- 2018-07-18 — Mr. Walden moved that the Committee rise.
+- 2018-07-18 — On agreeing to the Abraham amendment (A060) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Adams amendment (A027) Failed by recorded vote: 194 - 218 (Roll no. 344). (consideration: CR H6500)
+- 2018-07-18 — On agreeing to the Biggs amendment (A001) Failed by recorded vote: 172 - 237, 1 Present (Roll no. 341). (consideration: CR H6498)
+- 2018-07-18 — On agreeing to the Burgess amendment (A049) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Byrne amendment (A048) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Carbajal amendment (A071) Failed by voice vote.
+- 2018-07-18 — On agreeing to the Carbajal amendment (A075) Failed by recorded vote: 190 - 224 (Roll no. 358).
+- 2018-07-18 — On agreeing to the Denham amendment (A059) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Gallego amendment (A047) Failed by recorded vote: 203 - 212 (Roll no. 352).
+- 2018-07-18 — On agreeing to the Goodlatte amendment (A046) Agreed to by recorded vote: 213 - 202 (Roll no. 351).
+- 2018-07-18 — On agreeing to the Gosar amendment (A057) Failed by recorded vote: 193 - 220 (Roll no. 355).
+- 2018-07-18 — On agreeing to the Grijalva amendment (A023) Failed by recorded vote: 190 - 223 (Roll no. 342). (consideration: CR H6498-6499)
+- 2018-07-18 — On agreeing to the Grothman amendment (A035) as modified Failed by recorded vote: 114 - 297 (Roll no. 345). (consideration: CR H6500-6501)
+- 2018-07-18 — On agreeing to the Hice, Jody B. amendment (A063) Failed by recorded vote: 174 - 240 (Roll no. 356).
+- 2018-07-18 — On agreeing to the Jackson Lee amendment (A061) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Jackson Lee amendment (A062) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Kustoff (TN) amendment (A072) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Lamborn amendment (A044) Agreed to by recorded vote: 213 - 202 (Roll no. 349).
+- 2018-07-18 — On agreeing to the Lamborn amendment (A045) Agreed to by recorded vote: 213 - 201 (Roll no. 350).
+- 2018-07-18 — On agreeing to the Larson (CT) amendment (A065) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Loudermilk amendment (A043) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Lujan Grisham, M. amendment (A067) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the McHenry amendment (A080) Failed by recorded vote: 201 - 212 (Roll no. 362).
+- 2018-07-18 — On agreeing to the McMorris Rodgers amendment (A042) Agreed to by recorded vote: 227 - 185 (Roll no. 348).
+- 2018-07-18 — On agreeing to the Meadows amendment (A078) Agreed to by recorded vote: 223 - 192 (Roll no. 360).
+- 2018-07-18 — On agreeing to the Moore amendment (A038) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Moore amendment (A041) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Mullin amendment (A039) Agreed to by recorded vote: 215 - 194 (Roll no. 346).
+- 2018-07-18 — On agreeing to the Mullin amendment (A040) Agreed to by recorded vote: 215 - 199 (Roll no. 347).
+- 2018-07-18 — On agreeing to the Murphy (FL) amendment (A073) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the O'Halleran amendment (A025) Agreed to by recorded vote: 217 - 196 (Roll no. 343). (consideration: CR H6499-6500)
+- 2018-07-18 — On agreeing to the Palazzo amendment (A068) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Palmer amendment (A077) Agreed to by recorded vote: 226 - 189 (Roll no. 359).
+- 2018-07-18 — On agreeing to the Pearce amendment (A055) Failed by recorded vote: 206 - 209 (Roll no. 353).
+- 2018-07-18 — On agreeing to the Pearce amendment (A056) Agreed to by recorded vote: 216 - 199 (Roll no. 354).
+- 2018-07-18 — On agreeing to the Perry amendment (A054) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Polis amendment (A074) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Posey amendment (A058) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Rothfus amendment (A079) Agreed to by recorded vote: 231 - 184 (Roll no. 361).
+- 2018-07-18 — On agreeing to the Smith (MO) amendment (A064) Agreed to by recorded vote: 215 - 199 (Roll no. 357).
+- 2018-07-18 — On agreeing to the Soto amendment (A069) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Soto amendment (A070) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Young (AK) amendment (A053) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Young (AK) amendment (A066) Agreed to by voice vote.
+- 2018-07-18 — On agreeing to the Zeldin amendment (A076) Agreed to by voice vote.
+- 2018-07-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carbajal amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Carbajal demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallego amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Gallego demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jody B. Hice amendment, the Chair put the question on the amendment and by voice vote, announced the noes had prevailed. Mr. Jody B. Hice demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McHenry amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McMorris Rodgers amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. Norton demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. Norton demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (MO) amendment, the Chair put the question on the amendment and by voice vote, announced the ayes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2018-07-18 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, the Chair announced that further consideration of H.R. 6147 is postponed.
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — Roll call votes on amendments in House
+- 2018-07-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-07-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2018-07-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6147.
+- 2018-07-18 — The previous question was ordered without objection.
+- 2018-07-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2018-07-19 — Considered as unfinished business. (consideration: CR H6569-6572)
+- 2018-07-19 — DEBATE - The House proceeded with 10 minutes of debate on the Quigley motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to decrease funds for the Fund for America's Kids and Grandkids account by $380 million and increase funds for the Election Assistance Commission account by a similar amount. Subsequently, the reservation was removed.
+- 2018-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-19 — Mr. Quigley moved to recommit with instructions to the Committee on Appropriations. (text: CR H6569)
+- 2018-07-19 — On motion to recommit with instructions Failed by recorded vote: 182 - 232 (Roll no. 364).
+- 2018-07-19 — On passage Passed by the Yeas and Nays: 217 - 199 (Roll no. 365).
+- 2018-07-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 199 (Roll no. 365).
+- 2018-07-19 — Received in the Senate, read twice.
+- 2018-07-19 — The previous question on the motion to recommit with instructions was ordered without objection.
