@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 115
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1037
@@ -61,3 +61,12 @@ To authorize the National Emergency Medical Services Memorial Foundation to esta
 - 2018-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 338).
 - 2018-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 338).
 - 2018-07-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6875)
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6875)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-24 — Presented to President.
+- 2018-10-24 — Presented to President.
+- 2018-11-03 — Became Public Law No: 115-275.
+- 2018-11-03 — Became Public Law No: 115-275.
+- 2018-11-03 — Signed by President.
+- 2018-11-03 — Signed by President.
