@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6317
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 223
 
-> by striking “and (c)(2)(A)” and inserting “, (c)(1)(D)(ii)(II), and (c)(2)(A)”, and
+> by striking “and (c)(2)(A)” each place it appears and inserting “, (c)(1)(D)(ii)(II), and (c)(2)(A)”, and
 
 | | |
 |---|---|
