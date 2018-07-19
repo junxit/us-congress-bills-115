@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6305
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6305
@@ -29,3 +29,8 @@ Bipartisan HSA Improvement Act of 2018
 - 2018-07-03 — Introduced in House
 - 2018-07-03 — Introduced in House
 - 2018-07-03 — Referred to the House Committee on Ways and Means.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 13.
+- 2018-07-19 — Placed on the Union Calendar, Calendar No. 653.
+- 2018-07-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-844.
+- 2018-07-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-844.

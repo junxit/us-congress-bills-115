@@ -26,7 +26,7 @@ This Act may be cited as the “Bipartisan HSA Improvement Act of 2018”.
   >     - **(III)** Drugs other than a prescribed drug (as such term is defined in section 213(d)(3)).
   >     - **(IV)** Treatment for injuries occurring in the course of employment.
   >     - **(V)** Drug testing, if required as a condition of employment.
-  >     - **(VI)** Hearing or vision screen­ings.
+  >     - **(VI)** Hearing or vision screenings.
   >     - **(VII)** Other similar items and services that do not provide significant benefits in the nature of medical care.
   >   - **(iii)** *Aggregation* For purposes of clause (i)(I), all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
@@ -51,7 +51,7 @@ This Act may be cited as the “Bipartisan HSA Improvement Act of 2018”.
 - **(b)** *Partial reduction of limitation on deductible HSA contributions* Section 223(b)(4) of such Code is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “, and”, and by inserting after subparagraph (C) the following new subparagraph:
   > - **(D)** so much of any qualified HSA distribution (as defined in section 106(e)(2)) made to a health savings account of such individual during the taxable year as does not exceed the aggregate increases in the balance of the arrangement from which such distribution is made which occur during the portion of the plan year which precedes such distribution (other than any balance carried over to such plan year and determined without regard to any decrease in such balance during such portion of the plan year).
 
-- **(c)** *Conversion to HSA-Compatible arrangement for remainder of plan year* Section 223(c)(1)(B)(iii) of such Code, as amended by the preceding provisions of this Act, is amended to read as follows:
+- **(c)** *Conversion to HSA-compatible arrangement for remainder of plan year* Section 223(c)(1)(B)(iii) of such Code, as amended by the preceding provisions of this Act, is amended to read as follows:
   > - **(iii)** coverage under a health flexible spending arrangement or health reimbursement arrangement for the portion of the plan year after a qualified HSA distribution (as defined in section 106(e)(2) determined without regard to subparagraph (A)(ii) thereof) is made, if the terms of such arrangement which apply for such portion of the plan year are such that, if such terms applied for the entire plan year, then such arrangement would not be taken into account under subparagraph (A)(ii) of this paragraph for such plan year, and
 
 - **(d)** *Inclusion of qualified HSA distributions on W–2*
@@ -59,4 +59,4 @@ This Act may be cited as the “Bipartisan HSA Improvement Act of 2018”.
     > - **(18)** the amount of any qualified HSA distribution (as defined in section 106(e)(2)) with respect to such employee.
 
   - **(2)** *Conforming amendment* Section 6051(a)(12) of such Code is amended by inserting “(other than any qualified HSA distribution, as defined in section 106(e)(2))” before the comma at the end.
-- **(e)** *Effective date* The amendments made by this subsection shall apply to distributions made after December 31, 2018, in taxable years ending after such date.
+- **(e)** *Effective date* The amendments made by this section shall apply to distributions made after December 31, 2018, in taxable years ending after such date.
