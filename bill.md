@@ -20,4 +20,4 @@ This Act may be cited as the “Health Savings Act of 2018”.
   >   - **(i)** *In general* The term “high deductible health plan” shall include any plan described in subsection (d)(1)(A) or (e) of section 1302 of the Patient Protection and Affordable Care Act.
   >   - **(ii)** *Certain rules not applicable* Subparagraphs (C) and (D) shall not apply with respect to any plan described in clause (i).
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
+- **(b)** *Effective date* The amendment made by this section shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
