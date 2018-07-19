@@ -1,7 +1,7 @@
 ---
 measure: S. 3094
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3094
@@ -28,3 +28,7 @@ Transportation Worker Identification Credential Accountability Act of 2018
 
 - 2018-06-20 — Introduced in Senate
 - 2018-06-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-07-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-305.
+- 2018-07-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-305.
+- 2018-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 524.
