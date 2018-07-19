@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6199
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 223` | replace | by striking the last sentence of subparagraph (A) and inserting the following: “For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 223` | replace | by striking the last sentence of subparagraph (A) and inserting the following: “For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.”, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 223` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 223` | replace | Section 220(d)(2)(A) of such Code is amended by striking the last sentence and inserting the following: “For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 223` | replace | Section 106 of such Code is amended by striking subsection (f) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
