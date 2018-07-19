@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6301
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 26 U.S.C. § 223
 
-> by striking “and (c)(2)(A)” and inserting “, (c)(2)(A), and (c)(2)(E)”; and
+> by striking “and (c)(2)(A)” each place it appears and inserting “, (c)(2)(A), and (c)(2)(E)”, and
 
 | | |
 |---|---|
@@ -35,7 +35,16 @@ to guess them.
 
 ### 26 U.S.C. § 223
 
-> in subparagraph (B), by striking “clause (ii)” and inserting “clauses (ii) and (iii)” in clause (i), by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by inserting after clause (ii) the following new clause:
+> by striking “such taxable year” in the matter preceding clause (i) and inserting “the taxable year (plan year in the case of the dollar amount in subsection (c)(2)(E))”, and
+
+| | |
+|---|---|
+| Removed | `such taxable year` |
+| Inserted | `the taxable year (plan year in the case of the dollar amount in subsection (c)(2)(E))` |
+
+### 26 U.S.C. § 223
+
+> by striking “clause (ii)” and inserting “clauses (ii) and (iii)” in clause (i), by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by inserting after clause (ii) the following new clause:
 
 | | |
 |---|---|
