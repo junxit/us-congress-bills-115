@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to increase the contribution limitation for health savings accounts, and for other purposes.
 
-## § 1. Maximum contribution limit to health savings account increased to amount of deductible and out-of-pocket limitation
+## § 1. Short title
+
+This Act may be cited as the “Health Care Security Act of 2018”.
+
+## § 2. Maximum contribution limit to health savings account increased to amount of deductible and out-of-pocket limitation
 
 - **(a)** *Self-Only coverage* Section 223(b)(2)(A) of the Internal Revenue Code of 1986 is amended by striking “$2,250” and inserting “the amount in effect under subsection (c)(2)(A)(ii)(I)”.
 - **(b)** *Family coverage* Section 223(b)(2)(B) of such Code is amended by striking “$4,500” and inserting “the amount in effect under subsection (c)(2)(A)(ii)(II)”.
@@ -18,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** in subparagraph (B), by striking “determined by” and all that follows through ““calendar year 2003”.” and inserting “determined by substituting “calendar year 2003” for “calendar year 2016” in subparagraph (A)(ii) thereof.”.
 - **(d)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2018.
 
-## § 2. Allow both spouses to make catch-up contributions to the same health savings account
+## § 3. Allow both spouses to make catch-up contributions to the same health savings account
 
 - **(a)** *In general* Section 223(b)(5) of the Internal Revenue Code of 1986 is amended to read as follows:
   > - **(5)** *Special rule for married individuals with family coverage*
@@ -30,9 +34,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2018.
 
-## § 3. Special rule for certain medical expenses incurred before establishment of health savings account
+## § 4. Special rule for certain medical expenses incurred before establishment of health savings account
 
 - **(a)** *In general* Section 223(d)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
   > - **(D)** *Treatment of certain medical expenses incurred before establishment of account* If a health savings account is established during the 60-day period beginning on the date that coverage of the account beneficiary under a high deductible health plan begins, then, solely for purposes of determining whether an amount paid is used for a qualified medical expense, such account shall be treated as having been established on the date that such coverage begins.
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply with respect to coverage beginning after December 31, 2018.
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to coverage beginning after December 31, 2018.
