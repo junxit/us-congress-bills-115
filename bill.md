@@ -9,10 +9,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to allow individuals entitled to Medicare Part A by reason of being over age 65 to contribute to health savings accounts.
 
-## § 1. Individuals over age 65 entitled to part A of Medicare allowed to contribute to health savings accounts
+## § 1. Short title
+
+This Act may be cited as the “Allowing Working Seniors to Keep Their Health Savings Accounts Act of 2018”.
+
+## § 2. Individuals entitled to part A of Medicare by reason of age allowed to contribute to health savings accounts
 
 - **(a)** *In general* Section 223(c)(1)(B) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, and”, and by adding at the end the following new clause:
   > - **(iv)** entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act by reason of section 226(a) of such Act.
 
 - **(b)** *Conforming amendment* Section 223(b)(7) of such Code is amended by inserting “(other than an entitlement to benefits described in subsection (c)(1)(B)(iv))” after “Social Security Act”.
-- **(c)** *Effective date* The amendments made by this subsection shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
+- **(c)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2018, in taxable years ending after such date.
