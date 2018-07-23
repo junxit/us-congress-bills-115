@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4881
 
-> To require the Federal Communications Commission to establish a task force for meeting the connectivity and technology needs of precision agriculture in the United States.
+> To require the Federal Communications Commission to establish a task force for reviewing the connectivity and technology needs of precision agriculture in the United States.
 
 ## § 1. Short title
 
@@ -73,3 +73,7 @@ Congress finds the following:
   - **(2)** the projected future connectivity needs of agricultural operations, farmers, and ranchers; and
   - **(3)** the steps being taken to accurately measure the availability of broadband Internet access service on agricultural land and the limitations of current, as of the date of the report, measurement processes.
 - **(f)** *Termination* The Commission shall renew the Task Force every 2 years until the Task Force terminates on January 1, 2025.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized.

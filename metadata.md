@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4881
@@ -46,3 +46,12 @@ Precision Agriculture Connectivity Act of 2018
 - 2018-07-18 — Placed on the Union Calendar, Calendar No. 647.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-837.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-837.
+- 2018-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-23 — Considered as unfinished business. (consideration: CR H6632-6633)
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6595-6597)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4881.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. Lance moved to suspend the rules and pass the bill, as amended.
+- 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 4 (Roll no. 367). (text: CR H6595-6596)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 4 (Roll no. 367).(text: CR H6595-6596)
+- 2018-07-23 — The title of the measure was amended. Agreed to without objection.
