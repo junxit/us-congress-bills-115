@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3728
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,66 +26,66 @@ to guess them.
 
 ### 42 U.S.C. § 293d
 
-> in subsection (a), by striking “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$45,970,000 for each of the fiscal years 2018 through 2022”;
+> in subsection (a), by striking “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$48,970,000 for each of fiscal years 2019 through 2023”;
 
 | | |
 |---|---|
 | Removed | `$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014` |
-| Inserted | `$45,970,000 for each of the fiscal years 2018 through 2022` |
+| Inserted | `$48,970,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 293d
 
-> in subsection (b), by striking “$5,000,000 for each of the fiscal years 2010 through 2014” and inserting “$1,190,000 for each of the fiscal years 2018 through 2022”; and
+> in subsection (b), by striking “$5,000,000 for each of the fiscal years 2010 through 2014” and inserting “$1,190,000 for each of fiscal years 2019 through 2023”; and
 
 | | |
 |---|---|
 | Removed | `$5,000,000 for each of the fiscal years 2010 through 2014` |
-| Inserted | `$1,190,000 for each of the fiscal years 2018 through 2022` |
+| Inserted | `$1,190,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 293d
 
-> in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$14,189,000 for each of the fiscal years 2018 through 2022”.
+> in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$14,189,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014` |
-| Inserted | `$14,189,000 for each of the fiscal years 2018 through 2022` |
+| Inserted | `$14,189,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 293k
 
-> Section 747(c)(1) of the Public Health Service Act (42 U.S.C. 293k(c)(1)) is amended by striking “$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014” and inserting “$38,924,000 for each of fiscal years 2018 through 2022”.
+> Section 747(c)(1) of the Public Health Service Act (42 U.S.C. 293k(c)(1)) is amended by striking “$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014” and inserting “$48,924,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014` |
-| Inserted | `$38,924,000 for each of fiscal years 2018 through 2022` |
+| Inserted | `$48,924,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 293k-2
 
-> Section 748(f) of the Public Health Service Act (42 U.S.C. 293k–2(f)) is amended by striking “$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015” and inserting “$36,673,000 for each of fiscal years 2018 through 2022”.
+> Section 748(f) of the Public Health Service Act (42 U.S.C. 293k–2(f)) is amended by striking “$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015” and inserting “$40,673,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015` |
-| Inserted | `$36,673,000 for each of fiscal years 2018 through 2022` |
+| Inserted | `$40,673,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 294a
 
-> Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “$125,000,000 for each of the fiscal years 2010 through 2014” and inserting “$30,250,000 for each of the fiscal years 2018 through 2022”.
+> Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “$125,000,000 for each of the fiscal years 2010 through 2014” and inserting “$38,250,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$125,000,000 for each of the fiscal years 2010 through 2014` |
-| Inserted | `$30,250,000 for each of the fiscal years 2018 through 2022` |
+| Inserted | `$38,250,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 294n
 
-> Section 761(e)(1)(A) of the Public Health Service Act (42 U.S.C. 294n(e)(1)(A)) is amended by striking “$7,500,000 for each of fiscal years 2010 through 2014” and inserting “$4,663,000 for each of fiscal years 2018 through 2022”.
+> Section 761(e)(1)(A) of the Public Health Service Act (42 U.S.C. 294n(e)(1)(A)) is amended by striking “$7,500,000 for each of fiscal years 2010 through 2014” and inserting “$5,663,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$7,500,000 for each of fiscal years 2010 through 2014` |
-| Inserted | `$4,663,000 for each of fiscal years 2018 through 2022` |
+| Inserted | `$5,663,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 294n
 
@@ -98,12 +98,12 @@ to guess them.
 
 ### 42 U.S.C. § 295e
 
-> Section 770(a) of the Public Health Service Act (42 U.S.C. 295e(a)) is amended by striking “$43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015” and inserting “$21,000,000 for each of the fiscal years 2018 through 2022”.
+> Section 770(a) of the Public Health Service Act (42 U.S.C. 295e(a)) is amended by striking “$43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015” and inserting “$17,000,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015` |
-| Inserted | `$21,000,000 for each of the fiscal years 2018 through 2022` |
+| Inserted | `$17,000,000 for each of fiscal years 2019 through 2023` |
 
 ## Stated, not applied
 
