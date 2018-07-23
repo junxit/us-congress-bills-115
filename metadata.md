@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2345
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2345
@@ -151,3 +151,11 @@ National Suicide Hotline Improvement Act of 2018
 - 2018-07-18 — Placed on the Union Calendar, Calendar No. 646.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-836.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-836.
+- 2018-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-23 — Considered as unfinished business. (consideration: CR H6631-6632)
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6592-6595)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2345.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. Lance moved to suspend the rules and pass the bill, as amended.
+- 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 366). (text: CR H6592-6593)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 366).(text: CR H6592-6593)
