@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2630
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2630
@@ -40,3 +40,9 @@ La Paz County Land Conveyance Act
 - 2018-01-29 — Placed on the Union Calendar, Calendar No. 401.
 - 2018-01-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-536.
 - 2018-01-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-536.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6621-6623)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2630.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6621-6622)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6621-6622)
