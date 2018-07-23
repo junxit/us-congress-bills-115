@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1547
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1547
@@ -52,3 +52,8 @@ Udall Park Land Exchange Completion Act
 - 2017-10-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544). (text: CR H7641)
 - 2017-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544).(text: CR H7641)
 - 2017-10-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-07 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-502.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-07-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-307.
+- 2018-07-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-307.
+- 2018-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
