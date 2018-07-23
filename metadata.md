@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 612
@@ -28,3 +28,8 @@ Udall Park Land Exchange Completion Act
 
 - 2017-03-13 — Introduced in Senate
 - 2017-03-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-07 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-502.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-07-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-306.
+- 2018-07-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-306.
+- 2018-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
