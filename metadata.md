@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 119
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 119
@@ -67,9 +67,10 @@ Expressing the sense of Congress that a carbon tax would be detrimental to the U
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ Expressing the sense of Congress that a carbon tax would be detrimental to the U
 - 2018-07-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 180, 2 Present (Roll no. 363).(text: CR H6563)
 - 2018-07-19 — Rule provides for consideration of H. Con. Res. 119 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments.
 - 2018-07-19 — The previous question was ordered pursuant to the rule.
+- 2018-07-23 — Received in the Senate and referred to the Committee on Finance.
