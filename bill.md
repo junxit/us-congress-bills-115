@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5613
 
-> To designate the Quindaro Townsite in Kansas City, Kansas, as a National Commemorative Site.
+> To designate the Quindaro Townsite in Kansas City, Kansas, as a National Historic Landmark, and for other purposes.
 
 ## § 1. Quindaro Townsite National Commemorative Site Act
 
