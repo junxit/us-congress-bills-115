@@ -17,7 +17,7 @@ This Act may be cited as the “Mill Springs Battlefield National Monument Act�
 
 In this Act:
 
-- **(1)** *Map* The term “Map” means the map entitled “Mill Springs Battlefield National Monument, Nancy, Kentucky” numbered __/__, and dated ____, 2018.
+- **(1)** *Map* The term “Map” means the map entitled “Mill Springs Battlefield National Monument, Nancy, Kentucky” numbered 297/145513, and dated June 2018.
 - **(2)** *Monument* The term “Monument” means the Mill Springs Battlefield National Monument established by section 3(a).
 - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
 
