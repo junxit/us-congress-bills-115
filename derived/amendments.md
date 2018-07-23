@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5385
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 256e
 
-> in subsection (a), by striking “and each of fiscal years 2014 through 2018,” and inserting “, each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023,”;
+> in subsection (a), by striking “and each of fiscal years 2014 through 2018,” and inserting “each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023,”;
 
 | | |
 |---|---|
 | Removed | `and each of fiscal years 2014 through 2018,` |
-| Inserted | `, each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023,` |
-
-### 42 U.S.C. § 256e
-
-> in clause (iv), by striking “; and” and inserting “;”;
-
-| | |
-|---|---|
-| Removed | `; and` |
-| Inserted | `;` |
-
-### 42 U.S.C. § 256e
-
-> in subparagraph (D), by striking “; and” and inserting “;”;
-
-| | |
-|---|---|
-| Removed | `; and` |
-| Inserted | `;` |
+| Inserted | `each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023,` |
 
 ## Stated, not applied
 
@@ -61,7 +43,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 256e` | insert | in subsection (b)(3)(D), by inserting “and the end of fiscal year 2022,” after “fiscal year 2018,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 256e` | replace | in clause (iv), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 256e` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 256e` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
