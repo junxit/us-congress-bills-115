@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1010
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1010
+
+> Expressing the sense of the House of Representatives that the United States Air Force faces significant readiness challenges due to insufficient personnel levels, a shrinking and depleted aircraft fleet, and maintenance deferrals, all of which are affected by budgetary uncertainty and impede the Air Force’s ability to meet ongoing and unexpected national security threats, putting United States national security at risk.
+
+## Preamble
+
+- Whereas according to Air Force Chief of Staff General David Goldfein, the United States Air Force is “the smallest we’ve ever been”;
+- Whereas according to an April 2018 report from the Government Accountability Office, more than a quarter of fighter pilot positions are unfilled;
+- Whereas the Air Force has just 18,000 of the roughly 20,000 pilots it needs to crew its 5,500 fighters, bombers, airlifters, cargo planes, and rescue helicopters;
+- Whereas this 10 percent gap in its air crew requirement could, as Secretary of the Air Force Heather Wilson said in November of 2017, “break the force”;
+- Whereas almost 1/3 of the Air Force’s aircraft were not flyable, or mission-capable, at any given time in fiscal year 2017;
+- Whereas over the last decade, the total number of aircraft in the Air Force has been on a downward slope;
+- Whereas the total number of aircraft in the Air Force will drop again from fiscal year 2017 to fiscal year 2018;
+- Whereas the average age of an aircraft, forcewide, increased from 24 years in fiscal year 2010 to 27.6 years in fiscal year 2017; and
+- Whereas between fiscal years 2013 and 2017, accidents involving all Defense Department warplanes rose nearly 40 percent: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** the United States Air Force faces significant readiness challenges due to aging aircraft and depleted personnel;
+- **(2)** Congress must provide the Air Force regular and sufficient funding to address procurement, maintenance, and staffing shortfalls; and
+- **(3)** without this funding, United States national security is at risk.
