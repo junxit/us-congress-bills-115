@@ -60,3 +60,7 @@ In this Act:
 - **(5)** *Office* The term Office means the Office of Internet Connectivity and Growth established pursuant to section 2.
 - **(6)** *Universal service fund program* The term Universal Service Fund program means any program authorized under section 254 of the Communications Act of 1934 (47 U.S.C. 254) to help deploy broadband.
 - **(7)** *Universal service mechanism* The term universal service mechanism means any funding stream provided by a Universal Service Fund program to support broadband access.
+
+## § 7. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized.
