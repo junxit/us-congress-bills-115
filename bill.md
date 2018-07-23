@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2353
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2353
 
-That the bill from the House of Representatives (H.R. 2353) entitled “An Act to reauthorize the Carl D. Perkins Career and Technical Education Act of 2006.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To reauthorize the Carl D. Perkins Career and Technical Education Act of 2006.
 
 ## § 1. Short title
 
