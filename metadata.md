@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1689
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1689
@@ -30,3 +30,15 @@ Private Property Rights Protection Act of 2017
 - 2017-03-22 — Introduced in House
 - 2017-03-22 — Introduced in House
 - 2017-03-22 — Referred to the House Committee on the Judiciary.
+- 2017-04-06 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2018-04-25 — Committee Consideration and Mark-up Session Held.
+- 2018-04-25 — Ordered to be Reported by Voice Vote.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6610-6616)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1689.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
+- 2018-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6610-6612)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6610-6612)
+- 2018-07-23 — Placed on the Union Calendar, Calendar No. 666.
+- 2018-07-23 — Reported by the Committee on Judiciary. H. Rept. 115-859.
+- 2018-07-23 — Reported by the Committee on Judiciary. H. Rept. 115-859.
