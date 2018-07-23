@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 589
@@ -60,3 +60,11 @@ Department of Energy Research and Innovation Act
 - 2018-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-242.
 - 2018-05-09 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-242.
 - 2018-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.
+- 2018-07-23 — Amendment SA 3403 agreed to in Senate by Unanimous Consent.
+- 2018-07-23 — Amendment SA 3403 proposed by Senator Murkowski. (consideration: CR S5219; text: CR S5219) To strike the provisions relating to nuclear energy innovation capabilities.
+- 2018-07-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5219)
+- 2018-07-23 — Passed Senate with an amendment by Voice Vote.
+- 2018-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-07-23 — Senate amendment agreed to: Amendment SA 3403 agreed to in Senate by Unanimous Consent.
+- 2018-07-23 — Senate amendment proposed (on the floor): Amendment SA 3403 proposed by Senator Murkowski.(consideration: CR S5219; text: CR S5219)
+- 2018-07-23 — Senate amendment submitted
