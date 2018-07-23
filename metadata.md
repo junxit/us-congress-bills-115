@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1220
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1220
@@ -46,3 +46,9 @@ To establish the Adams Memorial Commission to carry out the provisions of Public
 - 2018-02-16 — Placed on the Union Calendar, Calendar No. 427.
 - 2018-02-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-566.
 - 2018-02-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-566.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6623-6624)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1220.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6623)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6623)
