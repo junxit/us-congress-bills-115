@@ -66,3 +66,7 @@ In this Act—
     - **(E)** make other recommendations, as appropriate, for improving the National Suicide Prevention Lifeline generally, which may include—
       - **(i)** increased public education and awareness; and
       - **(ii)** improved infrastructure and operations.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized.
