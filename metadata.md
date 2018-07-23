@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 589
@@ -68,3 +68,15 @@ Department of Energy Research and Innovation Act
 - 2018-07-23 — Senate amendment agreed to: Amendment SA 3403 agreed to in Senate by Unanimous Consent.
 - 2018-07-23 — Senate amendment proposed (on the floor): Amendment SA 3403 proposed by Senator Murkowski.(consideration: CR S5219; text: CR S5219)
 - 2018-07-23 — Senate amendment submitted
+- 2018-07-24 — Message on Senate action sent to the House.
+- 2018-09-13 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 589.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8234-8235; text of senate amendment: CR H8234)
+- 2018-09-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2018-09-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2018-09-18 — Presented to President.
+- 2018-09-18 — Presented to President.
+- 2018-09-28 — Became Public Law No: 115-246.
+- 2018-09-28 — Became Public Law No: 115-246.
+- 2018-09-28 — Signed by President.
+- 2018-09-28 — Signed by President.
