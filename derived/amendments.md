@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3045
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 16 U.S.C. § 1244
 
-> by striking “maps identified as, Vicinity Map, Lewis and Clark Trail study report dated April 1977.” and inserting “the map entitled Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension, dated April 2018, and numbered 648/143721.”
+> by striking “maps identified as, Vicinity Map, Lewis and Clark Trail study report dated April 1977.” and inserting “the map entitled Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension, dated April 2018, and numbered 648/143721.”.
 
 | | |
 |---|---|
