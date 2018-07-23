@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2353
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2353
@@ -81,3 +81,13 @@ Strengthening Career and Technical Education for the 21st Century Act
 - 2017-06-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5067-5076)
 - 2017-06-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5067-5076)
 - 2017-06-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-07-23 — Amendment SA 3408 agreed to in Senate by Unanimous Consent.
+- 2018-07-23 — Amendment SA 3408 proposed by Senator Murkowski for Senator Alexander. (consideration: CR S5225) In the nature of a substitute.
+- 2018-07-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5225)
+- 2018-07-23 — Passed Senate with an amendment by Voice Vote.
+- 2018-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-07-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-07-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-07-23 — Senate amendment agreed to: Amendment SA 3408 agreed to in Senate by Unanimous Consent.
+- 2018-07-23 — Senate amendment proposed (on the floor): Amendment SA 3408 proposed by Senator Murkowski for Senator Alexander.(consideration: CR S5225)
+- 2018-07-23 — Senate amendment submitted
