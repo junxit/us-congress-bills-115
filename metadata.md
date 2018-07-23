@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5709
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5709
@@ -50,3 +50,9 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 - 2018-07-18 — Placed on the Union Calendar, Calendar No. 652.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-843.
 - 2018-07-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-843.
+- 2018-07-23 — Considered under suspension of the rules. (consideration: CR H6597-6598)
+- 2018-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5709.
+- 2018-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-23 — Mr. Lance moved to suspend the rules and pass the bill, as amended.
+- 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6597)
+- 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6597)
