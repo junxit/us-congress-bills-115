@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5875
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 14 executed, 7 stated and not applied.
+19 amendatory instructions. 12 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 16 U.S.C. § 669
 
-> The first section and section 12 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669, 669i) are each amended by striking “Secretary of Agriculture” and inserting “Secretary of the Interior”.
+> The first section and section 12 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669, 669i) are each amended by striking “Secretary of Agriculture” each place it appears and inserting “Secretary of the Interior”.
 
 | | |
 |---|---|
@@ -68,24 +68,6 @@ to guess them.
 |---|---|
 | Removed | `sections 4(d) and (e) of this Act,` |
 | Inserted | `section 4(e),` |
-
-### 16 U.S.C. § 669c
-
-> in subparagraph (A), by striking “to the District” and inserting “To the District”; and
-
-| | |
-|---|---|
-| Removed | `to the District` |
-| Inserted | `To the District` |
-
-### 16 U.S.C. § 669c
-
-> in subparagraph (B), by striking “to Guam,” and inserting “To Guam,”; and
-
-| | |
-|---|---|
-| Removed | `to Guam,` |
-| Inserted | `To Guam,` |
 
 ### 16 U.S.C. § 669c
 

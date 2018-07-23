@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Apportionment under Pittman-Robertson Wildlife Restoration Act
 
-- **(a)** *Equivalent minimum Apportionment among States and territories of tax revenues accruing to fund* The first subsection (c) of section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c), relating to apportionment of certain revenues accruing to the fund, is amended by striking “among the States” and all that follows through the end of the first sentence and inserting: “among the States and each of American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands in proportion to the ratio that the population of each State and each such territory bears to the population of all the States and such territories, except that each State shall be apportioned not more than 3 percent of such revenues, and each State and each such territory shall be apportioned not less than 1 percent of such revenues.”.
+- **(a)** *Equivalent minimum apportionment among States and territories of tax revenues accruing to fund* The first subsection (c) of section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c), relating to apportionment of certain revenues accruing to the fund, is amended by striking “among the States” and all that follows through the end of the first sentence and inserting: “among the States and each of American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands in proportion to the ratio that the population of each State and each such territory bears to the population of all the States and such territories, except that each State shall be apportioned not more than 3 percent of such revenues, and each State and each such territory shall be apportioned not less than 1 percent of such revenues.”.
 - **(b)** *Apportionment of wildlife conservation and restoration account among territories and the District of Columbia* The second subsection (c) of section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c), as added by section 902(e) of H.R. 5548, as introduced in the 106th Congress and enacted into law by section 1(a)(2) of Public Law 106–55, and relating to apportionment of the Wildlife Conservation and Restoration Account, is amended by striking paragraph (1) and inserting the following:
   > - **(1)** The Secretary of the Interior shall apportion from the Wildlife Conservation and Restoration Account to each of the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands a sum equal to not more than one-half of 1 percent of such Account.
 
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Technical corrections to Pittman-Robertson Wildlife Restoration Act
 
-- **(a)** The first section and section 12 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669, 669i) are each amended by striking “Secretary of Agriculture” and inserting “Secretary of the Interior”.
+- **(a)** The first section and section 12 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669, 669i) are each amended by striking “Secretary of Agriculture” each place it appears and inserting “Secretary of the Interior”.
 - **(b)** Paragraph (2) of section 3(a) of such Act (16 U.S.C. 669b(a)) is amended—
   - **(1)** by moving such paragraph 2 ems to the left; and
   - **(2)** by striking “16 U.S.C. 669(b)(1))” and inserting “subsection (b)(1)”.
@@ -27,15 +27,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** Section 4 of such Act (16 U.S.C. 669c) is amended by redesignating the second subsection (c) (as added by section 902(e) of H.R. 5548, as introduced in the 106th Congress and enacted into law by section 1(a)(2) of Public Law 106–55; relating to apportionment of the Wildlife Conservation and Restoration Account) and subsection (d) as subsections (d) and (e), respectively.
   - **(2)** Section 2(6) of such Act (16 U.S.C. 669a(6)) is amended by striking “section 304(d)” and inserting “section 4(e)”.
   - **(3)** Section 3(c)(2) of such Act (16 U.S.C. 669b(c)(2)) is amended by striking “sections 4(d) and (e) of this Act,” and inserting “section 4(e),”.
-- **(d)** Subsection (d) of section 4 of such Act (16 U.S.C. 669c), as redesignated by paragraph (1) of this subsection, is further amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** in subparagraph (A), by striking “to the District” and inserting “To the District”; and
-    - **(B)** in subparagraph (B), by striking “to Guam,” and inserting “To Guam,”; and
-  - **(2)** in paragraph (2)(A)—
-    - **(A)** in clause (i)—
-      - **(i)** by striking “one-third of which is based” and inserting “One-third of such amount shall be apportioned based”; and
-      - **(ii)** by striking “; and” and inserting a period; and
-    - **(B)** in clause (ii), by striking “two-thirds of which is based” and inserting “Two-thirds of such amount shall be apportioned based”.
+- **(d)** Subsection (d) of section 4 of such Act (16 U.S.C. 669c), as redesignated by subsection (c)(1) of this section, is further amended in paragraph (2)(A)—
+  - **(1)** in clause (i)—
+    - **(A)** by striking “one-third of which is based” and inserting “One-third of such amount shall be apportioned based”; and
+    - **(B)** by striking “; and” and inserting a period; and
+  - **(2)** in clause (ii), by striking “two-thirds of which is based” and inserting “Two-thirds of such amount shall be apportioned based”.
 - **(e)** Section 6 of such Act (16 U.S.C. 669e) is amended—
   - **(1)** in subsection (a)—
     - **(A)** by inserting “(1)” before the first sentence;
