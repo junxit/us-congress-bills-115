@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 580
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 580
@@ -28,3 +28,7 @@ A resolution recognizing and supporting public awareness of the importance of tr
 
 - 2018-07-18 — Introduced in Senate
 - 2018-07-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5071)
+- 2018-07-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-07-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-07-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5312)
+- 2018-07-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5312)
