@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2345
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2345
@@ -163,3 +163,4 @@ National Suicide Hotline Improvement Act of 2018
 - 2018-07-23 — Mr. Lance moved to suspend the rules and pass the bill, as amended.
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 366). (text: CR H6592-6593)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 366).(text: CR H6592-6593)
+- 2018-07-24 — Received in the Senate, read twice.
