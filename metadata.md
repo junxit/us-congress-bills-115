@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5954
 congress: 115
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5954
@@ -47,3 +47,4 @@ Anti-Terrorism Clarification Act of 2018
 - 2018-07-23 — Placed on the Union Calendar, Calendar No. 665.
 - 2018-07-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-858.
 - 2018-07-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-858.
+- 2018-07-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 527.
