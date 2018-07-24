@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2630
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2630
@@ -22,9 +22,10 @@ La Paz County Land Conveyance Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ La Paz County Land Conveyance Act
 - 2018-07-23 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6621-6622)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6621-6622)
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
