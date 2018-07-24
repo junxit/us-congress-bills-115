@@ -9,13 +9,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the VA Choice and Quality Employment Act to direct the Secretary of Veterans Affairs to establish a vacancy and recruitment database to facilitate the recruitment of certain members of the Armed Forces to satisfy the occupational needs of the Department of Veterans Affairs, to establish and implement a training and certification program for intermediate care technicians in that Department, and for other purposes.
 
-## § 1. Short title
+## § 1. Short Title
 
 This Act may be cited as the “Veterans Serving Veterans Act of 2018”.
 
-## § 2. Recruitment database
+## § 2. Recruitment Database
 
-- **(a)** *Establishment* Section 208 of the VA Choice and Quality Employment Act (Public Law 115–46; 38 U.S.C. 701 note) is amended as follows:
+- **(a)** *Establishment* Section 208 of the VA Choice and Quality Employment Act of 2017 (Public Law 115–46; 38 U.S.C. 701 note) is amended as follows:
   - **(1)** In subsection (a)—
     - **(A)** in the matter proceeding paragraph (1), by striking “a single database” and inserting “and maintain a single searchable database (to be known as the “Departments of Defense and Veterans Affairs Recruitment Database”)”;
     - **(B)** in paragraph (1), by striking “; and” and inserting a semicolon;
@@ -43,7 +43,7 @@ This Act may be cited as the “Veterans Serving Veterans Act of 2018”.
     >   - **(2)** who elects to be listed in the database established under subsection (a); and
     >   - **(3)** who has been determined by the Secretary, in consultation with the Secretary of Defense, to have a military occupational speciality that corresponds to a vacant position described in subsection (a).
 
-- **(b)** *Implementation plan* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a plan to implement, including a timeline, section 208 of the VA Choice and Quality Employment Act (Public Law 115–46; 38 U.S.C. 701 note), as amended by this section.
+- **(b)** *Implementation plan* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a plan to implement, including a timeline, section 208 of the VA Choice and Quality Employment Act of 2017 (Public Law 115–46; 38 U.S.C. 701 note), as amended by this section.
 
 ## § 3. Intermediate Care Technician Training Program
 
@@ -57,8 +57,4 @@ This Act may be cited as the “Veterans Serving Veterans Act of 2018”.
 
 ## § 4. No authorization of appropriations
 
-No additional funds are authorized to be appropriated to carry out section 208 of the VA Choice and Quality Employment Act (Public Law 115–46; 38 U.S.C. 701 note), as amended by section 2 of this Act, or to carry out section 3 of this Act. Such sections shall be carried out using amounts otherwise authorized to be appropriated for such purpose.
-
-## § 5. No additional funds authorized
-
-No additional funds are authorized to be appropriated to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
+No additional funds are authorized to be appropriated to carry out section 208 of the VA Choice and Quality Employment Act of 2017 (Public Law 115–46; 38 U.S.C. 701 note), as amended by section 2 of this Act, or to carry out section 3 of this Act. Such sections shall be carried out using amounts otherwise authorized to be appropriated for such purpose.
