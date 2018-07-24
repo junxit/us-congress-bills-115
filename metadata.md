@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5613
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5613
@@ -24,9 +24,10 @@ Quindaro Townsite National Commemorative Site Act
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Quindaro Townsite National Commemorative Site Act
 - 2018-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-856.
 - 2018-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-856.
 - 2018-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

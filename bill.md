@@ -2,12 +2,12 @@
 legis-num: H.R. 5613
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5613
 
-> To designate the Quindaro Townsite in Kansas City, Kansas, as a National Historic Landmark, and for other purposes.
+> To designate the Quindaro Townsite in Kansas City, Kansas, as a National Commemorative Site.
 
 ## § 1. Quindaro Townsite National Commemorative Site Act
 
