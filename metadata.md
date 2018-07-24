@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4952
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4952
@@ -42,3 +42,9 @@ Improving Seniors Access to Quality Benefits Act
 - 2018-07-17 — Placed on the Union Calendar, Calendar No. 644.
 - 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-832, Part I.
 - 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-832, Part I.
+- 2018-07-24 — Considered under suspension of the rules. (consideration: CR H7115-7116)
+- 2018-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4952.
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — Mr. Kelly (PA) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7115)
+- 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7115)
