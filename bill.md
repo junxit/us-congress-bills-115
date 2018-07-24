@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1201
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,5 +24,5 @@ This Act may be cited as the “Equitable Access to Care and Health Act” or th
   >     - **(I)** *Medical health services defined* For purposes of this subparagraph, the term medical health services does not include routine dental, vision and hearing services, midwifery services, vaccinations, necessary medical services provided to children, services required by law or by a third party, and such other services as the Secretary of Health and Human Services may provide in implementing section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act.
   >     - **(II)** *Attestation required* Clause (i)(II) shall apply to an individual for months in a taxable year only if the information provided by the individual under section 1411(b)(5)(A) of such Act includes an attestation that the individual has not received medical health services during the preceding taxable year.
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2013.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2018.
 - **(c)** *Construction* Nothing in the amendment made by subsection (a) shall preempt any State law requiring the provision of medical treatment for children, especially those who are seriously ill.
