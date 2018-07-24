@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2409
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 3 executed, 10 stated and not applied.
+12 amendatory instructions. 3 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,7 +61,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `50 U.S.C. § 3956` | insert | in the section heading, by inserting “, multichannel video programming, and Internet access” after “telephone”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3956` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3956` | insert | in subsection (c), by inserting “for commercial mobile service or telephone exchange service” before “terminated”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3956` | replace | by striking “For any” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3956` | replace | by striking “If the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
