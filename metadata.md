@@ -1,7 +1,7 @@
 ---
 measure: S. 2278
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2278
@@ -16,7 +16,7 @@ State Offices of Rural Health Reauthorization Act of 2018
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -33,6 +33,8 @@ State Offices of Rural Health Reauthorization Act of 2018
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -46,3 +48,5 @@ State Offices of Rural Health Reauthorization Act of 2018
 - 2018-03-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment. Without written report.
 - 2018-03-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment. Without written report.
 - 2018-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
+- 2018-07-24 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5312-5314; text: CR S5313-5314)
+- 2018-07-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5312-5314; text: CR S5313-5314)
