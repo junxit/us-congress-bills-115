@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1689
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1689
@@ -21,9 +21,10 @@ Private Property Rights Protection Act of 2017
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Private Property Rights Protection Act of 2017
 - 2018-07-23 — Placed on the Union Calendar, Calendar No. 666.
 - 2018-07-23 — Reported by the Committee on Judiciary. H. Rept. 115-859.
 - 2018-07-23 — Reported by the Committee on Judiciary. H. Rept. 115-859.
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
