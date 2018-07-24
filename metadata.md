@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5979
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5979
@@ -16,9 +16,10 @@ Mill Springs Battlefield National Monument Act
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Mill Springs Battlefield National Monument Act
 - 2018-07-23 — Placed on the Union Calendar, Calendar No. 662.
 - 2018-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-855.
 - 2018-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-855.
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
