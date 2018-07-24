@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6077
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6077
@@ -21,9 +21,10 @@ National Comedy Center Recognition Act
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Collins, Chris [R-NY-27] (C001092)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ National Comedy Center Recognition Act
 - 2018-07-23 — Placed on the House Calendar, Calendar No. 172.
 - 2018-07-23 — Reported by the Committee on Natural Resources. H. Rept. 115-854.
 - 2018-07-23 — Reported by the Committee on Natural Resources. H. Rept. 115-854.
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
