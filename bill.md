@@ -2,14 +2,14 @@
 legis-num: H. RES. 1012
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1012
 
 > Providing for consideration of the bill (H.R. 6199) to amend the Internal Revenue Code of 1986 to include certain over-the-counter medical products as qualified medical expenses, and providing for proceedings during the period from July 27, 2018, through September 3, 2018.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6199) to amend the Internal Revenue Code of 1986 to include certain over-the-counter medical products as qualified medical expenses. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-82 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6199) to amend the Internal Revenue Code of 1986 to include certain over-the-counter medical products as qualified medical expenses. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115–82 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
