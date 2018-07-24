@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1476
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,4 +18,4 @@ This Act may be cited as the â€œNative American Health Savings Improvement Actâ€
 - **(a)** *In general* Section 223(c)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
   > - **(D)** *Special rule for individuals eligible for assistance under Indian Health Service programs* For purposes of subparagraph (A)(ii), an individual shall not be treated as covered under a health plan described in such subparagraph merely because the individual receives hospital care or medical services under a medical care program of the Indian Health Service or of a tribal organization.
 
-- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2018.
