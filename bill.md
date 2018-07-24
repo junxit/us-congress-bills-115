@@ -22,4 +22,4 @@ The table of contents for this Act is as follows:
 In this Act:
 
 - **(1)** The term “TAP” means the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code.
-- **(2)** The term “Secretary concerned” has the meaning given such term in section 101 of title 10, United States Code.
+- **(2)** The term “military departments” has the meaning given that term in section 101 of title 10, United States Code.
