@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5385
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5385
@@ -114,3 +114,4 @@ Dr. Benjy Frances Brooks Children's Hospital GME Support Reauthorization Act of 
 - 2018-07-23 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6600)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6600)
+- 2018-07-24 — Received in the Senate, read twice.
