@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2787
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,42 +11,59 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans-Specific Education for Tomorrow’s Medical Doctors Act” or the “VET MD Act”.
+This Act may be cited as the “Veterans-Specific Education for Tomorrow’s Health Professionals Act” or the “Vet HP Act”.
 
-## § 2. Pilot program for clinical observation by pre-med students
+## § 2. Sense of Congress regarding Department of Veterans Affairs pilot program for clinical observation by undergraduate students
 
-- **(a)** *Establishment* The Secretary of Veterans Affairs shall carry out a pilot program to provide undergraduate students a clinical observation experience at medical centers of the Department of Veterans Affairs.
-- **(b)** *Duration* The Secretary shall carry out the pilot program under subsection (a) for a three-year period beginning not later than August 15, 2020.
-- **(c)** *Goals* The Secretary shall ensure that the pilot program under subsection (a) meets the following goals:
-  - **(1)** Increases the awareness, knowledge, and empathy of future medical professionals toward the medical conditions common to veterans.
-  - **(2)** Increases the diversity of the recruitment pool of future physicians of the Department.
-  - **(3)** Provides a diverse clinical observation experience commensurate with the standard expectations for medical school applications.
-  - **(4)** Expands clinical observation opportunities for all students by encouraging students of all backgrounds to consider a career in medicine.
-- **(d)** *Medical center selection* The Secretary shall select not fewer than five medical centers of the Department to carry out the pilot program under subsection (a). In selecting such medical centers, the Secretary shall ensure regional diversity among such selected medical centers.
-- **(e)** *Clinical observation sessions*
-  - **(1)** *Sessions* The Secretary shall ensure that each medical center of the Department selected under subsection (d) provides clinical observation sessions as follows:
-    - **(A)** Each session shall allow for, to the extent practicable, not fewer than 20 students to participate in the session, which shall consist of not fewer than 60 observational hours.
-    - **(B)** Each center shall carry out three sessions per calendar year, from four to six months in duration with minimal overlap.
-    - **(C)** A majority of the observational hours shall be spent observing a practicing physician. The other observational hours shall be spent in a manner that ensures a robust, well rounded experience that exposes the students to a variety of aspects of medical care and health care administration.
-  - **(2)** *Consideration of areas with staffing shortages* In carrying out paragraph (1)(C), the Secretary may consider providing clinical observation sessions with physicians employed in occupations with large staffing shortages, such as occupations relating to women’s health and psychiatric care and occupations identified under section 7412 of title 38, United States Code.
-- **(f)** *Students*
-  - **(1)** *Selection* The Secretary shall select to participate in the pilot program under subsection (a) undergraduate students who are—
-    - **(A)** citizens of the United States; and
-    - **(B)** enrolled in an accredited science or medical program of study.
-  - **(2)** *Priority* In making such selection, the Secretary shall give priority to—
-    - **(A)** students who, at the time of the completion of their secondary education, resided in a health professional shortage area (as defined in section 332 of the Public Health Service Act (42 U.S.C. 254e)); and
-    - **(B)** students who are the first in their immediate family to attend an undergraduate institution.
-- **(g)** *Other matters* The Secretary shall—
+It is the sense of Congress that the pilot program described in section 3(a) should be designed to—
+
+- **(1)** increase the awareness, knowledge, and empathy of future health professionals toward the health conditions common to veterans;
+- **(2)** increase the diversity of the recruitment pool of future physicians of the Department; and
+- **(3)** expand clinical observation opportunities for all students by encouraging students of all backgrounds to consider a career in the health professions.
+
+## § 3. Department of Veterans Affairs pilot program for clinical observation by undergraduate students
+
+- **(a)** *Establishment* The Secretary of Veterans Affairs shall carry out a pilot program for a one-year period, beginning not later than August 15, 2021, to provide certain students described in subsection (d) a clinical observation experience at medical centers of the Department of Veterans Affairs.
+- **(b)** *Medical center selection* The Secretary shall carry out the pilot program under this section at not fewer than five medical centers of the Department. In selecting such medical centers, the Secretary shall ensure regional diversity among such selected medical centers.
+- **(c)** *Clinical observation sessions*
+  - **(1)** *Frequency and Duration* In carrying out the pilot program, the Secretary shall—
+    - **(A)** provide at least one and not more than three clinical observation sessions at each medical center selected during each calendar year;
+    - **(B)** ensure that each clinical observation session—
+      - **(i)** lasts between four and six months; and
+      - **(ii)** to the extent practicable, begins and ends concurrently with one or more academic terms of an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)); and
+    - **(C)** ensure that the clinical observation sessions provided at a medical center have minimal overlap.
+  - **(2)** *Sessions* The Secretary shall ensure that the pilot program consists of clinical observation sessions as follows:
+    - **(A)** Each session shall allow for not fewer than five students nor greater than 15 students to participate in the session.
+    - **(B)** Each session shall consist of not fewer than 20 observational hours nor greater than 40 observational hours.
+    - **(C)** A majority of the observational hours shall be spent observing a health professional. The other observational hours shall be spent in a manner that ensures a robust, well rounded experience that exposes the students to a variety of aspects of medical care and health care administration.
+    - **(D)** Each session shall provide a diverse clinical observation experience.
+- **(d)** *Students*
+  - **(1)** *Selection* The Secretary shall select to participate in the pilot program under subsection (a) students who are—
+    - **(A)** nationals of the United States;
+    - **(B)** enrolled in an accredited program of study at an institution of higher education; and
+    - **(C)** referred by their institution of higher education following an internal application process.
+  - **(2)** *Priority* In making such selection, the Secretary shall give priority to each of the following five categories of students:
+    - **(A)** Students who, at the time of the completion of their secondary education, resided in a health professional shortage area (as defined in section 332 of the Public Health Service Act (42 U.S.C. 254e)).
+    - **(B)** First generation college students (as defined in section 402A(h)(3) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))).
+    - **(C)** Students who have been referred by minority-serving institutions (as defined in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))).
+    - **(D)** Veterans (as defined in section 101 of title 38, United States Code).
+    - **(E)** Students who indicate an intention to specialize in a health professional occupation identified by the Inspector General of the Department under section 7412 of title 38, United States Code, as having a staffing shortage.
+  - **(3)** *Assignment to medical centers* The Secretary shall assign students selected under paragraph (1) to medical centers selected under subsection (b) without regard for whether such medical centers have staffing shortages in any health professional occupation pursuant to section 7412 of title 38, United States Code.
+- **(e)** *Other matters* In carrying out the pilot program under this section, the Secretary shall—
   - **(1)** establish a formal status to facilitate the access to medical centers of the Department by student observers participating in the pilot program;
   - **(2)** establish standardized legal, privacy, and ethical requirements for the student observers, including with respect to—
-    - **(A)** ensuring that no student observer provides any care to patients; and
+    - **(A)** ensuring that no student observer provides any care to patients while participating as an observer; and
     - **(B)** ensuring the suitability of a student to participate in the pilot program to ensure that the student poses no risk to patients;
-  - **(3)** create a standardized application, assessment, selection and processing requirements, and procedures for student observers;
-  - **(4)** create an online information page and application portal on the Internet website of the Department;
-  - **(5)** identify participating medical centers and clinicians;
-  - **(6)** notify the Committees on Veterans’ Affairs of the House of Representatives and the Senate of the medical centers selected under subsection (d) in a timely manner to facilitate program awareness;
-  - **(7)** publish the locations of such centers, and other information on the pilot program, not later than 180 days before the date on which applications are required to be submitted by potential student observers; and
-  - **(8)** establish procedures to follow up with each student observer to ascertain if the student was accepted into medical school.
-- **(h)** *Report* Not later than 60 days before the completion of the pilot program under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the results of the pilot program, including—
+  - **(3)** develop and implement a partnership strategy with minority-serving institutions to encourage referrals;
+  - **(4)** create standardized procedures for student observers;
+  - **(5)** create an online information page about the pilot program on the internet website of the Department;
+  - **(6)** publish on the online information page created under paragraph (5) the locations of such centers, and other information on the pilot program, not later than 180 days before the date on which applications are required to be submitted by potential student observers;
+  - **(7)** identify medical centers and specific health professionals participating in the pilot program; and
+  - **(8)** notify the Committees on Veterans’ Affairs of the House of Representatives and the Senate of the medical centers selected under subsection (c) within 30 days of selection, to facilitate program awareness.
+- **(f)** *Report* Not later than 180 days after the completion of the pilot program under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the results of the pilot program, including—
   - **(1)** the number and demographics of all applicants, those accepted to participate in the pilot program, and those who completed the pilot program; and
-  - **(2)** the results of a reflection survey designed by the Secretary to assess the experience of the student observers.
+  - **(2)** if participating institutions of higher education choose to administer satisfaction surveys that assess the experience of those who completed the pilot program, the results of any such satisfaction surveys, provided at the discretion of the institution of higher education.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
