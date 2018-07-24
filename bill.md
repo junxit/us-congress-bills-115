@@ -20,5 +20,9 @@ This Act may be cited as the “Department of Veterans Affairs Creation of On-Si
   - **(1)** the cost of treating regulated medical waste at an off-site location under a contract with a non-Department entity, compared to
   - **(2)** the cost of treating regulated medical waste on-site, based on the equipment specification of treatment system manufacturers, with capital costs amortized over a ten-year period.
 - **(c)** *Installation* At each Department facility identified under subsection (a), the Secretary shall secure, install, and operate an on-site regulated medical waste treatment system.
-- **(d)** *Use of purchase agreement* Any medical waste treatment system purchased pursuant to this section shall be purchased under the purchase agreement known as the “VHA Regulated Medical Waste On-Site Treatment Equipment Systems Blanket Purchase Agreement”.
+- **(d)** *Use of blanket purchase agreement* Any medical waste treatment system purchased pursuant to this section shall be purchased under the blanket purchase agreement known as the “VHA Regulated Medical Waste On-Site Treatment Equipment Systems Blanket Purchase Agreement” or any successor, contract, agreement, or other arrangement.
 - **(e)** *Regulated medical waste defined* In this section, the term “regulated medical waste” has the meaning given such term under section 173.134(a)(5) of title 49, Code of Federal Regulations, concerning regulated medical waste and infectious substances, or any successor regulation, except that, in the case of an applicable State law that is more expansive, the definition in the State law shall apply.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
