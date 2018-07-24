@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,16 +26,16 @@ to guess them.
 
 ### 38 U.S.C. § 701
 
-> in the matter proceeding paragraph (1), by striking “a single database” and inserting “and maintain a single searchable database, to be known as the Department of Defense and Veterans Affairs Recruitment Database”;
+> in the matter proceeding paragraph (1), by striking “a single database” and inserting “and maintain a single searchable database (to be known as the Departments of Defense and Veterans Affairs Recruitment Database)”;
 
 | | |
 |---|---|
 | Removed | `a single database` |
-| Inserted | `and maintain a single searchable database, to be known as the Department of Defense and Veterans Affairs Recruitment Database` |
+| Inserted | `and maintain a single searchable database (to be known as the Departments of Defense and Veterans Affairs Recruitment Database)` |
 
 ### 38 U.S.C. § 701
 
-> In subsection (h)(1), as redesignated in paragraph (2), by striking “subsection (b)” and inserting “subsection (g)”.
+> In subsection (g)(1), as redesignated in paragraph (2), by striking “subsection (b)” and inserting “subsection (g)”.
 
 | | |
 |---|---|
@@ -44,7 +44,7 @@ to guess them.
 
 ### 38 U.S.C. § 701
 
-> In subsection (i), as redesignated in paragraph (2), by striking “of this Act” and inserting “of the Veterans Serving Veterans Act of 2018, and annually thereafter”.
+> In subsection (h), as redesignated in paragraph (2), by striking “of this Act” and inserting “of the Veterans Serving Veterans Act of 2018, and annually thereafter”.
 
 | | |
 |---|---|
@@ -63,6 +63,6 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 701` | replace | in paragraph (1), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 701` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 701` | amend | by adding after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 701` | redesignate | By redesignating subsections (b), (c), and (d) as subsections (g), (h), and (i), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 701` | redesignate | By redesignating subsections (b), (c), and (d) as subsections (f), (g), and (h), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 701` | insert | By inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 701` | redesignate | By adding after subsection (i), as redesignated in paragraph (2), the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 701` | redesignate | By adding after subsection (h), as redesignated in paragraph (2), the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
