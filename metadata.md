@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6138
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6138
@@ -41,3 +41,9 @@ ASC Payment Transparency Act of 2018
 - 2018-07-17 — Placed on the Union Calendar, Calendar No. 643.
 - 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-831, Part I.
 - 2018-07-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-831, Part I.
+- 2018-07-24 — Considered under suspension of the rules. (consideration: CR H7116-7118)
+- 2018-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6138.
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — Mr. Nunes moved to suspend the rules and pass the bill, as amended.
+- 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7116-7117)
+- 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7116-7117)
