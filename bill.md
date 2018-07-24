@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 184
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect Medical Innovation Act of 2017”.
+This Act may be cited as the “Protect Medical Innovation Act of 2018”.
 
 ## § 2. Repeal of medical device excise tax
 
@@ -20,4 +20,4 @@ This Act may be cited as the “Protect Medical Innovation Act of 2017”.
   - **(1)** Subsection (a) of section 4221 of such Code is amended by striking the last sentence.
   - **(2)** Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence.
 - **(c)** *Clerical amendment* The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E.
-- **(d)** *Effective date* The amendments made by this section shall apply to sales after December 31, 2017.
+- **(d)** *Effective date* The amendments made by this section shall apply to sales after December 31, 2019.
