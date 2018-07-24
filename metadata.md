@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5709
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5709
@@ -33,9 +33,10 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Preventing Illegal Radio Abuse Through Enforcement Act
 - 2018-07-23 — Mr. Lance moved to suspend the rules and pass the bill, as amended.
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6597)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6597)
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
