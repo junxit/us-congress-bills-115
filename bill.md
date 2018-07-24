@@ -17,8 +17,56 @@ This Act may be cited as the “Long-Term Care Veterans Choice Act”.
 
 - **(a)** *Authority* Section 1720 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(h)**
-  >   - **(1)** During the three-year period beginning on October 1, 2019, and subject to paragraph (2), at the request of a veteran for whom the Secretary is required to provide nursing home care under section 1710A of this title, the Secretary may place the veteran in a medical foster home that meets Department standards, at the expense of the United States, pursuant to a contract or agreement entered into between the Secretary and the medical foster home for such purpose. A veteran who is placed in a medical foster home under this subsection shall agree, as a condition of such placement, to accept home health services furnished by the Secretary under section 1717 of this title.
-  >   - **(2)** Not more than 900 veterans placed in a medical foster home, whether placed before or after the date of the enactment of this subsection, may have their care covered at the expense of the United States under subsection (a).
+  >   - **(1)** During the three-year period beginning on October 1, 2019, and subject to paragraph (2), at the request of a veteran for whom the Secretary is required to provide nursing home care under section 1710A of this title, the Secretary may place the veteran in a medical foster home that meets Department standards, at the expense of the United States, pursuant to a contract, agreement, or other arrangement entered into between the Secretary and the medical foster home for such purpose. A veteran who is placed in a medical foster home under this subsection shall agree, as a condition of such placement, to accept home health services furnished by the Secretary under section 1717 of this title.
+  >   - **(2)** In any year, not more than a daily average of 900 veterans placed in a medical foster home, whether placed before or after the date of the enactment of this subsection, may have their care covered at the expense of the United States under subsection (a).
   >   - **(3)** In this subsection, the term medical foster home means a home designed to provide non-institutional, long-term, supportive care for veterans who are unable to live independently and prefer a family setting.
 
 - **(b)** *Effective date* Subsection (h) of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2019.
+
+## § 3. Establishment of Veterans Economic Opportunity and Transition Administration
+
+- **(a)** *Veterans Economic Opportunity and Transition Administration*
+  - **(1)** *In general* Part V of title 38, United States Code, is amended by adding at the end the following new chapter:
+  - **(2)** *Clerical amendments* The tables of chapters at the beginning of title 38, United States Code, and of part V of title 38, United States Code, are each amended by inserting after the item relating to chapter 79 the following new item:
+- **(b)** *Effective date* Chapter 80 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2019.
+- **(c)** *Full-Time employees* For fiscal years 2019 and 2020, the total number of full-time equivalent employees authorized for the Veterans Benefits Administration and the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), may not exceed 23,692.
+
+## § 4. Under Secretary for Veterans Economic Opportunity and Transition
+
+- **(a)** *Under Secretary*
+  - **(1)** *In general* Chapter 3 of title 38, United States Code, is amended by inserting after section 306 the following new section:
+    > ## § 306A. Under Secretary for Veterans Economic Opportunity and Transition
+    >
+    > - **(a)** *Under Secretary* There is in the Department an Under Secretary for Veterans Economic Opportunity and Transition, who is appointed by the President, by and with the advice and consent of the Senate. The Under Secretary for Veterans Economic Opportunity and Transition shall be appointed without regard to political affiliation or activity and solely on the basis of demonstrated ability in—
+    >   - **(1)** information technology; and
+    >   - **(2)** the administration of programs within the Veterans Economic Opportunity and Transition Administration or programs of similar content and scope.
+    > - **(b)** *Responsibilities* The Under Secretary for Veterans Economic Opportunity and Transition is the head of, and is directly responsible to the Secretary for the operations of, the Veterans Economic Opportunity and Transition Administration.
+    > - **(c)** *Vacancies*
+    >   - **(1)** Whenever a vacancy in the position of Under Secretary for Veterans Economic Opportunity and Transition occurs or is anticipated, the Secretary shall establish a commission to recommend individuals to the President for appointment to the position.
+    >   - **(2)** A commission established under this subsection shall be composed of the following members appointed by the Secretary:
+    >     - **(A)** Three persons representing education and training, vocational rehabilitation, employment, real estate, mortgage finance and related industries, and survivor benefits activities affected by the Veterans Economic Opportunity and Transition Administration.
+    >     - **(B)** Two persons representing veterans served by the Veterans Economic Opportunity and Transition Administration.
+    >     - **(C)** Two persons who have experience in the management of private sector benefits programs of similar content and scope to the economic opportunity and transition programs of the Department.
+    >     - **(D)** The Deputy Secretary of Veterans Affairs.
+    >     - **(E)** The chairman of the Veterans’ Advisory Committee on Education formed under section 3692 of this title.
+    >     - **(F)** One person who has held the position of Under Secretary for Veterans Economic Opportunity and Transition, if the Secretary determines that it is desirable for such person to be a member of the commission.
+    >   - **(3)** A commission established under this subsection shall recommend at least three individuals for appointment to the position of Under Secretary for Veterans Economic Opportunity and Transition. The commission shall submit all recommendations to the Secretary. The Secretary shall forward the recommendations to the President and the Committees on Veterans’ Affairs of the Senate and House of Representatives with any comments the Secretary considers appropriate. Thereafter, the President may request the commission to recommend additional individuals for appointment.
+    >   - **(4)** The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 306 the following new item:
+- **(b)** *Conforming amendments* Title 38, United States Code, is further amended—
+  - **(1)** in section 306(c)(2), by striking subparagraphs (A) and (E) and redesignating subparagraphs (B), (C), (D), and (F), as subparagraphs (A) through (D), respectively;
+  - **(2)** in section 317(d)(2), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(3)** in section 318(d)(2), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(4)** in section 516(e)(2)(C), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(5)** in section 541(a)(2)(B), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(6)** in section 542(a)(2)(B)(iii), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(7)** in section 544(a)(2)(B)(vi), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(8)** in section 709(c)(2)(A), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(9)** in section 7701(a), by inserting after “assistance” the following: “, other than assistance related to Economic Opportunity and Transition,”; and
+  - **(10)** in section 7703, by striking paragraphs (2) and (3) and redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively.
+- **(c)** *Effective date* Section 306A of title 38, United States Code, as added by subsection (a), and the amendments made by this section, shall take effect on October 1, 2019.
+
+## § 5. Loans guaranteed under home loan program of Department of Veterans Affairs
+
+The table in section 3729(b)(2) of such title is amended by striking the item relating to subparagraph (E) and inserting the following new item:
