@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5385
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5385
@@ -115,3 +115,12 @@ Dr. Benjy Frances Brooks Children's Hospital GME Support Reauthorization Act of 
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6600)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6600)
 - 2018-07-24 — Received in the Senate, read twice.
+- 2018-09-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6032)
+- 2018-09-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6032)
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-06 — Presented to President.
+- 2018-09-06 — Presented to President.
+- 2018-09-18 — Became Public Law No: 115-241.
+- 2018-09-18 — Became Public Law No: 115-241.
+- 2018-09-18 — Signed by President.
+- 2018-09-18 — Signed by President.
