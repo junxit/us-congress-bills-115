@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5875
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5875
@@ -24,9 +24,10 @@ To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To amend the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson 
 - 2018-07-23 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6625-6626)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6625-6626)
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
