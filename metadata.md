@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6124
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6124
@@ -40,3 +40,9 @@ Tribal Social Security Fairness Act of 2018
 - 2018-06-29 — Placed on the Union Calendar, Calendar No. 620.
 - 2018-06-29 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-801.
 - 2018-06-29 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-801.
+- 2018-07-24 — Considered under suspension of the rules. (consideration: CR H7118-7119)
+- 2018-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6124.
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — Mr. Reichert moved to suspend the rules and pass the bill, as amended.
+- 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7118)
+- 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7118)
