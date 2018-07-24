@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4100
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4100
@@ -16,9 +16,10 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2017
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2017
 - 2018-07-23 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2018-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6618-6619)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6618-6619)
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
