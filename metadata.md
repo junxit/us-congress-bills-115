@@ -1,7 +1,7 @@
 ---
 measure: H.R. 184
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 184
@@ -16,7 +16,7 @@ Protect Medical Innovation Act of 2018
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
-## Cosponsors (223)
+## Cosponsors (279)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Poliquin, Bruce [R-ME-2] (P000611)
@@ -241,6 +241,62 @@ Protect Medical Innovation Act of 2018
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Faso, John J. [R-NY-19] (F000464)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Lewis, Jason [R-MN-2] (L000587)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Smucker, Lloyd [R-PA-16] (S001199)
+- Rep. Marshall, Roger [R-KS-1] (M001198)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Handel, Karen C. [R-GA-6] (H001078)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Gianforte, Greg [R-MT-At Large] (G000584)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Taylor, Scott [R-VA-2] (T000477)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
 
 ## Committees (1)
 
@@ -251,3 +307,14 @@ Protect Medical Innovation Act of 2018
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Introduced in House
 - 2017-01-03 — Referred to the House Committee on Ways and Means.
+- 2018-07-23 — Rules Committee Resolution H. Res. 1011 Reported to House. Rule provides for consideration of H.R. 184 and H.R. 6311. Rule provides for consideration of H.R. 184 and H.R. 6311 both under closed rules. The rule provides for one motion to recommit with or without instructions on each measure.
+- 2018-07-24 — Considered as unfinished business. (consideration: CR H7124-7125)
+- 2018-07-24 — Considered under the provisions of rule H. Res. 1011. (consideration: CR H7119-7124)
+- 2018-07-24 — DEBATE - The House proceeded with one hour of debate on H.R. 184.
+- 2018-07-24 — House amendment offered
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — On passage Passed by the Yeas and Nays: 283 - 132 (Roll no. 372). (text: CR H7119)
+- 2018-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 184, the Chair put the question on passage, and by voice vote, announced that the ayes had prevailed. Mr. Paulsen demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2018-07-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 283 - 132 (Roll no. 372).(text: CR H7119)
+- 2018-07-24 — Rule provides for consideration of H.R. 184 and H.R. 6311. Rule provides for consideration of H.R. 184 and H.R. 6311 both under closed rules. The rule provides for one motion to recommit with or without instructions on each measure.
+- 2018-07-24 — The previous question was ordered pursuant to the rule.
