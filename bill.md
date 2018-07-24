@@ -63,7 +63,3 @@ It is the sense of Congress that the pilot program described in section 3(a) sho
 - **(f)** *Report* Not later than 180 days after the completion of the pilot program under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the results of the pilot program, including—
   - **(1)** the number and demographics of all applicants, those accepted to participate in the pilot program, and those who completed the pilot program; and
   - **(2)** if participating institutions of higher education choose to administer satisfaction surveys that assess the experience of those who completed the pilot program, the results of any such satisfaction surveys, provided at the discretion of the institution of higher education.
-
-## § 4. No additional funds authorized
-
-No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
