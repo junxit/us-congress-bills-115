@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4881
@@ -29,9 +29,10 @@ Precision Agriculture Connectivity Act of 2018
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Precision Agriculture Connectivity Act of 2018
 - 2018-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 4 (Roll no. 367). (text: CR H6595-6596)
 - 2018-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 4 (Roll no. 367).(text: CR H6595-6596)
 - 2018-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
