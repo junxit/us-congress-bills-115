@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3500
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3500
@@ -39,3 +39,9 @@ Ensuring Integrity in the IRS Workforce Act of 2018
 - 2018-06-28 — Placed on the Union Calendar, Calendar No. 616.
 - 2018-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-796.
 - 2018-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-796.
+- 2018-07-24 — Considered under suspension of the rules. (consideration: CR H7112-7113)
+- 2018-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3500.
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — Ms. Jenkins (KS) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7112)
+- 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7112)
