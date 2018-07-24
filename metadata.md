@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5864
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5864
@@ -16,12 +16,18 @@ VA Hospitals Establishing Leadership Performance Act
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Cosponsors (4)
+## Cosponsors (10)
 
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
 ## Committees (1)
 
@@ -32,3 +38,16 @@ VA Hospitals Establishing Leadership Performance Act
 - 2018-05-17 — Introduced in House
 - 2018-05-17 — Introduced in House
 - 2018-05-17 — Referred to the House Committee on Veterans' Affairs.
+- 2018-06-13 — Referred to the Subcommittee on Health.
+- 2018-06-13 — Subcommittee Hearings Held.
+- 2018-06-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2018-06-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-07-12 — Committee Consideration and Mark-up Session Held.
+- 2018-07-12 — Ordered to be Reported by Voice Vote.
+- 2018-07-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-07-24 — Considered under suspension of the rules. (consideration: CR H7141-7142; text: CR H7141)
+- 2018-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5864.
+- 2018-07-24 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-24 — Placed on the Union Calendar, Calendar No. 675.
+- 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-872.
+- 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-872.
