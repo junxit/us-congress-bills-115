@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5649
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 3 executed, 16 stated and not applied.
+22 amendatory instructions. 3 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,19 +60,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the section heading by striking “medical” and inserting “certain”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “(regardless of character of discharge)” after “discharge”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or other separation” after “anticipated retirement” each place it appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking the second sentence; | the bill names no machine-readable US Code section |
-| — | replace | by striking “90 days” and inserting “365 days”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “discharge or release” and inserting “retirement or other separation”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “90” and inserting “365”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “90-day” and inserting “365-day”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (c) as subsection (d); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following new subsection (c): | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “Such services” and inserting “Subject to subsection (f)(2), such services”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (f) to read as follows: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 653a` | add-at-end | Section 453A(h) of the Social Security Act (42 U.S.C. 653a(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1144` | strike | by striking “to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations”. | the bill quotes the text struck but describes what replaces it |
 | `10 U.S.C. § 1144` | repeal | Subsection (f) of such section is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (1) by striking the semicolon and inserting the following: “and is required for the course of education being pursued (including with respect to a dual major, concentration, or other element of a degree); and”; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3313 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “In the case of a program of education pursued at a public institution of higher learning” and inserting “(I) Subject to subclause (II), in the case of a program of education pursued at a public institution of higher learning… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | redesignate | in subclause (I), by redesignating items (aa) and (bb) as subitems (AA) and (BB), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in subclause (II), by redesignating items (aa) and (bb) as subitems (AA) and (BB), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “In the case of a program of education pursued at a non-public or foreign institution of higher learning” and inserting “(I) In the case of a program of education described in subclause (II)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3313(c)(1)(A)(ii)(II) of title 38, United States Code, as added by subsection (c)(2)(E), is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | repeal | Section 3103 of title 38, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections at the beginning of chapter 31 of such title is amended by striking the item relating to section 3103. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3680 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
