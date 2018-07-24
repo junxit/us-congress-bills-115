@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1012
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1012
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 6199) to amend the Internal Revenu
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2018-07-24 — [House 115-2-368](votes/house-115-2-0368.md) — On Ordering the Previous Question — **Passed** (224–184)
+- 2018-07-24 — [House 115-2-369](votes/house-115-2-0369.md) — On Agreeing to the Resolution — **Passed** (229–179)
+
 ## Actions
 
 - 2018-07-23 — Introduced in House
@@ -27,3 +32,10 @@ Providing for consideration of the bill (H.R. 6199) to amend the Internal Revenu
 - 2018-07-23 — Rule provides for consideration of H.R. 6199 under a closed rule. Additionally, the rule provides for proceedings for the period from July 27, 2018 through September 3, 2018
 - 2018-07-23 — The House Committee on Rules reported an original measure, H. Rept. 115-861, by Mr. Burgess.
 - 2018-07-23 — The House Committee on Rules reported an original measure, H. Rept. 115-861, by Mr. Burgess.
+- 2018-07-24 — Considered as privileged matter. (consideration: CR H7100-7106)
+- 2018-07-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 1012.
+- 2018-07-24 — DEBATE - The House resumed with debate on H. Res. 1012.
+- 2018-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-24 — On agreeing to the resolution Agreed to by recorded vote: 229 - 179 (Roll no. 369). (text: CR H7100)
+- 2018-07-24 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 184 (Roll no. 368). (consideration: CR H7100)
+- 2018-07-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 179 (Roll no. 369).(text: CR H7100)
