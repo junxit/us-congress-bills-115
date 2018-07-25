@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1007
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1007
@@ -39,3 +39,9 @@ Expressing the sense of the House of Representatives that not fully resourcing t
 - 2018-07-23 — Introduced in House
 - 2018-07-23 — Introduced in House
 - 2018-07-23 — Referred to the House Committee on Armed Services.
+- 2018-07-25 — Considered under suspension of the rules. (consideration: CR H7650-7651)
+- 2018-07-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1007.
+- 2018-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-25 — Ms. Cheney moved to suspend the rules and agree to the resolution.
+- 2018-07-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7650)
+- 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7650)
