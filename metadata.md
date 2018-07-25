@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5649
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5649
@@ -30,11 +30,12 @@ Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvemen
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (3)
+## Committees (4)
 
 - House — Veterans' Affairs Committee
 - House — Ways and Means Committee
 - House — Armed Services Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvemen
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7135-7137)
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-864, Part I.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-864, Part I.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
