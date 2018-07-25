@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5938
@@ -20,9 +20,10 @@ Veterans Serving Veterans Act of 2018
 
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Veterans Serving Veterans Act of 2018
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 674.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-871.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-871.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
