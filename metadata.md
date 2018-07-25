@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 756
@@ -66,3 +66,14 @@ First Step Act of 2018
 - 2017-08-04 — Received in the House.
 - 2017-08-04 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-08-04 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-08-07 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2017-08-08 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-06-27 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2018-07-25 — Considered under suspension of the rules. (consideration: CR H7640-7645)
+- 2018-07-25 — DEBATE - The House proceeded with forty minutes of debate on S. 756.
+- 2018-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-25 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7640-7642)
+- 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7640-7642)
