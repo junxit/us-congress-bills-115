@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5974
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5974
@@ -23,9 +23,10 @@ VA COST SAVINGS Enhancements Act
 - Rep. Crist, Charlie [D-FL-13] (C001111)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ VA COST SAVINGS Enhancements Act
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 672.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-869.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-869.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
