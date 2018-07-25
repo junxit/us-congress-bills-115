@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 1027
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1027
+
+> Providing for consideration of the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider the conference report to accompany the bill (H.R. 5515) to authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read. The previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+
+## § 2.
+
+The Committee on Appropriations may, at any time before 3 p.m. on Thursday, August 2, 2018, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2019.
+
+## § 3.
+
+House Resolution 1020 is laid on the table.
