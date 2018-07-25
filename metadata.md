@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4952
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4952
@@ -22,10 +22,11 @@ Improving Seniors Access to Quality Benefits Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Improving Seniors Access to Quality Benefits Act
 - 2018-07-24 — Mr. Kelly (PA) moved to suspend the rules and pass the bill, as amended.
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7115)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7115)
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
