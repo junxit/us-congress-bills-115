@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6084
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6084
@@ -29,9 +29,10 @@ Improving Social Security's Service to Victims of Identity Theft Act
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Improving Social Security's Service to Victims of Identity Theft Act
 - 2018-07-24 — Mr. Bishop (MI) moved to suspend the rules and pass the bill, as amended.
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7113)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7113)
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
