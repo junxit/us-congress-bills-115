@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 6507
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6507
+
+> To amend the Oil Region National Heritage Area Act to reauthorize the Oil Region National Heritage Area, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Oil Region National Heritage Area Reauthorization Act”.
+
+## § 2. Oil Region National Heritage Area Act
+
+- **(a)** *Management entity* The Oil Region National Heritage Area Act (Public Law 108–447; 118 Stat. 3368) is amended by striking “Oil Heritage Region, Inc.” each place it appears and inserting “Oil Region Alliance of Business, Industry and Tourism”.
+- **(b)** *Sunset* Section 608 of the Oil Region National Heritage Area Act (Public Law 108–447; 118 Stat. 3372) is amended to read as follows:
+  > ## § 608. Sunset
+  >
+  > The authority of the Secretary to grant or provide any assistance under this title shall terminate on September 30, 2026.
