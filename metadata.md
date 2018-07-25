@@ -1,7 +1,7 @@
 ---
 measure: S. 2278
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2278
@@ -54,3 +54,17 @@ State Offices of Rural Health Reauthorization Act of 2018
 - 2018-07-25 — Message on Senate action sent to the House.
 - 2018-07-25 — Received in the House.
 - 2018-07-25 — Referred to the House Committee on Energy and Commerce.
+- 2018-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-19 — Considered as unfinished business. (consideration: CR H10315-10316)
+- 2018-12-19 — Considered under suspension of the rules. (consideration: CR H10286-10288)
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2278.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Walden moved to suspend the rules and pass the bill.
+- 2018-12-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 4 (Roll no. 439). (text: CR H10286-10287)
+- 2018-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 4 (Roll no. 439).(text: CR H10286-10287)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-408.
+- 2018-12-31 — Became Public Law No: 115-408.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
