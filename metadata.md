@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2409
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2409
@@ -24,9 +24,10 @@ To allow servicemembers to terminate their cable, satellite television, and Inte
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To allow servicemembers to terminate their cable, satellite television, and Inte
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 669.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-866.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-866.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
