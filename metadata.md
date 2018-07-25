@@ -1,7 +1,7 @@
 ---
 measure: H.R. 519
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 519
@@ -34,9 +34,10 @@ Water and Agriculture Tax Reform Act of 2018
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Water and Agriculture Tax Reform Act of 2018
 - 2018-07-24 — Mr. Roskam moved to suspend the rules and pass the bill, as amended.
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7110-7111)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7110-7111)
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
