@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6124
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6124
@@ -47,3 +47,12 @@ Tribal Social Security Fairness Act of 2018
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7118)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7118)
 - 2018-07-25 — Received in the Senate, read twice.
+- 2018-09-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6103)
+- 2018-09-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6103)
+- 2018-09-07 — Message on Senate action sent to the House.
+- 2018-09-12 — Presented to President.
+- 2018-09-12 — Presented to President.
+- 2018-09-20 — Became Public Law No: 115-243.
+- 2018-09-20 — Became Public Law No: 115-243.
+- 2018-09-20 — Signed by President.
+- 2018-09-20 — Signed by President.
