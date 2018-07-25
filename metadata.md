@@ -1,7 +1,7 @@
 ---
 measure: S. 1182
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1182
@@ -99,9 +99,10 @@ National Flood Insurance Program Extension Act of 2018
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2018-07-25 — [House 115-2-373](votes/house-115-2-0373.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (366–52)
+- 2018-07-31 — [Senate 115-2-173](votes/senate-115-2-0173.md) — On the Motion — **Motion Agreed to** (86–12)
 
 ## Actions
 
@@ -130,3 +131,47 @@ National Flood Insurance Program Extension Act of 2018
 - 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 52 (Roll no. 373).
 - 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 52 (Roll no. 373).
 - 2018-07-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-26 — Amendment SA 3628 proposed by Senator McConnell. (consideration: CR S5411) To change the enactment date.
+- 2018-07-26 — Amendment SA 3629 proposed by Senator McConnell to Amendment SA 3628. (consideration: CR S5411-5412; text: CR S5412) Of a perfecting nature.
+- 2018-07-26 — Amendment SA 3630 proposed by Senator McConnell. (consideration: CR S5412; text: CR S5412) To change the enactment date.
+- 2018-07-26 — Amendment SA 3631 proposed by Senator McConnell to Amendment SA 3630 (the instructions of the motion to refer). (consideration: CR S5412; text: CR S5412) Of a perfecting nature.
+- 2018-07-26 — Amendment SA 3632 proposed by Senator McConnell to Amendment SA 3631. (consideration: CR S5412; text: CR S5412) Of a perfecting nature.
+- 2018-07-26 — Cloture motion on the motion to concur in the House amendments to S. 1182 presented in Senate.
+- 2018-07-26 — Measure laid before Senate by unanimous consent. (consideration: CR S5411-5412)
+- 2018-07-26 — Motion by Senator McConnell to concur in the House amendment to the text of S. 1182 with an amendment (SA 3628) made in Senate.
+- 2018-07-26 — Motion by Senator McConnell to concur in the House amendments to S. 1182 made in Senate.
+- 2018-07-26 — Motion by Senator McConnell to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany S. 1182 with instructions to report back forthwith with the following amendment (SA 3630) made in Senate.
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3628 proposed by Senator McConnell.(consideration: CR S5411)
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3629 proposed by Senator McConnell to Amendment SA 3628.(consideration: CR S5411-5412; text: CR S5412)
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3630 proposed by Senator McConnell.(consideration: CR S5412; text: CR S5412)
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3631 proposed by Senator McConnell to Amendment SA 3630 (the instructions of the motion to refer).(consideration: CR S5412; text: CR S5412)
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3632 proposed by Senator McConnell to Amendment SA 3631.(consideration: CR S5412; text: CR S5412)
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-31 — Became Public Law No: 115-225.
+- 2018-07-31 — Became Public Law No: 115-225.
+- 2018-07-31 — Cloture motion on the motion to concur in the House amendments to S.1182 withdrawn by unanimous consent in Senate.
+- 2018-07-31 — Considered by Senate (Message from the House considered). (consideration: CR S5468)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5468)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5468)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5468)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5468)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5468)
+- 2018-07-31 — Message on Senate action sent to the House.
+- 2018-07-31 — Motion by Senator McConnell to concur in the House amendment to the text of S. 1182 with an amendment (SA 3628) withdrawn in Senate.
+- 2018-07-31 — Motion by Senator McConnell to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany S. 1182 with instructions to report back forthwith with the following amendment (SA 3630) withdrawn in Senate.
+- 2018-07-31 — Presented to President.
+- 2018-07-31 — Presented to President.
+- 2018-07-31 — Proposed amendment SA 3628 withdrawn in Senate.
+- 2018-07-31 — Proposed amendment SA 3630 withdrawn in Senate.
+- 2018-07-31 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 1182 by Yea-Nay Vote. 86 - 12. Record Vote Number: 173.
+- 2018-07-31 — SA 3629 fell when SA 3628 withdrawn.
+- 2018-07-31 — SA 3631 fell when SA 3630 withdrawn.
+- 2018-07-31 — SA 3632 fell when SA 3631 fell.
+- 2018-07-31 — Senate agreed to the House amendments to S. 1182 by Yea-Nay Vote. 86 - 12. Record Vote Number: 173.
+- 2018-07-31 — Signed by President.
+- 2018-07-31 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1182
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1182
 
-That the bill from the Senate (S. 1182) entitled “An Act to require the Secretary of the Treasury to mint commemorative coins in recognition of the 100th anniversary of The American Legion.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To extend the National Flood Insurance Program, and for other purposes.
 
 ## § 1. Short title
 
