@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1476
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1476
@@ -20,9 +20,10 @@ Native American Health Savings Improvement Act
 
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Native American Health Savings Improvement Act
 - 2018-07-24 — Mr. Roskam moved to suspend the rules and pass the bill, as amended.
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7109)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7109)
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
