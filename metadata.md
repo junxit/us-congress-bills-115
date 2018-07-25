@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2787
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2787
@@ -22,9 +22,10 @@ Veterans-Specific Education for Tomorrow's Health Professionals Act
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Veterans-Specific Education for Tomorrow's Health Professionals Act
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 670.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-867.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-867.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
