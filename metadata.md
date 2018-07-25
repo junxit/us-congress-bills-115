@@ -1,7 +1,7 @@
 ---
 measure: S. 2278
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2278
@@ -36,9 +36,10 @@ State Offices of Rural Health Reauthorization Act of 2018
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ State Offices of Rural Health Reauthorization Act of 2018
 - 2018-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
 - 2018-07-24 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5312-5314; text: CR S5313-5314)
 - 2018-07-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5312-5314; text: CR S5313-5314)
+- 2018-07-25 — Message on Senate action sent to the House.
+- 2018-07-25 — Received in the House.
+- 2018-07-25 — Referred to the House Committee on Energy and Commerce.
