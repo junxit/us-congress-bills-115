@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5693
 
-> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently.
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently, to establish the Veterans Economic Opportunity and Transition Administration and the Under Secretary for Veterans Economic Opportunity and Transition of the Department of Veterans Affairs, to amend the interest rate for certain loans guaranteed under the home loan program of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
@@ -69,4 +69,4 @@ This Act may be cited as the “Long-Term Care Veterans Choice Act”.
 
 ## § 5. Loans guaranteed under home loan program of Department of Veterans Affairs
 
-The table in section 3729(b)(2) of such title is amended by striking the item relating to subparagraph (E) and inserting the following new item:
+Section 3729(b)(2)(E) of such title is amended to read as follows:
