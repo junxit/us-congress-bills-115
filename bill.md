@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 6531
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6531
+
+> To strengthen the disclosure requirements for creditors under the Truth in Lending Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Online Credit Card Disclosure Act of 2018”.
+
+## § 2. Online payment timing disclosures
+
+Section 127(b)(11) of the Truth in Lending Act (15 U.S.C. 1637(b)(11)) is amended—
+
+- **(1)** in subparagraph (D)—
+  - **(A)** in clause (i), by striking “; and” and inserting a semicolon;
+  - **(B)** in clause (ii), by striking the period and inserting “; and”; and
+  - **(C)** by inserting at the end the following new clause:
+    > - **(iii)** if the consumer has an online account with the creditor under the consumer credit plan, be disclosed in a conspicuous and prominent location on an online interface of such creditor on which the consumer selects the amount the consumer will pay, including a webpage or mobile application.
+
+- **(2)** by adding at the end the following:
+  > - **(H)** For purposes of subparagraph (D)(iii), the Bureau shall prescribe regulations defining “conspicuous and prominent location”, which shall be based on consumer testing.
