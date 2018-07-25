@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5864
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5864
@@ -33,6 +33,10 @@ VA Hospitals Establishing Leadership Performance Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2018-07-25 — [House 115-2-374](votes/house-115-2-0374.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–0)
+
 ## Actions
 
 - 2018-05-17 — Introduced in House
@@ -51,3 +55,7 @@ VA Hospitals Establishing Leadership Performance Act
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 675.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-872.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-872.
+- 2018-07-25 — Considered as unfinished business. (consideration: CR H7199-7200)
+- 2018-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 374).
+- 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 374).

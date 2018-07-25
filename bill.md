@@ -22,3 +22,7 @@ This Act may be cited as the “VA Hospitals Establishing Leadership Performance
 - **(b)** *Report* Not later than 180 days after the establishment of the qualifications and performance metrics under subsection (a), the Comptroller General of the United States shall submit to the Committee on Veterans’ Affairs of the House of Representatives and the Committee on Veterans’ Affairs of the Senate a report containing—
   - **(1)** a description of the implementation of such qualifications and performance metrics; and
   - **(2)** an assessment of the quality of such qualifications and performance metrics.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
