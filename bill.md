@@ -21,10 +21,10 @@ This Act may be cited as the “Energy Diplomacy Act of 2018”.
     > - **(3)** *Energy resources*
     >   - **(A)** *Authorization for Assistant Secretary* Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State for Energy Resources.
     >   - **(B)** *Personnel* The Secretary of State shall ensure that there are sufficient personnel dedicated to energy matters within the Department of State who shall be responsible for—
-    >     - **(i)** formulating and implementing international policies aimed at protecting and advancing United States energy security interests by effectively managing United States bilateral and multilateral relations in the fields of petroleum, natural gas, biofuels, renewable energy, nuclear, and other energy resources;
+    >     - **(i)** formulating and implementing international policies, in coordination with Secretary of Energy, as appropriate, aimed at protecting and advancing United States energy security interests by effectively managing United States bilateral and multilateral relations in the fields of petroleum, natural gas, biofuels, renewable energy, nuclear, and other energy resources;
     >     - **(ii)** ensuring that analyses of the national security implications of global energy and environmental developments are reflected in the decision making process within the Department of State;
     >     - **(iii)** incorporating energy security priorities into the activities of the Department of State;
-    >     - **(iv)** coordinating energy activities of the Department of State with relevant Federal agencies;
+    >     - **(iv)** coordinating energy activities within the Department of State and with relevant Federal agencies;
     >     - **(v)** working internationally to—
     >       - **(I)** support the development of energy resources and the distribution of such resources for the benefit of the United States and United States allies and trading partners for their energy security and economic development needs;
     >       - **(II)** promote availability of diversified energy supplies and a well-functioning global market for energy resources, technologies, and expertise for the benefit of the United States and United States allies and trading partners;
