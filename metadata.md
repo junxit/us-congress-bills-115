@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5882
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5882
@@ -25,9 +25,10 @@ Gold Star Spouses Leasing Relief Act
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Gold Star Spouses Leasing Relief Act
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 668.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-865.
 - 2018-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 115-865.
+- 2018-07-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
