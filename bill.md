@@ -2,7 +2,7 @@
 legis-num: H. RES. 981
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 981
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas Daniel Ortega has taken systematic steps to weaken democratic institutions in Nicaragua since 2006, including by violating the Nicaraguan Constitution through actions such as ignoring presidential term limits;
+- Whereas Daniel Ortega has taken systematic steps to weaken democratic institutions in Nicaragua since 2006, including by manipulating the Nicaraguan Constitution through actions such as eliminating presidential term limits;
 - Whereas Daniel Ortega selected his wife, Rosario Murillo, as his vice-presidential candidate in 2016;
 - Whereas domestic and international observers have repeatedly documented and criticized irregularities in the 2011 and 2016 presidential elections as well as the 2012 and 2017 municipal elections in Nicaragua;
 - Whereas, on April 18, 2018, students in Nicaragua began to protest the unilateral decision of the Government of Nicaragua to impose reforms on the Nicaraguan Social Security Institute;
