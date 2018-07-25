@@ -1,7 +1,7 @@
 ---
 measure: S. 2779
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2779
@@ -49,3 +49,9 @@ Zimbabwe Democracy and Economic Recovery Amendment Act of 2018
 - 2018-07-25 — Senate amendment proposed (on the floor): Amendment SA 3541 proposed by Senator Murkowski for Senator Flake.(consideration: CR S5320)
 - 2018-07-25 — Senate amendment submitted
 - 2018-07-25 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-08-01 — Presented to President.
+- 2018-08-01 — Presented to President.
+- 2018-08-08 — Became Public Law No: 115-231.
+- 2018-08-08 — Became Public Law No: 115-231.
+- 2018-08-08 — Signed by President.
+- 2018-08-08 — Signed by President.
