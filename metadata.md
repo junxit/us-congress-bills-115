@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5693
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5693
@@ -41,3 +41,9 @@ Long-Term Care Veterans Choice Act
 - 2018-07-24 — Placed on the Union Calendar, Calendar No. 671.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-868.
 - 2018-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-868.
+- 2018-07-25 — Considered under suspension of the rules. (consideration: CR H7172-7175)
+- 2018-07-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5693.
+- 2018-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-07-25 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7172-7173)
+- 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7172-7173)
