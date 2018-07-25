@@ -1,7 +1,7 @@
 ---
 measure: S. 770
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 770
@@ -66,3 +66,13 @@ NIST Small Business Cybersecurity Act
 - 2018-07-25 — On passage Passed without objection. (text: CR H7201)
 - 2018-07-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7201)
 - 2018-07-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-07-26 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2018-08-01 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 770 by Unanimous Consent.(text as Senate agree to the House amendment: CR S5561)
+- 2018-08-01 — Senate agreed to the House amendments to S. 770 by Unanimous Consent. (text as Senate agree to the House amendment: CR S5561)
+- 2018-08-02 — Message on Senate action sent to the House.
+- 2018-08-03 — Presented to President.
+- 2018-08-03 — Presented to President.
+- 2018-08-14 — Became Public Law No: 115-236.
+- 2018-08-14 — Became Public Law No: 115-236.
+- 2018-08-14 — Signed by President.
+- 2018-08-14 — Signed by President.
