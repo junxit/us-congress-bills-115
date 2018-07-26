@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6199
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6199
@@ -48,3 +48,4 @@ Restoring Access to Medication and Modernizing Health Savings Accounts Act of 20
 - 2018-07-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 277 - 142 (Roll no. 377).(text: CR H7651-7653)
 - 2018-07-25 — Rule provides for consideration of H.R. 6199. Rule provides for consideration of H.R. 6199 under a closed rule. Additionally, the rule provides for proceedings for the period from July 27, 2018 through September 3, 2018
 - 2018-07-25 — The previous question was ordered pursuant to the rule.
+- 2018-07-26 — Received in the Senate.
