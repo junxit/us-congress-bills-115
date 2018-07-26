@@ -1,7 +1,7 @@
 ---
 measure: S. 3248
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3248
@@ -32,3 +32,7 @@ Turkey International Financial Institutions Act
 
 - 2018-07-19 — Introduced in Senate
 - 2018-07-19 — Read twice and referred to the Committee on Foreign Relations.
+- 2018-07-26 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-07-26 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-07-26 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 531.
