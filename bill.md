@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 6567
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6567
+
+> To amend the Forest and Rangeland Renewable Resources Planning Act of 1974 to modify a provision relating to certain consultation requirements.
+
+## § 1. No additional consultation required with respect to certain new information
+
+Section 6(d)(2) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(d)(2)) is amended—
+
+- **(1)** in subparagraph (A)—
+  - **(A)** in clause (i), by striking “and” at the end;
+  - **(B)** in clause (ii), by striking the period at the end and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(iii)** any new information (within the meaning of subsection (b) of section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) relating to a land management plan, if the land management plan has been adopted by the Secretary as of the date on which the new information is revealed.
+
+- **(2)** in subparagraph (B)(ii)—
+  - **(A)** by striking “since the date” and inserting the following:
+    > since the later of—
+    > - **(I)** the date
+
+  - **(B)** in subclause (I) (as so designated), by striking “this section or the date” and inserting the following:
+    > this section; and
+    > - **(II)** as applicable—
+    >   - **(aa)** the date
+
+  - **(C)** in subclause (II)(aa) (as so designated), by striking “subparagraph, whichever is later.” and inserting the following:
+    > subparagraph; or
+    > - **(bb)** the date on which new information relating to the land management plan is revealed as described in clause (iii) of that subparagraph.
