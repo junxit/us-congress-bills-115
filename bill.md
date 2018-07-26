@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6628
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6628
+
+> To designate the facility of the United States Postal Service located at 4301 Northeast 4th Street in Renton, Washington, as the “James Marshall “Jimi” Hendrix Post Office Building”.
+
+## § 1. James Marshall “Jimi” Hendrix Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 4301 Northeast 4th Street in Renton, Washington, shall be known and designated as the “James Marshall “Jimi” Hendrix Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “James Marshall “Jimi” Hendrix Post Office Building”.
