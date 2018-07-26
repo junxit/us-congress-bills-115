@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5693
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5693
@@ -23,9 +23,10 @@ Long-Term Care Veterans Choice Act
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Long-Term Care Veterans Choice Act
 - 2018-07-25 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7172-7173)
 - 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7172-7173)
+- 2018-07-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
