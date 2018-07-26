@@ -1,7 +1,7 @@
 ---
 measure: H.R. 184
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 184
@@ -322,3 +322,5 @@ Protect Medical Innovation Act of 2018
 - 2018-07-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 283 - 132 (Roll no. 372).(text: CR H7119)
 - 2018-07-24 — Rule provides for consideration of H.R. 184 and H.R. 6311. Rule provides for consideration of H.R. 184 and H.R. 6311 both under closed rules. The rule provides for one motion to recommit with or without instructions on each measure.
 - 2018-07-24 — The previous question was ordered pursuant to the rule.
+- 2018-07-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-07-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.
