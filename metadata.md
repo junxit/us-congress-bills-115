@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6311
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6311
@@ -49,3 +49,4 @@ Increasing Access to Lower Premium Plans and Expanding Health Savings Accounts A
 - 2018-07-25 — Rule provides for consideration of H.R. 184 and H.R. 6311. Rule provides for consideration of H.R. 184 and H.R. 6311 both under closed rules. The rule provides for one motion to recommit with or without instructions on each measure.
 - 2018-07-25 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-07-25 — The previous question was ordered pursuant to the rule.
+- 2018-07-26 — Received in the Senate.
