@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6609
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6609
+
+> To amend title 46, United States Code, to reauthorize the port security grant program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Port Security Grant Program Reauthorization Act”.
+
+## § 2. Port Security Grant Program
+
+Subsection (l) of section 70107 of title 46, United States Code, is amended by striking “2007 through 2013” and inserting “2019 through 2023”.
