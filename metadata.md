@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1201
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1201
@@ -56,3 +56,5 @@ EACH Act
 - 2018-07-24 — Mr. Roskam moved to suspend the rules and pass the bill, as amended.
 - 2018-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7107-7108)
 - 2018-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7107-7108)
+- 2018-07-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-07-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.
