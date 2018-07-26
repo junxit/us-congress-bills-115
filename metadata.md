@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6414
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6414
@@ -37,3 +37,12 @@ To amend title 23, United States Code, to extend the deadline for promulgation o
 - 2018-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7639)
 - 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7639)
 - 2018-07-26 — Received in the Senate, read twice.
+- 2018-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5560)
+- 2018-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5560)
+- 2018-08-02 — Message on Senate action sent to the House.
+- 2018-08-03 — Presented to President.
+- 2018-08-03 — Presented to President.
+- 2018-08-14 — Became Public Law No: 115-235.
+- 2018-08-14 — Became Public Law No: 115-235.
+- 2018-08-14 — Signed by President.
+- 2018-08-14 — Signed by President.
