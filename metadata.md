@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5864
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5864
@@ -29,9 +29,10 @@ VA Hospitals Establishing Leadership Performance Act
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ VA Hospitals Establishing Leadership Performance Act
 - 2018-07-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 374).
 - 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 374).
+- 2018-07-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
