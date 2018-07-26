@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5754
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5754
@@ -28,10 +28,11 @@ Cambodia Democracy Act of 2018
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Cambodia Democracy Act of 2018
 - 2018-07-25 — On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.
 - 2018-07-25 — On passage Passed without objection. (text: CR H7668-7669)
 - 2018-07-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7668-7669)
+- 2018-07-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
