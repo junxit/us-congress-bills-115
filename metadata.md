@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4318
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4318
@@ -72,3 +72,13 @@ Miscellaneous Tariff Bill Act of 2018
 - 2018-01-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 18). (text: CR H185-385)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 18).(text: CR H185-385)
 - 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2018-07-26 — Amendment SA 3664 agreed to in Senate by Unanimous Consent.
+- 2018-07-26 — Amendment SA 3664 proposed by Senator McConnell for Senator Hatch. (consideration: CR S5438; text: CR S5438) To improve the bill.
+- 2018-07-26 — Measure laid before Senate by unanimous consent. (consideration: CR S5438)
+- 2018-07-26 — Passed Senate with amendments by Voice Vote. (text: CR S5438)
+- 2018-07-26 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S5438)
+- 2018-07-26 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2018-07-26 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2018-07-26 — Senate amendment agreed to: Amendment SA 3664 agreed to in Senate by Unanimous Consent.
+- 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3664 proposed by Senator McConnell for Senator Hatch.(consideration: CR S5438; text: CR S5438)
+- 2018-07-26 — Senate amendment submitted
