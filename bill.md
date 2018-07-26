@@ -1,0 +1,25 @@
+---
+legis-num: S. 3291
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3291
+
+> To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purposes.
+
+## § 1. New Jersey Coastal Heritage Trail Route
+
+- **(a)** *Reauthorization* Section 6 of Public Law 100–515 (16 U.S.C. 1244 note) is amended—
+  - **(1)** by striking subsection (a);
+  - **(2)** by redesignating subsections (b) and (c) as subsections (a) and (b), respectively;
+  - **(3)** in subsection (a) (as so redesignated by paragraph (2)), by striking “under subsection (a)” each place that it appears and inserting “to carry out this Act”; and
+  - **(4)** in subsection (b) (as so redesignated by paragraph (2)), by striking “2011” and inserting “2025”.
+- **(b)** *Strategic plan*
+  - **(1)** *In general*
+    - **(A)** *Plan required* Not later than 3 years after the date on which funds are first made available after the date of enactment of this Act to carry out Public Law 100–515 (16 U.S.C. 1244 note), the Secretary of the Interior shall prepare a strategic plan for the New Jersey Coastal Heritage Trail Route.
+    - **(B)** *Contents* The strategic plan shall describe—
+      - **(i)** opportunities to increase participation by national and local private and public interests in the planning, development, and administration of the New Jersey Coastal Heritage Trail Route; and
+      - **(ii)** organizational options for sustaining the New Jersey Coastal Heritage Trail Route.
+  - **(2)** *Conforming amendment* Section 703(b) of the National Heritage Areas Act of 2006 (Public Law 109–338; 120 Stat. 1859) is repealed.
