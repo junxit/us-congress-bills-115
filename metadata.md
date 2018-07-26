@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1005
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1005
@@ -16,6 +16,10 @@ Directing the Secretary of Homeland Security to transmit certain documents to th
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
+## Cosponsors (1)
+
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -25,3 +29,8 @@ Directing the Secretary of Homeland Security to transmit certain documents to th
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Referred to the House Committee on Homeland Security.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported Unfavorably by the Yeas and Nays: 16 - 11.
+- 2018-07-26 — Placed on the House Calendar, Calendar No. 178.
+- 2018-07-26 — Reported adversely by the Committee on Homeland Security. H. Rept. 115-877.
+- 2018-07-26 — Reported adversely by the Committee on Homeland Security. H. Rept. 115-877.
