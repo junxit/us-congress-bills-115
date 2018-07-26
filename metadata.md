@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4318
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4318
@@ -78,3 +78,15 @@ Miscellaneous Tariff Bill Act of 2018
 - 2018-07-26 — Senate amendment agreed to: Amendment SA 3664 agreed to in Senate by Unanimous Consent.
 - 2018-07-26 — Senate amendment proposed (on the floor): Amendment SA 3664 proposed by Senator McConnell for Senator Hatch.(consideration: CR S5438; text: CR S5438)
 - 2018-07-26 — Senate amendment submitted
+- 2018-07-30 — Message on Senate action sent to the House.
+- 2018-09-04 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendments to H.R. 4318.
+- 2018-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-04 — Mr. Brady (TX) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H7784-7786)
+- 2018-09-04 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7784-7785)
+- 2018-09-04 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7784-7785)
+- 2018-09-06 — Presented to President.
+- 2018-09-06 — Presented to President.
+- 2018-09-13 — Became Public Law No: 115-239.
+- 2018-09-13 — Became Public Law No: 115-239.
+- 2018-09-13 — Signed by President.
+- 2018-09-13 — Signed by President.
