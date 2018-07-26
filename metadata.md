@@ -1,0 +1,31 @@
+---
+measure: H.R. 6551
+congress: 115
+version: Introduced in House
+---
+
+# H.R. 6551
+
+Telework Metrics and Cost Savings Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+
+## Cosponsors (1)
+
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2018-07-26 — Introduced in House
+- 2018-07-26 — Introduced in House
+- 2018-07-26 — Referred to the House Committee on Oversight and Government Reform.
