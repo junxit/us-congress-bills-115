@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6631
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6631
+
+> To cancel the registration of all uses of organophosphate pesticides, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ban Nerve Agents In Our Food Act of 2018”.
+
+## § 2. Cancellation of registration of or­gan­o­phos­phate pesticides
+
+- **(a)** *In general* Pursuant to section 6(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136d(b)), effective on the date of the enactment of this Act—
+  - **(1)** organophosphate pesticides shall be deemed to generally cause unreasonable adverse effects on the environment due in part to dietary risks to humans posed by residues of such pesticide chemicals on food;
+  - **(2)** the Administrator of the Environmental Protection Agency shall cancel the registration of all uses of organophosphate pesticides; and
+  - **(3)** following such cancellation the Administrator shall, in accordance with section 408(l)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a(l)(2)) revoke any tolerance or exemption that allows the presence of organophosphate pesticides or any pesticide chemical residue that results from use of such pesticides, in or on food.
+- **(b)** *Use of existing stocks* Notwithstanding section 6(a) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136d(a)), effective on the date of the enactment of this Act, the continued sale and use of existing stocks of organophosphate pesticides is prohibited.
+- **(c)** *Reregistration* Effective on the date of the enactment of this Act, the Administrator of the Environmental Protection Agency may not reregister or­gan­o­phos­phate pesticides under section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1).
