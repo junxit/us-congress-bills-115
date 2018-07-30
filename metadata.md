@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2768
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2768
@@ -41,3 +41,7 @@ Fowler and Boskoff Peaks Designation Act
 - 2017-11-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638). (text: CR H9441)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 638).(text: CR H9441)
 - 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.
