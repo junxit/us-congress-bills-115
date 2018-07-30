@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4609
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4609
@@ -41,3 +41,7 @@ West Fork Fire Station Act of 2017
 - 2018-04-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3321)
 - 2018-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3321)
 - 2018-04-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.
