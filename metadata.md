@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2897
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2897
@@ -52,3 +52,8 @@ To authorize the Mayor of the District of Columbia and the Director of the Natio
 - 2018-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H394)
 - 2018-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H394)
 - 2018-01-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.
