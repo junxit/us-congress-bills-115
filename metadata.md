@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4567
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4567
@@ -47,3 +47,7 @@ DHS Overseas Personnel Enhancement Act of 2017
 - 2018-01-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).
 - 2018-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 12).
 - 2018-01-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-308.
+- 2018-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-308.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.
