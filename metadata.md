@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 541
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 541
@@ -29,3 +29,7 @@ A resolution expressing the sense of the Senate that any United States-Saudi Ara
 
 - 2018-06-12 — Introduced in Senate
 - 2018-06-12 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3764)
+- 2018-07-26 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.
