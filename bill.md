@@ -1,7 +1,7 @@
 ---
 legis-num: S. 436
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -35,7 +35,10 @@ This Act may be cited as the “San Juan County Settlement Implementation Act �
   - **(3)** *Effective period*
     - **(A)** *In general* A bidding right issued under the Mineral Leasing Act (30 U.S.C. 181 et seq.) shall terminate on the expiration of the 7-year period beginning on the date the bidding right is issued.
     - **(B)** *Tolling of period* The 7-year period described in subparagraph (A) shall be tolled during any period in which exercise of the bidding right is precluded by temporary injunctive relief granted under, or administrative, legislative, or judicial suspension of, the Federal coal leasing program.
-- **(f)** *Deadline* If an existing settlement of a coal preference right lease application has not been implemented as of the date of enactment of this Act, not later than 180 days after that date of enactment, the Secretary shall complete the bidding rights valuation process in accordance with the terms of the settlement.
+- **(f)** *Deadline* If an existing settlement of a coal
+- **(f)** *Deadline*
+  - **(1)** *In general* If an existing settlement of a coal preference right lease application has not been implemented as of the date of enactment of this Act, not later than 180 days after that date of enactment, the Secretary shall complete the bidding rights valuation process in accordance with the terms of the settlement.
+  - **(2)** *Date of valuation* For purposes of the valuation process under paragraph (1), the market price of coal shall be determined as of the date of the settlement.
 
 ## § 3. Certain land selections of the Navajo Nation
 
@@ -50,6 +53,7 @@ This Act may be cited as the “San Juan County Settlement Implementation Act �
       - **(ii)** the Fossil Forest Research Natural Area; or
       - **(iii)** a special management area or area of critical environmental concern identified in a land use plan developed under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that is in effect on the date of enactment of this Act.
     - **(C)** Any land subject to a lease or contract under the Mineral Leasing Act (30 U.S.C. 181 et seq.) or the Act of July 31, 1947 (commonly known as the “Materials Act of 1947”) (30 U.S.C. 601 et seq.) as of the date of the selection.
+    - **(D)** Land identified as “Parcels Excluded from Selection” on the map entitled “Parcels excluded for selection under the San Juan County Settlement Implementation Act” and dated May 11, 2018.
   - **(4)** *Deadline* Not later than 7 years after the date of enactment of this Act, the Navajo Nation shall make all selections under paragraph (1).
   - **(5)** *Withdrawal* Any land selected by the Navajo Nation under paragraph (1) shall be withdrawn from disposal, leasing, and development until the date on which the selected land is placed into trust for the Navajo Nation.
 - **(c)** *Equal value*
@@ -101,3 +105,7 @@ This Act may be cited as the “San Juan County Settlement Implementation Act �
 - **(e)** *Grazing* Grazing of livestock in the land designated as wilderness by subsection (a), where established before the date of enactment of this Act, shall be allowed to continue in accordance with—
   - **(1)** section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)); and
   - **(2)** the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
+
+## § 6. Maintenance of road
+
+The Secretary of the Interior, acting through the Director of the Bureau of Indian Affairs, shall ensure that BIA Route 54 between I–40 and Alamo, New Mexico, is maintained in a condition that is safe for motorized use.
