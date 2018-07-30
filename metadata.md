@@ -1,7 +1,7 @@
 ---
 measure: S. 930
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 930
@@ -29,3 +29,8 @@ Western Area Power Administration Transparency Act
 
 - 2017-04-25 — Introduced in Senate
 - 2017-04-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-06-14 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 115-38.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.
