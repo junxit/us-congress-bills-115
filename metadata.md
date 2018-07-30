@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 501
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 501
@@ -16,10 +16,11 @@ A resolution recognizing threats to freedom of the press and expression around t
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution recognizing threats to freedom of the press and expression around t
 
 - 2018-05-07 — Introduced in Senate
 - 2018-05-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2527)
+- 2018-07-26 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
