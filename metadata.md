@@ -1,7 +1,7 @@
 ---
 measure: S. 2102
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2102
@@ -28,3 +28,8 @@ Acadia National Park Boundary Clarification Act
 
 - 2017-11-08 — Introduced in Senate
 - 2017-11-08 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-02-14 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-504.
+- 2018-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-07-30 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.
