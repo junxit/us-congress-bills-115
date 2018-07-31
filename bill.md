@@ -11,15 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Enhancing Multi-Class Stock Disclosures Act”.
+This Act may be cited as the “Enhancing Multi-Class Share Disclosures Act”.
 
-## § 2. Reporting on certain issuers
+## § 2. Disclosure Relating to Multi-Class Share Structures
 
 Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following:
 
-> - **(k)** *Disclosure for issuers with multi-Class stock structure*
->   - **(1)** *Disclosure* The Commission shall, by rule, require each issuer with a multi-class stock structure to disclose the information described in paragraph (2) in any proxy or consent solicitation material for an annual meeting of the shareholders of the issuer.
->   - **(2)** *Content* A disclosure made under paragraph (1) shall include, with respect to each person who is a director or executive officer of the issuer or who, directly or indirectly, holds 5 percent or more of the total combined voting power of all classes of stock entitled to vote in the election of directors—
->     - **(A)** the amount of equity interest directly or indirectly owned by such person, expressed as a percentage of the total value of the outstanding equity securities of the issuer; and
+> - **(k)** *Disclosure for issuers with multi-class share structures*
+>   - **(1)** *Disclosure* The Commission shall, by rule, require each issuer with a multi-class share structure to disclose the information described in paragraph (2) in any proxy or consent solicitation material for an annual meeting of the shareholders of the issuer, or any other filing as the Commission determines appropriate.
+>   - **(2)** *Content* A disclosure made under paragraph (1) shall include, with respect to each person who is a director, director nominee, or named executive officer of the issuer, or who is the beneficial owner of securities with 5 percent or more of the total combined voting power of all classes of securities entitled to vote in the election of directors—
+>     - **(A)** the number of shares of all classes of securities entitled to vote in the election of directors beneficially owned by such person, expressed as a percentage of the total number of the outstanding securities of the issuer entitled to vote in the election of directors; and
 >     - **(B)** the amount of voting power held by such person, expressed as a percentage of the total combined voting power of all classes of the securities of the issuer entitled to vote in the election of directors.
->   - **(3)** *multi-class stock structure* In this subsection, the term “multi-class stock structure” means a capitalization structure that contains 2 or more classes of stock that have different amounts of voting power.
+>   - **(3)** *Multi-class share structure* In this subsection, the term “multi-class share structure” means a capitalization structure that contains 2 or more classes of securities that have differing amounts of voting rights in the election of directors.
