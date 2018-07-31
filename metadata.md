@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6319
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6319
@@ -25,3 +25,8 @@ Expanding Investment in Small Businesses Act
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Referred to the House Committee on Financial Services.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported by Voice Vote.
+- 2018-07-31 — Placed on the Union Calendar, Calendar No. 676.
+- 2018-07-31 — Reported by the Committee on Financial Services. H. Rept. 115-878.
+- 2018-07-31 — Reported by the Committee on Financial Services. H. Rept. 115-878.
