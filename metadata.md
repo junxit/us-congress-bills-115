@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5772
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5772
@@ -44,3 +44,12 @@ To designate the J. Marvin Jones Federal Building and Courthouse in Amarillo, Te
 - 2018-08-01 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2018-08-01 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2018-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 551.
+- 2018-09-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6032)
+- 2018-09-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6032)
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-06 — Presented to President.
+- 2018-09-06 — Presented to President.
+- 2018-09-18 — Became Public Law No: 115-242.
+- 2018-09-18 — Became Public Law No: 115-242.
+- 2018-09-18 — Signed by President.
+- 2018-09-18 — Signed by President.
