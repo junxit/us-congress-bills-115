@@ -1,7 +1,7 @@
 ---
 measure: S. 1668
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1668
@@ -28,3 +28,5 @@ A bill to rename a waterway in the State of New York as the "Joseph Sanford Jr. 
 - 2018-04-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-221.
 - 2018-04-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-221.
 - 2018-04-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
+- 2018-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5560; text: CR S5560)
+- 2018-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5560; text: CR S5560)
