@@ -1,7 +1,7 @@
 ---
 measure: S. 2497
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2497
@@ -16,7 +16,7 @@ United States-Israel Security Assistance Authorization Act of 2018
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (70)
+## Cosponsors (72)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -88,6 +88,8 @@ United States-Israel Security Assistance Authorization Act of 2018
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Thune, John [R-SD] (T000250)
 
 ## Committees (1)
 
@@ -101,3 +103,12 @@ United States-Israel Security Assistance Authorization Act of 2018
 - 2018-07-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-07-17 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-07-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 519.
+- 2018-08-01 — Amendment SA 3690 agreed to in Senate by Unanimous Consent.
+- 2018-08-01 — Amendment SA 3690 proposed by Senator Gardner for Senator Rubio. (consideration: CR S5569-5570; text: CR S5569-5570) To make improvements to the bill.
+- 2018-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S5567-5572)
+- 2018-08-01 — Passed Senate with an amendment by Voice Vote. (text: CR S5570-5572)
+- 2018-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S5570-5572)
+- 2018-08-01 — Senate amendment agreed to: Amendment SA 3690 agreed to in Senate by Unanimous Consent.
+- 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3690 proposed by Senator Gardner for Senator Rubio.(consideration: CR S5569-5570; text: CR S5569-5570)
+- 2018-08-01 — Senate amendment submitted
+- 2018-08-01 — The committee substitute as amended agreed to by Unanimous Consent.
