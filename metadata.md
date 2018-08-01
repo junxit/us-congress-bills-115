@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6147
 congress: 115
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6147
@@ -16,11 +16,513 @@ Interior, Environment, Financial Services and General Government, Agriculture, R
 
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 
+## Cosponsors (499)
+
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sasse, Ben [R-NE] (S001197)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (24)
+## Recorded votes (38)
 
 - 2018-07-18 — [House 115-2-341](votes/house-115-2-0341.md) — On Agreeing to the Amendment — **Failed** (172–237)
 - 2018-07-18 — [House 115-2-342](votes/house-115-2-0342.md) — On Agreeing to the Amendment — **Failed** (190–223)
@@ -46,6 +548,20 @@ Interior, Environment, Financial Services and General Government, Agriculture, R
 - 2018-07-18 — [House 115-2-362](votes/house-115-2-0362.md) — On Agreeing to the Amendment — **Failed** (201–212)
 - 2018-07-19 — [House 115-2-364](votes/house-115-2-0364.md) — On Motion to Recommit with Instructions — **Failed** (182–232)
 - 2018-07-19 — [House 115-2-365](votes/house-115-2-0365.md) — On Passage — **Passed** (217–199)
+- 2018-07-24 — [Senate 115-2-164](votes/senate-115-2-0164.md) — On the Amendment — **Amendment Agreed to** (98–1)
+- 2018-07-24 — [Senate 115-2-165](votes/senate-115-2-0165.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2018-07-24 — [Senate 115-2-166](votes/senate-115-2-0166.md) — On the Amendment — **Amendment Agreed to** (97–1)
+- 2018-07-24 — [Senate 115-2-167](votes/senate-115-2-0167.md) — On the Amendment — **Amendment Agreed to** (87–11)
+- 2018-07-25 — [Senate 115-2-168](votes/senate-115-2-0168.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2018-07-25 — [Senate 115-2-169](votes/senate-115-2-0169.md) — On the Amendment — **Amendment Agreed to** (95–4)
+- 2018-07-25 — [Senate 115-2-170](votes/senate-115-2-0170.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2018-07-25 — [Senate 115-2-171](votes/senate-115-2-0171.md) — On the Amendment — **Amendment Rejected** (25–74)
+- 2018-07-31 — [Senate 115-2-175](votes/senate-115-2-0175.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–4)
+- 2018-08-01 — [Senate 115-2-176](votes/senate-115-2-0176.md) — On the Amendment — **Amendment Rejected** (50–47)
+- 2018-08-01 — [Senate 115-2-177](votes/senate-115-2-0177.md) — On the Amendment — **Amendment Rejected** (14–84)
+- 2018-08-01 — [Senate 115-2-178](votes/senate-115-2-0178.md) — On the Amendment — **Amendment Agreed to** (83–15)
+- 2018-08-01 — [Senate 115-2-179](votes/senate-115-2-0179.md) — On the Motion to Table — **Motion to Table Agreed to** (54–44)
+- 2018-08-01 — [Senate 115-2-180](votes/senate-115-2-0180.md) — On Passage of the Bill — **Bill Passed** (92–6)
 
 ## Actions
 
@@ -680,3 +1196,557 @@ Interior, Environment, Financial Services and General Government, Agriculture, R
 - 2018-07-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 199 (Roll no. 365).
 - 2018-07-19 — Received in the Senate, read twice.
 - 2018-07-19 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-07-23 — Amendment SA 3399 proposed by Senator Shelby. (consideration: CR S5122) In the nature of a substitute.
+- 2018-07-23 — Amendment SA 3400 proposed by Senator Murkowski to Amendment SA 3399. (consideration: CR S5122; text: CR S5122) To make a technical correction.
+- 2018-07-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5122-5126)
+- 2018-07-23 — Senate amendment proposed (on the floor): Amendment SA 3399 proposed by Senator Shelby.(consideration: CR S5122)
+- 2018-07-23 — Senate amendment proposed (on the floor): Amendment SA 3400 proposed by Senator Murkowski to Amendment SA 3399.(consideration: CR S5122; text: CR S5122)
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-23 — Senate amendment submitted
+- 2018-07-24 — Amendment SA 3405 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 164.
+- 2018-07-24 — Amendment SA 3405 proposed by Senator Collins for Senator Heller to Amendment SA 3399. (consideration: CR S5240-5241; text: CR S5240) To increase the amount available for a Community Volunteer Income Tax Assistance matching grants program for tax return preparation assistance.
+- 2018-07-24 — Amendment SA 3407 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 166.
+- 2018-07-24 — Amendment SA 3407 proposed by Senator Murkowski for Senator Schatz to Amendment SA 3399. (consideration: CR S5255-5258; text: CR S5255) To provide for a report on facilities of the Department of the Interior damaged by certain volcanic eruptions.
+- 2018-07-24 — Amendment SA 3422 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 165.
+- 2018-07-24 — Amendment SA 3422 proposed by Senator Collins for Senator Durbin to Amendment SA 3399. (consideration: CR S5240-5241; text: CR S5240) To require the Inspector General to update an audit report concerning on-time performance of Amtrak.
+- 2018-07-24 — Amendment SA 3430 agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 167.
+- 2018-07-24 — Amendment SA 3430 proposed by Senator Murkowski for Senator Kennedy to Amendment SA 3399. (consideration: CR S5255-5258; text: CR S5255) To provide amounts for inspection of foreign seafood manufacturers and field examinations of imported seafood.
+- 2018-07-24 — Considered by Senate. (consideration: CR S5230)
+- 2018-07-24 — Considered by Senate. (consideration: CR S5230-5240, S5255-5258)
+- 2018-07-24 — Considered by Senate. (consideration: CR S5230-5262)
+- 2018-07-24 — Roll call votes on amendments in Senate: Amendment SA 3405 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 164.
+- 2018-07-24 — Roll call votes on amendments in Senate: Amendment SA 3407 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 166.
+- 2018-07-24 — Roll call votes on amendments in Senate: Amendment SA 3422 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 165.
+- 2018-07-24 — Roll call votes on amendments in Senate: Amendment SA 3430 agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 167.
+- 2018-07-24 — Senate amendment agreed to: Amendment SA 3405 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 164.
+- 2018-07-24 — Senate amendment agreed to: Amendment SA 3407 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 166.
+- 2018-07-24 — Senate amendment agreed to: Amendment SA 3422 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 165.
+- 2018-07-24 — Senate amendment agreed to: Amendment SA 3430 agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 167.
+- 2018-07-24 — Senate amendment proposed (on the floor): Amendment SA 3405 proposed by Senator Collins for Senator Heller to Amendment SA 3399.(consideration: CR S5240-5241; text: CR S5240)
+- 2018-07-24 — Senate amendment proposed (on the floor): Amendment SA 3407 proposed by Senator Murkowski for Senator Schatz to Amendment SA 3399.(consideration: CR S5255-5258; text: CR S5255)
+- 2018-07-24 — Senate amendment proposed (on the floor): Amendment SA 3422 proposed by Senator Collins for Senator Durbin to Amendment SA 3399.(consideration: CR S5240-5241; text: CR S5240)
+- 2018-07-24 — Senate amendment proposed (on the floor): Amendment SA 3430 proposed by Senator Murkowski for Senator Kennedy to Amendment SA 3399.(consideration: CR S5255-5258; text: CR S5255)
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-24 — Senate amendment submitted
+- 2018-07-25 — Amendment SA 3414 as modified agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 169.
+- 2018-07-25 — Amendment SA 3414 proposed by Senator Udall to Amendment SA 3399. (consideration: CR S5339-5340; text as modified: CR S5339) To express the sense of Congress relating to the importance of long-distance passenger rail routes.
+- 2018-07-25 — Amendment SA 3433 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 168.
+- 2018-07-25 — Amendment SA 3433 proposed by Senator Moran to Amendment SA 3399. (consideration: CR S5339-5340; text: CR S5339) To prohibit the use of funds to revoke certain exceptions.
+- 2018-07-25 — Amendment SA 3543 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 171.
+- 2018-07-25 — Amendment SA 3543 proposed by Senator Collins for Senator Paul to Amendment SA 3399. (consideration: CR S5347-5352; text: CR S5347) To reduce the amounts appropriated to comply with the spending limits under the Budget Control Act of 2011.
+- 2018-07-25 — Amendment SA 3553 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 170.
+- 2018-07-25 — Amendment SA 3553 proposed by Senator Collins for Senator Manchin to Amendment SA 3399. (consideration: CR S5347-5351; text: CR S5347) To make an amount available for the Office of Terrorism and Financial Intelligence of the Department of the Treasury to investigate the illicit trade of synthetic opioids originating from the People's Republic of China.
+- 2018-07-25 — Considered by Senate. (consideration: CR S5316-5356)
+- 2018-07-25 — Considered by Senate. (consideration: CR S5316-5356)
+- 2018-07-25 — Considered by Senate. (consideration: CR S5390-5391)
+- 2018-07-25 — Roll call votes on amendments in Senate: Amendment SA 3414 as modified agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 169.
+- 2018-07-25 — Roll call votes on amendments in Senate: Amendment SA 3433 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 168.
+- 2018-07-25 — Roll call votes on amendments in Senate: Amendment SA 3543 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 171.
+- 2018-07-25 — Roll call votes on amendments in Senate: Amendment SA 3553 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 170.
+- 2018-07-25 — Senate amendment agreed to: Amendment SA 3414 as modified agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 169.
+- 2018-07-25 — Senate amendment agreed to: Amendment SA 3433 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 168.
+- 2018-07-25 — Senate amendment agreed to: Amendment SA 3553 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 170.
+- 2018-07-25 — Senate amendment not agreed to: Amendment SA 3543 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 171.
+- 2018-07-25 — Senate amendment proposed (on the floor): Amendment SA 3414 proposed by Senator Udall to Amendment SA 3399.(consideration: CR S5339-5340; text: CR S5339)
+- 2018-07-25 — Senate amendment proposed (on the floor): Amendment SA 3433 proposed by Senator Moran to Amendment SA 3399.(consideration: CR S5339-5340; text: CR S5339)
+- 2018-07-25 — Senate amendment proposed (on the floor): Amendment SA 3543 proposed by Senator Collins for Senator Paul to Amendment SA 3399.(consideration: CR S5347-5352; text: CR S5347)
+- 2018-07-25 — Senate amendment proposed (on the floor): Amendment SA 3553 proposed by Senator Collins for Senator Manchin to Amendment SA 3399.(consideration: CR S5347-5351; text: CR S5347)
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-25 — Senate amendment submitted
+- 2018-07-26 — Cloture motion on amendment SA 3399 presented in Senate. (CR S5411)
+- 2018-07-26 — Cloture motion on the measure presented in Senate.
+- 2018-07-26 — Considered by Senate. (consideration: CR S5394-5411)
+- 2018-07-26 — Considered by Senate. (consideration: CR S5394-5411)
+- 2018-07-26 — Considered by Senate. (consideration: CR S5395)
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-26 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-30 — Senate amendment submitted
+- 2018-07-31 — Amendment SA 3406 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3406 proposed by Senator Moran for Senator Schatz to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To authorize the Secretary of Agriculture to provide technical assistance relating to a disaster caused by a volcanic eruption.
+- 2018-07-31 — Amendment SA 3428 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3428 proposed by Senator Moran for Senator Heller to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To require a report on engagement with local interests relating to intelligent transportation systems technologies and smart cities solutions.
+- 2018-07-31 — Amendment SA 3436 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3436 proposed by Senator Moran for Senator Johnson to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To require the Administrator of the Federal Aviation Administration to submit a report on implementation of NexGen at commercial service airports in the United States.
+- 2018-07-31 — Amendment SA 3437 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3437 proposed by Senator Moran for Senator Gardner to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To provide a set-aside for the dryland agriculture research program.
+- 2018-07-31 — Amendment SA 3438 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3438 proposed by Senator Moran for Senator Risch to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To strike section 531.
+- 2018-07-31 — Amendment SA 3447 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3447 proposed by Senator Moran for Senator Jones to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To provide additional funds for grants from the Historic Preservation Fund for historically Black colleges and universities, with an offset.
+- 2018-07-31 — Amendment SA 3454 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3454 proposed by Senator Moran for Senator Whitehouse to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To require the Secretary of Agriculture to establish a working group to conduct research relating to ocean agriculture.
+- 2018-07-31 — Amendment SA 3468 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3468 proposed by Senator Moran for Senator Murphy to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To set aside funds for the development of a map depicting pyrrhotite occurrences through the United States.
+- 2018-07-31 — Amendment SA 3476 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3476 proposed by Senator Moran for Senator Shaheen to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5499) To provide for the use of funds to ensure that survivors of domestic violence and sexual assault do not face housing discrimination.
+- 2018-07-31 — Amendment SA 3480 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3480 proposed by Senator Moran for Senator Inhofe to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To encourage the Department of Transportation and the Corps of Engineers to cooperate to develop a path forward in allowing freight funding eligibility for inland waterways improvements.
+- 2018-07-31 — Amendment SA 3482 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3482 proposed by Senator Moran for Senator Cassidy to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To set aside funds for the conduct of certain wood utilization research.
+- 2018-07-31 — Amendment SA 3492 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3492 proposed by Senator Moran for Senator Fischer to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To ensure safe and timely completion of the flexible sleeper berth pilot program.
+- 2018-07-31 — Amendment SA 3493 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3493 proposed by Senator Moran for Senator Cornyn to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To require the Secretary of Agriculture to submit a report on conservation programs administered by the Natural Resources Conservation Service relating to ocelots.
+- 2018-07-31 — Amendment SA 3517 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3517 proposed by Senator Moran for Senator Heller to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To set aside funds for the Colorado River Basin salinity control program.
+- 2018-07-31 — Amendment SA 3540 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3540 proposed by Senator Moran for Senator Heller to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To set aside additional funds for grants for the conduct of certain hazardous fuels management activities.
+- 2018-07-31 — Amendment SA 3546 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3546 proposed by Senator Moran for Senator Smith to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To require the Rural Housing Service to submit a report on certain properties.
+- 2018-07-31 — Amendment SA 3551 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3551 proposed by Senator Moran for Senator Rubio to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To provide funding to study and combat harmful algal blooms.
+- 2018-07-31 — Amendment SA 3560 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3560 proposed by Senator Moran for Senator Rubio to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To require FinCEN to submit to Congress a report on Geographic Targeting Orders.
+- 2018-07-31 — Amendment SA 3562 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3562 proposed by Senator Moran for Senator Rubio to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To prohibit certain companies from receiving assistance.
+- 2018-07-31 — Amendment SA 3563 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3563 proposed by Senator Moran for Senator Barrasso to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To provide for the use of funds from the Indian Irrigation Fund.
+- 2018-07-31 — Amendment SA 3566 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3566 proposed by Senator Moran for Senator Murkowski to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) Of a perfecting nature.
+- 2018-07-31 — Amendment SA 3578 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3578 proposed by Senator Moran for Senator Murray to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To add a provision to clarify eligibility and establish an eligibility appeal mechanism under the rural broadband loan and grant pilot program.
+- 2018-07-31 — Amendment SA 3582 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3582 proposed by Senator Moran for Senator Brown to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5500) To increase funding for 1890 land-grant colleges, with an offset.
+- 2018-07-31 — Amendment SA 3585 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3585 proposed by Senator Moran for Senator Murkowski to Amendment SA 3399. (consideration: CR S5499-5503; text as modified: CR S5503) To set aside funds for the Alyce Spotted Bear and Walter Soboleff Commission on Native Children.
+- 2018-07-31 — Amendment SA 3585, previously agreed to, was modified by Unanimous Consent.
+- 2018-07-31 — Amendment SA 3595 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3595 proposed by Senator Moran for Senator Collins to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To prohibit the use of funds to enforce certain requirements with respect to added sugars in the rules issued by the Food and Drug Administration on nutrition labels.
+- 2018-07-31 — Amendment SA 3607 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3607 proposed by Senator Moran for Senator Stabenow to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To require the use of Environmental Protection Agency funds to implement recommendations relating to clean and safe water compliance.
+- 2018-07-31 — Amendment SA 3608 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3608 proposed by Senator Moran for Senator Reed to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To prohibit the use of funds to implement certain new policies of the Federal Transit Administration relating to the Capital Investment Grant program.
+- 2018-07-31 — Amendment SA 3613 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3613 proposed by Senator Moran for Senator Toomey to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To set aside funds for the United States Semiquincentennial Commission.
+- 2018-07-31 — Amendment SA 3615 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3615 proposed by Senator Moran for Senator Jones to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To require the Small Business Administration to conduct a study on matchmaking programs for veteran entrepreneurs.
+- 2018-07-31 — Amendment SA 3621 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3621 proposed by Senator Moran for Senator Peters to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To require the Comptroller General of the United States to issue a report on the removal of lead-based paint and other hazardous materials.
+- 2018-07-31 — Amendment SA 3633 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3633 proposed by Senator Moran for Senator Cardin to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To require a report on Federal agency compliance with respect to establishing an Office of Small and Disadvantaged Business Utilization.
+- 2018-07-31 — Amendment SA 3645 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3645 proposed by Senator Moran for Senator McConnell to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To prohibit the use of funds for the enforcement of certain requirements with respect to certain roads.
+- 2018-07-31 — Amendment SA 3646 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3646 proposed by Senator Moran for Senator Boozman to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501) To provide funding to the Secretary of Agriculture to conduct an inventory and evaluation of certain land for inclusion in the National Wilderness Preservation System.
+- 2018-07-31 — Amendment SA 3650 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3650 proposed by Senator Moran for Senator Shaheen to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5501-5502) To provide for the conduct of a study to identify underlying contributing factors for pediatric cancer that are unique to certain States and to provide assistance to support States with a high incidence of such cancer.
+- 2018-07-31 — Amendment SA 3651 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3651 proposed by Senator Moran for Senator Murphy to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To require a study on the financial impact of the mineral pyrrhotite in concrete home foundations.
+- 2018-07-31 — Amendment SA 3661 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3661 proposed by Senator Moran for Senator Coons to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To designate a rest area on the Mount Vernon Trail as the "Peter B. Webster III Memorial Area".
+- 2018-07-31 — Amendment SA 3665 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3665 proposed by Senator Moran to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To ensure continued passenger rail operations on long-distance routes.
+- 2018-07-31 — Amendment SA 3666 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3666 proposed by Senator Moran for Senator Coons to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To extend by 1 year the deadline for expenditure for transportation projects awarded funding from the Transportation Investment Generating Economic Recovery (TIGER) 2012 and 2013 discretionary grant programs of the Department of Transportation.
+- 2018-07-31 — Amendment SA 3668 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3668 proposed by Senator Moran for Senator Casey to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To increase the amount set aside for the breastfeeding peer counselors program.
+- 2018-07-31 — Amendment SA 3669 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3669 proposed by Senator Moran for Senator Fischer to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5502) To prohibit the use of funds to carry out requirements relating to electronic logging devices.
+- 2018-07-31 — Amendment SA 3670 as modified agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3670 proposed by Senator Moran for Senator Cornyn to Amendment SA 3399. (consideration: CR S5499-5503; text as modified: CR S5502-5503) To prohibit funds made available to the Federal Transit Administration from being used for the procurement of rolling stock from manufacturers supported by certain foreign governments.
+- 2018-07-31 — Amendment SA 3671 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3671 proposed by Senator Moran for Senator Heller to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5503) To prohibit funds from being used to provide housing assistance benefits to individuals convicted of certain criminal offenses.
+- 2018-07-31 — Amendment SA 3675 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3675 proposed by Senator Moran for Senator Donnelly to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5503) To provide for rural health and safety education programs to address and combat the opioid abuse epidemic.
+- 2018-07-31 — Amendment SA 3676 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3676 proposed by Senator Moran for Senator Heitkamp to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5503) To provide an additional $2,000,000 for hiring staff for tribal detention facilities by reducing the amounts made available through the Working Capital Fund of the Department of the Interior.
+- 2018-07-31 — Amendment SA 3677 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3677 proposed by Senator Moran for Senator Blumenthal to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5503) To require the National Railroad Passenger Corporation to grant a discount to members of the public benefit corporation Veterans Advantage.
+- 2018-07-31 — Amendment SA 3679 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3679 proposed by Senator Moran for Senator Warner to Amendment SA 3399. (consideration: CR S5499-5503; text: CR S5503) To provide that up to $6,000,000 be used for UAS integration activities.
+- 2018-07-31 — Amendment SA 3684 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Amendment SA 3684 proposed by Senator Moran for Senator Coons to Amendment SA 3666. (consideration: CR S5499-5503; text: CR S5502) To improve the amendment.
+- 2018-07-31 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2018-07-31 — Cloture on amendment SA 3399 invoked in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 175. (CR S5503)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5469)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5469)
+- 2018-07-31 — Considered by Senate. (consideration: CR S5469-5472, S5474-5491, S5493-5503)
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3406 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3428 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3436 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3437 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3438 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3447 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3454 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3468 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3476 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3480 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3482 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3492 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3493 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3517 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3540 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3546 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3551 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3560 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3562 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3563 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3566 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3578 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3582 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3585 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3595 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3607 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3608 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3613 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3615 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3621 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3633 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3645 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3646 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3650 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3651 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3661 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3665 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3666 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3668 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3669 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3670 as modified agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3671 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3675 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3676 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3677 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3679 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment agreed to: Amendment SA 3684 agreed to in Senate by Voice Vote.
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3406 proposed by Senator Moran for Senator Schatz to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3428 proposed by Senator Moran for Senator Heller to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3436 proposed by Senator Moran for Senator Johnson to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3437 proposed by Senator Moran for Senator Gardner to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3438 proposed by Senator Moran for Senator Risch to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3447 proposed by Senator Moran for Senator Jones to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3454 proposed by Senator Moran for Senator Whitehouse to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3468 proposed by Senator Moran for Senator Murphy to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3476 proposed by Senator Moran for Senator Shaheen to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5499)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3480 proposed by Senator Moran for Senator Inhofe to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3482 proposed by Senator Moran for Senator Cassidy to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3492 proposed by Senator Moran for Senator Fischer to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3493 proposed by Senator Moran for Senator Cornyn to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3517 proposed by Senator Moran for Senator Heller to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3540 proposed by Senator Moran for Senator Heller to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3546 proposed by Senator Moran for Senator Smith to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3551 proposed by Senator Moran for Senator Rubio to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3560 proposed by Senator Moran for Senator Rubio to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3562 proposed by Senator Moran for Senator Rubio to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3563 proposed by Senator Moran for Senator Barrasso to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3566 proposed by Senator Moran for Senator Murkowski to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3578 proposed by Senator Moran for Senator Murray to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3582 proposed by Senator Moran for Senator Brown to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5500)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3585 proposed by Senator Moran for Senator Murkowski to Amendment SA 3399.(consideration: CR S5499-5503; text as modified: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3595 proposed by Senator Moran for Senator Collins to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3607 proposed by Senator Moran for Senator Stabenow to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3608 proposed by Senator Moran for Senator Reed to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3613 proposed by Senator Moran for Senator Toomey to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3615 proposed by Senator Moran for Senator Jones to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3621 proposed by Senator Moran for Senator Peters to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3633 proposed by Senator Moran for Senator Cardin to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3645 proposed by Senator Moran for Senator McConnell to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3646 proposed by Senator Moran for Senator Boozman to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3650 proposed by Senator Moran for Senator Shaheen to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5501-5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3651 proposed by Senator Moran for Senator Murphy to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3661 proposed by Senator Moran for Senator Coons to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3665 proposed by Senator Moran to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3666 proposed by Senator Moran for Senator Coons to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3668 proposed by Senator Moran for Senator Casey to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3669 proposed by Senator Moran for Senator Fischer to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3670 proposed by Senator Moran for Senator Cornyn to Amendment SA 3399.(consideration: CR S5499-5503; text as modified: CR S5502-5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3671 proposed by Senator Moran for Senator Heller to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3675 proposed by Senator Moran for Senator Donnelly to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3676 proposed by Senator Moran for Senator Heitkamp to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3677 proposed by Senator Moran for Senator Blumenthal to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3679 proposed by Senator Moran for Senator Warner to Amendment SA 3399.(consideration: CR S5499-5503; text: CR S5503)
+- 2018-07-31 — Senate amendment proposed (on the floor): Amendment SA 3684 proposed by Senator Moran for Senator Coons to Amendment SA 3666.(consideration: CR S5499-5503; text: CR S5502)
+- 2018-07-31 — Senate amendment submitted
+- 2018-07-31 — Senate amendment submitted
+- 2018-07-31 — Senate amendment submitted
+- 2018-07-31 — Senate amendment submitted
+- 2018-08-01 — Amendment SA 3399 agreed to in Senate by Unanimous Consent.
+- 2018-08-01 — Amendment SA 3402 proposed by Senator Collins for Senator Cruz to Amendment SA 3399. (consideration: CR S5533, S5536) To prohibit the use of funds to carry out the District of Columbia's health insurance individual mandate.
+- 2018-08-01 — Amendment SA 3464 proposed by Senator Collins for Senator Leahy to Amendment SA 3399. (consideration: CR S5533, S5534) To provide for election security grants.
+- 2018-08-01 — Amendment SA 3464, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 176.
+- 2018-08-01 — Amendment SA 3522 proposed by Senator Collins for Senator Lee to Amendment SA 3399. (consideration: CR S5533, S5534-5535) To prohibit the use of funds to enforce standards of identity with respect to certain food.
+- 2018-08-01 — Amendment SA 3522, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 177.
+- 2018-08-01 — Amendment SA 3524 proposed by Senator Collins for Senator Baldwin to Amendment SA 3399. (consideration: CR S5533, S5535-5536) To appropriate funds to carry out programs relating to the innovation, process improvement, and marketing of dairy products.
+- 2018-08-01 — Amendment SA 3524, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 178.
+- 2018-08-01 — Considered by Senate. (consideration: CR S5528, S5538)
+- 2018-08-01 — Considered by Senate. (consideration: CR S5528, S5538)
+- 2018-08-01 — Considered by Senate. (consideration: CR S5528-5538)
+- 2018-08-01 — Motion to table amendment SA 3402 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 179.
+- 2018-08-01 — Passed Senate with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 180.
+- 2018-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 180.
+- 2018-08-01 — Proposed amendment SA 3400 withdrawn in Senate.
+- 2018-08-01 — Roll call votes on amendments in Senate: Amendment SA 3464, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 176.
+- 2018-08-01 — Roll call votes on amendments in Senate: Amendment SA 3522, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 177.
+- 2018-08-01 — Roll call votes on amendments in Senate: Amendment SA 3524, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 178.
+- 2018-08-01 — Roll call votes on amendments in Senate: Motion to table amendment SA 3402 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 179.
+- 2018-08-01 — Senate amendment agreed to: Amendment SA 3399 agreed to in Senate by Unanimous Consent.
+- 2018-08-01 — Senate amendment agreed to: Amendment SA 3524, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 178.
+- 2018-08-01 — Senate amendment not agreed to: Amendment SA 3464, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 176.
+- 2018-08-01 — Senate amendment not agreed to: Amendment SA 3522, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 177.
+- 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3402 proposed by Senator Collins for Senator Cruz to Amendment SA 3399.(consideration: CR S5533, S5536)
+- 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3464 proposed by Senator Collins for Senator Leahy to Amendment SA 3399.(consideration: CR S5533, S5534)
+- 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3522 proposed by Senator Collins for Senator Lee to Amendment SA 3399.(consideration: CR S5533, S5534-5535)
+- 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3524 proposed by Senator Collins for Senator Baldwin to Amendment SA 3399.(consideration: CR S5533, S5535-5536)
