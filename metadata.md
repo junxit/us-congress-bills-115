@@ -1,7 +1,7 @@
 ---
 measure: S. 3021
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3021
@@ -28,3 +28,7 @@ America's Water Infrastructure Act of 2018
 
 - 2018-06-07 — Introduced in Senate
 - 2018-06-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2018-08-01 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2018-08-01 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-08-01 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
