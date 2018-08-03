@@ -1,7 +1,7 @@
 ---
 measure: S. 2101
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2101
@@ -89,9 +89,10 @@ USS Indianapolis Congressional Gold Medal Act
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -107,3 +108,6 @@ USS Indianapolis Congressional Gold Medal Act
 - 2018-08-01 — Senate amendment agreed to: Amendment SA 3688 agreed to in Senate by Unanimous Consent.
 - 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3688 proposed by Senator McConnell for Senator Donnelly.(consideration: CR S5560; text: CR S5560)
 - 2018-08-01 — Senate amendment submitted
+- 2018-08-02 — Message on Senate action sent to the House.
+- 2018-08-03 — Received in the House.
+- 2018-08-03 — Referred to the House Committee on Financial Services.
