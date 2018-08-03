@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3555
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3555
@@ -32,3 +32,8 @@ Exchange Regulatory Improvement Act
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Introduced in House
 - 2017-07-28 — Referred to the House Committee on Financial Services.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-08-03 — Placed on the Union Calendar, Calendar No. 681.
+- 2018-08-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-883.
+- 2018-08-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-883.
