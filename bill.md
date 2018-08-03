@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Senior Investor Initiative Act of 2018”.
+This Act may be cited as the “National Senior Investor Initiative Act of 2018” or the “Senior Security Act of 2018”.
 
 ## § 2. Senior Investor Taskforce
 
@@ -29,18 +29,18 @@ Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by a
 >     - **(B)** such staff shall include individuals from the Division of Enforcement, Office of Compliance Inspections and Examinations, and Office of Investor Education and Advocacy.
 >   - **(4)** *Minimizing duplication of efforts* In organizing and staffing the Taskforce, the Chairman shall take such actions as may be necessary to minimize the duplication of efforts within the divisions and offices described under paragraph (3)(B) and any other divisions, offices, or taskforces of the Commission.
 >   - **(5)** *Functions of the Taskforce* The Taskforce shall—
->     - **(A)** identify problems that senior investors have with financial services providers and investment products;
+>     - **(A)** identify challenges that senior investors encounter, including problems associated with financial exploitation and cognitive decline;
 >     - **(B)** identify areas in which senior investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
->     - **(C)** coordinate, as appropriate, with other offices within the Commission, other taskforces that may be established within the Commission, and self-regulatory organizations; and
+>     - **(C)** coordinate, as appropriate, with other offices within the Commission, other taskforces that may be established within the Commission, self-regulatory organizations, and the Elder Justice Coordinating Council; and
 >     - **(D)** consult, as appropriate, with State securities and law enforcement authorities, State insurance regulators, and other Federal agencies.
 >   - **(6)** *Report* The Taskforce, in coordination, as appropriate, with the Office of the Investor Advocate and self-regulatory organizations, and in consultation, as appropriate, with State securities and law enforcement authorities, State insurance regulators, and Federal agencies, shall issue a report every 2 years to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, the first of which shall not be issued until after the report described in section 3 of the National Senior Investor Initiative Act of 2018 has been issued and considered by the Taskforce, containing—
 >     - **(A)** appropriate statistical information and full and substantive analysis;
->     - **(B)** a summary of recent industry trends that have impacted the investment landscape for senior investors;
+>     - **(B)** a summary of recent trends and innovations that have impacted the investment landscape for senior investors;
 >     - **(C)** a summary of regulatory initiatives that have concentrated on senior investors and industry practices related to senior investors;
->     - **(D)** key observations and practices involving senior investors identified during examinations, enforcement actions, and investor education outreach;
->     - **(E)** a summary of the most serious issues encountered by senior investors;
+>     - **(D)** key observations, best practices, and areas needing improvement, involving senior investors identified during examinations, enforcement actions, and investor education outreach;
+>     - **(E)** a summary of the most serious issues encountered by senior investors, including issues involving financial products and services;
 >     - **(F)** an analysis with regard to existing policies and procedures of brokers, dealers, investment advisers, and other market participants related to senior investors and senior investor-related topics and whether these policies and procedures need to be further developed or refined;
->     - **(G)** recommendations for such changes to the regulations, guidance, and orders of the Commission and such legislative actions as may be appropriate to resolve problems encountered by senior investors; and
+>     - **(G)** recommendations for such changes to the regulations, guidance, and orders of the Commission and self-regulatory organizations and such legislative actions as may be appropriate to resolve problems encountered by senior investors; and
 >     - **(H)** any other information, as determined appropriate by the Director of the Taskforce.
 >   - **(7)** *Sunset* The Taskforce shall terminate after the end of the 10-year period beginning on the date of the enactment of this subsection, but may be reestablished by the Chairman.
 >   - **(8)** *Senior investor defined* For purposes of this subsection, the term “senior investor” means an investor over the age of 65.
