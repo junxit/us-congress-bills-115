@@ -1,7 +1,7 @@
 ---
 measure: S. 2497
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2497
@@ -91,9 +91,12 @@ United States-Israel Security Assistance Authorization Act of 2018
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Thune, John [R-SD] (T000250)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Foreign Relations Committee
+- House — Science, Space, and Technology Committee
+- House — Armed Services Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -112,3 +115,8 @@ United States-Israel Security Assistance Authorization Act of 2018
 - 2018-08-01 — Senate amendment proposed (on the floor): Amendment SA 3690 proposed by Senator Gardner for Senator Rubio.(consideration: CR S5569-5570; text: CR S5569-5570)
 - 2018-08-01 — Senate amendment submitted
 - 2018-08-01 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2018-08-02 — Message on Senate action sent to the House.
+- 2018-08-03 — Received in the House.
+- 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
