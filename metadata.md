@@ -1,7 +1,7 @@
 ---
 measure: S. 2101
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2101
@@ -111,3 +111,16 @@ USS Indianapolis Congressional Gold Medal Act
 - 2018-08-02 — Message on Senate action sent to the House.
 - 2018-08-03 — Received in the House.
 - 2018-08-03 — Referred to the House Committee on Financial Services.
+- 2018-12-12 — Committee on Financial Services discharged.
+- 2018-12-12 — Committee on Financial Services discharged.
+- 2018-12-12 — Considered by unanimous consent. (consideration: CR H10157)
+- 2018-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-12 — Mr. Barr asked unanimous consent to discharge from committee and consider.
+- 2018-12-12 — On passage Passed without objection. (text: CR H10157)
+- 2018-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10157)
+- 2018-12-20 — Became Public Law No: 115-338.
+- 2018-12-20 — Became Public Law No: 115-338.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Signed by President.
+- 2018-12-20 — Signed by President.
