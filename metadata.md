@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4861
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4861
@@ -16,6 +16,10 @@ EQUAL Act of 2018
 
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 
+## Cosponsors (1)
+
+- Rep. Barr, Andy [R-KY-6] (B001282)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -26,3 +30,8 @@ EQUAL Act of 2018
 - 2018-01-19 — Introduced in House
 - 2018-01-19 — Introduced in House
 - 2018-01-19 — Referred to the House Committee on Financial Services.
+- 2018-03-21 — Committee Consideration and Mark-up Session Held.
+- 2018-03-21 — Ordered to be Reported by the Yeas and Nays: 34 - 26.
+- 2018-08-03 — Placed on the Union Calendar, Calendar No. 688.
+- 2018-08-03 — Reported by the Committee on Financial Services. H. Rept. 115-890.
+- 2018-08-03 — Reported by the Committee on Financial Services. H. Rept. 115-890.
