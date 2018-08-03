@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6324
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6324
@@ -25,3 +25,8 @@ Middle Market IPO Underwriting Cost Act
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Referred to the House Committee on Financial Services.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-08-03 — Placed on the Union Calendar, Calendar No. 685.
+- 2018-08-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-887.
+- 2018-08-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-887.

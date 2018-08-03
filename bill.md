@@ -15,15 +15,19 @@ This Act may be cited as the “Middle Market IPO Underwriting Cost Act”.
 
 ## § 2. Study on IPO fees
 
-- **(a)** *Study* The Securities and Exchange Commission, in consultation with the Financial Industry Regulatory Authority, shall carry out a study of the direct and indirect underwriting costs, including gross spreads and pricing practices, for mid-sized initial public offerings (“IPO”). In carrying out such study, the Commission shall—
-  - **(1)** compare underwriting fees in foreign countries to those in the United States;
-  - **(2)** analyze the relationship between the costs of taking a company public and the underwriting fees, including gross spreads;
-  - **(3)** compare the underwriting fees for larger company IPOs compared with mid-sized IPOs;
-  - **(4)** look at the changes to underwriting fees, if any, between 1980 and today; and
-  - **(5)** consider—
-    - **(A)** the reasons for any disparities identified under paragraphs (1) through (4);
-    - **(B)** whether such fees limit capital formation and whether any such impact is reasonable;
-    - **(C)** how such fees may factor into a company’s decision to go public;
-    - **(D)** alternatives to going public through the traditional underwriting process, such as directly listing with a national securities exchange or filing a Form 10; and
-    - **(E)** any other consideration the Commission considers necessary and appropriate.
+- **(a)** *Study* The Securities and Exchange Commission, in consultation with the Financial Industry Regulatory Authority, shall carry out a study of the costs associated with small- and medium-sized companies to undertake initial public offerings (“IPOs”). In carrying out such study, the Commission shall—
+  - **(1)** consider the direct and indirect costs of an IPO, including—
+    - **(A)** fees, such as gross spreads paid to underwriters, IPO advisors, and other professionals;
+    - **(B)** compliance with Federal and State securities laws at the time of the IPO; and
+    - **(C)** such other IPO-related costs as the Commission determines appropriate;
+  - **(2)** compare and analyze the costs of an IPO with the costs of obtaining alternative sources of financing and of liquidity;
+  - **(3)** consider the impact of such costs on capital formation;
+  - **(4)** analyze the impact of these costs on the availability of public securities of small- and medium-sized companies to retail investors; and
+  - **(5)** analyze trends in IPOs over a time period the Commission determines is appropriate to analyze IPO pricing practices, considering—
+    - **(A)** the number of IPOs;
+    - **(B)** how costs for IPOs have evolved over time, including fees paid to underwriters, investment advisory firms, and other professions for services in connection with an IPO;
+    - **(C)** the number of brokers and dealers active in underwriting IPOs;
+    - **(D)** the different types of services that underwriters and related persons provide before and after a small- or medium-sized company IPO and the factors impacting underwriting costs;
+    - **(E)** changes in the costs and availability of investment research for small- and medium-sized companies; and
+    - **(F)** any other consideration the Commission considers necessary and appropriate.
 - **(b)** *Report* Not later than the end of the 360-day period beginning on the date of the enactment of this Act, the Commission shall issue a report to the Congress containing all findings and determinations made in carrying out the study required under subsection (a) and any administrative or legislative recommendations the Commission may have.
