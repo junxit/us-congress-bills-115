@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6321
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6321
@@ -29,3 +29,8 @@ Investment Adviser Regulatory Flexibility Improvement Act
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Introduced in House
 - 2018-07-10 — Referred to the House Committee on Financial Services.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported by Voice Vote.
+- 2018-08-03 — Placed on the Union Calendar, Calendar No. 682.
+- 2018-08-03 — Reported by the Committee on Financial Services. H. Rept. 115-884.
+- 2018-08-03 — Reported by the Committee on Financial Services. H. Rept. 115-884.
