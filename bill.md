@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3186
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,27 +28,28 @@ In this Act:
   - **(B)** the Secretary of Agriculture, acting through the Chief of the Forest Service;
   - **(C)** the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration; and
   - **(D)** the Secretary of the Army, acting through the Chief of Engineers of the Corps of Engineers.
-- **(4)** *Students* The term “students” means students in grade 4.
+- **(4)** *State* The term “State” means each of the several States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+- **(5)** *Student or Students* The term “student” or “students” means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States.
 
 ## § 3. Every kid outdoors program
 
 - **(a)** *Establishment* The Secretaries shall jointly establish a program, to be known as the “Every Kid Outdoors program”, to provide free access to Federal land and waters for students and accompanying individuals in accordance with this section.
 - **(b)** *Annual passes*
-  - **(1)** *In general* On request of a student, the Secretaries shall issue a pass to the student, which shall allow access to Federal land and waters free of charge for the student and—
+  - **(1)** *In general* At the request of a student, the Secretaries shall issue a pass to the student, which allows access to Federal lands and waters for which access is subject to an entrance, standard amenity, or day use fee, free of charge for the student and—
     - **(A)** in the case of a per-vehicle fee area—
       - **(i)** any passengers accompanying the student in a private, noncommercial vehicle; or
       - **(ii)** not more than 3 adults accompanying the student on bicycles; or
     - **(B)** in the case of a per-person fee area, not more than 3 adults accompanying the student.
-  - **(2)** *Term* A pass described in paragraph (1) shall be effective during the period beginning on September 1 and ending on August 30 of the following year.
+  - **(2)** *Term* A pass described in paragraph (1) shall be effective during the period beginning on September 1 and ending on August 31 of the following year.
   - **(3)** *Presence of a student in grade four required* A pass described in paragraph (1) shall be effective only if the student to which the pass was issued is present at the point of entry to the applicable Federal land or water.
 - **(c)** *Other activities* In carrying out the program, the Secretaries—
   - **(1)** may collaborate with State Park systems that opt to implement a complementary Every Kid Outdoors State park pass;
-  - **(2)** shall maintain a publicly available website with information about the program;
-  - **(3)** may provide visitor services for the program; and
-  - **(4)** may support approved partners of the Federal land and waters by providing the partners with opportunities to participate in the program.
-- **(d)** *Reports*
-  - **(1)** *In general* The Secretaries shall jointly prepare a report each year describing—
-    - **(A)** the implementation of the program;
-    - **(B)** the number and geographical distribution of students who participated in the program; and
-    - **(C)** the number of passes described in subsection (b)(1) that were distributed.
-  - **(2)** *Submission* The Secretaries shall submit the report described in paragraph (1) to Congress.
+  - **(2)** may coordinate with the Secretary of Education to implement the program;
+  - **(3)** shall maintain a publicly available website with information about the program;
+  - **(4)** may provide visitor services for the program; and
+  - **(5)** may support approved partners of the Federal land and waters by providing the partners with opportunities to participate in the program.
+- **(d)** *Reports* The Secretary of the Interior, in coordination with each Secretary, shall prepare a comprehensive report to Congress each year describing—
+  - **(1)** the implementation of the program;
+  - **(2)** the number and geographical distribution of students who participated in the program; and
+  - **(3)** the number of passes described in subsection (b)(1) that were distributed.
+- **(e)** *Sunset* The authorities provided in this Act, including the reporting requirement, shall expire on the date that is seven years after the date of enactment of this Act.
