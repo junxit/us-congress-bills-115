@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5323
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5323
@@ -26,3 +26,8 @@ Derivatives Fairness Act
 - 2018-03-19 — Introduced in House
 - 2018-03-19 — Introduced in House
 - 2018-03-19 — Referred to the House Committee on Financial Services.
+- 2018-03-21 — Committee Consideration and Mark-up Session Held.
+- 2018-03-21 — Ordered to be Reported by the Yeas and Nays: 34 - 26.
+- 2018-08-07 — Placed on the Union Calendar, Calendar No. 691.
+- 2018-08-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-893.
+- 2018-08-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-893.
