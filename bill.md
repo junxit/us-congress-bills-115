@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *County* The term County means Yavapai County, Arizona.
 - **(2)** *Federal land* The term Federal land means all right, title, and interest of the United States in and to approximately 80 acres of land within the Coconino National Forest, in Yavapai County, Arizona, generally depicted as “Coconino National Forest Parcels “Federal Land”” on the map.
-- **(3)** *Map* The term map means the map entitled “Cottonwood Land Exchange”, dated December 2015.
+- **(3)** *Map* The term map means the map entitled “Cottonwood Land Exchange”, with the revision date July 5, 2018\Version 1.
 - **(4)** *Non-Federal land* The term non-Federal land means the approximately 369 acres of land in Yavapai County, Arizona, generally depicted as “Yavapai County Parcels “Non-Federal Land”” on the map.
 - **(5)** *Secretary* The term Secretary means the Secretary of Agriculture, unless otherwise specified.
 
