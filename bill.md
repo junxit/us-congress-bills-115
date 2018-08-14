@@ -43,17 +43,15 @@ In this Act:
       - **(i)** for cabins or recreational residences in existence as of the date of enactment of this Act; or
       - **(ii)** for any of the recreation land management purposes described in subparagraph (A).
   - **(4)** *Haying and grazing* With respect to recreation land conveyed under paragraph (1) that is used for haying or grazing authorized by the Management Agreement as of the date of enactment of this Act, the Department may continue to permit haying and grazing in a manner that is permissible under the one or more haying or grazing contracts in effect as of the date of enactment of this Act.
-- **(b)** *Reversion* If a parcel of land conveyed under subparagraph (A) or (B) of subsection (a)(1) is used in a manner that is inconsistent with the requirements described in subparagraph (A) or (B), respectively, of subsection (a)(3), the parcel of land shall, at the discretion of the Secretary, revert to the United States.
-- **(c)** *Sale of permitted cabin land by department*
+- **(b)** *Sale of permitted cabin land by department*
   - **(1)** *In General* If the Department sells any parcel of permitted cabin land conveyed under subsection (a)(1)(B), the parcel shall be sold at fair market value, as determined by a third-party appraiser in accordance with the Uniform Standards of Professional Appraisal Practice, subject to paragraph (2).
   - **(2)** *Improvements* For purposes of an appraisal conducted under paragraph (1), any improvements on the permitted cabin land made by the permit holder shall not be included in the appraised value of the land.
   - **(3)** *Proceeds from the Sale of Land by the Department* If the Department sells a parcel of permitted cabin land conveyed under subsection (a)(1)(B), the Department shall pay to the Secretary the amount of any proceeds of the sale that exceed the costs of preparing the sale by the Department.
-- **(d)** *Availability of funds to the Secretary* Any amounts paid to the Secretary for land conveyed by the Secretary under this Act shall be made available to the Secretary, without further appropriation, for activities relating to the operation of the Dickinson Dam and Reservoir.
+- **(c)** *Availability of funds to the Secretary* Any amounts paid to the Secretary for land conveyed by the Secretary under this Act shall be made available to the Secretary, without further appropriation, for activities relating to the operation of the Dickinson Dam and Reservoir.
 
 ## § 3. Conveyance of game and fish headquarters to the State
 
-- **(a)** *Conveyance of game and fish headquarters* Not later than 5 years after the date of enactment of this Act, the Secretary shall convey to the State all right, title, and interest of the United States in and to the game and fish headquarters, on the condition that the game and fish headquarters continue to be used as a game and fish headquarters or substantially similar purposes.
-- **(b)** *Reversion* If land conveyed under subsection (a) is used in a manner that is inconsistent with the requirements described in that subsection, the land shall, at the discretion of the Secretary, revert to the United States.
+Not later than 5 years after the date of enactment of this Act, the Secretary shall convey to the State all right, title, and interest of the United States in and to the game and fish headquarters, on the condition that the game and fish headquarters continue to be used as a game and fish headquarters or substantially similar purposes.
 
 ## § 4. Reservations, easements, and other outstanding rights
 
