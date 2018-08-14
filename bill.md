@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6670
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6670
+
+> To amend the District of Columbia Home Rule Act to permit the District of Columbia to establish the rate of pay of the Chief Financial Officer of the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “District of Columbia Chief Financial Officer Salary Home Rule Act”.
+
+## § 2. Permitting District of Columbia to establish rate of pay of Chief Financial Officer of District of Columbia
+
+- **(a)** *Establishment of rate of pay* Section 424(b)(2)(E) of the District of Columbia Home Rule Act (sec. 1–204.24b(b)(5), D.C. Official Code) is amended to read as follows:
+  > - **(E)** *Pay* The Chief Financial Officer shall be paid at a rate established by the District of Columbia.
+
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to pay periods beginning after the expiration of the 6-month period which begins on the date of the enactment of this Act.
