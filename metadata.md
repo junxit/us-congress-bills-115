@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6039
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6039
@@ -25,3 +25,11 @@ To establish a procedure for the conveyance of certain Federal property around t
 - 2018-06-07 — Introduced in House
 - 2018-06-07 — Introduced in House
 - 2018-06-07 — Referred to the House Committee on Natural Resources.
+- 2018-06-12 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-07-11 — Subcommittee Hearings Held.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-07-18 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-08-14 — Placed on the Union Calendar, Calendar No. 697.
+- 2018-08-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-901.
+- 2018-08-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-901.
