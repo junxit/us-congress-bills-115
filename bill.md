@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2591
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act of 2017”.
+This Act may be cited as the “Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act”.
 
 ## § 2. Purpose
 
@@ -60,6 +60,8 @@ Section 2 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669a) is 
 
   - **(6)** by adding at the end the following:
     > - **(4)** *Use of funds* In addition to other uses authorized under this Act, amounts apportioned under this subsection may be used for hunter recruitment and recreational shooter recruitment.
+
+- **(c)** *Technical correction* Section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c) is amended by redesignating the second subsection (c) and subsection (d) as subsections (d) and (e), respectively.
 
 ## § 5. Expenditures for management of wildlife areas and resources
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 0 executed, 23 stated and not applied.
+24 amendatory instructions. 0 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,6 +44,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669c` | replace | by striking “each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669c` | replace | by striking “For the purpose” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669c` | redesignate | Section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c) is amended by redesignating the second subsection (c) and subsection (d) as subsections (d) and (e), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669g` | strike | in subsection (a), in the third sentence, by striking “and public relations”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669g` | strike | in subsection (b), in the first sentence, by striking “, as a part of such program”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669h-1` | strike | in clause (iii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
