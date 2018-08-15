@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1222
@@ -74,3 +74,7 @@ Congenital Heart Futures Reauthorization Act of 2017
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81). (text: CR H1238-1239)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 81).(text: CR H1238-1239)
 - 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-07-25 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
