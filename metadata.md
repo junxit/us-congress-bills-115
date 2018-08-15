@@ -1,7 +1,7 @@
 ---
 measure: S. 3016
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3016
@@ -30,3 +30,7 @@ Action for Dental Health Act of 2018
 
 - 2018-06-06 — Introduced in Senate
 - 2018-06-06 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-07-25 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.
