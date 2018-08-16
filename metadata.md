@@ -1,7 +1,7 @@
 ---
 measure: S. 2844
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2844
@@ -24,3 +24,7 @@ STB Information Security Improvement Act
 
 - 2018-05-15 — Introduced in Senate
 - 2018-05-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-05-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-322.
+- 2018-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-322.
+- 2018-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
