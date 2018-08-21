@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,6 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “best interest of the Indian” and inserting “best interest of the grantor”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding before the period at the end the following: “; (h) nothing contained in this section shall limit or affect the right of an Indian owner of restricted lands described in this Act to seek and obtain Secretarial removal of restric… | the bill names no machine-readable US Code section |
 | — | strike | in section 5, by striking “of one-half or more Indian blood,”; | the bill names no machine-readable US Code section |
-| — | strike | in section 6(c), by striking “of one-half or more Indian blood,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “purchase, partition sale,” after “gift,” each place it appears; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “of one-half or more Indian blood”; and | the bill names no machine-readable US Code section |
 | — | strike | in section 8, by striking “of one-half or more Indian blood,”. | the bill names no machine-readable US Code section |
 | — | repeal | The following are repealed: | the bill names no machine-readable US Code section |
