@@ -1,7 +1,7 @@
 ---
 measure: S. 2946
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2946
@@ -44,3 +44,17 @@ Anti-Terrorism Clarification Act of 2018
 - 2018-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.
 - 2018-08-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5864-5865; text: CR S5864-5865)
 - 2018-08-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5864-5865; text: CR S5864-5865)
+- 2018-08-23 — Message on Senate action sent to the House.
+- 2018-08-24 — Held at the desk.
+- 2018-08-24 — Received in the House.
+- 2018-09-13 — Considered by unanimous consent. (consideration: CR H8245)
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Goodlatte asked unanimous consent to take from the Speaker's table and consider.
+- 2018-09-13 — On passage Passed without objection. (text: CR H8245)
+- 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8245)
+- 2018-09-24 — Presented to President.
+- 2018-09-24 — Presented to President.
+- 2018-10-03 — Became Public Law No: 115-253.
+- 2018-10-03 — Became Public Law No: 115-253.
+- 2018-10-03 — Signed by President.
+- 2018-10-03 — Signed by President.
