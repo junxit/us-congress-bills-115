@@ -1,7 +1,7 @@
 ---
 measure: S. 2946
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2946
@@ -16,7 +16,7 @@ Anti-Terrorism Clarification Act of 2018
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -28,6 +28,7 @@ Anti-Terrorism Clarification Act of 2018
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -41,3 +42,5 @@ Anti-Terrorism Clarification Act of 2018
 - 2018-07-12 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2018-07-12 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2018-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.
+- 2018-08-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5864-5865; text: CR S5864-5865)
+- 2018-08-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5864-5865; text: CR S5864-5865)
