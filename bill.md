@@ -19,10 +19,10 @@ This Act may be cited as the “Justice Against Corruption on K Street Act of 20
   - **(1)** in paragraph (5), by striking “and” at the end;
   - **(2)** in paragraph (6), by striking the period at the end and inserting “; and”; and
   - **(3)** by inserting after paragraph (6) the following:
-    > - **(7)** for any registrant who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
+    > - **(7)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 
 - **(b)** *Quarterly reports* Section 5(b) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604(b)) is amended—
   - **(1)** in paragraph (4), by striking “and” at the end;
   - **(2)** in paragraph (5), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(6)** for any registrant who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
+    > - **(6)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.

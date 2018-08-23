@@ -1,7 +1,7 @@
 ---
 measure: S. 2896
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2896
@@ -16,10 +16,13 @@ Justice Against Corruption on K Street Act of 2018
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -33,3 +36,11 @@ Justice Against Corruption on K Street Act of 2018
 - 2018-08-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-317.
 - 2018-08-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-317.
 - 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
+- 2018-08-23 — Amendment SA 4008 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 4008 proposed by Senator McConnell for Senator Kennedy. (consideration: CR S5938-5939; text: CR S5938-5939) In the nature of a substitute.
+- 2018-08-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5938-5939)
+- 2018-08-23 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-08-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 4008 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 4008 proposed by Senator McConnell for Senator Kennedy.(consideration: CR S5938-5939; text: CR S5938-5939)
+- 2018-08-23 — Senate amendment submitted
