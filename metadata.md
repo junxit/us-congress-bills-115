@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6157
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6157
@@ -16,12 +16,434 @@ Department of Defense and Labor, Health and Human Services, and Education Approp
 
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
+## Cosponsors (419)
+
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Jones, Doug [D-AL] (J000300)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (9)
+## Recorded votes (17)
 
 - 2018-06-27 — [House 115-2-302](votes/house-115-2-0302.md) — On Agreeing to the Amendment — **Failed** (188–228)
 - 2018-06-27 — [House 115-2-303](votes/house-115-2-0303.md) — On Agreeing to the Amendment — **Failed** (175–241)
@@ -32,6 +454,14 @@ Department of Defense and Labor, Health and Human Services, and Education Approp
 - 2018-06-28 — [House 115-2-311](votes/house-115-2-0311.md) — On Agreeing to the Amendment — **Failed** (144–267)
 - 2018-06-28 — [House 115-2-312](votes/house-115-2-0312.md) — On Motion to Recommit with Instructions — **Failed** (186–224)
 - 2018-06-28 — [House 115-2-313](votes/house-115-2-0313.md) — On Passage — **Passed** (359–49)
+- 2018-08-20 — [Senate 115-2-186](votes/senate-115-2-0186.md) — On the Amendment — **Amendment Agreed to** (85–0)
+- 2018-08-20 — [Senate 115-2-187](votes/senate-115-2-0187.md) — On the Amendment — **Amendment Agreed to** (85–0)
+- 2018-08-21 — [Senate 115-2-188](votes/senate-115-2-0188.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2018-08-21 — [Senate 115-2-189](votes/senate-115-2-0189.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2018-08-23 — [Senate 115-2-190](votes/senate-115-2-0190.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–6)
+- 2018-08-23 — [Senate 115-2-191](votes/senate-115-2-0191.md) — On the Amendment — **Amendment Rejected** (45–48)
+- 2018-08-23 — [Senate 115-2-192](votes/senate-115-2-0192.md) — On the Motion — **Motion Agreed to** (68–24)
+- 2018-08-23 — [Senate 115-2-193](votes/senate-115-2-0193.md) — On Passage of the Bill — **Bill Passed** (85–7)
 
 ## Actions
 
@@ -360,3 +790,591 @@ Department of Defense and Labor, Health and Human Services, and Education Approp
 - 2018-06-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6157.
 - 2018-06-28 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-06-28 — The previous question was ordered pursuant to the rule.
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-15 — Senate amendment submitted
+- 2018-08-16 — Amendment SA 3695 proposed by Senator Shelby. (consideration: CR S5685-5689) In the nature of a substitute.
+- 2018-08-16 — Amendment SA 3699 proposed by Senator McConnell for Senator Shelby to Amendment SA 3695. (consideration: CR S5685; text: CR S5685) To improve the bill.
+- 2018-08-16 — Amendment SA 3705 proposed by Senator McConnell for Senator Menendez to Amendment SA 3695. (consideration: CR S5688-5689; text: CR S5689) To provide funding for the Firefighter Cancer Registry Act of 2018.
+- 2018-08-16 — Amendment SA 3706 proposed by Senator McConnell for Senator Fischer to Amendment SA 3695. (consideration: CR S5688-5689; text: CR S5689) To appropriate an additional $10,000,000 for Operation and Maintenance, Defense-Wide for POW/MIA identification within the Defense Personnel Accounting Agency, and to provide an offset.
+- 2018-08-16 — Measure laid before Senate by unanimous consent. (consideration: CR S5685-5689)
+- 2018-08-16 — Senate amendment proposed (on the floor): Amendment SA 3695 proposed by Senator Shelby.(consideration: CR S5685-5689)
+- 2018-08-16 — Senate amendment proposed (on the floor): Amendment SA 3699 proposed by Senator McConnell for Senator Shelby to Amendment SA 3695.(consideration: CR S5685; text: CR S5685)
+- 2018-08-16 — Senate amendment proposed (on the floor): Amendment SA 3705 proposed by Senator McConnell for Senator Menendez to Amendment SA 3695.(consideration: CR S5688-5689; text: CR S5689)
+- 2018-08-16 — Senate amendment proposed (on the floor): Amendment SA 3706 proposed by Senator McConnell for Senator Fischer to Amendment SA 3695.(consideration: CR S5688-5689; text: CR S5689)
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-16 — Senate amendment submitted
+- 2018-08-20 — Amendment SA 3703 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695. (consideration: CR S5713; text: CR S5713) To increase funding for the National Suicide Prevention Lifeline.
+- 2018-08-20 — Amendment SA 3705 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 186.
+- 2018-08-20 — Amendment SA 3706 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 187.
+- 2018-08-20 — Amendment SA 3773 proposed by Senator McConnell for Senator Nelson to Amendment SA 3695. (consideration: CR S5713; text: CR S5713) To require a Comptroller General of the United States report on the implementation of the Military Health System Genesis electronic health record.
+- 2018-08-20 — Considered by Senate. (consideration: CR S5707)
+- 2018-08-20 — Considered by Senate. (consideration: CR S5707)
+- 2018-08-20 — Considered by Senate. (consideration: CR S5707-5713)
+- 2018-08-20 — Considered by Senate. (consideration: CR S5711-5712)
+- 2018-08-20 — Considered by Senate. (consideration: CR S5712-5713)
+- 2018-08-20 — Roll call votes on amendments in Senate: Amendment SA 3705 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 186.
+- 2018-08-20 — Roll call votes on amendments in Senate: Amendment SA 3706 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 187.
+- 2018-08-20 — Senate amendment agreed to: Amendment SA 3705 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 186.
+- 2018-08-20 — Senate amendment agreed to: Amendment SA 3706 agreed to in Senate by Yea-Nay Vote. 85 - 0. Record Vote Number: 187.
+- 2018-08-20 — Senate amendment proposed (on the floor): Amendment SA 3703 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695.(consideration: CR S5713; text: CR S5713)
+- 2018-08-20 — Senate amendment proposed (on the floor): Amendment SA 3773 proposed by Senator McConnell for Senator Nelson to Amendment SA 3695.(consideration: CR S5713; text: CR S5713)
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-20 — Senate amendment submitted
+- 2018-08-21 — Amendment SA 3703 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 189.
+- 2018-08-21 — Amendment SA 3773 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 188.
+- 2018-08-21 — Cloture motion on amendment SA 3695 presented in Senate. (CR S5755)
+- 2018-08-21 — Cloture motion on the measure presented in Senate. (consideration: CR S5755)
+- 2018-08-21 — Considered by Senate. (consideration: CR S5733)
+- 2018-08-21 — Considered by Senate. (consideration: CR S5733, S5741)
+- 2018-08-21 — Considered by Senate. (consideration: CR S5733, S5741)
+- 2018-08-21 — Considered by Senate. (consideration: CR S5733, S5755)
+- 2018-08-21 — Considered by Senate. (consideration: CR S5733-5755)
+- 2018-08-21 — Roll call votes on amendments in Senate: Amendment SA 3703 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 189.
+- 2018-08-21 — Roll call votes on amendments in Senate: Amendment SA 3773 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 188.
+- 2018-08-21 — Senate amendment agreed to: Amendment SA 3703 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 189.
+- 2018-08-21 — Senate amendment agreed to: Amendment SA 3773 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 188.
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-21 — Senate amendment submitted
+- 2018-08-22 — Amendment SA 3993 proposed by Senator Leahy to Amendment SA 3699. (consideration: CR S5814-5815; text: CR S5814) Of a perfecting nature.
+- 2018-08-22 — Considered by Senate. (consideration: CR S5793)
+- 2018-08-22 — Considered by Senate. (consideration: CR S5793)
+- 2018-08-22 — Considered by Senate. (consideration: CR S5793-5818)
+- 2018-08-22 — Senate amendment proposed (on the floor): Amendment SA 3993 proposed by Senator Leahy to Amendment SA 3699.(consideration: CR S5814-5815; text: CR S5814)
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-22 — Senate amendment submitted
+- 2018-08-23 — Amendment SA 3695, as amended, agreed to in Senate by Unanimous Consent. (consideration: CR S5906)
+- 2018-08-23 — Amendment SA 3702 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3702 proposed by Senator McConnell for Senator Moran to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To provide funding for the defense community infrastructure pilot program.
+- 2018-08-23 — Amendment SA 3707 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3707 proposed by Senator McConnell for Senator Donnelly to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To increase funding for the guidelines for investigation of potential cancer clusters.
+- 2018-08-23 — Amendment SA 3710 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3710 proposed by Senator McConnell for Senator Sasse to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To make available $4,000,000 for the Cyberspace Solarium Commission.
+- 2018-08-23 — Amendment SA 3717 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3717 proposed by Senator McConnell for Senator Schatz to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To make available funds for Operation and Maintenance, Army for the sustainment of certain morale, welfare, and recreation facilities.
+- 2018-08-23 — Amendment SA 3721 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3721 proposed by Senator McConnell for Senator Blunt to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To authorize student aid administration funds to be available for payments for student loan servicing to an institution of higher education that services outstanding Federal Perkins Loans.
+- 2018-08-23 — Amendment SA 3722 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3722 proposed by Senator McConnell for Senator Lankford to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To improve the bill.
+- 2018-08-23 — Amendment SA 3727 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3727 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To prohibit the use of funds for assistance to the Islamic Republic of Iran.
+- 2018-08-23 — Amendment SA 3731 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3731 proposed by Senator McConnell for Senator Inhofe to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To make available $2,000,000 for a program to commemorate the 75th anniversary of World War II.
+- 2018-08-23 — Amendment SA 3733 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3733 proposed by Senator McConnell for Senator Hirono to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To authorize the use of amounts to reimburse the Government of the Republic of Palau for land acquisition costs for defense sites.
+- 2018-08-23 — Amendment SA 3750 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3750 proposed by Senator McConnell for Senator Cardin to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To require a report on investments of the Armed Forces in research on energetics.
+- 2018-08-23 — Amendment SA 3751 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3751 proposed by Senator McConnell for Senator Reed to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To require a report on barriers to obtaining and paying for adequate medical care for survivors of childhood cancer.
+- 2018-08-23 — Amendment SA 3759 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3759 proposed by Senator McConnell for Senator Schumer to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To increase funding for Lyme Disease activities.
+- 2018-08-23 — Amendment SA 3763 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3763 proposed by Senator McConnell for Senator Warner to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To require a report to Congress on potential barriers to participation in the Coal Workers' Health Surveillance program.
+- 2018-08-23 — Amendment SA 3764 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3764 proposed by Senator McConnell for Senator Warner to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To make available from amounts appropriated for Operation and Maintenance, Defense-Wide $7,000,000 for the Information Assurance Scholarship Program.
+- 2018-08-23 — Amendment SA 3765 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3765 proposed by Senator McConnell for Senator Whitehouse to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To require the Secretary of Health and Human Services to provide Congress a status update on rulemaking, with respect to conditions of certification of health information technology and information blocking, required by the 21st Century Cures Act.
+- 2018-08-23 — Amendment SA 3796 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3796 proposed by Senator McConnell for Senator Merkley to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To increase certain funding for the Air National Guard, and to provide an offset.
+- 2018-08-23 — Amendment SA 3809 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3809 proposed by Senator McConnell for Senator Cruz to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To limit the use of funds to implement the Arms Trade Treaty.
+- 2018-08-23 — Amendment SA 3810 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3810 proposed by Senator McConnell for Senator Heller to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To require the Secretary of Education to report to Congress regarding coordination between the Department of Education, the National Aeronautics and Space Administration, and the National Science Foundation on STEM programs for students in grades pre-kindergarten through 12.
+- 2018-08-23 — Amendment SA 3812 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3812 proposed by Senator McConnell for Senator Hyde-Smith to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To improve section 115 of title I of division B with regard to Unemployment Insurance State consortia.
+- 2018-08-23 — Amendment SA 3825 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3825 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To provide for the conduct of a study on the relationship between intimate partner violence and traumatic brain injury.
+- 2018-08-23 — Amendment SA 3830 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3830 proposed by Senator McConnell for Senator Murray to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To make available from Research, Development, Test and Evaluation, Navy $2,000,000 for research on means of reducing fighter aircraft engine noise at the source.
+- 2018-08-23 — Amendment SA 3831 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3831 proposed by Senator McConnell for Senator Murray to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To make available from Operation and Maintenance, Defense-Wide $20,000,000 for the Department of Defense Family Advocacy Program.
+- 2018-08-23 — Amendment SA 3835 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3835 proposed by Senator McConnell for Senator Flake to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To prohibit the use of funds for the development of beerbots or other robot bartenders.
+- 2018-08-23 — Amendment SA 3841 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3841 proposed by Senator McConnell for Senator McCaskill to Amendment SA 3695. (consideration: CR S5902; text: CR S5902) To require the Secretary of Defense to use amounts appropriated or otherwise made available to the Department of Defense to provide testing for elevated blood lead levels at military treatment facilities for babies during their 12-month and 24-month wellness checks or annual physical examinations.
+- 2018-08-23 — Amendment SA 3853 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3853 proposed by Senator McConnell for Senator Rubio to Amendment SA 3695. (consideration: CR S5902-5903; text: CR S5902-5903) To provide funds to enhance harmful algal bloom exposure activities.
+- 2018-08-23 — Amendment SA 3857 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3857 proposed by Senator McConnell for Senator Isakson to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To require a Comptroller General of the United States report on the monitoring, compliance, and remediation of lead in military housing.
+- 2018-08-23 — Amendment SA 3858 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3858 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To require the Director of the NIH shall conduct a comprehensive study and submit to Congress a report that includes a portfolio analysis of current funding levels of the NIH related to mental health and substance use disorder.
+- 2018-08-23 — Amendment SA 3860 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3860 proposed by Senator McConnell for Senator Portman to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To express the sense of the Senate on research regarding blast exposure on the cellular level of the brain.
+- 2018-08-23 — Amendment SA 3862 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3862 proposed by Senator McConnell for Senator Nelson to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide $10,000,000 to the Department of Education to fund a demonstration program to test and evaluate innovative partnerships between institutions of higher education and high-needs State or local educational agencies to train school counselors, social workers, psychologists, or other mental health professionals qualified to provide school-based mental health services in order to expand the employment pipeline and address employment shortages relating to school-based mental health services in low-income public elementary schools and secondary schools
+- 2018-08-23 — Amendment SA 3870 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3870 proposed by Senator McConnell for Senator Peters to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To ensure youth are considered when the Substance Abuse and Mental Health Services Administration follows guidance on the medication-assisted treatment for prescription drug and opioid addiction program.
+- 2018-08-23 — Amendment SA 3875 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3875 proposed by Senator McConnell for Senator Casey to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide funding for the Secretary of Health and Human Services to establish the Advisory Council to Support Grandparents Raising Grandchildren.
+- 2018-08-23 — Amendment SA 3880 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3880 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To prohibit payments to corporations that have delinquent federal tax liabilities.
+- 2018-08-23 — Amendment SA 3881 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3881 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To require the Secretary of Labor to provide a report to the Committees on Appropriations on the implementation of the plan to reduce improper payments published by the Department of Labor in the fiscal year 2017 Agency Financial Report.
+- 2018-08-23 — Amendment SA 3883 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3883 proposed by Senator McConnell for Senator Wicker to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide a sense of Congress that computer science education programs, including coding academics, can provide important benefits to local industries and the economy and help meet in-demand workforce needs, and the Department of Education and Department of Labor should work together with industry to improve and expand computer science education programs and opportunities, including through apprenticeships.
+- 2018-08-23 — Amendment SA 3893 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3893 proposed by Senator McConnell for Senator Heitkamp to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide funding for the SOAR (Stop, Observe, Ask, Respond) to Health and Wellness Program.
+- 2018-08-23 — Amendment SA 3897 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3897 proposed by Senator McConnell for Senator Schatz to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To assess the ongoing mental health impact to the children and families impacted by a volcanic eruption covered by a major disaster declared by the President in calendar year 2018.
+- 2018-08-23 — Amendment SA 3903 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3903 proposed by Senator McConnell for Senator Menendez to Amendment SA 3695. (consideration: CR S5900; text: CR S5900) To require a report on the portion of the Department of Defense's advertising budget that is spent on advertising and public relations contracts with socially and economically disadvantaged small businesses.
+- 2018-08-23 — Amendment SA 3908 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3908 proposed by Senator McConnell for Senator Cantwell to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide a sense of the Senate that dedicated funding for coding courses in kindergarten through grade 12 education should be a top priority.
+- 2018-08-23 — Amendment SA 3910 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3910 proposed by Senator McConnell for Senator Shelby to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To make a technical amendment.
+- 2018-08-23 — Amendment SA 3912 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3912 proposed by Senator McConnell for Senator Heller to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To provide additional funding for activities related to neonatal abstinence syndrome.
+- 2018-08-23 — Amendment SA 3926 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3926 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To require the Secretary of Defense to submit to Congress a report on improving trauma training for trauma teams of the Department of Defense.
+- 2018-08-23 — Amendment SA 3927 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3927 proposed by Senator McConnell for Senator Isakson to Amendment SA 3695. (consideration: CR S5903-5904; text: CR S5903-5904) To provide for the establishment of the National Neurological Conditions Surveillance System.
+- 2018-08-23 — Amendment SA 3933 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3933 proposed by Senator McConnell for Senator Heitkamp to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To improve obstetric care for pregnant women living in rural areas.
+- 2018-08-23 — Amendment SA 3940 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3940 proposed by Senator McConnell for Senator Perdue to Amendment SA 3695. (consideration: CR S5901; text: CR S5901) To require the Comptroller General of the United States to submit to Congress a report on maintenance of the E-8C Joint Surveillance Target Attack Radar System aircraft fleet.
+- 2018-08-23 — Amendment SA 3950 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3950 proposed by Senator McConnell for Senator Blunt to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To increase funding for oversight of grant programs and operations of the National Institutes of Health.
+- 2018-08-23 — Amendment SA 3951 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3951 proposed by Senator McConnell for Senator Heller to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To authorize the use of $2,000,000 to carry out a pilot program for preparing members of the Armed Forces transitioning to civilian life to qualify for, and for assisting in placing them in, apprenticeship programs.
+- 2018-08-23 — Amendment SA 3964 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3964 proposed by Senator McConnell for Senator Durbin to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To provide for the use of funds by the Secretary of Health and Human Services to issue regulations on direct-to-consumer advertising of prescription drugs and biological products.
+- 2018-08-23 — Amendment SA 3967 proposed by Senator McConnell for Senator Paul to Amendment SA 3695. (consideration: CR S5891) To prohibit Federal funds being made available to a prohibited entity.
+- 2018-08-23 — Amendment SA 3967, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 48. Record Vote Number: 191.
+- 2018-08-23 — Amendment SA 3977 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3977 proposed by Senator McConnell for Senator Merkley to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To require a report on Civilian Conservation Centers.
+- 2018-08-23 — Amendment SA 3979 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3979 proposed by Senator McConnell for Senator Cornyn to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To promote school safety in rural areas.
+- 2018-08-23 — Amendment SA 3981 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3981 proposed by Senator McConnell for Senator Gillibrand to Amendment SA 3695. (consideration: CR S5900-5901; text: CR S5900-5901) To make available from Operation and Maintenance, Air Force and Operation and Maintenance, Air National Guard $45,000,000 for payments to local water authorities and States for treatment of certain acids in drinking water as a result of Air Force-supported activities.
+- 2018-08-23 — Amendment SA 3982 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3982 proposed by Senator McConnell for Senator Casey to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To increase amounts available for the Child Abuse Prevention and Treatment Act State grant program.
+- 2018-08-23 — Amendment SA 3985 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3985 proposed by Senator McConnell for Senator Reed to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To require the Comptroller General of the United States to study and report on the condition of the public school facilities of the United States.
+- 2018-08-23 — Amendment SA 3998 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Amendment SA 3998 proposed by Senator McConnell for Senator Rubio to Amendment SA 3695. (consideration: CR S5904; text: CR S5904) To require a report on circumstances in which the Centers for Medicare & Medicaid Services may be providing Medicare or Medicaid payments to, or otherwise funding, entities that process genome or exome data in the People's Republic of China or the Russian Federation.
+- 2018-08-23 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2018-08-23 — Cloture on amendment SA 3695 invoked in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 190.
+- 2018-08-23 — Considered by Senate. (consideration: CR S5875-5907)
+- 2018-08-23 — Considered by Senate. (consideration: CR S5876)
+- 2018-08-23 — Considered by Senate. (consideration: CR S5876)
+- 2018-08-23 — Considered by Senate. (consideration: CR S5876)
+- 2018-08-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3695 agreed to in Senate by Yea-Nay Vote. 68 - 24. Record Vote Number: 192.
+- 2018-08-23 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 7. Record Vote Number: 193.
+- 2018-08-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 7. Record Vote Number: 193.
+- 2018-08-23 — Point of order that the amendment violates section 314(a) of S. Con. Res. 70, 110th Congress, raised in Senate with respect to amendment SA 3695.
+- 2018-08-23 — Proposed amendment SA 3699 withdrawn in Senate. (consideration: CR S5898)
+- 2018-08-23 — Roll call votes on amendments in Senate: Amendment SA 3967, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 48. Record Vote Number: 191.
+- 2018-08-23 — Roll call votes on amendments in Senate: Cloture on amendment SA 3695 invoked in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 190.
+- 2018-08-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3695 agreed to in Senate by Yea-Nay Vote. 68 - 24. Record Vote Number: 192.
+- 2018-08-23 — SA 3993 fell when when SA 3699 was withdrawn. (consideration: CR S5906)
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3695, as amended, agreed to in Senate by Unanimous Consent.(consideration: CR S5906)
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3702 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3707 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3710 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3717 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3721 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3722 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3727 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3731 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3733 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3750 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3751 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3759 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3763 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3764 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3765 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3796 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3809 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3810 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3812 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3825 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3830 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3831 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3835 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3841 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3853 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3857 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3858 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3860 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3862 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3870 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3875 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3880 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3881 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3883 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3893 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3897 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3903 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3908 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3910 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3912 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3926 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3927 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3933 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3940 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3950 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3951 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3964 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3977 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3979 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3981 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3982 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3985 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment agreed to: Amendment SA 3998 agreed to in Senate by Unanimous Consent.
+- 2018-08-23 — Senate amendment not agreed to: Amendment SA 3967, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 48. Record Vote Number: 191.
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3702 proposed by Senator McConnell for Senator Moran to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3707 proposed by Senator McConnell for Senator Donnelly to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3710 proposed by Senator McConnell for Senator Sasse to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3717 proposed by Senator McConnell for Senator Schatz to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3721 proposed by Senator McConnell for Senator Blunt to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3722 proposed by Senator McConnell for Senator Lankford to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3727 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3731 proposed by Senator McConnell for Senator Inhofe to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3733 proposed by Senator McConnell for Senator Hirono to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3750 proposed by Senator McConnell for Senator Cardin to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3751 proposed by Senator McConnell for Senator Reed to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3759 proposed by Senator McConnell for Senator Schumer to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3763 proposed by Senator McConnell for Senator Warner to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3764 proposed by Senator McConnell for Senator Warner to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3765 proposed by Senator McConnell for Senator Whitehouse to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3796 proposed by Senator McConnell for Senator Merkley to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3809 proposed by Senator McConnell for Senator Cruz to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3810 proposed by Senator McConnell for Senator Heller to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3812 proposed by Senator McConnell for Senator Hyde-Smith to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3825 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3830 proposed by Senator McConnell for Senator Murray to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3831 proposed by Senator McConnell for Senator Murray to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3835 proposed by Senator McConnell for Senator Flake to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3841 proposed by Senator McConnell for Senator McCaskill to Amendment SA 3695.(consideration: CR S5902; text: CR S5902)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3853 proposed by Senator McConnell for Senator Rubio to Amendment SA 3695.(consideration: CR S5902-5903; text: CR S5902-5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3857 proposed by Senator McConnell for Senator Isakson to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3858 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3860 proposed by Senator McConnell for Senator Portman to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3862 proposed by Senator McConnell for Senator Nelson to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3870 proposed by Senator McConnell for Senator Peters to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3875 proposed by Senator McConnell for Senator Casey to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3880 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3881 proposed by Senator McConnell for Senator Kennedy to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3883 proposed by Senator McConnell for Senator Wicker to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3893 proposed by Senator McConnell for Senator Heitkamp to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3897 proposed by Senator McConnell for Senator Schatz to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3903 proposed by Senator McConnell for Senator Menendez to Amendment SA 3695.(consideration: CR S5900; text: CR S5900)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3908 proposed by Senator McConnell for Senator Cantwell to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3910 proposed by Senator McConnell for Senator Shelby to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3912 proposed by Senator McConnell for Senator Heller to Amendment SA 3695.(consideration: CR S5903; text: CR S5903)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3926 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3927 proposed by Senator McConnell for Senator Isakson to Amendment SA 3695.(consideration: CR S5903-5904; text: CR S5903-5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3933 proposed by Senator McConnell for Senator Heitkamp to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3940 proposed by Senator McConnell for Senator Perdue to Amendment SA 3695.(consideration: CR S5901; text: CR S5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3950 proposed by Senator McConnell for Senator Blunt to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3951 proposed by Senator McConnell for Senator Heller to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3964 proposed by Senator McConnell for Senator Durbin to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3967 proposed by Senator McConnell for Senator Paul to Amendment SA 3695.(consideration: CR S5891)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3977 proposed by Senator McConnell for Senator Merkley to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3979 proposed by Senator McConnell for Senator Cornyn to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3981 proposed by Senator McConnell for Senator Gillibrand to Amendment SA 3695.(consideration: CR S5900-5901; text: CR S5900-5901)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3982 proposed by Senator McConnell for Senator Casey to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3985 proposed by Senator McConnell for Senator Reed to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 3998 proposed by Senator McConnell for Senator Rubio to Amendment SA 3695.(consideration: CR S5904; text: CR S5904)
+- 2018-08-23 — Senate amendment submitted
+- 2018-08-23 — Senate amendment submitted
+- 2018-08-23 — Senate amendment submitted
+- 2018-08-23 — Senate amendment submitted
