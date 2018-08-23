@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2511
@@ -32,3 +32,5 @@ CENOTE Act of 2018
 - 2018-07-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-291.
 - 2018-07-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-291.
 - 2018-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.
+- 2018-08-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5937-5938; text: CR S5937-5938)
+- 2018-08-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5937-5938; text: CR S5937-5938)
