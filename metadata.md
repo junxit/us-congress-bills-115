@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6157
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6157
@@ -1358,3 +1358,45 @@ Department of Defense and Labor, Health and Human Services, and Education Approp
 - 2018-08-23 — Senate amendment submitted
 - 2018-08-23 — Senate amendment submitted
 - 2018-08-23 — Senate amendment submitted
+- 2018-08-27 — Message on Senate action sent to the House.
+- 2018-09-04 — DEBATE - The House proceeded with one hour of debate on the DeLauro motion to instruct conferees on H.R. 6157. The instructions contained in the motion seek to require the managers on the part of the House be instructed to agree to division B (relating to appropriations for Labor, Education, and Health and Human services) of the matter proposed to be added by the Senate amendment.
+- 2018-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-04 — Mr. Cole moved that the House disagree to the Senate amendment, and request a conference. (consideration: CR H7803-7806; text: CR H7803)
+- 2018-09-04 — Ms. DeLauro moved that the House instruct conferees.
+- 2018-09-04 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to by voice vote.
+- 2018-09-04 — On motion that the House instruct conferees Failed by the Yeas and Nays: 171 - 221 (Roll no. 380).
+- 2018-09-04 — The Speaker appointed conferees: Frelinghuysen, Granger, Cole, Calvert, Womack, Aderholt, Rogers of Kentucky, Roby, Lowey, Visclosky, DeLauro, Roybal-Allard, and McCollum.
+- 2018-09-04 — The previous question was ordered without objection.
+- 2018-09-04 — The previous question was ordered without objection.
+- 2018-09-05 — Message on House action received in Senate and at desk: House requests a conference.
+- 2018-09-06 — Measure laid before Senate by unanimous consent. (consideration: CR S6101)
+- 2018-09-06 — Senate insists on its amendment, agrees to request for a conference, appoints conferees Shelby; Blunt; Graham; Moran; Durbin; Murray; Leahy by Voice Vote. (consideration: CR S6101)
+- 2018-09-07 — Message on Senate action sent to the House.
+- 2018-09-13 — Conferees agreed to file conference report.
+- 2018-09-13 — Conference committee actions: Conferees agreed to file conference report.
+- 2018-09-13 — Conference report H. Rept. 115-952 filed. (text of conference report: CR H8258-8723)
+- 2018-09-13 — Conference report filed: Conference report H. Rept. 115-952 filed.(text of conference report: CR H8258-8723)
+- 2018-09-17 — Cloture motion on the conference report to accompany H.R. 6157 presented in Senate.
+- 2018-09-17 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2018-09-17 — Conference report considered in Senate.
+- 2018-09-18 — Cloture on the conference report to accompany H.R. 6157 invoked in Senate by Yea-Nay Vote. 92 - 8. Record Vote Number: 211. (CR S6208)
+- 2018-09-18 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 93 - 7. Record Vote Number: 212.
+- 2018-09-18 — Conference report considered in Senate. (consideration: CR S6198-6208)
+- 2018-09-18 — Message on Senate action sent to the House.
+- 2018-09-18 — Pursuant to the provisions of S. Con. Res. 47, enrollment corrections on H.R. 6157 have been made.
+- 2018-09-18 — Senate agreed to conference report by Yea-Nay Vote. 93 - 7. Record Vote Number: 212.
+- 2018-09-25 — Rules Committee Resolution H. Res. 1077 Reported to House. Rule provides for consideration of H.R. 6157 and H. Res. 1071.
+- 2018-09-26 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 361 - 61 (Roll no. 405).
+- 2018-09-26 — DEBATE - Pursuant to the provisions of H. Res. 1077, the House proceeded with one hour of debate on the conference report to accompany H.R. 6157.
+- 2018-09-26 — Motions to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Frelinghuysen brought up conference report H. Rept. 115-952 for consideration under the provisions of H. Res. 1077.
+- 2018-09-26 — On agreeing to the conference report Agreed to by the Yeas and Nays: 361 - 61 (Roll no. 405).
+- 2018-09-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany H.R. 6157, the Chair announced that the yeas and nays, which are ordered pursuant to clause 10 of rule XX, would be postponed.
+- 2018-09-26 — The House proceeded to consider the conference report H.Rept. 115-952 as unfinished business.
+- 2018-09-26 — The previous question was ordered pursuant to the rule.
+- 2018-09-27 — Presented to President.
+- 2018-09-27 — Presented to President.
+- 2018-09-28 — Became Public Law No: 115-245.
+- 2018-09-28 — Became Public Law No: 115-245.
+- 2018-09-28 — Signed by President.
+- 2018-09-28 — Signed by President.
