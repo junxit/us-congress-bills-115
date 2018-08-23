@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1491
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1491
@@ -55,3 +55,8 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2017
 - 2017-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9443-9444)
 - 2017-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9443-9444)
 - 2017-11-29 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2018-04-25 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 115-253.
+- 2018-06-13 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-08-23 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-326.
+- 2018-08-23 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-326.
+- 2018-08-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
