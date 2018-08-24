@@ -1,7 +1,7 @@
 ---
 measure: S. 266
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 266
@@ -90,9 +90,10 @@ Anwar Sadat Centennial Celebration Act
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -102,3 +103,6 @@ Anwar Sadat Centennial Celebration Act
 - 2018-08-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S5865-5866)
 - 2018-08-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5865-5866)
 - 2018-08-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5865-5866)
+- 2018-08-23 — Message on Senate action sent to the House.
+- 2018-08-24 — Received in the House.
+- 2018-08-24 — Referred to the House Committee on Financial Services.
