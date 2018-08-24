@@ -1,7 +1,7 @@
 ---
 measure: S. 1322
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1322
@@ -23,9 +23,10 @@ American Fisheries Advisory Committee Act
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ American Fisheries Advisory Committee Act
 - 2018-08-22 — Senate amendment proposed (on the floor): Amendment SA 4001 proposed by Senator McConnell for Senator Sullivan.(consideration: CR S5836)
 - 2018-08-22 — Senate amendment submitted
 - 2018-08-22 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-08-23 — Message on Senate action sent to the House.
+- 2018-08-24 — Received in the House.
+- 2018-08-24 — Referred to the House Committee on Natural Resources.
