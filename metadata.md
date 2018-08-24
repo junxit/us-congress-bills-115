@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5756
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5756
@@ -25,3 +25,8 @@ To require the Securities and Exchange Commission to adjust certain resubmission
 - 2018-05-10 — Introduced in House
 - 2018-05-10 — Introduced in House
 - 2018-05-10 — Referred to the House Committee on Financial Services.
+- 2018-06-07 — Committee Consideration and Mark-up Session Held.
+- 2018-06-07 — Ordered to be Reported by the Yeas and Nays: 34 - 22.
+- 2018-08-24 — Placed on the Union Calendar, Calendar No. 700.
+- 2018-08-24 — Reported by the Committee on Financial Services. H. Rept. 115-904.
+- 2018-08-24 — Reported by the Committee on Financial Services. H. Rept. 115-904.
