@@ -1,7 +1,7 @@
 ---
 measure: S. 2896
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2896
@@ -24,9 +24,10 @@ Justice Against Corruption on K Street Act of 2018
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Justice Against Corruption on K Street Act of 2018
 - 2018-08-23 — Senate amendment agreed to: Amendment SA 4008 agreed to in Senate by Unanimous Consent.
 - 2018-08-23 — Senate amendment proposed (on the floor): Amendment SA 4008 proposed by Senator McConnell for Senator Kennedy.(consideration: CR S5938-5939; text: CR S5938-5939)
 - 2018-08-23 — Senate amendment submitted
+- 2018-08-27 — Message on Senate action sent to the House.
+- 2018-08-28 — Received in the House.
+- 2018-08-28 — Referred to the House Committee on the Judiciary.
