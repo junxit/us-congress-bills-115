@@ -1,7 +1,7 @@
 ---
 measure: S. 2896
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2896
@@ -29,6 +29,10 @@ Justice Against Corruption on K Street Act of 2018
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-452](votes/house-115-2-0452.md) — On Motion to Suspend the Rules and Pass — **Passed** (391–0)
+
 ## Actions
 
 - 2018-05-22 — Introduced in Senate
@@ -48,3 +52,18 @@ Justice Against Corruption on K Street Act of 2018
 - 2018-08-27 — Message on Senate action sent to the House.
 - 2018-08-28 — Received in the House.
 - 2018-08-28 — Referred to the House Committee on the Judiciary.
+- 2018-10-09 — Referred to the Subcommittee on the Constitution and Civil Justice.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — Considered as unfinished business. (consideration: CR H10433)
+- 2018-12-20 — Considered under suspension of the rules. (consideration: CR H10396)
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on S. 2896.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Collins (GA) moved to suspend the rules and pass the bill.
+- 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 0 (Roll no. 452). (text: CR H10396)
+- 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 0 (Roll no. 452).(text: CR H10396)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-418.
+- 2019-01-03 — Became Public Law No: 115-418.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
