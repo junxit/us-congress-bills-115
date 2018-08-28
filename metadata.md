@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6438
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6438
@@ -29,3 +29,8 @@ DHS Countering Unmanned Aircraft Systems Coordinator Act
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Referred to the House Committee on Homeland Security.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2018-08-28 — Placed on the Union Calendar, Calendar No. 704.
+- 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-908.
+- 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-908.
