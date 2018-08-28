@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4616
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4616
@@ -16,9 +16,12 @@ Employer Relief Act of 2018
 
 - Rep. Nunes, Devin [R-CA-22] (N000181)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ Employer Relief Act of 2018
 - 2017-12-12 — Introduced in House
 - 2017-12-12 — Introduced in House
 - 2017-12-12 — Referred to the House Committee on Ways and Means.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 15.
+- 2018-08-28 — Placed on the Union Calendar, Calendar No. 702.
+- 2018-08-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-906.
+- 2018-08-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-906.
