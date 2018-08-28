@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 617
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 617
@@ -28,3 +28,7 @@ A resolution recognizing The American Legion for 100 years of service to veteran
 
 - 2018-08-23 — Introduced in Senate
 - 2018-08-23 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5935)
+- 2018-08-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6007)
+- 2018-08-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6007)
+- 2018-08-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-08-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
