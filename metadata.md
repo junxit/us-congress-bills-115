@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6439
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6439
@@ -16,7 +16,7 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Katko, John [R-NY-24] (K000386)
@@ -28,6 +28,8 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - Rep. McSally, Martha [R-AZ-2] (M001197)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
 
 ## Committees (1)
 
@@ -38,3 +40,8 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Referred to the House Committee on Homeland Security.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-08-28 — Placed on the Union Calendar, Calendar No. 705.
+- 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-909.
+- 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-909.
