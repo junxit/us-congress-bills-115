@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2511
@@ -20,9 +20,12 @@ CENOTE Act of 2018
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
+- House — Armed Services Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -34,3 +37,8 @@ CENOTE Act of 2018
 - 2018-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.
 - 2018-08-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5937-5938; text: CR S5937-5938)
 - 2018-08-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5937-5938; text: CR S5937-5938)
+- 2018-08-27 — Message on Senate action sent to the House.
+- 2018-08-28 — Received in the House.
+- 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
