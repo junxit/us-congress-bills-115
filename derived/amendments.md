@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4616
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 4980H` | add-at-end | Section 4980H of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 9001(c) of the Patient Protection and Affordable Care Act is amended by striking “December 31, 2019” and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9001(c) of the Patient Protection and Affordable Care Act is amended by striking “December 31, 2021” and inserting “December 31, 2022”. | the bill names no machine-readable US Code section |
