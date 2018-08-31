@@ -21,27 +21,31 @@ In this Act:
   - **(A)** the Bureau of Reclamation;
   - **(B)** the Western Area Power Administration; and
   - **(C)** the Department of Defense in the case of the Clayton Canal diversion traversing the Concord Naval Weapons Station.
-- **(2)** *Contra Costa Canal*
+- **(2)** *Contra Costa Canal Agreement* The term “Contra Costa Canal Agreement” means an agreement between the District and the Bureau of Reclamation to determine the legal, institutional, and financial terms surrounding the transfer of the Contra Costa Canal, including but not limited to compensation to the reclamation fund established by the first section of the Act of June 17, 1902 (32 Stat. 388, chapter 1093), equal to the net present value of miscellaneous revenues that the United States would otherwise derive over the 10 years following enactment of this Act from the eligible lands and facilities to be transferred, as governed by reclamation law and policy and the contracts.
+- **(3)** *Contra Costa Canal*
   - **(A)** *In general* The term Contra Costa Canal means the Contra Costa Canal Unit of the Central Valley Project, which exclusively serves the Contra Costa Water District in an urban area of Contra Costa County, California.
   - **(B)** *Inclusions* The term Contra Costa Canal includes pipelines, conduits, pumping plants, aqueducts, laterals, water storage and regulatory facilities, electric substations, related works and improvements, and all interests in land associated with the Contra Costa Canal Unit of the Central Valley Project in existence on the date of enactment of this Act.
   - **(C)** *Exclusion* The term Contra Costa Canal does not include the Rock Slough fish screen facility.
-- **(3)** *Contracts* The term contracts means the existing water service contract between the District and the United States, Contract No. 175r–3401A–LTR1 (2005), Contract No. 14–06–200–6072A (1972, as amended), and any other contract or land permit involving the United States, the District, and Contra Costa Canal.
-- **(4)** *District* The term District means the Contra Costa Water District, a political subdivision of the State of California.
-- **(5)** *Rock Slough fish screen facility*
+- **(4)** *Contracts* The term contracts means the existing water service contract between the District and the United States, Contract No. 175r–3401A–LTR1 (2005), Contract No. 14–06–200–6072A (1972, as amended), and any other contract or land permit involving the United States, the District, and Contra Costa Canal.
+- **(5)** *District* The term District means the Contra Costa Water District, a political subdivision of the State of California.
+- **(6)** *Rock Slough fish screen facility*
   - **(A)** *In general* The term Rock Slough fish screen facility means the fish screen facility at the Rock Slough intake to the Contra Costa Canal.
   - **(B)** *Inclusions* The term Rock Slough fish screen facility includes the screen structure, rake cleaning system, and accessory structures integral to the screen function of the Rock Slough fish screen facility, as required under the Central Valley Project Improvement Act (Public Law 102–575; 106 Stat. 4706).
-- **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(7)** *Rock Slough fish screen facility title transfer agreement* The term “Rock Slough fish screen facility title transfer agreement” means an agreement between the District and the Bureau of Reclamation to—
+  - **(A)** determine the legal, institutional, and financial terms surrounding the transfer of the Rock Slough fish screen facility; and
+  - **(B)** ensure the continued safe and reliable operations of the Rock Slough fish screen facility.
+- **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Conveyance of land and facilities
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, in consideration for the District assuming from the United States all liability for the administration, operation, maintenance, and replacement of the Contra Costa Canal, subject to valid existing rights and existing recreation agreements between the Bureau of Reclamation and the East Bay Regional Park District for Contra Loma Regional Park and other local agencies within the Contra Costa Canal, the Secretary shall offer to convey and assign to the District—
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, in consideration for the District assuming from the United States all liability for the administration, operation, maintenance, and replacement of the Contra Costa Canal, consistent with the terms and conditions set forth in the Contra Costa Canal Agreement and subject to valid existing rights and existing recreation agreements between the Bureau of Reclamation and the East Bay Regional Park District for Contra Loma Regional Park and other local agencies within the Contra Costa Canal, the Secretary shall offer to convey and assign to the District—
   - **(1)** all right, title, and interest of the United States in and to—
     - **(A)** the Contra Costa Canal; and
     - **(B)** the acquired land; and
   - **(2)** all interests reserved and developed as of the date of enactment of this Act for the Contra Costa Canal in the acquired land, including existing recreation agreements between the Bureau of Reclamation and the East Bay Regional Park District for Contra Loma Regional Park and other local agencies within the Contra Costa Canal.
 - **(b)** *Rock Slough fish screen facility*
-  - **(1)** *In general* On mutual agreement between the Secretary and the District regarding safe and reliable operations of the Rock Slough fish screen facility, the Secretary shall convey and assign to the District all right, title, and interest of the United States in and to the Rock Slough fish screen facility.
-  - **(2)** *Cooperation* The Secretary is encouraged to work cooperatively with the District to accomplish the conveyance and assignment under paragraph (1).
+  - **(1)** *In general* The Secretary shall convey and assign to the District all right, title, and interest of the United States in and to the Rock Slough fish screen facility pursuant to the Rock Slough fish screen facility title transfer agreement.
+  - **(2)** *Cooperation* No later than 180 days after the conveyance of the Contra Costa Canal, the Secretary and the District shall enter into good faith negotiations to accomplish the conveyance and assignment under paragraph (1).
 - **(c)** *Payment of costs* The District shall pay to the Secretary any administrative and real estate transfer costs incurred by the Secretary in carrying out the conveyances and assignments under subsections (a) and (b), including the cost of any boundary survey, title search, cadastral survey, appraisal, and other real estate transaction required for the conveyances and assignments.
 - **(d)** *Compliance with environmental laws*
   - **(1)** *In general* Before carrying out the conveyances and assignments under subsections (a) and (b), the Secretary shall comply with all applicable requirements under—
