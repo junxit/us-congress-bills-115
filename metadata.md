@@ -1,7 +1,7 @@
 ---
 measure: S. 3027
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3027
@@ -16,7 +16,7 @@ Modernizing Congressional Reporting Act of 2018
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Peters, Gary C. [D-MI] (P000595)
@@ -30,6 +30,7 @@ Modernizing Congressional Reporting Act of 2018
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -39,3 +40,7 @@ Modernizing Congressional Reporting Act of 2018
 
 - 2018-06-07 — Introduced in Senate
 - 2018-06-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-333.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-333.
+- 2018-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 565.
