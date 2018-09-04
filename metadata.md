@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4581
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4581
@@ -52,3 +52,7 @@ Screening and Vetting Passenger Exchange Act of 2017
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-493.
 - 2018-01-09 — Reported by the Committee on Homeland Security. H. Rept. 115-493.
 - 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-334.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-334.
+- 2018-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
