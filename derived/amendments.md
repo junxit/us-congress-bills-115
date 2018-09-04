@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6443
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6443
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6443
@@ -38,3 +38,9 @@ Advancing Cybersecurity Diagnostics and Mitigation Act
 - 2018-08-28 — Placed on the Union Calendar, Calendar No. 706.
 - 2018-08-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-910.
 - 2018-08-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-910.
+- 2018-09-04 — Considered under suspension of the rules. (consideration: CR S7793-7796)
+- 2018-09-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6443.
+- 2018-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-04 — Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.
+- 2018-09-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7793)
+- 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7793)
