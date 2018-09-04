@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1109
@@ -58,3 +58,14 @@ To amend section 203 of the Federal Power Act.
 - 2018-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.
 - 2018-09-04 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6031-6032; text of amendment in the nature of a substitute: CR S6031)
 - 2018-09-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6031-6032; text of amendment in the nature of a substitute: CR S6031)
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Goodlate asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H8245-8246)
+- 2018-09-13 — On motion that the House agree to the Senate amendment Agreed to without objection. (text of Senate amendment: CR H8245-8246)
+- 2018-09-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text of Senate amendment: CR H8245-8246)
+- 2018-09-18 — Presented to President.
+- 2018-09-18 — Presented to President.
+- 2018-09-28 — Became Public Law No: 115-247.
+- 2018-09-28 — Became Public Law No: 115-247.
+- 2018-09-28 — Signed by President.
+- 2018-09-28 — Signed by President.
