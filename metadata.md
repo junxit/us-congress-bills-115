@@ -1,7 +1,7 @@
 ---
 measure: S. 1204
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1204
@@ -28,3 +28,7 @@ Post Office Discontinuance Accountability Act of 2018
 
 - 2017-05-23 — Introduced in Senate
 - 2017-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-329.
+- 2018-09-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-329.
+- 2018-09-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 561.
