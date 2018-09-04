@@ -16,7 +16,7 @@ This Act may be cited as the “PreCheck is PreCheck Act of 2018”.
 ## § 2. Eligibility for TSA PreCheck expedited screening
 
 - **(a)** *Eligibility*
-  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Administrator of the Transportation Security Administration (TSA) shall ensure that only travelers who are members of a trusted traveler program specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at Transportation Security Administration checkpoints.
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Administrator of the Transportation Security Administration (TSA) shall ensure that only travelers who are members of a trusted traveler program specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at Transportation Security Administration checkpoints.
   - **(2)** *Certain travelers* Any traveler who is 12 or under or 75 or over who is not a member of a trusted traveler program specified in subsection (b) shall be permitted to utilize TSA PreCheck security screening lanes at Transportation Security Administration checkpoints when traveling on the same itinerary as a member of such a program.
 - **(b)** *Trusted traveler programs* Trusted traveler programs referred to in subsection (a) include the following:
   - **(1)** Programs implemented by the Transportation Security Administration under section 109(a)(3) of the Aviation and Transportation Security Act (Public Law 107–71; 49 U.S.C. 114 note).
@@ -44,7 +44,7 @@ This Act may be cited as the “PreCheck is PreCheck Act of 2018”.
 
 ## § 5. Inspector General assessments
 
-After the Administrator of the Transportation Security Administration submits the certification described in section 4(b), the Inspector General of the Department of Homeland Security shall, beginning in the first calendar year after such certification and in each of the next 3 subsequent calendar years, conduct an assessment to determine if there has been a systematic pattern of violations of section 2(a) during the previous calendar year. The Inspector General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the results of each such assessment.
+After the Administrator of the Transportation Security Administration submits the certification described in section 4(b), the Inspector General of the Department of Homeland Security shall, beginning in the first calendar year after such certification and in each of the next three subsequent calendar years, conduct an assessment to determine if there has been a systematic pattern of violations of section 2(a) during the previous calendar year. The Inspector General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the results of each such assessment.
 
 ## § 6. PreCheck program expansion
 
