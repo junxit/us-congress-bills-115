@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1109
@@ -56,3 +56,5 @@ To amend section 203 of the Federal Power Act.
 - 2018-05-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-253.
 - 2018-05-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-253.
 - 2018-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.
+- 2018-09-04 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6031-6032; text of amendment in the nature of a substitute: CR S6031)
+- 2018-09-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6031-6032; text of amendment in the nature of a substitute: CR S6031)
