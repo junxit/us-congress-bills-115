@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6461
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6461
@@ -29,3 +29,14 @@ TSA National Deployment Force Act
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Introduced in House
 - 2018-07-19 — Referred to the House Committee on Homeland Security.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-04 — Considered under suspension of the rules. (consideration: CR S7809-7810)
+- 2018-09-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6461.
+- 2018-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-04 — Mr. Katko moved to suspend the rules and pass the bill.
+- 2018-09-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7809)
+- 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7809)
+- 2018-09-04 — Placed on the Union Calendar, Calendar No. 712.
+- 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-917.
+- 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-917.
