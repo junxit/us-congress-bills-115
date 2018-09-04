@@ -27,18 +27,22 @@ This Act may be cited as the “United States Ports of Entry Threat and Operatio
       - **(i)** security vulnerabilities associated with prolonged wait times;
       - **(ii)** current technology at ports of entry that can be adapted to handle more volume, increase efficiency, and improve accuracy of detection efforts; and
       - **(iii)** infrastructure additions and upgrades.
-    - **(E)** Processes conducted at ports of entry that do not require law enforcement training and could be filled with non-law enforcement staff, the private sector, or automated.
+    - **(E)** Processes conducted at ports of entry that do not require law enforcement training and could be—
+      - **(i)** filled with—
+        - **(I)** non-law enforcement staff; or
+        - **(II)** the private sector, for processes or activities determined to not be inherently governmental (as such term is defined in section 5 of the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270)); or
+      - **(ii)** automated.
   - **(3)** *Analysis requirements* In compiling the threat and operational analysis required under paragraph (1), the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, shall consider and examine the following:
     - **(A)** Personnel needs, including K–9 Units, and estimated costs, at each port of entry, including such needs and challenges associated with recruitment and hiring.
     - **(B)** Technology needs, including radiation portal monitors and non-intrusive inspection technology, and estimated costs at each port of entry.
     - **(C)** Infrastructure needs and estimated costs at each port of entry.
 - **(b)** *Ports of entry strategy and implementation plan*
-  - **(1)** *In general* Not later than 270 days after the submission of the threat and operational analysis required under subsection (a) and every five years thereafter for ten years, the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection (CBP), shall provide to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a ports of entry strategy and implementation plan.
+  - **(1)** *In general* Not later than 270 days after the submission of the threat and operational analysis required under subsection (a) and every 5 years thereafter for 10 years, the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection (CBP), shall provide to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a ports of entry strategy and implementation plan.
   - **(2)** *Contents* The ports of entry strategy and implementation plan required under paragraph (1) shall include a consideration of the following:
     - **(A)** The ports of entry threat and operational analysis required under subsection (a), with an emphasis on efforts to mitigate threats and challenges identified in such analysis.
     - **(B)** Efforts to reduce wait times at ports of entry and standards against which the effectiveness of such efforts may be determined.
     - **(C)** Efforts to prevent the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States at the earliest possible point at ports of entry and standards against which the effectiveness of such efforts may be determined.
-    - **(D)** Efforts to focus intelligence collection and information analysis to disrupt trans­na­tion­al criminal organizations attempting to exploit vulnerabilities at ports of entry and standards against which the effectiveness of such efforts may be determined.
+    - **(D)** Efforts to focus intelligence collection and information analysis to disrupt transnational criminal organizations attempting to exploit vulnerabilities at ports of entry and standards against which the effectiveness of such efforts may be determined.
     - **(E)** Efforts to verify that any new port of entry technology acquisition can be operationally integrated with existing technologies in use by the Department of Homeland Security.
     - **(F)** Lessons learned from reports on the business transformation initiative under section 802(i)(1) of the Trade Facilitation and Trade Enforcement Act of 2015 (Public Law 114–125).
     - **(G)** CBP staffing requirements for all ports of entry.
