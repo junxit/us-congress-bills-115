@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 994
@@ -38,3 +38,17 @@ Protecting Religiously Affiliated Institutions Act of 2018
 - 2018-08-22 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 115-325.
 - 2018-09-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6032-6033; text of measure as passed: CR S6033)
 - 2018-09-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6032-6033; text of measure as passed: CR S6033)
+- 2018-09-05 — Held at the desk.
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-05 — Received in the House.
+- 2018-09-07 — Considered by unanimous consent. (consideration: CR H7925)
+- 2018-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-07 — Mrs. Handel asked unanimous consent to take from the Speaker's table and consider.
+- 2018-09-07 — On passage Passed without objection. (text: CR H7925)
+- 2018-09-07 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7925)
+- 2018-09-18 — Presented to President.
+- 2018-09-18 — Presented to President.
+- 2018-09-28 — Became Public Law No: 115-249.
+- 2018-09-28 — Became Public Law No: 115-249.
+- 2018-09-28 — Signed by President.
+- 2018-09-28 — Signed by President.
