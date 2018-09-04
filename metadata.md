@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6439
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6439
@@ -35,6 +35,10 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2018-09-04 — [House 115-2-381](votes/house-115-2-0381.md) — On Motion to Suspend the Rules and Pass — **Passed** (272–119)
+
 ## Actions
 
 - 2018-07-19 — Introduced in House
@@ -45,3 +49,11 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - 2018-08-28 — Placed on the Union Calendar, Calendar No. 705.
 - 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-909.
 - 2018-08-28 — Reported by the Committee on Homeland Security. H. Rept. 115-909.
+- 2018-09-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-09-04 — Considered as unfinished business. (consideration: CR S7806)
+- 2018-09-04 — Considered under suspension of the rules. (consideration: CR S7786-7789)
+- 2018-09-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6439.
+- 2018-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-04 — Mr. McCaul moved to suspend the rules and pass the bill.
+- 2018-09-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381). (text: CR H7786-7787)
+- 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381).(text: CR H7786-7787)
