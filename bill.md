@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1888
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -36,3 +36,21 @@ This Act may be cited as the “Voluntary Separation Incentive Payment Adjustmen
     >   - **(ii)** In making an adjustment under clause (i), the Secretary of Defense shall—
     >     - **(I)** round the percentage increase to the nearest 1/10 of 1 percent; and
     >     - **(II)** round the amount of the adjustment to the nearest multiple of $1,000.
+
+## § 3. Retirement-creditable basic pay
+
+- **(a)** *Definition of basic pay* Clause (ii) of Section 8331(3)(E) of title 5, United States Code, is amended to read as follows:
+  > - **(ii)** received after September 11, 2001, by a Federal air marshal or criminal investigator (as defined in section 5545a(a)(2)) of the Transportation Security Administration, subject to all restrictions and earning limitations imposed on criminal investigators receiving such pay under section 5545a, including the premium pay limitations under section 5547;
+
+- **(b)** *Fair Labor Standards Act exemption* Section 13 of the Fair Labor Standards Act of 1938 (29 U.S.C. 213) is amended—
+  - **(1)** in subsection (a)(16)—
+    - **(A)** by striking “is paid ” and inserting “is entitled to”; and
+    - **(B)** by inserting “, or a Federal air marshal or criminal investigator employed by the Administrator of the Transportation Security Administration who is entitled to availability pay as described in section 8331(3)(E)(ii) of such title (where entitlement is determined before the application of any premium pay limitation)” before the semicolon; and
+  - **(2)** in subsection (b)(30)—
+    - **(A)** by striking “is paid ” and inserting “is entitled to”; and
+    - **(B)** by inserting “, or a Federal air marshal or criminal investigator employed by the Administrator of the Transportation Security Administration who is entitled to availability pay as described in section 8331(3)(E)(ii) of such title (where entitlement is determined before the application of any premium pay limitation)” before the period.
+- **(c)** *Effective date; applicability*
+  - **(1)** *In general* Subject to paragraph (2), this section, and the amendments made by this section, shall take effect on the first day of the first pay period commencing on or after the date of enactment of this Act.
+  - **(2)** *Retroactive application*
+    - **(A)** *In general* Any availability pay received for any pay period commencing before the date of enactment of this Act by a Federal air marshal or criminal investigator employed by the Transportation Security Administration shall be deemed basic pay under section 8331(3) of title 5, United States Code, if the Transportation Security Administration treated such pay as retirement-creditable basic pay, but the Office of Personnel Management, based on an interpretation of section 8331(3) of title 5, United States Code, did not accept such pay as retirement-creditable basic pay.
+    - **(B)** *Implementation* Not later than 90 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall commence taking such actions as are necessary to implement the amendments made by this section with respect to availability pay deemed to be basic pay under subparagraph (A).
