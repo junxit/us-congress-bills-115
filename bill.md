@@ -18,7 +18,7 @@ This Act may be cited as the “Department of Homeland Security Chief Data Offic
 Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343) is amended by adding at the end the following new subsection:
 
 > - **(c)** *Chief Data Officer*
->   - **(1)** *In general* The Chief Information Officer shall designate a career appointee (as such term is defined in section 3132 of title 5, United States Code) of the Department as the Chief Data Officer of the Department.
+>   - **(1)** *In general* The Secretary, in consultation with the Chief Information Officer, shall designate a career appointee (as such term is defined in section 3132 of title 5, United States Code) of the Department as the Chief Data Officer of the Department.
 >   - **(2)** *Qualifications* The Chief Data Officer shall possess demonstrated training and experience in the management, governance, generation, collection, protection, analysis, use, and sharing of data, including the protection and de-identification of personally identifiable information.
 >   - **(3)** *Functions* The Chief Data Officer shall be responsible for the following:
 >     - **(A)** Ensuring that the Department conforms with data management best practices recognized across industry and the Federal Government.
@@ -27,9 +27,13 @@ Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343) is amended by ad
 >     - **(D)** Coordinating the release of data for public use following appropriate privacy reviews within the Department, as coordinated with the Chief Privacy Officer.
 >     - **(E)** Promoting the use of modern data systems to improve Department operations.
 >     - **(F)** Coordinating the storage of Department records in accordance with the National Archives and Records Administration’s General Records Schedules.
->     - **(G)** Coordinating with appropriate officials of the Department, including the Chief Privacy Officer, component privacy officers, component Chief Data Officers, and program managers, regarding the use of data within their respective components and under their authorities.
->     - **(H)** Serving as the liaison to other Federal agencies and the Office of Management and Budget on data and the best way to use existing Department data for statistical purposes.
->   - **(4)** *Component Chief Data Officers* The heads of each operational component of the Department shall designate a career appointee (as such term is defined in section 3132 of title 5, United States Code) from each such component of the Department as the Chief Data Officer of their respective component. Each such component Chief Data Officer shall—
+>     - **(G)** Overseeing, in coordination with the Chief Privacy Officer of the Department, as appropriate, the Department’s compliance with the following responsibilities:
+>       - **(i)** Issuing guidelines ensuring and maximizing the quality, objectivity, utility and integrity of information (including statistical information).
+>       - **(ii)** Establishing administrative mechanisms that allow affected persons to seek and obtain correction of information maintained and disseminated by relevant components of the Department that does not comply with the Department’s guidelines.
+>       - **(iii)** Reporting to the Director of the Office of Management and Budget about the number and nature of complaints received by relevant components of the Department regarding the accuracy of information disseminated and how such complaints were handled by such components.
+>     - **(H)** Coordinating with appropriate officials of the Department, including the Chief Privacy Officer, component privacy officers, component Chief Data Officers, and program managers, regarding the use of data within their respective components and under their authorities.
+>     - **(I)** Serving as the liaison to other Federal agencies and the Office of Management and Budget on data and the best way to use existing Department data for statistical purposes.
+>   - **(4)** *Component Chief Data Officers* The heads of each operational component of the Department, in consultation with the Chief Data Officer of the Department and the Chief Information Officer of such component, shall designate a career appointee (as such term is defined in section 3132 of title 5, United States Code) from each such component of the Department as the Chief Data Officer of their respective component. Each such component Chief Data Officer shall—
 >     - **(A)** have the qualifications described under subsection (c)(2); and
 >     - **(B)** coordinate with and assist the Chief Data Officer of the Department in the implementation of the functions specified in subparagraphs (A) through (F) of paragraph (3) for their respective component.
 >   - **(5)** *Reports* Not later than 180 days after the date of the enactment of this subsection and periodically thereafter as necessary, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of this subsection, including any concerns regarding such implementation.
