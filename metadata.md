@@ -1,7 +1,7 @@
 ---
 measure: S. 186
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 186
@@ -35,3 +35,5 @@ Fair RATES Act
 - 2018-06-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-278.
 - 2018-06-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-278.
 - 2018-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.
+- 2018-09-04 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6031-6032; text CR S6031-6032)
+- 2018-09-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6031-6032; text CR S6031-6032)
