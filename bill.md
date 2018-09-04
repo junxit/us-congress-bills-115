@@ -40,6 +40,7 @@ In this Act:
     - **(A)** prevent terrorists and instruments of terror from entering the United States; and
     - **(B)** reduce criminal activity related to the maritime border.
   - **(4)** Vulnerabilities in law, policy, cooperation between State, territorial, and local law enforcement, or international agreements that hinder effective and efficient border security, counterterrorism, anti-human trafficking efforts, and the flow of legitimate trade with respect to the maritime border.
+  - **(5)** Metrics and performance parameters used by the Department of Homeland Security to evaluate maritime security effectiveness, as appropriate.
 - **(b)** *Analysis requirements* In preparing the threat analysis required under subsection (a), the Secretary of Homeland Security shall consider and examine the following:
   - **(1)** Technology needs and challenges.
   - **(2)** Personnel needs and challenges.
