@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 994
@@ -34,3 +34,7 @@ Protecting Religiously Affiliated Institutions Act of 2018
 - 2018-04-26 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2018-04-26 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2018-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.
+- 2018-08-22 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 115-325.
+- 2018-08-22 — By Senator Grassley from Committee on the Judiciary filed written report. Report No. 115-325.
+- 2018-09-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6032-6033; text of measure as passed: CR S6033)
+- 2018-09-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6032-6033; text of measure as passed: CR S6033)
