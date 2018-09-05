@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5869
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5869
@@ -25,9 +25,10 @@ Maritime Border Security Review Act
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Maritime Border Security Review Act
 - 2018-09-04 — Placed on the Union Calendar, Calendar No. 713.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-918.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-918.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
