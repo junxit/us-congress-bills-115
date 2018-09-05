@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6438
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6438
@@ -20,9 +20,10 @@ DHS Countering Unmanned Aircraft Systems Coordinator Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ DHS Countering Unmanned Aircraft Systems Coordinator Act
 - 2018-09-04 — Mr. Perry moved to suspend the rules and pass the bill, as amended.
 - 2018-09-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7810)
 - 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7810)
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
