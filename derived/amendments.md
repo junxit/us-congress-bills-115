@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1635
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 15 U.S.C. § 1681j
 
-> by striking “of each plan” and inserting “of at least the standard repayment plan and the income-based repayment plan under section 493C”;
+> by striking “of each plan” and inserting “of at least the standard repayment plan and the income-driven repayment plans the borrower is eligible for”;
 
 | | |
 |---|---|
 | Removed | `of each plan` |
-| Inserted | `of at least the standard repayment plan and the income-based repayment plan under section 493C` |
+| Inserted | `of at least the standard repayment plan and the income-driven repayment plans the borrower is eligible for` |
 
 ## Stated, not applied
 
@@ -61,12 +61,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1092` | amend | Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681j` | redesignate | by redesignating clauses (i) through (ix) as clauses (iv) through (xii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681j` | redesignate | by inserting before clause (iv), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681j` | redesignate | by redesignating clauses (i) through (ix) as clauses (v) through (xiii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681j` | redesignate | by inserting before clause (v), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681j` | insert | by inserting “decreased credit score,” after “credit reports,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681j` | insert | by inserting “reduced ability to rent or purchase a home or car, potential difficulty in securing employment,” after “Federal law,”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1681j` | redesignate | in clause (x), as so redesignated, by striking “consolidation loan under section 428C or a”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1681j` | redesignate | in clauses (xi) and (xii), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1681j` | redesignate | in clause (xi), as so redesignated, by striking “consolidation loan under section 428C or a”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1681j` | redesignate | in clauses (xii) and (xiii), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | by inserting “online or” before “in writing”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | amend | by adding before the period at the end the following: “, except that in the case of an institution using the online counseling tool described in subsection (n)(1)(A), the Secretary shall attempt to provide such information to the student… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
