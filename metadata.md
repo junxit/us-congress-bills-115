@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6400
@@ -52,10 +52,11 @@ United States Ports of Entry Threat and Operational Review Act
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Ways and Means Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ United States Ports of Entry Threat and Operational Review Act
 - 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7811-7812)
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-914, Part I.
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-914, Part I.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
