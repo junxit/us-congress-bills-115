@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6430
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6430
@@ -26,9 +26,10 @@ Securing the Homeland Security Supply Chain Act of 2018
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Securing the Homeland Security Supply Chain Act of 2018
 - 2018-09-04 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2018-09-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7791-7792)
 - 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7791-7792)
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
