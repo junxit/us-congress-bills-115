@@ -1,7 +1,7 @@
 ---
 measure: S. 3021
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3021
@@ -20,9 +20,10 @@ America's Water Infrastructure Act of 2018
 
 - Sen. Smith, Tina [D-MN] (S001203)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,7 @@ America's Water Infrastructure Act of 2018
 - 2018-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
 - 2018-09-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6032; text: CR S6032)
 - 2018-09-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6032; text: CR S6032)
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-05 — Received in the House.
+- 2018-09-05 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-09-05 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
