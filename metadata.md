@@ -1,7 +1,7 @@
 ---
 measure: S. 2553
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2553
@@ -16,7 +16,7 @@ Know the Lowest Price Act of 2018
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -31,6 +31,8 @@ Know the Lowest Price Act of 2018
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (3)
 
@@ -61,3 +63,18 @@ Know the Lowest Price Act of 2018
 - 2018-09-05 — Received in the House.
 - 2018-09-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-06 — Referred to the Subcommittee on Health.
+- 2018-09-08 — Referred to the Subcommittee on Health.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8799-8801)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 2553.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8799)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8799)
+- 2018-09-28 — Correct Enrollment
+- 2018-10-04 — Presented to President.
+- 2018-10-04 — Presented to President.
+- 2018-10-10 — Became Public Law No: 115-262.
+- 2018-10-10 — Became Public Law No: 115-262.
+- 2018-10-10 — Signed by President.
+- 2018-10-10 — Signed by President.
