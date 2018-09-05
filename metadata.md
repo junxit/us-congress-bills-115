@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6265
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6265
@@ -22,9 +22,10 @@ PreCheck is PreCheck Act of 2018
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ PreCheck is PreCheck Act of 2018
 - 2018-09-04 — Placed on the Union Calendar, Calendar No. 708.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-912.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-912.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
