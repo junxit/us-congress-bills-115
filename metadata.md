@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6400
@@ -77,3 +77,14 @@ United States Ports of Entry Threat and Operational Review Act
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-914, Part I.
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-914, Part I.
 - 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-19 — Passed Senate without amendment by Voice Vote.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7896)
+- 2018-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7896)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-372.
+- 2018-12-21 — Became Public Law No: 115-372.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
