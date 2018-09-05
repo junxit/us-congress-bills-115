@@ -11,35 +11,134 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Embassy Design and Security Act of 2018”.
+This Act may be cited as the “Embassy Security Authorization Act, Fiscal Year 2019”.
 
-## § 2. Improving embassy construction
+## § 2. Standard design in capital construction
 
-- **(a)** *Findings* Congress finds that the decision by the Department of State’s Bureau of Overseas Buildings Operations (“OBO”) to transition from Standard Embassy Design to Design Excellence has in many cases—
-  - **(1)** increased the cost of building new embassies and consulates;
-  - **(2)** delayed the move of thousands of staff from facilities that do not meet current security standards to new, secure facilities;
-  - **(3)** exacerbated certain deficiencies in the quality of the Bureau’s program management;
-  - **(4)** been a factor in reduced competition for capital construction projects; and
-  - **(5)** been a complicating factor in achieving the Department’s own security requirements.
-- **(b)** *Sense of Congress* It is the sense of Congress that the OBO should give appropriate consideration to Standard Embassy Design, in which each new embassy and consulate starts with a standard design and keeps customization to a minimum.
-- **(c)** *Delivery*
-  - **(1)** *Design-build project delivery* Except in cases in which the Secretary of State determines that such would not be appropriate, the Secretary shall make use of the design-build project delivery system at diplomatic posts that have not yet received design or construction contracts as of the date of the enactment of this Act.
-  - **(2)** *Standard design* The Secretary of State shall give preference to the use of a standard design, together with design-build delivery under paragraph (1).
-  - **(3)** *Vertical standard design* The Secretary of State shall develop a vertical standard design that can be implemented according to the Department of State’s requisite security and spatial needs for diplomatic posts that are to be situated on a smaller plot of land.
-  - **(4)** *Bridging* The Secretary of State shall make use of bridging to adapt the standard design under paragraph (2) with design-build project delivery under paragraph (1) at diplomatic posts that require a more customized design due to climatic, geographic, or functional requirements.
-  - **(5)** *Other application*
-    - **(A)** *In general* The Secretary of State may make use of design-bid-build delivery with non-standard design in limited instances of particular diplomatic importance as determined by the Secretary.
-    - **(B)** *Limitation* The Secretary of State may not delegate the authority of the Secretary under subparagraph (A) to make use of design-bid-build delivery with non-standard design.
-- **(d)** *Consultation regarding non-Standard designs* The Secretary of State shall carry out any new diplomatic post project that is in the design phase or pre-design phase as of the date of the enactment of this Act and that utilizes bridging or non-standard design under subsection (c) only after notification to and consultation with the appropriate congressional committees. Such notification and consultation shall include provision to the appropriate congressional committees, for each such project, of the following documentation:
-  - **(1)** A comparison of the estimated full lifecycle costs of the project at issue to the estimated full lifecycle costs of such project if such project were to use a standard design.
-  - **(2)** A comparison of the estimated completion date of such project to the estimated completion date of such project if such project were to use a standard design.
-  - **(3)** A comparison of the security of such completed project to the security of such completed project if such completed project were to use a standard design.
-  - **(4)** A justification for the Secretary’s selection of a non-standard design over a standard design for such project.
-- **(e)** *Performance evaluation* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall report to the appropriate congressional committees regarding performance evaluation measures in line with GAO’s “Standards for Internal Control in the Federal Government” that will be applicable to the Bureau of Overseas Building Operations of the Department of State.
-- **(f)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-  - **(2)** *Bridging* The term “bridging” means a delivery method for construction projects that is a hybrid of the traditional “design-bid-build” and the “design-build” methods, whereby the Bureau of Overseas Building Operations of the Department of State first contracts with a design firm to develop a project-specific, partial design that a construction contractor and its design firm then complete, the objective of which is to retain the best features of the design-bid-build and design-build methods for the project owner and eliminate those aspects of each such method that often cause problems for such owner.
-  - **(3)** *Design-bid-build* The term “design-bid-build” means a method of project delivery in which a design entity is first contracted to provide a design and a construction entity is subsequently contracted to build the awarded design contract.
-  - **(4)** *Design-build* The term “design-build” means a method of project delivery in which one entity, such as the design-build team, works under a single contract with the project owner to provide design and construction services.
-  - **(5)** *Non-standard design* The term “non-standard design” means a new diplomatic post design that does not utilize a standardized design template for the structural, spatial, and security requirements of such post.
-  - **(6)** *Standard design* The term “standard design” means a diplomatic post design that utilizes a standardized design template for the structural, spatial, and security requirements of such post.
+- **(a)** *Sense of Congress* It is the sense of Congress that the Department of State’s Bureau of Overseas Building Operations (OBO) or successor office should give appropriate consideration to standard embassy design, in which each new embassy and new consulate starts with a standard design and keeps customization to a minimum.
+- **(b)** *Consultation* The Secretary of State shall, in consultation with the appropriate congressional committees, carry out any new embassy compound project or new consulate compound project that is in the design phase or pre-design phase as of the date of the enactment of this Act and that utilizes a non-standard design. The Secretary shall provide such committees, for each such project, the following documentation:
+  - **(1)** A comparison of the estimated full lifecycle costs of the project at issue to the estimated full lifecycle costs of such project if such project were to use a standard embassy design.
+  - **(2)** A comparison of the estimated completion date of such project to the estimated completion date of such project if such project were to use a standard embassy design.
+  - **(3)** A comparison of the security of such completed project to the security of such completed project if such completed project were to use a standard embassy design.
+  - **(4)** A justification for the Secretary’s selection of a non-standard design over a standard embassy design for such project.
+  - **(5)** A written explanation if any of the documentation necessary to support the comparisons and justification, as the case may be, described in paragraphs (1) through (4) cannot be provided.
+
+## § 3. Statement of policy
+
+It is the policy of the United States that the Bureau of Overseas Building Operations of the Department of State or its successor office shall continue to balance functionality and security with accessibility as defined by guidelines established by the United States Access Board in constructing embassies and consulates and shall ensure compliance with the Architectural Barriers Act of 1968 to the fullest extent possible.
+
+## § 4. Capital construction transparency
+
+- **(a)** *In general* Section 118 of the Department of State Authorities Act, Fiscal Year 2017 (22 U.S.C. 304) is amended—
+  - **(1)** in the section heading, by striking “Annual report on embassy construction costs” and inserting “Quarterly report on overseas capital construction projects”; and
+  - **(2)** by amending subsections (a) and (b) to read as follows:
+    > - **(a)** *In general* Not later than 180 days after the date of the enactment of this subsection and every 90 days thereafter, the Secretary shall submit to the appropriate congressional committees a comprehensive report regarding all ongoing overseas capital construction projects and major embassy security upgrade projects.
+    > - **(b)** *Contents* Each report required under subsection (a) shall include the following with respect to each ongoing overseas capital construction project and major embassy security upgrade project:
+    >   - **(1)** The initial cost estimate as specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations for Acts making appropriations for the Department of State, foreign operations, and related programs.
+    >   - **(2)** The current cost estimate.
+    >   - **(3)** The value of each request for equitable adjustment received by the Department of State to date.
+    >   - **(4)** The value of each certified claim received by the Department of State to date.
+    >   - **(5)** The value of any usage of the project’s contingency fund to date and the value of the remainder of the project’s contingency fund.
+    >   - **(6)** An enumerated list of each request for adjustment and certified claim that remains outstanding or unresolved.
+    >   - **(7)** An enumerated list of each request for equitable adjustment and certified claim that has been fully adjudicated or that the Department has settled, and the final dollar amount of each adjudication or settlement.
+    >   - **(8)** The date of estimated completion specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations not later than 45 days after the date of the enactment of an Act making appropriations for the Department of State, foreign operations, and related programs.
+    >   - **(9)** The current date of estimated completion.
+
+- **(b)** *Initial report* The first report required under subsection (a) of section 118 of the Department of State Authorities Act, Fiscal Year 2017 (as amended by this section) shall include an annex regarding all overseas capital construction projects and major embassy security upgrade projects completed during the 10-year period ending on December 31, 2018, including, for each such project, the elements specified in subsection (b) of such section 118 (as amended by this section).
+
+## § 5. Contractor performance information
+
+- **(a)** *Deadline for completion* The Secretary of State shall complete by October 1, 2020, all contractor performance evaluations required by subpart 42.15 of the Federal Acquisition Regulation.
+- **(b)** *Prioritization system*
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall develop a prioritization system for clearing the current backlog of required evaluations referred to in subsection (a).
+  - **(2)** *Elements* The system required under paragraph (1) should prioritize such evaluations as follows:
+    - **(A)** Project completion evaluations should be prioritized over annual evaluations.
+    - **(B)** Evaluations for relatively large contracts should have priority.
+    - **(C)** Evaluations that would be particularly informative for the awarding of government contracts should have priority.
+- **(c)** *Briefing* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall brief the appropriate congressional committees on the Department of State’s plan for completing all evaluations by October 1, 2020, and the prioritization system developed pursuant to this section.
+- **(d)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** contractors deciding whether to bid on Department of State contracts would benefit from greater understanding of the Department as a client; and
+  - **(2)** the Department should develop a forum through which contractors can rate the Department’s project management performance.
+
+## § 6. Growth projections for new embassies and consulates
+
+- **(a)** *In general* For each new embassy compound project (NEC) and new consulate compound project (NCC) in or not yet in the design phase as of the date of the enactment of this Act, the Office of Management Policy, Rightsizing, and Innovation of the Department of State shall project growth over the estimated life of the facility at issue using all available and relevant data, including the following:
+  - **(1)** Relevant historical trends for Department personnel and personnel from other agencies represented at the NEC or NCC that is to be constructed.
+  - **(2)** An analysis of the tradeoffs between risk and the needs of United States Government policy conducted as part of the most recent Vital Presence Validation Process, if applicable.
+  - **(3)** Reasonable assumptions about the strategic importance of the NEC or NCC, as the case may be, over the life of the building at issue.
+  - **(4)** Any other data that would be helpful in projecting the future growth of NEC or NCC.
+- **(b)** *Other agencies* Each Federal agency represented at an embassy or consulate shall provide to the Department of State, upon request, growth projections for the personnel of such agency over the estimated life of such embassy or consulate, as the case may be.
+- **(c)** *Basis for estimates* The Department of State shall base growth assumption for all NECs and NCCs on the estimates required under subsections (a) and (b).
+- **(d)** *Congressional notification* Any congressional notification of site selection for a NEC or NCC submitted after the date of the enactment of this Act shall include the growth assumption used pursuant to subsection (c).
+
+## § 7. Long-range planning process
+
+- **(a)** *Plans required*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act and annually thereafter for 5 years, the Secretary of State shall develop—
+    - **(A)** a comprehensive 6-year Long-Range Overseas Buildings Plan (LROBP) documenting the Department of State’s overseas building program for the replacement of overseas diplomatic facilities taking into account security factors under the Secure Embassy Construction and Counterterrorism Act of 1999 and other relevant statutes and regulations, as well as occupational safety and health factors pursuant to the Occupational Safety and Health Act of 1970 and other relevant statutes and regulations, including environmental factors such as indoor air quality that impact employee health and safety; and
+    - **(B)** a comprehensive 6-year plan detailing the Department’s long-term planning for the maintenance and sustainment of completed facilities, known as a Long-Range Overseas Maintenance Plan (LROMP), which takes into account security factors under the Secure Embassy Construction and Counterterrorism Act of 1999 and other relevant statutes and regulations, as well as occupational safety and health factors pursuant to the Occupational Safety and Health Act of 1970 and other relevant statutes and regulations, including environmental factors such as indoor air quality that impact employee health and safety.
+  - **(2)** *Initial report* The first plan developed pursuant to paragraph (1)(A) shall also include a one-time status report on existing small diplomatic posts and a strategy for establishing a physical diplomatic presence in countries in which there is no current physical diplomatic presence. Such report, which may include a classified annex, shall include the following:
+    - **(A)** A description of the extent to which each small diplomatic post furthers the national interest of the United States.
+    - **(B)** A description of how each small diplomatic post provides American Citizen Services, including data on specific services provided and the number of Americans receiving services over the previous year.
+    - **(C)** A description of whether each small diplomatic post meets current security requirements.
+    - **(D)** A description of the full financial cost of maintaining each small diplomatic post.
+    - **(E)** Input from the relevant chiefs of mission on any unique operational or policy value the small diplomatic post provides.
+  - **(3)** *Updated information* The annual updates of the plans developed pursuant to paragraph (1) shall highlight any changes from the previous year’s plan to the ordering of construction and maintenance projects.
+- **(b)** *Reporting requirements*
+  - **(1)** *Submission of plans to Congress* Not later than 60 days after the completion of the LROBP and the LROMP, the Secretary of State shall submit such plans to the appropriate congressional committees.
+  - **(2)** *Reference in budget justification materials* In the budget justification materials submitted to the appropriate congressional committees in support of the Department of State’s budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the plans specified in the LROBP and LROMP shall be referenced to justify funding requested for building and maintenance projects overseas.
+  - **(3)** *Form of report* The plans required to be submitted under paragraph (1) shall be submitted in unclassified form but may include classified annexes.
+- **(c)** *Small diplomatic post defined* In this section, the term “small diplomatic post” means any consulate that has employed five or fewer United States Government employees on average over the 36 months before the date of the enactment of this Act.
+
+## § 8. Value engineering and risk assessment
+
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** Federal departments and agencies are required to use value engineering (VE) as a management tool, where appropriate, to reduce program and acquisition costs pursuant to OMB Circular A–131, Value Engineering, dated December 31, 2013.
+  - **(2)** OBO has a Policy Directive and Standard Operation Procedure, dated May 24, 2017, on conducting risk management studies on all international construction projects.
+- **(b)** *Notification requirements*
+  - **(1)** *Submission to authorizing committees* The proposed allocation of capital construction and maintenance funds that is required by the Committees on Appropriations of the House of Representatives and the Senate not later than 45 days after the date of the enactment of an Act making appropriations for the Department of State, foreign operations, and related programs shall also be submitted to the appropriate congressional committees.
+  - **(2)** *Requirement to confirm completion of value engineering and risk assessment studies* The notifications required under paragraph (1) shall include confirmation that the Department of State has completed the requisite VE and risk management studies described in subsection (a).
+- **(c)** *Reporting and briefing requirements* The Secretary of State shall provide to the appropriate congressional committees upon request—
+  - **(1)** a description of each recommendation from each study described in subsection (a) and a table detailing which recommendations were accepted and which were rejected; and
+  - **(2)** a report or briefing detailing the rationale for not implementing recommendations made by VE studies that may yield significant cost savings to the Department of State, if implemented.
+
+## § 9. Business volume
+
+Subparagraph (E) of section 402(c)(2) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4852(c)(2)) is amended by striking “in 3 years” and inserting “cumulatively over 3 years”.
+
+## § 10. Embassy security requests and deficiencies
+
+The Secretary of State shall provide to the appropriate congressional committees, upon request, information on security deficiencies at United States diplomatic posts, including—
+
+- **(1)** requests made over the previous year by United States diplomatic posts for security upgrades; and
+- **(2)** significant security deficiencies at United States diplomatic posts that are not operating out of a new embassy compound or new consulate compound.
+
+## § 11. Overseas security briefings
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall revise the Foreign Affairs Manual to stipulate that the Bureau of Diplomatic Security of the Department of State shall provide a security briefing or written materials with up-to-date information on the current threat environment in writing or orally to all United States Government employees traveling to a foreign country on official business. To the extent practicable, such briefing or written materials shall be provided to traveling Department employees via teleconference prior to their arrival at a post.
+
+## § 12. Contracting methods in capital construction
+
+- **(a)** *Delivery* Except in cases in which the Secretary of State determines that such would not be appropriate, the Secretary shall make use of the design-build project delivery system at diplomatic posts that have not yet received design or capital construction contracts as of the date of the enactment of this Act.
+- **(b)** *Notification* Not later than 15 days after any determination to make use of a delivery system other than design-build in accordance with subsection (a), the Secretary of State shall notify the appropriate congressional committees in writing of such determination, including the reasons therefor.
+- **(c)** *Performance evaluation* Not later than 180 days after the date of the enactment of this Act, the Secretary shall report to the appropriate congressional committees regarding performance evaluation measures in line with GAO’s “Standards for Internal Control in the Federal Government” that will be applicable to design and construction, lifecycle cost, and building maintenance programs of the Bureau of Overseas Building Operations of the Department of State.
+
+## § 13. Authorization of appropriations
+
+There is authorized to be appropriated $2,314,474,000 for fiscal year 2019 for the purposes of the “Embassy Security, Construction, and Maintenance” account of the Department of State, of which $1,549,015,000 is authorized to be appropriated for the costs of worldwide security upgrades.
+
+## § 14. Definitions
+
+In this Act:
+
+- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+  - **(A)** in the House of Representatives—
+    - **(i)** the Committee on Foreign Affairs; and
+    - **(ii)** the Committee on Appropriations; and
+  - **(B)** in the Senate—
+    - **(i)** the Committee on Foreign Relations; and
+    - **(ii)** the Committee on Appropriations.
+- **(1)** *Design-build* The term “design-build” means a method of project delivery in which one entity works under a single contract with the Department of State to provide design and construction services.
+- **(2)** *Non-standard design* The term “non-standard design” means—
+  - **(A)** a design for a new embassy compound project or new consulate compound project that does not utilize a standardized embassy design for the structural, spatial, or security requirements of such embassy compound or consulate compound, as the case may be; or
+  - **(B)** a new embassy compound project; or new consulate compound project that does not utilize a design-build delivery method.
