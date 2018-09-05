@@ -1,7 +1,7 @@
 ---
 measure: S. 2515
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2515
@@ -16,11 +16,14 @@ Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governa
 
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governa
 
 - 2018-03-07 — Introduced in Senate
 - 2018-03-07 — Read twice and referred to the Committee on Indian Affairs.
+- 2018-04-11 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-335.
+- 2018-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-335.
+- 2018-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
