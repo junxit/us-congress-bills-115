@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6461
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6461
@@ -20,9 +20,10 @@ TSA National Deployment Force Act
 
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ TSA National Deployment Force Act
 - 2018-09-04 — Placed on the Union Calendar, Calendar No. 712.
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-917.
 - 2018-09-04 — Reported by the Committee on Homeland Security. H. Rept. 115-917.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
