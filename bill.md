@@ -2,7 +2,7 @@
 legis-num: H.R. 6374
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6374
@@ -27,7 +27,7 @@ This Act may be cited as the “Fitness Information Transparency Act of 2018” 
 - **(c)** *Reciprocity*
   - **(1)** *In general* The Chief Security Officer of the Department of Homeland Security shall implement a process to ensure fitness determinations made by the Department are uniformly accepted throughout the Department and its components.
   - **(2)** *Sufficiency* The Secretary of Homeland Security, acting through the Chief Security Officer of the Department of Homeland Security, may, as appropriate, deem a favorably adjudicated personnel security investigation sufficient to satisfy a requirement to complete a contractor fitness determination under this section.
-- **(d)** *Fitness adjudication status updates* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Chief Security Officer of the Department of Homeland Security and in coordination with heads of the components of the Department, shall implement a uniform process to—
+- **(d)** *Fitness adjudication status updates* Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Chief Security Officer of the Department of Homeland Security and in coordination with heads of the components of the Department, shall implement a uniform process to—
   - **(1)** provide, not less frequently than monthly, contractor representatives certified pursuant to subsection (e)(1) access to information regarding the status of fitness determinations for Department contractor employees relevant to such contractor representatives; and
   - **(2)** collect each fiscal quarter data to allow the Department and its components and contractor representatives to assess average fitness investigation, adjudication, and determination processing times for each component of the Department, including information regarding the parameters used to calculate each such average.
 - **(e)** *Certification* Before the implementation of the uniform process described in subsection (d), the Secretary of Homeland Security, acting through the Chief Security Officer of the Department of Homeland Security, shall—
@@ -45,7 +45,7 @@ This Act may be cited as the “Fitness Information Transparency Act of 2018” 
   - **(6)** information regarding the degree to which fitness determinations made by the Department and its components or other Federal agencies are recognized on a reciprocal basis by the Department and its components pursuant to subsection (c)(1);
   - **(7)** information regarding the degree to which suitability and fitness determinations for Federal applicants and appointees made by the Department and its components or other Federal agencies are recognized on a reciprocal basis by the Department and its components; and
   - **(8)** information regarding the degree to which the Secretary, acting through the Chief Security Officer of the Department, uses the authority under subsection (c)(2).
-- **(h)** *Suitability status updates* Not later than one year after the date of the enactment of this Act, the Chief Security Officer of the Department of Homeland Security, in consultation with the Chief Human Capital Officer of the Department, shall develop a plan to provide Federal applicants and appointees with suitability and fitness determination status updates similar to updates provided to contractor representatives under subsection (d).
+- **(h)** *Suitability status updates* Not later than 1 year after the date of the enactment of this Act, the Chief Security Officer of the Department of Homeland Security, in consultation with the Chief Human Capital Officer of the Department, shall develop a plan to provide Federal applicants and appointees with suitability and fitness determination status updates similar to updates provided to contractor representatives under subsection (d).
 - **(i)** *Exigent circumstances fitness determination review* The Chief Security Officer of the Department of Homeland Security may conduct an immediate review of a contractor employee’s fitness determination when a contractor employee has engaged in violent acts against individuals, property, or public spaces based on the contractor employee’s association with persons or organizations that advocate, threaten, or use force or violence, or any other illegal or unconstitutional means, in an effort to prevent others from exercising their rights under the Constitution or laws of the United States or of any State, based on factors including, at a minimum, race, religion, national origin, or disability.
 - **(j)** *No additional funds authorized* No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise appropriated.
 - **(k)** *Definitions* In this section:

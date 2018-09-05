@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6374
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6374
@@ -20,9 +20,10 @@ FIT Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ FIT Act
 - 2018-09-04 — Placed on the Union Calendar, Calendar No. 709.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-913.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-913.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
