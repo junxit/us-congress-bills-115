@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1049
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1049
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 1635) to amend the loan counseling
 - 2018-09-04 — The House Committee on Rules reported an original measure, H. Rept. 115-919, by Ms. Cheney.
 - 2018-09-04 — The House Committee on Rules reported an original measure, H. Rept. 115-919, by Ms. Cheney.
 - 2018-09-04 — The resolution provides for one hour of general debate on both H.R. 1635 and H.R. 4606. Also, the resolution provides for a motion to recommit with or without instructions for both bills.
+- 2018-09-05 — Considered as privileged matter. (consideration: CR H7834-7838)
+- 2018-09-05 — Considered as unfinished business. (consideration: CR H7838-7840)
+- 2018-09-05 — DEBATE - The House proceeded with one hour of debate on H. Res. 1049.
+- 2018-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-05 — On agreeing to the resolution Agreed to by recorded vote: 224 - 180 (Roll no. 383). (text: CR H7834)
+- 2018-09-05 — On ordering the previous question Agreed to by the Yeas and Nays: 221 - 186 (Roll no. 382). (CR H7839)
+- 2018-09-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1049, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mrs. Torres demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question on H. Res. 1049 until later in the legislative day.
+- 2018-09-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 224 - 180 (Roll no. 383).(text: CR H7834)
