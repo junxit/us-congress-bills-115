@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6447
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6447
@@ -20,9 +20,10 @@ Department of Homeland Security Chief Data Officer Authorization Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Department of Homeland Security Chief Data Officer Authorization Act
 - 2018-09-04 — Placed on the Union Calendar, Calendar No. 710.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-915.
 - 2018-09-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-915.
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
