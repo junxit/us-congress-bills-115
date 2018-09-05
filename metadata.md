@@ -1,7 +1,7 @@
 ---
 measure: S. 2553
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2553
@@ -32,9 +32,11 @@ Know the Lowest Price Act of 2018
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -55,3 +57,7 @@ Know the Lowest Price Act of 2018
 - 2018-09-04 — Senate amendment proposed (on the floor): Amendment SA 4010 proposed by Senator McConnell for Senator Stabenow.(consideration: CR S6033; text: CR S6033)
 - 2018-09-04 — Senate amendment submitted
 - 2018-09-04 — Senate amendment submitted
+- 2018-09-05 — Message on Senate action sent to the House.
+- 2018-09-05 — Received in the House.
+- 2018-09-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
