@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6439
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6439
@@ -31,9 +31,10 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - 2018-09-04 — Mr. McCaul moved to suspend the rules and pass the bill.
 - 2018-09-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381). (text: CR H7786-7787)
 - 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381).(text: CR H7786-7787)
+- 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
