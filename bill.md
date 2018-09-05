@@ -24,29 +24,37 @@ It is the sense of Congress that—
 - **(5)** at the heart of a strong election cycle is the professionalism of the election management body and an empowered civil society; and
 - **(6)** the development of local expertise via peer-to-peer learning and exchanges promotes the independence of such bodies from internal and external influence.
 
-## § 3. Global Electoral Exchange
+## § 3. Global electoral exchange
 
-- **(a)** *Global Electoral Exchange* The Secretary of State shall establish and administer a Global Electoral Exchange Program to promote the utilization of sound election administration practices in the United States and foreign countries.
-- **(b)** *Purpose* The purpose of the Global Electoral Exchange Program described in subsection (a) shall include the promotion and exchange of international best election practices, including in the areas of cybersecurity, results transmission, transparency of electoral data, election dispute resolution, the elimination of discriminatory registration practices and electoral irregularities, and other sound election administration practices.
+- **(a)** *Global electoral exchange* The Secretary of State is authorized to establish and administer a Global Electoral Exchange Program to promote the utilization of sound election administration practices around the world.
+- **(b)** *Purpose* The purpose of the Global Electoral Exchange Program described in subsection (a) shall include the promotion and exchange of international best election practices, including in the areas of—
+  - **(1)** cybersecurity;
+  - **(2)** results transmission;
+  - **(3)** transparency of electoral data;
+  - **(4)** election dispute resolution;
+  - **(5)** the elimination of discriminatory registration practices and electoral irregularities;
+  - **(6)** equitable access to polling places, voter education information, and voting mechanisms (including by persons with disabilities); and
+  - **(7)** other sound election administration practices.
 - **(c)** *Exchange of electoral authorities*
-  - **(1)** *In general* The Secretary of State may, in consultation, as appropriate, with the United States Agency for International Development and regionally focused independent agencies, make grants to any United States-based organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code with experience in comparative election systems or subject matter expertise in the areas of election administration or electoral integrity that submits an application in such form, and satisfying such requirements, as the Secretary may require.
+  - **(1)** *In general* The Secretary of State may, in consultation, as appropriate, with the United States Agency for International Development, make grants to any United States-based organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code with experience in comparative election systems or subject matter expertise in the areas of election administration or electoral integrity that submits an application in such form, and satisfying such requirements, as the Secretary may require.
   - **(2)** *Types of grants* An organization described in paragraph (1) may receive a grant for one or more of the following purposes:
-    - **(A)** To design and implement programs bringing election administrators and officials, including government officials, polling workers, civil society representatives, members of the judiciary, and others who participate in the organization and administration of an election in a foreign country to the United States to study election procedures in the United States for educational purposes.
-    - **(B)** To design and implement programs taking United States or another country’s election administrators and officials, including government officials, polling workers, civil society representatives, members of the judiciary, and others who participate in the organization and administration of elections for public office in the United States or such other countries to foreign countries to study election procedures in such countries for educational purposes.
-  - **(3)** *Coordination* The Secretary of State shall coordinate with State and local governments in the United States, in addition to the governments of United States territories, to conduct exchanges under this section and may enter into memorandums of understanding with such governments to guide participation by such governments in the Global Electoral Exchange Program.
-  - **(4)** *Limits on activities* Activities administered under the Global Electoral Exchange Program may not—
-    - **(A)** include election observation for the purposes of discussing the validity or legitimacy of an election; or
+    - **(A)** To design and implement programs bringing election administrators and officials, including government officials, poll workers, civil society representatives, members of the judiciary, and others who participate in the organization and administration of public elections in a foreign country to the United States to study election procedures in the United States for educational purposes.
+    - **(B)** To design and implement programs taking United States or another country’s election administrators and officials, including government officials, poll workers, civil society representatives, members of the judiciary, and others who participate in the organization and administration of public elections to study election procedures for educational purposes.
+  - **(3)** *Limits on activities* Activities administered under the Global Electoral Exchange Program may not—
+    - **(A)** include observation of an election for the purposes of assessing the validity or legitimacy of that election; or
     - **(B)** facilitate any advocacy for a certain electoral result by a grantee when participating in the Program.
+  - **(4)** *Sense of Congress* It is the sense of Congress that the Secretary of State should establish and maintain a network of Global Electoral Exchange Program alumni, to promote communication and further exchange of information regarding sound election administration practices among current and former program participants.
   - **(5)** *Further limits* A recipient of a grant under the Global Electoral Exchange Program may use such grant for only the purpose for which such grant was awarded, unless otherwise authorized by the Secretary of State.
   - **(6)** *Not duplicative* Grants made under this subsection may not be duplicative of any other grants made under any other provision of law for similar or related purposes.
 
-## § 4. Report
+## § 4. Congressional oversight
 
-- **(a)** *Internet* The Secretary of State shall maintain a publically available Department of State website detailing the Global Electoral Exchange Program, including a list of grants awarded under the Program and the amount awarded in each such grant, each annual report required under subsection (c), and other information at the discretion of the Secretary.
-- **(b)** *Notification of grants* Not later than 30 days after each grant award under the Global Electoral Exchange Program under section 3, the Secretary of State shall publish on the website described in subsection (a) a summary of such grant, including criteria for selecting the grantee and any relevant agreements between the Secretary of State and foreign governments, State and local governments in the United States, or the governments of United States territories that are associated with such grant. The Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such publication.
-- **(c)** *Annual reports*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act and every year thereafter, the Secretary of State shall publish on the website described in subsection (a) a report on the Global Electoral Exchange Program and notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such report.
-  - **(2)** *Elements* The reports required by paragraph (1) shall include the following:
-    - **(A)** A summary of all exchanges conducted under the Global Electoral Exchange Program, including criteria used to select grantees.
-    - **(B)** A summary of all memorandum of understandings with States, local governments, and territories in accordance with section 3(c)(3).
-- **(d)** *Annual recommendations* In conjunction with the annual reports required under subsection (c), the Secretary of State may provide recommendations for the improvement of the Global Electoral Exchange Program, based on the purposes under section 3(b), in a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Not later than 1 year after the date of the enactment of this Act and in each of the following 2 years thereafter, the Secretary of State shall provide to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a briefing on the status of any activities carried out pursuant to this Act during the preceding year, which shall include, among other information, the following:
+
+- **(1)** A summary of all exchanges conducted under the Global Electoral Exchange Program, including information regarding grantees, participants, and the locations where program activities were held.
+- **(2)** A description of the criteria used to select grantees under the Global Electoral Exchange Program.
+- **(3)** Any recommendations for the improvement of the Global Electoral Exchange Program, based on the purpose specified in section 3(b).
+
+## § 5. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
