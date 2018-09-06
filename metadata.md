@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 603
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 603
@@ -28,3 +28,7 @@ A resolution designating September 2018 as "School Bus Safety Month".
 
 - 2018-08-01 — Introduced in Senate
 - 2018-08-01 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5587)
+- 2018-09-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-09-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-09-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6103)
+- 2018-09-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6103)
