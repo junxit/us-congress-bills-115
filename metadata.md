@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 302
@@ -75,3 +75,13 @@ FAA Reauthorization Act of 2018
 - 2017-01-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H204)
 - 2017-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H204)
 - 2017-01-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-09-06 — Amendment SA 4014 agreed to in Senate by Unanimous Consent.
+- 2018-09-06 — Amendment SA 4014 proposed by Senator McConnell for Senator Alexander. (consideration: CR S6104-6105; text: CR S6104-6105) In the nature of a substitute.
+- 2018-09-06 — Measure laid before Senate by unanimous consent. (consideration: CR S6104-6105)
+- 2018-09-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-09-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-09-06 — Senate amendment agreed to: Amendment SA 4014 agreed to in Senate by Unanimous Consent.
+- 2018-09-06 — Senate amendment proposed (on the floor): Amendment SA 4014 proposed by Senator McConnell for Senator Alexander.(consideration: CR S6104-6105; text: CR S6104-6105)
+- 2018-09-06 — Senate amendment submitted
