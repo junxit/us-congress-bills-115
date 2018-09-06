@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4969
@@ -22,9 +22,10 @@ Embassy Security Authorization Act, Fiscal Year 2019
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Embassy Security Authorization Act, Fiscal Year 2019
 - 2018-09-05 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-09-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7840-7841)
 - 2018-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7840-7841)
+- 2018-09-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
