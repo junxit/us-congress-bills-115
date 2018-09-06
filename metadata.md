@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1051
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1051
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 6691) to amend title 18, United St
 - 2018-09-05 — Section 2 provides that at any time on the legislative day of September 13, 2018, it shall be in order for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV.
 - 2018-09-05 — The House Committee on Rules reported an original measure, H. Rept. 115-920, by Mr. Buck.
 - 2018-09-05 — The House Committee on Rules reported an original measure, H. Rept. 115-920, by Mr. Buck.
+- 2018-09-06 — Considered as privileged matter. (consideration: CR H7882-7885)
+- 2018-09-06 — Considered as unfinished business. (consideration: CR H7885-7887)
+- 2018-09-06 — DEBATE - The House proceeded with one hour of debate on H. Res. 1051.
+- 2018-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-06 — On agreeing to the resolution Agreed to by recorded vote: 225 - 179 (Roll no. 387). (text: CR H7882)
+- 2018-09-06 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 181 (Roll no. 386). (CR H7886)
+- 2018-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1051, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Hastings demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2018-09-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 225 - 179 (Roll no. 387).(text: CR H7882)
