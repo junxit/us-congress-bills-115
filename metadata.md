@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1635
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1635
@@ -43,9 +43,10 @@ Empowering Students Through Enhanced Financial Counseling Act
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ Empowering Students Through Enhanced Financial Counseling Act
 - 2018-09-05 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-09-05 — The previous question was ordered pursuant to the rule.
 - 2018-09-05 — The resolution provides for one hour of general debate on both H.R. 1635 and H.R. 4606. Also, the resolution provides for a motion to recommit with or without instructions for both bills.
+- 2018-09-06 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
