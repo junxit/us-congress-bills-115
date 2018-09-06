@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5576
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5576
@@ -32,12 +32,13 @@ Cyber Deterrence and Response Act of 2018
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (4)
+## Committees (5)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Cyber Deterrence and Response Act of 2018
 - 2018-09-05 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-09-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7843-7845)
 - 2018-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7843-7845)
+- 2018-09-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
