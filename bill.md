@@ -17,11 +17,10 @@ This Act may be cited as the “Walnut Grove Land Exchange Act”.
 
 In this Act:
 
-- **(1)** *Church* The term Church means the Walnut Grove Church.
-- **(2)** *Offered Tract* The term Offered Tract means all right, title, and interest of the Church in and to approximately 6.3 acres of non-Federal land identified as “Offered Tract 5742”on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest Map.
+- **(1)** *Church* The term Church means the Walnut Grove Church in Garland County, Arkansas.
+- **(2)** *Offered Tract* The term Offered Tract means all right, title, and interest of the Church in and to approximately 6.3 acres of non-Federal land identified as “Offered Tract 5742”on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest map (printed date May 11, 2017).
 - **(3)** *Secretary* The term Secretary means the Secretary of Agriculture.
-- **(4)** *Selected Tract* The term Selected Tract means all right, title, and interest of the United States in and to approximately 4 acres identified as “Selected Tract 5743” on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest Map.
-- **(5)** *Service* The term Service means the United States Forest Service.
+- **(4)** *Selected Tract* The term Selected Tract means all right, title, and interest of the United States in and to approximately 4 acres identified as “Selected Tract 5743” on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest map (printed date May 11, 2017), subject to the reservation of a road easement by the Secretary.
 
 ## § 3. Exchange of land; equalization of value
 
@@ -37,7 +36,9 @@ In this Act:
   - **(2)** *Exception* If the value of the Offered Tract exceeds the Selected Tract, an equalization payment shall not be required.
 - **(d)** *Appraisals*
   - **(1)** *In general* The value of the land to be exchanged under this Act shall be determined by appraisals conducted by one or more independent and qualified appraisers.
-  - **(2)** *Appraisal standards* The appraisals required under paragraph (1) shall be conducted in accordance with nationally recognized appraisal standards, including, as determined appropriate by the Church and Secretary, the Uniform Appraisal Standards for Federal Land Acquisitions and the Uniform Standards of Professional Appraisal Practice.
+  - **(2)** *Appraisal standards* The Secretary shall complete an appraisal of the land to be exchanged under this Act in accordance with—
+    - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
+    - **(B)** the Uniform Standards of Professional Appraisal Practice.
 - **(e)** *Format* Title and valuation to the land to be exchanged under this Act shall be in a format acceptable to the Secretary and the Church.
 - **(f)** *Map and legal descriptions* —
   - **(1)** *In general* As soon as practicable after the date of the enactment of this Act, the Secretary shall finalize a map and legal descriptions of all land to be conveyed under this Act.

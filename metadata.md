@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5923
@@ -25,3 +25,11 @@ Walnut Grove Land Exchange Act
 - 2018-05-22 — Introduced in House
 - 2018-05-22 — Introduced in House
 - 2018-05-22 — Referred to the House Committee on Natural Resources.
+- 2018-06-05 — Referred to the Subcommittee on Federal Lands.
+- 2018-07-17 — Subcommittee Hearings Held.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-07-18 — Subcommittee on Federal Lands Discharged.
+- 2018-09-07 — Placed on the Union Calendar, Calendar No. 715.
+- 2018-09-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-922.
+- 2018-09-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-922.
