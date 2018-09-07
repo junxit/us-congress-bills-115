@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 6 executed, 15 stated and not applied.
+27 amendatory instructions. 14 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,84 @@ to guess them.
 
 ### 6 U.S.C. § 591
 
-> in section 1923, as so redesignated, in the section heading by striking “Mission of Office” and inserting “Responsibilities”; and
+> in the section heading by striking “Mission of Office” and inserting “Responsibilities”; and
 
 | | |
 |---|---|
 | Removed | `Mission of Office` |
 | Inserted | `Responsibilities` |
+
+### 6 U.S.C. § 591
+
+> in subsection (a)(11), by striking “Domestic Nuclear Detection Office” and inserting “Office”;
+
+| | |
+|---|---|
+| Removed | `Domestic Nuclear Detection Office` |
+| Inserted | `Office` |
+
+### 6 U.S.C. § 591
+
+> in section 1925, as so redesignated, in subsection (a), in the first sentence, by striking “section 1902” and inserting “section 1923”;
+
+| | |
+|---|---|
+| Removed | `section 1902` |
+| Inserted | `section 1923` |
+
+### 6 U.S.C. § 591
+
+> by striking “Director for Domestic Nuclear Detection” and inserting “Assistant Secretary”; and
+
+| | |
+|---|---|
+| Removed | `Director for Domestic Nuclear Detection` |
+| Inserted | `Assistant Secretary` |
+
+### 6 U.S.C. § 591
+
+> by striking “paragraphs (6) and (7) of section 1902(a)” and inserting “section 1923”; and
+
+| | |
+|---|---|
+| Removed | `paragraphs (6) and (7) of section 1902(a)` |
+| Inserted | `section 1923` |
+
+### 6 U.S.C. § 591
+
+> in paragraph (2), by striking “paragraphs (6) and (7) of section 1902(a)” and inserting “section 1923”;
+
+| | |
+|---|---|
+| Removed | `paragraphs (6) and (7) of section 1902(a)` |
+| Inserted | `section 1923` |
+
+### 6 U.S.C. § 591
+
+> in subsection (a)(1)(C), in the matter preceding clause (i), by striking “Director of the Domestic Nuclear Detection Office” and inserting “Assistant Secretary”; and
+
+| | |
+|---|---|
+| Removed | `Director of the Domestic Nuclear Detection Office` |
+| Inserted | `Assistant Secretary` |
+
+### 6 U.S.C. § 591
+
+> in subsection (c), by striking “section 1902” and inserting “section 1923”; and
+
+| | |
+|---|---|
+| Removed | `section 1902` |
+| Inserted | `section 1923` |
+
+### 6 U.S.C. § 113
+
+> Paragraph (4) of section 103(d) of the Homeland Security Act of 2002 (6 U.S.C. 113(d)) is amended by striking “A Director for Domestic Nuclear Detection” and inserting “An Assistant Secretary for the Countering Weapons of Mass Destruction Office”.
+
+| | |
+|---|---|
+| Removed | `A Director for Domestic Nuclear Detection` |
+| Inserted | `An Assistant Secretary for the Countering Weapons of Mass Destruction Office` |
 
 ### 6 U.S.C. § 195b
 
@@ -87,7 +159,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 1801` | replace | by striking section 1901 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking section 1901 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591` | strike | by striking section 1905; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591` | redesignate | by redesignating sections 1902, 1903, 1904, 1906, and 1907 as sections 1923, 1924, 1925, 1926, and 1927, respectively, and transferring such sections to appear after section 1922, as added by paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -96,8 +168,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 591` | add-at-end | Title XIX of the Homeland Security Act of 2002 (6 U.S.C. 591 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | strike | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the item relating to section 516. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 113` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 113` | redesignate | by redesignating paragraph (5) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 315` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 315` | redesignate | by redesignating paragraph (5) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591` | insert | by inserting after the item relating to section 709 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
