@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 7922
 
-> Section 112(a)(1)(B) of the Uranium Mill Tailing Radiation Control Act of 1978 (42 U.S.C. 7922(a)(1)(B)) is amended by striking “September 30, 2023” and inserting “September 30, 2048”.
+> Section 112(a)(1)(B) of the Uranium Mill Tailings Radiation Control Act of 1978 (42 U.S.C. 7922(a)(1)(B)) is amended by striking “September 30, 2023” and inserting “September 30, 2048”.
 
 | | |
 |---|---|
