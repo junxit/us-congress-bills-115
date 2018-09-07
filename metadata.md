@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2389
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2389
@@ -16,11 +16,13 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 
 - Rep. Reed, Tom [R-NY-23] (R000585)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Slaughter, Louise McIntosh [D-NY-25] (S000480)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
 
 ## Committees (1)
 
@@ -31,3 +33,12 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Introduced in House
 - 2017-05-04 — Referred to the House Committee on Energy and Commerce.
+- 2017-05-05 — Referred to the Subcommittee on Environment.
+- 2018-05-18 — Subcommittee Hearings Held.
+- 2018-06-27 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-06-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-07-12 — Committee Consideration and Mark-up Session Held.
+- 2018-07-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-07 — Placed on the Union Calendar, Calendar No. 719.
+- 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-926.
+- 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-926.
