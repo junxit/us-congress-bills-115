@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2389
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. West Valley demonstration project
 
-- **(a)** *Authorization of appropriations* Section 3 of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2017 through 2026”.
-- **(b)** *Treatment of waste* All radioactive waste at the high level radioactive waste management demonstration project at the Western New York Service Center in West Valley, New York, carried out under the West Valley Demonstration Project Act shall be considered to be waste resulting from atomic energy defense activities, as defined in section 2 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101).
+- **(a)** *Reauthorization* Section 3(a) of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2019 through 2028”.
+- **(b)** *Report* Not later than 18 months after the date of enactment of this Act, the Comptroller General shall submit to Congress a report that describes—
+  - **(1)** the volumes, origins, and types of radioactive waste at the Western New York Service Center in West Valley, New York;
+  - **(2)** what options have been identified for disposal of each such type of radioactive waste;
+  - **(3)** what is known about the costs of, and timeframes for, each such option;
+  - **(4)** the benefits and challenges of each such option, according to the State of New York and the Department of Energy; and
+  - **(5)** as of the date of enactment of this Act—
+    - **(A)** how much has been spent on the disposal of radioactive waste associated with the demonstration project prescribed by section 2(a) of the West Valley Demonstration Project Act; and
+    - **(B)** what volumes and types of radioactive waste have been disposed of from the Western New York Service Center.

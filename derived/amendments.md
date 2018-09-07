@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2389
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 2021a
 
-> Section 3 of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2017 through 2026”.
+> Section 3(a) of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2019 through 2028”.
 
 | | |
 |---|---|
 | Removed | `$5,000,000 for the fiscal year ending September 30, 1981` |
-| Inserted | `$75,000,000 for each of fiscal years 2017 through 2026` |
+| Inserted | `$75,000,000 for each of fiscal years 2019 through 2028` |
