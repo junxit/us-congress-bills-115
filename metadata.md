@@ -1,7 +1,7 @@
 ---
 measure: S. 1586
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1586
@@ -21,9 +21,10 @@ Great Lakes Environmental Sensitivity Index Act of 2017
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Great Lakes Environmental Sensitivity Index Act of 2017
 - 2017-10-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
 - 2018-09-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6103; text of amendment in the nature of a substitute: CR S6103)
 - 2018-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6103; text of amendment in the nature of a substitute: CR S6103)
+- 2018-09-07 — Message on Senate action sent to the House.
+- 2018-09-07 — Received in the House.
+- 2018-09-07 — Referred to the House Committee on Natural Resources.
