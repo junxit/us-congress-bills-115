@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1320
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,73 +13,74 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Nuclear Utilization of Keynote Energy Act”.
 
-## § 2. Nuclear Regulatory Commission user fees and annual charges through fiscal year 2019
+## § 2. Nuclear Regulatory Commission user fees and annual charges through fiscal year 2020
 
 - **(a)** *In general* Section 6101(c)(2)(A) of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214(c)(2)(A)) is amended—
   - **(1)** in clause (iii), by striking “and” at the end;
   - **(2)** in clause (iv), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of a regulatory framework for advanced nuclear reactor technologies.
+    > - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of a regulatory infrastructure for advanced nuclear reactor technologies.
 
-- **(b)** *Repeal* Effective October 1, 2019, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed.
+- **(b)** *Repeal* Effective October 1, 2020, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed.
 
-## § 3. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2020 and each fiscal year thereafter
+## § 3. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter
 
 - **(a)** *Annual budget justification*
   - **(1)** *In general* In the annual budget justification submitted by the Commission to Congress, the Commission shall expressly identify anticipated expenditures necessary for completion of the requested activities of the Commission anticipated to occur during the applicable fiscal year.
-  - **(2)** *Restriction* Budget authority granted to the Commission for purposes of the requested activities of the Commission shall be used, to the maximum extent practicable, solely for conducting requested activities of the Commission.
+  - **(2)** *Restriction* The Commission shall, to the maximum extent practicable, use any funds made available to the Commission for a fiscal year for the anticipated expenditures identified under paragraph (1) for the fiscal year.
   - **(3)** *Limitation on corporate support costs* With respect to the annual budget justification submitted to Congress, corporate support costs, to the maximum extent practicable, shall not exceed the following percentages of the total budget authority of the Commission requested in the annual budget justification:
-    - **(A)** 30 percent for each of fiscal years 2020 and 2021.
-    - **(B)** 29 percent for each of fiscal years 2022 and 2023.
-    - **(C)** 28 percent for fiscal year 2024 and each fiscal year thereafter.
+    - **(A)** 30 percent for each of fiscal years 2021 and 2022.
+    - **(B)** 29 percent for each of fiscal years 2023 and 2024.
+    - **(C)** 28 percent for fiscal year 2025 and each fiscal year thereafter.
 - **(b)** *Fees and charges*
   - **(1)** *Annual assessment*
-    - **(A)** *In general* Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount collected is equal to an amount that approximates—
+    - **(A)** *In general* Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
       - **(i)** the total budget authority of the Commission for that fiscal year; less
       - **(ii)** the budget authority of the Commission for the activities described in subparagraph (B).
     - **(B)** *Excluded activities described* The activities referred to in subparagraph (A)(ii) are the following:
-      - **(i)** An activity not attributable to an existing NRC licensee or class of licensee as identified by the Commission in Table III of the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2016” (81 Fed. Reg. 41171 (June 24, 2016)).
-      - **(ii)** Amounts appropriated for a fiscal year to the Commission—
+      - **(i)** Any fee-relief activity, as identified by the Commission.
+      - **(ii)** Amounts appropriated for the fiscal year to the Commission—
         - **(I)** from the Nuclear Waste Fund established under section 302(c) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10222(c));
         - **(II)** for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (50 U.S.C. 2601 note; Public Law 108–375);
         - **(III)** for the homeland security activities of the Commission (other than for the costs of fingerprinting and background checks required under section 149 of the Atomic Energy Act of 1954 (42 U.S.C. 2169) and the costs of conducting security inspections);
         - **(IV)** for the Inspector General services of the Commission provided to the Defense Nuclear Facilities Safety Board;
-        - **(V)** for research and development at universities in areas relevant to the mission of the applicable university;
-        - **(VI)** for a nuclear science and engineering grant program that will support multiyear projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering; and
-        - **(VII)** for any other fee-relief activity described in the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2016” (81 Fed. Reg. 41171 (June 24, 2016)).
+        - **(V)** for the partnership program with institutions of higher education established under section 244 of the Atomic Energy Act of 1954 (42 U.S.C. 2015c); and
+        - **(VI)** for the scholarship and fellowship programs under section 243 of the Atomic Energy Act of 1954 (42 U.S.C. 2015b).
       - **(iii)** Costs for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies.
-    - **(C)** *Exception* The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2031.
-    - **(D)** *Report* Not later than December 31, 2029, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of the funding described in subparagraph (B)(iii).
-  - **(2)** *Fees for service or thing of value* In accordance with section 9701 of title 31, United States Code, the Commission shall charge fees to any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
-  - **(3)** *Annual fees*
-    - **(A)** *In general* Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual fee.
-    - **(B)** *Cap on annual fees of certain licensees*
-      - **(i)** *In general* The annual fee under subparagraph (A) charged to an operating reactor licensee, to the maximum extent practicable, shall not exceed the annual fee amount per operating reactor licensee established in the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2016” (81 Fed. Reg. 41171 (June 24, 2016)), as may be adjusted annually by the Commission to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.
-      - **(ii)** *Waiver* The Commission may waive, for a period of 1 year, the cap on annual fees described in clause (i) if the Commission submits to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a written determination that the cap on annual fees may compromise the safety and security mission of the Commission.
+    - **(C)** *Exception* The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2032.
+    - **(D)** *Report* Not later than December 31, 2030, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of funding for the activities described in subparagraph (B)(iii).
+  - **(2)** *Fees for service or thing of value* In accordance with section 9701 of title 31, United States Code, the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
+  - **(3)** *Annual charges*
+    - **(A)** *In general* Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees set forth in paragraph (2).
+    - **(B)** *Cap on annual charges of certain licensees*
+      - **(i)** *Operating reactors* The annual charge under subparagraph (A) charged to an operating reactor licensee, to the maximum extent practicable, shall not exceed the annual fee amount per operating reactor licensee established in the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2015” (80 Fed. Reg. 37432 (June 30, 2015)), as may be adjusted annually by the Commission to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.
+      - **(ii)** *Fuel facilities*
+        - **(I)** *In general* The total annual charges under subparagraph (A) charged to fuel facility licensees, to the maximum extent practicable, shall not exceed an amount that is equal to the total annual fees collected from the fuel facilities class under the final rule of the Commission entitled “Revision of Fee Schedules; Fee Recovery for Fiscal Year 2016” (81 Fed Reg. 41171 (June 24, 2016)), which amount may be adjusted annually by the Commission to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.
+        - **(II)** *Exception* Subclause (I) shall not apply if the number of licensed facilities classified by the Commission as fuel facilities exceeds seven.
+        - **(III)** *Changes to annual charges* Any change in an annual charge under subparagraph (A) charged to a fuel facility licensee shall be based on—
+          - **(aa)** a change in the regulatory services provided with respect to the fuel facility; or
+          - **(bb)** an adjustment described in subclause (I).
+      - **(iii)** *Waiver* The Commission may waive, for a period of 1 year, the cap on annual charges described in clause (i) or (ii) if the Commission submits to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a written determination that the cap on annual charges may compromise the safety and security mission of the Commission.
     - **(C)** *Amount per licensee*
-      - **(i)** *In general* The Commission shall establish by rule a schedule of fees fairly and equitably allocating the aggregate amount of charges described in subparagraph (A) among licensees and certificate holders.
-      - **(ii)** *Requirement* The schedule of fees under clause (i)—
-        - **(I)** to the maximum extent practicable, shall be based on the cost of providing regulatory services; and
+      - **(i)** *In general* The Commission shall establish by rule a schedule of annual charges fairly and equitably allocating the aggregate amount of charges described in clause (ii) among licensees and certificate holders.
+      - **(ii)** *Aggregate amount* For purposes of this subparagraph, the aggregate amount of charges for a fiscal year shall equal an amount that approximates—
+        - **(I)** the amount to be collected under paragraph (1)(A) for the fiscal year; less
+        - **(II)** the amount of fees to be collected under paragraph (2) for the fiscal year.
+      - **(iii)** *Requirement* The schedule of charges under clause (i)—
+        - **(I)** to the maximum extent practicable, shall be reasonably related to the cost of providing regulatory services; and
         - **(II)** may be based on the allocation of the resources of the Commission among licensees or certificate holders or classes of licensees or certificate holders.
-    - **(D)** *Exemption*
-      - **(i)** *Definition of research reactor* In this subparagraph, the term research reactor means a nuclear reactor that—
-        - **(I)** is licensed by the Commission under section 104 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2134(c)) for operation at a thermal power level of not more than 10 megawatts; and
-        - **(II)** if licensed under subclause (I) for operation at a thermal power level of more than 1 megawatt, does not contain—
-          - **(aa)** a circulating loop through the core in which the licensee conducts fuel experiments;
-          - **(bb)** a liquid fuel loading; or
-          - **(cc)** an experimental facility in the core in excess of 16 square inches in cross-section.
-      - **(ii)** *Exemption* Subparagraph (A) shall not apply to the holder of any license for a federally owned research reactor used primarily for educational training and academic research purposes.
+    - **(D)** *Exemption* Subparagraph (A) shall not apply to the holder of any license for a federally owned research reactor used primarily for educational training and academic research purposes.
 - **(c)** *Performance and reporting*
   - **(1)** *In general* The Commission shall develop for the requested activities of the Commission—
     - **(A)** performance metrics; and
-    - **(B)** on each request, milestone schedules.
-  - **(2)** *Delays in issuance of final safety evaluation* The Executive Director for Operations of the Commission shall inform the Commission of a delay in issuance of the final safety evaluation for a requested activity of the Commission by the completion date required by the performance metrics or milestone schedule under paragraph (1) by not later than 30 days after the completion date.
-  - **(3)** *Delays in Issuance of final safety evaluation exceeding 180 days* If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 180 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
-- **(d)** *Accurate invoicing* With respect to invoices for fees and charges described in subsection (b)(2), the Commission shall—
-  - **(1)** ensure appropriate management review and concurrence prior to the issuance of invoices;
+    - **(B)** milestone schedules.
+  - **(2)** *Delays in issuance of final safety evaluation* If the final safety evaluation for a requested activity of the Commission is not completed by the completion date required by the performance metrics or milestone schedule under paragraph (1), the Executive Director for Operations of the Commission shall, not later than 30 days after such required completion date, inform the Commission of the delay.
+  - **(3)** *Delays in issuance of final safety evaluation exceeding 180 days* If a final safety evaluation described in paragraph (2) is not completed by the date that is 180 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
+- **(d)** *Accurate invoicing* With respect to invoices for fees charged under subsection (b)(2), the Commission shall—
+  - **(1)** ensure appropriate review and approval prior to the issuance of invoices;
   - **(2)** develop and implement processes to audit invoices to ensure accuracy, transparency, and fairness; and
-  - **(3)** modify regulations to ensure fair and appropriate processes to provide licensees and applicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for fees and charges.
-- **(e)** *Report* Not later than September 30, 2021, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the implementation of this section, including any impacts and recommendations for improvement.
+  - **(3)** modify regulations to ensure fair and appropriate processes to provide licensees and applicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for such fees.
+- **(e)** *Report* Not later than September 30, 2022, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the implementation of this section, including any effects of such implementation and recommendations for improvement.
 - **(f)** *Definitions* In this section:
   - **(1)** *Advanced nuclear reactor* The term advanced nuclear reactor means a nuclear fission or fusion reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations), with significant improvements compared to commercial nuclear reactors under construction as of the date of enactment of this Act, including improvements such as—
     - **(A)** additional inherent safety features;
@@ -90,11 +91,15 @@ This Act may be cited as the “Nuclear Utilization of Keynote Energy Act”.
     - **(F)** increased proliferation resistance;
     - **(G)** increased thermal efficiency; or
     - **(H)** ability to integrate into electric and nonelectric applications.
-  - **(2)** *Applicant* The term applicant means an applicant for a license, certification, permit, or other form of approval from the Commission for a commercial advanced nuclear reactor or a research and test reactor.
-  - **(3)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives.
-  - **(4)** *Commission* The term Commission means the Nuclear Regulatory Commission.
-  - **(5)** *Corporate support costs* The term corporate support costs means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training, as those categories are described and calculated in Appendix A of the Congressional Budget Justification for Fiscal Year 2017 of the Commission.
-  - **(6)** *Requested activity of the Commission* The term requested activity of the Commission means—
+  - **(2)** *Commission* The term Commission means the Nuclear Regulatory Commission.
+  - **(3)** *Corporate support costs* The term corporate support costs means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training.
+  - **(4)** *Research reactor* The term research reactor means a nuclear reactor that—
+    - **(A)** is licensed by the Commission under section 104 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2134(c)) for operation at a thermal power level of not more than 10 megawatts; and
+    - **(B)** if so licensed for operation at a thermal power level of more than 1 megawatt, does not contain—
+      - **(i)** a circulating loop through the core in which the licensee conducts fuel experiments;
+      - **(ii)** a liquid fuel loading; or
+      - **(iii)** an experimental facility in the core in excess of 16 square inches in cross-section.
+  - **(5)** *Requested activity of the Commission* The term requested activity of the Commission means—
     - **(A)** the processing of applications for—
       - **(i)** design certifications or approvals;
       - **(ii)** licenses;
@@ -104,26 +109,21 @@ This Act may be cited as the “Nuclear Utilization of Keynote Energy Act”.
       - **(vi)** certificates of compliance; and
       - **(vii)** power uprates; and
     - **(B)** any other activity requested by a licensee or applicant.
-- **(g)** *Effective date* This section takes effect on October 1, 2019.
+- **(g)** *Effective date* This section takes effect on October 1, 2020.
 
 ## § 4. Study on elimination of foreign licensing restrictions
 
-Not later than 18 months after the date of enactment of this Act, the Comptroller General, in consultation with the Secretary of Energy, shall transmit to Congress a report containing the results of a study on the feasibility and implications of repealing restrictions under sections 103d. and 104d. of the Atomic Energy Act of 1954 on issuing licenses for certain nuclear facilities to an alien or an entity owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government.
+Not later than 18 months after the date of enactment of this Act, the Comptroller General shall transmit to Congress a report containing the results of a study on the feasibility and implications of repealing restrictions under sections 103 d. and 104 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2133(d); 2134(d)) on issuing licenses for certain nuclear facilities to an alien or an entity owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government.
 
 ## § 5. Study on the impact of the elimination of mandatory hearing for uncontested licensing applications
 
-Not later than 18 months after the date of enactment of this Act, the Comptroller General, in consultation with the Secretary of Energy, shall transmit to Congress a report containing the results of a study on the impact of the elimination of mandatory hearings for uncontested licensing and construction permit applications under the Atomic Energy Act of 1954.
+Not later than 18 months after the date of enactment of this Act, the Comptroller General shall transmit to Congress a report containing the results of a study on the effects of eliminating the hearings required under section 189 a. of the Atomic Energy Act of 1954 (42 U.S.C. 2239(a)) for an application under section 103 or section 104 b. of such Act for a construction permit for a facility in the absence of a request of any person whose interest may be affected by the proceeding.
 
 ## § 6. Informal hearing procedures
 
-- **(a)** *Procedures* Section 189 a. of the Atomic Energy Act of 1954 (42 U.S.C. 2239(a)) is amended by adding at the end the following:
-  > - **(3)** Any hearing under this section shall be conducted using informal adjudicatory procedures in accordance with sections 553 and 555 of title 5, United States Code, unless the Commission determines that formal adjudicatory procedures are necessary—
-  >   - **(A)** to develop a sufficient record; or
-  >   - **(B)** to achieve fairness.
+Section 189 a. of the Atomic Energy Act of 1954 (42 U.S.C. 2239(a)) is amended by adding at the end the following:
 
-- **(b)** *Hearings on licensing of uranium enrichment facilities* Section 193 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2243(b)) is amended—
-  - **(1)** in paragraph (1), by striking “on the record” and all that follows through “and 63” and inserting “if a person the interest of whom may be affected by the construction and operation of a uranium enrichment facility under sections 53 and 63 has requested a hearing regarding the licensing of the construction and operation of the facility”; and
-  - **(2)** in paragraph (2), by striking “Such hearing” and inserting “If a hearing is held under paragraph (1), the hearing”.
+> - **(3)** The Commission may use informal adjudicatory procedures for any hearing required under this section for which the Commission determines that adjudicatory procedures under section 554 of title 5, United States Code, are unnecessary.
 
 ## § 7. Application reviews for nuclear energy projects
 
@@ -131,23 +131,37 @@ Section 185 of the Atomic Energy Act of 1954 (42 U.S.C. 2235) is amended by addi
 
 > - **(c)** *Application reviews for nuclear energy projects*
 >   - **(1)** *Streamlining license application review* With respect to an application that is docketed seeking issuance of a construction permit, operating license, or combined construction permit and operating license for a production or utilization facility, the Commission shall include the following procedures:
->     - **(A)** Undertake an expedited environmental review process and issue any draft environmental impact statement within 24 months after the application is accepted for docketing.
->     - **(B)** Complete the technical review process and issue any safety evaluation report and any final environmental impact statement within 42 months after the application is accepted for docketing.
+>     - **(A)** Undertake an environmental review process and issue any draft environmental impact statement to the maximum extent practicable within 24 months after the application is accepted for docketing.
+>     - **(B)** Complete the technical review process and issue any safety evaluation report and any final environmental impact statement to the maximum extent practicable within 42 months after the application is accepted for docketing.
 >   - **(2)** *Early site permit*
 >     - **(A)** *Supplemental environmental impact statement* In a proceeding for a combined construction permit and operating license for a site for which an early site permit has been issued, any environmental impact statement prepared by the Commission and cooperating agencies shall be prepared as a supplement to the environmental impact statement prepared for the early site permit.
 >     - **(B)** *Incorporation by reference* The supplemental environmental impact statement shall—
 >       - **(i)** incorporate by reference the analysis, findings, and conclusions from the environmental impact statement prepared for the early site permit; and
 >       - **(ii)** include additional discussion, analyses, findings, and conclusions on matters resolved in the early site permit proceeding only to the extent necessary to address information that is new and significant in that the information would materially change the prior findings or conclusions.
 >   - **(3)** *Production or utilization facility located at an existing site* In reviewing an application for an early site permit, construction permit, operating license, or combined construction permit and operating license for a production or utilization facility located at the site of a licensed production or utilization facility, the Commission shall, to the extent practicable, use information that was part of the licensing basis of the licensed production or utilization facility.
->   - **(4)** *Hearing on early site permit, construction permit, and combined construction permit and operating license* The Commission shall issue and make immediately effective an early site permit or construction permit for a production or utilization facility upon finding that the application therefor satisfies the requirements of this Act, notwithstanding the pendency before the Commission of a request for a hearing. Following completion of any required hearing, the Commission shall take any appropriate action with respect to the early site permit, construction permit, or combined construction permit and operating license to the extent necessary to account for the hearing results.
->   - **(5)** *Regulations* The Commission shall initiate a rulemaking, to be completed 1 year after the date of enactment of the Nuclear Utilization of Keynote Energy Act, to amend the regulations of the Commission to implement this subsection.
+>   - **(4)** *Regulations* The Commission shall initiate a rulemaking, not later than 1 year after the date of enactment of the Nuclear Utilization of Keynote Energy Act, to amend the regulations of the Commission to implement this subsection.
+>   - **(5)** *Environmental impact statement defined* In this subsection, the term environmental impact statement means a detailed statement required under section 102(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(C)).
 >   - **(6)** *Relationship to other law* Nothing in this subsection exempts the Commission from any requirement for full compliance with section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
 
-## § 8. Nuclear reactor decommissioning
+## § 8. Report identifying best practices for establishment and operation of local community advisory boards
 
-- **(a)** *Rulemaking* Chapter 14 of the Atomic Energy Act of 1954 (42 U.S.C. 2201–2210i) is amended by adding at the end the following new section:
-  > ## § 170J. Decommissioning nuclear reactor rulemaking
-  >
-  > The Commission shall, not later than 90 days after the date of enactment of this section, initiate a rulemaking proceeding, including notice and opportunity for public comment, to be completed not later than 48 months after that date, to address the regulatory framework for decommissioning nuclear reactors licensed under section 103 or 104b.
+- **(a)** *Best practices report* Not later than 18 months after the date of enactment of this Act, the Nuclear Regulatory Commission shall submit to Congress, and make publicly available, a report identifying best practices with respect to the establishment and operation of a local community advisory board to foster communication and information exchange between a licensee planning for and involved in decommissioning activities and members of the community that decommissioning activities may affect, including lessons learned from any such board in existence before the date of enactment of this Act.
+- **(b)** *Contents* The report described in subsection (a) shall include—
+  - **(1)** a description of—
+    - **(A)** the topics that could be brought before a local community advisory board;
+    - **(B)** how such a board’s input could be used to inform the decision-making processes of stakeholders for various decommissioning activities;
+    - **(C)** what interaction such a board could have with the Nuclear Regulatory Commission and other Federal regulatory bodies to support the board members’ overall understanding of the decommissioning process and promote dialogue between the affected stakeholders and the licensee involved in decommissioning activities; and
+    - **(D)** how such a board could offer opportunities for public engagement throughout all phases of the decommissioning process;
+  - **(2)** a discussion of the composition of a local community advisory board; and
+  - **(3)** best practices relating to the establishment and operation of a local community advisory board, including—
+    - **(A)** the time of establishment of such a board;
+    - **(B)** the frequency of meetings of such a board;
+    - **(C)** the selection of board members;
+    - **(D)** the term of board members;
+    - **(E)** the responsibility for logistics required to support such a board’s meetings and other routine activities; and
+    - **(F)** any other best practices relating to such a local community advisory board that are identified by the Commission.
+- **(c)** *Consultation* In developing the report described in subsection (a), the Nuclear Regulatory Commission shall consult with any host State, any community within the emergency planning zone of an applicable nuclear facility, and any existing local community advisory board.
 
-- **(b)** *Table of sections amendment* The table of sections for chapter 14 of the Atomic Energy Act of 1954 is amended by adding at the end the following new item:
+## § 9. Report on study recommendations
+
+Not later than 90 days after the date of enactment of this Act, the Nuclear Regulatory Commission shall submit to Congress a report on the status of addressing and implementing the recommendations contained in the memorandum of the Executive Director of Operations of the Commission entitled “Tasking in Response to the Assessment of the Considerations Identified in a “Study of Reprisal and Chilling Effect for Raising Mission-Related Concerns and Differing Views at the Nuclear Regulatory Commission”” and dated June 19, 2018 (ADAMS Accession No.: ML18165A296).
