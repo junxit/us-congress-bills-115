@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 6733
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6733
+
+> To amend title XXVII of the Public Health Service Act and title XVIII of the Social Security Act to prohibit group health plans, health insurance issuers, prescription drug plan sponsors, and Medicare Advantage organizations from limiting certain information on drug prices.
+
+## § 1. Short title
+
+This Act may be cited as the “Know the Cost Act of 2018”.
+
+## § 2. Prohibition on limiting certain information on drug prices
+
+- **(a)** *In general*
+  - **(1)** *Group health plans and health insurance issuers* Subpart II of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–11 et seq.) is amended by adding at the end the following:
+    > ## § 2729. Information on prescription drugs
+    >
+    > - **(a)** *In general* A group health plan or a health insurance issuer offering group or individual health insurance coverage shall—
+    >   - **(1)** not restrict, directly or indirectly, any pharmacy that dispenses a prescription drug to an enrollee in the plan or coverage from informing (or penalize such pharmacy for informing) an enrollee of any differential between the enrollee's out-of-pocket cost under the plan or coverage with respect to acquisition of the drug and the amount an individual would pay for acquisition of the drug without using any health plan or health insurance coverage; and
+    >   - **(2)** ensure that any entity that provides pharmacy benefits management services under a contract with any such health plan or health insurance coverage does not, with respect to such plan or coverage, restrict, directly or indirectly, a pharmacy that dispenses a prescription drug from informing (or penalize such pharmacy for informing) an enrollee of any differential between the enrollee's out-of-pocket cost under the plan or coverage with respect to acquisition of the drug and the amount an individual would pay for acquisition of the drug without using any health plan or health insurance coverage.
+    > - **(b)** *Definition* For purposes of this section, the term out-of-pocket cost, with respect to acquisition of a drug, means the amount to be paid by the enrollee under the plan or coverage, including any cost-sharing (including any deductible, copayment, or coinsurance) and, as determined by the Secretary, any other expenditure.
+
+  - **(2)** *Prescription drug plan sponsors and Medicare Advantage organizations* Section 1860D–4 of the Social Security Act (42 U.S.C. 1395w–104) is amended by adding at the end the following new subsection:
+    > - **(m)** *Prohibition on limiting certain information on drug prices* A PDP sponsor and a Medicare Advantage organization shall ensure that each prescription drug plan or MA–PD plan offered by the sponsor or organization does not restrict a pharmacy that dispenses a prescription drug or biological from informing, nor penalize such pharmacy for informing, an enrollee in such plan of any differential between the negotiated price of, or copayment or coinsurance for, the drug or biological to the enrollee under the plan and a lower price the individual would pay for the drug or biological if the enrollee obtained the drug without using any health insurance coverage.
+
+  - **(3)** *Effective date* The amendments made by this subsection shall apply with respect to plan years beginning on or after January 1, 2020.
+- **(b)** *Medicare beneficiary notice requirements*
+  - **(1)** *Annual notice requirement* Section 1804(c) of the Social Security Act (42 U.S.C. 1395b–2(c)) is amended—
+    - **(A)** in paragraph (3), by striking “and” at the end;
+    - **(B)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following new paragraph:
+      > - **(5)** with respect to a notice provided on or after January 1, 2020, and an individual enrolled in a prescription drug plan under part D or an MA–PD plan under part C, information on the potential effects purchasing a drug without using benefits provided under such prescription drug plan or MA–PD plan may have on such individual’s deductible and future cost-sharing obligations under such prescription drug plan or MA–PD plan.
+
+  - **(2)** *MA organization and PDP sponsor disclosures*
+    - **(A)** *In general* Section 1852(c)(1) of the Social Security Act (42 U.S.C. 1395w–22(c)(1)) is amended by adding at the end the following new subparagraph:
+      > - **(J)** *Drug purchasing information* With respect to an enrollee in an MA–PD plan, information in a form and manner specified by the Secretary on the potential effects purchasing a drug without using benefits provided under such plan may have on such individual’s deductible and future cost-sharing obligations under such plan.
+
+    - **(B)** *Effective date* The amendment made by this paragraph shall apply with respect to disclosures made on or after January 1, 2020.
