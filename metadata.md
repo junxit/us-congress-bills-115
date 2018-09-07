@@ -1,7 +1,7 @@
 ---
 measure: S. 1417
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1417
@@ -21,9 +21,10 @@ Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2018
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ Sage-Grouse and Mule Deer Habitat Conservation and Restoration Act of 2018
 - 2018-09-06 — Senate amendment agreed to: Amendment SA 4012 agreed to in Senate by Unanimous Consent.
 - 2018-09-06 — Senate amendment proposed (on the floor): Amendment SA 4012 proposed by Senator McConnell for Senator Hatch.(consideration: CR S6102-6103; text: CR S6102-6103)
 - 2018-09-06 — Senate amendment submitted
+- 2018-09-07 — Message on Senate action sent to the House.
+- 2018-09-07 — Received in the House.
+- 2018-09-07 — Referred to the House Committee on Natural Resources.
