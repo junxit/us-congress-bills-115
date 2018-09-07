@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6742
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6742
+
+> To amend the Homeland Security Act of 2002 to ensure that appropriate officers and agents of U.S. Customs and Border Protection are equipped with secure radios or other two-way communication devices, supported by system interoperability, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Secure Border Communications Act”.
+
+## § 2. Secure border communications
+
+- **(a)** *In general* Subtitle B of title IV of the Homeland Security Act of 2002 (6 U.S.C. 211 et seq.) is amended by adding at the end the following new section:
+  > ## § 420. Secure border communications
+  >
+  > - **(a)** *In general* The Secretary shall ensure that each U.S. Customs and Border Protection officer or agent, if appropriate, is equipped with a secure radio or other two-way communication device, supported by system interoperability, that allows each such officer or agent to communicate—
+  >   - **(1)** between ports of entry and inspection stations; and
+  >   - **(2)** with other Federal, State, Tribal, and local law enforcement entities.
+  > - **(b)** *U.S. Border Patrol agents* The Secretary shall ensure that each U.S. Border Patrol agent assigned or required to patrol in remote mission critical locations, and at border checkpoints, has a multi- or dual-band encrypted portable radio.
+  > - **(c)** *Commercial mobile broadband connectivity* In carrying out subsection (b), the Secretary shall acquire radios or other devices with the option to connect to appropriate commercial mobile broadband networks for deployment in areas where such networks enhance operations and are cost effective.
+  > - **(d)** *Emerging communications technologies considered* In carrying out this section, the Secretary may evaluate new or emerging communications technologies to determine their suitability for the unique conditions of border security operations.
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 419 the following new item:
