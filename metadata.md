@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6287
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6287
@@ -16,13 +16,52 @@ version: Introduced in House
 
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Cosponsors (5)
+## Cosponsors (44)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Cook, Paul [R-CA-8] (C001094)
 
 ## Committees (1)
 
@@ -33,3 +72,8 @@ version: Introduced in House
 - 2018-06-28 — Introduced in House
 - 2018-06-28 — Introduced in House
 - 2018-06-28 — Referred to the House Committee on Natural Resources.
+- 2018-09-05 — Committee Consideration and Mark-up Session Held.
+- 2018-09-05 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-10 — Placed on the Union Calendar, Calendar No. 722.
+- 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-930.
+- 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-930.
