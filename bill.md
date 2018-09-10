@@ -51,7 +51,7 @@ Part E of title XVIII of the Social Security Act is amended by inserting after s
 >     - **(J)** *Mandatory participation* Subject to subparagraph (C), in the case of items or services furnished by a provider or supplier included in a supplier or provider type selected under subparagraph (B) in a geographic area selected under subparagraph (A), payment may only be made under this title for such items or services during the period of the pilot program if the provider or supplier is participating in the pilot program.
 >     - **(K)** *Prohibition of smart card fees* No transaction, utilization, or other fees may be imposed on Medicare beneficiaries or participating suppliers and providers with respect to the use of smart cards under the pilot program.
 >   - **(4)** *Stakeholder input*
->     - **(A)** *In general* Not later than 6 months after the date of the enactment of this section, the Secretary shall convene a panel consisting of stakeholders (including representatives of providers, suppliers, Medicare beneficiaries, and claims processing contractors) selected by the Secretary for purposes of providing input to the Secretary on the implementation of the pilot program (including on the selection of areas and participants under subparagraphs (A) and (B) of paragraph (3) and the development of exemptions and requirements described in such paragraph).
+>     - **(A)** *In general* Not later than 6 months after the date of the enactment of this section, the Secretary shall convene a panel consisting of stakeholders (including representatives of providers, suppliers, technology vendors, Medicare beneficiaries, and claims processing contractors) selected by the Secretary for purposes of providing input to the Secretary on the implementation of the pilot program (including on the selection of areas and participants under subparagraphs (A) and (B) of paragraph (3) and the development of exemptions and requirements described in such paragraph).
 >     - **(B)** *Nonapplicability of FACA* The Federal Advisory Committee Act shall not apply to the panel convened pursuant to subparagraph (A).
 >   - **(5)** *Definitions* In this section:
 >     - **(A)** The terms supplier and provider have the meanings given the terms supplier and provider of services in subsections (d) and (u), respectively, of section 1861.
@@ -59,7 +59,7 @@ Part E of title XVIII of the Social Security Act is amended by inserting after s
 > - **(b)** *Reports to Congress* The Secretary shall submit to Congress the following reports:
 >   - **(1)** *Interim performance report* Not later than 2 years after the date the pilot program is implemented, an interim report on the performance of such program.
 >   - **(2)** *Final performance report* Not later than 18 months after the date of the completion of the pilot program, a final evaluation on the effectiveness of the pilot program. The report shall include the following:
->     - **(A)** An evaluation of the extent to which health care fraud schemes were affected by the use of smart card technology.
+>     - **(A)** An evaluation of the effect of the pilot program on potential fraud under the insurance programs established under this title.
 >     - **(B)** A description of any barriers to implementation of the pilot program.
 >     - **(C)** Participant feedback on the pilot program.
 >     - **(D)** Recommendations regarding the future use of smart cards to address fraud under this title.
