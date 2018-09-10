@@ -1,7 +1,7 @@
 ---
 measure: S. 2857
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 2857
@@ -38,3 +38,12 @@ National Nordic Museum Act
 - 2018-06-07 — Message on Senate action sent to the House.
 - 2018-06-07 — Received in the House.
 - 2018-06-07 — Referred to the House Committee on Natural Resources.
+- 2018-06-08 — Referred to the Subcommittee on Federal Lands.
+- 2018-07-16 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-303.
+- 2018-07-16 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-303.
+- 2018-09-05 — Committee Consideration and Mark-up Session Held.
+- 2018-09-05 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-05 — Subcommittee on Federal Lands Discharged.
+- 2018-09-10 — Placed on the House Calendar, Calendar No. 182.
+- 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-931.
+- 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-931.
