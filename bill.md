@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6561
 
-> To direct the Secretary of Health and Human Services to finalize certain proposed provisions relating to the Programs of All-Inclusive Care for the Elderly (PACE) under the Medicare and Medicaid programs.
+> To direct the Secretary of Health and Human Services to issue a final regulation based on the proposed regulation relating to the Programs of All-Inclusive Care for the Elderly (PACE) under the Medicare and Medicaid programs.
 
 ## § 1. Short title
 
