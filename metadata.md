@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3764
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3764
@@ -32,3 +32,9 @@ Little Shell Tribe of Chippewa Indians Restoration Act of 2018
 - 2018-09-10 — Placed on the Union Calendar, Calendar No. 721.
 - 2018-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-928.
 - 2018-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-928.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8128-8129)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3764.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8128)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8128)
