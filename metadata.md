@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6330
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6330
@@ -16,9 +16,14 @@ Small Business Runway Extension Act of 2018
 
 - Rep. Knight, Stephen [R-CA-25] (K000387)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Comer, James [R-KY-1] (C001108)
 
 ## Committees (1)
 
@@ -29,3 +34,8 @@ Small Business Runway Extension Act of 2018
 - 2018-07-11 — Introduced in House
 - 2018-07-11 — Introduced in House
 - 2018-07-11 — Referred to the House Committee on Small Business.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported.
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 730.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-939.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-939.
