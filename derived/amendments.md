@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3635
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,8 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1395y` | amend | Section 1862(l)(5)(D) of the Social Security Act (42 U.S.C. 1395y(l)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | amend | a revised local coverage determination for such geographic area that restricts one or more existing coverage criteria for such area (such as by adding non-covered indications to an existing local coverage determination or by deleting pre… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ff` | insert | in paragraph (2)(A), by inserting “(other than the reconsideration process described in paragraphs (8) and (9))” after “local coverage determination”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395ff` | insert | in paragraph (5), by inserting “(other than under the reconsideration process described in paragraphs (8) and (9))” after “local coverage determination”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395y` | amend | a revised local coverage determination for such geographic area that restricts one or more existing terms of coverage for such area (such as by adding requirement to an existing local coverage determination that results in decreased cove… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ff` | insert | in paragraph (2)(A), by inserting “(including the reconsiderations described in paragraphs (8) and (9))” after “local coverage determination”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ff` | insert | in paragraph (5), by inserting “(except for a reconsideration described in paragraphs (8) and (9))” after “the coverage determination”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395ff` | redesignate | by redesignating paragraph (8) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ff` | insert | by inserting after paragraph (7) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
