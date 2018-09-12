@@ -21,18 +21,25 @@ Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended—
   > - **(16)** *Credit for certain small business concern subcontractors*
   >   - **(A)** *In general* For purposes of determining whether or not a prime contractor has attained the percentage goals specified in paragraph (6)—
   >     - **(i)** if the subcontracting goals pertain only to a single contract with the Federal agency, the prime contractor may elect to receive credit for small business concerns performing as first tier subcontractors or subcontractors at any tier pursuant to the subcontracting plans required under paragraph (6)(D) in an amount equal to the dollar value of work awarded to such small business concerns; and
-  >     - **(ii)** credit is not permitted for subcontracts at any tier that are to be reported under a commercial plan or a Department of Defense comprehensive subcontracting plan.
+  >     - **(ii)** if the subcontracting goals pertain to more than one contract with one or more Federal agencies, or to one contract with more than one Federal agency, the prime contractor may only count first tier subcontractors that are small business concerns.
   >   - **(B)** *Collection and review of data on subcontracting plans* The head of each contracting agency shall ensure that—
   >     - **(i)** the agency collects and reports data on the extent to which contractors of the agency meet the goals and objectives set forth in subcontracting plans submitted pursuant to this subsection; and
   >     - **(ii)** the agency periodically reviews data collected and reported pursuant to subparagraph (A) for the purpose of ensuring that such contractors comply in good faith with the requirements of this subsection and subcontracting plans submitted by the contractors pursuant to this subsection.
-  >   - **(C)** *Rule of construction* Nothing in this paragraph shall permit lower-tier subcontracting goaling requirements to prime contractors that are eligible to receive lower-tier subcontracting credit under this paragraph.
-  >   - **(D)** *Definitions* For purposes of this paragraph:
-  >     - **(i)** *Commercial plan* The term “commercial plan” has the meaning give that term under section 19.701 of the Federal Acquisition Regulation.
-  >     - **(ii)** *Comprehensive subcontracting plan* The term “comprehensive subcontracting plan” has the meaning given that term under section 252.219–7004 of the Defense Federal Acquisition Regulation Supplement.
+  >   - **(C)** *Rule of construction* Nothing in this paragraph shall permit lower-tier subcontracting goaling requirements of prime contractors that are eligible to receive lower-tier subcontracting credit under this paragraph.
 
 - **(2)** by adding at the end the following:
   > - **(18)** *Dispute process for non-payment to subcontractors*
-  >   - **(A)** *Notice to agency* With respect to a contract with a Federal agency, a subcontractor of a prime contractor on such contract may, if the subcontractor has not received payment for work performed within 90 days of the completion of such work, notify the Office of Small and Disadvantaged Business Utilization (“OSDBU”) of the Federal agency of such lack of payment, if such notice is provided to the agency within the 15-day period following the end of such 90 days.
-  >   - **(B)** *Agency determination* Upon receipt of a notice described under clause (i), the OSDBU shall verify whether such lack of payment has occurred and determine whether such lack of payment is due to an undue restriction placed on the prime contractor by an action of the Federal agency.
-  >   - **(C)** *Cure period* If the OSDBU verifies the lack of payment under clause (ii) and determines that such lack of payment is not due to an action of the Federal agency, the OSDBU shall notify the prime contractor and provide the prime contractor with a 15-day period in which the primae contractor may make the payment owed to the subcontractor.
-  >   - **(D)** *Result of nonpayment* If, after notifying the prime contractor under clause (iii), the OSDBU determines that the prime contractor has not fully paid the amount owed within the 15-day cure period described under clause (iii), the OSDBU shall ensure that such failure to pay is reflected in the Contractor Performance Assessment Reporting system.
+  >   - **(A)** *Notice to agency* With respect to a contract with a Federal agency, a subcontractor of a prime contractor on such contract may, if the subcontractor has not received payment for work performed within 90 days of the completion of such work, notify the Office of Small and Disadvantaged Business Utilization (“OSDBU”) of the Federal agency and the prime contractor of such lack of payment, if such notice is provided to the agency within the 15-day period following the end of such 90 days.
+  >   - **(B)** *Agency determination*
+  >     - **(i)** *In general* Upon receipt of a notice described under subparagraph (A), the OSDBU shall verify whether such lack of payment has occurred and determine whether such lack of payment is due to an undue restriction placed on the prime contractor by an action of the Federal agency.
+  >     - **(ii)** *Response during determination* During the period in which the OSDBU is making the determination under clause (i), the prime contractor may respond to both the subcontractor and the OSDBU with relevant verifying documentation to either prove payment or allowable status of nonpayment.
+  >   - **(C)** *Cure period* If the OSDBU verifies the lack of payment under subparagraph (B) and determines that such lack of payment is not due to an action of the Federal agency, the OSDBU shall notify the prime contractor and provide the prime contractor with a 15-day period in which the prime contractor may make the payment owed to the subcontractor.
+  >   - **(D)** *Result of nonpayment* If, after notifying the prime contractor under subparagraph (C), the OSDBU determines that the prime contractor has not fully paid the amount owed within the 15-day cure period described under subparagraph (C), the OSDBU shall ensure that such failure to pay is reflected in the Contractor Performance Assessment Reporting system.
+
+## § 3. Maintenance of records with respect to credit under a subcontracting plan
+
+Section 8(d)(6) of the Small Business Act (15 U.S.C. 637(d)(6)) is amended—
+
+- **(1)** by redesignating subparagraphs (G) and (H) as subparagraphs (H) and (I), respectively; and
+- **(2)** by inserting after subparagraph (F) the following:
+  > - **(G)** a recitation of the types of records the successful offeror or bidder will maintain to demonstrate that procedures have been adopted to substantiate the credit the successful offeror or bidder will elect to receive under paragraph (16)(A)(i);
