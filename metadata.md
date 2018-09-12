@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4559
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4559
@@ -43,3 +43,7 @@ Global Aviation System Security Reform Act of 2017
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-497.
 - 2018-01-09 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-497.
 - 2018-01-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2018-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 572.
