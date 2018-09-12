@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6691
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6691
@@ -16,9 +16,10 @@ Community Safety and Security Act of 2018
 
 - Rep. Handel, Karen C. [R-GA-6] (H001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Community Safety and Security Act of 2018
 - 2018-09-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 152, 2 Present (Roll no. 393).(text: CR H7925-7926)
 - 2018-09-07 — Rule provides for consideration of H.R. 6691 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. Section 2 provides that at any time on the legislative day of September 13, 2018, it shall be in order for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV.
 - 2018-09-07 — The previous question was ordered pursuant to the rule.
+- 2018-09-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
