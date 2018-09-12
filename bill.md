@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1050
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,32 +17,29 @@ This Act may be cited as the “Chinese-American World War II Veteran Congressio
 
 Congress finds that—
 
-- **(1)** Chinese Americans served the United States in every conflict since the Civil War, and distinguished themselves in World War II, serving in every theater of battle and every branch of service, earning citations for their heroism and honorable service, including the Congressional Medal of Honor;
+- **(1)** Chinese Americans served the United States in every conflict since the Civil War, and distinguished themselves in World War II, serving in every theater of war and every branch of service, earning citations for their heroism and honorable service, including the Medal of Honor;
 - **(2)** Chinese nationals and Chinese Americans faced institutional discrimination in the United States since before World War II, limiting the size of their population and their ability to build thriving communities in the United States;
-- **(3)** the Act of May 5, 1892 (27 Stat. 25, chapter 60) (commonly known as the “Geary Act” or the “Chinese Exclusion Act”), was the first Federal law that broadly restricted immigration and a specific nationality, making it illegal for Chinese laborers to immigrate to the United States and limiting the Chinese population in the United States for over 60 years;
+- **(3)** the Act entitled “An Act to execute certain treaty stipulations relating to Chinese”, approved May 6, 1882 (commonly known as the “Chinese Exclusion Act of 1882”) (22 Stat. 58, chapter 126), was the first Federal law that broadly restricted immigration and a specific nationality, making it illegal for Chinese laborers to immigrate to the United States and limiting the Chinese population in the United States for over 60 years;
 - **(4)** major court decisions such as the decisions in Lum v. Rice, 275 U.S. 78 (1927), and People v. Hall, 4 Cal. 399 (1854), found “yellow” races to be equal to African Americans with regard to “separate but equal” school facilities, and prohibited Chinese Americans, along with “Black, mulatto, or Indian” persons, from testifying against White men;
-- **(5)** Chinese Americans were harassed, beaten, and murdered because of their ethnicity, including the Chinese Massacre of 1871, where 17 Chinese immigrants in Los Angeles, California, were tortured and murdered, the Rock Spring Massacre of 1885 where White rioters killed 28 Chinese miners and burned 75 of their homes in Rock Springs, Wyoming, and the Hells Canyon Massacre of 1887 where 34 Chinese gold miners were ambushed and murdered in Hells Canyon, Oregon;
+- **(5)** Chinese Americans were harassed, beaten, and murdered because of their ethnicity, including the Chinese Massacre of 1871, where 17 Chinese immigrants in Los Angeles, California, were tortured and murdered, the Rock Springs Massacre of 1885 where White rioters killed 28 Chinese miners and burned 75 of their homes in Rock Springs, Wyoming, and the Hells Canyon Massacre of 1887 where 34 Chinese gold miners were ambushed and murdered in Hells Canyon, Oregon;
 - **(6)** there were only 78,000 Chinese Americans living on the United States mainland, with 29,000 living in Hawaii, at the start of World War II as result of Federal and State legislation and judicial decisions;
 - **(7)** despite the anti-Chinese discrimination at the time, as many as 20,000 Chinese Americans served in the Armed Forces during World War II, of whom, approximately 40 percent were not United States citizens due to the laws that denied citizenship to persons of Chinese descent;
 - **(8)** Chinese Americans, although small in numbers, made important contributions to the World War II effort;
 - **(9)** of the total Chinese Americans serving, approximately 25 percent served in the United States Army Air Force, with some sent to the China-Burma-India Theater with the 14th Air Service Group;
 - **(10)** the remainder of Chinese Americans who served in World War II served in all branches of the Armed Forces in all 4 theaters of war;
-- **(11)** the first all Chinese-American group was the 14th Air Service Group, 859th Signal Corps in the China-Burma-India Theater which enabled extensive and effective operations against the Japanese military in China;
-- **(12)** Chinese Americans are widely acknowledged for their role in the 14th Air Force, 23rd Fighter Group, widely known as the Flying Tigers;
-- **(13)** the Flying Tigers eventually established United States air superiority in China and supported cargo flights from India to China over “The Hump”;
-- **(14)** Chinese Americans assigned to the China-Burma-India Theater made transoceanic journeys through hostile territories and were subject to enemy attack while at sea and in the air;
-- **(15)** in the Pacific Theater, Chinese Americans were in ground, air, and ocean combat and support roles throughout the Pacific including New Guinea, Guadalcanal, Solomon Islands, Iwo Jima, Okinawa, Philippines, Mariana Islands, and Aleutian Islands;
-- **(16)** throughout the Pacific and China-Burma-India theaters, Chinese Americans performed vital functions in translating, coordinating National Chinese and United States combat operations, servicing and repairing aircraft and armaments, training National Chinese troops and sailors, delivering medical care, providing signal and communication support, gathering and analyzing intelligence, participating in ground and air combat, and securing and delivering supplies;
-- **(17)** Chinese Americans also served in combat and support roles in the European and African theaters, serving in North Africa, Sicily, Italy, the Normandy D–Day invasion, which liberated Western Europe, and the Battle of the Bulge, occupying Western Germany while helping to liberate Central Europe;
-- **(18)** Chinese Americans flew bomber missions, served in infantry units and combat ships in the Battle of the Atlantic, including aboard Merchant Marines convoys vulnerable to submarine and air attacks;
-- **(19)** Chinese-American women left traditional domestic duties for patriotic service, serving as translators who interpreted Japanese documents containing military plans;
-- **(20)** many Chinese-American women served in the Women’s Army Corps, the Army Air Forces, and the United States Naval Reserve Women's Reserve, and some became pilots, air traffic controllers, flight trainers, weather forecasters, occupational therapists, and nurses;
-- **(21)** Captain Francis B. Wai is the only Chinese American who served in World War II to have been awarded a Congressional Medal of Honor, the highest military award given by the United States
-- **(22)** Captain Wai was posthumously awarded the Distinguished Service Medal in 1944, which was upgraded in 2000 to a Congressional Medal of Honor;
-- **(23)** Chinese Americans also earned Combat Infantry Badges, Purple Hearts, Bronze Stars, Silver Stars, Distinguished Service Medals, and Distinguished Flying Medals;
-- **(24)** units of the Armed Forces with Chinese Americans were also awarded unit citations for valor and bravery;
-- **(25)** the United States remains forever indebted to the bravery, valor, and dedication that the Chinese-American Veterans of World War II displayed; and
-- **(26)** the commitment and sacrifice of Chinese Americans demonstrates a highly uncommon and commendable sense of patriotism and honor in the face of discrimination.
+- **(11)** the first all Chinese-American group was the 14th Air Service Group in the China-Burma-India Theater which enabled extensive and effective operations against the Japanese military in China;
+- **(12)** Chinese Americans are widely acknowledged for their role in the 14th Air Force, widely known as the Flying Tigers;
+- **(13)** Chinese Americans assigned to the China-Burma-India Theater made transoceanic journeys through hostile territories and were subject to enemy attack while at sea and in the air;
+- **(14)** in the Pacific Theater, Chinese Americans were in ground, air, and ocean combat and support roles throughout the Pacific including New Guinea, Guadalcanal, Solomon Islands, Iwo Jima, Okinawa, Philippines, Mariana Islands, and Aleutian Islands;
+- **(15)** throughout the Pacific and China-Burma-India theaters, Chinese Americans performed vital functions in translating, coordinating Nationalist Chinese and United States combat operations, servicing and repairing aircraft and armaments, training Nationalist Chinese troops and sailors, delivering medical care, providing signal and communication support, gathering and analyzing intelligence, participating in ground and air combat, and securing and delivering supplies;
+- **(16)** Chinese Americans also served in combat and support roles in the European and African theaters, serving in North Africa, Sicily, Italy, the Normandy D–Day invasion, which liberated Western Europe, and the Battle of the Bulge, occupying Western Germany while helping to liberate Central Europe;
+- **(17)** Chinese Americans flew bomber missions, served in infantry units and combat ships in the Battle of the Atlantic, including aboard Merchant Marines convoys vulnerable to submarine and air attacks;
+- **(18)** many Chinese-American women served in the Women’s Army Corps, the Army Air Forces, and the United States Naval Reserve Women's Reserve, and some became pilots, air traffic controllers, flight trainers, weather forecasters, occupational therapists, and nurses;
+- **(19)** Captain Francis B. Wai is the only Chinese American who served in World War II to have been awarded the Medal of Honor, the highest military award given by the United States
+- **(20)** Chinese Americans also earned Combat Infantry Badges, Purple Hearts, Bronze Stars, Silver Stars, Distinguished Service Cross, and Distinguished Flying Cross;
+- **(21)** units of the Armed Forces with Chinese Americans were also awarded unit citations for valor and bravery;
+- **(22)** the United States remains forever indebted to the bravery, valor, and dedication that the Chinese-American Veterans of World War II displayed; and
+- **(23)** the commitment and sacrifice of Chinese Americans demonstrates a highly uncommon and commendable sense of patriotism and honor in the face of discrimination.
 
 ## § 3. Definitions
 
