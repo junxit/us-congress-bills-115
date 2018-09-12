@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6662
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6662
@@ -39,3 +39,10 @@ Empowering Seniors' Enrollment Decision Act of 2018
 - 2018-09-10 — Placed on the Union Calendar, Calendar No. 726.
 - 2018-09-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-935, Part I.
 - 2018-09-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-935, Part I.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8120-8121)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6662.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Paulsen moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8120-8121)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8120-8121)
+- 2018-09-12 — The title of the measure was amended. Agreed to without objection.
