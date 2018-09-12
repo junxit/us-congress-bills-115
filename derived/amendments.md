@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6662
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+9 amendatory instructions. 4 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,33 @@ to guess them.
 | Removed | `deemed elections` |
 | Inserted | `individuals enrolled in a reasonable cost reimbursement contract` |
 
+### 42 U.S.C. § 1395w-21
+
+> in clause (iii) by striking “subclause (III) of such section” and inserting “section 1876(h)(5)(C)(iv)(IV)”.
+
+| | |
+|---|---|
+| Removed | `subclause (III) of such section` |
+| Inserted | `section 1876(h)(5)(C)(iv)(IV)` |
+
+### 42 U.S.C. § 1395mm
+
+> in subclause (V), as so redesignated, by striking “subclause (III)” and inserting “subclause (IV)”; and
+
+| | |
+|---|---|
+| Removed | `subclause (III)` |
+| Inserted | `subclause (IV)` |
+
+### 42 U.S.C. § 1395mm
+
+> in clause (v), by striking “that is extended or renewed pursuant to clause (iv) provides the notice described in clause (iv)(III)” and inserting “that is not to be extended or renewed provides the notice described in clause (iv)(IV)”.
+
+| | |
+|---|---|
+| Removed | `that is extended or renewed pursuant to clause (iv) provides the notice described in clause (iv)(III)` |
+| Inserted | `that is not to be extended or renewed provides the notice described in clause (iv)(IV)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -43,3 +70,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1395w-21` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395mm` | strike | in subclause (I), by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395mm` | redesignate | by redesignating subclauses (I) through (V) as subclauses (II) through (VI), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395mm` | redesignate | by inserting before subclause (II), as so redesignated, the following subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
