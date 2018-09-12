@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4467
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4467
@@ -48,3 +48,7 @@ Strengthening Aviation Security Act of 2018
 - 2018-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 128).
 - 2018-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 128).
 - 2018-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.
+- 2018-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 571.
