@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5317
@@ -41,3 +41,9 @@ To repeal section 2141 of the Revised Statutes to remove the prohibition on cert
 - 2018-05-24 — Placed on the Union Calendar, Calendar No. 543.
 - 2018-05-24 — Reported by the Committee on Natural Resources. H. Rept. 115-703.
 - 2018-05-24 — Reported by the Committee on Natural Resources. H. Rept. 115-703.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8159-8160)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5317.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8159)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8159)
