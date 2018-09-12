@@ -1,7 +1,7 @@
 ---
 measure: S. 3029
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3029
@@ -16,7 +16,7 @@ PREEMIE Reauthorization Act of 2018
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (9)
+## Cosponsors (12)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Smith, Tina [D-MN] (S001203)
@@ -27,6 +27,9 @@ PREEMIE Reauthorization Act of 2018
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -40,3 +43,12 @@ PREEMIE Reauthorization Act of 2018
 - 2018-07-09 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-07-09 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
+- 2018-09-12 — Amendment SA 4016 agreed to in Senate by Unanimous Consent.
+- 2018-09-12 — Amendment SA 4016 proposed by Senator Flake for Senator Alexander. (consideration: CR S6154; text: CR S6154) To modify provisions relating to the interagency working group.
+- 2018-09-12 — Measure laid before Senate by unanimous consent. (consideration: CR S6153-6155)
+- 2018-09-12 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6154-6155)
+- 2018-09-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6154-6155)
+- 2018-09-12 — Senate amendment agreed to: Amendment SA 4016 agreed to in Senate by Unanimous Consent.
+- 2018-09-12 — Senate amendment proposed (on the floor): Amendment SA 4016 proposed by Senator Flake for Senator Alexander.(consideration: CR S6154; text: CR S6154)
+- 2018-09-12 — Senate amendment submitted
+- 2018-09-12 — The committee substitute as amended agreed to by Unanimous Consent.
