@@ -46,4 +46,3 @@ In this Act:
   - **(1)** specifies the amount of grant funds obligated or expended for the preceding fiscal year;
   - **(2)** specifies any purposes for which the funds were obligated or expended; and
   - **(3)** includes any other information that the Secretary may require to more effectively administer the grant program under this section.
-- **(h)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.

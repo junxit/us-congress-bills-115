@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6287
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6287
@@ -16,7 +16,7 @@ version: Reported in House
 
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 
-## Cosponsors (44)
+## Cosponsors (50)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -62,6 +62,12 @@ version: Reported in House
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Curbelo, Carlos [R-FL-26] (C001107)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
 ## Committees (1)
 
@@ -77,3 +83,9 @@ version: Reported in House
 - 2018-09-10 — Placed on the Union Calendar, Calendar No. 722.
 - 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-930.
 - 2018-09-10 — Reported by the Committee on Natural Resources. H. Rept. 115-930.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8136-8139)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6287.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8136-8137)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8136-8137)
