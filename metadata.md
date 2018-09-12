@@ -1,7 +1,7 @@
 ---
 measure: S. 2497
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2497
@@ -120,3 +120,10 @@ United States-Israel Security Assistance Authorization Act of 2018
 - 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-08-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8145-8150)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on S. 2497.
+- 2018-09-12 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8145-8146)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8145-8146)
