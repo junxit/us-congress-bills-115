@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6382
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6382
@@ -16,6 +16,12 @@ Clarity on Small Business Participation in Category Management Act of 2018
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 
+## Cosponsors (3)
+
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+
 ## Committees (1)
 
 - House — Small Business Committee
@@ -25,3 +31,8 @@ Clarity on Small Business Participation in Category Management Act of 2018
 - 2018-07-16 — Introduced in House
 - 2018-07-16 — Introduced in House
 - 2018-07-16 — Referred to the House Committee on Small Business.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended).
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 735.
+- 2018-09-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-944.
+- 2018-09-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-944.
