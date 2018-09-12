@@ -58,6 +58,8 @@ This Act may be cited as the “Expanding Contracting Opportunities for Small Bu
     >   - **(E)** the contracting officer has notified the Administration of the intent to make such award and requested that the Administration determine the concern’s eligibility for award; and
     >   - **(F)** the Administration has determined that such concern is eligible for award.
 
+- **(d)** *Elimination of the inclusion of option years in the award price for contracts* Section 8 of the Small Business Act (15 U.S.C. 637) is amended by striking “(including options)” each place such term appears.
+
 ## § 3. SBA certification program notification
 
 The Administrator of the Small Business Administration shall notify the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate when the Administrator has implemented each of the following:
@@ -74,3 +76,21 @@ The Administrator of the Small Business Administration shall notify the Committe
   - **(2)** *Report to Congress* After the review described under paragraph (1), the Administrator shall issue a report to the Congress—
     - **(A)** stating that no additional actions were necessary to address any concerns or recommendations contained in the report; or
     - **(B)** describing the actions taken by the Administrator to resolve such concerns or implement such recommendations.
+
+## § 5. Removal of eligibility determination upon implementation of certification programs
+
+Effective upon the notification described under section 3, the Small Business Act (15 U.S.C. 631 et seq.) is amended—
+
+- **(1)** in section 8(m)—
+  - **(A)** in paragraph (7)—
+    - **(i)** in subparagraph (C), by adding “and” at the end;
+    - **(ii)** in subparagraph (D), by striking the semicolon at the end and inserting a period; and
+    - **(iii)** by striking subparagraphs (E) and (F); and
+  - **(B)** in paragraph (8)—
+    - **(i)** in subparagraph (C), by adding “and” at the end;
+    - **(ii)** in subparagraph (D), by striking the semicolon at the end and inserting a period; and
+    - **(iii)** by striking subparagraphs (E) and (F); and
+- **(2)** in section 36(a)—
+  - **(A)** in paragraph (3), by adding “and” at the end;
+  - **(B)** in paragraph (4), by striking the semicolon at the end and inserting a period; and
+  - **(C)** by striking paragraphs (5) and (6).
