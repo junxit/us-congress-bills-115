@@ -1,43 +1,37 @@
 ---
 legis-num: H. RES. 401
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 401
 
-> Urging China, South Korea, Vietnam, Thailand, the Philippines, Indonesia, Cambodia, Laos, India, and all nations to outlaw the dog and cat meat trade and to enforce existing laws against the trade.
+> Resolution urging all nations to outlaw the dog and cat meat trade and to enforce existing laws against such trade.
 
 ## Preamble
 
-- Whereas Humane Society International, Animals Asia Foundation, and others estimate that 30,000,000 dogs and a great number of cats die annually across Asia for the dog and cat meat trade;
-- Whereas these organizations have exposed the extreme suffering of dogs and cats at slaughterhouses and on transportation trucks, suffering that would breach anti-cruelty laws in the United States and other countries and is an affront to public morality in all countries where it occurs;
-- Whereas Humane Society International, Animals Asia Foundation and Chinese media reports have found that a considerable number of the dogs and cats in the dog and cat meat trade are stolen pets still wearing collars when they reach the slaughterhouses, in addition to stray dogs and cats who are captured for slaughter;
-- Whereas many dogs and cats die during transport to slaughterhouses after days or weeks crammed into small cages on the back of vehicles, without food or water, and others suffer illness and injury during transport, such as broken bones;
-- Whereas Humane Society International and Animals Asia Foundation have found that dogs and cats who reach the slaughterhouses are typically killed with shocking brutality, without any regard for humane treatment, in South Korea, China, and other countries;
-- Whereas British, Chinese, Vietnamese, Filipino, and Indonesian scientists and government agencies have found that the dog and cat meat trade of capturing, transporting, slaughtering, and butchering of dogs and cats, and the consumption of dog and cat meat, poses health risks such as rabies infection to the traders, slaughterhouse workers, and consumers;
-- Whereas the World Health Organization reports that a majority of deaths caused by rabies infections happen in Asia and Africa, and the rabies virus is found in dogs traded for human consumption in the Philippines and other countries;
-- Whereas Chinese reports and court verdicts show that dog meat traders also sell meat from dogs and cats who have died of poisoning, contributing to the food safety risks;
-- Whereas the dog and cat meat trade breaches food safety laws and regulations of some of these countries, which have policies that include bans on processing or selling meat from animals who have died of illnesses or unknown causes;
-- Whereas China’s “one certificate for one dog policy”, introduced by China’s Ministry of Agriculture in a 2013 directive to prevent the transmission of animal diseases across provincial boundaries, is routinely flouted by dog transporters who are required to have a vaccination and quarantine certificate for each dog and cat shipped across provincial boundaries but rarely possess such paperwork, as many of the animals are reportedly stolen pets;
-- Whereas millions of citizens in these countries have expressed support for law-making and law enforcement against the dog and cat meat trade, such as the more than 8,600,000 Chinese people who have so far expressed their support in an online poll for a March 2016 legislative proposal to ban trade in both dog and cat meat, making the proposal the most popular of all 142 legislative proposals made available for online voting in China in 2016;
-- Whereas the majority of people in these countries do not consume dog or cat meat and dog and cat meat is not a part of mainstream Asian culinary practice, as demonstrated, for example, by a June 2016 poll commissioned by China's Beijing Animal Welfare Association, which found that 69.5 percent of Chinese surveyed had never eaten dog meat and that it was a very rare food choice for the remainder;
-- Whereas activists in such countries as China, South Korea, the Philippines, and Thailand have led public protests against the dog and cat meat trade, pulled over trucks crammed with dogs and cats on their way to slaughterhouses, and worked to rehabilitate, shelter, and adopt dogs and cats rescued from the trade;
-- Whereas Korea Animal Rights Advocates hosted the International Conference to End the Dog Meat Industry of Korea on August 5, 2016;
-- Whereas pet-keeping has risen in India, the Philippines, China, and other countries with a dog and cat meat trade, and opposition to the dog and cat meat trade has grown within those countries as pet-keeping encourages compassion for animals;
-- Whereas 11,000,000 people around the world have called upon the Government of China to end the annual Yulin dog meat festival and outlaw the dog meat trade; and
-- Whereas the practice of dog and cat meat consumption is greatest in but not limited to Asia, and occurs to a limited degree in other regions of the world: Now, therefore, be it
+- Whereas the consumption of dog meat has occurred in every corner of the world including in Asia;
+- Whereas established dog meat markets still exist in Asia;
+- Whereas the Humane Society International, Animals Asia Foundation, and others estimate that 30 million dogs and 10 million cats die annually across Asia for the trade in dog and cat meat;
+- Whereas it is estimated as many as 200,000 live dogs are trafficked each year from Thailand across the Mekong River to Vietnam, where dog meat is considered a delicacy;
+- Whereas cat meat, known locally as “little tiger”, is also a delicacy in Vietnam and, although officially banned, is widely available in specialty restaurants;
+- Whereas due to a traditional belief that high adrenaline levels produce tender meat and increase supposed health benefits, dogs killed for their meat may be first intentionally subjected to extreme fear and suffering through hanging or bludgeoning;
+- Whereas there appears to be little scientific evidence to support traditional claims of the health benefits of consuming dog meat;
+- Whereas there have been reports of abuse, poor living conditions, and cruel slaughtering techniques with respect to dogs and cats farmed for their meat;
+- Whereas many dogs and cats die during transport to slaughterhouses, after days or weeks crammed into small cages on the back of vehicles without food or water, and others suffer from illness or injury during such transport;
+- Whereas in February 2015, Vietnamese authorities impounded a truck in Hanoi smuggling 3 tons of live cats from China that were intended for the illegal cat meat trade, but then buried thousands of the seized cats—many, reportedly, while alive—claiming a desire to avoid the spread of disease;
+- Whereas the extreme suffering of dogs and cats at such slaughterhouses and on such transportation trucks would breach anti-cruelty laws in the United States, such as the Animal Welfare Act (7 U.S.C. 2131 et seq.) and the Humane Methods of Slaughter Act (7 U.S.C. 1901 et seq.);
+- Whereas many government officials, civil society advocates, and activists are working to end the dog and cat meat trade on anti-cruelty and public health grounds, and the governments of Singapore, Taiwan, and Hong Kong have passed laws banning the slaughter of dogs for meat consumption;
+- Whereas Chinese activists have claimed that stolen pets are sometimes used in the dog meat market in China;
+- Whereas Chinese dog transporters reportedly routinely flout regulations such as the Chinese Ministry of Agriculture Veterinary Bureau Circular No. 16 (2013), which requires dogs to be quarantined and issued a quarantine certificate before being transported across provincial boundaries;
+- Whereas the World Health Organization has linked the dog meat industry to human outbreaks of trichinellosis, cholera, and rabies, although consumption of dog meat alone has not been confirmed to spread rabies to humans;
+- Whereas those involved in the dog meat industry are at an increased health risk for zoonotic diseases, which can transfer from dogs to humans through infectious material such as saliva;
+- Whereas the spread of such diseases may be exacerbated by unsanitary conditions of slaughter and by the sale of dog meat at open-air markets and restaurants; and
+- Whereas Betsy Miranda, Asia Coordinator for the Global Alliance for Rabies Control, said in June 2013 that the spread of disease through the dog meat trade was “rampant” across Southeast Asia, and that “The risk that the animals are in poor health and not vaccinated is very high. If they move across borders they risk carrying the disease across large distances”: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** calls for an end to the dog and cat meat industry because it—
-  - **(A)** is responsible for extreme animal cruelty;
-  - **(B)** involves the theft of companion animals;
-  - **(C)** is opposed by many Asian people; and
-  - **(D)** poses food safety risks and threatens public health for citizens and international visitors in these countries;
-- **(2)** urges the Governments of China, South Korea, Vietnam, Thailand, the Philippines, Indonesia, Cambodia, Laos, India, and all other nations that have a dog or cat meat trade to adopt and enforce laws banning the dog and cat meat trade, as part of anti-cruelty laws or otherwise;
-- **(3)** urges the Governments of China, South Korea, Vietnam, Thailand, the Philippines, Indonesia, Cambodia, Laos, India, and all other nations to increase efforts to prevent any leather or fur byproducts of the dog and cat meat trade from entering international markets;
-- **(4)** encourages the Governments of China, South Korea, Vietnam, Thailand, the Philippines, Indonesia, Cambodia, Laos, India, and all other nations to use their food safety laws to crack down on the sale of dog and cat meat, a product that is outside most countries’ food safety regulatory mechanisms;
-- **(5)** affirms the commitment of the United States to the protection of animals and to advancing the progress of animal protection around the world; and
-- **(6)** urges executive branch officials to include the dog and cat meat trade on the agenda for discussion with the officials of countries that have a dog or cat meat industry.
+- **(1)** calls for an end to the dog and cat meat trade on cruelty and public health grounds;
+- **(2)** urges all nations to outlaw the dog and cat meat trade and enforce existing laws against such trade; and
+- **(3)** affirms the commitment of the United States to the protection of animals and to advancing the progress of animal protection around the world.
