@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 576
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 576
@@ -28,3 +28,7 @@ A resolution designating September 4, 2018, as "National Polycystic Kidney Disea
 
 - 2018-07-18 — Introduced in Senate
 - 2018-07-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5069)
+- 2018-09-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-09-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-09-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6153)
+- 2018-09-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6153)
