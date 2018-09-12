@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5059
 congress: 115
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 1467a` | insert | Section 10(a)(1) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a)(1)) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1467a` | insert | Section 10(b)(1) of the Home Owners’ Loan Act (12 U.S.C. 1467a(b)(1)) is amended by inserting at the end the following new sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1467a` | insert | Section 10(b)(1) of the Home Owners’ Loan Act (12 U.S.C. 1467a(b)(1)) is amended by inserting at the end the following new sentence: “A savings and loan holding company that is an insurance savings and loan holding company shall register… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1467a` | add-at-end | Section 10(b)(2) of the Home Owners’ Loan Act (12 U.S.C. 1467a(b)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1467a` | replace | by striking “Each” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1467a` | insert | by inserting at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
