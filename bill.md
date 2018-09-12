@@ -18,11 +18,12 @@ This Act may be cited as the “Clarity on Small Business Participation in Categ
 Section 15(h) of the Small Business Act (15 U.S.C. 644(h)) is amended by adding at the end the following:
 
 > - **(4)** *Best in class small business participation reporting*
->   - **(A)** *Addendum* The Administrator, in addition to the requirements under paragraph (1), shall include in the report required by such paragraph, for each best in class designation—
+>   - **(A)** *Addendum* The Administrator, in addition to the requirements under paragraph (2), shall include in the report required by such paragraph, for each best in class designation—
 >     - **(i)** the total amount of spending government wide in such designation;
->     - **(ii)** the dollar amount of contracts within such category awarded to each of the following—
+>     - **(ii)** the number of small business concerns awarded contracts and the dollar amount of contracts within such category awarded to each of the following—
 >       - **(I)** HUBZone small business concerns;
 >       - **(II)** small business concerns owned and controlled by women;
 >       - **(III)** small business concerns owned and controlled by service-disabled veterans; and
 >       - **(IV)** socially and economically disadvantaged small business concerns.
 >   - **(B)** *Best in class* The term “best in class” has the meaning given to it by the Director of the Office of Management and Budget.
+>   - **(C)** *Effective date* The Administrator shall be required to report on the information described by subparagraph (A) beginning on the date that such information is available in the Federal Procurement Data System, the System for Award Management, or any successor to such systems.
