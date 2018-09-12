@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3398
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3398
@@ -16,9 +16,13 @@ REAL ID Act Modification for Freely Associated States Act
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Hanabusa, Colleen [D-HI-1] (H001050)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
 ## Committees (1)
 
@@ -29,3 +33,8 @@ REAL ID Act Modification for Freely Associated States Act
 - 2017-07-25 — Introduced in House
 - 2017-07-25 — Introduced in House
 - 2017-07-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-02-06 — Committee Consideration and Mark-up Session Held.
+- 2018-02-06 — Ordered to be Reported by Voice Vote.
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 736.
+- 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-945.
+- 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-945.
