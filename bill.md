@@ -49,7 +49,7 @@ Section 2 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669a) is 
 - **(b)** *Apportionment of certain taxes* The first subsection (c) of section 4 of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c) is amended—
   - **(1)** by inserting “Apportionment of revenues from pistols, revolvers, bows, and arrows.—” after the enumerator;
   - **(2)** by striking “One-half” and inserting the following:
-    > - **(1)** *In general* Subject to paragraph (2), 1/2
+    > - **(1)** *In general* Subject to paragraph (2), ½
 
   - **(3)** by striking “: Provided, That” and inserting a period;
   - **(4)** by striking “each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues” and inserting the following:
