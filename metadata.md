@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6198
@@ -40,3 +40,9 @@ Countering Weapons of Mass Destruction Act of 2018
 - 2018-09-07 — Placed on the Union Calendar, Calendar No. 716.
 - 2018-09-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-923, Part I.
 - 2018-09-07 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-923, Part I.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8113-8117)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6198.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8113-8115)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8113-8115)
