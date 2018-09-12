@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4824
 
-> To allow certain State permitting authority to encourage expansion of broadband service to rural communities, and for other purposes.
+> To allow certain State and tribal permitting authority to encourage expansion of broadband service to rural and tribal communities, and for other purposes.
 
 ## § 1. Short title
 
@@ -73,12 +73,7 @@ In this Act:
   - **(2)** *Termination by the State or Indian Tribe* A State or Indian Tribe may terminate the participation of the State or Indian Tribe in the program established under this section at any time by providing to the Secretary concerned a notice of intent to terminate by not later than the date that is 90 days before the date of termination.
   - **(3)** *Termination of memorandum of understanding with State or Indian Tribe* A State or an Indian Tribe may terminate a joint memorandum of understanding under this section at any time by providing to the Secretary concerned a notice of intent to terminate by no later than the date that is 90 days before the date of termination.
 
-## § 4. Categorical exclusion for projects within operational rights-of-way
-
-- **(a)** *Categorical exclusion established* Broadband projects carried out in an operational right-of-way are a category of actions hereby designated as being categorically excluded from the preparation of an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
-- **(b)** *Availability of categorical exclusion* On and after the date of the enactment of this Act, the Secretary concerned may use the categorical exclusion established under subsection (a) in accordance with this section.
-
-## § 5. Federal broadband permit coordination
+## § 4. Federal broadband permit coordination
 
 - **(a)** *Establishment* The Secretary concerned shall establish a broadband permit streamlining team comprised of qualified staff under subsection (b)(4) in each State or regional office that has been delegated responsibility for issuing permits for broadband projects.
 - **(b)** *Memorandum of understanding*
