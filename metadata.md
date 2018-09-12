@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6316
@@ -29,3 +29,8 @@ Small Business Advocacy Improvements Act of 2018
 - 2018-07-06 — Introduced in House
 - 2018-07-06 — Introduced in House
 - 2018-07-06 — Referred to the House Committee on Small Business.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported.
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 729.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-938.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-938.
