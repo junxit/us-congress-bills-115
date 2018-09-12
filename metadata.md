@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4887
@@ -16,12 +16,15 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2018
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Cosponsors (4)
+## Cosponsors (7)
 
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
 ## Committees (1)
 
@@ -32,3 +35,8 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2018
 - 2018-01-29 — Introduced in House
 - 2018-01-29 — Introduced in House
 - 2018-01-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-02-06 — Committee Consideration and Mark-up Session Held.
+- 2018-02-06 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 738.
+- 2018-09-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-947.
+- 2018-09-12 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-947.
