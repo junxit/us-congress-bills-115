@@ -19,7 +19,7 @@ This Act may be cited as the “Rescuing Animals With Rewards Act of 2018” or 
   - **(1)** Wildlife trafficking is a major transnational crime that is estimated to generate over $10 billion a year in illegal profits and which is increasingly perpetrated by organized, sophisticated criminal enterprises, including known terrorist organizations.
   - **(2)** Wildlife trafficking not only threatens endangered species worldwide, but also jeopardizes local security, spreads disease, undermines rule of law, fuels corruption, and damages economic development.
   - **(3)** Combating wildlife trafficking requires a coordinated and sustained approach at the global, regional, national, and local levels.
-  - **(4)** Congress stated in the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016 that it is the policy of the United States to take immediate actions to stop the illegal global trade in wildlife and wildlife products and associated trans­na­tion­al organized crime.
+  - **(4)** Congress stated in the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016 that it is the policy of the United States to take immediate actions to stop the illegal global trade in wildlife and wildlife products and associated transnational organized crime.
 - **(b)** *Sense of Congress* It is the sense of Congress that the Department of State’s rewards program is a powerful tool in combating sophisticated international crime and that the Department of State and Federal law enforcement should work in concert to offer rewards that target wildlife traffickers.
 
 ## § 3. Rewards for justice
