@@ -38,8 +38,8 @@ In this Act:
   - **(1)** *In general* At the request of a student, the Secretaries shall issue a pass to the student, which allows access to Federal lands and waters for which access is subject to an entrance, standard amenity, or day use fee, free of charge for the student and—
     - **(A)** in the case of a per-vehicle fee area—
       - **(i)** any passengers accompanying the student in a private, noncommercial vehicle; or
-      - **(ii)** not more than 3 adults accompanying the student on bicycles; or
-    - **(B)** in the case of a per-person fee area, not more than 3 adults accompanying the student.
+      - **(ii)** not more than three adults accompanying the student on bicycles; or
+    - **(B)** in the case of a per-person fee area, not more than three adults accompanying the student.
   - **(2)** *Term* A pass described in paragraph (1) shall be effective during the period beginning on September 1 and ending on August 31 of the following year.
   - **(3)** *Presence of a student in grade four required* A pass described in paragraph (1) shall be effective only if the student to which the pass was issued is present at the point of entry to the applicable Federal land or water.
 - **(c)** *Other activities* In carrying out the program, the Secretaries—
@@ -52,4 +52,4 @@ In this Act:
   - **(1)** the implementation of the program;
   - **(2)** the number and geographical distribution of students who participated in the program; and
   - **(3)** the number of passes described in subsection (b)(1) that were distributed.
-- **(e)** *Sunset* The authorities provided in this Act, including the reporting requirement, shall expire on the date that is seven years after the date of enactment of this Act.
+- **(e)** *Sunset* The authorities provided in this Act, including the reporting requirement, shall expire on the date that is 7 years after the date of enactment of this Act.
