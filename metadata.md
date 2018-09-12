@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4323
@@ -53,3 +53,7 @@ Supporting Veterans in STEM Careers Act
 - 2017-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 693). (text: CR 12/18/2017 H10163)
 - 2017-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 693).(text: CR 12/18/2017 H10163)
 - 2017-12-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-09-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
+- 2018-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
+- 2018-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 570.
