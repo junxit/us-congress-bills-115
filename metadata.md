@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5923
@@ -33,3 +33,11 @@ Walnut Grove Land Exchange Act
 - 2018-09-07 — Placed on the Union Calendar, Calendar No. 715.
 - 2018-09-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-922.
 - 2018-09-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-922.
+- 2018-09-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-09-12 — Considered as unfinished business. (consideration: CR H8157)
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8129-8130)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5923.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394). (text: CR H8129)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394).(text: CR H8129)
