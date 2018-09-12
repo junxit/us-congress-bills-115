@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6411
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6411
@@ -16,9 +16,10 @@ FinCEN Improvement Act of 2018
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
 ## Committees (1)
 
@@ -29,3 +30,9 @@ FinCEN Improvement Act of 2018
 - 2018-07-17 — Introduced in House
 - 2018-07-17 — Introduced in House
 - 2018-07-17 — Referred to the House Committee on Financial Services.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8127-8128)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6411.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Rothfus moved to suspend the rules and pass the bill.
+- 2018-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8127)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8127)
