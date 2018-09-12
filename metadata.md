@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6348
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6348
@@ -30,3 +30,8 @@ Small Business ACE Act
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Referred to the House Committee on Small Business.
 - 2018-07-12 — Sponsor introductory remarks on measure. (CR H6118-6119)
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported.
+- 2018-09-12 — Placed on the Union Calendar, Calendar No. 732.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-941.
+- 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-941.
