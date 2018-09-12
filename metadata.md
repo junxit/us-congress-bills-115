@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 46
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 46
@@ -24,3 +24,8 @@ A concurrent resolution directing the Clerk of the House of Representatives to m
 - 2018-09-12 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6147; text: CR S6147)
 - 2018-09-12 — Received in the House.
 - 2018-09-12 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6147; text: CR S6147)
+- 2018-09-13 — Considered by unanimous consent. (consideration: CR H8245)
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Frelinghuysen asked unanimous consent to take from the Speaker's table and consider.
+- 2018-09-13 — On agreeing to the resolution Agreed to without objection. (text: CR H8245)
+- 2018-09-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8245)
