@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6040
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6040
@@ -38,3 +38,9 @@ Contra Costa Canal Transfer Act
 - 2018-08-31 — Placed on the Union Calendar, Calendar No. 707.
 - 2018-08-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-911.
 - 2018-08-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-911.
+- 2018-09-12 — Considered under suspension of the rules. (consideration: CR H8160-8162)
+- 2018-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6040.
+- 2018-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
+- 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8160-8161)
+- 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8160-8161)
