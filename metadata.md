@@ -1,7 +1,7 @@
 ---
 measure: S. 3021
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 3021
@@ -39,3 +39,10 @@ America's Water Infrastructure Act of 2018
 - 2018-09-05 — Received in the House.
 - 2018-09-05 — Referred to the House Committee on Transportation and Infrastructure.
 - 2018-09-05 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2018-09-13 — Considered under suspension of the rules. (consideration: CR H8184-8228)
+- 2018-09-13 — DEBATE - The House proceeded with forty minutes of debate on S. 3021.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Shuster moved to suspend the rules and pass the bill, as amended.
+- 2018-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8185-8221)
+- 2018-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8185-8221)
+- 2018-09-13 — The title of the measure was amended. Agreed to without objection.
