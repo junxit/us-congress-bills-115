@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6227
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6227
@@ -16,7 +16,7 @@ National Quantum Initiative Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (31)
+## Cosponsors (36)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
@@ -49,6 +49,11 @@ National Quantum Initiative Act
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Cartwright, Matt [D-PA-17] (C001090)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
 
 ## Committees (1)
 
@@ -59,3 +64,14 @@ National Quantum Initiative Act
 - 2018-06-26 — Introduced in House
 - 2018-06-26 — Introduced in House
 - 2018-06-26 — Referred to the House Committee on Science, Space, and Technology.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-13 — Considered under suspension of the rules. (consideration: CR H8229-8234)
+- 2018-09-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6227.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2018-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8229-8231)
+- 2018-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8229-8231)
+- 2018-09-13 — Placed on the Union Calendar, Calendar No. 740.
+- 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
+- 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
