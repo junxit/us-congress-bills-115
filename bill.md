@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6793
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6793
+
+> To transfer a bridge over the Wabash River to the States of Illinois and Indiana, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restore the Harmony Way Bridge Act”.
+
+## § 2. Transfer of bridge and land
+
+The Act approved April 12, 1941 (Public Law 77–37; 55 Stat. 140–144) is amended—
+
+- **(1)** in section 7—
+  - **(A)** by striking “After payment” and all that follows through the first instance of “for that purpose,” and inserting “Not later than 90 days after the date of enactment of the Restore the Harmony Way Bridge Act,”; and
+  - **(B)** by striking “be free of tolls and”; and
+- **(2)** by striking “Federal Works Administrator” and “Commissioner of Public Roads” each place in which either appears and inserting “Administrator of the Federal Highway Administration”.
