@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1059
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1059
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 3798) to amend the Internal Revenu
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2018-09-12 — Introduced in House
@@ -23,3 +27,9 @@ Providing for consideration of the bill (H.R. 3798) to amend the Internal Revenu
 - 2018-09-12 — Providing for consideration of H.R. 3798 and the conference report to accompany H.R. 5895. Both shall be debatable for one hour and are granted one motion to recommit with or without instructions.
 - 2018-09-12 — The House Committee on Rules reported an original measure, H. Rept. 115-949, by Mr. Sessions.
 - 2018-09-12 — The House Committee on Rules reported an original measure, H. Rept. 115-949, by Mr. Sessions.
+- 2018-09-13 — Considered as privileged matter. (consideration: CR H8181-8184)
+- 2018-09-13 — DEBATE - The House proceeded with one hour of debate on H. Res. 1059.
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 171 (Roll no. 397). (text: CR H8181)
+- 2018-09-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 171 (Roll no. 397).(text: CR H8181)
+- 2018-09-13 — The previous question was ordered without objection.
