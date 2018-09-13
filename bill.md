@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 1063
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1063
+
+> Designating room H–226 of the United States Capitol as the “Lincoln Room”.
+
+## Preamble
+
+- Whereas Abraham Lincoln was elected to the House of Representatives in 1846 to represent the 7th Congressional District of Illinois in the Thirtieth Congress from March 1847 to March 1849;
+- Whereas Abraham Lincoln served the people for 15 years as a State Legislator, Member of Congress, and President of the United States;
+- Whereas Abraham Lincoln was a member of the Illinois General Assembly for four terms and was respected as an effective leader of his party and a popular campaigner;
+- Whereas during Congressman Lincoln’s tenure, the room now designated as room H–226 of the United States Capitol was used as the post office of the House, where he spent almost every morning exchanging stories near the fireplace;
+- Whereas the old post office space was just steps away from Congressman Lincoln’s desk, where he worked and voted and is now marked by a gold plaque on the floor of Statuary Hall;
+- Whereas Congressman Lincoln was known to be the champion story-teller of the Capitol, having an endless repertoire of tales;
+- Whereas Abraham Lincoln was one of America’s greatest presidents, whose life was a story of adversity, perseverance, and leadership; and
+- Whereas when the United States was at its darkest hour, Abraham Lincoln fought to end slavery and brought the country back together: Now, therefore, be it
+
+That room H–226 of the United States Capitol is designated as the “Lincoln Room”.
