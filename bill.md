@@ -1,12 +1,15 @@
 ---
 legis-num: S. 3021
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3021
 
-That the bill from the Senate (S. 3021) entitled “An Act to designate the United States courthouse located at 300 South Fourth Street in Minneapolis, Minnesota, as the “Diana E. Murphy United States Courthouse”.”, do pass with the following
+> To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, to provide for water pollution control activities, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as “America’s Water Infrastructure Act of 2018”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
