@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6020
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6020
@@ -40,3 +40,12 @@ To designate the facility of the United States Postal Service located at 325 Sou
 - 2018-06-06 — Introduced in House
 - 2018-06-06 — Introduced in House
 - 2018-06-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-07-17 — Committee Consideration and Mark-up Session Held.
+- 2018-07-17 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-13 — Committee on Oversight and Government discharged.
+- 2018-09-13 — Committee on Oversight and Government discharged.
+- 2018-09-13 — Considered by unanimous consent. (consideration: CR H8248)
+- 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-13 — Mr. Russell asked unanimous consent to discharge from committee and consider.
+- 2018-09-13 — On passage Passed without objection. (text: CR H8248)
+- 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8248)
