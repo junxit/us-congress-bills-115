@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1911
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Special Envoy to Monitor and Combat Anti-Semitism Act of 2017”.
+This Act may be cited as the “Special Envoy to Monitor and Combat Anti-Semitism Act of 2018”.
 
 ## § 2. Finding
 
@@ -19,18 +19,22 @@ Congress finds that since the Global Anti-Semitism Review Act of 2004 was enacte
 
 ## § 3. Monitoring and Combating anti-Semitism
 
-Subsection (a) of section 59 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2731) is amended—
+- **(a)** *In general* Subsection (a) of section 59 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2731) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** in subparagraph (A)—
+      - **(i)** by inserting before the period at the end the following: “, who shall be appointed by the President, by and with the advice and consent of the Senate”; and
+      - **(ii)** by adding at the end the following new sentence: “The Special Envoy shall report directly to the Secretary.”; and
+    - **(B)** in subparagraph (B)—
+      - **(i)** in the heading, but striking “Appointment” and inserting “Nomination”;
+      - **(ii)** by striking the first sentence;
+      - **(iii)** in the second sentence, by striking “If the Secretary determines that such is appropriate, the Secretary may appoint” and inserting “If the President determines that such is appropriate, the President may nominate”; and
+      - **(iv)** in the third sentence, by striking “The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position) held by such officer or employee prior to the appointment” and inserting “Such officer or employee may not retain the position (or the responsibilities associated with such position) held by such officer or employee prior to the nomination”; and
+  - **(2)** by adding at the end the following new paragraphs:
+    > - **(3)** *Duties* The Special Envoy shall serve as the primary advisor to, and coordinate efforts across, the United States Government relating to monitoring and combating anti-Semitism and anti-Semitic incitement that occur in foreign countries.
+    > - **(4)** *Rank and status of ambassador* The Special Envoy shall have the rank of ambassador.
+    > - **(5)** *Qualifications* The Special Envoy should be a person of recognized distinction in the field of—
+    >   - **(A)** combating anti-Semitism;
+    >   - **(B)** religious freedom; or
+    >   - **(C)** law enforcement.
 
-- **(1)** in paragraph (2)—
-  - **(A)** in subparagraph (A)—
-    - **(i)** by inserting before the period at the end the following: “, who shall be appointed by the President, by and with the advice and consent of the Senate”; and
-    - **(ii)** by adding at the end the following new sentence: “The Special Envoy shall report directly to the Secretary.”; and
-  - **(B)** in subparagraph (B)—
-    - **(i)** by striking the first sentence; and
-    - **(ii)** in the third sentence, by striking “The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position)” and inserting “Such officer or employee may not retain the position (or the responsibilities associated with such position)”; and
-- **(2)** by adding at the end the following new paragraphs:
-  > - **(3)** *Duties* The Special Envoy shall serve as the primary advisor to, and coordinate efforts across, the United States Government relating to monitoring and combating anti-Semitism and anti-Semitic incitement that occur in foreign countries.
-  > - **(4)** *Rank and status of ambassador* The Special Envoy shall have the rank of ambassador.
-  > - **(5)** *Qualifications* The Special Envoy should be a person of recognized distinction in the field of—
-  >   - **(A)** combating anti-Semitism; or
-  >   - **(B)** religious freedom.
+- **(b)** *Nomination* Not later than 90 days after the date of the enactment of this Act, and not later than 120 after any such position becomes vacant, the President shall nominate the Special Envoy for Monitoring and Combating anti-Semitism under section 59 of the State Department Basic Authorities Act of 1956, as amended by subsection (a) of this section.
