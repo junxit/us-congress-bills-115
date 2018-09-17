@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5923
@@ -43,3 +43,14 @@ Walnut Grove Land Exchange Act
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394). (text: CR H8129)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394).(text: CR H8129)
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2018-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S7897)
+- 2018-12-19 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S7897)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-361.
+- 2018-12-21 — Became Public Law No: 115-361.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.

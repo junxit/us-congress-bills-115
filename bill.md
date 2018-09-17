@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5923
-congress: 115th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5923
@@ -18,7 +18,7 @@ This Act may be cited as the “Walnut Grove Land Exchange Act”.
 In this Act:
 
 - **(1)** *Church* The term Church means the Walnut Grove Church in Garland County, Arkansas.
-- **(2)** *Offered Tract* The term Offered Tract means all right, title, and interest of the Church in and to approximately 6.3 acres of non-Federal land identified as “Offered Tract 5742”on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest map (printed date May 11, 2017).
+- **(2)** *Offered Tract* The term Offered Tract means all right, title, and interest of the Church in and to approximately 6.3 acres of non-Federal land identified as “Offered Tract 5742” on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest map (printed date May 11, 2017).
 - **(3)** *Secretary* The term Secretary means the Secretary of Agriculture.
 - **(4)** *Selected Tract* The term Selected Tract means all right, title, and interest of the United States in and to approximately 4 acres identified as “Selected Tract 5743” on the Detail Map of the Walnut Grove Exchange, Ouachita National Forest map (printed date May 11, 2017), subject to the reservation of a road easement by the Secretary.
 
@@ -40,7 +40,7 @@ In this Act:
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
 - **(e)** *Format* Title and valuation to the land to be exchanged under this Act shall be in a format acceptable to the Secretary and the Church.
-- **(f)** *Map and legal descriptions* —
+- **(f)** *Map and legal descriptions*
   - **(1)** *In general* As soon as practicable after the date of the enactment of this Act, the Secretary shall finalize a map and legal descriptions of all land to be conveyed under this Act.
   - **(2)** *Corrections* The Secretary may correct any minor errors in the map or in the legal descriptions.
   - **(3)** *Map on file* The map and legal descriptions shall be on file and available for public inspection in appropriate offices of the United States Forest Service.
