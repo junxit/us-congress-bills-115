@@ -1,7 +1,7 @@
 ---
 measure: S. 2554
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2554
@@ -65,3 +65,18 @@ Patient Right to Know Drug Prices Act
 - 2018-09-17 — Roll call votes on amendments in Senate: Amendment SA 4011 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 208.
 - 2018-09-17 — Senate amendment not agreed to: Amendment SA 4011 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 208.
 - 2018-09-17 — Senate amendment proposed (on the floor): Amendment SA 4011 proposed by Senator Alexander for Senator Lee.(consideration: CR S6179; text: CR S6179)
+- 2018-09-18 — Message on Senate action sent to the House.
+- 2018-09-20 — Held at the desk.
+- 2018-09-20 — Received in the House.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8795-8799)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 2554.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Carter (GA) moved to suspend the rules and pass the bill.
+- 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8795-8796)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8795-8796)
+- 2018-10-01 — Presented to President.
+- 2018-10-01 — Presented to President.
+- 2018-10-10 — Became Public Law No: 115-263.
+- 2018-10-10 — Became Public Law No: 115-263.
+- 2018-10-10 — Signed by President.
+- 2018-10-10 — Signed by President.
