@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6561
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6561
@@ -29,10 +29,11 @@ Comprehensive Care for Seniors Act of 2018
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Comprehensive Care for Seniors Act of 2018
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8121-8122)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8121-8122)
 - 2018-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
