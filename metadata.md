@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6040
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6040
@@ -21,9 +21,10 @@ Contra Costa Canal Transfer Act
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Contra Costa Canal Transfer Act
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8160-8161)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8160-8161)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
