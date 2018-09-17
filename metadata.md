@@ -1,7 +1,7 @@
 ---
 measure: S. 3029
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3029
@@ -56,3 +56,17 @@ PREEMIE Reauthorization Act of 2018
 - 2018-09-17 — Message on Senate action sent to the House.
 - 2018-09-17 — Received in the House.
 - 2018-09-17 — Referred to the House Committee on Energy and Commerce.
+- 2018-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-11 — Considered as unfinished business. (consideration: CR H10083-10084)
+- 2018-12-11 — Considered under suspension of the rules. (consideration: CR H10054-10057)
+- 2018-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 3029.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2018-12-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 429). (text: CR H10054-10055)
+- 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 429).(text: CR H10054-10055)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-18 — Became Public Law No: 115-328.
+- 2018-12-18 — Became Public Law No: 115-328.
+- 2018-12-18 — Signed by President.
+- 2018-12-18 — Signed by President.
