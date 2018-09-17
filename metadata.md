@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6690
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6690
@@ -24,10 +24,11 @@ Fighting Fraud to Protect Care for Seniors Act of 2018
 - Rep. Shimkus, John [R-IL-15] (S000364)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Fighting Fraud to Protect Care for Seniors Act of 2018
 - 2018-09-12 — Mr. Roskam moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8118-8119)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8118-8119)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
