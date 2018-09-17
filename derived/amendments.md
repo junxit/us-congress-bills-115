@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,555 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-252 amendatory instructions. 60 executed, 192 stated and not applied.
+246 amendatory instructions. 0 executed, 246 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 42 U.S.C. § 1396a
-
-> in item (bb), by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”;
-
-| | |
-|---|---|
-| Removed | `are not described in or enrolled under` |
-| Inserted | `are not described in and are not enrolled under` |
-
-### 42 U.S.C. § 1396a
-
-> in item (cc), by striking “responsibility of the State” and inserting “responsibility of a State”; and
-
-| | |
-|---|---|
-| Removed | `responsibility of the State` |
-| Inserted | `responsibility of a State` |
-
-### 42 U.S.C. § 1396a
-
-> in item (dd), by striking “the State plan under this title or under a waiver of the” and inserting “a State plan under this title or under a waiver of such a”.
-
-| | |
-|---|---|
-| Removed | `the State plan under this title or under a waiver of the` |
-| Inserted | `a State plan under this title or under a waiver of such a` |
-
-### 42 U.S.C. § 1396r-8
-
-> by striking “of section 1903(i)(10)(B)” and inserting “of section 1902(a)(54)”;
-
-| | |
-|---|---|
-| Removed | `of section 1903(i)(10)(B)` |
-| Inserted | `of section 1902(a)(54)` |
-
-### 42 U.S.C. § 1396r-8
-
-> by striking “or inappropriate or medically unnecessary care” and inserting “inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization”; and
-
-| | |
-|---|---|
-| Removed | `or inappropriate or medically unnecessary care` |
-| Inserted | `inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization` |
-
-### 42 U.S.C. § 1396r-8
-
-> by striking “or inappropriate or medically unnecessary care” and inserting “inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization”.
-
-| | |
-|---|---|
-| Removed | `or inappropriate or medically unnecessary care` |
-| Inserted | `inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization` |
-
-### 42 U.S.C. § 1396a
-
-> Section 1902(a)(10)(A) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)) is amended, in the matter preceding clause (i), by striking “and (28)” and inserting “(28), and (29)”.
-
-| | |
-|---|---|
-| Removed | `and (28)` |
-| Inserted | `(28), and (29)` |
-
-### 42 U.S.C. § 1395l
-
-> by striking “and (BB)” and inserting “(BB)”; and
-
-| | |
-|---|---|
-| Removed | `and (BB)` |
-| Inserted | `(BB)` |
-
-### 42 U.S.C. § 262
-
-> in the heading of part F, by striking “and clinical laboratories” and inserting “, clinical laboratories, and public health laboratories”; and
-
-| | |
-|---|---|
-| Removed | `and clinical laboratories` |
-| Inserted | `, clinical laboratories, and public health laboratories` |
-
-### 21 U.S.C. § 823
-
-> Section 303(g)(2)(G)(iv) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(G)(iv)) is amended by striking “nurse practitioner or physician assistant” each place it appears and inserting “nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant”.
-
-| | |
-|---|---|
-| Removed | `nurse practitioner or physician assistant` |
-| Inserted | `nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant` |
-
-### 42 U.S.C. § 1320b-9b
-
-> by striking “the such plan” and inserting “such plan”; and
-
-| | |
-|---|---|
-| Removed | `the such plan` |
-| Inserted | `such plan` |
-
-### 42 U.S.C. § 1320b-9b
-
-> by striking “subsection (a)(5)” and inserting “subsection (b)(5) and, beginning with the report for 2024, all behavioral health measures included in the core set of adult health quality measures maintained under such subsection (b)(5) and any updates or changes to such measures (as required under subsection (b)(3))”.
-
-| | |
-|---|---|
-| Removed | `subsection (a)(5)` |
-| Inserted | `subsection (b)(5) and, beginning with the report for 2024, all behavioral health measures included in the core set of adult health quality measures maintained under such subsection (b)(5) and any updates or changes to such measures (as required under subsection (b)(3))` |
-
-### 42 U.S.C. § 1397cc
-
-> Section 2103(a) of the Social Security Act (42 U.S.C. 1397cc(a)) is amended, in the matter before paragraph (1), by striking “paragraphs (5), (6), and (7)” and inserting “paragraphs (5), (6), (7), and (8)”.
-
-| | |
-|---|---|
-| Removed | `paragraphs (5), (6), and (7)` |
-| Inserted | `paragraphs (5), (6), (7), and (8)` |
-
-### 42 U.S.C. § 1397jj
-
-> in paragraph (18), by striking “substance abuse” each place it appears and inserting “substance use”; and
-
-| | |
-|---|---|
-| Removed | `substance abuse` |
-| Inserted | `substance use` |
-
-### 42 U.S.C. § 1397jj
-
-> in paragraph (19), by striking “substance abuse” and inserting “substance use”.
-
-| | |
-|---|---|
-| Removed | `substance abuse` |
-| Inserted | `substance use` |
-
-### 42 U.S.C. § 1397jj
-
-> Section 2110(b)(5)(A)(i) of the Social Security Act (42 U.S.C. 1397jj(b)(5)(A)(i)) is amended by striking “subsection (c)(5)” and inserting “subsection (c)(6)”.
-
-| | |
-|---|---|
-| Removed | `subsection (c)(5)` |
-| Inserted | `subsection (c)(6)` |
-
-### 42 U.S.C. § 1397bb
-
-> Section 2102(a)(7)(B) of the Social Security Act (42 U.S.C. 1397bb(c)(2)) is amended by striking “section 2103(c)(5)” and inserting “paragraphs (5) and (6) of section 2103(c)”.
-
-| | |
-|---|---|
-| Removed | `section 2103(c)(5)` |
-| Inserted | `paragraphs (5) and (6) of section 2103(c)` |
-
-### 21 U.S.C. § 381
-
-> The sixth sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “except that the Secretary” and all that follows through the two periods at the end and inserting “except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is declared to be valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 498(a)(1) of the Tariff Act of 1930 or such higher amount as the Commissioner of Food and Drugs may set based on a finding by the Commissioner that the higher amount is in the interest of public health), or if such drug is entering the United States by mail, and was not brought into compliance as described under subsection (b).”.
-
-| | |
-|---|---|
-| Removed | `except that the Secretary` |
-| Inserted | `except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is declared to be valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 498(a)(1) of the Tariff Act of 1930 or such higher amount as the Commissioner of Food and Drugs may set based on a finding by the Commissioner that the higher amount is in the interest of public health), or if such drug is entering the United States by mail, and was not brought into compliance as described under subsection (b).` |
-
-### 21 U.S.C. § 381
-
-> by striking “a drug” each place it appears and inserting “an article”; and
-
-| | |
-|---|---|
-| Removed | `a drug` |
-| Inserted | `an article` |
-
-### 21 U.S.C. § 381
-
-> by striking “the drug” each place it appears and inserting “the article”.
-
-| | |
-|---|---|
-| Removed | `the drug` |
-| Inserted | `the article` |
-
-### 21 U.S.C. § 355
-
-> by striking “or (7)” and inserting “(7)”; and
-
-| | |
-|---|---|
-| Removed | `or (7)` |
-| Inserted | `(7)` |
-
-### 21 U.S.C. § 355
-
-> in the second sentence, by striking “(6)” and inserting “(8)”.
-
-| | |
-|---|---|
-| Removed | `(6)` |
-| Inserted | `(8)` |
-
-### 21 U.S.C. § 355
-
-> by striking “or (5)” and inserting “(5)”; and
-
-| | |
-|---|---|
-| Removed | `or (5)` |
-| Inserted | `(5)` |
-
-### 21 U.S.C. § 831
-
-> Section 311(h)(2) of the Controlled Substances Act (21 U.S.C. 831(h)(2)) is amended by striking “The Attorney General shall, with the concurrence of the Secretary, promulgate regulations” and inserting “Not later than 1 year after the date of enactment of the Special Registration for Telemedicine Clarification Act of 2018, the Attorney General shall, with the concurrence of the Secretary, promulgate interim final regulations”.
-
-| | |
-|---|---|
-| Removed | `The Attorney General shall, with the concurrence of the Secretary, promulgate regulations` |
-| Inserted | `Not later than 1 year after the date of enactment of the Special Registration for Telemedicine Clarification Act of 2018, the Attorney General shall, with the concurrence of the Secretary, promulgate interim final regulations` |
-
-### 42 U.S.C. § 290ee-2
-
-> in the heading, by striking “Definition” and inserting “Definitions”;
-
-| | |
-|---|---|
-| Removed | `Definition` |
-| Inserted | `Definitions` |
-
-### 42 U.S.C. § 290ee-2
-
-> in the matter preceding paragraph (1), by striking “In this section, the term recovery community organization means an independent nonprofit organization that—” and inserting “In this section:”;
-
-| | |
-|---|---|
-| Removed | `In this section, the term recovery community organization means an independent nonprofit organization that—` |
-| Inserted | `In this section:` |
-
-### 42 U.S.C. § 290ee-2
-
-> by striking “services.” and inserting “services and allow such organizations to use such grant funds to carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and”; and
-
-| | |
-|---|---|
-| Removed | `services.` |
-| Inserted | `services and allow such organizations to use such grant funds to carry out the activities described in subparagraphs (A) through (C) of subsection (c)(2); and` |
-
-### 42 U.S.C. § 290ee-2
-
-> in paragraph (1), by striking “shall be used” and inserting “to a recovery community organization shall be used”;
-
-| | |
-|---|---|
-| Removed | `shall be used` |
-| Inserted | `to a recovery community organization shall be used` |
-
-### 21 U.S.C. § 381
-
-> The first sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “and cosmetics” and inserting “cosmetics, and potential articles of concern (as defined in subsection (u))”.
-
-| | |
-|---|---|
-| Removed | `and cosmetics` |
-| Inserted | `cosmetics, and potential articles of concern (as defined in subsection (u))` |
-
-### 21 U.S.C. § 381
-
-> The third sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended by striking “then such article shall be refused admission” and inserting “or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article shall be refused admission”.
-
-| | |
-|---|---|
-| Removed | `then such article shall be refused admission` |
-| Inserted | `or (5) such article is an article of concern (as defined in subsection (u)), or (6) such article is a drug that is being imported or offered for import in violation of section 301(cc), then such article shall be refused admission` |
-
-### 21 U.S.C. § 335a
-
-> in the matter preceding subparagraph (A), by striking “paragraph (2)” and inserting “paragraph (2) or (3)”;
-
-| | |
-|---|---|
-| Removed | `paragraph (2)` |
-| Inserted | `paragraph (2) or (3)` |
-
-### 21 U.S.C. § 355
-
-> by striking “safety information” and inserting “new safety information or new effectiveness information such”; and
-
-| | |
-|---|---|
-| Removed | `safety information` |
-| Inserted | `new safety information or new effectiveness information such` |
-
-### 21 U.S.C. § 355
-
-> by striking “believes should be” and inserting “believes changes should be made to”;
-
-| | |
-|---|---|
-| Removed | `believes should be` |
-| Inserted | `believes changes should be made to` |
-
-### 19 U.S.C. § 2071
-
-> Section 343 of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended in the section heading by striking “advanced” and inserting “advance”.
-
-| | |
-|---|---|
-| Removed | `advanced` |
-| Inserted | `advance` |
-
-### 34 U.S.C. § 10261
-
-> Section 1001(a)(27) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(27)) is amended by striking “through 2021” and inserting “and 2018, and $330,000,000 for each of fiscal years 2019 through 2023”.
-
-| | |
-|---|---|
-| Removed | `through 2021` |
-| Inserted | `and 2018, and $330,000,000 for each of fiscal years 2019 through 2023` |
-
-### 21 U.S.C. § 812
-
-> in subsection (a), by striking “five schedules of controlled substances, to be known as schedules I, II, III, IV, and V” and inserting “six schedules of controlled substances, to be known as schedules I, II, III, IV, V, and A”;
-
-| | |
-|---|---|
-| Removed | `five schedules of controlled substances, to be known as schedules I, II, III, IV, and V` |
-| Inserted | `six schedules of controlled substances, to be known as schedules I, II, III, IV, V, and A` |
-
-### 21 U.S.C. § 812
-
-> in subsection (c), in the matter preceding schedule I, by striking “IV, and V” and inserting “IV, V, and A”.
-
-| | |
-|---|---|
-| Removed | `IV, and V` |
-| Inserted | `IV, V, and A` |
-
-### 21 U.S.C. § 823
-
-> by striking “subsections (a) and (b)” and inserting “subsection (a), (b), (k), or (l)”; and
-
-| | |
-|---|---|
-| Removed | `subsections (a) and (b)` |
-| Inserted | `subsection (a), (b), (k), or (l)` |
-
-### 21 U.S.C. § 823
-
-> by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (a), in the first sentence, by striking “schedules I and II” and inserting “schedules I, II, and A”;
-
-| | |
-|---|---|
-| Removed | `schedules I and II` |
-| Inserted | `schedules I, II, and A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (b), in the second sentence, by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (c), in the first sentence, by striking “schedules I and II” and inserting “schedules I, II, and A”;
-
-| | |
-|---|---|
-| Removed | `schedules I and II` |
-| Inserted | `schedules I, II, and A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (d), in the first sentence, by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (e), in the first sentence, by striking “schedule I or II” and inserting “schedule I, II, or A”; and
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 826
-
-> in subsection (f), in the first sentence, by striking “schedules I and II” and inserting “schedules I, II, and A”;
-
-| | |
-|---|---|
-| Removed | `schedules I and II` |
-| Inserted | `schedules I, II, and A` |
-
-### 21 U.S.C. § 828
-
-> in section 308(a) (21 U.S.C. 828(a)), by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 842
-
-> in section 402(b) (21 U.S.C. 842(b)), in the matter preceding paragraph (1), by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 843
-
-> in section 403(a)(1) (21 U.S.C. 843(a)(1)), by striking “schedule I or II” and inserting “schedule I, II, or A”; and
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 881
-
-> in section 511(f) (21 U.S.C. 881(f)), by striking “schedule I or II” each place it appears and inserting “schedule I, II, or A”.
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 952
-
-> in the matter preceding paragraph (1), by striking “schedule I or II” and inserting “schedule I, II, or A”; and
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 952
-
-> in paragraph (2), by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 953
-
-> in subsection (c), in the matter preceding paragraph (1), by striking “schedule I or II” and inserting “schedule I, II, or A”; and
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 953
-
-> in subsection (d), by striking “schedule I or II” and inserting “schedule I, II, or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 954
-
-> in section 1004(1) (21 U.S.C. 954(1)), by striking “schedule I” and inserting “schedule I or A”;
-
-| | |
-|---|---|
-| Removed | `schedule I` |
-| Inserted | `schedule I or A` |
-
-### 21 U.S.C. § 955
-
-> in section 1005 (21 U.S.C. 955), by striking “schedule I or II” and inserting “schedule I, II, or A”; and
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 959
-
-> in section 1009(a) (21 U.S.C. 959(a)), by striking “schedule I or II” and inserting “schedule I, II, or A”.
-
-| | |
-|---|---|
-| Removed | `schedule I or II` |
-| Inserted | `schedule I, II, or A` |
-
-### 21 U.S.C. § 802
-
-> in paragraph (6), by striking “or V” and inserting “V, or A”;
-
-| | |
-|---|---|
-| Removed | `or V` |
-| Inserted | `V, or A` |
-
-### 21 U.S.C. § 802
-
-> by striking “schedule I(c) and” and inserting “schedule I(c), schedule A, and”; and
-
-| | |
-|---|---|
-| Removed | `schedule I(c) and` |
-| Inserted | `schedule I(c), schedule A, and` |
-
-### 21 U.S.C. § 802
-
-> by striking “schedule I(c),” and inserting “schedule I(c) and schedule A,”; and
-
-| | |
-|---|---|
-| Removed | `schedule I(c),` |
-| Inserted | `schedule I(c) and schedule A,` |
-
-### 21 U.S.C. § 813
-
-> by striking “A controlled” and inserting “(a) In general.—A controlled”; and
-
-| | |
-|---|---|
-| Removed | `A controlled` |
-| Inserted | `(a) In general.—A controlled` |
 
 ## Stated, not applied
 
@@ -573,195 +31,249 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1396a` | strike | by striking “and” at the end of paragraph (82); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396a` | replace | by striking the period at the end of paragraph (83) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (83) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | add-at-end | Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | insert | Title XIX of the Social Security Act is amended by inserting after section 1927 (42 U.S.C. 1396r–8) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | strike | in paragraph (83), at the end, by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396a` | replace | in paragraph (84), at the end, by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (84) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a), as amended by section 101, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396u-2` | add-at-end | Section 1932 of the Social Security Act (42 U.S.C. 1396u–2) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | strike | by striking “, by not later than January 1, 1993,”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396r-8` | insert | by inserting after “gross overuse,” the following: “excessive utilization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | insert | by inserting after “gross overuse,” the following: “excessive utilization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396w-4` | insert | in paragraph (1), by inserting “subject to paragraph (4),” after “except that,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396w-4` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | strike | in paragraph (28), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396d` | redesignate | by redesignating paragraph (29) as paragraph (30); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | by inserting after paragraph (28) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | add-at-end | Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in paragraph (2)(B)(i), by inserting “and paragraph (7)(E)” after “Subject to clause (ii)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | insert | in subparagraph (C)(i), by inserting “or, in the case of an eligible non-opioid analgesic (as defined in subparagraph (J)), during a period of 5 years,” after “3 years,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | insert | in paragraph (1), by inserting “and a review of current opioid prescriptions and screening for opioid use disorder (as defined in paragraph (4)),” before “but does not include”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | Section 1833(i)(2) of the Social Security Act (42 U.S.C. 1395l(i)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(e) of the Social Security Act (42 U.S.C. 1395w–104(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | insert | in paragraph (1), by inserting after subparagraph (E) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | insert | in paragraph (5)(A), by inserting “(and for plan years beginning on or after January 1, 2021, a PDP sponsor shall)” after “A PDP sponsor may”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (FF), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | insert | in subparagraph (GG), by inserting at the end “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | Section 1861 of the Social Security Act is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following “, and (CC) with respect to opioid use disorder treatment services furnished during an episode of care, the amount paid shall be equal to the amount payable under section 1834(w)… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395cc` | strike | in paragraph (1), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395cc` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395cc` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 262` | add-at-end | by adding at the end the following new subpart: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-22` | insert | Title III of the Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–22) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | amend | Subclause (II) of section 303(g)(2)(B)(iii) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(B)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | strike | in subclause (I), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 823` | amend | by amending subclause (II) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | add-at-end | Clause (iii) of section 303(g)(2)(G) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(G)), as amended by subsection (b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | add-at-end | Section 1903(m) of the Social Security Act (42 U.S.C. 1396b(m)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | in the last sentence, by inserting “and before January 1, 2020” after “date of enactment of the Balanced Budget Act of 1997”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new sentence: “Effective for items and services furnished on or after January 1, 2020 (with respect to periods beginning on or after July 1, 2018), clauses (i) and (ii) shall be applied by substituting … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | amend | Clause (i) of section 1862(b)(7)(A) of the Social Security Act (42 U.S.C. 1395y(b)(7)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1320b-9b` | replace | by striking “Not later than January 1, 2013” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1320b-9b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1320b-9b` | add-at-end | in paragraph (5), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c)(1) of the Social Security Act (42 U.S.C. 1397cc(c)(1)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397cc` | redesignate | by redesignating paragraphs (5), (6), (7), and (8) as paragraphs (6), (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397cc` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397cc` | redesignate | Subparagraph (A) of paragraph (7) of section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) (as redesignated by subsection (b)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396` | insert | Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended by inserting after section 1943 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1315a` | add-at-end | Section 1115A(b)(2)(B) of the Social Security Act (42 U.S.C. 1315a(b)(2)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395b-2` | add-at-end | Section 1804 of the Social Security Act (42 U.S.C. 1395b–2) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395` | insert | Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by inserting after section 1866E (42 U.S.C. 1395cc–5) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(e)(2) of the Social Security Act (42 U.S.C. 1395w–104(e)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-28` | add-at-end | Section 1859 of the Social Security Act (42 U.S.C. 1395w–28) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(e) of the Social Security Act (42 U.S.C. 1395w–27(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4 of the Social Security Act (42 U.S.C. 1395w–104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | redesignate | by redesignating subclauses (I) through (III) as items (aa) through (cc), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | replace | by striking “are part D eligible individuals who—” and inserting | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(c)(4) of the Social Security Act (42 U.S.C. 1395w–104(c)(4)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | Section 1833(t) of the Social Security Act (42 U.S.C. 1395l(t)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | Section 1833(i) of the Social Security Act (42 U.S.C. 1395l(i)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(o) of the Social Security Act (42 U.S.C. 1395m(o)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | redesignate | by redesignating the subsection (z) relating to medical review of spinal subluxation services as subsection (aa); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1315a` | add-at-end | Section 1115A(b)(2)(B) of the Social Security Act (42 U.S.C. 1315a(b)(2)(B) is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395aaa-1` | add-at-end | Section 1890A of the Social Security Act (42 U.S.C. 1395aaa–1) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395aaa` | add-at-end | Section 1890(b)(2) of the Social Security Act (42 U.S.C. 1395aaa(b)(2)) is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(f)(3) of the Social Security Act (42 U.S.C. 1395w–27(f)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | Section 1862(o)(3) of the Social Security Act (42 U.S.C. 1395y(o)(3)) is amended by inserting “, section 1860D–12(b)(7) (including as applied pursuant to section 1857(f)(3)(D)),” after “this subsection”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | Section 1862(o) of the Social Security Act (42 U.S.C. 1395y(o)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | insert | in subparagraph (A), by inserting “, subject to subparagraph (C),” before “including”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-104` | add-at-end | in subparagraph (B), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-22` | add-at-end | Section 1852 of the Social Security Act (42 U.S.C. 1395w–22) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | strike | by striking “may include elements that promote”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-104` | redesignate | by redesignating clauses (i) through (iii) as subclauses (I) through (III) and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | redesignate | by inserting before subclause (I), as so redesignated, the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | redesignate | in subclause (III), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(b)(3)(B)(viii) of the Social Security Act (42 U.S.C. 1395ww(b)(3)(B)(viii)) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(o)(2)(B) of the Social Security Act (42 U.S.C. 1395ww(o)(2)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300u` | add-at-end | Title XVII of the Public Health Service Act (42 U.S.C. 300u et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Part P of title III of the Public Health Service Act is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 282` | strike | in subparagraph (A), by striking “or”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282` | replace | in subparagraph (B), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 282` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 822` | add-at-end | Subsection (g) of section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 294n` | redesignate | by redesignating part F as part G; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 294n` | insert | by inserting after part E (42 U.S.C. 294n et seq.) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 381` | insert | The sixth sentence of section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)), as amended by subsection (a), is further amended by inserting before the period at the end the following: “; and the Secretary of Health… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 381` | amend | The last sentence in section 801(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(a)) is amended to read as follows: “Clauses (2), (5), and (6) of the third sentence of this subsection shall not be construed to prohibit the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | add-at-end | Section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360bbb` | add-at-end | Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 381` | insert | The third sentence of subsection (a) of section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by inserting “or (5) in the case of a drug, such drug is subject to an order under section 568 to cease distributi… | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 801 of the Federal Food, Drug, and Cosmetic Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `21 U.S.C. § 391` | add-at-end | Chapter X of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 391 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | by inserting “or (8) if the drug is or contains a controlled substance for which a listing in any schedule is in effect under the Controlled Substances Act or that is permanently scheduled pursuant to section 201 of such Act, on the basi… | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | insert | by inserting the following: “; or (6) that, in the case of a drug that is or contains a controlled substance for which a listing in any schedule is in effect under the Controlled Substances Act or that is permanently scheduled pursuant t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-4` | insert | Part D of title V of the Public Health Service Act is amended by inserting after section 549 (42 U.S.C. 290ee–4) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa-0` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290aa-0` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 290aa-0` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Part D of title V of the Public Health Service Act is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 300d-71` | amend | Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300d-72` | amend | Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300d-73` | amend | Section 1273 of the Public Health Service Act (42 U.S.C. 300d–73) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-15` | amend | Section 317N of the Public Health Service Act (42 U.S.C. 247b–15) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and moving such subparagraphs (as so redesignated) 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | redesignate | by inserting before subparagraph (A) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | replace | by striking “The Secretary shall award grants to recovery community organizations” and inserting | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | insert | in subparagraph (A), in the matter preceding clause (i), by inserting before “build” the following: “in the case of a grant awarded to a recovery community organization,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | insert | by inserting before “reduce” the following: “in the case of a grant awarded to a recovery community organization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 290ee-2` | insert | by inserting before “conduct” the following: “in the case of a grant awarded to a recovery community organization,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 290ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290ee-2` | redesignate | in subsection (d) (as so redesignated), by inserting before the period the following: “, and $15,000,000 for each of fiscal years 2019 through 2023”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 381` | add-at-end | Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 381` | add-at-end | Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 334` | replace | Section 304(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 334(b)) is amended by striking the first sentence and inserting the following: “The article, equipment, or other thing proceeded against shall be liable to seizure by … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | insert | by inserting after “an article of food” the following: “or a drug”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | insert | by inserting after “a person debarred” the following: “from such activity”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 335a` | strike | in subparagraph (B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 335a` | replace | in subparagraph (C), by striking the period at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 335a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 335a` | insert | in the paragraph heading after “food” by inserting “or drug”; | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 335a` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the indentation of each such clause 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 335a` | replace | after making the amendments required by subparagraph (B), by striking “A person is subject” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 335a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g-3` | amend | Section 399O of the Public Health Service Act (42 U.S.C. 280g–3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355-1` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act is amended by inserting after section 505–1 (21 U.S.C. 355–1) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 351` | insert | Section 501 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351) is amended by inserting after paragraph (j) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | strike | in clause (vii)(IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 355` | replace | in clause (viii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | strike | in subparagraph (J), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 355` | replace | in subparagraph (K), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | add-at-end | Section 505(o)(3)(B) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(o)(3)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | replace | Section 505(o)(3)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(o)(3)(C)) is amended by striking “such requirement” and all that follows through “safety information.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 355` | add-at-end | Section 505(o)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(o)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | add-at-end | Section 505(o)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(o)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | in the heading, by inserting “or new effectiveness” after “safety”; | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | replace | by striking “new safety information” and by inserting “new safety information or new effectiveness information”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `21 U.S.C. § 355` | insert | by inserting “indications,” after “boxed warnings,”; | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | insert | in subparagraph (C), by inserting “or new effectiveness information” after “safety information”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | insert | in subparagraph (E), by inserting “or new effectiveness information” after “safety information”. | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 58c` | add-at-end | Section 13031(b)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)(9)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 58c` | insert | in paragraph (6), by inserting “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 58c` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 58c` | insert | in the flush at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”. | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 2071` | amend | Section 343(a)(3)(K) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2071` | add-at-end | Section 343(a) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1436` | add-at-end | Section 436 of the Tariff Act of 1930 (19 U.S.C. 1436) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1712A` | add-at-end | Section 1720F(j) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 14509` | insert | Chapter 145 of title 40, United States Code, is amended by inserting after section 14509 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 14509` | insert | The analysis for chapter 145 of title 40, United States Code, is amended by inserting after the item relating to section 14509 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 811` | add-at-end | Section 201 of the Controlled Substances Act (21 U.S.C. 811) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 841` | add-at-end | in section 401(b)(1) (21 U.S.C. 841(b)(1)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 843` | strike | in paragraph (8), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 843` | replace | in paragraph (9), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 843` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 844` | insert | in section 404 (21 U.S.C. 844), by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 960` | add-at-end | Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 825` | add-at-end | Section 305 of the Controlled Substances Act (21 U.S.C. 825) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 842` | insert | in subsection (a)(16), by inserting “or subsection (f)” after “subsection (e)”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 842` | insert | in subsection (c)(1)(D), by inserting “or a schedule A substance” after “anabolic steroid”. | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 958` | add-at-end | Section 1008 of the Controlled Substances Import and Export Act (21 U.S.C. 958) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | replace | in paragraph (32)(A), by striking “(32)(A)” and all that follows through clause (iii) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 813` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | add-at-end | Section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | repeal | Effective the day that is 5 years after the date of the enactment of this title, paragraph (21) of section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)), as added by this title, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396n` | add-at-end | Section 1915 of the Social Security Act (42 U.S.C. 1396n) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | add-at-end | Section 1903(m) of the Social Security Act (42 U.S.C. 1396b(m)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “the authorization of appropriations under subsection (b) to carry out the grant program described in subsection (c)” and inserting “subsection (h) to carry out the grant program described in subsection (b)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and Indian Tribes” after “States”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) through (e) as subsections (b) through (d), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (j); | the bill names no machine-readable US Code section |
+| — | insert | in the paragraph heading, by inserting “and Indian Tribe” after “State”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “States for the purpose of addressing the opioid abuse crisis within such States” and inserting “States and Indian Tribes for the purpose of addressing the opioid abuse crisis within such States and Indian Tribes”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or Indian Tribes” after “preference to States”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period of the second sentence “or other Indian Tribes, as applicable”; | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding subparagraph (A), by striking “to a State”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “State”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C), by inserting “preventing diversion of controlled substances,” after “treatment programs,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “as the State determines appropriate, related to addressing the opioid abuse crisis within the State” and inserting “as the State or Indian Tribe determines appropriate, related to addressing the opioid a… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), as so redesignated, by striking “subsection (c)” and inserting “subsection (b)”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “the authorization of appropriations under subsection (b)” and inserting “subsection (h)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “subsection (c)” and inserting “subsection (b)”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (d), as so redesignated, the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1004(c) of the 21st Century Cures Act (Public Law 114–255) is amended by striking “, the FDA Innovation Account, or the Account For the State Response to the Opioid Abuse Crisis” and inserting “or the FDA Innovation Account”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “or”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “and treatment of pain and diseases and disorders associated with pain” and inserting “treatment, and management of pain and diseases and disorders associated with pain, including information on best prac… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “on the symptoms and causes of pain;” and inserting the following: “on— | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraphs (C) through (E) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 505–1(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(e)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in clause (i) by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 505–1(b)(1)(E) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(b)(1)(E)) is amended by striking “of the drug” and inserting “of the drug, which may include reduced effectiveness under the conditions of use prescribed… | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting “or (3)” after “paragraph (2)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking the comma at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “, or” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in the heading, by striking “Food”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 301(cc) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(cc)) is amended by inserting “or a drug” after “food”. | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence; | the bill names no machine-readable US Code section |
+| — | replace | by striking “If it appears” and inserting “Subject to subsection (b), if it appears”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “regarding such article, then such article shall be refused” and inserting the following: “regarding such article, or (5) such article is being imported or offered for import in violation of section 301(cc), then any such art… | the bill names no machine-readable US Code section |
+| — | replace | by striking “this Act, then such article shall be refused admission” and inserting “this Act, then such article may be refused admission”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Clause (2) of the third sentence” and all that follows through the period at the end and inserting the following: “Neither clause (2) nor clause (5) of the second sentence of this subsection shall be construed to prohibit th… | the bill names no machine-readable US Code section |
+| — | amend | Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by adding at the end the following— | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “and mechanisms for referral to appropriate treatment for an entity receiving a grant under this section” and inserting “mechanisms for referral to appropriate treatment, and safety around fentanyl, carfent… | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (g) as subsection (h); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h), as so redesignated, by striking “$12,000,000 for each of fiscal years 2017 through 2021” and inserting “$36,000,000 for each of fiscal years 2019 through 2023”. | the bill names no machine-readable US Code section |
+| — | amend | Section 302(g) of the Controlled Substances Act (21 U.S.C. 822(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 302(c) of the Controlled Substances Act (21 U.S.C. 822(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The Controlled Substances Act is amended by inserting after section 309 (21 U.S.C. 829) the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 309 the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 547 of the Public Health Service Act (42 U.S.C. 290ee–2) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 303(g)(2)(G)(ii) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(G)(ii)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 102(24) of the Controlled Substances Act (21 U.S.C. 802(24)) is amended by striking “Health, Education, and Welfare” and inserting “Health and Human Services”. | the bill names no machine-readable US Code section |
+| — | amend | Subclause (II) of section 303(g)(2)(B)(iii) of the Controlled Substances Act (21 U.S.C. 823(g)(2)(B)(iii)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “children and adolescents” and inserting “children, adolescents, and young adults”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2), by striking “children, including” and inserting “children, adolescents, and young adults, including”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “children and adolescents” each place it appears and inserting “children, adolescents, and young adults”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 105(a) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 311(h) of the Controlled Substances Act (21 U.S.C. 831(h)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Subpart III of part D of title III of the Public Health Service Act (42 U.S.C. 254l et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 508(s) of the Public Health Service Act (42 U.S.C. 290bb–1(s)) is amended by striking “$16,900,000 for each of fiscal years 2017 through 2021” and inserting “$29,931,000 for each of fiscal years 2019 through 2023”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (13), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (14), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (13), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 507(b) of the Public Health Service Act (42 U.S.C. 290bb(b)), as amended by subsection (b), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “with findings of any serious violation regarding” and inserting “concerning”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “complaints received and number of” before “closed”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period “, and, for each such investigation closed, which agency conducted the investigation, whether the health plan that is the subject of the investigation is fully insured or not fully insured and a summary of … | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “hospices, and other public and private entities” and inserting “hospices, tribal health programs (as defined in section 4 of the Indian Health Care Improvement Act), and other public and nonprofit private … | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “award may be made under subsection (a) only if the applicant for the award agrees that the program carried out with the award will include” and inserting “entity receiving an award unde… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “preventing,” after “diagnosing,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “non-addictive medical products and non-pharmacologic treatments and” after “including”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Federal, State, and local” after “applicable”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the degree to which” and all that follows through “effective pain care” and inserting “opioids”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “, integrated, evidence-based pain management, and, as appropriate, non-pharmacotherapy” before the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “; and” and inserting “;”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d), by inserting “prevention,” after “diagnosis,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “2010 through 2012” and inserting “2019 through 2023”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “, trauma,” after “focus on child and adolescent mental health”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraphs (2) and (3), by inserting “trauma-informed care and” before “substance use disorder prevention and treatment services”. | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “opioid abuse” each place such term appears and inserting “opioid misuse and abuse”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “safe disposal of prescription medications and other” and inserting “non-addictive treatment options, safe disposal options for prescription medications, and other applicable”. | the bill names no machine-readable US Code section |
+| — | insert | Part J of title III of the Public Health Service Act is amended by inserting after section 392 (42 U.S.C. 280b–1) the following: | the bill names no machine-readable US Code section |
+| — | insert | Part J of title III of the Public Health Service Act (42 U.S.C. 280b et seq.), as amended by section 504, is further amended by inserting after section 392A the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), in the matter preceding subparagraph (A), by striking “in consultation with the Administrator of the Substance Abuse and Mental Health Services Administration and Director of the Centers for Disease Control and Preventi… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “as such standards become available,” after “interoperability standards,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “generated or identified by the Secretary or his or her designee” and inserting “recognized by the Office of the National Coordinator for Health Information Technology”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(A), by inserting “including electronic health records,” after “technology systems,”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(1), by striking “not later than 1 week after the date of such dispensing” and inserting “in as close to real time as practicable”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(D), by striking “medicaid” and inserting “Medicaid”; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (i), by inserting “, in collaboration with the National Coordinator for Health Information Technology and the Director of the National Institute of Standards and Technology,” after “The Secretary”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (n), by striking “2021” and inserting “2026”. | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “prevention of” and inserting “prevention and long-term outcomes associated with”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “illegal drug use” and inserting “substance abuse and misuse”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “and cessation programs; and” and inserting “, treatment, and cessation programs;”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “illegal drug use.” and inserting “substance abuse and misuse; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b), by inserting “tribal entities,” after “local governments,”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), as so redesignated, by striking “2001 through 2005” and inserting “2019 through 2023”. | the bill names no machine-readable US Code section |
+| — | amend | by amending the section heading to read as follows: “Surveillance and education regarding infections associated with illicit drug use and other risk factors”; | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding paragraph (1), by inserting “activities” before the colon; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or maintaining” after “implementing”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “hepatitis C virus infection (in this section referred to as HCV infection)” and inserting “infections commonly associated with illicit drug use, which may include viral hepatitis, human immunodeficiency virus, and infective … | the bill names no machine-readable US Code section |
+| — | replace | by striking “such infection” and all that follows through the period at the end and inserting “such infections, which may include the reporting of cases of such infections.”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “HCV infection” and all that follows through the period at the end and inserting “infections as a result of illicit drug use, receiving blood transfusions prior to July 1992, or other risk factors.”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (4) and (5), by striking “HCV infection” each place such term appears and inserting “infections described in paragraph (1)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “pediatricians and other primary care physicians, and obstetricians and gynecologists” and inserting “substance use disorder treatment providers, pediatricians, other primary care providers, and obstetrician… | the bill names no machine-readable US Code section |
+| — | replace | by striking “directly and” and inserting “directly or”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “hepatitis C,” and all that follows through the period at the end and inserting “infections described in subsection (a)(1).”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “such sums as may be necessary for each of the fiscal years 2001 through 2005” and inserting “$40,000,000 for each of fiscal years 2019 through 2023”. | the bill names no machine-readable US Code section |
+| — | replace | Section 582(j) of the Public Health Service Act (42 U.S.C. 290hh–1(j)) (relating to grants to address the problems of persons who experience violence-related stress) is amended by striking “$46,887,000 for each of fiscal years 2018 throu… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1804 of the Social Security Act (42 U.S.C. 1395b–2) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), in the matter preceding subclause (I), by striking “clause (ii)” and inserting “clause (ii) and paragraph (6)(C)”; and | the bill names no machine-readable US Code section |
+| — | strike | in clause (ii), in the heading, by striking “for home dialysis therapy”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “paragraph (6)” and inserting “paragraphs (5), (6), and (7)”; and | the bill names no machine-readable US Code section |
+| — | insert | in clause (ii)(X), by inserting “or telehealth services described in paragraph (7)” before the period at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2) and” and inserting “paragraph (2),”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and the furnishing of a review of any current opioid prescriptions (as defined in paragraph (4)),” after ‘‘upon the agreement with the individual,”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (N) as subparagraph (O); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (M) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (G) as subparagraph (I); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (F) the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | amend | Section 1860D–4(e) of the Social Security Act (42 U.S.C. 1395w–104(e)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1860D–4(e)(2) of the Social Security Act (42 U.S.C. 1395w–104(e)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1859 of the Social Security Act (42 U.S.C. 1395w–28) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1857(e)(4)(C) of the Social Security Act (42 U.S.C. 1395w–27(e)(4)(C)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1860D–4 of the Social Security Act (42 U.S.C. 1395w–104) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1860D–4(c)(4) of the Social Security Act (42 U.S.C. 1395w–104(c)(4)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subparagraph (A), by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B), by inserting “, physician assistant, nurse practitioner, clinical nurse specialist, certified nurse anesthetist, or certified nurse-midwife” after “physician”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1128G(c)(1)(C)(viii) of the Social Security Act (42 U.S.C. 1320a–7h(c)(1)(C)(viii))) is amended by striking “does not contain” and inserting “in the case of information made available under this subparagraph prior to January 1, 2… | the bill names no machine-readable US Code section |
+| — | insert | Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by inserting after section 1866E the following: | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), in the matter preceding subclause (I), by striking “For purposes” and inserting “Except as provided in clause (v), for purposes”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), in each of clauses (ii)(III) and (iii)(IV), by striking “and the option of an automatic escalation to external review” and inserting “, including notice that if on reconsideration a PDP sponsor affirms its denial, in… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “and the option” and all that follows and inserting the following: “and if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the indepe… | the bill names no machine-readable US Code section |
+| — | amend | Section 1115A(b)(2)(B) of the Social Security Act (42 U.S.C. 1315a(b)(2)(B)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “fiscal year 2021, $0” and inserting “fiscal year 2024, $65,000,000”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (82), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (83), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (83), the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1902 of such Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by adding at the end the following new sentence: “In the case of a woman who is eligible for medical assistance on the basis of being pregnant (including through … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1903(m) of the Social Security Act (42 U.S.C. 1396b(m)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1903(m) of the Social Security Act (42 U.S.C. 1396b(m)), as amended by section 2207, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Not later than January 1, 2013” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (5), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “the such plan” and inserting “such plan”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (a)(5)” and inserting “subsection (b)(5) and, beginning with the report for 2024, all behavioral health measures included in the core set of adult health quality measures maintained under such subsection (b)(5) an… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 435 of the Social Security Act (42 U.S.C. 629e) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “, nor shall the provision of such services or programs be construed to permit the State to reduce medical or other assistance available to a recipient of such services or programs” after “under this Act… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 13031(b)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)(9)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (6), by inserting “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”; and | the bill names no machine-readable US Code section |
+| — | insert | in the flush at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”. | the bill names no machine-readable US Code section |
+| — | amend | Section 343(a)(3)(K) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 343(a) of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 343 of the Trade Act of 2002 (Public Law 107–210; 19 U.S.C. 2071 note) is amended in the section heading by striking “advanced” and inserting “advance”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 436 of the Tariff Act of 1930 (19 U.S.C. 1436) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f), (g), and (h) as subsections (g), (h), and (i), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (i), as so redesignated, the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (15), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (16), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (16) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “or (D)” after “subparagraph (B)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 715(a) of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1712(a)) is amended by striking “2010” and inserting “2022”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1024 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1524(a)) is amended by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 4(c)(4) of Public Law 107–82 (21 U.S.C. 1521 note) is amended by striking “2008 through 2012” and inserting “2018 through 2022”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1001(a)(25)(A) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(25)(A)) is amended by striking “Except as provided” and all that follows and inserting the following: “Except as provided in … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 705 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1704) is amended by adding at the end the following— | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 707 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1706) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 707 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1706), as amended by section 3308, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (k) as subsection (l); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (j) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (l), as so redesignated by section 3310, as subsection (m); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (k), as added by section 3310, the following: | the bill names no machine-readable US Code section |
+| — | amend | Title VII of the Comprehensive Addiction and Recovery Act of 2016 (Public Law 114–198; 130 Stat. 735) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Public Health Service Act (42 U.S.C. 290dd et seq.), as amended by section 3313, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (F) through (J) as subparagraphs (G) through (K), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
+| — | strike | in the section heading, by striking “youth”; | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding paragraph (1), by striking “youth”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “young”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “of adults of the impact of drug abuse on young people” and inserting “among the population about the impact of drug abuse”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “parents and other interested adults to discuss with young people” and inserting “interested persons to discuss”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b)(2)(C)(ii), by striking “among youth”. | the bill names no machine-readable US Code section |
+| — | amend | in clause (i), by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking clause (iii); | the bill names no machine-readable US Code section |
+| — | amend | in clause (v), by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in clause (vi), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking clause (vii); and | the bill names no machine-readable US Code section |
+| — | strike | by striking the first paragraph (5); and | the bill names no machine-readable US Code section |
+| — | strike | by striking the second paragraph (4); | the bill names no machine-readable US Code section |
+| — | strike | by striking clause (ix); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (x) through (xiv) as clauses (ix) through (xiii), respectively; and | the bill names no machine-readable US Code section |
+| — | strike | by striking section 708 (21 U.S.C. 1707). | the bill names no machine-readable US Code section |
+| — | replace | by striking “A controlled” and inserting “(a) In general.—A controlled”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(a)”; | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “Production” and inserting “Except as provided in paragraph (2), production”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), in the first sentence, by striking “production” and inserting “manufacturing”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “October” and inserting “December”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The Law Revision Counsel is directed to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking “production” and inserting “manufacturing”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part C of the Controlled Substances Act (21 U.S.C. 821 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

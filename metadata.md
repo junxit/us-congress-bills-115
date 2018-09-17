@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6
@@ -16,7 +16,7 @@ SUPPORT for Patients and Communities Act
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
@@ -34,6 +34,9 @@ SUPPORT for Patients and Communities Act
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. MacArthur, Thomas [R-NJ-3] (M001193)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (3)
 
@@ -41,10 +44,11 @@ SUPPORT for Patients and Communities Act
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2018-06-22 — [House 115-2-287](votes/house-115-2-0287.md) — On Motion to Recommit with Instructions — **Failed** (185–226)
 - 2018-06-22 — [House 115-2-288](votes/house-115-2-0288.md) — On Passage — **Passed** (396–14)
+- 2018-09-17 — [Senate 115-2-210](votes/senate-115-2-0210.md) — On Passage of the Bill — **Bill Passed** (99–1)
 
 ## Actions
 
@@ -115,3 +119,14 @@ SUPPORT for Patients and Communities Act
 - 2018-06-22 — The previous question was ordered pursuant to the rule.
 - 2018-06-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2018-06-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
+- 2018-09-06 — Senate amendment submitted
+- 2018-09-17 — Amendment SA 4013 agreed to in Senate by Unanimous Consent.
+- 2018-09-17 — Amendment SA 4013 proposed by Senator Portman for Senator Alexander. (consideration: CR S6180; text: CR 9/6/2018 S6063-6099) In the nature of a substitute.
+- 2018-09-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6159-6180)
+- 2018-09-17 — Passed Senate with an amendment by Yea-Nay Vote. 99 - 1. Record Vote Number: 210.
+- 2018-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 99 - 1. Record Vote Number: 210.
+- 2018-09-17 — Senate amendment agreed to: Amendment SA 4013 agreed to in Senate by Unanimous Consent.
+- 2018-09-17 — Senate amendment proposed (on the floor): Amendment SA 4013 proposed by Senator Portman for Senator Alexander.(consideration: CR S6180; text: CR 9/6/2018 S6063-6099)
+- 2018-09-17 — Senate amendment submitted
+- 2018-09-17 — Senate amendment submitted
+- 2018-09-17 — Senate amendment submitted
