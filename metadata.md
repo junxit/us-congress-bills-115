@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5349
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5349
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 1325 Au
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Kustoff, David [R-TN-8] (K000392)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 1325 Au
 - 2018-09-13 — On passage Passed without objection. (text: CR H8248)
 - 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8248)
 - 2018-09-13 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
