@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4913
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4913
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 816 Eas
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 816 Eas
 - 2018-09-13 — Mr. Russell asked unanimous consent to discharge from committee and consider.
 - 2018-09-13 — On passage Passed without objection. (text: CR H8246)
 - 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8246)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
