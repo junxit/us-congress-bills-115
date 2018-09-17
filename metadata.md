@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5059
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5059
@@ -23,9 +23,10 @@ State Insurance Regulation Preservation Act
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Budd, Ted [R-NC-13] (B001305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ State Insurance Regulation Preservation Act
 - 2018-09-12 — Placed on the Union Calendar, Calendar No. 728.
 - 2018-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-937.
 - 2018-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-937.
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
