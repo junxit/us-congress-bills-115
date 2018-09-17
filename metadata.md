@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2606
@@ -22,9 +22,10 @@ Stigler Act Amendments of 2018
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Russell, Steve [R-OK-5] (R000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Stigler Act Amendments of 2018
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8134-8135)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8134-8135)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
