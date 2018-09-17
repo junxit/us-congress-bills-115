@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6198
@@ -20,10 +20,11 @@ Countering Weapons of Mass Destruction Act of 2018
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Countering Weapons of Mass Destruction Act of 2018
 - 2018-09-12 — Mr. Donovan moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8113-8115)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8113-8115)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
