@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6227
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6227
@@ -55,9 +55,10 @@ National Quantum Initiative Act
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ National Quantum Initiative Act
 - 2018-09-13 — Placed on the Union Calendar, Calendar No. 740.
 - 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
 - 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
