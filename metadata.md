@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6662
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6662
@@ -20,10 +20,11 @@ Empowering Seniors' Enrollment Decision Act of 2018
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Empowering Seniors' Enrollment Decision Act of 2018
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8120-8121)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8120-8121)
 - 2018-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
