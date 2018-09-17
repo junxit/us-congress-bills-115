@@ -1,7 +1,7 @@
 ---
 measure: S. 2554
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2554
@@ -16,7 +16,7 @@ Patient Right to Know Drug Prices Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (13)
+## Cosponsors (25)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -31,6 +31,18 @@ Patient Right to Know Drug Prices Act
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -44,3 +56,12 @@ Patient Right to Know Drug Prices Act
 - 2018-07-31 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-07-31 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 549.
+- 2018-09-06 — Senate amendment submitted
+- 2018-09-17 — Amendment SA 4011 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 208.
+- 2018-09-17 — Amendment SA 4011 proposed by Senator Alexander for Senator Lee. (consideration: CR S6179; text: CR S6179) To limit application of the gag clause to self-insured group health plans.
+- 2018-09-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6179-6180)
+- 2018-09-17 — Passed Senate with an amendment by Yea-Nay Vote. 98 - 2. Record Vote Number: 209.
+- 2018-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 98 - 2. Record Vote Number: 209.
+- 2018-09-17 — Roll call votes on amendments in Senate: Amendment SA 4011 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 208.
+- 2018-09-17 — Senate amendment not agreed to: Amendment SA 4011 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 208.
+- 2018-09-17 — Senate amendment proposed (on the floor): Amendment SA 4011 proposed by Senator Alexander for Senator Lee.(consideration: CR S6179; text: CR S6179)
