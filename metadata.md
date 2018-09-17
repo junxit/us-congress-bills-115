@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3186
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3186
@@ -73,11 +73,12 @@ Every Kid Outdoors Act
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -113,3 +114,4 @@ Every Kid Outdoors Act
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 2 (Roll no. 395). (text: CR H8139)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 2 (Roll no. 395).(text: CR H8139)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
