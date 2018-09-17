@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4824
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4824
@@ -60,3 +60,4 @@ Rural Broadband Permitting Efficiency Act of 2018
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8130-8131)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8130-8131)
 - 2018-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-17 — Received in the Senate.
