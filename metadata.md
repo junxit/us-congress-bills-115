@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6197
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6197
@@ -25,9 +25,10 @@ Rescuing Animals With Rewards Act of 2018
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Rescuing Animals With Rewards Act of 2018
 - 2018-09-12 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
 - 2018-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8155)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8155)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
