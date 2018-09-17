@@ -1,7 +1,7 @@
 ---
 measure: S. 1050
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1050
@@ -111,3 +111,18 @@ Chinese-American World War II Veteran Congressional Gold Medal Act
 - 2018-09-17 — Received in the House.
 - 2018-09-17 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-17 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-12-12 — Committee on Financial Services discharged.
+- 2018-12-12 — Committee on Financial Services discharged.
+- 2018-12-12 — Committee on House Administration discharged.
+- 2018-12-12 — Committee on House Administration discharged.
+- 2018-12-12 — Considered by unanimous consent. (consideration: CR H10156-10157)
+- 2018-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-12 — Mr. Barr asked unanimous consent to discharge from committee and consider.
+- 2018-12-12 — On passage Passed without objection. (text: CR H10156-10157)
+- 2018-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10156-10157)
+- 2018-12-20 — Became Public Law No: 115-337.
+- 2018-12-20 — Became Public Law No: 115-337.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Signed by President.
+- 2018-12-20 — Signed by President.
