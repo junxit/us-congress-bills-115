@@ -1,7 +1,7 @@
 ---
 measure: S. 1050
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1050
@@ -87,9 +87,11 @@ Chinese-American World War II Veteran Congressional Gold Medal Act
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -105,3 +107,7 @@ Chinese-American World War II Veteran Congressional Gold Medal Act
 - 2018-09-12 — Senate amendment agreed to: Amendment SA 4015 agreed to in Senate by Unanimous Consent.
 - 2018-09-12 — Senate amendment proposed (on the floor): Amendment SA 4015 proposed by Senator Flake for Senator Duckworth.(consideration: CR S6152-6153; text: CR S6152-6153)
 - 2018-09-12 — Senate amendment submitted
+- 2018-09-17 — Message on Senate action sent to the House.
+- 2018-09-17 — Received in the House.
+- 2018-09-17 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-17 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
