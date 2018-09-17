@@ -1,7 +1,7 @@
 ---
 measure: S. 2554
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 0 executed, 21 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 18031` | add-at-end | Section 1311(e) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-11` | add-at-end | Subpart II of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–11 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating paragraphs (3) through (8) as paragraphs (6) through (11), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
