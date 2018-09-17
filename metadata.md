@@ -1,7 +1,7 @@
 ---
 measure: H.R. 606
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 606
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 1025 Ne
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 1025 Ne
 - 2018-09-13 — Mr. Russell asked unanimous consent to discharge from committee and consider.
 - 2018-09-13 — On passage Passed without objection. (text: CR H8246)
 - 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8246)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
