@@ -1,7 +1,7 @@
 ---
 measure: H.R. 660
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 660
@@ -61,3 +61,4 @@ Bureau of Reclamation Transparency Act
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill.
 - 2018-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8142-8143)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8142-8143)
+- 2018-09-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 573.
