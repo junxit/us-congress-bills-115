@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6116
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 362 Nor
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 362 Nor
 - 2018-09-13 — Mr. Russell asked unanimous consent to discharge from committee and consider.
 - 2018-09-13 — On passage Passed without objection. (text: CR H8248)
 - 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8248)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
