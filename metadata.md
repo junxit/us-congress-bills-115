@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6411
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6411
@@ -21,9 +21,10 @@ FinCEN Improvement Act of 2018
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ FinCEN Improvement Act of 2018
 - 2018-09-12 — Mr. Rothfus moved to suspend the rules and pass the bill.
 - 2018-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8127)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8127)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
