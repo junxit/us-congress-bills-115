@@ -1,7 +1,7 @@
 ---
 measure: S. 3029
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3029
@@ -31,9 +31,10 @@ PREEMIE Reauthorization Act of 2018
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -52,3 +53,6 @@ PREEMIE Reauthorization Act of 2018
 - 2018-09-12 — Senate amendment proposed (on the floor): Amendment SA 4016 proposed by Senator Flake for Senator Alexander.(consideration: CR S6154; text: CR S6154)
 - 2018-09-12 — Senate amendment submitted
 - 2018-09-12 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2018-09-17 — Message on Senate action sent to the House.
+- 2018-09-17 — Received in the House.
+- 2018-09-17 — Referred to the House Committee on Energy and Commerce.
