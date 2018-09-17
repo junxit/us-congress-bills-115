@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4689
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4689
@@ -46,3 +46,14 @@ To authorize early repayment of obligations to the Bureau of Reclamation within 
 - 2018-09-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 378 - 1 (Roll no. 396). (text: CR H8144)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 378 - 1 (Roll no. 396).(text: CR H8144)
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8034)
+- 2018-12-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8034)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-10 — Became Public Law No: 115-429.
+- 2019-01-10 — Became Public Law No: 115-429.
+- 2019-01-10 — Signed by President.
+- 2019-01-10 — Signed by President.
