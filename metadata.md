@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5923
@@ -16,9 +16,10 @@ Walnut Grove Land Exchange Act
 
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Walnut Grove Land Exchange Act
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394). (text: CR H8129)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 3 (Roll no. 394).(text: CR H8129)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
