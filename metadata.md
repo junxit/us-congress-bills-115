@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5317
@@ -24,9 +24,10 @@ To repeal section 2141 of the Revised Statutes to remove the prohibition on cert
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To repeal section 2141 of the Revised Statutes to remove the prohibition on cert
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8159)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8159)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
