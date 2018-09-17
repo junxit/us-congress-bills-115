@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1911
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1911
@@ -105,9 +105,10 @@ Special Envoy to Monitor and Combat Anti-Semitism Act of 2018
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -128,3 +129,4 @@ Special Envoy to Monitor and Combat Anti-Semitism Act of 2018
 - 2018-09-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 2 (Roll no. 398). (text: CR 09/12/2018 H8150-8151)
 - 2018-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 2 (Roll no. 398).(text: CR 09/12/2018 H8150-8151)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
