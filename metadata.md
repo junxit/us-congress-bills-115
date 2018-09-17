@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2591
@@ -49,9 +49,10 @@ Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8133)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8133)
+- 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
