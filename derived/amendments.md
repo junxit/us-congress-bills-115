@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1551
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+36 amendatory instructions. 1 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 19 U.S.C. § 58c
+
+> Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “October 13, 2027” and inserting “October 20, 2027”.
+
+| | |
+|---|---|
+| Removed | `October 13, 2027` |
+| Inserted | `October 20, 2027` |
 
 ## Stated, not applied
 
@@ -31,8 +42,38 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 45J` | insert | in paragraph (4), by inserting “or any amendment to” after “enactment of”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 45J` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45J` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45J` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45J` | add-at-end | Section 501(c)(12) of such Code is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in the subsection heading, by inserting “in general” after “Availability and scope of compulsory license”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “A compulsory license” and inserting “Musical arrangement.—A compulsory license”; | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (8) as paragraph (9); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (7) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraphs (1) and (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively. | the bill names no machine-readable US Code section |
+| — | repeal | Subsection (i) of section 114 of title 17, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 114(f) of title 17, United States Code, as amended by subsection (a), is further amended in paragraph (4)(C), as so redesignated, in the first sentence, by striking “under paragraph (4)” and inserting “under paragraph (3)”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “The rates applicable” and all that follows though “prevailing industry practices.”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7)(B), by striking “114(f)(3)” and inserting “114(f)(2)”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “or 114(f)(2)(C)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “114(f)(4)(B)” and inserting “114(f)(3)(B)”. | the bill names no machine-readable US Code section |
+| — | strike | in clause (i), by striking “and 114(f)(2)(C)”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii)(II), by striking “114(f)(4)(B)(ii)” and inserting “114(f)(3)(B)(ii)”; and | the bill names no machine-readable US Code section |
+| — | strike | in clause (iv), by striking “or 114(f)(2)(C), as the case may be”. | the bill names no machine-readable US Code section |
+| — | insert | Section 804(b)(3)(B) of title 17, United States Code, is amended, in the third sentence, by inserting the following after “fifth calendar year”: “, except that—(i) with respect to preexisting subscription services, the terms and rates fi… | the bill names no machine-readable US Code section |
+| — | replace | by striking “The business” and inserting “(a) In general.—The business”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 230` | replace | in section 301, by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 230` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 230` | add-at-end | The table of chapters for title 17, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 114(g) of title 17, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 114(g) of title 17, United States Code, as amended by subsection (a), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “An agent designated” and inserting “Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “nonprofit agent designated” and inserting “nonprofit collective designated by the Copyright Royalty Judges”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “another designated agent” and inserting “another designated nonprofit collective”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “agent” and inserting “collective” each subsequent place it appears; | the bill names no machine-readable US Code section |
+| — | replace | by striking “designated agent” and inserting “nonprofit collective”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “agent” and inserting “collective” each subsequent place it appears; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

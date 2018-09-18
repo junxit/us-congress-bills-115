@@ -2,57 +2,20 @@
 legis-num: H.R. 1551
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1551
 
-> To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.
+That the bill from the House of Representatives (H.R. 1551) entitled “An Act to amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.”, do pass with the following
 
-## § 1. Modifications of credit for production from advanced nuclear power facilities
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *Treatment of unutilized limitation amounts* Section 45J(b) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** in paragraph (4), by inserting “or any amendment to” after “enactment of”; and
-  - **(2)** by adding at the end the following new paragraph:
-    > - **(5)** *Allocation of unutilized limitation*
-    >   - **(A)** *In general* Any unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020—
-    >     - **(i)** first to facilities placed in service on or before such date to the extent that such facilities did not receive an allocation equal to their full nameplate capacity; and
-    >     - **(ii)** then to facilities placed in service after such date in the order in which such facilities are placed in service.
-    >   - **(B)** *Unutilized national megawatt capacity limitation* The term “unutilized national megawatt capacity limitation” means the excess (if any) of—
-    >     - **(i)** 6,000 megawatts, over
-    >     - **(ii)** the aggregate amount of national megawatt capacity limitation allocated by the Secretary before January 1, 2021, reduced by any amount of such limitation which was allocated to a facility which was not placed in service before such date.
-    >   - **(C)** *Coordination with other provisions* In the case of any unutilized national megawatt capacity limitation allocated by the Secretary pursuant to this paragraph—
-    >     - **(i)** such allocation shall be treated for purposes of this section in the same manner as an allocation of national megawatt capacity limitation; and
-    >     - **(ii)** subsection (d)(1)(B) shall not apply to any facility which receives such allocation.
+## § 1. Short title; table of contents
 
-- **(b)** *Transfer of credit by certain public entities*
-  - **(1)** *In general* Section 45J of such Code is amended—
-    - **(A)** by redesignating subsection (e) as subsection (f); and
-    - **(B)** by inserting after subsection (d) the following new subsection:
-      > - **(e)** *Transfer of credit by certain public entities*
-      >   - **(1)** *In general* If, with respect to a credit under subsection (a) for any taxable year—
-      >     - **(A)** the taxpayer would be a qualified public entity; and
-      >     - **(B)** such entity elects the application of this paragraph for such taxable year with respect to all (or any portion specified in such election) of such credit,
-      >   - **(2)** *Definitions* For purposes of this subsection—
-      >     - **(A)** *Qualified public entity* The term “qualified public entity” means—
-      >       - **(i)** a Federal, State, or local government entity, or any political subdivision, agency, or instrumentality thereof;
-      >       - **(ii)** a mutual or cooperative electric company described in section 501(c)(12) or section 1381(a)(2); or
-      >       - **(iii)** a not-for-profit electric utility which has or had received a loan or loan guarantee under the Rural Electrification Act of 1936.
-      >     - **(B)** *Eligible project partner* The term “eligible project partner” means—
-      >       - **(i)** any person responsible for, or participating in, the design or construction of the advanced nuclear power facility to which the credit under subsection (a) relates;
-      >       - **(ii)** any person who participates in the provision of the nuclear steam supply system to the advanced nuclear power facility to which the credit under subsection (a) relates;
-      >       - **(iii)** any person who participates in the provision of nuclear fuel to the advanced nuclear power facility to which the credit under subsection (a) relates; or
-      >       - **(iv)** any person who has an ownership interest in such facility.
-      >   - **(3)** *Special rules*
-      >     - **(A)** *Application to partnerships* In the case of a credit under subsection (a) which is determined at the partnership level—
-      >       - **(i)** for purposes of paragraph (1)(A), a qualified public entity shall be treated as the taxpayer with respect to such entity’s distributive share of such credit; and
-      >       - **(ii)** the term “eligible project partner” shall include any partner of the partnership.
-      >     - **(B)** *Taxable year in which credit taken into account* In the case of any credit (or portion thereof) with respect to which an election is made under paragraph (1), such credit shall be taken into account in the first taxable year of the eligible project partner ending with, or after, the qualified public entity’s taxable year with respect to which the credit was determined.
-      >     - **(C)** *Treatment of transfer under private use rules* For purposes of section 141(b)(1), any benefit derived by an eligible project partner in connection with an election under this subsection shall not be taken into account as a private business use.
+- **(a)** *Short title* This Act may be cited as the “Orrin G. Hatch Music Modernization Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-  - **(2)** *Special rule for proceeds of transfers for mutual or cooperative electric companies* Section 501(c)(12) of such Code is amended by adding at the end the following new subparagraph:
-    > - **(I)** In the case of a mutual or cooperative electric company described in this paragraph or an organization described in section 1381(a)(2), income received or accrued in connection with an election under section 45J(e)(1) shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
+## § 2. Customs user fees
 
-- **(c)** *Effective dates*
-  - **(1)** *Treatment of unutilized limitation amounts* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
-  - **(2)** *Transfer of credit by certain public entities* The amendments made by subsection (b) shall apply to taxable years beginning after the date of the enactment of this Act.
+Section 13031(j)(3)(A) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(A)) is amended by striking “October 13, 2027” and inserting “October 20, 2027”.
