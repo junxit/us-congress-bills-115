@@ -33,7 +33,7 @@ This Act may be cited as the “Missing Children’s Assistance Act of 2018”.
   - **(1)** by striking paragraph (1) and inserting the following:
     > - **(1)** the term missing child means any individual less than 18 years of age whose whereabouts are unknown to such individual's parent;
 
-  - **(2)** in paragraph (2) by striking “and ” at the end;
+  - **(2)** in paragraph (2) by striking “and” at the end;
   - **(3)** in paragraph (3) by striking the period at the end and inserting “; and”; and
   - **(4)** by adding at the end the following:
     > - **(4)** the term parent includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child.

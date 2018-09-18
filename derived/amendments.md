@@ -1,7 +1,7 @@
 ---
 measure: S. 3354
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -121,7 +121,7 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11291` | redesignate | in paragraph (6), as so redesignated, by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11291` | redesignate | by amending paragraph (7), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11292` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11292` | strike | in paragraph (2) by striking “and ” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 11292` | strike | in paragraph (2) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 11292` | replace | in paragraph (3) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11292` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11293` | insert | by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
