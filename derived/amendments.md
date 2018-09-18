@@ -1,7 +1,7 @@
 ---
 measure: S. 3479
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -503,7 +503,7 @@ to guess them.
 
 ### 38 U.S.C. § 7330C
 
-> in subparagraph (H)(i), by striking “Department of Veterans Affairs” and inserting “Department”;and
+> in subparagraph (H)(i), by striking “Department of Veterans Affairs” and inserting “Department”; and
 
 | | |
 |---|---|
