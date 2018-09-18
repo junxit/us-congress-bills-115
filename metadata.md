@@ -1,7 +1,7 @@
 ---
 measure: S. 2961
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2961
@@ -16,7 +16,7 @@ Victims of Child Abuse Act Reauthorization Act of 2018
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 
-## Cosponsors (10)
+## Cosponsors (19)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -28,6 +28,15 @@ Victims of Child Abuse Act Reauthorization Act of 2018
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -37,3 +46,7 @@ Victims of Child Abuse Act Reauthorization Act of 2018
 
 - 2018-05-24 — Introduced in Senate
 - 2018-05-24 — Read twice and referred to the Committee on the Judiciary.
+- 2018-09-13 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-09-18 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-09-18 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2018-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.
