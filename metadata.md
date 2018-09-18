@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1551
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1551
@@ -16,7 +16,7 @@ Orrin G. Hatch-Bob Goodlatte Music Modernization Act
 
 - Rep. Rice, Tom [R-SC-7] (R000597)
 
-## Cosponsors (32)
+## Cosponsors (38)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
@@ -50,6 +50,12 @@ Orrin G. Hatch-Bob Goodlatte Music Modernization Act
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 - Rep. Graves, Tom [R-GA-14] (G000560)
 - Rep. Collins, Doug [R-GA-9] (C001093)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -74,3 +80,16 @@ Orrin G. Hatch-Bob Goodlatte Music Modernization Act
 - 2017-06-21 — Received in the Senate.
 - 2018-02-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2018-02-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.
+- 2018-09-18 — Amendment SA 4021 agreed to in Senate by Unanimous Consent.
+- 2018-09-18 — Amendment SA 4021 proposed by Senator Hatch for Senator Alexander to Amendment SA 4022. (consideration: CR S6259) To amend the short title.
+- 2018-09-18 — Amendment SA 4022 agreed to in Senate by Unanimous Consent.
+- 2018-09-18 — Amendment SA 4022 proposed by Senator Hatch. (consideration: CR S6259) In the nature of a substitute.
+- 2018-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S6259)
+- 2018-09-18 — Passed Senate with an amendment by Voice Vote.
+- 2018-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-09-18 — Senate amendment agreed to: Amendment SA 4021 agreed to in Senate by Unanimous Consent.
+- 2018-09-18 — Senate amendment agreed to: Amendment SA 4022 agreed to in Senate by Unanimous Consent.
+- 2018-09-18 — Senate amendment proposed (on the floor): Amendment SA 4021 proposed by Senator Hatch for Senator Alexander to Amendment SA 4022.(consideration: CR S6259)
+- 2018-09-18 — Senate amendment proposed (on the floor): Amendment SA 4022 proposed by Senator Hatch.(consideration: CR S6259)
+- 2018-09-18 — Senate amendment submitted
+- 2018-09-18 — Senate amendment submitted
