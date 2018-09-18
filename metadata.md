@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 46
@@ -46,3 +46,14 @@ Fort Ontario Study Act
 - 2017-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
 - 2018-09-18 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6258-6259)
 - 2018-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6258-6259)
+- 2018-09-20 — Message on Senate action sent to the House.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. McClintock asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H8861)
+- 2018-09-25 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate Amendment: CR H8861)
+- 2018-09-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate Amendment: CR H8861)
+- 2018-09-28 — Presented to President.
+- 2018-09-28 — Presented to President.
+- 2018-10-09 — Became Public Law No: 115-255.
+- 2018-10-09 — Became Public Law No: 115-255.
+- 2018-10-09 — Signed by President.
+- 2018-10-09 — Signed by President.

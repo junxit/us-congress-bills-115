@@ -1,12 +1,35 @@
 ---
 legis-num: H.R. 46
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 46
 
-That the bill from the House of Representatives (H.R. 46) entitled “An Act to authorize the Secretary of the Interior to conduct a special resource study of Fort Ontario in the State of New York.”, do pass with the following
+> To authorize the Secretary of the Interior to conduct a special resource study of Fort Ontario in the State of New York.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “Fort Ontario Study Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(2)** *Study area* The term “study area” means Fort Ontario in Oswego, New York.
+
+## § 3. Fort Ontario special resource study
+
+- **(a)** *In general* The Secretary shall conduct a special resource study of the study area.
+- **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
+  - **(1)** evaluate the national significance of the study area;
+  - **(2)** determine the suitability and feasibility of designating the study area as a unit of the National Park System;
+  - **(3)** consider other alternatives for preservation, protection, and interpretation of the study area by the Federal Government, State or local government entities, or private and nonprofit organizations;
+  - **(4)** consult with interested Federal agencies, State or local governmental entities, private and nonprofit organizations, or any other interested individuals; and
+  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives.
+- **(c)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 100507 of title 54, United States Code.
+- **(d)** *Report* Not later than 3 years after the date on which funds are first made available to carry out the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+  - **(1)** the results of the study; and
+  - **(2)** any conclusions and recommendations of the Secretary.
