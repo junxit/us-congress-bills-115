@@ -1,7 +1,7 @@
 ---
 measure: S. 2461
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2461
@@ -16,9 +16,13 @@ Blocking Regulatory Interference from Closing Kilns Act of 2018
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Blocking Regulatory Interference from Closing Kilns Act of 2018
 
 - 2018-02-27 — Introduced in Senate
 - 2018-02-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2018-09-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2018-09-18 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-09-18 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2018-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 577.
