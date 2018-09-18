@@ -1,7 +1,7 @@
 ---
 measure: H.R. 46
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 46
@@ -44,3 +44,5 @@ Fort Ontario Study Act
 - 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-110.
 - 2017-06-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-110.
 - 2017-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
+- 2018-09-18 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6258-6259)
+- 2018-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6258-6259)
