@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1551
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1551
@@ -93,3 +93,15 @@ Orrin G. Hatch-Bob Goodlatte Music Modernization Act
 - 2018-09-18 — Senate amendment proposed (on the floor): Amendment SA 4022 proposed by Senator Hatch.(consideration: CR S6259)
 - 2018-09-18 — Senate amendment submitted
 - 2018-09-18 — Senate amendment submitted
+- 2018-09-20 — Message on Senate action sent to the House.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Collins (GA) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H8822-8838)
+- 2018-09-25 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H8822-8837)
+- 2018-09-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H8822-8837)
+- 2018-09-28 — Correct Enrollment
+- 2018-10-04 — Presented to President.
+- 2018-10-04 — Presented to President.
+- 2018-10-11 — Became Public Law No: 115-264.
+- 2018-10-11 — Became Public Law No: 115-264.
+- 2018-10-11 — Signed by President.
+- 2018-10-11 — Signed by President.

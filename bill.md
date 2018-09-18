@@ -1,19 +1,17 @@
 ---
 legis-num: H.R. 1551
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1551
 
-That the bill from the House of Representatives (H.R. 1551) entitled “An Act to amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To modernize copyright law, and for other purposes.
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Orrin G. Hatch Music Modernization Act”.
+- **(a)** *Short title* This Act may be cited as the “Orrin G. Hatch–Bob Goodlatte Music Modernization Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Customs user fees
