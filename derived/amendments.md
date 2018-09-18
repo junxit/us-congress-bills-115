@@ -1,7 +1,7 @@
 ---
 measure: S. 1934
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Not later than 1 year after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall revise section 60.4216(c) of title 40, Code of Federal Regulations (as in effect on the date of enactment of th… | the bill names no machine-readable US Code section |
+| — | replace | The Administrator of the Environmental Protection Agency shall revise section 60.4216(c) of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act), by striking “that was not certified” and all that foll… | the bill names no machine-readable US Code section |
