@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6106
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6106
@@ -33,3 +33,8 @@ Common Sense Permitting Act
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Referred to the House Committee on Natural Resources.
+- 2018-06-20 — Committee Consideration and Mark-up Session Held.
+- 2018-06-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 18.
+- 2018-09-20 — Placed on the Union Calendar, Calendar No. 743.
+- 2018-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-955.
+- 2018-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-955.
