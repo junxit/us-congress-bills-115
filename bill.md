@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3744
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,61 +11,61 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Tribal Recognition Act of 2017”.
+This Act may be cited as the “Tribal Recognition Act of 2018”.
 
 ## § 2. Findings
 
 Congress finds as follows:
 
-- **(1)** Article I, section 8, clause 3 of the Constitution (commonly known as the “Indian Commerce Clause”) gives Congress authority over Indian affairs.
+- **(1)** Article I, section 8, clause 3 of the Constitution (commonly known as the Indian Commerce Clause) gives Congress authority over Indian affairs.
 - **(2)** Such authority is plenary and exclusive.
-- **(3)** Such authority may not be exercised by the executive branch, except as expressly delegated by an Act of Congress (or by a treaty ratified by the Senate before March 1871).
+- **(3)** Such authority may not be exercised by the judicial branch or by the executive branch (except to the extent that such authority has been expressly delegated to the executive branch by an Act of Congress).
 
 ## § 3. Definitions
 
 As used in this Act:
 
 - **(1)** *Assistant Secretary* The term Assistant Secretary means the Assistant Secretary of Indian Affairs, or that officer’s authorized representative.
-- **(2)** *Autonomous* The term autonomous means the exercise of political influence or authority independent of the control of any other Indian governing entity. Autonomous must be understood in the context of the history, geography, culture and social organization of the petitioning group.
-- **(3)** *Community* The term Community means any group of people which can demonstrate that consistent interactions and significant social relationships exist within its membership and that its members are differentiated from and identified as distinct from nonmembers. Community must be understood in the context of the history, geography, culture and social organization of the group.
+- **(2)** *Autonomous* The term autonomous means the exercise of political influence or authority independent of the control of any other Indian governing entity. Autonomous must be understood in the context of the history, geography, culture, and social organization of the petitioning group.
+- **(3)** *Community* The term Community means any group of people who can demonstrate that consistent interactions and significant social relationships exist within its membership and that its members are differentiated from and identified as distinct from nonmembers. Community must be understood in the context of the history, geography, culture, and social organization of the group.
 - **(4)** *Continental United States* The term continental United States means the contiguous 48 States and Alaska.
 - **(5)** *Continuously or continuous* The term continuously or continuous means extending from first sustained contact with non-Indians throughout the group’s history to the present substantially without interruption.
 - **(6)** *Documented petition* The term documented petition means the detailed arguments made by a petitioner to substantiate its claim to continuous existence as an Indian tribe, together with the factual exposition and all documentary evidence necessary to demonstrate that these arguments address the mandatory criteria.
-- **(7)** *Historically, historical or history* The term historically, historical or history means dating from first sustained contact with non-Indians.
+- **(7)** *Historically, historical, or history* The term historically, historical, or history means dating from first sustained contact with non-Indians.
 - **(8)** *Indian group or group* The term Indian group or group means any Indian or Alaska Native aggregation within the continental United States that the Secretary of the Interior does not acknowledge to be an Indian tribe. Indian tribe, also referred to herein as tribe, means any Indian or Alaska Native tribe, band, pueblo, village, or community within the continental United States that the Secretary of the Interior has lawfully acknowledged as an Indian tribe.
 - **(9)** *Indigenous* The term indigenous means native to the continental United States in that at least part of the petitioner’s territory at the time of sustained contact extended into what is now the continental United States.
 - **(10)** *Informed party* The term informed party means any person or organization, other than an interested party, who requests an opportunity to submit comments or evidence or to be kept informed of general actions regarding a specific petitioner.
-- **(11)** *Interested party* The term interested party means any person, organization or other entity who can establish a legal, factual or property interest in an acknowledgment determination and who requests an opportunity to submit comments or evidence or to be kept informed of general actions regarding a specific petitioner. “Interested party” includes the governor and attorney general of the State in which a petitioner is located, and may include, but is not limited to, local governmental units, and any recognized Indian tribes and unrecognized Indian groups that might be affected by an acknowledgment determination.
+- **(11)** *Interested party* The term interested party means any person, organization, or other entity who can establish a legal, factual, or property interest in an acknowledgment determination and who requests an opportunity to submit comments or evidence or to be kept informed of general actions regarding a specific petitioner. “Interested party” includes the Governor and attorney general of the State in which a petitioner is located, and may include, but is not limited to, local governmental units, and any recognized Indian tribes and unrecognized Indian groups that might be affected by an acknowledgment determination.
 - **(12)** *Letter of intent* The term letter of intent means an undocumented letter or resolution by which an Indian group requests Federal acknowledgment as an Indian tribe and expresses its intent to submit a documented petition.
 - **(13)** *Petitioner* The term petitioner means any entity that has submitted a letter of intent to the Secretary requesting acknowledgment that it is an Indian tribe.
-- **(14)** *Political influence or authority* The term political influence or authority means a tribal council, leadership, internal process or other mechanism which the group has used as a means of influencing or controlling the behavior of its members in significant respects, and/or making decisions for the group which substantially affect its members, and/or representing the group in dealing with outsiders in matters of consequence. This process is to be understood in the context of the history, culture and social organization of the group.
+- **(14)** *Political influence or authority* The term political influence or authority means a tribal council, leadership, internal process, or other mechanism which the group has used as a means of influencing or controlling the behavior of its members in significant respects, and making decisions for the group which substantially affect its members, and representing the group in dealing with outsiders in matters of consequence. This process is to be understood in the context of the history, culture, and social organization of the group.
 - **(15)** *Previous Federal acknowledgment* The term previous Federal acknowledgment means action by the Federal Government clearly premised on identification of a tribal political entity and indicating clearly the recognition of a relationship between that entity and the United States.
 - **(16)** *Secretary* The term Secretary means the Secretary of the Interior or that officer’s authorized representative.
-- **(17)** *Sustained contact* The term sustained contact means the period of earliest sustained non-Indian settlement and/or governmental presence in the local area in which the historical tribe or tribes from which the petitioner descends was located historically.
+- **(17)** *Sustained contact* The term sustained contact means the period of earliest sustained non-Indian settlement or governmental presence in the local area in which the historical tribe or tribes from which the petitioner descends was located historically.
 
 ## § 4. Groups eligible to submit petitions
 
 - **(a)** *Eligible groups* Indian groups indigenous to the continental United States that are not federally recognized Indian tribes on the date of the enactment of this Act may submit a petition under this Act.
 - **(b)** *Ineligible groups* The following may not submit a petition under this Act:
-  - **(1)** Splinter groups, political factions, communities or groups of any character that separate from the main body of a federally recognized Indian tribe, unless they can establish clearly that they have functioned throughout history until the present as an autonomous tribal entity, even if they have been regarded by some as part of or have been associated in some manner with a federally recognized Indian tribe.
+  - **(1)** Splinter groups, political factions, communities, or groups of any character that separate from the main body of a federally recognized Indian tribe, unless they can establish clearly that they have functioned throughout history until the present as an autonomous tribal entity, even if they have been regarded by some as part of or have been associated in some manner with a federally recognized Indian tribe.
   - **(2)** Indian tribes, organized bands, pueblos, Alaska native villages, or communities that have been lawfully acknowledged to be federally recognized Indian tribes and are receiving services from the Bureau of Indian Affairs.
   - **(3)** Groups that petitioned and were denied Federal acknowledgment under part 83 of title 25, Code of Federal Regulations, including reorganized or reconstituted petitioners previously denied, or splinter groups, spin-offs, or component groups of any type that were once part of petitioners previously denied.
-  - **(4)** Groups for which a documented petition has not been filed pursuant to section 9 by the date that is five years after the date of the enactment of this Act.
+  - **(4)** Groups for which a documented petition has not been filed pursuant to section 9 by the date that is 5 years after the date of the enactment of this Act.
 - **(c)** *Groups with petitions in progress* This Act, including the criteria in section 7, shall apply to any Indian group whose documented petition was submitted and not denied on the date of the enactment of this Act.
 
 ## § 5. Filing a letter of intent
 
-Any Indian group in the continental United States that believes it should be acknowledged as an Indian tribe and that it can satisfy the criteria in this Act may submit a letter of intent requesting acknowledgment that an Indian group exists as an Indian tribe. The letter of intent submitted under this section—
+Any eligible Indian group in the continental United States that believes it should be acknowledged as an Indian tribe and that it can satisfy the criteria in this Act may submit a letter of intent requesting acknowledgment that an Indian group exists as an Indian tribe. The letter of intent submitted under this section—
 
-- **(1)** shall be filed with the Assistant Secretary—Indian Affairs, Department of the Interior;
+- **(1)** shall be filed with the Assistant Secretary;
 - **(2)** may be filed in advance of, or at the same time as, a group’s documented petition; and
-- **(3)** shall be produced, dated and signed by the governing body of an Indian group.
+- **(3)** shall be produced, dated, and signed by the governing body of an Indian group.
 
 ## § 6. Duties of the Assistant Secretary
 
-- **(a)** *Guidelines* The Assistant Secretary shall make available guidelines for the preparation of documented petitions. These guidelines shall—
-  - **(1)** include an explanation of the criteria, a discussion of the types of evidence which may be used to demonstrate particular criteria, and general suggestions and guidelines on how and where to conduct research;
-  - **(2)** include an example of a documented petition format which shall provide guidance, but not preclude the use of any other format; and
+- **(a)** *Guidelines* The Assistant Secretary shall make available guidelines for the preparation of documented petitions. These guidelines—
+  - **(1)** shall include an explanation of the criteria, a discussion of the types of evidence which may be used to demonstrate particular criteria, and general suggestions and guidelines on how and where to conduct research;
+  - **(2)** shall include an example of a documented petition format which shall provide guidance, but not preclude the use of any other format; and
   - **(3)** may be supplemented or updated as necessary.
 - **(b)** *Research and preparation of petition* The Assistant Secretary—
   - **(1)** shall provide petitioners with suggestions and advice regarding preparation of the documented petition; and
@@ -73,18 +73,18 @@ Any Indian group in the continental United States that believes it should be ack
 
 ## § 7. Criteria for Federal acknowledgment
 
-The criteria for consideration for Federal acknowledgment is, at a minimum, the following:
+The criteria for consideration for Federal acknowledgment are, at a minimum, the following:
 
 - **(1)** The petitioner has been identified as an American Indian entity on a substantially continuous basis since 1900. Evidence that the group’s character as an Indian entity has from time to time been denied shall not be considered to be conclusive evidence that this criterion has not been met. Evidence to be relied upon in determining a group’s Indian identity may include one or a combination of the following, as well as other evidence of identification by other than the petitioner itself or its members:
   - **(A)** Identification as an Indian entity by Federal authorities.
   - **(B)** Relationships with State governments based on identification of the group as Indian.
   - **(C)** Dealings with a county, parish, or other local government in a relationship based on the group’s Indian identity.
-  - **(D)** Identification as an Indian entity by anthropologists, historians, and/or other scholars.
+  - **(D)** Identification as an Indian entity by anthropologists, historians, or other scholars.
   - **(E)** Identification as an Indian entity in newspapers and books.
   - **(F)** Identification as an Indian entity in relationships with Indian tribes or with national, regional, or State Indian organizations.
 - **(2)** A predominant portion of the petitioning group comprises a distinct community and has existed as a community from historical times until the present.
-  - **(A)** This criterion may be demonstrated by some combination of the following evidence and/or other evidence that the petitioner meets the definition of community:
-    - **(i)** Significant rates of marriage within the group, and/or, as may be culturally required, patterned out-marriages with other Indian populations.
+  - **(A)** This criterion may be demonstrated by some combination of the following evidence and other evidence that the petitioner meets the definition of community:
+    - **(i)** Significant rates of marriage within the group, or, as may be culturally required, patterned out-marriages with other Indian populations.
     - **(ii)** Significant social relationships connecting individual members.
     - **(iii)** Significant rates of informal social interaction which exist broadly among the members of a group.
     - **(iv)** A significant degree of shared or cooperative labor or other economic activity among the membership.
@@ -100,14 +100,14 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
     - **(iv)** There are distinct community social institutions encompassing most of the members, such as kinship organizations, formal or informal economic cooperation, or religious organizations.
     - **(v)** The group has met the criterion in paragraph (3) using evidence described in paragraph (3)(B).
 - **(3)** The petitioner has maintained political influence or authority over its members as an autonomous entity from historical times until the present.
-  - **(A)** This criterion may be demonstrated by some combination of the evidence listed below and/or by other evidence that the petitioner meets the definition of political influence or authority:
+  - **(A)** This criterion may be demonstrated by some combination of the evidence listed below and by other evidence that the petitioner meets the definition of political influence or authority:
     - **(i)** The group is able to mobilize significant numbers of members and significant resources from its members for group purposes.
     - **(ii)** Most of the membership considers issues acted upon or actions taken by group leaders or governing bodies to be of importance.
-    - **(iii)** There is widespread knowledge, communication and involvement in political processes by most of the group’s members.
+    - **(iii)** There is widespread knowledge, communication, and involvement in political processes by most of the group’s members.
     - **(iv)** The group meets the criterion in paragraph (2) at more than a minimal level.
-    - **(v)** There are internal conflicts which show controversy over valued group goals, properties, policies, processes and/or decisions.
-  - **(B)** A petitioning group shall be considered to have provided sufficient evidence to demonstrate the exercise of political influence or authority at a given point in time by demonstrating that group leaders and/or other mechanisms exist or existed which—
-    - **(i)** allocate group resources such as land, residence rights and the like on a consistent basis;
+    - **(v)** There are internal conflicts which show controversy over valued group goals, properties, policies, processes, and decisions.
+  - **(B)** A petitioning group shall be considered to have provided sufficient evidence to demonstrate the exercise of political influence or authority at a given point in time by demonstrating that group leaders and other mechanisms exist or existed which—
+    - **(i)** allocate group resources such as land, residence rights, and the like on a consistent basis;
     - **(ii)** settle disputes between members or subgroups by mediation or other means on a regular basis;
     - **(iii)** exert strong influence on the behavior of individual members, such as the establishment or maintenance of norms and the enforcement of sanctions to direct or control behavior; and
     - **(iv)** organize or influence economic subsistence activities among the members, including shared or cooperative labor.
@@ -122,7 +122,7 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
     - **(v)** Other records or evidence identifying present members or ancestors of present members as being descendants of a historical tribe or tribes that combined and functioned as a single autonomous political entity.
   - **(B)** The petitioner must provide an official membership list, separately certified by the group’s governing body, of all known current members of the group. This list must include each member’s full name (including maiden name), date of birth, and current residential address. The petitioner must also provide a copy of each available former list of members based on the group’s own defined criteria, as well as a statement describing the circumstances surrounding the preparation of the current list and, insofar as possible, the circumstances surrounding the preparation of former lists.
 - **(6)** The membership of the petitioning group is composed principally of persons who are not members of any acknowledged North American Indian tribe. However, under certain conditions a petitioning group may be acknowledged even if its membership is composed principally of persons whose names have appeared on rolls of, or who have been otherwise associated with, an acknowledged Indian tribe. The conditions are that the group must establish that it has functioned throughout history until the present as a separate and autonomous Indian tribal entity, that its members do not maintain a bilateral political relationship with the acknowledged tribe, and that its members have provided written confirmation of their membership in the petitioning group.
-- **(7)** Neither the petitioner nor its members are the subject of congressional legislation that has expressly terminated or forbidden the Federal relationship.
+- **(7)** Neither the petitioner nor its members are the subject of an Act of Congress that has expressly terminated or forbidden the Federal relationship.
 
 ## § 8. Previous Federal acknowledgment
 
@@ -139,7 +139,7 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
   - **(2)** serve to announce the opportunity for interested parties and informed parties to submit factual or legal arguments in support of or in opposition to the petitioner’s request for acknowledgment or to request to be kept informed of all general actions affecting the petition; and
   - **(3)** indicate where a copy of the letter of intent and the documented petition may be examined.
 - **(b)** *Notice to State governments* The Assistant Secretary shall notify, in writing—
-  - **(1)** the Governor and Attorney General of the State or States in which a petitioner is located; and
+  - **(1)** the Governor and attorney general of the State or States in which a petitioner is located; and
   - **(2)** any recognized tribe and any other petitioner that—
     - **(A)** appears to have a historical or present relationship with the petitioner; or
     - **(B)** may otherwise be considered to have a potential interest in the acknowledgment determination.
@@ -156,7 +156,7 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
   - **(4)** may consider any evidence which may be submitted by interested parties or informed parties.
 - **(b)** *Technical assistance*
   - **(1)** Prior to review of the documented petition under subsection (a), the Assistant Secretary shall conduct a preliminary review of the petition in order to provide technical assistance to the petitioner.
-  - **(2)** The review under paragraph (1) shall be a preliminary review for the purpose of providing the petitioner an opportunity to supplement or revise the documented petition prior to the review under paragraph (1). Insofar as possible, technical assistance reviews under this paragraph will be conducted in the order of receipt of documented petitions. However, technical assistance reviews will not have priority over active consideration of documented petitions.
+  - **(2)** The review under paragraph (1) shall be a preliminary review for the purpose of providing the petitioner an opportunity to supplement or revise the documented petition prior to the review under subsection (a). Insofar as possible, technical assistance reviews under this paragraph will be conducted in the order of receipt of documented petitions. However, technical assistance reviews will not have priority over active consideration of documented petitions.
   - **(3)** After the technical assistance review, the Assistant Secretary shall notify the petitioner by letter of any obvious deficiencies or significant omissions apparent in the documented petition and provide the petitioner with an opportunity to withdraw the documented petition for further work or to submit additional information.
   - **(4)** If a petitioner’s documented petition claims previous Federal acknowledgment or includes evidence of previous Federal acknowledgment, the technical assistance review shall also include a review to determine whether that evidence is sufficient to meet the requirements of previous Federal acknowledgment.
 - **(c)** *Response to technical assistance review*
@@ -166,7 +166,7 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
 - **(d)** *Consideration of documented petitions* The Assistant Secretary shall—
   - **(1)** review documented petitions in the order that they are determined ready for review;
   - **(2)** establish and maintain a numbered register of documented petitions which have been determined ready for active consideration;
-  - **(3)** maintain a numbered register of letters of intent or incomplete petitions based on the original date received by the Department of the Interior; and
+  - **(3)** maintain a numbered register of letters of intent or incomplete petitions based on the original date the item was received by the Department of the Interior; and
   - **(4)** use the register of letters of intent or incomplete petitions to determine the order of review by the Assistant Secretary if two or more documented petitions are determined ready for review on the same date.
 - **(e)** *Report* Not later than 1 year after notifying the petitioner that review of the documented petition has begun, the Assistant Secretary shall—
   - **(1)** submit a report including a summary of the evidence, findings, petition, and supporting documentation, to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate;
@@ -181,4 +181,8 @@ The criteria for consideration for Federal acknowledgment is, at a minimum, the 
 
 ## § 12. Force and effect of regulations
 
-Part 83 of title 25, Code of Federal Regulations, shall have no force or effect.
+Part 83 of title 25, Code of Federal Regulations, shall have no force or effect, and section 1.2 of title 25, Code of Federal Regulations, with respect to any regulation promulgated by the Secretary pursuant to this Act, shall have no force or effect.
+
+## § 13. Trust land reaffirmation
+
+All land taken into trust by the United States under or pursuant to the Act of June 18, 1934 (25 U.S.C. 5101 et seq.), before February 24, 2009, for the benefit of an Indian tribe that was federally recognized on the date that the land was taken into trust is hereby reaffirmed as trust land.
