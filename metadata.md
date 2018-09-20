@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5556
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5556
@@ -44,3 +44,11 @@ Environmental Compliance Cost Transparency Act of 2018
 - 2018-04-18 — Introduced in House
 - 2018-04-18 — Introduced in House
 - 2018-04-18 — Referred to the House Committee on Natural Resources.
+- 2018-04-26 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-07-11 — Subcommittee Hearings Held.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-07-18 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-09-20 — Placed on the Union Calendar, Calendar No. 742.
+- 2018-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-954.
+- 2018-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-954.
