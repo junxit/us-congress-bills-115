@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6756
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -52,7 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 195` | redesignate | Section 195 of the Internal Revenue Code of 1986 is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by striking all that precedes subsection (d) (as so redesignated) and inserting the follow… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 195` | redesignate | Section 195(d) of such Code, as redesignated by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 195` | redesignate | Section 195(d) of such Code, as redesignated by subsection (a), is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 195` | redesignate | Section 195(e)(2) of such Code, as redesignated by subsection (a), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 195` | strike | Part VIII of subchapter B of chapter 1 is amended by striking section 248 of such Code (and by striking the item relating to such section in the table of sections of such part). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 195` | strike | Section 170(b)(2)(D)(ii) of such Code is amended by striking “(except section 248)”. | the bill quotes the text struck but describes what replaces it |

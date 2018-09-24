@@ -19,7 +19,7 @@ This Act may be cited as the “American Innovation Act of 2018”.
   > ## § 195. Start-up and organizational expenditures
   >
   > - **(a)** *Capitalization of expenditures* Except as otherwise provided in this section, no deduction shall be allowed for start-up or organizational expenditures.
-  > - **(b)** *Election To deduct*
+  > - **(b)** *Election to deduct*
   >   - **(1)** *In general* If a taxpayer elects the application of this subsection with respect to any active trade or business—
   >     - **(A)** the taxpayer shall be allowed a deduction for the taxable year in which such active trade or business begins in an amount equal to the lesser of—
   >       - **(i)** the aggregate amount of start-up and organizational expenditures paid or incurred in connection with such active trade or business, or
@@ -33,7 +33,7 @@ This Act may be cited as the “American Innovation Act of 2018”.
   >   - **(1)** *Liquidation of partnership or corporation* If any partnership or corporation is completely liquidated by the taxpayer, any start-up or organizational expenditures paid or incurred in connection with such partnership or corporation which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
   >   - **(2)** *Disposition of trade or business* If any trade or business is completely disposed of or discontinued by the taxpayer, any start-up expenditures paid or incurred in connection with such trade or business which were not allowed as a deduction by reason of this section (and not taken into account in connection with a liquidation to which paragraph (1) applies) may be deducted to the extent allowable under section 165. For purposes of this paragraph, in the case of any deduction allowed under subsection (b)(1) with respect to both start-up and organizational expenditures, the amount treated as so allowed with respect to start-up expenditures shall bear the same ratio to such deduction as the start-up expenditures taken into account in determining such deduction bears to the aggregate of the start-up and organizational expenditures so taken into account.
 
-- **(b)** *Organizational expenditures* Section 195(d) of such Code, as redesignated by subsection (a), is amended by adding at the end the following new paragraph:
+- **(b)** *Organizational expenditures* Section 195(d) of such Code, as redesignated by subsection (a), is amended by adding at the end the following new paragraphs:
   > - **(3)** *Organizational expenditures* The term “organizational expenditures” means any expenditure which—
   >   - **(A)** is incident to the creation of a corporation or a partnership,
   >   - **(B)** is chargeable to capital account, and
@@ -76,23 +76,23 @@ This Act may be cited as the “American Innovation Act of 2018”.
   >     - **(i)** begins before the close of the 3-year period beginning on the date on which any trade or business of such corporation begins as an active trade or business (as determined under section 195(d)(2) without regard to subparagraph (B) thereof), and
   >     - **(ii)** ends after September 10, 2018.
   >   - **(C)** *Net start-up loss*
-  >     - **(i)** *In general* The term “net start-up loss” means, with respect to any trade or business referred to in subparagraph (B)(i) for any start-up period taxable year, the amount which bears the same ratio (but not greater than one) to the net operating loss carryforward which arose in such start-up period taxable year as—
+  >     - **(i)** *In general* The term “net start-up loss” means, with respect to any trade or business referred to in subparagraph (B)(i) for any start-up period taxable year, the amount which bears the same ratio (but not greater than 1) to the net operating loss carryforward which arose in such start-up period taxable year as—
   >       - **(I)** the net operating loss (if any) which would have been determined for such start-up period taxable year if only items of income, gain, deduction, and loss properly allocable to such trade or business were taken into account, bears to
   >       - **(II)** the amount of the net operating loss determined for such start-up period taxable year.
   >     - **(ii)** *Special rule for last taxable year in start-up period* In the case of any start-up period taxable year which ends after the close of the 3-year period described in subparagraph (B)(i) with respect to any trade or business, the net start-up loss with respect to such trade or business for such start-up period taxable year shall be the same proportion of such loss (determined without regard to this clause) as the proportion of such start-up period taxable year which is on or before the last day of such period.
-  >   - **(D)** *Application to net operating loss arising in year of ownership change* Subparagraph (A) shall apply to any net operating loss described in paragraph (1)(B) in the same manner as such subparagraph applies to net operating loss car­ry­for­wards described in paragraph (1)(A), but by only taking into account the amount of such net operating loss (and the amount of the net start-up loss) which is allocable under paragraph (1)(B) to the period described in such paragraph. Proper adjustment in the allocation of the net start-up loss under the preceding sentence shall be made in the case of a taxable year to which subparagraph (C)(ii) applies.
+  >   - **(D)** *Application to net operating loss arising in year of ownership change* Subparagraph (A) shall apply to any net operating loss described in paragraph (1)(B) in the same manner as such subparagraph applies to net operating loss carryforwards described in paragraph (1)(A), but by only taking into account the amount of such net operating loss (and the amount of the net start-up loss) which is allocable under paragraph (1)(B) to the period described in such paragraph. Proper adjustment in the allocation of the net start-up loss under the preceding sentence shall be made in the case of a taxable year to which subparagraph (C)(ii) applies.
   >   - **(E)** *Application to taxable years which are start-up period taxable years with respect to more than 1 trade or business* In the case of any net operating loss carryforward which arose in a taxable year which is a start-up period taxable year with respect to more than 1 trade or business—
   >     - **(i)** this paragraph shall be applied separately with respect to each such trade or business, and
   >     - **(ii)** the aggregate reductions under subparagraph (A) shall not exceed such net operating loss carryforward.
   >   - **(F)** *Continuity of business requirement* If the new loss corporation does not continue the trade or business referred to in subparagraph (B)(i) at all times during the 2-year period beginning on the change date, this paragraph shall not apply with respect to such trade or business.
   >   - **(G)** *Certain title 11 or similar cases*
-  >     - **(i)** *Multiple ownership changes* In the case of a second ownership change to which subsection (l)(5)(D) applies, this paragraph shall not apply for purposes of determining the pre-change loss with respect to such second ownership change.
+  >     - **(i)** *Multiple ownership changes* In the case of a 2nd ownership change to which subsection (l)(5)(D) applies, this paragraph shall not apply for purposes of determining the pre-change loss with respect to such 2nd ownership change.
   >     - **(ii)** *Certain insolvency transactions* If subsection (l)(6) applies for purposes of determining the value of the old loss corporation under subsection (e), this paragraph shall not apply.
   >   - **(H)** *Not applicable to disallowed interest* This paragraph shall not apply for purposes of applying the rules of paragraph (1) to the carryover of disallowed interest under paragraph (3).
   >   - **(I)** *Transition rule* This paragraph shall not apply with respect to any trade or business if the date on which such trade or business begins as an active trade or business (as determined under section 195(d)(2) without regard to subparagraph (B) thereof) is on or before September 10, 2018.
 
 - **(b)** *Application to excess credits* Section 383 of such Code is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection:
-  > - **(e)** *Exception for start-Up excess credits*
+  > - **(e)** *Exception for start-up excess credits*
   >   - **(1)** *In general* In the case of any unused general business credit of the corporation under section 39 which arose in a start-up period taxable year, the amount of such unused general business credit otherwise taken into account under subsection (a)(2)(A) shall be reduced by the start-up excess credit determined with respect to any trade or business referred to in section 382(d)(4)(B)(i) for such start-up period taxable year.
   >   - **(2)** *Start-up period taxable year* For purposes of this subsection, the term “start-up period taxable year” has the meaning given such term in section 382(d)(4)(B).
   >   - **(3)** *Start-up excess credit* For purposes of this subsection, the term “start-up excess credit” means, with respect to any trade or business referred to in section 382(d)(4)(B)(i) for any start-up period taxable year, the amount which bears the same ratio to the unused general business credit which arose in such start-up period taxable year as—
@@ -101,4 +101,4 @@ This Act may be cited as the “American Innovation Act of 2018”.
   >   - **(4)** *Application of certain rules* Rules similar to the rules of subparagraphs (C)(ii), (D), (E), and (F) of section 382(d)(4) shall apply for purposes of this subsection.
   >   - **(5)** *Transition rule* This subsection shall not apply with respect to any trade or business if the date on which such trade or business begins as an active trade or business (as determined under section 195(d)(2) without regard to subparagraph (B) thereof) is on or before September 10, 2018.
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to taxable years ending after September 10, 2018.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years ending after September 10, 2018.

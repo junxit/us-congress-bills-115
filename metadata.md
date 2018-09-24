@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6756
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6756
@@ -16,7 +16,7 @@ American Innovation Act of 2018
 
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Cosponsors (23)
+## Cosponsors (26)
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -41,6 +41,9 @@ American Innovation Act of 2018
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Estes, Ron [R-KS-4] (E000298)
 
 ## Committees (1)
 
@@ -51,3 +54,8 @@ American Innovation Act of 2018
 - 2018-09-10 — Introduced in House
 - 2018-09-10 — Introduced in House
 - 2018-09-10 — Referred to the House Committee on Ways and Means.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2018-09-24 — Placed on the Union Calendar, Calendar No. 745.
+- 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-957.
+- 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-957.
