@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6757
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -111,7 +111,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 403` | add-at-end | Section 403(b)(7) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 403` | insert | Section 403(b)(9)(B) of the Internal Revenue Code of 1986 is amended by inserting “(including an employee described in section 414(e)(3)(B))” after “employee described in paragraph (1)”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 401` | add-at-end | Section 401(a)(9) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | redesignate | Section 6047 of such Code is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | redesignate | Section 6047 of such Code is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 414` | replace | by striking “For purposes of paragraph (1)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 414` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 402` | add-at-end | Section 402(g) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

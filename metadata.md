@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6757
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6757
@@ -16,7 +16,7 @@ Family Savings Act of 2018
 
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Cosponsors (24)
+## Cosponsors (29)
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -42,6 +42,11 @@ Family Savings Act of 2018
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Comstock, Barbara [R-VA-10] (C001105)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Estes, Ron [R-KS-4] (E000298)
 
 ## Committees (2)
 
@@ -54,3 +59,10 @@ Family Savings Act of 2018
 - 2018-09-10 — Introduced in House
 - 2018-09-10 — Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-10 — Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 21 - 14.
+- 2018-09-24 — Committee on Education and the Workforce discharged.
+- 2018-09-24 — Committee on Education and the Workforce discharged.
+- 2018-09-24 — Placed on the Union Calendar, Calendar No. 747.
+- 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-959, Part I.
+- 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-959, Part I.
