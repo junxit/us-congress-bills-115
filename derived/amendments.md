@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6760
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-239 amendatory instructions. 123 executed, 116 stated and not applied.
+243 amendatory instructions. 125 executed, 118 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “1993” in paragraph (1) and inserting “2018”;
+> by striking “1993” in paragraph (1) and inserting “2018”,
 
 | | |
 |---|---|
@@ -44,7 +44,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> in paragraph (1)(B)(i), by striking “25 percent” and inserting “22 percent”;
+> in paragraph (1)(B)(i), by striking “25 percent” and inserting “22 percent”,
 
 | | |
 |---|---|
@@ -53,7 +53,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> in paragraph (1)(C)(ii)(I), by striking “which would (without regard to this paragraph) be taxed at a rate below 39.6 percent” and inserting “below the maximum 15-percent rate amount”; and
+> in paragraph (1)(C)(ii)(I), by striking “which would (without regard to this paragraph) be taxed at a rate below 39.6 percent” and inserting “below the maximum 15-percent rate amount”, and
 
 | | |
 |---|---|
@@ -125,7 +125,7 @@ to guess them.
 
 ### 26 U.S.C. § 63
 
-> by striking “$4,400” in subparagraph (B) and inserting “$18,000”; and
+> by striking “$4,400” in subparagraph (B) and inserting “$18,000”, and
 
 | | |
 |---|---|
@@ -170,7 +170,7 @@ to guess them.
 
 ### 26 U.S.C. § 170
 
-> in the matter preceding clause (i), by striking “to which subparagraph (A) applies” and inserting “to which subparagraph (A) or (G) applies”;
+> in the matter preceding clause (i), by striking “to which subparagraph (A) applies” and inserting “to which subparagraph (A) or (G) applies”,
 
 | | |
 |---|---|
@@ -188,7 +188,7 @@ to guess them.
 
 ### 26 U.S.C. § 642
 
-> in clause (i), by striking “the exemption amount under section 151(d)” and all that follows through the period at the end and inserting “the dollar amount in effect under section 7706(d)(1)(B).”; and
+> in clause (i), by striking “the exemption amount under section 151(d)” and all that follows through the period at the end and inserting “the dollar amount in effect under section 7706(d)(1)(B).”, and
 
 | | |
 |---|---|
@@ -206,25 +206,34 @@ to guess them.
 
 ### 26 U.S.C. § 6012
 
-> Section 6012(a)(8) is amended by striking “the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D)” and inserting “the standard deduction in effect under section 63(c)(1)(B)”.
+> Section 6012(a)(8) is amended by striking “the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(C)” and inserting “the standard deduction in effect under section 63(c)(1)(B)”.
 
 | | |
 |---|---|
-| Removed | `the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D)` |
+| Removed | `the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(C)` |
 | Inserted | `the standard deduction in effect under section 63(c)(1)(B)` |
 
 ### 26 U.S.C. § 121
 
-> by striking “, section 68(b)(2) or section 151(d)(4)” in subparagraph (A) and inserting “or section 68(b)(2)”; and
+> by striking “, section 68(b)(2) or section 151(d)(4)” in subparagraph (A) and inserting “or section 68(b)(2)”, and
 
 | | |
 |---|---|
 | Removed | `, section 68(b)(2) or section 151(d)(4)` |
 | Inserted | `or section 68(b)(2)` |
 
+### 26 U.S.C. § 1
+
+> Section 1(g)(5)(A) is amended by striking “section 152(e)” and inserting “section 7706(e)”.
+
+| | |
+|---|---|
+| Removed | `section 152(e)` |
+| Inserted | `section 7706(e)` |
+
 ### 26 U.S.C. § 2
 
-> by striking “section 152” and inserting “section 7706”; and
+> by striking “section 152” and inserting “section 7706”, and
 
 | | |
 |---|---|
@@ -242,7 +251,7 @@ to guess them.
 
 ### 26 U.S.C. § 2
 
-> by striking “section 152(c)” and inserting “section 7706(c)”; and
+> by striking “section 152(c)” and inserting “section 7706(c)”, and
 
 | | |
 |---|---|
@@ -251,7 +260,7 @@ to guess them.
 
 ### 26 U.S.C. § 2
 
-> by striking “section 152(e)” and inserting “section 7706(e)”; and
+> by striking “section 152(e)” and inserting “section 7706(e)”, and
 
 | | |
 |---|---|
@@ -287,7 +296,7 @@ to guess them.
 
 ### 26 U.S.C. § 2
 
-> by striking “section 152(d)(2)” in clause (i) and inserting “section 7706(d)(2)”; and
+> by striking “section 152(d)(2)” in clause (i) and inserting “section 7706(d)(2)”, and
 
 | | |
 |---|---|
@@ -386,7 +395,7 @@ to guess them.
 
 ### 26 U.S.C. § 32
 
-> by striking “section 152(c)” and inserting “section 7706(c)”; and
+> by striking “section 152(c)” and inserting “section 7706(c)”, and
 
 | | |
 |---|---|
@@ -395,7 +404,7 @@ to guess them.
 
 ### 26 U.S.C. § 32
 
-> by striking “section 152(e)” and inserting “section 7706(e)”;
+> by striking “section 152(e)” and inserting “section 7706(e)”,
 
 | | |
 |---|---|
@@ -404,7 +413,7 @@ to guess them.
 
 ### 26 U.S.C. § 32
 
-> in subparagraph (B), by striking “unless the taxpayer is entitled to a deduction under section 151 for such taxable year with respect to such individual (or would be so entitled but for section 152(e)” and inserting “if such individual is not treated as a dependent of such taxpayer for such taxable year by reason of section 7706(b)(2) (determined without regard to section 7706(e))”; and
+> in subparagraph (B), by striking “unless the taxpayer is entitled to a deduction under section 151 for such taxable year with respect to such individual (or would be so entitled but for section 152(e)” and inserting “if such individual is not treated as a dependent of such taxpayer for such taxable year by reason of section 7706(b)(2) (determined without regard to section 7706(e))”, and
 
 | | |
 |---|---|
@@ -431,7 +440,7 @@ to guess them.
 
 ### 26 U.S.C. § 35
 
-> by striking “section 152(e)” and inserting “section 7706(e)”; and
+> by striking “section 152(e)” and inserting “section 7706(e)”, and
 
 | | |
 |---|---|
@@ -494,7 +503,7 @@ to guess them.
 
 ### 26 U.S.C. § 42
 
-> by striking “section 152” and inserting “section 7706”; and
+> Section 42(i)(3)(D)(ii)(I) is amended by striking “section 152” and inserting “section 7706”.
 
 | | |
 |---|---|
@@ -503,7 +512,7 @@ to guess them.
 
 ### 26 U.S.C. § 45R
 
-> by striking “section 152(d)(2)” and inserting “section 7706(d)(2)”; and
+> by striking “section 152(d)(2)” and inserting “section 7706(d)(2)”, and
 
 | | |
 |---|---|
@@ -521,7 +530,7 @@ to guess them.
 
 ### 26 U.S.C. § 51
 
-> by striking “section 152(d)(2)” in subparagraphs (A) and (B) and inserting “section 7706(d)(2)”; and
+> by striking “section 152(d)(2)” in subparagraphs (A) and (B) and inserting “section 7706(d)(2)”, and
 
 | | |
 |---|---|
@@ -539,7 +548,7 @@ to guess them.
 
 ### 26 U.S.C. § 121
 
-> by striking “with respect to whom a deduction under section 151 is allowable to” and inserting “who is a dependent of”; and
+> by striking “with respect to whom a deduction under section 151 is allowable to” and inserting “who is a dependent of”, and
 
 | | |
 |---|---|
@@ -575,7 +584,7 @@ to guess them.
 
 ### 26 U.S.C. § 105
 
-> by striking “as defined in section 152” and inserting “as defined in section 7706”;
+> by striking “as defined in section 152” and inserting “as defined in section 7706”,
 
 | | |
 |---|---|
@@ -584,7 +593,7 @@ to guess them.
 
 ### 26 U.S.C. § 105
 
-> by striking “section 152(f)(1)” and inserting “section 7706(f)(1)”; and
+> by striking “section 152(f)(1)” and inserting “section 7706(f)(1)” and
 
 | | |
 |---|---|
@@ -629,7 +638,7 @@ to guess them.
 
 ### 26 U.S.C. § 132
 
-> by striking “section 152(f)(1)” and inserting “section 7706(f)(1)”; and
+> by striking “section 152(f)(1)” and inserting “section 7706(f)(1)”, and
 
 | | |
 |---|---|
@@ -800,7 +809,7 @@ to guess them.
 
 ### 26 U.S.C. § 443
 
-> by striking “modified taxable income” and inserting “taxable income” each place such term appears;
+> by striking “modified taxable income” and inserting “taxable income” each place such term appears,
 
 | | |
 |---|---|
@@ -827,7 +836,7 @@ to guess them.
 
 ### 26 U.S.C. § 529A
 
-> by striking “section 152(d)(2)(B)” and inserting “section 7706(d)(2)(B)”; and
+> by striking “section 152(d)(2)(B)” and inserting “section 7706(d)(2)(B)”, and
 
 | | |
 |---|---|
@@ -845,7 +854,7 @@ to guess them.
 
 ### 26 U.S.C. § 643
 
-> by striking “(relating to deduction for personal exemptions)” and inserting “(relating to basic deduction)”; and
+> by striking “(relating to deduction for personal exemptions)” and inserting “(relating to basic deduction)”, and
 
 | | |
 |---|---|
@@ -863,7 +872,7 @@ to guess them.
 
 ### 26 U.S.C. § 933
 
-> by striking “as a deduction from his gross income any deductions (other than the deduction under section 151, relating to personal exemptions)” in paragraph (1) and inserting “any deduction from gross income”; and
+> by striking “as a deduction from his gross income any deductions (other than the deduction under section 151, relating to personal exemptions)” in paragraph (1) and inserting “any deduction from gross income”, and
 
 | | |
 |---|---|
@@ -926,7 +935,7 @@ to guess them.
 
 ### 26 U.S.C. § 6013
 
-> by striking “had less than the exemption amount of gross income” in clause (ii) and inserting “had no gross income”;
+> by striking “had less than the exemption amount of gross income” in clause (ii) and inserting “had no gross income”,
 
 | | |
 |---|---|
@@ -935,7 +944,7 @@ to guess them.
 
 ### 26 U.S.C. § 6013
 
-> by striking “had gross income of the exemption amount or more” in clause (iii) and inserting “had any gross income”; and
+> by striking “had gross income of the exemption amount or more” in clause (iii) and inserting “had any gross income”, and
 
 | | |
 |---|---|
@@ -1016,7 +1025,7 @@ to guess them.
 
 ### 26 U.S.C. § 163
 
-> by striking “clause (iii)” in the matter preceding subclause (I) and inserting “clause (ii)”; and
+> by striking “clause (iii)” in the matter preceding subclause (I) and inserting “clause (ii)”, and
 
 | | |
 |---|---|
@@ -1050,6 +1059,15 @@ to guess them.
 | Removed | `for taxable years 2018 through 2025` |
 | Inserted | `to losses attributable to Federally declared disasters` |
 
+### 26 U.S.C. § 56
+
+> Section 56(b)(1)(C), as amended by the preceding provisions of this Act, is amended by striking “subparagraph (A)(ii)” and inserting “subparagraph (A)”.
+
+| | |
+|---|---|
+| Removed | `subparagraph (A)(ii)` |
+| Inserted | `subparagraph (A)` |
+
 ### 26 U.S.C. § 62
 
 > Section 62(a) is amended by striking “subtitle” in the matter preceding paragraph (1) and inserting “title”.
@@ -1070,7 +1088,7 @@ to guess them.
 
 ### 26 U.S.C. § 132
 
-> by striking “by an individual” in paragraph (1) and inserting “by a qualified military individual”; and
+> by striking “by an individual” in paragraph (1) and inserting “by a qualified military individual”, and
 
 | | |
 |---|---|
@@ -1106,7 +1124,7 @@ to guess them.
 
 ### 26 U.S.C. § 55
 
-> by striking “$78,750” in subparagraph (A) and inserting “$109,400”; and
+> by striking “$78,750” in subparagraph (A) and inserting “$109,400”, and
 
 | | |
 |---|---|
@@ -1124,7 +1142,7 @@ to guess them.
 
 ### 26 U.S.C. § 55
 
-> by striking “$150,000” in subparagraph (A) and inserting “$1,000,000”; and
+> by striking “$150,000” in subparagraph (A) and inserting “$1,000,000”, and
 
 | | |
 |---|---|
@@ -1147,9 +1165,10 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 1` | replace | Section 1(e) is amended by striking the table contained therein and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1` | amend | by amending paragraph (2)(A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1` | replace | in paragraph (7)(B), by striking all that precedes “(other than with respect to” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | strike | by striking paragraph (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1` | strike | by striking paragraph (8), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1` | replace | Section 1(g) is amended by striking all that precedes paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1` | amend | Section 1(g)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1` | amend | So much of paragraph (5) of section 1(g) as precedes subparagraph (A) thereof is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 15` | strike | Section 15 is amended by striking subsections (d), (e), and (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 15` | insert | The heading of section 15 is amended by inserting “on corporations” after “Effect of changes”. | the bill quotes the text inserted but describes where it goes |
@@ -1175,32 +1194,31 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 112` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 112` | replace | by striking “only if performed” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 112` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 112` | strike | The Tax Cuts and Job Act is amended by striking section 11026. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 112` | strike | The Tax Cuts and Jobs Act is amended by striking section 11026. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 213` | insert | Section 213(a) is amended by inserting “(7.5 percent in the case of any taxable year beginning after December 31, 2018, and ending before January 1, 2021)” after “10 percent”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 56` | redesignate | Section 56(b)(1) is amended by striking subparagraph (B) and by redesignating subparagraphs (C) through (F) as subparagraphs (B) through (E), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 213` | strike | Section 213 is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 108` | strike | Section 108(f)(5) is amended by striking “after December 31, 2017, and before January 1, 2026”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 642` | strike | by striking clause (iii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 642` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 642` | strike | by striking clause (iii), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 642` | strike | by striking paragraph (3), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 873` | strike | Section 873(b) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6012` | amend | Section 6012(a)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6012` | strike | Section 6012 is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 121` | strike | by striking “(other than with respect to section 151(d)(4)(A))” in subparagraph (B). | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 21` | amend | Section 21(e)(6)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25A` | strike | Section 25A(f)(1)(A)(iii) is amended by striking “with respect to whom the taxpayer is allowed a deduction under section 151”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 42` | strike | by striking the period at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 121` | strike | by striking “, the deduction for personal exemptions under section 151,”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 121` | strike | by striking “, the deduction for personal exemptions under section 151,”, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 121` | strike | by striking “and deduction for personal exemptions” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 63` | redesignate | Section 63(b)(2) is amended by adding “and” at the end of paragraph (1), by striking paragraph (2), and by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 63` | redesignate | Section 63(b) is amended by adding “and” at the end of paragraph (1), by striking paragraph (2), and by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 121` | redesignate | Section 63(c), as amended by section 121, is amended by striking paragraph (3) and redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 121` | strike | by striking “certain” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 63` | redesignate | Section 63(d)(2) is amended by adding “and” at the end of paragraph (1), by striking paragraph (2), and by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 63` | redesignate | Section 63(d) is amended by adding “and” at the end of paragraph (1), by striking paragraph (2), and by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 63` | replace | Section 63(f) is amended by striking all that precedes paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 129` | amend | Section 129(c)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 172` | strike | Section 172(d) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 441` | strike | Section 441(f)(2)(B)(iii) is amended by striking “, but only the adjusted amount of the deductions for personal exemptions as described in section 443(c)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 443` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 443` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 443` | strike | by striking paragraph (3), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 443` | strike | by striking subsection (c), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 443` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 703` | redesignate | Section 703(a)(2) is amended by striking subparagraph (A) and by redesignating subparagraphs (B) through (F) as subparagraphs (A) through (E), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 874` | redesignate | Section 874 is amended by striking subsection (b) and by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1223,7 +1241,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 164` | replace | Section 164(b)(6) is amended by striking all that precedes “The preceding sentence” and inserting the following: Make this match technicals. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | amend | Section 163(h)(3)(B)(ii) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | amend | Section 163(h)(3)(C) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 163` | redesignate | by striking clause (ii) and redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 163` | redesignate | by striking clause (ii) and redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | strike | Section 163(h)(3) is amended by striking subparagraph (F). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 165` | strike | Section 165(h)(5)(A) is amended by striking “in a taxable year beginning after December 31, 2017, and before January 1, 2026,”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 165` | strike | Section 165(h)(5)(B) is amended by striking “for any taxable year to which subparagraph (A) applies”. | the bill quotes the text struck but describes what replaces it |
@@ -1231,26 +1249,28 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 67` | strike | by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 67` | strike | Section 67 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 641` | add-at-end | Section 641 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 56` | amend | Section 56(b)(1)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 641` | amend | Section 641(c)(2)(E) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1411` | strike | Section 1411(a)(2) is amended by striking “(as defined in section 67(e))”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6654` | strike | Section 6654(d)(1)(C) is amended by striking clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | replace | The table of sections for part 1 of subchapter B of chapter 1 is amended by striking the item relating to section 67 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 56` | replace | The table of sections for part 1 of subchapter B of chapter 1 is amended by striking the item relating to section 67 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 164` | strike | Part 1 of subchapter B of chapter 1 is amended by striking section 68 (and the item relating to such section in the table of sections for such part). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 164` | strike | Section 1(f)(7)(A), as amended by sections 121 and 141, is amended by striking “or section 68(b)(2)”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 164` | strike | Section 56(b)(1), as amended by the preceding provisions of this Act, is amended by striking subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 164` | strike | Section 164(b)(5)(H)(ii)(III) is amended by striking “(as determined under section 68(b))”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 164` | add-at-end | Section 164(b)(5)(H) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 132` | strike | Section 132(f)(1) is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 132` | strike | Section 132(f)(2) is amended by adding “and” at the end of subparagraph (A), striking “and” at the end of subparagraph (B), and striking subparagraph (C). | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 132` | replace | Section 132(f)(2) is amended by adding “and” at the end of subparagraph (A), striking “, and” at the end of subparagraph (B) and inserting a period, and striking subparagraph (C). | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 132` | strike | Section 132(f)(4) is amended by striking “(other than a qualified bicycle commuting reimbursement)”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 132` | strike | Section 132(f) is amended by striking paragraph (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 274` | strike | Section 274(l)(2) is amended by striking “after December 31, 2017, and before January 1, 2026”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 132` | replace | by striking paragraph (2) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 217` | redesignate | by striking subsections (c), (d), (f), and (g) and redesignating subsections (h), (i), and (j) as subsections (c), (d), and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 217` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 217` | redesignate | by striking subsections (c), (d), (f), and (g) and redesignating subsections (h), (i), (j), and (k) as subsections (c), (d), (f) and (g), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 217` | redesignate | by inserting after subsection (d), as so redesignated, the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7872` | strike | Section 7872(f) is amended by striking paragraph (11). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7872` | replace | The table of sections for part VII of subchapter B of chapter 1 is amended by striking the item relating to section 217 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 165` | strike | Section 165(d) is amended by striking “in the case of taxable years beginning after December 31, 2017, and before January 1, 2026”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 165` | strike | Section 165(d) is amended by striking “in the case of taxable years beginning after December 31, 2017, and before January 1, 2026,”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 2001` | amend | Section 2001(g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 2010` | strike | Section 2010(c)(3) is amended by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 55` | replace | by striking subparagraphs (B) and (C) and by inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
