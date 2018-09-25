@@ -19,7 +19,7 @@ This Act may be cited as the “Nuclear Utilization of Keynote Energy Act”.
   - **(1)** in clause (iii), by striking “and” at the end;
   - **(2)** in clause (iv), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of a regulatory infrastructure for advanced nuclear reactor technologies.
+    > - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of a regulatory infrastructure for advanced nuclear reactor technologies (which may not exceed $10,300,000).
 
 - **(b)** *Repeal* Effective October 1, 2020, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed.
 
@@ -46,9 +46,9 @@ This Act may be cited as the “Nuclear Utilization of Keynote Energy Act”.
         - **(IV)** for the Inspector General services of the Commission provided to the Defense Nuclear Facilities Safety Board;
         - **(V)** for the partnership program with institutions of higher education established under section 244 of the Atomic Energy Act of 1954 (42 U.S.C. 2015c); and
         - **(VI)** for the scholarship and fellowship programs under section 243 of the Atomic Energy Act of 1954 (42 U.S.C. 2015b).
-      - **(iii)** Costs for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies.
-    - **(C)** *Exception* The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2032.
-    - **(D)** *Report* Not later than December 31, 2030, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of funding for the activities described in subparagraph (B)(iii).
+      - **(iii)** Costs for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies (which may not exceed $10,300,000).
+    - **(C)** *Exception* The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2026.
+    - **(D)** *Report* Not later than December 31, 2023, the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of funding for the activities described in subparagraph (B)(iii).
   - **(2)** *Fees for service or thing of value* In accordance with section 9701 of title 31, United States Code, the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
   - **(3)** *Annual charges*
     - **(A)** *In general* Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees set forth in paragraph (2).
