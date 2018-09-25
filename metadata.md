@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1017
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1017
@@ -25,3 +25,8 @@ Requesting the President, and directing the Secretary of State, to transmit to t
 - 2018-07-24 — Introduced in House
 - 2018-07-24 — Introduced in House
 - 2018-07-24 — Referred to the House Committee on Foreign Affairs.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported Adversely by the Yeas and Nays: 23 - 18.
+- 2018-09-25 — Placed on the House Calendar, Calendar No. 185.
+- 2018-09-25 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 115-978.
+- 2018-09-25 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 115-978.
