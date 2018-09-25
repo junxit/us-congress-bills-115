@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2634
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2634
@@ -16,7 +16,7 @@ To designate the Mental Health Residential Rehabilitation Treatment Facility Exp
 
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Cooper, Jim [D-TN-5] (C000754)
@@ -24,6 +24,8 @@ To designate the Mental Health Residential Rehabilitation Treatment Facility Exp
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -35,3 +37,10 @@ To designate the Mental Health Residential Rehabilitation Treatment Facility Exp
 - 2017-05-24 — Introduced in House
 - 2017-05-24 — Referred to the House Committee on Veterans' Affairs.
 - 2017-05-24 — Referred to the Subcommittee on Health.
+- 2018-09-25 — Committee on Veterans' Affairs discharged.
+- 2018-09-25 — Committee on Veterans' Affairs discharged.
+- 2018-09-25 — Considered by unanimous consent. (consideration: CR H8753-8754)
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. DesJarlais asked unanimous consent to discharge from committee and consider.
+- 2018-09-25 — On passage Passed without objection. (text: CR H8753-8754)
+- 2018-09-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8753-8754)
