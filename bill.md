@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. West Valley demonstration project
 
-- **(a)** *Reauthorization* Section 3(a) of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2019 through 2028”.
+- **(a)** *Reauthorization* Section 3(a) of the West Valley Demonstration Project Act (Public Law 96–368; 42 U.S.C. 2021a note) is amended by striking “$5,000,000 for the fiscal year ending September 30, 1981” and inserting “$75,000,000 for each of fiscal years 2019 through 2025”.
 - **(b)** *Report* Not later than 18 months after the date of enactment of this Act, the Comptroller General shall submit to Congress a report that describes—
   - **(1)** the volumes, origins, and types of radioactive waste at the Western New York Service Center in West Valley, New York;
   - **(2)** what options have been identified for disposal of each such type of radioactive waste;
