@@ -1,7 +1,7 @@
 ---
 measure: S. 1595
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1595
@@ -125,3 +125,14 @@ Hizballah International Financing Prevention Amendments Act of 2018
 - 2018-09-25 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8872-8876)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8872-8876)
+- 2018-09-28 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-10-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6880)
+- 2018-10-11 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1595 by Unanimous Consent.
+- 2018-10-11 — Senate agreed to the House amendment to S. 1595 by Unanimous Consent.
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-23 — Presented to President.
+- 2018-10-23 — Presented to President.
+- 2018-10-25 — Became Public Law No: 115-272.
+- 2018-10-25 — Became Public Law No: 115-272.
+- 2018-10-25 — Signed by President.
+- 2018-10-25 — Signed by President.
