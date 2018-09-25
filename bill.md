@@ -26,7 +26,7 @@ In this Act:
 The purposes of this Act are to advance Department of Energy expertise in artificial intelligence and high performance computing in order to improve health outcomes for veteran populations by—
 
 - **(1)** supporting basic research through the application of artificial intelligence, high performance computing, modeling and simulation, machine learning, and large scale data analytics to identify and solve outcome-defined challenges in the health sciences;
-- **(2)** maximizing the impact of the Department of Veterans Affairs’ health and genomics data housed at the National Laboratories, as well as data from other sources, on science, innovation, and health care outcomes through the use and advancement of artificial intelligence and high-performance computing capabilities of the Department of Energy;
+- **(2)** maximizing the impact of health and genomics data provided by the Department of Veterans Affairs, as well as other sources, on science, innovation, and health care outcomes through the use and advancement of artificial intelligence and high-performance computing capabilities of the Department of Energy;
 - **(3)** promoting collaborative research through the establishment of partnerships to improve data sharing between Federal agencies, National Laboratories, institutions of higher education, and nonprofit institutions;
 - **(4)** establishing multiple scientific computing user facilities to house and provision available data to foster transformational outcomes; and
 - **(5)** driving the development of technology to improve artificial intelligence, high performance computing, and networking relevant to mission applications of the Department of Energy, including modeling, simulation, machine learning, and advanced data analytics.
@@ -41,14 +41,13 @@ The purposes of this Act are to advance Department of Energy expertise in artifi
   - **(4)** advance existing and construct new data enclaves capable of securely storing data sets provided by the Department of Veterans Affairs, Department of Defense, and other sources; and
   - **(5)** promote collaboration and data sharing between National Laboratories, research entities, and user facilities of the Department by providing the necessary access and secure data transfer capabilities.
 - **(c)** *Coordination* In carrying out the program required under subsection (a), the Secretary is authorized to—
-  - **(1)** enter into memoranda of understanding in order to carry out reimbursable agreements with the Department of Veterans Affairs and other entities in order to maximize the effectiveness of Department of Energy research and development to improve veterans’ healthcare;
-  - **(2)** consult with the Department of Veterans Affairs and other Federal agencies as appropriate; and
-  - **(3)** ensure that data storage meets all privacy and security requirements established by the Department of Veterans Affairs, and that access to data is provided in accordance with relevant Department of Veterans Affairs data access policies, including informed consent.
+  - **(1)** enter into a memorandum of understanding in order to carry out a reimbursable agreement with the Department of Veterans Affairs and other entities in order to maximize the effectiveness of Department of Energy research and development to improve veterans’ healthcare; and
+  - **(2)** consult with the Department of Veterans Affairs and other Federal agencies as appropriate.
 - **(d)** *Report* Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Veterans’ Affairs of the House of Representatives, and the Committee on Energy and Natural Resources and the Committee on Veterans’ Affairs of the Senate, a report detailing the effectiveness of—
   - **(1)** the interagency coordination between each Federal agency involved in the research program carried out under this section;
   - **(2)** collaborative research achievements of the program; and
   - **(3)** potential opportunities to expand the technical capabilities of the Department.
-- **(e)** *Funding* The Secretary of Veterans Affairs shall devote $27,000,000 to carry out the activities authorized under this section during fiscal years 2019 through 2023, subject to the availability of appropriations, to come from amounts made available for medical and prosthetic research. This section shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
+- **(e)** *Funding* The Secretary of Veterans Affairs shall devote $27,000,000 to carry out this section during fiscal years 2019 through 2023, subject to the availability of appropriations, to come from amounts made available for medical and prosthetic research. This section shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
 
 ## § 5. Artificial intelligence, data analytics, and computational research pilot program
 
