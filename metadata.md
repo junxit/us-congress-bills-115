@@ -1,7 +1,7 @@
 ---
 measure: S. 3389
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3389
@@ -16,6 +16,10 @@ A bill to redesignate a facility of the National Aeronautics and Space Administr
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
+## Cosponsors (1)
+
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
@@ -24,3 +28,7 @@ A bill to redesignate a facility of the National Aeronautics and Space Administr
 
 - 2018-08-27 — Introduced in Senate
 - 2018-08-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6310; text: CR S6310)
+- 2018-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6310; text: CR S6310)
+- 2018-09-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-09-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
