@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6398
@@ -16,7 +16,7 @@ Department of Energy Veterans' Health Initiative Act
 
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 
-## Cosponsors (14)
+## Cosponsors (20)
 
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
@@ -32,6 +32,12 @@ Department of Energy Veterans' Health Initiative Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
 ## Committees (2)
 
@@ -45,3 +51,16 @@ Department of Energy Veterans' Health Initiative Act
 - 2018-07-17 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-07-17 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-07-17 — Referred to the Subcommittee on Health.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-25 — Committee on Veterans' Affairs discharged.
+- 2018-09-25 — Committee on Veterans' Affairs discharged.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8868-8872)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6398.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Norman moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8868-8869)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8868-8869)
+- 2018-09-25 — Placed on the Union Calendar, Calendar No. 762.
+- 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-974, Part I.
+- 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-974, Part I.
