@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6368
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6368
@@ -44,3 +44,12 @@ Encouraging Small Business Innovators
 - 2018-09-20 — Placed on the Union Calendar, Calendar No. 744.
 - 2018-09-20 — Reported by the Committee on Small Business. H. Rept. 115-956, Part I.
 - 2018-09-20 — Reported by the Committee on Small Business. H. Rept. 115-956, Part I.
+- 2018-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Chabot objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-09-25 — Considered as unfinished business. (consideration: CR H8820-8821)
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8808-8810)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6368.
+- 2018-09-25 — DEBATE - The House resumed with debate on H.R. 6368.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 6 (Roll no. 400). (text: CR H8808)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 6 (Roll no. 400).(text: CR H8808)
