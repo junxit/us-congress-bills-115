@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5433
 
-> To require the Secretary of State to design and establish a Vulnerability Disclosure Program (VDP) to improve Department of State cybersecurity and a bug bounty program to identify and report vulnerabilities of internet-facing information technology of the Department of State, and for other purposes.
+> To require the Secretary of State to design and establish a Vulnerability Disclosure Process (VDP) to improve Department of State cybersecurity and a bug bounty program to identify and report vulnerabilities of internet-facing information technology of the Department of State, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,26 +17,27 @@ This Act may be cited as the “Hack Your State Department Act”.
 
 In this Act:
 
-- **(1)** *Department* The term “Department” means the Department of State.
-- **(2)** *Information technology* The term “information technology” has the meaning given such term in section 11101 of title 40, United States Code.
-- **(3)** *Secretary* The term “Secretary” means the Secretary of State.
+- **(1)** *Bug bounty program* The term “bug bounty program” means a program under which an approved individual, organization, or company is temporarily authorized to identify and report vulnerabilities of internet-facing information technology of the Department in exchange for compensation.
+- **(2)** *Department* The term “Department” means the Department of State.
+- **(3)** *Information technology* The term “information technology” has the meaning given such term in section 11101 of title 40, United States Code.
+- **(4)** *Secretary* The term “Secretary” means the Secretary of State.
 
-## § 3. Department of State Vulnerability Disclosure Program
+## § 3. Department of State Vulnerability Disclosure Process
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall design, establish, and make publicly known a Vulnerability Disclosure Program (VDP) to improve Department cybersecurity by—
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall design, establish, and make publicly known a Vulnerability Disclosure Process (VDP) to improve Department cybersecurity by—
   - **(1)** providing security researchers with clear guidelines for—
     - **(A)** conducting vulnerability discovery activities directed at Department information technology; and
     - **(B)** submitting discovered security vulnerabilities to the Department; and
   - **(2)** creating Department procedures and infrastructure to receive and fix discovered vulnerabilities.
 - **(b)** *Requirements* In establishing the VDP pursuant to paragraph (1), the Secretary shall—
-  - **(1)** identify which Department information technology should be included in the program;
-  - **(2)** determine whether the program should differentiate among and specify the types of security vulnerabilities that may be targeted;
+  - **(1)** identify which Department information technology should be included in the process;
+  - **(2)** determine whether the process should differentiate among and specify the types of security vulnerabilities that may be targeted;
   - **(3)** provide a readily available means of reporting discovered security vulnerabilities and the form in which such vulnerabilities should be reported;
   - **(4)** identify which Department offices and positions will be responsible for receiving, prioritizing, and addressing security vulnerability disclosure reports;
-  - **(5)** consult with the Attorney General regarding how to ensure that approved individuals, organizations, and companies that comply with the requirements of the program are protected from prosecution under section 1030 of title 18, United States Code, and similar provisions of law for specific activities authorized under the program;
+  - **(5)** consult with the Attorney General regarding how to ensure that approved individuals, organizations, and companies that comply with the requirements of the process are protected from prosecution under section 1030 of title 18, United States Code, and similar provisions of law for specific activities authorized under the process;
   - **(6)** consult with the relevant offices at the Department of Defense that were responsible for launching the 2016 Vulnerability Disclosure Program, “Hack the Pentagon”, and subsequent Department of Defense bug bounty programs;
-  - **(7)** engage qualified interested persons, including nongovernmental sector representatives, about the structure of the program as constructive and to the extent practicable; and
-  - **(8)** award a contract to an entity, as necessary, to manage the program and implement the remediation of discovered security vulnerabilities.
+  - **(7)** engage qualified interested persons, including nongovernmental sector representatives, about the structure of the process as constructive and to the extent practicable; and
+  - **(8)** award a contract to an entity, as necessary, to manage the process and implement the remediation of discovered security vulnerabilities.
 - **(c)** *Annual reports* Not later than 180 days after the establishment of the VDP under subsection (a) and annually thereafter for the next six years, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the following with respect to the VDP:
   - **(1)** The number and severity, in accordance with the National Vulnerabilities Database of the National Institute of Standards and Technology, of security vulnerabilities reported.
   - **(2)** The number of previously unidentified security vulnerabilities remediated as a result.
@@ -56,9 +57,11 @@ In this Act:
     - **(C)** identify which Department information technology should be included in such pilot program;
     - **(D)** consult with the Attorney General on how to ensure that approved individuals, organizations, or companies that comply with the requirements of such pilot program are protected from prosecution under section 1030 of title 18, United States Code, and similar provisions of law for specific activities authorized under such pilot program;
     - **(E)** consult with the relevant offices at the Department of Defense that were responsible for launching the 2016 “Hack the Pentagon” pilot program and subsequent Department of Defense bug bounty programs;
-    - **(F)** develop a process by which an approved individual, organization, or company can register with the entity referred to in subparagraph (B), submit to a background check as determined by the Department, and receive a determination as to eligibility for participation in such pilot program; and
-    - **(G)** engage qualified interested persons, including nongovernmental sector representatives, about the structure of such pilot program as constructive and to the extent practicable.
-- **(b)** *Report* Not later than 90 days after the date on which the bug bounty pilot program under subsection (a) is completed, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on such pilot program, including information relating to—
+    - **(F)** develop a process by which an approved individual, organization, or company can register with the entity referred to in subparagraph (B), submit to a background check as determined by the Department, and receive a determination as to eligibility for participation in such pilot program;
+    - **(G)** engage qualified interested persons, including nongovernmental sector representatives, about the structure of such pilot program as constructive and to the extent practicable; and
+    - **(H)** consult with relevant United States Government officials to ensure that such pilot program compliments persistent network and vulnerability scans of the Department of State’s internet-accessible systems, such as the scans conducted pursuant to Binding Operational Directive BOD-15-01.
+  - **(3)** *Duration* The pilot program established under paragraph (1) should be short-term in duration and not last longer than one year.
+- **(b)** *Report* Not later than 180 days after the date on which the bug bounty pilot program under subsection (a) is completed, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on such pilot program, including information relating to—
   - **(1)** the number of approved individuals, organizations, or companies involved in such pilot program, broken down by the number of approved individuals, organizations, or companies that—
     - **(A)** registered;
     - **(B)** were approved;
