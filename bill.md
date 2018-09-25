@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 418
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 418
@@ -21,8 +21,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Rib Mountain State Park, situated on Rib Mountain, is over 1,500 acres and boasts a well-maintained network of hiking and nature trails with breathtaking views; and
 - Whereas Rib Mountain State Park attracts visitors from the local community as well as from across the State and the country: Now, therefore, be it
 
-That the House of Representatives—
-
-- **(1)** affirms the importance of Rib Mountain to the culture and economy of Wisconsin;
-- **(2)** recognizes the legend of Paul Bunyan as the embodiment of the frontier spirit; and
-- **(3)** requests that the Secretary of the Interior recognize the legendary burial site of Paul Bunyan by adding Rib Mountain to the National Register of Historic Places.
+That the House of Representatives requests that the Secretary of the Interior recognize the legendary burial site of Paul Bunyan by adding Rib Mountain to the National Register of Historic Places.
