@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1320
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1320
@@ -39,3 +39,9 @@ Nuclear Utilization of Keynote Energy Act
 - 2018-09-07 — Placed on the Union Calendar, Calendar No. 717.
 - 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-924.
 - 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-924.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8789-8792)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1320.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Olson moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8789-8791)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8789-8791)
