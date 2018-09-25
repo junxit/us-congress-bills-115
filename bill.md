@@ -18,15 +18,16 @@ This Act may be cited as the “Ashanti Alert Act of 2018”.
 In this Act:
 
 - **(1)** *Missing adult* The term missing adult means an individual who—
-  - **(A)** is reported to, or identified by, a law enforcement agency as a missing person; and
-  - **(B)** meets the requirements to be designated as a missing adult, as determined by the State in which the individual is reported or identified as a missing person.
+  - **(A)** is older than the age for which an AMBER alert may be issued in the State in which the individual is identified as a missing person;
+  - **(B)** is identified by a law enforcement agency as a missing person; and
+  - **(C)** meets the requirements to be designated as a missing adult, as determined by the State in which the individual is identified as a missing person.
 - **(2)** *State* The term State means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(3)** *Ashanti Alert* The term Ashanti Alert means an alert issued through the Ashanti Alert communications network, related to a missing adult.
 
 ## § 3. Ashanti alert communications network
 
 - **(a)** *In general* The Attorney General shall, subject to the availability of appropriations, establish a national communications network, to be known as the Ashanti Alert communications network, within the Department of Justice to provide assistance to regional and local search efforts for missing adults through the initiation, facilitation, and promotion of local elements of the network (referred to in this Act as “Ashanti Alert plans”), in coordination with States, units of local government, law enforcement agencies, and other concerned entities with expertise in providing services to adults.
-- **(b)** *Coordination with amber alert network* In establishing the Ashanti Alert communications network under subsection (a), the Attorney General shall ensure that, when feasible, the Ashanti Alert communications network is able to operate in coordination with the AMBER Alert communications network, established under subtitle A of title III of the PROTECT Act (42 U.S.C. 5791 et seq.), to maximize the efficiency of both networks.
+- **(b)** *Integration with Blue Alert communications network* In establishing the Ashanti Alert communications network under subsection (a), the Attorney General shall integrate the Ashanti Alert communications network into the Blue Alert communications network established under the Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015 (34 U.S.C. 50501 et seq.), to maximize the efficiency of both networks.
 
 ## § 4. Ashanti alert coordinator
 
@@ -83,18 +84,27 @@ In this Act:
   - **(1)** *Voluntary participation* The minimum standards established under subsection (a) of this section, and any other guidelines and programs established under section 4, shall be adoptable on a voluntary basis only.
   - **(2)** *Dissemination of information* The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that appropriate information relating to the special needs of a missing adult (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.
   - **(3)** *Geographic areas* The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that the dissemination of an alert through the Ashanti Alert communications network be limited to the geographic areas which the missing adult could reasonably reach, considering the missing adult’s circumstances and physical and mental condition, the modes of transportation available to the missing adult, and the circumstances of the disappearance.
-  - **(4)** *Age requirements* The minimum standards shall not include any specific age requirement for an individual to be classified as a missing adult for purposes of the Ashanti Alert communications network. Age requirements for determinations of whether an individual is a missing adult shall be determined by each State, and may vary from State to State.
+  - **(4)** *Other requirements* The minimum standards shall include requirements that the missing person—
+    - **(A)** suffers from a proven mental or physical disability, as documented by a source determined credible to an appropriate law enforcement entity; or
+    - **(B)** is missing under circumstances that indicate, as determined by an appropriate law enforcement entity—
+      - **(i)** that the person’s physical safety may be endangered; or
+      - **(ii)** that the person’s disappearance may not have been voluntary, including an abduction or kidnapping.
   - **(5)** *Privacy and civil liberties protections* The minimum standards shall—
     - **(A)** ensure that alerts issued through the Ashanti Alert communications network comply with all applicable Federal, State, and local privacy laws and regulations; and
     - **(B)** include standards that specifically provide for the protection of the civil liberties and sensitive medical information of missing adults.
   - **(6)** *State and local voluntary coordination* In carrying out the activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State and local law enforcement agencies for purposes of the Ashanti Alert communications network.
 
-## § 6. Training and other resources
+## § 6. Training and educational programs
 
-- **(a)** *Training and educational programs* The Coordinator shall make available to States, units of local government, law enforcement agencies, and other concerned entities that are involved in initiating, facilitating, or promoting Ashanti Alert plans, including broadcasters, first responders, dispatchers, public safety communications personnel, and radio station personnel—
-  - **(1)** training and educational programs related to the Ashanti Alert communications network and the capabilities, limitations, and anticipated behaviors of missing adults, which shall be updated regularly to encourage the use of new tools, technologies, and resources in Ashanti Alert plans; and
-  - **(2)** informational materials, including brochures, videos, posters, and web sites to support and supplement such training and educational programs.
+The Coordinator shall make available to States, units of local government, law enforcement agencies, and other concerned entities that are involved in initiating, facilitating, or promoting Ashanti Alert plans, including broadcasters, first responders, dispatchers, public safety communications personnel, and radio station personnel—
 
-## § 7. Authorization of appropriations for the Ashanti alert communications network
+- **(1)** training and educational programs related to the Ashanti Alert communications network and the capabilities, limitations, and anticipated behaviors of missing adults, which shall be updated regularly to encourage the use of new tools, technologies, and resources in Ashanti Alert plans; and
+- **(2)** informational materials, including brochures, videos, posters, and web sites to support and supplement such training and educational programs.
 
-There are authorized to be appropriated to the Attorney General $500,000 to carry out the Ashanti Alert communications network as authorized under this Act.
+## § 7. Authorization of appropriations
+
+There is authorized to be appropriated to the Attorney General $3,000,000 to carry out the Ashanti Alert communications network as authorized under this Act for each of fiscal years 2019 through 2022.
+
+## § 8. Emergency Federal law enforcement assistance
+
+Section 609Y(a) of the Justice Assistance Act of 1984 (34 U.S.C. 50112(a)) is amended by striking “September 30, 2021” and inserting “September 30, 2022”.
