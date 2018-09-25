@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6758
 
-> To direct the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, in consultation with the Administrator of the Small Business Administration, to study and provide recommendations to promote the participation of women and minorities in entrepreneurship activities and the patent system, to extend by 8 years the Patent and Trademark Office’s authority to set the amounts for the fees it charges, and for other purposess.
+> To direct the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, in consultation with the Administrator of the Small Business Administration, to study and provide recommendations to promote the participation of women, minorities, and veterans in entrepreneurship activities and the patent system, to extend by 8 years the Patent and Trademark Office’s authority to set the amounts for the fees it charges, and for other purposes.
 
 ## § 1. Short title
 
@@ -25,10 +25,10 @@ This Act may be cited as the “Study of Underrepresented Classes Chasing Engine
 ## § 3. Report
 
 - **(a)** *Study* The Director, in consultation with the Administrator and any other head of an appropriate agency, shall conduct a study that—
-  - **(1)** identifies publicly available data on the number of patents annually applied for and obtained by, and the benefits of increasing the number of patents applied for and obtained by women and minorities and small businesses owned by women and minorities; and
+  - **(1)** identifies publicly available data on the number of patents annually applied for and obtained by, and the benefits of increasing the number of patents applied for and obtained by women, minorities, and veterans and small businesses owned by women, minorities, and veterans; and
   - **(2)** provides legislative recommendations for how to—
-    - **(A)** promote the participation of women and minorities in entrepreneurship activities; and
-    - **(B)** increase the number of women and minorities who apply for and obtain patents.
+    - **(A)** promote the participation of women, minorities, and veterans in entrepreneurship activities; and
+    - **(B)** increase the number of women, minorities, and veterans who apply for and obtain patents.
 - **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Director shall submit to the Committees on the Judiciary and Small Business of the House of Representatives and the Committees on the Judiciary and Small Business and Entrepreneurship of the Senate a report on the results of the study conducted under subsection (a).
 
 ## § 4. Extension of fee-setting authority
