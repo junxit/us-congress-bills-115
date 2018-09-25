@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 72
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,18 +18,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas research confirms that allegations of domestic violence, child abuse, and child sexual abuse are often discounted when raised in child custody litigation;
 - Whereas research shows that abusive parents are often granted custody or unprotected parenting time by courts, placing children at ongoing risk;
 - Whereas research confirms that a child’s risk of abuse increases after a perpetrator of domestic violence separates from a domestic partner, even when the perpetrator has not previously abused the child;
-- Whereas researchers have documented a minimum of 568 children murdered in the United States in a 10-year period by a parent involved in a divorce, separation, custody, visitation, or child support proceeding, often after access was provided by family courts over the objections of a protective parent;
-- Whereas scientifically unsound theories such as parental alienation syndrome, enmeshment, and others are frequently applied to reject parents’ and children’s reports of abuse;
+- Whereas researchers have documented a minimum of 653 children murdered in the United States since 2008 by a parent involved in a divorce, separation, custody, visitation, or child support proceeding, often after access was provided by family courts over the objections of a protective parent;
+- Whereas scientifically unsound theories are frequently applied to reject parents’ and children’s reports of abuse;
 - Whereas in cases involving allegations of family violence courts should rely on the assistance of third-party professionals only when they possess the proper experience or expertise for assessing family violence and trauma, and apply scientifically sound and evidence-based theories;
-- Whereas most States lack standards defining required expertise and experience for court-affiliated or appointed fee-paid professionals in custody litigation or the required contents of custody-related expert reports;
-- Whereas custody litigation involving abuse allegations is sometimes prohibitively expensive, resulting in parental bankruptcy, as a result of court-mandated payments to appointed fee-paid professionals, in addition to attorneys’ fees; and
-- Whereas the Inter-American Commission on Human Rights found that the United States is failing in its legal obligation to protect women and children from domestic violence: Now, therefore, be it
+- Whereas most States lack standards defining required expertise and experience for court-affiliated or appointed fee-paid professionals in custody litigation or the required contents of custody-related expert reports; and
+- Whereas custody litigation involving abuse allegations is sometimes prohibitively expensive, resulting in parental bankruptcy, as a result of court-mandated payments to appointed fee-paid professionals, in addition to attorneys’ fees: Now, therefore, be it
 
 That it is the sense of Congress that—
 
 - **(1)** child safety is the first priority of custody and parenting adjudications, and courts should resolve safety risks and claims of family violence first, as a fundamental consideration, before assessing other best interest factors;
-- **(2)** quasi-scientific evidence should be admitted by courts only when it meets admissibility standards for scientific evidence;
+- **(2)** all evidence admitted in custody and parenting adjudications should be subject to evidentiary admissibility standards;
 - **(3)** evidence from court-affiliated or appointed fee-paid professionals regarding adult or child abuse allegations in custody cases should be admitted only when the professional possesses documented expertise and experience in the relevant types of abuse, trauma, and the behaviors of victims and perpetrators;
 - **(4)** States should define required standards of expertise and experience for appointed fee-paid professionals who provide evidence to the court on abuse, trauma and behaviors of victims and perpetrators, should specify requirements for the contents of such professional reports, and should require courts to find that any appointed professionals meet those standards;
 - **(5)** States should consider models under which court-appointed professionals are paid directly by the courts, with potential reimbursement by the parties after due consideration of the parties’ financial circumstances; and
-- **(6)** Congress should schedule hearings on family courts’ practices with regard to the objective, fair, and adjudication of children’s safety and civil rights.
+- **(6)** Congress should schedule hearings on family courts’ practices with regard to the objective, fair, and unbiased adjudication of children’s safety and civil rights.
