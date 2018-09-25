@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6580
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `8 U.S.C. § 1430` | add-at-end | Section 319 of the Immigration and Nationality Act (8 U.S.C. 1430) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1401` | insert | Title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.) is amended by inserting after section 329A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | insert | The table of contents for the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended by inserting after the item relating to section 329A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
