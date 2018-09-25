@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6367
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6367
@@ -36,3 +36,9 @@ Incentivizing Fairness in Subcontracting Act
 - 2018-09-12 — Placed on the Union Calendar, Calendar No. 733.
 - 2018-09-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-942.
 - 2018-09-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 115-942.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8806-8808)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6367.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8806-8807)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8806-8807)
