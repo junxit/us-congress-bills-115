@@ -1,7 +1,7 @@
 ---
 measure: S. 1281
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1281
@@ -48,3 +48,8 @@ Hack the Department of Homeland Security Act of 2018
 - 2018-04-18 — Message on Senate action sent to the House.
 - 2018-04-18 — Received in the House.
 - 2018-04-18 — Referred to the House Committee on Homeland Security.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-09-25 — Placed on the Union Calendar, Calendar No. 752.
+- 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-964.
+- 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-964.
