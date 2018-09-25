@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 418
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | requests that the Secretary of the Interior recognize the legendary burial site of Paul Bunyan by adding Rib Mountain to the National Register of Historic Places. | the bill names no machine-readable US Code section |
+| — | amend | That the House of Representatives requests that the Secretary of the Interior recognize the legendary burial site of Paul Bunyan by adding Rib Mountain to the National Register of Historic Places. | the bill names no machine-readable US Code section |
