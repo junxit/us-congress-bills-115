@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 460
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 460
@@ -23,8 +23,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas listing on the National Register of Historic Places drives tourism to communities and further denotes the cultural significance of a structure; and
 - Whereas the Lumberjack Bowl still hosts all the events for the Lumberjack World Championships, including men’s and women’s logrolling, chopping, pole climbing, boom running, and sawing: Now, therefore, be it
 
-That the House of Representatives—
-
-- **(1)** recognizes the importance of lumberjack sports to the culture and economy of Wisconsin;
-- **(2)** supports the growth of lumberjack sports around the United States; and
-- **(3)** requests that the Secretary of the Interior add the Lumberjack Bowl, the site of the Lumberjack World Championships, to the National Register of Historic Places.
+That the House of Representatives requests that the Secretary of the Interior add the Lumberjack Bowl, the site of the Lumberjack World Championships, to the National Register of Historic Places.
