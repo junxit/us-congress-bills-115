@@ -15,35 +15,40 @@ This Act may be cited as the “Nevada Lands Bill Technical Corrections Act of 2
 
 ## § 2. Amendment to conveyance of Federal land in Storey County, Nevada
 
-Section 3009(d) of the Carl Levin and Howard P. McKeon National Defense Authorization Act for Fiscal Year 2015 (128 Stat. 3751) is amended as follows:
+Section 3009(d) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (128 Stat. 3751) is amended—
 
-- **(1)** In paragraph (1)—
-  - **(A)** by striking subparagraphs (B) through and (D) and redesignating subparagraph (E) as subparagraph (B); and
-  - **(B)** by adding at the end the following:
-    > - **(C)** *Subject Federal land* The term “subject Federal land” means the land generally described as “Federal Land” on the map titled “Storey County Land Conveyance” and dated May 22, 2018.
+- **(1)** in paragraph (1)—
+  - **(A)** by striking subparagraphs (B) through (D) and redesignating subparagraph (E) as subparagraph (D); and
+  - **(B)** by inserting after subparagraph (A) the following:
+    > - **(B)** *Federal land* The term “Federal land” means the land generally depicted as “Federal land” on the map.
+    > - **(C)** *Map* The term “map” means the map entitled “Storey County Land Conveyance” and dated June 6, 2018.
 
-- **(2)** In paragraph (2)—
-  - **(A)** by striking subparagraph (A) and redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively;
-  - **(B)** by amending subparagraph (A), as so redesignated, to read as follows:
-    > - **(A)** *Determination of validity* With respect to an unpatented mining claim (including an unpatented mining claim for which a patent application has been filed) within the boundaries of the subject Federal land, if the Secretary determines that the elements of a contest are present, the Secretary shall immediately determine the validity of the mining claim.
+- **(2)** in paragraph (3)—
+  - **(A)** in subparagraph (A)(i), by striking “after completing the mining claim validity review under paragraph (2)(B), if requested by the County,”; and
+  - **(B)** in subparagraph (B)—
+    - **(i)** in clause (i)—
+      - **(I)** in the matter preceding subclause (I), by striking “each parcel of land located in a mining townsite” and inserting “any Federal land”;
+      - **(II)** in subclause (I), by striking “mining townsite” and inserting “Federal land”; and
+      - **(III)** in subclause (II), by striking “mining townsite (including improvements to the mining townsite), as identified for conveyance on the map” and inserting “Federal land (including improvements)”;
+    - **(ii)** by striking clause (ii);
+    - **(iii)** by striking the subparagraph designation and heading and all that follows through “With respect” in the matter preceding subclause (I) of clause (i) and inserting the following:
+      > - **(B)** *Valid mining claims* With respect
 
-  - **(C)** by striking “subparagraph (B)” each place it appears and inserting “subparagraph (A)”.
-- **(3)** In paragraph (3)(A)(i), by striking “paragraph (2)(B)” and inserting “paragraph (2)(A)”.
-- **(4)** By amending paragraph (7) to read as follows:
-  > - **(7)** *Survey* The exterior boundary of the subject Federal land to be conveyed by the United States under paragraph (3) shall be sufficiently surveyed as a whole to legally describe the land for patent conveyance.
+    - **(iv)** by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and indenting appropriately;
+- **(3)** in paragraph (4)(A), by striking “a mining townsite conveyed under paragraph (3)(B)(i)(II)” and inserting “Federal land conveyed under paragraph (2)(B)(ii)”;
+- **(4)** in paragraph (5), by striking “a mining townsite under paragraph (3)” and inserting “Federal land under paragraph (2)”;
+- **(5)** in paragraph (6), in the matter preceding subparagraph (A), by striking “mining townsite” and inserting “Federal land”;
+- **(6)** in paragraph (7), by striking “A mining townsite to be conveyed by the United States under paragraph (3)” and inserting “The exterior boundary of the Federal land to be conveyed by the United States under paragraph (2)”;
+- **(7)** in paragraph (9)—
+  - **(A)** by striking “a mining townsite under paragraph (3)” and inserting “the Federal land under paragraph (2)”; and
+  - **(B)** by striking “the mining townsite” and inserting “the Federal land”;
+- **(8)** in paragraph (10), by striking “the examination” and all that follows through the period at the end and inserting “the conveyance under paragraph (2) should be completed by not later than 18 months after the date of enactment of the Nevada Lands Bill Technical Corrections Act of 2018.”;
+- **(9)** by striking paragraphs (2) and (8);
+- **(10)** by redesignating paragraphs (3) through (7) and (9) and (10) as paragraphs (2) through (6) and (7) and (8) respectively; and
+- **(11)** by adding at the end the following:
+  > - **(9)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-- **(5)** In paragraph (8), by striking “paragraph (2)(B)” and inserting “paragraph (2)(A)”.
-- **(6)** By striking “a mining townsite” each place it appears and inserting “the subject Federal land”.
-- **(7)** By striking “the mining townsite” each place it appears and inserting “the subject Federal land”.
-- **(8)** By striking paragraph (10).
-- **(9)** By adding at the end the following:
-  > - **(10)** *Availability of map* The Secretary shall keep the map titled “Storey County Land Conveyance” and dated May 22, 2018, on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
-
-## § 3. ZIP code designation
-
-Not later than 270 days after the date of the enactment of this Act, the Postal Service shall designate a single, unique ZIP Code applicable to the area encompassing only Storey County, Nevada.
-
-## § 4. Facilitation of pinyon-juniper-related projects in Lincoln County, Nevada
+## § 3. Facilitation of pinyon-juniper-related projects in Lincoln County, Nevada
 
 - **(a)** *Facilitation of Pinyon-Juniper-Related projects*
   - **(1)** *Availability of special account under Lincoln County Land Act of 2000* Section 5(b) of the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1048) is amended—
@@ -90,8 +95,15 @@ Not later than 270 days after the date of the enactment of this Act, the Postal 
 - **(e)** *Issuance of corrective patent in Lincoln County, Nevada*
   - **(1)** *In general* The Secretary of the Interior, acting through the Director of the Bureau of Land Management, may issue a corrective patent for the 7,548 acres of land in Lincoln County, Nevada, depicted on the map prepared by the Bureau of Land Management titled “Proposed Lincoln County Land Reconfiguration” and dated January 28, 2016.
   - **(2)** *Applicable law* A corrective patent issued under paragraph (1) shall be treated as issued pursuant to, and in compliance with, the Nevada-Florida Land Exchange Authorization Act of 1988 (Public Law 100–275; 102 Stat. 52).
+- **(f)** *Conveyance to Lincoln County, Nevada, to support a landfill*
+  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, and subject to valid existing rights, at the request of Lincoln County, Nevada, the Secretary of the Interior shall convey without consideration under the Recreation and Public Purposes Act (43 U.S.C. 869 et seq.) to Lincoln County all right, title and interest of the United States in and to approximately 400 acres of land in Lincoln County, Nevada, more particularly described as follows: T. 11 S., R. 62, E., Section 25 E ½ of W ½; and W ½ of E ½; and E ½ of SE 1/4.
+  - **(2)** *Reservation* The Secretary shall reserve to the United States the mineral estate in any land conveyed under paragraph (1).
+  - **(3)** *Use of conveyed land* The land conveyed under paragraph (1) shall be used by Lincoln County, Nevada, to provide a suitable location for the establishment of a centralized landfill and to provide a designated area and authorized facilities to discourage unauthorized dumping and trash disposal on environmentally-sensitive public land. Lincoln County may not dispose of the land conveyed under paragraph (1).
+  - **(4)** *Reversion* If Lincoln County, Nevada, ceases to use any parcel of land conveyed under paragraph (1) for the purposes described in paragraph (3)—
+    - **(A)** title to the parcel shall revert to the Secretary of the Interior, at the option of the Secretary; and
+    - **(B)** Lincoln County shall be responsible for any reclamation necessary to restore the parcel to a condition acceptable to the Secretary of the Interior.
 
-## § 5. Mt. Moriah Wilderness, High Schells Wilderness, and Arc Dome Wilderness boundary adjustments
+## § 4. Mt. Moriah Wilderness, High Schells Wilderness, and Arc Dome Wilderness boundary adjustments
 
 - **(a)** *Amendments to the Pam White Wilderness Act of 2006* Section 323 of the Pam White Wilderness Act of 2006 (16 U.S.C. 1132 note; 120 Stat. 3031) is amended by striking subsection (e) and inserting the following:
   > - **(e)** *Mt. Moriah Wilderness adjustment* The boundary of the Mt. Moriah Wilderness established under section 2(13) of the Nevada Wilderness Protection Act of 1989 (16 U.S.C. 1132 note) is adjusted to include—
@@ -106,7 +118,7 @@ Not later than 270 days after the date of the enactment of this Act, the Postal 
   >
   > The boundary of the Arc Dome Wilderness established under section 2(2) is adjusted to exclude the land identified as “Exclude from Wilderness” on the map titled “Arc Dome Adjustment” and dated November 3, 2014.
 
-## § 6. Implementation of White Pine County Conservation, Recreation, and Development Act
+## § 5. Implementation of White Pine County Conservation, Recreation, and Development Act
 
 - **(a)** *Disposition of proceeds* Section 312 of the White Pine County Conservation, Recreation, and Development Act of 2006 (Public Law 109–432; 120 Stat. 3030) is amended—
   - **(1)** in paragraph (2), by striking “and planning” and inserting “municipal water and sewer infrastructure, public electric transmission facilities, public broadband infrastructure, and planning”; and
