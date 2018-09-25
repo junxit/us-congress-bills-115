@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6847
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 5 executed, 46 stated and not applied.
+49 amendatory instructions. 5 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -101,7 +101,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “employs, uses, persuades, induces, entices, or coerces any minor to engage in, or who has a minor assist any other person to engage in, any sexually explicit conduct” and inserting “engages in any conduct described in paragr… | the bill names no machine-readable US Code section |
 | — | strike | by striking “, for the purpose of producing any visual depiction of such conduct,”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(A), by inserting after “transported” the following: “or transmitted”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2)(B), by inserting after “transports” the following; “or transmits”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(B), by inserting after “transports” the following; “or transmits”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “from the response to a search warrant or other legal process or” before “from the performance”; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(2)(C), by inserting “the response to a search warrant or other legal process or to” before “the performance of any responsibility”. | the bill names no machine-readable US Code section |
@@ -117,8 +117,6 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 20991` | amend | by adding after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 3603 of title 18, United States Code, is amended in paragraph (8)(A) by striking “or 4246” and inserting “, 4246, or 4248”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3154 of title 18, United States Code, is amended in paragraph (12)(A) by striking “or 4246” and inserting “, 4246, or 4248”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “three years” and inserting “10 years”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “ends” before the period at the end. | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 20918` | replace | by striking “A sex offender shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 20918` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 20911` | insert | Section 111(8) of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20911(8)) is amended by inserting “subsection (a) or (b) of” before “section 2241 of title 18, United States Code”. | the bill quotes the text inserted but describes where it goes |
