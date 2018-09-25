@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2278
@@ -38,3 +38,10 @@ Responsible Disposal Reauthorization Act of 2018
 - 2018-09-07 — Placed on the Union Calendar, Calendar No. 718.
 - 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-925.
 - 2018-09-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-925.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8801-8802)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2278.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. McKinley moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8801)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8801)
+- 2018-09-25 — The title of the measure was amended. Agreed to without objection.
