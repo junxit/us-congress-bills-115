@@ -1,7 +1,7 @@
 ---
 measure: S. 3139
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3139
@@ -29,3 +29,7 @@ TRIP Act
 
 - 2018-06-26 — Introduced in Senate
 - 2018-06-26 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-09-25 — Passed Senate without amendment by Voice Vote. (text: CR S6310-6311)
+- 2018-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S6310-6311)
+- 2018-09-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6310-6311)
+- 2018-09-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6310-6311)
