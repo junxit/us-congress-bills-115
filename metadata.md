@@ -1,7 +1,7 @@
 ---
 measure: S. 1595
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1595
@@ -16,7 +16,7 @@ Hizballah International Financing Prevention Amendments Act of 2018
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (70)
+## Cosponsors (73)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -54,6 +54,9 @@ Hizballah International Financing Prevention Amendments Act of 2018
 - Sen. Donnelly, Joe [D-IN] (D000607)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Kaine, Tim [D-VA] (K000384)
@@ -116,3 +119,9 @@ Hizballah International Financing Prevention Amendments Act of 2018
 - 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-10-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8872-8878)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1595.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8872-8876)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8872-8876)
