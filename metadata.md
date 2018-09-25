@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6347
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6347
@@ -34,3 +34,9 @@ version: Reported in House
 - 2018-09-12 — Placed on the Union Calendar, Calendar No. 731.
 - 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-940.
 - 2018-09-12 — Reported by the Committee on Small Business. H. Rept. 115-940.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8803-8804)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6347.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill.
+- 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8803-8804)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8803-8804)
