@@ -30,6 +30,10 @@ This Act may be cited as the “Border Tunnel Task Force Act”.
   >   - **(3)** Personnel from other Department components and offices, as appropriate.
   >   - **(4)** Personnel from other Federal, State, local, and Tribal law enforcement agencies, as appropriate.
   >   - **(5)** Other appropriate personnel at the discretion of the Secretary.
-  > - **(d)** *Duplication of efforts* In determining whether to establish a new Border Tunnel Task Force or to expand an existing Border Tunnel Task Force in a given jurisdiction, the Secretary shall ensure that the Border Tunnel Task Force under consideration does not duplicate the efforts of other existing interagency task forces or centers within such jurisdiction.
+  > - **(d)** *Duplication of efforts* In determining whether to establish a new Border Tunnel Task Force or to expand an existing Border Tunnel Task Force in a given jurisdiction, the Secretary shall ensure that the Border Tunnel Task Force under consideration does not unnecessarily duplicate the efforts of other existing interagency task forces or centers within such jurisdiction.
+  > - **(e)** *Coordination among components* The Secretary shall—
+  >   - **(1)** establish targets and performance measures for the Border Tunnel Task Forces that include consideration of whether border barriers impact cross-border tunnel threats;
+  >   - **(2)** direct leadership of each Border Tunnel Task Force to monitor progress on such targets and performance measures for each such task force; and
+  >   - **(3)** periodically report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding progress on such targets and performance measures.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 419 the following new item:
