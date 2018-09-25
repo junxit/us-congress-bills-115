@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6013
 
-> To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal closing date for duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.
+> To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal framework closing date for the duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,20 +17,17 @@ This Act may be cited as the “Migratory Bird Framework and Hunting Opportuniti
 
 Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by adding at the end the following:
 
-> - **(c)** *Federal closing date for hunting of ducks, mergansers, and coots*
->   - **(1)** *In general* In promulgating regulations under subsection (a) relating to a framework for migratory bird hunting, except as provided in paragraph (2), the Secretary shall establish January 31 of each year as the Federal closing date of the hunting season for ducks, mergansers, and coots.
->   - **(2)** *Special duck hunting days for youths, veterans, and active military personnel* Notwithstanding the closing date under paragraph (1), the Secretary shall allow youths, veterans (as defined in section 101 of title 38, United States Code), and members of the Armed Forces on active duty, including members of the National Guard and Reserves on active duty (other than for training), to hunt ducks, mergansers, and coots during the first weekend in February of each year.
->   - **(3)** *Prohibition* With respect to ducks, mergansers, and coots, the Secretary shall not decrease the length of the hunting season or bag limit, as compared to the length of the hunting season and bag limit for the 2017–2018 hunting season, in—
->     - **(A)** the Atlantic flyway;
->     - **(B)** the Mississippi flyway;
->     - **(C)** the Central flyway; or
->     - **(D)** the Pacific flyway.
->   - **(4)** *Regulations*
->     - **(A)** *In general* Not later than 60 days after the date of enactment of this subsection, the Secretary shall promulgate regulations in accordance with this subsection.
->     - **(B)** *2018–2019 migratory bird hunting season* The Secretary shall modify the proposed rule entitled “Migratory Bird Hunting; Proposed Frameworks for Migratory Bird Hunting Regulations” (83 Fed. Reg. 4964 (February 2, 2018)), if, before the date of enactment of this subsection—
->       - **(i)** the proposed rule has been finalized; and
->       - **(ii)** the 2018–2019 duck hunting season has not commenced in—
->         - **(I)** the Atlantic flyway;
->         - **(II)** the Mississippi flyway;
->         - **(III)** the Central flyway; or
->         - **(IV)** the Pacific flyway.
+> - **(c)** *Federal framework closing date for hunting of ducks, mergansers, and coots*
+>   - **(1)** *In general* In promulgating regulations under subsection (a) relating to the Federal framework for outside dates within which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
+>     - **(A)** adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if considered by the Secretary to be consistent with science-based and sustainable adaptive harvest management, but the framework closing date shall be January 31 of each year; and
+>     - **(B)** allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
+>   - **(2)** *Special duck hunting days for youths, veterans, and active military personnel*
+>     - **(A)** *In general* Notwithstanding the closing date under paragraph (1) and subject to subparagraphs (B) and (C), the Secretary shall allow States to select 2 days for youths and 2 days for veterans (as defined in section 101 of title 38, United States Code), and members of the Armed Forces on active duty, including members of the National Guard and Reserves on active duty (other than for training), to hunt ducks, mergansers, and coots. Such days shall be treated as an addition to the regular hunting season lengths selected by the States.
+>     - **(B)** *Requirements* In selecting days under subparagraph (A), a State shall ensure that—
+>       - **(i)** the days selected—
+>         - **(I)** do not fall within the regular hunting season for ducks, mergansers, and coots;
+>         - **(II)** with regard to youth days, are on a weekend, holiday or other day in which schools are not in session; and
+>         - **(III)** are not more than 14 days before or after the hunting season for duck, mergansers, and coots; and
+>       - **(ii)** the total number of days in a hunting season for ducks, mergansers and coots, including any days selected under subparagraph (A), is not more than 107 days.
+>     - **(C)** *Limitation* A State may combine the 2 days allowed for youths with the 2 days allowed for veterans and members of the Armed Forces on active duty under subparagraph (A), but in no circumstance may a State have more than a total of 4 additional days added to its regular hunting season for any purpose.
+>   - **(3)** *Regulations* The Secretary shall promulgate regulations in accordance with this subsection for the Federal framework for migratory bird hunting for the 2019–2020 hunting season and each hunting season thereafter.
