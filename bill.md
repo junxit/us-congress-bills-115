@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6687
 
-> To direct the Secretary of the Interior to manage the Point Reyes National Seashore in the State of California consistently with Congress’ long-standing intent to continue to authorize working dairies and ranches on agricultural property as part of the seashore’s unique historic, cultural, scenic and natural values, and for other purposes.
+> To direct the Secretary of the Interior to manage the Point Reyes National Seashore in the State of California consistent with Congress' longstanding intent to maintain working dairies and ranches on agricultural property as part of the seashore's unique historic, cultural, scenic and natural values, and for other purposes.
 
 ## § 1. Management of agricultural property in Point Reyes National Seashore
 
