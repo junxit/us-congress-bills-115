@@ -1,23 +1,23 @@
 ---
 legis-num: H.R. 1872
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1872
 
-> To promote access for United States officials, journalists, and other citizens to Tibetan areas of the People’s Republic of China, and for other purposes.
+> To promote access for United States diplomats and other officials, journalists, and other citizens to Tibetan areas of the People’s Republic of China, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Reciprocal Access to Tibet Act of 2017”.
+This Act may be cited as the “Reciprocal Access to Tibet Act of 2018”.
 
 ## § 2. Findings
 
 Congress finds the following:
 
-- **(1)** The Government of the People's Republic of China does not grant United States officials, journalists, and other citizens access to China on a basis that is reciprocal to the access that the Government of the United States grants Chinese officials, journalists, and citizens.
+- **(1)** The Government of the People’s Republic of China does not grant United States diplomats and other officials, journalists, and other citizens access to China on a basis that is reciprocal to the access that the Government of the United States grants Chinese diplomats and other officials, journalists, and citizens.
 - **(2)** The Government of China imposes greater restrictions on travel to Tibetan areas than to other areas of China.
 - **(3)** Officials of China have stated that Tibet is open to foreign visitors.
 - **(4)** The Government of China is promoting tourism in Tibetan areas, and at the Sixth Tibet Work Forum in August 2015, Premier Li Keqiang called for Tibet to build “major world tourism destinations”.
@@ -43,7 +43,7 @@ Congress finds the following:
   - **(D)** are banned from visiting the area where Larung Gar, the world’s largest center for the study of Tibetan Buddhism, and the site of a large-scale campaign to expel students and demolish living quarters, is located.
 - **(16)** Foreign visitors also face restrictions in their ability to travel freely in Tibetan areas outside the Tibet Autonomous Region.
 - **(17)** The Government of the United States generally allows journalists and other citizens of China to travel freely within the United States. The Government of the United States requires diplomats from China to notify the Department of State of their travel plans, and in certain situations, the Government of the United States requires such diplomats to obtain approval from the Department of State before travel. However, where approval is required, it is almost always granted expeditiously.
-- **(18)** The United States regularly grants visas to Chinese officials, scholars, and others who travel to the United States to discuss, promote, and display the perspective of the Government of China on the situation in Tibetan areas, even as the Government of China restricts the ability of citizens of the United States to travel to Tibetan areas to gain their own perspective.
+- **(18)** The United States regularly grants visas to Chinese diplomats and other officials, scholars, and others who travel to the United States to discuss, promote, and display the perspective of the Government of China on the situation in Tibetan areas, even as the Government of China restricts the ability of citizens of the United States to travel to Tibetan areas to gain their own perspective.
 - **(19)** Chinese diplomats based in the United States generally avail themselves of the freedom to travel to United States cities and lobby city councils, mayors, and governors to refrain from passing resolutions, issuing proclamations, or making statements of concern on Tibet.
 - **(20)** The Government of China characterizes statements made by officials of the United States about the situation in Tibetan areas as inappropriate interference in the internal affairs of China.
 
@@ -51,18 +51,10 @@ Congress finds the following:
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
   - **(A)** the Committee on Foreign Relations and the Committee on the Judiciary of the Senate; and
   - **(B)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
-- **(2)** *Senior leadership positions* The term senior leadership positions means—
-  - **(A)** at the national level, the Chairperson of the National Committee of the Chinese People’s Political Consultative Conference and the Head and Deputy Heads of the Communist Party Central Committee’s United Front Work Department;
-  - **(B)** at the sub-national level—
-    - **(i)** members of the Communist Party Standing Committee of the Tibet Autonomous Region;
-    - **(ii)** the Director of the Tibet Autonomous Region Tourism Bureau;
-    - **(iii)** the heads of United Front Work Departments of Sichuan, Qinghai, Gansu, and Yunnan Provinces; and
-    - **(iv)** members of the Communist Party Standing Committees of the areas listed under paragraph (3)(B); and
-  - **(C)** any other individual determined by the Secretary of State to be personally and substantially involved in the formulation or execution of policies related to access for foreigners to Tibetan areas.
-- **(3)** *Tibetan areas* The term Tibetan areas includes—
+- **(2)** *Tibetan areas* The term “Tibetan areas” includes—
   - **(A)** the Tibet Autonomous Region; and
   - **(B)** the areas that the Chinese Government designates as Tibetan Autonomous, as follows:
     - **(i)** Kanlho (Gannan) Tibetan Autonomous Prefecture, and Pari (Tianzhu) Tibetan Autonomous County located in Gansu Province.
@@ -70,34 +62,30 @@ In this Act:
     - **(iii)** Garze (Ganzi) Tibetan Autonomous Prefecture, Ngawa (Aba) Tibetan and Qiang Autonomous Prefecture, and Muli (Mili) Tibetan Autonomous County, located in Sichuan Province.
     - **(iv)** Dechen (Diqing) Tibetan Autonomous Prefecture, located in Yunnan Province.
 
-## § 4. Annual report
+## § 4. Annual report on access to Tibetan areas
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that includes—
-  - **(1)** an assessment of the level of access Chinese authorities granted diplomats, journalists, and tourists from the United States to Tibetan areas, including—
-    - **(A)** a comparison with the level of access granted to other areas of China;
-    - **(B)** a comparison between the levels of access granted to Tibetan and non-Tibetan areas in relevant provinces;
-    - **(C)** a comparison of the level of access in the reporting year and the previous reporting year; and
-    - **(D)** a description of the required permits and other measures that impede the freedom to travel in Tibetan areas; and
-  - **(2)** a list of each individual who holds a senior leadership position.
-- **(b)** *Public availability* The report required under subsection (a) shall be made available to the public on the website of the Department of State.
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter for the following five years, the Secretary of State shall submit to the appropriate congressional committees, and make available to the public on the website of the Department of State, a report that includes an assessment of the level of access Chinese authorities granted diplomats and other officials, journalists, and tourists from the United States to Tibetan areas, including—
+  - **(1)** a comparison with the level of access granted to other areas of China;
+  - **(2)** a comparison between the levels of access granted to Tibetan and non-Tibetan areas in relevant provinces;
+  - **(3)** a comparison of the level of access in the reporting year and the previous reporting year; and
+  - **(4)** a description of the required permits and other measures that impede the freedom to travel in Tibetan areas.
+- **(b)** *Consolidation* After the issuance of the first report required by subsection (a), the Secretary of State is authorized to incorporate subsequent reports required by subsection (a) into other publicly available, annual reports produced by the Department of State, provided they are submitted to the appropriate congressional committees in a manner specifying that they are being submitted in fulfillment of the requirements of this Act.
 
 ## § 5. Inadmissibility of certain aliens
 
-- **(a)** *Ineligibility for visas* No individual who is included on the most recent list required under section 4(a)(2) may be eligible to receive a visa to enter the United States or be admitted to the United States if the Secretary of State determines that—
+- **(a)** *Ineligibility for visas* No individual whom the Secretary of State has determined to be substantially involved in the formulation or execution of policies related to access for foreigners to Tibetan areas may be eligible to receive a visa to enter the United States or be admitted to the United States if the Secretary of State determines that—
   - **(1)**
     - **(A)** the requirement for specific official permission for foreigners to enter the Tibetan Autonomous Region remains in effect; or
     - **(B)** such requirement has been replaced by a regulation that has a similar effect and requires foreign travelers to gain a level of permission to enter the Tibet Autonomous Region that is not required for travel to other provinces in China; and
-  - **(2)** restrictions on travel by officials, journalists, and citizens of the United States to areas designated as “Tibetan Autonomous” in the provinces of Sichuan, Qinghai, Yunnan, and Gansu of China are greater than any restrictions on travel by such officials and citizens to areas in such provinces that are not so designated.
+  - **(2)** restrictions on travel by diplomats and other officials, journalists, and citizens of the United States to areas designated as “Tibetan Autonomous” in the provinces of Sichuan, Qinghai, Yunnan, and Gansu of China are greater than any restrictions on travel by such officials and citizens to areas in such provinces that are not so designated.
 - **(b)** *Current visas revoked* The Secretary of State shall revoke, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), the visa or other documentation to enter or be present in the United States issued for an alien who would be ineligible to receive such a visa or documentation under subsection (a).
-- **(c)** *Waiver for national interests*
+- **(c)** *Report to congress* Not later than one year after the date of the enactment of this Act, and annually thereafter for the following five years, the Secretary of State shall provide to the appropriate congressional committees a report identifying the individuals who have had visas denied or revoked pursuant to this section during the preceding year and, to the extent practicable, a list of Chinese officials who were substantially involved in the formulation or execution of policies to restrict access of United States diplomats and other officials, journalists, and citizens of the United States to Tibetan areas. The report required by this subsection shall be submitted in unclassified form, but may include a classified annex.
+- **(d)** *Waiver for national interest*
   - **(1)** *In general* The Secretary of State may waive the application of subsection (a) or (b) in the case of an alien if the Secretary determines that such a waiver—
     - **(A)** is necessary to permit the United States to comply with the Agreement Regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947 (TIAS 1676), or any other applicable international obligation of the United States; or
-    - **(B)** is in the national security interests of the United States.
-  - **(2)** *Notification* Upon granting a waiver under paragraph (1), the Secretary of State shall submit to the appropriate congressional committees a document detailing the evidence and justification for the necessity of such waiver, including, if such waiver is granted pursuant to paragraph (1)(B), how such waiver relates to the national security interests of the United States.
+    - **(B)** is in the national interest of the United States.
+  - **(2)** *Notification* Upon granting a waiver under paragraph (1), the Secretary of State shall submit to the appropriate congressional committees a document detailing the evidence and justification for the necessity of such waiver, including, if such waiver is granted pursuant to paragraph (1)(B), how such waiver relates to the national interest of the United States.
 
-## § 6. Sense of Congress on visa policy
+## § 6. Sense of Congress
 
-- **(a)** *Finding* Congress finds that reciprocity forms the basis of diplomatic law and the practice of mutual exchanges between countries.
-- **(b)** *Sense of Congress* It is the sense of Congress that—
-  - **(1)** a country should give equivalent consular access to the nationals of a foreign country in a manner that is reciprocal to the consular access granted by such foreign country to citizens of the country; and
-  - **(2)** the Secretary of State, when granting diplomats from China access to parts of the United States, should take into account the extent to which the Government of China grants diplomats from the United States access to parts of China, including the level of access afforded to such diplomats to Tibetan areas.
+It is the sense of Congress that the Secretary of State, when granting diplomats and other officials from China access to parts of the United States, including consular access, should take into account the extent to which the Government of China grants diplomats and other officials from the United States access to parts of China, including the level of access afforded to such diplomats and other officials to Tibetan areas.
