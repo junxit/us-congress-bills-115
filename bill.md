@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6894
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6894
+
+> To require a report on Saudi Arabia obtaining nuclear fuel enrichment capabilities.
+
+## § 1. Report on Saudi Arabia obtaining nuclear fuel enrichment capabilities
+
+Not later than 180 days after the date of the enactment of this Act, the President shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the impact to the national security interests of the United States and regional allies, including Israel, of Saudi Arabia obtaining nuclear fuel enrichment capabilities through a commercial sale.
