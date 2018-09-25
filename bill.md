@@ -20,9 +20,9 @@ This Act may be cited as the “National Institute of Standards and Technology R
   - **(2)** *Specific allocations* Of the amount authorized by paragraph (1)—
     - **(A)** $724,500,000 shall be for scientific and technical research and services laboratory activities;
     - **(B)** $319,000,000 shall be for the construction and maintenance of facilities; and
-    - **(C)** $155,000,000 shall be for industrial technology services activities, of which $140,000,000 shall be for the Manufacturing Extension Partnership program under sections 25 and 26 of the National Institute of Standards and Technology Act (15 U.S.C. 278k and 278I) and $15,000,000 shall be for the Network for Manufacturing Innovation Program under section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 278s).
+    - **(C)** $155,000,000 shall be for industrial technology services activities.
 - **(b)** *Fiscal year 2019*
-  - **(1)** *In general* There are authorized to be appropriated to the Secretary of Commerce $1,115,000,000 for the National Institute of Standards and Technology for fiscal year 2019.
+  - **(1)** *In general* There are authorized to be appropriated to the Secretary of Commerce $1,125,000,000 for the National Institute of Standards and Technology for fiscal year 2019.
   - **(2)** *Specific allocations* Of the amount authorized by paragraph (1)—
     - **(A)** $850,000,000 shall be for scientific and technical research and services laboratory activities, of which—
       - **(i)** $109,900,000 shall be for the advanced communications, networks, and scientific data systems mission area;
@@ -30,9 +30,7 @@ This Act may be cited as the “National Institute of Standards and Technology R
       - **(iii)** $234,000,000 shall be for the fundamental measurement, quantum science and measurement dissemination mission area; and
       - **(iv)** $89,800,000 shall be for the physical infrastructure and resilience mission area;
     - **(B)** $120,000,000 shall be for the construction and maintenance of facilities; and
-    - **(C)** $145,000,000 shall be for industrial technology services activities, of which—
-      - **(i)** $140,000,000 shall be for the Manufacturing Extension Partnership program under sections 25 and 26 of the National Institute of Standards and Technology Act (15 U.S.C. 278k and 278I); and
-      - **(ii)** $5,000,000 shall be for the Network for Manufacturing Innovation Program under section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 278s).
+    - **(C)** $155,000,000 shall be for industrial technology services activities.
 
 ## § 3. Quantum information science
 
@@ -46,19 +44,15 @@ This Act may be cited as the “National Institute of Standards and Technology R
     - **(A)** assessment of the Institute’s quantum information science and technology research work, including areas that may need additional Institute investment in order to support development of quantum information science and technology in the United States; and
     - **(B)** consideration of recommendations and priority issues for the Institute’s participation in the proposed National Quantum Initiative Program.
   - **(2)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Director, shall transmit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate a summary report containing the findings of the workshop convened under this subsection.
-- **(c)** *Funding* The Secretary of Commerce shall devote $80,000,000 to carry out this section for fiscal year 2019, subject to the availability of appropriations, to come from amounts made available pursuant to section 2(b)2(A)(iii) of this Act. This section shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
+- **(c)** *Funding* The Secretary of Commerce shall devote $80,000,000 to carry out this section for fiscal year 2019, subject to the availability of appropriations, to come from amounts made available pursuant to section 2(b)(2)(A)(iii) of this Act. This section shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
 
-## § 4. Cybersecurity
+## § 4. Cybersecurity research
 
-- **(a)** *Assistance to Federal agencies* The Secretary, acting through the Director, shall enhance and expand the Institute’s guidance and assistance to Federal agencies to help such agencies effectively use the Framework, including by providing technical guidance and education and training of—
-  - **(1)** agency staff responsible for cybersecurity, consultative services, and other assistance at such agencies; and
-  - **(2)** individual inspectors general and staff of such agencies who are responsible for the annual independent evaluation required under section 3555 of title 44, United States Code.
-- **(b)** *Report* Not later than 12 months after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the implementation of the activities described in this section in as much detail as possible, including the identification of Federal agencies assisted pursuant to subsection (a) and the types of consultative services, education, guidance, assistance, and training provided to such agencies and inspectors general of such agencies pursuant to such subsection.
-- **(c)** *Research* The Secretary, acting through the Director, shall expand the fundamental and applied research carried out by the Institute to address key questions relating the measurement of privacy, security, and vulnerability of software tools and communications networks, including through—
+- **(a)** *Research* The Secretary, acting through the Director, shall expand the fundamental and applied research carried out by the Institute to address key questions relating the measurement of privacy, security, and vulnerability of software tools and communications networks, including through—
   - **(1)** the development of research and engineering capabilities to provide practical solutions, including measurement techniques and engineering toolkits, to solve cybersecurity challenges such as human factors, identity management, network security, privacy, and software;
   - **(2)** investment in tools to help private and public sector organizations measure their cybersecurity, manage their risks and ensure workforce preparedness for new cybersecurity challenges; and
   - **(3)** investment in programs to prepare the United States with strong cybersecurity and encryption technologies to apply to emerging technologies such as artificial intelligence, the internet of things, and quantum computing.
-- **(d)** *Authority* The Secretary, acting through the Director, shall have the authority to enter into and perform such contracts on such terms as the Secretary considers to be appropriate, including cooperative research and development arrangements, grants, and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the Institute with respect to cybersecurity.
+- **(b)** *Authority* The Secretary, acting through the Director, shall have the authority to enter into and perform such contracts on such terms as the Secretary considers to be appropriate, including cooperative research and development arrangements, grants, and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the Institute with respect to cybersecurity.
 
 ## § 5. Composites research
 
@@ -76,8 +70,9 @@ This Act may be cited as the “National Institute of Standards and Technology R
 The Secretary, acting through the Director, shall continue to support the development of artificial intelligence and data science, including through—
 
 - **(1)** the expansion of the Institute’s capabilities, including scientific staff and research infrastructure;
-- **(2)** the implementation of rigorous scientific testing to support the development of trustworthy and safe artificial intelligence and data systems; and
-- **(3)** the development of machine learning and other artificial intelligence applications to support measurement science research programs and take steps to modernize the Institute’s research infrastructure.
+- **(2)** the implementation of rigorous scientific testing to support the development of trustworthy and safe artificial intelligence and data systems;
+- **(3)** the development of machine learning and other artificial intelligence applications to support measurement science research programs and take steps to modernize the Institute’s research infrastructure; and
+- **(4)** the development and publication of new cybersecurity tools, encryption methods, and best practices for artificial intelligence and data science.
 
 ## § 7. Internet of things
 
@@ -90,10 +85,11 @@ The Secretary, acting through the Director, shall continue to conduct research w
 
 ## § 8. Hiring and management
 
-- **(a)** *Appointments* The Secretary, acting through the Director shall have the authority to—
-  - **(1)** make appointments of scientific, engineering, and professional personnel without regard to the civil service laws as the Secretary, acting through the Director determines necessary for carrying out research and development functions which require the services of specially qualified personnel relating to cybersecurity and quantum information science and technology and such other areas of national research priorities as the Secretary, acting through the Director may determine; and
-  - **(2)** fix the basic pay of such personnel at a rate to be determined by the Secretary, acting through the Director at rates not in excess of the basic rate of pay of the Vice President under section 104 of title 3, United States Code, without regard to the civil service laws.
+- **(a)** *Direct hire authority* The Secretary, acting through the Director, may—
+  - **(1)** appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303, 3328, and 3330e of such chapter), qualified candidates to scientific, engineering, and professional positions for carrying out research and development functions which require the services of specially qualified personnel relating to cybersecurity and quantum information science and technology and such other areas of national research priorities as the Secretary, acting through the Director, may determine; and
+  - **(2)** fix the rate of basic pay of any individual appointed under paragraph (1), at a rate not in excess of the basic rate of pay of the Vice President under section 104 of title 3, United States Code, without regard to title 5, United States Code.
 - **(b)** *Limitation* The Director may appoint not more than 10 individuals under this section.
+- **(c)** *Sunset* The authority under this section shall expire on the date that is 5 years after the date of enactment of this Act.
 
 ## § 9. Definitions
 

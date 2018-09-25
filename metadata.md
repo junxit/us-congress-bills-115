@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6229
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6229
@@ -16,7 +16,7 @@ National Institute of Standards and Technology Reauthorization Act of 2018
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -28,6 +28,7 @@ National Institute of Standards and Technology Reauthorization Act of 2018
 - Rep. Rohrabacher, Dana [R-CA-48] (R000409)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
 
 ## Committees (1)
 
@@ -38,3 +39,14 @@ National Institute of Standards and Technology Reauthorization Act of 2018
 - 2018-06-26 — Introduced in House
 - 2018-06-26 — Introduced in House
 - 2018-06-26 — Referred to the House Committee on Science, Space, and Technology.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8865-8868)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6229.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mrs. Comstock moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8865-8866)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8865-8866)
+- 2018-09-25 — Placed on the Union Calendar, Calendar No. 764.
+- 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-977.
+- 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-977.
