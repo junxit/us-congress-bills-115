@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6511
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6511
@@ -29,3 +29,17 @@ Strategic Petroleum Reserve Reform Act
 - 2018-07-25 — Introduced in House
 - 2018-07-25 — Introduced in House
 - 2018-07-25 — Referred to the House Committee on Energy and Commerce.
+- 2018-07-27 — Referred to the Subcommittee on Energy.
+- 2018-09-06 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2018-09-06 — Subcommittee Consideration and Mark-up Session Held.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8792-8794)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6511.
+- 2018-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-25 — Mr. Barton moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8792-8793)
+- 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8792-8793)
+- 2018-09-25 — Placed on the Union Calendar, Calendar No. 753.
+- 2018-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-965.
+- 2018-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-965.

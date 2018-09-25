@@ -25,7 +25,8 @@ Section 168 of the Energy Policy and Conservation Act (42 U.S.C. 6247a) is amend
 > - **(d)** *National security* The Secretary shall ensure that leasing of facilities under the program established under subsection (a) to a foreign government or its representative will not impair national security.
 > - **(e)** *Deposits of amounts received*
 >   - **(1)** *In general* Except as provided in paragraph (2), amounts received through the leasing of facilities under the program established under subsection (a) shall be deposited in the general fund of the Treasury during the fiscal year in which such amounts are received.
->   - **(2)** *Costs* The Secretary may use for costs described in subsection (b), without further appropriation, amounts received through the leasing of facilities under the program established under subsection (a).
+>   - **(2)** *Costs* The Secretary may use for costs described in subsection (b) (other than costs described in subsection (f)), without further appropriation, amounts received through the leasing of facilities under the program established under subsection (a).
+> - **(f)** *Preparation of facilities* The Secretary shall only use amounts available in the Energy Security and Infrastructure Modernization Fund established by section 404 of the Bipartisan Budget Act of 2015 for costs described in subsection (b) of this section that relate to addition of facilities or changes to facilities or facility operations necessary to lease such facilities, including costs related to acquisition of land, acquisition of ancillary facilities and equipment, and site development, and other necessary costs related to capital improvement.
 
 ## § 3. Pilot program to lease Strategic Petroleum Reserve facilities
 
