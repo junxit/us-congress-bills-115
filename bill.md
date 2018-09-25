@@ -15,7 +15,7 @@ This Act may be cited as the “FDR Historic Preservation Act”.
 
 ## § 2. Home of Franklin D. Roosevelt National Historic Site
 
-- **(a)** *Land acquisition* The Secretary of the Interior is authorized to acquire by donation, purchase from a willing seller using donated or appropriated funds, or exchange, the approximately 89 acres of land identified as the “Morgan Property” and generally depicted on the map titled “Home of Franklin D. Roosevelt National Historic Site, Proposed Park Addition”, numbered 384/138,461 and dated May 2017.
+- **(a)** *Land acquisition* The Secretary of the Interior is authorized to acquire by donation, purchase from a willing seller using donated funds, or exchange, the approximately 89 acres of land identified as the “Morgan Property” and generally depicted on the map titled “Home of Franklin D. Roosevelt National Historic Site, Proposed Park Addition”, numbered 384/138,461 and dated May 2017.
 - **(b)** *Availability of map* The map referred to in subsection (a) shall be available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Boundary adjustment; administration* Upon acquisition of the land referred to in subsection (a), the Secretary of the Interior shall—
   - **(1)** adjust the boundary of the Home of Franklin D. Roosevelt National Historic Site to reflect the acquisition; and

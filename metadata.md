@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5420
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5420
@@ -25,3 +25,14 @@ FDR Historic Preservation Act
 - 2018-03-29 — Introduced in House
 - 2018-03-29 — Introduced in House
 - 2018-03-29 — Referred to the House Committee on Natural Resources.
+- 2018-04-05 — Referred to the Subcommittee on Federal Lands.
+- 2018-09-05 — Committee Consideration and Mark-up Session Held.
+- 2018-09-05 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2018-09-05 — Subcommittee on Federal Lands Discharged.
+- 2018-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McClintock objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-09-25 — Considered under suspension of the rules. (consideration: CR H8858-8859; text: CR H8858)
+- 2018-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5420.
+- 2018-09-25 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2018-09-25 — Placed on the Union Calendar, Calendar No. 758.
+- 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-970.
+- 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-970.
