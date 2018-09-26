@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6620
@@ -20,10 +20,11 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 748.
 - 2018-09-25 — Reported by the Committee on Homeland Security. H. Rept. 115-960, Part I.
 - 2018-09-25 — Reported by the Committee on Homeland Security. H. Rept. 115-960, Part I.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
