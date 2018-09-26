@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6751
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6751
@@ -25,3 +25,14 @@ Banking Transparency for Sanctioned Persons Act of 2018
 - 2018-09-07 — Introduced in House
 - 2018-09-07 — Introduced in House
 - 2018-09-07 — Referred to the House Committee on Financial Services.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.
+- 2018-09-26 — Considered under suspension of the rules. (consideration: CR H9065-9067)
+- 2018-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6751.
+- 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Tipton moved to suspend the rules and pass the bill, as amended.
+- 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9065-9066)
+- 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9065-9066)
+- 2018-09-26 — Placed on the Union Calendar, Calendar No. 767.
+- 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-982.
+- 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-982.
