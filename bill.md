@@ -13,12 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Guidance Out Of Darkness Act” or the “GOOD Act”.
 
-## § 2. Publication of guidance documents on the internet
+## § 2. Purpose
+
+It is the purpose of this Act to increase the transparency of agency guidance documents and to make guidance documents more readily available to the public.
+
+## § 3. Publication of guidance documents on the internet
 
 - **(a)** *In general* On the date on which an agency issues a guidance document, the head of the agency shall publish the guidance document in accordance with subsection (c).
 - **(b)** *Previously issued guidance documents* With respect to any guidance document issued by an agency before the effective date of this Act that is in effect on the effective date of this Act, the head of each agency shall meet the requirements of subsection (c).
 - **(c)** *Single location* The head of each agency shall:
-  - **(1)** Publish any guidance document issued by the agency in a single location on the publicly accessible Federal Government website (commonly known as regulations.gov) described under section 206(d) of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note).
+  - **(1)** Publish any guidance document issued by the agency in a single location on an online portal designated by the Director of the Office of Management and Budget.
   - **(2)** With respect to a guidance document issued by an agency, include a hyperlink on the online portal of the agency that provides access to the guidance document published pursuant to paragraph (1).
   - **(3)** Ensure that any guidance document published pursuant to paragraph (1) is—
     - **(A)** clearly identified as a guidance document;
@@ -26,17 +30,19 @@ This Act may be cited as the “Guidance Out Of Darkness Act” or the “GOOD A
     - **(C)** published in a machine-readable and open format; and
     - **(D)** searchable.
   - **(4)** Ensure that any hyperlink described in paragraph (2) be prominently displayed on the online portal of the agency.
-- **(d)** *Rescinded guidance documents* Not later than the date on which a guidance document issued by an agency is rescinded, the head of the agency shall on the Federal Government website described in subsection (c)(1)—
+- **(d)** *Rescinded guidance documents* Not later than the date on which a guidance document issued by an agency is rescinded, the head of the agency shall on the online portal described in subsection (c)(1)—
   - **(1)** maintain a copy of the rescinded guidance document; and
   - **(2)** indicate—
     - **(A)** that the guidance document is rescinded; and
     - **(B)** the date on which the guidance document was rescinded.
+- **(e)** *Deadline to designate portal* Not later than 30 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall designate an online portal in accordance with subsection (c)(1).
 
-## § 3. Rule of construction
+## § 4. Rules of construction
 
-In this Act, the term “guidance document” shall be construed broadly.
+- **(a)** *Guidance documents* In this Act, the term “guidance document” shall be construed broadly.
+- **(b)** *Congressional review* Nothing in this Act may be construed to affect whether a guidance document qualifies as a rule for purposes of chapter 8 of title 5, United States Code.
 
-## § 4. Definitions
+## § 5. Definitions
 
 In this Act:
 
@@ -63,6 +69,6 @@ In this Act:
     - **(xiii)** Any combination of the items described in clauses (i) through (xii).
 - **(3)** *Rule* The term “rule” has the meaning given that term in section 551 of title 5, United States Code.
 
-## § 5. Effective date
+## § 6. Effective date
 
-This Act shall take effect on the date that is 180 days after the date of the enactment of this Act.
+Except as provided in section 3(e), this Act shall take effect on the date that is 180 days after the date of the enactment of this Act.
