@@ -17,16 +17,16 @@ This Act may be cited as the “Financial Technology Protection Act”.
 
 It is the sense of Congress that the Federal Government should prioritize the investigation of terrorist and illicit use of new financial technology, including digital currencies.
 
-## § 3. Independent Financial Technology Task Force
+## § 3. Independent Financial Technology Task Force to Combat Terrorism and Illicit Financing
 
-- **(a)** *Establishment* There is established the Independent Financial Technology Task Force (the “Task Force”), which shall consist of—
+- **(a)** *Establishment* There is established the Independent Financial Technology Task Force to Combat Terrorism and Illicit Financing (the “Task Force”), which shall consist of—
   - **(1)** the Secretary of the Treasury, who shall serve as the head of the Task Force;
   - **(2)** the Attorney General;
-  - **(3)** the Director of the Central Intelligence Agency;
+  - **(3)** the Director of National Intelligence;
   - **(4)** the Director of the Financial Crimes Enforcement Network;
   - **(5)** the Director of the Secret Service;
   - **(6)** the Director of the Federal Bureau of Investigation; and
-  - **(7)** 6 individuals appointed by the Secretary of the Treasury to represent the private sector (including the banking industry, nonprofit groups, and think tanks), with at least 1 of such individuals having experience in the Fintech industry.
+  - **(7)** 6 individuals appointed by the Secretary of the Treasury, in consultation with the members of the Task Force described under paragraphs (2) through (6), to represent the private sector (including the banking industry, nonprofit groups, and think tanks), with at least 2 of such individuals having experience in the Fintech industry.
 - **(b)** *Duties* The Task Force shall—
   - **(1)** conduct independent research on terrorist and illicit use of new financial technologies, including digital currencies; and
   - **(2)** develop legislative and regulatory proposals to improve counter-terrorist and counter-illicit financing efforts.
@@ -35,13 +35,13 @@ It is the sense of Congress that the Federal Government should prioritize the in
 ## § 4. Rewards for information related to terrorist use of digital currencies
 
 - **(a)** *In general* The Secretary of the Treasury, in consultation with the Attorney General, shall establish a fund to pay a reward, not to exceed $450,000, to any person who provides information leading to the conviction of an individual involved with terrorist use of digital currencies.
-- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, subject to the availability of appropriations made in advance—
+- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, without further appropriation or fiscal year limitation—
   - **(1)** use such amounts to pay rewards under this section related to such conviction; and
-  - **(2)** with respect to any such amounts remaining after payments are made under paragraphs (1) and (2), deposit such amounts in the FinTech Leadership in Innovation Program.
+  - **(2)** with respect to any such amounts remaining after payments are made under paragraphs (1) and (2), deposit such amounts in the FinTech Leadership in Innovation and Financial Intelligence Program.
 
-## § 5. FinTech Leadership in Innovation Program
+## § 5. Fintech Leadership in Innovation and Financial Intelligence Program
 
-- **(a)** *Establishment* There is established a program to be known as the “FinTech Leadership in Innovation Program”, which shall be funded as provided under section 4(b)(2).
+- **(a)** *Establishment* There is established a program to be known as the “Fintech Leadership in Innovation and Financial Intelligence Program”, which shall be funded as provided under section 4(b)(2).
 - **(b)** *Innovation grants*
   - **(1)** *In general* The Secretary of the Treasury shall make grants for the development of tools and programs to detect terrorist and illicit use of digital currencies.
   - **(2)** *Eligible recipients* The Secretary may make grants under this subsection to entities located in the United States, including academic institutions, companies, nonprofit institutions, individuals, and any other entities locating in the United States that the Secretary determines appropriate.
@@ -56,19 +56,39 @@ It is the sense of Congress that the Federal Government should prioritize the in
     - **(B)** *Supporting existing laws or regulations* Tools and programs developed with a grant made under this subsection shall be in support of existing laws or regulations, including the Bank Secrecy Act, and make efforts to balance privacy and anti-money laundering concerns.
     - **(C)** *Open access requirement* Tools and programs developed with a grant made under this subsection shall be freely accessible and usable by the public. This requirement may be fulfilled by publicly availing application programming interfaces or software development kits.
 
-## § 6. Definitions
+## § 6. Preventing rogue and foreign actors from evading sanctions
+
+- **(a)** *Report and strategy with respect to digital currencies and other related emerging technologies*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President, acting through the Secretary of Treasury and in consultation with the Attorney General, the Secretary of State, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Office of Management and Budget, and the appropriate Federal banking agencies and Federal functional regulators, shall—
+    - **(A)** submit to the appropriate congressional committees a report that identifies and describes the potential uses of digital currencies and other related emerging technologies by states, non-state actors, and foreign terrorist organizations to evade sanctions, finance terrorism, or launder monetary instruments, and threaten United States national security; and
+    - **(B)** develop and submit to the appropriate congressional committees a strategy to mitigate and prevent such illicit use of digital currencies and other related emerging technologies.
+  - **(2)** *Form; public availability*
+    - **(A)** *Form* The report and strategy required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
+    - **(B)** *Public availability* The unclassified portion of such report and strategy shall be made available to the public and posted on the internet website of the Department of Treasury—
+      - **(i)** in pre-compressed, easily downloadable versions that are made available in all appropriate formats; and
+      - **(ii)** in machine-readable format, if applicable.
+  - **(3)** *Sources of information* In preparing the report and strategy required under paragraph (1), the President may utilize any credible publication, database, web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity that is made available to the President.
+- **(b)** *Briefing* Not later than 2 years after the date of the enactment of this Act, the Secretary of the Treasury shall brief the appropriate congressional committees on the implementation of the strategy required under subsection (a).
+
+## § 7. Definitions
 
 For purposes of this Act:
 
-- **(1)** *Bank Secrecy Act* The term “Bank Secrecy Act” means—
+- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+  - **(A)** the Committee on Financial Services, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives; and
+  - **(B)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
+- **(2)** *Appropriate Federal banking agencies* The term “appropriate Federal banking agencies” has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+- **(3)** *Bank Secrecy Act* The term “Bank Secrecy Act” means—
   - **(A)** section 21 of the Federal Deposit Insurance Act;
   - **(B)** chapter 2 of title I of Public Law 91–508; and
   - **(C)** subchapter II of chapter 53 of title 31, United States Code.
-- **(2)** *Digital currency* The term “digital currency”—
+- **(4)** *Digital currency* The term “digital currency”—
   - **(A)** means a digital representation of value that—
     - **(i)** is used as a medium of exchange, unit of account, or store of value; and
     - **(ii)** is not established legal tender, whether or not denominated in established legal tender; and
   - **(B)** does not include—
     - **(i)** a transaction in which a merchant grants, as part of an affinity or rewards program, value that cannot be taken from or exchanged with the merchant for legal tender, bank credit, or digital currency; or
     - **(ii)** a digital representation of value issued by or on behalf of a publisher and used solely within an online game, game platform, or family of games sold by the same publisher or offered on the same game platform.
-- **(3)** *Terrorist* The term “terrorist” includes a person carrying out domestic terrorism or international terrorism (as such terms are defined, respectively, under section 2331 of title 18, United States Code).
+- **(5)** *Federal functional regulator* The term “Federal functional regulator” has the meaning given that term in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809).
+- **(6)** *Foreign terrorist organization* The term “foreign terrorist organization” means an organization that is designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+- **(7)** *Terrorist* The term “terrorist” includes a person carrying out domestic terrorism or international terrorism (as such terms are defined, respectively, under section 2331 of title 18, United States Code).
