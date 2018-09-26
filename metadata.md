@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3398
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3398
@@ -38,3 +38,9 @@ REAL ID Act Modification for Freely Associated States Act
 - 2018-09-12 — Placed on the Union Calendar, Calendar No. 736.
 - 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-945.
 - 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-945.
+- 2018-09-26 — Considered under suspension of the rules. (consideration: CR H9081-9082)
+- 2018-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3398.
+- 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill.
+- 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9081)
+- 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9081)
