@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5509
@@ -26,9 +26,10 @@ Innovations in Mentoring, Training, and Apprenticeships Act
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Innovations in Mentoring, Training, and Apprenticeships Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 763.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-975.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-975.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
