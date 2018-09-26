@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3834
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3834
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Crowley, Joseph [D-NY-14] (C001038)
 
-## Cosponsors (13)
+## Cosponsors (33)
 
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
@@ -31,6 +31,26 @@ version: Introduced in House
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Donovan, Daniel M., Jr. [R-NY-11] (D000625)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Rosen, Jacky [D-NV-3] (R000608)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Faso, John J. [R-NY-19] (F000464)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
 
 ## Committees (1)
 
@@ -41,3 +61,9 @@ version: Introduced in House
 - 2017-09-26 — Introduced in House
 - 2017-09-26 — Introduced in House
 - 2017-09-26 — Referred to the House Committee on Financial Services.
+- 2018-09-26 — Considered under suspension of the rules. (consideration: CR H9067-9068)
+- 2018-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3834.
+- 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Tipton moved to suspend the rules and pass the bill.
+- 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9067)
+- 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9067)
