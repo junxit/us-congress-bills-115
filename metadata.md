@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6511
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6511
@@ -20,9 +20,10 @@ Strategic Petroleum Reserve Reform Act
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Strategic Petroleum Reserve Reform Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 753.
 - 2018-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-965.
 - 2018-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-965.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
