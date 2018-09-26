@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6378
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6378
@@ -69,3 +69,4 @@ Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2018
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8759-8775)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8759-8775)
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-26 — Received in the Senate.
