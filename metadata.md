@@ -1,7 +1,7 @@
 ---
 measure: S. 3389
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3389
@@ -36,3 +36,16 @@ A bill to redesignate a facility of the National Aeronautics and Space Administr
 - 2018-09-26 — Message on Senate action sent to the House.
 - 2018-09-26 — Received in the House.
 - 2018-09-26 — Referred to the House Committee on Science, Space, and Technology.
+- 2018-11-27 — Committee on Science, Space, and Technology discharged.
+- 2018-11-27 — Committee on Science, Space, and Technology discharged.
+- 2018-11-27 — Considered by unanimous consent. (consideration: CR H9586)
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Smith (TX) asked unanimous consent to discharge from committee and consider.
+- 2018-11-27 — On passage Passed without objection. (text: CR H9586)
+- 2018-11-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9586)
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-309.
+- 2018-12-11 — Became Public Law No: 115-309.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
