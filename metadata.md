@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6316
@@ -20,9 +20,10 @@ Small Business Advocacy Improvements Act of 2018
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Small Business Advocacy Improvements Act of 2018
 - 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8804)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8804)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
