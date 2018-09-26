@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6897
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
