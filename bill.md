@@ -15,7 +15,9 @@ This Act may be cited as the “Federal Reserve Supervision Testimony Clarificat
 
 ## § 2. Vice Chairman for Supervision report requirement
 
-Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247(b)) is amended—
+Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247b) is amended—
 
 - **(1)** by redesignating such paragraph as paragraph (11); and
-- **(2)** in such paragraph, by adding at the end the following: “In each such appearance, the Vice Chairman for Supervision shall provide written testimony that includes the status of all pending and anticipated rulemakings that are being made by the Board of Governors of the Federal Reserve System. If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Vice Chairman for the Board of Governors of the Federal Reserve System (who has the responsibility to serve in the absence of the Chairman) shall appear instead and provide the required written testimony. If, at the time of any appearance described in this paragraph, both Vice Chairman positions are vacant, the Chairman of the Board of Governors of the Federal Reserve System shall appear instead and provide the required written testimony.”.
+- **(2)** in such paragraph—
+  - **(A)** by striking “shall appear” and inserting “shall provide written testimony and appear”; and
+  - **(B)** by adding at the end the following: “If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Chairman or their designee shall appear instead and provide the required written testimony.”.
