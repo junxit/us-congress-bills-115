@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5585
@@ -16,9 +16,10 @@ To extend the authorization for the Cape Cod National Seashore Advisory Commissi
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To extend the authorization for the Cape Cod National Seashore Advisory Commissi
 - 2018-09-25 — Mr. McClintock moved to suspend the rules and pass the bill.
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8860)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8860)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
