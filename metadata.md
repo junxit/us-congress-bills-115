@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6580
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6580
@@ -27,9 +27,10 @@ Kerrie Orozco First Responders Family Support Act
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Kerrie Orozco First Responders Family Support Act
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8847)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8847)
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
