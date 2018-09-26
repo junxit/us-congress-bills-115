@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 625
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 625
@@ -42,3 +42,7 @@ A resolution designating the week beginning September 9, 2018, as "National Dire
 
 - 2018-09-12 — Introduced in Senate
 - 2018-09-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6145-6146)
+- 2018-09-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/12/2018 S6146-6146)
+- 2018-09-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/12/2018 S6146-6146)
+- 2018-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6349)
+- 2018-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6349)
