@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6332
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6332
@@ -35,3 +35,9 @@ Improving Strategies to Counter Weapons Proliferation Act
 - 2018-08-24 — Placed on the Union Calendar, Calendar No. 701.
 - 2018-08-24 — Reported by the Committee on Financial Services. H. Rept. 115-905.
 - 2018-08-24 — Reported by the Committee on Financial Services. H. Rept. 115-905.
+- 2018-09-26 — Considered under suspension of the rules. (consideration: CR H9063)
+- 2018-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6332.
+- 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Tipton moved to suspend the rules and pass the bill.
+- 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9063)
+- 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9063)
