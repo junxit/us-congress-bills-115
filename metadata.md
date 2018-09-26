@@ -1,7 +1,7 @@
 ---
 measure: S. 3139
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3139
@@ -21,9 +21,10 @@ TRIP Act
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ TRIP Act
 - 2018-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S6310-6311)
 - 2018-09-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6310-6311)
 - 2018-09-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6310-6311)
+- 2018-09-26 — Message on Senate action sent to the House.
+- 2018-09-26 — Received in the House.
+- 2018-09-26 — Referred to the House Committee on Transportation and Infrastructure.
