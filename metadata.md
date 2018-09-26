@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6742
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6742
@@ -20,10 +20,11 @@ Secure Border Communications Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Secure Border Communications Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 751.
 - 2018-09-25 — Reported by the Committee on Homeland Security. H. Rept. 115-963, Part I.
 - 2018-09-25 — Reported by the Committee on Homeland Security. H. Rept. 115-963, Part I.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
