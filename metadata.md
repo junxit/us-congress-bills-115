@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6735
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6735
@@ -23,9 +23,10 @@ Public-Private Cybersecurity Cooperation Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Public-Private Cybersecurity Cooperation Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 749.
 - 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-961.
 - 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-961.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
