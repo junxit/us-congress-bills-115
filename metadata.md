@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1872
@@ -74,10 +74,11 @@ Reciprocal Access to Tibet Act of 2018
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -97,3 +98,4 @@ Reciprocal Access to Tibet Act of 2018
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8849-8850)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8849-8850)
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
