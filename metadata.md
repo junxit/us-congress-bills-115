@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6229
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6229
@@ -30,9 +30,10 @@ National Institute of Standards and Technology Reauthorization Act of 2018
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ National Institute of Standards and Technology Reauthorization Act of 2018
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 764.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-977.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-977.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

@@ -2,7 +2,7 @@
 legis-num: H.R. 6229
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6229
@@ -46,17 +46,13 @@ This Act may be cited as the “National Institute of Standards and Technology R
   - **(2)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Director, shall transmit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate a summary report containing the findings of the workshop convened under this subsection.
 - **(c)** *Funding* The Secretary of Commerce shall devote $80,000,000 to carry out this section for fiscal year 2019, subject to the availability of appropriations, to come from amounts made available pursuant to section 2(b)(2)(A)(iii) of this Act. This section shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
 
-## § 4. Cybersecurity
+## § 4. Cybersecurity research
 
-- **(a)** *Assistance to Federal agencies* The Secretary, acting through the Director, shall enhance and expand the Institute’s guidance and assistance to Federal agencies to help such agencies effectively use the Framework, including by providing technical guidance and education and training of—
-  - **(1)** agency staff responsible for cybersecurity; and
-  - **(2)** individual inspectors general and staff of such agencies who are responsible for the annual independent evaluation required under section 3555 of title 44, United States Code.
-- **(b)** *Report* Not later than 12 months after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the implementation of the activities described in this section in as much detail as possible, including the identification of Federal agencies assisted pursuant to subsection (a) and the types of consultative services, education, guidance, assistance, and training provided to such agencies and inspectors general of such agencies pursuant to such subsection.
-- **(c)** *Research* The Secretary, acting through the Director, shall expand the fundamental and applied research carried out by the Institute to address key questions relating the measurement of privacy, security, and vulnerability of software tools and communications networks, including through—
+- **(a)** *Research* The Secretary, acting through the Director, shall expand the fundamental and applied research carried out by the Institute to address key questions relating the measurement of privacy, security, and vulnerability of software tools and communications networks, including through—
   - **(1)** the development of research and engineering capabilities to provide practical solutions, including measurement techniques and engineering toolkits, to solve cybersecurity challenges such as human factors, identity management, network security, privacy, and software;
   - **(2)** investment in tools to help private and public sector organizations measure their cybersecurity, manage their risks and ensure workforce preparedness for new cybersecurity challenges; and
   - **(3)** investment in programs to prepare the United States with strong cybersecurity and encryption technologies to apply to emerging technologies such as artificial intelligence, the internet of things, and quantum computing.
-- **(d)** *Authority* The Secretary, acting through the Director, shall have the authority to enter into and perform such contracts on such terms as the Secretary considers to be appropriate, including cooperative research and development arrangements, grants, and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the Institute with respect to cybersecurity.
+- **(b)** *Authority* The Secretary, acting through the Director, shall have the authority to enter into and perform such contracts on such terms as the Secretary considers to be appropriate, including cooperative research and development arrangements, grants, and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the Institute with respect to cybersecurity.
 
 ## § 5. Composites research
 
@@ -74,8 +70,9 @@ This Act may be cited as the “National Institute of Standards and Technology R
 The Secretary, acting through the Director, shall continue to support the development of artificial intelligence and data science, including through—
 
 - **(1)** the expansion of the Institute’s capabilities, including scientific staff and research infrastructure;
-- **(2)** the implementation of rigorous scientific testing to support the development of trustworthy and safe artificial intelligence and data systems; and
-- **(3)** the development of machine learning and other artificial intelligence applications to support measurement science research programs and take steps to modernize the Institute’s research infrastructure.
+- **(2)** the implementation of rigorous scientific testing to support the development of trustworthy and safe artificial intelligence and data systems;
+- **(3)** the development of machine learning and other artificial intelligence applications to support measurement science research programs and take steps to modernize the Institute’s research infrastructure; and
+- **(4)** the development and publication of new cybersecurity tools, encryption methods, and best practices for artificial intelligence and data science.
 
 ## § 7. Internet of things
 
@@ -88,10 +85,11 @@ The Secretary, acting through the Director, shall continue to conduct research w
 
 ## § 8. Hiring and management
 
-- **(a)** *Appointments* The Secretary, acting through the Director shall have the authority to—
-  - **(1)** make appointments of scientific, engineering, and professional personnel without regard to the civil service laws as the Secretary, acting through the Director determines necessary for carrying out research and development functions which require the services of specially qualified personnel relating to cybersecurity and quantum information science and technology and such other areas of national research priorities as the Secretary, acting through the Director may determine; and
-  - **(2)** fix the basic pay of such personnel at a rate to be determined by the Secretary, acting through the Director at rates not in excess of the basic rate of pay of the Vice President under section 104 of title 3, United States Code, without regard to the civil service laws.
+- **(a)** *Direct hire authority* The Secretary, acting through the Director, may—
+  - **(1)** appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303, 3328, and 3330e of such chapter), qualified candidates to scientific, engineering, and professional positions for carrying out research and development functions which require the services of specially qualified personnel relating to cybersecurity and quantum information science and technology and such other areas of national research priorities as the Secretary, acting through the Director, may determine; and
+  - **(2)** fix the rate of basic pay of any individual appointed under paragraph (1), at a rate not in excess of the basic rate of pay of the Vice President under section 104 of title 3, United States Code, without regard to title 5, United States Code.
 - **(b)** *Limitation* The Director may appoint not more than 10 individuals under this section.
+- **(c)** *Sunset* The authority under this section shall expire on the date that is 5 years after the date of enactment of this Act.
 
 ## § 9. Definitions
 
