@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6382
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6382
@@ -22,9 +22,10 @@ Clarity on Small Business Participation in Category Management Act of 2018
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Clarity on Small Business Participation in Category Management Act of 2018
 - 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8812)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8812)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
