@@ -2,7 +2,7 @@
 legis-num: H.R. 6299
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6299
@@ -48,11 +48,7 @@ Section 3009(d) of the Carl Levin and Howard P. “Buck” McKeon National Defen
 - **(11)** by adding at the end the following:
   > - **(9)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-## § 3. ZIP code designation
-
-Not later than 270 days after the date of the enactment of this Act, the Postal Service shall designate a single, unique ZIP Code applicable to the area encompassing only Storey County, Nevada.
-
-## § 4. Facilitation of pinyon-juniper-related projects in Lincoln County, Nevada
+## § 3. Facilitation of pinyon-juniper-related projects in Lincoln County, Nevada
 
 - **(a)** *Facilitation of Pinyon-Juniper-Related projects*
   - **(1)** *Availability of special account under Lincoln County Land Act of 2000* Section 5(b) of the Lincoln County Land Act of 2000 (Public Law 106–298; 114 Stat. 1048) is amended—
@@ -107,7 +103,7 @@ Not later than 270 days after the date of the enactment of this Act, the Postal 
     - **(A)** title to the parcel shall revert to the Secretary of the Interior, at the option of the Secretary; and
     - **(B)** Lincoln County shall be responsible for any reclamation necessary to restore the parcel to a condition acceptable to the Secretary of the Interior.
 
-## § 5. Mt. Moriah Wilderness, High Schells Wilderness, and Arc Dome Wilderness boundary adjustments
+## § 4. Mt. Moriah Wilderness, High Schells Wilderness, and Arc Dome Wilderness boundary adjustments
 
 - **(a)** *Amendments to the Pam White Wilderness Act of 2006* Section 323 of the Pam White Wilderness Act of 2006 (16 U.S.C. 1132 note; 120 Stat. 3031) is amended by striking subsection (e) and inserting the following:
   > - **(e)** *Mt. Moriah Wilderness adjustment* The boundary of the Mt. Moriah Wilderness established under section 2(13) of the Nevada Wilderness Protection Act of 1989 (16 U.S.C. 1132 note) is adjusted to include—
@@ -122,7 +118,7 @@ Not later than 270 days after the date of the enactment of this Act, the Postal 
   >
   > The boundary of the Arc Dome Wilderness established under section 2(2) is adjusted to exclude the land identified as “Exclude from Wilderness” on the map titled “Arc Dome Adjustment” and dated November 3, 2014.
 
-## § 6. Implementation of White Pine County Conservation, Recreation, and Development Act
+## § 5. Implementation of White Pine County Conservation, Recreation, and Development Act
 
 - **(a)** *Disposition of proceeds* Section 312 of the White Pine County Conservation, Recreation, and Development Act of 2006 (Public Law 109–432; 120 Stat. 3030) is amended—
   - **(1)** in paragraph (2), by striking “and planning” and inserting “municipal water and sewer infrastructure, public electric transmission facilities, public broadband infrastructure, and planning”; and
