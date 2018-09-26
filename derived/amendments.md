@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -1307,7 +1307,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The Civil Aeromedical Institute” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 445 of title 49, United States Code, is amended by striking the item relating to section 44507 and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “3304(f), to the extent consistent with the Federal Aviation Administration’s status as an excepted service agency,” before “3308-3320”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “3304(f), to the extent consistent with the Federal Aviation Administration’s status as an excepted service agency,” before “3308–3320”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “3330a, 3330b, 3330c, and 3330d,” before “relating”. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 632` | replace | The analysis for chapter 417 of title 49, United States Code, is amended by striking the item relating to section 41718 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | strike | in clause (v) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -1327,7 +1327,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(A), by striking “2 years” and inserting “150 days as set forth in section 139(l)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(B)(i), by striking “2 years” and inserting “150 days as set forth in section 139(l)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Title 51, United States Code, is amended by adding at the end of subtitle V the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of chapters of title 51, United State Code, is amended by adding at the end of subtitle V the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of chapters of title 51, United States Code, is amended by adding at the end of subtitle V the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (21) through (25) as paragraphs (23) through (27), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (20) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 447, of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1341,7 +1341,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraph (3); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 48102(g) of title 49, United States, Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 48102(g) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 44508(a)(1)(A) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44508 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 475 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
