@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6758
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6758
@@ -51,3 +51,12 @@ SUCCESS Act
 - 2018-09-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-966.
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
 - 2018-09-26 — Received in the Senate, read twice.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6876)
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6876)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-24 — Presented to President.
+- 2018-10-24 — Presented to President.
+- 2018-10-31 — Became Public Law No: 115-273.
+- 2018-10-31 — Became Public Law No: 115-273.
+- 2018-10-31 — Signed by President.
+- 2018-10-31 — Signed by President.
