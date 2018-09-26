@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6398
@@ -39,10 +39,11 @@ Department of Energy Veterans' Health Initiative Act
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Department of Energy Veterans' Health Initiative Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 762.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-974, Part I.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-974, Part I.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
