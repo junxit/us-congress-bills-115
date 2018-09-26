@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6330
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6330
@@ -47,3 +47,14 @@ Small Business Runway Extension Act of 2018
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8805)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8805)
 - 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate without amendment by Voice Vote.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-12-06 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: CR S7333)
+- 2018-12-06 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.(consideration: CR S7333)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-17 — Became Public Law No: 115-324.
+- 2018-12-17 — Became Public Law No: 115-324.
+- 2018-12-17 — Signed by President.
+- 2018-12-17 — Signed by President.
