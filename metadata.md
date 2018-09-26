@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4431
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4431
@@ -49,3 +49,10 @@ Correcting Miscalculations in Veterans' Pensions Act
 - 2018-09-12 — Placed on the Union Calendar, Calendar No. 737.
 - 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-946, Part I.
 - 2018-09-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-946, Part I.
+- 2018-09-26 — Considered under suspension of the rules. (consideration: CR H9076-9078)
+- 2018-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4431.
+- 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
+- 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9076)
+- 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9076)
+- 2018-09-26 — The title of the measure was amended. Agreed to without objection.
