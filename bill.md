@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 6908
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6908
+
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide service dogs to veterans with mental illnesses who do not have mobility impairments.
+
+## § 1. Short title
+
+This Act may be cited as the “Puppies Assisting Wounded Servicemembers Act of 2018” or the “PAWS Act of 2018”.
+
+## § 2. Authority of Secretary of Veterans Affairs to provide service dogs to veterans with mental illnesses who do not have mobility impairments
+
+Section 1714 of title 38, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(e)** The Secretary may provide a service dog to a veteran under subsection (c)(3) regardless of whether the veteran has a mobility impairment.
