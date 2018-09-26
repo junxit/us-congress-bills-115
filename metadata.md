@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6299
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6299
@@ -16,10 +16,11 @@ Nevada Lands Bill Technical Corrections Act of 2018
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Nevada Lands Bill Technical Corrections Act of 2018
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 759.
 - 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-971, Part I.
 - 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-971, Part I.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
