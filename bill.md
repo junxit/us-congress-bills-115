@@ -2,12 +2,12 @@
 legis-num: H.R. 6758
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6758
 
-> To direct the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, in consultation with the Administrator of the Small Business Administration, to study and provide recommendations to promote the participation of women and minorities in entrepreneurship activities and the patent system, to extend by 8 years the Patent and Trademark Office’s authority to set the amounts for the fees it charges, and for other purposess.
+> To direct the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, in consultation with the Administrator of the Small Business Administration, to study and provide recommendations to promote the participation of women, minorities, and veterans in entrepreneurship activities and the patent system, to extend by 8 years the Patent and Trademark Office’s authority to set the amounts for the fees it charges, and for other purposes.
 
 ## § 1. Short title
 
