@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6330
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6330
@@ -25,9 +25,10 @@ Small Business Runway Extension Act of 2018
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Small Business Runway Extension Act of 2018
 - 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8805)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8805)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
