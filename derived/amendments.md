@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5896
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-30 amendatory instructions. 0 executed, 30 stated and not applied.
+29 amendatory instructions. 0 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,9 +37,8 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending clause (iv) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in clause (v), by striking “or the level 2 border patrol rate of pay”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “or the level 2 border patrol rate of pay”; | the bill names no machine-readable US Code section |
-| — | replace | clause (ii), by striking “the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014” and inserting in its place “a written staffing analysis”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014” and inserting in its place “a written staffing analysis”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by amending subparagraph (F) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (G); | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (C)(i) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “paid leave” and inserting “leave”; and | the bill names no machine-readable US Code section |
