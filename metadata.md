@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6347
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6347
@@ -20,9 +20,10 @@ version: Engrossed in House
 
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ version: Engrossed in House
 - 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8803-8804)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8803-8804)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
