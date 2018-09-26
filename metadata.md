@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 302
@@ -16,7 +16,7 @@ FAA Reauthorization Act of 2018
 
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Cosponsors (39)
+## Cosponsors (40)
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
@@ -57,6 +57,7 @@ FAA Reauthorization Act of 2018
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. McSally, Martha [R-AZ-2] (M001197)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (2)
 
@@ -88,3 +89,66 @@ FAA Reauthorization Act of 2018
 - 2018-09-07 — Message on Senate action sent to the House.
 - 2018-09-26 — House agreed to Senate amendment with an amendment pursuant to H.Res. 1082.
 - 2018-09-26 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H.Res. 1082.
+- 2018-09-28 — Amendment SA 4026 proposed by Senator McConnell. (consideration: CR S6399; text: CR S6399) To change the enactment date.
+- 2018-09-28 — Amendment SA 4027 proposed by Senator McConnell to Amendment SA 4026. (consideration: CR S6399; text: CR S6399) Of a perfecting nature.
+- 2018-09-28 — Amendment SA 4028 proposed by Senator McConnell. (consideration: CR S6399; text: CR S6399) To change the enactment date.
+- 2018-09-28 — Amendment SA 4029 proposed by Senator McConnell to Amendment SA 4028 (the instructions of the motion to refer). (consideration: CR S6399; text: CR S6399) Of a perfecting nature.
+- 2018-09-28 — Amendment SA 4030 proposed by Senator McConnell to Amendment SA 4029. (consideration: CR S6399; text: CR S6399) Of a perfecting nature.
+- 2018-09-28 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 302 presented in Senate. (CR S6399)
+- 2018-09-28 — Measure laid before Senate by motion. (consideration: CR S6398-6399)
+- 2018-09-28 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2018-09-28 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 302 made in Senate.
+- 2018-09-28 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 302 with an amendment (SA 4026) made in Senate.
+- 2018-09-28 — Motion by Senator McConnell to refer to Senate Committee on Commerce, Science, and Transportation the House message to accompany H.R. 302 with instructions to report back forthwith with the following amendment (SA 4028) made in Senate.
+- 2018-09-28 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2018-09-28 — Senate amendment proposed (on the floor): Amendment SA 4026 proposed by Senator McConnell.(consideration: CR S6399; text: CR S6399)
+- 2018-09-28 — Senate amendment proposed (on the floor): Amendment SA 4027 proposed by Senator McConnell to Amendment SA 4026.(consideration: CR S6399; text: CR S6399)
+- 2018-09-28 — Senate amendment proposed (on the floor): Amendment SA 4028 proposed by Senator McConnell.(consideration: CR S6399; text: CR S6399)
+- 2018-09-28 — Senate amendment proposed (on the floor): Amendment SA 4029 proposed by Senator McConnell to Amendment SA 4028 (the instructions of the motion to refer).(consideration: CR S6399; text: CR S6399)
+- 2018-09-28 — Senate amendment proposed (on the floor): Amendment SA 4030 proposed by Senator McConnell to Amendment SA 4029.(consideration: CR S6399; text: CR S6399)
+- 2018-09-28 — Senate amendment submitted
+- 2018-09-28 — Senate amendment submitted
+- 2018-09-28 — Senate amendment submitted
+- 2018-09-28 — Senate amendment submitted
+- 2018-09-28 — Senate amendment submitted
+- 2018-10-01 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 302 invoked in Senate by Yea-Nay Vote. 90 - 7. Record Vote Number: 219. (CR S6409)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408)
+- 2018-10-01 — Considered by Senate (Message from the House considered). (consideration: CR S6408-6416)
+- 2018-10-01 — Motion by Senator McConnell to refer to Senate Committee on Commerce, Science, and Transportation the House message to accompany H.R. 302 with instructions to report back forthwith with the following amendment (SA 4028) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 302 in Senate.
+- 2018-10-01 — SA 4028 fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 302.
+- 2018-10-01 — SA 4029 fell when SA 4028 fell.
+- 2018-10-01 — SA 4030 fell when SA 4029 fell.
+- 2018-10-01 — Senate amendment submitted
+- 2018-10-02 — Considered by Senate (Message from the House considered). (consideration: CR S6417)
+- 2018-10-02 — Considered by Senate (Message from the House considered). (consideration: CR S6417-6428; S6428-6436)
+- 2018-10-02 — Considered by Senate (Message from the House considered). (consideration: CR S6459)
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-02 — Senate amendment submitted
+- 2018-10-03 — Considered by Senate (Message from the House considered). (consideration: CR S6459)
+- 2018-10-03 — Considered by Senate (Message from the House considered). (consideration: CR S6459, S6467)
+- 2018-10-03 — Considered by Senate (Message from the House considered). (consideration: CR S6459-6467)
+- 2018-10-03 — Message on Senate action sent to the House.
+- 2018-10-03 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 302 with an amendment (SA 4026) was rendered moot when the motion to concur in the House amendment to the Senate amendment to H.R. 302 was agreed to in Senate.
+- 2018-10-03 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 302 by Yea-Nay Vote. 93 - 6. Record Vote Number: 220.(CR S6467)
+- 2018-10-03 — SA 4026 fell when the motion to concur in the House amendment to the Senate amendment to H.R. 302 with an amendment (SA 4026) was rendered moot.
+- 2018-10-03 — SA 4027 fell when SA 4026 fell.
+- 2018-10-03 — Senate agreed to the House amendment to the Senate amendment to H.R. 302 by Yea-Nay Vote. 93 - 6. Record Vote Number: 220. (CR S6467)
+- 2018-10-03 — Senate amendment submitted
+- 2018-10-04 — Presented to President.
+- 2018-10-04 — Presented to President.
+- 2018-10-05 — Became Public Law No: 115-254.
+- 2018-10-05 — Became Public Law No: 115-254.
+- 2018-10-05 — Signed by President.
+- 2018-10-05 — Signed by President.
