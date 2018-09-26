@@ -35,7 +35,7 @@ It is the sense of Congress that the Federal Government should prioritize the in
 ## § 4. Rewards for information related to terrorist use of digital currencies
 
 - **(a)** *In general* The Secretary of the Treasury, in consultation with the Attorney General, shall establish a fund to pay a reward, not to exceed $450,000, to any person who provides information leading to the conviction of an individual involved with terrorist use of digital currencies.
-- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, without further appropriation or fiscal year limitation—
+- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, subject to the availability of appropriations made in advance—
   - **(1)** use such amounts to pay rewards under this section related to such conviction; and
   - **(2)** with respect to any such amounts remaining after payments are made under paragraphs (1) and (2), deposit such amounts in the FinTech Leadership in Innovation Program.
 
