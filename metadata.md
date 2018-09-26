@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5433
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5433
@@ -22,9 +22,10 @@ Hack Your State Department Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Hack Your State Department Act
 - 2018-09-25 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8878-8879)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8878-8879)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
