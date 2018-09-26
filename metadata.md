@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6347
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6347
@@ -42,3 +42,14 @@ version: Referred in Senate
 - 2018-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8803-8804)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8803-8804)
 - 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-12-19 — Passed Senate without amendment by Voice Vote.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2018-12-19 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: S7896-7897)
+- 2018-12-19 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.(consideration: S7896-7897)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-370.
+- 2018-12-21 — Became Public Law No: 115-370.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
