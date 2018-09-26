@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6740
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6740
@@ -21,9 +21,10 @@ Border Tunnel Task Force Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Border Tunnel Task Force Act
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 750.
 - 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-962.
 - 2018-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-962.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
