@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6599
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6599
@@ -20,9 +20,10 @@ To modify the application of temporary limited appointment regulations to the Na
 
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To modify the application of temporary limited appointment regulations to the Na
 - 2018-09-25 — Placed on the Union Calendar, Calendar No. 755.
 - 2018-09-25 — Reported by the Committee on Natural Resources. H. Rept. 115-967.
 - 2018-09-25 — Reported by the Committee on Natural Resources. H. Rept. 115-967.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
