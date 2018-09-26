@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 302
@@ -85,3 +85,6 @@ FAA Reauthorization Act of 2018
 - 2018-09-06 — Senate amendment agreed to: Amendment SA 4014 agreed to in Senate by Unanimous Consent.
 - 2018-09-06 — Senate amendment proposed (on the floor): Amendment SA 4014 proposed by Senator McConnell for Senator Alexander.(consideration: CR S6104-6105; text: CR S6104-6105)
 - 2018-09-06 — Senate amendment submitted
+- 2018-09-07 — Message on Senate action sent to the House.
+- 2018-09-26 — House agreed to Senate amendment with an amendment pursuant to H.Res. 1082.
+- 2018-09-26 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H.Res. 1082.
