@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6687
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6687
@@ -20,9 +20,10 @@ To direct the Secretary of the Interior to manage the Point Reyes National Seash
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To direct the Secretary of the Interior to manage the Point Reyes National Seash
 - 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-968.
 - 2018-09-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-968.
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
