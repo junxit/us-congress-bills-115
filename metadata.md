@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5075
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5075
@@ -23,9 +23,10 @@ Ashanti Alert Act of 2018
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Ashanti Alert Act of 2018
 - 2018-09-25 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8817-8818)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8817-8818)
+- 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
