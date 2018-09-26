@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2389
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2389
@@ -48,3 +48,4 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 - 2018-09-25 — Mr. McKinley moved to suspend the rules and pass the bill, as amended.
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8794)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8794)
+- 2018-09-26 — Received in the Senate.
