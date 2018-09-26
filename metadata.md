@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 72
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 72
@@ -120,3 +120,4 @@ Expressing the sense of Congress that child safety is the first priority of cust
 - 2018-09-25 — Mr. Rutherford moved to suspend the rules and agree to the resolution, as amended.
 - 2018-09-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H8844-8845)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H8844-8845)
+- 2018-09-26 — Received in the Senate.
