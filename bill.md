@@ -55,3 +55,7 @@ In this Act, the terms agency, Director, Federal award, and Secretary have the m
 ## § 8. Rule of construction
 
 Nothing in this Act, or the amendments made by this Act, shall be construed to require the collection of data that is not otherwise required pursuant to any Federal law, rule, or regulation.
+
+## § 9. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act. Such requirements shall be carried out using amounts otherwise authorized.
