@@ -2,12 +2,12 @@
 legis-num: H.R. 6013
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6013
 
-> To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal closing date for duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.
+> To amend the Migratory Bird Treaty Act to establish January 31 of each year as the Federal framework closing date for the duck hunting season and to establish special duck hunting days for youths, veterans, and active military personnel, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,7 +19,7 @@ Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by adding 
 
 > - **(c)** *Federal framework closing date for hunting of ducks, mergansers, and coots*
 >   - **(1)** *In general* In promulgating regulations under subsection (a) relating to the Federal framework for outside dates within which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
->     - **(A)** adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework, but the framework closing date shall be January 31 of each year; and
+>     - **(A)** adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if considered by the Secretary to be consistent with science-based and sustainable adaptive harvest management, but the framework closing date shall be January 31 of each year; and
 >     - **(B)** allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
 >   - **(2)** *Special duck hunting days for youths, veterans, and active military personnel*
 >     - **(A)** *In general* Notwithstanding the closing date under paragraph (1) and subject to subparagraphs (B) and (C), the Secretary shall allow States to select 2 days for youths and 2 days for veterans (as defined in section 101 of title 38, United States Code), and members of the Armed Forces on active duty, including members of the National Guard and Reserves on active duty (other than for training), to hunt ducks, mergansers, and coots. Such days shall be treated as an addition to the regular hunting season lengths selected by the States.
