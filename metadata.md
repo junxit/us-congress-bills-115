@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6897
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6897
@@ -37,3 +37,12 @@ Airport and Airway Extension Act of 2018, Part II
 - 2018-09-26 — Received in the Senate, read twice.
 - 2018-09-26 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-26 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-28 — Message on Senate action sent to the House.
+- 2018-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6390-6391)
+- 2018-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6390-6391)
+- 2018-09-28 — Presented to President.
+- 2018-09-28 — Presented to President.
+- 2018-09-29 — Became Public Law No: 115-250.
+- 2018-09-29 — Became Public Law No: 115-250.
+- 2018-09-29 — Signed by President.
+- 2018-09-29 — Signed by President.
