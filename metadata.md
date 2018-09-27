@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4753
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4753
@@ -16,9 +16,10 @@ Federal Reserve Supervision Testimony Clarification Act
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Federal Reserve Supervision Testimony Clarification Act
 - 2018-09-26 — Placed on the Union Calendar, Calendar No. 765.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-980.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-980.
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
