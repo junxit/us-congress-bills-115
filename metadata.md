@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3398
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3398
@@ -24,9 +24,10 @@ REAL ID Act Modification for Freely Associated States Act
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ REAL ID Act Modification for Freely Associated States Act
 - 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9081)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9081)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
