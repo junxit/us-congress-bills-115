@@ -24,7 +24,7 @@ This Act may be cited as the “Missing Children’s Assistance Act of 2018”.
   - **(4)** in paragraph (4), as so redesignated, by inserting “, including child sex trafficking and sextortion” after “exploitation”;
   - **(5)** in paragraph (6), as so redesignated, by adding “and” at the end; and
   - **(6)** by amending paragraph (7), as so redesignated, to read as follows:
-    > - **(7)** the Office of Juvenile Justice and Delinquency Prevention administers programs under this title, including programs that prevent and address offenses committed against vulnerable children and supports missing children's organizations, including the National Center for Missing and Exploited Children that—
+    > - **(7)** the Office of Juvenile Justice and Delinquency Prevention administers programs under this title, including programs that prevent and address offenses committed against vulnerable children and support missing children's organizations, including the National Center for Missing and Exploited Children that—
     >   - **(A)** serves as a nonprofit, national resource center and clearinghouse to provide assistance to victims, families, child-serving professionals, and the general public;
     >   - **(B)** works with the Department of Justice, the Federal Bureau of Investigation, the United States Marshals Service, the Department of the Treasury, the Department of State, U.S. Immigration and Customs Enforcement, the United States Secret Service, the United States Postal Inspection Service, other agencies, and nongovernmental organizations in the effort to find missing children and to prevent child victimization; and
     >   - **(C)** coordinates with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, Puerto Rico, and international organizations to transmit images and information regarding missing and exploited children to law enforcement agencies, nongovernmental organizations, and corporate partners across the United States and around the world instantly.
@@ -33,14 +33,14 @@ This Act may be cited as the “Missing Children’s Assistance Act of 2018”.
   - **(1)** by striking paragraph (1) and inserting the following:
     > - **(1)** the term missing child means any individual less than 18 years of age whose whereabouts are unknown to such individual's parent;
 
-  - **(2)** in paragraph (2) by striking “and” at the end;
-  - **(3)** in paragraph (3) by striking the period at the end and inserting “; and”; and
+  - **(2)** in paragraph (2), by striking “and” at the end;
+  - **(3)** in paragraph (3), by striking the period at the end and inserting “; and”; and
   - **(4)** by adding at the end the following:
     > - **(4)** the term parent includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child.
 
 - **(c)** *Duties and functions of the administrator* Section 404 of the Missing Children’s Assistance Act (34 U.S.C. 11293) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in paragraph (3) by striking “telephone line” and inserting “hotline”; and
+    - **(A)** in paragraph (3), by striking “telephone line” and inserting “hotline”; and
     - **(B)** in paragraph (6)(E)—
       - **(i)** by striking “telephone line” and inserting “hotline”;
       - **(ii)** by striking “(b)(1)(A) and” and inserting “(b)(1)(A),”; and
@@ -79,15 +79,15 @@ This Act may be cited as the “Missing Children’s Assistance Act of 2018”.
     - **(K)** by amending subparagraph (K), as so redesignated, to read as follows:
       > - **(K)** work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
       >   - **(i)** by operating a tipline to—
-      >     - **(I)** provide to individuals and electronic service providers an effective means of reporting Internet-related and other instances of child sexual exploitation in the areas of—
+      >     - **(I)** provide to individuals and electronic service providers an effective means of reporting internet-related and other instances of child sexual exploitation in the areas of—
       >       - **(aa)** possession, manufacture, and distribution of child pornography;
       >       - **(bb)** online enticement of children for sexual acts;
       >       - **(cc)** child sex trafficking;
       >       - **(dd)** sex tourism involving children;
-      >       - **(ee)** extra familial child sexual molestation;
+      >       - **(ee)** extra-familial child sexual molestation;
       >       - **(ff)** unsolicited obscene material sent to a child;
       >       - **(gg)** misleading domain names; and
-      >       - **(hh)** misleading words or digital images on the Internet; and
+      >       - **(hh)** misleading words or digital images on the internet; and
       >     - **(II)** make reports received through the tipline available to the appropriate law enforcement agency for its review and potential investigation;
       >   - **(ii)** by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
       >   - **(iii)** by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
@@ -95,13 +95,13 @@ This Act may be cited as the “Missing Children’s Assistance Act of 2018”.
     - **(L)** by amending subparagraphs (L) and (M), as so redesignated, to read as follows:
       > - **(L)** develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
       >   - **(i)** the prevention of child abduction and sexual exploitation;
-      >   - **(ii)** Internet safety, including tips for social media and cyberbullying; and
-      >   - **(iii)** sexting and sextortion; and
+      >   - **(ii)** internet safety, including tips for social media and cyberbullying; and
+      >   - **(iii)** sexting and sextortion;
       > - **(M)** provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children;
 
 - **(d)** *Grants* Section 405 of the Missing Children's Assistance Act (34 U.S.C. 11294) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in paragraph (7) by striking “(as defined in section 403(1)(A))”; and
+    - **(A)** in paragraph (7), by striking “(as defined in section 403(1)(A))”; and
     - **(B)** in paragraph (8)—
       - **(i)** by striking “legal custodians” and inserting “parents”; and
       - **(ii)** by striking “custodians’” and inserting “parents’”; and

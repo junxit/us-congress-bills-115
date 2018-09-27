@@ -1,7 +1,7 @@
 ---
 measure: S. 3354
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 34 U.S.C. § 11293
 
-> in paragraph (3) by striking “telephone line” and inserting “hotline”; and
+> in paragraph (3), by striking “telephone line” and inserting “hotline”; and
 
 | | |
 |---|---|
@@ -121,8 +121,8 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11291` | redesignate | in paragraph (6), as so redesignated, by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11291` | redesignate | by amending paragraph (7), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11292` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11292` | strike | in paragraph (2) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 11292` | replace | in paragraph (3) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 11292` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 11292` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11292` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11293` | insert | by inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11293` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -138,7 +138,7 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11293` | redesignate | by amending subparagraph (I), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11293` | redesignate | by amending subparagraph (K), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11293` | redesignate | by amending subparagraphs (L) and (M), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11294` | strike | in paragraph (7) by striking “(as defined in section 403(1)(A))”; and | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 11294` | strike | in paragraph (7), by striking “(as defined in section 403(1)(A))”; and | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 11291` | redesignate | by redesignating sections 407 and 408 as sections 408 and 409, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11295` | insert | by inserting after section 406 (34 U.S.C. 11295) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 409(a) of the Missing Children’s Assistance Act, as so redesignated by section 2, is amended by striking “2018” and inserting “2023”. | the bill names no machine-readable US Code section |
