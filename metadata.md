@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6729
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6729
@@ -26,9 +26,10 @@ Empowering Financial Institutions to Fight Human Trafficking Act of 2018
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Empowering Financial Institutions to Fight Human Trafficking Act of 2018
 - 2018-09-26 — Placed on the Union Calendar, Calendar No. 766.
 - 2018-09-26 — Reported by the Committee on Financial Services. H. Rept. 115-981.
 - 2018-09-26 — Reported by the Committee on Financial Services. H. Rept. 115-981.
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
