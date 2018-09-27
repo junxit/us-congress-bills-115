@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 637
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 637
@@ -41,3 +41,7 @@ A resolution designating September 2018 as "National Kinship Care Month".
 
 - 2018-09-18 — Introduced in Senate
 - 2018-09-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6234-6235)
+- 2018-09-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/18/2018 S6234-6235)
+- 2018-09-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/18/2018 S6234-6235)
+- 2018-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6365)
+- 2018-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6365)
