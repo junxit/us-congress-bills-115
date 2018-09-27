@@ -1,0 +1,34 @@
+---
+measure: H.Res. 1092
+congress: 115
+version: Introduced in House
+---
+
+# H.Res. 1092
+
+Expressing the sense of the House of Representatives that the President should redirect and target foreign assistance provided to El Salvador, Guatemala, and Honduras in a manner that addresses the driving causes of illegal immigration into the United States from such countries, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+
+## Cosponsors (4)
+
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. King, Steve [R-IA-4] (K000362)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2018-09-27 — Introduced in House
+- 2018-09-27 — Introduced in House
+- 2018-09-27 — Referred to the House Committee on Foreign Affairs.
