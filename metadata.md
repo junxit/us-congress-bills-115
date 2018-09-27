@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5036
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5036
@@ -21,9 +21,10 @@ Financial Technology Protection Act
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Financial Technology Protection Act
 - 2018-09-26 — Placed on the Union Calendar, Calendar No. 769.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-984.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-984.
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
