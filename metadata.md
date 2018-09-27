@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4254
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4254
@@ -60,3 +60,15 @@ Women in Aerospace Education Act
 - 2018-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
 - 2018-09-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6364-6365; text: CR S6364)
 - 2018-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6364-6365; text: CR S6364)
+- 2018-09-28 — Message on Senate action sent to the House.
+- 2018-11-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4254.
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9580-9581)
+- 2018-11-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate Amendment: CR H9580)
+- 2018-11-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate Amendment: CR H9580)
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-303.
+- 2018-12-11 — Became Public Law No: 115-303.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
