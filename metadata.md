@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6757
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6757
@@ -53,6 +53,10 @@ Family Savings Act of 2018
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2018-09-27 — [House 115-2-411](votes/house-115-2-0411.md) — On Passage — **Passed** (240–177)
+
 ## Actions
 
 - 2018-09-10 — Introduced in House
@@ -66,3 +70,12 @@ Family Savings Act of 2018
 - 2018-09-24 — Placed on the Union Calendar, Calendar No. 747.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-959, Part I.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-959, Part I.
+- 2018-09-26 — Rules Committee Resolution H. Res. 1084 Reported to House. Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-27 — Considered under the provisions of rule H. Res. 1084. (consideration: CR H9118-9134)
+- 2018-09-27 — DEBATE - The House proceeded with one hour of debate on H.R. 6757.
+- 2018-09-27 — House amendment offered
+- 2018-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-27 — On passage Passed by the Yeas and Nays: 240 - 177 (Roll no. 411). (text: CR H9118-9126)
+- 2018-09-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 177 (Roll no. 411).(text: CR H9118-9126)
+- 2018-09-27 — Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-27 — The previous question was ordered pursuant to the rule.

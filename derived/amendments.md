@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6757
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 6 executed, 45 stated and not applied.
+53 amendatory instructions. 6 executed, 47 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -120,6 +120,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 401` | redesignate | by redesignating subsection (o) as subsection (p), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | insert | by inserting after subsection (n) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | add-at-end | Section 401(a)(26) of such Code is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1104` | add-at-end | Section 404 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter F of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part: | the bill names no machine-readable US Code section |
 | — | replace | Section 4973(a) of such Code is amended by striking “or” at the end of paragraph (5), by inserting “or” at the end of paragraph (6), and by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4973 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -131,4 +132,5 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 529` | add-at-end | Section 529(c) of such Code, as amended by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 529` | add-at-end | Section 221(e)(1) of such Code is amended by adding at the end the following: “The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 529` | amend | Section 529(c)(7)(A), as amended by subsection (b), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 529` | add-at-end | Section 529(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Section 72(t)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
