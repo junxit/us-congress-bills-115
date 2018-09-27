@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6751
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6751
@@ -16,9 +16,10 @@ Banking Transparency for Sanctioned Persons Act of 2018
 
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Banking Transparency for Sanctioned Persons Act of 2018
 - 2018-09-26 — Placed on the Union Calendar, Calendar No. 767.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-982.
 - 2018-09-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-982.
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
