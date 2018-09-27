@@ -1,7 +1,7 @@
 ---
 measure: S. 1768
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1768
@@ -40,3 +40,12 @@ National Earthquake Hazards Reduction Program Reauthorization Act of 2018
 - 2018-09-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-336.
 - 2018-09-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-336.
 - 2018-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
+- 2018-09-27 — Amendment SA 4025 agreed to in Senate by Unanimous Consent.
+- 2018-09-27 — Amendment SA 4025 proposed by Senator Perdue for Senator Feinstein. (consideration: CR S6365; text: CR S6364) In the nature of substitute.
+- 2018-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S6364)
+- 2018-09-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-27 — Senate amendment agreed to: Amendment SA 4025 agreed to in Senate by Unanimous Consent.
+- 2018-09-27 — Senate amendment proposed (on the floor): Amendment SA 4025 proposed by Senator Perdue for Senator Feinstein.(consideration: CR S6365; text: CR S6364)
+- 2018-09-27 — Senate amendment submitted
+- 2018-09-27 — The committee substitute withdrawn by Unanimous Consent. (CR S6364)
