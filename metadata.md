@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 754
@@ -325,3 +325,4 @@ Anwar Sadat Centennial Celebration Act
 - 2018-09-26 — Mr. Tipton moved to suspend the rules and pass the bill.
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9068-9069)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9068-9069)
+- 2018-09-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
