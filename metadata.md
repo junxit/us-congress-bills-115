@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4917
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4917
@@ -20,9 +20,10 @@ IG Subpoena Authority Act
 
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ IG Subpoena Authority Act
 - 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill.
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9070)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9070)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
