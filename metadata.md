@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3383
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3383
@@ -41,3 +41,14 @@ To designate the flood control project in Sedgwick County, Kansas, commonly know
 - 2018-09-26 — On passage Passed without objection. (text: CR H9060)
 - 2018-09-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9060)
 - 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2018-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7897)
+- 2018-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7897)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-349.
+- 2018-12-21 — Became Public Law No: 115-349.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
