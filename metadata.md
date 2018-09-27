@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5420
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5420
@@ -16,9 +16,10 @@ FDR Historic Preservation Act
 
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ FDR Historic Preservation Act
 - 2018-09-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 394 - 15 (Roll no. 404).
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 394 - 15 (Roll no. 404).
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
