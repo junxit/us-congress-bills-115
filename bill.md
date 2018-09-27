@@ -102,3 +102,8 @@ This Act may be cited as the “American Innovation Act of 2018”.
   >   - **(5)** *Transition rule* This subsection shall not apply with respect to any trade or business if the date on which such trade or business begins as an active trade or business (as determined under section 195(d)(2) without regard to subparagraph (B) thereof) is on or before September 10, 2018.
 
 - **(c)** *Effective date* The amendments made by this section shall apply to taxable years ending after September 10, 2018.
+
+## § 4. Budgetary effects
+
+- **(a)** *Statutory PAYGO scorecards* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+- **(b)** *Senate PAYGO scorecards* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress).
