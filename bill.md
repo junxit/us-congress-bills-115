@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 6953
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6953
+
+> To amend subpart 1 of part A of title IV of the Elementary and Secondary Education Act of 1965 to provide States with the option of using grant funds to supply menstrual hygiene products to students.
+
+## § 1. Short title
+
+This Act may be cited as the “Giving Increased Resources to Learning Students Act” or the “GIRLS Act”.
+
+## § 2. Option for States to provide menstrual hygiene products to students
+
+- **(a)** *In general* Section 4108(5)(C) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7118(5)(C)) is amended—
+  - **(1)** in clause (vi), by striking “or” after the semicolon;
+  - **(2)** in clause (vii), by inserting “or” after the semicolon; and
+  - **(3)** by adding at the end the following:
+    > - **(viii)** provide free menstrual hygiene products to students who use menstrual hygiene products;
+
+- **(b)** *Definitions* Section 4102 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7112) is amended—
+  - **(1)** by redesignating paragraphs (6) through (8) as paragraphs (7) through (9), respectively; and
+  - **(2)** by inserting after paragraph (5) the following:
+    > - **(6)** *Menstrual hygiene products*
+    >   - **(A)** *In general* The term menstrual hygiene products means tampons, pads, liners, cups, and similar products used with respect to menstruation by individuals.
+    >   - **(B)** *Rulemaking* By not later than 1 year after the date of enactment of the Giving Increased Resources to Learning Students Act, the Secretary, in consultation with the Secretary of Health and Human Services, shall promulgate rules with respect to this paragraph.
