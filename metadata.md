@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4254
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4254
@@ -54,3 +54,5 @@ Women in Aerospace Education Act
 - 2018-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2018-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. Without written report.
 - 2018-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
+- 2018-09-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6364-6365; text: CR S6364)
+- 2018-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6364-6365; text: CR S6364)
