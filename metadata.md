@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6287
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6287
@@ -89,3 +89,6 @@ version: Engrossed in House
 - 2018-09-12 — Mr. Gianforte moved to suspend the rules and pass the bill, as amended.
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8136-8137)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8136-8137)
+- 2018-09-17 — Received in the Senate.
+- 2018-09-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2018-09-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 587.
