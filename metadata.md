@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5896
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5896
@@ -25,9 +25,10 @@ Border Patrol Agent Pay Reform Amendments Act of 2018
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Border Patrol Agent Pay Reform Amendments Act of 2018
 - 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9078-9079)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9078-9079)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
