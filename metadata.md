@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4809
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4809
@@ -43,3 +43,4 @@ GOOD Act
 - 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9072)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9072)
+- 2018-09-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
