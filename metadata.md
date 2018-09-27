@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3383
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3383
@@ -22,9 +22,10 @@ To designate the flood control project in Sedgwick County, Kansas, commonly know
 - Rep. Marshall, Roger [R-KS-1] (M001198)
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the flood control project in Sedgwick County, Kansas, commonly know
 - 2018-09-26 — Mr. Shuster asked unanimous consent to discharge from committee and consider.
 - 2018-09-26 — On passage Passed without objection. (text: CR H9060)
 - 2018-09-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9060)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
