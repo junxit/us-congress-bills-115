@@ -1,7 +1,7 @@
 ---
 measure: S. 3170
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-102 amendatory instructions. 11 executed, 91 stated and not applied.
+104 amendatory instructions. 11 executed, 93 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -140,9 +140,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “may include” and inserting “may, at the sole discretion of the provider, include”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or plans to violate” after “who appears to have violated”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “payment information (excluding personally identifiable information),” after “uniform resource locator,”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “an electronic communication service provider or a remote computing service provider” and inserting “a provider”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “an electronic communication service or a remote computing service” and inserting “a provider”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “apparent child pornography” each place it appears and inserting “content relating to the report”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the electronic communication service provider or a remote computing service provider” and inserting “the provider”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the electronic communication service provider or remote computing service provider” and inserting “the provider”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Images” and inserting “Visual depictions”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “image” and inserting “visual depiction”; and | the bill names no machine-readable US Code section |
@@ -161,7 +161,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (6) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | redesignate | by amending paragraph (5), as so redesignated, to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “An electronic communication service provider or remote computing service provider” and inserting “A provider”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding paragraph (1), by striking “an electronic communication service provider or remote computing service provider” and inserting “a provider”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “an electronic communication service provider or a remote computing service provider” and inserting “a provider”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “seek” and inserting “search, screen, or scan for”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A)(vi), by striking “an electronic communication service provider or remote computing service provider” and inserting “a provider”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
@@ -187,11 +187,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “an electronic communication service provider or a remote computing service” and inserting “a provider”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “images” and inserting “visual depictions”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “commingled or interspersed among the images of apparent child pornography within a particular communication or user created folder or directory” and inserting “reasonably accessible and may provide context or additional info… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), as so redesignated, by striking “An electronic communication service provider or a remote computing service” and inserting “A provider”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), as so redesignated, by striking “An electronic communication service or remote computing service” and inserting “A provider”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “electronic communication service providers, remote computing service providers,” and inserting “providers”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “registrar” and inserting “registrars”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “an electronic communication service provider, remote computing service provider,” and inserting “a provider”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “such electronic communication service provider, remote computing service provider,” and inserting “such provider”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “an electronic communication service provider, a remote computing service provider,” and inserting “a provider”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “such electronic communication service provider, remote computing service provider,” each place it appears and inserting “such provider”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “electronic communication service provider, remote computing service provider,” each place it appears and inserting “provider”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “image” each place it appears and inserting “visual depiction”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “An electronic communication service provider, a remote computing service provider,” and inserting “A provider”. | the bill names no machine-readable US Code section |
@@ -212,7 +212,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “apparent child pornography image of an identified child from the National Center for Missing and Exploited Children” and inserting “CyberTipline report from NCMEC”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “further transmission of the images” and inserting “online sexual exploitation of children”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The National Center for Missing and Exploited Children shall” and inserting “NCMEC may”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “local law enforcement” the following: “, and to foreign law enforcement agencies described in section 2258A(c)(3)”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “local law enforcement” the following: “, and to foreign law enforcement agencies described in section 2258A(c)(3),”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “investigation of child pornography” and inserting “investigation of child sexual exploitation”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “image of an identified child” and inserting “visual depiction”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “reported to the National Center for Missing and Exploited Children” and inserting “reported to the CyberTipline”; and | the bill names no machine-readable US Code section |
@@ -220,6 +220,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “image of an identified child from the National Center for Missing and Exploited Children under section (d)” and inserting “visual depiction from NCMEC under subsection (d)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “child pornography crimes” and inserting “child sexual exploitation crimes,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “and prevent future sexual victimization of children”. | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “2258D” and inserting “2258E”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (8); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 110 of title 18, United States Code, is amended by striking the items relating to sections 2258A, 2258B, 2258C, and 2258D and inserting the following: | the bill names no machine-readable US Code section |
