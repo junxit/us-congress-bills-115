@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3834
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3834
@@ -52,9 +52,10 @@ version: Engrossed in House
 - Rep. Crist, Charlie [D-FL-13] (C001111)
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ version: Engrossed in House
 - 2018-09-26 — Mr. Tipton moved to suspend the rules and pass the bill.
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9067)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9067)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
