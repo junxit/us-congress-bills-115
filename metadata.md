@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6756
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6756
@@ -59,3 +59,14 @@ American Innovation Act of 2018
 - 2018-09-24 — Placed on the Union Calendar, Calendar No. 745.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-957.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-957.
+- 2018-09-26 — Rules Committee Resolution H. Res. 1084 Reported to House. Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-27 — Considered as unfinished business. (consideration: CR H9134-9135)
+- 2018-09-27 — Considered under the provisions of rule H. Res. 1084. (consideration: CR H9113-9118)
+- 2018-09-27 — DEBATE - The House proceeded with one hour of debate on H.R. 6756.
+- 2018-09-27 — House amendment offered
+- 2018-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-27 — On passage Passed by the Yeas and Nays: 260 - 156 (Roll no. 412). (text: CR H9113-9114)
+- 2018-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6756, the Chair put the question on passage of the bill, and announced that the ayes prevailed by voice vote. Mr. Buchanan demanded the Yeas and Nays, and the Chair postponed further proceedings on the question of passage on H.R. 6756 until later in the legislative day.
+- 2018-09-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 260 - 156 (Roll no. 412).(text: CR H9113-9114)
+- 2018-09-27 — Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-27 — The previous question was ordered pursuant to the rule.
