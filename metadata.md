@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4887
@@ -26,9 +26,10 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2018
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2018
 - 2018-09-26 — Mr. Russell moved to suspend the rules and pass the bill, as amended.
 - 2018-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9074-9075)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9074-9075)
+- 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
