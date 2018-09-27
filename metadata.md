@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3398
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3398
@@ -46,3 +46,14 @@ REAL ID Act Modification for Freely Associated States Act
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9081)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9081)
 - 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7332-7333)
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7332-7333)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-17 — Became Public Law No: 115-323.
+- 2018-12-17 — Became Public Law No: 115-323.
+- 2018-12-17 — Signed by President.
+- 2018-12-17 — Signed by President.
