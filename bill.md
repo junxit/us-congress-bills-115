@@ -42,9 +42,9 @@ Section 2258A of title 18, United States Code, is amended—
     - **(i)** by inserting “or plans to violate” after “who appears to have violated”; and
     - **(ii)** by inserting “payment information (excluding personally identifiable information),” after “uniform resource locator,”;
   - **(C)** in paragraph (2)—
-    - **(i)** by striking “an electronic communication service provider or a remote computing service provider” and inserting “a provider”;
+    - **(i)** by striking “an electronic communication service or a remote computing service” and inserting “a provider”;
     - **(ii)** by striking “apparent child pornography” each place it appears and inserting “content relating to the report”; and
-    - **(iii)** by striking “the electronic communication service provider or a remote computing service provider” and inserting “the provider”;
+    - **(iii)** by striking “the electronic communication service provider or remote computing service provider” and inserting “the provider”;
   - **(D)** by amending paragraph (3) to read as follows:
     > - **(3)** *Geographic location information* Information relating to the geographic location of the involved individual or website, which may include the Internet Protocol address or verified address, or, if not reasonably available, at least one form of geographic identifying information, including area code or zip code, provided by the customer or subscriber, or stored or obtained by the provider.
 
@@ -87,7 +87,7 @@ Section 2258A of title 18, United States Code, is amended—
 
 - **(6)** in subsection (e), by striking “An electronic communication service provider or remote computing service provider” and inserting “A provider”;
 - **(7)** in subsection (f)—
-  - **(A)** in the matter preceding paragraph (1), by striking “an electronic communication service provider or remote computing service provider” and inserting “a provider”; and
+  - **(A)** in the matter preceding paragraph (1), by striking “an electronic communication service provider or a remote computing service provider” and inserting “a provider”; and
   - **(B)** in paragraph (3), by striking “seek” and inserting “search, screen, or scan for”;
 - **(8)** in subsection (g)—
   - **(A)** in paragraph (2)—
@@ -130,7 +130,7 @@ Section 2258A of title 18, United States Code, is amended—
     - **(ii)** by striking “an electronic communication service provider or a remote computing service” and inserting “a provider”;
     - **(iii)** by striking “images” and inserting “visual depictions”; and
     - **(iv)** by striking “commingled or interspersed among the images of apparent child pornography within a particular communication or user created folder or directory” and inserting “reasonably accessible and may provide context or additional information about the reported material or person”; and
-  - **(E)** in paragraph (3), as so redesignated, by striking “An electronic communication service provider or a remote computing service” and inserting “A provider”.
+  - **(E)** in paragraph (3), as so redesignated, by striking “An electronic communication service or remote computing service” and inserting “A provider”.
 
 ## § 3. Limited liability for providers or domain name registrars
 
@@ -140,8 +140,8 @@ Section 2258B of title 18, United States Code, is amended—
   - **(A)** by striking “electronic communication service providers, remote computing service providers,” and inserting “providers”; and
   - **(B)** by striking “registrar” and inserting “registrars”;
 - **(2)** in subsection (a)—
-  - **(A)** by striking “an electronic communication service provider, remote computing service provider,” and inserting “a provider”; and
-  - **(B)** by striking “such electronic communication service provider, remote computing service provider,” and inserting “such provider”;
+  - **(A)** by striking “an electronic communication service provider, a remote computing service provider,” and inserting “a provider”; and
+  - **(B)** by striking “such electronic communication service provider, remote computing service provider,” each place it appears and inserting “such provider”;
 - **(3)** in subsection (b), by striking “electronic communication service provider, remote computing service provider,” each place it appears and inserting “provider”; and
 - **(4)** in subsection (c)—
   - **(A)** by striking “image” each place it appears and inserting “visual depiction”; and
@@ -173,7 +173,7 @@ Section 2258C of title 18, United States Code, is amended—
   - **(C)** by striking “further transmission of the images” and inserting “online sexual exploitation of children”;
 - **(5)** in subsection (d)—
   - **(A)** by striking “The National Center for Missing and Exploited Children shall” and inserting “NCMEC may”;
-  - **(B)** by inserting after “local law enforcement” the following: “, and to foreign law enforcement agencies described in section 2258A(c)(3)”;
+  - **(B)** by inserting after “local law enforcement” the following: “, and to foreign law enforcement agencies described in section 2258A(c)(3),”;
   - **(C)** by striking “investigation of child pornography” and inserting “investigation of child sexual exploitation”;
   - **(D)** by striking “image of an identified child” and inserting “visual depiction”; and
   - **(E)** by striking “reported to the National Center for Missing and Exploited Children” and inserting “reported to the CyberTipline”; and
@@ -206,8 +206,13 @@ Section 2258D of title 18, United States Code, is amended—
 
 Section 2258E of title 18, United States Code, is amended—
 
-- **(1)** in paragraph (5), by striking “and” at the end;
-- **(2)** in paragraph (6), by striking the period at the end and inserting a semicolon; and
-- **(3)** by inserting after paragraph (6) the following:
-  > - **(7)** the term provider means an electronic communication service provider or remote computing service; and
-  > - **(8)** the term NCMEC means the National Center for Missing & Exploited Children.
+- **(1)** in the matter preceding paragraph (1), by striking “2258D” and inserting “2258E”;
+- **(2)** in paragraph (5), by striking “and” at the end;
+- **(3)** by redesignating paragraph (6) as paragraph (8); and
+- **(4)** by inserting after paragraph (5) the following:
+  > - **(6)** the term provider means an electronic communication service provider or remote computing service;
+  > - **(7)** the term NCMEC means the National Center for Missing & Exploited Children; and
+
+## § 7. Technical and conforming amendment
+
+The table of sections for chapter 110 of title 18, United States Code, is amended by striking the items relating to sections 2258A, 2258B, 2258C, and 2258D and inserting the following:

@@ -1,7 +1,7 @@
 ---
 measure: S. 3170
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3170
@@ -43,3 +43,11 @@ CyberTipline Modernization Act of 2018
 - 2018-09-18 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2018-09-18 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2018-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.
+- 2018-09-27 — Amendment SA 4023 agreed to in Senate by Unanimous Consent.
+- 2018-09-27 — Amendment SA 4023 proposed by Senator Perdue for Senator Grassley. (consideration: CR S6364) In the nature of a substitute.
+- 2018-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S6364)
+- 2018-09-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-09-27 — Senate amendment agreed to: Amendment SA 4023 agreed to in Senate by Unanimous Consent.
+- 2018-09-27 — Senate amendment proposed (on the floor): Amendment SA 4023 proposed by Senator Perdue for Senator Grassley.(consideration: CR S6364)
+- 2018-09-27 — Senate amendment submitted
