@@ -1,7 +1,7 @@
 ---
 measure: S. 3354
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3354
@@ -48,3 +48,17 @@ Missing Children's Assistance Act of 2018
 - 2018-09-27 — Senate amendment agreed to: Amendment SA 4024 agreed to in Senate by Unanimous Consent.
 - 2018-09-27 — Senate amendment proposed (on the floor): Amendment SA 4024 proposed by Senator Perdue for Senator Grassley.(consideration: CR S6364)
 - 2018-09-27 — Senate amendment submitted
+- 2018-09-28 — Considered by unanimous consent. (consideration: CR H9358-9359)
+- 2018-09-28 — Held at the desk.
+- 2018-09-28 — Message on Senate action sent to the House.
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Guthrie asked unanimous consent to take from the Speaker's table and consider.
+- 2018-09-28 — On passage Passed without objection. (text: CR H9358-9359)
+- 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9358-9359)
+- 2018-09-28 — Received in the House.
+- 2018-10-02 — Presented to President.
+- 2018-10-02 — Presented to President.
+- 2018-10-11 — Became Public Law No: 115-267.
+- 2018-10-11 — Became Public Law No: 115-267.
+- 2018-10-11 — Signed by President.
+- 2018-10-11 — Signed by President.
