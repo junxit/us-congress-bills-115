@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1093
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1093
@@ -39,3 +39,10 @@ To require the Federal Railroad Administration to provide appropriate congressio
 - 2018-03-13 — Placed on the Union Calendar, Calendar No. 452.
 - 2018-03-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-594.
 - 2018-03-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-594.
+- 2018-09-27 — Considered by unanimous consent. (consideration: CR H9138-9139)
+- 2018-09-27 — House amendment offered
+- 2018-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-27 — Mr. Denham asked unanimous consent to take from the Speaker's table and consider.
+- 2018-09-27 — On passage Passed without objection. (text: CR H9138; text of amendment in the nature of a substitute: CR H9138-9139)
+- 2018-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9138; text of amendment in the nature of a substitute: CR H9138-9139)
+- 2018-09-27 — The title of the measure was amended. Agreed to without objection.

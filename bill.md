@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1093
 
-> To require the Federal Railroad Administration and the Federal Transit Authority to provide appropriate Congressional notice of safety audits conducted with respect to railroads and rail transit agencies.
+> To require the Federal Railroad Administration to provide appropriate congressional notice of comprehensive safety assessments conducted with respect to intercity or commuter rail passenger transportation.
 
 ## § 1. Notice of comprehensive safety assessments
 
