@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3834
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3834
@@ -69,3 +69,14 @@ version: Referred in Senate
 - 2018-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9067)
 - 2018-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9067)
 - 2018-09-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6882)
+- 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6882)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-24 — Presented to President.
+- 2018-10-24 — Presented to President.
+- 2018-11-03 — Became Public Law No: 115-276.
+- 2018-11-03 — Became Public Law No: 115-276.
+- 2018-11-03 — Signed by President.
+- 2018-11-03 — Signed by President.
