@@ -1,7 +1,7 @@
 ---
 measure: S. 1768
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1768
@@ -28,9 +28,12 @@ National Earthquake Hazards Reduction Program Reauthorization Act of 2018
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
+- House — Transportation and Infrastructure Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -49,3 +52,8 @@ National Earthquake Hazards Reduction Program Reauthorization Act of 2018
 - 2018-09-27 — Senate amendment proposed (on the floor): Amendment SA 4025 proposed by Senator Perdue for Senator Feinstein.(consideration: CR S6365; text: CR S6364)
 - 2018-09-27 — Senate amendment submitted
 - 2018-09-27 — The committee substitute withdrawn by Unanimous Consent. (CR S6364)
+- 2018-09-28 — Message on Senate action sent to the House.
+- 2018-09-28 — Received in the House.
+- 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
