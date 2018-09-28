@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6760
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6760
@@ -73,3 +73,19 @@ Protecting Family and Small Business Tax Cuts Act of 2018
 - 2018-09-24 — Placed on the Union Calendar, Calendar No. 746.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-958.
 - 2018-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-958.
+- 2018-09-26 — Rules Committee Resolution H. Res. 1084 Reported to House. Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-27 — Rule H. Res. 1084 passed House.
+- 2018-09-28 — Considered as unfinished business. (consideration: CR H9256)
+- 2018-09-28 — Considered under the provisions of rule H. Res. 1084. (consideration: CR H9158-9174; text of amendment in the nature of a substitute: CR H9158-9165)
+- 2018-09-28 — DEBATE - The House proceeded with 10 minutes of debate on the Larson (CT) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end the following new title: Title III - Effective Date; "Protect Medicare and Social Security Trust Funds Act of 2018"
+- 2018-09-28 — DEBATE - The House proceeded with one hour of debate on H.R. 6760.
+- 2018-09-28 — House amendment offered
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Larson (CT) moved to recommit with instructions to the Committee on Ways and Means. (text: CR H9172-9173)
+- 2018-09-28 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 226 (Roll no. 413).
+- 2018-09-28 — On passage Passed by the Yeas and Nays: 220 - 191 (Roll no. 414).
+- 2018-09-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Larson (CT) motion to recommit with instructions, the Chair put the question on the motion to recommit, and announced by voice vote that the noes had prevailed. Mr. Larson (CT) demanded the yeas and nays, and the Chair postponed further proceedings on the motion to recommit until later in the legislative day.
+- 2018-09-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 191 (Roll no. 414).
+- 2018-09-28 — Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
+- 2018-09-28 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2018-09-28 — The previous question was ordered pursuant to the rule.
