@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6756
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6756
@@ -45,9 +45,10 @@ American Innovation Act of 2018
 - Rep. Mitchell, Paul [R-MI-10] (M001201)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ American Innovation Act of 2018
 - 2018-09-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 260 - 156 (Roll no. 412).(text: CR H9113-9114)
 - 2018-09-27 — Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
 - 2018-09-27 — The previous question was ordered pursuant to the rule.
+- 2018-09-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
