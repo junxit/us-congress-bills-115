@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2152
@@ -64,3 +64,16 @@ Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018
 - 2018-01-25 — Received in the House.
 - 2018-01-25 — Referred to the House Committee on the Judiciary.
 - 2018-01-25 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2018-09-28 — Amendment (A001) offered by Mr. Marino. (consideration: CR H9371-9373; text: CR H9371-9373)
+- 2018-09-28 — Amendment agreed to by House: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Considered by unanimous consent. (consideration: CR H9369-9373; text of measure as introduced: CR H9369-9371)
+- 2018-09-28 — House amendment agreed to: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — House amendment offered
+- 2018-09-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Marino.(consideration: CR H9371-9373; text: CR H9371-9373)
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Marino asked unanimous consent to discharge from committee and consider.
+- 2018-09-28 — On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — On passage Passed without objection.
+- 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
