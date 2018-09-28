@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5737
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5737
@@ -56,3 +56,7 @@ To designate the facility of the United States Postal Service located at 108 Wes
 - 2018-09-13 — On passage Passed without objection. (text: CR H8247)
 - 2018-09-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8247)
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.
