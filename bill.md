@@ -1,13 +1,15 @@
 ---
 legis-num: S. 1311
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1311
 
-> To provide assistance in abolishing human trafficking in the United States.
+That the bill from the Senate (S. 1311) entitled “An Act to provide assistance in abolishing human trafficking in the United States.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; table of contents
 
@@ -20,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** is intended to supplement, and not supplant, any other funding for domestic trafficking victims; and
   - **(2)** has achieved the objective described in paragraph (1) since the establishment of the Fund.
 - **(b)** *Ensuring full funding* Section 3014 of title 18, United States Code, is amended—
-  - **(1)** in subsection (a), in the matter preceding paragraph (1), by striking “September 30, 2019” and inserting “September 30, 2023”;
+  - **(1)** in subsection (a), in the matter preceding paragraph (1), by striking “September 30, 2019” and inserting “September 30, 2021”;
   - **(2)** in subsection (e)(1), in the matter preceding subparagraph (A), by striking “2019” and inserting “2023”;
   - **(3)** in subsection (f), by inserting “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”; and
   - **(4)** in subsection (h)(3), by inserting “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102))” after “child pornography victims”.
@@ -72,30 +74,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(b)** *Table of contents amendment* The table of contents in section 1(b) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227) is amended by inserting after the item relating to section 905 the following:
 
-## § 6. Implementing a victim-centered approach to human trafficking
+## § 6. Direct services for child victims of human trafficking
 
-Section 107(b)(2) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(2)) is amended—
-
-- **(1)** in subparagraph (B)(ii); by striking the period at the end and inserting “; and”; and
-- **(2)** by adding at the end the following:
-  > - **(D)** *Priority* In selecting recipients of grants under this paragraph that are only available for law enforcement operations or task forces, the Attorney General may give priority to any applicant that files an attestation with the Attorney General stating that—
-  >   - **(i)** the grant funds—
-  >     - **(I)** will be used to assist in the prevention of severe forms of trafficking in persons in accordance with Federal law;
-  >     - **(II)** will be used to strengthen efforts to investigate and prosecute those who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking;
-  >     - **(III)** will be used to take affirmative measures to avoid arresting, charging, or prosecuting victims of human trafficking for any offense that is the direct result of their victimization; and
-  >     - **(IV)** will not be used to require a victim of human trafficking to collaborate with law enforcement officers as a condition of access to any shelter or restorative services; and
-  >   - **(ii)** the applicant will provide dedicated resources for anti-human trafficking law enforcement for a period that is longer than the duration of the grant received under this paragraph.
-
-## § 7. Direct services for child victims of human trafficking
-
-Section 214(b) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13002(b)) is amended—
+Section 214(b) of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20304(b)) is amended—
 
 - **(1)** in the heading by inserting “child victims of a severe form of trafficking in persons and” before “victims of child pornography”; and
 - **(2)** by inserting “victims of a severe form of trafficking (as defined in section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)(A))) who were under the age of 18 at the time of the offense and” before “victims of child pornography”.
 
-## § 8. Holistic training for Federal law enforcement officers and prosecutors
+## § 7. Holistic training for Federal law enforcement officers and prosecutors
 
-All training required under the Combat Human Trafficking Act of 2015 (42 U.S.C. 14044g) and section 105(c)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(c)(4)) shall—
+All training required under the Combat Human Trafficking Act of 2015 (34 U.S.C. 20709) and section 105(c)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(c)(4)) shall—
 
 - **(1)** emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with section 1591(c) of title 18, United States Code) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18, United States Code, and is a party to a human trafficking offense;
 - **(2)** develop specific curriculum for—
@@ -103,7 +91,7 @@ All training required under the Combat Human Trafficking Act of 2015 (42 U.S.C. 
   - **(B)** investigating and prosecuting individuals who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking; and
 - **(3)** specify that any comprehensive approach to eliminating human trafficking shall include a demand reduction component.
 
-## § 9. Best practices in delivering justice for victims of trafficking
+## § 8. Best practices in delivering justice for victims of trafficking
 
 Not later than 180 days after the date of enactment of this Act, the Attorney General shall issue guidance to all offices and components of the Department of Justice—
 
@@ -111,15 +99,15 @@ Not later than 180 days after the date of enactment of this Act, the Attorney Ge
 - **(2)** recommending and implementing best practices for the collection of special assessments under section 3014 of title 18, United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under section 3613 of title 18, United States Code; and
 - **(3)** clarifying that commercial sexual exploitation is a form of gender-based violence.
 
-## § 10. Improving the national strategy to combat human trafficking
+## § 9. Improving the national strategy to combat human trafficking
 
-Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 14044h(b)) is amended by adding at the end the following:
+Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (34 U.S.C. 20711(b)) is amended by adding at the end the following:
 
 > - **(6)** A national strategy to prevent human trafficking and reduce demand for human trafficking victims.
 
-## § 11. Specialized human trafficking training and technical assistance for service providers
+## § 10. Specialized human trafficking training and technical assistance for service providers
 
-- **(a)** *In general* Section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 14044f) is amended—
+- **(a)** *In general* Section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (34 U.S.C. 20708) is amended—
   - **(1)** in the heading, by striking “law enforcement training programs” and inserting “specialized human trafficking training and technical assistance for service providers”;
   - **(2)** in subsection (a)(2), by striking “means a State or a local government.” and inserting the following:
     > means—
@@ -148,7 +136,7 @@ Section 606(b) of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 2 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960) is amended by striking the item relating to section 111 and inserting the following:
 
-## § 12. Enhanced penalties for human trafficking, child exploitation, and repeat offenders
+## § 11. Enhanced penalties for human trafficking, child exploitation, and repeat offenders
 
 Part I of title 18, United States Code, is amended—
 
@@ -160,7 +148,7 @@ Part I of title 18, United States Code, is amended—
   - **(A)** in subsection (a), by striking “twice” and inserting “3 times”; and
   - **(B)** in subsection (b)(1)(B) by striking “paragraph (1)” and inserting “subparagraph (A)”.
 
-## § 13. Targeting organized human trafficking perpetrators
+## § 12. Targeting organized human trafficking perpetrators
 
 Section 521(c) of title 18, United States Code, is amended—
 
@@ -171,7 +159,7 @@ Section 521(c) of title 18, United States Code, is amended—
 
 - **(4)** in paragraph (4), as so redesignated, by striking “(1) or (2)” and inserting “(1), (2), or (3)”.
 
-## § 14. Investigating complex human trafficking networks
+## § 13. Investigating complex human trafficking networks
 
 Section 2516 of title 18, United States Code, is amended—
 
@@ -182,16 +170,16 @@ Section 2516 of title 18, United States Code, is amended—
   - **(A)** by striking “kidnapping human” and inserting “kidnapping, human”; and
   - **(B)** by striking “production, ,” and inserting “production, prostitution,”.
 
-## § 15. Combating sex tourism
+## § 14. Combating sex tourism
 
 Section 2423 of title 18, United States Code, is amended—
 
 - **(1)** in subsection (b), by striking “for the purpose” and inserting “with a motivating purpose”; and
 - **(2)** in subsection (d), by striking “for the purpose of engaging” and inserting “with a motivating purpose of engaging”.
 
-## § 16. Human Trafficking Justice Coordinators
+## § 15. Human Trafficking Justice Coordinators
 
-Section 606 of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 14044h) is amended—
+Section 606 of the Justice for Victims of Trafficking Act of 2015 (34 U.S.C. 20711) is amended—
 
 - **(1)** in subsection (b)(1)—
   - **(A)** by striking subparagraph (B); and
@@ -213,7 +201,7 @@ Section 606 of the Justice for Victims of Trafficking Act of 2015 (42 U.S.C. 140
   >     - **(D)** appropriately assess, respond to, and interact with victims and witnesses in human trafficking cases, including in administrative, civil, and criminal judicial proceedings; and
   >   - **(3)** carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
 
-## § 17. Interagency Task Force to Monitor and Combat Human Trafficking
+## § 16. Interagency Task Force to Monitor and Combat Human Trafficking
 
 Section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)(7)(Q)) is amended—
 
@@ -221,7 +209,7 @@ Section 105(d)(7)(Q) of the Trafficking Victims Protection Act of 2000 (22 U.S.C
 - **(2)** by adding at the end the following:
   > - **(viii)** the number of convictions obtained under chapter 77 of title 18, United States Code, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and
 
-## § 18. Additional reporting on crime
+## § 17. Additional reporting on crime
 
 Section 237(b) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (28 U.S.C. 534 note) is amended—
 
@@ -231,25 +219,21 @@ Section 237(b) of the William Wilberforce Trafficking Victims Protection Reautho
   > - **(4)** incidents of assisting or promoting prostitution, child labor that is a violation of law, or forced labor of an individual under the age of 18 as described in paragraph (1); and
   > - **(5)** incidents of purchasing or soliciting commercial sex acts, child labor that is a violation of law, or forced labor with an individual under the age of 18 as described in paragraph (2).
 
-## § 19. Making the Presidential Survivor Council permanent
-
-Section 115 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended by striking subsection (h).
-
-## § 20. Strengthening the national human trafficking hotline
+## § 18. Strengthening the national human trafficking hotline
 
 - **(a)** *Reporting requirement* Section 105(d)(3) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(d)(3)) is amended—
   - **(1)** by inserting “and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies” after “international trafficking”; and
   - **(2)** by inserting “and reporting requirements” after “Any data collection procedures”.
 - **(b)** *Hotline information* Section 107(b)(1)(B)(ii) of such Act (22 U.S.C. 7105(b)(1)(B)(ii)) is amended by adding at the end the following: “The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.”.
 
-## § 21. Ending Government partnerships with the commercial sex industry
+## § 19. Ending Government partnerships with the commercial sex industry
 
 No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
 
 - **(1)** has the primary purpose of providing adult entertainment; and
 - **(2)** derives profits from the commercial sex trade.
 
-## § 22. Understanding the effects of severe forms of trafficking in persons
+## § 20. Understanding the effects of severe forms of trafficking in persons
 
 - **(a)** *In general* Title VI of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 258) is amended by adding at the end the following:
   > ## § 607. Understanding the physical and psychological effects of severe forms of trafficking in persons
@@ -259,22 +243,14 @@ No Federal funds or resources may be used for the operation of, participation in
 
 - **(b)** *Table of contents amendment* The table of contents in section 1(b) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227) is amended by inserting after the item relating to section 606 the following:
 
-## § 23. Combating trafficking in persons
+## § 21. Combating trafficking in persons
 
-- **(a)** *Trafficking Victims Prevention Act of 2000 programs* Section 113 of the Trafficking Victims Prevention Act of 2000 (22 U.S.C. 7110) is amended—
-  - **(1)** in subsection (b)—
-    - **(A)** in paragraph (1), by striking “2014 through 2017” and inserting “2018 through 2022.”; and
-    - **(B)** in paragraph (2), by striking “2014 through 2017” and inserting “2018 through 2022”; and
-  - **(2)** in subsection (i), by striking “2014 through 2017” and inserting “2018 through 2022”.
-- **(b)** *Reinstatement and reauthorization of grants To combat child sex trafficking*
-  - **(1)** *Reinstatement of expired provision*
-    - **(A)** *In general* Section 202 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044a) is amended to read as such section read on March 6, 2017.
-    - **(B)** *Conforming amendment* Section 1241(b) of the Violence Against Women Reauthorization Act of 2013 (42 U.S.C. 14044a note) is repealed.
-  - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect as though enacted on March 6, 2017.
-  - **(3)** *Reauthorization* Section 202(i) of the Trafficking Victims Protection Reauthorization Act of 2005, as amended by paragraph (1), is amended to read as follows:
-    > - **(i)** *Funding* For each of the fiscal years 2018 through 2022, the Attorney General is authorized to allocate up to $8,000,000 of the amounts appropriated pursuant to section 113(d)(1) of the Trafficking Victims Prevention Act of 2000 (22 U.S.C. 7110(d)(1)) to carry out this section.
+Section 113 of the Trafficking Victims Prevention Act of 2000 (22 U.S.C. 7110) is amended—
 
-## § 24. Grant accountability
+- **(1)** in subsection (b)(2), by striking “2014 through 2017” and inserting “2018 through 2021”; and
+- **(2)** in subsection (i), by striking “2014 through 2017” and inserting “2018 through 2021”.
+
+## § 22. Grant accountability
 
 - **(a)** *Definitions* In this section—
   - **(1)** the term covered agency means an agency authorized to award grants under this Act;
@@ -312,7 +288,7 @@ No Federal funds or resources may be used for the operation of, participation in
     - **(A)** a list of all duplicate covered grants awarded, including the total dollar amount of any duplicate covered grants awarded; and
     - **(B)** the reason the covered official awarded the duplicate covered grants.
 
-## § 25. HERO Act improvements
+## § 23. HERO Act improvements
 
 - **(a)** *In general* Section 890A of the Homeland Security Act of 2002 (6 U.S.C. 473) is amended—
   - **(1)** in subsection (a)—
@@ -367,7 +343,7 @@ No Federal funds or resources may be used for the operation of, participation in
       > - **(1)** *In general* There are authorized
 
     - **(B)** by adding at the end the following:
-      > - **(2)** *Allocation* Of the amount made available pursuant to paragraph (1) in each of fiscal years 2018 through 2022, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
+      > - **(2)** *Allocation* Of the amount made available pursuant to paragraph (1) in each of fiscal years 2019 through 2022, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
 
 - **(c)** *Technical and conforming amendment* Section 302 of the HERO Act of 2015 (Public Law 114–22; 129 Stat. 255) is amended—
   - **(1)** by striking subsection (c); and

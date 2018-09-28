@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1311
@@ -50,9 +50,13 @@ Abolish Human Trafficking Act of 2017
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Blunt, Roy [R-MO] (B000575)
 
-## Committees (1)
+## Committees (5)
 
 - Senate — Judiciary Committee
+- House — Homeland Security Committee
+- House — Energy and Commerce Committee
+- House — Foreign Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -77,3 +81,26 @@ Abolish Human Trafficking Act of 2017
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-14 — Referred to the Subcommittee on Border and Maritime Security.
+- 2017-09-15 — Referred to the Subcommittee on Health.
+- 2017-09-21 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2017-09-21 — Referred to the Subcommittee on Immigration and Border Security.
+- 2018-09-28 — Amendment (A001) offered by Mr. Marino. (consideration: CR H9377-9381; text: CR H9377-9381)
+- 2018-09-28 — Amendment agreed to by House: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — Committee on Energy and Commerce discharged.
+- 2018-09-28 — Committee on Energy and Commerce discharged.
+- 2018-09-28 — Committee on Foreign Affairs discharged.
+- 2018-09-28 — Committee on Foreign Affairs discharged.
+- 2018-09-28 — Committee on Homeland Security discharged.
+- 2018-09-28 — Committee on Homeland Security discharged.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Considered by unanimous consent. (consideration: CR H9373-9381; text of measure as introduced: CR H9373-9377)
+- 2018-09-28 — House amendment agreed to: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — House amendment offered
+- 2018-09-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Marino.(consideration: CR H9377-9381; text: CR H9377-9381)
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Marino asked unanimous consent to discharge from committee and consider.
+- 2018-09-28 — On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — On passage Passed without objection.
+- 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
