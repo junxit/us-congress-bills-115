@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 68
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,7 +32,7 @@ Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
     - **(ii)** by inserting after paragraph (2) the following:
       > - **(3)** *Incentives* The term incentives means individualized, goal-oriented, and graduated responses to a juvenile offender’s compliance with court orders and case disposition terms designed to reinforce or modify the skills and behaviors of the juvenile offender. An incentive may include a certificate of achievement, a letter of recommendation, a family or program activity, a meeting or special outing with a community leader, a reduction in community service hours, a reduced curfew or home restriction, a decrease in required court appearances, or a decrease in the term of court-ordered supervision.
 
-- **(3)** in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$25,000,000 for each of fiscal years 2018 through 2022”; and
+- **(3)** in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for fiscal year 2020”; and
 - **(4)** by adding at the end the following:
   > ## § 1811. Grant accountability
   >
@@ -64,6 +64,6 @@ Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
 
 It is the sense of the Congress that the use of best practices is encouraged for all activities for which grants under part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 may be used.
 
-## § 4. Use of amounts made available for Department of Justice, General Administration to carry out Juvenile Accountability Block Grant Program
+## § 4. Emergency Federal Law Enforcement Assistance
 
-In each of fiscal years 2018 through 2022, the Attorney General shall use up to $25,000,000 of the amounts made available for Department of Justice, General Administration, to carry out part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ee et seq.).
+Section 609Y(a) of the Justice Assistance Act of 1984 (34 U.S.C. 50112(a)) is amended by striking “September 30, 2021” and inserting “September 30, 2023”.
