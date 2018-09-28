@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1209
@@ -77,3 +77,12 @@ To designate the facility of the United States Postal Service located at 901 N. 
 - 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 593.
+- 2018-11-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7063)
+- 2018-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7063)
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-11-26 — Presented to President.
+- 2018-11-26 — Presented to President.
+- 2018-12-06 — Became Public Law No: 115-284.
+- 2018-12-06 — Became Public Law No: 115-284.
+- 2018-12-06 — Signed by President.
+- 2018-12-06 — Signed by President.
