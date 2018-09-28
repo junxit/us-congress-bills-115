@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 6
@@ -124,3 +124,6 @@ SUPPORT for Patients and Communities Act
 - 2018-09-17 — Senate amendment submitted
 - 2018-09-17 — Senate amendment submitted
 - 2018-09-17 — Senate amendment submitted
+- 2018-09-18 — Message on Senate action sent to the House.
+- 2018-09-28 — House agreed to Senate amendment with an amendment pursuant to H. Res. 1099.
+- 2018-09-28 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H. Res. 1099.
