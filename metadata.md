@@ -1,7 +1,7 @@
 ---
 measure: S. 1768
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1768
@@ -57,3 +57,16 @@ National Earthquake Hazards Reduction Program Reauthorization Act of 2018
 - 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-28 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-10-01 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2018-11-27 — Considered under suspension of the rules. (consideration: CR H9581-9586)
+- 2018-11-27 — DEBATE - The House proceeded with forty minutes of debate on S. 1768.
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Rohrabacher moved to suspend the rules and pass the bill.
+- 2018-11-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9581-9584)
+- 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9581-9584)
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-307.
+- 2018-12-11 — Became Public Law No: 115-307.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
