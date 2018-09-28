@@ -1,7 +1,7 @@
 ---
 measure: S. 3442
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3442
@@ -24,3 +24,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2018-09-17 — Introduced in Senate
 - 2018-09-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 591.
