@@ -1,7 +1,7 @@
 ---
 measure: S. 3170
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3170
@@ -31,9 +31,10 @@ CyberTipline Modernization Act of 2018
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Heller, Dean [R-NV] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -51,3 +52,6 @@ CyberTipline Modernization Act of 2018
 - 2018-09-27 — Senate amendment agreed to: Amendment SA 4023 agreed to in Senate by Unanimous Consent.
 - 2018-09-27 — Senate amendment proposed (on the floor): Amendment SA 4023 proposed by Senator Perdue for Senator Grassley.(consideration: CR S6364)
 - 2018-09-27 — Senate amendment submitted
+- 2018-09-28 — Message on Senate action sent to the House.
+- 2018-09-28 — Received in the House.
+- 2018-09-28 — Referred to the House Committee on the Judiciary.
