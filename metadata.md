@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1093
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1093
@@ -21,9 +21,10 @@ To require the Federal Railroad Administration to provide appropriate congressio
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Esty, Elizabeth H. [D-CT-5] (E000293)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To require the Federal Railroad Administration to provide appropriate congressio
 - 2018-09-27 — On passage Passed without objection. (text: CR H9138; text of amendment in the nature of a substitute: CR H9138-9139)
 - 2018-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9138; text of amendment in the nature of a substitute: CR H9138-9139)
 - 2018-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2018-09-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
