@@ -1,7 +1,7 @@
 ---
 measure: H.R. 68
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 4 executed, 7 stated and not applied.
+12 amendatory instructions. 5 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 42 U.S.C. § 3796ee
 
-> in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$25,000,000 for each of fiscal years 2018 through 2022”; and
+> in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for fiscal year 2020”; and
 
 | | |
 |---|---|
 | Removed | `$350,000,000 for each of fiscal years 2006 through 2009` |
-| Inserted | `$25,000,000 for each of fiscal years 2018 through 2022` |
+| Inserted | `$30,000,000 for fiscal year 2020` |
+
+### 34 U.S.C. § 50112
+
+> Section 609Y(a) of the Justice Assistance Act of 1984 (34 U.S.C. 50112(a)) is amended by striking “September 30, 2021” and inserting “September 30, 2023”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2021` |
+| Inserted | `September 30, 2023` |
 
 ## Stated, not applied
 
