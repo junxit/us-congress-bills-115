@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

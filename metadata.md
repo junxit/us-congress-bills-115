@@ -1,7 +1,7 @@
 ---
 measure: S. 1311
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1311
@@ -104,3 +104,13 @@ Abolish Human Trafficking Act of 2017
 - 2018-09-28 — On agreeing to the Marino amendment (A001) Agreed to without objection.
 - 2018-09-28 — On passage Passed without objection.
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
+- 2018-10-01 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-12-17 — Resolving differences -- Senate actions: Senate agreed to House amendment to S. 1311 by Unanimous Consent.(consideration: CR S7628; text: CR S7628)
+- 2018-12-17 — Senate agreed to House amendment to S. 1311 by Unanimous Consent. (consideration: CR S7628; text: CR S7628)
+- 2018-12-18 — Message on Senate action sent to the House.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-392.
+- 2018-12-21 — Became Public Law No: 115-392.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
