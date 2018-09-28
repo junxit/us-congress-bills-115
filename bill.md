@@ -28,12 +28,12 @@ This Act may be cited as the “Health Equity and Access for Returning Troops an
 
   - **(2)** *Conforming amendment* Paragraph (2)(A) of such subsection is amended by striking “is enrolled” and inserting “except as provided by paragraph (6), is enrolled”.
   - **(3)** *Identification of persons* Section 1110a of such title is amended by adding at the end the following new subsection:
-    > - **(c)** *Certain individuals not required To enroll in Medicare Part B* In carrying out subsection (a), the Secretary of Defense shall coordinate with the Secretary of Health and Human Services and the Commissioner of Social Security to—
+    > - **(c)** *Certain individuals not required to enroll in Medicare Part B* In carrying out subsection (a), the Secretary of Defense shall coordinate with the Secretary of Health and Human Services and the Commissioner of Social Security to—
     >   - **(1)** identify persons described in subparagraph (B) of section 1086(d)(6) of this title; and
     >   - **(2)** provide information and counseling pursuant to subparagraph (D) of such section.
 
 - **(b)** *Non-Application of Medicare part B late enrollment penalty* Section 1839(b) of the Social Security Act (42 U.S.C. 1395r(b)) is amended, in the second sentence, by inserting “or months for which the individual can demonstrate that the individual is an individual described in paragraph (6)(B) of section 1086(d) of title 10, United States Code, who is enrolled in the TRICARE program pursuant to such section” after “an individual described in section 1837(k)(3)”.
-- **(c)** *Report* Not later than October 1, 2024, the Secretary of Defense, the Secretary of Health and Human Services, and the Commissioner of Social Security shall jointly submit to the Committees on Armed Services of the House of Representatives and the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate a report on the implementation of section 1086(d)(6) of title 10, United States Code, as added by subsection (a). Such report shall include, with respect to the period covered by the report—
+- **(c)** *Report* Not later than October 1, 2024, the Secretary of Defense, the Secretary of Health and Human Services, and the Commissioner of Social Security shall jointly submit to the Committees on Armed Services of the House of Representatives and the Senate, the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Finance of the Senate a report on the implementation of section 1086(d)(6) of title 10, United States Code, as added by subsection (a). Such report shall include, with respect to the period covered by the report—
   - **(1)** the number of individuals enrolled in TRICARE for Life who are not enrolled in the supplementary medical insurance program under part B of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.) by reason of such section 1086(d)(6); and
   - **(2)** the number of individuals who—
     - **(A)** are retired from the Armed Forces under chapter 61 of title 10, United States Code;
@@ -53,7 +53,7 @@ This Act may be cited as the “Health Equity and Access for Returning Troops an
         > - **(HH)** a prostate cancer DNA Specimen Provenance Assay test (DSPA test) (as defined in subsection (jjj)); and
 
     - **(B)** by adding at the end the following new subsection:
-      > - **(jjj)** *Prostate Cancer DNA Specimen Provenance Assay Test* The term “prostate cancer DNA Specimen Provenance Assay Test” (DSPA test) means a test that, after a determination of cancer in one or more prostate biopsy specimens obtained from an individual, assesses the identity of the DNA in such specimens by comparing such DNA with the DNA that was separately taken from such individual at the time of the biopsy.
+      > - **(jjj)** *Prostate Cancer DNA Speciment Provenance Assay Test* The term “prostate cancer DNA Specimen Provenance Assay Test” (DSPA test) means a test that, after a determination of cancer in one or more prostate biopsy specimens obtained from an individual, assesses the identity of the DNA in such specimens by comparing such DNA with the DNA that was separately taken from such individual at the time of the biopsy.
 
   - **(2)** *Exclusion from coverage* Section 1862(a)(1) of the Social Security Act (42 U.S.C. 1395y(a)(1)) is amended—
     - **(A)** in subparagraph (O), by striking “and” at the end;
@@ -74,6 +74,6 @@ This Act may be cited as the “Health Equity and Access for Returning Troops an
   >     - **(A)** *In general* The Secretary shall review at least three years of claims under part B for prostate cancer DNA Specimen Provenance Assay tests to identify whether the DNA of the prostate biopsy specimens match the DNA of the individuals diagnosed with prostate cancer.
   >     - **(B)** *Posting on Internet website* Not later than July 1, 2023, the Secretary shall post on the Internet website of the Centers for Medicare & Medicaid Services the findings of the review conducted under subparagraph (A).
 
-- **(c)** *Cost-Sharing* Section 1833(a)(1) of the Social Security Act (42 U.S.C. 1395l(a)(1)) is amended—
+- **(c)** *Cost-sharing* Section 1833(a)(1) of the Social Security Act (42 U.S.C. 1395l(a)(1)) is amended—
   - **(1)** by striking “and (BB)” and inserting “(BB)”; and
   - **(2)** by inserting before the semicolon at the end the following: “, and (CC) with respect to a prostate cancer DNA Specimen Provenance Assay test (DSPA test) (as defined in section 1861(jjj)), the amount paid shall be an amount equal to 80 percent of the lesser of the actual charge for the test or the amount specified under section 1834(w)”.
