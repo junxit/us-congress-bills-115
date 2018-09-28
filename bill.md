@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6969
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6969
+
+> To amend the Internal Revenue Code of 1986 to provide that floor plan financing includes the financing of certain trailers and campers.
+
+## § 1. Short title
+
+This Act may be cited as the “Travel Trailer and Camper Technical Correction Act”.
+
+## § 2. Floor plan financing applicable to certain trailers and campers
+
+- **(a)** *In general* Section 163(j)(9)(C) of the Internal Revenue Code of 1986 is amended by adding at the end the following new flush sentence:
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
