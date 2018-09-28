@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -1057,7 +1057,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5117aa` | repeal | The Abandoned Infants Assistance Act of 1988 (42 U.S.C. 5117aa et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294n` | redesignate | by redesignating part F as part G; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294n` | insert | by inserting after part E (42 U.S.C. 294n et seq.) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254l` | add-at-end | Subpart III of part D of title III of the Public Health Service Act (42 U.S.C. 254l et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254l et` | add-at-end | Subpart III of part D of title III of the Public Health Service Act (42 U.S.C. 254l et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294i` | insert | by inserting “preventing,” after “diagnosing,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 294i` | insert | by inserting “non-addictive medical products and non-pharmacologic treatments and” after “including”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 294i` | insert | by inserting “Federal, State, and local” after “applicable”; and | the bill quotes the text inserted but describes where it goes |

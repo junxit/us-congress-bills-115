@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 6
@@ -44,11 +44,12 @@ SUPPORT for Patients and Communities Act
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2018-06-22 — [House 115-2-287](votes/house-115-2-0287.md) — On Motion to Recommit with Instructions — **Failed** (185–226)
 - 2018-06-22 — [House 115-2-288](votes/house-115-2-0288.md) — On Passage — **Passed** (396–14)
 - 2018-09-17 — [Senate 115-2-210](votes/senate-115-2-0210.md) — On Passage of the Bill — **Bill Passed** (99–1)
+- 2018-10-03 — [Senate 115-2-221](votes/senate-115-2-0221.md) — On the Motion — **Motion Agreed to** (98–1)
 
 ## Actions
 
@@ -133,3 +134,15 @@ SUPPORT for Patients and Communities Act
 - 2018-09-18 — Message on Senate action sent to the House.
 - 2018-09-28 — House agreed to Senate amendment with an amendment pursuant to H. Res. 1099.
 - 2018-09-28 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H. Res. 1099.
+- 2018-10-01 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2018-10-03 — Measure laid before Senate by unanimous consent. (consideration: CR S6467-6483)
+- 2018-10-03 — Motion by Senator Thune to concur in the House amendment to the Senate amendment to H.R. 6 made in Senate.
+- 2018-10-03 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 6. by Yea-Nay Vote. 98 - 1. Record Vote Number: 221.
+- 2018-10-03 — Senate agreed to the House amendment to the Senate amendment to H.R. 6. by Yea-Nay Vote. 98 - 1. Record Vote Number: 221.
+- 2018-10-04 — Message on Senate action sent to the House.
+- 2018-10-16 — Presented to President.
+- 2018-10-16 — Presented to President.
+- 2018-10-24 — Became Public Law No: 115-271.
+- 2018-10-24 — Became Public Law No: 115-271.
+- 2018-10-24 — Signed by President.
+- 2018-10-24 — Signed by President.
