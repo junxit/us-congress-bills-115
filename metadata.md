@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6591
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6591
@@ -54,3 +54,12 @@ To designate the facility of the United States Postal Service located at 501 Sou
 - 2018-07-26 — Introduced in House
 - 2018-07-26 — Introduced in House
 - 2018-07-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-28 — Committee on Oversight and Government discharged.
+- 2018-09-28 — Committee on Oversight and Government discharged.
+- 2018-09-28 — Considered by unanimous consent. (consideration: CR H9357-9358)
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Comer asked unanimous consent to discharge from committee and consider.
+- 2018-09-28 — On passage Passed without objection. (text: CR H9357-9358)
+- 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9357-9358)
