@@ -30,7 +30,7 @@ For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3
   - **(8)** The distribution of subsequent offenses, including violent offenses, for offenders in each type of case over which the Commission has jurisdiction.
   - **(9)** The percentage of offenders paroled or re-paroled compared with the percentage of offenders continued to expiration of sentence (less any good time) in each type of case over which the Commission has jurisdiction.
   - **(10)** The percentage of cases (except probable cause hearings and hearings in which a continuance was ordered) in which the primary and secondary examiner disagreed on the appropriate disposition of the case (the amount of time to be served before release), the release conditions to be imposed, or the reasons for the decision in each type of case over which the Commission has jurisdiction.
-  - **(11)** The percentage of decisions within, above, or below the Commission’s decision guidelines for Federal initial hearings (28 C.F.R. 2.20) and Federal and D.C. Code revocation hearings (28 C.F.R. 2.21).
+  - **(11)** The percentage of decisions within, above, or below the Commission’s decision guidelines for Federal initial hearings (28 CFR 2.20) and Federal and D.C. Code revocation hearings (28 CFR 2.21).
   - **(12)** The percentage of revocation and non-revocation hearings in which the offender is accompanied by a representative in each type of case over which the Commission has jurisdiction.
   - **(13)** The number of administrative appeals and the action of the National Appeals Board in relation to those appeals in each type of case over which the Commission has jurisdiction.
   - **(14)** The projected number of Federal offenders that will be under the Commission’s jurisdiction as of October 31, 2021.
@@ -38,7 +38,7 @@ For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3
   - **(16)** The Commission’s annual expenditures for offenders in each type of case over which the Commission has jurisdiction.
   - **(17)** The annual expenditures of the Commission, including travel expenses and the annual salaries of the members and staff of the Commission.
 - **(b)** *Succeeding fiscal years* For each of fiscal years 2019 through 2021, not later than 90 days after the end of the fiscal year, the United States Parole Commission shall report to the Committees on the Judiciary of the Senate and House of Representatives the items in paragraphs (1) through (17) of subsection (a), for the fiscal year.
-- **(c)** *District of Columbia Parole Failure Rate Report* Not later than 180 days after the date of enactment of this Act, the United States Parole Commission shall report to the Committees on the Judiciary of the Senate and House of Representatives the following:
+- **(c)** *District of Columbia parole failure rate report* Not later than 180 days after the date of enactment of this Act, the United States Parole Commission shall report to the Committees on the Judiciary of the Senate and House of Representatives the following:
   - **(1)** The parole failure rate for the District of Columbia for the last full fiscal year immediately preceding the date of the report.
   - **(2)** The factors that cause that parole failure rate.
   - **(3)** Remedial measures that might be undertaken to reduce that parole failure rate.
