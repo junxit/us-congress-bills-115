@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 49
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 49
@@ -22,3 +22,6 @@ A concurrent resolution providing for a correction in the enrollment of S. 2553.
 - 2018-09-28 — Message on Senate action sent to the House.
 - 2018-09-28 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6375; text: CR S6390)
 - 2018-09-28 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6375; text: CR S6390)
+- 2018-10-02 — Passed/agreed to in House: Without objection, the Chair laid before the House S.Con.Res. 49. The concurrent resolution was agreed to and the motion to reconsider was laid on the table.(consideration: CR H9412; text: CR H9412)
+- 2018-10-02 — Received in the House.
+- 2018-10-02 — Without objection, the Chair laid before the House S.Con.Res. 49. The concurrent resolution was agreed to and the motion to reconsider was laid on the table. (consideration: CR H9412; text: CR H9412)
