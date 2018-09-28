@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2152
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2152
 
-That the bill from the Senate (S. 2152) entitled “An Act to amend title 18, United States Code, to provide for assistance for victims of child pornography, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend title 18, United States Code, to provide for assistance for victims of child pornography, and for other purposes.
 
 ## § 1. Short title
 
