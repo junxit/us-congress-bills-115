@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4407
@@ -55,3 +55,7 @@ An act to designate the facility of the United States Postal Service located at 
 - 2018-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6205)
 - 2018-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6205)
 - 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments and an amendment to the title. Without written report.
+- 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments and an amendment to the title. Without written report.
+- 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 596.
