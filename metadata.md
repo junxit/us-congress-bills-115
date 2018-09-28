@@ -1,7 +1,7 @@
 ---
 measure: S. 2515
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2515
@@ -37,3 +37,5 @@ Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governa
 - 2018-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-335.
 - 2018-09-05 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-335.
 - 2018-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
+- 2018-09-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S6391-6397; text: CR S6391-6397)
+- 2018-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6391-6397; text: CR S6391-6397)
