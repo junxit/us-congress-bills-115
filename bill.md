@@ -1,13 +1,15 @@
 ---
 legis-num: S. 1312
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1312
 
-> To prioritize the fight against human trafficking in the United States.
+That the bill from the Senate (S. 1312) entitled “An Act to prioritize the fight against human trafficking in the United States.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; table of contents
 

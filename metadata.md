@@ -1,7 +1,7 @@
 ---
 measure: S. 1312
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1312
@@ -45,9 +45,12 @@ Trafficking Victims Protection Act of 2017
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Judiciary Committee
+- House — Foreign Affairs Committee
+- House — Education and the Workforce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -71,3 +74,21 @@ Trafficking Victims Protection Act of 2017
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-09-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-09-21 — Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.
+- 2018-09-28 — Amendment (A001) offered by Mr. Marino. (consideration: CR H9386-9390; text: CR H9386-9390)
+- 2018-09-28 — Amendment agreed to by House: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — Committee on Education and the Workforce discharged.
+- 2018-09-28 — Committee on Education and the Workforce discharged.
+- 2018-09-28 — Committee on Foreign Affairs discharged.
+- 2018-09-28 — Committee on Foreign Affairs discharged.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Committee on the Judiciary discharged.
+- 2018-09-28 — Considered by unanimous consent. (consideration: CR H9381-9390; text of measure as introduced: CR H9381-9386)
+- 2018-09-28 — House amendment agreed to: On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — House amendment offered
+- 2018-09-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Marino.(consideration: CR H9386-9390; text: CR H9386-9390)
+- 2018-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-09-28 — Mr. Marino asked unanimous consent to discharge from committee and consider.
+- 2018-09-28 — On agreeing to the Marino amendment (A001) Agreed to without objection.
+- 2018-09-28 — On passage Passed without objection.
+- 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
