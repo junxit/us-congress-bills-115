@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1311
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1311
 
-That the bill from the Senate (S. 1311) entitled “An Act to provide assistance in abolishing human trafficking in the United States.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To provide assistance in abolishing human trafficking in the United States.
 
 ## § 1. Short title; table of contents
 
