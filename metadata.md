@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5792
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5792
@@ -52,3 +52,14 @@ To designate the facility of the United States Postal Service located at 90 Nort
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
 - 2018-09-28 — The title of the measure was amended. Agreed to without objection.
 - 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-12 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7528)
+- 2018-12-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7528)
+- 2018-12-13 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-360.
+- 2018-12-21 — Became Public Law No: 115-360.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
