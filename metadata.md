@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6014
@@ -139,3 +139,4 @@ To reauthorize the Family Violence Prevention and Services Act.
 - 2018-09-28 — Mr. Thompson (PA) asked unanimous consent to discharge from committee and consider.
 - 2018-09-28 — On passage Passed without objection. (text: CR H9359)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9359)
+- 2018-10-01 — Received in the Senate.
