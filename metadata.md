@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 634
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 634
@@ -29,3 +29,7 @@ A resolution commemorating the 70th anniversary of the Berlin Airlift and honori
 
 - 2018-09-18 — Introduced in Senate
 - 2018-09-18 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6233)
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.
