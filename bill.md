@@ -24,6 +24,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Macedonia joined NATO’s Partnership for Peace in 1995, joined NATO’s Membership Action Plan in 1999, and is one of the largest per-capita troop contributors to the NATO-led mission in Afghanistan;
 - Whereas, on July 11, 2018, NATO allies formally invited Macedonia to begin accession talks to join the alliance under the name “Republic of North Macedonia”; and
 - Whereas, on July 19, 2018, Macedonia’s parliament unanimously adopted a declaration supporting the country’s bid to join NATO: Now, therefore, be it
+- Whereas, on June 17, 2018, Prime Minister of Greece Alexis Tsipras and Prime Minister of Macedonia Zoran Zaev signed an agreement to officially change the constitutional name of the “Republic of Macedonia” to the “Republic of North Macedonia”;
+- Whereas, on June 12, 2018, the United States Department of State congratulated Prime Ministers Tsipras and Zaev and welcomed their historic agreement to resolve the 27-year long name dispute;
+- Whereas, on June 12, 2018, the European Union’s High Representative for Foreign Affairs and Security Policy, Federica Mogherini, and the European Union’s Commissioner for Neighbourhood Policy and Enlargement Negotiations, Johannes Hahn, issued a joint statement wholeheartedly congratulating Prime Ministers Tsipras and Zaev, their teams, and the people of the two countries, reaffirming that the European Union perspective of the Western Balkans remains the most stabilizing force for the region;
+- Whereas, on June 12, 2018, NATO Secretary General Jens Stoltenberg stated, “This historic agreement is testament to many years of patient diplomacy, and to the willingness of these two leaders to solve a dispute which has affected the region for too long.”;
+- Whereas the agreement paves the way for Macedonia to begin accession talks to join NATO and the European Union;
+- Whereas, on July 5, 2018, Macedonia’s parliament ratified the agreement to rename the country as the “Republic of North Macedonia,” and under the terms of the agreement the Government of Macedonia may hold a public referendum and shall pass a constitutional amendment to rename the country, and the parliament of Greece must vote on ratification of the agreement;
+- Whereas Russia consistently seeks to undermine agreements that enhance European cohesion, broaden the NATO alliance, or strengthen transatlantic partnerships;
+- Whereas the Governments of both Greece and Macedonia have accused the Russian Federation of meddling in their domestic affairs to undermine the name agreement, including by promoting public protests and deepening ties with nationalist organizations;
+- Whereas, on July 11, 2018, the Government of Greece announced the expulsion of two Russian diplomats and barred the entry of two additional Russian diplomats due to their involvement in funding public protests to undermine the name deal;
+- Whereas Greece is a longstanding NATO member and valued United States ally, contributing over 2 percent of its gross domestic product (GDP) to defense and hosting United States Naval Support Activity at Souda Bay;
+- Whereas Macedonia joined NATO’s Partnership for Peace in 1995, commenced NATO’s Membership Action Plan in 1999, and is one of the largest per-capita troop contributors to the NATO-led mission in Afghanistan;
+- Whereas, on July 11, 2018, NATO allies formally invited Macedonia to begin accession talks to join the alliance under the name “Republic of North Macedonia”; and
+- Whereas, on July 19, 2018, Macedonia’s parliament unanimously adopted a declaration supporting the country’s bid to join NATO: Now, therefore, be it
 
 That the Senate—
 

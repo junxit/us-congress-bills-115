@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 602
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 602
@@ -34,3 +34,7 @@ A resolution supporting the agreement between Prime Minister Tsipras of Greece a
 
 - 2018-08-01 — Introduced in Senate
 - 2018-08-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S5586-5587)
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2018-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 610.
