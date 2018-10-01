@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6780
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6780
@@ -44,9 +44,10 @@ To designate the facility of the United States Postal Service located at 7521 Pa
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 7521 Pa
 - 2018-09-28 — Mr. Comer asked unanimous consent to discharge from committee and consider.
 - 2018-09-28 — On passage Passed without objection. (text: CR H9357)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9357)
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
