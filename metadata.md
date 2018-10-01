@@ -1,7 +1,7 @@
 ---
 measure: H.R. 68
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 68
@@ -16,9 +16,10 @@ Tiffany Joslyn Juvenile Accountability Block Grant Program Reauthorization Act o
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Tiffany Joslyn Juvenile Accountability Block Grant Program Reauthorization Act o
 - 2018-09-28 — On agreeing to the Marino amendment (A001) Agreed to without objection.
 - 2018-09-28 — On passage Passed without objection.
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
