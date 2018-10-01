@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6886
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6886
@@ -23,11 +23,12 @@ HEARTS Act of 2018
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Armed Services Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ HEARTS Act of 2018
 - 2018-09-28 — On passage Passed without objection.
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.
 - 2018-09-28 — Referred to the Subcommittee on Health.
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
