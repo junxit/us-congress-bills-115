@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 481
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 481
@@ -16,11 +16,21 @@ A resolution calling upon the leadership of the Government of the Democratic Peo
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (3)
+## Cosponsors (13)
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -30,3 +40,7 @@ A resolution calling upon the leadership of the Government of the Democratic Peo
 
 - 2018-04-24 — Introduced in Senate
 - 2018-04-24 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2393-2394)
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with a preamble. Without written report.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker with an amendment and with a preamble. Without written report.
+- 2018-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 609.
