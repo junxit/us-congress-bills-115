@@ -39,6 +39,10 @@ That the Senate—
   - **(D)** allow the International Committee of the Red Cross entry into the camps to assist with the release and rehabilitation of prisoners;
   - **(E)** allow entry to the United Nations High Commissioner for Human Rights and the United Nations Special Rapporteur on Human Rights in North Korea to monitor the situation and assist with the rehabilitation; and
   - **(F)** comply with international standards of food distribution and monitoring and allow full access to international humanitarian agencies; and
-- **(3)** calls on the United States Government to—
+- **(3)** calls rehabilitation;
+  - **(F)** comply with international standards of food distribution and monitoring and allow full access to international humanitarian agencies; and
+  - **(G)** end the exportation of North Korean forced labor consistent with obligations under United Nations Security Council Resolution 2397 (2017);
+- **(3)** strongly condemns the use of forced labor by the Government of North Korea; and
+- **(4)** calls on the United States Government to—
   - **(A)** continue to pursue any additional sanctions to the extent possible against those individuals responsible for the North Korean labor camp system, including individuals administering such labor camps; and
   - **(B)** continue to raise awareness in the international community of the labor camps and the continuing atrocious crimes being committed in the labor camps.
