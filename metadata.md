@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6896
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6896
@@ -20,9 +20,10 @@ United States Parole Commission Extension Act of 2018
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ United States Parole Commission Extension Act of 2018
 - 2018-09-28 — Mr. Marino asked unanimous consent to discharge from committee and consider.
 - 2018-09-28 — On passage Passed without objection. (text: CR H9392-9393)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9392-9393)
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
