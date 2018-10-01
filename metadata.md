@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6870
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6870
@@ -16,13 +16,14 @@ To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Re
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (5)
+## Committees (6)
 
 - House — Judiciary Committee
 - House — Committee on House Administration
 - House — Agriculture Committee
 - House — Financial Services Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Re
 - 2018-09-28 — Mr. Comer asked unanimous consent to discharge from committee and consider.
 - 2018-09-28 — On passage Passed without objection. (text: CR H9357)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9357)
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
