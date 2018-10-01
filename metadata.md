@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5791
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5791
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 9609 So
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 9609 So
 - 2018-09-28 — Mr. Comer asked unanimous consent to discharge from committee and consider.
 - 2018-09-28 — On passage Passed without objection. (text: CR H9357)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9357)
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
