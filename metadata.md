@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6896
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6896
@@ -38,3 +38,14 @@ United States Parole Commission Extension Act of 2018
 - 2018-09-28 — On passage Passed without objection. (text: CR H9392-9393)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9392-9393)
 - 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6802-6803)
+- 2018-10-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6802-6803)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-24 — Presented to President.
+- 2018-10-24 — Presented to President.
+- 2018-10-31 — Became Public Law No: 115-274.
+- 2018-10-31 — Became Public Law No: 115-274.
+- 2018-10-31 — Signed by President.
+- 2018-10-31 — Signed by President.
