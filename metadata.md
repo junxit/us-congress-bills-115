@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6870
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6870
@@ -50,3 +50,14 @@ To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Re
 - 2018-09-28 — On passage Passed without objection. (text: CR H9357)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9357)
 - 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-10-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6879-6880)
+- 2018-10-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6879-6880)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-24 — Presented to President.
+- 2018-10-24 — Presented to President.
+- 2018-11-03 — Became Public Law No: 115-277.
+- 2018-11-03 — Became Public Law No: 115-277.
+- 2018-11-03 — Signed by President.
+- 2018-11-03 — Signed by President.
