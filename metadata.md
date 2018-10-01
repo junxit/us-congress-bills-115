@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6760
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6760
@@ -59,9 +59,10 @@ Protecting Family and Small Business Tax Cuts Act of 2018
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Gianforte, Greg [R-MT-At Large] (G000584)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -94,3 +95,4 @@ Protecting Family and Small Business Tax Cuts Act of 2018
 - 2018-09-28 — Rule provides for consideration of H.R. 6756, H.R. 6757 and H.R. 6760.
 - 2018-09-28 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2018-09-28 — The previous question was ordered pursuant to the rule.
+- 2018-10-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
