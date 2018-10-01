@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 435
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 435
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that the 85th anniversary of the
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (12)
+## Cosponsors (20)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -30,6 +30,14 @@ A resolution expressing the sense of the Senate that the 85th anniversary of the
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -39,3 +47,7 @@ A resolution expressing the sense of the Senate that the 85th anniversary of the
 
 - 2018-03-14 — Introduced in Senate
 - 2018-03-14 — Referred to the Committee on Foreign Relations. (text of measure as introduced:  CR S1737)
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
+- 2018-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
