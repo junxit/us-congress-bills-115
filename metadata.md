@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6964
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6964
@@ -36,3 +36,5 @@ Juvenile Justice Reform Act of 2018
 - 2018-09-28 — On passage Passed without objection. (text: CR H9359-9369)
 - 2018-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9359-9369)
 - 2018-09-28 — Referred to the House Committee on Education and the Workforce.
+- 2018-10-01 — Received in the Senate.
+- 2018-10-02 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.
