@@ -1,7 +1,7 @@
 ---
 measure: S. 2515
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2515
@@ -25,9 +25,10 @@ Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governa
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governa
 - 2018-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
 - 2018-09-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S6391-6397; text: CR S6391-6397)
 - 2018-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6391-6397; text: CR S6391-6397)
+- 2018-10-01 — Message on Senate action sent to the House.
+- 2018-10-02 — Received in the House.
+- 2018-10-02 — Referred to the House Committee on Natural Resources.
