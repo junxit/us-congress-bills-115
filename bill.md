@@ -1,0 +1,18 @@
+---
+legis-num: S. 3536
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3536
+
+> To amend the Economic Growth, Regulatory Relief, and Consumer Protection Act to clarify seasoning requirements for certain refinanced mortgage loans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Affordable Mortgages for Veterans Act of 2018”.
+
+## § 2. Requirements for Ginnie Mae guarantee of securities
+
+Section 306(g)(1) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by striking the second sentence (as added by section 309(b) of Public Law 115–174) and inserting the following: “The Association is authorized to take actions to protect the integrity of its securities from practices that it deems in good faith to represent abusive refinancing activities, and nothing in the Protect Affordable Mortgages for Veterans Act of 2018, the amendment made by such Act, or this title may be construed to limit such authority.”.
