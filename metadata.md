@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6737
 congress: 115
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6737
@@ -22,9 +22,10 @@ Protect Affordable Mortgages for Veterans Act of 2018
 - Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,5 @@ Protect Affordable Mortgages for Veterans Act of 2018
 - 2018-09-26 — Placed on the Union Calendar, Calendar No. 768.
 - 2018-09-26 — Reported by the Committee on Financial Services. H. Rept. 115-983.
 - 2018-09-26 — Reported by the Committee on Financial Services. H. Rept. 115-983.
+- 2018-09-27 — Received in the Senate.
+- 2018-10-02 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

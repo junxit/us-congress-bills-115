@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6737
 congress: 115
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1721` | strike | Paragraph (1) of section 306(g) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by striking the second sentence (as added by section 309(b) of Public Law 115–174). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1721` | replace | Paragraph (1) of section 306(g) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by striking the second sentence (as added by section 309(b) of Public Law 115–174) and inserting the following: “The Association is authorized … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
