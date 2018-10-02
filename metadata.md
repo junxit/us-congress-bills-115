@@ -1,7 +1,7 @@
 ---
 measure: S. 1896
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1896
@@ -24,3 +24,7 @@ TSA LEAP Pay Reform Act of 2018
 
 - 2017-09-28 — Introduced in Senate
 - 2017-09-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-06-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2018-10-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 614.
