@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3359
@@ -87,3 +87,14 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 - 2018-10-03 — Senate amendment proposed (on the floor): Amendment SA 4044 proposed by Senator Sullivan for Senator Murkowski to Amendment SA 4043.(consideration: CR S6503)
 - 2018-10-03 — Senate amendment submitted
 - 2018-10-03 — Senate amendment submitted
+- 2018-10-04 — Message on Senate action sent to the House.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. McCaul asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9501-9506)
+- 2018-11-13 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H9501-9506)
+- 2018-11-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H9501-9506)
+- 2018-11-14 — Presented to President.
+- 2018-11-14 — Presented to President.
+- 2018-11-16 — Became Public Law No: 115-278.
+- 2018-11-16 — Became Public Law No: 115-278.
+- 2018-11-16 — Signed by President.
+- 2018-11-16 — Signed by President.
