@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 412
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 412
@@ -24,3 +24,7 @@ A resolution expressing the sense of the Senate regarding the 6888th Central Pos
 
 - 2018-02-15 — Introduced in Senate
 - 2018-02-15 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S1169)
+- 2018-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-10-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-10-03 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6504)
+- 2018-10-03 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6504)
