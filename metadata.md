@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3359
@@ -16,7 +16,7 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
@@ -29,6 +29,7 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 - Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 - Rep. King, Peter T. [R-NY-2] (K000210)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 
 ## Committees (5)
 
@@ -70,3 +71,19 @@ Cybersecurity and Infrastructure Security Agency Act of 2018
 - 2017-12-11 — Reported by the Committee on Homeland Security. H. Rept. 115-454, Part I.
 - 2017-12-11 — Reported by the Committee on Homeland Security. H. Rept. 115-454, Part I.
 - 2017-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-02-07 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2018-10-03 — Amendment SA 4043 agreed to in Senate by Unanimous Consent.
+- 2018-10-03 — Amendment SA 4043 proposed by Senator Sullivan for Senator Johnson. (consideration: CR S6503) In the nature of a substitute.
+- 2018-10-03 — Amendment SA 4044 agreed to in Senate by Unanimous Consent.
+- 2018-10-03 — Amendment SA 4044 proposed by Senator Sullivan for Senator Murkowski to Amendment SA 4043. (consideration: CR S6503) To improve the amendment.
+- 2018-10-03 — Measure laid before Senate by unanimous consent. (consideration: CR S6503)
+- 2018-10-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-10-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-10-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-10-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-10-03 — Senate amendment agreed to: Amendment SA 4043 agreed to in Senate by Unanimous Consent.
+- 2018-10-03 — Senate amendment agreed to: Amendment SA 4044 agreed to in Senate by Unanimous Consent.
+- 2018-10-03 — Senate amendment proposed (on the floor): Amendment SA 4043 proposed by Senator Sullivan for Senator Johnson.(consideration: CR S6503)
+- 2018-10-03 — Senate amendment proposed (on the floor): Amendment SA 4044 proposed by Senator Sullivan for Senator Murkowski to Amendment SA 4043.(consideration: CR S6503)
+- 2018-10-03 — Senate amendment submitted
+- 2018-10-03 — Senate amendment submitted
