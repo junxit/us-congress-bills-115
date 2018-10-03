@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1677
@@ -159,3 +159,7 @@ Caesar Syria Civilian Protection Act of 2018
 - 2017-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4281-4286)
 - 2017-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4281-4286)
 - 2017-05-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-10-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-10-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
