@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 435
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 435
@@ -51,3 +51,5 @@ A resolution expressing the sense of the Senate that the 85th anniversary of the
 - 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-10-01 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
+- 2018-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S6503-6504; text: CR S6503-6504)
+- 2018-10-03 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S6503-6504; text: CR S6503-6504)
