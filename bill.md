@@ -60,52 +60,31 @@ In this Act:
 - **(3)** *Colville Tribes* The term Colville Tribes means the Confederated Tribes of the Colville Reservation.
 - **(4)** *Computed Annual Payment* The term Computed Annual Payment means the payment calculated under paragraph 2.b. of the Colville Settlement Agreement, without regard to any increase or decrease in the payment under section 2.d. of the agreement.
 - **(5)** *Confederated Tribes Act* The term Confederated Tribes Act means the Confederated Tribes of the Colville Reservation Grand Coulee Dam Settlement Act (Public Law 103–436; 108 Stat. 4577).
-- **(6)** *Fund* The term Fund means the Spokane Tribe of Indians Recovery Trust Fund established by section 5.
-- **(76)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(87)** *Spokane Business Council* The term Spokane Business Council means the governing body of the Spokane Tribe under the constitution of the Spokane Tribe.
-- **(98)** *Spokane Tribe* The term Spokane Tribe means the Spokane Tribe of Indians of the Spokane Reservation, Washington.
+- **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(7)** *Spokane Business Council* The term Spokane Business Council means the governing body of the Spokane Tribe under the constitution of the Spokane Tribe.
+- **(8)** *Spokane Tribe* The term Spokane Tribe means the Spokane Tribe of Indians of the Spokane Reservation, Washington.
 
-## § 5. Spokane Tribe of Indians Recovery Trust Fund
-
-- **(a)** *Establishment of fund* There is established in the Treasury of the United States a separate account to be known as the “Spokane Tribe of Indians Recovery Trust Fund”, consisting of—
-  - **(1)** amounts deposited in the Fund under subsection (b); and
-  - **(2)** any interest earned on investment of amounts in the Fund.
-- **(b)** *Deposits* On October 1 of the first fiscal year after the date of enactment of this Act, the Secretary of the Treasury shall, from the general fund of the Treasury, deposit in the Fund $53,000,000.
-- **(c)** *Maintenance and investment of Fund* The Fund shall be maintained and invested by the Secretary in accordance with the Act of June 24, 1938 (25 U.S.C. 162a).
-- **(d)** *Payments to the Spokane Tribe*
-  - **(1)** *In general* At any time after the date on which the Spokane Business Council has adopted a plan described in subsection (e) and after amounts are deposited in the Fund, the Spokane Business Council may request that all or a portion of the amounts in the Fund be disbursed to the Spokane Tribe by submitting to the Secretary written notice of the adoption by the Spokane Business Council of a resolution requesting the disbursement.
-  - **(2)** *Payment* Not later than 60 days after the date on which the Secretary receives notice under paragraph (1), the Secretary shall disburse the amounts requested from the Fund to the Spokane Tribe.
-- **(e)** *Plan*
-  - **(1)** *In general* Not later than 18 months after the date of enactment of this Act, the Spokane Business Council shall prepare a plan that describes the manner in which the Spokane Tribe intends to use amounts received under subsection (d) to promote—
-    - **(A)** economic development;
-    - **(B)** infrastructure development;
-    - **(C)** educational, health, recreational, and social welfare objectives of the Spokane Tribe and the members of the Spokane Tribe; or
-    - **(D)** any combination of the activities described in subparagraphs (A) through (C).
-  - **(2)** *Review and revision*
-    - **(A)** *In general* The Spokane Business Council shall make available to the members of the Spokane Tribe for review and comment a copy of the plan before the date on which the plan is final, in accordance with procedures established by the Spokane Business Council.
-    - **(B)** *Updates* The Spokane Business Council may update the plan on an annual basis, subject to the condition that the Spokane Business Council provides the members of the Spokane Tribe an opportunity to review and comment on the updated plan.
-
-## § 65. Payments by Administrator
+## § 5. Payments by Administrator
 
 - **(a)** *Initial payment* On March 1, 2020, the Administrator shall pay to the Spokane Tribe an amount equal to 25 percent of the Computed Annual Payment for fiscal year 2019.
 - **(b)** *Subsequent payments*
   - **(1)** *In general* Not later than March 1, 2021, and March 1 of each year thereafter through March 1, 2029, the Administrator shall pay the Spokane Tribe an amount equal to 25 percent of the Computed Annual Payment for the preceding fiscal year.
   - **(2)** *March 1, 2030, and subsequent years* Not later than March 1, 2030, and March 1 of each year thereafter, the Administrator shall pay the Spokane Tribe an amount equal to 32 percent of the Computed Annual Payment for the preceding fiscal year.
 
-## § 76. Treatment after amounts are paid
+## § 6. Treatment after amounts are paid
 
-- **(a)** *Use of payments* Payments made to the Spokane Business Council or Spokane Tribe under section 5 or 6 may be used or invested by the Spokane Business Council in the same manner and for the same purposes as other Spokane Tribe governmental amounts.
-- **(b)** *No trust responsibility of the Secretary* Neither the Secretary nor the Administrator shall have any trust responsibility for the investment, supervision, administration, or expenditure of any amounts after the date on which the funds are paid to the Spokane Business Council or Spokane Tribe under section 5 or 6.
-- **(c)** *Treatment of funds for certain purposes* The payments of all amounts to the Spokane Business Council and Spokane Tribe under section 5 sections 5 and 6, and the interest and income generated by those amounts, shall be treated in the same manner as payments under section 6 of the Saginaw Chippewa Indian Tribe of Michigan Distribution of Judgment Funds Act (100 Stat. 677).
-- **(d)** *Tribal audit* After the date on which amounts are paid to the Spokane Business Council or Spokane Tribe under section 5 or 6, the amounts shall—
+- **(a)** *Use of payments* Payments made to the Spokane Business Council or Spokane Tribe under section 5 may be used or invested by the Spokane Business Council in the same manner and for the same purposes as other Spokane Tribe governmental amounts.
+- **(b)** *No trust responsibility of the Secretary* Neither the Secretary nor the Administrator shall have any trust responsibility for the investment, supervision, administration, or expenditure of any amounts after the date on which the funds are paid to the Spokane Business Council or Spokane Tribe under section 5.
+- **(c)** *Treatment of funds for certain purposes* The payments of all amounts to the Spokane Business Council and Spokane Tribe under section 5, and the interest and income generated by those amounts, shall be treated in the same manner as payments under section 6 of the Saginaw Chippewa Indian Tribe of Michigan Distribution of Judgment Funds Act (100 Stat. 677).
+- **(d)** *Tribal audit* After the date on which amounts are paid to the Spokane Business Council or Spokane Tribe under section 5, the amounts shall—
   - **(1)** constitute Spokane Tribe governmental amounts; and
   - **(2)** be subject to an annual tribal government audit.
 
-## § 87. Repayment credit
+## § 7. Repayment credit
 
 - **(a)** *In general* The Administrator shall deduct from the interest payable to the Secretary of the Treasury from net proceeds (as defined in section 13 of the Federal Columbia River Transmission System Act (16 U.S.C. 838k))—
   - **(1)** in fiscal year 2030, $2,700,000; and
-  - **(2)** in each subsequent fiscal year in which the Administrator makes a payment under section 5 section 6, $2,700,000.
+  - **(2)** in each subsequent fiscal year in which the Administrator makes a payment under section 5, $2,700,000.
 - **(b)** *Crediting*
   - **(1)** *In general* Except as provided in paragraphs (2) and (3), each deduction made under this section for the fiscal year shall be—
     - **(A)** a credit to the interest payments otherwise payable by the Administrator to the Secretary of the Treasury during the fiscal year in which the deduction is made; and
@@ -113,10 +92,10 @@ In this Act:
   - **(2)** *Deduction greater than amount of interest* If, in an applicable fiscal year under paragraph (1), the deduction is greater than the amount of interest due on debt associated with the generation function for the fiscal year, the amount of the deduction that exceeds the interest due on debt associated with the generation function shall be allocated pro rata to all other interest payments due during the fiscal year.
   - **(3)** *Credit* To the extent that a deduction exceeds the total amount of interest described in paragraphs (1) and (2), the deduction shall be applied as a credit against any other payments that the Administrator makes to the Secretary of the Treasury.
 
-## § 98. Extinguishment of claims
+## § 8. Extinguishment of claims
 
-On the deposit of amounts in the Fund under section 5On the date that payment under section 5(a) is made to the Spokane Tribe, all monetary claims that the Spokane Tribe has or may have against the United States to a fair share of the annual hydropower revenues generated by the Grand Coulee Dam project for the past and continued use of land of the Spokane Tribe for the production of hydropower at Grand Coulee Dam shall be extinguished.
+On the date that payment under section 5(a) is made to the Spokane Tribe, all monetary claims that the Spokane Tribe has or may have against the United States to a fair share of the annual hydropower revenues generated by the Grand Coulee Dam project for the past and continued use of land of the Spokane Tribe for the production of hydropower at Grand Coulee Dam shall be extinguished.
 
-## § 109. Administration
+## § 9. Administration
 
 Nothing in this Act establishes any precedent or is binding on the Southwestern Power Administration, Western Area Power Administration, or Southeastern Power Administration.
