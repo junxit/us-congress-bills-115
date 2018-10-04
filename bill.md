@@ -9,44 +9,69 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To establish a procedure for the conveyance of certain Federal property around the Dickinson Reservoir in the State of North Dakota.
 
-## § 1. Patterson Lake land conveyances
+## § 1. Definitions
 
-- **(a)** *Definitions* In this section:
-  - **(1)** *Department* The term Department means Dickinson Parks & Recreation in Dickinson, North Dakota (or a successor in interest to that entity).
-  - **(2)** *Dickinson Reservoir* The term “Dickinson Reservoir” means the Dickinson Reservoir constructed as part of the Dickinson Unit, Heart Division, Pick-Sloan Missouri Basin Program, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
-  - **(3)** *Permittee* The term permittee means the holder of a permit for a property.
-  - **(4)** *Property* The term property means any one of the cabin sites located on Federal property around the Dickinson Reservoir for which a permit is in effect on the date of enactment of this Act.
-  - **(5)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Commissioner of Reclamation.
-- **(b)** *Purchase of property by permittee; transfers to Department*
-  - **(1)** *Option* The Secretary shall provide to the permittee of a property the first option to purchase that property in accordance with paragraph (3) for fair market value, subject to the condition that the permittee shall pay to the Department any outstanding permit fees before the permittee may exercise the option to purchase.
-  - **(2)** *Determination of fair market value*
-    - **(A)** *In general* For purposes of this subsection, the fair market value of a property shall be determined by a local, third-party appraiser, valuing the property as unimproved residential property, excluding all improvements.
-    - **(B)** *Disputes* Any dispute regarding the fair market value of a property shall be resolved in accordance with section 2201.4 of title 43, Code of Federal Regulations (or successor regulations).
-  - **(3)** *Purchase*
-    - **(A)** *In general* On an election by a permittee to exercise the option to purchase a property pursuant to paragraph (1), the Secretary shall convey to the permittee, for fair market value—
-      - **(i)** all right, title, and interest of the United States in and to the property, subject to valid existing rights; and
-      - **(ii)** easements for—
-        - **(I)** vehicular access to the property;
-        - **(II)** access to, and use of, a dock for the property; and
-        - **(III)** access to, and use of, all boathouses, ramps, retaining walls, and other improvements for which access is provided in the permit for use of the property as of the date of enactment of this Act.
-    - **(B)** *Period for conveyance* The Secretary shall convey to a permittee a property pursuant to subparagraph (A) during the period—
-      - **(i)** beginning on the date of enactment of this Act; and
-      - **(ii)** ending on the date that is 2 years after that date of enactment.
-  - **(4)** *Transfers to Department*
-    - **(A)** *Failure to purchase* If a permittee fails to exercise the option to purchase a property under paragraph (3) by the date that is 2 years after the date of enactment of this Act, the Secretary shall transfer the property to the Department, without cost.
-    - **(B)** *Certain other land* Effective beginning on the date that is 2 years after the date of enactment of this Act, the Secretary shall transfer to the Department, without cost, land managed by the Department as of the date of enactment, on which no cabin is located.
-- **(c)** *Oil, gas, mineral, and other outstanding rights* Each conveyance to a permittee, and each transfer to the Department, pursuant to subsection (b) shall be made subject to—
-  - **(1)** oil, gas, and other mineral rights reserved of record, as of the date of enactment of this Act, by, or in favor of, a third party; and
-  - **(2)** any permit, license, lease, right-of-use, or right-of-way of record in, on, over, or across the applicable property or land that is outstanding to a third party as of the date of enactment of this Act.
-- **(d)** *Liability; taking*
-  - **(1)** *Liability* The United States shall not be liable for flood damage to the personal property of a permittee or for damages arising out of any act, omission, or occurrence relating to a lot to which a permit applies, other than for damages caused by an act or omission of the United States or an employee, agent, or contractor of the United States before the date of enactment of this Act.
-  - **(2)** *Taking* Any temporary flooding or flood damage to the personal property of a permittee shall not be considered to be a taking by the United States.
-- **(e)** *Requirements relating to conveyances and transfers*
-  - **(1)** *Interim requirements* During the period beginning on the date of enactment of this Act and ending on the date of conveyance or transfer of a property or land, the provisions of the document entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of Lands and Recreation Facilities at Dickinson Reservoir” that are applicable to the property or land shall remain in force and effect.
-  - **(2)** *Legal descriptions* Not later than 180 days after the date of enactment of this Act, the Secretary, in consultation with the Department, shall provide to the Department a legal description of all properties and land that may be conveyed or transferred pursuant to this section.
-  - **(3)** *Restriction on conveyance* Effective beginning on the date of enactment of this Act—
-    - **(A)** a permittee may not build any new permanent structure below an elevation of 2,430 feet; and
-    - **(B)** if a permittee builds a structure described in subparagraph (A), the property of the permittee shall revert to the Department.
-- **(f)** *Proceeds from sales of Federal land* Any revenues from a sale of Federal land pursuant to this section shall be made available to the Secretary, without further appropriation, for—
-  - **(1)** the costs to the Secretary of carrying out this section; and
-  - **(2)** deferred maintenance activities relating to the operation of the dam in the Dickinson Reservoir.
+In this Act:
+
+- **(1)** *Department* The term Department means Dickinson Parks & Recreation in Dickinson, North Dakota.
+- **(2)** *Dickinson reservoir* The term Dickinson Reservoir means the Dickinson Reservoir constructed as part of the Dickinson Unit, Heart Division, Pick-Sloan Missouri Basin Program, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
+- **(3)** *Game and fish headquarters* The term game and fish headquarters means the approximately 10 acres of land depicted as “Game and Fish Headquarters” on the Map.
+- **(4)** *Management agreement* The term Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of Lands and Recreation Facilities at Dickinson Reservoir”, MA No. 07AG602222, Modification No. 1 and dated March 15, 2017.
+- **(5)** *Map* The term Map means the map prepared by the Bureau of Reclamation, entitled “Dickinson Reservoir”, and dated May 2018.
+- **(6)** *Permitted cabin land* The term permitted cabin land means the land depicted as “Permitted Cabin Land” on the Map.
+- **(7)** *Property* The term property means any cabin site located on permitted cabin land for which a permit is in effect on the date of enactment of this Act.
+- **(8)** *Recreation land* The term recreation land means the land depicted as “Recreation and Public Purpose Lands” on the Map.
+- **(9)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Commissioner of Reclamation.
+- **(10)** *State* The term State means the State of North Dakota, acting through the North Dakota Game and Fish Department.
+
+## § 2. Conveyances to dickinson department of parks and recreation
+
+- **(a)** *Conveyances to dickinson department of parks and recreation*
+  - **(1)** *In general* Subject to the management requirements of paragraph (3) and the easements and reservations under section 4, not later than 5 years after the date of enactment of this Act, the Secretary shall convey to the Department all right, title, and interest of the United States in and to—
+    - **(A)** the recreation land; and
+    - **(B)** the permitted cabin land.
+  - **(2)** *Costs*
+    - **(A)** *In general* Except as provided in subparagraph (B), the Secretary shall convey the land described in paragraph (1) at no cost.
+    - **(B)** *Title transfer; land surveys* As a condition of the conveyances under paragraph (1), the Department shall agree to pay all survey and other administrative costs necessary for the preparation and completion of any patents for, and transfers of title to, the land described in paragraph (1).
+  - **(3)** *Management*
+    - **(A)** *Recreation land* The Department shall manage the recreation land conveyed under paragraph (1)—
+      - **(i)** for recreation and public purposes consistent with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (44 Stat. 741, chapter 578; 43 U.S.C. 869 et seq.);
+      - **(ii)** for public access;
+      - **(iii)** for fish and wildlife habitat; or
+      - **(iv)** to preserve the natural character of the recreation land.
+    - **(B)** *Permitted cabin land* The Department shall manage the permitted cabin land conveyed under paragraph (1)—
+      - **(i)** for cabins or recreational residences in existence as of the date of enactment of this Act; or
+      - **(ii)** for any of the recreation land management purposes described in subparagraph (A).
+  - **(4)** *Haying and grazing* With respect to recreation land conveyed under paragraph (1) that is used for haying or grazing authorized by the Management Agreement as of the date of enactment of this Act, the Department may continue to permit haying and grazing in a manner that is permissible under the 1 or more haying or grazing contracts in effect as of the date of enactment of this Act.
+- **(b)** *Reversion* If a parcel of land conveyed under subparagraph (A) or (B) of subsection (a)(1) is used in a manner that is inconsistent with the requirements described in subparagraph (A) or (B), respectively, of subsection (a)(3), the parcel of land shall, at the discretion of the Secretary, revert to the United States.
+- **(c)** *Sale of permitted cabin land by department*
+  - **(1)** *In General* If the Department sells any parcel of permitted cabin land conveyed under subsection (a)(1)(B), the parcel shall be sold at fair market value, as determined by a third-party appraiser in accordance with the Uniform Standards of Professional Appraisal Practice, subject to paragraph (2).
+  - **(2)** *Improvements* For purposes of an appraisal conducted under paragraph (1), any improvements on the permitted cabin land made by the permit holder shall not be included in the appraised value of the land.
+  - **(3)** *Proceeds from the Sale of Land by the Department* If the Department sells a parcel of permitted cabin land conveyed under subsection (a)(1)(B), the Department shall pay to the Secretary the amount of any proceeds of the sale that exceed the costs of preparing the sale by the Department.
+- **(d)** *Availability of funds to the Secretary* Any amounts paid to the Secretary for land conveyed by the Secretary under this Act shall be made available to the Secretary, without further appropriation, for activities relating to the operation of the Dickinson Dam and Reservoir.
+
+## § 3. Conveyance of game and fish headquarters to the State
+
+- **(a)** *Conveyance of game and fish headquarters* Not later than 5 years after the date of enactment of this Act, the Secretary shall convey to the State all right, title, and interest of the United States in and to the game and fish headquarters, on the condition that the game and fish headquarters continue to be used as a game and fish headquarters or substantially similar purposes.
+- **(b)** *Reversion* If land conveyed under subsection (a) is used in a manner that is inconsistent with the requirements described in that subsection, the land shall, at the discretion of the Secretary, revert to the United States.
+
+## § 4. Reservations, easements, and other outstanding rights
+
+- **(a)** *In general* Each conveyance to the Department or the State pursuant to this Act shall be made subject to—
+  - **(1)** valid existing rights;
+  - **(2)** operational requirements of the Pick-Sloan Missouri River Basin Program, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665), including the Dickinson Reservoir;
+  - **(3)** any flowage easement reserved by the United States to allow full operation of Dickinson Reservoir for authorized purposes;
+  - **(4)** reservations described in the Management Agreement;
+  - **(5)** oil, gas, and other mineral rights reserved of record, as of the date of enactment of this Act, by, or in favor of, the United States or a third party;
+  - **(6)** any permit, license, lease, right-of-use, flowage easement, or right-of-way of record in, on, over, or across the applicable property or Federal land, whether owned by the United States or a third party, as of the date of enactment of this Act;
+  - **(7)** a deed restriction that prohibits building any new permanent structure on property below an elevation of 2,430.6 feet; and
+  - **(8)** the granting of applicable easements for—
+    - **(A)** vehicular access to the property; and
+    - **(B)** access to, and use of, all docks, boathouses, ramps, retaining walls, and other improvements for which access is provided in the permit for use of the property as of the date of enactment of this Act.
+- **(b)** *Liability; taking*
+  - **(1)** *Liability* The United States shall not be liable for flood damage to a property subject to a permit, the Department, or the State, or for damages arising out of any act, omission, or occurrence relating to a permit holder, the Department, or the State, other than for damages caused by an act or omission of the United States or an employee, agent, or contractor of the United States before the date of enactment of this Act.
+  - **(2)** *Taking* Any temporary flooding or flood damage to the property of a permit holder, the Department, or the State, shall not be considered to be a taking by the United States.
+
+## § 5. Interim requirements
+
+During the period beginning on the date of enactment of this Act and ending on the date of conveyance of a property or parcel of land under this Act, the provisions of the Management Agreement that are applicable to the property or land, or to leases between the State and the Secretary, and any applicable permits, shall remain in force and effect.
