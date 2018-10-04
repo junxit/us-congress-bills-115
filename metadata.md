@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 642
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 642
@@ -53,3 +53,13 @@ A resolution designating the week of September 15 through September 22, 2018, as
 
 - 2018-09-18 — Introduced in Senate
 - 2018-09-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6236)
+- 2018-10-04 — Amendment SA 4045 agreed to in Senate by Unanimous Consent.
+- 2018-10-04 — Amendment SA 4045 proposed by Senator McConnell for Senator Whitehouse. (consideration: CR S6545; text: CR S6545) To amend the preamble.
+- 2018-10-04 — Measure laid before Senate by unanimous consent. (consideration: CR S6545-6546)
+- 2018-10-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S6545-6546)
+- 2018-10-04 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S6545-6546)
+- 2018-10-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-10-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-10-04 — Senate amendment agreed to: Amendment SA 4045 agreed to in Senate by Unanimous Consent.
+- 2018-10-04 — Senate amendment proposed (on the floor): Amendment SA 4045 proposed by Senator McConnell for Senator Whitehouse.(consideration: CR S6545; text: CR S6545)
+- 2018-10-04 — Senate amendment submitted
