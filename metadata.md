@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 63
 congress: 115
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 63
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Cosponsors (30)
+## Cosponsors (47)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -48,6 +48,23 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -57,3 +74,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2018-08-28 — Introduced in Senate
 - 2018-08-28 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-10-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
+- 2018-10-09 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2018-10-09 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
