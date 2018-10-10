@@ -1,7 +1,7 @@
 ---
 measure: S. 1305
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1305
@@ -32,3 +32,5 @@ U.S. Customs and Border Protection Hiring and Retention Act of 2017
 - 2018-06-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-270.
 - 2018-06-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-270.
 - 2018-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
+- 2018-10-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6774-6775; text: CR S6774-6775)
+- 2018-10-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6774-6775; text: CR S6774-6775)

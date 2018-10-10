@@ -19,88 +19,114 @@ This Act may be cited as the “U.S. Customs and Border Protection Hiring and Re
   > ## § 9702. U.S. Customs and Border Protection employment authorities
   >
   > - **(a)** *Definitions* In this section—
-  >   - **(1)** the term Commissioner means the Commissioner of U.S. Customs and Border Protection;
-  >   - **(2)** the term covered CBP employee means—
-  >     - **(A)** a customs and border protection officer, as defined in section 8331(31); and
-  >     - **(B)** a border patrol agent, as defined in section 5550(a);
+  >   - **(1)** the term CBP employee means an employee of U.S. Customs and Border Protection;
+  >   - **(2)** the term Commissioner means the Commissioner of U.S. Customs and Border Protection;
   >   - **(3)** the term Director means the Director of the Office of Personnel Management;
-  >   - **(4)** the term local infrastructure means—
-  >     - **(A)** established communities;
-  >     - **(B)** suitable places of residence, including sufficient affordable housing choices;
-  >     - **(C)** amenities and services, including medical care, child care, and schools, that contribute to quality of life;
-  >     - **(D)** consumer goods and services; or
-  >     - **(E)** other local infrastructure, as determined by the Commissioner; and
-  >   - **(5)** the term rural or remote area means an area within the United States—
-  >     - **(A)** in which a facility of U.S. Customs and Border Protection is located;
-  >     - **(B)** that is so distant from the nearest local infrastructure as to require an appreciable degree of expense, hardship, and inconvenience, beyond that normally encountered in metropolitan life, on the part of an individual living or working in the area; and
-  >     - **(C)** that—
-  >       - **(i)** has not been defined and designated as an urbanized area by the Bureau of the Census during the most recently completed decennial census; or
-  >       - **(ii)** has been determined by the Commissioner to be a rural or remote area based on any other factors that the Commissioner considers relevant.
-  > - **(b)** *Demonstration of recruitment and retention difficulties in rural or remote areas* For purposes of subsections (c), (d), and (e), the Commissioner shall demonstrate a direct relationship between the rural or remote nature of a rural or remote area, and difficulty in the recruitment and retention of covered CBP employees in the area, by providing evidence—
-  >   - **(1)** that the Commissioner—
-  >     - **(A)** is unable to efficiently and effectively recruit individuals for positions as covered CBP employees, which may be demonstrated with various types of evidence, including—
-  >       - **(i)** evidence that multiple positions have been continuously vacant for significantly longer than the national average period for which similar positions in U.S. Customs and Border Protection are vacant; or
-  >       - **(ii)** recruitment studies that demonstrate the inability of the Commissioner to efficiently and effectively recruit covered CBP employees for positions in the area; or
-  >     - **(B)** experiences a consistent inability to retain covered CBP employees that negatively impacts agency operations at a local or regional level; or
-  >   - **(2)** of any other inability, directly related to recruitment or retention difficulties, that the Commissioner determines sufficient.
+  >   - **(4)** the term rural or remote area means an area within the United States that is not within an area defined and designated as an urbanized area by the Bureau of the Census in the most recently completed decennial census; and
+  >   - **(5)** the term Secretary means the Secretary of Homeland Security.
+  > - **(b)** *Demonstration of recruitment and retention difficulties in rural or remote areas*
+  >   - **(1)** *In general* For purposes of subsections (c) and (d), the Secretary shall determine, for a rural or remote area, whether there is—
+  >     - **(A)** a critical hiring need in the area; and
+  >     - **(B)** a direct relationship between—
+  >       - **(i)** the rural or remote nature of the area; and
+  >       - **(ii)** difficulty in the recruitment and retention of CBP employees in the area.
+  >   - **(2)** *Factors* To inform the determination of a direct relationship under paragraph (1)(B), the Secretary may consider evidence—
+  >     - **(A)** that the Secretary—
+  >       - **(i)** is unable to efficiently and effectively recruit individuals for positions as CBP employees, which may be demonstrated with various types of evidence, including—
+  >         - **(I)** evidence that multiple positions have been continuously vacant for significantly longer than the national average period for which similar positions in U.S. Customs and Border Protection are vacant; and
+  >         - **(II)** recruitment studies that demonstrate the inability of the Secretary to efficiently and effectively recruit CBP employees for positions in the area; or
+  >       - **(ii)** experiences a consistent inability to retain CBP employees that negatively impacts agency operations at a local or regional level; or
+  >     - **(B)** of any other inability, directly related to recruitment or retention difficulties, that the Secretary determines sufficient.
   > - **(c)** *Direct hire authority; recruitment and relocation bonuses; retention bonuses*
   >   - **(1)** *Direct hire authority*
-  >     - **(A)** *In general* In addition to the authority under section 3304(a)(3)(B), the Commissioner may appoint, without regard to the provision of sections 3309 through 3318, candidates to positions as covered CBP employees if the Commissioner determines that there exists a severe shortage of highly qualified candidates because the positions are in a rural or remote area.
-  >     - **(B)** *Prioritization of hiring veterans* If the Commissioner uses the direct hiring authority under subparagraph (A), the Commissioner shall work to prioritize the hiring of veterans by following the principles contained in part 307 of title 5, Code of Federal Regulations, or any successor regulation, regarding the appointment of qualified veterans to the competitive service.
-  >   - **(2)** *Recruitment and relocation bonuses* The Commissioner may pay a bonus to an individual if the Commissioner determines that—
-  >     - **(A)** the conditions under paragraphs (1) and (2) of subsection (b) of section 5753 are satisfied with respect to the individual (without regard to any other provision of that section); and
-  >     - **(B)** the position to which the individual is appointed or to which the individual moves or must relocate—
-  >       - **(i)** is a position as a covered CBP employee; and
-  >       - **(ii)** is in a rural or remote area.
-  >   - **(3)** *Retention bonuses* The Commissioner may pay a retention bonus to a covered CBP employee if the Commissioner determines that—
-  >     - **(A)** the condition under subsection (b)(1) of section 5754 is satisfied (without regard to any other provision of that section);
-  >     - **(B)** the covered CBP employee is employed in a rural or remote area; and
-  >     - **(C)** in the absence of a retention bonus, the covered CBP employee would be likely to leave—
-  >       - **(i)** the Federal service; or
-  >       - **(ii)** for a different position in the Federal service, including a position in another agency or component of the Department of Homeland Security.
-  >   - **(4)** *OPM oversight* The Director—
-  >     - **(A)** may set aside a determination of the Commissioner under this subsection only if the Director finds substantial evidence that the Commissioner abused the discretion of the Commissioner in making the determination; and
-  >     - **(B)** shall oversee the compliance of the Commissioner with this subsection.
-  > - **(d)** *Special pay authority* In addition to the circumstances described in subsection (b) of section 5305, the Director may establish special rates of pay in accordance with that section if the Director finds that the recruitment or retention efforts of the Commissioner with respect to positions for covered CBP employees in one or more areas or locations are, or are likely to become, significantly handicapped because the positions are located in a rural or remote area.
-  > - **(e)** *Allowance based on duty at remote worksites*
-  >   - **(1)** *In general* Section 5942(a) shall be applied, with respect to a covered CBP employee, as if “of not to exceed $10 a day” and all that follows were replaced with “for the cost of the commute at a mileage reimbursement rate determined by the Director of the Office of Personnel Management”.
-  >   - **(2)** *OPM determination* For purposes of section 5942(a), as applied in accordance with paragraph (1) of this subsection, the Director shall publish in the Federal Register a notice of a mileage reimbursement rate that is equivalent, to the maximum extent practicable, to the mileage reimbursement rate for privately owned automobiles prescribed by the Administrator of General Services under section 5707(b)(2).
-  >   - **(3)** *Non-commuting factors*
-  >     - **(A)** *In general* A covered CBP employee who is assigned to duty, except temporary duty, at a location in a rural or remote area is eligible for, in addition to pay otherwise due the employee, an allowance in an amount not to exceed the necessary amount per day, as determined by the Commissioner in accordance with subparagraph (C).
-  >     - **(B)** *Exception* The Commissioner shall not be required to pay the allowance under subparagraph (A) if the covered CBP employee does not routinely operate the personal vehicle of the employee for transportation between the duty station and place of residence of the employee.
-  >     - **(C)** *Determination of necessary amount; OPM approval*
-  >       - **(i)** *Determination of necessary amount* In determining the necessary amount of an allowance under subparagraph (A), the Commissioner shall consider the factors considered by the Director under regulations implementing section 5942.
-  >       - **(ii)** *OPM approval* The Commissioner may not pay an allowance under subparagraph (A) unless the Director approves the amount of the allowance.
+  >     - **(A)** *In general* The Secretary may appoint, without regard to any provision of sections 3309 through 3319, candidates to positions in the competitive service as CBP employees, in a rural or remote area, if the Secretary—
+  >       - **(i)** determines that—
+  >         - **(I)** there is a critical hiring need; and
+  >         - **(II)** there exists a severe shortage of qualified candidates because of the direct relationship identified by the Secretary under subsection (b)(1)(B) of this section between—
+  >           - **(aa)** the rural or remote nature of the area; and
+  >           - **(bb)** difficulty in the recruitment and retention of CBP employees in the area; and
+  >       - **(ii)** has given public notice for the positions.
+  >     - **(B)** *Prioritization of hiring veterans* If the Secretary uses the direct hiring authority under subparagraph (A), the Secretary shall apply the principles of preference for the hiring of veterans established under subchapter I of chapter 33.
+  >   - **(2)** *Recruitment and relocation bonuses* The Secretary may pay a bonus to an individual (other than an individual described in subsection (a)(2) of section 5753) if—
+  >     - **(A)** the Secretary determines that—
+  >       - **(i)** conditions consistent with the conditions described in paragraphs (1) and (2) of subsection (b) of such section 5753 are satisfied with respect to the individual (without regard to any other provision of that section); and
+  >       - **(ii)** the position to which the individual is appointed or to which the individual moves or must relocate—
+  >         - **(I)** is a position as a CBP employee; and
+  >         - **(II)** is in a rural or remote area for which the Secretary has identified a direct relationship under subsection (b)(1)(B) of this section between—
+  >           - **(aa)** the rural or remote nature of the area; and
+  >           - **(bb)** difficulty in the recruitment and retention of CBP employees in the area; and
+  >     - **(B)** the individual enters into a written service agreement with the Secretary—
+  >       - **(i)** under which the individual is required to complete a period of employment as a CBP employee of not less than 2 years; and
+  >       - **(ii)** that includes—
+  >         - **(I)** the commencement and termination dates of the required service period (or provisions for the determination thereof);
+  >         - **(II)** the amount of the bonus; and
+  >         - **(III)** other terms and conditions under which the bonus is payable, subject to the requirements of this subsection, including—
+  >           - **(aa)** the conditions under which the agreement may be terminated before the agreed-upon service period has been completed; and
+  >           - **(bb)** the effect of a termination described in item (aa).
+  >   - **(3)** *Retention bonuses* The Secretary may pay a retention bonus to a CBP employee (other than an individual described in subsection (a)(2) of section 5754) if—
+  >     - **(A)** the Secretary determines that—
+  >       - **(i)** a condition consistent with the condition described in subsection (b)(1) of such section 5754 is satisfied with respect to the CBP employee (without regard to any other provision of that section);
+  >       - **(ii)** the CBP employee is employed in a rural or remote area for which the Secretary has identified a direct relationship under subsection (b)(1)(B) of this section between—
+  >         - **(I)** the rural or remote nature of the area; and
+  >         - **(II)** difficulty in the recruitment and retention of CBP employees in the area; and
+  >       - **(iii)** in the absence of a retention bonus, the CBP employee would be likely to leave—
+  >         - **(I)** the Federal service; or
+  >         - **(II)** for a different position in the Federal service, including a position in another agency or component of the Department of Homeland Security; and
+  >     - **(B)** the individual enters into a written service agreement with the Secretary—
+  >       - **(i)** under which the individual is required to complete a period of employment as a CBP employee of not less than 2 years; and
+  >       - **(ii)** that includes—
+  >         - **(I)** the commencement and termination dates of the required service period (or provisions for the determination thereof);
+  >         - **(II)** the amount of the bonus; and
+  >         - **(III)** other terms and conditions under which the bonus is payable, subject to the requirements of this subsection, including—
+  >           - **(aa)** the conditions under which the agreement may be terminated before the agreed-upon service period has been completed; and
+  >           - **(bb)** the effect of a termination described in item (aa).
+  >   - **(4)** *Rules for bonuses*
+  >     - **(A)** *Maximum bonus* A bonus paid to an employee under—
+  >       - **(i)** paragraph (2) may not exceed 100 percent of the annual rate of basic pay of the employee as of the commencement date of the applicable service period; and
+  >       - **(ii)** paragraph (3) may not exceed 50 percent of the annual rate of basic pay of the employee as of the commencement date of the applicable service period.
+  >     - **(B)** *Relation to basic pay* A bonus paid to an employee under paragraph (2) or (3) shall not be considered part of the basic pay of the employee for any purpose.
+  >   - **(5)** *OPM oversight* The Director shall, to the extent practicable—
+  >     - **(A)** set aside a determination of the Secretary under this subsection if the Director finds substantial evidence that the Secretary abused the discretion of the Secretary in making the determination; and
+  >     - **(B)** oversee the compliance of the Secretary with this subsection.
+  > - **(d)** *Special pay authority* In addition to the circumstances described in subsection (b) of section 5305, the Director may establish special rates of pay in accordance with that section if the Director finds that the recruitment or retention efforts of the Secretary with respect to positions for CBP employees in an area or location are, or are likely to become, significantly handicapped because the positions are located in a rural or remote area for which the Secretary has identified a direct relationship under subsection (b)(1)(B) of this section between—
+  >   - **(1)** the rural or remote nature of the area; and
+  >   - **(2)** difficulty in the recruitment and retention of CBP employees in the area.
+  > - **(e)** *Regular CBP review*
+  >   - **(1)** *Ensuring flexibilities meet CBP needs* Each year, the Secretary shall review the use of hiring flexibilities under subsections (c) and (d) to fill positions at a location in a rural or remote area to determine—
+  >     - **(A)** the impact of the use of those flexibilities on solving hiring and retention challenges at the location;
+  >     - **(B)** whether hiring and retention challenges still exist at the location; and
+  >     - **(C)** whether the Secretary needs to continue to use those flexibilities at the location.
+  >   - **(2)** *Consideration* In conducting the review under paragraph (1), the Secretary shall consider—
+  >     - **(A)** whether any CBP employee accepted an employment incentive under subsection (c) or (d) and then transferred to a new location or left U.S. Customs and Border Protection; and
+  >     - **(B)** the length of time that each employee identified under subparagraph (A) stayed at the original location before transferring to a new location or leaving U.S. Customs and Border Protection.
+  >   - **(3)** *Distribution* The Secretary shall submit to Congress a report on each review required under paragraph (1).
   > - **(f)** *Improving CBP hiring and retention*
-  >   - **(1)** *Education of CBP hiring officials* Not later than 180 days after the date of enactment of the U.S. Customs and Border Protection Hiring and Retention Act of 2017, and in conjunction with the Chief Human Capital Officer of the Department of Homeland Security, the Commissioner shall develop and implement a strategy to improve education regarding hiring and human resources flexibilities (including hiring and human resources flexibilities for locations in rural or remote areas) for all employees, serving in agency headquarters or field offices, who are involved in the recruitment, hiring, assessment, or selection of candidates for locations in a rural or remote area, as well as the retention of current employees.
+  >   - **(1)** *Education of CBP hiring officials* Not later than 180 days after the date of enactment of the U.S. Customs and Border Protection Hiring and Retention Act of 2017, and in conjunction with the Chief Human Capital Officer of the Department of Homeland Security, the Secretary shall develop and implement a strategy to improve education regarding hiring and human resources flexibilities (including hiring and human resources flexibilities for locations in rural or remote areas) for all employees, serving in agency headquarters or field offices, who are involved in the recruitment, hiring, assessment, or selection of candidates for locations in a rural or remote area, as well as the retention of current employees.
   >   - **(2)** *Elements* Elements of the strategy under paragraph (1) shall include the following:
   >     - **(A)** Developing or updating training and educational materials on hiring and human resources flexibilities for employees who are involved in the recruitment, hiring, assessment, or selection of candidates, as well as the retention of current employees.
   >     - **(B)** Regular training sessions for personnel who are critical to filling open positions in rural or remote areas.
   >     - **(C)** The development of pilot programs or other programs, as appropriate, to address identified hiring challenges in rural or remote areas.
-  >     - **(D)** Developing and enhancing strategic recruiting efforts through relationships with local colleges and universities, veterans transition and employment centers, and job placement program in regions that could assist in filling positions in rural or remote areas.
+  >     - **(D)** Developing and enhancing strategic recruiting efforts through relationships with institutions of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), veterans transition and employment centers, and job placement program in regions that could assist in filling positions in rural or remote areas.
   >     - **(E)** Examination of existing agency programs on how to most effectively aid spouses and families of individuals who are candidates or new hires in a rural or remote area.
   >     - **(F)** Feedback from individuals who are candidates or new hires at locations in a rural or remote area, including feedback on the quality of life in rural or remote areas for new hires and their families.
-  >     - **(G)** Feedback from covered CBP employees, other than new hires, who are stationed at locations in a rural or remote area, including feedback on the quality of life in rural or remote areas for those covered CBP employees and their families.
-  >     - **(H)** Evaluation of Department of Homeland Security internship programs and the usefulness of those programs in improving hiring by the Commissioner in rural or remote areas.
+  >     - **(G)** Feedback from CBP employees, other than new hires, who are stationed at locations in a rural or remote area, including feedback on the quality of life in rural or remote areas for those CBP employees and their families.
+  >     - **(H)** Evaluation of Department of Homeland Security internship programs and the usefulness of those programs in improving hiring by the Secretary in rural or remote areas.
   >   - **(3)** *Evaluation*
-  >     - **(A)** *In general* Each year, the Commissioner shall—
-  >       - **(i)** evaluate, on an annual basis, the extent to which the strategy developed and implemented under paragraph (1) has improved the hiring and retention ability of the Commissioner; and
+  >     - **(A)** *In general* Each year, the Secretary shall—
+  >       - **(i)** evaluate the extent to which the strategy developed and implemented under paragraph (1) has improved the hiring and retention ability of the Secretary; and
   >       - **(ii)** make any appropriate updates to the strategy under paragraph (1).
   >     - **(B)** *Information* The evaluation conducted under subparagraph (A) shall include—
-  >       - **(i)** any reduction in the time taken by the Commissioner to fill mission-critical positions in rural or remote areas;
-  >       - **(ii)** a general assessment of the impact of the strategy implemented under paragraph (1) on hiring challenges in rural or remote areas; and
-  >       - **(iii)** other information the Commissioner determines relevant.
-  > - **(g)** *Limitation on use of polygraphs*
-  >   - **(1)** *In general* If an applicant for a position in U.S. Customs and Border Protection does not successfully complete a polygraph examination required for appointment to that position, the Commissioner may not disclose the results of the polygraph examination to any other Federal agency or non-Federal employer unless the applicant signs a release granting the Commissioner permission to release all background investigation and adjudication materials to another Federal agency or a non-Federal employer.
-  >   - **(2)** *Disclosures*
-  >     - **(A)** *In general* The Commissioner shall provide each applicant for a position in U.S. Customs and Border Protection who will be required to successfully complete a polygraph examination before appointment to the position a list of actions or conduct of, or events relating to, the applicant that could disqualify the applicant from being appointed to the position, which may include—
-  >       - **(i)** the criteria for making a suitability determination under part 731 of title 5, Code of Federal Regulations (or any successor regulation); or
-  >       - **(ii)** the criteria for making an eligibility determination under part 732 of title 5, Code of Federal Regulations (or any successor regulation).
-  >     - **(B)** *List requirements* When providing the list required under subparagraph (A), the Commissioner shall clearly inform all applicants that the list may not constitute the complete list of potential disqualifying actions, conduct, or events.
-  >   - **(3)** *Use of polygraphs* Paragraph (1) shall not—
-  >     - **(A)** restrict the authority of the Commissioner to report or refer an admission of criminal conduct or activity made by an applicant during a polygraph examination to appropriate law enforcement officials;
-  >     - **(B)** limit the authority of the Commissioner to use the results of a polygraph examination administered as a requirement for appointment to a position in U.S. Customs and Border Protection, in whole or in part, in determining whether to appoint the individual to the position; or
-  >     - **(C)** limit the authority of another Federal agency or another agency or component of the Department of Homeland Security to use the results of a polygraph examination administered to an individual by a Federal agency other than U.S. Customs and Border Protection, in whole or in part, in determining whether to appoint the individual to a position in the agency or component.
-  > - **(h)** *Rule of construction* Nothing in this section shall be construed to exempt the Commissioner or the Director from the applicability of the merit system principles under section 2301.
+  >       - **(i)** any reduction in the time taken by the Secretary to fill mission-critical positions in rural or remote areas;
+  >       - **(ii)** a general assessment of the impact of the strategy developed and implemented under paragraph (1) on hiring challenges in rural or remote areas; and
+  >       - **(iii)** other information the Secretary determines relevant.
+  > - **(g)** *Inspector General review* Not later than 2 years after the date of enactment of the U.S. Customs and Border Protection Hiring and Retention Act of 2017, the Inspector General of the Department of Homeland Security shall review the use of hiring flexibilities by the Secretary under subsections (c) and (d) to determine whether the use of those flexibilities is helping the Secretary meet hiring and retention needs in rural and remote areas.
+  > - **(h)** *Report on polygraph requests* The Secretary shall report to Congress on the number of requests the Secretary receives from any other Federal agency for the file of an applicant for a position in U.S. Customs and Border Protection that includes the results of a polygraph examination.
+  > - **(i)** *Exercise of authority*
+  >   - **(1)** *Sole discretion* The exercise of authority under subsection (c) shall be subject to the sole and exclusive discretion of the Secretary (or the Commissioner, as applicable under paragraph (2) of this subsection), notwithstanding chapter 71.
+  >   - **(2)** *Delegation*
+  >     - **(A)** *In general* Subject to subparagraph (B), the Secretary may delegate any authority under this section to the Commissioner.
+  >     - **(B)** *Oversight* The Commissioner may not make a determination under subsection (b)(1) unless the Secretary approves the determination.
+  > - **(j)** *Rule of construction* Nothing in this section shall be construed to exempt the Secretary or the Director from the applicability of the merit system principles under section 2301.
+  > - **(k)** *Sunset* The authorities under subsections (c) and (d) shall terminate on the date that is 5 years after the date of enactment of the U.S. Customs and Border Protection Hiring and Retention Act of 2017.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 97 of title 5, United States Code, is amended by adding at the end the following:
