@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 670
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 670
@@ -38,3 +38,7 @@ A resolution recognizing the tenth anniversary of the enactment of the Paul Well
 
 - 2018-10-09 — Introduced in Senate
 - 2018-10-09 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6733)
+- 2018-10-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-10-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-10-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6773)
+- 2018-10-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6773)
