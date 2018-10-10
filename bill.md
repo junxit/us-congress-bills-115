@@ -1,0 +1,16 @@
+---
+legis-num: S.J. RES. 65
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 65
+
+> Relating to the disapproval of the proposed export to the Government of the Kingdom of Bahrain of certain defense articles and services.
+
+That the issuance of a letter of offer with respect to any of the following proposed exports to the Government of the Kingdom of Bahrain is hereby prohibited:
+
+- **(1)** The proposed sale of 120 Guided Multiple Launch Rocket System (GMLRS) M31 Unitary Rocket Pods, six (6) rockets per pod, for a total of seven hundred twenty (720), described in Transmittal No. 18–22.
+- **(2)** The proposed sale of one hundred ten (110) Army Tactical Missile System (ATACMS) M57 T2k Unitary missiles, described in Transmittal Number 18–22.
+- **(3)** The proposed sale of publications, personnel training and training equipment, software development, United States Government and contractor engineering, technical and logistics support services; and other related elements of logistical and program support intended for the items listed in the sale, described in Transmittal Number 18–22.
