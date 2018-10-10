@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2200
@@ -86,3 +86,7 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2017-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5492-5497)
 - 2017-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5492-5497)
 - 2017-07-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-09-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-10-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-10-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
+- 2018-10-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.
