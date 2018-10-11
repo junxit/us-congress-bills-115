@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3342
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3342
 
-That the bill from the House of Representatives (H.R. 3342) entitled “An Act to impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To impose sanctions with respect to foreign persons that are responsible for using civilians as human shields, and for other purposes.
 
 ## § 1. Short title
 

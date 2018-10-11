@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3342
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3342
@@ -90,3 +90,14 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 - 2018-10-11 — Senate amendment proposed (on the floor): Amendment SA 4059 proposed by Senator McConnell for Senator Corker.(consideration: CR S6881; text: CR S6881)
 - 2018-10-11 — Senate amendment submitted
 - 2018-10-11 — Senate amendment submitted
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Royce (CA) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendments. (consideration: CR H10078-10079)
+- 2018-12-11 — On motion that the House agree to the Senate amendments Agreed to without objection. (text: CR H10078-10079)
+- 2018-12-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text: CR H10078-10079)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-348.
+- 2018-12-21 — Became Public Law No: 115-348.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
