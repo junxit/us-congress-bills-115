@@ -1,74 +1,94 @@
 ---
 legis-num: H.R. 390
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 390
 
-> To provide emergency relief for victims of genocide, crimes against humanity, and war crimes in Iraq and Syria, for accountability for perpetrators of these crimes, and for other purposes.
+That the bill from the House of Representatives (H.R. 390) entitled “An Act to provide emergency relief for victims of genocide, crimes against humanity, and war crimes in Iraq and Syria, for accountability for perpetrators of these crimes, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017”.
+This Act may be cited as the “Iraq and Syria Genocide Relief and Accountability Act of 2018”.
 
 ## § 2. Findings
 
 Congress finds the following:
 
-- **(1)** Religious and ethnic minorities in Iraq and Syria are persecuted groups, and the Secretary of State of State declared on March 17, 2016, that Daesh, also known as the Islamic State of Iraq and Syria (ISIS), was responsible for genocide, crimes against humanity, and other atrocity crimes against several of these groups, including Christians and Yezidis.
-- **(2)** According to the Department of State’s annual reports on international religious freedom, the number of Christians living in Iraq has dropped from an estimated 800,000 to 1.4 million in 2002 to fewer than 250,000 in 2015, and the number of Yezidis living in Iraq has dropped from 500,000 in 2013 to 350,000 to 400,000 in 2015.
-- **(3)** The annual reports on international religious freedom further suggest that Christian communities living in Syria, which had accounted for between 8 and 10 percent of Syria’s total population in 2010, are now “considerably” smaller as a result of the civil war, and that the population of approximately 80,000 Yezidis in 2010 may now be larger because of refugees from Iraq.
-- **(4)** Local communities and entities have sought to mitigate the impact of violence directed against religious and ethnic minorities in Iraq and Syria, including the Chaldean Catholic Archdiocese of Erbil (Kurdistan Region of Iraq), which has used private funds to provide assistance to internally displaced Christians, Yezidis, and Muslims throughout the greater Erbil region, while growing needs and diminishing resources have made it increasingly difficult to continue these efforts.
+- **(1)** The Secretary of State of State declared on March 17, 2016, and on August 15, 2017, that Daesh (also known as the Islamic State of Iraq and Syria or ISIS) is responsible for genocide, crimes against humanity, and other atrocity crimes against religious and ethnic minority groups in Iraq and Syria, including Christians, Yezidis, and Shia, among other religious and ethnic groups.
+- **(2)** According to the Department of State’s annual reports on international religious freedom—
+  - **(A)** the number of Christians living in Iraq has dropped from an estimated 800,000 to 1,400,000 in 2002 to fewer than 250,000 in 2017; and
+  - **(B)** the number of Yezidis living in Iraq has fluctuated from 500,000 in 2013, to between 350,000 and 400,000 in 2016, and between 600,000 and 750,000 in 2017.
+- **(3)** The annual reports on international religious freedom further suggest that—
+  - **(A)** Christian communities living in Syria, which had accounted for between 8 and 10 percent of Syria’s total population in 2010, are now “considerably” smaller as a result of the civil war, and
+  - **(B)** there was a population of approximately 80,000 Yezidis before the commencement of the conflict in Syria.
+- **(4)** Local communities and entities have sought to mitigate the impact of violence directed against religious and ethnic minorities in Iraq and Syria, including the Chaldean Catholic Archdiocese of Erbil (Kurdistan Region of Iraq), which has used predominantly private funds to provide assistance to internally displaced Christians, Yezidis, and Muslims throughout the greater Erbil region, while significant needs and diminishing resources have made it increasingly difficult to continue these efforts.
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
-  - **(A)** the Committee on Foreign Affairs, the Committee on the Judiciary, the Committee on Homeland Security, and the Permanent Select Committee on Intelligence of the House of Representatives; and
-  - **(B)** the Committee on Foreign Relations, the Committee on the Judiciary, the Committee on Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate.
-- **(2)** *Foreign terrorist organization* The term “foreign terrorist organization” mean an organization designated by the Secretary of State as a foreign terrorist organization pursuant to section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)).
-- **(3)** *Humanitarian, stabilization, and recovery needs* The term “humanitarian, stabilization, and recovery needs”, with respect to an individual, includes water, sanitation, hygiene, food security and nutrition, shelter and housing, reconstruction, medical, education, and psychosocial needs.
-- **(4)** *Hybrid court* The term “hybrid court” means a court with a combination of domestic and international lawyers, judges, and personnel.
-- **(5)** *Internationalized domestic court* The term “internationalized domestic court” means a domestic court with the support of international advisers.
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  - **(A)** the Committee on Foreign Relations of the Senate;
+  - **(B)** the Committee on the Judiciary of the Senate;
+  - **(C)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+  - **(D)** the Committee on Appropriations of the Senate;
+  - **(E)** the Select Committee on Intelligence of the Senate;
+  - **(F)** the Committee on Foreign Affairs of the House of Representatives;
+  - **(G)** the Committee on the Judiciary of the House of Representatives;
+  - **(H)** the Committee on Homeland Security of the House of Representatives;
+  - **(I)** the Committee on Appropriations of the House of Representatives; and
+  - **(J)** the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(2)** *Foreign terrorist organization* The term foreign terrorist organization mean an organization designated by the Secretary of State as a foreign terrorist organization pursuant to section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)).
+- **(3)** *Humanitarian, stabilization, and recovery needs* The term humanitarian, stabilization, and recovery needs, with respect to an individual, includes water, sanitation, hygiene, food security and nutrition, shelter and housing, reconstruction, medical, education, psychosocial needs, and other assistance to address basic human needs, including stabilization assistance (as defined by the Stabilization Assistance Review in “A Framework for Maximizing the Effectiveness of U.S. Government Efforts to Stabilize Conflict-Affected Areas, 2018).
+- **(4)** *Hybrid court* The term hybrid court means a court with a combination of domestic and international lawyers, judges, and personnel.
+- **(5)** *Internationalized domestic court* The term internationalized domestic court means a domestic court with the support of international advisers.
 
 ## § 4. Statement of policy
 
-It is the policy of the United States to ensure that assistance for humanitarian, stabilization, and recovery needs of individuals who are or were nationals and residents of Iraq or Syria, and of communities from those countries, is directed toward those individuals and communities with the greatest need, including those individuals from communities of religious and ethnic minorities, and communities of religious and ethnic minorities, that have been identified as being at risk of persecution, forced migration, acts of genocide, crimes against humanity, or war crimes.
+It is the policy of the United States to ensure that assistance for humanitarian, stabilization, and recovery needs of individuals who are or were nationals and residents of Iraq or Syria, and of communities in and from those countries, is directed toward those individuals and communities with the greatest need, including those individuals from communities of religious and ethnic minorities, and communities of religious and ethnic minorities, that the Secretary of State declared were targeted for genocide, crimes against humanity, or war crimes, and have been identified as being at risk of persecution, forced migration, genocide, crimes against humanity, or war crimes.
 
-## § 5. Actions to promote accountability in Iraq and Syria for acts of genocide, crimes against humanity, and war crimes
+## § 5. Actions to promote accountability in Iraq for genocide, crimes against humanity, and war crimes
 
-- **(a)** *Assistance* The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance, as necessary and appropriate to support the efforts of entities, including nongovernmental organizations with expertise in international criminal investigations and law, to undertake the following activities to address crimes of genocide, crimes against humanity, or war crimes, and their constituent crimes, in Iraq since January 2014:
-  - **(1)** The conduct of criminal investigations.
-  - **(2)** The development of indigenous investigative and judicial skills, including by partnering, directly mentoring, and providing equipment and infrastructure where necessary, for the purpose of effectively adjudicating cases consistent with due process and respect for the rule of law.
-  - **(3)** The collection and preservation of evidence and the chain of evidence, including for use in prosecutions in domestic courts, hybrid courts, and internationalized domestic courts, consistent with the activities described in subsection (b).
+- **(a)** *Assistance* The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance, as necessary and appropriate, to support the efforts of entities, including nongovernmental organizations with expertise in international criminal investigations and law, to address genocide, crimes against humanity, or war crimes, and their constituent crimes by ISIS in Iraq by—
+  - **(1)** conducting criminal investigations;
+  - **(2)** developing indigenous investigative and judicial skills, including by partnering, directly mentoring, and providing necessary equipment and infrastructure to effectively adjudicating cases consistent with due process and respect for the rule of law; and
+  - **(3)** collecting and preserving evidence and the chain of evidence, including for use in prosecutions in domestic courts, hybrid courts, and internationalized domestic courts, consistent with the activities described in subsection (b).
 - **(b)** *Actions by foreign governments* The Secretary of State, in consultation with the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and the Director of the Federal Bureau of Investigation, shall encourage governments of foreign countries—
-  - **(1)** to include in appropriate security databases and security screening procedures of such countries information to identify individuals who are suspected to have committed crimes of genocide, crimes against humanity, or war crimes, and their constituent crimes, in Iraq or Syria, including individuals who are suspected to be members of foreign terrorist organizations operating in Iraq or Syria; and
-  - **(2)** to prosecute such individuals for acts of genocide, crimes against humanity, or war crimes, as appropriate.
+  - **(1)** to include information in appropriate security databases and security screening procedures of such countries to identify suspected ISIS members for whom credible evidence exists of having committed genocide, crimes against humanity, or war crimes, and their constituent crimes, in Iraq; and
+  - **(2)** to apprehend and prosecute such ISIS members for genocide, crimes against humanity, or war crimes, as appropriate.
 - **(c)** *Consultation* In carrying out subsection (a), the Secretary of State shall consult with and consider credible information from entities described in such subsection.
 
 ## § 6. Identification of and assistance to address humanitarian, stabilization, and recovery needs of certain persons in Iraq and Syria
 
-- **(a)** *Identification* The Secretary of State, in consultation with the Secretary of Defense, the Administrator of the United States Agency for International Development, and Director of National Intelligence, shall seek to identify the following:
-  - **(1)** The threats of persecution and other early-warning indicators of genocide, crimes against humanity, and war crimes against individuals—
-    - **(A)** who are or were nationals and residents of Iraq or Syria, are members of religious or ethnic minority groups in such countries, and with respect to which the Secretary of State has determined ISIS has committed acts of genocide, crimes against humanity, or war crimes since January 2014; or
-    - **(B)** who are members of other religious or ethnic minority groups in Iraq or Syria and are identified by the Secretary of State as persecuted groups.
-  - **(2)** The religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1) that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk.
-  - **(3)** The humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2), including the assistance provided by the United States and by the United Nations, respectively, to address the humanitarian, stabilization, and recovery needs, and mitigate the risks of forced migration, of individuals described in paragraphs (1) and (2) and assistance provided through the Funding Facility for Immediate Stabilization and Funding Facility for Expanded Stabilization.
-  - **(4)** To the extent practicable and appropriate, the entities, including faith-based entities, that are providing assistance to address the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2) and the extent to which the United States is providing assistance to or through such entities.
-- **(b)** *Additional consultation* In carrying out subsection (a), the Secretary of State shall consult with, and consider credible information from, individuals described in paragraphs (1) and (2) of such subsection and entities described in paragraph (4) of such subsection.
-- **(c)** *Assistance* The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance as necessary and appropriate, to support entities described in subsection (a)(4) that the Secretary and Administrator determine have access, and are capable of effectively managing and delivering such assistance, to the individuals described in paragraphs (1) and (2) of such subsection.
+- **(a)** *Identification* The Secretary of State, in consultation with the Secretary of Defense, the Administrator of the United States Agency for International Development, and Director of National Intelligence, shall seek to identify—
+  - **(1)** threats of persecution and other early-warning indicators of genocide, crimes against humanity, and war crimes against individuals who are or were nationals and residents of Iraq or Syria, are members of religious or ethnic minority groups in such countries, and against whom the Secretary of State has determined ISIS has committed genocide, crimes against humanity, or war crimes;
+  - **(2)** the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1) that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
+  - **(3)**
+    - **(A)** the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2), including the assistance provided by the United States and by the United Nations, respectively—
+      - **(i)** to address the humanitarian, stabilization, and recovery needs of such individuals; and
+      - **(ii)** to mitigate the risks of forced migration of such individuals; and
+    - **(B)** assistance provided through the Funding Facility for Immediate Stabilization and Funding Facility for Expanded Stabilization; and
+  - **(4)** to the extent practicable and appropriate—
+    - **(A)** the entities, including faith-based entities, that are providing assistance to address the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2); and
+    - **(B)** the extent to which the United States is providing assistance to or through the entities referred to in subparagraph (A).
+- **(b)** *Additional consultation* In carrying out subsection (a), the Secretary of State shall consult with, and consider credible information from—
+  - **(1)** individuals described in paragraphs (1) and (2) of such subsection; and
+  - **(2)** the entities described in paragraph (4)(A) of such subsection.
+- **(c)** *Assistance* The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance as necessary and appropriate, to support the entities described in subsection (a)(4)(A).
 
-## § 7. Reports
+## § 7. Report
 
-- **(a)** *Implementation report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on the following:
-  - **(1)** A detailed description of the efforts taken, and efforts proposed to be taken, to implement the provisions of this Act.
-  - **(2)** An assessment of the feasibility and advisability of prosecuting individuals for whom credible evidence exists of having committed acts of genocide, crimes against humanity, or war crimes in Iraq since January 2014 or Syria since March 2011 in domestic courts in Iraq, hybrid courts, and internationalized domestic courts, and of the measures needed to ensure effective criminal investigations of such individuals, and to effectively collect and preserve evidence, and preserve the chain of evidence, for prosecution.
-  - **(3)** Recommendations for legislative remedies and administrative actions to facilitate implementation of this Act.
-- **(b)** *Form* The report required under this section shall be submitted in unclassified form, but may contain a classified annex if necessary.
-
-## § 8. Prohibition on additional funding
-
-No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized.
+- **(a)** *Implementation report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit a report to the appropriate congressional committees that includes—
+  - **(1)** a detailed description of the efforts taken, and efforts proposed to be taken, to implement the provisions of this Act;
+  - **(2)** an assessment of—
+    - **(A)** the feasibility and advisability of prosecuting ISIS members for whom credible evidence exists of having committed genocide, crimes against humanity, or war crimes in Iraq, including in domestic courts in Iraq, hybrid courts, and internationalized domestic courts; and
+    - **(B)** the measures needed—
+      - **(i)** to ensure effective criminal investigations of such individuals; and
+      - **(ii)** to effectively collect and preserve evidence, and preserve the chain of evidence, for prosecution; and
+  - **(3)** recommendations for legislative remedies and administrative actions to facilitate the implementation of this Act.
+- **(b)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex, if necessary.
