@@ -1,7 +1,7 @@
 ---
 measure: S. 2465
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2465
@@ -39,3 +39,18 @@ Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, 
 - 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
 - 2018-10-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6880; text: CR S6880)
 - 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6880; text: CR S6880)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-16 — Held at the desk.
+- 2018-10-16 — Received in the House.
+- 2018-12-11 — Considered under suspension of the rules. (consideration: CR H10043-10052)
+- 2018-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 2465.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2018-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10052-10053)
+- 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10052-10053)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-18 — Became Public Law No: 115-327.
+- 2018-12-18 — Became Public Law No: 115-327.
+- 2018-12-18 — Signed by President.
+- 2018-12-18 — Signed by President.
