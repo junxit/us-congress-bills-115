@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2422
@@ -129,3 +129,13 @@ Action for Dental Health Act of 2018
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82). (text: CR H1243)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 13 (Roll no. 82).(text: CR H1243)
 - 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-10-11 — Amendment SA 4057 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Amendment SA 4057 proposed by Senator McConnell for Senator Alexander. (consideration: CR S6881; text: CR S6881) In the nature of a substitute.
+- 2018-10-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6880-6881)
+- 2018-10-11 — Passed Senate with an amendment by Voice Vote.
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-10-11 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-10-11 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-10-11 — Senate amendment agreed to: Amendment SA 4057 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Senate amendment proposed (on the floor): Amendment SA 4057 proposed by Senator McConnell for Senator Alexander.(consideration: CR S6881; text: CR S6881)
+- 2018-10-11 — Senate amendment submitted
