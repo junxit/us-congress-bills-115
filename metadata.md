@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2196
@@ -44,3 +44,7 @@ To amend title 5, United States Code, to allow whistleblowers to disclose inform
 - 2017-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7950)
 - 2017-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7950)
 - 2017-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-10-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-346.
+- 2018-10-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-346.
+- 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
