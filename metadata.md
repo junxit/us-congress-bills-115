@@ -1,7 +1,7 @@
 ---
 measure: S. 2465
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2465
@@ -37,3 +37,5 @@ Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, 
 - 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
+- 2018-10-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6880; text: CR S6880)
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6880; text: CR S6880)

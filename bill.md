@@ -9,57 +9,50 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend the Public Health Service Act to reauthorize a sickle cell disease prevention and treatment demonstration program and to provide for sickle cell disease research, surveillance, prevention, and treatment.
 
-## § 1. Short title; table of contents
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Sickle Cell Disease Research, Surveillance, Prevention, and Treatment Act of 2018”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+This Act may be cited as the “Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, Prevention, and Treatment Act of 2018”.
 
-## § 2. Sense of the Senate
+## § 2. Data collection on certain blood disorders
 
-It is the Sense of the Senate that further research should be undertaken to expand the understanding of the cause of, and to find a cure for, sickle cell disease.
+Part A of title XI of the Public Health Service Act is amended by inserting after section 1105 (42 U.S.C. 300b–4) the following:
 
-## § 3. Sickle cell disease surveillance
-
-Part P of title III of the Public Health Service Act is amended by inserting after section 399V–6 (42 U.S.C. 280g–17) the following:
-
-> ## § 399V–7. National Sickle Cell Disease Surveillance, Prevention, and Treatment Program
+> ## § 1106. Sickle cell disease and other heritable blood disorders research, surveillance, prevention, and treatment
 >
-> - **(a)** *Surveillance*
->   - **(1)** *Grants* The Secretary may, for each fiscal year for which appropriations are available to carry out this subsection, make grants to not more than 20 eligible entities for the following purposes:
->     - **(A)** To conduct surveillance and maintain data on the prevalence and distribution of sickle cell disease and its associated health outcomes, complications, and treatments.
->     - **(B)** To conduct public health initiatives with respect to sickle cell disease, including one or more of the following:
->       - **(i)** Increasing efforts to improve access to high-quality sickle cell disease-related health care, including the use of treatments approved under section 505 of the Federal Food, Drug, and Cosmetic Act or licensed under section 351 of this Act.
->       - **(ii)** Working with partners to improve health outcomes of people with sickle cell disease over the lifespan by promoting guidelines for sickle cell disease screening, prevention, and treatment, including management of sickle cell disease complications.
->       - **(iii)** Providing support to community-based organizations and State and local health departments in conducting sickle cell disease education and training activities for patients, communities, and health care providers.
->       - **(iv)** Supporting and training State health departments and regional laboratories in comprehensive testing to identify specific forms of sickle cell disease in people of all ages.
->     - **(C)** To identify and evaluate promising strategies for prevention and treatment of sickle cell disease complications, including through one or more of the following:
->       - **(i)** Improving estimates of the national incidence and prevalence of sickle cell disease, including estimates about the specific types of sickle cell disease.
->       - **(ii)** Identifying health disparities related to sickle cell disease.
->       - **(iii)** Assessing the utilization of therapies and strategies to prevent complications related to sickle cell disease.
->       - **(iv)** Evaluating the impact of genetic, environmental, behavioral, and other risk factors that may affect sickle cell disease health outcomes.
->   - **(2)** *Population included* The Secretary shall, to the extent practicable, award grants under this subsection to eligible entities across the United States so as to include data on the majority of the United States population with sickle cell disease.
+> - **(a)** *Grants*
+>   - **(1)** *In general* The Secretary may award grants related to heritable blood disorders, including sickle cell disease, for one or more of the following purposes:
+>     - **(A)** To collect and maintain data on such diseases and conditions, including subtypes as applicable, and their associated health outcomes and complications, including for the purpose of—
+>       - **(i)** improving national incidence and prevalence data;
+>       - **(ii)** identifying health disparities, including the geographic distribution, related to such diseases and conditions;
+>       - **(iii)** assessing the utilization of therapies and strategies to prevent complications; and
+>       - **(iv)** evaluating the effects of genetic, environmental, behavioral, and other risk factors that may affect such individuals.
+>     - **(B)** To conduct public health activities with respect to such conditions, which may include—
+>       - **(i)** developing strategies to improve health outcomes and access to quality health care for the screening for, and treatment and management of, such diseases and conditions, including through public-private partnerships;
+>       - **(ii)** providing support to community-based organizations and State and local health departments in conducting education and training activities for patients, communities, and health care providers concerning such diseases and conditions;
+>       - **(iii)** supporting State health departments and regional laboratories, including through training, in testing to identify such diseases and conditions, including specific forms of sickle cell disease, in individuals of all ages; and
+>       - **(iv)** the identification and evaluation of best practices for treatment of such diseases and conditions, and prevention and management of their related complications.
+>   - **(2)** *Population included* The Secretary shall, to the extent practicable, award grants under this subsection to eligible entities across the United States to improve data on the incidence and prevalence of heritable blood disorders, including sickle cell disease, and the geographic distribution of such diseases and conditions.
 >   - **(3)** *Application* To seek a grant under this subsection, an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
->   - **(4)** *Eligible entity* In this subsection, the term eligible entity includes the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Federated States of Micronesia, the Republic of Marshall Islands, the Republic of Palau, a State health or public health department, an institution of higher education, or a nonprofit entity.
+>   - **(4)** *Priority* In awarding grants under this subsection, the Secretary may give priority, as appropriate, to eligible entities that have a relationship with a community-based organization that has experience in, or is capable of, providing services to individuals with heritable blood disorders, including sickle cell disease.
+>   - **(5)** *Eligible entity* In this subsection, the term eligible entity includes the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Federated States of Micronesia, the Republic of Marshall Islands, the Republic of Palau, Indian tribes, a State or local health department, an institution of higher education, or a nonprofit entity with appropriate experience to conduct the activities under this subsection.
 
-## § 4. Sickle cell disease prevention and treatment
+## § 3. Sickle cell disease prevention and treatment
 
 - **(a)** *Reauthorization* Section 712(c) of the American Jobs Creation Act of 2004 (Public Law 108–357; 42 U.S.C. 300b–1 note) is amended—
   - **(1)** by striking “Sickle Cell Disease” each place it appears and inserting “sickle cell disease”;
-  - **(2)** in paragraph (1)(A), by striking “grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease” and inserting “grants to up to 25 eligible entities for each fiscal year in which the program is conducted under this section for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of sickle cell disease in populations with a high density of sickle cell disease patients”;
+  - **(2)** in paragraph (1)(A), by striking “shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease” and inserting “shall continue efforts, including by awarding grants, to develop or establish mechanisms to improve the treatment of sickle cell disease, and to improve the prevention and treatment of complications of sickle cell disease, in populations with a high proportion of individuals with sickle cell disease”;
   - **(3)** in paragraph (1)(B)—
     - **(A)** by striking clause (ii) (relating to priority); and
     - **(B)** by striking “Grant award requirements” and all that follows through “The Administrator shall” and inserting “Geographic diversity.—The Administrator shall”;
   - **(4)** in paragraph (2), by adding the following new subparagraph at the end:
-    > - **(E)** To expand, coordinate, and implement transition services for adolescents with sickle cell disease making the transition to adult health care.
+    > - **(E)** To provide or coordinate services for adolescents with sickle cell disease making the transition to adult health care.
 
-  - **(5)** in paragraph (6), by striking “$10,000,000 for each of fiscal years 2005 through 2009” and inserting “$4,455,000 for each of fiscal years 2018 through 2022”.
+  - **(5)** in paragraph (6), by striking “$10,000,000 for each of fiscal years 2005 through 2009” and inserting “$4,455,000 for each of fiscal years 2019 through 2023”.
 - **(b)** *Technical changes* Subsection (c) of section 712 of the American Jobs Creation Act of 2004 (Public Law 108–357; 42 U.S.C. 300b–1 note), as amended by subsection (a), is—
   - **(1)** transferred to the Public Health Service Act (42 U.S.C. 201 et seq.);
   - **(2)** redesignated as subsection (b); and
-  - **(3)** inserted at the end of section 399V–7 of such Act, as added by section 2 of this Act.
+  - **(3)** inserted at the end of section 1106 of such Act, as added by section 2 of this Act.
 
-## § 5. Collaboration with community-based entities
+## § 4. Sense of the Senate
 
-Section 399V–7 of the Public Health Service Act, as amended by section 3, is further amended by adding at the end the following:
-
-> - **(c)** *Collaboration with community-Based entities* To be eligible to receive a grant or other assistance under subsection (a) or (b), an eligible entity must have in effect a collaborative agreement with a community-based organization with five or more years of experience in providing services to sickle cell disease patients.
+It is the Sense of the Senate that further research should be undertaken to expand the understanding of the causes of, and to find cures for, heritable blood disorders, including sickle cell disease.
