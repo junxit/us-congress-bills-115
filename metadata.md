@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2615
@@ -44,3 +44,5 @@ Gulf Islands National Seashore Land Exchange Act
 - 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-228.
 - 2018-04-11 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-228.
 - 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
+- 2018-10-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6875-6876; text: CR S6875-6876)
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6875-6876; text: CR S6875-6876)
