@@ -1,7 +1,7 @@
 ---
 measure: S. 2765
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2765
@@ -28,3 +28,8 @@ RBIC Advisers Relief Act of 2018
 
 - 2018-04-26 — Introduced in Senate
 - 2018-04-26 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-06-26 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-354.
+- 2018-10-11 — Passed Senate without amendment by Unanimous Consent. (text: CR S6882)
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6882)
+- 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6881-6882)
+- 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6881-6882)
