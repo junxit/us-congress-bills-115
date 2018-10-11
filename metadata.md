@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2422
@@ -139,3 +139,15 @@ Action for Dental Health Act of 2018
 - 2018-10-11 — Senate amendment agreed to: Amendment SA 4057 agreed to in Senate by Unanimous Consent.
 - 2018-10-11 — Senate amendment proposed (on the floor): Amendment SA 4057 proposed by Senator McConnell for Senator Alexander.(consideration: CR S6881; text: CR S6881)
 - 2018-10-11 — Senate amendment submitted
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-11-28 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2422.
+- 2018-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-28 — Mr. Burgess moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9673-9675)
+- 2018-11-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate Amendment: CR H9673)
+- 2018-11-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate Amendment: CR H9673)
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-302.
+- 2018-12-11 — Became Public Law No: 115-302.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
