@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3342
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3342
@@ -71,3 +71,22 @@ Sanctioning the Use of Civilians as Defenseless Shields Act
 - 2017-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8178-8179)
 - 2017-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8178-8179)
 - 2017-10-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-10-05 — Referred to the Committee on Foreign Relations.
+- 2018-10-05 — Referred to the Committee on Foreign Relations.
+- 2018-10-05 — Senate amendment submitted
+- 2018-10-05 — Senate amendment submitted
+- 2018-10-11 — Amendment SA 4058 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Amendment SA 4058 proposed by Senator McConnell for Senator Corker. (consideration: CR S6881; text: CR S6873-6874) In the nature of a substitute.
+- 2018-10-11 — Amendment SA 4059 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Amendment SA 4059 proposed by Senator McConnell for Senator Corker. (consideration: CR S6881; text: CR S6881) To amend the title.
+- 2018-10-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6881)
+- 2018-10-11 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-10-11 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-10-11 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-10-11 — Senate amendment agreed to: Amendment SA 4058 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Senate amendment agreed to: Amendment SA 4059 agreed to in Senate by Unanimous Consent.
+- 2018-10-11 — Senate amendment proposed (on the floor): Amendment SA 4058 proposed by Senator McConnell for Senator Corker.(consideration: CR S6881; text: CR S6873-6874)
+- 2018-10-11 — Senate amendment proposed (on the floor): Amendment SA 4059 proposed by Senator McConnell for Senator Corker.(consideration: CR S6881; text: CR S6881)
+- 2018-10-11 — Senate amendment submitted
+- 2018-10-11 — Senate amendment submitted

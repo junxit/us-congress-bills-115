@@ -1,93 +1,81 @@
 ---
 legis-num: H.R. 3342
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3342
 
-> To impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.
+That the bill from the House of Representatives (H.R. 3342) entitled “An Act to impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Sanctioning Hizballah’s Illicit Use of Civilians as Defenseless Shields Act”.
+This Act may be cited as the “Sanctioning the Use of Civilians as Defenseless Shields Act”.
 
-## § 2. Findings
+## § 2. Statement of policy
 
-Congress finds the following:
+It shall be the policy of the United States to officially and publicly condemn the use of innocent civilians as human shields.
 
-- **(1)** Human shields are civilians, prisoners of war, and other noncombatants whose presence is designed to protect combatants and military objects from attack, and the use of human shields violates international law.
-- **(2)** Throughout the 2006 conflict with the State of Israel, Hizballah forces utilized human shields to protect themselves from counterattacks by Israeli forces, including storing weapons inside civilian homes and firing rockets from inside populated civilian areas.
-- **(3)** Hizballah has rearmed to include an arsenal of over 150,000 missiles, and other destabilizing weapons provided by the Syrian and Iranian governments, which are concealed in Shiite villages in southern Lebanon, often beneath civilian infrastructure.
-- **(4)** Hizballah is legally required to disarm under both United Nations Security Council Resolution 1701 (2006) and the Taif Agreement (1989).
-- **(5)** Hizballah maintains an armed military force within Lebanon’s sovereign territory in direct violation of United Nations Security Council Resolutions 1559 (2004) and 1680 (2006), thus preventing Lebanon from exerting its lawful control over its internationally recognized borders.
+## § 3. Imposition of sanctions with respect to foreign persons that are responsible for the use of civilians as human shields
 
-## § 3. Statement of policy
-
-It shall be the policy of the United States to consider the use of human shields by Hizballah as a gross violation of internationally recognized human rights, to officially and publicly condemn the use of innocent civilians as human shields by Hizballah, and to take effective action against those that engage in the grave breach of international law through the use of human shields.
-
-## § 4. United Nations Security Council
-
-The President should direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations Security Council to secure support for a resolution that would impose multilateral sanctions against Hizballah for its use of civilians as human shields.
-
-## § 5. Identification of foreign persons that are responsible for gross violations of internationally recognized human rights by reason of use by Hizballah of civilians as human shields
-
-- **(a)** *In general* The President shall impose sanctions described in subsection (c) with respect to each person on the list required under subsection (b).
-- **(b)** *List*
-  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a list of the following:
-    - **(A)** Each foreign person that the President determines, based on credible evidence, is a member of Hizballah, or acting on behalf of Hizballah, that is responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the use of civilians as human shields.
-    - **(B)** Each foreign person, or agency or instrumentality of a foreign state, that the President determines has provided, attempted to provide, or significantly facilitated the provision of, material support to a person described in subparagraph (A).
-  - **(2)** *Updates* The President shall transmit to the appropriate congressional committees an update of the list required under paragraph (1) as new information becomes available.
-- **(c)** *Sanctions described* The sanctions to be imposed on a foreign person or an agency or instrumentality of a foreign state on the list required under subsection (b) are the following:
-  - **(1)** *Blocking of property* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person or of such agency or instrumentality of a foreign state if such property or interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+- **(a)** *Imposition of sanctions*
+  - **(1)** *Mandatory sanctions* The President shall impose sanctions described in subsection (d) with respect to each person on the list required under subsection (b).
+  - **(2)** *Permissive sanctions* The President may impose sanctions described in subsection (d) with respect to each person on the list described in subsection (c).
+- **(b)** *Mandatory sanctions list* Not later than one year after the date of the enactment of this Act, and annually thereafter, the President shall submit to the appropriate congressional committees a list of the following:
+  - **(1)** Each foreign person that the President determines, on or after the date of the enactment of this Act—
+    - **(A)** is a member of Hizballah or is knowingly acting on behalf of Hizballah; and
+    - **(B)** knowingly orders, controls, or otherwise directs the use of civilians protected as such by the law of war to shield military objectives from attack.
+  - **(2)** Each foreign person that the President determines, on or after the date of the enactment of this Act—
+    - **(A)** is a member of Hamas or is knowingly acting on behalf of Hamas; and
+    - **(B)** knowingly orders, controls, or otherwise directs the use of civilians protected as such by the law of war to shield military objectives from attack.
+  - **(3)** Each foreign person or agency or instrumentality of a foreign state that the President determines, on or after the date of the enactment of this Act, knowingly and materially supports, orders, controls, directs, or otherwise engages in—
+    - **(A)** any act described in subparagraph (B) of paragraph (1) by a person described in that paragraph; or
+    - **(B)** any act described in subparagraph (B) of paragraph (2) by a person described in that paragraph.
+- **(c)** *Permissive sanctions list* Not later than one year after the date of the enactment of this Act, and annually thereafter, the President should submit to the appropriate congressional committees a list of each foreign person that the President determines, on or after the date of the enactment of this Act, knowingly orders, controls, or otherwise directs the use of civilians protected as such by the law of war to shield military objectives from attack, excluding foreign persons included in the most recent list under subsection (b).
+- **(d)** *Sanctions described* The sanctions to be imposed on a foreign person or an agency or instrumentality of a foreign state under this subsection are the following:
+  - **(1)** *Blocking of property* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person or agency or instrumentality of a foreign state if such property or interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** *Aliens ineligible for visas, admission, or parole*
-    - **(A)** *Visas, admission, or parole* An alien who the Secretary of State or the Secretary of Homeland Security determines is a foreign person on the list required under subsection (b) is—
+    - **(A)** *Visas, admission, or parole* An alien who the Secretary of State or the Secretary of Homeland Security determines is subject to sanctions under subsection (a) is—
       - **(i)** inadmissible to the United States;
       - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
       - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
-    - **(B)** *Current visas revoked*
-      - **(i)** *In general* Any visa or other documentation issued to an alien who is a foreign person on the list required under subsection (b), regardless of when such visa or other documentation was issued, shall be revoked and such alien shall be denied admission to the United States.
-      - **(ii)** *Effect of revocation* A revocation under clause (i)—
-        - **(I)** shall take effect immediately; and
-        - **(II)** shall automatically cancel any other valid visa or documentation that is in the possession of the alien who is the subject of such revocation.
-  - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that knowingly violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section to the same extent that such penalties apply to a person that knowingly commits an unlawful act described in section 206(a) of such Act.
-  - **(4)** *Regulatory authority*
-    - **(A)** *In general* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
-    - **(B)** *Issuance of regulations* Not later than 180 days after the date of the enactment of this Act, the President shall, promulgate regulations as necessary for the implementation of this section and the amendments made by this section.
-    - **(C)** *Notification to congress* Not later than 10 days before the promulgation of regulations under subparagraph (B), the President shall brief the appropriate congressional committees on the proposed regulations and the provisions of this section that the regulations are implementing.
-  - **(5)** *Rule of construction* Nothing in this section may be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or any other relevant provision of law.
-- **(d)** *Waiver* The President may waive the application of sanctions under this section for periods not to exceed 120 days with respect to a foreign person, or an agency or instrumentality of a foreign state, if the President reports to the appropriate congressional committees that such waiver is vital to the national security interests of the United States.
-- **(e)** *Exemptions* Any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
+    - **(B)** *Current visas revoked* Any visa or other documentation issued to an alien who is subject to sanctions under subsection (a), regardless of when such visa or other documentation was issued, shall be revoked and such alien shall be denied admission to the United States.
+    - **(C)** *Exception to comply with United Nations Headquarters agreement and other international obligations* The sanctions under this paragraph shall not be imposed on an individual if admitting such individual to the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or with other applicable international obligations.
+- **(e)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that knowingly violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed to carry out this section to the same extent that such penalties apply to a person that knowingly commits an unlawful act described in section 206(a) of such Act.
+- **(f)** *Procedures for judicial review of classified information*
+  - **(1)** *In general* If a finding under this section, or a prohibition, condition, or penalty imposed as a result of any such finding, is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)) and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the President may submit such information to the court ex parte and in camera.
+  - **(2)** *Rule of construction* Nothing in this subsection shall be construed to confer or imply any right to judicial review of any finding under this section or any prohibition, condition, or penalty imposed as a result of any such finding.
+- **(g)** *Waiver* The President may waive the application of sanctions under this section if the President determines and reports to the appropriate congressional committees that such waiver is in the national security interest of the United States.
+- **(h)** *Regulatory authority*
+  - **(1)** *In general* The President may exercise all authorities under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
+  - **(2)** *Issuance of regulations* Not later than 180 days after the date of the enactment of this Act, the President shall prescribe such regulations as may be necessary to implement this section.
+- **(i)** *Rule of construction* Nothing in this section may be construed—
+  - **(1)** to limit the authorities of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or any other relevant provision of law; or
+  - **(2)** to apply with respect to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), or to any authorized intelligence activities of the United States.
 
-## § 6. Report
-
-- **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report containing a determination on whether each person described in subsection (b) meets the criteria described in subparagraph (A) or (B) of section 5(b)(1).
-- **(b)** *Persons described* The persons described in this subsection are the following:
-  - **(1)** The Secretary General of Hizballah.
-  - **(2)** Members of the Hizballah Politburo.
-  - **(3)** Any other senior members of Hizballah or other associated entities that the President determines to be appropriate.
-  - **(4)** Any person, or agency or instrumentality of a foreign state that the President determines provides material support to Hizballah that supports its use of civilians as human shields.
-- **(c)** *Form of report; public availability*
-  - **(1)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.
-  - **(2)** *Public availability* The unclassified portion of such report shall be made available to the public and posted on the internet website of the Department of State—
-    - **(A)** in English, Farsi, Arabic, and Azeri; and
-    - **(B)** in pre-compressed, easily downloadable versions that are made available in all appropriate formats.
-
-## § 7. Definitions
+## § 4. Definitions
 
 In this Act:
 
-- **(1)** *Admitted; alien* The terms admitted and alien have the meanings given such terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
-- **(2)** *Agency or instrumentality of a foreign state* The term agency or instrumentality of a foreign state has the meaning given such term in section 1603(b) of title 28, United States Code.
+- **(1)** *Admitted; alien* The terms admitted and alien have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+- **(2)** *Agency or instrumentality of a foreign state* The term agency or instrumentality of a foreign state has the meaning given that term in section 1603(b) of title 28, United States Code.
 - **(3)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
-  - **(A)** the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on Ways and Means, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives; and
-  - **(B)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Committee on Finance, the Committee on the Judiciary, and the Committee on Appropriations of the Senate.
-- **(4)** *Foreign person* The term foreign person means any citizen or national of a foreign country, or any entity not organized solely under the laws of the United States or existing solely in the United States.
-- **(5)** *Foreign state* The term foreign state has the meaning given such term in section 1603(a) of title 28, United States Code.
-- **(6)** *United states person* The term United States person means any United States citizen, permanent resident alien, entity organized under the laws of the United States (including foreign branches), or any person in the United States.
-- **(7)** *Hizballah* The term Hizballah means—
+  - **(A)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate; and
+  - **(B)** the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
+- **(4)** *Foreign person* The term foreign person means—
+  - **(A)** any citizen or national of a foreign state, wherever located; or
+  - **(B)** any entity not organized solely under the laws of the United States or existing solely in the United States.
+- **(5)** *Hamas* The term Hamas means—
+  - **(A)** the entity known as Hamas and designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
+  - **(B)** any person identified as an agent or instrumentality of Hamas on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Asset Control of the Department of the Treasury, the property or interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+- **(6)** *Hizballah* The term Hizballah means—
   - **(A)** the entity known as Hizballah and designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
-  - **(B)** any person—
-    - **(i)** the property or interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); and
-    - **(ii)** who is identified on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury as an agent, instrumentality, or affiliate of Hizballah.
+  - **(B)** any person identified as an agent or instrumentality of Hizballah on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Asset Control of the Department of the Treasury, the property or interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+- **(7)** *United States person* The term United States person means any United States citizen, permanent resident alien, entity organized under the laws of the United States (including foreign branches), or any person in the United States.
+
+## § 5. Sunset
+
+This Act shall cease to be effective on December 31, 2023.
