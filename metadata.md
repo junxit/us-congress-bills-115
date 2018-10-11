@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 390
@@ -108,3 +108,15 @@ Iraq and Syria Genocide Relief and Accountability Act of 2018
 - 2018-10-11 — Senate amendment submitted
 - 2018-10-11 — Senate amendment submitted
 - 2018-10-11 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-11-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 390.
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Smith (NJ) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H9600-9604)
+- 2018-11-27 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment: CR H9600-9601)
+- 2018-11-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment: CR H9600-9601)
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-300.
+- 2018-12-11 — Became Public Law No: 115-300.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.

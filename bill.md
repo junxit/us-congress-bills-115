@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 390
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 390
 
-That the bill from the House of Representatives (H.R. 390) entitled “An Act to provide emergency relief for victims of genocide, crimes against humanity, and war crimes in Iraq and Syria, for accountability for perpetrators of these crimes, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide relief for victims of genocide, crimes against humanity, and war crimes who are members of religious and ethnic minority groups in Iraq and Syria, for accountability for perpetrators of these crimes, and for other purposes.
 
 ## § 1. Short title
 
