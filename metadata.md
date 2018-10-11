@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2615
@@ -46,3 +46,16 @@ Gulf Islands National Seashore Land Exchange Act
 - 2018-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
 - 2018-10-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6875-6876; text: CR S6875-6876)
 - 2018-10-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6875-6876; text: CR S6875-6876)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 2615.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Gosar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9484-9485, H9501)
+- 2018-11-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 417). (text: CR H9484-9485)
+- 2018-11-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 417).(text: CR H9484-9485)
+- 2018-11-14 — Presented to President.
+- 2018-11-14 — Presented to President.
+- 2018-11-20 — Became Public Law No: 115-279.
+- 2018-11-20 — Became Public Law No: 115-279.
+- 2018-11-20 — Signed by President.
+- 2018-11-20 — Signed by President.
