@@ -1,7 +1,7 @@
 ---
 measure: S. 3553
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3553
@@ -24,3 +24,7 @@ Small Business ACE Act
 
 - 2018-10-05 — Introduced in Senate
 - 2018-10-05 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment and an amendment to the title. Without written report.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment and an amendment to the title. Without written report.
+- 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 634.
