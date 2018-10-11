@@ -1,7 +1,7 @@
 ---
 measure: S. 2679
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2679
@@ -16,10 +16,13 @@ Veterans Small Business Enhancement Act of 2018
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ Veterans Small Business Enhancement Act of 2018
 
 - 2018-04-16 — Introduced in Senate
 - 2018-04-16 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 633.
