@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
