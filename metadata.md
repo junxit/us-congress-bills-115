@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6901
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6901
@@ -16,11 +16,12 @@ Federal CIO Authorization Act of 2018
 
 - Rep. Hurd, Will [R-TX-23] (H001073)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Federal CIO Authorization Act of 2018
 - 2018-09-26 — Introduced in House
 - 2018-09-26 — Introduced in House
 - 2018-09-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by Unanimous Consent.
+- 2018-10-12 — Placed on the Union Calendar, Calendar No. 771.
+- 2018-10-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-987.
+- 2018-10-12 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-987.
