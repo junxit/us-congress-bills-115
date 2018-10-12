@@ -1,7 +1,7 @@
 ---
 measure: S. 1305
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1305
@@ -20,9 +20,10 @@ U.S. Customs and Border Protection Hiring and Retention Act of 2017
 
 - Sen. Heitkamp, Heidi [D-ND] (H001069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ U.S. Customs and Border Protection Hiring and Retention Act of 2017
 - 2018-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
 - 2018-10-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6774-6775; text: CR S6774-6775)
 - 2018-10-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6774-6775; text: CR S6774-6775)
+- 2018-10-11 — Message on Senate action sent to the House.
+- 2018-10-12 — Received in the House.
+- 2018-10-12 — Referred to the House Committee on Oversight and Government Reform.
