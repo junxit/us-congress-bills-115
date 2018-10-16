@@ -1,7 +1,7 @@
 ---
 measure: S. 2765
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2765
@@ -20,9 +20,10 @@ RBIC Advisers Relief Act of 2018
 
 - Sen. Jones, Doug [D-AL] (J000300)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ RBIC Advisers Relief Act of 2018
 - 2018-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6882)
 - 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6881-6882)
 - 2018-10-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6881-6882)
+- 2018-10-12 — Message on Senate action sent to the House.
+- 2018-10-16 — Received in the House.
+- 2018-10-16 — Referred to the House Committee on Financial Services.
