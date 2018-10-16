@@ -1,7 +1,7 @@
 ---
 measure: S. 2765
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2765
@@ -25,6 +25,10 @@ RBIC Advisers Relief Act of 2018
 - Senate — Banking, Housing, and Urban Affairs Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-458](votes/house-115-2-0458.md) — On Motion to Suspend the Rules and Pass — **Passed** (389–0)
+
 ## Actions
 
 - 2018-04-26 — Introduced in Senate
@@ -37,3 +41,17 @@ RBIC Advisers Relief Act of 2018
 - 2018-10-12 — Message on Senate action sent to the House.
 - 2018-10-16 — Received in the House.
 - 2018-10-16 — Referred to the House Committee on Financial Services.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — Considered as unfinished business. (consideration: CR H10437)
+- 2018-12-20 — Considered under suspension of the rules. (consideration: CR H10416-10417)
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on S. 2765.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Huizenga moved to suspend the rules and pass the bill.
+- 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 458). (text: CR H10416)
+- 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 458).(text: CR H10416)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-417.
+- 2019-01-03 — Became Public Law No: 115-417.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
