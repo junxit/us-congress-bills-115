@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To enact as law certain regulations relating to the taking of double-crested cormorants.
 
-## § 1. Regulations relating to the taking of double-crested cormorants
+## § 1. Short Title
+
+This Act may be cited as the “Cormorant Relief Act”.
+
+## § 2. Regulations relating to the taking of double-crested cormorants
 
 - **(a)** *Force and effect*
   - **(1)** *In general* Subject to subsection (b), sections 21.47 and 21.48 of title 50, Code of Federal Regulations (as in effect on January 1, 2016), shall have the force and effect of law.

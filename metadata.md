@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6302
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6302
@@ -25,3 +25,8 @@ Cormorant Relief Act
 - 2018-07-03 — Introduced in House
 - 2018-07-03 — Introduced in House
 - 2018-07-03 — Referred to the House Committee on Natural Resources.
+- 2018-07-11 — Committee Consideration and Mark-up Session Held.
+- 2018-07-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 13.
+- 2018-10-23 — Placed on the Union Calendar, Calendar No. 776.
+- 2018-10-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-994.
+- 2018-10-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-994.
