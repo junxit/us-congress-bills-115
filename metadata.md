@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6666
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6666
@@ -25,3 +25,10 @@ To authorize the Secretary of the Interior to grant to States and local governme
 - 2018-08-10 — Introduced in House
 - 2018-08-10 — Introduced in House
 - 2018-08-10 — Referred to the House Committee on Natural Resources.
+- 2018-08-17 — Referred to the Subcommittee on Federal Lands.
+- 2018-09-26 — Committee Consideration and Mark-up Session Held.
+- 2018-09-26 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-26 — Subcommittee on Federal Lands Discharged.
+- 2018-10-23 — Placed on the Union Calendar, Calendar No. 777.
+- 2018-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-995.
+- 2018-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-995.
