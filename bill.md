@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 210
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -45,7 +45,10 @@ Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is
 
 > - **(b)** *Review of major Federal actions on Indian lands*
 >   - **(1)** *Review and comment*
->     - **(A)** *In general* Except as provided in subparagraph (B), the statement required under subsection (a)(2)(C) for a major Federal action regarding an activity on Indian lands of an Indian tribe shall only be available for review and comment by the members of the Indian tribe, other individuals residing within the affected area, and State, federally recognized tribal, and local governments within the affected area.
+>     - **(A)** *In general* Except as provided in subparagraph (B), the statement required under subsection (a)(2)(C) for a major Federal action regarding an activity on Indian lands of an Indian tribe shall only be available for review and comment by—
+>       - **(i)** Indian tribes in the affected area and individual members of those tribes wherever they reside;
+>       - **(ii)** Other individuals who reside in the affected area; and
+>       - **(iii)** State and local governments within the affected area.
 >     - **(B)** *Exception* Subparagraph (A) shall not apply to a statement for a major Federal action regarding an activity on Indian lands of an Indian tribe related to gaming under the Indian Gaming Regulatory Act.
 >   - **(2)** *Regulations* The Chairman of the Council on Environmental Quality shall develop regulations to implement this section, including descriptions of affected areas for specific major Federal actions, in consultation with Indian tribes.
 >   - **(3)** *Definitions* In this subsection, each of the terms Indian land and Indian tribe has the meaning given that term in section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501).
