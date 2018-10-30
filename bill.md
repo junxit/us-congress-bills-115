@@ -15,14 +15,14 @@ This Act may be cited as the “Strengthening Coastal Communities Act of 2018”
 
 ## § 2. Replacement of John H. Chafee Coastal Barrier Resources System maps
 
-- **(a)** *In general* Subject to subsection (c), each map included in the set of maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) that relates to a unit of such System referred to in subsection (b) of this section is replaced in such set with the map described in subsection (b) with respect to that unit.
+- **(a)** *In general* Subject to subsection (c), each map included in the set of maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) that relates to a Unit of such System referred to in subsection (b) of this section is replaced in such set with the map described in subsection (b) with respect to that Unit.
 - **(b)** *Replacement maps described* The replacement maps referred to in subsection (a) are the following:
   - **(1)** The map entitled “Delaware Seashore Unit DE–07/DE–07P North Bethany Beach Unit H01” and dated March 18, 2016, with respect to Unit DE–07, Unit DE–07P, and Unit H01.
   - **(2)** The map entitled “Pine Island Bay Unit NC–01/NC–01P” and dated March 18, 2016, with respect to Unit NC–01 and Unit NC–01P.
   - **(3)** The map entitled “Roosevelt Natural Area Unit NC–05P” and dated March 18, 2016, with respect to Unit NC–05P.
   - **(4)** The map entitled “Hammocks Beach Unit NC–06/NC–06P (2 of 2) Onslow Beach Complex L05 (1 of 2)” and dated March 18, 2016, with respect to Unit L05.
-  - **(5)** The map entitled “Onslow Beach Complex L05 (2 of 2) Topsail Unit L06 (1 of 2)” and dated March 18, 2016, with respect to Unit L05 and Unit L06.
-  - **(6)** The map entitled “Topsail Unit L06 (2 of 2)” and dated March 18, 2016, with respect to Unit L06.
+  - **(5)** The map entitled “Onslow Beach Complex L05 (2 of 2) Topsail Unit L06 (1 of 2)” and dated November 20, 2013, with respect to Unit L05 and Unit L06.
+  - **(6)** The map entitled “Topsail Unit L06 (2 of 2)” and dated November 20, 2013, with respect to Unit L06.
   - **(7)** The map entitled “Litchfield Beach Unit M02 Pawleys Inlet Unit M03” and dated March 18, 2016, with respect to Unit M02 and Unit M03.
   - **(8)** The map entitled “Fort Clinch Unit FL–01/FL–01P” and dated March 18, 2016, with respect to Unit FL–01 and Unit FL–01P.
   - **(9)** The map entitled “Usina Beach Unit P04A Conch Island Unit P05/P05P” and dated March 18, 2016, with respect to Unit P04A, Unit P05, and Unit P05P.
@@ -51,11 +51,11 @@ This Act may be cited as the “Strengthening Coastal Communities Act of 2018”
   - **(32)** The map entitled “Phillips Inlet Unit FL–93/FL–93P Deer Lake Complex FL–94” and dated March 18, 2016, with respect to Unit FL–93, Unit FL–93P, and Unit FL–94.
   - **(33)** The map entitled “St. Andrew Complex P31 (1 of 3)” and dated October 7, 2016, with respect to Unit P31.
   - **(34)** The map entitled “St. Andrew Complex P31 (2 of 3)” and dated October 7, 2016, with respect to Unit P31.
-  - **(35)** The map entitled “St. Andrew Complex P31 (3 of 3)” and dated October 7, 2016, with respect to Unit P31.
+  - **(35)** The map entitled “St. Andrew Complex P31/P31P (3 of 3)” and dated October 7, 2016, with respect to Unit P31 and Unit P31P.
 - **(c)** *Limitations* For purposes of subsection (a)—
-  - **(1)** nothing in this section affects the boundaries of any of units NC–06 and NC–06P;
-  - **(2)** the occurrence in subsection (b) of the name of a unit solely in the title of a map shall not be construed to be a reference to such unit; and
-  - **(3)** the depiction of boundaries of any of units P18P, FL–71P, and P24P in a map referred to in paragraph (21), (23), or (26) of subsection (b) shall not be construed to affect the boundaries of such unit.
+  - **(1)** nothing in this section affects the boundaries of any of Units NC–06 and NC–06P;
+  - **(2)** the occurrence in subsection (b) of the name of a Unit solely in the title of a map shall not be construed to be a reference to such Unit; and
+  - **(3)** the depiction of boundaries of any of Units P18P, FL–71P, and P24P in a map referred to in paragraph (22), (24), or (27) of subsection (b) shall not be construed to affect the boundaries of such Unit.
 - **(d)** *Conforming amendment* Section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) is amended—
   - **(1)** in the matter preceding paragraph (1), by inserting “replaced,” after “may be”; and
   - **(2)** in paragraph (3), by inserting “replaces such a map or” after “that specifically”.
