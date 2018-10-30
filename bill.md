@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 7104
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7104
+
+> To require disclosure by lobbyists of convictions for bribery, extortion, embezzlement, illegal kickbacks, tax evasion, fraud, conflicts of interest, making false statements, perjury, or money laundering.
+
+## § 1. Short title
+
+This Act may be cited as the “Justice Against Corruption on K Street Act” or the “JACK Act”.
+
+## § 2. Disclosure of corrupt malpractice by lobbyists
+
+- **(a)** *Registration* Section 4(b) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1603(b)) is amended—
+  - **(1)** in paragraph (5), by striking “and” at the end;
+  - **(2)** in paragraph (6), by striking the period at the end and inserting “; and”; and
+  - **(3)** by inserting after paragraph (6) the following new paragraph:
+    > - **(7)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
+
+- **(b)** *Quarterly reports* Section 5(b) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604(b)) is amended—
+  - **(1)** in paragraph (4), by striking “and” at the end;
+  - **(2)** in paragraph (5), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(6)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
