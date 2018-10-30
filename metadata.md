@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6118
@@ -25,3 +25,11 @@ To authorize the Secretary of the Interior to annually designate at least one ci
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Referred to the House Committee on Natural Resources.
+- 2018-06-26 — Referred to the Subcommittee on Federal Lands.
+- 2018-09-06 — Subcommittee Hearings Held.
+- 2018-09-26 — Committee Consideration and Mark-up Session Held.
+- 2018-09-26 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-26 — Subcommittee on Federal Lands Discharged.
+- 2018-10-30 — Placed on the Union Calendar, Calendar No. 780.
+- 2018-10-30 — Reported by the Committee on Natural Resources. H. Rept. 115-998.
+- 2018-10-30 — Reported by the Committee on Natural Resources. H. Rept. 115-998.
