@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6434
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1244` | replace | Section 7 of Public Law 100–515 (16 U.S.C. 1244 note) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 7 of Public Law 100–515 (16 U.S.C. 1244 note) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
