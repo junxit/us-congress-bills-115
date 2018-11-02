@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6107
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6107
@@ -34,3 +34,8 @@ Ending Duplicative Permitting Act
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Introduced in House
 - 2018-06-14 — Referred to the House Committee on Natural Resources.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.
+- 2018-11-02 — Placed on the Union Calendar, Calendar No. 785.
+- 2018-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1004.
+- 2018-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1004.

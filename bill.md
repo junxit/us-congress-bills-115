@@ -26,7 +26,7 @@ Section 17 of the Mineral Leasing Act (30 U.S.C. 226) is amended by adding at th
 >     - **(B)** may commence 30 days after submission of the State permit to the Secretary;
 >     - **(C)** are categorically excluded from any further analysis and documentation under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 >     - **(D)** shall not require any analysis under section 106 of the National Historic Preservation Act of 1966, as amended (54 U.S.C. 306108); and
->     - **(E)** shall not require any analysis, assessment, or consultation under section 7 of the Endangered Species Act of 1973 (15 U.S.C. 1536).
+>     - **(E)** shall not require any analysis, assessment, or consultation under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536).
 >   - **(3)** *Royalties and production accountability*
 >     - **(A)** Nothing in this subsection shall affect the amount of royalties due to the United States under this Act from the production of oil and gas, or alter the Secretary’s authority to conduct audits and collect civil penalties pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1711 et seq.).
 >     - **(B)** The Secretary may conduct on-site reviews and inspections to ensure proper accountability, measurement, and reporting of production of Federal oil and gas, and payment of royalties.
