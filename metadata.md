@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6035
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6035
@@ -25,3 +25,8 @@ Streamlining Communications for Investors Act
 - 2018-06-07 — Introduced in House
 - 2018-06-07 — Introduced in House
 - 2018-06-07 — Referred to the House Committee on Financial Services.
+- 2018-06-14 — Committee Consideration and Mark-up Session Held.
+- 2018-06-14 — Ordered to be Reported by the Yeas and Nays: 31 - 23.
+- 2018-11-02 — Placed on the Union Calendar, Calendar No. 790.
+- 2018-11-02 — Reported by the Committee on Financial Services. H. Rept. 115-1009.
+- 2018-11-02 — Reported by the Committee on Financial Services. H. Rept. 115-1009.
