@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3626
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 2 executed, 8 stated and not applied.
+11 amendatory instructions. 2 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -58,4 +58,5 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1817` | insert | by inserting “or a State banking agency” after “appropriate Federal banking agency”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1817` | redesignate | by redesignating subsection (d) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1817` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1817` | redesignate | in subsection (f), as so redesignated, by inserting “, in consultation with State banking agencies,” after “appropriate Federal banking agencies”. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1817` | redesignate | in subsection (f), as so redesignated, by inserting “, in consultation with State banking agencies,” after “appropriate Federal banking agencies”.; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1817` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3626
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,8 +33,10 @@ The Bank Service Company Act (12 U.S.C. 1861 et seq.) is amended—
   - **(C)** by redesignating subsection (d) as subsection (f);
   - **(D)** by inserting after subsection (c) the following:
     > - **(d)** *Availability of information* Information obtained pursuant to the regulation and examination of service providers under this section or applicable State law may be furnished by and accessible to Federal and State agencies to the same extent that supervisory information concerning depository institutions is authorized to be furnished to and required to be accessible by Federal and State agencies under section 7(a)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)(2)) or State law, as applicable.
-    > - **(e)** *Coordination with State Banking Agencies* Where a State bank is principal shareholder or principal member of a bank service company or where a State bank is any other shareholder or member of the bank service company, the appropriate Federal banking agency, in carrying out the examination duties authorized by this section, shall—
+    > - **(e)** *Coordination with State Banking Agencies* Where a State bank is principal shareholder or principal member of a bank service company or where a State bank is any other shareholder or member of the bank service company, the appropriate Federal banking agency, in carrying out the examination duties examinations authorized by this section, shall—
     >   - **(1)** provide reasonable and timely notice to, and consult with the State banking agency; and
     >   - **(2)** to the fullest extent possible, coordinate and avoid duplication of examination activities, reporting requirements, and requests for information.
 
-  - **(E)** in subsection (f), as so redesignated, by inserting “, in consultation with State banking agencies,” after “appropriate Federal banking agencies”.
+  - **(E)** in subsection (f), as so redesignated, by inserting “, in consultation with State banking agencies,” after “appropriate Federal banking agencies”.; and
+  - **(F)** by adding at the end the following:
+    > - **(g)** *Rule of construction* Nothing in this section shall be construed as granting authority for a State banking agency to examine a bank service company where no such authority exists in State law.
