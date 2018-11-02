@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6434
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6434
@@ -25,3 +25,12 @@ To amend section 7 of Public Law 100-515 (16 U.S.C. 1244 note) to promote contin
 - 2018-07-18 — Introduced in House
 - 2018-07-18 — Introduced in House
 - 2018-07-18 — Referred to the House Committee on Natural Resources.
+- 2018-07-26 — Referred to the Subcommittee on Federal Lands.
+- 2018-07-26 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-27 — Subcommittee on Federal Lands Discharged.
+- 2018-09-27 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-11-02 — Placed on the Union Calendar, Calendar No. 787.
+- 2018-11-02 — Reported by the Committee on Natural Resources. H. Rept. 115-1006.
+- 2018-11-02 — Reported by the Committee on Natural Resources. H. Rept. 115-1006.
