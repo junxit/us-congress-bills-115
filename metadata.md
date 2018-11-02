@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5347
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5347
@@ -25,3 +25,11 @@ Lyon County Economic Development and Environmental Remediation Act
 - 2018-03-20 — Introduced in House
 - 2018-03-20 — Introduced in House
 - 2018-03-20 — Referred to the House Committee on Natural Resources.
+- 2018-04-04 — Referred to the Subcommittee on Federal Lands.
+- 2018-07-17 — Subcommittee Hearings Held.
+- 2018-07-18 — Committee Consideration and Mark-up Session Held.
+- 2018-07-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 15.
+- 2018-07-18 — Subcommittee on Federal Lands Discharged.
+- 2018-11-02 — Placed on the Union Calendar, Calendar No. 783.
+- 2018-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1002.
+- 2018-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1002.

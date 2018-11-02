@@ -48,7 +48,7 @@ Congress finds that—
 
 ## § 4. Conveyance of land; resolution of Federal liability
 
-- **(a)** *Federal selected lands* Notwithstanding section 120(h) of CERCLA (42 U.S.C. 9620(h)), not later than 90 days after the date of the enactment of this Act, the Secretary shall convey all right, title, and interest (including mineral rights) of the United States in and to the Federal selected lands to Atlantic Richfield.
+- **(a)** *Federal selected lands* Notwithstanding section 120(h) of CERCLA (42 U.S.C. 9620(h)), not later than 120 days after the date of the enactment of this Act, the Secretary shall convey all right, title, and interest (including mineral rights) of the United States in and to the Federal selected lands to Atlantic Richfield.
 - **(b)** *Covenant not To sue and indemnity* Upon conveyance of the Federal selected lands under subsection (a), and for full and complete compensation for those lands, Atlantic Richfield shall—
   - **(1)** covenant not to sue and agree not to assert any claims or causes of action against the BLM or its contractors or employees with respect to CERCLA response costs that Atlantic Richfield has incurred or will incur at or relating to the Site; and
   - **(2)** indemnify the United States against future liabilities that result from Atlantic Richfield’s activities on the Federal selected lands after the conveyance.
