@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4419
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -363,7 +363,7 @@ The following projects for water resources development and conservation and othe
 
 - **(a)** *Purposes; definitions*
   - **(1)** *Purposes* The purposes of this section are—
-    - **(A)** to identify $368,821,000 in Bureau of Reclamation projects and programs that are no longer feasible due to—
+    - **(A)** to identify $187,401,000 in Bureau of Reclamation projects and programs that are no longer feasible due to—
       - **(i)** a lack of local support;
       - **(ii)** a lack of available Federal or non-Federal resources; or
       - **(iii)** an authorized purpose that is no longer relevant or feasible;
@@ -403,7 +403,7 @@ The following projects for water resources development and conservation and othe
     - **(B)** publish the interim deauthorization list in the Federal Register.
 - **(d)** *Final deauthorization list*
   - **(1)** *In general* The Secretary shall develop a final deauthorization list of each Reclamation program or project, or separable element of a program or project, described in subsection (c)(1) that is identified pursuant to this subsection.
-  - **(2)** *Deauthorization amount* The Secretary shall include on the final deauthorization list projects and separable elements of projects that have, in the aggregate, an estimated Federal cost to complete that is at least $368,821,000.
+  - **(2)** *Deauthorization amount* The Secretary shall include on the final deauthorization list projects and separable elements of projects that have, in the aggregate, an estimated Federal cost to complete that is at least $187,401,000.
   - **(3)** *Identification of projects*
     - **(A)** *Sequencing of projects*
       - **(i)** *In general* The Secretary shall identify projects and separable elements of projects for inclusion on the final deauthorization list according to the order in which the projects and separable elements of the projects were authorized, beginning with the earliest authorized projects and separable elements of projects and ending once the last project or separable element of a project necessary to meet the aggregate amount under paragraph (2) is identified.
@@ -419,4 +419,4 @@ The following projects for water resources development and conservation and othe
   - **(1)** *In general* Subject to paragraph (2), after the date that is 180 days after the date of submission of the final deauthorization report under subsection (d), a program, project, or separable element of a program or project identified in the report is deauthorized, unless Congress passes a joint resolution disapproving the final deauthorization report prior to the end of that period.
   - **(2)** *Non-federal contributions* A program, project, or separable element of a program or project identified in the final deauthorization report under subsection (d) shall not be deauthorized under this subsection if, before the expiration of the 180-day period referred to in paragraph (1), the non-Federal interest of the program, project, or separable element of the project provides sufficient funds to complete the program, project, or separable element of the project.
 - **(f)** *Treatment of project modifications* For purposes of this section, if an authorized water resources development program, project, or separable element of the program or project has been modified by an Act of Congress, the date of authorization of the program, project, or separable element shall be deemed to be the date of the most recent modification.
-- **(g)** *Exemption* This subsection shall not apply to any project that would yield more than 200,000 acre-feet of water per year on average.
+- **(g)** *Exemption* This section shall not apply to any project that would yield more than 200,000 acre-feet of water per year on average.
