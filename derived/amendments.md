@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4239
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-40 amendatory instructions. 11 executed, 29 stated and not applied.
+44 amendatory instructions. 12 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,6 +68,15 @@ to guess them.
 |---|---|
 | Removed | `a determination of least practicable adverse impact on such species or stock under clause (i)(I)` |
 | Inserted | `conditions imposed under subclause (I), (II), or (III) of clause (ii)` |
+
+### 16 U.S.C. § 1362
+
+> in subparagraph (A), in the matter preceding clause (i), by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”; and
+
+| | |
+|---|---|
+| Removed | `subparagraph (B)` |
+| Inserted | `subparagraphs (B) and (C)` |
 
 ### 42 U.S.C. § 15942
 
@@ -139,7 +148,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1402` | add-at-end | Section 320301 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1344` | add-at-end | Section 18(e) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(e)) is amended by adding at the end the following: “The Secretary shall include in any such revised leasing program each unexecuted lease sale that was included in th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1348` | add-at-end | Section 22 of the Outer Continental Shelf Lands Act (43 U.S.C. 1348) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | insert | in paragraph (a), by inserting after “control” the following: “or lying within exclusive economic zone of the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | insert | in paragraph (a), by inserting after “control” the following: “or lying within the exclusive economic zone of the United States”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | strike | in paragraph (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1331` | replace | in paragraph (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -154,10 +163,13 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1371` | add-at-end | By adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1371` | add-at-end | Section 101(a)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1371(a)(5)(D)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 181` | redesignate | by redesignating section 44 as section 47; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1131` | amend | by adding after section 43 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1718` | amend | by adding after section 43 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1718` | add-at-end | Section 108 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1718) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 191` | insert | in subsection (c)(1), by inserting “and except as provided in subsection (e)” before “, any rentals”; and | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 1701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 181` | insert | The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended by inserting after section 44 (as added by section 202(a)(2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 181` | insert | The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended by inserting after section 45 (as added by section 204) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | insert | Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by inserting “The Secretary shall resolve any protest to a lease sale within 60 days following such payment.” after “annual rental for the first lease yea… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 707` | add-at-end | Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
