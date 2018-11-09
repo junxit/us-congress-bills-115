@@ -26,7 +26,7 @@ Section 101 of the United States Leadership Against HIV/AIDS, Tuberculosis, and 
   - **(A)** in paragraph (1), by striking “2019” and inserting “2024”; and
   - **(B)** in paragraph (2)—
     - **(i)** in the heading, by striking “2018” and inserting “2024”; and
-    - **(ii)** by striking “September 30, 2018” and inserting “September 30, 2023”.
+    - **(ii)** by striking “September 30, 2018” and inserting “September 30, 2024”.
 
 ## § 3. Participation in the Global Fund to Fight AIDS, Tuberculosis, and Malaria
 
@@ -46,6 +46,9 @@ Section 202(d) of the United States Leadership Against HIV/AIDS, Tuberculosis, a
     - **(iv)** in clause (iii) (as redesignated by clause (ii) of this subparagraph), by striking “2018” and inserting “2023”; and
 - **(2)** in paragraph (5), by striking “2018” and inserting “2023”.
 
-## § 4. Allocation of funds
+## § 4. Allocation of Funds
 
-Section 403(c) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(c)) is amended by striking “2018” and inserting “2023”.
+Section 403 of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673) is amended—
+
+- **(1)** in subsection (b), by striking “2018” and inserting “2023”; and
+- **(2)** in subsection (c), in the matter preceding paragraph (1), by striking “2018” and inserting “2023”.
