@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6784
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6784
@@ -31,3 +31,8 @@ Manage our Wolves Act
 - 2018-09-12 — Introduced in House
 - 2018-09-12 — Introduced in House
 - 2018-09-12 — Referred to the House Committee on Natural Resources.
+- 2018-09-26 — Committee Consideration and Mark-up Session Held.
+- 2018-09-26 — Ordered to be Reported by the Yeas and Nays: 19 - 15.
+- 2018-11-09 — Placed on the Union Calendar, Calendar No. 791.
+- 2018-11-09 — Reported by the Committee on Natural Resources. H. Rept. 115-1012.
+- 2018-11-09 — Reported by the Committee on Natural Resources. H. Rept. 115-1012.
