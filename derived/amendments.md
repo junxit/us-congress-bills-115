@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6651
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 11 executed, 5 stated and not applied.
+17 amendatory instructions. 12 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,12 +71,12 @@ to guess them.
 
 ### 22 U.S.C. § 7611
 
-> by striking “September 30, 2018” and inserting “September 30, 2023”.
+> by striking “September 30, 2018” and inserting “September 30, 2024”.
 
 | | |
 |---|---|
 | Removed | `September 30, 2018` |
-| Inserted | `September 30, 2023` |
+| Inserted | `September 30, 2024` |
 
 ### 22 U.S.C. § 7622
 
@@ -116,7 +116,16 @@ to guess them.
 
 ### 22 U.S.C. § 7673
 
-> Section 403(c) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(c)) is amended by striking “2018” and inserting “2023”.
+> in subsection (b), by striking “2018” and inserting “2023”; and
+
+| | |
+|---|---|
+| Removed | `2018` |
+| Inserted | `2023` |
+
+### 22 U.S.C. § 7673
+
+> in subsection (c), in the matter preceding paragraph (1), by striking “2018” and inserting “2023”.
 
 | | |
 |---|---|
