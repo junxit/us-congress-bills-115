@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6206
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6206
@@ -29,3 +29,10 @@ Coast Guard Blue Technology Center of Expertise Act
 - 2018-06-25 — Introduced in House
 - 2018-06-25 — Introduced in House
 - 2018-06-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-06-26 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported by Voice Vote.
+- 2018-06-27 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2018-11-13 — Placed on the Union Calendar, Calendar No. 799.
+- 2018-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-1020.
+- 2018-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-1020.
