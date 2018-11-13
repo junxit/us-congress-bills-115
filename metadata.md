@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6064
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6064
@@ -58,3 +58,11 @@ To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolf
 - 2018-10-12 — Placed on the House Calendar, Calendar No. 188.
 - 2018-10-12 — Reported by the Committee on Natural Resources. H. Rept. 115-986.
 - 2018-10-12 — Reported by the Committee on Natural Resources. H. Rept. 115-986.
+- 2018-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-11-13 — Considered as unfinished business. (consideration: CR H9498)
+- 2018-11-13 — Considered under suspension of the rules. (consideration: CR H0479-9480)
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6064.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill.
+- 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 4, 2 Present (Roll no. 416). (text: CR H9479-9480)
+- 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 4, 2 Present (Roll no. 416).(text: CR H9479-9480)
