@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4033
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4033
@@ -38,3 +38,9 @@ National Geologic Mapping Act Reauthorization Act
 - 2018-01-12 — Placed on the Union Calendar, Calendar No. 385.
 - 2018-01-12 — Reported by the Committee on Natural Resources. H. Rept. 115-515.
 - 2018-01-12 — Reported by the Committee on Natural Resources. H. Rept. 115-515.
+- 2018-11-13 — Considered under suspension of the rules. (consideration: CR H9475-9476)
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4033.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill.
+- 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9475)
+- 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9475)
