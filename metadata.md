@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5706
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5706
@@ -42,3 +42,9 @@ World War II Pacific Sites Establishment Act
 - 2018-10-23 — Placed on the Union Calendar, Calendar No. 773.
 - 2018-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-991.
 - 2018-10-23 — Reported by the Committee on Natural Resources. H. Rept. 115-991.
+- 2018-11-13 — Considered under suspension of the rules. (consideration: CR H9485-9487)
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5706.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9485-9486)
+- 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9485-9486)
