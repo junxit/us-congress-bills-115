@@ -1,7 +1,7 @@
 ---
 measure: S. 2074
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2074
@@ -37,3 +37,12 @@ A bill to establish a procedure for the conveyance of certain Federal property a
 - 2018-08-01 — By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-314.
 - 2018-10-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6550-6551; text: CR S6550-6551)
 - 2018-10-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6550-6551; text: CR S6550-6551)
+- 2018-10-05 — Message on Senate action sent to the House.
+- 2018-10-09 — Held at the desk.
+- 2018-10-09 — Received in the House.
+- 2018-11-13 — Considered under suspension of the rules. (consideration: CR H9482-9483)
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on S. 2074.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
+- 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9482-9483)
+- 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9482-9483)
