@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2593
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 308 of title 46, United States Code, is amended by striking “$24,700,000 for each of fiscal years 2016 and 2017” and inserting “$28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 40102 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (7) by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (8) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8) by striking the period at the end and inserting “;”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost” and inserting “produce an unreasonable reduction in transportation service, produce an unreason… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
