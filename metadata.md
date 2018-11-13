@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6175
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6175
@@ -29,3 +29,10 @@ Maritime Safety Act of 2018
 - 2018-06-21 — Introduced in House
 - 2018-06-21 — Introduced in House
 - 2018-06-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-06-22 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported by Voice Vote.
+- 2018-06-27 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2018-11-13 — Placed on the Union Calendar, Calendar No. 798.
+- 2018-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-1019.
+- 2018-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-1019.
