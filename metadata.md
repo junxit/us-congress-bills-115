@@ -1,7 +1,7 @@
 ---
 measure: S. 2374
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2374
@@ -16,12 +16,18 @@ Stopping Improper Payments to Deceased People Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (4)
+## Cosponsors (10)
 
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Heitkamp, Heidi [D-ND] (H001069)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
 
 ## Committees (1)
 
@@ -31,3 +37,7 @@ Stopping Improper Payments to Deceased People Act
 
 - 2018-02-05 — Introduced in Senate
 - 2018-02-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-352.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-352.
+- 2018-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 639.
