@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5079
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5079
@@ -50,3 +50,7 @@ DHS Field Engagement Accountability Act
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-606.
 - 2018-03-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-606.
 - 2018-03-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-355.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-355.
+- 2018-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 642.
