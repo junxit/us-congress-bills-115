@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6651
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6651
@@ -47,3 +47,10 @@ PEPFAR Extension Act of 2018
 - 2018-11-09 — Placed on the Union Calendar, Calendar No. 793.
 - 2018-11-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-1014.
 - 2018-11-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-1014.
+- 2018-11-13 — Considered under suspension of the rules. (consideration: CR H9488-9491)
+- 2018-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6651.
+- 2018-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-13 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H 9488)
+- 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H 9488)
+- 2018-11-13 — The title of the measure was amended. Agreed to without objection.

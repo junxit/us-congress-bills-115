@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6651
 
-> To extend certain authorities relating to United Sates efforts to combat HIV/AIDS, tuberculosis, and malaria globally, and for other purposes.
+> To extend certain authorities relating to United States efforts to combat HIV/AIDS, tuberculosis, and malaria globally, and for other purposes.
 
 ## § 1. Short title
 
