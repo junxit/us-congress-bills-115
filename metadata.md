@@ -1,7 +1,7 @@
 ---
 measure: S. 3484
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3484
@@ -28,3 +28,7 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2018
 
 - 2018-09-24 — Introduced in Senate
 - 2018-09-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-354.
+- 2018-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-354.
+- 2018-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 641.
