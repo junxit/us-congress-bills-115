@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2074
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2074
 
-That the bill from the Senate (S. 2074) entitled “An Act to establish a procedure for the conveyance of certain Federal property around the Jamestown Reservoir in the State of North Dakota, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To establish a procedure for the conveyance of certain Federal property around the Jamestown Reservoir in the State of North Dakota, and for other purposes.
 
 ## § 1. Definitions
 

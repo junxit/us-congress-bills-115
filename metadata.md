@@ -1,7 +1,7 @@
 ---
 measure: S. 2074
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2074
@@ -46,3 +46,13 @@ A bill to establish a procedure for the conveyance of certain Federal property a
 - 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
 - 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9482-9483)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9482-9483)
+- 2018-11-14 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-11-27 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S7141)
+- 2018-11-27 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S7141)
+- 2018-11-28 — Message on Senate action sent to the House.
+- 2018-11-29 — Presented to President.
+- 2018-11-29 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-308.
+- 2018-12-11 — Became Public Law No: 115-308.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
