@@ -50,7 +50,7 @@ In this Act, the terms agency, Director, Federal award, and Secretary have the m
 ## § 7. Evaluation of nonproprietary identifiers
 
 - **(a)** *Determination required* The Director and the Secretary shall determine whether to use nonproprietary identifiers described in section 6402(a)(3)(B) of title 31, United States Code, as added by section 4(a) of this Act.
-- **(b)** *Factors To be considered* In making the determination required under subsection (a), the Director and the Secretary shall consider factors such as accessibility and cost to recipients of Federal awards, agencies that issue Federal awards, private sector experts, and members of the public, including privacy experts and privacy advocates.
+- **(b)** *Factors To be considered* In making the determination required under subsection (a), the Director and the Secretary shall consider factors such as accessibility and cost to recipients of Federal awards, agencies that issue Federal awards, private sector experts, and members of the public, including privacy experts and privacy advocates, privacy advocates, transparency experts, and transparency advocates.
 - **(c)** *Publication and report on determination* Not later than the earlier of 1 year after the date of enactment of this Act or the date on which the Director and the Secretary establish data standards pursuant to section 6402(a)(2) of title 31, United States Code, as added by section 4(a) of this Act, the Director and the Secretary shall publish and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report explaining the reasoning for the determination made under subsection (a).
 
 ## § 8. Rule of construction
