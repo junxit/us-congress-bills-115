@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2593
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2593
@@ -31,3 +31,10 @@ Federal Maritime Commission Authorization Act of 2017
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Introduced in House
 - 2017-05-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2017-05-24 — Committee Consideration and Mark-up Session Held.
+- 2017-05-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2017-05-24 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2017-05-24 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2018-11-13 — Placed on the Union Calendar, Calendar No. 796.
+- 2018-11-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-1017.
+- 2018-11-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-1017.
