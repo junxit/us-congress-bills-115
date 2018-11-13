@@ -2,12 +2,14 @@
 legis-num: S. 440
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 440
 
-> To establish a procedure for the conveyance of certain Federal property around the Dickinson Reservoir in the State of North Dakota.
+That the bill from the Senate (S. 440) entitled “An Act to establish a procedure for the conveyance of certain Federal property around the Dickinson Reservoir in the State of North Dakota.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Definitions
 
@@ -48,7 +50,7 @@ In this Act:
   - **(1)** *In General* If the Department sells any parcel of permitted cabin land conveyed under subsection (a)(1)(B), the parcel shall be sold at fair market value, as determined by a third-party appraiser in accordance with the Uniform Standards of Professional Appraisal Practice, subject to paragraph (2).
   - **(2)** *Improvements* For purposes of an appraisal conducted under paragraph (1), any improvements on the permitted cabin land made by the permit holder shall not be included in the appraised value of the land.
   - **(3)** *Proceeds from the Sale of Land by the Department* If the Department sells a parcel of permitted cabin land conveyed under subsection (a)(1)(B), the Department shall pay to the Secretary the amount of any proceeds of the sale that exceed the costs of preparing the sale by the Department.
-- **(d)** *Availability of funds to the Secretary* Any amounts paid to the Secretary for land conveyed by the Secretary under this Act shall be made available to the Secretary, without further appropriation, for activities relating to the operation of the Dickinson Dam and Reservoir.
+- **(d)** *Availability of funds to the Secretary* Any amounts paid to the Secretary for land conveyed by the Secretary under this Act shall be made available to the Secretary, subject to the availability of appropriations made in advance, for activities relating to the operation of the Dickinson Dam and Reservoir.
 
 ## § 3. Conveyance of game and fish headquarters to the State
 
