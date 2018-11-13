@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5326
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5326
@@ -29,3 +29,9 @@ Maritime Technical Corrections Act of 2018
 - 2018-03-19 — Introduced in House
 - 2018-03-19 — Introduced in House
 - 2018-03-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-03-20 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2018-04-12 — Committee Consideration and Mark-up Session Held.
+- 2018-04-12 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2018-11-13 — Placed on the Union Calendar, Calendar No. 794.
+- 2018-11-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-1015.
+- 2018-11-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-1015.
