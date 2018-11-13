@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5326
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -296,11 +296,11 @@ to guess them.
 
 ### 23 U.S.C. § 401
 
-> Section 7505 of title 46, United States Code, is amended by striking “section 206(b)(7) of the National Driver Registration Act of 1982 (23 U.S.C. 401 note)” and inserting “section 30305(b)(7) of title 49”.
+> Section 7505 of title 46, United States Code, is amended by striking “section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)” and inserting “section 30305(b)(7) of title 49”.
 
 | | |
 |---|---|
-| Removed | `section 206(b)(7) of the National Driver Registration Act of 1982 (23 U.S.C. 401 note)` |
+| Removed | `section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)` |
 | Inserted | `section 30305(b)(7) of title 49` |
 
 ### 23 U.S.C. § 401
@@ -350,11 +350,11 @@ to guess them.
 
 ### 23 U.S.C. § 401
 
-> Section 13107(c)(2) of title 46, United States Code, is amended by striking “On or after October 1, 2016, no” and inserting “No”.
+> Section 13107(c)(2) of title 46, United States Code, is amended by striking “On and after October 1, 2016, no” and inserting “No”.
 
 | | |
 |---|---|
-| Removed | `On or after October 1, 2016, no` |
+| Removed | `On and after October 1, 2016, no` |
 | Inserted | `No` |
 
 ### 23 U.S.C. § 401
@@ -449,11 +449,11 @@ to guess them.
 
 ### 50 U.S.C. § 191
 
-> Section 1 of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191), is amended by striking “the Secretary of Transportation” and inserting “the Secretary of the department in which the Coast Guard is operating”.
+> Section 1 of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191), is amended by striking “the Secretary of the Treasury” and inserting “the Secretary of the department in which the Coast Guard is operating”.
 
 | | |
 |---|---|
-| Removed | `the Secretary of Transportation` |
+| Removed | `the Secretary of the Treasury` |
 | Inserted | `the Secretary of the department in which the Coast Guard is operating` |
 
 ## Stated, not applied
