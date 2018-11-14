@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6040
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6040
@@ -46,3 +46,7 @@ Contra Costa Canal Transfer Act
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8160-8161)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8160-8161)
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-362.
+- 2018-11-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-362.
+- 2018-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
