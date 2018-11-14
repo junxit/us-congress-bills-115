@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6018
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6018
@@ -37,9 +37,10 @@ Trans-Sahara Counterterrorism Partnership Act of 2018
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Trans-Sahara Counterterrorism Partnership Act of 2018
 - 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9495-9496)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9495-9496)
 - 2018-11-13 — The title of the measure was amended. Agreed to without objection.
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
