@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5636
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5636
@@ -44,3 +44,14 @@ Flatside Wilderness Enhancement Act
 - 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9479)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9479)
 - 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate without amendment by Voice Vote. (text: CR S8025)
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S8025)
+- 2018-12-22 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S8025)
+- 2018-12-22 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S8025)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-10 — Became Public Law No: 115-430.
+- 2019-01-10 — Became Public Law No: 115-430.
+- 2019-01-10 — Signed by President.
+- 2019-01-10 — Signed by President.
