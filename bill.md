@@ -1,12 +1,18 @@
 ---
 legis-num: S. 140
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 140
 
-That the Senate agree to the amendment of the House of Representatives to the bill (S. 140) entitled “An Act to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund.”, with the following
+> To authorize appropriations for the Coast Guard, and for other purposes.
 
-*In lieu of the matter proposed to be inserted by the House amendment to the text of the bill, insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “Frank LoBiondo Coast Guard Authorization Act of 2018”.
+
+## § 2. Table of contents
+
+The table of contents of this Act is as follows:
