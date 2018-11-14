@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6651
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6651
@@ -54,3 +54,4 @@ PEPFAR Extension Act of 2018
 - 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H 9488)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H 9488)
 - 2018-11-13 — The title of the measure was amended. Agreed to without objection.
+- 2018-11-14 — Received in the Senate, read twice.
