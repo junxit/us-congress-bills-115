@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6651
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6651
@@ -55,3 +55,12 @@ PEPFAR Extension Act of 2018
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H 9488)
 - 2018-11-13 — The title of the measure was amended. Agreed to without objection.
 - 2018-11-14 — Received in the Senate, read twice.
+- 2018-11-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7193-7194)
+- 2018-11-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7193-7194)
+- 2018-11-29 — Message on Senate action sent to the House.
+- 2018-11-30 — Presented to President.
+- 2018-11-30 — Presented to President.
+- 2018-12-11 — Became Public Law No: 115-305.
+- 2018-12-11 — Became Public Law No: 115-305.
+- 2018-12-11 — Signed by President.
+- 2018-12-11 — Signed by President.
