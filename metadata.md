@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6146
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6146
@@ -24,9 +24,10 @@ Cottonwood Land Exchange Act of 2018
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Cottonwood Land Exchange Act of 2018
 - 2018-11-13 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
 - 2018-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9483-9484)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9483-9484)
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
