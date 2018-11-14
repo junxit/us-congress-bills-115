@@ -1,0 +1,18 @@
+---
+legis-num: S. 3621
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3621
+
+> To amend the Internal Revenue Code of 1986 to provide for a permanent extension of the lower threshold for the medical expense deduction.
+
+## § 1. Permanent extension of reduction in medical expense deduction floor
+
+- **(a)** *Reduction*
+  - **(1)** *In general* Section 213(a) of the Internal Revenue Code of 1986 is amended by striking “10 percent” and inserting “7.5 percent”.
+  - **(2)** *Conforming amendment* Section 213 of such Code is amended by striking subsection (f).
+- **(b)** *Repeal of minimum tax preference* Section 56(b)(1) of the Internal Revenue Code of 1986 is amended by striking subparagraph (B).
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2018.
