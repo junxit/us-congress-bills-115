@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5317
@@ -49,3 +49,7 @@ To repeal section 2141 of the Revised Statutes to remove the prohibition on cert
 - 2018-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8159)
 - 2018-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8159)
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2018-10-03 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-11-14 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-363.
+- 2018-11-14 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-363.
+- 2018-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
