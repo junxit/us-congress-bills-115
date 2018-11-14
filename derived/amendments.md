@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2069
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 3 executed, 12 stated and not applied.
+19 amendatory instructions. 3 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,23 +33,23 @@ to guess them.
 | Removed | `(v)` |
 | Inserted | `(vi)` |
 
-### 42 U.S.C. § 1437d
+### 42 U.S.C. § 1437f
 
-> by striking “this subparagraph” and inserting “this clause”; and
+> in clause (i), by striking “may” the first place such term appears and inserting “shall”;
 
 | | |
 |---|---|
-| Removed | `this subparagraph` |
-| Inserted | `this clause` |
+| Removed | `may` |
+| Inserted | `shall` |
 
 ### 42 U.S.C. § 1437f
 
-> in clause (iii), as so redesignated by paragraph (1) of this subsection, by striking “this subparagraph” and inserting “clause (ii)”.
+> in clause (iii), as so redesignated by paragraph (2) of this subsection, by striking “Each system” and inserting “Except as provided in clause (ii)(I), each system”.
 
 | | |
 |---|---|
-| Removed | `this subparagraph` |
-| Inserted | `clause (ii)` |
+| Removed | `Each system` |
+| Inserted | `Except as provided in clause (ii)(I), each system` |
 
 ## Stated, not applied
 
@@ -62,13 +62,17 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1437a` | insert | by inserting after “tenant family,” the following: “(v) a child who is in foster care and has attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | insert | in the second sentence, by inserting “or (vi)” after “clause (v)”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1437d` | replace | by striking the subparagraph designation and all that follows through “making dwelling units available” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | redesignate | by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | redesignate | by inserting before clause (ii), as so redesignated by paragraph (1) of this subsection, the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | redesignate | in clause (ii), as so redesignated by paragraph (1) of this subsection, by inserting “that is not made available in accordance with the preference under clause (i)” after “under this subsection”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1437f` | insert | in the first sentence, by inserting before the period at the end the following: “, except that the agency shall give preference to otherwise eligible children who are in foster care, have attained an age such that the provision of foster… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | replace | in the third sentence, by striking “The agency” and inserting the following: “For units that are made available after preference is provided pursuant to the first sentence of this subparagraph, the agency”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437d` | replace | by striking “may establish a system for making dwelling units available that provides preference” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437d` | replace | by striking “each system of preferences established pursuant to this subparagraph shall be based” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437d` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | redesignate | by redesignating clause (ii) as clause (iii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | redesignate | by inserting before clause (iii), as so redesignated by paragraph (1) of this subsection, the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | replace | by striking “(J) Tenant selection.—A public” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437f` | replace | by striking “The agency or owner may establish preferences or criteria for selection for a unit assisted under this paragraph that” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437f` | replace | by striking “Any family that” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1437f` | replace | by striking “except that with respect” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1437f` | insert | by inserting “after preference is provided pursuant to clause (i)” after “to be assisted”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437f` | insert | by inserting “who are not eligible for highest preference pursuant to clause (i)(I)” after “to be assisted”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437` | add-at-end | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490a` | add-at-end | Paragraph (2) of section 521(a) of the Housing Act of 1949 (42 U.S.C. 1490a(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | The first sentence of clause (ii) of section 8(o)(13)(B) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(B)(ii)) is amended by inserting before “or that” the following: “that house eligible children described in section … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | Subclause (I) of section 8(o)(13)(D)(ii) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(D)(ii)(I)) is amended by inserting after “elderly families” the following: “, to eligible children described in section 6(c)(4)(A)(… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
