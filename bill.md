@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2069
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fostering Stable Housing Opportunities Act of 2017”.
+This Act may be cited as the “Fostering Stable Housing Opportunities Act of 2018”.
 
 ## § 2. Definition of family
 
@@ -25,85 +25,119 @@ Subparagraph (A) of section 3(b)(3) of the United States Housing Act of 1937 (42
 ## § 3. Priority for public housing occupancy and section 8 assistance
 
 - **(a)** *Public housing* Subparagraph (A) of section 6(c)(4) of the United States Housing Act of 1937 (42 U.S.C. 1437d(c)(4)(A)) is amended—
-  - **(1)** by striking “this subparagraph” and inserting “this clause”; and
-  - **(2)** by striking the subparagraph designation and all that follows through “making dwelling units available” and inserting the following:
-    > - **(A)** making dwelling units in public housing available for occupancy, which shall provide that—
-    >   - **(i)** except for projects or portions of projects designated for occupancy pursuant to section 7(a), preference shall be given to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 38(c); and
-    >   - **(ii)** the public housing agency may establish a system for making dwelling units that are not occupied pursuant to the preference under clause (i) available
+  - **(1)** by striking “may establish a system for making dwelling units available that provides preference” and inserting the following:
+    > shall establish a system for making dwelling units available that—
+    > - **(i)** shall provide preferences
+
+  - **(2)** by striking “each system of preferences established pursuant to this subparagraph shall be based” and inserting the following:
+    > - **(ii)** except as provided in clause (iii), shall be based
+
+  - **(3)** by adding at the end the following new clause:
+    > - **(iii)** except for projects or portions of projects designated for occupancy pursuant to section 7(a), shall provide that the highest preference for occupancy shall be given to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 39(c); and
+    > - **(iv)** may provide highest preference for occupancy to, in addition to eligible children described in clause (iii), not more than two other types of families.
 
 - **(b)** *Voucher assistance* Subparagraph (A) of section 8(o)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(6)(A)) is amended—
-  - **(1)** by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively;
-  - **(2)** by inserting before clause (ii), as so redesignated by paragraph (1) of this subsection, the following new clause:
-    > - **(i)** *Children aging-out of foster care* In making tenant-based assistance under this subsection available on behalf of eligible families, each public housing agency shall give preference to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 38(c).
+  - **(1)** in clause (i), by striking “may” the first place such term appears and inserting “shall”;
+  - **(2)** by redesignating clause (ii) as clause (iii);
+  - **(3)** by inserting before clause (iii), as so redesignated by paragraph (1) of this subsection, the following new clause:
+    > - **(ii)** *Highest preference* Each system of preferences established pursuant to this subparagraph—
+    >   - **(I)** shall provide that the highest preference for assistance shall be given to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 39(c); and
+    >   - **(II)** may provide highest preference for assistance to, in addition to eligible children described in subclause (I), not more than two other types of eligible families.
 
-  - **(3)** in clause (ii), as so redesignated by paragraph (1) of this subsection, by inserting “that is not made available in accordance with the preference under clause (i)” after “under this subsection”; and
-  - **(4)** in clause (iii), as so redesignated by paragraph (1) of this subsection, by striking “this subparagraph” and inserting “clause (ii)”.
-- **(c)** *PHA project-Based voucher assistance* Subparagraph (J) of section 8(o)(13) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(J)) is amended—
-  - **(1)** in the first sentence, by inserting before the period at the end the following: “, except that the agency shall give preference to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 38(c)”; and
-  - **(2)** in the third sentence, by striking “The agency” and inserting the following: “For units that are made available after preference is provided pursuant to the first sentence of this subparagraph, the agency”.
-- **(d)** *Project-Based section 8 rental assistance* Subparagraph (A) of section 8(d)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(d)(1)(A)) is amended—
-  - **(1)** by striking “except that with respect” and inserting the following:
+  - **(4)** in clause (iii), as so redesignated by paragraph (2) of this subsection, by striking “Each system” and inserting “Except as provided in clause (ii)(I), each system”.
+- **(c)** *PHA project-based voucher assistance* Subparagraph (J) of section 8(o)(13) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(J)) is amended—
+  - **(1)** by striking “(J) Tenant selection.—A public” and inserting the following:
+    > - **(J)** *Tenant selection*
+    >   - **(i)** *Selection and eligibility* A public
+
+  - **(2)** by striking “The agency or owner may establish preferences or criteria for selection for a unit assisted under this paragraph that” and inserting the following:
+    > - **(ii)** *Preferences for occupancy* The agency or owner shall establish a system of preferences or criteria for selection for a unit assisted under this section that—
+    >   - **(I)** shall provide that the highest preference shall be given to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 39(c); and
+    >   - **(II)** may provide highest preference to, in addition to eligible children described in subclause (I), not more than two other types of eligible families; and
+    >   - **(III)** except as provided under subclause (I),
+
+  - **(3)** by striking “Any family that” and inserting the following:
+    > - **(iii)** *Waiting lists* Any family that
+
+- **(d)** *Project-based section 8 rental assistance* Subparagraph (A) of section 8(d)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(d)(1)(A)) is amended—
+  - **(1)** by realigning such subparagraph so as to be indented 2 ems from the left margin;
+  - **(2)** by striking “except that with respect” and inserting the following:
     > except that—
-    > - **(i)** in the case of assisted dwelling units in a project assisted with project-based assistance under this section, the tenant selection criteria used by the owner shall give preference to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 38(c); and
+    > - **(i)** with respect to assisted dwelling units in a project assisted with project-based assistance under this section, the tenant selection criteria used by the owner—
+    >   - **(I)** shall provide that the highest preference shall be given to otherwise eligible children who are in foster care, have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months, meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016, and have agreed to comply with the requirements under section 39(c); and
+    >   - **(II)** may provide highest preference to, in addition to eligible children described in subclause (I), not more than two other types of eligible families; and
     > - **(ii)** with respect
 
-  - **(2)** by inserting “after preference is provided pursuant to clause (i)” after “to be assisted”.
+  - **(3)** by inserting “who are not eligible for highest preference pursuant to clause (i)(I)” after “to be assisted”.
 - **(e)** *Terms and conditions on priority* Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following new section:
-  > ## § 38. Terms and conditions on preference for assistance for children aging out of foster care
+  > ## § 39. Terms and conditions on preference for assistance for children aging out of foster care
   >
   > - **(a)** *Preference* For purposes of this section, the term “preference for housing assistance” means preference, for an otherwise eligible child in foster care, for—
-  >   - **(1)** occupancy in a public housing dwelling unit, pursuant to section 6(c)(4)(A)(i);
-  >   - **(2)** tenant-based assistance under section 8(o), pursuant to paragraph (6)(A)(i) of such section;
-  >   - **(3)** project-based assistance under section 8(o)(13), pursuant to subparagraph (J) of such section; and
-  >   - **(4)** occupancy in a dwelling unit in a project assisted with project-based assistance under section 8, pursuant to subsection (d)(1)(A)(i) of such section.
+  >   - **(1)** occupancy in a public housing dwelling unit, pursuant to section 6(c)(4)(A)(iii);
+  >   - **(2)** tenant-based assistance under section 8(o), pursuant to paragraph (6)(A)(ii)(I) of such section;
+  >   - **(3)** project-based assistance under section 8(o)(13), pursuant to subparagraph (J)(ii)(I) of such section; and
+  >   - **(4)** occupancy in a dwelling unit in a project assisted with project-based assistance under section 8, pursuant to subsection (d)(1)(A)(i)(I) of such section.
   > - **(b)** *Early application for assistance* Notwithstanding the period during which a preference for housing assistance is provided for a person, an otherwise eligible person may apply for such occupancy or assistance at any time after such person attains 16 years of age.
-  > - **(c)** *Requirement for employment, education, or training*
-  >   - **(1)** *In general* Except as provided in paragraph (2), each person occupying a dwelling unit pursuant to a preference for housing assistance shall be, not later than 12 months after such initial occupancy and for at least 9 months of each successive 12-month period thereafter—
-  >     - **(A)** employed on average at least 35 hours of service per week;
-  >     - **(B)** engaged in vocational, technical, or workforce development training or in an apprenticeship, on a full-time basis, as classified by a vocational, technical, or workforce development training institution or entity;
-  >     - **(C)** enrolled in a secondary school, an institution of higher education, or other institution providing post-secondary education, on a full-time basis, as classified by an educational institution; or
-  >     - **(D)** engaged in a combination of activities described in subparagraphs (A) through (C) to such an extent that, in the aggregate, such engagement is on such a full-time basis.
+  > - **(c)** *Requirement for education or training*
+  >   - **(1)** *Requirement* Except as provided in paragraph (2), each person occupying a dwelling unit pursuant to a preference for housing assistance shall, not later than 30 months after such initial occupancy, comply with the requirements under one of the following subparagraphs, as selected by the public housing agency for or project owner of the assisted housing dwelling unit involved, in consultation with relevant public child welfare agencies:
+  >     - **(A)** *Option 1* The requirements under this subparagraph are—
+  >       - **(i)** obtaining a recognized postsecondary credential or a secondary school diploma or its recognized equivalent;
+  >       - **(ii)** enrollment in an institution of higher education, as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)) and including the institutions described in subparagraphs (A) and (B) of section 102(a)(1) of such Act (20 U.S.C. 1002(a)(1)); or
+  >       - **(iii)** participation in a career pathway, as such term is defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
+  >     - **(B)** *Option 2* The requirements under this subparagraph are compliance with the terms and conditions applicable under section 23 of the United States Housing Act of 1937 (42 U.S.C. 1437u) and the regulations implementing such section to a person participating in a family self-sufficiency program under such section, except that—
+  >       - **(i)** a public housing agency may select the option under this subparagraph only if the agency is participating in such self-sufficiency program or has made such commitments to commence participation as the Secretary considers sufficient; and
+  >       - **(ii)** a project owner of assisted housing may select the option under this subparagraph only if the public housing agency in whose jurisdiction the project is located is participating in such self-sufficiency program or has made such commitments to commence participation as the Secretary considers sufficient.
+  >     - **(C)** *Option 3* The requirements under this subparagraph are compliance with any combination of the terms, conditions, and requirements under subparagraphs (A) and (B), as may be established by the public housing agency, except that a project owner of assisted housing may select the option under this subparagraph only if the public housing agency in whose jurisdiction the project is located has selected the option under this subparagraph and has established such terms, conditions, and requirements. In designing such terms, conditions, and requirements, the public housing agency may consult with local workforce development agencies and other organizations and entities with expertise and experience in this field.
   >   - **(2)** *Exceptions* The requirement under paragraph (1) shall not apply to—
-  >     - **(A)** a person physically or mentally unfit for employment, as determined in accordance with such standards as the Secretary shall establish;
-  >     - **(B)** a parent or other household member responsible for the care of a dependent child under 6 or an incapacitated person; and
-  >     - **(C)** a person who is regularly and actively participating in a drug addiction or alcoholic treatment and rehabilitation program.
+  >     - **(A)** a parent or other household member responsible for the care of a dependent child under the age of 6 or for the care of an incapacitated person;
+  >     - **(B)** a person who is regularly and actively participating in a drug addiction or alcohol treatment and rehabilitation program; and
+  >     - **(C)** a person who is incapable of complying with the requirement under paragraph (1) due to a documented medical condition.
+  >   - **(3)** *Verification of compliance* The Secretary shall require the public housing agency or project owner, as applicable, to verify compliance with the requirement under paragraph (1) by each person occupying a dwelling unit assisted or administered by such agency or owner, as applicable, pursuant to a preference for housing assistance annually in conjunction with reviews of income for purposes of determining eligibility for assistance described in subsection (a).
   > - **(d)** *Limitation on bedrooms* A dwelling unit that is occupied by a person, or assisted with assistance made available on behalf of a person, pursuant to a preference for housing assistance may contain more than one bedroom only if such additional bedrooms are occupied only by other persons who occupy such dwelling unit, or receive assistance made available, pursuant to a preference for housing assistance.
-  > - **(e)** *Termination of assistance* The public housing agency or project owner, as applicable, shall terminate any occupancy of, or assistance on behalf of, a person pursuant to any preference for housing assistance upon the person attaining 25 years of age or upon substantial noncompliance with the requirement under subsection (c), except that nothing in this clause may be construed to prohibit or affect the eligibility of any person for occupancy of housing assisted under this title or rental assistance under section 8, that is provided other than pursuant to a preference under this subparagraph.
+  > - **(e)** *Supportive services*
+  >   - **(1)** *Eligibility* Each person occupying a dwelling unit pursuant to a preference for housing assistance shall be eligible for any supportive services (as such term is defined in section 103 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)) made available, in connection with any housing assistance program of the agency, by or through the public housing agency providing such preference or, in the case of a preference for housing assistance for housing not assisted by such agency, by or through the public housing agency in whose jurisdiction the housing is located, including any services provided under a family self-sufficiency program under section 23 of this Act.
+  >   - **(2)** *Information* Upon the initial provision of housing assistance for any person pursuant to a preference for such assistance, the public housing agency or owner, as applicable, shall inform such person of the existence of any programs or services referred to in paragraph (1) and of their eligibility for such programs and services.
+  > - **(f)** *Termination of assistance* The public housing agency or project owner, as applicable, shall terminate any occupancy of, or assistance on behalf of, a person pursuant to any preference for housing assistance upon the person attaining 25 years of age or upon substantial noncompliance with the requirement under subsection (c), except that nothing in this subsection may be construed to prohibit the occupancy of housing assisted under this title by, or the provision of rental assistance under section 8 for, any person, or to affect the eligibility of any person for such occupancy or assistance, other than pursuant to a preference for housing assistance.
+  > - **(g)** *Applicability to Moving to Work agencies* Notwithstanding any other provision of law, the preferences for housing assistance identified in subsection (a) of this section shall apply to assistance made available by each public housing agency participating in the Moving to Work Program under section 204 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (42 U.S.C. 1437f note), except that in lieu of compliance with one of the options under subsection (c)(1) of this section, such an agency may comply with the requirement under such subsection by complying with such terms, conditions, and requirements as may be established by the agency for persons occupying dwelling units pursuant to a preference for housing assistance.
+  > - **(h)** *Reports* The Secretary of Housing and Urban Development shall require each public housing agency that provides any preference for housing assistance pursuant to this section in any fiscal year to submit a report to the Secretary for such fiscal year that—
+  >   - **(1)** specifies the number of applications for such preferences received during such fiscal year disaggregated by—
+  >     - **(A)** the number received by persons who have attained 16 years of age but have not attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months; and
+  >     - **(B)** the number received by persons who have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months;
+  >   - **(2)** specifies the number of persons provided a preference for housing assistance during such fiscal year; and
+  >   - **(3)** describes how the public housing agency communicated or collaborated with public child welfare agencies to collect such data.
 
 ## § 4. Priority for rural rental assistance
 
 Paragraph (2) of section 521(a) of the Housing Act of 1949 (42 U.S.C. 1490a(a)(2)) is amended by adding at the end the following new subparagraph:
 
 > - **(F)**
->   - **(i)** In making occupancy in a project assisted under this paragraph, and rental assistance under this paragraph, available on behalf of eligible families, the project owner shall give preference to otherwise eligible children who—
->     - **(I)** are in foster care;
->     - **(II)** have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months;
->     - **(III)** meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary of Housing and Urban Development’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016; and
->     - **(IV)** have agreed to comply with the requirements under clause (iii).
->   - **(ii)** Notwithstanding the period during which a preference pursuant to clause (i) for occupancy in a project assisted under this paragraph or for rental assistance under this paragraph is provided for a person, an otherwise eligible person may apply for such occupancy or assistance at any time after the person attains 16 years of age.
+>   - **(i)** In making occupancy in a project assisted under this paragraph, and rental assistance under this paragraph, available on behalf of eligible families, the project owner—
+>     - **(I)** shall provide that the highest preference shall be given to otherwise eligible children who—
+>       - **(aa)** are in foster care;
+>       - **(bb)** have attained an age such that the provision of foster care for such child will end by reason of the age of the child within 6 months;
+>       - **(cc)** meet the requirements under clauses (i) and (ii) of paragraph (1) of the definition of “at risk of homelessness” in section 91.5 of the Secretary of Housing and Urban Development’s regulations (24 C.F.R. 91.5), as in effect on September 1, 2016; and
+>       - **(dd)** have agreed to comply with the requirements under clause (iii); and
+>     - **(II)** may provide highest preference to, in addition to eligible children described in subclause (I), not more than two other types of eligible families.
+>   - **(ii)** Notwithstanding the period during which a preference pursuant to clause (i)(I) for occupancy in project assisted under this paragraph or for rental assistance under this paragraph is provided for a person, an otherwise eligible person may apply for such occupancy or assistance at any time after the person attains 16 years of age.
 >   - **(iii)**
->     - **(I)** Except as provided in subclause (II), each person occupying a dwelling unit pursuant to a preference under this subparagraph shall be, not later than 12 months after such initial occupancy and for at least 9 months of each successive 12-month period thereafter—
->       - **(aa)** employed on average at least 35 hours of service per week;
->       - **(bb)** engaged in vocational, technical, or workforce development training or in an apprenticeship, on a full-time basis, as classified by a vocational, technical, or workforce development training institution or entity;
->       - **(cc)** enrolled in a secondary school, an institution of higher education, or other institution providing post-secondary education, on a full-time basis, as classified by an educational institution; or
->       - **(dd)** engaged in a combination of activities described in items (aa) through (cc) to such an extent that, in the aggregate, such engagement is on such a full-time basis.
+>     - **(I)** Except as provided in subclause (II), each person occupying a dwelling unit pursuant to a preference under clause (i)(I) shall, not later than 30 months after such initial occupancy, be—
+>       - **(aa)** obtaining a recognized postsecondary credential or a secondary school diploma or its recognized equivalent;
+>       - **(bb)** enrolled in an institution of higher education, as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)) and including the institutions described in subparagraphs (A) and (B) of section 102(a)(1) of such Act (20 U.S.C. 1002(a)(1)); or
+>       - **(cc)** participating in a career pathway, as such term is defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 >     - **(II)** The requirement under subclause (I) shall not apply to—
->       - **(aa)** a person physically or mentally unfit for employment, as determined in accordance with such standards as the Secretary shall establish;
->       - **(bb)** a parent or other household member responsible for the care of a dependent child under 6 or an incapacitated person; and
->       - **(cc)** a person who is regularly and actively participating in a drug addiction or alcoholic treatment and rehabilitation program.
->   - **(iv)** A dwelling unit that is occupied by a person pursuant to a preference under this subparagraph may contain more than one bedroom only if such additional bedrooms are occupied only by other persons who occupy such dwelling unit pursuant to a preference under this subparagraph.
->   - **(v)** The project owner shall terminate any occupancy of a person pursuant to the preference under clause (i) upon the person attaining 25 years of age or upon substantial noncompliance with the requirement under clause (ii), except that nothing in this clause may be construed to prohibit or affect the eligibility of any person for occupancy in a project assisted under this paragraph or for rental assistance under this paragraph, other than pursuant to a preference under this subparagraph.
+>       - **(aa)** a parent or other household member responsible for the care of a dependent child under the age of 6 or for the care of an incapacitated person;
+>       - **(bb)** a person who is regularly and actively participating in a drug addiction or alcohol treatment and rehabilitation program; and
+>       - **(cc)** a person who is incapable of complying with the requirement under subclause (I) due to a documented medical condition.
+>     - **(III)** The Secretary shall require a project owner to verify compliance with the requirement under this clause by each person occupying a dwelling unit pursuant to a preference under clause (i)(I) annually in conjunction with reviews of income for purposes of determining eligibility for assistance described in clause (i).
+>   - **(iv)** A dwelling unit that is occupied by a person pursuant to a preference under clause (i)(I) may contain more than one bedroom only if such additional bedrooms are occupied only by other persons who occupy such dwelling unit pursuant to a preference under clause (i)(I).
+>   - **(v)** The project owner shall terminate any occupancy of a person pursuant to the preference under clause (i)(I) upon the person attaining 25 years of age or upon substantial noncompliance with the requirement under clause (iii), except that nothing in this clause may be construed to prohibit the occupancy in a project assisted under this paragraph by, or the provision of rental assistance under this paragraph for, any person, or to affect the eligibility of any person for such occupancy or assistance, other than pursuant to a preference under clause (i)(I).
 
-## § 5. Reports to Congress
+## § 5. Exceptions to limitations for project-based voucher assistance
 
-- **(a)** *Requirement* The Secretary of Housing and Urban Development and the Secretary of Agriculture shall jointly submit reports to the Congress regarding the status and outcomes of persons provided preference for housing assistance pursuant to the amendments made by sections 2 through 4 of this Act.
-- **(b)** *Contents* Reports under this section shall include such information as may be necessary to assess and evaluate the long-term success of providing preference for housing assistance pursuant to such amendments and to identify any changes to facilitate improving such success. Such reports shall include information regarding the outcomes for persons provided such preference with respect to the period beginning upon initial provision of such housing assistance on behalf of such person and ending 10 years after termination of such assistance and shall include the following information regarding such persons:
-  - **(1)** Employment and career status.
-  - **(2)** Housing situation.
-  - **(3)** Educational, training, or vocational attainment.
-  - **(4)** Physical, mental, and emotional well-being (including any instances of substance abuse).
-  - **(5)** Instances of arrests, incarcerations, and other interactions with the criminal justice system.
-  - **(6)** Marital and familial status.
-  - **(7)** Any other relevant information as the Secretaries consider appropriate to facilitate successful operation of the program under the amendments made by this Act.
-- **(c)** *Protection of privacy* Reports under this section shall contain aggregate information regarding outcomes described in subsection (b) and shall not contain any personally identifiable information.
-- **(d)** *Timing* The first report under this section shall be submitted to the Congress not later than the expiration of the 10-year period beginning on the date of the enactment of this Act and the Secretaries referred to in subsection (a) shall submit a report not later than the expiration of each successive 5-year period thereafter.
+- **(a)** *Percentage limitation* The first sentence of clause (ii) of section 8(o)(13)(B) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(B)(ii)) is amended by inserting before “or that” the following: “that house eligible children described in section 6(c)(4)(A)(iii) who comply with the requirements under section 39(c),”.
+- **(b)** *Income-mixing requirement* Subclause (I) of section 8(o)(13)(D)(ii) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)(D)(ii)(I)) is amended by inserting after “elderly families” the following: “, to eligible children described in section 6(c)(4)(A)(iii),”.
+
+## § 6. Guidance regarding implementation
+
+- **(a)** *In general* The Secretary of Housing and Urban Development jointly with the Secretary of Agriculture, in consultation with the Secretary of Health and Human Services, shall develop guidance for public housing agencies and owners of assisted housing regarding how to correctly and efficiently implement and comply with the requirements of this Act and the amendments made by this Act and shall make such guidance available to such agencies and owners.
+- **(b)** *Consultation with HHS* The Secretary of Housing and Urban Development jointly with the Secretary of Agriculture shall consult with the Secretary of Health and Human Services to provide such information and guidance to the Secretary of Health and Human Services as may be necessary to facilitate such Secretary in informing States and public child welfare agencies on how to correctly and efficiently implement and comply with the requirements of this Act and the amendments made by this Act.
