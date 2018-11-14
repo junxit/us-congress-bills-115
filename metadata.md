@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5706
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5706
@@ -25,9 +25,10 @@ World War II Pacific Sites Establishment Act
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ World War II Pacific Sites Establishment Act
 - 2018-11-13 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9485-9486)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9485-9486)
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
