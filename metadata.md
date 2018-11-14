@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4033
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4033
@@ -20,9 +20,10 @@ National Geologic Mapping Act Reauthorization Act
 
 - Rep. Brown, Anthony G. [D-MD-4] (B001304)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ National Geologic Mapping Act Reauthorization Act
 - 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9475)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9475)
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
