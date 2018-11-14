@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6064
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6064
@@ -42,9 +42,10 @@ To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolf
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolf
 - 2018-11-13 — Mr. Lamborn moved to suspend the rules and pass the bill.
 - 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 4, 2 Present (Roll no. 416). (text: CR H9479-9480)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 4, 2 Present (Roll no. 416).(text: CR H9479-9480)
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
