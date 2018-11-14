@@ -1,7 +1,7 @@
 ---
 measure: S. 1012
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 4 executed, 7 stated and not applied.
+16 amendatory instructions. 4 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -76,3 +76,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c)(4), by striking “2 years after the date of enactment of this Act” and inserting “December 31, 2018”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g)(2), by striking “2010 through 2019” and inserting “2017 through 2025”. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 3834` | insert | Section 1234(g)(2)(B) of the Food Security Act of 1985 (16 U.S.C. 3834(g)(2)(B)) is amended by inserting “, including improving water conservation and drought mitigation” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10364` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10364` | replace | in clause (ii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10364` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (c)(4), by striking “2 years after the date of enactment of this Act” and inserting “December 31, 2019”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g)(2), by striking “2010 through 2019” and inserting “2018 through 2026”. | the bill names no machine-readable US Code section |
