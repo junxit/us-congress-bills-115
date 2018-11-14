@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1142
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1142
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 6784) to provide for removal of th
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2018-11-13 — Introduced in House
@@ -23,3 +27,9 @@ Providing for consideration of the bill (H.R. 6784) to provide for removal of th
 - 2018-11-13 — Provides for consideration of H.R. 6784 under a closed rule, with one motion to recommit allowed. Rule also provides for proceedings during the period from November 19, 2018 through November 26, 2018.
 - 2018-11-13 — The House Committee on Rules reported an original measure, H. Rept. 115-1022, by Mr. Newhouse.
 - 2018-11-13 — The House Committee on Rules reported an original measure, H. Rept. 115-1022, by Mr. Newhouse.
+- 2018-11-14 — Considered as privileged matter. (consideration: CR H9514-9522)
+- 2018-11-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 1142.
+- 2018-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 201 - 187 (Roll no. 418). (text: CR H9515)
+- 2018-11-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 201 - 187 (Roll no. 418).(text: CR H9515)
+- 2018-11-14 — The previous question was ordered without objection.
