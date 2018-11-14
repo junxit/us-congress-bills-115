@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2740
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2740
@@ -315,9 +315,10 @@ Rabbi Michoel Ber Weissmandl Congressional Gold Medal Act of 2017 (sic)
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -330,3 +331,4 @@ Rabbi Michoel Ber Weissmandl Congressional Gold Medal Act of 2017 (sic)
 - 2018-11-13 — Mr. Barr moved to suspend the rules and pass the bill.
 - 2018-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9474-9475)
 - 2018-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9474-9475)
+- 2018-11-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
