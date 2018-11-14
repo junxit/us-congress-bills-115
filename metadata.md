@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4446
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4446
@@ -53,3 +53,7 @@ To amend the Virgin Islands of the United States Centennial Commission Act to ex
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-822.
 - 2018-07-16 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-822.
 - 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-11-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-361.
+- 2018-11-14 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-361.
+- 2018-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
