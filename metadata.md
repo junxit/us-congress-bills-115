@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 140
@@ -154,3 +154,17 @@ Frank LoBiondo Coast Guard Authorization Act of 2018
 - 2018-11-14 — Roll call votes on amendments in Senate: Amendment SA 4054 as modified agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 241.
 - 2018-11-14 — Senate amendment agreed to: Amendment SA 4054 as modified agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 241.
 - 2018-11-14 — Senate concurred in the House amendment to S. 140 with an amendment (SA 4054 as modified) by Yea-Nay Vote. 94 - 6. Record Vote Number: 241.
+- 2018-11-15 — Notwithstanding the adoption of the motion to concur in the House amendment to S. 140 with further amendment (SA 4054 as modified), amendment SA 4054 is further modified by Unanimous Consent. (consideration: CR S6973-7019; text as further modified: S6973-7019)
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-11-16 — Pursuant to the provisions of S. Con. Res. 51, enrollment corrections on S. 140 have been made.
+- 2018-11-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to the House amendment to S. 140.
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Shuster moved that the House suspend the rules and agree to the Senate amendment to the House amendment. (consideration: CR H9604-9652)
+- 2018-11-27 — On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by voice vote. (text as House agreed to Senate Amendment: CR H9604-9647)
+- 2018-11-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by voice vote.(text as House agreed to Senate Amendment: CR H9604-9647)
+- 2018-12-03 — Presented to President.
+- 2018-12-03 — Presented to President.
+- 2018-12-04 — Became Public Law No: 115-282.
+- 2018-12-04 — Became Public Law No: 115-282.
+- 2018-12-04 — Signed by President.
+- 2018-12-04 — Signed by President.
