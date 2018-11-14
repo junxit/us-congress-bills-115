@@ -1,7 +1,7 @@
 ---
 measure: S. 2861
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 281 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 281 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 281 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 281 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
