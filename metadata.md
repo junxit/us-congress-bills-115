@@ -1,7 +1,7 @@
 ---
 measure: S. 3321
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3321
@@ -16,7 +16,7 @@ Hidden Figures Congressional Gold Medal Act
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (46)
+## Cosponsors (69)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
@@ -64,6 +64,29 @@ Hidden Figures Congressional Gold Medal Act
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Flake, Jeff [R-AZ] (F000444)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Donnelly, Joe [D-IN] (D000607)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murphy, Christopher [D-CT] (M001169)
 
 ## Committees (1)
 
@@ -73,3 +96,18 @@ Hidden Figures Congressional Gold Medal Act
 
 - 2018-08-01 — Introduced in Senate
 - 2018-08-01 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-11-15 — Amendment SA 4061 agreed to in Senate by Unanimous Consent.
+- 2018-11-15 — Amendment SA 4061 proposed by Senator McConnell for Senator Coons. (consideration: CR S7064-7065; text: CR S7064-7065) In the nature of a substitute.
+- 2018-11-15 — Amendment SA 4062 agreed to in Senate by Unanimous Consent.
+- 2018-11-15 — Amendment SA 4062 proposed by Senator McConnell for Senator Coons. (consideration: CR S7065; text: CR S7065) To amend the title.
+- 2018-11-15 — Measure laid before Senate by unanimous consent. (consideration: CR S7064-7065)
+- 2018-11-15 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-11-15 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-11-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2018-11-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2018-11-15 — Senate amendment agreed to: Amendment SA 4061 agreed to in Senate by Unanimous Consent.
+- 2018-11-15 — Senate amendment agreed to: Amendment SA 4062 agreed to in Senate by Unanimous Consent.
+- 2018-11-15 — Senate amendment proposed (on the floor): Amendment SA 4061 proposed by Senator McConnell for Senator Coons.(consideration: CR S7064-7065; text: CR S7064-7065)
+- 2018-11-15 — Senate amendment proposed (on the floor): Amendment SA 4062 proposed by Senator McConnell for Senator Coons.(consideration: CR S7065; text: CR S7065)
+- 2018-11-15 — Senate amendment submitted
+- 2018-11-15 — Senate amendment submitted
