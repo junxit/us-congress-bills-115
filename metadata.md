@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3460
 congress: 115
-version: Reference Change Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3460
@@ -58,3 +58,14 @@ To designate the United States courthouse located at 323 East Chapel Hill Street
 - 2018-11-15 — Referred to the Committee on Environment and Public Works.
 - 2018-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
 - 2018-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2018-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S8002)
+- 2018-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S8002)
+- 2018-12-21 — Message on Senate action sent to the House.
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-412.
+- 2019-01-03 — Became Public Law No: 115-412.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
