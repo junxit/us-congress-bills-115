@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4407
@@ -61,3 +61,14 @@ An act to designate the facility of the United States Postal Service located at 
 - 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 596.
 - 2018-11-15 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent. (consideration: CR S7063-7064; text: CR S7063-7064)
 - 2018-11-15 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.(consideration: CR S7063-7064; text: CR S7063-7064)
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to take from the Speaker's Table and agree to the Senate amendments. (consideration: CR H10080)
+- 2018-12-11 — On motion that the House agree to the Senate amendments Agreed to without objection. (text: CR H10080)
+- 2018-12-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text: CR H10080)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-14 — Became Public Law No: 115-316.
+- 2018-12-14 — Became Public Law No: 115-316.
+- 2018-12-14 — Signed by President.
+- 2018-12-14 — Signed by President.
