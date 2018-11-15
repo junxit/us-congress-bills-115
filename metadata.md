@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3460
 congress: 115
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 3460
@@ -30,10 +30,11 @@ To designate the United States courthouse located at 323 East Chapel Hill Street
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Holding, George [R-NC-2] (H001065)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -54,3 +55,6 @@ To designate the United States courthouse located at 323 East Chapel Hill Street
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-818.
 - 2018-07-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-818.
 - 2018-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-11-15 — Referred to the Committee on Environment and Public Works.
+- 2018-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
