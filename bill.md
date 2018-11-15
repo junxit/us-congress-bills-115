@@ -1,0 +1,58 @@
+---
+legis-num: S. 3653
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3653
+
+> To amend the Energy Policy Act of 2005 to provide that certain coal-fired power plants are eligible for loan guarantees, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Reinvigorating American Energy Infrastructure Act”.
+
+## § 2. Expansion of fossil energy loan guarantees
+
+- **(a)** *In general* Section 1703 of the Energy Policy Act of 2005 (42 U.S.C. 16513) is amended—
+  - **(1)** in subsection (b)(2), by striking “in subsection (d)” and inserting “under subsection (d) and coal-fired electric generating units meeting the criteria under subsection (e)”;
+  - **(2)** by redesignating subsection (e) as subsection (f); and
+  - **(3)** by inserting after subsection (d) the following:
+    > - **(e)** *Coal-Fired electric generating units*
+    >   - **(1)** *In general* The Secretary may make guarantees for the following coal-fired electric generating projects:
+    >     - **(A)** *Large-scale hele units* Large-scale high-efficiency, low-emissions coal-fired electric generating units—
+    >       - **(i)** not less than 65 percent of the annual net energy output of which is used to generate electricity;
+    >       - **(ii)** that have a maximum design (nameplate) generating capacity that is not less than 350 megawatts;
+    >       - **(iii)** that derive not less than 65 percent of the annual heat input from coal or 1 or more coal derived fuels;
+    >       - **(iv)** that have been designed to achieve an overall generation efficiency of not less than 40 percent;
+    >       - **(v)** that have the capability of accommodating the equipment that might be necessary in the future to capture the carbon dioxide emissions from the unit; and
+    >       - **(vi)** that, to the maximum extent practicable, minimize water consumption.
+    >     - **(B)** *Small-scale hele units* Small-scale, high-efficiency, low-emissions coal-fired electric generating units—
+    >       - **(i)** not less than 65 percent of the annual net energy output of which is used to generate electricity;
+    >       - **(ii)** that employ a modular design that maximizes the benefits of high-quality, low-cost shop fabrication to minimize construction costs and project cycle time;
+    >       - **(iii)** that have a maximum design (nameplate) generating capacity that is less than 350 megawatts;
+    >       - **(iv)** that derive not less than 65 percent of the annual heat input from coal or 1 or more coal derived fuels;
+    >       - **(v)** that have been designed to achieve an overall generation efficiency of not less than 40 percent;
+    >       - **(vi)** that have the capability of accommodating the equipment that might be necessary in the future to capture the carbon dioxide emissions from the unit;
+    >       - **(vii)** that have a load following capability down to 25 percent of maximum continuous rating for the unit;
+    >       - **(viii)** that have the capability to achieve high ramp rates of not less than 4 percent of the maximum continuous rating per minute of the unit; and
+    >       - **(ix)** that, to the maximum extent practicable, minimize water consumption.
+    >   - **(2)** *Fees* The Secretary shall not require with respect to a project receiving a guarantee under paragraph (1)—
+    >     - **(A)** any payment under section 1702(b) for the cost of the guarantee; or
+    >     - **(B)** the payment of—
+    >       - **(i)** any fees to cover administrative expenses under section 1702(h); or
+    >       - **(ii)** any other fees under this title, including application fees, facility fees, and maintenance fees.
+    >   - **(3)** *Streamlined permitting* A project receiving a guarantee under paragraph (1) shall be considered to be a covered project under title XLI of the FAST Act (42 U.S.C. 4370m et seq.).
+
+- **(b)** *Conforming amendments* Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** by striking the subsection designation and heading and all that follows through “No guarantee” in the matter preceding subparagraph (A) and inserting the following:
+      > - **(b)** *Specific appropriation or contribution* Except as provided in section 1703(e)(2)(A), no guarantee
+
+    - **(B)** by redesignating subparagraphs (A) through (C) as paragraphs (1) through (3), respectively, and indenting appropriately; and
+    - **(C)** in paragraph (3) (as so redesignated)—
+      - **(i)** by striking “subparagraph (A)” and inserting “paragraph (1)”; and
+      - **(ii)** by striking “subparagraph (B)” and inserting “paragraph (2)”; and
+  - **(2)** in subsection (h)(1), by striking “The Secretary” and inserting the following: “Except as provided in section 1703(e)(2)(B), the Secretary”.
+- **(c)** *Technical correction* Section 20320(a) of the Continuing Appropriations Resolution, 2007 (42 U.S.C. 16515(a)) is amended, in the first sentence, by striking “section 1702(b)(2)” and inserting “section 1702(b)”.
