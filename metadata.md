@@ -1,7 +1,7 @@
 ---
 measure: S. 2831
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2831
@@ -28,3 +28,8 @@ Golden Spike 150th Anniversary Act
 
 - 2018-05-10 — Introduced in Senate
 - 2018-05-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-08-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 115-526.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-368.
+- 2018-11-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-368.
+- 2018-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 655.
