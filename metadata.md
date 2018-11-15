@@ -1,7 +1,7 @@
 ---
 measure: S. 3554
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3554
@@ -33,3 +33,5 @@ A bill to extend the effective date for the sunset for collateral requirements f
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report.
 - 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.
+- 2018-11-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7064; text: CR S7064)
+- 2018-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7064; text: CR S7064)
