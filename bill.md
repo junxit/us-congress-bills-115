@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 3237
 
-> To designate the facility of the United States Postal Service located at 120 12th Street Lobby in Columbus, Georgia, as the “Richard W. Williams Chapter of the Triple Nickles (555th P.I.A.) Post Office”.
+> To designate the facility of the United States Postal Service located at 120 12th Street Lobby in Columbus, Georgia, as the “Richard W. Williams, Jr., Chapter of the Triple Nickles (555th P.I.A.) Post Office”.
 
 ## § 1. Richard W. Williams, Jr., Chapter of the Triple Nickles (555th P.I.A.) Post Office
 
