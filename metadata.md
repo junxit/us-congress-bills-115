@@ -1,7 +1,7 @@
 ---
 measure: S. 2297
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2297
@@ -28,3 +28,8 @@ Custer County Airport Conveyance Act
 
 - 2018-01-11 — Introduced in Senate
 - 2018-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-08-22 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-528.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2018-11-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-367.
+- 2018-11-15 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 115-367.
+- 2018-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 654.

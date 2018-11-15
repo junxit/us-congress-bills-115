@@ -40,7 +40,10 @@ In this Act:
 - **(e)** *Consideration* As consideration for the conveyance under subsection (a), the County shall pay to the Secretary an amount equal to the market value of the Federal land, as determined by the appraisal under subsection (c).
 - **(f)** *Survey* The exact acreage and legal description of the Federal land to be conveyed under subsection (a) shall be determined by a survey satisfactory to the Secretary.
 - **(g)** *Environmental compliance* The Secretary may determine whether compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or any other environmental law is applicable in carrying out the conveyance under subsection (a).
-- **(h)** *Costs of conveyance* As a condition on the conveyance under subsection (a), the County shall pay to the Secretary all costs associated with the conveyance, including the cost of—
+- **(h)(g)** *Costs of conveyance* As a condition on the conveyance under subsection (a), the County shall pay to the Secretary all costs associated with the conveyance, including the cost of—
   - **(1)** the appraisal under subsection (c); and
   - **(2)** the survey under subsection (f).
 - **(i)** *Use of proceeds* Any proceeds received by the Secretary as a consideration for the conveyance under subsection (a) shall remain available to the Secretary until expended, without further appropriation, for the maintenance and improvement of land or administration facilities in the State of South Dakota.
+- **(h)** *Proceeds from the sale of land* Any proceeds received by the Secretary from the conveyance under subsection (a) shall be—
+  - **(1)** deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a); and
+  - **(2)** available to the Secretary until expended, without further appropriation, for the acquisition of inholdings in units of the National Forest System in the State of South Dakota.
