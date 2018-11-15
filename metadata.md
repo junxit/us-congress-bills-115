@@ -1,7 +1,7 @@
 ---
 measure: S. 3442
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3442
@@ -16,6 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
+## Cosponsors (1)
+
+- Sen. Blunt, Roy [R-MO] (B000575)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -28,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 591.
+- 2018-11-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7063; text: CR S7063)
+- 2018-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7063; text: CR S7063)
