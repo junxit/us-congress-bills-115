@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2062
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Oracle Cabins Conveyance Act of 2017”.
+This Act may be cited as the “Oracle Cabins Conveyance Act of 2017 2018”.
 
 ## § 2. Definitions
 
@@ -48,6 +48,7 @@ In this Act:
 - **(f)** *Proceeds from the sale of land*
   - **(1)** *Deposit of receipts* The consideration received by the Secretary for the sale of a property under this Act shall be deposited into a special account in the Treasury of the United States.
   - **(2)** *Use of funds* Amounts deposited under paragraph (1) shall be available to the Secretary until expended, without further appropriation, for hazardous fuel reduction projects on National Forest System land in the State of Arizona.
+- **(f)** *Proceeds from the sale of land* Any payment received by the Secretary from the sale of property under this Act shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be available to the Secretary until expended, without further appropriation, for the acquisition of inholdings in national forests in the State of Arizona.
 - **(g)** *Maps and legal descriptions*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall file maps and legal descriptions of each property.
   - **(2)** *Force of law* The maps and legal descriptions filed under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary may correct typographical errors in the maps and legal descriptions.
