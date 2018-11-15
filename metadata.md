@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 51
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 51
@@ -21,3 +21,11 @@ A concurrent resolution to correct the enrollment of S. 140.
 - 2018-11-15 — Introduced in Senate
 - 2018-11-15 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7019; text: CR S7060)
 - 2018-11-15 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7019; text: CR S7060)
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-11-20 — Held at the desk.
+- 2018-11-20 — Received in the House.
+- 2018-11-27 — Considered by unanimous consent. (consideration: CR H9655)
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Mast asked unanimous consent to take from the Speaker's table and consider.
+- 2018-11-27 — On agreeing to the resolution Agreed to without objection. (text: CR H9655)
+- 2018-11-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9655)
