@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6666
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6666
@@ -40,3 +40,4 @@ To authorize the Secretary of the Interior to grant to States and local governme
 - 2018-11-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/13/2018 H9487)
 - 2018-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/13/2018 H9487)
+- 2018-11-15 — Received in the Senate.
