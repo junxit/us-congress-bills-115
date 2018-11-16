@@ -15,18 +15,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > ## § 1705B. Management of health care: productivity
   >
   > - **(a)** *Relative value unit tracking* The Secretary shall track relative value units for all Department providers.
-  > - **(b)** *Clinical procedure coding training* The Secretary shall require all Department providers to attend training on clinical procedure coding.
+  > - **(b)** *Clinical procedure coding training* If the coding accuracy of a Department provider within a clinical area of responsibility of the provider falls below the minimum threshold set by the Secretary, the Secretary shall require the Department provider to attend training on clinical procedure coding.
   > - **(c)** *Performance standards*
   >   - **(1)** The Secretary shall establish for each Department facility—
   >     - **(A)** in accordance with paragraph (2), standardized performance standards based on nationally recognized relative value unit production standards applicable to each specific profession in order to evaluate clinical productivity at the provider and facility level;
   >     - **(B)** remediation plans to address low clinical productivity and clinical inefficiency; and
   >     - **(C)** an ongoing process to systematically review the content, implementation, and outcome of the plans developed under subparagraph (B).
-  >   - **(2)** In establishing the performance standards under paragraph (1)(A), the Secretary may—
-  >     - **(A)** incorporate values-based productivity models; and
-  >     - **(B)** take into account non-clinical duties, including with respect to training and research.
+  >   - **(2)** In establishing the performance standards under paragraph (1)(A), the Secretary—
+  >     - **(A)** may incorporate values-based productivity models and may incorporate other productivity measures and models determined appropriate by the Secretary; and
+  >     - **(B)** shall take into account non-clinical duties, including with respect to training and research;
+  >     - **(C)** shall take into account factors that impede productivity and efficiency and, in developing remediation plans under paragraph (1)(B), shall incorporate action plans to address such factors.
   > - **(d)** *Definitions* In this section:
-  >   - **(1)** The term Department provider means an employee of the Department whose primary responsibilities include furnishing hospital care or medical services, including a physician, a dentist, an optometrist, a podiatrist, a chiropractor, an advanced practice registered nurse, and a physician’s assistant acting as an independent provider.
-  >   - **(2)** The term relative value unit means a unit for measuring workload by determining the time, mental effort and judgment, technical skill, physical effort, and stress involved in delivering a procedure.
+  >   - **(1)** The term Department provider means an employee of the Department who has been appointed to the Veterans Health Administration as a physician, a dentist, an optometrist, a podiatrist, a chiropractor, an advanced practice registered nurse, or a physician’s assistant acting as an independent provider.
+  >   - **(2)** The term relative value unit means a unit for measuring workload by determining the time, mental effort and judgment, technical skill, physical effort, and stress involved in delivering a service.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1705A the following new item:
 - **(c)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of section 1705B of title 38, United States Code, as added by subsection (a). Such report shall include, for each professional category of Department of Veterans Affairs providers, the relative value unit of such category of providers at the national, Veterans Integrated Service Network, and facility levels.
+- **(d)** *Comprehensive staffing models* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall develop comprehensive staffing models for all Department of Veterans Affairs medical centers.
