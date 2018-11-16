@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6784
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6784
@@ -26,6 +26,10 @@ Manage our Wolves Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-11-16 — [House 115-2-420](votes/house-115-2-0420.md) — On Passage — **Passed** (196–180)
+
 ## Actions
 
 - 2018-09-12 — Introduced in House
@@ -36,3 +40,15 @@ Manage our Wolves Act
 - 2018-11-09 — Placed on the Union Calendar, Calendar No. 791.
 - 2018-11-09 — Reported by the Committee on Natural Resources. H. Rept. 115-1012.
 - 2018-11-09 — Reported by the Committee on Natural Resources. H. Rept. 115-1012.
+- 2018-11-13 — Rules Committee Resolution H. Res. 1142 Reported to House. Rule provides for consideration of H.R. 6784. Provides for consideration of H.R. 6784 under a closed rule, with one motion to recommit allowed. Rule also provides for proceedings during the period from November 19, 2018 through November 26, 2018.
+- 2018-11-14 — Rule H. Res. 1142 passed House.
+- 2018-11-16 — Considered as unfinished business. (consideration: CR H9550-9551)
+- 2018-11-16 — Considered under the provisions of rule H. Res. 1142. (consideration: CR H9543-9550)
+- 2018-11-16 — DEBATE - The House proceeded with one hour of debate on H.R. 6784.
+- 2018-11-16 — DEBATE - The House resumed debate on H.R. 6784.
+- 2018-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-16 — On passage Passed by recorded vote: 196 - 180 (Roll no. 420). (text: CR H9543)
+- 2018-11-16 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, the Chair announced that further proceedings on H.R. 6784 would be postponed.
+- 2018-11-16 — Passed/agreed to in House: On passage Passed by recorded vote: 196 - 180 (Roll no. 420).(text: CR H9543)
+- 2018-11-16 — Rule provides for consideration of H.R. 6784. Provides for consideration of H.R. 6784 under a closed rule, with one motion to recommit allowed. Rule also provides for proceedings during the period from November 19, 2018 through November 26, 2018.
+- 2018-11-16 — The previous question was ordered pursuant to the rule.
