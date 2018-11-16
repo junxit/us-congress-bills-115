@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5787
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3503` | insert | in paragraph (3), by inserting “replaces such a map or” after “that specifically”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3503` | insert | by inserting before the first sentence the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3503` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 3 of Public Law 109–226 is repealed. | the bill names no machine-readable US Code section |
