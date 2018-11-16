@@ -71,3 +71,8 @@ Section 4(b) of the Coastal Barrier Resources Act (16 U.S.C. 3503(b)) is amended
   > - **(2)** *Digital maps*
   >   - **(A)** *Availability* The Secretary shall make available to the public on the Internet web site of the United States Fish and Wildlife Service digital versions of the maps included in the set of maps referred to in subsection (a).
   >   - **(B)** *Effect* Any determination as to whether a location is inside or outside the System shall be made without regard to the digital maps available under this paragraph, except that this subparagraph does not apply with respect to any printed version of such a digital map if the printed version is included in the maps referred to in subsection (a).
+  >   - **(C)** *Report* No later than 180 days after the date of the enactment of the Strengthening Coastal Communities Act of 2018, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report regarding the progress and challenges in the transition from paper to digital maps and a timetable for completion of the digitization of all maps related to the System.
+
+## § 4. Repeal of report
+
+Section 3 of Public Law 109–226 is repealed.
