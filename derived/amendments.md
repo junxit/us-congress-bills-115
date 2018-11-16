@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1349
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1133` | add-at-end | Section 4(c) of the Wilderness Act (16 U.S.C. 1133(c)) is amended by adding at the end the following: “Nothing in this section shall prohibit the use of motorized wheelchairs, non-motorized wheelchairs, non-motorized bicycles, strollers,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1133` | add-at-end | Section 4 of the Wilderness Act (16 U.S.C. 1133) is amended by adding at the end of subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
