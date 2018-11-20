@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 607
@@ -46,3 +46,11 @@ Native American Business Incubators Program Act
 - 2018-03-23 — Message on Senate action sent to the House.
 - 2018-03-26 — Received in the House.
 - 2018-03-26 — Referred to the House Committee on Natural Resources.
+- 2018-03-27 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2018-07-24 — Subcommittee Hearings Held.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by Unanimous Consent.
+- 2018-09-27 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2018-11-20 — Placed on the Union Calendar, Calendar No. 808.
+- 2018-11-20 — Reported by the Committee on Natural Resources. H. Rept. 115-1037.
+- 2018-11-20 — Reported by the Committee on Natural Resources. H. Rept. 115-1037.
