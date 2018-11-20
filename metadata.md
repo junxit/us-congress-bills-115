@@ -1,7 +1,7 @@
 ---
 measure: S. 3237
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3237
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2018-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 589.
 - 2018-11-15 — Passed Senate with amendments and an amendment to the Title by Unanimous Consent. (consideration: CR S7063; text: CR S7063)
 - 2018-11-15 — Passed/agreed to in Senate: Passed Senate with amendments and an amendment to the Title by Unanimous Consent.(consideration: CR S7063; text: CR S7063)
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-11-20 — Received in the House.
+- 2018-11-20 — Referred to the House Committee on Oversight and Government Reform.
