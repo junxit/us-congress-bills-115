@@ -1,7 +1,7 @@
 ---
 measure: S. 3321
 congress: 115
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3321
@@ -88,9 +88,11 @@ Hidden Figures Congressional Gold Medal Act
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -111,3 +113,7 @@ Hidden Figures Congressional Gold Medal Act
 - 2018-11-15 — Senate amendment proposed (on the floor): Amendment SA 4062 proposed by Senator McConnell for Senator Coons.(consideration: CR S7065; text: CR S7065)
 - 2018-11-15 — Senate amendment submitted
 - 2018-11-15 — Senate amendment submitted
+- 2018-11-16 — Message on Senate action sent to the House.
+- 2018-11-20 — Received in the House.
+- 2018-11-20 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-11-20 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
