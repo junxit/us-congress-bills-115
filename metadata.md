@@ -1,7 +1,7 @@
 ---
 measure: S. 3442
 congress: 115
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3442
@@ -38,3 +38,16 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2018-11-16 — Message on Senate action sent to the House.
 - 2018-11-20 — Received in the House.
 - 2018-11-20 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Considered by unanimous consent. (consideration: CR H9729)
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer asked unanimous consent to discharge from committee and consider.
+- 2018-11-29 — On passage Passed without objection. (text: CR H9729)
+- 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9729)
+- 2018-12-06 — Presented to President.
+- 2018-12-06 — Presented to President.
+- 2018-12-13 — Became Public Law No: 115-314.
+- 2018-12-13 — Became Public Law No: 115-314.
+- 2018-12-13 — Signed by President.
+- 2018-12-13 — Signed by President.
