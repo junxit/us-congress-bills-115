@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5787
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5787
@@ -22,9 +22,10 @@ Strengthening Coastal Communities Act of 2018
 - Rep. Rooney, Thomas J. [R-FL-17] (R000583)
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Strengthening Coastal Communities Act of 2018
 - 2018-11-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 419). (text: CR 11/13/2018 H9477)
 - 2018-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 419).(text: CR 11/13/2018 H9477)
+- 2018-11-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
