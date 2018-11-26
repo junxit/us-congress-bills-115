@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1132
@@ -44,3 +44,7 @@ Political Appointee Burrowing Prevention Act
 - 2018-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1414-1415)
 - 2018-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1414-1415)
 - 2018-03-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-387.
+- 2018-11-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 115-387.
+- 2018-11-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.
