@@ -1,7 +1,7 @@
 ---
 measure: S. 2166
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,5 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “2019” and inserting “2023”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “; except that” and all that follows through “capital projects and monitoring”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the fifth, sixth, and seventh sentences. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1531` | add-at-end | Section 3 of Public Law 106–392 (114 Stat. 1603; 126 Stat. 2444) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the fourth sentence, by striking “power revenues” each place it appears and inserting “Colorado River Storage Project power revenues”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the fifth, sixth, and seventh sentences. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1531` | add-at-end | Section 3 of Public Law 106–392 (114 Stat. 1603; 126 Stat. 2444) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
