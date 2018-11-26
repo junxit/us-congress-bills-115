@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 702
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 702
@@ -16,7 +16,7 @@ A resolution recognizing National Native American Heritage Month and celebrating
 
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Cosponsors (22)
+## Cosponsors (26)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Lankford, James [R-OK] (L000575)
@@ -40,6 +40,10 @@ A resolution recognizing National Native American Heritage Month and celebrating
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -49,3 +53,7 @@ A resolution recognizing National Native American Heritage Month and celebrating
 
 - 2018-11-15 — Introduced in Senate
 - 2018-11-15 — Referred to the Committee on Indian Affairs. (text of measure as introduced: CR S7060)
+- 2018-11-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-11-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-11-26 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7099)
+- 2018-11-26 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7099)
