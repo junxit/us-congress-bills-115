@@ -1,7 +1,7 @@
 ---
 measure: S. 3437
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3437
@@ -16,9 +16,10 @@ Federal Rotational Cyber Workforce Program Act of 2018
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Federal Rotational Cyber Workforce Program Act of 2018
 
 - 2018-09-12 — Introduced in Senate
 - 2018-09-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-385.
+- 2018-11-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-385.
+- 2018-11-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.
