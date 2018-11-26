@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 687
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 687
@@ -38,3 +38,7 @@ A resolution congratulating the Boston Red Sox on winning the 2018 World Series.
 
 - 2018-11-14 — Introduced in Senate
 - 2018-11-14 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6966-6967)
+- 2018-11-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-11-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-11-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S7099)
+- 2018-11-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S7099)
