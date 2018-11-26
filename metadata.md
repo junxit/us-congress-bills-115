@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5787
 congress: 115
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5787
@@ -46,3 +46,14 @@ Strengthening Coastal Communities Act of 2018
 - 2018-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 419). (text: CR 11/13/2018 H9477)
 - 2018-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 419).(text: CR 11/13/2018 H9477)
 - 2018-11-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Passed Senate without amendment by Unanimous Consent. (text: CR S7949)
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7949)
+- 2018-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7949)
+- 2018-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7949)
+- 2018-12-21 — Became Public Law No: 115-358.
+- 2018-12-21 — Became Public Law No: 115-358.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
