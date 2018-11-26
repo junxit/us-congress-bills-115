@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6784
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6784
@@ -22,9 +22,10 @@ Manage our Wolves Act
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Manage our Wolves Act
 - 2018-11-16 — Passed/agreed to in House: On passage Passed by recorded vote: 196 - 180 (Roll no. 420).(text: CR H9543)
 - 2018-11-16 — Rule provides for consideration of H.R. 6784. Provides for consideration of H.R. 6784 under a closed rule, with one motion to recommit allowed. Rule also provides for proceedings during the period from November 19, 2018 through November 26, 2018.
 - 2018-11-16 — The previous question was ordered pursuant to the rule.
+- 2018-11-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
