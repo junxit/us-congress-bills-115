@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6345
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6345
@@ -16,7 +16,7 @@ Ensuring Meaningful Petition Outreach While Enhancing Rights of States Act of 20
 
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Cosponsors (23)
+## Cosponsors (31)
 
 - Rep. Cramer, Kevin [R-ND-At Large] (C001096)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
@@ -41,6 +41,14 @@ Ensuring Meaningful Petition Outreach While Enhancing Rights of States Act of 20
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
 
 ## Committees (1)
 
@@ -51,3 +59,9 @@ Ensuring Meaningful Petition Outreach While Enhancing Rights of States Act of 20
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Referred to the House Committee on Natural Resources.
+- 2018-09-26 — Committee Hearings Held.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by the Yeas and Nays: 20 - 12.
+- 2018-11-27 — Placed on the Union Calendar, Calendar No. 818.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1051.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1051.
