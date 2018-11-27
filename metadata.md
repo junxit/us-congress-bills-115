@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6678
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6678
@@ -16,6 +16,10 @@ Claude Moore Farm Land Conveyance Act
 
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
 
+## Cosponsors (1)
+
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,8 @@ Claude Moore Farm Land Conveyance Act
 - 2018-08-24 — Introduced in House
 - 2018-08-24 — Introduced in House
 - 2018-08-24 — Referred to the House Committee on Natural Resources.
+- 2018-09-05 — Committee Consideration and Mark-up Session Held.
+- 2018-09-05 — Ordered to be Reported by the Yeas and Nays: 18 - 14.
+- 2018-11-27 — Placed on the Union Calendar, Calendar No. 820.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1053.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1053.
