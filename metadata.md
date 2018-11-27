@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3946
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3946
@@ -65,3 +65,14 @@ An Act to name the Department of Veterans Affairs community-based outpatient cli
 - 2018-11-27 — Senate amendment proposed (on the floor): Amendment SA 4064 proposed by Senator McConnell for Senator Isakson.(consideration: CR S7141; text: CR S7141)
 - 2018-11-27 — Senate amendment submitted
 - 2018-11-27 — Senate amendment submitted
+- 2018-11-28 — Message on Senate action sent to the House.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Roe (TN) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendments. (consideration: CR H9802)
+- 2018-12-10 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate Amendment: CR H9802)
+- 2018-12-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate Amendment: CR H9802)
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-14 — Became Public Law No: 115-315.
+- 2018-12-14 — Became Public Law No: 115-315.
+- 2018-12-14 — Signed by President.
+- 2018-12-14 — Signed by President.

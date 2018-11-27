@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3946
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3946
 
-That the bill from the House of Representatives (H.R. 3946) entitled “An Act to name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the “Ray Hendrix Veterans Clinic”.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the Ray Hendrix Department of Veterans Affairs Clinic.
 
 ## § 1. Name of Department of Veterans Affairs community-based outpatient clinic, Statesboro, Georgia
 
