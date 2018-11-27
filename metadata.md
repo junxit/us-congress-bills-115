@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3279
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3279
@@ -38,3 +38,8 @@ Helium Extraction Act of 2017
 - 2017-11-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)
 - 2017-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8323)
 - 2017-11-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-08-22 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-528.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-11-27 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-391.
+- 2018-11-27 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-391.
+- 2018-11-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.
