@@ -23,7 +23,7 @@ In this Act:
 - **(3)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 - **(4)** *Program* The term Program means the National Quantum Initiative Program implemented under section 101(a).
 - **(5)** *Quantum information science* The term quantum information science means the storage, transmission, manipulation, or measurement of information that is encoded in systems that can only be described by the laws of quantum physics.
-- **(6)** *Subcommittee* The term Sub­com­mit­tee means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a).
+- **(6)** *Subcommittee* The term Subcommittee means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a).
 
 ## § 3. Purposes
 
