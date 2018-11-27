@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6622
 
-> To designate the Federal building located at 2110 First Street in Fort Myers, Florida, as the “George W. Whitehurst Federal Building”.
+> To designate the Federal building located at 2110 First Street in Fort Myers, Florida, as the “George W. Whitehurst Federal Building and United States Courthouse”.
 
 ## § 1. Designation
 
