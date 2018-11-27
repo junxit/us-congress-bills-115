@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1567
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,43 +13,38 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “United States-Mexico Economic Partnership Act”.
 
-## § 2. Purpose
+## § 2. Findings
 
-The purpose of this Act is to promote economic partnership and cooperation between the United States and Mexico, particularly in the areas of academic exchange, entrepreneurship, and infrastructure integration.
+Congress finds the following:
 
-## § 3. Expansion of United States-Mexico academic exchange programs
+- **(1)** The United States and Mexico have benefitted from a bilateral, mutually beneficial partnership focused on advancing the economic interests of both countries.
+- **(2)** In 2013, Mexico adopted major energy reforms that opened its energy sector to private investment, increasing energy cooperation between Mexico and the United States and opening new opportunities for United States energy engagement.
+- **(3)** On January 18, 2018, the Principal Deputy Assistant Secretary for Educational and Cultural Affairs at the Department of State stated, “Our exchange programs build enduring relationships and networks to advance U.S. national interests and foreign policy goals… The role of our exchanges… in advancing U.S. national security and economic interests enjoys broad bipartisan support from Congress and other stakeholders, and provides a strong return on investment.”.
+- **(4)** According to the Institute of International Education, in the 2015-2016 academic year, more than 56,000 United States students studied in other countries in the Western Hemisphere region while more than 84,000 non-United States students from the region studied in the United States, but only 5,000 of those United States students studied in Mexico and only 16,000 of those non-United States students were from Mexico.
+- **(5)** In March 2011, the United States launched the 100,000 Strong in the Americas Initiative, which seeks to increase educational exchanges between the United States and other countries in the Western Hemisphere region so that 100,000 United States students are studying in other countries in the Western Hemisphere region and 100,000 non-United States students from the region are studying in the United States per year by 2020.
+- **(6)** In January 2014, the United States established the 100,000 Strong in the Americas Innovation Fund, which seeks to realize the goals of the 100,000 Strong in the Americas Initiative by facilitating a public-private partnership between the Department of State and nongovernmental organizations, corporations, and universities in the United States and other countries of the Western Hemisphere region.
+- **(7)** To date, the 100,000 Strong in the Americas Innovation Fund has awarded more than 100 grants to more than 250 higher education institutions from 25 countries in the Western Hemisphere region, and has raised $9,000,000 in investments, 75 percent of which was from corporations, foundations, and regional governments.
 
-- **(a)** *In general* It shall be the policy of the United States to increase United States-Mexico academic exchanges at the secondary, post-secondary, and post-graduate levels.
-- **(b)** *Priority* The exchanges described in subsection (a) should be across the United States and Mexico, however, priority should be given to strengthening ties between communities and academic institutions in the covered United States-Mexico border region.
-- **(c)** *Sense of congress* It is the sense of Congress that—
-  - **(1)** the exchanges described in subsection (a) should reflect the goals of the 100,000 Strong in the Americas Initiative; and
-  - **(2)** the United States and Mexico should seek to contribute to doubling the number of students studying in each other’s country by not later than 5 years after the date of the enactment of this Act.
+## § 3. Statement of policy
 
-## § 4. Establishment of United States-Mexico entrepreneurship cooperation, training, and mentoring programs
+It is the policy of the United States—
 
-- **(a)** *In general* The President shall develop a plan to implement policies and programs that support cooperation, training, and mentoring of entrepreneurs.
-- **(b)** *Elements* The policies and programs described in subsection (a) shall seek to create innovation through United States and Mexican academic institutions and businesses assisting prospective and developing entrepreneurs in strengthen their business skills and promoting cooperation and joint business initiatives across the United States and Mexico, with a focus on the covered United States-Mexico border region.
-- **(c)** *Matching funds* The policies and programs described in subsection (a) should seek to ensure United States Government funds are, at a minimum, matched by private sector funds for purposes of carrying out such policies and programs.
-- **(d)** *Sense of congress* It is the sense of Congress that the policies and programs described in subsection (a) should reflect the goals of the 100,000 Strong in the Americas Initiative and should seek to provide not less than 100 grants of not more than $25,000 each for participants in such programs to better leverage participation by the private sector.
-- **(e)** *Report* The President shall submit to Congress a report on the plan described in subsection (a) not later than 90 days after the date of the enactment of this Act.
+- **(1)** to continue deepening economic cooperation between the United States and Mexico; and
+- **(2)** to seek to prioritize and expand educational and professional exchange programs with Mexico, including through the framework of the 100,000 Strong in the Americas Initiative.
 
-## § 5. United States-Mexico energy infrastructure coordination and cooperation programs
+## § 4. Strategy to prioritize and expand educational and professional exchange programs with Mexico
 
-- **(a)** *In general* The President shall develop a plan to implement policies and programs that promote United States-Mexico energy infrastructure coordination and cooperation through support of vocational-level education, internships, and exchanges between the two countries, particularly in the region in which the Eagle Ford Shale is located and in proximity to such region.
-- **(b)** *Elements* The policies and programs described in subsection (a) shall seek to develop skills related to safe and responsible energy extraction and other innovative energy technologies that can be provided by educational institutions located in the region described in subsection (a) or in proximity to such region, including by seeking to provide such skills to individuals in Mexico who are seeking vocational level jobs in Mexico’s energy sector.
-- **(c)** *Sense of congress* It is the sense of Congress that the policies and programs described in subsection (a) should seek to provide education, internships, and exchanges for at least 1,000 participants.
-- **(d)** *Report* The President shall submit to Congress a report on the plan described in subsection (a) not later than 90 days after the date of the enactment of this Act.
+- **(a)** *In general* The Secretary of State shall develop a strategy to carry out the policy described in section 3, to include prioritizing and expanding educational and professional exchange programs with Mexico through the framework of the 100,000 Strong in the Americas Initiative.
+- **(b)** *Elements* The strategy required under subsection (a) shall—
+  - **(1)** encourage more academic exchanges between the United States and Mexico at the secondary, post-secondary, and post-graduate levels, especially with communities and through academic institutions in the covered United States-Mexico border region;
+  - **(2)** encourage United States and Mexican academic institutions and businesses to collaborate to assist prospective and developing entrepreneurs in strengthening their business skills and promoting cooperation and joint business initiatives across the United States and Mexico, with a focus on initiatives in the covered United States-Mexico border region;
+  - **(3)** promote energy infrastructure coordination and cooperation through support of vocational-level education, internships, and exchanges between the United States and Mexico, particularly in the region in which the Eagle Ford Shale is located and in proximity to such region; and
+  - **(4)** assess the feasibility of fostering partnerships between universities in the United States and medical school and nursing programs in Mexico to ensure that medical school and nursing programs in Mexico have comparable accreditation standards as medical school and nursing programs in the United States by the Accreditation and Standards in Foreign Medical Education, in addition to the Accreditation Commission For Education in Nursing, so that medical students can pass medical licensing board exams, and nursing students can pass nursing licensing exams, in the United States.
+- **(c)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report on the strategy required under subsection (a).
 
-## § 6. Medical school pilot program
-
-- **(a)** *In general* The President shall develop a plan, in coordination with the private sector and non-profit organizations, to implement a pilot program to develop a pipeline between undergraduate colleges and universities in the United States and medical school programs in Mexico. The pilot program should be utilized to prepare medical students to become doctors who can pass medical licensing board exams in the United States.
-- **(b)** *Elements* The pilot program described in subsection (a) shall seek to ensure that medical school programs in Mexico shall have comparable accreditation standards as medical school program in the United States by the Accreditation and Standards in Foreign Medical Education as well as registered in the International Medical Education Directory.
-- **(c)** *Sense of congress* It is the sense of Congress that the pilot program described in subsection (a) should seek to increase the number of bilingual medical professionals in a cost-effective manner who can practice in United States under-served communities.
-- **(d)** *Report* The President shall submit to Congress a report on the plan described in subsection (a) not later than 90 days after the date of the enactment of this Act.
-
-## § 7. Definitions
+## § 5. Definitions
 
 In this Act:
 
-- **(1)** *100,000 strong in the Americas initiative* The term 100,000 Strong in the Americas Initiative means the initiative established in March 2011 by the United States Government to increase educational exchanges in the Western Hemisphere.
-- **(2)** *Covered United States-Mexico border region* The term covered United States-Mexico border region means those portions of the United States and Mexico that are within 100 kilometers of the international boundary between those countries.
+- **(1)** *100,000 strong in the americas initiative* The term 100,000 Strong in the Americas Initiative means the initiative established in March 2011 by the United States Government to increase educational exchanges in the Western Hemisphere.
+- **(2)** *Covered united states-mexico border region* The term covered United States-Mexico border region means those portions of the United States and Mexico that are within 100 kilometers of the international boundary between those countries.
