@@ -22,9 +22,9 @@ Congress finds the following:
 - **(2)** Under the laws of Spain and Mexico, land grant-mercedes included thousands of acres of land that was owned and used by the communities, within the land grant-merced boundaries, in common. This included guaranteed right to the use of water, forest, pasture, minerals and other natural resources located on the common lands.
 - **(3)** The Treaty of Guadalupe Hidalgo as affirmed by the Protocol of Querétaro protects property rights of land grants-mercedes in the territory ceded by Mexico to the United States of America.
 - **(4)** Property rights include land, land title, water rights, natural resource rights, mineral rights, and rights to physical access.
-- **(5)** Congress has enacted several major public land laws subject to valid existing rights including the Organic Administration Act of 1897 (16 U.S.C. 473 et seq.), the Taylor Grazing Act (43 U.S.C. 315 et seq.), the Multiple Use and Sustained Yield Act of 1960 (16 U.S.C. 528 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+- **(5)** Congress has enacted several major Federal land laws subject to valid existing rights including the Organic Administration Act of 1897 (16 U.S.C. 473 et seq.), the Taylor Grazing Act (43 U.S.C. 315 et seq.), the Multiple Use and Sustained Yield Act of 1960 (16 U.S.C. 528 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 - **(6)** Various provisions of the Treaty of Guadalupe Hidalgo have not yet been fully implemented in the spirit of the United States Constitution, article VI, section 2.
-- **(7)** Serious questions remain regarding the rightful ownership of lands in several western and southwestern States. Certain public lands are the focus of such questions.
+- **(7)** Serious questions remain regarding the rightful ownership of lands in several western and southwestern States. Certain Federal lands are the focus of such questions.
 - **(8)** The Gadsden Purchase incorporated by reference the property protection provisions of the Treaty of Guadalupe Hidalgo.
 - **(9)** Land claim commissions, appointed by Congress, have successfully examined disputed land possession claims.
 - **(10)** The United States Government has recognized and upheld usufruct rights for other indigenous groups.
@@ -59,17 +59,20 @@ In this Act:
 - **(2)** *Claim* The term claim means the declaration of property rights protected by the Treaty of Guadalupe Hidalgo vested in a land grant-merced, including—
   - **(A)** land, land title, mineral, and natural resource claims; and
   - **(B)** water rights.
-- **(3)** *Claimant* The term claimant means a land grant-merced as represented by its governing body or an agent thereof.
-- **(4)** *Gadsden Purchase* The term “Gadsden Purchase” means the Treaty of Boundary, Cession of Territory, Transit of Isthmus of Tehuantepec.
-- **(5)** *Governing body* The term Governing body means the governing body, as recognized by State law, of a land grant-merced.
-- **(6)** *Land grant-merced* The term land grant-merced means—
+- **(3)** *Claimant* The term claimant means a land grant-merced as represented by its Governing body or an agent thereof.
+- **(4)** *Federal land or federal lands* The terms “Federal land” or “Federal lands” means any land—
+  - **(A)** located in the State of New Mexico; and
+  - **(B)** administered by the Secretary of Agriculture through the Chief of the U.S. Forest Service or the Secretary of the Interior through the Director of the Bureau of Land Management.
+- **(5)** *Gadsden Purchase* The term “Gadsden Purchase” means the Treaty of Boundary, Cession of Territory, Transit of Isthmus of Tehuantepec.
+- **(6)** *Governing body* The term Governing body means the governing body, as recognized by State law, of a land grant-merced.
+- **(7)** *Land grant-merced* The term land grant-merced means—
   - **(A)** a community land grant identified in tables 1 and 2 of the General Accounting Office Report #GAO–01–951; or
-  - **(B)** a community, village, town, or settlement, the land of which was granted by the Government of Spain or by the Government of Mexico, in accordance with the laws, usages, and customs of Spain or Mexico between 1689 and 1854, within the boundaries of the Territory of New Mexico, which now includes the States of New Mexico, Colorado and Arizona, to—
+  - **(B)** a community, village, town, or settlement, the land of which was granted by the Government of Spain or by the Government of Mexico, in accordance with the laws, usages, and customs of Spain or Mexico between 1689 and 1854, and is within the boundaries of the State of New Mexico, to—
     - **(i)** the community, village, town, or pueblo; or
     - **(ii)** a person for the purpose of founding or establishing a community, village, town, or settlement.
-- **(7)** *Qualifying petition* The term qualifying petition means a petition submitted under section 5.
-- **(8)** *Secretary concerned* The term “Secretary concerned” means the Secretary that administers the relevant Federal land.
-- **(9)** *Treaty of Guadalupe Hidalgo* The term Treaty of Guadalupe Hidalgo means the Treaty of Peace, Friendship, Limits, and Settlement between the United States and the Republic of Mexico, effective February 2, 1848.
+- **(8)** *Qualifying petition* The term qualifying petition means a petition submitted under section 5.
+- **(9)** *Secretary concerned* The term “Secretary concerned” means the Secretary that administers the relevant Federal land.
+- **(10)** *Treaty of Guadalupe Hidalgo* The term Treaty of Guadalupe Hidalgo means the Treaty of Peace, Friendship, Limits, and Settlement between the United States and the Republic of Mexico, effective February 2, 1848.
 
 ## § 4. Treaty of Guadalupe Hidalgo Land Grant-Merced Claims Commission
 
@@ -118,16 +121,16 @@ In this Act:
   - **(2)** *Designation of location* The Commission shall designate one or more locations in the claimant’s State in which to hold such hearing.
   - **(3)** *Right to testify* All persons having an interest in the land involved in a qualifying petition shall have the right, upon notice, to be present and testify before the Commission during such hearing.
   - **(4)** *Hearing process* As part of such hearing, the Commission shall—
-    - **(A)** review each qualifying petition and receive testimony in order examine—
+    - **(A)** review each qualifying petition and receive testimony to examine—
       - **(i)** the impact to the land grant-merced and its associated communities resulting from the failure of the United States to properly recognize, during the adjudication process, a land grant-merced boundary, as it existed in 1854;
       - **(ii)** the impact to the land grant-merced and its associated communities resulting from the failure of the United States to act on a land grant-merced claim made during the adjudication process;
       - **(iii)** the impact to the land grant-merced and its associated communities resulting from the rejection of a land grant-merced claim made during the adjudication process;
       - **(iv)** the impact to the land grant-merced and its associated communities resulting from the incorrect confirmation by the United States of a Land Grant-Merced as a tenancy-in-common;
-      - **(v)** the impact to the land grant-merced and its associated communities resulting from the incorrect confirmation by the United States of the Land Grant-Merced as a private land grant to an individual;
-      - **(vi)** the impact to the land grant-merced and its associated communities resulting from the United States incorrectly issuing a patent for the Land Grant-Merced to the wrong party;
+      - **(v)** the impact to the land grant-merced and its associated communities resulting from the incorrect confirmation by the United States of the land grant-merced as a private land grant to an individual;
+      - **(vi)** the impact to the land grant-merced and its associated communities resulting from the United States incorrectly issuing a patent for the land grant-merced to the wrong party;
       - **(vii)** the impact of prior adjudication decisions made by the United States on the submittal of subsequent land claim petitions with respect to the land grant-merced;
       - **(viii)** the impact to the land grant-merced and its associated communities resulting from the failure of the United States to provide adequate due process to land grant-merced during the adjudication process;
-      - **(ix)** the impact to the land grant-merced and its associated communities resulting from the failure of the United States to provide adequate representation during the adjudication process, as required by law, for certain protected population located on the land grant-merced; and
+      - **(ix)** the impact to the land grant-merced and its associated communities resulting from the failure of the United States to provide adequate representation during the adjudication process, as required by law, for certain protected populations located on the land grant-merced; and
       - **(x)** the impact to the land grant-merced and its associated communities resulting from the misconduct or direct conflict of interest of United States officials during the adjudication process;
     - **(B)** review existing Federal land use policies governing land identified in the qualifying petition;
     - **(C)** identify and report all private and public leases on land identified in the qualifying petition, including lease type, term, and owner;
@@ -152,7 +155,7 @@ In this Act:
   - **(5)** grant the claimant priority rights to acquire Federal lands that may become available for disposal; and
   - **(6)** grant the claimant priority rights to obtain new, unused, or unrenewed grazing allotments on Federal lands.
 - **(d)** *Protection of non-Federal property* The Commission may not make any recommendation that affects the ownership, title, or rights of owners of any non-Federal lands covered by the qualifying petition.
-- **(e)** *Protection of existing leases* The Commission may not make any recommendation that affects any lease, permit, or right-of-way held by a person on such land as such lease, permit, or right-of-way existed on the day before the date of the transfer.
+- **(e)** *Protection of existing leases* The Commission may not make any recommendation that affects any lease, permit, right-of-way, or any other valid existing rights held by a person on such land as such lease, permit, or right-of-way existed on the day before the date of the transfer.
 
 ## § 6. Reports
 
