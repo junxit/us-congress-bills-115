@@ -17,10 +17,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the multiphased Youth Challenge Program uses quasi-military discipline and training, coupled with educational instruction, learning, and mentorship, to promote the character development and resilience of at-risk youth;
 - Whereas one phase of the Youth Challenge Program is a 5-month residential program that focuses on the following 8 core components: life-coping skills, leadership and followership, service to community, job skills, academic excellence, responsible citizenship, health and hygiene, and physical fitness;
 - Whereas another phase of the Youth Challenge Program is a 12-month mentoring phase that builds on the 8 core components to help shape youth into productive citizens ready for societal success;
-- Whereas the Youth Challenge Program offers more than 10,000 cadets annually an opportunity to succeed outside of a traditional high school environment;
-- Whereas there are currently 40 Youth Challenge programs operating in 28 States, Puerto Rico, and the District of Columbia;
-- Whereas more than 160,000 cadets have graduated from the Youth Challenge Program;
-- Whereas more than 110,000 academic credentials have been awarded under the Youth Challenge Program; and
+- Whereas the Youth Challenge Program offers more than 11,000 cadets annually an opportunity to succeed outside of a traditional high school environment;
+- Whereas there are currently 39 Youth Challenge programs operating in 28 States, Puerto Rico, and the District of Columbia;
+- Whereas more than 165,000 cadets have graduated from the Youth Challenge Program;
+- Whereas more than 116,000 academic credentials have been awarded under the Youth Challenge Program; and
 - Whereas graduates of the Youth Challenge Program have improved physically and mentally and are poised to become assets to the communities of the graduates and to the United States: Now, therefore, be it
 
 That the Senate—
