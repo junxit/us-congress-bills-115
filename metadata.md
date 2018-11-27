@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3946
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3946
@@ -50,3 +50,18 @@ An Act to name the Department of Veterans Affairs community-based outpatient cli
 - 2018-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4252)
 - 2018-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4252)
 - 2018-05-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-11-27 — Amendment SA 4063 agreed to in Senate by Unanimous Consent.
+- 2018-11-27 — Amendment SA 4063 proposed by Senator McConnell for Senator Isakson. (consideration: CR S7141; text: CR S7141) In the nature of a substitute.
+- 2018-11-27 — Amendment SA 4064 agreed to in Senate by Unanimous Consent.
+- 2018-11-27 — Amendment SA 4064 proposed by Senator McConnell for Senator Isakson. (consideration: CR S7141; text: CR S7141) To amend the title.
+- 2018-11-27 — Measure laid before Senate by unanimous consent. (consideration: CR S7141)
+- 2018-11-27 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-11-27 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2018-11-27 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-11-27 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-11-27 — Senate amendment agreed to: Amendment SA 4063 agreed to in Senate by Unanimous Consent.
+- 2018-11-27 — Senate amendment agreed to: Amendment SA 4064 agreed to in Senate by Unanimous Consent.
+- 2018-11-27 — Senate amendment proposed (on the floor): Amendment SA 4063 proposed by Senator McConnell for Senator Isakson.(consideration: CR S7141; text: CR S7141)
+- 2018-11-27 — Senate amendment proposed (on the floor): Amendment SA 4064 proposed by Senator McConnell for Senator Isakson.(consideration: CR S7141; text: CR S7141)
+- 2018-11-27 — Senate amendment submitted
+- 2018-11-27 — Senate amendment submitted
