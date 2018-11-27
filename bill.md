@@ -1,78 +1,126 @@
 ---
 legis-num: H.R. 1918
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1918
 
-> To oppose loans at international financial institutions for the Government of Nicaragua unless the Government of Nicaragua is taking effective steps to hold free, fair, and transparent elections, and for other purposes.
+That the bill from the House of Representatives (H.R. 1918) entitled “An Act to oppose loans at international financial institutions for the Government of Nicaragua unless the Government of Nicaragua is taking effective steps to hold free, fair, and transparent elections, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the enacting clause and insert the following:*
 
-This Act may be cited as the “Nicaraguan Investment Conditionality Act (NICA) of 2017”.
+## § 1. Short title; table of contents
 
-## § 2. Findings
+- **(a)** *Short title* This Act may be cited as the “Nicaragua Human Rights and Anticorruption Act of 2018”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-Congress makes the following findings:
+## § 2. Sense of Congress on advancing a negotiated solution to Nicaragua's crisis
 
-- **(1)** The House Committee on Foreign Affairs convened a congressional hearing on December 1, 2011, entitled “Democracy Held Hostage in Nicaragua: Part 1” where former United States Ambassador to Nicaragua Robert Callahan testified, “First, that Daniel Ortega’s candidacy was illegal, illegitimate, and unconstitutional; second, that the period leading to the elections and the elections themselves were marred by serious fraud; third, that Daniel Ortega and his Sandinista party have systematically undermined the country’s fragile governmental institutions.”.
-- **(2)** According to the Organization of American States (OAS) report on the Nicaraguan 2011 Presidential elections, the OAS recommended that the Government of Nicaragua take a number of steps to improve its electoral systems, including accrediting poll watchers to ensure political parties and civil society are represented to observe elections, and redesigning the structure of the Nicaraguan electoral council to allow proper registration of the electorate.
-- **(3)** On January 25, 2012, a press statement from Secretary of State Hillary Clinton said: “As noted by international observers and Nicaraguan civil society groups, Nicaragua’s recent elections were not conducted in a transparent and impartial manner, and the entire electoral process was marred by significant irregularities. The elections marked a setback to democracy in Nicaragua and undermined the ability of Nicaraguans to hold their government accountable.”.
-- **(4)** According to the Department of State’s 2015 Fiscal Transparency Report: “Nicaragua’s fiscal transparency would be improved by including all off-budget revenue and expenditure in the budget, auditing state-owned enterprises, and conducting a full audit of the government’s annual financial statements and making audit reports publicly available within a reasonable period of time.”.
-- **(5)** According to the Department of State’s Country Reports on Human Rights Practices for 2015: “In 2011 the Supreme Electoral Council (CSE) announced the re-election of President Daniel Ortega Saavedra of the Sandinista National Liberation Front (FSLN) in elections that international and domestic observers characterized as seriously flawed. International and domestic organizations raised concerns regarding the constitutional legitimacy of Ortega’s re-election. The 2011 elections also provided the ruling party with a supermajority in the National Assembly, allowing for changes in the constitution, including extending the reach of executive branch power and the elimination of restrictions on re-election for executive branch officials and mayors. Observers noted serious flaws during the 2012 municipal elections and March 2014 regional elections.”.
-- **(6)** According to the Department of State’s Country Reports on Human Rights Practices for 2015 in Nicaragua: “The principal human rights abuses were restrictions on citizens’ right to vote; obstacles to freedom of speech and press, including government intimidation and harassment of journalists and independent media, as well as increased restriction of access to public information, including national statistics from public offices; and increased government harassment and intimidation of nongovernmental organizations (NGOs) and civil society organizations.”.
-- **(7)** The same 2015 report stated: “Additional significant human rights abuses included considerably biased policies to promote single-party dominance; arbitrary police arrest and detention of suspects, including abuse during detention; harsh and life-threatening prison conditions with arbitrary and lengthy pretrial detention; discrimination against ethnic minorities and indigenous persons and communities.”.
-- **(8)** On June 7, 2016, the Department of State’s Bureau of Democracy, Human Rights and Labor posted on social media: “Disappointed government of Nicaragua said it will deny electoral observers requested by Nicaraguan citizens, church, and private sector * * * We continue to encourage the government of Nicaragua to allow electoral observers as requested by Nicaraguans.”.
-- **(9)** On June 14, 2016, President Ortega expelled three United States Government officials (two officials from U.S. Customs and Border Protection and one professor from the National Defense University) from Nicaragua.
-- **(10)** On August 1, 2016, the Department of State issued a press release to express grave concern over the Nicaraguan government limiting democratic space leading up to the elections in November and stated that “[o]n June 8, the Nicaraguan Supreme Court stripped the opposition Independent Liberal Party (PLI) from its long recognized leader. The Supreme Court took similar action on June 17 when it invalidated the leadership of the Citizen Action Party, the only remaining opposition party with the legal standing to present a presidential candidate. Most recently, on July 29, the Supreme Electoral Council removed 28 PLI national assembly members (16 seated and 12 alternates) from their popularly-elected positions.”.
-- **(11)** On November 7, 2016, the Department of State issued a press release stating: “The United States is deeply concerned by the flawed presidential and legislative electoral process in Nicaragua, which precluded the possibility of a free and fair election on November 6. In advance of the elections, the Nicaraguan government sidelined opposition candidates for president, limited domestic observation at the polls and access to voting credentials, and took other actions to deny democratic space in the process. The decision by the Nicaraguan government not to invite independent international electoral observers further degraded the legitimacy of the election.”.
-- **(12)** In November and December of 2016, the Board of Executive Directors of the Inter-American Development Bank postponed consideration of a policy based loan of $65 million to the Government of Nicaragua due to the efforts of the United States mission that expressed serious concerns of the absence of transparency, systemic corruption, and the lack of free and fair elections in Nicaragua.
-- **(13)** According to the Department of State’s Country Reports on Human Rights Practices for 2016: “[A]ctions by the ruling Sandinista National Liberation Front (FSLN) party resulted in de facto concentration of power in a single party, with an authoritarian executive branch exercising significant control over the legislative, judicial, and electoral functions.”.
-- **(14)** According to the Department of State’s Country Reports on Human Rights Practices for 2016 in Nicaragua, “The November 6 elections for president, vice president, national assembly members, and representatives for the Central American parliament did not meet the conditions of being free and fair * * * The November 6 presidential and legislative elections were marred by allegations of institutional fraud and the absence of independent opposition political parties. National observers and opposition leaders claimed rates of abstention from 60 to 70 percent.”.
-- **(15)** According to the Department of State’s Country Reports on Human Rights Practices for 2016: “Companies reported that bribery of public officials, unlawful seizures, and arbitrary assessments by customs and tax authorities were common * * * The courts remained particularly susceptible to bribes, manipulation, and other forms of corruption, especially by the FSLN, giving the sense that the FSLN heavily influenced CSJ and lower-level court actions.”.
+It is the sense of Congress that—
+
+- **(1)** credible negotiations between the Government of Nicaragua and representatives of Nicaragua’s civil society, student movement, private sector, and political opposition, mediated by the Catholic Church in Nicaragua, represent the best opportunity to reach a peaceful solution to the current political crisis that includes—
+  - **(A)** a commitment to hold early elections that meet democratic standards and permit credible international electoral observation;
+  - **(B)** the cessation of the violence perpetrated against civilians by the National Police of Nicaragua and by armed groups supported by the Government of Nicaragua; and
+  - **(C)** independent investigations into the killings of protesters; and
+- **(2)** negotiations between the Government of Nicaragua and representatives of Nicaragua’s civil society, student movement, private sector, and political opposition, mediated by the Catholic Church in Nicaragua, have not resulted in an agreement as of the date of the enactment of this Act because the Government of Nicaragua has failed to credibly participate in the process.
 
 ## § 3. Statement of policy
 
 It is the policy of the United States to support—
 
 - **(1)** the rule of law and an independent judiciary and electoral council in Nicaragua;
-- **(2)** independent pro-democracy organizations in Nicaragua;
-- **(3)** free, fair, and transparent elections under international and domestic observers in Nicaragua; and
+- **(2)** democratic governance in Nicaragua;
+- **(3)** free and fair elections overseen by credible domestic and international observers in Nicaragua; and
 - **(4)** anti-corruption and transparency efforts in Nicaragua.
 
-## § 4. International financial institutions
+## § 4. Restrictions on international financial institutions relating to Nicaragua
 
-- **(a)** *In general* The President shall instruct the United States Executive Director at each international financial institution to use the voice, vote, and influence of the United States to oppose any loan for the benefit of the Government of Nicaragua, other than to address basic human needs or promote democracy, unless the Secretary of State certifies and reports to the appropriate congressional committees that the Government of Nicaragua is taking effective steps to—
-  - **(1)** hold free, fair, and transparent elections overseen by credible domestic and international electoral observers;
-  - **(2)** promote democracy, as well as an independent judicial system and electoral council;
-  - **(3)** strengthen the rule of law;
-  - **(4)** respect the right to freedom of association and expression;
-  - **(5)** combat corruption, including investigating and prosecuting government officials that are credibly alleged to be corrupt; and
-  - **(6)** protect the right of political opposition parties, journalists, trade unionists, human rights defenders, and other civil society activists to operate without interference.
-- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the appropriate congressional committees a written report assessing—
-  - **(1)** the effectiveness of the international financial institutions in enforcing applicable program safeguards in Nicaragua; and
-  - **(2)** the effects of the matters described in section 2 on long-term prospects for positive development outcomes in Nicaragua.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-    - **(A)** the Committee on Foreign Affairs, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
-    - **(B)** the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
-  - **(2)** *International financial institution* The term international financial institution means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank, Bank for Economic Cooperation and Development in the Middle East and North Africa, and Inter-American Investment Corporation.
-- **(d)** *Termination* This section shall terminate on the day after the earlier of—
-  - **(1)** the date on which the Secretary of State certifies and reports to the appropriate congressional committees that the requirements of subsection (a) are met; or
-  - **(2)** 5 years after the date of the enactment of this Act.
-- **(e)** *Waiver* The President may waive this section if the President determines that such a waiver is in the national interest of the United States.
+- **(a)** *Restrictions* The Secretary of the Treasury shall—
+  - **(1)** instruct the United States Executive Director at each international financial institution of the World Bank Group to use the voice, vote, and influence of the United States to oppose the extension by the International Finance Corporation of any loan or financial or technical assistance to the Government of Nicaragua for a project in Nicaragua;
+  - **(2)** instruct the United States Executive Director of the Inter-American Development Bank to use the voice, vote, and influence of the United States to oppose the extension by the Bank of any loan or financial or technical assistance to the Government of Nicaragua for a project in Nicaragua; and
+  - **(3)** instruct the United States Executive Director of each other international financial institution, including the International Monetary Fund, to work with other key donor countries to develop a coherent policy approach to future engagements with and lending to the Government of Nicaragua, in a manner that will advance human rights, including the full restoration of the rights guaranteed to the people of Nicaragua through the commitments made by the Government of Nicaragua as a signatory of the International Covenant on Civil and Political Rights.
+- **(b)** *Exceptions for basic human needs and democracy promotion* The restrictions under paragraphs (1) and (2) of subsection (a) shall not apply with respect to any loan or financial or technical assistance provided to address basic human needs or to promote democracy in Nicaragua.
+- **(c)** *Briefing by the secretary of the treasury* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary of the Treasury shall brief the appropriate congressional committees on the effectiveness of international financial institutions in enforcing applicable program safeguards in Nicaragua.
 
-## § 5. Organization of American States
+## § 5. Imposition of targeted sanctions with respect to Nicaragua
 
-The President shall direct the United States Permanent Representative to the OAS to use the voice, vote, and influence of the United States at the OAS to strongly advocate for an Electoral Observation Mission to be sent to Nicaragua in 2017 to observe the possibility of credible elections.
+- **(a)** *In general* The President shall impose the sanctions described in subsection (c) with respect to any foreign person, including any current or former official of the Government of Nicaragua or any person acting on behalf of that Government, that the President determines—
+  - **(1)** to be responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, or to have knowingly participated in, directly or indirectly, any activity described in subsection (b);
+  - **(2)** to be a leader of—
+    - **(A)** an entity that has, or whose members have, engaged in any activity described in subsection (b); or
+    - **(B)** an entity whose property and interests in property are blocked under subsection (c)(1)(A) as a result of activities related to the tenure of the leader;
+  - **(3)** to have knowingly materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of—
+    - **(A)** an activity described in subsection (b); or
+    - **(B)** a person whose property and interests in property are blocked under subsection (c)(1)(A); or
+  - **(4)** to be owned or controlled by, or to have knowingly acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked under subsection (c)(1)(A).
+- **(b)** *Activities described* An activity described in this subsection is any of the following in or in relation to Nicaragua on or after April 18, 2018:
+  - **(1)** Significant acts of violence or conduct that constitutes a serious abuse or violation of human rights against persons associated with the protests in Nicaragua that began on April 18, 2018.
+  - **(2)** Significant actions or policies that undermine democratic processes or institutions.
+  - **(3)** Acts of significant corruption by or on behalf of the Government of Nicaragua or a current or former official of the Government of Nicaragua, including—
+    - **(A)** the expropriation of private or public assets for personal gain or political purposes;
+    - **(B)** corruption related to government contracts;
+    - **(C)** bribery; or
+    - **(D)** the facilitation or transfer of the proceeds of corruption.
+  - **(4)** The arrest or prosecution of a person, including an individual or media outlet disseminating information to the public, primarily because of the legitimate exercise by such person of the freedom of speech, assembly, or the press.
+- **(c)** *Sanctions described*
+  - **(1)** *In general* The sanctions described in this subsection are the following:
+    - **(A)** *Asset blocking* The exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+    - **(B)** *Exclusion from the United States and revocation of visa or other documentation* In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), of any visa or other documentation of the alien.
+  - **(2)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of a measure imposed pursuant to paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+  - **(3)** *Exception relating to importation of goods* The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
+  - **(4)** *Exception to comply with United Nations Headquarters Agreement* Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+- **(d)** *Implementation; regulatory authority*
+  - **(1)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+  - **(2)** *Regulatory authority* The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-## § 6. Sense of Congress
+## § 6. Annual certification and waiver
 
-The Department of State and the United States Agency for International Development should prioritize foreign assistance to the people of Nicaragua to assist civil society in democracy and governance programs, including human rights documentation.
+- **(a)** *Certification* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report certifying whether the Government of Nicaragua is taking effective steps—
+  - **(1)** to strengthen the rule of law and democratic governance, including the independence of the judicial system and electoral council;
+  - **(2)** to combat corruption, including by investigating and prosecuting cases of public corruption;
+  - **(3)** to protect civil and political rights, including the rights of freedom of the press, speech, and association, for all people of Nicaragua, including political opposition parties, journalists, trade unionists, human rights defenders, indigenous peoples, and other civil society activists;
+  - **(4)** to investigate and hold accountable officials of the Government of Nicaragua and other persons responsible for the killings of individuals associated with the protests in Nicaragua that began on April 18, 2018; and
+  - **(5)** to hold free and fair elections overseen by credible domestic and international observers
+- **(b)** *Waiver*
+  - **(1)** *Temporary general waiver* If the Secretary certifies to the appropriate congressional committees under subsection (a) that the Government of Nicaragua is taking effective steps as described in that subsection, the President may waive the application of the restrictions under section 4 and sanctions under section 5 for a period of not more than one year beginning on the date of the certification.
+  - **(2)** *National interest waiver* The President may waive the application of the restrictions under section 4 and sanctions under section 5 if the President—
+    - **(A)** determines that such a waiver is in the national interest of the United States; and
+    - **(B)** submits to the appropriate congressional committees a notice of and justification for the waiver.
+  - **(3)** *Sense of congress* It is the sense of Congress that the President should exercise the waiver authority provided under paragraph (1) if the Secretary of State certifies under subsection (a) that the Government of Nicaragua is taking effective steps as described in that subsection.
+- **(c)** *Consultation* In preparing a certification required by subsection (a), the Secretary shall consult with the appropriate congressional committees.
+- **(d)** *Annual briefing* The Secretary shall annually brief the appropriate congressional committees on whether the Government of Nicaragua is taking effective steps as described in subsection (a).
 
-## § 7. Report on corruption in Nicaragua
+## § 7. Report on human rights violations and corruption in Nicaragua
 
-- **(a)** *Report requirement* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in consultation with the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)), shall submit to Congress a report on the involvement of senior Nicaraguan government officials, including members of the Supreme Electoral Council, the National Assembly, and the judicial system, in acts of public corruption or human rights violations in Nicaragua.
-- **(b)** *Form* The report required in subsection (a) shall be submitted in unclassified form, but may contain a classified annex. The unclassified portion of the report shall be made available to the public.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, acting through the Assistant Secretary of State for Intelligence and Research, and in coordination with the Secretary of the Treasury and the Director of National Intelligence, shall submit to the appropriate congressional committees a report on—
+  - **(1)** the involvement of senior officials of the Government of Nicaragua, including members of the Supreme Electoral Council, the National Assembly, and the judicial system, in human rights violations, acts of significant corruption, and money laundering; and
+  - **(2)** persons that transfer, or facilitate the transfer of, goods or technologies for use in or with respect to Nicaragua, that are used by the Government of Nicaragua to commit serious human rights violations against the people of Nicaragua.
+- **(b)** *Form* The report required by subsection (a) may be classified.
+
+## § 8. Civil society engagement strategy
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall brief the appropriate congressional committees on a strategy—
+
+- **(1)** for engaging relevant elements of civil society in Nicaragua, including independent media, human rights, and anti-corruption organizations, to strengthen rule of law and increase accountability for human rights abuses and corruption in Nicaragua; and
+- **(2)** setting forth measures to support the protection of human rights and anti-corruption advocates in Nicaragua.
+
+## § 9. Reform of Western Hemisphere Drug Policy Commission
+
+Section 603(f)(1) of the Department of State Authorities Act, Fiscal Year 2017 (Public Law 114–323; 130 Stat. 1938) is amended by striking “Not later than 60 days after the date of the enactment of this Act, the Commission shall hold an initial meeting to develop and implement” and inserting “At the initial meeting of the Commission, the Commission shall develop and implement”.
+
+## § 10. Termination
+
+The provisions of this Act (other than section 9) shall terminate on December 31, 2023.
+
+## § 11. Definitions
+
+In this Act:
+
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  - **(A)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Appropriations of the Senate; and
+  - **(B)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Appropriations of the House of Representatives.
+- **(2)** *Good* The term good means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(3)** *Person* The term person means an individual or entity.
+- **(4)** *United States person* The term United States person means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including a foreign branch of such an entity), or any person in the United States.
