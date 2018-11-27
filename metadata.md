@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3121
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3121
@@ -16,7 +16,7 @@ All-American Flag Act
 
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Cosponsors (34)
+## Cosponsors (36)
 
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
@@ -52,6 +52,8 @@ All-American Flag Act
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Russell, Steve [R-OK-5] (R000604)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
 
 ## Committees (1)
 
@@ -62,3 +64,8 @@ All-American Flag Act
 - 2017-06-29 — Introduced in House
 - 2017-06-29 — Introduced in House
 - 2017-06-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-11-27 — Placed on the Union Calendar, Calendar No. 811.
+- 2018-11-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1044.
+- 2018-11-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1044.
