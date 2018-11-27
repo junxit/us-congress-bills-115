@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6346
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6346
@@ -16,7 +16,7 @@ Weigh Habitats Offsetting Locational Effects Act of 2018
 
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Cosponsors (24)
+## Cosponsors (31)
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -42,6 +42,13 @@ Weigh Habitats Offsetting Locational Effects Act of 2018
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Perry, Scott [R-PA-4] (P000605)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
 
 ## Committees (1)
 
@@ -52,3 +59,9 @@ Weigh Habitats Offsetting Locational Effects Act of 2018
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Referred to the House Committee on Natural Resources.
+- 2018-09-26 — Committee Hearings Held.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported by the Yeas and Nays: 20 - 11.
+- 2018-11-27 — Placed on the Union Calendar, Calendar No. 817.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1050.
+- 2018-11-27 — Reported by the Committee on Natural Resources. H. Rept. 115-1050.
