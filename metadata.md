@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4591
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4591
@@ -16,7 +16,7 @@ Preventing Destabilization of Iraq Act of 2018
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
@@ -32,6 +32,9 @@ Preventing Destabilization of Iraq Act of 2018
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Perry, Scott [R-PA-4] (P000605)
 
 ## Committees (2)
 
@@ -44,3 +47,12 @@ Preventing Destabilization of Iraq Act of 2018
 - 2017-12-07 — Introduced in House
 - 2017-12-07 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-12-07 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-27 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2018-11-27 — Considered under suspension of the rules. (consideration: CR H9593-9594)
+- 2018-11-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4591.
+- 2018-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-27 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
+- 2018-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9593-9597)
+- 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9593-9597)
