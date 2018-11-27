@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1918
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1918
@@ -78,3 +78,14 @@ Nicaragua Human Rights and Anticorruption Act of 2018
 - 2018-11-27 — Senate amendment agreed to: Amendment SA 4066 agreed to in Senate by Unanimous Consent.
 - 2018-11-27 — Senate amendment proposed (on the floor): Amendment SA 4066 proposed by Senator McConnell for Senator Menendez.(consideration: CR S7143-7144; text: CR S7143-7144)
 - 2018-11-27 — Senate amendment submitted
+- 2018-11-28 — Message on Senate action sent to the House.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Royce (CA) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H10077-10078)
+- 2018-12-11 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H10077-10078)
+- 2018-12-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H10077-10078)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-20 — Became Public Law No: 115-335.
+- 2018-12-20 — Became Public Law No: 115-335.
+- 2018-12-20 — Signed by President.
+- 2018-12-20 — Signed by President.
