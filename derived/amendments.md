@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6793
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “After payment” and all that follows through the first instance of “for that purpose,” and inserting “Not later than 90 days after the date of enactment of the Restore the Harmony Way Bridge Act,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “be free of tolls and”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Federal Works Administrator” and “Commissioner of Public Roads” each place in which either appears and inserting “Administrator of the Federal Highway Administration”. | the bill names no machine-readable US Code section |
+| — | repeal | The Act of April 12, 1941 (55 Stat. 140, chapter 71) is repealed effective on the date that the White County Bridge Commission completes the conveyance described in section 2. | the bill names no machine-readable US Code section |
