@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3121
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,14 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “All-American Flag Act”.
 
-## § 2. Requirement for purchase of domestically made United States flags for use by Federal Government
+## § 2. Requirement for agencies to buy domestically made United States flags
 
-- **(a)** *In general* Only such flags of the United States of America, regardless of size, that are 100 percent manufactured in the United States, from articles, materials, or supplies 100 percent of which are grown, produced, or manufactured in the United States, may be acquired for use by the Federal Government.
-- **(b)** *Availability exception* Subsection (a) does not apply if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not grown, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality.
-- **(c)** *Presidential waiver*
-  - **(1)** *In general* The President may waive the requirement in subsection (a) if the President determines a waiver is necessary to comply with any trade agreement to which the United States is a party.
-  - **(2)** *Notice of waiver* Not later than 30 days after granting a waiver under paragraph (1), the President shall publish a notice of the waiver in the Federal Register.
+- **(a)** *Requirement for agencies to buy domestically made United States flags*
+  - **(1)** *In general* Chapter 63 of title 41, United States Code, is amended by adding at the end the following new section:
+    > ## § 6310. Requirement for agencies to buy domestically made United States flags
+    >
+    > - **(a)** *Requirement* Except as provided in subsections (b) through (d), funds appropriated or otherwise available to an agency may not be used for the procurement of any flag of the United States, unless such flag has been 100 percent manufactured in the United States from articles, materials, or supplies that have been grown or 100 percent produced or manufactured in the United States.
+    > - **(b)** *Availability exception* Subsection (a) does not apply to the extent that the head of the agency concerned determines that satisfactory quality and sufficient quantity of a flag described in such subsection cannot be procured as and when needed at United States market prices.
+    > - **(c)** *Exception for certain procurements* Subsection (a) does not apply to the following:
+    >   - **(1)** Procurements by vessels in foreign waters.
+    >   - **(2)** Procurements for resale purposes in any military commissary, military exchange, gift shop, or nonappropriated fund instrumentality operated by an agency.
+    >   - **(3)** Procurements for amounts less than the simplified acquisition threshold.
+    > - **(d)** *Presidential waiver*
+    >   - **(1)** *In general* The President may waive the requirement in subsection (a) if the President determines a waiver is necessary to comply with any trade agreement to which the United States is a party.
+    >   - **(2)** *Notice of waiver* Not later than 30 days after granting a waiver under paragraph (1), the President shall publish a notice of the waiver in the Federal Register.
+    > - **(e)** *Definitions* In this section:
+    >   - **(1)** *Agency* The term “agency” has the meaning given the term “executive agency” in section 102 of title 40.
+    >   - **(2)** *Simplified acquisition threshold* The term “simplified acquisition threshold” has the meaning given that term in section 134.
 
-## § 3. Applicability
-
-Section 2 shall apply with respect to any contract entered into on or after 180 days after the date of the enactment of this Act.
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
+- **(b)** *Applicability* Section 6310 of title 41, United States Code, as added by subsection (a)(1), shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this Act.
