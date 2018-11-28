@@ -1,7 +1,7 @@
 ---
 measure: S. 2560
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2560
@@ -24,3 +24,8 @@ Reclamation Title Transfer Act of 2018
 
 - 2018-03-15 — Introduced in Senate
 - 2018-03-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-03-22 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 115-511.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-28 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-395.
+- 2018-11-28 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-395.
+- 2018-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 681.
