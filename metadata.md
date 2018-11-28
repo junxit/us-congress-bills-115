@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6622
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6622
@@ -31,9 +31,10 @@ To designate the Federal building located at 2110 First Street in Fort Myers, Fl
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ To designate the Federal building located at 2110 First Street in Fort Myers, Fl
 - 2018-11-27 — On passage Passed without objection. (text: CR H9656)
 - 2018-11-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9656)
 - 2018-11-27 — The title of the measure was amended. Agreed to without objection.
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
