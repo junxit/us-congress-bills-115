@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4591
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4591
@@ -36,10 +36,11 @@ Preventing Destabilization of Iraq Act of 2018
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Perry, Scott [R-PA-4] (P000605)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Preventing Destabilization of Iraq Act of 2018
 - 2018-11-27 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9593-9597)
 - 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9593-9597)
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
