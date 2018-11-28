@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6207
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6207
@@ -40,9 +40,10 @@ Democratic Republic of the Congo Democracy and Accountability Act of 2018
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Democratic Republic of the Congo Democracy and Accountability Act of 2018
 - 2018-11-27 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 422). (text: CR H9597-9598)
 - 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 422).(text: CR H9597-9598)
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
