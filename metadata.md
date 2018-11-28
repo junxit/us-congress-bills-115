@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6032
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6032
@@ -53,3 +53,9 @@ SMART IoT Act
 - 2018-11-02 — Placed on the Union Calendar, Calendar No. 784.
 - 2018-11-02 — Reported by the Committee on Energy and Commerce. H. Rept. 115-1003.
 - 2018-11-02 — Reported by the Committee on Energy and Commerce. H. Rept. 115-1003.
+- 2018-11-28 — Considered under suspension of the rules. (consideration: CR H9675-9676)
+- 2018-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6032.
+- 2018-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-28 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
+- 2018-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9675)
+- 2018-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9675)

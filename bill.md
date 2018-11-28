@@ -35,3 +35,7 @@ This Act may be cited as the “State of Modern Application, Research, and Trend
   - **(2)** *Internet-connected device* The term “internet-connected device” means a physical object that—
     - **(A)** is capable of connecting to the internet, either directly or indirectly through a network, to communicate information at the direction of an individual; and
     - **(B)** has computer processing capabilities for collecting, sending, receiving, or analyzing data.
+
+## § 3. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise authorized.
