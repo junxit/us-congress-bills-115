@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5273
@@ -34,9 +34,10 @@ Global Fragility and Violence Reduction Act of 2018
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Faso, John J. [R-NY-19] (F000464)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Global Fragility and Violence Reduction Act of 2018
 - 2018-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 16 (Roll no. 421). (text: CR H9587-9589)
 - 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 16 (Roll no. 421).(text: CR H9587-9589)
 - 2018-11-27 — The title of the measure was amended. Agreed to without objection.
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
