@@ -1,7 +1,7 @@
 ---
 measure: S. 1149
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1149
@@ -24,3 +24,8 @@ A bill to amend the Alaska Native Claims Settlement Act to repeal a provision li
 
 - 2017-05-17 — Introduced in Senate
 - 2017-05-17 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-07-26 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-482.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-11-28 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-393.
+- 2018-11-28 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-393.
+- 2018-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
