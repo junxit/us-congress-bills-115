@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7120
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7120
@@ -36,3 +36,4 @@ To amend the Federal Election Campaign Act of 1971 to extend through 2023 the au
 - 2018-11-27 — Mr. Harper asked unanimous consent to discharge from committee and consider.
 - 2018-11-27 — On passage Passed without objection. (text: CR H9656)
 - 2018-11-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9656)
+- 2018-11-28 — Received in the Senate, read twice.
