@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 501
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 501
@@ -34,3 +34,5 @@ A resolution recognizing threats to freedom of the press and expression around t
 - 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-07-30 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with an amended preamble. Without written report.
 - 2018-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
+- 2018-11-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S7194)
+- 2018-11-28 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S7194)
