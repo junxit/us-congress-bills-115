@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6793
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6793
@@ -45,9 +45,10 @@ Restore the Harmony Way Bridge Act
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Restore the Harmony Way Bridge Act
 - 2018-11-27 — On agreeing to the Mast amendment (A001) Agreed to without objection.
 - 2018-11-27 — On passage Passed without objection. (text: CR H9655-9656)
 - 2018-11-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9655-9656)
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
