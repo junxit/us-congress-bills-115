@@ -23,7 +23,7 @@ Section 305 of the United States International Broadcasting Act of 1994 (22 U.S.
 
 Section 306 of the United States International Broadcasting Act of 1994 (22 U.S.C. 6205) is amended—
 
-- **(1)** by striking subsections (a) through (c) and inserting the following:
+- **(1)** by striking subsection (a) through (c) and inserting the following:
   > - **(a)** *In general* The International Broadcasting Advisory Board (referred to in this section as the “Advisory Board”) shall advise the Chief Executive Officer of the United States Agency for Global Media, as appropriate.
   > - **(b)** *Retention of existing Broadcasting Board of Governors Members* The presidentially appointed and Senate-confirmed members of the Board of the Broadcasting Board of Governors who were serving as of December 23, 2016, shall—
   >   - **(1)** constitute the first Advisory Board; and
@@ -32,7 +32,7 @@ Section 306 of the United States International Broadcasting Act of 1994 (22 U.S.
   >   - **(1)** *In general* The Advisory Board shall consist of 7 members, of whom—
   >     - **(A)** 6 shall be appointed by the President, by and with the advice and consent of the Senate, in accordance with subsection (d); and
   >     - **(B)** 1 shall be the Secretary of State.
-  >   - **(2)** *Chair* The President shall designate, with the advice and consent of the Senate one of the members appointed under paragraph (1)(A) as Chair of the Advisory Board.
+  >   - **(2)** *Chair* The President shall designate, with the advice and consent of the Senate 1 of the members appointed under paragraph (1)(A) as Chair of the Advisory Board.
   >   - **(3)** *Party limitation* Not more than 4 members of the Advisory Board appointed under paragraph (1)(A) may be affiliated with the same political party.
   >   - **(4)** *Terms of office*
   >     - **(A)** *In general* Except as provided in subparagraph (B), members of the Advisory Board shall serve for a single term of 4 years, except that, of the first group of members appointed under paragraph (1)(A)—
@@ -88,7 +88,7 @@ The United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.
     - **(i)** in paragraph (6), by striking “Board” and inserting “Agency”;
     - **(ii)** in paragraph (13), by striking “Board” and inserting “Agency”;
     - **(iii)** in paragraph (20), by striking “Board” and inserting “Agency”; and
-    - **(iv)** in paragraph (22), by striking “Board” and inserting “Agency”; and
+    - **(iv)** in paragraph (22), by striking “Board” and inserting “Agency”;
   - **(B)** in subsection (b), by striking “Board” each place such term appears and inserting “Agency”;
 - **(3)** in section 308—
   - **(A)** in subsection (a), in the matter preceding paragraph (1), by striking “Board” and inserting “Agency”;
@@ -154,7 +154,7 @@ The Under Secretary for Public Diplomacy and Public Affairs of the Department of
   - **(1)** *In general* The Director of Policy Planning shall ensure that research and evaluation, as coordinated and overseen by the Director of Research and Evaluation, supports strategic planning and resource allocation across all public diplomacy bureaus and offices of the Department of State.
   - **(2)** *Allocation of resources* Amounts allocated for the purposes of research and evaluation of public diplomacy programs and activities pursuant to subsection (b) shall be made available to be disbursed at the direction of the Director of Research and Evaluation among the research and evaluation staff across all public diplomacy bureaus and offices of the Department of State.
   - **(3)** *Sense of congress* It is the sense of Congress that the Department of State should gradually increase its allocation of funds made available under the headings “educational and cultural exchange programs” and “diplomatic and consular programs” for research and evaluation of public diplomacy activities and programs pursuant to subsection (a) to a percentage of program funds that is commensurate with government best practices.
-- **(e)** *Limited exemption* Chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), shall not apply to collections of information directed at any individuals conducted by, or on behalf of, the Department of State for the purpose of audience research, monitoring, and evaluations, and in connection with the Department’s activities conducted pursuant to—
+- **(e)** *Limited exemption* Chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”) shall not apply to collections of information directed at any individuals conducted by, or on behalf of, the Department of State for the purpose of audience research, monitoring, and evaluations, and in connection with the Department’s activities conducted pursuant to—
   - **(1)** the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.);
   - **(2)** the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.);
   - **(3)** section 1287 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note); or
