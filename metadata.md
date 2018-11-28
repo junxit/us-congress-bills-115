@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7163
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7163
@@ -22,9 +22,10 @@ To designate the outstation of the Department of Veterans Affairs in North Ogden
 - Rep. Love, Mia B. [R-UT-4] (L000584)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the outstation of the Department of Veterans Affairs in North Ogden
 - 2018-11-27 — Mr. Roe (TN) asked unanimous consent to discharge from committee and consider.
 - 2018-11-27 — On passage Passed without objection. (text: CR H9656-9657)
 - 2018-11-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9656-9657)
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
