@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1567
@@ -24,9 +24,10 @@ United States-Mexico Economic Partnership Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ United States-Mexico Economic Partnership Act
 - 2018-11-27 — Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.
 - 2018-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9591)
 - 2018-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9591)
+- 2018-11-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
