@@ -1,7 +1,7 @@
 ---
 measure: S. 3119
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3119
@@ -28,3 +28,7 @@ Endangered Salmon Predation Prevention Act
 
 - 2018-06-21 — Introduced in Senate
 - 2018-06-21 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-08-01 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-400.
+- 2018-11-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-400.
+- 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 702.
