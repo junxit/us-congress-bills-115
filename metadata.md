@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7187
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7187
@@ -40,3 +40,9 @@ National Flood Insurance Program Further Extension Act of 2018
 - 2018-11-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S7246)
 - 2018-11-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S7246)
 - 2018-11-29 — Referred to the House Committee on Financial Services.
+- 2018-11-30 — Presented to President.
+- 2018-11-30 — Presented to President.
+- 2018-12-01 — Became Public Law No: 115-281.
+- 2018-12-01 — Became Public Law No: 115-281.
+- 2018-12-01 — Signed by President.
+- 2018-12-01 — Signed by President.
