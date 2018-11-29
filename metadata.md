@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4989
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4989
@@ -46,3 +46,7 @@ Protecting Diplomats from Surveillance Through Consumer Devices Act
 - 2018-07-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 335). (text: CR H6319)
 - 2018-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 335).(text: CR H6319)
 - 2018-07-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-11-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 705.
