@@ -1,7 +1,7 @@
 ---
 measure: S. 2249
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | Section 401(b) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4146; 123 Stat. 1108) is amended by striking paragraph (4). | the bill names no machine-readable US Code section |
 | — | replace | Section 401(e) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148; 123 Stat. 1108) is amended by striking “for the 10 fiscal years beginning after the date of enactment of the O… | the bill names no machine-readable US Code section |
+| — | replace | Section 401(b)(4) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4147; 123 Stat. 1108) is amended by striking “the Omnibus Public Land Management Act of 2009” and inserting “the … | the bill names no machine-readable US Code section |
+| — | replace | Section 401(e) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148; 123 Stat. 1108) is amended by striking “the Omnibus Public Land Management Act of 2009” and inserting “the Rio… | the bill names no machine-readable US Code section |
