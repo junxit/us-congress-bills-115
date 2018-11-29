@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4326
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4326
@@ -45,3 +45,17 @@ To designate the facility of the United States Postal Service located at 200 Wes
 - 2017-11-09 — Introduced in House
 - 2017-11-09 — Introduced in House
 - 2017-11-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-11-29 — Amendment (A001) offered by Mr. Comer. (consideration: CR H9726; text: CR H9726)
+- 2018-11-29 — Amendment agreed to by House: On agreeing to the Comer amendment (A001) Agreed to without objection.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Considered by unanimous consent. (consideration: CR H9726)
+- 2018-11-29 — House amendment agreed to: On agreeing to the Comer amendment (A001) Agreed to without objection.
+- 2018-11-29 — House amendment offered
+- 2018-11-29 — House amendment offered/reported by: Amendment (A001) offered by Mr. Comer.(consideration: CR H9726; text: CR H9726)
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer asked unanimous consent to discharge from committee and consider.
+- 2018-11-29 — On agreeing to the Comer amendment (A001) Agreed to without objection.
+- 2018-11-29 — On passage Passed without objection. (text: CR H9726)
+- 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9726)
+- 2018-11-29 — The title of the measure was amended. Agreed to without objection.
