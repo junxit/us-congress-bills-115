@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 22 U.S.C. § 2753
+
+> by striking “During the 3-year period” and inserting “During the period”; and
+
+| | |
+|---|---|
+| Removed | `During the 3-year period` |
+| Inserted | `During the period` |
 
 ### 22 U.S.C. § 2753
 
@@ -42,4 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `22 U.S.C. § 2753` | insert | by inserting “and ending on December 31, 2022” after “enactment of this Act”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2753` | insert | by inserting “and ending on December 31, 2022” after “enactment of this Act”. | the bill quotes the text inserted but describes where it goes |
