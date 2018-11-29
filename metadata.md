@@ -1,7 +1,7 @@
 ---
 measure: S. 90
 congress: 115
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # S. 90
@@ -32,3 +32,8 @@ Red River Gradient Boundary Survey Act
 - 2017-02-28 — Referred to the Committee on Energy and Natural Resources.
 - 2017-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
 - 2017-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2017-07-26 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-482.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2018-11-29 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-11-29 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 687.
