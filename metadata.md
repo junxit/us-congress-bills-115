@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 92
 congress: 115
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 92
@@ -39,3 +39,5 @@ A resolution expressing concern over the disappearance of David Sneddon, and for
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2018-02-12 — Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.
 - 2018-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
+- 2018-11-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7246-7247)
+- 2018-11-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7246-7247)
