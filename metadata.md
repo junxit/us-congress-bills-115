@@ -1,7 +1,7 @@
 ---
 measure: S. 3657
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3657
@@ -16,9 +16,10 @@ Traumatic Brain Injury Program Reauthorization Act of 2018
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Smith, Tina [D-MN] (S001203)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Traumatic Brain Injury Program Reauthorization Act of 2018
 
 - 2018-11-26 — Introduced in Senate
 - 2018-11-26 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S7089-7090)
+- 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 697.
