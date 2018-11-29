@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6753
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6753
@@ -22,10 +22,11 @@ Strengthening the Health Care Fraud Prevention Task Force Act of 2018
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Strengthening the Health Care Fraud Prevention Task Force Act of 2018
 - 2018-11-28 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9671-9673)
 - 2018-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9671-9673)
+- 2018-11-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
