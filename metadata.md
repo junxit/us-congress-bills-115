@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3121
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3121
@@ -69,3 +69,9 @@ All-American Flag Act
 - 2018-11-27 — Placed on the Union Calendar, Calendar No. 811.
 - 2018-11-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1044.
 - 2018-11-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1044.
+- 2018-11-29 — Considered under suspension of the rules. (consideration: CR H9716-9717)
+- 2018-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3121.
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
+- 2018-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9716-9717)
+- 2018-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9716-9717)
