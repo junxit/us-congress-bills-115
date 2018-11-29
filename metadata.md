@@ -1,7 +1,7 @@
 ---
 measure: S. 3628
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3628
@@ -31,3 +31,7 @@ National Flood Insurance Program Extension Act
 
 - 2018-11-15 — Introduced in Senate
 - 2018-11-15 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2018-11-29 — Passed Senate without amendment by Voice Vote. (text: CR S7246)
+- 2018-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S7246)
+- 2018-11-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S7246)
+- 2018-11-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S7246)
