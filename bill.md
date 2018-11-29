@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2846
 
-> To require the collection of voluntary feedback on services provided by agencies, and for other purposes.
+> To require the collection of voluntary customer service feedback on services provided by agencies, and for other purposes.
 
 ## § 1. Short title
 
