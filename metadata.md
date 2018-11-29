@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4032
@@ -55,3 +55,12 @@ Gila River Indian Community Federal Rights-of-Way, Easements and Boundary Clarif
 - 2018-11-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-399.
 - 2018-11-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-399.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 699.
+- 2018-12-13 — Passed Senate without amendment by Voice Vote. (consideration: CR S7578)
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7578)
+- 2018-12-17 — Message on Senate action sent to the House.
+- 2018-12-19 — Presented to President.
+- 2018-12-19 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-350.
+- 2018-12-21 — Became Public Law No: 115-350.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
