@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1872
-congress: 115th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1872
@@ -76,7 +76,7 @@ In this Act:
 - **(a)** *Ineligibility for visas* No individual whom the Secretary of State has determined to be substantially involved in the formulation or execution of policies related to access for foreigners to Tibetan areas may be eligible to receive a visa to enter the United States or be admitted to the United States if the Secretary of State determines that—
   - **(1)**
     - **(A)** the requirement for specific official permission for foreigners to enter the Tibetan Autonomous Region remains in effect; or
-    - **(B)** such requirement has been replaced by a regulation that has a similar effect and requires foreign travelers to gain a level of permission to enter the Tibet Autonomous Region that is not required for travel to other provinces in China; and
+  - **(B)** such requirement has been replaced by a regulation that has a similar effect and requires foreign travelers to gain a level of permission to enter the Tibet Autonomous Region that is not required for travel to other provinces in China; and
   - **(2)** restrictions on travel by diplomats and other officials, journalists, and citizens of the United States to areas designated as “Tibetan Autonomous” in the provinces of Sichuan, Qinghai, Yunnan, and Gansu of China are greater than any restrictions on travel by such officials and citizens to areas in such provinces that are not so designated.
 - **(b)** *Current visas revoked* The Secretary of State shall revoke, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), the visa or other documentation to enter or be present in the United States issued for an alien who would be ineligible to receive such a visa or documentation under subsection (a).
 - **(c)** *Report to congress* Not later than one year after the date of the enactment of this Act, and annually thereafter for the following five years, the Secretary of State shall provide to the appropriate congressional committees a report identifying the individuals who have had visas denied or revoked pursuant to this section during the preceding year and, to the extent practicable, a list of Chinese officials who were substantially involved in the formulation or execution of policies to restrict access of United States diplomats and other officials, journalists, and citizens of the United States to Tibetan areas. The report required by this subsection shall be submitted in unclassified form, but may include a classified annex.

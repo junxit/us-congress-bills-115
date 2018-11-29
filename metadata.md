@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1872
@@ -103,3 +103,12 @@ Reciprocal Access to Tibet Act of 2018
 - 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
+- 2018-12-11 — Passed Senate without amendment by Voice Vote. (consideration: CR S7453)
+- 2018-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7453)
+- 2018-12-12 — Message on Senate action sent to the House.
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-19 — Became Public Law No: 115-330.
+- 2018-12-19 — Became Public Law No: 115-330.
+- 2018-12-19 — Signed by President.
+- 2018-12-19 — Signed by President.
