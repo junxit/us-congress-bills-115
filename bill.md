@@ -23,7 +23,7 @@ This Act may be cited as the “All-American Flag Act”.
     > - **(b)** *Availability exception* Subsection (a) does not apply to the extent that the head of the agency concerned determines that satisfactory quality and sufficient quantity of a flag described in such subsection cannot be procured as and when needed at United States market prices.
     > - **(c)** *Exception for certain procurements* Subsection (a) does not apply to the following:
     >   - **(1)** Procurements by vessels in foreign waters.
-    >   - **(2)** Procurements for resale purposes in any military commissary, military exchange, gift shop, or nonappropriated fund instrumentality operated by an agency.
+    >   - **(2)** Procurements for resale purposes in any military commissary, military exchange, or nonappropriated fund instrumentality operated by an agency.
     >   - **(3)** Procurements for amounts less than the simplified acquisition threshold.
     > - **(d)** *Presidential waiver*
     >   - **(1)** *In general* The President may waive the requirement in subsection (a) if the President determines a waiver is necessary to comply with any trade agreement to which the United States is a party.
