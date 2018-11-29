@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6777
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6777
@@ -30,3 +30,9 @@ Settlement Agreement Information Database Act of 2018
 - 2018-11-27 — Placed on the Union Calendar, Calendar No. 813.
 - 2018-11-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-1046.
 - 2018-11-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-1046.
+- 2018-11-29 — Considered under suspension of the rules. (consideration: CR H9722-9723)
+- 2018-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6777.
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2018-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9722-9723)
+- 2018-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9722-9723)
