@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 688
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 688
@@ -36,3 +36,7 @@ A resolution expressing support for the designation of the week of November 19 t
 
 - 2018-11-15 — Introduced in Senate
 - 2018-11-15 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S7051-7055)
+- 2018-11-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-11-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-11-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7247)
+- 2018-11-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S7247)
