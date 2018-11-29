@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7164
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7164
@@ -35,3 +35,4 @@ To add Ireland to the E-3 nonimmigrant visa program.
 - 2018-11-28 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2018-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9676)
 - 2018-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9676)
+- 2018-11-29 — Received in the Senate.
