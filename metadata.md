@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4819
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4819
@@ -84,3 +84,12 @@ DELTA Act
 - 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S7950)
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7950)
+- 2018-12-21 — Became Public Law No: 115-353.
+- 2018-12-21 — Became Public Law No: 115-353.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
