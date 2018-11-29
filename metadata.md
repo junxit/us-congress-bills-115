@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1872
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1872
@@ -99,3 +99,7 @@ Reciprocal Access to Tibet Act of 2018
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8849-8850)
 - 2018-09-25 — The title of the measure was amended. Agreed to without objection.
 - 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-11-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-11-29 — Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.
+- 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
