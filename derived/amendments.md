@@ -1,7 +1,7 @@
 ---
 measure: S. 3628
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -26,18 +26,18 @@ to guess them.
 
 ### 42 U.S.C. § 4016
 
-> Section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) is amended by striking “November 30, 2018” and inserting “May 31, 2019”.
+> Section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) is amended by striking “December 7, 2018” and inserting “May 31, 2019”.
 
 | | |
 |---|---|
-| Removed | `November 30, 2018` |
+| Removed | `December 7, 2018` |
 | Inserted | `May 31, 2019` |
 
 ### 42 U.S.C. § 4026
 
-> Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “November 30, 2018” and inserting “May 31, 2019”.
+> Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “December 7, 2018” and inserting “May 31, 2019”.
 
 | | |
 |---|---|
-| Removed | `November 30, 2018` |
+| Removed | `December 7, 2018` |
 | Inserted | `May 31, 2019` |
