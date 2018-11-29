@@ -1,7 +1,7 @@
 ---
 measure: H.R. 315
 congress: 115
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 315
@@ -50,3 +50,12 @@ Improving Access to Maternity Care Act
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 696.
+- 2018-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7372)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7372)
+- 2018-12-10 — Message on Senate action sent to the House.
+- 2018-12-11 — Presented to President.
+- 2018-12-11 — Presented to President.
+- 2018-12-17 — Became Public Law No: 115-320.
+- 2018-12-17 — Became Public Law No: 115-320.
+- 2018-12-17 — Signed by President.
+- 2018-12-17 — Signed by President.
