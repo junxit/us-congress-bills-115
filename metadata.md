@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6032
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6032
@@ -37,9 +37,10 @@ SMART IoT Act
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ SMART IoT Act
 - 2018-11-28 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2018-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9675)
 - 2018-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9675)
+- 2018-11-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
