@@ -13,54 +13,72 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “21st Century Integrated Digital Experience Act” or the “21st Century IDEA”.
 
-## § 2. Findings
-
-The Congress finds the following:
-
-- **(1)** Restoring the United States Government’s global leadership position in technology and electronic government requires a new approach—one that narrows the growing gap between the digital demands of citizens and the fashion in which the Government provides digital services to the American people.
-- **(2)** Legislation is needed to accelerate the transition from an analog and paper-based Government to a 21st century digital Government.
-- **(3)** The recent passage of the Modernizing Government Technology Act and the Connected Government Act has laid the foundation for Government’s transformation to modern, digital platforms.
-- **(4)** Enhanced citizen-facing and internal digital service delivery will dramatically reduce the cost of Government operations and improve customer experience.
-
-## § 3. Website modernization
-
-- **(a)** *Requirements for Existing Executive Agency Websites and Digital Services* Not later than one year after the date of the enactment of this Act, the head of an executive agency that maintains a website or digital service that is available to the public shall ensure that such website or service meets the following requirements:
-  - **(1)** *Website Consolidation and Consistent Look* Eliminate or consolidate websites or web pages that are duplicative or overlapping. Ensure a consistent look of public-facing websites and digital services.
-  - **(2)** *Accessibility for Individuals with Disabilities* Ensure that each website, web-based form, and web-based application of an executive agency are accessible to individuals with disabilities in accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
-  - **(3)** *Information Searchable and Discoverable* Contain a search function that allows users to easily search content intended for public use.
-  - **(4)** *Secure Connection* Provision through an industry standard secure connection.
-  - **(5)** *Data Analytics* Designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually testing websites and digital services to ensure that user needs are addressed. Notwithstanding any other provision of law, quantitative and qualitative research, including user testing, related to the development of websites or other public facing digital services shall not be considered a collection of information for the purposes of section 3507 of title 44, United States Code.
-  - **(6)** *Content personalization* Ensure users have the option for a more customized digital experience, allowing them to complete digital transactions in an efficient and accurate manner.
-- **(b)** *Requirements for new websites and digital services* Any website or digital service of an executive agency that is made available to the public after the date of the enactment of this Act shall meet the minimum requirements described in subsection (a).
-- **(c)** *Internal Digital Services* The head of each executive agency shall ensure to the greatest extent practicable that any new Intranet conforms to the requirements in subsection (a).
-- **(d)** *Public reporting* The head of each executive agency shall submit to the Director an annual report on the progress an executive agency is making in implementing the requirements described in this section for the previous year and shall make the report available to the public.
-- **(e)** *Compliance with United States website standards* Any new website of an executive agency shall be in compliance with the website standards of the Technology Transformation Services of the General Services Administration.
-
-## § 4. Digitization of Government services and forms
-
-- **(a)** *Digital service option required* Not later than 2 years after the date of the enactment of this Act, the head of each executive agency shall make available to the public an online, mobile-friendly, digital service option for any in-person Government transaction or paper-based process in a manner that decreases cost, increases digital conversion rates, and improves customer experience.
-- **(b)** *Forms and services required To be digital* Not later than one year after the date of the enactment of this Act, the head of each executive agency shall ensure that any paper-based form, application, or service that is related to serving the public is made available to the public in a digital format.
-
-## § 5. Electronic signatures
-
-- **(a)** *Plan for use of electronic signatures* Not later than 180 days after the date of the enactment of this Act, the head of each executive agency shall submit to the Director and appropriate congressional committees a plan to accelerate the use of electronic signatures standards established in the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.).
-- **(b)** *Executive agency compliance* Not later than 180 days after the date of the enactment of this Act, the head of each executive agency shall certify and report full compliance with the Electronic Signatures in Global and National Commerce Act (Public Law 106–229) and the OMB Circular A–130—Managing Information as a Strategic Resource guidance, to support the use of electronic signatures by the Federal Government.
-
-## § 6. Customer experience and digital service delivery
-
-The Chief Information Officer of each executive agency, or a designee, shall:
-
-- **(1)** Coordinate and ensure alignment of the executive agency’s internal and external customer experience programs and strategy.
-- **(2)** Coordinate with the executive agency management leaders (the head of the executive agency, the Chief Financial Officer, and any program manager) to ensure proper funding to support implementation of this bill.
-- **(3)** Continually examine the digital service delivery strategy of the executive agency to the public and submit recommendations to the head of the relevant executive agency providing guidance and best practices suitable to the mission of the executive agency.
-- **(4)** Using qualitative and quantitative data obtained from across the executive agency relating to customers’ experience and satisfaction, identify areas of concern that need improvement and improve the customer service delivery.
-- **(5)** Coordinate and ensure, with the approval of the head of the executive agency, executive agency compliance with section 3559 of title 44, United States Code.
-
-## § 7. Definitions
+## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Digital service* The term digital service means the delivery of electronic information (such as data or content) and transactional services (such as online forms or benefits applications) across a variety of platforms, devices, and delivery mechanisms (such as websites, mobile applications, or social media).
-- **(2)** *Director* The term Director means the Director of the Office of Management and Budget.
-- **(3)** *Executive agency* The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
-- **(4)** *Intranet* The term Intranet means a network belonging to an organization or group of organizations and any sub department of the organization, accessible only by the authorized members and systems of the organization, employees of organizations, or others with secure authentication.
+- **(1)** *Director* The term Director means the Director of the Office of Management and Budget.
+- **(2)** *Executive agency* The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
+
+## § 3. Website modernization
+
+- **(a)** *Requirements for new websites and digital services* Not later than 180 days after the date of enactment of this Act, an executive agency that creates a website or digital service that is intended for use by the public, or conducts a redesign of an existing legacy website or digital service that is intended for use by the public, shall ensure to the greatest extent practicable that any new or redesigned website, web-based form, web-based application, or digital service—
+  - **(1)** is accessible to individuals with disabilities in accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d);
+  - **(2)** has a consistent appearance;
+  - **(3)** does not overlap with or duplicate any legacy websites and, if applicable, ensure that legacy websites are regularly reviewed, eliminated, and consolidated;
+  - **(4)** contains a search function that allows users to easily search content intended for public use;
+  - **(5)** is provided through an industry standard secure connection;
+  - **(6)** is designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;
+  - **(7)** provides users of the new or redesigned website, web-based form, web-based application, or digital service with the option for a more customized digital experience that allows users to complete digital transactions in an efficient and accurate manner; and
+  - **(8)** is fully functional and usable on common mobile devices.
+- **(b)** *Requirements for existing executive agency websites and digital services* Not later than 1 year after the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
+  - **(1)** review each website or digital service; and
+  - **(2)** submit to Congress a report that includes—
+    - **(A)** a list of the websites and digital services maintained by the executive agency that are most viewed or utilized by the public or are otherwise important for public engagement;
+    - **(B)** from among the websites and digital services listed under subparagraph (A), a prioritization of websites and digital services that require modernization to meet the requirements under subsection (a); and
+    - **(C)** an estimation of the cost and schedule of modernizing the websites and digital services prioritized under subparagraph (B).
+- **(c)** *Internal digital services* The head of each executive agency shall ensure, to the greatest extent practicable, that any Intranet established after the date of enactment of this Act conforms to the requirements described in subsection (a).
+- **(d)** *Public reporting* Not later than 1 year after the date of enactment of this Act and every year thereafter for 4 years, the head of each executive agency shall—
+  - **(1)** report annually to the Director on the progress of the executive agency in implementing the requirements described in this section for the previous year; and
+  - **(2)** include the information described in paragraph (1) in a publicly available report that is required under another provision of law.
+- **(e)** *Compliance with United States website standards* Any website of an executive agency that is made available to the public after the date of enactment of this Act shall be in compliance with the website standards of the Technology Transformation Services of the General Services Administration.
+
+## § 4. Digitization of Government services and forms
+
+- **(a)** *Non-digital services* Not later than 180 days after the date of enactment of this Act, the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
+  - **(1)** identify public non-digital, paper-based, or in-person Government services; and
+  - **(2)** include in the budget request of the executive agency—
+    - **(A)** a list of non-digital services with the greatest impact that could be made available to the public through an online, mobile-friendly, digital service option in a manner that decreases cost, increases digital conversion rates, and improves customer experience; and
+    - **(B)** an estimation of the cost and schedule associated with carrying out the modernization described in subparagraph (A).
+- **(b)** *Services required to be digital* The head of each executive agency shall regularly review public-facing applications and services to ensure that those applications and services are, to the greatest extent practicable, made available to the public in a digital format.
+- **(c)** *Forms required to be digital* Not later than 2 years after the enactment of this Act, the head of each executive agency shall ensure that any paper based form that is related to serving the public is made available in a digital format that meets the requirements described in section 3(a).
+- **(d)** *Non-digitizable processes* If the head of an executive agency cannot make available in a digital format under this section an in-person Government service, form, or paper-based process, the head of the executive agency shall document—
+  - **(1)** the title of the in-person Government service, form, or paper-based process;
+  - **(2)** a description of the in-person Government service, form, or paper-based process;
+  - **(3)** each unit responsible for the in-person Government service, form, or paper-based process and the location of each unit in the organizational hierarchy of the executive agency;
+  - **(4)** any reasons why the in-person Government service, form, or paper-based process cannot be made available under this section; and
+  - **(5)** any potential solutions that could allow the in-person Government service, form, or paper-based process to be made available under this section, including the implementation of existing technologies, procedural changes, regulatory changes, and legislative changes.
+- **(e)** *Physical availability* Each executive agency shall maintain an accessible method of completing digital services through in-person, paper-based, or other means, such that individuals without the ability to use digital services are not deprived of or impeded in access to those digital services.
+
+## § 5. Electronic signatures
+
+Not later than 180 days after the date of the enactment of this Act, the head of each executive agency shall submit to the Director and the appropriate congressional committees a plan to accelerate the use of electronic signatures standards established under the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.).
+
+## § 6. Customer experience and digital service delivery
+
+The Chief Information Officer of each executive agency, or a designee, shall—
+
+- **(1)** coordinate and ensure alignment of the internal and external customer experience programs and strategy of the executive agency;
+- **(2)** coordinate with the management leaders of the executive agency, including the head of the executive agency, the Chief Financial Officer, and any program manager, to ensure proper funding to support the implementation of this Act;
+- **(3)** continually examine the digital service delivery strategy of the executive agency to the public and submit recommendations to the head of the executive agency providing guidance and best practices suitable to the mission of the executive agency;
+- **(4)** using qualitative and quantitative data obtained from across the executive agency relating to the experience and satisfaction of customers, identify areas of concern that need improvement and improve the delivery of customer service;
+- **(5)** coordinate and ensure, with the approval of the head of the executive agency, compliance by the executive agency with section 3559 of title 44, United States Code; and
+- **(6)** to the extent practicable, coordinate with other agencies and seek to maintain as much standardization and commonality with other agencies as practicable in implementing the requirements of this Act, to best enable future transitions to centralized shared services.
+
+## § 7. Standardization
+
+- **(a)** *Design and implementation* Each executive agency shall, to the extent practicable, seek to maintain as much standardization and commonality with other executive agencies as practicable in implementing the requirements of this Act to best enable future transitions to centralized shared services.
+- **(b)** *Coordination* The Chief Information Officer of each executive agency, or a designee, shall coordinate the implementation of the requirements of this Act, including the development of standards and commonalities.
+- **(c)** *Federal supply schedule*
+  - **(1)** *In general* The General Services Administration shall make available under a Federal Supply Schedule the systems and services necessary to fulfill the requirements of this Act.
+  - **(2)** *Requirements* The Federal Supply Schedule described in paragraph (1) shall, to the extent practicable, ensure interoperability between executive agencies, compliance with industry standards, and adherence to best practices for design, accessibility, and information security.
