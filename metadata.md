@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5395
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 116 Mai
 
 - Rep. Collins, Chris [R-NY-27] (C001092)
 
-## Cosponsors (17)
+## Cosponsors (25)
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -35,6 +35,14 @@ To designate the facility of the United States Postal Service located at 116 Mai
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Crowley, Joseph [D-NY-14] (C001038)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Meng, Grace [D-NY-6] (M001188)
 
 ## Committees (1)
 
@@ -45,3 +53,12 @@ To designate the facility of the United States Postal Service located at 116 Mai
 - 2018-03-22 — Introduced in House
 - 2018-03-22 — Introduced in House
 - 2018-03-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-07-17 — Committee Consideration and Mark-up Session Held.
+- 2018-07-17 — Ordered to be Reported by Unanimous Consent.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Committee on Oversight and Government discharged.
+- 2018-11-29 — Considered by unanimous consent. (consideration: CR H9726-9727)
+- 2018-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-11-29 — Mr. Comer asked unanimous consent to discharge from committee and consider.
+- 2018-11-29 — On passage Passed without objection. (text: CR H9726-9727)
+- 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9726-9727)
