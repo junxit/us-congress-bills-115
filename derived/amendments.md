@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6901
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -269,7 +269,7 @@ to guess them.
 
 ### 44 U.S.C. § 3501
 
-> in the heading, by striking “E–Government” and inserting “Annual” ; and
+> in the heading, by striking “E–Government” and inserting “Annual”; and
 
 | | |
 |---|---|
