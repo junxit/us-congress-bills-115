@@ -1,7 +1,7 @@
 ---
 measure: S. 245
 congress: 115
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 245
@@ -57,3 +57,15 @@ Indian Tribal Energy Development and Self-Determination Act Amendments of 2017
 - 2018-11-30 — Placed on the Union Calendar, Calendar No. 823.
 - 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1057, Part I.
 - 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1057, Part I.
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9782-9789)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 245.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2018-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9782-9788)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9782-9788)
+- 2018-12-12 — Presented to President.
+- 2018-12-12 — Presented to President.
+- 2018-12-18 — Became Public Law No: 115-325.
+- 2018-12-18 — Became Public Law No: 115-325.
+- 2018-12-18 — Signed by President.
+- 2018-12-18 — Signed by President.

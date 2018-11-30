@@ -1,7 +1,7 @@
 ---
 measure: S. 245
 congress: 115
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
