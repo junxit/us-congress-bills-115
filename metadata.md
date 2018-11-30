@@ -1,7 +1,7 @@
 ---
 measure: S. 245
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 245
@@ -46,3 +46,14 @@ Indian Tribal Energy Development and Self-Determination Act Amendments of 2017
 - 2017-11-30 — Received in the House.
 - 2017-11-30 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-11-30 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-12-01 — Referred to the Subcommittee on Energy.
+- 2017-12-04 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2017-12-04 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2018-11-15 — Committee Consideration and Mark-up Session Held.
+- 2018-11-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-11-15 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2018-11-30 — Committee on Energy and Commerce discharged.
+- 2018-11-30 — Committee on Energy and Commerce discharged.
+- 2018-11-30 — Placed on the Union Calendar, Calendar No. 823.
+- 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1057, Part I.
+- 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1057, Part I.
