@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1418
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1418
@@ -25,3 +25,9 @@ To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Introduced in House
 - 2017-03-07 — Referred to the House Committee on Natural Resources.
+- 2017-03-16 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2017-07-26 — Committee Consideration and Mark-up Session Held.
+- 2017-07-26 — Ordered to be Reported by Unanimous Consent.
+- 2018-11-30 — Placed on the Union Calendar, Calendar No. 824.
+- 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1058.
+- 2018-11-30 — Reported by the Committee on Natural Resources. H. Rept. 115-1058.
