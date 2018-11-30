@@ -62,7 +62,7 @@ This Act may be cited as the “Federal CIO Authorization Act of 2018”.
         - **(I)** by striking “the Administrator” and inserting “the Federal Chief Information Officer”; and
         - **(II)** by striking “E–Government Fund” and inserting “Federal IT Fund”.
   - **(6)** *E–Government report* Section 3606 of title 44, United States Code, is amended—
-    - **(A)** in the heading, by striking “E–Government” and inserting “Annual” ; and
+    - **(A)** in the heading, by striking “E–Government” and inserting “Annual”; and
     - **(B)** in subsection (a), by striking “an E–Government status report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives” and inserting “a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives”.
   - **(7)** *Treatment of incumbent* The individual serving as the Administrator of the Office of Electronic Government under section 3602 of title 44, United States Code, as of the date of the enactment of this Act, may continue to serve as the Federal Chief Information Officer commencing as of that date, without further appointment under such section.
   - **(8)** *References* Any reference to the Administrator of the Office of Electronic Government in any law, regulation, document, record, or other paper of the United States shall be deemed to be a reference to the Federal Chief Information Officer.
@@ -109,3 +109,7 @@ This Act may be cited as the “Federal CIO Authorization Act of 2018”.
 ## § 3. Proposal related to shared services
 
 Not later than 180 days after the date of the enactment of this Act, the Federal Chief Information Officer shall submit to Congress a proposal for consolidating information technology across the Federal Government, especially among Federal agencies not referred to under section 901(b) of title 31, United States Code, and increasing the use of shared services, including any recommendations for legislative changes that may be necessary to effect the proposal.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and the amendments made by this Act shall be carried out using amounts otherwise authorized.
