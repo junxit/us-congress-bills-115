@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6428
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6428
@@ -49,3 +49,12 @@ Frank Leone Post Office Act
 - 2018-11-29 — On passage Passed without objection. (text: CR H9727)
 - 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9727)
 - 2018-12-03 — Received in the Senate, read twice.
+- 2018-12-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7528)
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7528)
+- 2018-12-13 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-374.
+- 2018-12-21 — Became Public Law No: 115-374.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
