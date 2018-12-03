@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1210
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1210
@@ -72,3 +72,4 @@ To designate the facility of the United States Postal Service located at 122 W. 
 - 2018-11-29 — Mr. Comer asked unanimous consent to discharge from committee and consider.
 - 2018-11-29 — On passage Passed without objection. (text: CR H9726)
 - 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9726)
+- 2018-12-03 — Received in the Senate, read twice.
