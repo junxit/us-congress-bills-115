@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6777
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6777
@@ -16,9 +16,10 @@ Settlement Agreement Information Database Act of 2018
 
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Settlement Agreement Information Database Act of 2018
 - 2018-11-29 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2018-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9722-9723)
 - 2018-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9722-9723)
+- 2018-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
