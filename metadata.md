@@ -1,7 +1,7 @@
 ---
 measure: S. 669
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 669
@@ -46,3 +46,10 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 - 2017-11-30 — Message on Senate action sent to the House.
 - 2017-11-30 — Received in the House.
 - 2017-11-30 — Referred to the House Committee on Natural Resources.
+- 2017-12-05 — Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.
+- 2018-11-15 — Committee Consideration and Mark-up Session Held.
+- 2018-11-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-11-15 — Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.
+- 2018-12-03 — Placed on the Union Calendar, Calendar No. 825.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1059.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1059.
