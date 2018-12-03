@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3154
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3154
@@ -22,9 +22,10 @@ Inspector General Access Act of 2017
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Inspector General Access Act of 2017
 - 2018-11-29 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2018-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9717)
 - 2018-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9717)
+- 2018-12-03 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
