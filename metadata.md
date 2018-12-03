@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4326
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4326
@@ -59,3 +59,4 @@ To designate the facility of the United States Postal Service located at 200 Wes
 - 2018-11-29 — On passage Passed without objection. (text: CR H9726)
 - 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9726)
 - 2018-11-29 — The title of the measure was amended. Agreed to without objection.
+- 2018-12-03 — Received in the Senate, read twice.
