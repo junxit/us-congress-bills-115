@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5759
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5759
@@ -59,3 +59,4 @@ version: Reported in House
 - 2018-11-29 — Placed on the Union Calendar, Calendar No. 821.
 - 2018-11-29 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1055.
 - 2018-11-29 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1055.
+- 2018-12-03 — Received in the Senate, read twice.
