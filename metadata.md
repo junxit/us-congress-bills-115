@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6602
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6602
@@ -38,3 +38,10 @@ To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purpos
 - 2018-07-26 — Introduced in House
 - 2018-07-26 — Introduced in House
 - 2018-07-26 — Referred to the House Committee on Natural Resources.
+- 2018-08-16 — Referred to the Subcommittee on Federal Lands.
+- 2018-11-15 — Committee Consideration and Mark-up Session Held.
+- 2018-11-15 — Ordered to be Reported by Unanimous Consent.
+- 2018-11-15 — Subcommittee on Federal Lands Discharged.
+- 2018-12-03 — Placed on the Union Calendar, Calendar No. 827.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1061.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1061.
