@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3121
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3121
@@ -55,9 +55,10 @@ All-American Flag Act
 - Rep. Russell, Steve [R-OK-5] (R000604)
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ All-American Flag Act
 - 2018-11-29 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2018-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9716-9717)
 - 2018-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9716-9717)
+- 2018-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
