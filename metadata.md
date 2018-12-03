@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5395
@@ -62,3 +62,4 @@ To designate the facility of the United States Postal Service located at 116 Mai
 - 2018-11-29 — Mr. Comer asked unanimous consent to discharge from committee and consider.
 - 2018-11-29 — On passage Passed without objection. (text: CR H9726-9727)
 - 2018-11-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9726-9727)
+- 2018-12-03 — Received in the Senate, read twice.
