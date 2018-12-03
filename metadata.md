@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6901
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6901
@@ -23,9 +23,10 @@ Federal CIO Authorization Act of 2018
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Federal CIO Authorization Act of 2018
 - 2018-11-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 391 - 0 (Roll no. 425).
 - 2018-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 391 - 0 (Roll no. 425).
+- 2018-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
