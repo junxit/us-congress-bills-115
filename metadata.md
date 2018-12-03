@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5759
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5759
@@ -60,3 +60,12 @@ version: Received in Senate
 - 2018-11-29 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1055.
 - 2018-11-29 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1055.
 - 2018-12-03 — Received in the Senate, read twice.
+- 2018-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7453)
+- 2018-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7453)
+- 2018-12-12 — Message on Senate action sent to the House.
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-20 — Became Public Law No: 115-336.
+- 2018-12-20 — Became Public Law No: 115-336.
+- 2018-12-20 — Signed by President.
+- 2018-12-20 — Signed by President.
