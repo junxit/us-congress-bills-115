@@ -22,7 +22,7 @@ Section 202 (20 U.S.C. 9101) is amended—
   > - **(A)** using technology to enable users to find, evaluate, organize, create, and communicate information; and
   > - **(B)** developing digital citizenship and the responsible use of technology.
 
-- **(2)** in paragraph (5), by striking “by the Secretary of the Interior”;
+- **(2)** in paragraph (5), by striking “by the Secretary of the InteriorInterior”.;
 - **(3)** by redesignating paragraphs (7) and (8) as paragraphs (8) and (9), respectively; and
 - **(4)** by inserting after paragraph (6) the following:
   > - **(7)** *Institution of higher education* The term institution of higher education means an institution of higher education as defined under section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
@@ -31,7 +31,7 @@ Section 202 (20 U.S.C. 9101) is amended—
 
 Section 204 (20 U.S.C. 9103) is amended—
 
-- **(1)** in subsection (a)(2), by inserting “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year until a successor has been appointed and confirmed under paragraph (1)” before the period;
+- **(1)** in subsection (a)(2), by inserting “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year until a successor has been appointed and confirmed under paragraph (1) for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier” before before the period;
 - **(2)** in subsection (f)—
   - **(A)** by striking paragraph (1) and inserting the following:
     > - **(1)** programs and activities under the Elementary and Secondary Education Act of 1965 (including programs and activities under subparts 2 and 3 of part B of title II, and parts A and B of title IV, of such Act);
@@ -40,7 +40,7 @@ Section 204 (20 U.S.C. 9103) is amended—
     > - **(4)** Federal programs and activities that increase the capacity of libraries and museums to act as partners in supporting economic and community development, providing education and research, improving digital literacy skills, strengthening financial literacy and other types of literacy skills, and enhancing public safety and health awareness.
 
 - **(3)** in subsection (g)—
-  - **(A)** in the matter preceding paragraph (1), by striking “Humanities, and the Director of the Office of Management and Budget,” and inserting “Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office”;
+  - **(A)** in the matter preceding paragraph (1), by striking “Humanities, and the Director of the Office of Management and Budget,” and inserting “Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office,”;
   - **(B)** by striking paragraph (1) and inserting the following:
     > - **(1)** initiatives, materials, technology, or research to support education, workforce development, economic and business development, and related activities and services undertaken by libraries;
 
@@ -96,14 +96,15 @@ Section 210 (20 U.S.C. 9108) is amended—
   >   - **(2)** *Formats to be used* The information described in paragraph (1) shall be shared in formats that facilitate access and ease of use and are searchable.
 
 - **(4)** in subsection (g)(1), as redesignated by paragraph (2)—
-  - **(A)** by striking “2011” and inserting “2018”; and
-  - **(B)** by striking “2012 through 2016” and inserting “2019 through 2023”.
+  - **(A)** by striking “fiscal year 2011” and inserting “2018 each of the fiscal years 2020 through 2025”; and
+  - **(B)** by striking “and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “2019 through 2023”.
 
 ## § 6. Administrative funds
 
 Section 210C (20 U.S.C. 9111) is amended—
 
 - **(1)** by striking “a total of 7 percent of the funds” and inserting “$17,000,000 of the total funds”; and
+- **(2)** by striking “sections 210(f), 214, and 275” and inserting “sections 210(g), 214, and 276”.
 - **(2)** by striking “sections 210(f)” and inserting “sections 210(g)”.
 
 ## § 7. Purpose relating to library services and technology
@@ -112,7 +113,7 @@ Section 212 (20 U.S.C. 9121) is amended—
 
 - **(1)** in paragraph (1), by inserting “, education,” after “library”;
 - **(2)** by striking paragraph (5) and inserting the following:
-  > - **(5)** to promote literacy, education, and lifelong learning, including by building learning partnerships with school libraries in our Nation's schools, including tribal schools, and developing resources, capabilities, and programs in support of State and local efforts to offer a well-rounded educational experience to all students;
+  > - **(5)** to promote literacy, education, and lifelong learning, including by building learning partnerships with school libraries in our Nation's schools, including tribal schools, and developing resources, capabilities, and programs in support of State and local State, tribal, and local efforts to offer a well-rounded educational experience to all students;
 
 - **(3)** by redesignating paragraphs (6) through (9) as paragraphs (8) through (11), respectively;
 - **(4)** by inserting after paragraph (5) the following:
@@ -137,8 +138,8 @@ Section 213(1) (20 U.S.C. 9122(1)) is amended—
 
 Section 214(a) (20 U.S.C. 9123(a)) is amended—
 
-- **(1)** in paragraph (1), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023”; and
-- **(2)** in paragraph (2), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023”.
+- **(1)** in paragraph (1), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023 each of the fiscal years 2020 through 2025”; and
+- **(2)** in paragraph (2), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023 each of the fiscal years 2020 through 2025”.
 
 ## § 10. Reservations and allotments
 
@@ -146,6 +147,11 @@ Section 221 (20 U.S.C. 9131) is amended—
 
 - **(1)** in subsection (a)(1)(A), by striking “1.75” and inserting “2.25”; and
 - **(2)** in subsection (b)(3), by striking subparagraph (C) and inserting the following:
+  > - **(C)** *Exception*
+  >   - **(i)** *In General* Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 214 and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019—
+  >     - **(I)** the minimum allotment for each State otherwise receiving a minimum allotment of $680,000 under subparagraph (A) shall be increased to $1,000,000; and
+  >     - **(II)** the minimum allotment for each State otherwise receiving a minimum allotment of $60,000 under subparagraph (A) shall be increased to $100,000.
+  >   - **(ii)** *Insufficient funds to award alternative minimum* If the sum appropriated under the authority of section 214 and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019, yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $680,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $60,000.
   > - **(C)** *Exception*
   >   - **(i)** *In general* Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 214 and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2018—
   >     - **(I)** the minimum allotment for each State otherwise receiving a minimum allotment of $680,000 under subparagraph (A) shall be increased to $1,000,000 for that fiscal year and each subsequent fiscal year; and
@@ -209,7 +215,7 @@ Section 262 (20 U.S.C. 9162) is amended—
 
   - **(B)** in paragraph (2), by striking “and cooperative agreements” and inserting “cooperative agreements, and other arrangements or forms of assistance”; and
 - **(3)** in subsection (c)—
-  - **(A)** by striking “activities assisted under this section” and inserting the following:
+  - **(A)** by striking “activities assisted under this section are administered” and inserting the following:
     > activities assisted under this section—
     > - **(1)** are administered
 
@@ -221,7 +227,7 @@ Section 262 (20 U.S.C. 9162) is amended—
 
 ## § 15. Laura Bush 21st Century Librarian Program
 
-Section 264 (20 U.S.C. 9165) is amended—
+Section 264(a) (20 U.S.C. 9165) is amended—
 
 - **(1)** in subsection (a)—
   - **(A)** in paragraph (1)—
@@ -286,10 +292,10 @@ Section 273(1) (20 U.S.C. 9172(1)) is amended—
     - **(F)** by adding at the end the following:
       > - **(G)** other relevant research and policy organizations;
 
-  - **(7)** by amending paragraph (7), as redesignated by paragraph (4), to read as follows:
+  - **(7)** by amending striking paragraph (7), as redesignated by paragraph (4), and inserting the following to read as follows and:
     > - **(7)** encouraging the use of new and emerging technologies and media, including new ways to disseminate information, engage varied audiences in experiential learning, and support teachers and students to enhance access to and engagement with museum collections, programs, and services;
 
-  - **(8)** by amending paragraph (8) to read as follows:
+  - **(8)** by amending paragraph (8) to read as follows:by striking paragraph (8) and inserting the following:
     > - **(8)** supporting museums in developing, carrying out, and providing programs and services that meet the needs of communities throughout the Nation, including people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers, and for State institutions;
 
   - **(9)** in paragraph (10), by striking “and” after the semicolon;
@@ -319,7 +325,7 @@ Subtitle C (20 U.S.C. 9171 et seq.) is amended—
   >   - **(1)** recruiting and educating future museum professionals from diverse and underrepresented backgrounds, including through encouraging middle or high school students and postsecondary students to pursue careers and build skills in museum services;
   >   - **(2)** developing museum leaders from diverse and underrepresented backgrounds, including by increasing the capacity of institutions that offer early career and mid-career professional development, specialized training, and leadership programs that directly relate to museum studies and management; and
   >   - **(3)** supporting the professional development of current museum professionals and the museum workforce to enable them to meet identified needs of their communities.
-  > - **(b)** *Activities* From the amounts provided under section 276, the Director may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums, museum consortia and associations, institutions of higher education, and other entities that the Director determines appropriate, for projects that further the purpose of this section, such as projects that—
+  > - **(b)** *Activities* From the amounts provided under section 276, the Director may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums, museum consortia and associations, institutions of higher education (as defined in section 264(b)), and other entities that the Director determines appropriate, for projects that further the purpose of this section, such as projects that—
   >   - **(1)** increase the number of students from diverse and underrepresented backgrounds enrolled in graduate and undergraduate museum-related programs as well as other relevant programs offered through other education-focused entities, such as State and local governments, associations, and nonprofit organizations, in order to effectively prepare the students for, and retain the students in, careers in museum services;
   >   - **(2)** recruit future museum professionals from diverse and underrepresented backgrounds, including efforts to attract promising middle school, high school, or postsecondary students to consider careers in museum services such as through offering paid internships, mentoring, and fellowship opportunities;
   >   - **(3)** develop new or enhance current professional development and retention programs for museum professionals and the museum workforce, including through mid-career skill-building, mentoring, and fellowships, and by supporting the development of local and regional networks for those who may not have easy access to such opportunities; and
@@ -328,7 +334,7 @@ Subtitle C (20 U.S.C. 9171 et seq.) is amended—
 
 ## § 20. Authorization of appropriations for museum services
 
-Section 276 (20 U.S.C. 9176), as redesignated by section 17(1), is amended—
+Section 276 (20 U.S.C. 9176), as redesignated by section 17 19(1), is amended—
 
-- **(1)** in subsection (a), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023”; and
-- **(2)** in subsection (c) by striking “fiscal year 2011” and inserting “fiscal year 2018”.
+- **(1)** in subsection (a), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023 each of the fiscal years 2020 through 2025”; and
+- **(2)** in subsection (c) by striking “fiscal year 2011” and inserting “fiscal year 2018 year 2020”.
