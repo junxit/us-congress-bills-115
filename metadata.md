@@ -1,7 +1,7 @@
 ---
 measure: S. 2736
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2736
@@ -16,7 +16,7 @@ Asia Reassurance Initiative Act of 2018
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -27,6 +27,8 @@ Asia Reassurance Initiative Act of 2018
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -40,3 +42,12 @@ Asia Reassurance Initiative Act of 2018
 - 2018-10-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-03 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.
+- 2018-12-04 — Amendment SA 4068 agreed to in Senate by Unanimous Consent.
+- 2018-12-04 — Amendment SA 4068 proposed by Senator McConnell for Senator Gardner. (consideration: CR S7284-7285; text: CR S7284-7285) To make technical edits to the bill.
+- 2018-12-04 — Measure laid before Senate by unanimous consent. (consideration: CR S7278-7291)
+- 2018-12-04 — Passed Senate with an amendment by Unanimous Consent. (text: CR S7285-7291)
+- 2018-12-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7285-7291)
+- 2018-12-04 — Senate amendment agreed to: Amendment SA 4068 agreed to in Senate by Unanimous Consent.
+- 2018-12-04 — Senate amendment proposed (on the floor): Amendment SA 4068 proposed by Senator McConnell for Senator Gardner.(consideration: CR S7284-7285; text: CR S7284-7285)
+- 2018-12-04 — Senate amendment submitted
+- 2018-12-04 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S7278-7284)
