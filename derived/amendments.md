@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5206
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 

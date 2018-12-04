@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5206
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5206
@@ -48,3 +48,7 @@ Office of Biometric Identity Management Authorization Act of 2018
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5632)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5632)
 - 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2018-12-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-413.
+- 2018-12-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-413.
+- 2018-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.

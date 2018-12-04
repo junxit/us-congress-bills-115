@@ -34,10 +34,11 @@ This Act may be cited as the “Office of Biometric Identity Management Authoriz
   >     - **(F)** manage the operation of the Department’s primary biometric repository and identification system;
   >     - **(G)** manage Biometric Support Centers to provide biometric identification and verification analysis and services to the Department, appropriate Federal, State, local, and tribal agencies, appropriate foreign governments, and appropriate private sector entities;
   >     - **(H)** oversee the implementation of Department-wide standards for biometric conformity, and work to make such standards Government-wide;
-  >     - **(I)** in coordination with the Department’s Office of Policy, and in consultation with relevant component offices and headquarters offices, enter into data sharing agreements with appropriate Federal, State, local, and foreign agencies to support immigration, law enforcement, national security, and public safety missions;
+  >     - **(I)** in coordination with the Department’s Office of PolicyStrategy, Policy, and Plans, and in consultation with relevant component offices and headquarters offices, enter into data sharing agreements with appropriate Federal, State, local, and foreign agencies to support immigration, law enforcement, national security, and public safety missions;
   >     - **(J)** maximize interoperability with other Federal, State, local, and foreign biometric systems, as appropriate;
   >     - **(K)** ensure the activities of the Office of Biometric Identity Management are carried out in compliance with the policies and procedures established by the Privacy Officer appointed under section 222; and
-  >     - **(L)** carry out other duties and powers prescribed by law or delegated by the Secretary.
+  >     - **(L)** consult with the Office for Civil Rights and Civil Liberties of the Department about biometric technologies that may result in disparities in the treatment of individuals on the basis of their race or ethnicity; and
+  >     - **(L)(M)** carry out other duties and powers prescribed by law or delegated by the Secretary.
   > - **(c)** *Deputy Director* There shall be in the Office of Biometric Identity Management a Deputy Director, who shall assist the Director in the management of the Office.
   > - **(d)** *Other authorities*
   >   - **(1)** *In general* The Director may establish such other offices within the Office of Biometric Identity Management as the Director determines necessary to carry out the missions, duties, functions, and authorities of the Office.
