@@ -1,7 +1,7 @@
 ---
 measure: S. 3309
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3309
@@ -28,3 +28,7 @@ DHS Cyber Incident Response Teams Act of 2018
 
 - 2018-07-31 — Introduced in Senate
 - 2018-07-31 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-412.
+- 2018-12-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-412.
+- 2018-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 716.
