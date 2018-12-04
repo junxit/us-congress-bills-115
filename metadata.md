@@ -1,7 +1,7 @@
 ---
 measure: S. 3530
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3530
@@ -16,7 +16,7 @@ Museum and Library Services Act of 2018
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (21)
+## Cosponsors (23)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -39,6 +39,8 @@ Museum and Library Services Act of 2018
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -52,3 +54,5 @@ Museum and Library Services Act of 2018
 - 2018-12-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with amendments. Without written report.
 - 2018-12-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with amendments. Without written report.
 - 2018-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.
+- 2018-12-04 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7291-7298; text of measure as reported: CR S7292-7295; text of measure as passed: CR S7295-7298)
+- 2018-12-04 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S7291-7298; text of measure as reported: CR S7292-7295; text of measure as passed: CR S7295-7298)
