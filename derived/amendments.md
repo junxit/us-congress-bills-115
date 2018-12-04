@@ -1,7 +1,7 @@
 ---
 measure: S. 1403
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 25 executed, 19 stated and not applied.
+76 amendatory instructions. 34 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -249,6 +249,87 @@ to guess them.
 | Removed | `land managing agency, such as the National Park Service Business Plan Internship` |
 | Inserted | `participating entity` |
 
+### 16 U.S.C. § 1722
+
+> in paragraph (2), by striking “under section 204” and inserting “by section 204(a)(1)”;
+
+| | |
+|---|---|
+| Removed | `under section 204` |
+| Inserted | `by section 204(a)(1)` |
+
+### 16 U.S.C. § 1722
+
+> in the matter preceding subparagraph (A), by striking “, as follows” and inserting “and other conservation and restoration initiatives, as follows”; and
+
+| | |
+|---|---|
+| Removed | `, as follows` |
+| Inserted | `and other conservation and restoration initiatives, as follows` |
+
+### 16 U.S.C. § 1722
+
+> in subparagraph (A) of paragraph (11) (as so redesignated), by striking “individuals between the ages of 16 and 30, inclusive,” and inserting “individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger”;
+
+| | |
+|---|---|
+| Removed | `individuals between the ages of 16 and 30, inclusive,` |
+| Inserted | `individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger` |
+
+### 42 U.S.C. § 12591
+
+> in the first sentence, by striking “individuals between the ages of 16 and 30, inclusive,” and inserting “individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger”; and
+
+| | |
+|---|---|
+| Removed | `individuals between the ages of 16 and 30, inclusive,` |
+| Inserted | `individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger` |
+
+### 42 U.S.C. § 12591
+
+> in the second sentence, by striking “section 137(b) of the National and Community Service Act of 1990” and inserting “paragraphs (1), (2), (4), and (5) of section 137(a) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a))”.
+
+| | |
+|---|---|
+| Removed | `section 137(b) of the National and Community Service Act of 1990` |
+| Inserted | `paragraphs (1), (2), (4), and (5) of section 137(a) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a))` |
+
+### 16 U.S.C. § 1722
+
+> by striking “Secretary of the Interior” and inserting “Secretary (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))”;
+
+| | |
+|---|---|
+| Removed | `Secretary of the Interior` |
+| Inserted | `Secretary (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))` |
+
+### 16 U.S.C. § 1722
+
+> by striking “paragraph (1)” and inserting “paragraph (2)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (1)` |
+| Inserted | `paragraph (2)` |
+
+### 16 U.S.C. § 1725a
+
+> in paragraph (2)(A), by striking “with a land managing agency” and inserting “with the Secretary (as so defined)”.
+
+| | |
+|---|---|
+| Removed | `with a land managing agency` |
+| Inserted | `with the Secretary (as so defined)` |
+
+### 16 U.S.C. § 1721
+
+> in subsection (c) of section 212 (as so redesignated), by striking “211” and inserting “213”.
+
+| | |
+|---|---|
+| Removed | `211` |
+| Inserted | `213` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -277,3 +358,26 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1729` | strike | in the second sentence, by striking “the Corps” and “the 21CSC”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1721` | redesignate | by redesignating section 211 as section 213; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1721` | insert | by inserting after section 210 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1722` | redesignate | by redesignating paragraphs (8) through (13) as paragraphs (9) through (14), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1002` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1722` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1722` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1722` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1722` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1722` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1723` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1724` | add-at-end | Section 205 of the Public Lands Corps Act of 1993 (16 U.S.C. 1724) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1725` | replace | Section 206(a) of the Public Lands Corps Act of 1993 (16 U.S.C. 1725(a)) is amended by striking the first sentence and inserting the following: “The Secretary may provide individual placements of resource assistants to carry out research… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1722` | strike | by striking “with a land managing agency of the Department of the Interior”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1726` | replace | by striking the section heading and inserting “Compensation and terms of service”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1726` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1726` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1726` | replace | by striking “Each participant” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1726` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1726` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting the subparagraphs appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1726` | redesignate | in the matter preceding subparagraph (A) (as so redesignated), by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1726` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1726` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1721` | redesignate | by redesignating sections 209 through 211 as sections 211 through 213, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1721` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1721` | insert | Title II of the Public Lands Corps Act of 1993 (16 U.S.C. 1721 et seq.) (as amended by section 7) is amended by inserting after section 209 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
