@@ -1,7 +1,7 @@
 ---
 measure: S. 3530
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3530
@@ -46,6 +46,10 @@ Museum and Library Services Act of 2018
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2018-12-19 — [House 115-2-445](votes/house-115-2-0445.md) — On Motion to Suspend the Rules and Pass — **Passed** (331–28)
+
 ## Actions
 
 - 2018-09-28 — Introduced in Senate
@@ -56,3 +60,20 @@ Museum and Library Services Act of 2018
 - 2018-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.
 - 2018-12-04 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7291-7298; text of measure as reported: CR S7292-7295; text of measure as passed: CR S7295-7298)
 - 2018-12-04 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S7291-7298; text of measure as reported: CR S7292-7295; text of measure as passed: CR S7295-7298)
+- 2018-12-06 — Held at the desk.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Received in the House.
+- 2018-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Banks (IN) objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-19 — Considered as unfinished business. (consideration: CR H10319-10320)
+- 2018-12-19 — Considered under suspension of the rules. (consideration: CR H10309-10313)
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 3530.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Banks (IN) moved to suspend the rules and pass the bill.
+- 2018-12-19 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 331 - 28 (Roll no. 445). (text: CR H10309-10312)
+- 2018-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 331 - 28 (Roll no. 445).(text: CR H10309-10312)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-410.
+- 2018-12-31 — Became Public Law No: 115-410.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
