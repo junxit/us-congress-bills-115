@@ -1,7 +1,7 @@
 ---
 measure: S. 3530
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-102 amendatory instructions. 21 executed, 81 stated and not applied.
+98 amendatory instructions. 19 executed, 79 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,12 @@ to guess them.
 
 ### 20 U.S.C. § 9108
 
-> by striking “fiscal year 2011” and inserting “2018 each of the fiscal years 2020 through 2025”; and
+> by striking “fiscal year 2011” and inserting “each of the fiscal years 2020 through 2025”; and
 
 | | |
 |---|---|
 | Removed | `fiscal year 2011` |
-| Inserted | `2018 each of the fiscal years 2020 through 2025` |
-
-### 20 U.S.C. § 9108
-
-> by striking “and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “2019 through 2023”.
-
-| | |
-|---|---|
-| Removed | `and such sums as may be necessary for each of the fiscal years 2012 through 2016` |
-| Inserted | `2019 through 2023` |
+| Inserted | `each of the fiscal years 2020 through 2025` |
 
 ### 20 U.S.C. § 9111
 
@@ -68,15 +59,6 @@ to guess them.
 |---|---|
 | Removed | `sections 210(f), 214, and 275` |
 | Inserted | `sections 210(g), 214, and 276` |
-
-### 20 U.S.C. § 9111
-
-> by striking “sections 210(f)” and inserting “sections 210(g)”.
-
-| | |
-|---|---|
-| Removed | `sections 210(f)` |
-| Inserted | `sections 210(g)` |
 
 ### 20 U.S.C. § 9131
 
@@ -98,12 +80,12 @@ to guess them.
 
 ### 20 U.S.C. § 9151
 
-> by striking “and libraries serving individuals with disabilities” and inserting “and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers.”.
+> by striking “and libraries serving individuals with disabilities” and inserting “and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers”.
 
 | | |
 |---|---|
 | Removed | `and libraries serving individuals with disabilities` |
-| Inserted | `and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers.` |
+| Inserted | `and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers` |
 
 ### 20 U.S.C. § 9162
 
@@ -197,21 +179,21 @@ to guess them.
 
 ### 20 U.S.C. § 9176
 
-> in subsection (a), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023 each of the fiscal years 2020 through 2025”; and
+> in subsection (a), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “each of the fiscal years 2020 through 2025”; and
 
 | | |
 |---|---|
 | Removed | `fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016` |
-| Inserted | `fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through 2023 each of the fiscal years 2020 through 2025` |
+| Inserted | `each of the fiscal years 2020 through 2025` |
 
 ### 20 U.S.C. § 9176
 
-> in subsection (c) by striking “fiscal year 2011” and inserting “fiscal year 2018 year 2020”.
+> in subsection (c) by striking “fiscal year 2011” and inserting “fiscal year 2020”.
 
 | | |
 |---|---|
 | Removed | `fiscal year 2011` |
-| Inserted | `fiscal year 2018 year 2020` |
+| Inserted | `fiscal year 2020` |
 
 ## Stated, not applied
 
@@ -223,9 +205,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 9101` | replace | in paragraph (2), by striking “means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.” and inserting “means the skills associated with— | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 9101` | strike | in paragraph (5), by striking “by the Secretary of the InteriorInterior”.; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 9101` | redesignate | by redesignating paragraphs (7) and (8) as paragraphs (8) and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9101` | strike | in paragraph (5), by striking “by the Secretary of the Interior”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9103` | insert | in subsection (a)(2), by inserting “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director… | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9103` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9103` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -240,6 +220,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9108` | replace | by striking the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9108` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9108` | replace | by striking subsections (a) through (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9108` | strike | by striking “and such sums as may be necessary for each of the fiscal years 2012 through 2016”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9121` | insert | in paragraph (1), by inserting “, education,” after “library”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9121` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9121` | redesignate | by redesignating paragraphs (6) through (9) as paragraphs (8) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -250,8 +231,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9122` | redesignate | by redesignating subparagraphs (C) through (E) as subparagraphs (D) through (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9122` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9123` | replace | in paragraph (1), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through… | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 9123` | replace | in paragraph (2), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “fiscal year 2018 and such sums as may be necessary for each of the fiscal years 2019 through… | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 9123` | replace | in paragraph (1), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “each of the fiscal years 2020 through 2025”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 9123` | replace | in paragraph (2), by striking “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” and inserting “each of the fiscal years 2020 through 2025”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9131` | replace | in subsection (b)(3), by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9134` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9134` | strike | in clause (i), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
@@ -272,7 +253,6 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9165` | insert | by inserting “from diverse and underrepresented backgrounds” after “librarians”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9165` | insert | in paragraph (2), by inserting “from diverse and underrepresented backgrounds” after “library leaders”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9165` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | strike | in subsection (b), by striking “(as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001))”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9171` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9171` | redesignate | by redesignating paragraph (2) as paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9171` | redesignate | by inserting after paragraph (1), as redesignated by paragraph (2), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -295,8 +275,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 9173` | redesignate | in subparagraph (E), as redesignated by subparagraph (A), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9173` | redesignate | in subparagraph (F), as redesignated by subparagraph (A), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 9173` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9173` | redesignate | by amending striking paragraph (7), as redesignated by paragraph (4), and inserting the following to read as follows and: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 9173` | replace | by amending paragraph (8) to read as follows:by striking paragraph (8) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9173` | redesignate | by striking paragraph (7), as redesignated by paragraph (4), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9173` | replace | by striking paragraph (8) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9173` | strike | in paragraph (10), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 9173` | replace | in paragraph (11), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 9173` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
