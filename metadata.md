@@ -1,7 +1,7 @@
 ---
 measure: H.R. 857
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 857
@@ -44,3 +44,7 @@ California Desert Protection and Recreation Act of 2018
 - 2018-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5594-5601)
 - 2018-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5594-5601)
 - 2018-06-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-05 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-416.
+- 2018-12-05 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-416.
+- 2018-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.
