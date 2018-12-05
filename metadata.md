@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6439
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6439
@@ -59,3 +59,7 @@ Biometric Identification Transnational Migration Alert Program Authorization Act
 - 2018-09-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381). (text: CR H7786-7787)
 - 2018-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 272 - 119 (Roll no. 381).(text: CR H7786-7787)
 - 2018-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2018-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-419.
+- 2018-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-419.
+- 2018-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 724.
