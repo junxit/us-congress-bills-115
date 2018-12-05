@@ -1,7 +1,7 @@
 ---
 measure: S. 2160
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2160
@@ -29,3 +29,8 @@ Protect Collaboration for Healthier Forests Act
 
 - 2017-11-16 — Introduced in Senate
 - 2017-11-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2018-08-22 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-528.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-05 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-12-05 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 720.
