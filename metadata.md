@@ -1,7 +1,7 @@
 ---
 measure: S. 1965
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1965
@@ -28,3 +28,7 @@ Allowing Alaska IVORY Act
 
 - 2017-10-17 — Introduced in Senate
 - 2017-10-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-09-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-415. Supplemental views filed.
+- 2018-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-415. Supplemental views filed.
+- 2018-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.
