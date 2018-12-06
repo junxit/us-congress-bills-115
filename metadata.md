@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5075
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5075
@@ -16,12 +16,13 @@ Ashanti Alert Act of 2018
 
 - Rep. Taylor, Scott [R-VA-2] (T000477)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (2)
 
@@ -41,3 +42,13 @@ Ashanti Alert Act of 2018
 - 2018-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8817-8818)
 - 2018-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8817-8818)
 - 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-12-06 — Amendment SA 4072 agreed to in Senate by Unanimous Consent.
+- 2018-12-06 — Amendment SA 4072 proposed by Senator Cornyn for Senator Warner. (consideration: CR S7372) In the nature of a substitute.
+- 2018-12-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7372)
+- 2018-12-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-12-06 — Senate amendment agreed to: Amendment SA 4072 agreed to in Senate by Unanimous Consent.
+- 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4072 proposed by Senator Cornyn for Senator Warner.(consideration: CR S7372)
+- 2018-12-06 — Senate amendment submitted
