@@ -1,7 +1,7 @@
 ---
 measure: S. 2343
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2343
@@ -44,3 +44,5 @@ Precision Agriculture Connectivity Act of 2018
 - 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-342.
 - 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-342.
 - 2018-10-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
+- 2018-12-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7367-7368; text of amendment in the nature of a substitute: CR S7367-7368)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7367-7368; text of amendment in the nature of a substitute: CR S7367-7368)
