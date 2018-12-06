@@ -1,7 +1,7 @@
 ---
 measure: S. 2679
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2679
@@ -36,3 +36,8 @@ Veterans Small Business Enhancement Act of 2018
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 633.
+- 2018-12-05 — By Senator Risch from Committee on Small Business and Entrepreneurship filed written report. Report No. 115-414.
+- 2018-12-05 — By Senator Risch from Committee on Small Business and Entrepreneurship filed written report. Report No. 115-414.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7334; text: CR S7334)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7334; text: CR S7334)
