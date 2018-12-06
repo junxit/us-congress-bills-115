@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2454
@@ -40,3 +40,13 @@ Department of Homeland Security Data Framework Act of 2018
 - 2017-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7243)
 - 2017-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7243)
 - 2017-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-06 — Amendment SA 4071 agreed to in Senate by Unanimous Consent.
+- 2018-12-06 — Amendment SA 4071 proposed by Senator Cornyn for Senator Johnson. (consideration: CR S7371; text: CR S7371) In the nature of a substitute.
+- 2018-12-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7371)
+- 2018-12-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-06 — Senate amendment agreed to: Amendment SA 4071 agreed to in Senate by Unanimous Consent.
+- 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4071 proposed by Senator Cornyn for Senator Johnson.(consideration: CR S7371; text: CR S7371)
+- 2018-12-06 — Senate amendment submitted

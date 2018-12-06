@@ -1,23 +1,27 @@
 ---
 legis-num: H.R. 2454
 congress: 115th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2454
 
-> To direct the Secretary of Homeland Security to establish a data framework to provide access for appropriate personnel to law enforcement and other information of the Department, and for other purposes.
+That the bill from the House of Representatives (H.R. 2454) entitled “An Act to direct the Secretary of Homeland Security to establish a data framework to provide access for appropriate personnel to law enforcement and other information of the Department, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Department of Homeland Security Data Framework Act of 2017”.
+This Act may be cited as the “Department of Homeland Security Data Framework Act of 2018”.
 
 ## § 2. Department of Homeland Security data framework
 
-- **(a)** *In general* The Secretary of Homeland Security shall develop a data framework to integrate existing Department of Homeland Security datasets and systems, as appropriate, for access by authorized personnel in a manner consistent with relevant legal authorities and privacy, civil rights, and civil liberties policies and protections. In developing such framework, the Secretary shall ensure, in accordance with all applicable statutory and regulatory requirements, the following information is included:
-  - **(1)** All information acquired, held, or obtained by an office or component of the Department that falls within the scope of the information sharing environment, including homeland security information, terrorism information, weapons of mass destruction information, and national intelligence.
-  - **(2)** Any information or intelligence relevant to priority mission needs and capability requirements of the homeland security enterprise, as determined appropriate by the Secretary.
+- **(a)** *In general*
+  - **(1)** *Development* The Secretary of Homeland Security shall develop a data framework to integrate existing Department of Homeland Security datasets and systems, as appropriate, for access by authorized personnel in a manner consistent with relevant legal authorities and privacy, civil rights, and civil liberties policies and protections.
+  - **(2)** *Requirements* In developing the framework required under paragraph (1), the Secretary of Homeland Security shall ensure, in accordance with all applicable statutory and regulatory requirements, the following information is included:
+    - **(A)** All information acquired, held, or obtained by an office or component of the Department of Homeland Security that falls within the scope of the information sharing environment, including homeland security information, terrorism information, weapons of mass destruction information, and national intelligence.
+    - **(B)** Any information or intelligence relevant to priority mission needs and capability requirements of the homeland security enterprise, as determined appropriate by the Secretary.
 - **(b)** *Data framework access*
   - **(1)** *In general* The Secretary of Homeland Security shall ensure that the data framework required under this section is accessible to employees of the Department of Homeland Security who the Secretary determines—
     - **(A)** have an appropriate security clearance;
@@ -26,20 +30,23 @@ This Act may be cited as the “Department of Homeland Security Data Framework A
   - **(2)** *Guidance* The Secretary of Homeland Security shall—
     - **(A)** issue guidance for Department of Homeland Security employees authorized to access and contribute to the data framework pursuant to paragraph (1); and
     - **(B)** ensure that such guidance enforces a duty to share between offices and components of the Department when accessing or contributing to such framework for mission needs.
-  - **(3)** *Efficiency* The Secretary of Homeland Security shall promulgate data standards and instruct components of the Department of Homeland Security to make available information through the data framework under this section in a machine-readable format, to the greatest extent practicable.
-- **(c)** *Exclusion of information* The Secretary of Homeland Security may exclude from the data framework information that the Secretary determines access to or the confirmation of the existence of could—
+  - **(3)** *Efficiency* The Secretary of Homeland Security shall promulgate data standards and instruct components of the Department of Homeland Security to make available information through the data framework required under this section in a machine-readable standard format, to the greatest extent practicable.
+- **(c)** *Exclusion of information* The Secretary of Homeland Security may exclude information from the data framework required under this section if the Secretary determines inclusion of such information may—
   - **(1)** jeopardize the protection of sources, methods, or activities;
   - **(2)** compromise a criminal or national security investigation;
-  - **(3)** be inconsistent with the other Federal laws or regulations; or
+  - **(3)** be inconsistent with other Federal laws or regulations; or
   - **(4)** be duplicative or not serve an operational purpose if included in such framework.
-- **(d)** *Safeguards* The Secretary of Homeland Security shall incorporate into the data framework systems capabilities for auditing and ensuring the security of information included in such framework. Such capabilities shall include the following:
+- **(d)** *Safeguards* The Secretary of Homeland Security shall incorporate into the data framework required under this section systems capabilities for auditing and ensuring the security of information included in such framework. Such capabilities shall include the following:
   - **(1)** Mechanisms for identifying insider threats.
   - **(2)** Mechanisms for identifying security risks.
   - **(3)** Safeguards for privacy, civil rights, and civil liberties.
-- **(e)** *Deadline for implementation* Not later than 2 years after the date of the enactment of this Act, the Secretary of Homeland Security shall ensure the data framework required under this section has the ability to include appropriate information in existence within the Department of Homeland Security to meet its critical mission operations.
+- **(e)** *Deadline for Implementation* Not later than 2 years after the date of enactment of this Act, the Secretary of Homeland Security shall ensure the data framework required under this section has the ability to include appropriate information in existence within the Department of Homeland Security to meet the critical mission operations of the Department of Homeland Security.
 - **(f)** *Notice to Congress*
-  - **(1)** *Operational notification* Not later than 60 days after the date on which the data framework required under this section is fully operational, the Secretary of Homeland Security shall provide notice to the appropriate congressional committees of such.
-  - **(2)** *Regular status* The Secretary shall submit to the appropriate congressional committees regular updates on the status of the data framework required under this section, including, when applicable, the use of such data framework to support classified operations.
+  - **(1)** *Status updates* The Secretary of Homeland Security shall submit to the appropriate congressional committees regular updates on the status of the data framework until the framework is fully operational.
+  - **(2)** *Operational notification* Not later than 60 days after the date on which the data framework required under this section is fully operational, the Secretary of Homeland Security shall provide notice to the appropriate congressional committees that the data framework is fully operational.
+  - **(3)** *Value added* The Secretary of Homeland Security shall annually brief Congress on component use of the data framework required under this section to support operations that disrupt terrorist activities and incidents in the homeland.
 - **(g)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” has the meaning given the term “appropriate congressional committee” in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2)).
-  - **(2)** *National intelligence* The term “national intelligence” has the meaning given such term in section 3(5) of the National Security Act of 1947 (50 U.S.C. 3003(5)).
+  - **(1)** *Appropriate congressional committee; homeland* The terms appropriate congressional committee and homeland have the meaning given those terms in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101).
+  - **(2)** *Homeland security information* The term homeland security information has the meaning given such term in section 892 of the Homeland Security Act of 2002 (6 U.S.C. 482).
+  - **(3)** *National intelligence* The term national intelligence has the meaning given such term in section 3(5) of the National Security Act of 1947 (50 U.S.C. 3003(5)).
+  - **(4)** *Terrorism information* The term terrorism information has the meaning given such term in section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485).
