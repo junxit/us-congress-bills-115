@@ -1,7 +1,7 @@
 ---
 measure: S. 2276
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2276
@@ -48,3 +48,20 @@ GAO-IG Act
 - 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4070 proposed by Senator Cornyn for Senator Young.(consideration: CR S7370-7371; text: CR S7370-7371)
 - 2018-12-06 — Senate amendment submitted
 - 2018-12-06 — The committee substitute withdrawn by Unanimous Consent. (CR S7370)
+- 2018-12-10 — Held at the desk.
+- 2018-12-10 — Message on Senate action sent to the House.
+- 2018-12-10 — Received in the House.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10536)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10526)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 2276.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 2 (Roll no. 480). (text: CR H10526)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 2 (Roll no. 480).(text: CR H10526)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-414.
+- 2019-01-03 — Became Public Law No: 115-414.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
