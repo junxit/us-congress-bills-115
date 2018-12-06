@@ -1,7 +1,7 @@
 ---
 measure: S. 3119
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3119
@@ -49,3 +49,17 @@ Endangered Salmon Predation Prevention Act
 - 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4069 proposed by Senator Cornyn for Senator Risch.(consideration: CR S7369-7370; text: CR S7369-7370)
 - 2018-12-06 — Senate amendment submitted
 - 2018-12-06 — The committee substitute withdrawn by Unanimous Consent. (CR S7369)
+- 2018-12-10 — Held at the desk.
+- 2018-12-10 — Message on Senate action sent to the House.
+- 2018-12-10 — Received in the House.
+- 2018-12-11 — Considered by unanimous consent. (considered: CR H10085-10086)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Lamborn asked unanimous consent to take from the Speaker's table and consider.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10085-10086)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10085-10086)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-18 — Became Public Law No: 115-329.
+- 2018-12-18 — Became Public Law No: 115-329.
+- 2018-12-18 — Signed by President.
+- 2018-12-18 — Signed by President.
