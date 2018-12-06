@@ -1,7 +1,7 @@
 ---
 measure: S. 1548
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1548
@@ -28,3 +28,8 @@ Oregon Wildlands Act
 
 - 2017-07-13 — Introduced in Senate
 - 2017-07-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2017-07-26 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 115-482.
+- 2018-10-02 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-12-06 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
+- 2018-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 726.
