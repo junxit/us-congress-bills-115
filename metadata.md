@@ -1,7 +1,7 @@
 ---
 measure: S. 1942
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1942
@@ -49,3 +49,5 @@ Savanna's Act
 - 2018-12-04 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-411.
 - 2018-12-04 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 115-411.
 - 2018-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 715.
+- 2018-12-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7365-7366; text: CR S7365-7366)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7365-7366; text: CR S7365-7366)
