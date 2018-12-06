@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 143
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 143
@@ -37,3 +37,7 @@ Making further continuing appropriations for fiscal year 2019, and for other pur
 - 2018-12-06 — Presented to President.
 - 2018-12-06 — Presented to President.
 - 2018-12-06 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S7337)
+- 2018-12-07 — Became Public Law No: 115-298.
+- 2018-12-07 — Became Public Law No: 115-298.
+- 2018-12-07 — Signed by President.
+- 2018-12-07 — Signed by President.
