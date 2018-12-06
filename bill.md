@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2454
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2454
 
-That the bill from the House of Representatives (H.R. 2454) entitled “An Act to direct the Secretary of Homeland Security to establish a data framework to provide access for appropriate personnel to law enforcement and other information of the Department, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To direct the Secretary of Homeland Security to establish a data framework to provide access for appropriate personnel to law enforcement and other information of the Department, and for other purposes.
 
 ## § 1. Short title
 

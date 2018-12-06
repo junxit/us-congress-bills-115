@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2454
@@ -50,3 +50,16 @@ Department of Homeland Security Data Framework Act of 2018
 - 2018-12-06 — Senate amendment agreed to: Amendment SA 4071 agreed to in Senate by Unanimous Consent.
 - 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4071 proposed by Senator Cornyn for Senator Johnson.(consideration: CR S7371; text: CR S7371)
 - 2018-12-06 — Senate amendment submitted
+- 2018-12-10 — Message on Senate action sent to the House.
+- 2018-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hurd objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-12 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2454.
+- 2018-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-12 — Mr. Hurd moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10129-10130)
+- 2018-12-12 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H10152; text as House agreed to Senate amendment: CR H10129)
+- 2018-12-12 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H10152; text as House agreed to Senate amendment: CR H10129)
+- 2018-12-13 — Presented to President.
+- 2018-12-13 — Presented to President.
+- 2018-12-19 — Became Public Law No: 115-331.
+- 2018-12-19 — Became Public Law No: 115-331.
+- 2018-12-19 — Signed by President.
+- 2018-12-19 — Signed by President.
