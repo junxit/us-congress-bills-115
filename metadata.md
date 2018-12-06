@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5075
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5075
@@ -52,3 +52,16 @@ Ashanti Alert Act of 2018
 - 2018-12-06 — Senate amendment agreed to: Amendment SA 4072 agreed to in Senate by Unanimous Consent.
 - 2018-12-06 — Senate amendment proposed (on the floor): Amendment SA 4072 proposed by Senator Cornyn for Senator Warner.(consideration: CR S7372)
 - 2018-12-06 — Senate amendment submitted
+- 2018-12-10 — Message on Senate action sent to the House.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5075.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Collins (GA) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10393-10395)
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 2 (Roll no. 450). (consideration: CR H10531-10532; text: CR H10393-10395)
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 2 (Roll no. 450).(consideration: CR H10531-10532; text: CR H10393-10395)
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-401.
+- 2018-12-31 — Became Public Law No: 115-401.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
