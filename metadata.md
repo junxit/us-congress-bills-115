@@ -1,7 +1,7 @@
 ---
 measure: S. 2597
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2597
@@ -16,7 +16,7 @@ Children's Hospital GME Support Reauthorization Act of 2018
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (13)
+## Cosponsors (27)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -31,6 +31,20 @@ Children's Hospital GME Support Reauthorization Act of 2018
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -44,3 +58,5 @@ Children's Hospital GME Support Reauthorization Act of 2018
 - 2018-04-25 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-04-25 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
+- 2018-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7365; text: CR S7365)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7365; text: CR S7365)
