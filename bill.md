@@ -54,10 +54,10 @@ This Act may be cited as the “National Guard and Reserve Entrepreneurship Supp
 ## § 3. National Guard and Reserve Deployment Support and Business Training Program
 
 - **(a)** *Expansion of Small Business Administration outreach programs* Section 8(b)(17) of the Small Business Act (15 U.S.C. 637(b)(17)) is amended by striking “and members of a reserve component of the Armed Forces” and inserting “members of a reserve component of the Armed Forces, and the spouses of veterans and members of a reserve component of the Armed Forces”.
-- **(b)** *Establishment of program* Section 32 of the Small Business Act (15 U.S.C. 657 657b) is amended by adding at the end the following:
+- **(b)** *Establishment of program* Section 32 of the Small Business Act (15 U.S.C. 657b) is amended by adding at the end the following:
   > - **(g)** *National Guard and Reserve Deployment Support and Business Training*
   >   - **(1)** *In general* In making grants carried out under section 8(b)(17), the Associate Administrator shall establish a program, to be known as the “National Guard and Reserve Deployment Support and Business Training Program”, to provide training, counseling and other assistance to support members of a reserve component of the Armed Forces and their spouses.
   >   - **(2)** *Authorities* In carrying out this subsection, the Associate Administrator may—
   >     - **(A)** modify programs and resources made available through section 8(b)(17) to provide pre-deployment and other information specific to members of a reserve component of the Armed Forces and their spouses;
   >     - **(B)** collaborate with the Chief of the National Guard Bureau or the Chief's designee, State Adjutant Generals or their designees, and other public and private partners; and
-  >     - **(C)** provide training, information information, and other resources to the Chief of the National Guard Bureau or the Chief's designee and State Adjutant Generals or their designees for the purpose of supporting members of a reserve component of the Armed Forces and the spouses of veterans and members of a reserve component of the Armed Forces.
+  >     - **(C)** provide training, information, and other resources to the Chief of the National Guard Bureau or the Chief's designee and State Adjutant Generals or their designees for the purpose of supporting members of a reserve component of the Armed Forces and the spouses of veterans and members of a reserve component of the Armed Forces.

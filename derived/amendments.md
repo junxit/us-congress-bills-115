@@ -1,7 +1,7 @@
 ---
 measure: S. 3561
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -115,4 +115,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 637` | replace | by striking “The Administration” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | strike | by striking “(as defined in section 7(n)(1))”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 637` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 637` | add-at-end | Section 32 of the Small Business Act (15 U.S.C. 657 657b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 657b` | add-at-end | Section 32 of the Small Business Act (15 U.S.C. 657b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

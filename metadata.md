@@ -1,7 +1,7 @@
 ---
 measure: S. 3561
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3561
@@ -34,3 +34,6 @@ National Guard and Reserve Entrepreneurship Support Act
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with amendments. Without written report.
 - 2018-10-11 — Committee on Small Business and Entrepreneurship. Reported by Senator Risch with amendments. Without written report.
 - 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Passed Senate with amendments by Voice Vote. (consideration: CR S7333-7334; text: CR S7334)
+- 2018-12-06 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(consideration: CR S7333-7334; text: CR S7334)
