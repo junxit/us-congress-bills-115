@@ -18,7 +18,7 @@ This Act may be cited as the “Offshore Wind for Territories Act”.
 - **(a)** *In general* Section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331) is amended—
   - **(1)** in paragraph (a)—
     - **(A)** by inserting after “control” the following: “or lying within the exclusive economic zone of the United States and the outer Continental Shelf adjacent to any territory or possession of the United States”; and
-    - **(B)** by adding at the end the following: “, except that such term shall not include any area conveyed by Congress to a territorial government for administration”;
+    - **(B)** by adding at the end before the semicolon the following: “, except that such term shall not include any area conveyed by Congress to a territorial government for administration”;
   - **(2)** in paragraph (p), by striking “and” after the semicolon at the end;
   - **(3)** in paragraph (q), by striking the period at the end and inserting “; and”; and
   - **(4)** by adding at the end the following:
@@ -84,6 +84,6 @@ Section 9 of the Outer Continental Shelf Lands Act (43 U.S.C. 1338) is amended�
 - **(b)** *Renaming of existing fund* Section 205 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6404) is amended—
   - **(1)** in the heading, by striking “Coral reef conservation fund” and inserting “Coral Reef Public-Private Partnership”;
   - **(2)** in subsection (a)—
-    - **(A)** by striking “Fund” and inserting “Public-Private Partnership”; and
+    - **(A)** in the subsection heading, by striking “Fund” and inserting “Public-Private Partnership”; and
     - **(B)** by striking “, hereafter referred to as the Fund,”; and
   - **(3)** in subsection (b), by striking “Fund” and inserting “separate interest bearing account”.

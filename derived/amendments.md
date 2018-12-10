@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6665
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 16 U.S.C. § 6404
 
-> by striking “Fund” and inserting “Public-Private Partnership”; and
+> in the subsection heading, by striking “Fund” and inserting “Public-Private Partnership”; and
 
 | | |
 |---|---|
@@ -61,7 +61,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `43 U.S.C. § 1331` | insert | by inserting after “control” the following: “or lying within the exclusive economic zone of the United States and the outer Continental Shelf adjacent to any territory or possession of the United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: “, except that such term shall not include any area conveyed by Congress to a territorial government for administration”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | add-at-end | by adding at the end before the semicolon the following: “, except that such term shall not include any area conveyed by Congress to a territorial government for administration”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | strike | in paragraph (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1331` | replace | in paragraph (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
