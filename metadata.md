@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5727
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5727
@@ -29,3 +29,11 @@ Emery County Public Land Management Act of 2018
 - 2018-05-09 — Introduced in House
 - 2018-05-09 — Introduced in House
 - 2018-05-09 — Referred to the House Committee on Natural Resources.
+- 2018-05-21 — Referred to the Subcommittee on Federal Lands.
+- 2018-06-21 — Subcommittee Hearings Held.
+- 2018-09-26 — Committee Consideration and Mark-up Session Held.
+- 2018-09-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-09-26 — Subcommittee on Federal Lands Discharged.
+- 2018-12-10 — Placed on the Union Calendar, Calendar No. 832.
+- 2018-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1071.
+- 2018-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1071.
