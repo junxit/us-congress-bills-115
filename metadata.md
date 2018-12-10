@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2248
@@ -33,3 +33,12 @@ Veterans Benefits and Transition Act of 2018
 - 2018-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1321)
 - 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1321)
 - 2018-03-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1321)
+- 2018-03-05 — Held at the desk.
+- 2018-03-05 — Message on Senate action sent to the House.
+- 2018-03-05 — Received in the House.
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9794-9802)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2248.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
+- 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9794-9798)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9794-9798)
