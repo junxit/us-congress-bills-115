@@ -2,7 +2,7 @@
 legis-num: H. RES. 792
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 792
@@ -24,10 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Roberto Clemente challenged the stereotypes that had marginalized native Spanish speakers in this Nation and remains an icon to many Puerto Ricans and Latinos in the United States and Latin America;
 - Whereas Major League Baseball presents an annual Roberto Clemente Award to the player that best embodies Roberto Clemente’s value of service to others and represents the game of baseball through extraordinary character, community involvement, philanthropy, and positive contributions, both on and off the field;
 - Whereas Roberto Clemente was posthumously awarded the Presidential Medal of Freedom, Presidential Citizens Medal, and the Congressional Gold Medal for his civic and charitable contributions; and
-- Whereas the crash site in the adjacent area to Playa Aviones in the municipality of Loíza, Puerto Rico, was the last place where Roberto Clemente graced this world: Now, therefore be it
+- Whereas the crash site in the adjacent area to Playa Aviones in the municipality of Loíza, Puerto Rico, was the last place where Roberto Clemente graced this world: Now, therefore, be it
 
-That the House of Representatives—
-
-- **(1)** honors the memory of Roberto Clemente as a great humanitarian and athlete;
-- **(2)** recognizes Roberto Clemente as the embodiment of a baseball legend that contributed to the betterment of society; and
-- **(3)** requests that the Secretary of the Interior recognize the crash site of Roberto Clemente’s airplane and the adjacent land by adding such site to the National Register of Historic Places.
+That the House of Representatives requests that the Secretary of the Interior recognize the crash site of Roberto Clemente’s airplane and the adjacent land by adding such site to the National Register of Historic Places.
