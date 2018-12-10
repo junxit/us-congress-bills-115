@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2248
@@ -42,3 +42,13 @@ Veterans Benefits and Transition Act of 2018
 - 2018-12-10 — Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9794-9798)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9794-9798)
+- 2018-12-11 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2248 by Unanimous Consent.(consideration: CR S7896)
+- 2018-12-19 — Senate agreed to the House amendment to S. 2248 by Unanimous Consent. (consideration: CR S7896)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-407.
+- 2018-12-31 — Became Public Law No: 115-407.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
