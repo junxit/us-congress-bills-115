@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,27 +26,27 @@ to guess them.
 
 ### 5 U.S.C. § 5547
 
-> in the section heading, by striking “2018” and inserting “2019”;
+> in the section heading, by striking “2018” and inserting “2020”;
 
 | | |
 |---|---|
 | Removed | `2018` |
-| Inserted | `2019` |
+| Inserted | `2020` |
 
 ### 5 U.S.C. § 5547
 
-> in subsection (a), by striking “or 2018” and inserting “2018, or 2019”; and
+> in subsection (a), by striking “or 2018” and inserting “2018, 2019, or 2020”; and
 
 | | |
 |---|---|
 | Removed | `or 2018` |
-| Inserted | `2018, or 2019` |
+| Inserted | `2018, 2019, or 2020` |
 
 ### 5 U.S.C. § 5547
 
-> in subsection (b)(1), by striking “or 2018” and inserting “2018, or 2019”.
+> in subsection (b)(1), by striking “and 2018” and inserting “2018, 2019, and 2020”.
 
 | | |
 |---|---|
-| Removed | `or 2018` |
-| Inserted | `2018, or 2019` |
+| Removed | `and 2018` |
+| Inserted | `2018, 2019, and 2020` |
