@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3593
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,8 +20,10 @@ Section 4(d) of the Wilderness Act is amended by adding at the end the following
 > - **(8)** *U.S. Customs and Border Protection Access*
 >   - **(A)** *Permissible activities* Notwithstanding any other provision of this Act, the Commissioner of U.S. Customs and Border Protection may conduct the following activities within a wilderness area for the purpose of securing the international land borders of the United States:
 >     - **(i)** Access structures, installations, and roads.
->     - **(ii)** Use motor vehicles, including all-terrain vehicles, motorboats, and motorized equipment.
->     - **(iii)** Notwithstanding any other law or regulation relating specifically to use of aircraft in a wilderness area or in the airspace above a wilderness area, use aircraft, including approach, landing, and takeoff.
->     - **(iv)** In response to emergency situations, deploy temporary infrastructure, including forward operating bases.
->     - **(v)** Subject to the approval of the Secretary of the Interior, construct and maintain roads and fences.
+>     - **(ii)** Execute search and rescue operations.
+>     - **(iii)** Use motor vehicles, motorboats, and motorized equipment.
+>     - **(iv)** Conduct patrols on foot and on horseback.
+>     - **(v)** Notwithstanding any other law or regulation relating specifically to use of aircraft in a wilderness area or in the airspace above a wilderness area, use aircraft, including approach, landing, and takeoff.
+>     - **(vi)** Deploy tactical infrastructure and technology.
+>     - **(vii)** Construct and maintain roads and physical barriers.
 >   - **(B)** *Protection of wilderness character* Any activity conducted by the Commissioner of U.S. Customs and Border Protection under subparagraph (A) shall be carried out in a manner that, to the greatest extent possible, protects the wilderness character of the area.
