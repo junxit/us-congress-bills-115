@@ -2,12 +2,14 @@
 legis-num: S. 2511
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2511
 
-> To require the Under Secretary of Commerce for Oceans and Atmosphere to carry out a program on coordinating the assessment and acquisition by the National Oceanic and Atmospheric Administration of unmanned maritime systems, to make available to the public data collected by the Administration using such systems, and for other purposes.
+That the bill from the Senate (S. 2511) entitled “An Act to require the Under Secretary of Commerce for Oceans and Atmosphere to carry out a program on coordinating the assessment and acquisition by the National Oceanic and Atmospheric Administration of unmanned maritime systems, to make available to the public data collected by the Administration using such systems, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; table of contents
 
@@ -29,7 +31,7 @@ In this Act:
   - **(B)** *Inclusions* The term test or training range may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
 - **(6)** *Unmanned maritime systems*
   - **(A)** *In general* The term unmanned maritime systems means remotely operated or autonomous vehicles produced by the commercial sector—
-    - **(i)** designed to travel in the air, on or under the ocean surface, on land, or any combination, and that function without an on-board human presence; and
+    - **(i)** designed to function without an on-board human presence; and
     - **(ii)** that may include associated components such as control and communications, instrumentation, data transmission, and processing systems.
   - **(B)** *Examples* The term unmanned maritime systems includes the following:
     - **(i)** Unmanned undersea vehicles.
@@ -44,12 +46,13 @@ In this Act:
   - **(1)** to coordinate the Administration’s research, assessment, and acquisition of unmanned maritime systems; and
   - **(2)** to consider the use of unmanned maritime systems in cooperative activities of the Administration.
 - **(b)** *Coordination within the Administration*
-  - **(1)** *Authority to establish coordinating committee* The Administrator shall establish a coordinating committee to ensure that OAR and OMAO address requirements throughout the Administration.
-  - **(2)** *Included* In establishing a coordinating committee under paragraph (1), the Administrator shall ensure that representation in the committee is included from the following:
+  - **(1)** *Unmanned Systems Executive Oversight Board* In meeting the requirements described in subsection (a), the Administrator shall—
+    - **(A)** utilize the Unmanned Systems Executive Oversight Board (in this Act referred to as the “USEOB”) as the coordinating mechanism; and
+    - **(B)** ensure that OAR and OMAO address requirements throughout the Administration.
+  - **(2)** *Included* In utilizing the USEOB under paragraph (1), the Administrator shall ensure that representation on the USEOB is included from the following:
     - **(A)** The Office of Ocean Exploration (OER).
     - **(B)** The program office of the Integrated Ocean Observing System.
     - **(C)** Such other offices of the Administration as the Administrator determines are actively engaged with unmanned maritime systems.
-  - **(3)** *Designation* A coordinating committee established under paragraph (1) shall be known as the “Unmanned Maritime Systems Ocean Technology Coordinating Committee”.
 - **(c)** *Coordination with the Navy*
   - **(1)** *In general* In carrying out this Act, the Administrator shall—
     - **(A)** make efforts to coordinate with the Secretary of the Navy to leverage expertise in the development and operational transition of unmanned maritime systems;
@@ -91,7 +94,7 @@ In this Act:
 
 ## § 5. Acquisition of unmanned maritime systems
 
-- **(a)** *In general* The Administrator shall coordinate and centralize the acquisition by the Administration of unmanned maritime systems to meet the prioritized list of data requirements identified by OAR and OMAO in carrying out this Act in their regular assessments and approved by the Unmanned Maritime Systems Ocean Technology Coordinating Committee established under section 3(b).
+- **(a)** *In general* The Administrator shall coordinate and centralize the acquisition by the Administration of unmanned maritime systems to meet the prioritized list of data requirements identified by OAR and OMAO in carrying out this Act in their regular assessments and approved by the USEOB.
 - **(b)** *Memoranda of understanding* In order to realize greater savings and efficiency, the Administrator may develop and execute a memorandum of agreement with the Secretary of the Navy to—
   - **(1)** participate in procurements conducted by the signatories to the memorandum of understanding;
   - **(2)** accept decommissioned unmanned maritime systems from the Navy;
@@ -117,9 +120,8 @@ In this Act:
   - **(2)** notwithstanding section 1342 of title 31, United States Code, accept donations and voluntary and uncompensated services;
   - **(3)** accept funds from other Federal departments and agencies;
   - **(4)** utilize the National Oceanographic Partnership Program established under chapter 665 of title 10, United States Code, to accept funds from other Federal departments and agencies, to accept donations, and to enter into contracts and award grants;
-  - **(5)** under an agreement entered into under paragraph (1), transfer funds appropriated to carry our this Act to any organization;
+  - **(5)** under an agreement entered into under paragraph (1), transfer funds appropriated to carry our this Act to any organization; and
   - **(6)** use, with their consent, with or without reimbursement, and subject to the availability of appropriations, the land, services, equipment, personnel, and facilities of—
     - **(A)** any department, agency, or instrumentality of the United States;
     - **(B)** any State or local government or tribal government; or
-    - **(C)** any foreign government or international organization; and
-  - **(7)** promulgate such rules and regulations as may be necessary and appropriate.
+    - **(C)** any foreign government or international organization.

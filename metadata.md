@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2511
@@ -42,3 +42,10 @@ CENOTE Act of 2018
 - 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-08-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-05 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9790-9792)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2511.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9790-9791)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9790-9791)
