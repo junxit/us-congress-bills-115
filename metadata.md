@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7213
@@ -31,3 +31,13 @@ Countering Weapons of Mass Destruction Act of 2018
 - 2018-12-03 — Introduced in House
 - 2018-12-03 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-12-03 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-12-10 — Committee on Energy and Commerce discharged.
+- 2018-12-10 — Committee on Energy and Commerce discharged.
+- 2018-12-10 — Committee on Homeland Security discharged.
+- 2018-12-10 — Committee on Homeland Security discharged.
+- 2018-12-10 — Considered by unanimous consent. (consideration: CR H9804-9806)
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Donovan asked unanimous consent to discharge from committee and consider.
+- 2018-12-10 — On passage Passed without objection. (text: CR H9804-9806)
+- 2018-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9804-9806)
+- 2018-12-10 — UNANIMOUS CONSENT REQUEST - Mr. Donovan asked unanimous consent that an exchange of letters between the Chairman of the Committee on Energy and Commerce and the Chairman of the Committee on Homeland Security be included in the Record. Agreed to without objection.
