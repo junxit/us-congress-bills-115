@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2511
@@ -49,3 +49,13 @@ CENOTE Act of 2018
 - 2018-12-10 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9790-9791)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9790-9791)
+- 2018-12-11 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-12-17 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2511 by Unanimous Consent.(consideration: CR S7727)
+- 2018-12-17 — Senate agreed to the House amendment to S. 2511 by Unanimous Consent. (consideration: CR S7727)
+- 2018-12-18 — Message on Senate action sent to the House.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-394.
+- 2018-12-21 — Became Public Law No: 115-394.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.

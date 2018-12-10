@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2511
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2511
 
-That the bill from the Senate (S. 2511) entitled “An Act to require the Under Secretary of Commerce for Oceans and Atmosphere to carry out a program on coordinating the assessment and acquisition by the National Oceanic and Atmospheric Administration of unmanned maritime systems, to make available to the public data collected by the Administration using such systems, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To require the Under Secretary of Commerce for Oceans and Atmosphere to carry out a program on coordinating the assessment and acquisition by the National Oceanic and Atmospheric Administration of unmanned maritime systems, to make available to the public data collected by the Administration using such systems, and for other purposes.
 
 ## § 1. Short title; table of contents
 
