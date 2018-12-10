@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 792
 congress: 115
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | requests that the Secretary of the Interior recognize the crash site of Roberto Clemente’s airplane and the adjacent land by adding such site to the National Register of Historic Places. | the bill names no machine-readable US Code section |
+| — | amend | That the House of Representatives requests that the Secretary of the Interior recognize the crash site of Roberto Clemente’s airplane and the adjacent land by adding such site to the National Register of Historic Places. | the bill names no machine-readable US Code section |

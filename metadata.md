@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 792
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 792
@@ -27,6 +27,10 @@ Urging the Secretary of the Interior to recognize the historical significance of
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-12-10 — [House 115-2-426](votes/house-115-2-0426.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (385–1)
+
 ## Actions
 
 - 2018-03-20 — Introduced in House
@@ -39,3 +43,11 @@ Urging the Secretary of the Interior to recognize the historical significance of
 - 2018-10-12 — Placed on the House Calendar, Calendar No. 189.
 - 2018-10-12 — Reported by the Committee on Natural Resources. H. Rept. 115-988.
 - 2018-10-12 — Reported by the Committee on Natural Resources. H. Rept. 115-988.
+- 2018-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-10 — Considered as unfinished business. (consideration: CR H9802-9803)
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9781-9782)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 792.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and agree to the resolution, as amended.
+- 2018-12-10 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 1, 2 Present (Roll no. 426). (text: CR H9781)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 1, 2 Present (Roll no. 426).(text: CR H9781)
