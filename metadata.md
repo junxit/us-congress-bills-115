@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6108
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6108
@@ -68,3 +68,9 @@ Preserving America's Battlefields Act
 - 2018-11-20 — Placed on the Union Calendar, Calendar No. 809.
 - 2018-11-20 — Reported by the Committee on Natural Resources. H. Rept. 115-1040.
 - 2018-11-20 — Reported by the Committee on Natural Resources. H. Rept. 115-1040.
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9775-9776)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6108.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9775)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9775)

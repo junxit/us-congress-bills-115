@@ -46,6 +46,6 @@ Section 2 of the Civil War Battlefield Preservation Act of 2002 (Public Law 107â
 
 Section 308103(f) of title 54, United States Code, is amended to read as follows:
 
-> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to provide grants under this section $20,000,000 for each fiscal year through 2028, of which not more than 10 percent may be used each fiscal year as follows:
+> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to provide grants under this section $15,000,000 for each fiscal year through 2025, of which not more than 10 percent may be used each fiscal year as follows:
 >   - **(1)** Not more than $1,000,000 for projects and programs that modernize battlefield interpretive and educational assets through the deployment of technology, disbursed through the competitive grant process to non-profit organizations.
 >   - **(2)** Not more than $1,000,000 for grants to organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code to be used for projects that restore day-of-battle conditions on land preserved through Battlefield Land Acquisition Grant Program funds.
