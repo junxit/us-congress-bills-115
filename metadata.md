@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3008
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3008
@@ -29,6 +29,10 @@ George W. Bush Childhood Home Study Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-12-10 — [House 115-2-427](votes/house-115-2-0427.md) — On Motion to Suspend the Rules and Pass — **Passed** (382–4)
+
 ## Actions
 
 - 2017-06-22 — Introduced in House
@@ -42,3 +46,11 @@ George W. Bush Childhood Home Study Act
 - 2018-03-22 — Placed on the Union Calendar, Calendar No. 470.
 - 2018-03-22 — Reported by the Committee on Natural Resources. H. Rept. 115-616.
 - 2018-03-22 — Reported by the Committee on Natural Resources. H. Rept. 115-616.
+- 2018-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-10 — Considered as unfinished business. (consideration: CR H9803-9804)
+- 2018-12-10 — Considered under suspension of the rules. (consideration: CR H9776-9777)
+- 2018-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3008.
+- 2018-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2018-12-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 4, 2 Present (Roll no. 427). (text: CR H9776)
+- 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 4, 2 Present (Roll no. 427).(text: CR H9776)
