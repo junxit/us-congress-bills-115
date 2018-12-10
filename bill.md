@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6118
 
-> To direct the Secretary of the Interior to annually designate at least one city in the United States as an “American World War II Heritage City”, and for other purposes.
+> To authorize the Secretary of the Interior to annually designate at least one city in the United States as an “American World War II Heritage City”, and for other purposes.
 
 ## § 1. American World War II Heritage Cities
 
-- **(a)** *Designation* In order to recognize and ensure the continued preservation and importance of the history of the United States involvement in World War II, each calendar year the Secretary of the Interior shall designate not less than one city located in one of the several States or a territory of the United States as an “American World War II Heritage City”. Not more than one city in each State or territory may be designated under this section.
+- **(a)** *Designation* In order to recognize and ensure the continued preservation and importance of the history of the United States involvement in World War II, each calendar year the Secretary of the Interior (referred to in this section as the “Secretary”) may designate not less than one city located in one of the several States or a territory of the United States as an “American World War II Heritage City”. Not more than one city in each State or territory may be designated under this section.
 - **(b)** *Application for designation* The Secretary shall—
   - **(1)** establish and publicize the process by which a city may apply for designation as an American World War II Heritage City based on the criteria in subsection (c); and
   - **(2)** encourage cities to apply for designation as an American World War II Heritage City.
@@ -32,5 +32,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** organizing groups of veterans and home-front workers and their recognition;
     - **(E)** presentation of cultural events such as dances, plays, and lectures;
     - **(F)** public relations outreach through the print and electronic media, and books; and
-    - **(G)** recognition and ceremonies remembering wartime event anniversaries such as Pearl Harbor.
-- **(d)** *The first “American World War II Heritage City”* Having met or exceeded all of criteria in subsection (c), Wilmington, North Carolina, and its environs is hereby designated as an “American World War II Heritage City”.
+    - **(G)** recognition and ceremonies remembering wartime event anniversaries.
