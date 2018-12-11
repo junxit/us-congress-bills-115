@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7243
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7243
@@ -25,3 +25,10 @@ To amend Public Law 115-217 to change the address of the postal facility designa
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. (consideration: CR H10082)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10082)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10082)
