@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6964
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-171 amendatory instructions. 47 executed, 124 stated and not applied.
+175 amendatory instructions. 49 executed, 126 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -447,6 +447,24 @@ to guess them.
 | Removed | `2002` |
 | Inserted | `2018` |
 
+### 34 U.S.C. § 11280
+
+> by striking “$140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” and inserting “$127,421,000 for each of fiscal years 2019 through 2020”;
+
+| | |
+|---|---|
+| Removed | `$140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013` |
+| Inserted | `$127,421,000 for each of fiscal years 2019 through 2020` |
+
+### 34 U.S.C. § 11280
+
+> in paragraph (4), by striking “fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” and inserting “each of fiscal years 2019 through 2020”.
+
+| | |
+|---|---|
+| Removed | `fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013` |
+| Inserted | `each of fiscal years 2019 through 2020` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -579,4 +597,6 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11281` | redesignate | The Incentive Grants for Local Delinquency Prevention Programs Act of 2002 (34 U.S.C. 11281 et seq.) is amended by redesignating section 505 as section 506, and by inserting after section 504 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Title V of the Juvenile Justice and Delinquency Prevention Act of 1974 as enacted by Public Law 93–415 (88 Stat. 1133) (relating to miscellaneous and conforming amendments) is repealed. | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 11101` | add-at-end | The Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 11280` | strike | by striking “section 345 and”; and | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 11280` | replace | in paragraph (3), by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11101` | strike | The Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.) is amended by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
