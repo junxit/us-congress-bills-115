@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1850
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1850
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 907 Fou
 
 - Rep. Amash, Justin [R-MI-3] (A000367)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
@@ -31,6 +31,7 @@ To designate the facility of the United States Postal Service located at 907 Fou
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Conyers, John, Jr. [D-MI-13] (C000714)
 - Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
 
 ## Committees (1)
 
@@ -41,3 +42,12 @@ To designate the facility of the United States Postal Service located at 907 Fou
 - 2017-04-03 — Introduced in House
 - 2017-04-03 — Introduced in House
 - 2017-04-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2017-11-02 — Committee Consideration and Mark-up Session Held.
+- 2017-11-02 — Ordered to be Reported by Unanimous Consent.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. (consideration: CR H10080)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10080)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10080)
