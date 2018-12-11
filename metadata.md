@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5205
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5205
@@ -31,3 +31,12 @@ To designate the facility of the United States Postal Service located at 701 6th
 - 2018-03-07 — Introduced in House
 - 2018-03-07 — Introduced in House
 - 2018-03-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-05-23 — Committee Consideration and Mark-up Session Held.
+- 2018-05-23 — Ordered to be Reported by Unanimous Consent.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. ((consideration: CR H10080)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10080)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10080)
