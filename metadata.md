@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6893
@@ -43,3 +43,4 @@ Secret Service Overtime Pay Extension Act
 - 2018-12-10 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1069.
 - 2018-12-10 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-1069.
 - 2018-12-10 — The title of the measure was amended. Agreed to without objection.
+- 2018-12-11 — Received in the Senate, read twice.
