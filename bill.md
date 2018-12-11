@@ -2,7 +2,7 @@
 legis-num: H. RES. 1165
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1165
@@ -29,4 +29,4 @@ That the House of Representatives—
 - **(5)** calls upon the President and Secretary of State to work towards a sustainable political transition in Syria that results in a government in Syria that is not a danger to its own people, abandons its chemical weapons program, allows for the safe, dignified, and voluntary return of displaced persons, and does not provide Iran with a platform to threaten Syria’s neighbors;
 - **(6)** urges the President and the Secretary of State develop a strategy to prevent a permanent Iranian presence in Syria, understanding that the Russia Federation has not proven to be a viable partner to help in this effort;
 - **(7)** urges the Secretary of State to investigate and determine whether the forced displacement of Syrian civilians from their homes through brutal sieges, starvation, and indiscriminate targeting of civilians, and repopulation with foreign fighters constitutes sectarian or ethnic cleansing; and
-- **(8)** calls on the President and Secretary of State to determine whether militias operating in Syria under the command of the Islamic Revolutionary Guard Corps (IRGC), including Harakat Hezbollah al-Nujaba, Fatemiyoun, Zainabioun, and ’Asaib ahl al-Haq are terrorist organizations and meet the criteria for sanctions pursuant to Executive Order 13460 or 13582.
+- **(8)** calls on the President and Secretary of State to determine whether militias operating in Syria under the command of the Islamic Revolutionary Guard Corps (IRGC), including Harakat Hezbollah al-Nujaba, Fatemiyoun, Zainabioun, and ’Asaib ahl al-Haq are terrorist organizations and meet the criteria for sanctions pursuant to Executive Order No. 13460 or 13582.
