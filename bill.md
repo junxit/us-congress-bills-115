@@ -53,7 +53,7 @@ This Act may be cited as the “Victims of Child Abuse Act Reauthorization Act o
     - **(A)** in paragraph (1)—
       - **(i)** in the matter preceding subparagraph (A), by striking “, in coordination with the Director,”;
       - **(ii)** in subparagraph (A), by inserting “and” at the end;
-      - **(iii)** in subparagraph (B), by striking “the prevention, judicial handling, and treatment of child abuse and neglect; and” and inserting “multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment.”; and
+      - **(iii)** in subparagraph (B), by striking “the prevention, judicial handling, and treatment of child abuse and neglect; and” and inserting “multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment,”; and
       - **(iv)** by striking subparagraph (C); and
     - **(B)** in paragraph (2)—
       - **(i)** in subparagraph (A)—
@@ -77,8 +77,9 @@ This Act may be cited as the “Victims of Child Abuse Act Reauthorization Act o
       - **(ii)** by striking clause (iii); and
       - **(iii)** by redesignating clauses (iv) and (v) as clauses (iii) and (iv), respectively;
   - **(4)** in subsection (d)—
-    - **(A)** in paragraph (1), by striking “, in coordination with the Director,”; and
+    - **(A)** in paragraph (1), by striking “, in coordination with the Director,”;
     - **(B)** in paragraph (2), in the matter preceding subparagraph (A), by striking “and the Director”; and
+    - **(C)** in paragraph (3), by striking “Discontinuation of funding.—” and all that follows through “Upon discontinuation” and inserting the following: “Discontinuation of funding.—Upon discontinuation”; and
   - **(5)** by striking subsections (e) and (f).
 - **(d)** *Local children's advocacy centers* Section 214 of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20304) is amended—
   - **(1)** by striking subsection (a) and inserting the following:
@@ -133,11 +134,33 @@ This Act may be cited as the “Victims of Child Abuse Act Reauthorization Act o
 
   - **(3)** in subsection (c)(2), by inserting after “shall require” the following: “, in the case of a grant made under subsection (a)(1),”.
 - **(f)** *Authorization of appropriations* Section 214B of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20306) is amended—
-  - **(1)** in subsection (a), by striking “sections 213 and 214” and all that follows and inserting the following: “sections 213 and 214, $19,000,000 for each of fiscal years 2019 through 2023.”; and
-  - **(2)** in subsection (b), by striking “section 214A” and all that follows and inserting the following: “section 214A, $6,000,000 for each of fiscal years 2019 through 2023.”.
-- **(g)** *Technical and conforming amendments relating to title 34, United States Code* The Victims of Child Abuse Act of 1990 (34 U.S.C. 20301 et seq.) is amended—
+  - **(1)** in subsection (a), by striking “sections 213 and 214” and all that follows and inserting the following: “sections 213 and 214, $16,000,000 for each of fiscal years 2019 through 2023.”; and
+  - **(2)** in subsection (b), by striking “section 214A” and all that follows and inserting the following: “section 214A, $5,000,000 for each of fiscal years 2019 through 2023.”.
+- **(g)** *Accountability* Section 214C of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20307) is amended—
+  - **(1)** by striking “All grants awarded” and inserting the following:
+    > - **(a)** *In general* All grants awarded
+
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Reporting* Not later than March 1 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that—
+    >   - **(1)** summarizes the efforts of the Administrator to monitor and evaluate the regional children's advocacy program activities under section 213(d);
+    >   - **(2)** describes—
+    >     - **(A)** the method by which amounts are allocated to grantees and subgrantees under this subtitle, including to local children’s advocacy centers, State chapters, and regional children’s advocacy program centers; and
+    >     - **(B)** steps the Attorney General has taken to minimize duplication and overlap in the awarding of amounts under this subtitle; and
+    >   - **(3)** analyzes the extent to which both rural and urban populations are served under the regional children’s advocacy program.
+
+- **(h)** *Technical and conforming amendments relating to title 34, United States Code* The Victims of Child Abuse Act of 1990 (34 U.S.C. 20301 et seq.) is amended—
   - **(1)** in section 212(1) (34 U.S.C. 20302), by striking “(42 U.S.C. 5611(b))” and inserting “(34 U.S.C. 11111(b))”;
   - **(2)** in section 214(c)(1) (34 U.S.C. 20304(c)(1)), by striking “(42 U.S.C. 5665 et seq.)” and inserting “(34 U.S.C. 11183, 11186)”;
   - **(3)** in section 214A(c)(1) (34 U.S.C. 20305(c)(1)), by striking “(42 U.S.C. 5665 et seq.)” and inserting “(34 U.S.C. 11183, 11186)”;
   - **(4)** in section 217(c)(1) (34 U.S.C. 20323(c)(1)), by striking “(42 U.S.C. 5665 et seq.)” and inserting “(34 U.S.C. 11183, 11186)”; and
   - **(5)** in section 223(c) (34 U.S.C. 20333(c)), by striking “(42 U.S.C. 5665 et seq.)” and inserting “(34 U.S.C. 11183, 11186)”.
+
+## § 3. Immunity protections for reporters of child abuse
+
+- **(a)** *State plans* Section 106(b)(2)(B)(vii) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(vii)) is amended to read as follows:
+  > - **(vii)** provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
+
+- **(b)** *Federal immunity*
+  - **(1)** *In general* Notwithstanding any other provision of law, any individual making a good faith report to appropriate authorities of a suspected or known instance of child abuse or neglect, or who otherwise, in good faith, provides information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect shall not be subject to civil liability or criminal prosecution, under any Federal law, rising from making such report or providing such information or assistance.
+  - **(2)** *Presumption of good faith* In a Federal civil action or criminal prosecution brought against a person based on the person's reporting a suspected or known instance of child abuse or neglect, or providing information or assistance with respect to such a report, as described in paragraph (1), there shall be a presumption that the person acted in good faith.
+  - **(3)** *Costs* If the defendant prevails in a Federal civil action described in paragraph (2), the court may award costs and reasonable attorney's fees incurred by the defendant.
