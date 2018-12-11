@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7247
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7247
+
+> To amend title XVIII of the Social Security Act to clarify the authority of MA organizations to provide waivers from Medicare Advantage plans’ prior authorization requirements.
+
+## § 1. Short title
+
+This Act may be cited as the “Incentivizing Shared Risk in Medicare Advantage Act”.
+
+## § 2. Authority of MA organizations to provide waivers from Medicare Advantage plans’ prior authorization requirements
+
+Section 1857(e) of the Social Security Act (42 U.S.C. 1395w–27(e)) is amended by adding at the end the following new paragraph:
+
+> - **(5)** *Authority to provide waivers from plan prior authorization requirements* In the case of an MA organization with a contract under this section that applies a prior authorization requirement with respect to any item or service covered under the Medicare Advantage plan offered by such organization, such organization may provide for a waiver from such requirement for any provider of services or supplier, as specified by the organization, furnishing such an item or service, including a provider of services or supplier that participates in a risk-sharing arrangement or value-based payment arrangement, as such terms are defined by the organization.
