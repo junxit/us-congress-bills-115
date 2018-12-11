@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7230
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7230
@@ -34,3 +34,10 @@ To designate the facility of the United States Postal Service located at 226 Wes
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. (consideration: CR H10082)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10082)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10082)
