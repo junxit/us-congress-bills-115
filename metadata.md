@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7213
@@ -41,3 +41,4 @@ Countering Weapons of Mass Destruction Act of 2018
 - 2018-12-10 — On passage Passed without objection. (text: CR H9804-9806)
 - 2018-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9804-9806)
 - 2018-12-10 — UNANIMOUS CONSENT REQUEST - Mr. Donovan asked unanimous consent that an exchange of letters between the Chairman of the Committee on Energy and Commerce and the Chairman of the Committee on Homeland Security be included in the Record. Agreed to without objection.
+- 2018-12-11 — Received in the Senate, read twice.
