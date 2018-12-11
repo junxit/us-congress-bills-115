@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6118
@@ -16,9 +16,10 @@ To authorize the Secretary of the Interior to annually designate at least one ci
 
 - Rep. Rouzer, David [R-NC-7] (R000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To authorize the Secretary of the Interior to annually designate at least one ci
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9777-9778)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9777-9778)
 - 2018-12-10 — The title of the measure was amended. Agreed to without objection.
+- 2018-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
