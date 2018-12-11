@@ -22,7 +22,7 @@ This Act may be cited as the “Advanced Nuclear Fuel Availability Act”.
     - **(A)** by January 1, 2021, have commercial entities submit such transportation package designs to the Commission for certification by the Commission under part 71 of title 10, Code of Federal Regulations; and
     - **(B)** encourage the Commission to have such transportation package designs so certified by the Commission by January 1, 2023;
   - **(3)** not later than January 1, 2020, shall submit to Congress a report on the Department’s uranium inventory that may be available to be processed to HA–LEU for purposes of such program, which may not include any uranium allocated by the Secretary for use in support of the atomic energy defense activities of the National Nuclear Security Administration;
-  - **(4)** not later than one year after the date of enactment of this Act, and biennially thereafter through September 30, 2025, shall conduct a survey of stakeholders to estimate the quantity of HA–LEU necessary for domestic commercial use for each of the five subsequent years;
+  - **(4)** not later than 1 year after the date of enactment of this Act, and biennially thereafter through September 30, 2025, shall conduct a survey of stakeholders to estimate the quantity of HA–LEU necessary for domestic commercial use for each of the 5 subsequent years;
   - **(5)** shall assess options available for the Secretary to acquire HA–LEU for such program, including an assessment, for each such option, of the cost and amount of time required;
   - **(6)** shall establish a consortium, which may include entities involved in any stage of the nuclear fuel cycle, to partner with the Department to support the availability of HA–LEU for domestic commercial use, including by—
     - **(A)** providing information to the Secretary for purposes of surveys conducted under paragraph (4); and
@@ -33,12 +33,15 @@ This Act may be cited as the “Advanced Nuclear Fuel Availability Act”.
     - **(A)** the licensing and regulation of category II spent nuclear material fuel fabrication and enrichment facilities under part 70 of title 10, Code of Federal Regulations; and
     - **(B)** certification of transportation packages under part 71 of title 10, Code of Federal Regulations.
 - **(c)** *Applicability of USEC Privatization Act* The requirements of subparagraphs (A) and (C) of section 3112(d)(2) of the USEC Privatization Act (42 U.S.C. 2297h–10(d)(2)) shall apply to a sale or transfer of HA–LEU by the Secretary to a member of the consortium under this section.
-- **(d)** *Funding for transportation package design*
-  - **(1)** *Cost share* The Secretary shall ensure that not less than 20 percent of the costs of design and license activities carried out pursuant to subsection (b)(1) are paid by a non-Federal entity.
-  - **(2)** *Authorization of appropriations* There are authorized to be appropriated to carry out subsection (b)(1)—
-    - **(A)** $1,500,000 for fiscal year 2019;
-    - **(B)** $1,500,000 for fiscal year 2020; and
-    - **(C)** $1,500,000 for fiscal year 2021.
+- **(d)** *Funding*
+  - **(1)** *Transportation package design*
+    - **(A)** *Cost share* The Secretary shall ensure that not less than 20 percent of the costs of design and license activities carried out pursuant to subsection (b)(1) are paid by a non-Federal entity.
+    - **(B)** *Authorization of appropriations* There are authorized to be appropriated to carry out subsection (b)(1)—
+      - **(i)** $1,500,000 for fiscal year 2019;
+      - **(ii)** $1,500,000 for fiscal year 2020; and
+      - **(iii)** $1,500,000 for fiscal year 2021.
+  - **(2)** *DOE acquisition of HA-LEU* The Secretary may not make commitments under this section (including cooperative agreements (used in accordance with section 6305 of title 31, United States Code), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HA-LEU unless funds are specifically provided for such purposes in advance in subsequent appropriations Acts, and only to the extent that the full extent of anticipated costs stemming from such commitments is recorded as an obligation up front and in full at the time it is made.
+  - **(3)** *Other costs* Except as otherwise provided in this subsection, in carrying out this section, the Secretary shall use amounts otherwise authorized to be appropriated to the Secretary.
 - **(e)** *Sunset* The authority of the Secretary to carry out the program under this section shall expire on September 30, 2033.
 
 ## § 3. Report to Congress
