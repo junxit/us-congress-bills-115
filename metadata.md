@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5513
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5513
@@ -16,9 +16,10 @@ Big Bear Land Exchange Act
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Big Bear Land Exchange Act
 - 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9774)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9774)
+- 2018-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
