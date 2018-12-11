@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6615
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,30 +35,30 @@ to guess them.
 
 ### 42 U.S.C. § 280b-3
 
-> by striking “$6,564,000 for each of fiscal years 2015 through 2019” and inserting “$6,750,000 for each of fiscal years 2019 through 2024”; and
+> by striking “$6,564,000 for each of fiscal years 2015 through 2019” and inserting “$6,750,000 for each of fiscal years 2019 through 2023”; and
 
 | | |
 |---|---|
 | Removed | `$6,564,000 for each of fiscal years 2015 through 2019` |
-| Inserted | `$6,750,000 for each of fiscal years 2019 through 2024` |
+| Inserted | `$6,750,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 300d-52
 
-> in subsection (i), as so redesignated, by striking “$5,500,000 for each of the fiscal years 2015 through 2019” and inserting “$7,321,000 for each of fiscal years 2019 through 2024”.
+> in subsection (i), as so redesignated, by striking “$5,500,000 for each of the fiscal years 2015 through 2019” and inserting “$7,321,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$5,500,000 for each of the fiscal years 2015 through 2019` |
-| Inserted | `$7,321,000 for each of fiscal years 2019 through 2024` |
+| Inserted | `$7,321,000 for each of fiscal years 2019 through 2023` |
 
 ### 42 U.S.C. § 300d-53
 
-> in subsection (l), by striking “$3,100,000 for each of the fiscal years 2015 through 2019” and inserting “$4,000,000 for each of fiscal years 2019 through 2024”.
+> in subsection (l), by striking “$3,100,000 for each of the fiscal years 2015 through 2019” and inserting “$4,000,000 for each of fiscal years 2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `$3,100,000 for each of the fiscal years 2015 through 2019` |
-| Inserted | `$4,000,000 for each of fiscal years 2019 through 2024` |
+| Inserted | `$4,000,000 for each of fiscal years 2019 through 2023` |
 
 ## Stated, not applied
 
