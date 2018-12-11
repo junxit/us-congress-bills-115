@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3008
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3008
@@ -25,9 +25,10 @@ George W. Bush Childhood Home Study Act
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ George W. Bush Childhood Home Study Act
 - 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2018-12-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 4, 2 Present (Roll no. 427). (text: CR H9776)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 4, 2 Present (Roll no. 427).(text: CR H9776)
+- 2018-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
