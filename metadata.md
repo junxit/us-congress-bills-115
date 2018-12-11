@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6964
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6964
@@ -46,3 +46,15 @@ Juvenile Justice Reform Act of 2018
 - 2018-12-11 — Senate amendment agreed to: Amendment SA 4075 agreed to in Senate by Unanimous Consent.
 - 2018-12-11 — Senate amendment proposed (on the floor): Amendment SA 4075 proposed by Senator Perdue for Senator Grassley.(consideration: CR S7452)
 - 2018-12-11 — Senate amendment submitted
+- 2018-12-12 — Message on Senate action sent to the House.
+- 2018-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-13 — Mr. Lewis (MN) asked unanimous consent that the House agree to the Senate amendment.
+- 2018-12-13 — Mr. Lewis (MN) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H10175-10184)
+- 2018-12-13 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate Amendment: CR H10175-10184)
+- 2018-12-13 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate Amendment: CR H10175-10184)
+- 2018-12-19 — Presented to President.
+- 2018-12-19 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-385.
+- 2018-12-21 — Became Public Law No: 115-385.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
