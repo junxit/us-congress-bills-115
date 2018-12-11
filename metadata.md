@@ -1,7 +1,7 @@
 ---
 measure: S. 943
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 943
@@ -49,3 +49,9 @@ Johnson-O'Malley Supplemental Indian Education Program Modernization Act
 - 2018-03-23 — Message on Senate action sent to the House.
 - 2018-03-26 — Received in the House.
 - 2018-03-26 — Referred to the House Committee on Education and the Workforce.
+- 2018-12-11 — Considered under suspension of the rules. (consideration: CR H10039-10041)
+- 2018-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 943.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Estes (KS) moved to suspend the rules and pass the bill, as amended.
+- 2018-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10039-10040)
+- 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10039-10040)
