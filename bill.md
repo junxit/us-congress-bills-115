@@ -29,7 +29,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Submarine Group 10 exercises operational and administrative control of Ohio-class ballistic missile submarines and guided missile submarines stationed at Naval Submarine Base Kings Bay;
 - Whereas 6 ballistic missile submarines make up Submarine Squadron 20 and are currently assigned to Naval Submarine Base Kings Bay: USS Maryland (SSBN 738), USS Rhode Island (SSBN 740), USS Tennessee (SSBN 734), USS West Virginia (SSBN 736), USS Wyoming (SSBN 742), and USS Alaska (SSBN 732);
 - Whereas 2 guided missile submarines make up Submarine Squadron 16 and are currently assigned to Naval Submarine Base Kings Bay: USS Florida (SSGN 728) and USS Georgia (SSGN 729);
-- Whereas the Department of the Navy stores the strategic assets of the United States at the Strategic Weapons Facilities at Kings Bay, Georgia, which is 1 of only 2 remaining naval nuclear weapon storage sites in the United States;
+- Whereas the Department of the Navy stores the strategic assets of the United States at the Strategic Weapons Facilities at Kings Bay, Georgia;
 - Whereas the Strategic Weapons Facility Atlantic is responsible for assembling the D–5 missile and processing missile guidance and launcher subsystem components for the ballistic missile submarine fleet;
 - Whereas the Naval Submarine Support Center provides critical support services to the submarines and staffs of Submarine Squadron 16, Submarine Squadron 20, and all visiting and other assigned units, which allows the team at Naval Submarine Base Kings Bay to work efficiently and effectively;
 - Whereas the D–5 ballistic missile is the heart of the Trident weapons system of the United States;
