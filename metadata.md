@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6335
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6335
@@ -32,3 +32,16 @@ To designate the facility of the United States Postal Service located at 322 Mai
 - 2018-07-11 — Introduced in House
 - 2018-07-11 — Introduced in House
 - 2018-07-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-12-11 — Amendment (A001) offered by Mr. Mitchell. (consideration: CR H10081; text: CR H10081)
+- 2018-12-11 — Amendment agreed to by House: On agreeing to the Mitchell amendment (A001) Agreed to without objection.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. (consideration: CR H10081)
+- 2018-12-11 — House amendment agreed to: On agreeing to the Mitchell amendment (A001) Agreed to without objection.
+- 2018-12-11 — House amendment offered
+- 2018-12-11 — House amendment offered/reported by: Amendment (A001) offered by Mr. Mitchell.(consideration: CR H10081; text: CR H10081)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On agreeing to the Mitchell amendment (A001) Agreed to without objection.
+- 2018-12-11 — On passage Passed without objection. (text: CR H10081)
+- 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10081)
