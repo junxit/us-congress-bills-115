@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1172
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1172
@@ -16,7 +16,7 @@ Honoring the life of President George Herbert Walker Bush.
 
 - Rep. Flores, Bill [R-TX-17] (F000461)
 
-## Cosponsors (162)
+## Cosponsors (165)
 
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
@@ -180,6 +180,9 @@ Honoring the life of President George Herbert Walker Bush.
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
 ## Committees (1)
 
@@ -190,3 +193,10 @@ Honoring the life of President George Herbert Walker Bush.
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Introduced in House
 - 2018-12-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Committee on Oversight and Government discharged.
+- 2018-12-11 — Considered by unanimous consent. (consideration: CR H10082-10083)
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
+- 2018-12-11 — On agreeing to the resolution Agreed to without objection. (text: CR H10082-10083)
+- 2018-12-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10082-10083)
