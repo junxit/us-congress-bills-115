@@ -1,7 +1,7 @@
 ---
 measure: S. 3482
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3482
@@ -35,3 +35,5 @@ Emergency Medical Services for Children Program Reauthorization Act of 2018
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
+- 2018-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7452-7453)
+- 2018-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7452-7453)
