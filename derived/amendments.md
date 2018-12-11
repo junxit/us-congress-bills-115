@@ -1,7 +1,7 @@
 ---
 measure: S. 943
 congress: 115
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
