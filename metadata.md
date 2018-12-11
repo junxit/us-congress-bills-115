@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6665
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6665
@@ -45,3 +45,4 @@ Offshore Wind for Territories Act
 - 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9778-9779)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9778-9779)
+- 2018-12-11 — Received in the Senate.
