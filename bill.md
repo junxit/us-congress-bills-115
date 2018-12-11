@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6964
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6964
 
-That the bill from the House of Representatives (H.R. 6964) entitled “An Act to reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.
 
 ## § 1. Short title
 
