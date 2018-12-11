@@ -1,7 +1,7 @@
 ---
 measure: S. 2369
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2369
@@ -29,3 +29,7 @@ Whaling Convention Amendments Act of 2018
 
 - 2018-02-05 — Introduced in Senate
 - 2018-02-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-04-25 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2018-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-425.
+- 2018-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-425.
+- 2018-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 728.
