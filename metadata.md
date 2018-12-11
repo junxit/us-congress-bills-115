@@ -1,7 +1,7 @@
 ---
 measure: S. 2773
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2773
@@ -16,10 +16,12 @@ Driftnet Modernization and Bycatch Reduction Act
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ Driftnet Modernization and Bycatch Reduction Act
 
 - 2018-04-26 — Introduced in Senate
 - 2018-04-26 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2487)
+- 2018-09-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2018-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-430.
+- 2018-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-430.
+- 2018-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 729.
