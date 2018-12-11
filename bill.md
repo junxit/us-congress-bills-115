@@ -11,22 +11,31 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Interstate Transport Act of 2017”.
+This Act may be cited as the “Interstate Transport Act of 2018”.
 
 ## § 2. Interstate transportation of knives
 
-- **(a)** *Transport of knives* Notwithstanding any other provision of any law or any rule or regulation of a State or any political subdivision thereof, any person who is not otherwise prohibited by any Federal law, rule, or regulation from transporting, shipping, or receiving a knife shall be entitled to transport a knife for any lawful purpose from any place where the person may lawfully possess and carry such knife to any other place where the person may lawfully possess and carry such knife if—
-  - **(1)** in the case of a mode of transportation subject to rules and regulations of the Transportation Security Administration or the Coast Guard, the individual complies with all applicable rules and regulations of the Transportation Security Administration or the Coast Guard, respectively; and
-  - **(2)** in the case of a mode of transportation not subject to rules and regulations of the Transportation Security Administration or the Coast Guard, during such transportation, any such knife that is being transported and that is not legal for the person to possess in a jurisdiction through which the person is traveling—
-    - **(A)** is not readily accessible or directly accessible from the passenger compartment of the mode of transportation; or
-    - **(B)** in the case of a mode of transportation without a compartment separate from the passenger compartment, is contained in a locked container other than the glove compartment or console.
-- **(b)** *Emergency knives*
-  - **(1)** *In general* An individual—
+- **(a)** *Definition* In this Act, the term transport—
+  - **(1)** includes staying in temporary lodging overnight, common carrier misrouting or delays, stops for food, fuel, vehicle maintenance, emergencies, or medical treatment, and any other activity related to the journey of a person; and
+  - **(2)** does not include transport of a knife with the intent to commit an offense punishable by imprisonment for a term exceeding 1 year involving the use or threatened use of force against another person, or with knowledge, or reasonable cause to believe, that such an offense is to be committed in the course of, or arising from, the journey.
+- **(b)** *Transport of knives*
+  - **(1)** *In general* Notwithstanding any other provision of any law or any rule or regulation of a State or any political subdivision thereof, a person who is not otherwise prohibited by any Federal law from possessing, transporting, shipping, or receiving a knife shall be entitled to transport a knife for any lawful purpose from any place where the person may lawfully possess, carry, or transport the knife to any other place where the person may lawfully possess, carry, or transport the knife if—
+    - **(A)** in the case of transport by motor vehicle, the knife—
+      - **(i)** is not directly accessible from the passenger compartment of the motor vehicle; or
+      - **(ii)** in the case of a motor vehicle without a compartment separate from the passenger compartment, is contained in a locked container other than the glove compartment or console; and
+    - **(B)** in the case of transport by means other than a motor vehicle, including any transport over land or on or through water, the knife is contained in a locked container.
+  - **(2)** *Limitation* This subsection shall not apply to the transport of a knife or tool in the cabin of a passenger aircraft subject to the rules and regulations of the Transportation Security Administration.
+- **(c)** *Emergency knives*
+  - **(1)** *In general* A person—
     - **(A)** may carry in the passenger compartment of a mode of transportation a knife or tool—
       - **(i)** the blades of which consist only of a blunt tipped safety blade, a guarded blade, or both; and
       - **(ii)** that is specifically designed for enabling escape in an emergency by cutting safety belts; and
-    - **(B)** shall not be required to secure a knife or tool described in subparagraph (A) in any locked container.
-  - **(2)** *Limitation* This subsection shall not apply to the transport of a knife or tool by a mode of transportation that is subject to rules and regulations of the Transportation Security Administration or the Coast Guard.
-- **(c)** *No arrest or detention* An individual who is transporting a knife in compliance with this section may not be arrested or otherwise detained for violation of any law, rule, or regulation of a State or political subdivision of a State related to the possession, transport, or carrying of a knife, unless there is probable cause to believe that the individual is not in compliance with subsection (a).
-- **(d)** *Claim or defense* An individual may assert this section as a claim or defense in any civil or criminal action or proceeding. When an individual asserts this section as a claim or defense in a criminal proceeding, the State or political subdivision shall have the burden of proving, beyond a reasonable doubt, that the individual was not in compliance with subsection (a).
-- **(e)** *Rule of construction* Nothing in this section shall be construed to limit any right to possess, carry, or transport a knife under applicable State law.
+    - **(B)** shall not be required to secure a knife or tool described in subparagraph (A) in a locked container.
+  - **(2)** *Limitation* This subsection shall not apply to the transport of a knife or tool in the cabin of a passenger aircraft subject to the rules and regulations of the Transportation Security Administration.
+- **(d)** *No arrest* A person who is transporting a knife in compliance with this section may not be arrested for violation of any law, rule, or regulation of a State or political subdivision of a State related to the possession, transport, or carrying of a knife, unless there is probable cause to believe that the person is not in compliance with subsection (b).
+- **(e)** *Costs* If a person who asserts this section as a claim or defense in a civil or criminal action or proceeding is a prevailing party on the claim or defense, the court shall award costs and reasonable attorney's fees incurred by the person.
+- **(f)** *Expungement* If a person who asserts this section as a claim or defense in a criminal proceeding is a prevailing party on the claim or defense, the court shall enter an order that directs that there be expunged from all official records all references to—
+  - **(1)** the arrest of the person for the offense as to which the claim or defense was asserted;
+  - **(2)** the institution of any criminal proceedings against the person relating to such offense; and
+  - **(3)** the results of the proceedings, if any.
+- **(g)** *Rule of construction* Nothing in this section shall be construed to limit any right to possess, carry, or transport a knife under applicable State law.
