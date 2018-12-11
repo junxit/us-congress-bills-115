@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1162
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1162
@@ -16,9 +16,10 @@ Expressing the sense of the House of Representatives with respect to Ukraine, an
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +30,9 @@ Expressing the sense of the House of Representatives with respect to Ukraine, an
 - 2018-11-29 — Introduced in House
 - 2018-11-29 — Introduced in House
 - 2018-11-29 — Referred to the House Committee on Foreign Affairs.
+- 2018-12-11 — Considered under suspension of the rules. (consideration: CR H10075-10076)
+- 2018-12-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1162.
+- 2018-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-11 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.
+- 2018-12-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10075)
+- 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10075)
