@@ -2,7 +2,7 @@
 legis-num: H. RES. 931
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 931
@@ -28,7 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** solemnly remembers the 85th anniversary of the Holodomor of 1932–1933 and extends its deepest sympathies to the victims, survivors, and families of this tragedy;
+- **(1)** extends its deepest sympathies to the victims and survivors of the Holodomor of 1932–1933, and their families;
 - **(2)** condemns the systematic violations of human rights, including the freedom of self-determination and freedom of speech, of the Ukrainian people by the Soviet Government;
 - **(3)** recognizes the findings of the Commission on the Ukraine Famine as submitted to Congress on April 22, 1988, including that “Joseph Stalin and those around him committed genocide against the Ukrainians in 1932–1933”;
 - **(4)** encourages dissemination of information regarding the Holodomor of 1932–1933 in order to expand the world’s knowledge of this manmade tragedy; and
