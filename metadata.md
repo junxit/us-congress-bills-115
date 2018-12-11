@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6964
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6964
@@ -38,3 +38,11 @@ Juvenile Justice Reform Act of 2018
 - 2018-09-28 — Referred to the House Committee on Education and the Workforce.
 - 2018-10-01 — Received in the Senate.
 - 2018-10-02 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.
+- 2018-12-11 — Amendment SA 4075 agreed to in Senate by Unanimous Consent.
+- 2018-12-11 — Amendment SA 4075 proposed by Senator Perdue for Senator Grassley. (consideration: CR S7452) In the nature of a substitute.
+- 2018-12-11 — Measure laid before Senate by unanimous consent. (consideration: CR S7452)
+- 2018-12-11 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-11 — Senate amendment agreed to: Amendment SA 4075 agreed to in Senate by Unanimous Consent.
+- 2018-12-11 — Senate amendment proposed (on the floor): Amendment SA 4075 proposed by Senator Perdue for Senator Grassley.(consideration: CR S7452)
+- 2018-12-11 — Senate amendment submitted
