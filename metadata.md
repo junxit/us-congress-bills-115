@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6108
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6108
@@ -51,9 +51,10 @@ Preserving America's Battlefields Act
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Preserving America's Battlefields Act
 - 2018-12-10 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9775)
 - 2018-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9775)
+- 2018-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
