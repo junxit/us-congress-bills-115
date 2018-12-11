@@ -1,7 +1,7 @@
 ---
 measure: H.R. 350
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 350
@@ -16,7 +16,7 @@ Recognizing the Protection of Motorsports Act of 2017
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Cosponsors (44)
+## Cosponsors (150)
 
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
 - Rep. Bost, Mike [R-IL-12] (B001295)
@@ -62,6 +62,112 @@ Recognizing the Protection of Motorsports Act of 2017
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Sanford, Mark [R-SC-1] (S000051)
+- Rep. Garrett, Thomas A., Jr. [R-VA-5] (G000580)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Sinema, Kyrsten [D-AZ-9] (S001191)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. King, Steve [R-IA-4] (K000362)
+- Rep. Bishop, Mike [R-MI-8] (B001293)
+- Rep. MacArthur, Thomas [R-NJ-3] (M001193)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Trott, David A. [R-MI-11] (T000475)
+- Rep. Royce, Edward R. [R-CA-39] (R000487)
+- Rep. Blum, Rod [R-IA-1] (B001294)
+- Rep. Messer, Luke [R-IN-6] (M001189)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Jenkins, Evan H. [R-WV-3] (J000297)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Boyle, Brendan F. [D-PA-13] (B001296)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Rohrabacher, Dana [R-CA-48] (R000409)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Lewis, Jason [R-MN-2] (L000587)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Ross, Dennis A. [R-FL-15] (R000593)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Rooney, Thomas J. [R-FL-17] (R000583)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. DeSantis, Ron [R-FL-6] (D000621)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Poliquin, Bruce [R-ME-2] (P000611)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Young, David [R-IA-3] (Y000066)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Collins, Doug [R-GA-9] (C001093)
 
 ## Committees (1)
 
@@ -72,3 +178,11 @@ Recognizing the Protection of Motorsports Act of 2017
 - 2017-01-06 — Introduced in House
 - 2017-01-06 — Introduced in House
 - 2017-01-06 — Referred to the House Committee on Energy and Commerce.
+- 2017-01-25 — Referred to the Subcommittee on Environment.
+- 2017-11-15 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 13 - 9 .
+- 2017-11-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2017-12-06 — Committee Consideration and Mark-up Session Held.
+- 2017-12-06 — Ordered to be Reported by the Yeas and Nays: 33 - 20.
+- 2018-12-11 — Placed on the Union Calendar, Calendar No. 833.
+- 2018-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 115-1073.
+- 2018-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 115-1073.
