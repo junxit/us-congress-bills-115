@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1222
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1222
 
-That the bill from the House of Representatives (H.R. 1222) entitled “An Act to amend the Public Health Service Act to coordinate Federal congenital heart disease research efforts and to improve public education and awareness of congenital heart disease, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Public Health Service Act to coordinate Federal congenital heart disease research efforts and to improve public education and awareness of congenital heart disease, and for other purposes.
 
 ## § 1. Short title
 
