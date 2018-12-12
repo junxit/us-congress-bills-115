@@ -1,7 +1,7 @@
 ---
 measure: S. 2736
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2736
@@ -60,3 +60,13 @@ Asia Reassurance Initiative Act of 2018
 - 2018-12-12 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2018-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10130-10136)
 - 2018-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10130-10136)
+- 2018-12-13 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2736 by Unanimous Consent.(consideration: CR S7865)
+- 2018-12-19 — Senate agreed to the House amendment to S. 2736 by Unanimous Consent. (consideration: CR S7865)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-409.
+- 2018-12-31 — Became Public Law No: 115-409.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
