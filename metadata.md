@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6930
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6930
@@ -60,3 +60,4 @@ To designate the facility of the United States Postal Service located at 10 Mill
 - 2018-12-11 — Mr. Mitchell asked unanimous consent to discharge from committee and consider.
 - 2018-12-11 — On passage Passed without objection. (text: CR H10081)
 - 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10081)
+- 2018-12-12 — Received in the Senate, read twice.
