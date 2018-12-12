@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7243
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7243
@@ -33,3 +33,12 @@ To amend Public Law 115-217 to change the address of the postal facility designa
 - 2018-12-11 — On passage Passed without objection. (text: CR H10082)
 - 2018-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10082)
 - 2018-12-12 — Received in the Senate, read twice.
+- 2018-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7897)
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7897)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-21 — Became Public Law No: 115-389.
+- 2018-12-21 — Became Public Law No: 115-389.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
