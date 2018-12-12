@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 444
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 444
@@ -47,3 +47,8 @@ A resolution recognizing the heritage, culture, and contributions of American In
 
 - 2018-03-22 — Introduced in Senate
 - 2018-03-22 — Referred to the Committee on Indian Affairs. (text: CR S1952-1953)
+- 2018-11-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-12-12 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-12-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7528)
+- 2018-12-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7528)
