@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4758
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4758
@@ -26,3 +26,8 @@ FOMC Policy Responsibility Act
 - 2018-01-10 — Introduced in House
 - 2018-01-10 — Introduced in House
 - 2018-01-10 — Referred to the House Committee on Financial Services.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported by Voice Vote.
+- 2018-12-12 — Placed on the Union Calendar, Calendar No. 837.
+- 2018-12-12 — Reported by the Committee on Financial Services. H. Rept. 115-1078.
+- 2018-12-12 — Reported by the Committee on Financial Services. H. Rept. 115-1078.
