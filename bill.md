@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2315
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2315
 
-> To posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.
+> To posthumously award the Congressional Gold Medal, collectively, to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.
 
 ## § 1. Findings
 
@@ -24,18 +24,16 @@ Congress makes the following findings:
 
 ## § 2. Congressional Gold Medal
 
-- **(a)** *Award Authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the posthumous award, on behalf of the Congress, of a gold medal of appropriate design in commemoration of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.
-- **(b)** *Design and Striking* For the purposes of the awards referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the Secretary) shall strike the gold medals with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(a)** *Award Authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the posthumous award, on behalf of the Congress, of a single gold medal of appropriate design collectively in commemoration of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.
+- **(b)** *Design and Striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the Secretary) shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(c)** *Central Intelligence Agency Museum*
+  - **(1)** *In general* Following the award of the gold medal under subsection (a), the gold medal shall be given to the Central Intelligence Agency Museum, where it will be displayed as appropriate and made for research.
+  - **(2)** *Sense of Congress* It is the sense of Congress that the Central Intelligence Agency Museum should make the gold medal received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith.
 
 ## § 3. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medals struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses, and the cost of the gold medals.
+Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses, and the cost of the gold medal.
 
 ## § 4. National medals
 
 Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-
-## § 5. Authorization of appropriations; proceeds of sale
-
-- **(a)** *Authorization of Appropriations* There is authorized to be charged against the United States Mint Public Enterprise Fund, such amounts as may be necessary to pay for the cost of the medals struck pursuant to this Act.
-- **(b)** *Proceeds of Sale* Amounts received from the sale of duplicate bronze medals under section 3 shall be deposited in the United States Mint Public Enterprise Fund.
