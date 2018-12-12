@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7217
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7217
@@ -46,3 +46,4 @@ IMPROVE Act
 - 2018-12-11 — Mr. Barton moved to suspend the rules and pass the bill.
 - 2018-12-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 11 (Roll no. 428). (text: H10043-10047)
 - 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 11 (Roll no. 428).(text: H10043-10047)
+- 2018-12-12 — Received in the Senate.
