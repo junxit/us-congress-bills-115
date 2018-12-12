@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1222
@@ -88,3 +88,16 @@ Congenital Heart Futures Reauthorization Act of 2017
 - 2018-12-12 — Senate amendment proposed (on the floor): Amendment SA 4103 proposed by Senator Gardner for Senator Durbin.(consideration: CR S7525; text: CR S7525)
 - 2018-12-12 — Senate amendment submitted
 - 2018-12-12 — The committee substitute withdrawn by Unanimous Consent. (CR S7525)
+- 2018-12-13 — Message on Senate action sent to the House.
+- 2018-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 1222.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Walden moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10278-10280, H10313-10314)
+- 2018-12-19 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 355 - 7 (Roll no. 436). (text: CR H10278)
+- 2018-12-19 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 355 - 7 (Roll no. 436).(text: CR H10278)
+- 2018-12-21 — Became Public Law No: 115-342.
+- 2018-12-21 — Became Public Law No: 115-342.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
