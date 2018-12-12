@@ -13,92 +13,101 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Building Our Largest Dementia Infrastructure for Alzheimer’s Act” or the “BOLD Infrastructure for Alzheimer’s Act”.
 
-## § 2. Findings
+## § 2. Promotion of public health knowledge and awareness of Alzheimer’s disease, cognitive decline, and brain health under the Alzheimer’s Disease and Healthy Aging Program
 
-Congress finds as follows:
+Part K of title III of the Public Health Service Act (42 U.S.C. 280c et seq.) is amended—
 
-- **(1)** According to former Surgeon General and Director of the Centers for Disease Control and Prevention, Dr. David Satcher, “Alzheimer’s is the most under-recognized threat to public health in the 21st century.”.
-- **(2)** Deaths from Alzheimer’s disease increased 55 percent between 1999 and 2014 in the United States, according to data from the Centers for Disease Control and Prevention.
-- **(3)** More than 5,000,000 people in the United States are living with Alzheimer’s disease and, without significant efforts to change the current trajectory, as many as 16,000,000 people in the United States will have Alzheimer’s disease by 2050. This explosive growth will cause costs associated with Alzheimer’s disease to increase from an estimated $259,000,000,000 in 2017 to more than $1,100,000,000,000 in 2050 (in 2017 dollars).
-- **(4)** Among individuals living with Alzheimer’s disease and other dementias, evidence indicates as many as 50 percent have not been diagnosed. Among individuals diagnosed with Alzheimer’s disease, only 33 percent are aware of the diagnosis. Early detection and diagnosis of Alzheimer’s disease and other dementias allow people to access available treatments, build a care team, participate in support services, and enroll in clinical trials. Early detection can help physicians better manage a patient’s comorbid conditions and avoid prescribing medications that may worsen cognition or function.
-- **(5)** Among individuals living with Alzheimer’s disease and other dementias, 25.3 percent experience a preventable hospitalization, and such preventable hospitalizations cost the Medicare program nearly $2,600,000,000 in 2013.
-- **(6)** African Americans are about 2 times more likely than White Americans to have Alzheimer’s disease and other dementias. Hispanics are about one and one-half times more likely than White Americans to have Alzheimer’s disease and other dementias.
-- **(7)** In 2016, 15,900,000 family members and friends provided 18,200,000,000 hours of unpaid care to individuals with Alzheimer’s disease and other dementias, at an economic value of over $230,000,000,000. The physical and emotional impact of caregiving of individuals with Alzheimer’s disease and other dementia resulted in an estimated $10,900,000,000 in increased caregiver health costs in 2016.
-- **(8)** Strategy 4.B of the “National Plan to Address Alzheimer’s Disease: 2017 Update” of the Office of the Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services is to “work with State, Tribal, and local governments to improve coordination and identify model initiatives to advance Alzheimer’s disease awareness and readiness across the Government.”.
+- **(1)** in the part heading, by adding “AND PUBLIC HEALTH PROGRAMS FOR DEMENTIA” at the end; and
+- **(2)** in subpart II—
+  - **(A)** by striking the subpart heading and inserting the following:
+  - **(B)** by striking section 398A (42 U.S.C. 280c–4) and inserting the following:
+    > ## § 398A. Promotion of public health knowledge and awareness of Alzheimer’s disease and related dementias
+    >
+    > - **(a)** *Alzheimer’s Disease and Related Dementias Public Health Centers of Excellence*
+    >   - **(1)** *In general* The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and the heads of other agencies as appropriate, shall award grants, contracts, or cooperative agreements to eligible entities, such as institutions of higher education, State, tribal, and local health departments, Indian tribes, tribal organizations, associations, or other appropriate entities for the establishment or support of regional centers to address Alzheimer’s disease and related dementias by—
+    >     - **(A)** advancing the awareness of public health officials, health care professionals, and the public, on the most current information and research related to Alzheimer’s disease and related dementias, including cognitive decline, brain health, and associated health disparities;
+    >     - **(B)** identifying and translating promising research findings, such as findings from research and activities conducted or supported by the National Institutes of Health, including Alzheimer’s Disease Research Centers authorized by section 445, into evidence-based programmatic interventions for populations with Alzheimer’s disease and related dementias and caregivers for such populations; and
+    >     - **(C)** expanding activities, including through public-private partnerships related to Alzheimer’s disease and related dementias and associated health disparities.
+    >   - **(2)** *Requirements* To be eligible to receive a grant, contract, or cooperative agreement under this subsection, an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including a description of how the entity will—
+    >     - **(A)** coordinate, as applicable, with existing Federal, State, and tribal programs related to Alzheimer’s disease and related dementias;
+    >     - **(B)** examine, evaluate, and promote evidence-based interventions for individuals with Alzheimer’s disease and related dementias, including underserved populations with such conditions, and those who provide care for such individuals; and
+    >     - **(C)** prioritize activities relating to—
+    >       - **(i)** expanding efforts, as appropriate, to implement evidence-based practices to address Alzheimer’s disease and related dementias, including through the training of State, local, and tribal public health officials and other health professionals on such practices;
+    >       - **(ii)** supporting early detection and diagnosis of Alzheimer’s disease and related dementias;
+    >       - **(iii)** reducing the risk of potentially avoidable hospitalizations of individuals with Alzheimer’s disease and related dementias;
+    >       - **(iv)** reducing the risk of cognitive decline and cognitive impairment associated with Alzheimer’s disease and related dementias;
+    >       - **(v)** enhancing support to meet the needs of caregivers of individuals with Alzheimer’s disease and related dementias;
+    >       - **(vi)** reducing health disparities related to the care and support of individuals with Alzheimer’s disease and related dementias;
+    >       - **(vii)** supporting care planning and management for individuals with Alzheimer’s disease and related dementias; and
+    >       - **(viii)** supporting other relevant activities identified by the Secretary or the Director of the Centers for Disease Control and Prevention, as appropriate.
+    >   - **(3)** *Considerations* In awarding grants, contracts, and cooperative agreements under this subsection, the Secretary shall consider, among other factors, whether the entity—
+    >     - **(A)** provides services to rural areas or other underserved populations;
+    >     - **(B)** is able to build on an existing infrastructure of services and public health research; and
+    >     - **(C)** has experience with providing care or caregiver support, or has experience conducting research related to Alzheimer’s disease and related dementias.
+    >   - **(4)** *Distribution of awards* In awarding grants, contracts, or cooperative agreements under this subsection, the Secretary, to the extent practicable, shall ensure equitable distribution of awards based on geographic area, including consideration of rural areas, and the burden of the disease within sub-populations.
+    >   - **(5)** *Data reporting and program oversight* With respect to a grant, contract, or cooperative agreement awarded under this subsection, not later than 90 days after the end of the first year of the period of assistance, and annually thereafter for the duration of the grant, contract, or agreement (including the duration of any renewal period as provided for under paragraph (5)), the entity shall submit data, as appropriate, to the Secretary regarding—
+    >     - **(A)** the programs and activities funded under the grant, contract, or agreement; and
+    >     - **(B)** outcomes related to such programs and activities.
+    > - **(b)** *Improving data on State and national prevalence of Alzheimer’s disease and related dementias*
+    >   - **(1)** *In general* The Secretary shall, as appropriate, improve the analysis and timely reporting of data on the incidence and prevalence of Alzheimer’s disease and related dementias. Such data may include, as appropriate, information on cognitive decline, caregiving, and health disparities experienced by individuals with cognitive decline and their caregivers. The Secretary may award grants, contracts, or cooperative agreements to eligible entities for activities under this paragraph.
+    >   - **(2)** *Eligibility* To be eligible to receive a grant, contract, or cooperative agreement under this subsection, an entity shall be a public or nonprofit private entity, including institutions of higher education, State, local, and tribal health departments, and Indian tribes and tribal organizations, and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+    >   - **(3)** *Data sources* The analysis, timely public reporting, and dissemination of data under this subsection may be carried out using data sources such as the following:
+    >     - **(A)** The Behavioral Risk Factor Surveillance System.
+    >     - **(B)** The National Health and Nutrition Examination Survey.
+    >     - **(C)** The National Health Interview Survey.
+    > - **(c)** *Improved coordination* The Secretary shall ensure that activities and programs related to dementia under this section do not unnecessarily duplicate activities and programs of other agencies and offices within the Department of Health and Human Services.
 
-## § 3. Promotion of public health knowledge and awareness of Alzheimer’s disease, cognitive decline, and brain health under the Alzheimer’s Disease and Healthy Aging Program
+## § 3. Supporting state public health programs related to alzheimer’s disease and related dementias
 
-Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following:
+Section 398 of the Public Health Service Act (42 U.S.C. 280c–3) is amended—
 
-> ## § 399V–7. Promotion of public health knowledge and awareness of Alzheimer’s disease, cognitive decline, and brain health under the Alzheimer’s Disease and Healthy Aging Program
->
-> - **(a)** *Definitions* In the section:
->   - **(1)** *Alzheimer’s disease* The term Alzheimer’s disease means Alzheimer’s disease and related dementias.
->   - **(2)** *Indian tribe; tribal organization* The terms Indian tribe and tribal organization have the meanings given such terms in section 4 of the Indian Health Care Improvement Act.
-> - **(b)** *Expansion of activities under the Alzheimer’s Disease and Healthy Aging Program* In addition to activities conducted by the Secretary under the Alzheimer’s Disease and Healthy Aging Program of the Centers for Disease Control and Prevention, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, subject to appropriations under subsection (g), shall award cooperative agreements under subsections (c), (d), and (e).
-> - **(c)** *Centers of excellence in public health practice*
->   - **(1)** *In general* The Secretary shall award cooperative agreements to eligible entities for the establishment or support of national or regional centers of excellence in public health practice in Alzheimer’s disease to—
->     - **(A)** advance the education of public health officials of States, of political subdivisions of States, and of Indian tribes or tribal organizations, health care professionals, and the public on Alzheimer’s disease, cognitive decline, brain health, and associated health disparities;
->     - **(B)** advance the efforts of public health officials referred to in subparagraph (A) in applying evidence-based systems change, communications, and programmatic interventions for populations with cognitive impairment, including Alzheimer’s disease, and caregivers for such populations; and
->     - **(C)** expand public-private partnerships engaged in activities related to cognitive impairment and associated health disparities with demonstrated success or innovative programs (as determined by the Secretary).
->   - **(2)** *Requirements* To be eligible to receive a cooperative agreement under this subsection, an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the cooperative agreement will operate in accordance with the following:
->     - **(A)** The center will examine, evaluate, increase, and promote evidence-based and effective Alzheimer’s disease and caregiving-related interventions for health and social services professionals, underserved populations, families, and the public, after consultation with relevant State and local public health officials, private-sector Alzheimer’s disease researchers, and advocates for individuals with Alzheimer’s disease.
->     - **(B)** The center will prioritize its activities on the following:
->       - **(i)** Expanding efforts to educate State, local, and tribal officials and public health professionals in applying established data and evidence-based best practices to address Alzheimer’s disease.
->       - **(ii)** Supporting public health officials of States, of political subdivisions of States, and of Indian tribes or tribal organizations in implementing the most current version of the “Healthy Brain Initiative: Public Health Road Map” of the Centers for Disease Control and Prevention.
->       - **(iii)** Supporting early detection and diagnosis of Alzheimer’s disease.
->       - **(iv)** Reducing the risk of potentially avoidable hospitalizations of individuals with Alzheimer’s disease.
->       - **(v)** Reducing the risk of cognitive decline and cognitive impairment, including Alzheimer’s disease.
->       - **(vi)** Enhancing support to meet the needs of caregivers of individuals with Alzheimer’s disease.
->       - **(vii)** Reducing health disparities related to the care and support of individuals with cognitive decline and Alzheimer’s disease.
->       - **(viii)** Supporting care planning and management for individuals with Alzheimer’s disease.
->   - **(3)** *Considerations* In awarding cooperative agreements under this subsection, the Secretary shall consider, among other factors, whether the entity—
->     - **(A)** has access to rural areas or other underserved populations;
->     - **(B)** is located in an area where the aggregate success rate for applications for National Institutes of Health funding has been historically low;
->     - **(C)** is able to build on an existing infrastructure of service and public health research;
->     - **(D)** has experience with providing care, caregiver support, and research related to Alzheimer's disease; and
->     - **(E)** is integrated into existing local government and public health infrastructures.
->   - **(4)** *Distribution of awards* In awarding cooperative agreements under this subsection, the Secretary, to the extent practicable, shall ensure equitable distribution of awards based on geographic area, including consideration of rural areas, and the burden of the disease on sub-populations.
-> - **(d)** *Cooperative agreements to public health departments*
->   - **(1)** *In general* The Secretary shall award cooperative agreements to health departments of States, of political subdivisions of States, and of Indian tribes and tribal organizations to promote cognitive functioning, address cognitive impairment for individuals living in such communities, help meet the needs of caregivers, and address unique aspects of Alzheimer’s disease, as follows:
->     - **(A)** The Secretary shall award core capacity cooperative agreements to such health departments to support the development and implementation of systems change, communications, and programmatic interventions with respect to Alzheimer’s disease, including activities involving—
->       - **(i)** educating and informing the public based on established public health research and data;
->       - **(ii)** supporting early detection and diagnosis;
->       - **(iii)** reducing the risk of potentially avoidable hospitalizations;
->       - **(iv)** reducing the risk of cognitive decline and cognitive impairment;
->       - **(v)** enhancing support to meet the needs of caregivers;
->       - **(vi)** supporting care planning and management; or
->       - **(vii)** supporting the actions set forth in the most current version of the “Healthy Brain Initiative: Public Health Road Map” of the Centers for Disease Control and Prevention.
->     - **(B)** The Secretary shall award not less than 5 enhanced activity cooperative agreements to such health departments to carry out activities related to Alzheimer’s disease, including through public-private partnerships with organizations or other agencies, such as large employers, public housing agencies, large health care systems, and parks and recreation departments, that include—
->       - **(i)** expanding implementation of programs described in paragraph (2)(A) to reach larger segments of the population; and
->       - **(ii)** implementing the reports described in subparagraph (A)(vii).
->   - **(2)** *Other considerations*
->     - **(A)** *Preference* In awarding cooperative agreements under paragraph (1), the Secretary shall give preference to applications that focus on addressing health disparities, including populations and geographic areas that are most in need of intervention.
->     - **(B)** *Clarification on enhanced activity cooperative agreements* If the Secretary is unable to identify 5 eligible health departments to receive a cooperative agreement under paragraph (1)(B), the Secretary shall allocate any amounts reserved for such agreements to additional cooperative agreements under paragraph (1)(A).
->   - **(3)** *Eligibility* To be eligible to receive a cooperative agreement under paragraph (1), a State, political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
->     - **(A)** how the applicant proposes to develop or expand, programs to educate individuals through partnership engagement, workforce development, guidance and support for programmatic efforts, strategic communication, and evaluation with respect to Alzheimer’s disease, and in the case of a cooperative agreement under paragraph (1)(B), how the applicant proposes to implement the most current version of the “Healthy Brain Initiative: Public Health Road Map” of the Centers for Disease Control and Prevention;
->     - **(B)** the manner in which the applicant will coordinate with appropriate State and local authorities as well as, in the case of a cooperative agreement under paragraph (1)(B), relevant public and private organizations or agencies; and
->     - **(C)** the manner in which the applicant will evaluate the effectiveness of any program carried out under the cooperative agreement.
->   - **(4)** *Use of funds* A health department awarded a cooperative agreement under paragraph (1) shall use amounts received under such cooperative agreement to—
->     - **(A)** develop, implement, disseminate, evaluate, and if applicable, expand programs to educate individuals on matters related to Alzheimer’s disease described in paragraph (1)(A); and
->     - **(B)** in the case of a cooperative agreement under paragraph (1)(B), implement the most current version of the “Healthy Brain Initiative: Public Health Road Map” of the Centers for Disease Control and Prevention and evaluate its implementation.
->   - **(5)** *Matching requirement*
->     - **(A)** *In general* Except as may be provided in subparagraph (B), each health department that is awarded a cooperative agreement under paragraph (1) shall provide, from non-Federal sources, an amount equal to 15 percent of the amount provided under such agreement (which may be provided in cash or in-kind) to carry out the activities supported by the cooperative agreement.
->     - **(B)** *Waiver authority* The Secretary may waive all or part of the matching requirement described in subparagraph (A) for any fiscal year for—
->       - **(i)** a health department, if the Secretary determines that applying such matching requirement to the health department would result in serious hardship or an inability to carry out the purposes of the cooperative agreement awarded to such health department; or
->       - **(ii)** a rural or frontier region.
-> - **(e)** *Cooperative agreements for analysis and reporting of data regarding cognitive decline and caregiving*
->   - **(1)** *In general* The Secretary may award cooperative agreements to eligible entities for the following activities:
->     - **(A)** The analysis and timely public reporting of data on the State and national levels regarding cognitive decline, including Alzheimer’s disease, caregiving, and health disparities experienced by individuals with cognitive decline and their caregivers.
->     - **(B)** The monitoring of objectives on dementia, including Alzheimer’s disease, and caregiving in the program of the Secretary regarding health-status goals for 2020 (commonly referred to as the “Healthy People 2020 report”), and the development and monitoring of such objectives in future Healthy People reports of the Department of Health and Human Services.
->   - **(2)** *Eligibility* To be eligible to receive a cooperative agreement under this subsection, an entity shall be a public or nonprofit private entity, including institutions of higher education, and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
->   - **(3)** *Surveillance* The analysis, timely public reporting, and dissemination of data regarding cognitive decline, cognitive impairment, care­giv­ing, and health disparities on the State and national levels under a cooperative agreement under this subsection may be carried out by eligible entities using data sources such as the following:
->     - **(A)** The Behavioral Risk Factor Surveillance System.
->     - **(B)** The National Health and Nutrition Examination Survey.
->     - **(C)** The National Health Interview Survey.
-> - **(f)** *Data collection* The Secretary shall collect data on cognitive decline, cognitive impairment, care­giv­ing, and health disparities on the State and national levels, using the surveillance systems described in subparagraphs (A) through (C) of subsection (e)(3).
-> - **(g)** *Nonduplication of effort* The Secretary shall ensure that activities under any cooperative agreement awarded under this section do not unnecessarily duplicate efforts of other agencies and offices within the Department of Health and Human Services related to—
->   - **(1)** activities of centers of excellence in public health practice with respect to Alzheimer’s disease described in subsection (c);
->   - **(2)** activities of public health departments with respect to Alzheimer’s disease described in subsection (d); or
->   - **(3)** the analysis and public reporting of surveillance data on cognitive decline, caregiving, and health disparities of individuals with Alzheimer’s disease under subsection (e).
-> - **(h)** *Authorization of appropriations* For each of fiscal years 2018 through 2025, there are authorized to be appropriated $12,000,000 for purposes of carrying out subsection (c), $20,000,000 for purposes of carrying out subsection (d), and $5,000,000 for purposes of carrying out subsections (e) and (f). Funds appropriated under this subsection shall remain available until expended.
+- **(1)** in the section heading, by striking “Establishment of program” and inserting “Cooperative agreements to States and public health departments for Alzheimer’s disease and related dementias”;
+- **(2)** by striking subsection (a) and inserting the following:
+  > - **(a)** *In general* The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and the heads of other agencies, as appropriate, shall award cooperative agreements to health departments of States, political subdivisions of States, and Indian tribes and tribal organizations, to address Alzheimer’s disease and related dementias, including by reducing cognitive decline, helping meet the needs of caregivers, and addressing unique aspects of Alzheimer’s disease and related dementias to support the development and implementation of evidence-based interventions with respect to—
+  >   - **(1)** educating and informing the public, based on evidence-based public health research and data, about Alzheimer’s disease and related dementias;
+  >   - **(2)** supporting early detection and diagnosis;
+  >   - **(3)** reducing the risk of potentially avoidable hospitalizations for individuals with Alzheimer’s disease and related dementias;
+  >   - **(4)** reducing the risk of cognitive decline and cognitive impairment associated with Alzheimer’s disease and related dementias;
+  >   - **(5)** improving support to meet the needs of caregivers of individuals with Alzheimer’s disease and related dementias;
+  >   - **(6)** supporting care planning and management for individuals with Alzheimer’s disease and related dementias.
+  >   - **(7)** supporting other relevant activities identified by the Secretary or the Director of the Centers for Disease Control and Prevention, as appropriate
+
+- **(3)** by striking subsection (b);
+- **(4)** by redesignating subsection (c) as subsection (g);
+- **(5)** by inserting after subsection (a), the following:
+  > - **(b)** *Preference* In awarding cooperative agreements under this section, the Secretary shall give preference to applications that focus on addressing health disparities, including populations and geographic areas that have the highest prevalence of Alzheimer’s disease and related dementias.
+  > - **(c)** *Eligibility* To be eligible to receive a cooperative agreement under this section, an eligible entity (pursuant to subsection (a)) shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
+  >   - **(1)** how the applicant proposes to develop or expand, programs to educate individuals through partnership engagement, workforce development, guidance and support for programmatic efforts, and evaluation with respect to Alzheimer’s disease and related dementias, and in the case of a cooperative agreement under this section, how the applicant proposes to support other relevant activities identified by the Secretary or Director of the Centers for Disease Control and Prevention, as appropriate.
+  >   - **(2)** the manner in which the applicant will coordinate with Federal, tribal, and State programs related to Alzheimer’s disease and related dementias, and appropriate State, tribal, and local agencies, as well as other relevant public and private organizations or agencies; and
+  >   - **(3)** the manner in which the applicant will evaluate the effectiveness of any program carried out under the cooperative agreement.
+  > - **(d)** *Matching requirement* Each health department that is awarded a cooperative agreement under subsection (a) shall provide, from non-Federal sources, an amount equal to 30 percent of the amount provided under such agreement (which may be provided in cash or in-kind) to carry out the activities supported by the cooperative agreement.
+  > - **(e)** *Waiver authority* The Secretary may waive all or part of the matching requirement described in subsection (d) for any fiscal year for a health department of a State, political subdivision of a State, or Indian tribe and tribal organization (including those located in a rural area or frontier area), if the Secretary determines that applying such matching requirement would result in serious hardship or an inability to carry out the purposes of the cooperative agreement awarded to such health department of a State, political subdivision of a State, or Indian tribe and tribal organization.
+
+- **(6)** in subsection (f) (as so redesignated), by striking “grant” and inserting “cooperative agreement”; and
+- **(7)** by adding at the end the following:
+  > - **(f)** *Non-duplication of effort* The Secretary shall ensure that activities under any cooperative agreement awarded under this subpart do not unnecessarily duplicate efforts of other agencies and offices within the Department of Health and Human Services related to—
+  >   - **(1)** activities of centers of excellence with respect to Alzheimer’s disease and related dementias described in section 398A; and
+  >   - **(2)** activities of public health departments with respect to Alzheimer’s disease and related dementias described in this section.
+
+## § 4. Additional provisions
+
+Section 398B of the Public Health Service Act (42 U.S.C. 280c–5) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by inserting “or cooperative agreement” after “grant” each place that such appears;
+  - **(B)** by striking “section 398(a) to a State unless the State” and inserting “sections 398 or 398A to an entity unless the entity”; and
+  - **(C)** by striking “10” and inserting “5”;
+- **(2)** by striking subsection (b);
+- **(3)** by redesignating subsections (c) and (d) as subsections (b) and (c), respectively;
+- **(4)** in subsection (b) (as so redesignated)—
+  - **(A)** in the matter preceding paragraph (1), by striking “section 398(a) to a State unless the State” and inserting “sections 398 or 398A to an entity unless the entity”;
+  - **(B)** in paragraph (1), by striking “expenditures required in subsection (b);” and inserting “expenditures;”;
+- **(5)** in subsection (c) (as so redesignated)—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “each demonstration project for which a grant” and inserting “the activities for which an award”; and
+    - **(ii)** by striking “section 398(a)” and inserting “sections 398 or 398A”; and
+  - **(B)** in paragraph (2), by striking “6 months” and inserting “1 year”;
+- **(6)** by inserting after subsection (c) (as so redesignated), the following:
+  > - **(d)** *Definition* In this subpart, the terms ‘Indian tribe’ and ‘tribal organization’ have the meanings given such terms in section 4 of the Indian Health Care Improvement Act.
+
+- **(7)** in subsection (e), by striking “$5,000,000 for each of the fiscal years 1988 through 1990” and all that follows through “2002” and inserting “$20,000,000 for each of fiscal years 2020 through 2024”.
