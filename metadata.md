@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 596
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 596
@@ -29,3 +29,8 @@ A resolution recognizing the 29th anniversary of the Tribal Canoe Journey of the
 
 - 2018-07-26 — Introduced in Senate
 - 2018-07-26 — Referred to the Committee on Indian Affairs. (text of measure as introduced: CR S5428)
+- 2018-11-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2018-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-12-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2018-12-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7528)
+- 2018-12-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7528)
