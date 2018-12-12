@@ -1,7 +1,7 @@
 ---
 measure: S. 2736
 congress: 115
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2736
@@ -51,3 +51,12 @@ Asia Reassurance Initiative Act of 2018
 - 2018-12-04 — Senate amendment proposed (on the floor): Amendment SA 4068 proposed by Senator McConnell for Senator Gardner.(consideration: CR S7284-7285; text: CR S7284-7285)
 - 2018-12-04 — Senate amendment submitted
 - 2018-12-04 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S7278-7284)
+- 2018-12-06 — Held at the desk.
+- 2018-12-06 — Message on Senate action sent to the House.
+- 2018-12-06 — Received in the House.
+- 2018-12-12 — Considered under suspension of the rules. (consideration: CR H10130-10138)
+- 2018-12-12 — DEBATE - The House proceeded with forty minutes of debate on S. 2736.
+- 2018-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-12 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
+- 2018-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10130-10136)
+- 2018-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10130-10136)

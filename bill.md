@@ -2,12 +2,14 @@
 legis-num: S. 2736
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2736
 
-> To develop a long-term strategic vision and a comprehensive, multifaceted, and principled United States policy for the Indo-Pacific region, and for other purposes.
+That the bill from the Senate (S. 2736) entitled “An Act to develop a long-term strategic vision and a comprehensive, multifaceted, and principled United States policy for the Indo-Pacific region, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; table of contents
 
