@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 7266
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7266
+
+> To require the Secretary of Health and Human Services to consider the Margaret R. Pardee Memorial Hospital as a covered entity for purposes of the 340B drug discount program.
+
+## § 1. Consideration of Margaret R. Pardee Memorial Hospital as covered entity for purposes of 340B drug discount program
+
+Notwithstanding the definition of a “covered entity” under paragraph (4) of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), the Secretary of Health and Human Services shall consider the Margaret R. Pardee Memorial Hospital located in Hendersonville, North Carolina, as a covered entity under such paragraph for purposes of allowing the Margaret R. Pardee Memorial Hospital to participate in the drug discount program under such section 340B.
