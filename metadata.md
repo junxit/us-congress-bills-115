@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6615
 congress: 115
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6615
@@ -40,3 +40,4 @@ Traumatic Brain Injury Program Reauthorization Act of 2018
 - 2018-12-11 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10057)
 - 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10057)
+- 2018-12-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 730.
