@@ -1,7 +1,7 @@
 ---
 measure: S. 1580
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1580
@@ -49,3 +49,5 @@ Protecting Girls' Access to Education in Vulnerable Settings Act
 - 2018-07-26 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-07-26 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
+- 2018-12-12 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7524; text: CR S7524)
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7524; text: CR S7524)

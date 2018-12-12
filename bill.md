@@ -17,11 +17,11 @@ This Act may be cited as the “Protecting Girls’ Access to Education in Vulne
 
 Congress finds the following:
 
-- **(1)** At the start of 2017, more than 65,000,000 people have been displaced by disasters and conflicts around the world, the highest number recorded since the end of World War II, of which more than 21,000,000 people are refugees.
-- **(2)** More than half of the population of displaced people are children and, according to the United Nations High Commissioner for Refugees, nearly 4,000,000 school-aged displaced children lack access to primary education.
-- **(3)** Education offers socioeconomic opportunities, psychological stability, and physical protection for displaced people, particularly for women and girls, who might otherwise be vulnerable to severe forms of trafficking in persons (as such term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9))), child marriage, sexual exploitation, or economic disenfranchisement, and contributes to long-term recovery and economic opportunities for displaced people and for the communities hosting them.
-- **(4)** Displaced children face considerable barriers to accessing educational services and, because the duration of such displacement is, on average, 20 years, such children may spend the entirety of their childhood without access to such services.
-- **(5)** Despite the rising need for such services, less than two percent of global emergency aid was directed toward educational services in 2016.
+- **(1)** As of June 2018, more than 68,000,000 people have been displaced by disasters and conflicts around the world, the highest number recorded since the end of World War II, of which more than 25,000,000 people are refugees.
+- **(2)** More than half of the population of refugees are children and, according to the United Nations High Commissioner for Refugees, nearly 4,000,000 school-aged refugee children lack access to primary education.
+- **(3)** Education offers socioeconomic opportunities, psychological stability, and physical protection for displaced people, particularly for women and girls, who might otherwise be vulnerable to severe forms of trafficking in persons (as such term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)), child marriage, sexual exploitation, or economic disenfranchisement.
+- **(4)** Displaced children face considerable barriers to accessing educational services and, because the duration of such displacement is, on average, 26 years, such children may spend the entirety of their childhood without access to such services.
+- **(5)** Despite the rising need for educational services, as of 2016, less than two percent of humanitarian aid was directed toward educational services.
 
 ## § 3. Sense of Congress
 
@@ -35,11 +35,10 @@ It is the sense of Congress that—
 It is the policy of the United States to—
 
 - **(1)** partner with and encourage other countries, public and private multilateral institutions, and nongovernmental and civil society organizations, including faith-based organizations and organizations representing parents and children, to support efforts to ensure that displaced children have access to safe primary and secondary education;
-- **(2)** work with donors to enhance training and capacity-building for the governments of countries hosting significant numbers of displaced people to design, implement, and monitor programs to effectively address barriers to such education;
-- **(3)** incorporate into the design and implementation of such programs measures to evaluate the impact of the programs on girls, with respect to the reduction of child marriage, gender-based violence, and severe forms of trafficking in persons (as such term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9))); and
-- **(4)** coordinate with the governments of countries hosting significant numbers of displaced people to—
+- **(2)** work with donors to enhance training and capacity-building for the governments of countries hosting significant numbers of displaced people to design, implement, and monitor programs to effectively address barriers to such education; and
+- **(3)** coordinate with the governments of countries hosting significant numbers of displaced people to—
   - **(A)** promote the inclusion of displaced children into the educational systems of such countries; and
-  - **(B)** develop innovative approaches to providing safe primary and secondary educational opportunities in circumstances in which such inclusion is not possible or appropriate, such as schools that permit more children to be educated by extending the hours of schooling and expanding the number of teachers.
+  - **(B)** in circumstances in which such inclusion is difficult, develop innovative approaches to providing safe primary and secondary educational opportunities, such as encouraging schools to permit children to be educated by extending the hours of schooling or expanding the number of teachers.
 
 ## § 5. United States assistance to support educational services for displaced children
 
@@ -52,8 +51,4 @@ It is the policy of the United States to—
 
 ## § 6. Report
 
-During the five-year period beginning on the date of the enactment of this Act, the Secretary and the Administrator shall include in any report or evaluation submitted to Congress relating to a foreign assistance program for natural or manmade disaster relief or response the following information (to the extent practicable and appropriate):
-
-- **(1)** A breakdown of the beneficiaries of such program by location, age, gender, marital status, and school enrollment status.
-- **(2)** A description of how such program benefits displaced people.
-- **(3)** A description of any primary or secondary educational services supported by such program that specifically address the needs of displaced girls.
+The Secretary and the Administrator shall include in the report required under section 7 of the READ Act (division A of Public Law 115–56; 22 U.S.C. 2151c note) a description of any primary or secondary educational services supported by programs for natural or manmade disaster relief or response that specifically address the needs of displaced girls.
