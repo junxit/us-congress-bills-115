@@ -28,10 +28,11 @@ Section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
   - **(D)** by adding at the end the following: “The dollar figures in this paragraph shall be indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounded to the nearest $100,000.”; and
 - **(2)** by adding at the end the following:
   > - **(7)** *Report by universal service support mechanism recipients*
-  >   - **(A)** *In general* The Commission shall issue regulations to establish a financial summary form that may be filed by an issuer that—
+  >   - **(A)** *In general* The Commission shall issue regulations to establish a financial summary form that may be annually filed by an issuer that—
   >     - **(i)** during its previous fiscal year, received support, directly or through an affiliate, through any Federal universal service support mechanism established under section 254 of the Communications Act of 1934; and
   >     - **(ii)** has a class of equity security held of record by 500 or more persons who are not accredited investors, but less than 1,250 persons who are not accredited investors.
   >   - **(B)** *Contents* The form described under subparagraph (A) shall include a summary of the consolidated balance sheet and the consolidated income statement of the issuer, and such other information as the Commission determines is necessary and appropriate in the public interest and for the protection of investors.
+  >   - **(C)** *Public availability of forms* The Commission shall make financial summary forms filed under this paragraph available to the public, including on the website of the Commission.
 
 ## § 3. SEC Study
 
