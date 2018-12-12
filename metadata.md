@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6130
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6130
@@ -25,3 +25,8 @@ Helping Startups Continue to Grow Act
 - 2018-06-15 — Introduced in House
 - 2018-06-15 — Introduced in House
 - 2018-06-15 — Referred to the House Committee on Financial Services.
+- 2018-06-21 — Committee Consideration and Mark-up Session Held.
+- 2018-06-21 — Ordered to be Reported by the Yeas and Nays: 32 - 23.
+- 2018-12-12 — Placed on the Union Calendar, Calendar No. 835.
+- 2018-12-12 — Reported by the Committee on Financial Services. H. Rept. 115-1076.
+- 2018-12-12 — Reported by the Committee on Financial Services. H. Rept. 115-1076.
