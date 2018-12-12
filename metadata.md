@@ -1,7 +1,7 @@
 ---
 measure: S. 2076
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2076
@@ -16,7 +16,7 @@ BOLD Infrastructure for Alzheimer's Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (55)
+## Cosponsors (57)
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -73,6 +73,8 @@ BOLD Infrastructure for Alzheimer's Act
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -86,3 +88,12 @@ BOLD Infrastructure for Alzheimer's Act
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-11-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.
+- 2018-12-12 — Amendment SA 4104 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Amendment SA 4104 proposed by Senator Gardner for Senator Collins. (consideration: CR S7527; text: CR S7527) To clarify provisions relating to waivers.
+- 2018-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7526-7527)
+- 2018-12-12 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-12 — Senate amendment agreed to: Amendment SA 4104 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Senate amendment proposed (on the floor): Amendment SA 4104 proposed by Senator Gardner for Senator Collins.(consideration: CR S7527; text: CR S7527)
+- 2018-12-12 — Senate amendment submitted
+- 2018-12-12 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S7526-7527)
