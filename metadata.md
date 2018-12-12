@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1318
@@ -227,3 +227,4 @@ Preventing Maternal Deaths Act of 2018
 - 2018-12-11 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2018-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10058-10060)
 - 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10058-10060)
+- 2018-12-12 — Received in the Senate, read twice.
