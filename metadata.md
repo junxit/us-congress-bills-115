@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6140
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6140
@@ -21,9 +21,10 @@ Advanced Nuclear Fuel Availability Act
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Advanced Nuclear Fuel Availability Act
 - 2018-12-11 — Mr. Flores moved to suspend the rules and pass the bill, as amended.
 - 2018-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10041-10042)
 - 2018-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10041-10042)
+- 2018-12-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
