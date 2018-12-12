@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1222
@@ -16,7 +16,7 @@ Congenital Heart Futures Reauthorization Act of 2017
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 - Rep. Abraham, Ralph Lee [R-LA-5] (A000374)
@@ -46,6 +46,7 @@ Congenital Heart Futures Reauthorization Act of 2017
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Sen. Young, Todd [R-IN] (Y000064)
 
 ## Committees (2)
 
@@ -82,3 +83,12 @@ Congenital Heart Futures Reauthorization Act of 2017
 - 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-08-15 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2018-08-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
+- 2018-12-12 — Amendment SA 4103 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Amendment SA 4103 proposed by Senator Gardner for Senator Durbin. (consideration: CR S7525; text: CR S7525) In the nature of a substitute.
+- 2018-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7524-7525)
+- 2018-12-12 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-12 — Senate amendment agreed to: Amendment SA 4103 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Senate amendment proposed (on the floor): Amendment SA 4103 proposed by Senator Gardner for Senator Durbin.(consideration: CR S7525; text: CR S7525)
+- 2018-12-12 — Senate amendment submitted
+- 2018-12-12 — The committee substitute withdrawn by Unanimous Consent. (CR S7525)
