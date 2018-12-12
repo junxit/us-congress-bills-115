@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 64
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 64
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (34)
+## Cosponsors (41)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. McCaskill, Claire [D-MO] (M001170)
@@ -52,6 +52,13 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -64,3 +71,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2018-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 630.
 - 2018-10-11 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2018-10-11 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2018-12-11 — Measure laid before Senate by motion.
+- 2018-12-11 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2018-12-12 — Considered by Senate. (consideration: CR S7458-7474)
+- 2018-12-12 — Held at the desk.
+- 2018-12-12 — Message on Senate action sent to the House.
+- 2018-12-12 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 260.
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 260.
+- 2018-12-12 — Received in the House.
