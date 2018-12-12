@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 7278
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7278
+
+> To amend the Employee Retirement Income Security Act of 1974.
+
+## § 1. Application of ERISA to insurance company general accounts and general account contracts
+
+- **(a)** Section 3 of the Employee Retirement Income Security Act of 1974 is amended—
+  - **(1)** by adding the phrase “or (C)” after the phrase “subparagraph (B)” in subparagraph (A) to subsection (21); and
+  - **(2)** by adding the following new subparagraph (C) to subsection (21):
+    > - **(C)** If any money or other property of an employee benefit plan is contributed to a general account policy (as defined in section 401 (b)(2)(B)), such insurer shall not be deemed to be a fiduciary or a party in interest as those terms are defined in this subchapter, respectively, by reason of such contribution or the insurer’s issuance or administration of such general account policy, the insurer’s exercise of contractual rights or discharge of its contractual obligations under such general account policy, or the management of the insurer’s general account, except insofar as such insurer directs the contribution on behalf of an employee benefit plan covering employees of the insurer. Nothing contained in this subparagraph shall limit the duties imposed on such insurer by any other law.
+
+- **(b)** Section 401 of the Employee Retirement Income Security Act of 1974 is amended—
+  - **(1)** by deleting paragraph (2) of subsection (b); and
+  - **(2)** by adding the following new paragraph (2) to subsection (b):
+    > - **(2)** In the case of a plan which contributes to a general account policy, the assets of such plan shall be deemed to include the insurance promises and guarantees granted there under to the policyholder, subject to any reserved rights of the insurer, but shall not be deemed to include the general account policy, any contractual rights reserved to the insurer under such policy or any other assets of the insurer, For purposes of this paragraph:
+    >   - **(A)** The term “insurer” means an insurance company, insurance service, or insurance organization, qualified to do business in a State.
+    >   - **(B)** The term “general account policy” means an insurance policy or contract to the extent that such policy or contract allocates amounts to the insurer’s general account including any surplus in a separate account but excluding any other portion of a separate account.
+
+  - **(3)** by deleting subsection (c).
+- **(c)** *Effective date* The amendments made by this section shall apply effective as of January 1, 1975.
