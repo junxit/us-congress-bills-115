@@ -1,7 +1,7 @@
 ---
 measure: S. 1158
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1158
@@ -16,7 +16,7 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (32)
+## Cosponsors (34)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -50,6 +50,8 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
 
 ## Committees (1)
 
@@ -63,3 +65,12 @@ Elie Wiesel Genocide and Atrocities Prevention Act of 2018
 - 2018-06-27 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-06-27 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
+- 2018-12-12 — Amendment SA 4102 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Amendment SA 4102 proposed by Senator Gardner for Senator Cardin. (consideration: CR S7523-7524; text: CR S7523) To make technical corrections.
+- 2018-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7522-7524)
+- 2018-12-12 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-12 — Senate amendment agreed to: Amendment SA 4102 agreed to in Senate by Unanimous Consent.
+- 2018-12-12 — Senate amendment proposed (on the floor): Amendment SA 4102 proposed by Senator Gardner for Senator Cardin.(consideration: CR S7523-7524; text: CR S7523)
+- 2018-12-12 — Senate amendment submitted
+- 2018-12-12 — The committee substitute withdrawn by Unanimous Consent. (CR S7522)
