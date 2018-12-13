@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6227
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6227
@@ -16,7 +16,7 @@ National Quantum Initiative Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (36)
+## Cosponsors (37)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Comstock, Barbara [R-VA-10] (C001105)
@@ -54,6 +54,7 @@ National Quantum Initiative Act
 - Rep. Cartwright, Matt [D-PA-17] (C001090)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (2)
 
@@ -77,3 +78,13 @@ National Quantum Initiative Act
 - 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
 - 2018-09-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-950.
 - 2018-09-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-12-13 — Amendment SA 4114 agreed to in Senate by Unanimous Consent.
+- 2018-12-13 — Amendment SA 4114 proposed by Senator McConnell for Senator Thune. In the nature of a substitute.
+- 2018-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S7625)
+- 2018-12-13 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-12-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-12-13 — Senate amendment agreed to: Amendment SA 4114 agreed to in Senate by Unanimous Consent.
+- 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4114 proposed by Senator McConnell for Senator Thune.
+- 2018-12-13 — Senate amendment submitted
