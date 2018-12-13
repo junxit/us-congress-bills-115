@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6227
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6227
@@ -61,6 +61,10 @@ National Quantum Initiative Act
 - House — Science, Space, and Technology Committee
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2018-12-19 — [House 115-2-442](votes/house-115-2-0442.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (348–11)
+
 ## Actions
 
 - 2018-06-26 — Introduced in House
@@ -88,3 +92,16 @@ National Quantum Initiative Act
 - 2018-12-13 — Senate amendment agreed to: Amendment SA 4114 agreed to in Senate by Unanimous Consent.
 - 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4114 proposed by Senator McConnell for Senator Thune.
 - 2018-12-13 — Senate amendment submitted
+- 2018-12-17 — Message on Senate action sent to the House.
+- 2018-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6227.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10297-10302, H10317-10318)
+- 2018-12-19 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 348 - 11 (Roll no. 442). (text: CR H10298-10300)
+- 2018-12-19 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 348 - 11 (Roll no. 442).(text: CR H10298-10300)
+- 2018-12-21 — Became Public Law No: 115-368.
+- 2018-12-21 — Became Public Law No: 115-368.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
