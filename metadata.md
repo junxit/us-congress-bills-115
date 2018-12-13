@@ -1,7 +1,7 @@
 ---
 measure: H.R. 887
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 887
@@ -20,9 +20,10 @@ To amend the Immigration and Nationality Act to extend honorary citizenship to o
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend the Immigration and Nationality Act to extend honorary citizenship to o
 - 2018-12-12 — Mr. Goodlatte asked unanimous consent to discharge from committee and consider.
 - 2018-12-12 — On passage Passed without objection. (text: CR H10152-10153)
 - 2018-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10152-10153)
+- 2018-12-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
