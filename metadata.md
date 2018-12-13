@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6219
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6219
@@ -26,11 +26,12 @@ Georgia Support Act
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Georgia Support Act
 - 2018-12-12 — Ms. Ros-Lehtinen asked unanimous consent to discharge from committee and consider.
 - 2018-12-12 — On passage Passed without objection. (text: CR H10140-10141)
 - 2018-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10140-10141)
+- 2018-12-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
