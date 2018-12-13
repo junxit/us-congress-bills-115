@@ -1,7 +1,7 @@
 ---
 measure: S. 3749
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3749
@@ -34,3 +34,9 @@ Congressional Accountability Act of 1995 Reform Act
 - 2018-12-13 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10192-10200)
 - 2018-12-13 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7540-7548; text: CR S7540-7548)
 - 2018-12-13 — Received in the House.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-21 — Became Public Law No: 115-397.
+- 2018-12-21 — Became Public Law No: 115-397.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
