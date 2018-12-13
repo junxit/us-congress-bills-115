@@ -23,17 +23,17 @@ This Act may be cited as the “Leech Lake Band of Ojibwe Reservation Restoratio
       - **(i)** advised that sales described in subparagraph (B) were illegal; and
       - **(ii)** ordered to cease conducting those sales;
   - **(2)** as a result of the Federal land described in subsection (b)(1) being taken from members of the Leech Lake Band of Ojibwe, the Leech Lake Band of Ojibwe hold the smallest percentage of its original reservation lands of any Ojibwe bands in Minnesota;
-  - **(2)(3)**
+  - **(3)**
     - **(A)** the applicable statute of limitations prohibits individuals from pursuing through litigation the return of the land taken as described in paragraph (1); but
     - **(B)** a Federal judge ruled that the land could be restored to the affected individuals through the legislative process;
-  - **(3)(4)** a comprehensive review of the Federal land demonstrated that—
-    - **(A)** a large portion of the Federal land is overloaded witha portion of the Federal land is encumbered by—
+  - **(4)** a comprehensive review of the Federal land demonstrated that—
+    - **(A)** a portion of the Federal land is encumbered by—
       - **(i)** utility easements;
       - **(ii)** rights-of-way for roads; and
       - **(iii)** flowage and reservoir rights; and
     - **(B)** there are no known cabins, campgrounds, lodges, or resorts located on any portion of the Federal land; and
-  - **(4)(5)** on reacquisition by the Tribe of the Federal land, the Tribe—
-    - **(A)** has pledged to respect the easements, rights-of-way, and other rights described in paragraph (3)(4)(A); and
+  - **(5)** on reacquisition by the Tribe of the Federal land, the Tribe—
+    - **(A)** has pledged to respect the easements, rights-of-way, and other rights described in paragraph (4)(A); and
     - **(B)**
       - **(i)** does not intend immediately to modify the use of the Federal land; but
       - **(ii)** will keep the Federal land in tax-exempt fee status as part of the Chippewa National Forest until the Tribe develops a plan that allows for a gradual subdivision of some tracts for economic and residential development by the Tribe.

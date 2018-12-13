@@ -1,7 +1,7 @@
 ---
 measure: S. 2599
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2599
@@ -33,3 +33,5 @@ Leech Lake Band of Ojibwe Reservation Restoration Act
 - 2018-11-28 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments. With written report No. 115-396.
 - 2018-11-28 — Committee on Indian Affairs. Reported by Senator Hoeven with amendments. With written report No. 115-396.
 - 2018-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.
+- 2018-12-13 — Passed Senate with amendments by Voice Vote. (consideration: CR S7576-7577; text: CR S7577)
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(consideration: CR S7576-7577; text: CR S7577)
