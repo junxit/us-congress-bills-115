@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6227
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6227
 
-That the bill from the House of Representatives (H.R. 6227) entitled “An Act to provide for a coordinated Federal program to accelerate quantum research and development for the economic and national security of the United States.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for a coordinated Federal program to accelerate quantum research and development for the economic and national security of the United States.
 
 ## § 1. Short title; table of contents
 
