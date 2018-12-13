@@ -24,4 +24,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress
 
-Pursuant to section 1013 of the Department of State Authorization Act, Fiscal Years 1984 and 1985 (50 U.S.C. 1546a) and in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 (Public Law 94–329; 90 Stat. 765), Congress hereby directs the President to remove United States Armed Forces from hostilities in or affecting the Republic of Yemen, except United States Armed Forces engaged in operations directed at al Qaeda or associated forces, by not later than the date that is 30 days after the date of the adoption of this joint resolution (unless the President requests and Congress authorizes a later date), and unless and until a declaration of war or specific authorization for such use of United States Armed Forces has been enacted.
+Pursuant to section 1013 of the Department of State Authorization Act, Fiscal Years 1984 and 1985 (50 U.S.C. 1546a) and in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 (Public Law 94–329; 90 Stat. 765), Congress hereby directs the President to remove United States Armed Forces from hostilities in or affecting the Republic of Yemen, except United States Armed Forces engaged in operations directed at al Qaeda or associated forces, by not later than the date that is 30 days after the date of the adoption of this joint resolution (unless the President requests and Congress authorizes a later date), and unless and until a declaration of war or specific authorization for such use of United States Armed Forces has been enacted. For purposes of this resolution, in this section, the term hostilities includes in-flight refueling of non-United States aircraft conducting missions as part of the ongoing civil war in Yemen.
+
+## § 2. Rule of construction regarding continued Military Operations and Cooperation with Israel
+
+Nothing in this joint resolution shall be construed to influence or disrupt any military operations and cooperation with Israel.
+
+## § 3. Report on risks posed by ceasing Saudi Arabia support operations
+
+Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the risks posed to United States citizens and the civilian population of the Kingdom of Saudi Arabia and the risk of regional humanitarian crises if the United States were to cease support operations with respect to the conflict between the Saudi-led coalition and the Houthis in Yemen.
+
+## § 4. Report on increased risk of terrorist attacks to United States forces abroad, allies, and the continental United States if Saudi Arabia ceases Yemen-related intelligence sharing with the United States
+
+Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the increased risk of terrorist attacks on United States Armed Forces abroad, allies, and to the continental United States if the Government of Saudi Arabia were to cease Yemen-related intelligence sharing with the United States.
