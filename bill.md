@@ -1,17 +1,59 @@
 ---
 legis-num: H.R. 2606
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2606
 
-That the bill from the House of Representatives (H.R. 2606) entitled “An Act to amend the Act of August 4, 1947 (commonly known as the Stigler Act), with respect to restrictions applicable to Indians of the Five Civilized Tribes of Oklahoma, and for other purposes.”, do pass with the following
+> To amend the Act of August 4, 1947 (commonly known as the Stigler Act), with respect to restrictions applicable to Indians of the Five Civilized Tribes of Oklahoma, and for other purposes.
 
-*(1)On page 3, line 12, strike , as of said date, and insert: , as of the date of enactment of the Stigler Act Amendments of 2018,*
+## § 1. Short title
 
-*(2)At the end of the bill, add the following:*
+This Act may be cited as the “Stigler Act Amendments of 2018”.
+
+## § 2. In general
+
+The first section of the Act of August 4, 1947 (61 Stat. 731, chapter 458), is amended—
+
+- **(1)** in the matter before subsection (a), by striking “That all restrictions” and all that follows through subsection (a) and inserting the following:
+  > ## § 1.
+  >
+  > - **(a)** All restrictions against alienation, conveyance, lease, mortgage, creation of liens, or other encumbrances upon all lands, including oil and gas or other mineral interests, in Oklahoma belonging to a lineal descendant by blood of an original enrollee whose name appears on the Final Indian Rolls of the Five Civilized Tribes in Indian Territory, whether acquired by allotment, inheritance, devise, gift, purchase, exchange, partition, partition sale, or by purchase with restricted funds, of whatever degree of Indian blood, and whether enrolled or unenrolled, shall be and are hereby, extended until an Act of Congress determines otherwise.
+  > - **(b)** The extension of restrictions described in subsection (a) shall include without limitation, those interests in the estate of a decedent Indian who died before the date of enactment of the Stigler Act Amendments of 2018—
+  >   - **(1)** if such interests were acquired by an heir or devisee of one-half or more degree of Indian blood, as computed from the nearest enrolled lineal ancestors of Indian blood enrolled on the Final Rolls described in subsection (a), by final order issued by an Oklahoma district court or a United States district court determining the decedent’s heirs or devisees or otherwise determining the ownership of said interests before said date; or
+  >   - **(2)** if such interests were, immediately prior to the decedent’s death, subject to restrictions and had not, as of the date of enactment of the Stigler Act Amendments of 2018, been—
+  >     - **(A)** the subject of a final order issued by an Oklahoma district court or a United States district court determining the decedent's heirs or devisees or otherwise determining the ownership of said interests;
+  >     - **(B)** conveyed by the decedent's undetermined heirs or devisees by deed approved by an Oklahoma district court; or
+  >     - **(C)** conveyed by the decedent's undetermined heirs or devisees of less than one-half degree of Indian blood with or without Oklahoma district court approval.
+  >
+  > ## § 2.
+  >
+  > - **(a)** Except as provided in subsection (f), subsection (g), subsection (h), and subsection (i), no conveyance, including an oil and gas or mineral lease, of any interest in the restricted lands described in this section shall be valid unless approved in open court by the district court of the county in Oklahoma in which the land is situated;
+
+- **(2)** in subsection (b)—
+  - **(A)** by striking “county judge” and inserting “district judge”; and
+  - **(B)** by striking “Proceedings for approval of conveyances by restricted heirs or devisees” and inserting “Proceedings for approval of conveyances”;
+- **(3)** in subsection (c), by striking “best interest of the Indian” and inserting “best interest of the grantor”; and
+- **(4)** by adding before the period at the end the following: “; (h) nothing contained in this section shall limit or affect the right of an Indian owner of restricted lands described in this Act to seek and obtain Secretarial removal of restrictions on all or any portion of said restricted lands in accordance with any applicable Federal law; (i) nothing contained in this section shall invalidate the alienation, conveyance, lease, including oil and gas or other mineral leases, mortgage, creation of liens, or other encumbrance of any lands, if such action was effective before the date of enactment of the Stigler Act Amendments of 2018 and valid under the law then in effect; and (j) in determining the quantum of Indian blood of any Indian heir or devisee, the Final Indian Rolls of the Five Civilized Tribes in Indian Territory as to such heir or devisee, if enrolled, shall be conclusive of his or her quantum of Indian blood. If unenrolled, his or her degree of Indian blood shall be computed from the nearest enrolled lineal ancestors of Indian blood enrolled on the Final Indian Rolls of the Five Civilized Tribes in Indian Territory”.
+
+## § 3. Technical amendments
+
+The Act of August 4, 1947 (61 Stat. 731, chapter 458), is amended—
+
+- **(1)** in section 5, by striking “of one-half or more Indian blood,”;
+- **(2)** in section 6(c)—
+  - **(A)** by inserting “purchase, partition sale,” after “gift,” each place it appears; and
+  - **(B)** by striking “of one-half or more Indian blood”; and
+- **(3)** in section 8, by striking “of one-half or more Indian blood,”.
+
+## § 4. Repeals
+
+The following are repealed:
+
+- **(1)** The first section of the Act of August 11, 1955 (69 Stat. 666, chapter 768).
+- **(2)** Section 2 of the Act of August 4, 1947 (61 Stat. 731, chapter 458).
 
 ## § 5. Rule of construction providing for no retroactivity
 
