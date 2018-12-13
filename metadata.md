@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 707
 congress: 115
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 707
@@ -48,3 +48,7 @@ A resolution commemorating the 40th Anniversary of the Indian Child Welfare Act 
 
 - 2018-11-27 — Introduced in Senate
 - 2018-11-27 — Referred to the Committee on Indian Affairs. (text of measure as introduced: CR S7135-7136)
+- 2018-12-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-12-13 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2018-12-13 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7578)
+- 2018-12-13 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7578)
