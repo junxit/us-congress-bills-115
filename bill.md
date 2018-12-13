@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1953
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Tribal Law and Order Reauthorization and Amendments Act of 2017”.
+- **(a)** *Short title* This Act may be cited as the “Tribal Law and Order Reauthorization and Amendments Act of 2018”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings
