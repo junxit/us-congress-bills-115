@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2606
@@ -27,6 +27,10 @@ Stigler Act Amendments of 2018
 
 - House — Natural Resources Committee
 - Senate — Indian Affairs Committee
+
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-471](votes/house-115-2-0471.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (399–0)
 
 ## Actions
 
@@ -61,3 +65,16 @@ Stigler Act Amendments of 2018
 - 2018-12-13 — Senate amendment agreed to: Amendment SA 4110 agreed to in Senate by Unanimous Consent.
 - 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4110 proposed by Senator Lankford.(consideration: CR S7576; text: CR S7576)
 - 2018-12-13 — Senate amendment submitted
+- 2018-12-17 — Message on Senate action sent to the House.
+- 2018-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McClintock objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2606.
+- 2018-12-19 — Mr. McClintock moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H10303-10305; text: CR H10303)
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by recorded vote (2/3 required): 399 - 0 (Roll no. 471). (consideration: CR H10484-10485)
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by recorded vote (2/3 required): 399 - 0 (Roll no. 471).(consideration: CR H10484-10485)
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-399.
+- 2018-12-31 — Became Public Law No: 115-399.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
