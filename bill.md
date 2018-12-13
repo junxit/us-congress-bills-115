@@ -21,21 +21,24 @@ Congress finds the following:
 
 ## § 2. Definitions
 
-Section 4 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5602) is amended—
+- **(a)** *In general* Section 4 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5602) is amended—
+  - **(1)** in paragraph (2), by striking “the Udall Center for Studies in Public Policy established at the University of Arizona in 1987” and inserting “the Udall Center for Studies in Public Policy established in 1987 at the University of Arizona, and includes the Native Nations Institute”;
+  - **(2)** by redesignating paragraphs (3) through (7), (8), and (9) as paragraphs (4) through (8), (11), and (12), respectively;
+  - **(3)** by inserting after paragraph (2) the following:
+    > - **(3)** the term collaboration means to work in partnership with other entities for the purpose of—
+    >   - **(A)** resolving disputes;
+    >   - **(B)** addressing issues that may cause or result in disputes; or
+    >   - **(C)** streamlining and enhancing Federal, State, or tribal environmental and natural resource decision-making processes or procedures that may result in a dispute or conflict;
 
-- **(1)** in paragraph (2), by striking “the Udall Center for Studies in Public Policy established at the University of Arizona in 1987” and inserting “the Udall Center for Studies in Public Policy established in 1987 at the University of Arizona, and includes the Native Nations Institute”;
-- **(2)** by redesignating paragraphs (3) through (7), (8), and (9) as paragraphs (4) through (8), (11), and (12), respectively;
-- **(3)** by inserting after paragraph (2) the following:
-  > - **(3)** the term collaboration means to work in partnership with other entities for the purpose of—
-  >   - **(A)** resolving disputes;
-  >   - **(B)** addressing issues that may cause or result in disputes; or
-  >   - **(C)** streamlining and enhancing Federal, State, or tribal environmental and natural resource decision-making processes or procedures that may result in a dispute or conflict;
+  - **(4)** in paragraph (7), as redesignated by paragraph (2)—
+    - **(A)** by striking “United States Institute for Environmental Conflict Resolution” and inserting “John S. McCain III United States Institute for Environmental Conflict Resolution”; and
+    - **(B)** by striking “section 7(a)(1)(D)” and inserting “section 7(a)(1)(B)”;
+  - **(5)** in paragraph (8), as redesignated by paragraph (2), by striking “section 1201(a)” and inserting “section 101(a)”; and
+  - **(6)** by inserting after paragraph (8), as redesignated by paragraph (2), the following:
+    > - **(9)** the term Nation's parks and wilderness means units of the National Park System and components of the National Wilderness Preservation System;
+    > - **(10)** the term Native Nations Institute means the Native Nations Institute for Leadership, Management, and Policy established at the University of Arizona in 2001;
 
-- **(4)** in paragraph (7), as redesignated by paragraph (2), by striking “section 7(a)(1)(D)” and inserting “section 7(a)(1)(B)”;
-- **(5)** in paragraph (8), as redesignated by paragraph (2), by striking “section 1201(a)” and inserting “section 101(a)”; and
-- **(6)** by inserting after paragraph (8), as redesignated by paragraph (2), the following:
-  > - **(9)** the term Nation's parks and wilderness means units of the National Park System and components of the National Wilderness Preservation System;
-  > - **(10)** the term Native Nations Institute means the Native Nations Institute for Leadership, Management, and Policy established at the University of Arizona in 2001;
+- **(b)** *Conforming amendment* Section 3(5)(B) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5601(5)(B)) is amended by striking “the United States Institute for Environmental Conflict Resolution” and inserting “the Institute”.
 
 ## § 3. Establishment of Morris K. Udall and Stewart L. Udall Foundation
 
@@ -45,12 +48,14 @@ Section 5(e) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.
 
 Section 6 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5604) is amended—
 
-- **(1)** in paragraph (4), by striking “establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center” and inserting “establish a program for environmental policy research at the Center and a program for environmental conflict resolution and training at the United States Institute for Environmental Conflict Resolution”;
+- **(1)** in paragraph (4), by striking “establish a Program for Environmental Policy Research and Environmental Conflict Resolution and Training at the Center” and inserting “establish a program for environmental policy research at the Center and a program for environmental conflict resolution and training at the John S. McCain III United States Institute for Environmental Conflict Resolution”;
 - **(2)** in paragraph (5), by inserting “, natural resource, conflict resolution,” after “environmental”;
 - **(3)** in paragraph (7)—
   - **(A)** by inserting “at the Native Nations Institute” after “develop resources”; and
   - **(B)** by inserting “providing education to and” after “policy, by”; and
-- **(4)** in paragraph (8), by striking “resolve environmental” and inserting “resolve environmental issues, conflicts, and”.
+- **(4)** in paragraph (8)—
+  - **(A)** by inserting “John S. McCain III” before “United States Institute for Environmental Conflict Resolution”; and
+  - **(B)** by striking “resolve environmental” and inserting “resolve environmental issues, conflicts, and”.
 
 ## § 5. Authority of the foundation
 
@@ -66,14 +71,17 @@ Section 7 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 
 
     - **(ii)** by redesignating subparagraph (D) as subparagraph (B); and
     - **(iii)** in subparagraph (B), as redesignated—
-      - **(I)** in clause (i)(II)—
-        - **(aa)** by inserting “collaboration,” after “mediation,”; and
-        - **(bb)** by striking “to resolve environmental disputes.” and inserting the following:
-          > to resolve—
-          > - **(aa)** environmental disputes; and
-          > - **(bb)** Federal, State, or tribal environmental or natural resource decision-making processes or procedures that may result in a dispute or conflict that may cause or result in disputes.
+      - **(I)** in the subparagraph heading, by striking “Institute for environmental conflict resolution” and inserting “John S. McCain III United States Institute for Environmental Conflict Resolution”;
+      - **(II)** in clause (i)—
+        - **(aa)** in subclause (I), by inserting “John S. McCain III” before “United States Institute for Environmental Conflict Resolution”; and
+        - **(bb)** in subclause (II)—
+          - **(AA)** by inserting “collaboration,” after “mediation,”; and
+          - **(BB)** by striking “to resolve environmental disputes.” and inserting the following:
+            > to resolve—
+            > - **(aa)** environmental disputes; and
+            > - **(bb)** Federal, State, or tribal environmental or natural resource decision-making processes or procedures that may result in a dispute or conflict that may cause or result in disputes.
 
-      - **(II)** in clause (ii), by inserting “collaboration,” after “mediation,”;
+      - **(III)** in clause (ii), by inserting “collaboration,” after “mediation,”;
   - **(B)** by striking paragraph (5);
   - **(C)** by redesignating paragraphs (6) and (7) as paragraphs (7) and (8), respectively;
   - **(D)** by inserting after paragraph (4) the following:
@@ -94,7 +102,7 @@ Section 7 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 
   >   - **(1)** *In general* The Foundation shall determine the priority of the programs to be carried out under this Act and the amount of funds to be allocated for such programs from the funds earned annually from the interest derived from the investment of the Trust Fund, subject to paragraph (2).
   >   - **(2)** *Limitations* In determining the amount of funds to be allocated for programs carried out under this Act for a year—
   >     - **(A)** not less than 50 percent of such annual interest earnings shall be utilized for the programs set forth in paragraphs (2), (3), (4), and (5) of subsection (a);
-  >     - **(B)** not more than 20 percent of such annual interest earnings shall be allocated for salaries and other administrative purposes; and
+  >     - **(B)** not more than 17.5 percent of such annual interest earnings shall be allocated for salaries and other administrative purposes; and
   >     - **(C)** not less than 20 percent of such annual interest earnings shall be appropriated to the Center for activities under paragraphs (7) and (8) of subsection (a).
 
 - **(3)** by adding at the end the following:
@@ -122,4 +130,8 @@ Section 12 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C.
 
 ## § 8. Authorization of appropriations
 
-Section 13(b) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5609(b)) is amended by striking “fiscal years 2004 through 2008” and inserting “fiscal years 2019 through 2024”.
+Section 13(b) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5609(b)) is amended by striking “fiscal years 2004 through 2008” and inserting “fiscal years 2019 through 2022”.
+
+## § 9. Audit of the Foundation
+
+Not later than 2 years after the date of enactment of this Act, the Inspector General of the Department of the Interior shall conduct an audit of the Morris K. Udall and Stewart L. Udall Foundation.
