@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2315
 congress: 115
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2315
@@ -317,9 +317,10 @@ To posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyro
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -340,3 +341,4 @@ To posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyro
 - 2018-12-12 — On passage Passed without objection. (text: CR H10155)
 - 2018-12-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10155)
 - 2018-12-12 — The title of the measure was amended. Agreed to without objection.
+- 2018-12-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
