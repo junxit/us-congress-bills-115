@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2606
@@ -16,11 +16,12 @@ Stigler Act Amendments of 2018
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Russell, Steve [R-OK-5] (R000604)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (2)
 
@@ -52,3 +53,11 @@ Stigler Act Amendments of 2018
 - 2018-11-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-398.
 - 2018-11-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-398.
 - 2018-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 698.
+- 2018-12-13 — Amendment SA 4110 agreed to in Senate by Unanimous Consent.
+- 2018-12-13 — Amendment SA 4110 proposed by Senator Lankford. (consideration: CR S7576; text: CR S7576) To clarify certain provisions.
+- 2018-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S7576)
+- 2018-12-13 — Passed Senate with amendments by Unanimous Consent.
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2018-12-13 — Senate amendment agreed to: Amendment SA 4110 agreed to in Senate by Unanimous Consent.
+- 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4110 proposed by Senator Lankford.(consideration: CR S7576; text: CR S7576)
+- 2018-12-13 — Senate amendment submitted
