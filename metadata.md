@@ -1,7 +1,7 @@
 ---
 measure: S. 645
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 645
@@ -38,3 +38,5 @@ Measuring the Economic Impact of Broadband Act of 2018
 - 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-341.
 - 2018-10-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-341.
 - 2018-10-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
+- 2018-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7621-7622; text: CR S7621-7622)
+- 2018-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7621-7622; text: CR S7621-7622)
