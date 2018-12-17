@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2200
@@ -99,3 +99,16 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2018-12-17 — Senate amendment agreed to: Amendment SA 4107 agreed to in Senate by Unanimous Consent.
 - 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4107 proposed by Senator McConnell for Senator Murray.(consideration: CR S7636; text: CR S7636)
 - 2018-12-17 — The committee substitute as amended agreed to by Unanimous Consent. (CR S7631-7636)
+- 2018-12-18 — Message on Senate action sent to the House.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2200.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Royce (CA) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10539-10544)
+- 2018-12-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 368 - 7 (Roll no. 487). (text as House agree to Senate amendment: CR H10539-10543)
+- 2018-12-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 368 - 7 (Roll no. 487).(text as House agree to Senate amendment: CR H10539-10543)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-08 — Became Public Law No: 115-425.
+- 2019-01-08 — Became Public Law No: 115-425.
+- 2019-01-08 — Signed by President.
+- 2019-01-08 — Signed by President.
