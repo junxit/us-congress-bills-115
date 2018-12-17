@@ -1,7 +1,7 @@
 ---
 measure: S. 1520
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1520
@@ -16,7 +16,7 @@ Modernizing Recreational Fisheries Management Act of 2018
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Blunt, Roy [R-MO] (B000575)
@@ -33,6 +33,10 @@ Modernizing Recreational Fisheries Management Act of 2018
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
 
 ## Committees (1)
 
@@ -46,3 +50,12 @@ Modernizing Recreational Fisheries Management Act of 2018
 - 2018-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-264.
 - 2018-06-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-264.
 - 2018-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.
+- 2018-12-17 — Amendment SA 4115 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Amendment SA 4115 proposed by Senator McConnell for Senator Wicker. (consideration: CR S7638) In the nature of a substitute.
+- 2018-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7636-7639; text as reported in Senate: CR S7636-7638)
+- 2018-12-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-17 — Senate amendment agreed to: Amendment SA 4115 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4115 proposed by Senator McConnell for Senator Wicker.(consideration: CR S7638)
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — The committee substitute withdrawn by Unanimous Consent.
