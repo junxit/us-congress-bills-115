@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2200
@@ -90,3 +90,12 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2018-10-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-10 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.
+- 2018-12-13 — Senate amendment submitted
+- 2018-12-17 — Amendment SA 4107 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Amendment SA 4107 proposed by Senator McConnell for Senator Murray. (consideration: CR S7636; text: CR S7636) To strike the section of the bill establishing preferred places of accommodation for Federal employees and for other purposes.
+- 2018-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7631-7636; text as reported in Senate: CR S7631-7636)
+- 2018-12-17 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-17 — Senate amendment agreed to: Amendment SA 4107 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4107 proposed by Senator McConnell for Senator Murray.(consideration: CR S7636; text: CR S7636)
+- 2018-12-17 — The committee substitute as amended agreed to by Unanimous Consent. (CR S7631-7636)
