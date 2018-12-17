@@ -1,7 +1,7 @@
 ---
 measure: S. 1520
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 1 executed, 27 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 16 U.S.C. § 1854
-
-> by striking “(i) International overfishing.—” and inserting “(j) International overfishing.—”;
-
-| | |
-|---|---|
-| Removed | `(i) International overfishing.—` |
-| Inserted | `(j) International overfishing.—` |
 
 ## Stated, not applied
 
@@ -43,28 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1801` | add-at-end | Section 2(a) (16 U.S.C. 1801(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1801` | amend | Section 2(a)(3) (16 U.S.C. 1801(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1852` | replace | in paragraph (7)(C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1852` | redesignate | by redesignating paragraph (8) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1852` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | amend | Section 304(e)(4)(A) (16 U.S.C. 1854(e)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1852` | add-at-end | Section 302 (16 U.S.C. 1852) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | redesignate | in subsection (j)(1), as redesignated, by inserting “shall” before “immediately”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1854` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1881c` | add-at-end | Section 404 (16 U.S.C. 1881c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1881` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 713c-3` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1801` | add-at-end | Section 2(a) (16 U.S.C. 1801(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1852` | replace | in paragraph (7)(C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1852` | redesignate | by redesignating paragraph (8) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1852` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | amend | in paragraph (4), by amending subparagraph (A)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1854` | replace | by striking “(7) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1854` | replace | by striking “If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1854` | redesignate | in subparagraph (A), as so redesignated, by striking “two years” and inserting the following: “2 years. The Secretary shall find that adequate progress toward ending overfishing and rebuilding affected fish stocks has not resulted if— | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1854` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1852` | add-at-end | Section 302 (16 U.S.C. 1852) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1881c` | add-at-end | Section 404 (16 U.S.C. 1881c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1881` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1881` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
