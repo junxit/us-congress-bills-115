@@ -1,12 +1,18 @@
 ---
 legis-num: H.R. 2200
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2200
 
-That the bill from the House of Representatives (H.R. 2200) entitled “An Act to reauthorize the Trafficking Victims Protection Act of 2000, and for other purposes.”, do pass with the following
+> To reauthorize the Trafficking Victims Protection Act of 2000, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018”.
+
+## § 2. Table of contents
+
+The table of contents for this Act is as follows:
