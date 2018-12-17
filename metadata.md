@@ -1,7 +1,7 @@
 ---
 measure: S. 1862
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1862
@@ -35,3 +35,12 @@ Trafficking Victims Protection Reauthorization Act of 2017
 - 2018-10-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-05 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-10-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 623.
+- 2018-12-13 — Senate amendment submitted
+- 2018-12-17 — Amendment SA 4106 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Amendment SA 4106 proposed by Senator McConnell for Senator Menendez. (consideration: CR S7629-7630; text: CR S7629-7630) Of a perfecting nature.
+- 2018-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7628-7631; text as reported in Senate: CR S7628-7629)
+- 2018-12-17 — Passed Senate with an amendment by Voice Vote. (text: CR S7630-7631)
+- 2018-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S7630-7631)
+- 2018-12-17 — Senate amendment agreed to: Amendment SA 4106 agreed to in Senate by Unanimous Consent.
+- 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4106 proposed by Senator McConnell for Senator Menendez.(consideration: CR S7629-7630; text: CR S7629-7630)
+- 2018-12-17 — The committee substitute as amended agreed to by Unanimous Consent.
