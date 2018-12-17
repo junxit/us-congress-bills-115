@@ -1,7 +1,7 @@
 ---
 measure: S. 1520
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1520
@@ -42,6 +42,10 @@ Modernizing Recreational Fisheries Management Act of 2018
 
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2018-12-19 — [House 115-2-444](votes/house-115-2-0444.md) — On Motion to Suspend the Rules and Pass — **Passed** (350–11)
+
 ## Actions
 
 - 2017-07-10 — Introduced in Senate
@@ -59,3 +63,20 @@ Modernizing Recreational Fisheries Management Act of 2018
 - 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4115 proposed by Senator McConnell for Senator Wicker.(consideration: CR S7638)
 - 2018-12-17 — Senate amendment submitted
 - 2018-12-17 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-12-18 — Message on Senate action sent to the House.
+- 2018-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves (LA) objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-19 — Considered as unfinished business. (consideration: CR H10319)
+- 2018-12-19 — Considered under suspension of the rules. (consideration: CR H10306-10309)
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 1520.
+- 2018-12-19 — Held at the desk.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Graves (LA) moved to suspend the rules and pass the bill.
+- 2018-12-19 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 350 - 11 (Roll no. 444). (text: CR H10306-10308)
+- 2018-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 350 - 11 (Roll no. 444).(text: CR H10306-10308)
+- 2018-12-19 — Received in the House.
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-405.
+- 2018-12-31 — Became Public Law No: 115-405.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
