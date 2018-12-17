@@ -1,7 +1,7 @@
 ---
 measure: S. 1862
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1862
@@ -27,6 +27,10 @@ Trafficking Victims Protection Reauthorization Act of 2017
 
 - Senate — Foreign Relations Committee
 
+## Recorded votes (1)
+
+- 2018-12-21 — [House 115-2-491](votes/house-115-2-0491.md) — On Motion to Suspend the Rules and Pass — **Passed** (370–0)
+
 ## Actions
 
 - 2017-09-26 — Introduced in Senate
@@ -44,3 +48,20 @@ Trafficking Victims Protection Reauthorization Act of 2017
 - 2018-12-17 — Senate amendment agreed to: Amendment SA 4106 agreed to in Senate by Unanimous Consent.
 - 2018-12-17 — Senate amendment proposed (on the floor): Amendment SA 4106 proposed by Senator McConnell for Senator Menendez.(consideration: CR S7629-7630; text: CR S7629-7630)
 - 2018-12-17 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2018-12-18 — Message on Senate action sent to the House.
+- 2018-12-19 — Held at the desk.
+- 2018-12-19 — Received in the House.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10576)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10548-10550)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1862.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 491). (text: CR H10548-10549)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 491).(text: CR H10548-10549)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-09 — Became Public Law No: 115-427.
+- 2019-01-09 — Became Public Law No: 115-427.
+- 2019-01-09 — Signed by President.
+- 2019-01-09 — Signed by President.
