@@ -81,9 +81,9 @@ Not later than 180 days after the date of enactment of this Act, the Commission,
 - **(2)** the Administrator; or
 - **(3)** any other entity under specified circumstances as determined by the Commission, in consultation with the Administrator.
 
-## § 8. Online streaming services emergency alert examination
+## § 8. Internet and online streaming services emergency alert examination
 
-- **(a)** *Study* Not later than 180 days after the date of enactment of this Act, the Commission shall complete an inquiry to examine the feasibility of establishing systems and signaling to offer Emergency Alert System alerts to audio and video streaming services delivered over the internet.
+- **(a)** *Study* Not later than 180 days after the date of enactment of this Act, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
 - **(b)** *Report* Not later than 90 days after completing the inquiry under subsection (a), the Commission shall submit a report on the findings and conclusions of the inquiry to—
   - **(1)** the Committee on Commerce, Science, and Transportation of the Senate; and
   - **(2)** the Committee on Energy and Commerce of the House of Representatives.
