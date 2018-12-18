@@ -1,7 +1,7 @@
 ---
 measure: S. 3444
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3444
@@ -28,3 +28,13 @@ A bill to designate the community-based outpatient clinic of the Department of V
 
 - 2018-09-17 — Introduced in Senate
 - 2018-09-17 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-12-18 — Amendment SA 4160 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Amendment SA 4160 proposed by Senator Boozman for Senator Cassidy. (consideration: CR S7820; text: CR S7820) In the nature of a substitute.
+- 2018-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S7820)
+- 2018-12-18 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2018-12-18 — Senate amendment agreed to: Amendment SA 4160 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4160 proposed by Senator Boozman for Senator Cassidy.(consideration: CR S7820; text: CR S7820)
+- 2018-12-18 — Senate amendment submitted
