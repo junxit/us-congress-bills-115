@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # S. 756
@@ -16,7 +16,7 @@ First Step Act of 2018
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (21)
+## Cosponsors (40)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
@@ -39,6 +39,25 @@ First Step Act of 2018
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Sasse, Ben [R-NE] (S001197)
 
 ## Committees (3)
 
@@ -77,3 +96,76 @@ First Step Act of 2018
 - 2018-07-25 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2018-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7640-7642)
 - 2018-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7640-7642)
+- 2018-07-26 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2018-12-13 — Amendment SA 4108 proposed by Senator McConnell for Senator Grassley. (consideration: CR S7566-7567) To provide for programs to help reduce the risk that prisoners will recidivate upon release from prison, and for other purposes.
+- 2018-12-13 — Amendment SA 4109 proposed by Senator McConnell for Senator Kennedy to Amendment SA 4108. (consideration: CR S7566-7567; text: CR S7567) To require the Director of the Bureau of Prisons to notify each victim of the offense for which the prisoner is imprisoned the date on which the prisoner will be released.
+- 2018-12-13 — Amendment SA 4109 was divided into Divisions I, II, and III.
+- 2018-12-13 — Cloture motion on the motion to concur in the House amendment to S. 756 with an amendment (SA 4108) presented in Senate. (text: CR 7567)
+- 2018-12-13 — Measure laid before Senate by unanimous consent.
+- 2018-12-13 — Motion by Senator McConnell to concur in the House amendment to S. 756 with an amendment (SA 4108) made in Senate.
+- 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4108 proposed by Senator McConnell for Senator Grassley.(consideration: CR S7566-7567)
+- 2018-12-13 — Senate amendment proposed (on the floor): Amendment SA 4109 proposed by Senator McConnell for Senator Kennedy to Amendment SA 4108.(consideration: CR S7566-7567; text: CR S7567)
+- 2018-12-13 — Senate amendment submitted
+- 2018-12-13 — Senate amendment submitted
+- 2018-12-17 — Cloture on the motion to concur in the House amendment to S. 756 with an amendment (SA 4108) invoked in Senate by Yea-Nay Vote. 82 - 12. Record Vote Number: 267. (text: CR S7650)
+- 2018-12-17 — Considered by Senate (Message from the House considered). (consideration: CR S7639)
+- 2018-12-17 — Considered by Senate (Message from the House considered). (consideration: CR S7639)
+- 2018-12-17 — Considered by Senate (Message from the House considered). (consideration: CR S7639)
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-17 — Senate amendment submitted
+- 2018-12-18 — Amendment SA 4108 agreed to in Senate by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
+- 2018-12-18 — Amendment SA 4109 (Division I) not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 268.
+- 2018-12-18 — Amendment SA 4109 (Division II) not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 269.
+- 2018-12-18 — Amendment SA 4109 (Division III) not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 270.
+- 2018-12-18 — Amendment SA 4131 agreed to in Senate by Voice Vote.
+- 2018-12-18 — Amendment SA 4131 proposed by Senator McConnell for Senator Cruz to Amendment SA 4108. (consideration: CR S7781) To expand the list of offenses for which a prisoner is ineligible to receive certain time credits and to modify a provision relating to a limitation on faith-based activities.
+- 2018-12-18 — Considered by Senate (Message from the House considered). (consideration: CR S7740, S7781)
+- 2018-12-18 — Considered by Senate (Message from the House considered). (consideration: CR S7740, S7781)
+- 2018-12-18 — Considered by Senate (Message from the House considered). (consideration: CR S7740-7745, S7746-7752, S7753-7781)
+- 2018-12-18 — Resolving differences -- Senate actions: Senate concurred in the House amendment to S. 756 with an amendment (SA 4108) by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
+- 2018-12-18 — Roll call votes on amendments in Senate: Amendment SA 4108 agreed to in Senate by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
+- 2018-12-18 — Roll call votes on amendments in Senate: Amendment SA 4109 (Division I) not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 268.
+- 2018-12-18 — Roll call votes on amendments in Senate: Amendment SA 4109 (Division II) not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 269.
+- 2018-12-18 — Roll call votes on amendments in Senate: Amendment SA 4109 (Division III) not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 270.
+- 2018-12-18 — Senate amendment agreed to: Amendment SA 4108 agreed to in Senate by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
+- 2018-12-18 — Senate amendment agreed to: Amendment SA 4131 agreed to in Senate by Voice Vote.
+- 2018-12-18 — Senate amendment not agreed to: Amendment SA 4109 (Division I) not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 268.
+- 2018-12-18 — Senate amendment not agreed to: Amendment SA 4109 (Division II) not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 269.
+- 2018-12-18 — Senate amendment not agreed to: Amendment SA 4109 (Division III) not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 270.
+- 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4131 proposed by Senator McConnell for Senator Cruz to Amendment SA 4108.(consideration: CR S7781)
+- 2018-12-18 — Senate amendment submitted
+- 2018-12-18 — Senate concurred in the House amendment to S. 756 with an amendment (SA 4108) by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
