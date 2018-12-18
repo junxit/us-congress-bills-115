@@ -1,7 +1,7 @@
 ---
 measure: S. 3085
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 13 of title 41, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 13 of such title is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 47 of title 41, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 47 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 3003` | add-at-end | Chapter 13 of title 41, United States Code, is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | add-at-end | The table of sections at the beginning of chapter 13 of such title is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 153` | add-at-end | Chapter 47 of title 41, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

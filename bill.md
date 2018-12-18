@@ -13,69 +13,98 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Federal Acquisition Supply Chain Security Act of 2018”.
 
-## § 2. Federal Acquisition Security Council
+## § 2. Federal acquisition supply chain security
 
 - **(a)** *In general* Chapter 13 of title 41, United States Code, is amended by adding at the end the following new subchapter:
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 13 of such title is amended by adding at the end the following new items:
-- **(c)** *Effective date* The amendments made by this section shall take effect on the date that is 90 days after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date that is 90 days after the date of the enactment of this Act and shall apply to contracts that are awarded before, on, or after that date.
+- **(d)** *Implementation*
+  - **(1)** *Interim final rule* Not later than one year after the date of the enactment of this Act, the Federal Acquisition Security Council shall prescribe an interim final rule to implement subchapter III of chapter 13 of title 41, United States Code, as added by subsection (a).
+  - **(2)** *Final rule* Not later than one year after prescribing the interim final rule under paragraph (1) and considering public comments with respect to such interim final rule, the Council shall prescribe a final rule to implement subchapter III of chapter 13 of title 41, United States Code, as added by subsection (a).
+  - **(3)** *Failure to act*
+    - **(A)** *In general* If the Council does not issue a final rule in accordance with paragraph (2) on or before the last day of the 1-year period referred to in that paragraph, the Council shall submit to the appropriate congressional committees and leadership, not later than 10 days after such last day and every 90 days thereafter until the final rule is issued, a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on which the final rule will be issued.
+    - **(B)** *Appropriate congressional committees and leadership defined* In this paragraph, the term appropriate congressional committees and leadership has the meaning given that term in section 1321 of title 41, United States Code, as added by subsection (a).
 
-## § 3. Risk assessments for information technology made available to other agencies
-
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the head of any executive agency that makes information technology available for procurement by other executive agencies shall—
-  - **(1)** identify information technology products made available to other agencies that pose the greatest risk to national security or the public interest;
-  - **(2)** complete a risk assessment of information technology products identified under paragraph (1);
-  - **(3)** in each case in which the head of the executive agency identifies a significant supply chain risk posed by information technology—
-    - **(A)** make the risk assessment with respect to that information technology available to all executive agencies through the Federal Acquisition Security Council established under subchapter III of chapter 13 of title 41, United States Code, as added by section 2; and
-    - **(B)** develop a plan to mitigate that risk; and
-  - **(4)** develop a vetting process for conducting supply chain risk assessments with respect to prospective providers of information technology and make the process available to all executive agencies.
-- **(b)** *Assistance* The Secretary of Homeland Security may—
-  - **(1)** assist executive agencies in conducting risk assessments described in subsection (a) and implementing mitigation requirements for information technology; and
-  - **(2)** provide such additional guidance or tools as are necessary to support actions taken by executive agencies under subsection (a).
-- **(c)** *Definitions* In this section:
-  - **(1)** *Executive agency* The term executive agency has the meaning given that term in section 133 of title 41, United States Code.
-  - **(2)** *Information technology* The term information technology has the meaning given that term in section 11101 of title 40, United States Code.
-  - **(3)** *Supply chain risk* The term supply chain risk has the meaning given that term in section 4713 of title 41, United States Code, as added by section 4.
-
-## § 4. Authorities of executive agencies relating to mitigating supply chain risks in the procurement of information technology
+## § 3. Authorities of executive agencies relating to mitigating supply chain risks in the procurement of covered articles
 
 - **(a)** *In general* Chapter 47 of title 41, United States Code, is amended by adding at the end the following new section:
-  > ## § 4713. Authorities relating to mitigating supply chain risks in the procurement of information technology
+  > ## § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles
   >
-  > - **(a)** *Authority* Subject to subsection (b), the head of an executive agency may—
-  >   - **(1)** carry out a covered procurement action; and
-  >   - **(2)** limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
-  > - **(b)** *Determination and notification* The head of an executive agency may exercise the authority provided in subsection (a) only after—
-  >   - **(1)** obtaining a joint recommendation by the senior procurement executive and chief information officer of the agency, or such other officials of the agency as the head of the agency considers appropriate, that there is a significant supply chain risk in a covered procurement;
-  >   - **(2)** making a determination in writing, in unclassified or classified form, that—
-  >     - **(A)** use of the authority under subsection (a)(1) is necessary to protect national security or the public interest by reducing supply chain risk; and
-  >     - **(B)** in a case where the head of the agency plans to limit disclosure of information under subsection (a)(2), the risk to national security due to the disclosure of such information outweighs the risk due to not disclosing such information; and
-  >   - **(3)** providing a classified or unclassified notice of the determination made under paragraph (2) not later than 30 days after making that determination to the Federal Acquisition Security Council that includes—
-  >     - **(A)** a summary of the information required for the purchase of property or services under this title and any other applicable law relating to procurement; and
-  >     - **(B)** a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why such measures were not reasonably available to reduce supply chain risk.
-  > - **(c)** *Limitation on disclosure* If the head of an executive agency has exercised the authority provided in subsection (a)(2) to limit disclosure of information—
-  >   - **(1)** no procurement action undertaken by the head of the agency under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court; and
-  >   - **(2)** the head of the agency shall—
-  >     - **(A)** notify appropriate parties of a covered procurement action and the basis for the action only to the extent necessary to effectuate the covered procurement action;
-  >     - **(B)** notify and follow notification protocols as directed by the Federal Acquisition Security Council; and
-  >     - **(C)** ensure the confidentiality of any such notifications.
-  > - **(d)** *Regulations* The Federal Acquisition Regulatory Council shall prescribe such regulations as may be necessary to carry out this section.
-  > - **(e)** *Reports required* Not less frequently than annually, the head of each executive agency shall submit to the appropriate congressional committees a report summarizing the actions taken by the agency under this section during the preceding 12-month period.
-  > - **(f)** *Termination* The authority provided under subsection (a) shall terminate on the date that is 5 years after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018.
-  > - **(g)** *Definitions* In this section:
-  >   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  >     - **(A)** the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Appropriations, the Select Committee on Intelligence, and the majority and minority leader of the Senate; and
-  >     - **(B)** the Committee on Oversight and Government Reform, the Committee on the Judiciary, the Committee on Appropriations, the Committee on Homeland Security, the Permanent Select Committee on Intelligence, and the Speaker and minority leader of the House of Representatives.
-  >   - **(2)** *Covered procurement* The term covered procurement means—
-  >     - **(A)** a source selection for information technology involving either a performance specification, as provided in subsection (a)(3)(B) of section 3306 of this title, or an evaluation factor, as provided in subsection (b)(1)(A) of that section, relating to a supply chain risk;
-  >     - **(B)** the consideration of proposals for and issuance of a task or delivery order for information technology, as provided in section 4106(d)(3) of this title, where the task or delivery order contract includes a contract clause establishing a requirement relating to a supply chain risk;
-  >     - **(C)** any contract action involving a contract for information technology where the contract includes a clause establishing requirements relating to a supply chain risk; or
+  > - **(a)** *Authority* Subject to subsection (b), the head of an executive agency may carry out a covered procurement action.
+  > - **(b)** *Determination and notification* Except as authorized by subsection (c) to address an urgent national security interest, the head of an executive agency may exercise the authority provided in subsection (a) only after—
+  >   - **(1)** obtaining a joint recommendation, in unclassified or classified form, from the chief acquisition officer and the chief information officer of the agency, or officials performing similar functions in the case of executive agencies that do not have such officials, which includes a review of any risk assessment made available by the executive agency identified under section 1323(a)(3) of this title, that there is a significant supply chain risk in a covered procurement;
+  >   - **(2)** providing notice of the joint recommendation described in paragraph (1) to any source named in the joint recommendation advising—
+  >     - **(A)** that a recommendation is being considered or has been obtained;
+  >     - **(B)** to the extent consistent with the national security and law enforcement interests, of information that forms the basis for the recommendation;
+  >     - **(C)** that, within 30 days after receipt of the notice, the source may submit information and argument in opposition to the recommendation; and
+  >     - **(D)** of the procedures governing the consideration of the submission and the possible exercise of the authority provided in subsection (a);
+  >   - **(3)** making a determination in writing, in unclassified or classified form, after considering any information submitted by a source under paragraph (2) and in consultation with the chief information security officer of the agency, that—
+  >     - **(A)** use of the authority under subsection (a) is necessary to protect national security by reducing supply chain risk;
+  >     - **(B)** less intrusive measures are not reasonably available to reduce such supply chain risk; and
+  >     - **(C)** the use of such authorities will apply to a single covered procurement or a class of covered procurements, and otherwise specifies the scope of the determination; and
+  >   - **(4)** providing a classified or unclassified notice of the determination made under paragraph (3) to the appropriate congressional committees and leadership that includes—
+  >     - **(A)** the joint recommendation described in paragraph (1);
+  >     - **(B)** a summary of any risk assessment reviewed in support of the joint recommendation required by paragraph (1); and
+  >     - **(C)** a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why such measures were not reasonably available to reduce supply chain risk.
+  > - **(c)** *Procedures To address urgent national security interests* In any case in which the head of an executive agency determines that an urgent national security interest requires the immediate exercise of the authority provided in subsection (a), the head of the agency—
+  >   - **(1)** may, to the extent necessary to address such national security interest, and subject to the conditions in paragraph (2)—
+  >     - **(A)** temporarily delay the notice required by subsection (b)(2);
+  >     - **(B)** make the determination required by subsection (b)(3), regardless of whether the notice required by subsection (b)(2) has been provided or whether the notified source has submitted any information in response to such notice;
+  >     - **(C)** temporarily delay the notice required by subsection (b)(4); and
+  >     - **(D)** exercise the authority provided in subsection (a) in accordance with such determination within 60 calendar days after the day the determination is made; and
+  >   - **(2)** shall take actions necessary to comply with all requirements of subsection (b) as soon as practicable after addressing the urgent national security interest, including—
+  >     - **(A)** providing the notice required by subsection (b)(2);
+  >     - **(B)** promptly considering any information submitted by the source in response to such notice, and making any appropriate modifications to the determination based on such information;
+  >     - **(C)** providing the notice required by subsection (b)(4), including a description of the urgent national security interest, and any modifications to the determination made in accordance with subparagraph (B); and
+  >     - **(D)** providing notice to the appropriate congressional committees and leadership within 7 calendar days of the covered procurement actions taken under this section.
+  > - **(d)** *Confidentiality* The notice required by subsection (b)(2) shall be kept confidential until a determination with respect to a covered procurement action has been made pursuant to subsection (b)(3).
+  > - **(e)** *Delegation* The head of an executive agency may not delegate the authority provided in subsection (a) or the responsibility identified in subsection (g) to an official below the level one level below the Deputy Secretary or Principal Deputy Director.
+  > - **(f)** *Annual review of determinations* The head of an executive agency shall conduct an annual review of all determinations made by such head under subsection (b) and promptly amend any covered procurement action as appropriate.
+  > - **(g)** *Regulations* The Federal Acquisition Regulatory Council shall prescribe such regulations as may be necessary to carry out this section.
+  > - **(h)** *Reports required* Not less frequently than annually, the head of each executive agency that exercised the authority provided in subsection (a) or (c) during the preceding 12-month period shall submit to the appropriate congressional committees and leadership a report summarizing the actions taken by the agency under this section during that 12-month period.
+  > - **(i)** *Rule of construction* Nothing in this section shall be construed to authorize the head of an executive agency to carry out a covered procurement action based solely on the fact of foreign ownership of a potential procurement source that is otherwise qualified to enter into procurement contracts with the Federal Government.
+  > - **(j)** *Termination* The authority provided under subsection (a) shall terminate on the date that is 5 years after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018.
+  > - **(k)** *Definitions* In this section:
+  >   - **(1)** *Appropriate congressional committees and leadership* The term appropriate congressional committees and leadership means—
+  >     - **(A)** the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Appropriations, the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Select Committee on Intelligence, and the majority and minority leader of the Senate; and
+  >     - **(B)** the Committee on Oversight and Government Reform, the Committee on the Judiciary, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Armed Services, the Committee on Energy and Commerce, the Permanent Select Committee on Intelligence, and the Speaker and minority leader of the House of Representatives.
+  >   - **(2)** *Covered article* The term covered article means—
+  >     - **(A)** information technology, as defined in section 11101 of title 40, including cloud computing services of all types;
+  >     - **(B)** telecommunications equipment or telecommunications service, as those terms are defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153);
+  >     - **(C)** the processing of information on a Federal or non-Federal information system, subject to the requirements of the Controlled Unclassified Information program; or
+  >     - **(D)** hardware, systems, devices, software, or services that include embedded or incidental information technology.
+  >   - **(3)** *Covered procurement* The term covered procurement means—
+  >     - **(A)** a source selection for a covered article involving either a performance specification, as provided in subsection (a)(3)(B) of section 3306 of this title, or an evaluation factor, as provided in subsection (b)(1)(A) of such section, relating to a supply chain risk, or where supply chain risk considerations are included in the agency’s determination of whether a source is a responsible source as defined in section 113 of this title;
+  >     - **(B)** the consideration of proposals for and issuance of a task or delivery order for a covered article, as provided in section 4106(d)(3) of this title, where the task or delivery order contract includes a contract clause establishing a requirement relating to a supply chain risk;
+  >     - **(C)** any contract action involving a contract for a covered article where the contract includes a clause establishing requirements relating to a supply chain risk; or
   >     - **(D)** any other procurement in a category of procurements determined appropriate by the Federal Acquisition Regulatory Council, with the advice of the Federal Acquisition Security Council.
-  >   - **(3)** *Covered procurement action* The term covered procurement action means any of the following actions, if the action takes place in the course of conducting a covered procurement:
-  >     - **(A)** The exclusion of a source that fails to meet qualification requirements established under section 3311 of this title for the purpose of reducing supply chain risk in the acquisition of information technology.
+  >   - **(4)** *Covered procurement action* The term covered procurement action means any of the following actions, if the action takes place in the course of conducting a covered procurement:
+  >     - **(A)** The exclusion of a source that fails to meet qualification requirements established under section 3311 of this title for the purpose of reducing supply chain risk in the acquisition or use of covered articles.
   >     - **(B)** The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
-  >     - **(C)** The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor to exclude a particular source from consideration for a subcontract under the contract.
-  >   - **(4)** *Information technology* The term information technology has the meaning given that term in section 11101 of title 40.
-  >   - **(5)** *Supply chain risk* The term supply chain risk means the risk that any person may sabotage, maliciously introduce unwanted function, extract data, or otherwise manipulate the design, integrity, manufacturing, production, distribution, installation, operation, maintenance, disposition, or retirement of information technology so as to surveil, deny, disrupt, or otherwise manipulate the function, use, or operation of the information technology.
+  >     - **(C)** The determination that a source is not a responsible source as defined in section 113 of this title based on considerations of supply chain risk.
+  >     - **(D)** The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor to exclude a particular source from consideration for a subcontract under the contract.
+  >   - **(5)** *Information and communications technology* The term information and communications technology means—
+  >     - **(A)** information technology, as defined in section 11101 of title 40;
+  >     - **(B)** information systems, as defined in section 3502 of title 44; and
+  >     - **(C)** telecommunications equipment and telecommunications services, as those terms are defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+  >   - **(6)** *Supply chain risk* The term supply chain risk means the risk that any person may sabotage, maliciously introduce unwanted function, extract data, or otherwise manipulate the design, integrity, manufacturing, production, distribution, installation, operation, maintenance, disposition, or retirement of covered articles so as to surveil, deny, disrupt, or otherwise manipulate the function, use, or operation of the covered articles or information stored or transmitted on the covered articles.
+  >   - **(7)** *Executive agency* Notwithstanding section 3101(c)(1), this section applies to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 47 of such title is amended by adding at the end the following new item:
-- **(c)** *Effective date* The amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act and shall apply to contracts that are awarded before, on, or after that date.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date that is 90 days after the date of the enactment of this Act and shall apply to contracts that are awarded before, on, or after that date.
+
+## § 4. Federal Information Security Modernization Act
+
+- **(a)** *In general* Title 44, United States Code, is amended—
+  - **(1)** in section 3553(a)(5), by inserting “and section 1326 of title 41” after “compliance with the requirements of this subchapter”; and
+  - **(2)** in section 3554(a)(1)(B)—
+    - **(A)** by inserting “, subchapter III of chapter 13 of title 41,” after “complying with the requirements of this subchapter”;
+    - **(B)** in clause (iv), by striking “; and” and inserting a semicolon; and
+    - **(C)** by adding at the end the following new clause:
+      > - **(vi)** responsibilities relating to assessing and avoiding, mitigating, transferring, or accepting supply chain risks under section 1326 of title 41, and complying with exclusion and removal orders issued under section 1323 of such title; and
+
+- **(b)** *Rule of construction* Nothing in this Act shall be construed to alter or impede any authority or responsibility under section 3553 of title 44, United States Code.
+
+## § 5. Effective date
+
+This Act shall take effect on the date that is 90 days after the date of the enactment of this Act.
