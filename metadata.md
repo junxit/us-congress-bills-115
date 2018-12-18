@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6615
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6615
@@ -49,3 +49,16 @@ Traumatic Brain Injury Program Reauthorization Act of 2018
 - 2018-12-18 — Senate amendment agreed to: Amendment SA 4155 agreed to in Senate by Unanimous Consent.
 - 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4155 proposed by Senator Grassley for Senator Alexander.(consideration: CR S7745-7746; text: CR S7745-7746)
 - 2018-12-18 — Senate amendment submitted
+- 2018-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 6615.
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-19 — Mr. Walden moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10280-10282, H10314)
+- 2018-12-19 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 352 - 6 (Roll No. 437). (text: CR H10280-10281)
+- 2018-12-19 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 352 - 6 (Roll No. 437).(text: CR H10280-10281)
+- 2018-12-21 — Became Public Law No: 115-377.
+- 2018-12-21 — Became Public Law No: 115-377.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
