@@ -1,7 +1,7 @@
 ---
 measure: S. 2200
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2200
@@ -33,3 +33,12 @@ National Integrated Drought Information System Reauthorization Act of 2018
 - 2018-05-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-256.
 - 2018-05-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-256.
 - 2018-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.
+- 2018-12-18 — Amendment SA 4157 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Amendment SA 4157 proposed by Senator Boozman for Senator Thune. (consideration: CR S7806-7809; text: CR S7806-7809) In the nature of a substitute.
+- 2018-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S7805-7809; text of measure as reported in Senate: CR S7805-7806)
+- 2018-12-18 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-18 — Senate amendment agreed to: Amendment SA 4157 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4157 proposed by Senator Boozman for Senator Thune.(consideration: CR S7806-7809; text: CR S7806-7809)
+- 2018-12-18 — Senate amendment submitted
+- 2018-12-18 — The committee substitute withdrawn by Unanimous Consent.
