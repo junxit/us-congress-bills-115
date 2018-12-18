@@ -1,7 +1,7 @@
 ---
 measure: S. 2200
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2200
@@ -25,6 +25,10 @@ National Integrated Drought Information System Reauthorization Act of 2018
 
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-461](votes/house-115-2-0461.md) — On Motion to Suspend the Rules and Pass — **Passed** (379–9)
+
 ## Actions
 
 - 2017-12-06 — Introduced in Senate
@@ -42,3 +46,20 @@ National Integrated Drought Information System Reauthorization Act of 2018
 - 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4157 proposed by Senator Boozman for Senator Thune.(consideration: CR S7806-7809; text: CR S7806-7809)
 - 2018-12-18 — Senate amendment submitted
 - 2018-12-18 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-12-19 — Held at the desk.
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Received in the House.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — Considered as unfinished business. (consideration: CR H10439)
+- 2018-12-20 — Considered under suspension of the rules. (consideration: CR H10420-10424)
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on S. 2200.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 9 (Roll no. 461). (text: CR H10420-10422)
+- 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 9 (Roll no. 461).(text: CR H10420-10422)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-07 — Became Public Law No: 115-423.
+- 2019-01-07 — Became Public Law No: 115-423.
+- 2019-01-07 — Signed by President.
+- 2019-01-07 — Signed by President.
