@@ -1,12 +1,15 @@
 ---
 legis-num: S. 756
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 756
 
-That the Senate agree to the amendment of the House of Representatives to the bill (S. 756) entitled “An Act to reauthorize and amend the Marine Debris Act to promote international action to reduce marine debris, and for other purposes.”, with the following
+> To reauthorize and amend the Marine Debris Act to promote international action to reduce marine debris, and for other purposes.
 
-*In lieu of the matter proposed to be inserted by the House amendment to the text of the bill, insert the following:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “First Step Act of 2018”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:

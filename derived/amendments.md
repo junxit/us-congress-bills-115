@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
