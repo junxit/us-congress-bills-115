@@ -1,7 +1,7 @@
 ---
 measure: S. 3367
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-71 amendatory instructions. 4 executed, 67 stated and not applied.
+37 amendatory instructions. 19 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,41 +24,176 @@ to guess them.
 
 ## Executed
 
-### 49 U.S.C. § 22501
+### 49 U.S.C. § 24405
 
-> in subsection (b), by striking “(49 U.S.C. 22501 note)” each place it appears and inserting “(49 U.S.C. 24407 note)”;
-
-| | |
-|---|---|
-| Removed | `(49 U.S.C. 22501 note)` |
-| Inserted | `(49 U.S.C. 24407 note)` |
-
-### 23 U.S.C. § 313
-
-> Section 117(b) of the SAFETEA–LU Technical Corrections Act of 2008 (23 U.S.C. 313 note) is amended by striking “submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a” and inserting “make publicly available on the Department of Transportation website an annual”.
+> in clause (vi) by striking “environmentally” and inserting “environmental”; and
 
 | | |
 |---|---|
-| Removed | `submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a` |
-| Inserted | `make publicly available on the Department of Transportation website an annual` |
+| Removed | `environmentally` |
+| Inserted | `environmental` |
 
-### 49 U.S.C. § 22501
+### 49 U.S.C. § 24405
 
-> in subsection (b), by striking “(49 U.S.C. 22501 note)” each place it appears and inserting “(49 U.S.C. 24407 note)”;
-
-| | |
-|---|---|
-| Removed | `(49 U.S.C. 22501 note)` |
-| Inserted | `(49 U.S.C. 24407 note)` |
-
-### 23 U.S.C. § 313
-
-> Section 117(b) of the SAFETEA–LU Technical Corrections Act of 2008 (23 U.S.C. 313 note) is amended by striking “submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a” and inserting “make publicly available on the Department of Transportation website an annual”.
+> in subsection (k), by striking “state rail plan” and inserting “State rail plan”; and
 
 | | |
 |---|---|
-| Removed | `submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a` |
-| Inserted | `make publicly available on the Department of Transportation website an annual` |
+| Removed | `state rail plan` |
+| Inserted | `State rail plan` |
+
+### 49 U.S.C. § 24405
+
+> by striking “government authority” and inserting “governmental authority”; and
+
+| | |
+|---|---|
+| Removed | `government authority` |
+| Inserted | `governmental authority` |
+
+### 49 U.S.C. § 24405
+
+> by striking “section 5302(11) and (6), respectively, of this title” and inserting “section 5302”.
+
+| | |
+|---|---|
+| Removed | `section 5302(11) and (6), respectively, of this title` |
+| Inserted | `section 5302` |
+
+### 49 U.S.C. § 24405
+
+> in section 22901(2)(D), as redesignated, by striking “24404” and inserting “22904”;
+
+| | |
+|---|---|
+| Removed | `24404` |
+| Inserted | `22904` |
+
+### 49 U.S.C. § 24405
+
+> in section 22904, as redesignated, by striking “24402” and inserting “22902”;
+
+| | |
+|---|---|
+| Removed | `24402` |
+| Inserted | `22902` |
+
+### 49 U.S.C. § 24405
+
+> in section 22905(e)(1), as redesignated, by striking “24102(4) of this title” and inserting “24102”;
+
+| | |
+|---|---|
+| Removed | `24102(4) of this title` |
+| Inserted | `24102` |
+
+### 49 U.S.C. § 24405
+
+> in subsection (c)(2), by striking “24401(2)” and inserting “22901(2)”; and
+
+| | |
+|---|---|
+| Removed | `24401(2)` |
+| Inserted | `22901(2)` |
+
+### 49 U.S.C. § 24405
+
+> in subsection (k), by striking “of sections 24402, 24403, and 24404 and the definition contained in 24401(1)” and inserting “under sections 22902, 22903, and 22904, and the definition contained in section 22901(1)”; and
+
+| | |
+|---|---|
+| Removed | `of sections 24402, 24403, and 24404 and the definition contained in 24401(1)` |
+| Inserted | `under sections 22902, 22903, and 22904, and the definition contained in section 22901(1)` |
+
+### 49 U.S.C. § 24405
+
+> in subsection (a), in the matter preceding paragraph (1), by striking “24401(1)” and inserting “22901(1)”; and
+
+| | |
+|---|---|
+| Removed | `24401(1)` |
+| Inserted | `22901(1)` |
+
+### 49 U.S.C. § 24405
+
+> in subsection (i)(3), by striking “24405” and inserting “22905”.
+
+| | |
+|---|---|
+| Removed | `24405` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in section 24102(7)(D)(ii), by striking “chapter 244” and inserting “chapter 229”;
+
+| | |
+|---|---|
+| Removed | `chapter 244` |
+| Inserted | `chapter 229` |
+
+### 49 U.S.C. § 24405
+
+> in section 24711(c)(3), by striking “24405” and inserting “22905”; and
+
+| | |
+|---|---|
+| Removed | `24405` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in section 24911(i), by striking “24405” and inserting “22905”; and
+
+| | |
+|---|---|
+| Removed | `24405` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in part D, in section 26106(e)(3), by striking “24405 of this title” and inserting “22905”.
+
+| | |
+|---|---|
+| Removed | `24405 of this title` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in section 301(c) (49 U.S.C. 24405 note), by striking “24405(a)” and inserting “22905(a)”; and
+
+| | |
+|---|---|
+| Removed | `24405(a)` |
+| Inserted | `22905(a)` |
+
+### 49 U.S.C. § 26106
+
+> in section 502(a)(4)(I) (49 U.S.C. 26106 note), by striking “24405” and inserting “22905”.
+
+| | |
+|---|---|
+| Removed | `24405` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in section 11308(a)(4)(I), by striking “24405” and inserting “22905”; and
+
+| | |
+|---|---|
+| Removed | `24405` |
+| Inserted | `22905` |
+
+### 49 U.S.C. § 24405
+
+> in section 11401(b)(5), by striking “chapter 244” and inserting “chapter 229”.
+
+| | |
+|---|---|
+| Removed | `chapter 244` |
+| Inserted | `chapter 229` |
 
 ## Stated, not applied
 
@@ -69,70 +204,21 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 51314 of title 46, United States Code, is amended by striking “shall notify Congress of” and inserting “shall present at the next meeting of the Board of Visitors, and post on a publicly available website,”. | the bill names no machine-readable US Code section |
+| — | replace | Section 51314(b) of title 46, United States Code, is amended by striking “shall notify Congress of” and inserting “shall present at the next meeting of the Board of Visitors, and post on a publicly available website,”. | the bill names no machine-readable US Code section |
 | — | insert | Section 310(f)(1) of title 49, United States Code, is amended by inserting “, and make publicly available on the Department of Transportation website,” after “House of Representatives”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(5)(B), by inserting “, and make publicly available on the Department of Transportation website,” after “Senate”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (d)(2)(B) to read as follows: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 108` | amend | Section 6 of the Norman Y. Mineta Research and Special Programs Improvement Act (49 U.S.C. 108 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “a copy of each recommendation and response available to the public at reasonable cost” and inserting “publicly available on its website each recommendation and response under subsection (a)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(2)(B), by striking “a response under subsection (a)(2) or (a)(3)” and inserting “a response under subparagraph (B) or subparagraph (C) of subsection (a)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (e). | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 1135` | amend | Section 19 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 1135 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 308703(j) of title 54, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 24407` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 24407` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20166` | insert | Chapter 201 of title 49, United States Code, is amended by inserting after section 20166 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20166` | insert | The table of contents of chapter 201 of title 49, United States Code, is amended by inserting after the item relating to section 20166 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 24407` | amend | Section 130(g) of title 23, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 5116(j) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 5121 of title 49, United States Code, is amended by striking subsection (h) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 5117(g) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 601` | amend | Section 1441(e) of the Fixing America's Surface Transportation Act (23 U.S.C. 601 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20101` | amend | Section 106 of the Rail Safety Improvement Act of 2008 (49 U.S.C. 20101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Section 24905(e) of title 49, United States Code, is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1), by striking “subsection 402(c)” and inserting “section 402(c)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h)(4), in the matter preceding subparagraph (A), by striking “submit an annual report” and inserting “submit a biennial report”. | the bill names no machine-readable US Code section |
-| — | strike | Section 402 of title 23, United States Code, is amended by striking subsection (n). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6305 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (4), by inserting “until the cessation date under paragraph (6),” after “each year”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 24905(e) of title 49, United States Code, is amended by striking paragraphs (2) and (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 24910(c) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 51314 of title 46, United States Code, is amended by striking “shall notify Congress of” and inserting “shall present at the next meeting of the Board of Visitors, and post on a publicly available website,”. | the bill names no machine-readable US Code section |
-| — | insert | Section 310(f)(1) of title 49, United States Code, is amended by inserting “, and make publicly available on the Department of Transportation website,” after “House of Representatives”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(5)(B), by inserting “, and make publicly available on the Department of Transportation website,” after “Senate”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (d)(2)(B) to read as follows: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 108` | amend | Section 6 of the Norman Y. Mineta Research and Special Programs Improvement Act (49 U.S.C. 108 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “a copy of each recommendation and response available to the public at reasonable cost” and inserting “publicly available on its website each recommendation and response under subsection (a)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(2)(B), by striking “a response under subsection (a)(2) or (a)(3)” and inserting “a response under subparagraph (B) or subparagraph (C) of subsection (a)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (e). | the bill names no machine-readable US Code section |
-| — | amend | Section 1117 of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 1135` | amend | Section 19 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 1135 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 308703(j) of title 54, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 24407` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 24407` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20166` | insert | Chapter 201 of title 49, United States Code, is amended by inserting after section 20166 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20166` | insert | The table of contents of chapter 201 of title 49, United States Code, is amended by inserting after the item relating to section 20166 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 24407` | amend | Section 130(g) of title 23, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 5116(j) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 5121 of title 49, United States Code, is amended by striking subsection (h) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 5117(g) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 601` | amend | Section 1441(e) of the Fixing America's Surface Transportation Act (23 U.S.C. 601 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 20101` | amend | Section 106 of the Rail Safety Improvement Act of 2008 (49 U.S.C. 20101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | Section 24905(e) of title 49, United States Code, is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1), by striking “subsection 402(c)” and inserting “section 402(c)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h)(4), in the matter preceding subparagraph (A), by striking “submit an annual report” and inserting “submit a biennial report”. | the bill names no machine-readable US Code section |
 | — | replace | Section 402 of title 23, United States Code, is amended by striking subsection (n) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6305 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 24905(e) of title 49, United States Code, as amended by this Act, is further amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 24910(c) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 24405` | redesignate | by redesignating sections 24401 through 24408 as sections 22901 through 22908, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | redesignate | by redesignating chapter 244 as chapter 229; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | strike | by striking the item relating to chapter 244; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | insert | by inserting after the item relating to chapter 227 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | redesignate | by amending the table of sections for chapter 229, as redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | insert | in the matter preceding clause (i), by inserting “of” after “other modes”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 24405` | insert | in section 24103, by inserting “or chapter 229” after “this part” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 24405` | add-at-end | in section 11102, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24405` | add-at-end | in section 11104, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
