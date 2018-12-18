@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4227
@@ -36,9 +36,10 @@ Vehicular Terrorism Prevention Act of 2018
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2018-03-22 — [House 115-2-125](votes/house-115-2-0125.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–2)
+- 2018-12-20 — [House 115-2-456](votes/house-115-2-0456.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (388–2)
 
 ## Actions
 
@@ -70,3 +71,16 @@ Vehicular Terrorism Prevention Act of 2018
 - 2018-12-18 — Senate amendment agreed to: Amendment SA 4162 agreed to in Senate by Unanimous Consent.
 - 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4162 proposed by Senator Boozman for Senator Cassidy.(consideration: CR S7822; text: CR S7822)
 - 2018-12-18 — Senate amendment submitted
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 4227.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Estes (KS) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H10414-10415)
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays (2/3 required): 388 - 2 (Roll No. 456). (consideration: CR H10435-10436; text: CR H10414)
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays (2/3 required): 388 - 2 (Roll No. 456).(consideration: CR H10435-10436; text: CR H10414)
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-400.
+- 2018-12-31 — Became Public Law No: 115-400.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
