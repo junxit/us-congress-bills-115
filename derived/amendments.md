@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6615
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 4 executed, 6 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,39 +26,30 @@ to guess them.
 
 ### 42 U.S.C. § 280b-3
 
-> by striking “393B and 393C” and inserting “393B, 393C(a), and 393C(b)”; and
-
-| | |
-|---|---|
-| Removed | `393B and 393C` |
-| Inserted | `393B, 393C(a), and 393C(b)` |
-
-### 42 U.S.C. § 280b-3
-
-> by striking “$6,564,000 for each of fiscal years 2015 through 2019” and inserting “$6,750,000 for each of fiscal years 2019 through 2023”; and
+> in section 394A(b)(42 U.S.C. 280b–3(b)), by striking “$6,564,000 for each of fiscal years 2015 through 2019” and inserting “$11,750,000 for each of fiscal years 2020 through 2024”; and
 
 | | |
 |---|---|
 | Removed | `$6,564,000 for each of fiscal years 2015 through 2019` |
-| Inserted | `$6,750,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$11,750,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 300d-52
 
-> in subsection (i), as so redesignated, by striking “$5,500,000 for each of the fiscal years 2015 through 2019” and inserting “$7,321,000 for each of fiscal years 2019 through 2023”.
+> in subsection (i), as so redesignated, by striking “$5,500,000 for each of the fiscal years 2015 through 2019” and inserting “$7,321,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `$5,500,000 for each of the fiscal years 2015 through 2019` |
-| Inserted | `$7,321,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$7,321,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 300d-53
 
-> in subsection (l), by striking “$3,100,000 for each of the fiscal years 2015 through 2019” and inserting “$4,000,000 for each of fiscal years 2019 through 2023”.
+> in subsection (l), by striking “$3,100,000 for each of the fiscal years 2015 through 2019” and inserting “$4,000,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `$3,100,000 for each of the fiscal years 2015 through 2019` |
-| Inserted | `$4,000,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$4,000,000 for each of fiscal years 2020 through 2024` |
 
 ## Stated, not applied
 
@@ -70,7 +61,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 280b-1d` | add-at-end | in section 393C (42 U.S.C. 280b–1d) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280b-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280b-1e` | strike | by striking section 393C–1 (42 U.S.C. 280b–1e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | insert | in subsection (a), by inserting “, acting through the Administrator for the Administration for Community Living,” after “The Secretary”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300d-52` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | redesignate | by redesignating subsections (f) through (j) as subsections (e) through (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
