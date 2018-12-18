@@ -1,7 +1,7 @@
 ---
 measure: S. 756
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 756
@@ -169,3 +169,16 @@ First Step Act of 2018
 - 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4131 proposed by Senator McConnell for Senator Cruz to Amendment SA 4108.(consideration: CR S7781)
 - 2018-12-18 — Senate amendment submitted
 - 2018-12-18 — Senate concurred in the House amendment to S. 756 with an amendment (SA 4108) by Yea-Nay Vote. 87 - 12. Record Vote Number: 271.
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to the House amendment to S. 756.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Goodlatte moved that the House suspend the rules and agree to the Senate amendment to the House amendment. (consideration: CR H10346-10366)
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays (2/3 required): 358 - 36 (Roll No. 448). (consideration: CR H10431; text: CR H10346-10360)
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Presented to President.
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendment Agreed to by the Yeas and Nays (2/3 required): 358 - 36 (Roll No. 448).(consideration: CR H10431; text: CR H10346-10360)
+- 2018-12-21 — Became Public Law No: 115-391.
+- 2018-12-21 — Became Public Law No: 115-391.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
