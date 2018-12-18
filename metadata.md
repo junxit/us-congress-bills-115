@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4227
@@ -60,3 +60,13 @@ Vehicular Terrorism Prevention Act of 2018
 - 2018-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 125).
 - 2018-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 125).
 - 2018-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-18 — Amendment SA 4162 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Amendment SA 4162 proposed by Senator Boozman for Senator Cassidy. (consideration: CR S7822; text: CR S7822) To modify the bill.
+- 2018-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S7822)
+- 2018-12-18 — Passed Senate with amendments by Unanimous Consent.
+- 2018-12-18 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2018-12-18 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-18 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-18 — Senate amendment agreed to: Amendment SA 4162 agreed to in Senate by Unanimous Consent.
+- 2018-12-18 — Senate amendment proposed (on the floor): Amendment SA 4162 proposed by Senator Boozman for Senator Cassidy.(consideration: CR S7822; text: CR S7822)
+- 2018-12-18 — Senate amendment submitted
