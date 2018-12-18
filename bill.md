@@ -1,0 +1,22 @@
+---
+legis-num: S. 3767
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3767
+
+> To require Executive agencies to make public all funding reprogramming requests, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Transparency in Federal Spending Act of 2018”.
+
+## § 2. Requirement to notify regarding reprogramming and transfer of funds
+
+- **(a)** *Definition of executive agency* In this section, the term Executive agency has the meaning given the term in section 105 of title 5, United States Code.
+- **(b)** *Requirement* If an Executive agency requests a reprogramming of funds or uses authority available to the Executive agency to reprogram or transfer funds, the Executive agency shall—
+  - **(1)** concurrently post on the website of the Executive agency a notice of the request, reprogramming, or transfer; and
+  - **(2)** if the request, reprogramming, or transfer is for an amount that is not less than $5,000,000, concurrently notify each member of the Committees on Appropriations of the Senate and the House of Representatives.
+- **(c)** *Rule of construction* Nothing in this section shall be construed to supersede or otherwise alter any other provision of Federal law that imposes notification or other requirements relating to the reprogramming or transfer of funds by Executive agencies.
