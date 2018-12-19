@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 7344
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7344
+
+> To reauthorize tuition assistance programs under the District of Columbia College Access Act of 1999.
+
+## § 1. Reauthorization of tuition assistance programs
+
+- **(a)** *Reauthorization* Section 7 of the District of Columbia College Access Act of 1999 (sec. 38–2706, D.C. Official Code) is amended to read as follows:
+  > ## § 7. Authorization of appropriations
+  >
+  > There are authorized to be appropriated to the District of Columbia to carry out section 3 and section 5 an aggregate amount of $40,000,000 for each of the fiscal years 2019 through 2023. Such funds shall remain available until expended.
+
+- **(b)** *Conforming amendment relating to reductions in amounts for insufficient appropriations*
+  - **(1)** *Public school program* Section 3(b)(1) of such Act (sec. 38–2702(b)(1), D.C. Official Code) is amended by striking “If the funds” and all that follows through “are insufficient” and inserting “If the funds appropriated pursuant to section 7 are insufficient”.
+  - **(2)** *Private school program* Section 5(b)(1) of such Act (sec. 38–2704(b)(1), D.C. Official Code) is amended by striking “If the funds” and all that follows through “are insufficient” and inserting “If the funds appropriated pursuant to section 7 are insufficient”.
+- **(c)** *Conforming amendment relating to expired authorizations*
+  - **(1)** *Public school program* Section 3 of such Act (sec. 38–2702, D.C. Official Code) is amended by striking subsection (i).
+  - **(2)** *Private school program* Section 5 of such Act (sec. 38–2704, D.C. Official Code) is amended by striking subsection (f).
