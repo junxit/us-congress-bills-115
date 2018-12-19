@@ -1,7 +1,7 @@
 ---
 measure: S. 3523
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3523
@@ -16,6 +16,11 @@ Full Military Honors Act of 2018
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 
+## Cosponsors (2)
+
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+
 ## Committees (1)
 
 - Senate — Veterans' Affairs Committee
@@ -24,3 +29,9 @@ Full Military Honors Act of 2018
 
 - 2018-09-27 — Introduced in Senate
 - 2018-09-27 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2018-10-10 — Referred to the Committee on Veterans' Affairs.
+- 2018-10-10 — Senate amendment submitted
+- 2018-12-19 — Passed Senate without amendment by Unanimous Consent. (text: CR S7897)
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7897)
+- 2018-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7897)
+- 2018-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7897)
