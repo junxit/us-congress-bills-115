@@ -1,7 +1,7 @@
 ---
 measure: S. 3247
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3247
@@ -48,3 +48,17 @@ Women's Entrepreneurship and Economic Empowerment Act of 2018
 - 2018-12-19 — Passed Senate with an amendment by Voice Vote.
 - 2018-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
 - 2018-12-19 — Received in the House.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10576-10577)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10550-10553)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 3247.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Royce (CA) moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 18 (Roll no. 492). (text: CR H10550-10552)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 18 (Roll no. 492).(text: CR H10550-10552)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-09 — Became Public Law No: 115-428.
+- 2019-01-09 — Became Public Law No: 115-428.
+- 2019-01-09 — Signed by President.
+- 2019-01-09 — Signed by President.
