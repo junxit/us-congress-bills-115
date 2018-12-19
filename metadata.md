@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6771
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6771
@@ -16,7 +16,7 @@ Domestic Offshore Energy Reinvestment Act of 2018
 
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
@@ -26,6 +26,10 @@ Domestic Offshore Energy Reinvestment Act of 2018
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Byrne, Bradley [R-AL-1] (B001289)
 - Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
 
 ## Committees (1)
 
@@ -36,3 +40,8 @@ Domestic Offshore Energy Reinvestment Act of 2018
 - 2018-09-12 — Introduced in House
 - 2018-09-12 — Introduced in House
 - 2018-09-12 — Referred to the House Committee on Natural Resources.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-12-19 — Placed on the Union Calendar, Calendar No. 842.
+- 2018-12-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1083.
+- 2018-12-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1083.
