@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 115
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 695
@@ -16,7 +16,7 @@ Department of Defense Appropriations Act, 2018
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Cosponsors (46)
+## Cosponsors (67)
 
 - Rep. Bishop, Mike [R-MI-8] (B001293)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -64,6 +64,27 @@ Department of Defense Appropriations Act, 2018
 - Rep. Messer, Luke [R-IN-6] (M001189)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (2)
 
@@ -112,3 +133,66 @@ Department of Defense Appropriations Act, 2018
 - 2018-01-30 — Pursuant to the provisions of H.Res. 714, Ms. Granger took from the Speaker's table H.R. 695, and moved that the House agree in the Senate amendment to the title of H.R. 695 and that the House agree in the Senate amendment to the text of H.R. 695 with an amendment consisting of the text of Rules Committee Print 115-56.
 - 2018-01-30 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 250 - 166 (Roll no. 49).(text as House agreed to Senate amendments: CR H699-719)
 - 2018-01-30 — The previous question was ordered pursuant to the rule.
+- 2018-02-06 — Amendment SA 1922 proposed by Senator McConnell. (consideration: CR S627; text: CR S627) To change the enactment date.
+- 2018-02-06 — Amendment SA 1923 proposed by Senator McConnell to Amendment SA 1922 (the instructions of the motion to refer). (consideration: CR S627; text: CR S627) Of a perfecting nature.
+- 2018-02-06 — Amendment SA 1924 proposed by Senator McConnell to Amendment SA 1923. (consideration: CR S627; text: CR S627) Of a perfecting nature.
+- 2018-02-06 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 695 presented in Senate. (CR S627)
+- 2018-02-06 — Measure laid before Senate by motion.
+- 2018-02-06 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 695 made in Senate.
+- 2018-02-06 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 695 with instructions to report back forthwith with the following amendment (SA 1922) made in Senate. (CR S627; text: CR S627)
+- 2018-02-06 — Motion to proceed to consideration of the House message to accompany H.R. 695 agreed to in Senate by Voice Vote. (consideration: CR S627)
+- 2018-02-06 — Senate amendment proposed (on the floor): Amendment SA 1922 proposed by Senator McConnell.(consideration: CR S627; text: CR S627)
+- 2018-02-06 — Senate amendment proposed (on the floor): Amendment SA 1923 proposed by Senator McConnell to Amendment SA 1922 (the instructions of the motion to refer).(consideration: CR S627; text: CR S627)
+- 2018-02-06 — Senate amendment proposed (on the floor): Amendment SA 1924 proposed by Senator McConnell to Amendment SA 1923.(consideration: CR S627; text: CR S627)
+- 2018-02-06 — Senate amendment submitted
+- 2018-02-06 — Senate amendment submitted
+- 2018-02-06 — Senate amendment submitted
+- 2018-02-06 — Senate amendment submitted
+- 2018-02-07 — Considered by Senate (Message from the House considered). (consideration: CR S667)
+- 2018-02-07 — Considered by Senate (Message from the House considered). (consideration: CR S667)
+- 2018-02-07 — Considered by Senate (Message from the House considered). (consideration: CR S667)
+- 2018-02-07 — Considered by Senate (Message from the House considered). (consideration: CR S667-699)
+- 2018-02-07 — Senate amendment submitted
+- 2018-02-07 — Senate amendment submitted
+- 2018-02-08 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 695 not invoked in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 29. (CR S798)
+- 2018-02-08 — Considered by Senate (Message from the House considered). (consideration: CR S794)
+- 2018-02-08 — Considered by Senate (Message from the House considered). (consideration: CR S794)
+- 2018-02-08 — Considered by Senate (Message from the House considered). (consideration: CR S794)
+- 2018-02-08 — Considered by Senate (Message from the House considered). (consideration: CR S794-799)
+- 2018-12-19 — Amendment SA 4163 agreed to in Senate by Voice Vote.
+- 2018-12-19 — Amendment SA 4163 proposed by Senator McConnell. (consideration: CR S7826-7827; text: CR S7826-7827) In the nature of a substitute.
+- 2018-12-19 — Amendment SA 4164 proposed by Senator McConnell to Amendment SA 4163. (consideration: CR S7827; text: CR S7827) To change the enactment date.
+- 2018-12-19 — Amendment SA 4165 proposed by Senator McConnell. (consideration: CR S7827; text: CR S7827) To change the enactment date.
+- 2018-12-19 — Amendment SA 4166 proposed by Senator McConnell to Amendment SA 4165 (the instructions of the motion to refer). (consideration: CR S7827; text: CR S7827) Of a perfecting nature.
+- 2018-12-19 — Amendment SA 4167 proposed by Senator McConnell to Amendment SA 4166. (consideration: CR C7827; text: CR S7827) Of a perfecting nature.
+- 2018-12-19 — Considered by Senate (Message from the House considered).
+- 2018-12-19 — Considered by Senate (Message from the House considered).
+- 2018-12-19 — Considered by Senate (Message from the House considered).
+- 2018-12-19 — Considered by Senate (Message from the House considered).
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 695 with an amendment (SA 4163) made in Senate.
+- 2018-12-19 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 695 with instructions to report back forthwith with the following amendment (SA 1922) withdrawn in Senate.
+- 2018-12-19 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 695 with instructions to report back forthwith with the following amendment (SA 4165) made in Senate.
+- 2018-12-19 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 695 with instructions to report back forthwith with the following amendment (SA 4165) withdrawn in Senate.
+- 2018-12-19 — Proposed amendment SA 1922 withdrawn in Senate.
+- 2018-12-19 — Proposed amendment SA 4164 withdrawn in Senate. (consideration: CR S7899)
+- 2018-12-19 — Proposed amendment SA 4165 withdrawn in Senate. (consideration: CR S7827)
+- 2018-12-19 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to H.R. 695 with an amendment (SA 4163) by Voice Vote.(consideration: CR S7826-7827; S7899)
+- 2018-12-19 — SA 1923 fell when SA 1922 withdrawn.
+- 2018-12-19 — SA 1924 fell when SA 1923 fell.
+- 2018-12-19 — SA 4166 fell when SA 4165 withdrawn.
+- 2018-12-19 — SA 4167 fell when SA 4166 fell.
+- 2018-12-19 — Senate amendment agreed to: Amendment SA 4163 agreed to in Senate by Voice Vote.
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4163 proposed by Senator McConnell.(consideration: CR S7826-7827; text: CR S7826-7827)
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4164 proposed by Senator McConnell to Amendment SA 4163.(consideration: CR S7827; text: CR S7827)
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4165 proposed by Senator McConnell.(consideration: CR S7827; text: CR S7827)
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4166 proposed by Senator McConnell to Amendment SA 4165 (the instructions of the motion to refer).(consideration: CR S7827; text: CR S7827)
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4167 proposed by Senator McConnell to Amendment SA 4166.(consideration: CR C7827; text: CR S7827)
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate amendment submitted
+- 2018-12-19 — Senate concurred in the House amendment to the Senate amendment to H.R. 695 with an amendment (SA 4163) by Voice Vote. (consideration: CR S7826-7827; S7899)
