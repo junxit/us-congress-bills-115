@@ -1,7 +1,7 @@
 ---
 measure: S. 3041
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 5165b
 
-> in subsection (a), by striking “any administrative expense, and any other expense not directly chargeable to” and inserting “direct administrative cost, and any other administrative expense associated with”; and
+> in subsection (a), by striking “any administrative expense, and any other expense not directly chargeable to” and inserting “any direct administrative cost, and any other administrative expense associated with”; and
 
 | | |
 |---|---|
 | Removed | `any administrative expense, and any other expense not directly chargeable to` |
-| Inserted | `direct administrative cost, and any other administrative expense associated with` |
+| Inserted | `any direct administrative cost, and any other administrative expense associated with` |
 
 ### 42 U.S.C. § 5165b
 
@@ -191,7 +191,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5149` | add-at-end | Section 306 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170` | add-at-end | Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170c` | add-at-end | Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c), as amended by section 5, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5133` | insert | in subsection (c) by inserting “Public Infrastructure” after “the National”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5133` | insert | in subsection (c), by inserting “Public Infrastructure” after “the National”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | strike | in clause (ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5133` | replace | in clause (iii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
