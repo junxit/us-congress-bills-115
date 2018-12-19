@@ -1,7 +1,7 @@
 ---
 measure: S. 3247
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3247
@@ -16,7 +16,7 @@ Women's Entrepreneurship and Economic Empowerment Act of 2018
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -28,6 +28,8 @@ Women's Entrepreneurship and Economic Empowerment Act of 2018
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -41,3 +43,8 @@ Women's Entrepreneurship and Economic Empowerment Act of 2018
 - 2018-11-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-11-28 — Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report.
 - 2018-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.
+- 2018-12-19 — Held at the desk.
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-19 — Received in the House.
