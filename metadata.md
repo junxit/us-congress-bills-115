@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4174
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4174
@@ -16,11 +16,12 @@ Foundations for Evidence-Based Policymaking Act of 2018
 
 - Rep. Ryan, Paul D. [R-WI-1] (R000570)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (2)
 
@@ -44,3 +45,14 @@ Foundations for Evidence-Based Policymaking Act of 2018
 - 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
 - 2017-11-15 — Reported by the Committee on Oversight and Government Reform. H. Rept. 115-411.
 - 2017-11-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-12-19 — Amendment SA 4171 agreed to in Senate by Unanimous Consent.
+- 2018-12-19 — Amendment SA 4171 proposed by Senator McConnell for Senator Johnson. (consideration: CR S7870-7871; text: CR S7871-7878) In the nature of a substitute.
+- 2018-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S7870-7878)
+- 2018-12-19 — Message on Senate action sent to the House.
+- 2018-12-19 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7871-7878)
+- 2018-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7871-7878)
+- 2018-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2018-12-19 — Senate amendment agreed to: Amendment SA 4171 agreed to in Senate by Unanimous Consent.
+- 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4171 proposed by Senator McConnell for Senator Johnson.(consideration: CR S7870-7871; text: CR S7871-7878)
+- 2018-12-19 — Senate amendment submitted
