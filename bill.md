@@ -11,11 +11,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Unfunded Mandates Information and Transparency Act of 2017”.
+This Act may be cited as the “Unfunded Mandates Information and Transparency Act of 2017 2018”.
 
-## § 2. Purpose
+## § 2. PurposePurposes
 
-The purpose of this Act is—
+The purpose purposes of this Act is are—
 
 - **(1)** to improve the quality of the deliberations of Congress with respect to proposed Federal mandates by—
   - **(A)** providing Congress and the public with more complete information about the effects of such mandates; and
@@ -26,7 +26,7 @@ The purpose of this Act is—
 
 Section 202(g) of the Congressional Budget Act of 1974 (2 U.S.C. 602(g)) is amended by adding at the end the following new paragraph:
 
-> - **(3)** *Additional studies* At the request of any Chairman or ranking member of the minority of a Committee of the Senate or the House of Representatives, the Director shall conduct an assessment comparing the authorized level of funding in a bill or resolution to the prospective costs of carrying out any changes to a condition of Federal assistance being imposed on State, local, or tribal governments participating in the Federal assistance program concerned or, in the case of a bill or joint resolution that authorizes such sums as are necessary, an assessment of an estimated level of funding compared to such costs.
+> - **(3)** *Additional studies* At the request of any Chairman or ranking member of the minority of a Committee of the Senate or the House of Representatives, the Director shall, to the extent practicable, conduct an assessment comparing the authorized level of funding in a bill or resolution to the prospective costs of carrying out any changes to a condition of Federal assistance being imposed on State, local, or tribal governments participating in the Federal assistance program concerned or, in the case of a bill or joint resolution that authorizes such sums as are necessary, an assessment of an estimated level of funding compared to such costs.
 
 ## § 4. Clarifying the definition of direct costs to reflect Congressional Budget Office practice
 
@@ -37,11 +37,11 @@ Section 421(3) of the Congressional Budget Act of 1974 (2 U.S.C. 658(3)(A)(i)) i
 
 ## § 5. Expanding the scope of reporting requirements to include regulations imposed by independent regulatory agencies
 
-Paragraph (1) of section 421 of the Congressional Budget Act of 1974 (2 U.S.C. 658) is amended by striking “, but does not include independent regulatory agencies” and inserting “, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Consumer Financial Protection Bureau”.
+Paragraph (1) of section 421 Section 421(1) of the Congressional Budget Act of 1974 (2 U.S.C. 658(1)) is amended by striking “, but does not include independent regulatory agencies” and inserting “, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Bureau of Consumer Financial Protection Bureau”.
 
 ## § 6. Amendments to replace Office of Management and Budget with Office of Information and Regulatory Affairs
 
-The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 1511 et seq.) is amended—
+The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 15111501 et seq.) is amended—
 
 - **(1)** in section 103(c) (2 U.S.C. 1511(c))—
   - **(A)** in the subsection heading, by striking “Office of Management and Budget” and inserting “Office of Information and Regulatory Affairs”; and
@@ -53,7 +53,7 @@ The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 1511 et s
 
 ## § 7. Applying substantive point of order to private sector mandates
 
-Section 425(a)(2) of the Congressional Budget Act of 1974 (2 U.S.C. 658d(a)(2)) is amended—
+Section 425(a)(2) of the Congressional Budget Act of 1974 (2 U.S.C. 658d(a)(2)) is amended, in the matter preceding subparagraph (A)—
 
 - **(1)** by striking “Federal intergovernmental mandates” and inserting “Federal mandates”; and
 - **(2)** by inserting “or 424(b)(1)” after “section 424(a)(1)”.
@@ -79,15 +79,15 @@ Section 201 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531) is amend
 
 ## § 9. Expanding the scope of statements to accompany significant regulatory actions
 
-- **(a)** *In general* Subsection (a) of section 202 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532) is amended to read as follows:
-  > - **(a)** *In general* Unless otherwise expressly prohibited by law, before promulgating any general notice of proposed rulemaking or any final rule, or within six months after promulgating any final rule that was not preceded by a general notice of proposed rulemaking, if the proposed rulemaking or final rule includes a Federal mandate that may result in an annual effect on State, local, or tribal governments, or to the private sector, in the aggregate of $100,000,000 or more in any 1 year, the agency shall prepare a written statement containing the following:
+- **(a)** *In general* Subsection (a) of section 202 Section 202(a) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532(a)) is amended to read as follows:
+  > - **(a)** *In general* Unless otherwise expressly prohibited by law, before promulgating any general notice of proposed rulemaking or any final rule, or within six 6 months after promulgating any final rule that was not preceded by a general notice of proposed rulemaking, if the proposed rulemaking or final rule includes a Federal mandate that may result in an annual effect on State, local, or tribal governments, or to the private sector, in the aggregate of $100,000,000 or more in any 1 year, the agency shall prepare a written statement containing the following:
   >   - **(1)** The text of the draft proposed rulemaking or final rule, together with a reasonably detailed description of the need for the proposed rulemaking or final rule and an explanation of how the proposed rulemaking or final rule will meet that need.
   >   - **(2)** An assessment of the potential costs and benefits of the proposed rulemaking or final rule, including an explanation of the manner in which the proposed rulemaking or final rule is consistent with a statutory requirement and avoids undue interference with State, local, and tribal governments in the exercise of their governmental functions.
   >   - **(3)** A qualitative and quantitative assessment, including the underlying analysis, of benefits anticipated from the proposed rulemaking or final rule (such as the promotion of the efficient functioning of the economy and private markets, the enhancement of health and safety, the protection of the natural environment, and the elimination or reduction of discrimination or bias).
   >   - **(4)** A qualitative and quantitative assessment, including the underlying analysis, of costs anticipated from the proposed rulemaking or final rule (such as the direct costs both to the Government in administering the final rule and to businesses and others in complying with the final rule, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and international competitiveness), health, safety, and the natural environment).
   >   - **(5)** Estimates by the agency, if and to the extent that the agency determines that accurate estimates are reasonably feasible, of—
   >     - **(A)** the future compliance costs of the Federal mandate; and
-  >     - **(B)** any disproportionate budgetary effects of the Federal mandate upon any particular regions of the Nation or particular State, local, or tribal governments, urban or rural or other types of communities, or particular segments of the private sector.
+  >     - **(B)** any disproportionate budgetary effects of the Federal mandate upon any particular regions of the Nation United States or particular State, local, or tribal governments, urban or rural or other types of communities, or particular segments of the private sector.
   >   - **(6)**
   >     - **(A)** A detailed description of the extent of the agency’s prior consultation with the private sector and elected representatives (under section 204) of the affected State, local, and tribal governments.
   >     - **(B)** A detailed summary of the comments and concerns that were presented by the private sector and State, local, or tribal governments either orally or in writing to the agency.
@@ -95,7 +95,7 @@ Section 201 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531) is amend
   >   - **(7)** A detailed summary of how the agency complied with each of the regulatory principles described in section 201.
   >   - **(8)** An assessment of the effects that the proposed rulemaking or final rule are expected to have on private property owners, including the use and value of affected property.
 
-- **(b)** *Requirement for detailed summary* Subsection (b) of section 202 of such Act is amended by inserting “detailed” before “summary”.
+- **(b)** *Requirement for detailed summary* Subsection (b) of section 202 of such Act Section 202(b) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532(b)) is amended by inserting “detailed” before “summary”.
 
 ## § 10. Enhanced stakeholder consultation
 
@@ -124,18 +124,18 @@ Section 208 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1538) is amend
 > ## § 208. Office of Information and Regulatory Affairs responsibilities
 >
 > - **(a)** *In General* The Administrator of the Office of Information and Regulatory Affairs shall provide meaningful guidance and oversight so that each agency’s regulations for which a written statement is required under section 202 are consistent with the principles and requirements of this title, as well as other applicable laws, and do not conflict with the policies or actions of another agency. If the Administrator determines that an agency’s regulations for which a written statement is required under section 202 do not comply with such principles and requirements, are not consistent with other applicable laws, or conflict with the policies or actions of another agency, the Administrator shall identify areas of non-compliance, notify the agency, and request that the agency comply before the agency finalizes the regulation concerned.
-> - **(b)** *Annual Statements to Congress on Agency Compliance* The Director of the Office of Information and Regulatory Affairs annually shall submit to Congress, including the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives, a written report detailing compliance by each agency with the requirements of this title that relate to regulations for which a written statement is required by section 202, including activities undertaken at the request of the Director to improve compliance, during the preceding reporting period. The report shall also contain an appendix detailing compliance by each agency with section 204.
+> - **(b)** *Annual Statements to Congress on Agency Compliance* The Director Administrator of the Office of Information and Regulatory Affairs annually shall submit to Congress, including the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives, a written report detailing compliance by each agency with the requirements of this title that relate to regulations for which a written statement is required by section 202, including activities undertaken at the request of the Director to improve compliance, during the preceding reporting period. The report shall also contain an appendix detailing compliance by each agency with section 204.
 
 ## § 12. Retrospective analysis of existing Federal regulations
 
-The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 1511 et seq.) is amended—
+The Unfunded Mandates Reform Act of 1995 (Public Law 104–4; 2 U.S.C. 1511 1501 et seq.) is amended—
 
 - **(1)** by redesignating section 209 as section 210; and
 - **(2)** by inserting after section 208 the following new section 209:
   > ## § 209. Retrospective analysis of existing Federal regulations
   >
   > - **(a)** *Requirement* At the request of the chairman or ranking minority member of a standing or select committee of the House of Representatives or the Senate, an agency shall conduct a retrospective analysis of an existing Federal regulation promulgated by an agency.
-  > - **(b)** *Report* Each agency conducting a retrospective analysis of existing Federal regulations pursuant to subsection (a) shall submit to the chairman of the relevant committee, Congress, and the Comptroller General a report containing, with respect to each Federal regulation covered by the analysis—
+  > - **(b)** *Report* Each agency conducting a retrospective analysis of existing Federal regulations pursuant to subsection (a) shall submit to the chairman of the relevant committee, Congress, and the Comptroller General of the United States a report containing, with respect to each Federal regulation covered by the analysis—
   >   - **(1)** a copy of the Federal regulation;
   >   - **(2)** the continued need for the Federal regulation;
   >   - **(3)** the nature of comments or complaints received concerning the Federal regulation from the public since the Federal regulation was promulgated;
