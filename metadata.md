@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4174
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4174
@@ -27,6 +27,10 @@ Foundations for Evidence-Based Policymaking Act of 2018
 
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2018-12-21 — [House 115-2-484](votes/house-115-2-0484.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (356–17)
 
 ## Actions
 
@@ -56,3 +60,16 @@ Foundations for Evidence-Based Policymaking Act of 2018
 - 2018-12-19 — Senate amendment agreed to: Amendment SA 4171 agreed to in Senate by Unanimous Consent.
 - 2018-12-19 — Senate amendment proposed (on the floor): Amendment SA 4171 proposed by Senator McConnell for Senator Johnson.(consideration: CR S7870-7871; text: CR S7871-7878)
 - 2018-12-19 — Senate amendment submitted
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4174.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Walker moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10518-10526; text as House agree to Senate amendment: CR H10518-10525)
+- 2018-12-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 356 - 17 (Roll no. 484).
+- 2018-12-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 356 - 17 (Roll no. 484).
+- 2018-12-31 — Pursuant to the provisions of H. Con. Res. 149, enrollment corrections on H.R. 4174 have been made.
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-14 — Became Public Law No: 115-435.
+- 2019-01-14 — Became Public Law No: 115-435.
+- 2019-01-14 — Signed by President.
+- 2019-01-14 — Signed by President.
