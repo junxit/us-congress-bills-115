@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 7347
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7347
+
+> To support carbon dioxide utilization and direct air capture research, to facilitate the permitting and development of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Utilizing Significant Emissions with Innovative Technologies Act” or the “USE IT Act”.
