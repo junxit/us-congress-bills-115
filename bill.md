@@ -15,9 +15,10 @@ In this Act:
 
 - **(1)** *Agreement* The term Agreement means the agreement required under section 2(a).
 - **(2)** *District* The term District means the Kennewick Irrigation District, located in Benton County, Washington, which operates and maintains a portion of the Kennewick Division of the Yakima Project constructed by the United States to enable the Kennewick Irrigation District to carry out authorized purposes pursuant to the Act of June 12, 1948 (62 Stat. 382).
-- **(3)** *Division* The term Division means the Kennewick Division, including the Transferred Works.
-- **(4)** *Transferred works* The term Transferred Works means the canals, laterals, and appurtenant works and lands, which begin at the District’s head gate and extends approximately 40 miles east to the Columbia River.
-- **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *District’s head gate* The term District’s head gate means the point of diversion for the Kennewick Irrigation District, identified as the KID Main Canal Headworks at the following location: KID Main Canal Headworks, 200 feet east and 1100 feet north, more or less, from the southwest corner of section 16, being within the northwest ¼ of the southwest ¼ of the southwest ¼ of section 16, T. 9 N., 26 E.W.M.
+- **(4)** *Division* The term Division means the Kennewick Division, including the Transferred Works.
+- **(5)** *Transferred works* The term Transferred Works means the canals, laterals, and appurtenant works and lands, which begin at the District’s head gate and extends approximately 40 miles east to the Columbia River built to serve the place of use of the 20,201 acres of currently irrigated irrigable lands entitled to delivery of water within the Kennewick Irrigation District.
+- **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 2. Agreement, Conveyance, Report
 
@@ -49,3 +50,22 @@ In this Act:
 - **(a)** *Administrative costs* Except as provided in subsection (b), administrative costs for conveyance of the Transferred Works under this Act shall be paid in equal shares by the Secretary and the District.
 - **(b)** *Real estate transfer cost* Costs of all boundary surveys, title searches, cadastral surveys, appraisals, and other real estate transactions required for the conveyance of the Transferred Works shall be paid by the District.
 - **(c)** *Costs of compliance with other laws* Costs associated with any review required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), subtitle III of title 54, United States Code, and all other applicable laws for conveyance of the Transferred Works shall be paid in equal shares by the Secretary and the District.
+
+## § 7. Miscellaneous
+
+- **(a)** *Applicability of other law* Section 1212 of Public Law 103–434 shall apply to and be incorporated into this Act.
+- **(b)** *Statutory construction* Nothing in this Act shall or shall be construed for any purpose—
+  - **(1)** to transfer, affect, reduce, modify, or impair the water rights of any person;
+  - **(2)** to affect, reduce, modify, or impair the United States’ authority to regulate and manage water in the Yakima Basin, including water diverted into the Chandler Power Canal and Prosser Dam through and including the Kennewick Irrigation District’s head gate;
+  - **(3)** to change how water is diverted at Prosser Dam and delivered to the Kennewick Irrigation District through the Chandler pumps through the District’s head gate; and
+  - **(4)** to affect reduce, modify, or impair the United States’ control, management, and ownership of the “Reserved works” as defined in the United States Bureau of Reclamation and Kennewick Irrigation District Amendatory Repayment Contract (1953) (Contract No. 14–06–W–56) as amended, at pp. 2–3, which Reserved works include but are not limited to Prosser Dam, the Chandler Power Canal and hydroelectric and pumping plant, all Yakima Project facilities, and the siphon under the Yakima River to the District’s head gate.
+
+## § 8. Limitations
+
+After completing the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Secretary of the Interior shall convey title, if the Secretary affirms in writing to the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources that the following criteria have been met:
+
+- **(1)** The Kennewick Irrigation District agrees to accept title to the property proposed for transfer.
+- **(2)** The proposed title transfer will not have an unmitigated negative effect on the environment.
+- **(3)** The transfer is consistent with the Secretary’s responsibility to protect land and water resources held in trust for federally recognized Indian Tribes.
+- **(4)** The transfer is consistent with the Secretary’s responsibility to ensure compliance with international treaties and interstate compacts.
+- **(5)** The Kennewick Irrigation District agrees to provide, as consideration for the assets to be conveyed, compensation to the United States worth the equivalent of the present value of any repayment obligation to the United States or other income stream the United States derives from the assets to be transferred at the time of the transfer.
