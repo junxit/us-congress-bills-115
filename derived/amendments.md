@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6771
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 4 executed, 3 stated and not applied.
+15 amendatory instructions. 7 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,6 +60,33 @@ to guess them.
 | Removed | `25` |
 | Inserted | `20` |
 
+### 30 U.S.C. § 191
+
+> in the first sentence of subsection (a), by striking “shall be paid into the Treasury” and inserting “shall, except as provided in subsection (b), be paid into the Treasury”;
+
+| | |
+|---|---|
+| Removed | `shall be paid into the Treasury` |
+| Inserted | `shall, except as provided in subsection (b), be paid into the Treasury` |
+
+### 30 U.S.C. § 191
+
+> in the first sentence, by striking “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all” and inserting “All”; and
+
+| | |
+|---|---|
+| Removed | `Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all` |
+| Inserted | `All` |
+
+### 30 U.S.C. § 191
+
+> in the second sentence, by striking “of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C. 191)” and inserting “of the Mineral Leasing Act (30 U.S.C. 191)”.
+
+| | |
+|---|---|
+| Removed | `of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C. 191)` |
+| Inserted | `of the Mineral Leasing Act (30 U.S.C. 191)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -72,3 +99,8 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1331` | add-at-end | in paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 191` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 191` | insert | in subsection (c)(1), by inserting “and except as provided in subsection (b)” before “, any rentals”. | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 1019` | strike | Section 20(a) of the Geothermal Steam Act of 1970 (30 U.S.C. 1019(a)) is amended in the matter preceding paragraph (1), in the second sentence, by striking “the provisions of subsection (b) of section 35 of the Mineral Leasing Act (30 U.… | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 1735` | strike | Section 205(f) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1735(f)) is amended by striking the fourth, fifth, and sixth sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
