@@ -35,7 +35,7 @@ In this Act:
 
 - **(b)** *Conforming amendments* The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) is amended—
   - **(1)** in section 322(e)(1) (42 U.S.C. 5165(e)(1)), by inserting “or event under section 420” after “major disaster” each place it appears; and
-  - **(2)** in section 404(a) (42 U.S.C. 5170c(a)), as amended by section 32 of this Act—
+  - **(2)** in section 404(a) (42 U.S.C. 5170c(a)), as amended by section 3233 of this Act—
     - **(A)** by inserting before the first period “, or any area affected by a fire for which assistance was provided under section 420”; and
     - **(B)** in the third sentence by inserting “or event under section 420” after “major disaster” each place it appears.
 - **(c)** *Reporting requirement* Not later than 1 year after the date of enactment of this Act and annually thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives a report containing a summary of any projects carried out, and any funding provided to those projects, under subsection (d) of section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187), as added by this section.
@@ -56,7 +56,7 @@ Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 >   - **(9)** installing warning signs;
 >   - **(10)** establishing defensible space measures;
 >   - **(11)** reducing hazardous fuels;
->   - **(12)** windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
+>   - **(12)** mitigating windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
 >   - **(13)** removing standing burned trees; and
 >   - **(14)** replacing water systems that have been burned and have caused contamination.
 
@@ -66,7 +66,7 @@ Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   - **(1)** in paragraph (4), by striking “and” at the end;
   - **(2)** by redesignating paragraph (5) as paragraph (6); and
   - **(3)** by inserting after paragraph (4) the following:
-    > - **(5)** provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance.
+    > - **(5)** provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance.; and
 
 - **(b)** *Repair, restoration, and replacement of damaged facilities* Section 406(a)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(2)) is amended—
   - **(1)** in subparagraph (B), by striking “and” at the end;
@@ -94,7 +94,7 @@ Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 ## § 8. Prioritization of facilities
 
-Not later than 180 days after the date of enactment of this Act, the Administrator shall provide guidance and training on an annual basis to State, Tribal, and local governments, first responders, and utility companies on—
+Not Beginning not later than 180 days after the date of enactment of this Act, the Administrator shall provide guidance and training on an annual basis to State, Tribal, and local governments, first responders, and utility companies on—
 
 - **(1)** the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return to functioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
 - **(2)** how hospitals, nursing homes and other long-term care facilities should adequately prepare for power outages during a major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)); and
@@ -126,6 +126,13 @@ Not later than 180 days after the date of enactment of this Act, the Administrat
     - **(B)** the ability of evacuation routes to effectively manage contraflow operations;
     - **(C)** for evacuation routes on public lands, the viewpoints of the applicable Federal land management agency regarding emergency operations, sustainability, and resource protection; and
     - **(D)** such other items the Administrator of the Federal Highway Administration considers appropriate.
+- **(c)** *Study* The Administrator, in coordination with the Administrator of the Federal Highway Administration and State, local, territorial, and Tribal governments, may—
+  - **(1)** conduct a study of the adequacy of available evacuation routes to accommodate the flow of evacuees; and
+  - **(2)** submit recommendations on how to help with anticipated evacuation route flow, based on the study conducted under paragraph (1), to—
+    - **(A)** the Federal Highway Administration;
+    - **(B)** the Agency;
+    - **(C)** State, local, territorial, and Tribal governments; and
+    - **(D)** Congress.
 
 ## § 10. Duplication of benefits
 
@@ -136,8 +143,10 @@ Not later than 180 days after the date of enactment of this Act, the Administrat
   >     - **(ii)** If a waiver is granted, the assistance to be funded is cost effective.
   >     - **(iii)** Equity and good conscience.
   >     - **(iv)** Other matters of public policy considered appropriate by the President.
-  >   - **(B)** *Grant or denial of waiver* A request under subparagraph (A) shall be granted or denied not later than 45 days after submission of such request.
+  >   - **(B)** *Grant or denial of waiver* A request under subparagraph (A) shall be granted or denied not later than 45 days after submission of such request.”.
   >   - **(C)** *Prohibition on determination that loan is a duplication* Notwithstanding subsection (c), in carrying out subparagraph (A), the President may not determine that a loan is a duplication of assistance, provided that all Federal assistance is used toward a loss suffered as a result of the major disaster or emergency.
+
+- **(b)** *Applicability* The amendment made by subsection (a) shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act.
 
 ## § 11. State administration of assistance for direct temporary housing and permanent housing construction
 
@@ -154,11 +163,11 @@ Section 408(f) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
 - **(2)** by adding at the end the following:
   > - **(3)** *Requirements*
   >   - **(A)** *Application* A State or Tribal government desiring to provide assistance under subsection (c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
-  >   - **(B)** *Criteria* The President, in consultation and coordination with State, Tribal, and local governments, shall establish criteria for the approval of applications submitted under subparagraph (A). The criteria shall include, at a minimum—
+  >   - **(B)** *Criteria* The President, in consultation and coordination with State, and Tribal, and local governments, shall establish criteria for the approval of applications submitted under subparagraph (A). The criteria shall include, at a minimum—
   >     - **(i)** a requirement that the State or Tribal government submit a housing strategy under subparagraph (C);
   >     - **(ii)** the demonstrated ability of the State or Tribal government to manage the program under this section;
   >     - **(iii)** there being in effect a plan approved by the President as to how the State or Tribal government will comply with applicable Federal laws and regulations and how the State or Tribal government will provide assistance under its plan;
-  >     - **(iv)** a requirement that the State, Tribal, or local government comply with rules and regulations established pursuant to subsection (j); and
+  >     - **(iv)** a requirement that the State, or Tribal, or local government comply with rules and regulations established pursuant to subsection (j); and
   >     - **(v)** a requirement that the President, or the designee of the President, comply with subsection (i).
   >   - **(C)** *Requirement of housing strategy*
   >     - **(i)** *In general* A State or Tribal government submitting an application under this paragraph shall have an approved housing strategy, which shall be developed and submitted to the President for approval.
@@ -168,31 +177,32 @@ Section 408(f) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
   >   - **(D)** *Quality assurance* Before approving an application submitted under this section, the President, or the designee of the President, shall institute adequate policies, procedures, and internal controls to prevent waste, fraud, abuse, and program mismanagement for this program and for programs under subsections (c)(1)(B), (c)(4), and (e). The President shall monitor and conduct quality assurance activities on a State or Tribal government’s implementation of programs under subsections (c)(1)(B), (c)(4), and (e). If, after approving an application of a State or Tribal government submitted under this paragraph, the President determines that the State or Tribal government is not administering the program established by this section in a manner satisfactory to the President, the President shall withdraw the approval.
   >   - **(E)** *Audits* The Inspector General of the Department of Homeland Security shall provide for periodic audits of the programs administered by States and Tribal governments under this subsection.
   >   - **(F)** *Applicable laws* All Federal laws applicable to the management, administration, or contracting of the programs by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
-  >   - **(G)** *Report on effectiveness* Not later than 18 months after the date of enactment of this paragraph, the Inspector General of the Department of Homeland Security shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the State or Tribal government’s role to provide assistance under this section. The report shall contain an assessment of the effectiveness of the State or Tribal government’s role to provide assistance under this section, including—
+  >   - **(G)** *Report on effectiveness* Not later than 18 months after the date of enactment of this paragraph, the Inspector General of the Department of Homeland Security shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the State or Tribal government’s role to provide assistance under this section. The report shall contain an assessment of the effectiveness of the State or Tribal government’s role to provide in providing assistance under this section, including—
   >     - **(i)** whether the State or Tribal government’s role helped to improve the general speed of disaster recovery;
   >     - **(ii)** whether the State or Tribal government providing assistance under this section had the capacity to administer this section; and
   >     - **(iii)** recommendations for changes to improve the program if the State or Tribal government’s role to administer the programs should be continued.
-  >   - **(H)** *Report on incentives* Not later than 12 months after the date of enactment of this paragraph, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a proposed incentive structure for awards made under this section to encourage participation by eligible States and to potentially add cost-share requirements that are reasonable to support increased State management according to this section.
-  >   - **(I)** *Prohibition* The President may not condition the provision of Federal assistance under this Act by a State or Tribal government requesting a grant under this section.
+  >   - **(H)** *Report on incentives* Not later than 12 months after the date of enactment of this paragraph, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a proposed incentive structure for awards made under this section to encourage participation by eligible States and Tribal governments and to potentially add cost-share requirements that are reasonable to support increased State management by States and Tribal governments according to this section.
+  >   - **(I)** *Prohibition* The President may not condition the provision of Federal assistance under this Act by on a State or Tribal government requesting a grant under this section.
   >   - **(J)** *Miscellaneous*
-  >     - **(i)** *Notice and comment* The Administrator of the Federal Emergency Management Agency may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program until such regulations are promulgated.
+  >     - **(i)** *Notice and comment* The Administrator of the Federal Emergency Management Agency may waive notice and comment rulemaking with respect to rules to carry out this section, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program until such regulations are promulgated.
   >     - **(ii)** *Final Rule* Not later than 2 years after the date of enactment of this paragraph, the Administrator of the Federal Emergency Management Agency shall issue final regulations to implement this subsection as amended by the Disaster Recovery Reform Act of 2018.
   >     - **(iii)** *Waiver and expiration* The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after the date of enactment of this paragraph or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
 
 ## § 12. Assistance to individuals and households
 
-Section 408(h) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(h)) is amended—
+- **(a)** *In general* Section 408(h) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(h)) is amended—
+  - **(1)** in paragraph (1), by inserting “, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e)” after “disaster”;
+  - **(2)** by redesignating paragraph (2) as paragraph (3);
+  - **(3)** by inserting after paragraph (1) the following:
+    > - **(2)** *Other needs assistance* The maximum financial assistance any individual or household may receive under subsection (e) shall be equivalent to the amount set forth in paragraph (1) with respect to a single major disaster.
 
-- **(1)** in paragraph (1), by inserting “, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e)” after “disaster”;
-- **(2)** by redesignating paragraph (2) as paragraph (3);
-- **(3)** by inserting after paragraph (1) the following:
-  > - **(2)** *Other needs assistance* The maximum financial assistance any individual or household may receive under subsection (e) shall be equivalent to the amount set forth in paragraph (1) with respect to a single major disaster.
+  - **(4)** in paragraph (3), as so redesignated, by striking “paragraph (1)” and inserting “paragraphs (1) and (2)”; and
+  - **(5)** by inserting after paragraph (3), as so redesignated, the following:
+    > - **(4)** *Exclusion of necessary expenses for individuals with disabilities*
+    >   - **(A)** *In general* The maximum amount of assistance established under paragraph (1) shall exclude expenses to repair or replace damaged accessibility-related improvements under paragraphs (2), (3), and (4) of subsection (c) for individuals with disabilities.
+    >   - **(B)** *Other needs assistance* The maximum amount of assistance established under paragraph (2) shall exclude expenses to repair or replace accessibility-related personal property under subsection (e)(2) for individuals with disabilities.
 
-- **(4)** in paragraph (3), as so redesignated, by striking “paragraph (1)” and inserting “paragraphs (1) and (2)”; and
-- **(5)** by inserting after paragraph (3), as so redesignated, the following:
-  > - **(4)** *Exclusion of necessary expenses for individuals with disabilities*
-  >   - **(A)** *In general* The maximum amount of assistance established under paragraph (1) shall exclude expenses to repair or replace damaged accessibility-related improvements under paragraphs (2), (3), and (4) of subsection (c) for individuals with disabilities.
-  >   - **(B)** *Other needs assistance* The maximum amount of assistance established under paragraph (2) shall exclude expenses to repair or replace accessibility-related personal property under subsection (e)(2) for individuals with disabilities.
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act.
 
 ## § 13. Multifamily lease and repair assistance
 
@@ -208,13 +218,14 @@ Section 408(h) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
 
 ## § 14. Private nonprofit facility
 
-Section 102(11)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(11)(B)) is amended by inserting “food banks,” after “shelter workshops,”.
+- **(a)** *In general* Section 102(11)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(11)(B)) is amended by inserting “food banks,” after “shelter workshops,”.
+- **(b)** *Applicability* The amendment made by subsection (a) shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after February 9, 2018.
 
 ## § 15. Management costs
 
 Section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) is amended—
 
-- **(1)** in subsection (a), by striking “any administrative expense, and any other expense not directly chargeable to” and inserting “direct administrative cost, and any other administrative expense associated with”; and
+- **(1)** in subsection (a), by striking “any administrative expense, and any other expense not directly chargeable to” and inserting “any direct administrative cost, and any other administrative expense associated with”; and
 - **(2)** in subsection (b)—
   - **(A)** by striking “Notwithstanding” and inserting the following:
     > - **(1)** *In general* Notwithstanding
@@ -278,20 +289,22 @@ Section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
     - **(A)** veterinary care of canine search teams;
     - **(B)** locating and treating companion animals, service animals, livestock, and other animals; and
     - **(C)** surveillance and treatment of zoonotic diseases;
-  - **(2)** recruit, train, and certify veterinary professionals, including veterinary students, in accordance with an established set of plans and standard operating guidelines to carry out the duties associated with planning for and responding to emergencies as described in paragraph (1);
-  - **(3)** assist State, Tribal, and local governments and nonprofit organizations in developing emergency management and evacuation plans that account for the care and rescue of animals and in improving local readiness for providing veterinary medical response during a disaster; and
+  - **(2)** recruit, train, and certify veterinary professionals, including veterinary students, in accordance with an established set of plans and standard operating guidelines to carry out the duties associated with planning for and responding to emergencies and major disasters as described in paragraph (1);
+  - **(3)** assist State, Tribal, and local governments and nonprofit organizations in developing emergency management and evacuation plans that account for the care and rescue of animals and in improving local readiness for providing veterinary medical response during a disaster an emergency or major disaster; and
   - **(4)** coordinate with the Department of Homeland Security, the Department of Health and Human Services, the Department of Agriculture, State, Tribal, and local governments (including departments of animal and human health), veterinary and health care professionals, and volunteers.
 
 ## § 19. Right of arbitration
 
-Section 423 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189a) is amended by adding at the end the following:
+- **(a)** *In general* Section 423 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189a) is amended by adding at the end the following:
+  > - **(d)** *Right of arbitration*
+  >   - **(1)** *In general* Notwithstanding this section subsections (a), (b), and (c), an applicant for assistance under this title may request arbitration to dispute the eligibility for assistance or repayment of assistance provided for a dispute of more than $500,000. Such arbitration shall be conducted de novo by the Civilian Board of Contract Appeals and the decision of such Board shall be binding.
+  >   - **(2)** *Eligibility* To participate in arbitration under this subsection, an applicant—
+  >     - **(A)** shall submit the dispute to the arbitration process established under the authority granted under section 601 of division A of Public Law 111–5 (123 Stat. 115); and
+  >     - **(B)** may submit a request for arbitration after the completion of the first appeal under subsection (a) at any time before the Administrator of the Federal Emergency Management Agency has issued a final agency determination.
+  >   - **(2)** *Eligibility* To participate in arbitration under this subsection, an applicant may submit a request for arbitration after the completion of the first appeal under subsection (a) at any time before the Administrator of the Federal Emergency Management Agency has issued a final agency determination.
+  >   - **(3)** *Limitation of appeal* Upon the submission of a request for arbitration, an applicant shall forfeit all rights to further appeal.
 
-> - **(d)** *Right of arbitration*
->   - **(1)** *In general* Notwithstanding this section, an applicant for assistance under this title may request arbitration to dispute the eligibility for assistance or repayment of assistance provided for a dispute of more than $500,000. Such arbitration shall be conducted de novo by the Civilian Board of Contract Appeals and the decision of such Board shall be binding.
->   - **(2)** *Eligibility* To participate in arbitration under this subsection, an applicant—
->     - **(A)** shall submit the dispute to the arbitration process established under the authority granted under section 601 of division A of Public Law 111–5 (123 Stat. 115); and
->     - **(B)** may submit a request for arbitration after the completion of the first appeal under subsection (a) at any time before the Administrator of the Federal Emergency Management Agency has issued a final agency determination.
->   - **(3)** *Limitation of appeal* Upon the submission of a request for arbitration, an applicant shall forfeit all rights to further appeal.
+- **(b)** *Regulations* Not later than 2 years after the date of enactment of this Act, the Administrator shall issue regulations to implement the amendment made by this section.
 
 ## § 20. Unified Federal environmental and historic preservation review
 
@@ -382,7 +395,7 @@ Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >     - **(A)** the name of the party;
 >     - **(B)** the date the contract was awarded;
 >     - **(C)** the amount and scope of the contract;
->     - **(D)** if the contract was awarded through competitive bidding process;
+>     - **(D)** if the contract was awarded through a competitive bidding process;
 >     - **(E)** if no competitive bidding process was used, the reason why competitive bidding was not used; and
 >     - **(F)** the authority used to bypass the competitive bidding process.
 >   - **(2)** *Report* Not later than 10 days after the last day of the fiscal year, the Administrator of the Federal Emergency Management Agency shall provide a report to the appropriate committees of Congress summarizing the following information for the preceding fiscal year:
@@ -397,10 +410,19 @@ Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >   - **(4)** the scope of the contract;
 >   - **(5)** the period of performance for the contract; and
 >   - **(6)** whether the contract was awarded through a competitive bidding process.
+> - **(e)** *Collection of public assistance recipient and subrecipient contracts*
+>   - **(1)** *In general* Not later than 180 days after the date of enactment of this subsection, the Administrator of the Federal Emergency Management Agency shall initiate efforts to begin collecting information prior to the project closeout phase on any contract for more than $500,000 that a public assistance recipient or subrecipient enters into using grant monies under section 324, 403, 406, 407, 428, or 502, to improve oversight efforts by the Inspector General of the Department and others, including—
+>     - **(A)** the name of each party;
+>     - **(B)** the date the contract was awarded;
+>     - **(C)** the amount of the contract;
+>     - **(D)** the scope of the contract;
+>     - **(E)** the period of performance for the contract; and
+>     - **(F)** whether the contract was awarded through a competitive bidding process.
+>   - **(2)** *Report* Not later than 365 days after the date of enactment of this subsection, the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the efforts of the Federal Emergency Management Agency to collect the information described in paragraph (1).
 
 ## § 25. Audit of contracts
 
-Notwithstanding any other provision of law, the Administrator shall not reimburse a State, Tribe, or local government or the owner or operator of a private nonprofit facility for any activities made pursuant to a contract that prohibits the Administrator or the Comptroller General of the United States from auditing or otherwise reviewing all aspects relating to the contract.
+Notwithstanding any other provision of law, the Administrator shall not reimburse a State, Tribe, or local government, an Indian tribal government (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122), or the owner or operator of a private nonprofit facility (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122) for any activities made pursuant to a contract that prohibits the Administrator or the Comptroller General of the United States from auditing or otherwise reviewing all aspects relating to the contract.
 
 ## § 26. Inspector general audit of FEMA contracts for tarps and plastic sheeting
 
@@ -422,7 +444,7 @@ Section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 ## § 28. Guidance on inundated and submerged roads
 
-The Administrator, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Tribal governments regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172), as amended by this Act.
+The Administrator, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, and local, and Tribe governments and Indian tribal governments (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122) regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172), as amended by this Act.
 
 ## § 29. Guidance and recommendations
 
@@ -459,7 +481,7 @@ Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 ## § 32. National public infrastructure predisaster hazard mitigation
 
 - **(a)** *Predisaster hazard mitigation* Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended—
-  - **(1)** in subsection (c) by inserting “Public Infrastructure” after “the National”;
+  - **(1)** in subsection (c), by inserting “Public Infrastructure” after “the National”;
   - **(2)** in subsection (e)(1)(B)—
     - **(A)** in clause (ii), by striking “or” at the end;
     - **(B)** in clause (iii), by striking the period at the end and inserting “; or”; and
@@ -514,16 +536,17 @@ Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   >   - **(D)** *Report* Not later than 2 years after the date of enactment of this paragraph, the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.
 
 - **(e)** *Conforming amendment* Section 205(d)(2) of the Disaster Mitigation Act of 2000 (42 U.S.C. 5172 note) is amended by inserting “(B)” after “except that paragraph (1)”.
+- **(f)** *Applicability* The amendments made by subsections (b) and (c) shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act.
 
 ## § 34. Reimbursement
 
 The Agency shall retroactively reimburse State and units of local government (for a period of 3 years after the declaration of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170)) upon determination that a locally implemented housing solution, implemented by State or units of local government, costs 50 percent of the comparable Agency solution or whatever the locally implemented solution costs, whichever is lower.
 
-## § 35. Flood insurance
+## § 3534. Flood insurance
 
 Section 406(d)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(d)(1)) is amended by adding at the end the following: “This section shall not apply to more than 1 building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, effective January 1, 2016.”.
 
-## § 36. Certain recoupment prohibited
+## § 3635. Certain recoupment prohibited
 
 - **(a)** *In general* Notwithstanding any other provision of law, the Agency shall deem any covered disaster assistance to have been properly procured, provided, and utilized, and shall restore any funding of covered disaster assistance previously provided but subsequently withdrawn or deobligated.
 - **(b)** *Covered disaster assistance defined* In this section, the term covered disaster assistance means assistance—
@@ -533,7 +556,7 @@ Section 406(d)(1) of the Robert T. Stafford Disaster Relief and Emergency Assist
     - **(B)** the Technical Assistance Contractor provided inaccurate information to the local government; and
     - **(C)** the local government relied on the inaccurate information to determine that relevant contracts were eligible, reasonable, and reimbursable.
 
-## § 37. Federal assistance to individuals and households and nonprofit facilities
+## § 3736. Federal assistance to individuals and households and nonprofit facilities
 
 - **(a)** *Critical document fee waiver* Section 408(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(e)) is amended by adding at the end the following:
   > - **(3)** *Critical document fee waiver*
@@ -548,13 +571,15 @@ Section 406(d)(1) of the Robert T. Stafford Disaster Relief and Emergency Assist
   >     - **(viii)** The biometric service fee.
   >   - **(B)** *Exemption from form requirement* The authority of the President to waive fees under clauses (iii) through (viii) of subparagraph (A) applies regardless of whether the individual or household qualifies for a Form I–912 Request for Fee Waiver, or any successor thereto.
   >   - **(C)** *Exemption from assistance maximum* The assistance limit in subsection (h) shall not apply to any fee waived under this paragraph.
+  >   - **(D)** *Report* Not later than 365 days after the date of enactment of this paragraph, the Administrator of the Federal Emergency Management Agency and the head of any other agency given critical document fee waiver authority under this paragraph shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in subparagraph (A).
 
 - **(b)** *Federal assistance to private nonprofit childcare facilities* Section 406(a)(3)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)(B)) is amended by inserting “(including private nonprofit center-based childcare)” after “education”.
+- **(c)** *Applicability* The amendment made by subsection (b) shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act.
 
-## § 38. Cost of assistance estimates
+## § 3837. Cost of assistance estimates
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Administrator shall review the factors considered when evaluating a request for a major disaster declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), specifically the estimated cost of the assistance.
-- **(b)** *Rulemaking* Not later than 180 days after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update how the Agency estimates the cost of major disaster assistance, including adjusting the per capita impact indicator for annual inflation for all years since 1986, and consider other impacts on the capacity of a jurisdiction to respond to disasters.
+- **(a)** *In general* Not later than 180 270 days after the date of enactment of this Act, the Administrator shall review the factors considered when evaluating a request for a major disaster declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), specifically the estimated cost of the assistance, and provide a report and briefing to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+- **(b)** *Rulemaking* Not later than 180 days 2 years after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update the factors considered when evaluating a Governor's request for a major disaster declaration, including reviewing how the Agency estimates the cost of major disaster assistance, including adjusting the per capita impact indicator for annual inflation for all years since 1986, and consider other impacts on the capacity of a jurisdiction to respond to disasters.
 - **(c)** *Implementation* The Administrator—
   - **(1)** shall ensure that any new methodology developed under this section shall be phased in over a period of not less than 5 years; and
   - **(2)** may subject adjustments to an increase of not more than 10 percent annually for jurisdictions, if the Administrator determines the increase is necessary to allow additional time to appropriately budget for future disasters.
@@ -562,8 +587,59 @@ Section 406(d)(1) of the Robert T. Stafford Disaster Relief and Emergency Assist
   - **(1)** submit a report to the committees of jurisdiction of Congress on the initiative to modernize the per capita impact indicator; and
   - **(2)** present recommendations for new measures to assess the capacities of States to respond to and recover from disasters.
 
-## § 39. Report on insurance shortfalls
+## § 3938. Report on insurance shortfalls
 
 Section 311 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5154) is amended by adding at the end the following:
 
 > - **(d)** *Report on insurance shortfalls* Not later than 2 years after the date of enactment of this subsection, and each year thereafter, the Administrator of the Federal Emergency Management Agency shall submit a report to Congress on the number of instances and the estimated amounts involved, by State, for cases in which self-insurance amounts have been insufficient to address flood damages.
+
+## § 39. Post disaster building safety assessment
+
+- **(a)** *Building safety assessment team*
+  - **(1)** *In general* The Administrator shall coordinate with State and local governments and organizations representing architects and engineers to develop guidance, including best practices, for post disaster assessment of buildings by licensed architects and engineers to ensure the architects and engineers properly analyze the structural integrity and livability of buildings and structures.
+  - **(2)** *Publication* The Administrator shall publish the guidance required to be developed under paragraph (1) not later than 1 year after the date of enactment of this Act.
+- **(b)** *National incident management system* The Administrator shall revise or issue guidance as required to the National Incident Management System to ensure the functions of an architect are accurately incorporated, to include assisting communities in mitigating, preparing for, responding to, and recovering from a disaster, including participating on, managing, and supervising building safety assessment teams.
+
+## § 40. FEMA updates on national preparedness assessment
+
+Not later than 6 months after the date of enactment of this Act, and every 6 months thereafter until completion, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives an update on the progress of the Agency in completing action 6 with respect to the report published by the Government Accountability Office entitled “2012 Annual Report: Opportunities to Reduce Duplication, Overlap and Fragmentation, Achieve Savings, and Enhance Revenue” (February 2, 2012), which requires the Agency to—
+
+- **(1)** complete a national preparedness assessment of capability gaps at each level based on tiered, capability-specific performance objectives to enable prioritization of grant funding; and
+- **(2)** identify the potential costs for establishing and maintaining those capabilities at each level and determine what capabilities Federal agencies should provide.
+
+## § 41. FEMA report on duplication in non-natural disaster preparedness grant programs
+
+Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the results of the efforts of the Agency to identify and prevent unnecessary duplication within and across the non-natural disaster preparedness grant programs of the Agency, as required in the report published by the Government Accountability Office entitled “2012 Annual Report: Opportunities to Reduce Duplication, Overlap and Fragmentation, Achieve Savings, and Enhance Revenue” (February 2, 2012), including with respect to—
+
+- **(1)** the Urban Area Security Initiative established under section 2003 of the Homeland Security Act of 2002 (6 U.S.C. 604);
+- **(2)** the Port Security Grant Program authorized under section 70107 of title 46, United States Code;
+- **(3)** the State Homeland Security Grant Program established under section 2004 of the Homeland Security Act of 2002 (6 U.S.C. 605); and
+- **(4)** the Transit Security Grant Program authorized under titles XIV and XV of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1131 et seq.).
+
+## § 42. Extension of unemployment assistance for the Commonwealth of Puerto Rico and the United States Virgin Islands
+
+- **(a)** *In general* Notwithstanding any other provision of law, in the case of an individual eligible to receive unemployment assistance under section 410(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5177(a)) as a result of a disaster declaration made for Hurricane Irma and Hurricane Maria in the Commonwealth of Puerto Rico and the United States Virgin Islands, the President shall make such assistance available for 52 weeks after the date of the disaster declaration effective as if enacted at the time of the disaster declaration.
+- **(b)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this section.
+
+## § 43. Study and report
+
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator shall enter into a contract with the National Academy of Medicine to conduct a study and prepare a report as described in subsection (b).
+- **(b)** *Study and report*
+  - **(1)** *Study*
+    - **(A)** *In general* The study described in this subsection shall be a study of matters concerning best practices in mortality counts as a result of a major disaster (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)).
+    - **(B)** *Contents* The study described in this subsection shall address approaches to quantifying mortality and significant morbidity among populations affected by major disasters, which shall include best practices and policy recommendations for—
+      - **(i)** equitable and timely attribution, in order to facilitate access to available benefits, among other things;
+      - **(ii)** timely prospective tracking of population levels of mortality and significant morbidity, and their causes, in order to continuously inform response efforts; and
+      - **(iii)** a retrospective study of disaster-related mortality and significant morbidity to inform after-action analysis and improve subsequent preparedness efforts.
+  - **(2)** *Report* Not later than 2 years after the date on which the contract described in subsection (a) is entered into, the National Academy of Medicine shall complete and transmit to the Administrator a report on the study described in paragraph (1).
+- **(c)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this section.
+
+## § 44. Review of assistance for damaged underground water infrastructure
+
+- **(a)** *Definition of public assistance grant program* The term public assistance grant program means the public assistance grant program authorized under sections 403, 406, 407, and 502(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b, 5172, 5173, 5192(a)).
+- **(b)** *Review and briefing* Not later than 60 days after the date of enactment of this Act, the Administrator shall—
+  - **(1)** conduct a review of the assessment and eligibility process under the public assistance grant program and the public notice and comment requirements under section 325(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165c(a)) with respect to assistance provided for damaged underground water infrastructure as a result of a major disaster declared under section 401 of such Act (42 U.S.C. 5170), including wildfires; and
+  - **(2)** provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a briefing on the review conducted under paragraph (1).
+- **(c)** *Report and recommendations* The Administrator shall—
+  - **(1)** not later than 180 days after the date of enactment of this Act, issue a report on the review conducted under subsection (b)(1); and
+  - **(2)** not later than 180 days after the date on which the Administrator issues the report required under paragraph (1), implement any recommendations contained in the report.
