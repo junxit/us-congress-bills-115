@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4174
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 5 executed, 33 stated and not applied.
+36 amendatory instructions. 5 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,14 +78,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | before section 301, by inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting before section 301 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the item relating to section 301 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking “; and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (13), by striking “; and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (14), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
