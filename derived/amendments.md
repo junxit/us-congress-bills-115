@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 115
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 2 U.S.C. § 658
 
-> Paragraph (1) of section 421 of the Congressional Budget Act of 1974 (2 U.S.C. 658) is amended by striking “, but does not include independent regulatory agencies” and inserting “, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Consumer Financial Protection Bureau”.
+> Paragraph (1) of section 421 Section 421(1) of the Congressional Budget Act of 1974 (2 U.S.C. 658(1)) is amended by striking “, but does not include independent regulatory agencies” and inserting “, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Bureau of Consumer Financial Protection Bureau”.
 
 | | |
 |---|---|
 | Removed | `, but does not include independent regulatory agencies` |
-| Inserted | `, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Consumer Financial Protection Bureau` |
+| Inserted | `, except it does not include the Board of Governors of the Federal Reserve System, the Federal Open Market Committee, or the Bureau of Consumer Financial Protection Bureau` |
 
 ### 2 U.S.C. § 1511
 
@@ -111,14 +111,14 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1535` | strike | in the subsection heading, by striking “OMB”; and | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 658d` | insert | by inserting “or 424(b)(1)” after “section 424(a)(1)”. | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1531` | amend | Section 201 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1532` | amend | Subsection (a) of section 202 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1532` | insert | Subsection (b) of section 202 of such Act is amended by inserting “detailed” before “summary”. | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 1532` | amend | Subsection (a) of section 202 Section 202(a) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1532` | insert | Subsection (b) of section 202 of such Act Section 202(b) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1532(b)) is amended by inserting “detailed” before “summary”. | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1534` | insert | in the section heading, by inserting “and private sector” before “input”; | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1534` | insert | by inserting “, and impacted parties within the private sector (including small business),” after “on their behalf)”; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1534` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1538` | amend | Section 208 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1538) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1511` | redesignate | by redesignating section 209 as section 210; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1511` | insert | by inserting after section 208 the following new section 209: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating section 209 as section 210; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 208 the following new section 209: | the bill names no machine-readable US Code section |
 | `2 U.S.C. § 1571` | strike | by striking “only” each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1571` | replace | in paragraph (2)(B), by striking “section 202” and all that follows through the period at the end and inserting the following: “section 202, prepare the written plan under section 203(a)(1) and (2), or comply with section 205(a) and (b),… | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1571` | replace | in paragraph (3), by striking “written statement or plan is required” and all that follows through “shall not” and inserting the following: “written statement under section 202, a written plan under section 203(a)(1) and (2), or complian… | the bill quotes the text struck but describes what replaces it |
