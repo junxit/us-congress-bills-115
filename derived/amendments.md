@@ -1,7 +1,7 @@
 ---
 measure: S. 3178
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 13 of title 18 is amended by inserting after the item relating to section 249 the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 249` | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 249` | insert | The table of sections for chapter 13 of title 18, United States Code, is amended by inserting after the item relating to section 249 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
