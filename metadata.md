@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7327
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7327
@@ -44,3 +44,12 @@ Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Techno
 - 2018-12-19 — Received in the Senate, read twice.
 - 2018-12-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-12-19 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7950)
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7950)
+- 2018-12-21 — Became Public Law No: 115-390.
+- 2018-12-21 — Became Public Law No: 115-390.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Signed by President.
+- 2018-12-21 — Signed by President.
