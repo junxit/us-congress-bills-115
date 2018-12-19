@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3990
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Monument Creation and Protection Act”.
+This Act may be cited as the “National Monument Creation and Protection Act” or the “National Monument CAP Act”.
 
 ## § 2. Limitation on size; clarification of eligible objects
 
