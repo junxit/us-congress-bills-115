@@ -1,7 +1,7 @@
 ---
 measure: S. 2948
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2948
@@ -29,3 +29,7 @@ Payment Integrity Information Act of 2018
 
 - 2018-05-24 — Introduced in Senate
 - 2018-05-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2018-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2018-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-445.
+- 2018-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-445.
+- 2018-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 736.

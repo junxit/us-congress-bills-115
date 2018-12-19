@@ -1,7 +1,7 @@
 ---
 measure: S. 2948
 congress: 115
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
