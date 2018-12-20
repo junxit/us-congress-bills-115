@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5509
@@ -31,6 +31,10 @@ Innovations in Mentoring, Training, and Apprenticeships Act
 - House — Science, Space, and Technology Committee
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-459](votes/house-115-2-0459.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (378–13)
+
 ## Actions
 
 - 2018-04-13 — Introduced in House
@@ -48,3 +52,20 @@ Innovations in Mentoring, Training, and Apprenticeships Act
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-975.
 - 2018-09-25 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-975.
 - 2018-09-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2018-12-20 — Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Amendment SA 4172 proposed by Senator Boozman for Senator Thune. (consideration: CR S7947-7949; text: CR S7947-7949) In the nature of a substitute.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5509.
+- 2018-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7947-7949)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10416-10419)
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 378 - 13 (Roll no. 459). (consideration: CR H10437-10438; text: CR H10416-10418)
+- 2018-12-20 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 378 - 13 (Roll no. 459).(consideration: CR H10437-10438; text: CR H10416-10418)
+- 2018-12-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-12-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2018-12-20 — Senate amendment agreed to: Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4172 proposed by Senator Boozman for Senator Thune.(consideration: CR S7947-7949; text: CR S7947-7949)
+- 2018-12-20 — Senate amendment submitted
