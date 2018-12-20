@@ -1,7 +1,7 @@
 ---
 measure: H.R. 88
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 88
@@ -20,6 +20,10 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 
 - House — Natural Resources Committee
 - Senate — Energy and Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-470](votes/house-115-2-0470.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (220–183)
 
 ## Actions
 
@@ -47,3 +51,14 @@ Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battle
 - 2018-06-06 — Senate amendment proposed (on the floor): Amendment SA 2349 proposed by Senator McConnell for Senator Murkowski.(consideration: CR S3263; text: CR S3263)
 - 2018-06-06 — Senate amendment submitted
 - 2018-06-06 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2018-06-07 — Message on Senate action sent to the House.
+- 2018-11-28 — Rules Committee Resolution H. Res. 1160 Reported to House. Rule provides for consideration of Senate amendment to H.R. 88 with 1 hour of general debate.
+- 2018-11-29 — Rule H. Res. 1160 passed House.
+- 2018-12-20 — DEBATE - Pursuant to the provisions of H.Res. 1180, the House proceeded with one hour of debate on the Brady (TX) motion that the House agree in the Senate amendment with an amendment to H.R. 88.
+- 2018-12-20 — DEBATE - The House resumed with debate on H.R. 88.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Brady (TX) moved that the House agree with an amendment to the Senate amendment. (consideration: CR H10445-10477; text of Senate amendment: CR H10445)
+- 2018-12-20 — On motion that the House agree with an amendment to the Agreed to by the Yeas and Nays: 220 - 183 (Roll no. 470). (consideration: CR H10483-10484; text: CR H10445-10469)
+- 2018-12-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brady motion that the House agree to the Senate amendment with an amendment to H.R. 88, the Chair announced that the ayes had prevailed. Mr. Neal demanded the yeas and nays and the Chair postponed further proceedings in the legislative day.
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Agreed to by the Yeas and Nays: 220 - 183 (Roll no. 470).(consideration: CR H10483-10484; text: CR H10445-10469)
+- 2018-12-20 — The previous question was ordered pursuant to the rule.
