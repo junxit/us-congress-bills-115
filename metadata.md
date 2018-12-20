@@ -1,7 +1,7 @@
 ---
 measure: S. 79
 congress: 115
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 79
@@ -36,3 +36,8 @@ Securing Energy Infrastructure Act
 - 2018-05-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-246.
 - 2018-05-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-246.
 - 2018-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
+- 2018-12-20 — Held at the desk.
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Received in the House.
