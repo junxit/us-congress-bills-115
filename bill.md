@@ -57,13 +57,10 @@ Section 70902 of title 36, United States Code, is amended—
 
 ## § 4. Membership
 
-Section 70903 of title 36, United States Code is amended—
+Section 70903(a) of title 36, United States Code, is amended—
 
-- **(1)** in subsection (a)—
-  - **(A)** by striking “corporation” and inserting “FFA”; and
-  - **(B)** by striking “as provided in the bylaws” and inserting “as provided in the constitution or bylaws of the FFA”; and
-- **(2)** by striking subsection (b) and inserting the following:
-  > - **(b)** *Voting* Except as provided in this chapter, the voting rights of members and the election process are as provided in the constitution or bylaws of the FFA.
+- **(1)** by striking “corporation” and inserting “FFA”; and
+- **(2)** by striking “as provided in the bylaws” and inserting “as provided in the constitution or bylaws of the FFA”.
 
 ## § 5. Governing body
 
@@ -92,16 +89,21 @@ Section 70904 of title 36, United States Code, is amended—
   >   - **(3)** a treasurer.
   > - **(c)** *Governing committee*
   >   - **(1)** The board may designate a governing committee. The terms and method of selecting the governing committee members are as provided in the constitution or bylaws of the FFA, except that all members of the governing committee shall be members of the board of directors and at all times the governing committee shall be comprised of not less than 3 individuals.
-  >   - **(2)** When the board is not in session, the governing committee has the powers of the board subject to the board’s direction and may authorize the seal of the FFA to be affixed to all papers that require it.
+  >   - **(2)** When the board is not in session, the governing committee has the powers of the board subject to the board’s direction and may authorize the seal of the FFA to be affixed to all papers that require it
+  >   - **(3)** The board shall designate to such committee—
+  >     - **(A)** the chair of the board;
+  >     - **(B)** the executive secretary of the board; and
+  >     - **(C)** the treasurer of the board.
 
 ## § 6. National student officers
 
-Section 70905 of title 36, United States Code, is amended by striking subsections (a) through (d) and inserting the following:
+Section 70905 of title 36, United States Code, is amended—
 
-> - **(a)** *Composition* There shall be not less than 6 national student officers of the FFA, which shall include not less than 4 national student officer vice presidents, as provided in the constitution or bylaws of the FFA.
-> - **(b)** *Election*
->   - **(1)** The national student officers of the FFA, except student officer vice-presidents, shall be elected annually by a majority vote of official delegates assembled at the annual convention. Elections for not less than 4 national student officer vice presidents shall be based upon regional representation as further detailed in the constitution or bylaws of the FFA.
->   - **(2)** The voting rights of delegates and the process of electing the national student officers shall be as provided in the constitution or bylaws of the FFA.
+- **(1)** by amending subsection (a) to read as follows:
+  > - **(a)** *Composition* There shall be not less than 6 national student officers of the FFA, including a student president, 4 student vice presidents (each representing regions as provided in the constitution or bylaws of the corporation), and a student secretary.
+
+- **(2)** by striking subsection (b); and
+- **(3)** by redesignating subsections (c) and (d) as subsections (b) and (c), respectively.
 
 ## § 7. Powers
 
@@ -112,7 +114,7 @@ Section 70906 of title 36, United States Code, is amended—
 - **(3)** in paragraph (4), by striking “corporation” and inserting “FFA”;
 - **(4)** in paragraph (6), by striking “corporation” and inserting “FFA”;
 - **(5)** by amending paragraph (8) to read as follows:
-  > - **(8)** use FFA funds to give prizes, awards, loans, and grants to deserving members, chapters, and associations to carry out the purposes of the FFA;
+  > - **(8)** use FFA funds to give prizes, awards, loans, and grants to deserving members, local FFA chapters, and State FFA associations to carry out the purposes of the FFA;
 
 - **(6)** by amending paragraph (9) to read as follows:
   > - **(9)** produce publications, websites, and other media;
@@ -138,9 +140,7 @@ Section 70908 of title 36, United States Code, is amended—
 - **(1)** in subsection (a), by striking “corporation” and inserting “FFA”;
 - **(2)** in subsection (b), by striking “corporation or a director, officer, or member as such” and inserting “FFA or a director, officer, or member acting on behalf of the FFA”;
 - **(3)** in subsection (c), by striking “corporation” and inserting “FFA” each place the term appears; and
-- **(4)** in subsection (d)—
-  - **(A)** in the first sentence, by striking “corporation” and inserting “FFA”; and
-  - **(B)** by striking “Directors who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.”.
+- **(4)** in subsection (d), in the first sentence, by striking “corporation” and inserting “FFA”.
 
 ## § 10. Relationship to Federal Agencies
 
