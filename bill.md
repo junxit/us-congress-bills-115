@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Space Frontier Act of 2018”.
+- **(a)** *Short title* This Act may be cited as the “Space Frontier Act of 2019”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
 
 ## § 2. Definitions
