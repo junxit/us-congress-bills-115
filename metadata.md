@@ -1,7 +1,7 @@
 ---
 measure: S. 3800
 congress: 115
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 3800
