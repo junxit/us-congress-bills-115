@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 7361
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7361
+
+> To amend the Internal Revenue Code of 1986 to allow exclusion of gain or loss on like-kind exchanges of virtual currency.
+
+## § 1. Exclusion for like-kind exchanges of virtual currency
+
+- **(a)** *In general* Section 1031 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(i)** *Special rule for virtual currency* For purposes of this section, the exchange of virtual currency for virtual currency of like kind shall be treated in the same manner as the exchange of real property for real property of like kind.
+
+- **(b)** *Effective date* The amendments made by this section shall apply with respect to exchanges completed after the date of the enactment of this Act.
