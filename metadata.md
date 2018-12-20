@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5509
@@ -65,3 +65,9 @@ Innovations in Mentoring, Training, and Apprenticeships Act
 - 2018-12-20 — Senate amendment agreed to: Amendment SA 4172 agreed to in Senate by Unanimous Consent.
 - 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4172 proposed by Senator Boozman for Senator Thune.(consideration: CR S7947-7949; text: CR S7947-7949)
 - 2018-12-20 — Senate amendment submitted
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-402.
+- 2018-12-31 — Became Public Law No: 115-402.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.
