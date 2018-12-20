@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 115
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 695
@@ -196,3 +196,9 @@ Department of Defense Appropriations Act, 2018
 - 2018-12-19 — Senate amendment submitted
 - 2018-12-19 — Senate amendment submitted
 - 2018-12-19 — Senate concurred in the House amendment to the Senate amendment to H.R. 695 with an amendment (SA 4163) by Voice Vote. (consideration: CR S7826-7827; S7899)
+- 2018-12-20 — DEBATE - Pursuant to the provisions of H.Res. 1183, the House proceeded with one hour of debate on Frelinghuysen motion that the House agree to the Senate amendment to the House amendment to the Senate amendment with an amendment.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Frelinghuysen moved that the House agree with an amendment to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H10485-10500; text: CR H10485-10486)
+- 2018-12-20 — On motion that the House agree with an amendment to the Senate amendment to the House amendment to the Senate Agreed to by the Yeas and Nays: 217 - 185 (Roll no. 472). (text: CR H10486-10492)
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment to the House amendment to the Senate Agreed to by the Yeas and Nays: 217 - 185 (Roll no. 472).(text: CR H10486-10492)
+- 2018-12-20 — The previous question was ordered pursuant to the rule.
