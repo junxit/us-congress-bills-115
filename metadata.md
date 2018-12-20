@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6287
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6287
@@ -100,3 +100,16 @@ version: Engrossed Amendment Senate
 - 2018-12-20 — Senate amendment agreed to: Amendment SA 4177 agreed to in Senate by Unanimous Consent.
 - 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4177 proposed by Senator McConnell for Senator Booker.(consideration: CR S8002; text: CR S8002)
 - 2018-12-20 — Senate amendment submitted
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6287.
+- 2018-12-21 — Message on Senate action sent to the House.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. McClintock moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10569-10570)
+- 2018-12-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 371 - 3 (Roll no. 495). (text as House agree to Senate amendment: CR H10569)
+- 2018-12-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 371 - 3 (Roll no. 495).(text as House agree to Senate amendment: CR H10569)
+- 2018-12-27 — Presented to President.
+- 2018-12-27 — Presented to President.
+- 2019-01-03 — Became Public Law No: 115-413.
+- 2019-01-03 — Became Public Law No: 115-413.
+- 2019-01-03 — Signed by President.
+- 2019-01-03 — Signed by President.
