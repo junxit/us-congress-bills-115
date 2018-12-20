@@ -1,7 +1,7 @@
 ---
 measure: H.R. 502
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 43 U.S.C. § 1331
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “During the period ending September 30, 2018, there” and inserting “There”; and
+
+| | |
+|---|---|
+| Removed | `During the period ending September 30, 2018, there` |
+| Inserted | `There` |
 
 ## Stated, not applied
 
@@ -31,6 +42,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (b), in the matter preceding paragraph (1), by striking “During the period ending September 30, 2015, there” and inserting “There”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (c)(1), by striking “through September 30, 2015”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 200306 of title 54, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1331` | strike | in subsection (c)(1), by striking “through September 30, 2018”. | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1331` | replace | by striking “There” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1331` | strike | by striking “Not less than 40 percent of such appropriations shall be available for Federal purposes.”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | strike | Section 200305(b) of title 54, United States Code, is amended by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | add-at-end | Section 200306 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
