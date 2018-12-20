@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6287
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6287
@@ -92,3 +92,11 @@ version: Placed on Calendar Senate
 - 2018-09-17 — Received in the Senate.
 - 2018-09-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2018-09-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 587.
+- 2018-12-20 — Amendment SA 4177 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Amendment SA 4177 proposed by Senator McConnell for Senator Booker. (consideration: CR S8002; text: CR S8002) To modify the definition of the term "covered memorial".
+- 2018-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S8002)
+- 2018-12-20 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-20 — Senate amendment agreed to: Amendment SA 4177 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4177 proposed by Senator McConnell for Senator Booker.(consideration: CR S8002; text: CR S8002)
+- 2018-12-20 — Senate amendment submitted
