@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,13 +22,13 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Executed
+## Stated, not applied
 
-### 42 U.S.C. § 247d-4
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-> Subsection (f) of section 319D of the Public Health Service Act (42 U.S.C. 247d–4) is amended by striking “through 2018” and inserting “through 2017, and $118,300,000 for fiscal year 2018”.
-
-| | |
-|---|---|
-| Removed | `through 2018` |
-| Inserted | `through 2017, and $118,300,000 for fiscal year 2018` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 300d-51` | add-at-end | Part E of title XII of the Public Health Service Act (42 U.S.C. 300d–51 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
