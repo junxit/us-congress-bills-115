@@ -1,7 +1,7 @@
 ---
 measure: S. 3611
 congress: 115
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
