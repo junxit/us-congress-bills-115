@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 115
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 767
@@ -77,3 +77,9 @@ SOAR to Health and Wellness Act of 2018
 - 2018-12-20 — Senate amendment agreed to: Amendment SA 4173 agreed to in Senate by Unanimous Consent.
 - 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4173 proposed by Senator Boozman for Senator Alexander.(consideration: CR S7945-7959; text: CR S7949-7590)
 - 2018-12-20 — Senate amendment submitted
+- 2018-12-21 — Presented to President.
+- 2018-12-21 — Presented to President.
+- 2018-12-31 — Became Public Law No: 115-398.
+- 2018-12-31 — Became Public Law No: 115-398.
+- 2018-12-31 — Signed by President.
+- 2018-12-31 — Signed by President.

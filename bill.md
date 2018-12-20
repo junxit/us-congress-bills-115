@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 767
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 767
 
-That the bill from the House of Representatives (H.R. 767) entitled “An Act to establish the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program to address human trafficking in the health care system.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To establish the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program to address human trafficking in the health care system.
 
 ## § 1. Short title
 
