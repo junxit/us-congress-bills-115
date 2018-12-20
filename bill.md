@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5509
-congress: 115th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Fifteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5509
 
-That the bill from the House of Representatives (H.R. 5509) entitled “An Act to direct the National Science Foundation to provide grants for research about STEM education approaches and the STEM-related workforce, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To direct the National Science Foundation to provide grants for research about STEM education approaches and the STEM-related workforce, and for other purposes.
 
 ## § 1. Short title
 
