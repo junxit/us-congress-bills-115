@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1183
 congress: 115
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1183
