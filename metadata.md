@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6652
 congress: 115
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6652
@@ -42,3 +42,4 @@ To direct the Secretary of the Interior to convey certain facilities, easements,
 - 2018-12-19 — Placed on the Union Calendar, Calendar No. 841.
 - 2018-12-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1082.
 - 2018-12-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1082.
+- 2018-12-20 — Received in the Senate.
