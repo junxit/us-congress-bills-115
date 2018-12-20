@@ -2,12 +2,14 @@
 legis-num: H.R. 5509
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5509
 
-> To direct the National Science Foundation to provide grants for research about STEM education approaches and the STEM-related workforce, and for other purposes.
+That the bill from the House of Representatives (H.R. 5509) entitled “An Act to direct the National Science Foundation to provide grants for research about STEM education approaches and the STEM-related workforce, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -27,71 +29,76 @@ Congress finds the following:
 
 ## § 3. National Science Foundation STEM innovation and apprenticeship grants
 
-- **(a)** *Establishment* The Director of the National Science Foundation shall award competitive grants to eligible entities in accordance with this section.
-- **(b)** *Coordination* In carrying out this section, the Director shall consult and cooperate with the programs and policies of other relevant Federal agencies to avoid duplication with, and enhance the effectiveness of, the provision of grants under this section.
-- **(c)** *Grants for associate degree programs in STEM fields*
-  - **(1)** *In general* The Director of the National Science Foundation shall award competitive grants to community colleges to develop or improve associate or certificate programs in STEM fields in, with respect to the region in which the respective college is located, an in-demand industry sector or occupation (as defined in section 3(23)) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(23))).
-  - **(2)** *Application* In considering applications for grants under paragraph (1), the Director shall prioritize—
-    - **(A)** applicants that consist of a partnership between the applying community college and individual employers or an employer consortia, or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
-    - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
-    - **(C)** applications that include commitments by the partnering employers or employer consortia, or industry or sector partnerships, to offer apprenticeships, internships or other applied learning opportunities to students enrolled in the proposed associate degree program;
-    - **(D)** applications that include outreach plans and goals for recruiting and enrolling women and other historically underrepresented individuals in STEM studies and careers in the proposed associate degree program; and
-    - **(E)** applications that describe how the applying community college will support the collection of information and data for purposes of evaluation of the proposed associate degree program.
-  - **(3)** *Funding* The National Science Foundation shall devote not less than $20,000,000 to awards described in this subsection, which shall include not less than $5,000,000 for each of fiscal years 2018 through 2021, subject to the availability of appropriations, to come from amounts made available for the Education and Human Resources Directorate. This subsection shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
-- **(d)** *Grants for STEM degree applied learning opportunities*
-  - **(1)** *In general* The Director of the National Science Foundation shall award competitive grants to institutions of higher education partnering with employers or employer consortia, or industry or sector partnerships, that commit to offering apprenticeships, internships, research opportunities, or applied learning experiences to enrolled university students in identified STEM baccalaureate degree programs.
-  - **(2)** *Application* In considering applications for grants under paragraph (1), the Director shall prioritize—
-    - **(A)** applicants that consist of a partnership between—
-      - **(I)** the applying university; and
-      - **(ii)** individual employers or an employer consortia, or industry or sector partnerships;
-    - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to selected STEM fields;
-    - **(C)** applications that include outreach plans and goals for recruiting and enrolling women and other populations historically underrepresented in STEM; and
-    - **(D)** applications that describe how the university will support the collection and information of data for purposes of the evaluation of identified STEM degree programs.
-  - **(3)** *Funding* The National Science Foundation shall devote not less than $10,000,000 to awards described in this subsection, which shall include not less than $2,500,000 for each of fiscal years 2018 through 2021, subject to the availability of appropriations, to come from amounts made available for the Education and Human Resources Directorate. This subsection shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
-- **(e)** *Grants for computer-Based and online STEM education courses*
-  - **(1)** *In general* The Director of the National Science Foundation shall award competitive grants to institutions of higher education or nonprofit organizations to conduct research on student outcomes and determine best practices for STEM education and technical skills education through distance learning or in a simulated work environment.
-  - **(2)** *Research areas* The research areas eligible for funding under this subsection may include—
-    - **(A)** post-secondary courses for technical skills development for STEM occupations;
-    - **(B)** improving high-school level career and technical education in STEM subjects;
-    - **(C)** encouraging and sustaining interest and achievement levels in STEM subjects among women and other populations historically underrepresented in STEM studies and careers; and
-    - **(D)** combining computer-based and online STEM education and skills development with traditional mentoring and other mentoring arrangements, apprenticeships, internships, and other applied learning opportunities.
-  - **(3)** *Funding* The National Science Foundation shall devote not less than $10,000,000 to awards described in this subsection, which shall include not less than $2,500,000 for each of fiscal years 2018 through 2021, subject to the availability of appropriations, to come from amounts made available for the Education and Human Resources Directorate. This subsection shall be carried out using funds otherwise appropriated by law after the date of enactment of this Act.
+Section 3 of the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862i) is amended—
+
+- **(1)** by redesignating subsections (d) through (g) as subsections (g) through (j), respectively;
+- **(2)** by inserting after subsection (c) the following:
+  > - **(d)** *Grants for associate degree programs in STEM fields*
+  >   - **(1)** *In-demand workforce grants* The Director shall award grants to junior or community colleges to develop or improve associate degree or certificate programs in STEM fields, with respect to the region in which the respective college is located, and an in-demand industry sector or occupation.
+  >   - **(2)** *Applications* In considering applications for grants under paragraph (1), the Director shall prioritize—
+  >     - **(A)** applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia, or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
+  >     - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
+  >     - **(C)** applications that include commitments by the partnering employers or employer consortia, or industry or sector partnerships, to offer apprenticeships, internships, or other applied learning opportunities to students enrolled in the proposed associate degree or certificate program;
+  >     - **(D)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields in the proposed associate degree or certificate program; and
+  >     - **(E)** applications that describe how the applying junior or community college will support the collection of information and data for purposes of evaluation of the proposed associate degree or certificate program.
+  > - **(e)** *Grants for STEM degree applied learning opportunities*
+  >   - **(1)** *In general* The Director shall award grants to institutions of higher education partnering with private sector employers or private sector employer consortia, or industry or sector partnerships, that commit to offering apprenticeships, internships, research opportunities, or applied learning experiences to enrolled students in identified STEM baccalaureate degree programs.
+  >   - **(2)** *Purposes* Awards under this subsection may be used—
+  >     - **(A)** to develop curricula and programs for apprenticeship, internships, research opportunities, or applied learning experiences; or
+  >     - **(B)** to provide matching funds to incentivize partnership and participation by private sector employers and industry.
+  >   - **(3)** *Applications* In considering applications for grants under paragraph (1), the Director shall prioritize—
+  >     - **(A)** applicants that consist of a partnership between—
+  >       - **(i)** the applying institution of higher education; and
+  >       - **(ii)** individual employers or an employer consortia, or industry or sector partnerships;
+  >     - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the identified STEM fields;
+  >     - **(C)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields; and
+  >     - **(D)** applications that describe how the institution of higher education will support the collection and information of data for purposes of the evaluation of identified STEM degree programs.
+  > - **(f)** *Grants for computer-based and online STEM education courses*
+  >   - **(1)** *In general* The Director of the National Science Foundation shall award competitive grants to institutions of higher education or nonprofit organizations to conduct research on student outcomes and determine best practices for STEM education and technical skills education through distance learning or in a simulated work environment.
+  >   - **(2)** *Research areas* The research areas eligible for funding under this subsection may include—
+  >     - **(A)** post-secondary courses for technical skills development for STEM occupations;
+  >     - **(B)** improving high-school level career and technical education in STEM subjects;
+  >     - **(C)** encouraging and sustaining interest and achievement levels in STEM subjects among women and other populations historically underrepresented in STEM studies and careers; and
+  >     - **(D)** combining computer-based and online STEM education and skills development with traditional mentoring and other mentoring arrangements, apprenticeships, internships, and other applied learning opportunities.
+
+- **(3)** in subsection (a)(3)(A), by striking the comma and inserting a semicolon;
+- **(4)** in subsection (c)(1)(B)(iv), by striking “subsection (f)(3)” and inserting “subsection (i)(3)”;
+- **(5)** in subsection (h), as redesignated—
+  - **(A)** in the heading, by striking “Limitation on funding” and inserting “Funding”;
+  - **(B)** by inserting “(3) Limitation on funding.—” before “To qualify” and indenting appropriately; and
+  - **(C)** by inserting before paragraph (3), as redesignated, the following:
+    > - **(1)** *Funding* The Director shall allocate out of amounts made available for the Education and Human Resources Directorate—
+    >   - **(A)** up to $5,000,000 to carry out the activities under subsection (d) for each of fiscal years 2019 through 2022, subject to the availability of appropriations;
+    >   - **(B)** up to $2,500,000 to carry out the activities under subsection (e) for each of fiscal years 2019 through 2022, subject to the availability of appropriations; and
+    >   - **(C)** up to $2,500,000 to carry out the activities under subsection (f) for each of fiscal years 2019 through 2022, subject to the availability of appropriations.
+    > - **(2)** *Limitation on funding* Amounts made available to carry out subsections (d), (e), and (f) shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+
+- **(6)** in subsection (j), as redesignated—
+  - **(A)** in paragraph (4), by striking “; and” and inserting a semicolon;
+  - **(B)** by redesignating paragraph (5) as paragraph (7); and
+  - **(C)** by inserting after paragraph (4) the following:
+    > - **(5)** the term in-demand industry sector or occupation has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102);
+    > - **(6)** the term junior or community college has the meaning given the term in section 312 of the Higher Education Act of 1965 (20 U.S.C. 1058);
+
+  - **(D)** by adding at the end the following:
+    > - **(8)** the term region means a labor market area, as that term is defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102); and
+    > - **(9)** the terms mathematics, science, engineering, or technology or STEM mean science, technology, engineering, and mathematics, including computer science.
 
 ## § 4. Research on efficiency of skilled technical labor markets
 
-- **(a)** *Efficiency of skilled technical labor markets* The Directorate of Social, Behavioral & Economic Sciences of the National Science Foundation, in coordination with the Secretary of Labor, shall support research on labor market analysis innovations, data and information sciences, electronic information tools and methodologies, and metrics.
-- **(b)** *Comparison of United States workforce*
-  - **(1)** *Research* The National Science Foundation shall commission research that compares and contrasts skilled technical workforce development between States and regions within the United States and other developed countries, including the diversity of skilled technical and professional workforces, to the extent feasible.
-  - **(2)** *Report* Not later than 3 years after the date of enactment of this Act, the Director of the National Science Foundation shall submit to Congress a report on the results of the study under paragraph (1).
-- **(c)** *Skilled technical workforce*
-  - **(1)** *Review* The National Center for Science and Engineering Statistics of the National Science Foundation shall consult and coordinate with other relevant Federal statistical agencies, including the Institution of Education Science, and the Committee on Science, Technology, Engineering, and Mathematics Education, to explore the feasibility of expanding its surveys to include the collection of objective data on the skilled technical workforce.
-  - **(2)** *Report* Not later than 1 year after the date of enactment of this Act, the Director of the National Science Foundation shall submit to Congress a report containing the progress made in expanding the National Center for Science and Engineering Statistics surveys to include the skilled technical workforce. Such report shall include a plan for multi-agency collaboration in order to effect data collection and reporting of data on the skilled technical workforce.
+- **(a)** *Efficiency of skilled technical labor markets* The Director of the National Science Foundation, working through the Directorate of Social, Behavioral & Economic Sciences, in coordination with the Secretary of Labor, shall support research on labor market analysis innovations, data and information sciences, electronic information tools and methodologies, and metrics.
+- **(b)** *Skilled technical workforce*
+  - **(1)** *Review* The National Center for Science and Engineering Statistics of the National Science Foundation shall consult and coordinate with other relevant Federal statistical agencies, including the Institute of Education Sciences of the Department of Education, and the Committee on Science, Technology, Engineering, and Mathematics Education of the National Science and Technology Council established under section 101 of the America COMPETES Act of 2010 (Public Law 111–358), to explore the feasibility of expanding its surveys to include the collection of objective data on the skilled technical workforce.
+  - **(2)** *Report* Not later than 1 year after the date of enactment of this Act, the Director of the National Science Foundation shall submit to Congress a report on the progress made in expanding the National Center for Science and Engineering Statistics surveys to include the skilled technical workforce, including a plan for multi-agency collaboration to improve data collection and reporting of data on the skilled technical workforce.
+  - **(3)** *Definition of skilled technical workforce* The term “skilled technical workforce” means workers with high school diplomas and two-year technical training or certifications who employ significant levels of STEM knowledge in their jobs.
 
-## § 5. Spending limitation
-
-No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act, and this Act and such amendments shall be carried out using amounts otherwise available for such purpose.
-
-## § 6. Evaluation and report
+## § 5. Evaluation and report
 
 - **(a)** *Evaluation*
-  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Director of the National Science Foundation shall evaluate the grants and programs provided under this Act.
-  - **(2)** *Requirements* In conducting the evaluation under paragraph (1), the Director shall —
-    - **(A)** use a common set of benchmarks and assessment tools to identify best practices and materials developed or demonstrated by the research conducted pursuant to such grants and programs;
-    - **(B)** include an assessment of the effectiveness of the grant programs established under this Act in expanding apprenticeships, internships, and other applied learning opportunities offered by employers in conjunction with community colleges and institutions of higher education;
-    - **(C)** assess the number of students who participated in programs established under or pursuant to this Act;
-    - **(D)** assess the percentage of students participating in programs established under or pursuant to this Act who successfully complete their education program; and
-    - **(E)** assess the median earnings of students who have completed a program with respect to which a grant was awarded under section 3(c), as of the date that is two calendar quarters after completing the program, as practicable.
-- **(b)** *Report on evaluations* Not later than 180 days after the completion of the evaluation under subsection (a), the Director of the National Science Foundation shall submit to Congress and make widely available to the public a report that includes—
-  - **(1)** the results of the evaluation; and
-  - **(2)** any recommendations for legislative action that could optimize the effectiveness of the grants and programs under this Act.
-- **(c)** *Consultation* In carrying out this section, the Director of the Foundation shall consult the programs and policies of other relevant Federal agencies to avoid duplication with, and enhance the effectiveness of, the grants and programs under this Act.
-- **(d)** *Submission to Secretary of Education* On the date on which the report is submitted under subsection (b), the Director of the National Science Foundation shall also submit to the Secretary of Education a copy of the report.
-
-## § 7. Definitions
-
-In this Act:
-
-- **(1)** *STEM* The term “STEM” means science, technology, engineering, and mathematics, including computer science.
-- **(2)** *Community college* The term “community college” has the meaning given the term “junior and community college” in section 312 of the Higher Education Act of 1965 (20 U.S.C. 1058).
-- **(3)** *Region* The term “region” means a labor market area, as such term is defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
-- **(4)** *Skilled technical workforce* The term “skilled technical workforce” means workers with high school diplomas and two-year technical training or certifications who employ significant levels of STEM knowledge in their jobs.
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Director of the National Science Foundation shall evaluate the grant programs established under subsections (d), (e), and (f) of section 3 of the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862i), as amended by this Act.
+  - **(2)** *Requirements* In conducting the evaluation under paragraph (1), the Director shall—
+    - **(A)** use a common set of benchmarks and assessment tools to identify best practices and materials developed or demonstrated by the research conducted pursuant to such grants and programs under subsection (f) of that section;
+    - **(B)** include an assessment of the effectiveness of the grant programs in expanding apprenticeships, internships, and other applied learning opportunities offered by employers in conjunction with junior or community colleges, or institutions of higher education, as applicable;
+    - **(C)** assess the number of students who participated in the grant programs; and
+    - **(D)** assess the percentage of students participating in the grant programs who successfully complete their education programs.
+- **(b)** *Report on evaluations* Not later than 180 days after the date the evaluation under subsection (a) is complete, the Director of the National Science Foundation shall submit to Congress and the Secretary of Education, and make widely available to the public, a report on the results of the evaluation, including any recommendations for legislative action that could optimize the effectiveness of the grant programs.
