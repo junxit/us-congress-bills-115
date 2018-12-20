@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7279
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7279
@@ -43,3 +43,4 @@ Water Infrastructure Improvement Act
 - 2018-12-19 — Mr. Gibbs moved to suspend the rules and pass the bill.
 - 2018-12-19 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 351 - 10 (Roll no. 441). (text: CR H10288-10289)
 - 2018-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 351 - 10 (Roll no. 441).(text: CR H10288-10289)
+- 2018-12-20 — Received in the Senate, read twice.
