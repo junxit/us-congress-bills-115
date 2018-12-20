@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 767
@@ -56,3 +56,20 @@ SOAR to Health and Wellness Act of 2018
 - 2018-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1234-1235)
 - 2018-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1234-1235)
 - 2018-02-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2018-12-20 — Amendment SA 4173 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Amendment SA 4173 proposed by Senator Boozman for Senator Alexander. (consideration: CR S7945-7959; text: CR S7949-7590) In the nature of a substitute.
+- 2018-12-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2018-12-20 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 767.
+- 2018-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7949-7950)
+- 2018-12-20 — Message on Senate action sent to the House.
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — Mr. Guthrie moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10424-10425)
+- 2018-12-20 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 462). (consideration: CR H10439-10440; text: CR H10424)
+- 2018-12-20 — Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2018-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 462).(consideration: CR H10439-10440; text: CR H10424)
+- 2018-12-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-12-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2018-12-20 — Senate amendment agreed to: Amendment SA 4173 agreed to in Senate by Unanimous Consent.
+- 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4173 proposed by Senator Boozman for Senator Alexander.(consideration: CR S7945-7959; text: CR S7949-7590)
+- 2018-12-20 — Senate amendment submitted
