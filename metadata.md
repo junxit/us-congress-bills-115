@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6602
 congress: 115
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6602
@@ -33,6 +33,10 @@ To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purpos
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2018-12-20 — [House 115-2-473](votes/house-115-2-0473.md) — On Motion to Suspend the Rules and Pass — **Passed** (382–9)
+
 ## Actions
 
 - 2018-07-26 — Introduced in House
@@ -45,3 +49,11 @@ To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purpos
 - 2018-12-03 — Placed on the Union Calendar, Calendar No. 827.
 - 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1061.
 - 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1061.
+- 2018-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McClintock objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2018-12-19 — Considered under suspension of the rules. (consideration: CR H10302-10303; text: CR H10302)
+- 2018-12-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6602.
+- 2018-12-19 — Mr. McClintock moved to suspend the rules and pass the bill.
+- 2018-12-20 — Considered as unfinished business. (consideration: CR H10500)
+- 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 382 - 9 (Roll no. 473).
+- 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 382 - 9 (Roll no. 473).
