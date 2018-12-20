@@ -1,7 +1,7 @@
 ---
 measure: S. 512
 congress: 115
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 512
@@ -41,6 +41,10 @@ Nuclear Energy Innovation and Modernization Act
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2018-12-21 — [House 115-2-493](votes/house-115-2-0493.md) — On Motion to Suspend the Rules and Pass — **Passed** (361–10)
+
 ## Actions
 
 - 2017-03-02 — Introduced in Senate
@@ -63,3 +67,17 @@ Nuclear Energy Innovation and Modernization Act
 - 2018-12-20 — Senate amendment proposed (on the floor): Amendment SA 4175 proposed by Senator Sullivan for Senator Barrasso.(consideration: CR S7962)
 - 2018-12-20 — Senate amendment submitted
 - 2018-12-20 — The committee substitute withdrawn by Unanimous Consent.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10577-10578)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10553-10558)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 512.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Kinzinger moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 10 (Roll no. 493). (text: CR H10553-10557)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 10 (Roll no. 493).(text: CR H10553-10557)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-14 — Became Public Law No: 115-439.
+- 2019-01-14 — Became Public Law No: 115-439.
+- 2019-01-14 — Signed by President.
+- 2019-01-14 — Signed by President.
