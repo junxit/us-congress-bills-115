@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5054
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5054
@@ -25,3 +25,8 @@ Small Company Disclosure Simplification Act of 2018
 - 2018-02-15 — Introduced in House
 - 2018-02-15 — Introduced in House
 - 2018-02-15 — Referred to the House Committee on Financial Services.
+- 2018-06-07 — Committee Consideration and Mark-up Session Held.
+- 2018-06-07 — Ordered to be Reported by the Yeas and Nays: 32 - 23.
+- 2018-12-21 — Placed on the Union Calendar, Calendar No. 846.
+- 2018-12-21 — Reported by the Committee on Financial Services. H. Rept. 115-1094.
+- 2018-12-21 — Reported by the Committee on Financial Services. H. Rept. 115-1094.
