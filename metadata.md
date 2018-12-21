@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7319
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7319
@@ -29,3 +29,13 @@ To amend the Federal Assets Sale and Transfer Act of 2016 to provide flexibility
 - 2018-12-17 — Introduced in House
 - 2018-12-17 — Introduced in House
 - 2018-12-17 — Referred to the House Committee on Transportation and Infrastructure.
+- 2018-12-18 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10533-10534)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10515)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7319.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Mast moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 1 (Roll no. 476). (text: CR H10515)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 1 (Roll no. 476).(text: CR H10515)
+- 2018-12-21 — Received in the Senate, read twice.
