@@ -2,12 +2,14 @@
 legis-num: S. 3661
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3661
 
-> To provide for a program of the Department of Defense to commemorate the 75th anniversary of World War II.
+That the bill from the Senate (S. 3661) entitled “An Act to provide for a program of the Department of Defense to commemorate the 75th anniversary of World War II.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -31,7 +33,9 @@ This Act may be cited as the “75th Anniversary of World War II Commemoration A
     - **(B)** Proceeds derived from the Secretary’s use of the exclusive rights described in subsection (c).
     - **(C)** Donations made in support of the commemorative program by private and corporate donors.
     - **(D)** Funds transferred to the Fund by the Secretary from funds appropriated for fiscal year 2019 and subsequent years for the Department of Defense.
-  - **(4)** *Availability* Subject to subsection (g)(2), amounts deposited under paragraph (3) shall constitute the assets of the Fund and remain available until expended.
+  - **(4)** *Availability*
+    - **(A)** *In general* Subject to subsection (g)(2) and except as provided in subparagraph (B), amounts deposited under paragraph (3) shall constitute the assets of the Fund and remain available until expended.
+    - **(B)** *Exception* Amounts transferred to the Fund under paragraph (3)(D) from amounts appropriated for fiscal year 2019 may be obligated only during fiscal year 2019.
   - **(5)** *Budget request* The Secretary of Defense may establish a separate budget line for the commemorative program. In the budget justification materials submitted by the Secretary in support of the budget of the President for any fiscal year for which the Secretary establishes the separate budget line, the Secretary shall—
     - **(A)** identify and explain any amounts expended for the commemorative program in the fiscal year preceding the budget request;
     - **(B)** identify and explain the amounts being requested to support the commemorative program for the fiscal year of the budget request; and
