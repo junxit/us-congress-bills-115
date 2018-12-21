@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5534
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1022(b) of the Consumer Financial Protection Act of 2010 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5512` | add-at-end | Section 1022(b) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
