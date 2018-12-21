@@ -1,0 +1,16 @@
+---
+legis-num: H. CON. RES. 149
+congress: 115th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 149
+
+> Directing the Clerk of the House of Representatives to make certain corrections in the enrollment of H.R. 4174.
+
+That in the enrollment of the bill H.R. 4174, the Clerk of the House of Representatives shall make the following corrections:
+
+- **(1)** Page 2, beginning line 13, strike “has the meaning given the term “Executive agency” under section 105” and insert “means an agency referred to under section 901(b) of title 31”.
+- **(2)** Page 19, line 13, insert “for data that does not concern monetary policy” after “open data plan”.
+- **(3)** Page 32, beginning line 6, strike “career” and all that follows through “title 5)” and insert “nonpolitical appointee employee”.
