@@ -1,7 +1,7 @@
 ---
 measure: S. 2274
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2274
@@ -16,7 +16,7 @@ Federal Employee Fair Treatment Act of 2017
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (20)
+## Cosponsors (31)
 
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
@@ -38,9 +38,22 @@ Federal Employee Fair Treatment Act of 2017
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Actions
 
 - 2017-12-21 — Introduced in Senate
 - 2017-12-21 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2018-01-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.
+- 2018-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8011; text: CR S8011)
+- 2018-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8011; text: CR S8011)

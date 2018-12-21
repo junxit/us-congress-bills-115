@@ -1,7 +1,7 @@
 ---
 measure: S. 2274
 congress: 115
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
