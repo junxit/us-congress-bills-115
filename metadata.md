@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7293
 congress: 115
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7293
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 770 Ayr
 
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 
-## Cosponsors (25)
+## Cosponsors (30)
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -43,13 +43,31 @@ To designate the facility of the United States Postal Service located at 770 Ayr
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2018-12-21 — [House 115-2-479](votes/house-115-2-0479.md) — On Motion to Suspend the Rules and Pass — **Passed** (375–6)
 
 ## Actions
 
 - 2018-12-13 — Introduced in House
 - 2018-12-13 — Introduced in House
 - 2018-12-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2018-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2018-12-21 — Considered as unfinished business. (consideration: CR H10535-10536)
+- 2018-12-21 — Considered under suspension of the rules. (consideration: CR H10517-10518)
+- 2018-12-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7293.
+- 2018-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2018-12-21 — Mr. Walker moved to suspend the rules and pass the bill.
+- 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 6, 2 Present (Roll no. 479). (text: CR H10517)
+- 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 6, 2 Present (Roll no. 479).(text: CR H10517)
+- 2018-12-21 — Received in the Senate.
