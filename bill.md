@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3661
-congress: 115th CONGRESS
+congress: One Hundred Fifteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3661
 
-That the bill from the Senate (S. 3661) entitled “An Act to provide for a program of the Department of Defense to commemorate the 75th anniversary of World War II.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To provide for a program of the Department of Defense to commemorate the 75th anniversary of World War II.
 
 ## § 1. Short title
 

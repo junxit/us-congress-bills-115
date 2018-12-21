@@ -1,7 +1,7 @@
 ---
 measure: S. 3661
 congress: 115
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3661
@@ -41,3 +41,13 @@ version: Engrossed Amendment House
 - 2018-12-21 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2018-12-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 486). (text: CR H10538-10539)
 - 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 486).(text: CR H10538-10539)
+- 2018-12-22 — Measure laid before Senate by unanimous consent.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3661 by Unanimous Consent.
+- 2018-12-22 — Senate agreed to the House amendment to S. 3661 by Unanimous Consent.
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-10 — Became Public Law No: 115-433.
+- 2019-01-10 — Became Public Law No: 115-433.
+- 2019-01-10 — Signed by President.
+- 2019-01-10 — Signed by President.
