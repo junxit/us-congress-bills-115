@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4460
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 7 executed, 57 stated and not applied.
+67 amendatory instructions. 10 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,6 +87,33 @@ to guess them.
 | Removed | `the program” and all that follows through “2012` |
 | Inserted | `the program, for each of fiscal years 2018 through 2022` |
 
+### 42 U.S.C. § 5189a
+
+> Section 1105(c) of the Sandy Recovery Improvement Act of 2013 (42 U.S.C. 5189a note) is amended by striking “2015” and inserting “2022”.
+
+| | |
+|---|---|
+| Removed | `2015` |
+| Inserted | `2022` |
+
+### 42 U.S.C. § 5152
+
+> in subsection (a), by striking “and other relief or” and inserting “long-term recovery groups, and other relief, domestic hunger relief, or”; and
+
+| | |
+|---|---|
+| Removed | `and other relief or` |
+| Inserted | `long-term recovery groups, and other relief, domestic hunger relief, or` |
+
+### 42 U.S.C. § 5152
+
+> in subsection (b), by striking “and other relief or” and inserting “long-term recovery groups, and other relief, domestic hunger relief, or”.
+
+| | |
+|---|---|
+| Removed | `and other relief or` |
+| Inserted | `long-term recovery groups, and other relief, domestic hunger relief, or` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -108,7 +135,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5133` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5133` | redesignate | by striking subsection (m) and redesignating subsection (n) as subsection (m). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170c` | replace | Section 404(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(a)) is amended by striking the first sentence and inserting the following: “The President may contribute up to 75 percent of the cost … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5172` | insert | in the matter preceding clause (i), by inserting after “section” the following: “for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5172` | insert | in the matter preceding clause (i), by inserting after “section,” the following: “for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5172` | strike | in clause (i), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5172` | strike | by striking “applicable at the time at which the disaster occurred”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5172` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -146,7 +173,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5122` | amend | Section 102(11)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(11)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5172` | add-at-end | Section 406(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5165b` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5165b` | replace | by striking “establish” and inserting the following: “implement the following:”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5165b` | replace | by striking “establish” and inserting the following: “implement”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5165b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3149` | add-at-end | Section 209 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170a` | strike | Section 403(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170a) is amended by striking the second subparagraph (J). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
