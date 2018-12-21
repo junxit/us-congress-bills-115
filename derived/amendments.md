@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 0 executed, 26 stated and not applied.
+22 amendatory instructions. 0 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,10 +44,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 31504 of title 51, United States Code, is amended by adding at the end the following: “Operational flight data derived from such cooperative agreements shall be made available, in appropriate and usable formats, to the Administra… | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 501 of title 51, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2018” and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
