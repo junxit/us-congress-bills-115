@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 148
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 148
