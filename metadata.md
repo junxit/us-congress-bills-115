@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6602
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6602
@@ -57,3 +57,4 @@ To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purpos
 - 2018-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2018-12-20 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 382 - 9 (Roll no. 473).
 - 2018-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 382 - 9 (Roll no. 473).
+- 2018-12-21 — Received in the Senate, read twice.
