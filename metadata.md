@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7318
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7318
@@ -39,3 +39,12 @@ To amend the Federal Assets Sale and Transfer Act of 2016 to ensure that the Pub
 - 2018-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 2 (Roll no. 475). (text: CR H10514)
 - 2018-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 2 (Roll no. 475).(text: CR H10514)
 - 2018-12-21 — Received in the Senate, read twice.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8034)
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8034)
+- 2019-01-02 — Presented to President.
+- 2019-01-02 — Presented to President.
+- 2019-01-14 — Became Public Law No: 115-437.
+- 2019-01-14 — Became Public Law No: 115-437.
+- 2019-01-14 — Signed by President.
+- 2019-01-14 — Signed by President.
