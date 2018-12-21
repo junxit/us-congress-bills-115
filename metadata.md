@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 149
 congress: 115
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 149
@@ -39,3 +39,6 @@ Directing the Clerk of the House of Representatives to make certain corrections 
 - 2018-12-21 — Received in the Senate.
 - 2018-12-21 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-12-21 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8037)
+- 2018-12-22 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8037)
