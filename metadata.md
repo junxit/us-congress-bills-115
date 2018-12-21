@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5025
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5025
@@ -25,3 +25,10 @@ To amend the Western and Central Pacific Fisheries Convention Implementation Act
 - 2018-02-14 — Introduced in House
 - 2018-02-14 — Introduced in House
 - 2018-02-14 — Referred to the House Committee on Natural Resources.
+- 2018-02-22 — Referred to the Subcommittee on Water, Power and Oceans.
+- 2018-11-15 — Committee Consideration and Mark-up Session Held.
+- 2018-11-15 — Ordered to be Reported by Voice Vote.
+- 2018-11-15 — Subcommittee on Water, Power and Oceans Discharged.
+- 2018-12-21 — Placed on the Union Calendar, Calendar No. 854.
+- 2018-12-21 — Reported by the Committee on Natural Resources. H. Rept. 115-1104.
+- 2018-12-21 — Reported by the Committee on Natural Resources. H. Rept. 115-1104.
