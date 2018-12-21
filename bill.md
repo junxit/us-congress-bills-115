@@ -13,31 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Providing ESA Timing Improvements That Increase Opportunities for Nonlisting Act of 2018” or the “PETITION Act of 2018”.
 
-## § 2. Findings and purposes
+## § 2. Definitions
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The number and type of species-listing petitions received by the United States Fish and Wildlife Service (in this Act referred to as the “Service”) during the last two decades under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) routinely outstrip the capacity of the agency to process all such petitions within the timeframes required by that statute, constituting a petition backlog.
-  - **(2)** A significant portion of petitions in the backlog would ultimately be rejected as having failed to contain substantial information, or containing substantial information but not meriting a listing of a species as an endangered species or threatened species, if the Service were to issue findings on them.
-  - **(3)** The petition system has been overloaded with influxes of petitions submitted by well-funded petitioners with the express intention of creating a backlog that causes the Service to fail to adhere to timeframes established in the Endangered Species Act of 1973.
-  - **(4)** The deficit between total received petitions and petitions processed within statutory timeframes results in the Federal Government being exposed to legal liability on the basis of such a backlog, in accordance with such intention of petitioners.
-  - **(5)** Ensuing litigation initiated by such petitioners results in the Service agreeing to or being court-ordered to adhere to adverse timeframes, listing decisions, and settlements.
-  - **(6)** Such litigation secures listings for species and habitat designations for which the Service would otherwise not issue a positive finding on the basis of its regular, procedural evaluation of a petition.
-  - **(7)** Accordingly, such listings and designations are agreed or adhered to contrary to the public interest insofar as the public benefits from faithful execution of duly passed laws.
-  - **(8)** A statutory remedy is necessary to address the backlog of the Service and to prevent such statutory abuse while maintaining proper open channels for qualifying species to be listed as threatened species or endangered species.
-- **(b)** *Purposes* The purposes of this Act are the following:
-  - **(1)** To maintain safeguards and pathways to listing of species as endangered species or threatened species, along with all corresponding protections thereof, for any imperiled species.
-  - **(2)** To limit unnecessary legal liability of the Federal Government arising from any backlog of petitions received under the Endangered Species Act of 1973.
-  - **(3)** To prevent adverse court orders and settlements arising when such liability is exploited in litigation.
-  - **(4)** To accomplish all of the foregoing by reducing and eliminating the backlog of excess petitions received by the Service under the Endangered Species Act of 1973.
+Section 3 of the Endangered Species Act of 1973 (16 U.S.C. 1532) is amended—
 
-## § 3. Definitions
-
-Section 2 of the Endangered Species Act of 1973 (16 U.S.C. 1531) is amended—
-
-- **(1)** by inserting before the text the following:
-  > - **(a)** *In general*
-
-- **(2)** by adding at the end the following:
+- **(1)** by moving the margins of paragraphs (1) through (21) 2 ems to the right;
+- **(2)** by inserting before the text the following: “(a) In general.—”; and
+- **(3)** by adding at the end the following:
   > - **(b)** *Definitions related to petitions* In this Act:
   >   - **(1)** *90-day petition backlog* The term “90-day petition backlog” means such a backlog declared by the Secretary under section 4(b)(3)(E).
   >   - **(2)** *12-month petition backlog* The term “12-month petition backlog” means such a backlog declared by the Secretary under section 4(b)(3)(E).
@@ -51,7 +33,7 @@ Section 2 of the Endangered Species Act of 1973 (16 U.S.C. 1531) is amended—
   >     - **(B)** under section 4(b)(3)(H) following the declaration of a 12-month petition backlog.
   >   - **(5)** *Petitioned-for species* The term “petitioned-for species” means a species that has been identified in a petition presented under subparagraph (A) or (B) of section 4(b)(3).
 
-## § 4. Backlog declaration and procedures
+## § 3. Backlog declaration and procedures
 
 - **(a)** *In general* Section 4(b)(3) of the Endangered Species Act of 1973 (16 U.S.C. 1533(b)(3)) is amended by adding at the end the following:
   > - **(E)**
@@ -80,7 +62,7 @@ Section 2 of the Endangered Species Act of 1973 (16 U.S.C. 1531) is amended—
   >     - **(I)** the date the Secretary terminates the backlog under subparagraph (F);
   >     - **(II)** the date the applicable backlog schedule consists of only the list under such section; or
   >     - **(III)** the date the only petitioned-for species in the backlog schedule to which the Secretary has not devoted sufficient resources so as to issue such a finding within 90 days are those in the list under such section; and
-  >   - **(iii)** the Secretary is deemed to have made finding under subparagraph (A) that each petition for a species included in the list under section 2(b)(3)(A)(i) in the applicable backlog schedule does not present substantial scientific or commercial information indicating that the petitioned action may be warranted, effective upon the expiration of the 180-day period beginning on the date the petition was submitted.
+  >   - **(iii)** the Secretary is deemed to have made a finding under subparagraph (A) that each petition for a species included in the list under section 2(b)(3)(A)(i) in the applicable backlog schedule does not present substantial scientific or commercial information indicating that the petitioned action may be warranted, effective upon the expiration of the 180-day period beginning on the date the petition was submitted.
   > - **(H)** Except as provided in subparagraph (I)—
   >   - **(i)** after declaring a 12-month petition backlog under subparagraph (E)(ii) and before taking any actions under clause (ii) of this subparagraph, the Secretary shall assign each petition and petitioned-for species to be considered under such clause to one of the five priority bins referred to in the notice issued by the United States Fish and Wildlife Service entitled “Methodology for Prioritizing Status Reviews and Accompanying 12-month findings on Petitions for Listing Under the Endangered Species Act (81 Fed. Reg. 49248 (July 27, 2016))”; and
   >   - **(ii)** during the effective period of such 12-month petition backlog under subparagraph (E)(ii)—
@@ -113,14 +95,18 @@ Section 2 of the Endangered Species Act of 1973 (16 U.S.C. 1531) is amended—
   >       - **(bb)** promulgate rules as a direct or indirect result of litigation outcomes or agreements;
   >       - **(cc)** resolve any matter related to the petition or a petitioned-for species by a certain date, or otherwise;
   >       - **(dd)** conduct further research or analysis related to the petition or petitioned-for species; or
-  >       - **(ee)** engage in any other activity as a result of the terms of litigation settlements or court-orders related to such petitions or petitioned-for species.
-  > - **(L)**
-  >   - **(i)** Except as provided in clauses (ii) and (iii), any negative finding described in subparagraph (A) and any finding described in clause (i) or (ii) of subparagraph (B) shall be subject to judicial review.
-  >   - **(ii)** A petition in the list under section 2(a)(3)(A)(i) of the backlog schedule for a 12-month petition backlog is not subject to judicial review—
-  >     - **(I)** on the basis of a negative finding by the Secretary under subparagraph (H)(ii)(IV); or
-  >     - **(II)** on the basis that the Secretary has failed to make a finding within the 12-month timeframe established under subparagraph (B).
-  >   - **(iii)** Notwithstanding subparagraph (C)(ii), a finding by the Secretary under subparagraph (G)(iii), and any failure by the Secretary in the effective period of a 90-day petition backlog to make a finding under subparagraph (A) with respect to any species included in the list under section 2(b)(3)(A)(i) in the applicable backlog schedule, is not subject to judicial review.
+  >       - **(ee)** engage in any other activity as a result of the terms of litigation settlements or court orders related to such petitions or petitioned-for species.
+  > - **(L)** Notwithstanding subparagraph (C)(ii), a finding by the Secretary under subparagraph (G)(iii), and any failure by the Secretary in the effective period of a 90-day petition backlog to make a finding under subparagraph (A) with respect to any species included in the list under section 2(b)(3)(A)(i) in the applicable backlog schedule, is not subject to judicial review.
+  > - **(M)**
+  >   - **(i)** The Secretary shall enter into a contract with any person under which the person agrees to reimburse the Federal Government for all costs incurred for review of and decision upon any petition under this Act to add a species to a list of species under section 4(c), including petitions to move a species from the list of threatened species to the list of endangered species.
+  >   - **(ii)** Such a contract—
+  >     - **(I)** shall require the person to reimburse such costs monthly during the period the petition is under review by the Secretary; and
+  >     - **(II)** if payment of reimbursement is made in accordance with subclause (I) without lapse, shall require the Secretary, notwithstanding any other provision of this Act, to—
+  >       - **(aa)** issue a decision on the petition; and
+  >       - **(bb)** continuously study, review, or render such a decision during the period the contract is in effect.
 
 - **(b)** *Conforming amendment* Section 4(b)(3)(C) of the Endangered Species Act of 1973 (16 U.S.C. 1533(b)(3)(C)) is amended—
   - **(1)** by striking clause (ii); and
   - **(2)** by redesignating clause (iii) as clause (ii).
+- **(c)** *Effect of dismissal of petition* Section 4(b)(3) of the Endangered Species Act of 1973 (16 U.S.C. 1533(b)(3)), as amended by subsection (a), is further amended by adding at the end the following:
+  > - **(N)** Dismissal of a petition by backlog procedures shall not affect the review of any subsequent petition for any species

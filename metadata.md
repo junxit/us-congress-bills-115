@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6355
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6355
@@ -16,7 +16,7 @@ Providing ESA Timing Improvements That Increase Opportunities for Nonlisting Act
 
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Cosponsors (17)
+## Cosponsors (23)
 
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
@@ -35,6 +35,12 @@ Providing ESA Timing Improvements That Increase Opportunities for Nonlisting Act
 - Rep. Estes, Ron [R-KS-4] (E000298)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Marshall, Roger [R-KS-1] (M001198)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
 
 ## Committees (1)
 
@@ -45,3 +51,9 @@ Providing ESA Timing Improvements That Increase Opportunities for Nonlisting Act
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Introduced in House
 - 2018-07-12 — Referred to the House Committee on Natural Resources.
+- 2018-09-26 — Committee Hearings Held.
+- 2018-09-27 — Committee Consideration and Mark-up Session Held.
+- 2018-09-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 14.
+- 2018-12-21 — Placed on the Union Calendar, Calendar No. 855.
+- 2018-12-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1105.
+- 2018-12-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-1105.
