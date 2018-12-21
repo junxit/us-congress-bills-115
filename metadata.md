@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7318
 congress: 115
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7318
