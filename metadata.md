@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4203
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4203
@@ -16,13 +16,14 @@ Combat Online Predators Act
 
 - Rep. Fitzpatrick, Brian K. [R-PA-8] (F000466)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Costello, Ryan A. [R-PA-6] (C001106)
 - Rep. Smucker, Lloyd [R-PA-16] (S001199)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (2)
 
@@ -53,3 +54,14 @@ Combat Online Predators Act
 - 2018-04-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-627.
 - 2018-04-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 115-627.
 - 2018-04-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2018-12-22 — Amendment SA 4179 agreed to in Senate by Unanimous Consent.
+- 2018-12-22 — Amendment SA 4179 proposed by Senator McConnell for Senator Toomey. (consideration: CR S8036; text: CR S8036) In the nature of a substitute.
+- 2018-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S8036)
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2018-12-22 — Senate amendment agreed to: Amendment SA 4179 agreed to in Senate by Unanimous Consent.
+- 2018-12-22 — Senate amendment proposed (on the floor): Amendment SA 4179 proposed by Senator McConnell for Senator Toomey.(consideration: CR S8036; text: CR S8036)
+- 2018-12-22 — Senate amendment submitted
