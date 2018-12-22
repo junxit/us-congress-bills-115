@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1967
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1967
@@ -50,3 +50,6 @@ Bureau of Reclamation Pumped Storage Hydropower Development Act
 - 2018-11-26 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-377.
 - 2018-11-26 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-377.
 - 2018-11-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8034-8035; text: CR S8034-8035)
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8034-8035; text: CR S8034-8035)

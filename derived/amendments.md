@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1967
 congress: 115
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,14 +41,3 @@ to guess them.
 |---|---|
 | Removed | `has been filed with the Federal Energy Regulatory Commission as of August 9, 2013` |
 | Inserted | `was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `43 U.S.C. § 485h` | insert | Section 9(c)(1) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c)(1)) is amended by inserting “and pumped storage hydropower development exclusively utilizing Bureau of Reclamation reservoirs” after “including small conduit hydro… | the bill quotes the text inserted but describes where it goes |

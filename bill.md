@@ -2,17 +2,11 @@
 legis-num: H.R. 1967
 congress: 115th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1967
 
-> To amend the Reclamation Project Act of 1939 to authorize pumped storage hydropower development utilizing multiple Bureau of Reclamation reservoirs.
+That the bill from the House of Representatives (H.R. 1967) entitled “An Act to amend the Reclamation Project Act of 1939 to authorize pumped storage hydropower development utilizing multiple Bureau of Reclamation reservoirs.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Bureau of Reclamation Pumped Storage Hydropower Development Act”.
-
-## § 2. Authority for pumped storage hydropower development utilizing multiple Bureau of Reclamation reservoirs
-
-Section 9(c)(1) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c)(1)) is amended by inserting “and pumped storage hydropower development exclusively utilizing Bureau of Reclamation reservoirs” after “including small conduit hydropower development ”.
+*Strike out all after the enacting clause and insert:*
