@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4969
@@ -42,3 +42,14 @@ Embassy Security Authorization Act, Fiscal Year 2019
 - 2018-09-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7840-7841)
 - 2018-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7840-7841)
 - 2018-09-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2018-12-22 — Amendment SA 4181 agreed to in Senate by Unanimous Consent.
+- 2018-12-22 — Amendment SA 4181 proposed by Senator McConnell for Senator Corker. (consideration: CR S8039-8041; text: CR S8039-8041) In the nature of a substitute.
+- 2018-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S8039-8041)
+- 2018-12-22 — Message on Senate action sent to the House.
+- 2018-12-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2018-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2018-12-22 — Senate amendment agreed to: Amendment SA 4181 agreed to in Senate by Unanimous Consent.
+- 2018-12-22 — Senate amendment proposed (on the floor): Amendment SA 4181 proposed by Senator McConnell for Senator Corker.(consideration: CR S8039-8041; text: CR S8039-8041)
+- 2018-12-22 — Senate amendment submitted
