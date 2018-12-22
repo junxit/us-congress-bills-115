@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 285
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas Dr. Samuel DuBois Cook was born on November 21, 1928, in Griffin, Georgia;
 - Whereas Dr. Samuel DuBois Cook earned a Bachelor of Arts degree in history from Morehouse College in Atlanta, Georgia;
-- Whereas, as a student, Dr. Samuel DuBois Cook was a friend and classmate of Dr. Martin Luther King, Jr., and a leader at Morehouse College, where he served as student body president and founded the campus chapter of the National Association for the advancement of Colored People;
+- Whereas, as a student, Dr. Samuel DuBois Cook was a friend and classmate of Dr. Martin Luther King, Jr., and a leader at Morehouse College, where he served as student body president and founded the campus chapter of the National Association for the Advancement of Colored People;
 - Whereas Dr. Samuel DuBois Cook earned a Master of Arts in Political Science and a Doctor of Philosophy from Ohio State University;
 - Whereas Dr. Samuel DuBois Cook is a veteran who served in the United States Army during the Korean War;
 - Whereas Dr. Samuel DuBois Cook taught at Southern University in Baton Rouge, Louisiana, Atlanta University, the University of Illinois, and the University of California, Los Angeles, before becoming a faculty member at Duke University in Durham, North Carolina;
