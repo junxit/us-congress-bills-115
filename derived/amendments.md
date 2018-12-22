@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4969
 congress: 115
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 304
 
-> in the section heading, by striking “Annual report on embassy construction costs” and inserting “Quarterly report on overseas capital construction projects”; and
+> in the section heading, by striking “ANNUAL REPORT ON EMBASSY CONSTRUCTION COSTS” and inserting “QUARTERLY REPORT ON OVERSEAS CAPITAL CONSTRUCTION PROJECTS”; and
 
 | | |
 |---|---|
-| Removed | `Annual report on embassy construction costs` |
-| Inserted | `Quarterly report on overseas capital construction projects` |
+| Removed | `ANNUAL REPORT ON EMBASSY CONSTRUCTION COSTS` |
+| Inserted | `QUARTERLY REPORT ON OVERSEAS CAPITAL CONSTRUCTION PROJECTS` |
 
 ### 22 U.S.C. § 4852
 
