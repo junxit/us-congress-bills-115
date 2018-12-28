@@ -1,7 +1,7 @@
 ---
 measure: H.R. 237
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 33 U.S.C. § 3610
 
-> Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary” and inserting “is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2018 through 2022 $36,151,000”.
+> Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary” and inserting “is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2019 through 2023 $42,000,000”.
 
 | | |
 |---|---|
 | Removed | `are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary` |
-| Inserted | `is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2018 through 2022 $36,151,000` |
+| Inserted | `is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2019 through 2023 $42,000,000` |
 
 ## Stated, not applied
 
