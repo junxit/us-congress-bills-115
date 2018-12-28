@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6226
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6226
@@ -45,3 +45,11 @@ American Space Situational Awareness and Framework for Entity Management Act
 - 2018-06-26 — Introduced in House
 - 2018-06-26 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-06-26 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-06-27 — Committee Consideration and Mark-up Session Held.
+- 2018-06-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2018-12-22 — House Committee on the Budget Granted an extension for further consideration ending not later than Dec. 28, 2018.
+- 2018-12-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-1106, Part I.
+- 2018-12-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-1106, Part I.
+- 2018-12-28 — Committee on the Budget discharged.
+- 2018-12-28 — Committee on the Budget discharged.
+- 2018-12-28 — Placed on the Union Calendar, Calendar No. 873.
