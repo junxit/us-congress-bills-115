@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1511
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -52,7 +52,7 @@ This Act may be cited as the “Homeless Children and Youth Act of 2017”.
       >     - **(ii)** cannot live safely with a parent, legal guardian, or relative; and
       >     - **(iii)** has no other safe alternative living arrangement.
 
-    - **(E)** in paragraph (3), as so redesignated—
+    - **(E)** in paragraph (3)(A), as so redesignated—
       - **(i)** in clause (i), by striking “and lives” and all that follows through “shelter” and inserting “under any provision of section 103”; and
       - **(ii)** in clause (iii), by striking “(or a minor head of household if no adult is present in the household)” and inserting “, a minor head of household (if no adult is present in the household), or a child”;
     - **(F)** in paragraph (9)(A), by inserting “any provision of” before “section 103”;
@@ -92,9 +92,9 @@ This Act may be cited as the “Homeless Children and Youth Act of 2017”.
     >   - **(3)** a count of the number of homeless individuals and families, as defined under any provision of section 103, that are documented through the HMIS by each collaborative applicant; and
     >   - **(4)** a count of the number of homeless women, as defined under any provision of section 103 and both unaccompanied and accompanied, including a breakout of the count by—
     >     - **(A)** age range;
-    >     - **(B)** disability;
+    >     - **(B)** disability; and
     >     - **(C)** trauma experience, such as child abuse, sexual assault, or interpersonal violence experienced during the lifetime of the woman and during the preceding year, and if the woman is a veteran (as defined in section 101 of title 38, United States Code), during the period of service; and
-    >     - **(D)** length of time experiencing homelessness.
+    >     - **(D) (C)** length of time experiencing homelessness.
 
   - **(5)** in section 422 (42 U.S.C. 11382)—
     - **(A)** in subsection (a)—
