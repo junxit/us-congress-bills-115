@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5874
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5874
@@ -42,3 +42,18 @@ Restoring Accountability in the Indian Health Service Act of 2018
 - 2018-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-05-18 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-06-04 — Referred to the Subcommittee on Health.
+- 2018-06-13 — Committee Consideration and Mark-up Session Held.
+- 2018-06-13 — Ordered to be Reported by Voice Vote.
+- 2018-12-03 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 28, 2018.
+- 2018-12-03 — House Committee on Oversight and Government Granted an extension for further consideration ending not later than Dec. 28, 2018.
+- 2018-12-03 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Dec. 28, 2018.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1065, Part I.
+- 2018-12-03 — Reported by the Committee on Natural Resources. H. Rept. 115-1065, Part I.
+- 2018-12-28 — Committee on Energy and Commerce discharged.
+- 2018-12-28 — Committee on Energy and Commerce discharged.
+- 2018-12-28 — Committee on Oversight and Government discharged.
+- 2018-12-28 — Committee on Oversight and Government discharged.
+- 2018-12-28 — Committee on Ways and Means discharged.
+- 2018-12-28 — Committee on Ways and Means discharged.
+- 2018-12-28 — Placed on the Union Calendar, Calendar No. 872.
