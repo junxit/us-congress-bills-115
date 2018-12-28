@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2987
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “21st Century Conservation Service Corps Act of 2017”.
+This Act may be cited as the “21st Century Conservation Service Corps Act”.
 
 ## § 2. Purposes
 
@@ -51,9 +51,7 @@ Section 202 of the Public Lands Corps Act of 1993 (16 U.S.C. 1721) is amended to
   >   - **(B)** is established pursuant to an agreement between a tribal agency and a 21CSC organization for the benefit of the members of the tribal agency.
   > - **(7)** *Institution of higher education*
   >   - **(A)** *In general* The term institution of higher education has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
-  >   - **(B)** *Exclusion* The term institution of higher education does not include—
-  >     - **(i)** an institution described in section 101(b) of the Higher Education Act of 1965 (20 U.S.C. 1001(b)); or
-  >     - **(ii)** an institution outside the United States, as described in section 102(a)(1)(C) of that Act (20 U.S.C. 1002(a)(1)(C)).
+  >   - **(B)** *Exclusion* The term institution of higher education does not include an institution outside the United States, as described in section 102(a)(1)(C) of that Act (20 U.S.C. 1002(a)(1)(C)).
   > - **(8)** *Participating entity* The term participating entity means a Federal entity described in section 204(c)(2).
   > - **(9)** *Priority project* The term priority project means a 21CSC project conducted to further 1 or more of the purposes described in section 202 or in section 2 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501), including by—
   >   - **(A)** reducing wildfire risk to a community, municipal water supply, or at-risk land;
@@ -83,7 +81,7 @@ Section 202 of the Public Lands Corps Act of 1993 (16 U.S.C. 1721) is amended to
   > - **(14)** *Veteran* The term veteran has the meaning given the term in section 101 of title 38, United States Code.
   > - **(15)** *Youth* The term youth means an individual who is not younger than age 15 and not older than age 30.
 
-- **(b)** *Conforming amendment* Section 623(i)(6) of title 40, United States Code, is amended by striking “any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))” and inserting “any land or water (or interest in land or water) owned or administered by the United States (other than Indian land)”.
+- **(b)** *Conforming amendment* Section 623(i)(6) of title 40, United States Code, is amended by striking “any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))” and inserting “any land or water (or interest in land or water) owned by the United States (other than Indian land)”.
 
 ## § 4. 21st Century Conservation Service Corps
 
@@ -127,21 +125,25 @@ Section 204 of the Public Lands Corps Act of 1993 (16 U.S.C. 1723) is amended to
 >         - **(II)** to maximize 21CSC project completion in a cost-effective manner by collaborating to leverage existing resources described in section 210(b).
 >       - **(ii)** *Approval and data collection* The head of each participating entity shall, to the maximum extent practicable, coordinate with each other head of a participating entity—
 >         - **(I)** to approve organizations as 21CSC organizations; and
->         - **(II)** to collect the data referred to in items (aa) through (dd) of subparagraph (C)(i)(I).
+>         - **(II)** to collect the data, when practicable in coordination with a national non-Federal 21CSC organization coordinating entity, referred to in items (aa) through (dd) of subparagraph (C)(i)(I).
 >       - **(iii)** *Guidance* The head of each participating entity shall, to the maximum extent practicable, seek guidance from—
 >         - **(I)** the Corporation for National and Community Service;
->         - **(II)** the Departments of Veterans Affairs and Labor on methods to increase the participation of veterans in 21CSC projects; and
->         - **(III)** the Secretary of the Interior, acting through the Assistant Secretary for Indian Affairs, on methods to increase the participation of Indians in 21CSC projects.
+>         - **(II)** the Departments of Veterans Affairs and Labor on methods to increase the participation of veterans in 21CSC projects;
+>         - **(III)** the Secretary of the Interior, acting through the Assistant Secretary for Indian Affairs, on methods to increase the participation of Indians in 21CSC projects;
+>         - **(IV)** the Secretary of Defense on participation for the 21CSC in the Skillbridge program (DoD Instruction 1322.29), and on recruiting generally, to encourage more veteran and transitioning service member engagement in 21CSC projects;
+>         - **(V)** the Secretary of Labor and the Secretary of Agriculture on methods to increase rural youth engagement in 21CSC projects;
+>         - **(VI)** the Secretary of Labor on methods to increase the creation of apprenticeships through 21CSC organizations, private-sector employer partnerships, and identifying career pathways aligned with 21CSC projects; and
+>         - **(VII)** the Secretary of Education on methods to increase the recognition of Corpsmembers’ experience with 21CSC projects as post-secondary credit at higher education institutions.
 >     - **(C)** *Reporting*
 >       - **(i)** *21CSC Reports*
->         - **(I)** *Report to Congress* As soon as practicable after the date of enactment of the 21st Century Conservation Service Corps Act of 2017, the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the head of each participating entity, shall submit to Congress a report that includes data, for the year covered by the report, including—
+>         - **(I)** *Report to Congress* As soon as practicable after the date of enactment of the 21st Century Conservation Service Corps Act, the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the head of each participating entity, shall submit to Congress a report that includes data, for the year covered by the report, including—
 >           - **(aa)** the number of Corpsmembers that carried out 21CSC projects and the length of the term of service for each Corpsmember;
 >           - **(bb)** the total amount of funding provided by participating entities for the service of Corpsmembers;
 >           - **(cc)** the type of service performed by Corpsmembers and the impact and accomplishments of the service; and
 >           - **(dd)** any other similar data determined by the Chief Executive Officer of the Corporation for National and Community Service or the head of a participating entity to be appropriate, including data sufficient to determine the effectiveness of 21CSC organizations in carrying out activities to achieve the purposes of this title in a manner that—
 >             - **(AA)** is cost-effective; and
 >             - **(BB)** does not unduly duplicate or overlap with any other activity or program carried out by any other Federal agency.
->         - **(II)** *Data from participating entities* Not later than 1 year after the date of enactment of the 21st Century Conservation Service Corps Act of 2017, and annually thereafter, the head of each participating entity shall submit to the Chief Executive Officer of the Corporation for National and Community Service the data described in items (aa) through (dd) of subclause (I).
+>         - **(II)** *Data from participating entities* Not later than 1 year after the date of enactment of the 21st Century Conservation Service Corps Act, and annually thereafter, the head of each participating entity shall submit to the Chief Executive Officer of the Corporation for National and Community Service the data described in items (aa) through (dd) of subclause (I).
 >         - **(III)** *Data collection* The Chief Executive Officer of the Corporation for National and Community Service may coordinate with individual 21CSC organizations to improve the collection of the required data described in items (aa) through (dd) of subclause (I).
 >       - **(ii)** *Comptroller General reports*
 >         - **(I)** *In general* The Comptroller General of the United States shall prepare and submit to Congress—
@@ -170,11 +172,12 @@ Section 204 of the Public Lands Corps Act of 1993 (16 U.S.C. 1723) is amended to
 >   - **(1)** *In general* To be considered and approved as a 21CSC organization, an organization shall, to the maximum extent practicable, demonstrate the ability to meet, and provide assurances that the organization will meet, each requirement described in paragraphs (2) through (6).
 >   - **(2)** *21CSC Corpsmembers engaged by 21CSC organizations*
 >     - **(A)** *In general* In addition to meeting the requirement of subparagraph (B), any individual selected by a 21CSC organization to carry out a 21CSC project shall, to the maximum extent practicable, be—
->       - **(i)** notwithstanding paragraphs (3) and (4) of section 137(a) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a)), a youth, in the case of any Corpsmember participating in a 21CSC project supported and carried out by the Corporation for National and Community Service; or
+>       - **(i)** a youth, notwithstanding paragraphs (3) and (4) of section 137(a) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a)) in the case of any Corpsmember participating in a 21CSC project supported and carried out by the Corporation for National and Community Service; or
 >       - **(ii)** a veteran not older than age 35.
 >     - **(B)** *Citizenship requirement* Any individual selected as a Corpsmember shall be—
->       - **(i)** a citizen or national of the United States; or
->       - **(ii)** a lawful permanent resident of the United States.
+>       - **(i)** a citizen or national of the United States;
+>       - **(ii)** a lawful permanent resident of the United States; or
+>       - **(iii)** a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as a nonimmigrant under the terms of the applicable Compact of Free Association with the United States.
 >     - **(C)** *Emphasis on diversity and inclusion* In selecting a Corpsmember, a 21CSC organization shall make deliberate outreach efforts to engage an individual who—
 >       - **(i)** lives in the State or region of the 21CSC organization; and
 >       - **(ii)** represents a traditionally underserved population, including veterans, Indians, and disadvantaged youth (as defined in section 101 of the National and Community Service Act of 1990 (42 U.S.C. 12511)).
@@ -274,19 +277,19 @@ Section 206 of the Public Lands Corps Act of 1993 (16 U.S.C. 1725) is amended—
 
 - **(1)** in subsection (a)—
   - **(A)** in the fourth sentence, by striking “The Secretary” and inserting the following:
-    > - **(D)** *Preference* The head of a participating entity
+    > - **(4)** *Preference* The head of a participating entity
 
   - **(B)** in the third sentence, by striking “The Secretary” and inserting the following:
-    > - **(C)** *Selection* The head of a participating entity
+    > - **(3)** *Selection* The head of a participating entity
 
   - **(C)** in the second sentence, by striking “To be eligible” and inserting the following:
-    > - **(B)** *Eligibility* To be eligible
+    > - **(2)** *Eligibility* To be eligible
 
   - **(D)** by striking the first sentence and inserting the following:
-    > - **(A)** *In general* The head of a participating entity may provide individual placements of resource assistants to carry out research or resource protection activities on behalf of the participating entity.
+    > - **(1)** *In general* The head of a participating entity may provide individual placements of resource assistants to carry out research or resource protection activities on behalf of the participating entity.
 
 - **(2)** by striking subsection (b) and inserting the following:
-  > - **(b)** *Use of 21CSC organizations*
+  > - **(b)** *Preference for the use of 21CSC organizations*
   >   - **(1)** *In general* If the head of a participating entity determines that a 21CSC organization can provide appropriate recruitment and placement services to fulfill the requirements of this section, the head of the participating entity may implement this section through a 21CSC organization.
   >   - **(2)** *Contribution to expenses* A 21CSC organization providing recruitment and placement services under paragraph (1) shall contribute to the expenses of providing and supporting resource assistants, through 1 or more private sources of funding, at a level equal to 25 percent of the total costs of each participant in the resource assistant program that has been recruited and placed through the 21CSC organization.
   >   - **(3)** *Annual report* A 21CSC organization providing recruitment and placement services under paragraph (1) shall submit to the head of the applicable participating entity an annual report that evaluates the scope, size, and quality of the resource assistant program carried out by the 21CSC organization, including a description of the value of the work contributed by resource assistants to the mission of the participating entity.
@@ -338,7 +341,7 @@ Section 209 of the Public Lands Corps Act of 1993 (16 U.S.C. 1728) is amended—
 Section 210 of the Public Lands Corps Act of 1993 (16 U.S.C. 1729) is amended—
 
 - **(1)** by redesignating subsections (a) through (c) as subsections (d) through (f), respectively;
-- **(2)** by inserting before subsection (d) the following:
+- **(2)** by inserting before subsection (d) (as so redesignated) the following:
   > - **(a)** *Investments*
   >   - **(1)** *In general* In addition to using the funds described in subsections (b) and (c) to fund 21CSC projects, each 21CSC organization shall leverage those funds by soliciting cash or in-kind contributions from public or private sources.
   >   - **(2)** *Methods* A 21CSC organization may leverage funds by soliciting contributions using innovative strategies, such as crowd-funding.
@@ -347,7 +350,7 @@ Section 210 of the Public Lands Corps Act of 1993 (16 U.S.C. 1729) is amended—
 
 - **(3)** in subsection (d) (as so redesignated)—
   - **(A)** in paragraph (1)—
-    - **(i)** in the paragraph heading, by striking “qualified youth or conservation corps” and inserting “Corpsmembers or 21CSC organizations”; and
+    - **(i)** in the paragraph heading, by striking “qualified youth or conservation corps” and inserting “corpsmembers or 21CSC organizations”; and
     - **(ii)** by striking the first and second sentences; and
   - **(B)** in paragraph (2)—
     - **(i)** in the paragraph heading, by striking “Public Lands Corps” and inserting “21CSC”;
@@ -370,11 +373,11 @@ The Public Lands Corps Act of 1993 (16 U.S.C. 1721 et seq.) is amended—
   > ## § 211. Indian Youth 21st Century Conservation Service Corps
   >
   > - **(a)** *Authorization of cooperative agreements* The head of a participating entity may offer to enter into a cooperative agreement with a tribal agency or a 21CSC organization to establish and administer the Indian Youth 21st Century Conservation Service Corps, which shall carry out 1 or more 21CSC projects on tribal land or water.
-  > - **(b)** *Guidelines* Not later than 18 months after the date of enactment of the 21st Century Conservation Service Corps Act of 2017, the Secretary of the Interior, in consultation with Indian tribes, shall issue guidelines for the management of the Indian Youth 21st Century Conservation Service Corps, in accordance with this Act and any other applicable Federal laws.
+  > - **(b)** *Guidelines* Not later than 18 months after the date of enactment of the 21st Century Conservation Service Corps Act, the Secretary of the Interior, in consultation with Indian tribes, shall issue guidelines for the management of the Indian Youth 21st Century Conservation Service Corps, in accordance with this Act and any other applicable Federal laws.
   >
   > ## § 212. Rule of construction
   >
-  > Except as provided in section 204(d)(2)(A)(i), the requirements and authorities provided under this title with respect to Corpsmembers, 21CSC organizations, and participating entities with respect to a 21CSC project shall be in addition to any requirement or authority provided under other Federal law with respect to Corpsmembers, 21CSC organizations, and participating entities with respect to the 21CSC project.
+  > Except where otherwise provided for in this title, the requirements and authorities provided under this title with respect to Corpsmembers, 21CSC organizations, and participating entities with respect to a 21CSC project shall be in addition to any requirement or authority provided under other Federal law with respect to Corpsmembers, 21CSC organizations, and participating entities with respect to the 21CSC project.
 
 ## § 12. Direct hire authority
 
@@ -383,4 +386,23 @@ Section 121(a) of the Department of the Interior, Environment, and Related Agenc
 - **(1)** in paragraph (1)—
   - **(A)** by striking “Secretary of the Interior” and inserting “head of a participating entity (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722)) (referred to in this subsection as a “participating entity”)”; and
   - **(B)** by striking “in paragraph (1) directly to a position with a land managing agency of the Department of the Interior” and inserting “in paragraph (2) directly to a position with a participating entity”; and
-- **(2)** in paragraph (2)(A), by striking “land managing agency, such as the National Park Service Business Plan Internship” and inserting “participating entity”.
+- **(2)** in paragraph (2)(A), by striking “land managing agency” and inserting “participating entity”.
+
+## § 13. National and community service programs
+
+- **(a)** *Nonprofit capacity building* Section 198S(a)(4) of the National and Community Service Act of 1990 (42 U.S.C. 12653s(a)(4)) is amended by striking “and the District of Columbia” and inserting “the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States”.
+- **(b)** *Compact migrant eligibility* Section 137(a)(5) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a)(5)) is amended to read as follows:
+  > - **(5)** is a citizen or national of the United States or lawful permanent resident alien of the United States, or is a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as a nonimmigrant under the terms of the applicable Compact of Free Association with the United States.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to any participant in a program under the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.) selected after the date of enactment of this section.
+
+## § 14. Youth conservation corps
+
+Public Law 91–378 (commonly known as the “Youth Conservation Corps Act of 1970”) (16 U.S.C. 1701 et seq.) is amended—
+
+- **(1)** in section 102(a) (16 U.S.C. 1702(a)), by—
+  - **(A)** striking “trust territories, or” and inserting “or the”; and
+  - **(B)** inserting “(or who are citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as nonimmigrants under the terms of the applicable Compact of Free Association with the United States),” after “Puerto Rico”; and
+- **(2)** in section 104 (16 U.S.C. 1704)—
+  - **(A)** in subsection (a), by striking “the Trust Territory of the Pacific Islands, and American Samoa” and inserting “American Samoa, and the Commonwealth of the Northern Mariana Islands”; and
+  - **(B)** in subsection (b)(1)(A), by striking “, possessions, or the Trust Territory of the Pacific Islands” and inserting “or possessions (or the citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as nonimmigrants under the terms of the applicable Compact of Free Association with the United States)”.

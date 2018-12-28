@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2987
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 25 executed, 19 stated and not applied.
+48 amendatory instructions. 28 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 1722
 
-> Section 623(i)(6) of title 40, United States Code, is amended by striking “any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))” and inserting “any land or water (or interest in land or water) owned or administered by the United States (other than Indian land)”.
+> Section 623(i)(6) of title 40, United States Code, is amended by striking “any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))” and inserting “any land or water (or interest in land or water) owned by the United States (other than Indian land)”.
 
 | | |
 |---|---|
 | Removed | `any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722))` |
-| Inserted | `any land or water (or interest in land or water) owned or administered by the United States (other than Indian land)` |
+| Inserted | `any land or water (or interest in land or water) owned by the United States (other than Indian land)` |
 
 ### 16 U.S.C. § 1724
 
@@ -152,12 +152,12 @@ to guess them.
 
 ### 16 U.S.C. § 1729
 
-> in the paragraph heading, by striking “qualified youth or conservation corps” and inserting “Corpsmembers or 21CSC organizations”; and
+> in the paragraph heading, by striking “qualified youth or conservation corps” and inserting “corpsmembers or 21CSC organizations”; and
 
 | | |
 |---|---|
 | Removed | `qualified youth or conservation corps` |
-| Inserted | `Corpsmembers or 21CSC organizations` |
+| Inserted | `corpsmembers or 21CSC organizations` |
 
 ### 16 U.S.C. § 1729
 
@@ -242,12 +242,39 @@ to guess them.
 
 ### 16 U.S.C. § 1725a
 
-> in paragraph (2)(A), by striking “land managing agency, such as the National Park Service Business Plan Internship” and inserting “participating entity”.
+> in paragraph (2)(A), by striking “land managing agency” and inserting “participating entity”.
 
 | | |
 |---|---|
-| Removed | `land managing agency, such as the National Park Service Business Plan Internship` |
+| Removed | `land managing agency` |
 | Inserted | `participating entity` |
+
+### 42 U.S.C. § 12653s
+
+> Section 198S(a)(4) of the National and Community Service Act of 1990 (42 U.S.C. 12653s(a)(4)) is amended by striking “and the District of Columbia” and inserting “the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States”.
+
+| | |
+|---|---|
+| Removed | `and the District of Columbia` |
+| Inserted | `the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States` |
+
+### 16 U.S.C. § 1704
+
+> in subsection (a), by striking “the Trust Territory of the Pacific Islands, and American Samoa” and inserting “American Samoa, and the Commonwealth of the Northern Mariana Islands”; and
+
+| | |
+|---|---|
+| Removed | `the Trust Territory of the Pacific Islands, and American Samoa` |
+| Inserted | `American Samoa, and the Commonwealth of the Northern Mariana Islands` |
+
+### 16 U.S.C. § 1704
+
+> in subsection (b)(1)(A), by striking “, possessions, or the Trust Territory of the Pacific Islands” and inserting “or possessions (or the citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as nonimmigrants under the terms of the applicable Compact of Free Association with the United States)”.
+
+| | |
+|---|---|
+| Removed | `, possessions, or the Trust Territory of the Pacific Islands` |
+| Inserted | `or possessions (or the citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau and admitted to the United States as nonimmigrants under the terms of the applicable Compact of Free Association with the United States)` |
 
 ## Stated, not applied
 
@@ -272,8 +299,9 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1725` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1726` | amend | Section 207 of the Public Lands Corps Act of 1993 (16 U.S.C. 1726) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1729` | redesignate | by redesignating subsections (a) through (c) as subsections (d) through (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1729` | insert | by inserting before subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1729` | redesignate | by inserting before subsection (d) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1729` | strike | by striking the first and second sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1729` | strike | in the second sentence, by striking “the Corps” and “the 21CSC”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1721` | redesignate | by redesignating section 211 as section 213; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1721` | insert | by inserting after section 210 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12591` | amend | Section 137(a)(5) of the National and Community Service Act of 1990 (42 U.S.C. 12591(a)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
