@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6468
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6468
@@ -16,7 +16,7 @@ Improving Science in Chemical Assessments Act
 
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 
-## Cosponsors (16)
+## Cosponsors (17)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
@@ -34,6 +34,7 @@ Improving Science in Chemical Assessments Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
 ## Committees (2)
 
@@ -46,3 +47,11 @@ Improving Science in Chemical Assessments Act
 - 2018-07-23 — Introduced in House
 - 2018-07-23 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-07-23 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported by the Yeas and Nays: 17 - 13.
+- 2018-12-21 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 28, 2018.
+- 2018-12-21 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-1101, Part I.
+- 2018-12-21 — Reported by the Committee on Science, Space, and Technology. H. Rept. 115-1101, Part I.
+- 2018-12-28 — Committee on Energy and Commerce discharged.
+- 2018-12-28 — Committee on Energy and Commerce discharged.
+- 2018-12-28 — Placed on the Union Calendar, Calendar No. 874.
