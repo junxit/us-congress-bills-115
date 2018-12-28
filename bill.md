@@ -17,11 +17,11 @@ This Act may be cited as the “Restore Our Parks and Public Lands Act”.
 
 - **(a)** *In general* There is established in the Treasury of the United States a fund, to be known as the “National Park Service and Public Lands Legacy Restoration Fund” (referred to in this section as the Fund).
 - **(b)** *Deposits*
-  - **(1)** *In general* Except as provided in paragraph (2), for each of fiscal years 2019 through 2023, there shall be deposited in the Fund an amount equal to 50 percent of all energy development revenues due and payable to the United States from oil, gas, coal, or alternative or renewable energy development on Federal land and water that are not otherwise credited, covered, or deposited under Federal law.
+  - **(1)** *In general* Except as provided in paragraph (2), for each of fiscal years 2019 through 2023, there shall be deposited in the Fund an amount equal to 50 percent of all energy development revenues due and payable to the United States from oil, gas, coal, or alternative or renewable energy development on Federal land and water that would otherwise be credited, covered, or deposited as miscellaneous receipts under Federal law.
   - **(2)** *Maximum amount* The amount deposited in the Fund under paragraph (1) shall not exceed $1,300,000,000 for any fiscal year.
-  - **(3)** *Effect on other revenues* Nothing in this section affects the disposition of revenues that—
-    - **(A)** are due to the United States, special funds, trust funds, or States from mineral and energy development on Federal land and water; or
-    - **(B)** have been otherwise appropriated under Federal law, including the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note; Public Law 109–432), the Mineral Leasing Act (30 U.S.C. 181 et seq.), and chapter 2003 of title 54, United States Code.
+  - **(3)** *Effect on other revenues* Nothing in this section affects the disposition under Federal law, including the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note; Public Law 109–432), the Mineral Leasing Act (30 U.S.C. 181 et seq.), and chapter 2003 of title 54, United States Code, of energy development revenues—
+    - **(A)** to special funds, trust funds, or States; or
+    - **(B)** that have been otherwise appropriated under Federal law.
 - **(c)** *Availability of funds* Amounts deposited in the Fund shall be available to the Secretary of the Interior without further appropriation or fiscal year limitation.
 - **(d)** *Investment of amounts*
   - **(1)** *In general* The Secretary of the Interior may request the Secretary of the Treasury to invest any portion of the Fund that is not, as determined by the Secretary of the Interior, required to meet the current needs of the Fund.
@@ -30,31 +30,17 @@ This Act may be cited as the “Restore Our Parks and Public Lands Act”.
     - **(B)** bearing interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
   - **(3)** *Credits to fund* The income on investments of the Fund under this subsection shall be credited to, and form a part of, the Fund.
 - **(e)** *Use of funds* Amounts in the Fund shall be used as follows:
-  - **(1)** 80 percent of amounts in the Fund shall be allocated to the Director of the National Park Service for high-priority deferred maintenance needs, as determined by the Director, of which—
-    - **(A)** 65 percent shall be allocated for projects that are not eligible for the funding described in clause (i) or (ii) of subparagraph (B) for the repair and rehabilitation of assets, including—
-      - **(i)** historic structures, facilities, and other historic assets;
-      - **(ii)** nonhistoric assets that relate directly to visitor—
-        - **(I)** access, including making facilities accessible to visitors with disabilities;
-        - **(II)** health and safety; and
-        - **(III)** recreation; and
-      - **(iii)** visitor facilities, water and utility systems, and employee housing; and
-    - **(B)** 35 percent shall be allocated to road, bridge, tunnel, or other transportation-related projects that may be eligible for funding made available to the Director of the National Park Service through—
-      - **(i)** the transportation program under section 203 of title 23; or
-      - **(ii)** any similar Federal land highway program administered by the Secretary of Transportation.
-  - **(2)** 10 percent of amounts in the Fund shall be allocated to the Director of the United States Fish and Wildlife Service for purposes of addressing the national wildlife refuge system maintenance backlog.
-  - **(3)** 5 percent of amounts in the Fund shall be allocated to the Director of the Bureau of Land Management for the purposes of addressing the public access and recreation backlog.
-  - **(4)** 5 percent of amounts in the Fund shall be allocated to the Assistant Secretary of the Bureau of Indian Affairs for the purposes of addressing the Bureau of Indian Education school construction and deferred maintenance backlogs.
-- **(f)** *Prohibited use of funds* No amounts in the Fund shall be used—
-  - **(1)** for land acquisition; or
-  - **(2)** to supplant discretionary funding made available for the annually recurring facility operations, maintenance, and construction needs of the entities for which amounts from the Fund are allocated under subsection (e).
-- **(g)** *Submission of annual proposal* As part of the annual budget submission of each entity for which amounts from the Fund are allocated under subsection (e), such entity shall submit a prioritized list of deferred maintenance projects or backlog projects proposed to be funded by amounts in the Fund during the fiscal year for which the budget submission is made to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate (referred to in this section as the Committees).
-- **(h)** *Congressional approval* After review of each list submitted under subsection (g), the Committees may provide for the allocation of amounts derived from the Fund with respect to such list.
-- **(i)** *Project approval*
-  - **(1)** *In general* Except as provided in paragraph (2), if, before the beginning of a fiscal year, the Committees do not alter the allocation of funds proposed by the entity for that fiscal year, the list submitted under subsection (g) for that fiscal year shall be considered approved.
-  - **(2)** *Continuing resolution* If, before the beginning of a fiscal year, there is enacted a continuing resolution or resolutions for a period of—
-    - **(A)** less than or equal to 120 days, each entity for which amounts from the Fund are allocated under subsection (e) shall not obligate funds to any project contained in a list submitted under subsection (g) for that fiscal year until the date of enactment of a law making appropriations for such entity that is not a continuing resolution; or
-    - **(B)** more than 120 days, each project contained in a list submitted under subsection (g) for that fiscal year shall be considered approved, unless otherwise provided in the continuing resolution or resolutions.
-- **(j)** *Public donations*
+  - **(1)** 80 percent of amounts in the Fund shall be allocated for priority deferred maintenance projects, including other infrastructure deficiencies directly related to such deferred maintenance projects, as determined by the Secretary of the Interior and the Director of the National Park Service, with the goal of ensuring overall parity between amounts allocated to transportation and non-transportation projects.
+  - **(2)** 10 percent of amounts in the Fund shall be allocated for purposes of addressing the national wildlife refuge system maintenance backlog, as determined by the Secretary of the Interior and the Director of the United States Fish and Wildlife Service.
+  - **(3)** 5 percent of amounts in the Fund shall be allocated for the purposes of addressing the public access and recreation backlog on public lands, as determined by the Secretary of the Interior and the Director of the Bureau of Land Management.
+  - **(4)** 5 percent of amounts in the Fund shall be for the purposes of addressing the Bureau of Indian Education school construction and deferred maintenance backlogs, as determined by the Secretary of the Interior and the Director of the Bureau of Indian Education.
+- **(f)** *Limit on use of funds* No more than 10 percent of the amounts in the Fund may be used for administrative costs incurred in implementing this Act.
+- **(g)** *Prohibited use of funds* No amounts in the Fund shall be used—
+  - **(1)** for land acquisition;
+  - **(2)** to supplant discretionary funding made available for the annually recurring facility operations, maintenance, and construction needs of the entities for which amounts from the Fund are allocated under subsection (e); or
+  - **(3)** for performance awards for Federal employees who are employed in implementing this Act.
+- **(h)** *Submission to Congress* The Secretary of the Interior shall submit to the Committees on Appropriations and Energy and Natural Resources of the Senate and to the Committees on Appropriations and Natural Resources in the House of Representatives, with the annual budget submission of the President, a list of projects for which the amounts in the Fund are allocated under this section, including a description of each such project.
+- **(i)** *Public donations*
   - **(1)** *In general* The Secretary of the Interior, the Director of the National Park Service, the Director of the United States Fish and Wildlife Service, the Director of the Bureau of Land Management, and the Assistant Secretary of Indian Affairs may accept public cash or in-kind donations that advance efforts—
     - **(A)** to reduce the deferred maintenance backlog of the National Park Service, the national wildlife refuge system maintenance backlog of the United States Fish and Wildlife Service, the public access and recreation backlog of the Bureau of Land Management, and the school construction backlog of the Bureau of Indian Education, respectively; and
     - **(B)** to encourage relevant public-private partnerships.
