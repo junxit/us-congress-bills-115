@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 237
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Integrated Coastal and Ocean Observation System Act Amendments of 2017”.
+This Act may be cited as the “Integrated Coastal and Ocean Observation System Act Amendments of 2018”.
 
 ## § 2. Staggered terms for national integrated coastal and ocean observation system advisory committee
 
@@ -29,4 +29,4 @@ Section 12305(a) of the Integrated Coastal and Ocean Observation System Act of 2
 
 ## § 4. Reauthorization of Integrated Coastal and Ocean Observation System Act of 2009
 
-Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary” and inserting “is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2018 through 2022 $36,151,000”.
+Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “are authorized to be appropriated to the Secretary of Commerce for fiscal years 2009 through 2013 such sums as are necessary” and inserting “is authorized to be appropriated to the Secretary of Commerce for each of fiscal years 2019 through 2023 $42,000,000”.
