@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4302
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -59,7 +59,7 @@ Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) is amended—
   >     - **(I)** *In general* If, before the passage by one House of a joint resolution of that House, that House receives from the other House a joint resolution, then the following procedures shall apply:
   >       - **(aa)** The joint resolution of the other House shall not be referred to a committee.
   >       - **(bb)** With respect to a joint resolution of the House receiving the resolution—
-  >         - **(AA)** the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
+  >         - **(AA)** the procedure in that House shall be the same as if no joint resolution had been received from the other House, but
   >         - **(BB)** the vote on passage shall be on the joint resolution of the other House.
   >     - **(II)** *Treatment of joint resolution of other House* If one House fails to introduce or consider a joint resolution under this section, the joint resolution of the other House shall be entitled to expedited floor procedures under this section.
   >     - **(III)** *Consideration after passage* If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
