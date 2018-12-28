@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1675
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -26,7 +26,7 @@ In this Act:
 - **(5)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(6)** *Lidar* The term lidar means light detection and ranging.
 - **(7)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
-- **(8)** *State* The term State means any unit of State government handling the identification, mapping, assessment, and research of landslide hazards or responding to landslide events, including—
+- **(8)** *State* The term State means any unit of State or Territorial government handling the identification, mapping, assessment, and research of landslide hazards or responding to landslide events, including—
   - **(A)** a State geological survey office;
   - **(B)** a State department of emergency response; and
   - **(C)** a State department of transportation.
@@ -70,10 +70,11 @@ In this Act:
       - **(i)** State, local, and tribal officials;
       - **(ii)** Federal, State, local, and tribal emergency managers; and
       - **(iii)** the National Guard.
-  - **(5)** *Flash flood and debris flow early warning system* In carrying out the program, the Secretary, in coordination with the Secretary of Commerce, shall expand the early warning system for flash floods and debris flow by—
+  - **(5)** *Flash flood and debris flow early warning system* In carrying out the program, the Secretary, in coordination with the Secretary of Commerce and Secretary of Agriculture, shall expand the early warning system for flash floods and debris flow by—
     - **(A)** expanding the early warning system for post-wildfire debris flow to include recently burned areas across the western United States;
-    - **(B)** developing procedures with State, local, and tribal governments to monitor stormwater drainage in areas with high flash flood and debris flow risk; and
-    - **(C)** identifying high-risk debris flow areas, such as recently burned land and potential lahar hazard areas.
+    - **(B)** developing procedures with State, local, and tribal governments to monitor stormwater drainage in areas with high flash flood and debris flow risk;
+    - **(C)** identifying high-risk debris flow areas, such as recently burned land and potential lahar hazard areas; and
+    - **(D)** identifying areas susceptible to post-wildfire landslides.
   - **(6)** *Emergency response activities* In carrying out the program, the Secretary, in coordination with the Secretary of Commerce, the Secretary of Homeland Security, the heads of other relevant Federal agencies, States, and Indian tribes, shall establish emergency response procedures for the rapid deployment of Federal scientists, equipment, and services to areas impacted by a significant landslide event—
     - **(A)** to support emergency response efforts and improve the safety of emergency responders;
     - **(B)** to improve data collection; and
@@ -89,6 +90,7 @@ In this Act:
     - **(F)** The Director of the National Science Foundation.
     - **(G)** The Director of the Office of Science and Technology Policy.
     - **(H)** The Director of the Office of Management and Budget.
+    - **(I)** The Secretary of Agriculture.
   - **(3)** *Meetings* The Committee shall meet at the call of the Chairperson.
   - **(4)** *Purpose and duties* The Committee shall—
     - **(A)** advise and oversee the program;
@@ -119,14 +121,14 @@ In this Act:
 - **(e)** *Grant programs*
   - **(1)** *Cooperative landslide hazard mapping and assessment program*
     - **(A)** *In general* Subject to appropriations, the Secretary may—
-      - **(i)** provide grants, on a competitive basis, to State, local, and tribal governments to research, map, assess, and collect data on landslide hazards within the jurisdictions of those governments; and
+      - **(i)** provide grants, on a competitive basis, to State, local, and tribal governments to research, map, assess, and collect data on landslide hazards and identify areas susceptible to post-wildfire landslides within the jurisdictions of those governments; and
       - **(ii)** accept and use funds received from other Federal and non-Federal partners to advance the purposes of the program.
     - **(B)** *Priority*
       - **(i)** *In general* The Secretary shall consult annually with the Committee, States, and Indian tribes to establish priorities for the grant program under this paragraph.
       - **(ii)** *Funding prioritization* In providing grants under this paragraph, the Secretary shall give priority to projects that—
         - **(I)** will achieve the greatest landslide hazard and risk reduction;
         - **(II)** reflect the goals and priorities of the national strategy established under subsection (b)(2)(A);
-        - **(III)** would receive not more than 50 percent of the total cost of the project from non-Federal sources; and
+        - **(III)** are matched at least 50 percent of the total cost of the project from non-Federal sources; and
         - **(IV)** include acquisition of enhanced elevation data consistent with the 3D Elevation Program.
   - **(2)** *National landslide research grants* In providing grants for landslide research and development, the Director of the National Science Foundation, in consultation with the Secretary and the Committee, shall ensure that the grants are provided on a competitive basis to State, local, and tribal governments, institutions of higher education, and nongovernmental entities to advance the goals and priorities of the national strategy established under subsection (b)(2)(A), including for research and development on—
     - **(A)** the causes, mechanisms, triggers, hydrology, and geology of landslides;
@@ -148,6 +150,7 @@ In this Act:
     - **(D)** recommendations to improve risk identification, reduction, and communication to landowners and local governments;
     - **(E)** recommendations to improve landslide hazard preparedness and emergency response activities under this section; and
     - **(F)** such other findings as the Secretary determines appropriate.
+- **(g)** *Sunset* This program, including any reporting requirements, shall sunset on the date that is seven years after the date of enactment.
 
 ## § 4. Ground subsidence
 
@@ -224,3 +227,4 @@ As the Secretary determines to be appropriate, the Secretary shall support the i
   - **(1)** *In general* The Secretary may make grants and enter into cooperative agreements with other Federal departments and agencies, units of tribal, State, or local government, institutions of higher education, nonprofit research institutions, or other organizations to facilitate the improvement of nationwide coverage of 3D elevation data.
   - **(2)** *Applications* To be eligible to receive a grant or enter into a cooperative agreement under this subsection, an entity described in paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   - **(3)** *Terms and conditions* A grant or cooperative agreement under this subsection shall be subject to such terms and conditions as the Secretary determines to be appropriate, including making data publically available and interoperable with other Federal datasets.
+- **(e)** *Sunset* This program, including any reporting requirements, shall sunset on the date that is seven years after the date of enactment.
