@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3288
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Northern Border Regional Commission Reauthorization Act of 2017”.
+This Act may be cited as the “Northern Border Regional Commission Reauthorization Act of 2018”.
 
 ## § 2. Administrative expenses of regional commissions
 
@@ -31,3 +31,9 @@ Section 15751(a) of title 40, United States Code, is amended by striking “2018
 ## § 5. Technical amendments
 
 Chapters 1, 2, 3, and 4 of subtitle V of title 40, United States Code, are redesignated as chapters 151, 153, 155, and 157, respectively.
+
+## § 6. Vacancies
+
+Section 15301 of title 40, United States Code, is amended by adding at the end the following:
+
+> - **(f)** *Succession* Subject to the time limitations set forth in section 3346 of title 5, United States Code, the Federal Cochairperson may designate a Federal employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.

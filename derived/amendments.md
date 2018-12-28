@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b) by striking “paragraphs (1) through (3)” and inserting “paragraph (1), (2), (3), or (7)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f) by striking the period at the end and inserting “, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 15751(a) of title 40, United States Code, is amended by striking “2018” and inserting “2023”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15301 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
