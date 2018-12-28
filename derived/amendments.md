@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4506
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 3 executed, 14 stated and not applied.
+16 amendatory instructions. 2 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 2992d
 
-> by striking “803(d)” each place it appears and inserting “803(e)”; and
+> Section 816 of the Native American Programs Act of 1974 (42 U.S.C. 2992d) is amended by striking “803(d)” each place it appears and inserting “803(e)”.
 
 | | |
 |---|---|
 | Removed | `803(d)` |
 | Inserted | `803(e)` |
-
-### 42 U.S.C. § 2992d
-
-> in subsection (a), by striking “1999, 2000, 2001, and 2002” and inserting “2018 through 2022”.
-
-| | |
-|---|---|
-| Removed | `1999, 2000, 2001, and 2002` |
-| Inserted | `2018 through 2022` |
 
 ## Stated, not applied
 
@@ -67,7 +58,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 4303` | strike | by striking “(referred to in this Act as the Office)”; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 4303` | strike | in paragraph (2), in the first sentence, by striking “(referred to in this Act as the Director)”; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 4303` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 4307` | redesignate | by redesignating section 8 (25 U.S.C. 4307) as section 10; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 4307` | redesignate | by redesignating section 8 (25 U.S.C. 4307) as section 9; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 4306` | insert | by inserting after section 7 (25 U.S.C. 4306) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 47` | amend | Section 23 of the Act of June 25, 1910 (commonly known as the “Buy Indian Act”) (36 Stat. 861, chapter 431; 25 U.S.C. 47), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2991b` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
