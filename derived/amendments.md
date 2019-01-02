@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4278
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 12 U.S.C. § 343
+### 12 U.S.C. § 347b
 
 > by striking “lowest discount rate” and inserting “highest discount rate”.
 
@@ -43,6 +43,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 355` | amend | Section 14(b) (12 U.S.C. 355) of the Federal Reserve Act (relating to “Purchase and sale of obligations of United States, States, counties, etc.”) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 343` | add-at-end | Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 343` | repeal | Section 10A of the Federal Reserve Act is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 343` | insert | by inserting “not ” before “secured by mortgage loans”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 343` | insert | Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) is amended by inserting after subparagraph (E) following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 347a` | repeal | Section 10A of the Federal Reserve Act (12 U.S.C. 347a) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 347b` | insert | by inserting “not ” before “secured by mortgage loans”; and | the bill quotes the text inserted but describes where it goes |
