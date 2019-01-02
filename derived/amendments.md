@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6741
 congress: 115
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -60,14 +60,14 @@ to guess them.
 | Removed | `Class B and Class C directors` |
 | Inserted | `board of directors` |
 
-### 12 U.S.C. § 225a
+### 12 U.S.C. § 247b
 
-> Section 2A of the Federal Reserve Act (12 U.S.C. 225a) is amended by striking “maximum employment, stable prices,” and inserting “stable prices”.
+> by striking “shall appear” and inserting “shall provide written testimony and appear”; and
 
 | | |
 |---|---|
-| Removed | `maximum employment, stable prices,` |
-| Inserted | `stable prices` |
+| Removed | `shall appear` |
+| Inserted | `shall provide written testimony and appear` |
 
 ## Stated, not applied
 
@@ -100,5 +100,5 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 248` | redesignate | by redesignating the second subsection (s) (relating to “Assessments, Fees, and Other Charges for Certain Companies”) as subsection (t); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 248` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 248` | add-at-end | Subsection (l) of section 11 of the Federal Reserve Act (12 U.S.C. 248) is amended by adding at the end the following: “Each member of the Board of Governors of the Federal Reserve System may employ, at a minimum, 2 individuals, with suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 247` | redesignate | by redesignating such paragraph as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 247` | add-at-end | in such paragraph, by adding at the end the following: “In each such appearance, the Vice Chairman for Supervision shall provide written testimony that includes the status of all pending and anticipated rulemakings that are being made by… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 247b` | redesignate | by redesignating such paragraph as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 247b` | add-at-end | by adding at the end the following: “If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Chairman or their designee shall appear instead and provide the required wri… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

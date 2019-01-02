@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6741
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6741
@@ -34,3 +34,10 @@ Federal Reserve Reform Act of 2018
 - 2018-09-07 — Introduced in House
 - 2018-09-07 — Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2018-09-07 — Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 21.
+- 2019-01-02 — Committee on Rules discharged.
+- 2019-01-02 — Committee on Rules discharged.
+- 2019-01-02 — Placed on the Union Calendar, Calendar No. 883.
+- 2019-01-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-1116, Part I.
+- 2019-01-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 115-1116, Part I.

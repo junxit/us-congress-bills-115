@@ -31,7 +31,7 @@ Section 12A of the Federal Reserve Act (12 U.S.C. 263) is amended—
   >       - **(ii)** An identification of 1 monetary policy instrument from the list in clause (i) that the Committee expects to use as the primary instrument for implementing the monetary policy strategy described under subparagraph (A).
   >   - **(2)** *Reference monetary policy rules* In addition to the monetary policy strategy required under paragraph (1), the Committee shall annually adopt at least 1 and not more than 3 reference monetary policy rules, each of which shall mathematically express how the primary monetary policy instrument identified under paragraph (1)(B)(ii) reacts to changes in a small and well-defined set of publicly available economic indicators.
   >   - **(3)** *Deviations* Nothing in this subsection shall be construed to prevent the Committee from setting short-term interest rate targets, conducting open-market operations, or paying earnings on balances pursuant to section 19(b)(12) in a manner that deviates from a monetary policy strategy or any reference monetary policy rules established under this subsection.
-  > - **(c)** *Testimony and reports of the Chairman* The Chairman shall, concurrent with each semi-annual hearing required under section 2B, submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, containing—
+  > - **(c)** *Testimony and reports of the Chairman* The Chairman shall, concurrent with each semi-annual hearing required under section 2B, submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives, containing—
   >   - **(1)** a statement as to whether the monetary policy strategy established under subsection (b)(1) qualitatively differs from any of the reference monetary policy rules required under subsection (b)(2) and, if applicable, a full and non-technical explanation of any such difference;
   >   - **(2)** a statement as to whether the Committee’s conduct of monetary policy since the previous report quantitatively differs from any reference monetary policy rule and, if applicable, a full and non-technical explanation of any such differences; and
   >   - **(3)** a description of—
@@ -74,17 +74,18 @@ Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)), as amended by secti
   - **(A)** by inserting “that pose a threat to the financial stability of the United States” after “unusual and exigent circumstances”; and
   - **(B)** by striking “the affirmative vote of not less than five members” and inserting “the prior approval of the Secretary of the Treasury and not less than 2/3 of the members of the Federal Open Market Committee”;
 - **(2)** in subparagraph (B)—
-  - **(A)** in clause (i), by inserting at the end the following:
+  - **(A)** by moving such subparagraph 4 ems to the left;
+  - **(B)** in clause (i), by inserting at the end the following:
     > Federal reserve banks may not accept equity securities issued by the recipient of any loan or other financial assistance under this paragraph as collateral. Not later than 6 months after the date of the enactment of this sentence, the Board shall, by rule, establish—
     > - **(I)** a method for determining the sufficiency of the collateral required under this paragraph;
     > - **(II)** acceptable classes of collateral;
     > - **(III)** the amount of any discount on the value of the collateral that the Federal reserve banks will apply for purposes of calculating the sufficiency of collateral under this paragraph; and
     > - **(IV)** a method for obtaining independent appraisals of the value of collateral the Federal reserve banks receive.
 
-  - **(B)** in clause (ii)—
+  - **(C)** in clause (ii)—
     - **(i)** by striking the second sentence; and
     - **(ii)** by inserting after the first sentence the following: “A borrower shall not be eligible to borrow from any emergency lending program or facility unless the Board and all Federal banking regulators with jurisdiction over the borrower certify that, at the time the borrower initially borrows under the program or facility, the borrower is not insolvent.”; and
-  - **(C)** by striking clause (iv);
+  - **(D)** by striking clause (iv);
 - **(3)** by inserting “financial institution” before “participant” each place such term appears;
 - **(4)** in subparagraph (D)(i), by inserting “financial institution” before “participants”; and
 - **(5)** by adding at the end the following new subparagraphs:
@@ -174,7 +175,7 @@ Section 12A of the Federal Reserve Act (12 U.S.C. 263), as amended by section 2,
 >     - **(A)** The dissemination of published data, surveys, and reports that have been cleared for publication by the Board of Governors of the Federal Reserve System.
 >     - **(B)** Answers to technical questions specific to a data release.
 >     - **(C)** Communications with respect to the prudential or supervisory functions of the Board of Governors.
->   - **(2)** *Blackout period defined* For purposes of this subsection, and with respect to a meeting of the Committee described under subsection (a), the term blackout period means the time period that—
+>   - **(2)** *Blackout period defined* For purposes of this subsection, and with respect to a meeting of the Committee described under subsection (a), the term “blackout period” means the time period that—
 >     - **(A)** begins immediately after midnight on the day that is one week prior to the date on which such meeting takes place; and
 >     - **(B)** ends at midnight on the day after the date on which such meeting takes place.
 >   - **(3)** *Exemption for chairman of the board of governors* Nothing in this section shall prohibit the Chairman of the Board of Governors of the Federal Reserve System from participating in or issuing public communications.
@@ -193,11 +194,9 @@ Section 12A of the Federal Reserve Act (12 U.S.C. 263), as amended by section 2,
 
 ## § 11. Vice Chairman for Supervision report requirement
 
-Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247(b)) is amended—
+Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247b) is amended—
 
 - **(1)** by redesignating such paragraph as paragraph (11); and
-- **(2)** in such paragraph, by adding at the end the following: “In each such appearance, the Vice Chairman for Supervision shall provide written testimony that includes the status of all pending and anticipated rulemakings that are being made by the Board of Governors of the Federal Reserve System. If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Vice Chairman for the Board of Governors of the Federal Reserve System (who has the responsibility to serve in the absence of the Chairman) shall appear instead and provide the required written testimony. If, at the time of any appearance described in this paragraph, both Vice Chairman positions are vacant, the Chairman of the Board of Governors of the Federal Reserve System shall appear instead and provide the required written testimony.”.
-
-## § 12. Removal of dual mandate
-
-Section 2A of the Federal Reserve Act (12 U.S.C. 225a) is amended by striking “maximum employment, stable prices,” and inserting “stable prices”.
+- **(2)** in such paragraph—
+  - **(A)** by striking “shall appear” and inserting “shall provide written testimony and appear”; and
+  - **(B)** by adding at the end the following: “If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Chairman or their designee shall appear instead and provide the required written testimony.”.
