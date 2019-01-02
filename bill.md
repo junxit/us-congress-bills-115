@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4278
 congress: 115th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,12 +31,12 @@ This Act may be cited as the “Independence from Credit Policy Act of 2017”.
   > - **(b)** To buy and sell in the open market, at home or abroad, under the direction and regulations of the Federal Open Market Committee, gold stock, Treasury currency, or direct obligations of the United States, foreign central banks, or the International Monetary Fund. Nothing in this subsection shall be construed to limit advances under section 10B, or discount loans under sections 13, 13A, or 24.
 
 - **(c)** *Maintaining a monetary policy balance sheet*
-  - **(1)** *Assets acquired under emergency lending* Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) is amended by adding at the end the following new subparagraph:
+  - **(1)** *Assets acquired under emergency lending* Section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) is amended by inserting after subparagraph (E) following new subparagraph:
     > - **(F)** Not later than 1 year after a Federal reserve bank acquires any assets under this paragraph that are neither gold nor direct obligations of the United States, foreign central banks, or the International Monetary Fund—
     >   - **(i)** the Board shall transfer such assets of the Federal reserve bank to the Department of the Treasury; and
     >   - **(ii)** the Secretary of the Treasury shall transfer to the Federal reserve banks direct obligations of the United States of equivalent market value to the assets described in clause (i).
 
-  - **(2)** *Repeal of authority to provide emergency advances to groups of member banks* Section 10A of the Federal Reserve Act is repealed.
-  - **(3)** *Assets acquired through advances to member banks* The second undesignated paragraph of subsection (a) of section 10B of the Federal Reserve Act is amended—
+  - **(2)** *Repeal of authority to provide emergency advances to groups of member banks* Section 10A of the Federal Reserve Act (12 U.S.C. 347a) is repealed.
+  - **(3)** *Assets acquired through advances to member banks* The second undesignated paragraph of subsection (a) of section 10B of the Federal Reserve Act (12 U.S.C. 347b(a)) is amended—
     - **(A)** by inserting “not ” before “secured by mortgage loans”; and
     - **(B)** by striking “lowest discount rate” and inserting “highest discount rate”.
