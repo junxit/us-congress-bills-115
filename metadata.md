@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2128
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2128
@@ -16,6 +16,10 @@ Due Process Restoration Act of 2017
 
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
+## Cosponsors (1)
+
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,8 @@ Due Process Restoration Act of 2017
 - 2017-04-25 — Introduced in House
 - 2017-04-25 — Introduced in House
 - 2017-04-25 — Referred to the House Committee on Financial Services.
+- 2018-09-13 — Committee Consideration and Mark-up Session Held.
+- 2018-09-13 — Ordered to be Reported by the Yeas and Nays: 31 - 20.
+- 2019-01-02 — Placed on the Union Calendar, Calendar No. 885.
+- 2019-01-02 — Reported by the Committee on Financial Services. H. Rept. 115-1118.
+- 2019-01-02 — Reported by the Committee on Financial Services. H. Rept. 115-1118.
