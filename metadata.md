@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4247
 congress: 115
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4247
@@ -25,3 +25,8 @@ Restoring Financial Market Freedom Act of 2017
 - 2017-11-03 — Introduced in House
 - 2017-11-03 — Introduced in House
 - 2017-11-03 — Referred to the House Committee on Financial Services.
+- 2017-11-15 — Committee Consideration and Mark-up Session Held.
+- 2017-11-15 — Ordered to be Reported by the Yeas and Nays: 33 - 25.
+- 2019-01-02 — Placed on the Union Calendar, Calendar No. 886.
+- 2019-01-02 — Reported by the Committee on Financial Services. H. Rept. 115-1119.
+- 2019-01-02 — Reported by the Committee on Financial Services. H. Rept. 115-1119.
