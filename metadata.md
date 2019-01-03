@@ -1,7 +1,7 @@
 ---
 measure: S. 141
 congress: 115
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 141
@@ -24,9 +24,14 @@ Space Weather Coordination Act
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (6)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Intelligence (Permanent Select) Committee
+- House — Foreign Affairs Committee
+- House — Transportation and Infrastructure Committee
+- House — Armed Services Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -45,3 +50,17 @@ Space Weather Coordination Act
 - 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2017-05-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Transportation and Infrastructure, Foreign Affairs, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2017-05-23 — Referred to the Subcommittee on Strategic Forces.
+- 2018-07-24 — Committee Consideration and Mark-up Session Held.
+- 2018-07-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-01-03 — Committee on Armed Services discharged.
+- 2019-01-03 — Committee on Armed Services discharged.
+- 2019-01-03 — Committee on Foreign Affairs discharged.
+- 2019-01-03 — Committee on Foreign Affairs discharged.
+- 2019-01-03 — Committee on Intelligence (Permanent) discharged.
+- 2019-01-03 — Committee on Intelligence (Permanent) discharged.
+- 2019-01-03 — Committee on Transportation discharged.
+- 2019-01-03 — Committee on Transportation discharged.
+- 2019-01-03 — Placed on the Union Calendar, Calendar No. 896.
+- 2019-01-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-1129, Part I.
+- 2019-01-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-1129, Part I.
